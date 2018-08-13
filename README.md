@@ -1,7 +1,7 @@
 ## Linguistic temporal trajectory analysis
 
 This is the companion website for the "Linguistic temporal trajectory analysis" workshop that we teach at the [2018 European Symposium Series on Societal Challenges
-in Computational Social Science](http://symposium.computationalsocialscience.eu/2018/). The workshop will provide participants with an overview of techniques and existing works related to Linguistic temporal trajectory analysis in R.
+in Computational Social Science](http://symposium.computationalsocialscience.eu/2018/). The workshop will provide participants with an overview of techniques and existing works related to linguistic temporal trajectory analysis in R.
 
 We welcome researchers from all disciplines working with text data that are interested in applying computational concepts in the social sciences (e.g., Psychology, Criminology, Computer Science, Linguistics, Digital Humanities, Political Science).
 

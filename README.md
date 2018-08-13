@@ -32,6 +32,6 @@ Participants should have some basic knowledge of the R programming software.
 
 ### Organisers
 
-|    ![Image of Yaktocat](bennett.jpg)     |    ![Image of Yaktocat](isabelle.jpg)    |     ![Image of Yaktocat](max.jpg)     |
+|    ![Bennett](bennett.jpg)     |    ![Isabelle](isabelle.jpg)    |     ![Max](max.jpg)     |
 | :--------------------------------------: | :--------------------------------------: | :-----------------------------------: |
 | [Bennett Kleinberg](http://bkleinberg.net) | [Isabelle van der Vegt](https://twitter.com/Isabellevdv) | [Maximilian Mozes](http://mmozes.net) |

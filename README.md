@@ -21,44 +21,44 @@ Note: this workshop consists of one **WORKSHOP + TUTORIAL** part (in the morning
 
 The preliminary workshop schedule is as follows:
 
-| WORKSHOP + TUTORIAL | (morning) |
+| WORKSHOP + TUTORIAL                      | (morning)         |
 | :--------------------------------------- | :---------------- |
-| Introduction to linguistic temporal trajectory analysis | 09:00 - 09:45     |
-| Rationale, the aim of the method, differences to existing approaches (e.g., simple sentiment analysis), levels of analysis  (trajectory of language use over time vs. dynamic intratextual linguistic analysis),  extensions: unsupervised (non-)hierarchical clustering of temporal patterns, supervised machine learning with temporal patterns, breakpoint estimation of non-stationary linguistic time series data. | Mini-lectures      |
-| **Examples of linguistic temporal trajectory analysis** | **10:00 - 10:30** |
+| **Introduction to linguistic temporal trajectory analysis** | **09:30 - 10:30** |
+| Rationale, the aim of the method, differences to existing approaches (e.g., simple sentiment analysis), levels of analysis  (trajectory of language use over time vs. dynamic intratextual linguistic analysis),  extensions: unsupervised (non-)hierarchical clustering of temporal patterns, supervised machine learning with temporal patterns, breakpoint estimation of non-stationary linguistic time series data. | Mini-lectures     |
+| **Examples of linguistic temporal trajectory analysis** | **10:30 - 11:15** |
 | Linguistic trajectories of far-right extremists,  intratextual sentiment analysis of narrative styles of YouTube vloggers, narrative trajectories in TED talks, emotional arcs of stories,  Intratextual sentiment analysis of lone-actor terrorists’ manifestos | Case-studies      |
-| **Linguistic trajectory analysis in R**  | **11:00 - 12:30** |
+| **Linguistic trajectory analysis in R**  | **11:30 - 13:00** |
 | Running LTTA on simple simulated data (using a plenary walk-through code example),  using LTTA on real data reproducing the analysis of our "narrative styles of YouTube vlogs" paper (individually or in teams under the guidance of the organizers) | Tutorial          |
-|   |  |
-| LUNCH BREAK  | 12:30 - 13:30 |
-|   |  |
-| **PAPER HACKATHON** | **(afternoon)** |
+|                                          |                   |
+| **LUNCH BREAK**                          | **13:00 - 14:30** |
+|                                          |                   |
+| **PAPER HACKATHON**                      | **14:30 - 18:00** |
 
 #### Paper hackathon
 
 Dataset provided uniquely for this session:
 
--	transcripts of all vlogs uploaded to YouTube by specific YouTubers.
--	Columns: vlogger ID, vlog transcript, vlog view count, vlog posting date.
--	Each row represents one vlog.
--	Features (extracted before due to time constraints for large datasets): part-of-speech tags, named entities, psycholinguistic variables (e.g., from the LIWC), valence-shifter sensitive sentiment
+-	Transcripts of all vlogs uploaded to YouTube by specific YouTubers.
+ -Columns: vlogger ID, vlog transcript, vlog view count, vlog posting date.
+ -Each row represents one vlog.
+ -Features (extracted before due to time constraints for large datasets): part-of-speech tags, named entities, psycholinguistic variables (e.g., from the LIWC), valence-shifter sensitive sentiment
 
 Research question: How does the language of YouTube's vloggers evolve?
 
 Possible sub-questions:
 
 -	Do YouTubers adapt their language style to the view count?
--	Is there a common trajectory of successful vloggers?
--	Does the linguistic trajectory evolution differ between gender/regions/target audience?
+ -Is there a common trajectory of successful vloggers?
+ -Does the linguistic trajectory evolution differ between gender/regions/target audience?
 
 Format:
 
 -	All workshop participants are provided with the dataset (GitHub repo and readme)
--	All participants have access to a shared Google Document for the paper
--	Participants and organizers brainstorm possible approaches
--	Work on the paper (e.g., distributed into introduction, dataset description, method, results, discussion)
--	All participants are co-authors of the paper (to be determined at random) with a detailed appendix on author contributions.
--	The workshop ends with a (nearly) ready draft of the paper which is posted on arXiv in its final form and jointly submitted to the _Journal of Computational Social Science_.
+ -All participants have access to a shared Google Document for the paper
+ -Participants and organizers brainstorm possible approaches
+ -Work on the paper (e.g., distributed into introduction, dataset description, method, results, discussion)
+ -All participants are co-authors of the paper (to be determined at random) with a detailed appendix on author contributions.
+ -The workshop ends with a (nearly) ready draft of the paper which is posted on arXiv in its final form and jointly submitted to the _Journal of Computational Social Science_.
 
 
 ### Prerequisites
@@ -67,10 +67,10 @@ Participants should have some basic knowledge of the _R_ or _python_ programming
 
 ### Organisers
 
-|    ![Bennett](./img/bennett.jpg)     |    ![Isabelle](./img/isabelle.jpg)    |     ![Max](./img/max.jpg)     |
-| :--------------------------------------: | :--------------------------------------: | :-----------------------------------: |
-| [Bennett Kleinberg](https://bkleinberg.net) | [Isabelle van der Vegt](https://twitter.com/Isabellevdv) | [Maximilian Mozes](http://mmozes.net) |
-| Assistant Professor in Data Science (University College London)  | PhD student (University College London) | MSc student (Technical University of Munich) |
+|      ![Bennett](./img/bennett.jpg)       |     ![Isabelle](./img/isabelle.jpg)      |          ![Max](./img/max.jpg)           |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| [Bennett Kleinberg](https://bkleinberg.net) | [Isabelle van der Vegt](https://twitter.com/Isabellevdv) |  [Maximilian Mozes](http://mmozes.net)   |
+| Assistant Professor in Data Science (University College London) | PhD student (University College London)  | BSc student (Technical University of Munich) |
 
 -----
 

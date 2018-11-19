@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:01,890
+hi my name<font color="#CCCCCC"> is Neha Shastri and</font><font color="#E5E5E5"> I'm a</font>
+
+2
+00:00:01,890 --> 00:00:04,200
+journalist at vice news<font color="#E5E5E5"> this week I'll</font>
+
+3
+00:00:04,200 --> 00:00:05,700
+be<font color="#E5E5E5"> joining on the</font><font color="#CCCCCC"> line to discuss my</font>
+
+4
+00:00:05,700 --> 00:00:07,319
+piece that<font color="#E5E5E5"> just dropped called India's</font>
+
+5
+00:00:07,319 --> 00:00:09,360
+mental health crisis<font color="#CCCCCC"> we traveled across</font>
+
+6
+00:00:09,360 --> 00:00:11,550
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> country and</font><font color="#E5E5E5"> found out how women are</font>
+
+7
+00:00:11,550 --> 00:00:13,200
+mistreated within India's mental
+
+8
+00:00:13,200 --> 00:00:15,360
+<font color="#CCCCCC">healthcare</font><font color="#E5E5E5"> system you're going</font><font color="#CCCCCC"> to any</font>
+
+9
+00:00:15,360 --> 00:00:18,300
+mental hospital in India you will find
+
+10
+00:00:18,300 --> 00:00:20,789
+that women<font color="#E5E5E5"> are there for life if you</font>
+
+11
+00:00:20,789 --> 00:00:22,590
+want to join<font color="#E5E5E5"> us</font><font color="#CCCCCC"> live let vice news know</font>
+
+12
+00:00:22,590 --> 00:00:24,869
+on skype or tweet<font color="#CCCCCC"> us with the hashtag on</font>
+
+13
+00:00:24,869 --> 00:00:00,000
+<font color="#E5E5E5">the line</font>
+

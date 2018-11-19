@@ -1,0 +1,328 @@
+1
+00:00:04,670 --> 00:00:07,830
+<font color="#E5E5E5">manopoly</font><font color="#CCCCCC"> a game</font><font color="#E5E5E5"> that provides both hours</font>
+
+2
+00:00:07,830 --> 00:00:09,780
+of entertainment<font color="#CCCCCC"> and a good excuse to</font>
+
+3
+00:00:09,780 --> 00:00:11,790
+<font color="#E5E5E5">ruthlessly cut down friends and family</font>
+
+4
+00:00:11,790 --> 00:00:14,070
+<font color="#E5E5E5">members and it turns out there are</font><font color="#CCCCCC"> a few</font>
+
+5
+00:00:14,070 --> 00:00:16,079
+math based tricks that make winning
+
+6
+00:00:16,079 --> 00:00:18,480
+easier<font color="#E5E5E5"> monopoly is a classic</font><font color="#CCCCCC"> game of</font>
+
+7
+00:00:18,480 --> 00:00:20,369
+chance<font color="#E5E5E5"> which means moves can</font><font color="#CCCCCC"> be</font>
+
+8
+00:00:20,369 --> 00:00:22,619
+estimated<font color="#CCCCCC"> with probability calculations</font>
+
+9
+00:00:22,619 --> 00:00:25,170
+<font color="#E5E5E5">we can</font><font color="#CCCCCC"> use them</font><font color="#E5E5E5"> to actually determine</font>
+
+10
+00:00:25,170 --> 00:00:27,480
+where the board's<font color="#CCCCCC"> hotspots are and how</font>
+
+11
+00:00:27,480 --> 00:00:29,420
+well specific investments can<font color="#E5E5E5"> pay off</font>
+
+12
+00:00:29,420 --> 00:00:31,830
+<font color="#E5E5E5">first off you need to understand the</font>
+
+13
+00:00:31,830 --> 00:00:34,410
+<font color="#E5E5E5">vehicle of the game</font><font color="#CCCCCC"> the dice</font><font color="#E5E5E5"> basic</font>
+
+14
+00:00:34,410 --> 00:00:36,390
+probability tells us rolling<font color="#E5E5E5"> two dice</font>
+
+15
+00:00:36,390 --> 00:00:38,520
+will result in a<font color="#E5E5E5"> seven more often than</font>
+
+16
+00:00:38,520 --> 00:00:40,860
+any other<font color="#E5E5E5"> number so right off the first</font>
+
+17
+00:00:40,860 --> 00:00:42,809
+roll of<font color="#CCCCCC"> the game you're most likely to</font>
+
+18
+00:00:42,809 --> 00:00:45,180
+<font color="#E5E5E5">land on one</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> these spots you can also</font>
+
+19
+00:00:45,180 --> 00:00:47,309
+use this trick<font color="#CCCCCC"> to plan when and where to</font>
+
+20
+00:00:47,309 --> 00:00:49,620
+<font color="#E5E5E5">build houses if you just landed on New</font>
+
+21
+00:00:49,620 --> 00:00:51,180
+York Avenue and there's someone<font color="#E5E5E5"> behind</font>
+
+22
+00:00:51,180 --> 00:00:53,460
+you on<font color="#E5E5E5"> st. Charles place it might be a</font>
+
+23
+00:00:53,460 --> 00:00:55,890
+good time<font color="#CCCCCC"> to build some property chance</font>
+
+24
+00:00:55,890 --> 00:00:58,320
+and Community Chest cards<font color="#E5E5E5"> also have a</font>
+
+25
+00:00:58,320 --> 00:01:00,539
+big<font color="#CCCCCC"> effect on</font><font color="#E5E5E5"> the game any of five</font>
+
+26
+00:01:00,539 --> 00:01:02,190
+things may happen<font color="#E5E5E5"> to you when you draw</font>
+
+27
+00:01:02,190 --> 00:01:04,140
+one of these<font color="#E5E5E5"> cards</font><font color="#CCCCCC"> you either pay money</font>
+
+28
+00:01:04,140 --> 00:01:07,380
+<font color="#E5E5E5">receive money go to jail get out</font><font color="#CCCCCC"> of jail</font>
+
+29
+00:01:07,380 --> 00:01:09,330
+<font color="#E5E5E5">or move</font><font color="#CCCCCC"> to a different</font><font color="#E5E5E5"> spot on the board</font>
+
+30
+00:01:09,330 --> 00:01:12,540
+<font color="#CCCCCC">9</font><font color="#E5E5E5"> of the</font><font color="#CCCCCC"> 16 cards in each deck require</font>
+
+31
+00:01:12,540 --> 00:01:14,729
+you to move<font color="#E5E5E5"> specifically to one of these</font>
+
+32
+00:01:14,729 --> 00:01:17,250
+<font color="#CCCCCC">spaces aside from pulling an unlucky</font>
+
+33
+00:01:17,250 --> 00:01:19,350
+card<font color="#E5E5E5"> you can also get sent to jail if</font>
+
+34
+00:01:19,350 --> 00:01:22,080
+<font color="#CCCCCC">you land</font><font color="#E5E5E5"> on the go to jail space or if</font>
+
+35
+00:01:22,080 --> 00:01:24,240
+you roll three doubles in a row known<font color="#CCCCCC"> in</font>
+
+36
+00:01:24,240 --> 00:01:26,460
+the game as speeding this can happen
+
+37
+00:01:26,460 --> 00:01:28,170
+more<font color="#E5E5E5"> often than you think the</font>
+
+38
+00:01:28,170 --> 00:01:30,000
+<font color="#E5E5E5">probability</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> rolling three doubles is</font>
+
+39
+00:01:30,000 --> 00:01:32,880
+about<font color="#E5E5E5"> 0.4%</font><font color="#CCCCCC"> but multiply it over the</font>
+
+40
+00:01:32,880 --> 00:01:33,600
+course of<font color="#E5E5E5"> a game</font>
+
+41
+00:01:33,600 --> 00:01:36,600
+<font color="#E5E5E5">or 50 player turns it gives you a 20%</font>
+
+42
+00:01:36,600 --> 00:01:38,610
+<font color="#CCCCCC">chance</font><font color="#E5E5E5"> of going to</font><font color="#CCCCCC"> prison</font><font color="#E5E5E5"> for speeding</font>
+
+43
+00:01:38,610 --> 00:01:40,049
+<font color="#E5E5E5">so watch it Punk</font>
+
+44
+00:01:40,049 --> 00:01:42,240
+with<font color="#E5E5E5"> four possible routes</font><font color="#CCCCCC"> you're more</font>
+
+45
+00:01:42,240 --> 00:01:43,979
+likely to<font color="#E5E5E5"> land on jail than</font><font color="#CCCCCC"> any</font><font color="#E5E5E5"> other</font>
+
+46
+00:01:43,979 --> 00:01:46,500
+individual space it's actually<font color="#CCCCCC"> the most</font>
+
+47
+00:01:46,500 --> 00:01:48,030
+visited space on the board
+
+48
+00:01:48,030 --> 00:01:50,040
+this means the<font color="#CCCCCC"> roll following jail is</font>
+
+49
+00:01:50,040 --> 00:01:52,229
+also frequently visited specifically
+
+50
+00:01:52,229 --> 00:01:54,750
+these spots<font color="#E5E5E5"> taking into account our roll</font>
+
+51
+00:01:54,750 --> 00:01:57,390
+probability stats<font color="#E5E5E5"> so with all this data</font>
+
+52
+00:01:57,390 --> 00:01:59,700
+<font color="#E5E5E5">we</font><font color="#CCCCCC"> can actually figure exact percentages</font>
+
+53
+00:01:59,700 --> 00:02:02,369
+for how often<font color="#E5E5E5"> each spot is visited the</font>
+
+54
+00:02:02,369 --> 00:02:04,409
+high levels<font color="#E5E5E5"> of traffic in these areas</font>
+
+55
+00:02:04,409 --> 00:02:06,299
+mean they're probably<font color="#E5E5E5"> a good place</font><font color="#CCCCCC"> to</font>
+
+56
+00:02:06,299 --> 00:02:08,489
+invest<font color="#CCCCCC"> whereas you may want to stay away</font>
+
+57
+00:02:08,489 --> 00:02:09,919
+from these neighborhoods
+
+58
+00:02:09,919 --> 00:02:11,720
+so now we know<font color="#E5E5E5"> where</font><font color="#CCCCCC"> the prime real</font>
+
+59
+00:02:11,720 --> 00:02:13,880
+estate<font color="#E5E5E5"> is but how much</font><font color="#CCCCCC"> should we cash in</font>
+
+60
+00:02:13,880 --> 00:02:16,250
+on these locations<font color="#CCCCCC"> blogger Truman</font>
+
+61
+00:02:16,250 --> 00:02:18,200
+Collins use the probabilities<font color="#CCCCCC"> of landing</font>
+
+62
+00:02:18,200 --> 00:02:19,790
+on each space<font color="#E5E5E5"> to calculate the</font>
+
+63
+00:02:19,790 --> 00:02:21,709
+approximate<font color="#CCCCCC"> number of opponent</font><font color="#E5E5E5"> rolls</font><font color="#CCCCCC"> it</font>
+
+64
+00:02:21,709 --> 00:02:23,720
+would take to earn back any investment
+
+65
+00:02:23,720 --> 00:02:26,240
+the<font color="#CCCCCC"> spaces in red show faster recoup</font>
+
+66
+00:02:26,240 --> 00:02:28,250
+costs<font color="#CCCCCC"> as you can see you shouldn't</font>
+
+67
+00:02:28,250 --> 00:02:30,500
+<font color="#E5E5E5">hesitate to build that third house</font><font color="#CCCCCC"> or to</font>
+
+68
+00:02:30,500 --> 00:02:31,970
+buy those additional railroads
+
+69
+00:02:31,970 --> 00:02:35,390
+so to recap<font color="#CCCCCC"> remember that</font><font color="#E5E5E5"> 6 7 &</font><font color="#CCCCCC"> 8 are</font>
+
+70
+00:02:35,390 --> 00:02:37,640
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> most commonly rolled numbers you can</font>
+
+71
+00:02:37,640 --> 00:02:39,709
+<font color="#E5E5E5">use this to trap trailing opponents into</font>
+
+72
+00:02:39,709 --> 00:02:42,080
+<font color="#E5E5E5">paying rent jail is the axis of the</font>
+
+73
+00:02:42,080 --> 00:02:43,940
+board<font color="#E5E5E5"> meaning the property's following</font>
+
+74
+00:02:43,940 --> 00:02:46,040
+it are frequently visited specifically
+
+75
+00:02:46,040 --> 00:02:49,400
+these<font color="#E5E5E5"> ones</font><font color="#CCCCCC"> by them 3 houses</font><font color="#E5E5E5"> is the sweet</font>
+
+76
+00:02:49,400 --> 00:02:51,769
+<font color="#E5E5E5">spot in all cases but one building</font><font color="#CCCCCC"> 3</font>
+
+77
+00:02:51,769 --> 00:02:53,510
+<font color="#E5E5E5">houses will allow you to recover your</font>
+
+78
+00:02:53,510 --> 00:02:55,580
+<font color="#E5E5E5">investment the quickest keeping this</font>
+
+79
+00:02:55,580 --> 00:02:56,989
+math in mind you'll<font color="#CCCCCC"> be ruling</font><font color="#E5E5E5"> the</font>
+
+80
+00:02:56,989 --> 00:02:59,690
+Monopoly board<font color="#CCCCCC"> in no time</font><font color="#E5E5E5"> just try not</font>
+
+81
+00:02:59,690 --> 00:03:02,650
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> let</font><font color="#E5E5E5"> it go to your head</font>
+
+82
+00:03:11,840 --> 00:00:00,000
+you
+

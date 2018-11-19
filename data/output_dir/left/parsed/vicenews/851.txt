@@ -1,0 +1,235 @@
+tomorrow Facebook will continue its
+congressional testimony and appear
+before the Senate Intelligence Committee
+to discuss the company's ad platform the
+mostly automated behemoth that's brought
+Facebook more than forty four billion
+dollars in revenue over the past two
+years and that a pro-kremlin troll farm
+exploited to purchase hate and live
+filled ads during the 2016 election the
+idea that in a fake news on Facebook
+influence the election in any way I
+think is a pretty crazy idea initially
+Zuckerberg and Facebook were dismissive
+that fake news and unregulated ads
+played any role in the 2016 election but
+over time their tone has changed things
+happened on our platform in this
+election that should not have happened
+especially and very troubling foreign
+interference in a democratic election I
+care deeply about the democratic process
+and protecting its integrity
+Facebook's mission is all about giving
+people a voice and bring people closer
+together the Senate is focusing on
+Facebook's role in the election but
+several people inside the company told
+vice news they're concerned that the
+inquiry will dredge up something much
+deeper a decade-long pattern of reckless
+product rollouts embarrassing exposures
+and denials that put profit first and
+Facebook's two billion users last
+in 2007 Facebook released an ad product
+called beacon it would track you
+effectively on other websites that had
+partnered with Facebook it would send
+information about your actions on these
+sites to Facebook and then Facebook
+would post something to your feed about
+what you had been doing when beacon
+began that process would happen
+automatically and not require users
+consent users who bought movie tickets
+on Fandango would have the movie they
+saw posted to their timeline one user
+had his surprise Christmas gift ruined
+when the ring he bought on overstock.com
+was posted to his timeline and his wife
+saw it there was an almost immediate
+backlash against beacon which prompted
+Facebook to assure users that they could
+opt out except as Stephan Berto
+discovered I was recording the network
+traffic that was going back and forth
+between my computer and these websites
+and Facebook and I was a little bit
+concerned to find out that detailed
+information about my Facebook user name
+my email address and the exactly the
+infirmity actions I was taking on these
+websites was being sent to Facebook they
+explicitly claimed that they were not
+doing that which constitutes a lie to
+their user base for which they later had
+to apologize in 2009 Facebook agreed to
+pay 9.5 million dollars to settle a
+class-action suit brought by users
+beacon was the first sign that inside
+Facebook user privacy was not a priority
+even to those whose job it was to
+protect it unlike most of the other
+corporate privacy teams I had spoken to
+they seemed very focused on how they
+could get us to stop calling them a
+threat perhaps a bit more than how they
+might actually protect people's privacy
+two years after beacon Facebook
+announced a change to its privacy policy
+suddenly a user's friend's gender
+current city and even profile photos
+became publicly available by default
+this to us felt very much like a bait
+and switch
+mark rothenburg leads the Electronic
+Privacy Information Center or
+EPIK alarmed by the sudden privacy
+change epic filed a 29 page complaint
+with the FTC what we uncovered was the
+effort of Facebook to change those
+privacy settings to make user
+information more widely available than
+they had intended doing the privacy
+change for 350 million users but
+criticism over Facebook's ever-changing
+privacy settings grew Facebook's recent
+changes to its privacy policy run a
+serious risk of taking control of one's
+personal information away from the user
+and the whole tenets of Facebook has
+been that you control your information
+the FTC eventually sided with epic
+creating a consent order that required
+Facebook to get users express consent
+before sharing their personal
+information but rothenburg says the FTC
+never enforced the order that sends a
+message to the companies that even the
+regulators even the consumer protection
+agencies aren't going to act to protect
+the interests of consumers and that
+can't be right in 2011 Facebook released
+tag suggestions the facial recognition
+software allowed Facebook to tag users
+and shared photos automatically users
+were opted in by default
+how can you users make an informed
+decision if you don't actually tell them
+in their privacy settings they're using
+facial recognition this is a 2012
+hearing on Facebook's use of facial
+recognition that nowhere does it talk
+about facial recognition
+okay page right you haven't done that so
+I mean I've done that I had I didn't
+create the the visual so I I don't know
+that but I can tell you that what
+haven't you done so I'm sorry I just
+haven't seen the visual so senator
+Franken tasked us with researching how
+private companies were using face
+recognition technology
+alvaro Bedoya was chief counsel for
+Minnesota senator Al Franken we realized
+that Facebook had created the world's
+this commercial face recognition
+database without their permission you
+can clear your browsing history you can
+delete your cookies and you can turn off
+your smartphone you cannot delete your
+face Facebook is not collecting this
+information for benign purposes their
+goal is to be able to track everything
+we do not just in our online world but
+in person as well Jay Adelson is leading
+a class action against the company in
+the United States alleging Facebook
+violated Illinois's biometric
+information Privacy Act when it scanned
+users pictures to create face templates
+without telling them Facebook has filed
+a motion to dismiss the litigation
+Illinois has the best law in the country
+when it comes to biometrics it's a very
+simple law to comply with according to
+court filings internal Facebook
+documents appear to show that Zuckerberg
+was frustrated with product delays in
+that quote we didn't identify privacy
+questions earlier once they realized
+that they weren't going to get out of
+the suit quickly they hired a bunch of
+lobbyists to come in and amend the bill
+which would basically got it I think
+their goal was to not just got it from
+the future but to cut it retroactive Lee
+which would end up killing our lawsuit
+if Facebook succeeds in gutting our
+nation's strongest biometric privacy law
+they're gonna open up a Pandora's box of
+privacy violations it's that Illinois
+privacy law that keeps strangers from
+pointing a camera at you and using face
+recognition to identify you by name
+Facebook declined to comment on this
+piece but last Friday it announced plans
+to change the way it deals with
+political ads political advertisers will
+now have to verify their identity and
+Facebook is building machine learning to
+help identify those who don't this isn't
+a new process for Facebook Facebook can
+regulate ads on its platform and it does
+do so every day alcohol ads are heavily
+regulated in every country in the world
+Facebook programmatically by by which I
+mean using code goes through all of its
+ads figures out which are probably for
+alcohol-related stuff and then apply a
+set of rules but are particular to that
+country or you know that particular
+to the market and in a very similar way
+they could do the same thing in the
+political sphere if if they wanted to
+Facebook has also promised to hire 250
+additional employees to help something
+that has previously been hesitant to do
+when I ran the team believe it or not at
+the end of every quarter the key graph
+that I had to show Cheryl was the number
+of ads being policed effectively going
+up and to the right right we're
+reviewing more and more ads and the
+number of people employed in the team
+being flat in other words we're handling
+more capacity with the same number of
+people or fewer so far us regulators
+have lagged behind their European
+counterparts and reigning in tech
+companies it's unclear if these hearings
+represent a new tack or the return of a
+familiar pattern the moment you lift a
+finger to regulate a company like
+Facebook on Capitol Hill you will be met
+by an army of lobbyists and lobbying
+will continue to stop these efforts
+unless we as a whole decide to regulate
+these companies in a meaningful
+common-sense way if I look you up or get
+information about you I just go to the
+Facebook and type in your name and it
+brings me out like hopefully all the
+information I'd care to know about you
+Facebook began by giving away its
+product and preaching the gospel of
+sharing 13 years later it's one of the
+world's most profitable companies with
+unprecedented powers of surveillance
+over its two billion users that means
+that at least for now Facebook knows a
+lot more about the members of Congress
+who might regulate it than the members
+of Congress know about Facebook
+you

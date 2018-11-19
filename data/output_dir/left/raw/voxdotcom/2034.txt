@@ -1,0 +1,768 @@
+1
+00:00:00,000 --> 00:00:02,370
+if you are to put sports and<font color="#E5E5E5"> games on a</font>
+
+2
+00:00:02,370 --> 00:00:04,500
+continuum where the outcomes<font color="#E5E5E5"> reflect</font>
+
+3
+00:00:04,500 --> 00:00:07,140
+<font color="#E5E5E5">pure skill on the right side and</font><font color="#CCCCCC"> cure</font>
+
+4
+00:00:07,140 --> 00:00:09,570
+luck on the left side<font color="#E5E5E5"> where</font><font color="#CCCCCC"> would the</font>
+
+5
+00:00:09,570 --> 00:00:12,120
+big team sports go<font color="#E5E5E5"> somewhere in the</font>
+
+6
+00:00:12,120 --> 00:00:14,910
+<font color="#CCCCCC">middle</font><font color="#E5E5E5"> right but in what order there's</font>
+
+7
+00:00:14,910 --> 00:00:16,710
+actually a way<font color="#CCCCCC"> to estimate</font><font color="#E5E5E5"> that using</font>
+
+8
+00:00:16,710 --> 00:00:19,109
+statistics and this is where they end up
+
+9
+00:00:19,109 --> 00:00:21,539
+what you find is<font color="#CCCCCC"> the NBA's the sport</font>
+
+10
+00:00:21,539 --> 00:00:23,279
+that's<font color="#E5E5E5"> farthest away from random and</font>
+
+11
+00:00:23,279 --> 00:00:24,930
+then you go down<font color="#E5E5E5"> the line hockey is</font>
+
+12
+00:00:24,930 --> 00:00:26,369
+<font color="#E5E5E5">actually to support those closest</font><font color="#CCCCCC"> to</font>
+
+13
+00:00:26,369 --> 00:00:28,560
+randomness<font color="#CCCCCC"> Michael mobizen</font><font color="#E5E5E5"> did these</font>
+
+14
+00:00:28,560 --> 00:00:30,390
+<font color="#E5E5E5">calculations</font><font color="#CCCCCC"> for his book</font><font color="#E5E5E5"> the success</font>
+
+15
+00:00:30,390 --> 00:00:33,090
+equation<font color="#CCCCCC"> and his</font><font color="#E5E5E5"> findings remind us what</font>
+
+16
+00:00:33,090 --> 00:00:37,430
+<font color="#E5E5E5">we love so</font><font color="#CCCCCC"> much about</font><font color="#E5E5E5"> these sports</font>
+
+17
+00:00:38,330 --> 00:00:44,220
+[Applause]
+
+18
+00:00:44,220 --> 00:00:46,870
+[Music]
+
+19
+00:00:46,870 --> 00:00:49,160
+mobis<font color="#CCCCCC"> ins continuum is based on the</font>
+
+20
+00:00:49,160 --> 00:00:51,140
+regular<font color="#CCCCCC"> season for each league</font><font color="#E5E5E5"> and he</font>
+
+21
+00:00:51,140 --> 00:00:52,940
+found that<font color="#E5E5E5"> skill explains less than half</font>
+
+22
+00:00:52,940 --> 00:00:55,550
+of the season standings<font color="#CCCCCC"> for the NHL</font><font color="#E5E5E5"> but</font>
+
+23
+00:00:55,550 --> 00:00:57,650
+that's not to<font color="#E5E5E5"> say hockey players are any</font>
+
+24
+00:00:57,650 --> 00:00:59,990
+less skilled<font color="#E5E5E5"> all these players all these</font>
+
+25
+00:00:59,990 --> 00:01:03,020
+<font color="#E5E5E5">athletes are amazing amazing and almost</font>
+
+26
+00:01:03,020 --> 00:01:07,670
+inconceivable how good they are<font color="#E5E5E5"> the</font>
+
+27
+00:01:07,670 --> 00:01:09,260
+continuum doesn't tell us how skilled
+
+28
+00:01:09,260 --> 00:01:11,210
+the players are it's<font color="#CCCCCC"> more like how well</font>
+
+29
+00:01:11,210 --> 00:01:14,030
+their sport measures their skills<font color="#CCCCCC"> so a</font>
+
+30
+00:01:14,030 --> 00:01:15,830
+big factor is the sample size<font color="#CCCCCC"> or the</font>
+
+31
+00:01:15,830 --> 00:01:17,780
+<font color="#CCCCCC">number of games in a season Major League</font>
+
+32
+00:01:17,780 --> 00:01:20,810
+<font color="#E5E5E5">Baseball teams play 162 games</font><font color="#CCCCCC"> compare</font>
+
+33
+00:01:20,810 --> 00:01:23,570
+<font color="#CCCCCC">that to the NFL where teams play only</font><font color="#E5E5E5"> 16</font>
+
+34
+00:01:23,570 --> 00:01:25,940
+games<font color="#CCCCCC"> the small sample size pushes</font>
+
+35
+00:01:25,940 --> 00:01:27,710
+football towards the left side<font color="#CCCCCC"> of the</font>
+
+36
+00:01:27,710 --> 00:01:29,869
+continuum<font color="#CCCCCC"> since it's harder for</font><font color="#E5E5E5"> skill to</font>
+
+37
+00:01:29,869 --> 00:01:32,619
+emerge from the<font color="#E5E5E5"> noise with so few trials</font>
+
+38
+00:01:32,619 --> 00:01:34,790
+<font color="#E5E5E5">but the number of games doesn't explain</font>
+
+39
+00:01:34,790 --> 00:01:35,420
+everything
+
+40
+00:01:35,420 --> 00:01:38,479
+<font color="#CCCCCC">both the NHL and the NBA play 82 games</font>
+
+41
+00:01:38,479 --> 00:01:40,880
+in a season<font color="#CCCCCC"> so their placement</font><font color="#E5E5E5"> has more</font>
+
+42
+00:01:40,880 --> 00:01:42,290
+to do with<font color="#CCCCCC"> the dynamics of the game</font>
+
+43
+00:01:42,290 --> 00:01:44,690
+itself<font color="#E5E5E5"> like the number of chances teams</font>
+
+44
+00:01:44,690 --> 00:01:46,670
+have to score during<font color="#E5E5E5"> the game that's</font>
+
+45
+00:01:46,670 --> 00:01:50,720
+<font color="#E5E5E5">another type of sample size basketballs</font>
+
+46
+00:01:50,720 --> 00:01:52,340
+are coming down and<font color="#CCCCCC"> every shot clock</font><font color="#E5E5E5"> and</font>
+
+47
+00:01:52,340 --> 00:01:53,960
+they have to take<font color="#E5E5E5"> lots of shots</font><font color="#CCCCCC"> four</font><font color="#E5E5E5"> to</font>
+
+48
+00:01:53,960 --> 00:01:54,230
+shoot
+
+49
+00:01:54,230 --> 00:01:57,770
+<font color="#CCCCCC">DeLorean fires the Forsett a shot so</font>
+
+50
+00:01:57,770 --> 00:01:59,060
+there's a lot<font color="#E5E5E5"> of samples that go back</font>
+
+51
+00:01:59,060 --> 00:02:00,620
+and<font color="#E5E5E5"> forth</font><font color="#CCCCCC"> ice</font><font color="#E5E5E5"> hockey of course it's much</font>
+
+52
+00:02:00,620 --> 00:02:03,380
+more fluid that the possessions are much
+
+53
+00:02:03,380 --> 00:02:06,590
+more<font color="#CCCCCC"> discrete they don't even have a way</font>
+
+54
+00:02:06,590 --> 00:02:08,389
+to measure possessions<font color="#E5E5E5"> in hockey which</font>
+
+55
+00:02:08,389 --> 00:02:09,560
+gives you a<font color="#E5E5E5"> sense of how little</font>
+
+56
+00:02:09,560 --> 00:02:14,360
+<font color="#CCCCCC">sustained control those players have the</font>
+
+57
+00:02:14,360 --> 00:02:16,880
+number of players matters<font color="#CCCCCC"> to tennis is a</font>
+
+58
+00:02:16,880 --> 00:02:18,709
+sport<font color="#E5E5E5"> where skill plays a much bigger</font>
+
+59
+00:02:18,709 --> 00:02:21,049
+role<font color="#E5E5E5"> in large part because there simply</font>
+
+60
+00:02:21,049 --> 00:02:24,310
+aren't many people<font color="#E5E5E5"> involved</font>
+
+61
+00:02:24,310 --> 00:02:26,690
+that's why<font color="#E5E5E5"> Serena Williams could hold</font>
+
+62
+00:02:26,690 --> 00:02:28,310
+the<font color="#E5E5E5"> number-one-ranked for a hundred</font>
+
+63
+00:02:28,310 --> 00:02:30,890
+eighty six consecutive weeks<font color="#E5E5E5"> from 2013</font>
+
+64
+00:02:30,890 --> 00:02:31,730
+to 2016
+
+65
+00:02:31,730 --> 00:02:34,430
+when<font color="#CCCCCC"> skilled dominates</font><font color="#E5E5E5"> outcomes are more</font>
+
+66
+00:02:34,430 --> 00:02:37,250
+<font color="#E5E5E5">predictable in a sport like swimming or</font>
+
+67
+00:02:37,250 --> 00:02:39,110
+sprinting the activities are even more
+
+68
+00:02:39,110 --> 00:02:41,930
+individual essentially racing a clock<font color="#E5E5E5"> so</font>
+
+69
+00:02:41,930 --> 00:02:43,220
+there's<font color="#CCCCCC"> nothing standing between the</font>
+
+70
+00:02:43,220 --> 00:02:46,190
+athletes<font color="#E5E5E5"> still and their</font><font color="#CCCCCC"> ranking</font><font color="#E5E5E5"> but in</font>
+
+71
+00:02:46,190 --> 00:02:47,810
+team sports<font color="#E5E5E5"> you</font><font color="#CCCCCC"> have more players and</font>
+
+72
+00:02:47,810 --> 00:02:49,430
+lots of<font color="#E5E5E5"> interactions and what matters</font>
+
+73
+00:02:49,430 --> 00:02:51,410
+<font color="#E5E5E5">isn't just how many are</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> the field at</font>
+
+74
+00:02:51,410 --> 00:02:54,050
+a<font color="#CCCCCC"> time but how possession is distributed</font>
+
+75
+00:02:54,050 --> 00:02:55,940
+among<font color="#CCCCCC"> the</font><font color="#E5E5E5"> team's players over the course</font>
+
+76
+00:02:55,940 --> 00:02:58,700
+of<font color="#E5E5E5"> the game baseball requires nine</font>
+
+77
+00:02:58,700 --> 00:03:01,270
+hitters on a team to take turns<font color="#E5E5E5"> at</font><font color="#CCCCCC"> that</font>
+
+78
+00:03:01,270 --> 00:03:03,560
+<font color="#CCCCCC">ideal B wouldn't</font><font color="#E5E5E5"> it be awesome if our</font>
+
+79
+00:03:03,560 --> 00:03:05,390
+best hitter hit every single<font color="#CCCCCC"> time</font><font color="#E5E5E5"> right</font>
+
+80
+00:03:05,390 --> 00:03:07,280
+and we have our weaker players never
+
+81
+00:03:07,280 --> 00:03:10,400
+play at all<font color="#CCCCCC"> in</font><font color="#E5E5E5"> basketball</font><font color="#CCCCCC"> in the sense</font>
+
+82
+00:03:10,400 --> 00:03:12,920
+<font color="#E5E5E5">you can do a little bit of that not</font>
+
+83
+00:03:12,920 --> 00:03:14,660
+quite<font color="#CCCCCC"> but</font><font color="#E5E5E5"> you can have LeBron James</font>
+
+84
+00:03:14,660 --> 00:03:17,120
+playing most of<font color="#E5E5E5"> the game</font><font color="#CCCCCC"> whereas the</font>
+
+85
+00:03:17,120 --> 00:03:18,830
+very<font color="#E5E5E5"> best hockey players Sidney Crosby</font>
+
+86
+00:03:18,830 --> 00:03:21,380
+<font color="#E5E5E5">can be on the ice</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> know 20 to 23</font>
+
+87
+00:03:21,380 --> 00:03:23,540
+minutes per game he's their superstar
+
+88
+00:03:23,540 --> 00:03:25,640
+hockey is inherently really fast<font color="#E5E5E5"> and</font>
+
+89
+00:03:25,640 --> 00:03:27,860
+erratic<font color="#CCCCCC"> so</font><font color="#E5E5E5"> even the</font><font color="#CCCCCC"> best</font><font color="#E5E5E5"> players need to</font>
+
+90
+00:03:27,860 --> 00:03:29,990
+<font color="#E5E5E5">rest</font><font color="#CCCCCC"> and that</font><font color="#E5E5E5"> puts some limits on how</font>
+
+91
+00:03:29,990 --> 00:03:31,670
+much their skill can influence the
+
+92
+00:03:31,670 --> 00:03:35,690
+<font color="#E5E5E5">result whereas in football</font><font color="#CCCCCC"> you have</font><font color="#E5E5E5"> the</font>
+
+93
+00:03:35,690 --> 00:03:37,580
+quarterback involved in every offensive
+
+94
+00:03:37,580 --> 00:03:39,800
+play I think<font color="#CCCCCC"> that football does</font><font color="#E5E5E5"> boil</font>
+
+95
+00:03:39,800 --> 00:03:41,750
+down<font color="#CCCCCC"> to a few</font><font color="#E5E5E5"> skill players typically</font>
+
+96
+00:03:41,750 --> 00:03:43,130
+and I would really say probably the
+
+97
+00:03:43,130 --> 00:03:45,260
+quarterback head coach combination
+
+98
+00:03:45,260 --> 00:03:47,000
+<font color="#E5E5E5">becomes the most important determinant</font>
+
+99
+00:03:47,000 --> 00:03:49,880
+<font color="#CCCCCC">or</font><font color="#E5E5E5"> a predictor of success and then you</font>
+
+100
+00:03:49,880 --> 00:03:51,170
+have the<font color="#E5E5E5"> question of the talent team</font>
+
+101
+00:03:51,170 --> 00:03:54,110
+basketball<font color="#E5E5E5"> inherently rewards unusually</font>
+
+102
+00:03:54,110 --> 00:03:56,300
+tall players<font color="#E5E5E5"> this chart</font><font color="#CCCCCC"> shows the height</font>
+
+103
+00:03:56,300 --> 00:03:57,920
+and weight<font color="#CCCCCC"> of</font><font color="#E5E5E5"> different positions in</font>
+
+104
+00:03:57,920 --> 00:03:59,959
+<font color="#E5E5E5">different</font><font color="#CCCCCC"> leagues</font><font color="#E5E5E5"> these are the NBA</font>
+
+105
+00:03:59,959 --> 00:04:01,910
+players<font color="#CCCCCC"> and here's the height of the</font>
+
+106
+00:04:01,910 --> 00:04:03,310
+average American male
+
+107
+00:04:03,310 --> 00:04:05,170
+so what happens is<font color="#CCCCCC"> you shrink your</font>
+
+108
+00:04:05,170 --> 00:04:07,000
+<font color="#E5E5E5">sample size and anything your small</font>
+
+109
+00:04:07,000 --> 00:04:08,500
+sample size you<font color="#CCCCCC"> get a lot</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> variance</font>
+
+110
+00:04:08,500 --> 00:04:10,750
+<font color="#E5E5E5">saying that differently there are</font><font color="#CCCCCC"> seven</font>
+
+111
+00:04:10,750 --> 00:04:13,240
+<font color="#CCCCCC">foot players who are really skillful and</font>
+
+112
+00:04:13,240 --> 00:04:14,590
+there are seven foot players who are not
+
+113
+00:04:14,590 --> 00:04:16,660
+quite as<font color="#CCCCCC"> skilful and they're</font><font color="#E5E5E5"> both in the</font>
+
+114
+00:04:16,660 --> 00:04:18,399
+NBA<font color="#E5E5E5"> right just because they're by virtue</font>
+
+115
+00:04:18,399 --> 00:04:20,168
+of their height<font color="#E5E5E5"> so the consequence you</font>
+
+116
+00:04:20,168 --> 00:04:22,300
+get more variance<font color="#E5E5E5"> that means skill tends</font>
+
+117
+00:04:22,300 --> 00:04:24,370
+<font color="#E5E5E5">to assert yourself more soccer and</font>
+
+118
+00:04:24,370 --> 00:04:26,169
+hockey don't require such<font color="#E5E5E5"> an outlier</font>
+
+119
+00:04:26,169 --> 00:04:28,690
+body type<font color="#CCCCCC"> so you'd</font><font color="#E5E5E5"> expect less variance</font>
+
+120
+00:04:28,690 --> 00:04:32,050
+in players<font color="#E5E5E5"> skills and that leaves more</font>
+
+121
+00:04:32,050 --> 00:04:35,710
+to look to understand what<font color="#E5E5E5"> that</font><font color="#CCCCCC"> means</font>
+
+122
+00:04:35,710 --> 00:04:38,260
+<font color="#E5E5E5">you have to see how mobis in calculated</font>
+
+123
+00:04:38,260 --> 00:04:38,890
+all of it
+
+124
+00:04:38,890 --> 00:04:40,150
+<font color="#E5E5E5">I learned this by the way from the</font>
+
+125
+00:04:40,150 --> 00:04:42,310
+<font color="#E5E5E5">sports analytics guy so I wasn't clever</font>
+
+126
+00:04:42,310 --> 00:04:43,780
+enough<font color="#E5E5E5"> to come up with this myself</font><font color="#CCCCCC"> but</font>
+
+127
+00:04:43,780 --> 00:04:45,730
+there's a really interesting<font color="#E5E5E5"> concept in</font>
+
+128
+00:04:45,730 --> 00:04:47,950
+statistics<font color="#CCCCCC"> it's actually calls for the</font>
+
+129
+00:04:47,950 --> 00:04:50,830
+Pythagorean theorem statistics<font color="#E5E5E5"> it says</font>
+
+130
+00:04:50,830 --> 00:04:53,020
+that if<font color="#E5E5E5"> you</font><font color="#CCCCCC"> have two random</font><font color="#E5E5E5"> independent</font>
+
+131
+00:04:53,020 --> 00:04:55,120
+variables then<font color="#CCCCCC"> you can add their</font>
+
+132
+00:04:55,120 --> 00:04:57,640
+variances variance is<font color="#CCCCCC"> just a measure of</font>
+
+133
+00:04:57,640 --> 00:05:00,610
+how<font color="#CCCCCC"> spread out</font><font color="#E5E5E5"> a data set is for our</font>
+
+134
+00:05:00,610 --> 00:05:02,229
+purposes the equation looks like<font color="#E5E5E5"> this</font>
+
+135
+00:05:02,229 --> 00:05:04,930
+<font color="#E5E5E5">the variance of the observed real-life</font>
+
+136
+00:05:04,930 --> 00:05:07,180
+results<font color="#E5E5E5"> equals the variance of skill</font>
+
+137
+00:05:07,180 --> 00:05:10,060
+plus<font color="#E5E5E5"> the variance of luck skill plus</font>
+
+138
+00:05:10,060 --> 00:05:12,160
+luck<font color="#E5E5E5"> equals everything</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> happens so</font>
+
+139
+00:05:12,160 --> 00:05:14,140
+you think<font color="#CCCCCC"> about</font><font color="#E5E5E5"> how we apply this to</font>
+
+140
+00:05:14,140 --> 00:05:16,210
+sports most people use basketball an
+
+141
+00:05:16,210 --> 00:05:17,919
+example so what do<font color="#CCCCCC"> we know we know the</font>
+
+142
+00:05:17,919 --> 00:05:20,080
+<font color="#CCCCCC">actual variance of win-loss records of</font>
+
+143
+00:05:20,080 --> 00:05:21,940
+all<font color="#CCCCCC"> the professional sports teams right</font>
+
+144
+00:05:21,940 --> 00:05:24,520
+<font color="#CCCCCC">basketball teams</font><font color="#E5E5E5"> so that's a known over</font>
+
+145
+00:05:24,520 --> 00:05:26,770
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> season</font><font color="#CCCCCC"> some teams win</font><font color="#E5E5E5"> about half their</font>
+
+146
+00:05:26,770 --> 00:05:28,810
+games<font color="#E5E5E5"> some do a lot better than that</font>
+
+147
+00:05:28,810 --> 00:05:31,719
+<font color="#CCCCCC">some a lot worse</font>
+
+148
+00:05:31,719 --> 00:05:34,029
+so if the variance is a measure<font color="#CCCCCC"> of how</font>
+
+149
+00:05:34,029 --> 00:05:36,009
+spread out<font color="#E5E5E5"> those win-loss records are</font>
+
+150
+00:05:36,009 --> 00:05:37,629
+for the league<font color="#E5E5E5"> you can see that you have</font>
+
+151
+00:05:37,629 --> 00:05:40,439
+<font color="#CCCCCC">more variance in</font><font color="#E5E5E5"> basketball than hockey</font>
+
+152
+00:05:40,439 --> 00:05:43,119
+<font color="#CCCCCC">the other part of the equation estimates</font>
+
+153
+00:05:43,119 --> 00:05:45,549
+what the results would be<font color="#E5E5E5"> in an all luck</font>
+
+154
+00:05:45,549 --> 00:05:47,349
+world<font color="#CCCCCC"> so instead of</font><font color="#E5E5E5"> playing every</font>
+
+155
+00:05:47,349 --> 00:05:49,449
+basketball<font color="#E5E5E5"> game that teams just went out</font>
+
+156
+00:05:49,449 --> 00:05:51,099
+<font color="#E5E5E5">and flip the coin</font><font color="#CCCCCC"> and whoever won the</font>
+
+157
+00:05:51,099 --> 00:05:52,689
+coin toss<font color="#CCCCCC"> take what</font><font color="#E5E5E5"> back it took</font><font color="#CCCCCC"> showers</font>
+
+158
+00:05:52,689 --> 00:05:53,289
+<font color="#CCCCCC">at</font><font color="#E5E5E5"> home</font>
+
+159
+00:05:53,289 --> 00:05:55,629
+the variance<font color="#E5E5E5"> of luck varies from sport</font>
+
+160
+00:05:55,629 --> 00:05:57,309
+<font color="#E5E5E5">to sport depending on how many games</font>
+
+161
+00:05:57,309 --> 00:06:00,309
+<font color="#E5E5E5">there are in a season more games</font><font color="#CCCCCC"> means</font>
+
+162
+00:06:00,309 --> 00:06:02,409
+lower variance<font color="#E5E5E5"> of luck</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> like the</font>
+
+163
+00:06:02,409 --> 00:06:04,179
+more times you flip a coin the closer
+
+164
+00:06:04,179 --> 00:06:06,969
+your data gets to<font color="#CCCCCC"> 50/50</font><font color="#E5E5E5"> now</font><font color="#CCCCCC"> we have two</font>
+
+165
+00:06:06,969 --> 00:06:09,339
+out of the three pieces<font color="#E5E5E5"> of the equation</font>
+
+166
+00:06:09,339 --> 00:06:11,229
+and what that allows us<font color="#E5E5E5"> to do that is</font>
+
+167
+00:06:11,229 --> 00:06:13,269
+estimate the contribution<font color="#CCCCCC"> of the other</font>
+
+168
+00:06:13,269 --> 00:06:15,939
+distribution<font color="#E5E5E5"> basically what</font><font color="#CCCCCC"> this asks</font><font color="#E5E5E5"> is</font>
+
+169
+00:06:15,939 --> 00:06:17,860
+how<font color="#CCCCCC"> different does the real world look</font>
+
+170
+00:06:17,860 --> 00:06:19,749
+from a world in which<font color="#E5E5E5"> the winners are</font>
+
+171
+00:06:19,749 --> 00:06:21,729
+just chosen<font color="#E5E5E5"> at random</font><font color="#CCCCCC"> he averaged the</font>
+
+172
+00:06:21,729 --> 00:06:23,769
+results of five<font color="#E5E5E5"> seasons for each sport</font>
+
+173
+00:06:23,769 --> 00:06:25,539
+<font color="#E5E5E5">and that's how he placed them</font><font color="#CCCCCC"> on the</font>
+
+174
+00:06:25,539 --> 00:06:27,969
+continuum if you were to look at<font color="#CCCCCC"> just</font>
+
+175
+00:06:27,969 --> 00:06:29,589
+the playoffs rather than the<font color="#E5E5E5"> regular</font>
+
+176
+00:06:29,589 --> 00:06:31,419
+season<font color="#CCCCCC"> you might get a different results</font>
+
+177
+00:06:31,419 --> 00:06:33,519
+according<font color="#CCCCCC"> to one analysis baseball</font>
+
+178
+00:06:33,519 --> 00:06:35,469
+playoffs<font color="#CCCCCC"> are the worst</font><font color="#E5E5E5"> and ensuring that</font>
+
+179
+00:06:35,469 --> 00:06:39,969
+the best team wins which raises the
+
+180
+00:06:39,969 --> 00:06:42,069
+question<font color="#CCCCCC"> of what</font><font color="#E5E5E5"> we want our sports to</font>
+
+181
+00:06:42,069 --> 00:06:44,019
+do<font color="#E5E5E5"> do we want to measure skill as</font>
+
+182
+00:06:44,019 --> 00:06:47,499
+precisely as possible<font color="#CCCCCC"> or do we just</font><font color="#E5E5E5"> want</font>
+
+183
+00:06:47,499 --> 00:06:52,389
+<font color="#CCCCCC">to feel alive we're there to enjoy</font><font color="#E5E5E5"> the</font>
+
+184
+00:06:52,389 --> 00:06:54,819
+<font color="#CCCCCC">journey</font><font color="#E5E5E5"> we're to have the high blows and</font>
+
+185
+00:06:54,819 --> 00:06:56,709
+having both highs and lows what kind of
+
+186
+00:06:56,709 --> 00:07:00,370
+makes<font color="#E5E5E5"> it engaging as a fan</font>
+
+187
+00:07:00,370 --> 00:07:04,780
+<font color="#CCCCCC">I think that's part of the whole</font><font color="#E5E5E5"> human</font>
+
+188
+00:07:04,780 --> 00:07:06,250
+condition that makes<font color="#E5E5E5"> it really hard for</font>
+
+189
+00:07:06,250 --> 00:07:07,240
+<font color="#E5E5E5">us to watch</font>
+
+190
+00:07:07,240 --> 00:07:27,460
+[Music]
+
+191
+00:07:28,050 --> 00:07:29,530
+you
+
+192
+00:07:29,530 --> 00:00:00,000
+[Music]
+

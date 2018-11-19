@@ -1,0 +1,836 @@
+1
+00:00:00,000 --> 00:00:02,280
+<font color="#CCCCCC">a Republican contractors database of</font>
+
+2
+00:00:02,280 --> 00:00:06,450
+<font color="#E5E5E5">nearly 200 million voters from all walks</font>
+
+3
+00:00:06,450 --> 00:00:09,750
+of life<font color="#E5E5E5"> and all political ideologies uh</font>
+
+4
+00:00:09,750 --> 00:00:12,059
+<font color="#E5E5E5">is under fire because</font><font color="#CCCCCC"> it turns out</font><font color="#E5E5E5"> that</font>
+
+5
+00:00:12,059 --> 00:00:14,040
+<font color="#E5E5E5">their database was left</font><font color="#CCCCCC"> exposed on the</font>
+
+6
+00:00:14,040 --> 00:00:16,830
+<font color="#E5E5E5">internet for a whopping 12 days now we</font>
+
+7
+00:00:16,830 --> 00:00:18,210
+know this thanks<font color="#CCCCCC"> to a</font><font color="#E5E5E5"> cybersecurity</font>
+
+8
+00:00:18,210 --> 00:00:20,910
+researcher by the name<font color="#E5E5E5"> of Chris Vickery</font>
+
+9
+00:00:20,910 --> 00:00:23,640
+<font color="#CCCCCC">and uh you know he does research to see</font>
+
+10
+00:00:23,640 --> 00:00:25,260
+<font color="#E5E5E5">what type of vulnerabilities there are</font>
+
+11
+00:00:25,260 --> 00:00:27,359
+out there in regard to our<font color="#E5E5E5"> private</font>
+
+12
+00:00:27,359 --> 00:00:30,179
+information<font color="#CCCCCC"> of private citizens and he</font>
+
+13
+00:00:30,179 --> 00:00:32,070
+came<font color="#CCCCCC"> across this detailed information</font><font color="#E5E5E5"> of</font>
+
+14
+00:00:32,070 --> 00:00:35,190
+nearly every single<font color="#CCCCCC"> u.s. voter</font><font color="#E5E5E5"> now</font>
+
+15
+00:00:35,190 --> 00:00:37,500
+detailed information of nearly every US
+
+16
+00:00:37,500 --> 00:00:39,510
+voter including in some<font color="#CCCCCC"> cases their</font>
+
+17
+00:00:39,510 --> 00:00:41,190
+<font color="#E5E5E5">ethnicity religion and views on</font>
+
+18
+00:00:41,190 --> 00:00:43,620
+political<font color="#CCCCCC"> issues</font><font color="#E5E5E5"> was left exposed online</font>
+
+19
+00:00:43,620 --> 00:00:46,050
+for two weeks by a political consultancy
+
+20
+00:00:46,050 --> 00:00:48,149
+that<font color="#E5E5E5"> works for the RNC Republican</font>
+
+21
+00:00:48,149 --> 00:00:50,820
+National Committee<font color="#E5E5E5"> and other GOP clients</font>
+
+22
+00:00:50,820 --> 00:00:53,129
+<font color="#E5E5E5">now the group that has</font><font color="#CCCCCC"> been contracted</font>
+
+23
+00:00:53,129 --> 00:00:56,489
+<font color="#CCCCCC">by the RNC</font><font color="#E5E5E5"> is uh named deep root</font>
+
+24
+00:00:56,489 --> 00:00:59,129
+analytics<font color="#E5E5E5"> and they claim that they</font>
+
+25
+00:00:59,129 --> 00:01:00,899
+haven't<font color="#E5E5E5"> been hacked this was the result</font>
+
+26
+00:01:00,899 --> 00:01:01,590
+of a hack
+
+27
+00:01:01,590 --> 00:01:04,250
+but that certain terms by their uh
+
+28
+00:01:04,250 --> 00:01:08,040
+<font color="#E5E5E5">providers uh changed and as a result</font>
+
+29
+00:01:08,040 --> 00:01:10,890
+<font color="#E5E5E5">they didn't realize that there needed</font><font color="#CCCCCC"> to</font>
+
+30
+00:01:10,890 --> 00:01:12,840
+be some<font color="#E5E5E5"> extra steps taken</font><font color="#CCCCCC"> to protect</font><font color="#E5E5E5"> the</font>
+
+31
+00:01:12,840 --> 00:01:14,700
+<font color="#E5E5E5">data of these individuals now thankfully</font>
+
+32
+00:01:14,700 --> 00:01:16,259
+<font color="#E5E5E5">Kim</font><font color="#CCCCCC"> Borchers</font><font color="#E5E5E5"> here she's more of an</font>
+
+33
+00:01:16,259 --> 00:01:18,780
+expert on<font color="#E5E5E5"> uh you know this type of tech</font>
+
+34
+00:01:18,780 --> 00:01:20,700
+<font color="#CCCCCC">related news</font><font color="#E5E5E5"> but let me give you a few</font>
+
+35
+00:01:20,700 --> 00:01:22,020
+<font color="#E5E5E5">more</font><font color="#CCCCCC"> details</font><font color="#E5E5E5"> and I want you to jump in</font>
+
+36
+00:01:22,020 --> 00:01:23,759
+camera included which voters are
+
+37
+00:01:23,759 --> 00:01:25,380
+suspicious of<font color="#E5E5E5"> Wall Street and</font>
+
+38
+00:01:25,380 --> 00:01:27,360
+<font color="#E5E5E5">pharmaceutical firms or who reluctantly</font>
+
+39
+00:01:27,360 --> 00:01:29,460
+<font color="#E5E5E5">voted for Hillary</font><font color="#CCCCCC"> Clinton or supports</font>
+
+40
+00:01:29,460 --> 00:01:31,200
+the Affordable Care<font color="#CCCCCC"> Act so</font><font color="#E5E5E5"> this part is</font>
+
+41
+00:01:31,200 --> 00:01:33,630
+relevant<font color="#E5E5E5"> because this isn't just private</font>
+
+42
+00:01:33,630 --> 00:01:35,490
+citizens<font color="#CCCCCC"> obviously this is voter</font>
+
+43
+00:01:35,490 --> 00:01:38,759
+<font color="#CCCCCC">information</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> also includes public</font>
+
+44
+00:01:38,759 --> 00:01:41,310
+figures<font color="#CCCCCC"> politicians</font><font color="#E5E5E5"> and so there might</font>
+
+45
+00:01:41,310 --> 00:01:43,350
+be some Republicans in Congress who
+
+46
+00:01:43,350 --> 00:01:45,090
+might have<font color="#CCCCCC"> reluctantly voted for Hillary</font>
+
+47
+00:01:45,090 --> 00:01:46,799
+Clinton<font color="#E5E5E5"> like obviously this is</font>
+
+48
+00:01:46,799 --> 00:01:49,409
+<font color="#E5E5E5">incredibly private information for a lot</font>
+
+49
+00:01:49,409 --> 00:01:51,479
+<font color="#CCCCCC">of people</font><font color="#E5E5E5"> and to know</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> it was just</font>
+
+50
+00:01:51,479 --> 00:01:54,540
+out<font color="#CCCCCC"> there vulnerable for anyone</font><font color="#E5E5E5"> is is</font>
+
+51
+00:01:54,540 --> 00:01:56,909
+<font color="#E5E5E5">concerning</font><font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of that information is</font>
+
+52
+00:01:56,909 --> 00:01:59,340
+technically public record besides the
+
+53
+00:01:59,340 --> 00:02:00,659
+who reluctantly<font color="#E5E5E5"> voted for Hillary</font>
+
+54
+00:02:00,659 --> 00:02:03,719
+<font color="#CCCCCC">Clinton who is a an opponent</font><font color="#E5E5E5"> opponent of</font>
+
+55
+00:02:03,719 --> 00:02:05,399
+the Affordable<font color="#CCCCCC"> Care Act whatever like</font>
+
+56
+00:02:05,399 --> 00:02:07,680
+things like name where you live what
+
+57
+00:02:07,680 --> 00:02:10,679
+<font color="#E5E5E5">your party is blah blah blah</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> isn't</font>
+
+58
+00:02:10,679 --> 00:02:12,150
+the<font color="#E5E5E5"> first time victory has done this</font>
+
+59
+00:02:12,150 --> 00:02:13,330
+earlier<font color="#E5E5E5"> this year he</font>
+
+60
+00:02:13,330 --> 00:02:15,820
+found 87<font color="#E5E5E5"> million Mexican voter records</font>
+
+61
+00:02:15,820 --> 00:02:19,390
+<font color="#E5E5E5">on an exposed database</font><font color="#CCCCCC"> and then layer</font><font color="#E5E5E5"> he</font>
+
+62
+00:02:19,390 --> 00:02:21,040
+found her<font color="#CCCCCC"> before he found</font><font color="#E5E5E5"> several US</font>
+
+63
+00:02:21,040 --> 00:02:23,560
+voter databases online totally 18
+
+64
+00:02:23,560 --> 00:02:24,970
+<font color="#E5E5E5">million voters and the state of</font>
+
+65
+00:02:24,970 --> 00:02:27,760
+Louisiana's entire database<font color="#E5E5E5"> of 2.9</font>
+
+66
+00:02:27,760 --> 00:02:30,460
+<font color="#E5E5E5">million voters now we have this company</font>
+
+67
+00:02:30,460 --> 00:02:32,680
+here kind of<font color="#CCCCCC"> blaming a third party and</font>
+
+68
+00:02:32,680 --> 00:02:34,960
+<font color="#E5E5E5">that in my experience seems to</font><font color="#CCCCCC"> almost</font>
+
+69
+00:02:34,960 --> 00:02:37,210
+always be the case where this has been
+
+70
+00:02:37,210 --> 00:02:39,670
+<font color="#E5E5E5">this very sensitive</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> very important</font>
+
+71
+00:02:39,670 --> 00:02:40,960
+data has<font color="#E5E5E5"> been put in the hands of</font>
+
+72
+00:02:40,960 --> 00:02:43,600
+someone<font color="#CCCCCC"> else who</font><font color="#E5E5E5"> is in some way</font>
+
+73
+00:02:43,600 --> 00:02:46,180
+vulnerable<font color="#CCCCCC"> or</font><font color="#E5E5E5"> some way exposes whatever</font>
+
+74
+00:02:46,180 --> 00:02:48,070
+the information<font color="#CCCCCC"> is</font><font color="#E5E5E5"> this is how things</font>
+
+75
+00:02:48,070 --> 00:02:50,010
+get exposed in the internet<font color="#E5E5E5"> of things</font>
+
+76
+00:02:50,010 --> 00:02:54,730
+<font color="#CCCCCC">quite often</font><font color="#E5E5E5"> and I also think</font><font color="#CCCCCC"> if this is</font>
+
+77
+00:02:54,730 --> 00:02:58,510
+kind of symptomatic<font color="#E5E5E5"> of as a society</font>
+
+78
+00:02:58,510 --> 00:03:00,400
+we've kind of been taught to<font color="#E5E5E5"> stop caring</font>
+
+79
+00:03:00,400 --> 00:03:03,100
+about<font color="#E5E5E5"> our own data privacy right and you</font>
+
+80
+00:03:03,100 --> 00:03:05,230
+know we<font color="#CCCCCC"> get like asked by certain</font>
+
+81
+00:03:05,230 --> 00:03:07,090
+<font color="#E5E5E5">websites to share all of our</font><font color="#CCCCCC"> Facebook</font>
+
+82
+00:03:07,090 --> 00:03:09,340
+info or share all of<font color="#E5E5E5"> our contact info or</font>
+
+83
+00:03:09,340 --> 00:03:11,440
+all of<font color="#CCCCCC"> its posted out there and we think</font>
+
+84
+00:03:11,440 --> 00:03:13,660
+oh it's fine it's okay but it's not okay
+
+85
+00:03:13,660 --> 00:03:16,420
+<font color="#CCCCCC">you have to stop being willing to</font>
+
+86
+00:03:16,420 --> 00:03:18,280
+<font color="#E5E5E5">wholesale give up all of</font><font color="#CCCCCC"> your</font><font color="#E5E5E5"> privacy</font>
+
+87
+00:03:18,280 --> 00:03:20,620
+all of your data<font color="#E5E5E5"> because</font><font color="#CCCCCC"> that will be</font>
+
+88
+00:03:20,620 --> 00:03:22,720
+used against you<font color="#E5E5E5"> one day already</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> old</font>
+
+89
+00:03:22,720 --> 00:03:24,430
+<font color="#CCCCCC">okay so here's my question</font>
+
+90
+00:03:24,430 --> 00:03:27,130
+uh<font color="#E5E5E5"> in response to that though what do</font>
+
+91
+00:03:27,130 --> 00:03:28,630
+you do when you want<font color="#E5E5E5"> to register to vote</font>
+
+92
+00:03:28,630 --> 00:03:30,790
+<font color="#CCCCCC">I mean you have to use your address and</font>
+
+93
+00:03:30,790 --> 00:03:33,280
+to know<font color="#CCCCCC"> that you know look there</font><font color="#E5E5E5"> are</font>
+
+94
+00:03:33,280 --> 00:03:36,489
+people<font color="#E5E5E5"> who go</font><font color="#CCCCCC"> to extreme lengths to</font><font color="#E5E5E5"> keep</font>
+
+95
+00:03:36,489 --> 00:03:39,760
+their address private right<font color="#E5E5E5"> and like</font>
+
+96
+00:03:39,760 --> 00:03:41,920
+what do those people do if if they come
+
+97
+00:03:41,920 --> 00:03:43,690
+across<font color="#E5E5E5"> stories like this and they want</font>
+
+98
+00:03:43,690 --> 00:03:44,860
+to<font color="#E5E5E5"> vote they want to be part of this</font>
+
+99
+00:03:44,860 --> 00:03:46,720
+democratic process right but they also
+
+100
+00:03:46,720 --> 00:03:48,489
+<font color="#E5E5E5">want to maintain their</font><font color="#CCCCCC"> privacy</font>
+
+101
+00:03:48,489 --> 00:03:50,890
+<font color="#CCCCCC">especially where they live or which</font>
+
+102
+00:03:50,890 --> 00:03:52,660
+issues matter to them maybe they don't
+
+103
+00:03:52,660 --> 00:03:55,150
+<font color="#E5E5E5">want their you know political ideology</font>
+
+104
+00:03:55,150 --> 00:03:57,250
+to be out there available<font color="#E5E5E5"> for</font><font color="#CCCCCC"> the world</font>
+
+105
+00:03:57,250 --> 00:03:59,260
+to see you know what<font color="#CCCCCC"> I'm saying to do</font>
+
+106
+00:03:59,260 --> 00:04:03,840
+better with our state and<font color="#E5E5E5"> federal</font>
+
+107
+00:04:03,840 --> 00:04:05,680
+<font color="#E5E5E5">security measures I mean in the last</font>
+
+108
+00:04:05,680 --> 00:04:07,209
+election we found some<font color="#E5E5E5"> of the voting</font>
+
+109
+00:04:07,209 --> 00:04:09,430
+<font color="#E5E5E5">machines were over</font><font color="#CCCCCC"> 10 years old or</font>
+
+110
+00:04:09,430 --> 00:04:11,080
+running on<font color="#E5E5E5"> software that</font><font color="#CCCCCC"> had like</font>
+
+111
+00:04:11,080 --> 00:04:13,510
+Windows 98 involved<font color="#CCCCCC"> we have to be better</font>
+
+112
+00:04:13,510 --> 00:04:15,640
+about that we have<font color="#E5E5E5"> to value</font><font color="#CCCCCC"> our privacy</font>
+
+113
+00:04:15,640 --> 00:04:18,880
+more<font color="#CCCCCC"> and I</font><font color="#E5E5E5"> think this is I mean I've</font>
+
+114
+00:04:18,880 --> 00:04:20,500
+seen I see these stories<font color="#E5E5E5"> not this</font>
+
+115
+00:04:20,500 --> 00:04:22,990
+extreme<font color="#E5E5E5"> but I see them all the</font><font color="#CCCCCC"> time and</font>
+
+116
+00:04:22,990 --> 00:04:24,840
+like you said people who
+
+117
+00:04:24,840 --> 00:04:26,669
+do want<font color="#CCCCCC"> to vote and do want to</font><font color="#E5E5E5"> be part</font>
+
+118
+00:04:26,669 --> 00:04:28,889
+of the democratic process<font color="#CCCCCC"> but don't want</font>
+
+119
+00:04:28,889 --> 00:04:31,740
+their stuff shown that's perfectly fair
+
+120
+00:04:31,740 --> 00:04:34,710
+and I<font color="#CCCCCC"> know</font><font color="#E5E5E5"> while this is uh publicly</font>
+
+121
+00:04:34,710 --> 00:04:37,350
+available information<font color="#CCCCCC"> it's</font><font color="#E5E5E5"> all together</font>
+
+122
+00:04:37,350 --> 00:04:40,020
+<font color="#CCCCCC">it's all</font><font color="#E5E5E5"> easy to</font><font color="#CCCCCC"> read</font><font color="#E5E5E5"> I hope this was</font>
+
+123
+00:04:40,020 --> 00:04:41,580
+also<font color="#E5E5E5"> a database not a bunch of</font>
+
+124
+00:04:41,580 --> 00:04:45,000
+spreadsheets like I read but yeah it
+
+125
+00:04:45,000 --> 00:04:46,590
+should be worrisome<font color="#CCCCCC"> yeah and by the way</font>
+
+126
+00:04:46,590 --> 00:04:48,389
+<font color="#E5E5E5">not all of the information</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> was in</font>
+
+127
+00:04:48,389 --> 00:04:50,580
+<font color="#E5E5E5">this database was publicly</font><font color="#CCCCCC"> available</font><font color="#E5E5E5"> oh</font>
+
+128
+00:04:50,580 --> 00:04:53,220
+no yes some of it was<font color="#CCCCCC"> some avail</font><font color="#E5E5E5"> yes</font><font color="#CCCCCC"> and</font>
+
+129
+00:04:53,220 --> 00:04:55,650
+still you don't<font color="#E5E5E5"> want all organized like</font>
+
+130
+00:04:55,650 --> 00:04:59,550
+that<font color="#E5E5E5"> right</font><font color="#CCCCCC"> uh I hope this</font><font color="#E5E5E5"> uh does a</font>
+
+131
+00:04:59,550 --> 00:05:01,889
+<font color="#E5E5E5">little further damage</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> the argument</font>
+
+132
+00:05:01,889 --> 00:05:04,950
+that<font color="#E5E5E5"> the</font><font color="#CCCCCC"> only reason that the DNC</font><font color="#E5E5E5"> was</font>
+
+133
+00:05:04,950 --> 00:05:07,530
+<font color="#E5E5E5">act in the 2016 election was because the</font>
+
+134
+00:05:07,530 --> 00:05:10,800
+DNC has porous<font color="#CCCCCC"> Internet</font><font color="#E5E5E5"> security they</font>
+
+135
+00:05:10,800 --> 00:05:13,050
+may well<font color="#CCCCCC"> have incredibly porous internet</font>
+
+136
+00:05:13,050 --> 00:05:17,040
+<font color="#E5E5E5">security but the RNC was an</font><font color="#CCCCCC"> actress</font>
+
+137
+00:05:17,040 --> 00:05:19,740
+nobody<font color="#CCCCCC"> want</font><font color="#E5E5E5"> hack it was just there that</font>
+
+138
+00:05:19,740 --> 00:05:23,190
+<font color="#E5E5E5">it is not because the RNC</font><font color="#CCCCCC"> uh has such</font>
+
+139
+00:05:23,190 --> 00:05:26,190
+tight<font color="#E5E5E5"> cybersecurity</font><font color="#CCCCCC"> right the Russians</font>
+
+140
+00:05:26,190 --> 00:05:32,789
+<font color="#E5E5E5">try</font><font color="#CCCCCC"> yes it couldn't get</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> done yeah</font><font color="#E5E5E5"> you</font>
+
+141
+00:05:32,789 --> 00:05:34,110
+know another<font color="#E5E5E5"> thing that I thought</font><font color="#CCCCCC"> was a</font>
+
+142
+00:05:34,110 --> 00:05:36,419
+<font color="#CCCCCC">little concerning and look political</font>
+
+143
+00:05:36,419 --> 00:05:39,030
+parties are<font color="#E5E5E5"> going to want to</font><font color="#CCCCCC"> collect as</font>
+
+144
+00:05:39,030 --> 00:05:41,039
+much information<font color="#E5E5E5"> on American voters as</font>
+
+145
+00:05:41,039 --> 00:05:44,720
+possible<font color="#CCCCCC"> so they can</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> know uh</font>
+
+146
+00:05:44,720 --> 00:05:47,340
+calibrate their campaigns in a way that
+
+147
+00:05:47,340 --> 00:05:49,350
+appeal to<font color="#CCCCCC"> the</font><font color="#E5E5E5"> most voters as possible</font><font color="#CCCCCC"> I</font>
+
+148
+00:05:49,350 --> 00:05:50,820
+<font color="#E5E5E5">mean that's common sense</font>
+
+149
+00:05:50,820 --> 00:05:52,410
+but they're collecting a ton of
+
+150
+00:05:52,410 --> 00:05:54,389
+information on you and storing it
+
+151
+00:05:54,389 --> 00:05:57,960
+including you know how are<font color="#E5E5E5"> you likely</font><font color="#CCCCCC"> to</font>
+
+152
+00:05:57,960 --> 00:05:59,700
+feel about pharmaceutical companies how
+
+153
+00:05:59,700 --> 00:06:01,050
+are you<font color="#E5E5E5"> likely</font><font color="#CCCCCC"> to feel</font><font color="#E5E5E5"> about Wall Street</font>
+
+154
+00:06:01,050 --> 00:06:03,330
+major corporations this is all stuff
+
+155
+00:06:03,330 --> 00:06:06,300
+that<font color="#E5E5E5"> they keep about every single voter</font>
+
+156
+00:06:06,300 --> 00:06:08,010
+so the company also<font color="#E5E5E5"> kept</font><font color="#CCCCCC"> information on</font>
+
+157
+00:06:08,010 --> 00:06:09,660
+Americans voting histories and the
+
+158
+00:06:09,660 --> 00:06:11,430
+reported enthusiasm for<font color="#E5E5E5"> Trump</font>
+
+159
+00:06:11,430 --> 00:06:14,669
+nearly 170 gigabytes<font color="#E5E5E5"> of the expose data</font>
+
+160
+00:06:14,669 --> 00:06:17,190
+consisted of social media posts scrapped
+
+161
+00:06:17,190 --> 00:06:19,950
+<font color="#E5E5E5">from reddit</font><font color="#CCCCCC"> Church which is</font><font color="#E5E5E5"> amazing and</font>
+
+162
+00:06:19,950 --> 00:06:22,889
+<font color="#E5E5E5">so look</font><font color="#CCCCCC"> you're a your participation on</font>
+
+163
+00:06:22,889 --> 00:06:26,220
+reddit<font color="#E5E5E5"> or social media is obviously</font>
+
+164
+00:06:26,220 --> 00:06:27,960
+gonna be public<font color="#E5E5E5"> and if there are</font>
+
+165
+00:06:27,960 --> 00:06:29,460
+political<font color="#E5E5E5"> parties who want to collect</font>
+
+166
+00:06:29,460 --> 00:06:30,990
+that<font color="#CCCCCC"> data for</font><font color="#E5E5E5"> their own benefit of</font>
+
+167
+00:06:30,990 --> 00:06:32,460
+course<font color="#E5E5E5"> they're gonna do it</font><font color="#CCCCCC"> also</font><font color="#E5E5E5"> the</font>
+
+168
+00:06:32,460 --> 00:06:34,979
+exposure began on June<font color="#CCCCCC"> 1st when</font><font color="#E5E5E5"> a deep</font>
+
+169
+00:06:34,979 --> 00:06:35,910
+root and a<font color="#E5E5E5"> lid</font>
+
+170
+00:06:35,910 --> 00:06:37,710
+adopted updates that<font color="#CCCCCC"> accidentally</font>
+
+171
+00:06:37,710 --> 00:06:39,570
+stripped away the password<font color="#CCCCCC"> protection on</font>
+
+172
+00:06:39,570 --> 00:06:41,250
+the files<font color="#E5E5E5"> by the way this isn't</font>
+
+173
+00:06:41,250 --> 00:06:43,770
+<font color="#E5E5E5">something that's unique</font><font color="#CCCCCC"> to a political</font>
+
+174
+00:06:43,770 --> 00:06:46,410
+<font color="#E5E5E5">party</font><font color="#CCCCCC"> or politics in general this</font><font color="#E5E5E5"> is</font>
+
+175
+00:06:46,410 --> 00:06:47,880
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> that we see over and over</font>
+
+176
+00:06:47,880 --> 00:06:50,430
+<font color="#E5E5E5">again with you know</font><font color="#CCCCCC"> health care</font>
+
+177
+00:06:50,430 --> 00:06:53,100
+<font color="#E5E5E5">providers getting hacked this stuff</font>
+
+178
+00:06:53,100 --> 00:06:55,350
+happens all<font color="#E5E5E5"> the time and so I think</font>
+
+179
+00:06:55,350 --> 00:06:57,990
+there needs<font color="#CCCCCC"> to be a general awareness of</font>
+
+180
+00:06:57,990 --> 00:06:59,520
+it there needs to be measures taken<font color="#E5E5E5"> to</font>
+
+181
+00:06:59,520 --> 00:07:01,830
+protect<font color="#E5E5E5"> people's privacy</font><font color="#CCCCCC"> I can't even</font>
+
+182
+00:07:01,830 --> 00:07:03,540
+<font color="#E5E5E5">tell you how</font><font color="#CCCCCC"> many times</font><font color="#E5E5E5"> I've had to like</font>
+
+183
+00:07:03,540 --> 00:07:05,160
+call my credit card<font color="#E5E5E5"> company</font><font color="#CCCCCC"> and be like</font>
+
+184
+00:07:05,160 --> 00:07:08,580
+yo didn't spend $800 at whatever
+
+185
+00:07:08,580 --> 00:07:10,560
+restaurant<font color="#E5E5E5"> last night like that's insane</font>
+
+186
+00:07:10,560 --> 00:07:13,440
+<font color="#CCCCCC">and later on</font><font color="#E5E5E5"> I'll find out that there</font>
+
+187
+00:07:13,440 --> 00:07:15,390
+was a breach<font color="#E5E5E5"> for one of the</font><font color="#CCCCCC"> websites</font>
+
+188
+00:07:15,390 --> 00:07:17,070
+where my<font color="#E5E5E5"> credit card information is</font>
+
+189
+00:07:17,070 --> 00:07:18,630
+stored<font color="#E5E5E5"> so</font><font color="#CCCCCC"> that kind of stuff happens on</font>
+
+190
+00:07:18,630 --> 00:07:20,160
+<font color="#E5E5E5">a</font><font color="#CCCCCC"> regular basis there needs to be more</font>
+
+191
+00:07:20,160 --> 00:07:22,290
+<font color="#CCCCCC">emphasis on protecting our privacy and</font>
+
+192
+00:07:22,290 --> 00:07:24,720
+<font color="#E5E5E5">making sure that hackers can't get to</font>
+
+193
+00:07:24,720 --> 00:07:27,090
+our<font color="#E5E5E5"> information and that as in this case</font>
+
+194
+00:07:27,090 --> 00:07:29,250
+<font color="#CCCCCC">our information is just readily</font>
+
+195
+00:07:29,250 --> 00:07:31,170
+available for<font color="#E5E5E5"> anyone who wants a I think</font>
+
+196
+00:07:31,170 --> 00:07:33,540
+<font color="#CCCCCC">I speak for Ana</font><font color="#E5E5E5"> when I say thank</font><font color="#CCCCCC"> God</font><font color="#E5E5E5"> Kim</font>
+
+197
+00:07:33,540 --> 00:07:34,640
+was<font color="#CCCCCC"> here for the story</font>
+
+198
+00:07:34,640 --> 00:07:38,580
+<font color="#CCCCCC">I know stuff do</font><font color="#E5E5E5"> you know okay</font><font color="#CCCCCC"> fine</font>
+
+199
+00:07:38,580 --> 00:07:41,340
+that I she probably will I would<font color="#CCCCCC"> have</font>
+
+200
+00:07:41,340 --> 00:07:42,960
+<font color="#E5E5E5">helped you not at all so you had to do</font>
+
+201
+00:07:42,960 --> 00:07:45,060
+the story on<font color="#E5E5E5"> your own okay at least had</font>
+
+202
+00:07:45,060 --> 00:07:48,470
+<font color="#E5E5E5">someone other stories so it works out</font>
+
+203
+00:07:48,470 --> 00:07:50,580
+membership helps fund the<font color="#CCCCCC"> Young</font><font color="#E5E5E5"> Turks</font>
+
+204
+00:07:50,580 --> 00:07:52,950
+<font color="#E5E5E5">you know one great</font><font color="#CCCCCC"> thing</font><font color="#E5E5E5"> about that that</font>
+
+205
+00:07:52,950 --> 00:07:54,210
+means<font color="#E5E5E5"> we're not accountable to anyone</font>
+
+206
+00:07:54,210 --> 00:07:57,750
+but<font color="#E5E5E5"> you guys that's why we're strong</font>
+
+207
+00:07:57,750 --> 00:07:59,640
+together<font color="#CCCCCC"> because we built</font><font color="#E5E5E5"> the show</font>
+
+208
+00:07:59,640 --> 00:08:02,040
+<font color="#E5E5E5">around you come build it even</font><font color="#CCCCCC"> bigger</font><font color="#E5E5E5"> and</font>
+
+209
+00:08:02,040 --> 00:00:00,000
+<font color="#CCCCCC">better at TYT Network dot-com slash join</font>
+

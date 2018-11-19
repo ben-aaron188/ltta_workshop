@@ -1,0 +1,33 @@
+let's say you have a really big file
+like a 45 gigabyte QuickTime movie but
+you need to move from one MacBook to
+another Apple Computer a file that big
+exceeds the size limit of most free file
+transfer services and uploading via
+Dropbox could take forever seems like
+your only option is to upload the file
+to an external hard drive then transfer
+the file from the external hard drive to
+the other Mac but there is a way to cut
+out the middleman turning the macbook
+itself into an external hard drive
+it's called target disc mode and it's as
+easy as pushing one button make sure the
+MacBook from which you want to transfer
+the file is turned off before you turn
+on the macbook press and hold the T key
+then press the power key until you hear
+it turn on you should see a thunderbolt
+icon on the screen that means target
+disk mode is enabled then using a
+Thunderbolt cable connect the computer
+that's in target disk mode to the
+destination computer once you're
+connected you should see an icon labeled
+Macintosh HD on the destination
+computers desktop now open that folder
+select your file then drag it or copy
+and paste it in to your desired
+destination remember upon completion
+don't forget to safely eject your
+hardware

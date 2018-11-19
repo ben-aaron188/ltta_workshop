@@ -1,0 +1,804 @@
+1
+00:00:01,100 --> 00:00:04,049
+<font color="#E5E5E5">type Google into</font><font color="#CCCCCC"> Google's search</font><font color="#E5E5E5"> engine</font>
+
+2
+00:00:04,049 --> 00:00:06,299
+<font color="#E5E5E5">then hit the news tab you might find a</font>
+
+3
+00:00:06,299 --> 00:00:07,919
+few<font color="#E5E5E5"> stories</font><font color="#CCCCCC"> that the tech giant would</font>
+
+4
+00:00:07,919 --> 00:00:10,230
+rather you didn't see a few weeks back
+
+5
+00:00:10,230 --> 00:00:12,059
+we learned<font color="#E5E5E5"> that Google was working on</font>
+
+6
+00:00:12,059 --> 00:00:14,580
+something<font color="#E5E5E5"> called</font><font color="#CCCCCC"> project dragonfly a new</font>
+
+7
+00:00:14,580 --> 00:00:16,949
+search engine<font color="#CCCCCC"> for the Chinese market one</font>
+
+8
+00:00:16,949 --> 00:00:18,570
+that would function in compliance with
+
+9
+00:00:18,570 --> 00:00:22,020
+Beijing<font color="#CCCCCC"> strict rules on censorship</font><font color="#E5E5E5"> in an</font>
+
+10
+00:00:22,020 --> 00:00:24,150
+<font color="#E5E5E5">organization that talks up transparency</font>
+
+11
+00:00:24,150 --> 00:00:25,949
+it is<font color="#E5E5E5"> ironic that only a handful of the</font>
+
+12
+00:00:25,949 --> 00:00:28,710
+<font color="#CCCCCC">company's</font><font color="#E5E5E5"> 88,000 employees knew about</font>
+
+13
+00:00:28,710 --> 00:00:30,900
+<font color="#E5E5E5">this</font><font color="#CCCCCC"> project</font><font color="#E5E5E5"> when some of them caught</font>
+
+14
+00:00:30,900 --> 00:00:32,549
+wind of it<font color="#CCCCCC"> they leaked the details</font><font color="#E5E5E5"> to an</font>
+
+15
+00:00:32,549 --> 00:00:34,649
+online<font color="#CCCCCC"> news site the intercept</font><font color="#E5E5E5"> which</font>
+
+16
+00:00:34,649 --> 00:00:36,780
+broke<font color="#E5E5E5"> the story and put Google's top</font>
+
+17
+00:00:36,780 --> 00:00:39,719
+brass on the spot<font color="#CCCCCC"> Google has ventured</font>
+
+18
+00:00:39,719 --> 00:00:42,600
+into China before in 2010 but back then
+
+19
+00:00:42,600 --> 00:00:44,610
+it<font color="#E5E5E5"> decided it could not live with the</font>
+
+20
+00:00:44,610 --> 00:00:46,530
+<font color="#CCCCCC">censorship rules</font><font color="#E5E5E5"> there so it pulled out</font>
+
+21
+00:00:46,530 --> 00:00:49,170
+<font color="#E5E5E5">this potential re-entry into China</font>
+
+22
+00:00:49,170 --> 00:00:51,629
+signals a major policy u-turn involving
+
+23
+00:00:51,629 --> 00:00:53,250
+one<font color="#CCCCCC"> of the biggest tech companies on the</font>
+
+24
+00:00:53,250 --> 00:00:55,289
+planet<font color="#CCCCCC"> and the world's largest</font><font color="#E5E5E5"> market</font>
+
+25
+00:00:55,289 --> 00:00:57,300
+our starting point<font color="#E5E5E5"> this week is Google's</font>
+
+26
+00:00:57,300 --> 00:01:01,850
+headquarters<font color="#CCCCCC"> Silicon</font><font color="#E5E5E5"> Valley USA</font>
+
+27
+00:01:06,670 --> 00:01:08,220
+[Music]
+
+28
+00:01:08,220 --> 00:01:11,200
+times change<font color="#CCCCCC"> technology moves on</font>
+
+29
+00:01:11,200 --> 00:01:14,470
+companies<font color="#E5E5E5"> evolve there was a time when</font>
+
+30
+00:01:14,470 --> 00:01:17,170
+Google's corporate mantra was don't be
+
+31
+00:01:17,170 --> 00:01:19,960
+<font color="#E5E5E5">evil that altruistic philosophy has</font>
+
+32
+00:01:19,960 --> 00:01:22,150
+since been<font color="#CCCCCC"> amended</font><font color="#E5E5E5"> watered down if you</font>
+
+33
+00:01:22,150 --> 00:01:25,090
+will<font color="#E5E5E5"> to do the right thing was that a</font>
+
+34
+00:01:25,090 --> 00:01:27,910
+mere shift in semantics<font color="#CCCCCC"> or has Google</font>
+
+35
+00:01:27,910 --> 00:01:30,130
+<font color="#E5E5E5">made a moral adjustment in the way it</font>
+
+36
+00:01:30,130 --> 00:01:32,830
+does<font color="#E5E5E5"> business with China just being the</font>
+
+37
+00:01:32,830 --> 00:01:36,090
+<font color="#E5E5E5">latest most newsworthy</font><font color="#CCCCCC"> example</font><font color="#E5E5E5"> of that</font>
+
+38
+00:01:36,090 --> 00:01:39,130
+<font color="#CCCCCC">Google is celebrating its 20th birthday</font>
+
+39
+00:01:39,130 --> 00:01:42,340
+<font color="#CCCCCC">in that time we</font><font color="#E5E5E5"> have folded it into our</font>
+
+40
+00:01:42,340 --> 00:01:45,160
+lives in some<font color="#E5E5E5"> really deep ways</font><font color="#CCCCCC"> Google is</font>
+
+41
+00:01:45,160 --> 00:01:48,509
+by far<font color="#CCCCCC"> the dominant search service on</font>
+
+42
+00:01:48,509 --> 00:01:51,759
+mobile devices<font color="#E5E5E5"> and on computers in the</font>
+
+43
+00:01:51,759 --> 00:01:53,890
+world<font color="#CCCCCC"> it's very interesting when</font><font color="#E5E5E5"> we look</font>
+
+44
+00:01:53,890 --> 00:01:55,930
+<font color="#CCCCCC">at how Google deals with China</font><font color="#E5E5E5"> because</font>
+
+45
+00:01:55,930 --> 00:01:57,490
+that is one place where it won't<font color="#E5E5E5"> be</font>
+
+46
+00:01:57,490 --> 00:02:00,070
+<font color="#E5E5E5">dominant and one place where it really</font>
+
+47
+00:02:00,070 --> 00:02:03,250
+has to<font color="#E5E5E5"> pander to the demands of the</font>
+
+48
+00:02:03,250 --> 00:02:04,630
+government there but I<font color="#E5E5E5"> think it's</font>
+
+49
+00:02:04,630 --> 00:02:06,910
+something<font color="#E5E5E5"> Google has to do Google can't</font>
+
+50
+00:02:06,910 --> 00:02:09,280
+ignore China<font color="#E5E5E5"> to ignore China is to</font>
+
+51
+00:02:09,280 --> 00:02:11,380
+ignore<font color="#CCCCCC"> the world in China increasingly</font>
+
+52
+00:02:11,380 --> 00:02:13,660
+nowadays doing the right thing is is
+
+53
+00:02:13,660 --> 00:02:16,660
+<font color="#E5E5E5">about trading off to less than evil when</font>
+
+54
+00:02:16,660 --> 00:02:19,120
+I speak<font color="#CCCCCC"> to Chinese friends</font><font color="#E5E5E5"> actually</font><font color="#CCCCCC"> many</font>
+
+55
+00:02:19,120 --> 00:02:20,860
+of<font color="#E5E5E5"> them are hopeful</font><font color="#CCCCCC"> that they can use</font>
+
+56
+00:02:20,860 --> 00:02:22,540
+Google in China<font color="#E5E5E5"> because</font><font color="#CCCCCC"> they would</font><font color="#E5E5E5"> like</font>
+
+57
+00:02:22,540 --> 00:02:25,930
+that<font color="#CCCCCC"> be an alternative to</font><font color="#E5E5E5"> the near</font>
+
+58
+00:02:25,930 --> 00:02:28,000
+<font color="#CCCCCC">monopolist</font><font color="#E5E5E5"> which is Baidu it would be</font>
+
+59
+00:02:28,000 --> 00:02:29,680
+<font color="#E5E5E5">really interesting</font><font color="#CCCCCC"> scene if there are</font>
+
+60
+00:02:29,680 --> 00:02:31,630
+two big search engines in China<font color="#E5E5E5"> duking</font>
+
+61
+00:02:31,630 --> 00:02:33,790
+it out<font color="#E5E5E5"> rather than one</font><font color="#CCCCCC"> big search engine</font>
+
+62
+00:02:33,790 --> 00:02:37,450
+in China Google has had<font color="#CCCCCC"> a foothold</font><font color="#E5E5E5"> in</font>
+
+63
+00:02:37,450 --> 00:02:40,510
+China<font color="#E5E5E5"> before operating</font><font color="#CCCCCC"> there from 2006</font>
+
+64
+00:02:40,510 --> 00:02:43,780
+to 2010<font color="#CCCCCC"> often coming</font><font color="#E5E5E5"> into conflict</font><font color="#CCCCCC"> with</font>
+
+65
+00:02:43,780 --> 00:02:46,510
+government censors then after getting
+
+66
+00:02:46,510 --> 00:02:48,730
+cyber attacked and discovering that<font color="#CCCCCC"> the</font>
+
+67
+00:02:48,730 --> 00:02:51,100
+<font color="#E5E5E5">Gmail accounts of Chinese</font><font color="#CCCCCC"> human rights</font>
+
+68
+00:02:51,100 --> 00:02:53,950
+activists<font color="#E5E5E5"> had been hacked it reevaluated</font>
+
+69
+00:02:53,950 --> 00:02:56,739
+its policy<font color="#E5E5E5"> a company whose stated</font>
+
+70
+00:02:56,739 --> 00:02:58,390
+<font color="#E5E5E5">mission is to organize</font><font color="#CCCCCC"> the world's</font>
+
+71
+00:02:58,390 --> 00:03:01,000
+<font color="#CCCCCC">information effectively pulled the plug</font>
+
+72
+00:03:01,000 --> 00:03:03,940
+on itself<font color="#E5E5E5"> in China walking away from the</font>
+
+73
+00:03:03,940 --> 00:03:06,070
+world's biggest<font color="#E5E5E5"> internet market</font><font color="#CCCCCC"> eight</font>
+
+74
+00:03:06,070 --> 00:03:08,200
+years<font color="#E5E5E5"> later</font><font color="#CCCCCC"> Google</font><font color="#E5E5E5"> wants</font>
+
+75
+00:03:08,200 --> 00:03:10,570
+and it knows<font color="#CCCCCC"> that President Xi</font><font color="#E5E5E5"> Jinping's</font>
+
+76
+00:03:10,570 --> 00:03:12,910
+government will<font color="#E5E5E5"> only permit that if</font>
+
+77
+00:03:12,910 --> 00:03:15,010
+<font color="#E5E5E5">Google builds in search filters that</font>
+
+78
+00:03:15,010 --> 00:03:17,320
+meet the<font color="#E5E5E5"> censorship rules so</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> if</font>
+
+79
+00:03:17,320 --> 00:03:20,320
+<font color="#E5E5E5">anyone in China enters a term like human</font>
+
+80
+00:03:20,320 --> 00:03:23,260
+rights<font color="#E5E5E5"> democracy or political opposition</font>
+
+81
+00:03:23,260 --> 00:03:25,390
+<font color="#E5E5E5">Google's search engine would come up</font>
+
+82
+00:03:25,390 --> 00:03:29,200
+<font color="#E5E5E5">like so it's like</font><font color="#CCCCCC"> a 180-degree reversal</font>
+
+83
+00:03:29,200 --> 00:03:31,690
+and what he said in 2010 and so it's
+
+84
+00:03:31,690 --> 00:03:33,670
+quite a stunning<font color="#E5E5E5"> turnaround that they</font>
+
+85
+00:03:33,670 --> 00:03:35,530
+would suddenly change because in China
+
+86
+00:03:35,530 --> 00:03:38,170
+nothing is changed in fact<font color="#E5E5E5"> it's probably</font>
+
+87
+00:03:38,170 --> 00:03:41,140
+<font color="#E5E5E5">got worse in terms of the censorship</font><font color="#CCCCCC"> the</font>
+
+88
+00:03:41,140 --> 00:03:42,880
+laws<font color="#CCCCCC"> that are</font><font color="#E5E5E5"> in place that oversee</font>
+
+89
+00:03:42,880 --> 00:03:44,230
+these things have become<font color="#E5E5E5"> a lot</font><font color="#CCCCCC"> more</font>
+
+90
+00:03:44,230 --> 00:03:46,240
+draconian in<font color="#CCCCCC"> that year period so for</font>
+
+91
+00:03:46,240 --> 00:03:48,100
+<font color="#CCCCCC">Google to say it's going</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> go</font><font color="#E5E5E5"> back in</font>
+
+92
+00:03:48,100 --> 00:03:50,590
+<font color="#CCCCCC">is an extraordinary story</font><font color="#E5E5E5"> and that's why</font>
+
+93
+00:03:50,590 --> 00:03:51,760
+<font color="#E5E5E5">it has had a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> attention</font>
+
+94
+00:03:51,760 --> 00:03:55,270
+<font color="#E5E5E5">internationally the legitimate concern</font>
+
+95
+00:03:55,270 --> 00:03:57,940
+is that<font color="#E5E5E5"> people</font><font color="#CCCCCC"> have that if</font><font color="#E5E5E5"> Google goes</font>
+
+96
+00:03:57,940 --> 00:04:01,950
+into China that<font color="#CCCCCC"> it's legitimizing</font>
+
+97
+00:04:01,950 --> 00:04:06,430
+<font color="#E5E5E5">China's censorship regime that's up to</font>
+
+98
+00:04:06,430 --> 00:04:09,310
+people's interpretation of what a role
+
+99
+00:04:09,310 --> 00:04:12,670
+of<font color="#CCCCCC"> a corporation ought</font><font color="#E5E5E5"> to be Google is</font>
+
+100
+00:04:12,670 --> 00:04:16,440
+out to<font color="#CCCCCC"> make money</font><font color="#E5E5E5"> and so given that</font>
+
+101
+00:04:16,440 --> 00:04:20,019
+there<font color="#CCCCCC"> are many shareholders</font><font color="#E5E5E5"> that want to</font>
+
+102
+00:04:20,019 --> 00:04:22,750
+see Google's<font color="#E5E5E5"> stock price go up clearly</font>
+
+103
+00:04:22,750 --> 00:04:25,630
+<font color="#E5E5E5">it's in their very right to pursue</font><font color="#CCCCCC"> one</font>
+
+104
+00:04:25,630 --> 00:04:30,400
+the largest<font color="#E5E5E5"> markets in the world this</font>
+
+105
+00:04:30,400 --> 00:04:33,040
+story only<font color="#E5E5E5"> became public because someone</font>
+
+106
+00:04:33,040 --> 00:04:35,170
+inside Google wanted<font color="#E5E5E5"> it</font><font color="#CCCCCC"> that way and</font>
+
+107
+00:04:35,170 --> 00:04:37,600
+leaked the details<font color="#E5E5E5"> of project dragonfly</font>
+
+108
+00:04:37,600 --> 00:04:39,970
+to the intercept<font color="#E5E5E5"> an online news site</font>
+
+109
+00:04:39,970 --> 00:04:42,490
+it's since been extensively reported
+
+110
+00:04:42,490 --> 00:04:44,770
+elsewhere<font color="#E5E5E5"> but Google is not commenting</font>
+
+111
+00:04:44,770 --> 00:04:47,320
+<font color="#E5E5E5">publicly it's not the first time this</font>
+
+112
+00:04:47,320 --> 00:04:49,240
+<font color="#CCCCCC">year</font><font color="#E5E5E5"> the company has dealt with internal</font>
+
+113
+00:04:49,240 --> 00:04:51,190
+dissent on a large scale
+
+114
+00:04:51,190 --> 00:04:53,440
+three months ago thousands<font color="#E5E5E5"> of employees</font>
+
+115
+00:04:53,440 --> 00:04:56,020
+signed the petition protesting against
+
+116
+00:04:56,020 --> 00:04:58,750
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> called Project</font><font color="#E5E5E5"> maven work that</font>
+
+117
+00:04:58,750 --> 00:05:01,000
+Google<font color="#CCCCCC"> was doing</font><font color="#E5E5E5"> to help the US military</font>
+
+118
+00:05:01,000 --> 00:05:03,040
+<font color="#E5E5E5">analyze drone footage</font>
+
+119
+00:05:03,040 --> 00:05:04,960
+<font color="#E5E5E5">Google later announced it would not</font>
+
+120
+00:05:04,960 --> 00:05:06,690
+<font color="#E5E5E5">renew its contract with</font><font color="#CCCCCC"> the Pentagon</font>
+
+121
+00:05:06,690 --> 00:05:10,540
+<font color="#CCCCCC">first maven now</font><font color="#E5E5E5"> dragonfly Google which</font>
+
+122
+00:05:10,540 --> 00:05:13,240
+deals<font color="#E5E5E5"> and information is finding that it</font>
+
+123
+00:05:13,240 --> 00:05:15,310
+cannot keep its own<font color="#E5E5E5"> corporate secrets</font>
+
+124
+00:05:15,310 --> 00:05:18,700
+contained<font color="#E5E5E5"> the company has a thousand</font>
+
+125
+00:05:18,700 --> 00:05:23,260
+employees<font color="#CCCCCC"> so less than</font><font color="#E5E5E5"> 0.35 percent or</font>
+
+126
+00:05:23,260 --> 00:05:24,580
+something<font color="#CCCCCC"> like that of the</font><font color="#E5E5E5"> overall</font>
+
+127
+00:05:24,580 --> 00:05:26,620
+<font color="#CCCCCC">workforce</font><font color="#E5E5E5"> actually knew about this</font>
+
+128
+00:05:26,620 --> 00:05:30,730
+and once we've<font color="#CCCCCC"> reported it of course</font><font color="#E5E5E5"> the</font>
+
+129
+00:05:30,730 --> 00:05:32,830
+rest of the employees<font color="#CCCCCC"> then found out</font><font color="#E5E5E5"> and</font>
+
+130
+00:05:32,830 --> 00:05:34,870
+a lot of<font color="#E5E5E5"> them were very angry not just</font>
+
+131
+00:05:34,870 --> 00:05:36,460
+<font color="#E5E5E5">because of the censorship issue which</font>
+
+132
+00:05:36,460 --> 00:05:37,900
+<font color="#CCCCCC">shipped controversial on its own but</font>
+
+133
+00:05:37,900 --> 00:05:40,030
+<font color="#CCCCCC">because it was kept secret from them a</font>
+
+134
+00:05:40,030 --> 00:05:42,340
+huge issue and<font color="#E5E5E5"> say</font><font color="#CCCCCC"> Google is the secrecy</font>
+
+135
+00:05:42,340 --> 00:05:43,960
+<font color="#E5E5E5">it's a really interesting moment in</font>
+
+136
+00:05:43,960 --> 00:05:46,000
+Silicon Valley<font color="#E5E5E5"> because when companies</font>
+
+137
+00:05:46,000 --> 00:05:48,820
+like<font color="#E5E5E5"> Google admit that they</font><font color="#CCCCCC"> are pursuing</font>
+
+138
+00:05:48,820 --> 00:05:51,400
+controversial projects like building<font color="#CCCCCC"> a</font>
+
+139
+00:05:51,400 --> 00:05:54,880
+search engine<font color="#E5E5E5"> in China or when companies</font>
+
+140
+00:05:54,880 --> 00:05:57,100
+<font color="#CCCCCC">like Microsoft reveal that they've been</font>
+
+141
+00:05:57,100 --> 00:05:58,630
+working<font color="#CCCCCC"> with</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> Department of Homeland</font>
+
+142
+00:05:58,630 --> 00:06:01,420
+Security<font color="#CCCCCC"> on projects that might involve</font>
+
+143
+00:06:01,420 --> 00:06:03,700
+you know<font color="#E5E5E5"> the separation</font><font color="#CCCCCC"> of families the</font>
+
+144
+00:06:03,700 --> 00:06:06,490
+labor force<font color="#E5E5E5"> in Silicon Valley</font><font color="#CCCCCC"> rise up in</font>
+
+145
+00:06:06,490 --> 00:06:10,390
+protest and demand better behavior<font color="#E5E5E5"> from</font>
+
+146
+00:06:10,390 --> 00:06:12,160
+<font color="#E5E5E5">their companies so we've seen it quite</font>
+
+147
+00:06:12,160 --> 00:06:15,130
+vocally at Microsoft<font color="#CCCCCC"> we've heard</font>
+
+148
+00:06:15,130 --> 00:06:17,830
+rumblings of<font color="#E5E5E5"> it at Facebook and now</font>
+
+149
+00:06:17,830 --> 00:06:20,080
+we're starting<font color="#E5E5E5"> to see it at Google they</font>
+
+150
+00:06:20,080 --> 00:06:23,380
+should have<font color="#CCCCCC"> accountability but because</font>
+
+151
+00:06:23,380 --> 00:06:27,120
+they can hide behind the<font color="#E5E5E5"> corporate veil</font>
+
+152
+00:06:27,120 --> 00:06:30,490
+<font color="#E5E5E5">there are different sets of rules</font><font color="#CCCCCC"> and</font>
+
+153
+00:06:30,490 --> 00:06:32,800
+norms that<font color="#E5E5E5"> are</font><font color="#CCCCCC"> expected</font><font color="#E5E5E5"> of corporations</font>
+
+154
+00:06:32,800 --> 00:06:35,650
+<font color="#CCCCCC">if citizens</font><font color="#E5E5E5"> are concerned about</font>
+
+155
+00:06:35,650 --> 00:06:37,750
+corporations becoming too<font color="#CCCCCC"> powerful and</font>
+
+156
+00:06:37,750 --> 00:06:40,720
+becoming<font color="#E5E5E5"> like nation-states then they</font>
+
+157
+00:06:40,720 --> 00:06:43,000
+should actually be asking the lawmakers
+
+158
+00:06:43,000 --> 00:06:46,690
+to pass laws<font color="#CCCCCC"> that require certain</font>
+
+159
+00:06:46,690 --> 00:06:48,430
+corporations<font color="#E5E5E5"> above a certain revenue</font>
+
+160
+00:06:48,430 --> 00:06:51,580
+<font color="#E5E5E5">line to have a different way</font><font color="#CCCCCC"> of</font>
+
+161
+00:06:51,580 --> 00:06:55,900
+responding<font color="#CCCCCC"> to public inquiries should</font>
+
+162
+00:06:55,900 --> 00:06:57,610
+Google succeed in getting<font color="#CCCCCC"> back</font><font color="#E5E5E5"> into</font>
+
+163
+00:06:57,610 --> 00:06:59,680
+China<font color="#E5E5E5"> it stands to gain access to more</font>
+
+164
+00:06:59,680 --> 00:07:01,360
+<font color="#CCCCCC">than three-quarters of</font><font color="#E5E5E5"> a billion people</font>
+
+165
+00:07:01,360 --> 00:07:03,300
+<font color="#CCCCCC">online</font>
+
+166
+00:07:03,300 --> 00:07:05,220
+but the company's<font color="#CCCCCC"> competition there</font><font color="#E5E5E5"> is</font>
+
+167
+00:07:05,220 --> 00:07:07,650
+way out front<font color="#CCCCCC"> in Google's eight-year</font>
+
+168
+00:07:07,650 --> 00:07:10,800
+absence<font color="#E5E5E5"> by a Chinese search engine has</font>
+
+169
+00:07:10,800 --> 00:07:13,199
+<font color="#CCCCCC">solidified its position and now has more</font>
+
+170
+00:07:13,199 --> 00:07:17,220
+than<font color="#CCCCCC"> 75% of that market and old</font><font color="#E5E5E5"> habits</font>
+
+171
+00:07:17,220 --> 00:07:19,199
+even relating to<font color="#E5E5E5"> relatively young</font>
+
+172
+00:07:19,199 --> 00:07:22,620
+technology<font color="#CCCCCC"> die</font><font color="#E5E5E5"> hard so even if Google</font>
+
+173
+00:07:22,620 --> 00:07:24,330
+manages<font color="#E5E5E5"> to clear the political hurdles</font>
+
+174
+00:07:24,330 --> 00:07:27,120
+<font color="#E5E5E5">currently standing in its way it will</font>
+
+175
+00:07:27,120 --> 00:07:29,789
+have a lot of<font color="#E5E5E5"> catching</font><font color="#CCCCCC"> up to</font><font color="#E5E5E5"> do everyone</font>
+
+176
+00:07:29,789 --> 00:07:31,379
+at Google knows that if this is
+
+177
+00:07:31,379 --> 00:07:33,900
+<font color="#E5E5E5">successful it will be both politically</font>
+
+178
+00:07:33,900 --> 00:07:37,590
+controversial<font color="#E5E5E5"> and a long slow</font><font color="#CCCCCC"> process to</font>
+
+179
+00:07:37,590 --> 00:07:40,349
+<font color="#E5E5E5">try to build back reputation in China</font>
+
+180
+00:07:40,349 --> 00:07:43,349
+<font color="#E5E5E5">web users in China</font><font color="#CCCCCC"> have established</font>
+
+181
+00:07:43,349 --> 00:07:45,210
+their habits long ago and their habits
+
+182
+00:07:45,210 --> 00:07:47,729
+do not include<font color="#E5E5E5"> Google</font><font color="#CCCCCC"> at this point so I</font>
+
+183
+00:07:47,729 --> 00:07:50,280
+see this<font color="#E5E5E5"> as an</font><font color="#CCCCCC"> effort to establish</font><font color="#E5E5E5"> at</font>
+
+184
+00:07:50,280 --> 00:07:53,099
+least a small<font color="#E5E5E5"> presence in</font><font color="#CCCCCC"> China in the</font>
+
+185
+00:07:53,099 --> 00:07:55,530
+hopes that it<font color="#CCCCCC"> might grow over time</font><font color="#E5E5E5"> look</font>
+
+186
+00:07:55,530 --> 00:07:56,699
+we have to realize that<font color="#E5E5E5"> it's almost</font>
+
+187
+00:07:56,699 --> 00:07:59,370
+malpractice for<font color="#CCCCCC"> a business</font><font color="#E5E5E5"> that has</font>
+
+188
+00:07:59,370 --> 00:08:01,919
+global<font color="#E5E5E5"> ambitions to ignore the largest</font>
+
+189
+00:08:01,919 --> 00:08:03,690
+market in the<font color="#CCCCCC"> world you can</font><font color="#E5E5E5"> see many</font>
+
+190
+00:08:03,690 --> 00:08:05,400
+<font color="#E5E5E5">tech companies knocking at the door of</font>
+
+191
+00:08:05,400 --> 00:08:09,210
+<font color="#E5E5E5">China's huge revenues but this does</font><font color="#CCCCCC"> not</font>
+
+192
+00:08:09,210 --> 00:08:11,849
+<font color="#E5E5E5">mean</font><font color="#CCCCCC"> that China wants it</font><font color="#E5E5E5"> under President</font>
+
+193
+00:08:11,849 --> 00:08:13,740
+Xi Jinping<font color="#CCCCCC"> internet</font><font color="#E5E5E5"> censorship has got</font>
+
+194
+00:08:13,740 --> 00:08:16,139
+an even<font color="#E5E5E5"> tighter</font><font color="#CCCCCC"> so any kind of</font>
+
+195
+00:08:16,139 --> 00:08:17,849
+censorship deal that Google can strike
+
+196
+00:08:17,849 --> 00:08:20,099
+with the government<font color="#E5E5E5"> now would be much</font>
+
+197
+00:08:20,099 --> 00:08:22,469
+<font color="#E5E5E5">worse</font><font color="#CCCCCC"> than back</font><font color="#E5E5E5"> in 2010 and this is the</font>
+
+198
+00:08:22,469 --> 00:08:24,870
+real<font color="#CCCCCC"> find that operating in China puts</font>
+
+199
+00:08:24,870 --> 00:08:27,479
+on such companies how much can<font color="#CCCCCC"> you</font>
+
+200
+00:08:27,479 --> 00:08:31,440
+criticize government<font color="#CCCCCC"> whose</font><font color="#E5E5E5"> permission</font>
+
+201
+00:08:31,440 --> 00:00:00,000
+you need<font color="#CCCCCC"> to operate in their markets</font>
+

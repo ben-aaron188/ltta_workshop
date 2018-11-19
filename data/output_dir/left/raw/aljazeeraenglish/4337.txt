@@ -1,0 +1,2536 @@
+1
+00:00:08,810 --> 00:00:12,099
+[Music]
+
+2
+00:00:15,250 --> 00:00:18,230
+hello welcome to a new year<font color="#CCCCCC"> of the</font>
+
+3
+00:00:18,230 --> 00:00:20,420
+stream<font color="#E5E5E5"> alive on al-jazeera</font><font color="#CCCCCC"> and YouTube</font>
+
+4
+00:00:20,420 --> 00:00:23,720
+<font color="#E5E5E5">i'm femi okay now lab</font><font color="#CCCCCC"> mate meets</font>
+
+5
+00:00:23,720 --> 00:00:27,050
+driverless cars and robot caregivers<font color="#E5E5E5"> all</font>
+
+6
+00:00:27,050 --> 00:00:30,170
+once<font color="#E5E5E5"> part of some sci-fi fantasy but the</font>
+
+7
+00:00:30,170 --> 00:00:32,598
+future<font color="#E5E5E5"> is here right</font><font color="#CCCCCC"> now today on the</font>
+
+8
+00:00:32,598 --> 00:00:35,900
+<font color="#CCCCCC">stream</font><font color="#E5E5E5"> the story of human evolution is</font>
+
+9
+00:00:35,900 --> 00:00:38,540
+one that is intimately<font color="#E5E5E5"> tied to</font><font color="#CCCCCC"> meat</font><font color="#E5E5E5"> once</font>
+
+10
+00:00:38,540 --> 00:00:40,460
+we started<font color="#CCCCCC"> cooking meat then we could</font>
+
+11
+00:00:40,460 --> 00:00:42,200
+get<font color="#E5E5E5"> lots of energy and</font><font color="#CCCCCC"> that energy</font>
+
+12
+00:00:42,200 --> 00:00:45,770
+enabled us to have<font color="#E5E5E5"> big brains</font><font color="#CCCCCC"> and become</font>
+
+13
+00:00:45,770 --> 00:00:54,949
+physically unattractive<font color="#E5E5E5"> believe that</font>
+
+14
+00:00:54,949 --> 00:00:57,050
+farming animals for food is damaging the
+
+15
+00:00:57,050 --> 00:00:59,089
+<font color="#E5E5E5">environment</font><font color="#CCCCCC"> and a big contributor to</font>
+
+16
+00:00:59,089 --> 00:01:01,489
+global warming<font color="#CCCCCC"> but scientists might have</font>
+
+17
+00:01:01,489 --> 00:01:02,839
+a solution<font color="#CCCCCC"> to this environmental</font>
+
+18
+00:01:02,839 --> 00:01:06,530
+<font color="#E5E5E5">challenge lab</font><font color="#CCCCCC"> maid meet</font><font color="#E5E5E5"> joining us from</font>
+
+19
+00:01:06,530 --> 00:01:08,180
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> Netherlands to talk about</font><font color="#E5E5E5"> this we</font>
+
+20
+00:01:08,180 --> 00:01:10,220
+have<font color="#CCCCCC"> mark post he's a professor of</font>
+
+21
+00:01:10,220 --> 00:01:12,530
+physiology<font color="#E5E5E5"> at Maastricht University and</font>
+
+22
+00:01:12,530 --> 00:01:14,480
+the<font color="#CCCCCC"> co-founder of masa</font><font color="#E5E5E5"> meets one of</font>
+
+23
+00:01:14,480 --> 00:01:15,950
+<font color="#CCCCCC">several companies</font><font color="#E5E5E5"> learning to grow</font>
+
+24
+00:01:15,950 --> 00:01:18,350
+cultured<font color="#E5E5E5"> meat professor mark what a</font>
+
+25
+00:01:18,350 --> 00:01:20,570
+fascinating<font color="#E5E5E5"> job you have all right what</font>
+
+26
+00:01:20,570 --> 00:01:23,210
+does<font color="#E5E5E5"> it taste like</font><font color="#CCCCCC"> it tastes like meat</font>
+
+27
+00:01:23,210 --> 00:01:25,430
+<font color="#CCCCCC">because that's what it is</font><font color="#E5E5E5"> it's</font><font color="#CCCCCC"> just</font>
+
+28
+00:01:25,430 --> 00:01:26,660
+growing<font color="#CCCCCC"> in a different way</font>
+
+29
+00:01:26,660 --> 00:01:28,610
+<font color="#CCCCCC">all right</font><font color="#E5E5E5"> people going to be curious</font>
+
+30
+00:01:28,610 --> 00:01:31,400
+about how this<font color="#CCCCCC"> actually works so</font><font color="#E5E5E5"> we've</font>
+
+31
+00:01:31,400 --> 00:01:33,320
+got a little<font color="#E5E5E5"> bit of video for</font><font color="#CCCCCC"> Massa meat</font>
+
+32
+00:01:33,320 --> 00:01:35,540
+so we can show them how<font color="#CCCCCC"> do you grow in</font>
+
+33
+00:01:35,540 --> 00:01:38,590
+<font color="#CCCCCC">vitro meat</font><font color="#E5E5E5"> have a look</font>
+
+34
+00:01:38,590 --> 00:01:41,540
+muscle tissue<font color="#E5E5E5"> is a key component of the</font>
+
+35
+00:01:41,540 --> 00:01:44,150
+meat we eat<font color="#E5E5E5"> and</font><font color="#CCCCCC"> it's first harvested in</font>
+
+36
+00:01:44,150 --> 00:01:47,000
+a small and harmless procedure
+
+37
+00:01:47,000 --> 00:01:50,090
+next<font color="#E5E5E5"> the tissue is cut into miniscule</font>
+
+38
+00:01:50,090 --> 00:01:52,610
+pieces to separate the muscle fibers
+
+39
+00:01:52,610 --> 00:01:57,950
+<font color="#E5E5E5">himself the muscle tissue consists of</font>
+
+40
+00:01:57,950 --> 00:02:00,560
+fat cells<font color="#E5E5E5"> and muscle cells which are</font>
+
+41
+00:02:00,560 --> 00:02:03,860
+separated<font color="#E5E5E5"> to produce cultured beef by</font>
+
+42
+00:02:03,860 --> 00:02:06,350
+dissecting<font color="#E5E5E5"> the muscle cells individual</font>
+
+43
+00:02:06,350 --> 00:02:08,869
+cells can be removed<font color="#E5E5E5"> and cultured the</font>
+
+44
+00:02:08,869 --> 00:02:12,709
+cells<font color="#E5E5E5"> start dividing eventually from one</font>
+
+45
+00:02:12,709 --> 00:02:15,080
+<font color="#E5E5E5">muscle cell</font><font color="#CCCCCC"> more than one trillion cells</font>
+
+46
+00:02:15,080 --> 00:02:19,100
+can be grown we asked our online
+
+47
+00:02:19,100 --> 00:02:21,860
+community would they eat lab-grown meat
+
+48
+00:02:21,860 --> 00:02:24,560
+<font color="#CCCCCC">here's some</font><font color="#E5E5E5"> of the reaction I would not</font>
+
+49
+00:02:24,560 --> 00:02:26,630
+eat lab-grown meat<font color="#CCCCCC"> simply because it's</font>
+
+50
+00:02:26,630 --> 00:02:29,120
+not<font color="#CCCCCC"> even meat</font><font color="#E5E5E5"> this is a way to die</font><font color="#CCCCCC"> over</font>
+
+51
+00:02:29,120 --> 00:02:32,570
+<font color="#E5E5E5">me</font><font color="#CCCCCC"> Edie says as</font><font color="#E5E5E5"> long as it tastes</font><font color="#CCCCCC"> good</font>
+
+52
+00:02:32,570 --> 00:02:34,580
+and medically approved harmless why not
+
+53
+00:02:34,580 --> 00:02:36,290
+<font color="#CCCCCC">I guess you wouldn't</font><font color="#E5E5E5"> have to kill the</font>
+
+54
+00:02:36,290 --> 00:02:40,580
+poor animals again and Judith says yes
+
+55
+00:02:40,580 --> 00:02:42,680
+if there<font color="#E5E5E5"> are lots of cells identical to</font>
+
+56
+00:02:42,680 --> 00:02:44,750
+one original<font color="#E5E5E5"> muscle cell then it's just</font>
+
+57
+00:02:44,750 --> 00:02:47,989
+<font color="#E5E5E5">more meat and</font><font color="#CCCCCC"> these</font><font color="#E5E5E5"> typical responses to</font>
+
+58
+00:02:47,989 --> 00:02:50,420
+this very curious<font color="#CCCCCC"> idea about being</font><font color="#E5E5E5"> able</font>
+
+59
+00:02:50,420 --> 00:02:52,760
+to cultivate meat<font color="#E5E5E5"> and not have a live</font>
+
+60
+00:02:52,760 --> 00:02:56,299
+animal to do it from yes they in fact
+
+61
+00:02:56,299 --> 00:02:59,090
+are so people<font color="#E5E5E5"> understand what it is</font>
+
+62
+00:02:59,090 --> 00:03:01,640
+<font color="#E5E5E5">which is a good thing they understand</font>
+
+63
+00:03:01,640 --> 00:03:03,530
+that it's<font color="#E5E5E5"> basically the same</font><font color="#CCCCCC"> tissue it's</font>
+
+64
+00:03:03,530 --> 00:03:06,260
+grown<font color="#CCCCCC"> from lots of cells cells</font><font color="#E5E5E5"> that have</font>
+
+65
+00:03:06,260 --> 00:03:08,049
+that come from<font color="#E5E5E5"> the animal that do</font>
+
+66
+00:03:08,049 --> 00:03:10,910
+outside<font color="#E5E5E5"> of the animal exactly the same</font>
+
+67
+00:03:10,910 --> 00:03:13,580
+as inside of the animal<font color="#CCCCCC"> divide and then</font>
+
+68
+00:03:13,580 --> 00:03:17,720
+make meat<font color="#E5E5E5"> tissue</font><font color="#CCCCCC"> there are also concerns</font>
+
+69
+00:03:17,720 --> 00:03:21,560
+<font color="#CCCCCC">about long term health and safety and</font>
+
+70
+00:03:21,560 --> 00:03:23,959
+those are natural<font color="#CCCCCC"> those are natural</font>
+
+71
+00:03:23,959 --> 00:03:27,230
+concerns<font color="#E5E5E5"> people have to understand that</font>
+
+72
+00:03:27,230 --> 00:03:31,100
+it's exactly<font color="#CCCCCC"> the same</font><font color="#E5E5E5"> tissue so and that</font>
+
+73
+00:03:31,100 --> 00:03:33,739
+<font color="#E5E5E5">obviously when this hits</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> market it</font>
+
+74
+00:03:33,739 --> 00:03:36,530
+first has to<font color="#E5E5E5"> be regulated by the FDA or</font>
+
+75
+00:03:36,530 --> 00:03:39,230
+my you have<font color="#CCCCCC"> here in Europe</font><font color="#E5E5E5"> so that it's</font>
+
+76
+00:03:39,230 --> 00:03:42,799
+<font color="#E5E5E5">absolutely safe so it's tissue but it's</font>
+
+77
+00:03:42,799 --> 00:03:44,600
+tissue that's not grown<font color="#CCCCCC"> in blood so it's</font>
+
+78
+00:03:44,600 --> 00:03:47,390
+<font color="#E5E5E5">not really going to look great what kind</font>
+
+79
+00:03:47,390 --> 00:03:48,410
+of<font color="#E5E5E5"> imagining</font>
+
+80
+00:03:48,410 --> 00:03:52,940
+well<font color="#E5E5E5"> the hamburger that we made in 2013</font>
+
+81
+00:03:52,940 --> 00:03:55,550
+was mostly yellow<font color="#E5E5E5"> yeah that's not</font>
+
+82
+00:03:55,550 --> 00:03:57,200
+<font color="#E5E5E5">because there was</font><font color="#CCCCCC"> no blood but that's</font>
+
+83
+00:03:57,200 --> 00:04:00,140
+because<font color="#E5E5E5"> it lacked a</font><font color="#CCCCCC"> certain protein</font>
+
+84
+00:04:00,140 --> 00:04:02,180
+called myoglobin<font color="#E5E5E5"> which is actually what</font>
+
+85
+00:04:02,180 --> 00:04:04,190
+colors<font color="#E5E5E5"> our muscle red it's not blood</font>
+
+86
+00:04:04,190 --> 00:04:06,950
+it's<font color="#E5E5E5"> it's myoglobin it's very similar</font><font color="#CCCCCC"> to</font>
+
+87
+00:04:06,950 --> 00:04:10,280
+blood<font color="#E5E5E5"> very similar to the hemoglobin in</font>
+
+88
+00:04:10,280 --> 00:04:14,360
+blood<font color="#E5E5E5"> but it's made by muscle cells and</font>
+
+89
+00:04:14,360 --> 00:04:17,120
+actually<font color="#E5E5E5"> we now have a way to culture</font>
+
+90
+00:04:17,120 --> 00:04:18,829
+our muscle<font color="#CCCCCC"> cells under low oxygen</font>
+
+91
+00:04:18,829 --> 00:04:21,290
+conditions<font color="#E5E5E5"> so that they create that</font>
+
+92
+00:04:21,290 --> 00:04:23,150
+myoglobin and then they look pink
+
+93
+00:04:23,150 --> 00:04:25,070
+<font color="#E5E5E5">alright so sorry says we need</font>
+
+94
+00:04:25,070 --> 00:04:26,750
+sustainable<font color="#E5E5E5"> scenarios to build</font>
+
+95
+00:04:26,750 --> 00:04:29,390
+<font color="#E5E5E5">sustainable future tell us how this is</font>
+
+96
+00:04:29,390 --> 00:04:31,190
+<font color="#CCCCCC">sustainable</font><font color="#E5E5E5"> because one burger would</font>
+
+97
+00:04:31,190 --> 00:04:35,360
+cost how much right now<font color="#CCCCCC"> mark</font><font color="#E5E5E5"> well right</font>
+
+98
+00:04:35,360 --> 00:04:37,520
+<font color="#E5E5E5">now it's difficult to say if we scale up</font>
+
+99
+00:04:37,520 --> 00:04:39,680
+<font color="#CCCCCC">production it would</font><font color="#E5E5E5"> be about</font><font color="#CCCCCC"> eleven</font>
+
+100
+00:04:39,680 --> 00:04:42,200
+<font color="#E5E5E5">dollars which is still a lot but that's</font>
+
+101
+00:04:42,200 --> 00:04:43,669
+with the current technology<font color="#CCCCCC"> and</font><font color="#E5E5E5"> that</font>
+
+102
+00:04:43,669 --> 00:04:45,500
+eventually<font color="#E5E5E5"> is going to improve to make</font>
+
+103
+00:04:45,500 --> 00:04:48,950
+<font color="#CCCCCC">it cheaper</font><font color="#E5E5E5"> the reason why meat is really</font>
+
+104
+00:04:48,950 --> 00:04:50,480
+unsustainable that<font color="#E5E5E5"> there are two reasons</font>
+
+105
+00:04:50,480 --> 00:04:53,690
+<font color="#E5E5E5">one is it uses a lot</font><font color="#CCCCCC"> of resources it's a</font>
+
+106
+00:04:53,690 --> 00:04:56,180
+very expensive component of<font color="#E5E5E5"> our food and</font>
+
+107
+00:04:56,180 --> 00:04:58,400
+that's because cows are very very
+
+108
+00:04:58,400 --> 00:05:01,610
+inefficient in converting their food
+
+109
+00:05:01,610 --> 00:05:06,169
+into<font color="#E5E5E5"> our animal protein and second</font>
+
+110
+00:05:06,169 --> 00:05:08,510
+because<font color="#E5E5E5"> they are ruminants cows they do</font>
+
+111
+00:05:08,510 --> 00:05:11,750
+as you said<font color="#CCCCCC"> earlier emit greenhouse</font>
+
+112
+00:05:11,750 --> 00:05:14,210
+<font color="#E5E5E5">gases and are</font><font color="#CCCCCC"> really very detrimental to</font>
+
+113
+00:05:14,210 --> 00:05:17,180
+the environment<font color="#E5E5E5"> this needs some kind</font><font color="#CCCCCC"> of</font>
+
+114
+00:05:17,180 --> 00:05:19,490
+imagination<font color="#CCCCCC"> from members of the</font><font color="#E5E5E5"> public</font>
+
+115
+00:05:19,490 --> 00:05:21,290
+<font color="#E5E5E5">just to get our head around the</font><font color="#CCCCCC"> idea</font>
+
+116
+00:05:21,290 --> 00:05:23,600
+that<font color="#E5E5E5"> our meal isn't coming from</font><font color="#CCCCCC"> a a cow</font>
+
+117
+00:05:23,600 --> 00:05:27,169
+or a fish or or a<font color="#E5E5E5"> normal</font><font color="#CCCCCC"> supply of meat</font>
+
+118
+00:05:27,169 --> 00:05:30,140
+<font color="#E5E5E5">and there's a website bistro in Vito</font>
+
+119
+00:05:30,140 --> 00:05:32,660
+calm is kind<font color="#CCCCCC"> of an imaginary</font><font color="#E5E5E5"> this is the</font>
+
+120
+00:05:32,660 --> 00:05:34,610
+<font color="#E5E5E5">possibility of the future there's one</font>
+
+121
+00:05:34,610 --> 00:05:36,500
+<font color="#E5E5E5">little section that caught my eye and</font>
+
+122
+00:05:36,500 --> 00:05:40,310
+that's this one celebrity<font color="#CCCCCC"> queues cubes</font>
+
+123
+00:05:40,310 --> 00:05:42,260
+<font color="#E5E5E5">where you can eat a little bit of your</font>
+
+124
+00:05:42,260 --> 00:05:45,200
+<font color="#E5E5E5">celebrity you can grow it from a tissue</font>
+
+125
+00:05:45,200 --> 00:05:47,840
+<font color="#CCCCCC">so we could I don't</font><font color="#E5E5E5"> know</font><font color="#CCCCCC"> Jennifer</font>
+
+126
+00:05:47,840 --> 00:05:49,640
+<font color="#CCCCCC">Aniston for instance</font><font color="#E5E5E5"> what was she had to</font>
+
+127
+00:05:49,640 --> 00:05:51,820
+give us to have a<font color="#CCCCCC"> Jen astir Aniston</font>
+
+128
+00:05:51,820 --> 00:05:57,560
+burger yeah<font color="#CCCCCC"> I find have a little bit</font>
+
+129
+00:05:57,560 --> 00:06:01,970
+difficult to<font color="#E5E5E5"> accept</font><font color="#CCCCCC"> because this would</font>
+
+130
+00:06:01,970 --> 00:06:05,390
+basically<font color="#E5E5E5"> be cannibalism and yes you</font>
+
+131
+00:06:05,390 --> 00:06:07,430
+could<font color="#E5E5E5"> do it but I</font><font color="#CCCCCC"> don't</font><font color="#E5E5E5"> think anybody is</font>
+
+132
+00:06:07,430 --> 00:06:09,320
+waiting for this to<font color="#E5E5E5"> happen so</font><font color="#CCCCCC"> let's</font>
+
+133
+00:06:09,320 --> 00:06:11,780
+let's stick with<font color="#E5E5E5"> the regular animals</font>
+
+134
+00:06:11,780 --> 00:06:13,340
+cows pigs
+
+135
+00:06:13,340 --> 00:06:17,300
+fish chicken<font color="#E5E5E5"> and and look where that</font>
+
+136
+00:06:17,300 --> 00:06:20,900
+<font color="#E5E5E5">gets us there is a factor involved in</font>
+
+137
+00:06:20,900 --> 00:06:22,970
+this that makes people a little<font color="#CCCCCC"> bit</font>
+
+138
+00:06:22,970 --> 00:06:26,780
+queasy the idea of meat<font color="#E5E5E5"> not coming from</font>
+
+139
+00:06:26,780 --> 00:06:28,340
+its normal source but coming out<font color="#E5E5E5"> of a</font>
+
+140
+00:06:28,340 --> 00:06:30,590
+<font color="#E5E5E5">laboratory perhaps how do you address</font>
+
+141
+00:06:30,590 --> 00:06:34,669
+that<font color="#E5E5E5"> concern well there are a couple of</font>
+
+142
+00:06:34,669 --> 00:06:37,370
+reasons why I think<font color="#CCCCCC"> people are a little</font>
+
+143
+00:06:37,370 --> 00:06:39,650
+<font color="#E5E5E5">bit queasy one as we touched upon is</font>
+
+144
+00:06:39,650 --> 00:06:41,840
+safety<font color="#CCCCCC"> so it</font><font color="#E5E5E5"> we need to establish that</font>
+
+145
+00:06:41,840 --> 00:06:44,479
+<font color="#E5E5E5">it's absolutely safe</font><font color="#CCCCCC"> that's one thing</font>
+
+146
+00:06:44,479 --> 00:06:46,880
+<font color="#E5E5E5">the next thing is</font><font color="#CCCCCC"> that we want to have</font>
+
+147
+00:06:46,880 --> 00:06:48,710
+the illusion<font color="#E5E5E5"> of</font><font color="#CCCCCC"> control over</font><font color="#E5E5E5"> how our</font>
+
+148
+00:06:48,710 --> 00:06:50,840
+<font color="#E5E5E5">food is being produced and this what if</font>
+
+149
+00:06:50,840 --> 00:06:53,180
+<font color="#E5E5E5">you if you start a</font><font color="#CCCCCC"> new technology</font><font color="#E5E5E5"> people</font>
+
+150
+00:06:53,180 --> 00:06:54,800
+immediately are going to<font color="#CCCCCC"> imagine how</font>
+
+151
+00:06:54,800 --> 00:06:56,540
+it's going to be implemented<font color="#CCCCCC"> in society</font>
+
+152
+00:06:56,540 --> 00:06:59,000
+<font color="#E5E5E5">and so they think</font><font color="#CCCCCC"> of large factories in</font>
+
+153
+00:06:59,000 --> 00:07:00,500
+<font color="#CCCCCC">low-wage countries somewhere far away</font>
+
+154
+00:07:00,500 --> 00:07:03,800
+with with a very little<font color="#E5E5E5"> control over how</font>
+
+155
+00:07:03,800 --> 00:07:05,720
+<font color="#CCCCCC">our food is</font><font color="#E5E5E5"> being produced however</font>
+
+156
+00:07:05,720 --> 00:07:08,090
+that's not the<font color="#CCCCCC"> technology itself</font><font color="#E5E5E5"> you</font>
+
+157
+00:07:08,090 --> 00:07:10,570
+could do this in small<font color="#E5E5E5"> farms in a city</font>
+
+158
+00:07:10,570 --> 00:07:13,760
+in a barn next<font color="#E5E5E5"> to a very small farm that</font>
+
+159
+00:07:13,760 --> 00:07:15,949
+<font color="#E5E5E5">you can visit on Sundays and</font><font color="#CCCCCC"> see exactly</font>
+
+160
+00:07:15,949 --> 00:07:18,229
+how<font color="#CCCCCC"> your meat is</font><font color="#E5E5E5"> being produced and</font>
+
+161
+00:07:18,229 --> 00:07:20,720
+where it comes from<font color="#E5E5E5"> so it all depends</font>
+
+162
+00:07:20,720 --> 00:07:23,810
+<font color="#CCCCCC">how it sort of lands in society and then</font>
+
+163
+00:07:23,810 --> 00:07:26,210
+of<font color="#CCCCCC"> course there</font><font color="#E5E5E5"> is a whole cultural sort</font>
+
+164
+00:07:26,210 --> 00:07:28,430
+of<font color="#CCCCCC"> connotation of meat with cowboy</font>
+
+165
+00:07:28,430 --> 00:07:31,840
+movies and campfires and although that
+
+166
+00:07:31,840 --> 00:07:34,490
+<font color="#CCCCCC">romanticism around it and yes that's</font>
+
+167
+00:07:34,490 --> 00:07:36,889
+difficult<font color="#E5E5E5"> to replace admittedly</font><font color="#CCCCCC"> all</font>
+
+168
+00:07:36,889 --> 00:07:38,360
+<font color="#E5E5E5">right where do you think what year do</font>
+
+169
+00:07:38,360 --> 00:07:41,180
+you think<font color="#E5E5E5"> that</font><font color="#CCCCCC"> in-vitro meat will be</font>
+
+170
+00:07:41,180 --> 00:07:42,650
+available<font color="#E5E5E5"> in your supermarket or your</font>
+
+171
+00:07:42,650 --> 00:07:44,150
+restaurant<font color="#E5E5E5"> how would you what would</font><font color="#CCCCCC"> you</font>
+
+172
+00:07:44,150 --> 00:07:47,419
+guess<font color="#E5E5E5"> might be the day well together</font>
+
+173
+00:07:47,419 --> 00:07:49,789
+with my other colleagues who are also
+
+174
+00:07:49,789 --> 00:07:51,950
+<font color="#CCCCCC">trying to commercialize</font><font color="#E5E5E5"> this we think</font>
+
+175
+00:07:51,950 --> 00:07:54,050
+that realistically in<font color="#E5E5E5"> three years it</font>
+
+176
+00:07:54,050 --> 00:07:56,360
+will be<font color="#E5E5E5"> in restaurants</font><font color="#CCCCCC"> at</font><font color="#E5E5E5"> a relatively</font>
+
+177
+00:07:56,360 --> 00:07:58,729
+<font color="#E5E5E5">high price and then it will take a</font>
+
+178
+00:07:58,729 --> 00:08:00,800
+<font color="#CCCCCC">couple of</font><font color="#E5E5E5"> years for it to reach the</font>
+
+179
+00:08:00,800 --> 00:08:03,080
+price level<font color="#E5E5E5"> so</font><font color="#CCCCCC"> that we can get it into</font>
+
+180
+00:08:03,080 --> 00:08:05,330
+the<font color="#E5E5E5"> supermarket</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> right</font><font color="#CCCCCC"> Malpass thank</font>
+
+181
+00:08:05,330 --> 00:08:06,950
+you so<font color="#E5E5E5"> much one more comment here that's</font>
+
+182
+00:08:06,950 --> 00:08:08,870
+<font color="#E5E5E5">coming from YouTube very live right now</font>
+
+183
+00:08:08,870 --> 00:08:10,910
+that's just<font color="#E5E5E5"> squirrels</font><font color="#CCCCCC"> slayer</font><font color="#E5E5E5"> says if it</font>
+
+184
+00:08:10,910 --> 00:08:12,590
+tastes<font color="#E5E5E5"> okay and saves people from</font>
+
+185
+00:08:12,590 --> 00:08:14,450
+starving then go for it
+
+186
+00:08:14,450 --> 00:08:16,880
+mark<font color="#CCCCCC"> thank you</font><font color="#E5E5E5"> very much appreciate it</font>
+
+187
+00:08:16,880 --> 00:08:18,260
+<font color="#E5E5E5">thank you very much thanks being part of</font>
+
+188
+00:08:18,260 --> 00:08:19,729
+<font color="#E5E5E5">the stream today we look forward</font><font color="#CCCCCC"> to</font>
+
+189
+00:08:19,729 --> 00:08:20,870
+<font color="#E5E5E5">seeing your product in the supermarket</font>
+
+190
+00:08:20,870 --> 00:08:25,580
+one day thank<font color="#E5E5E5"> you now aging it happens</font>
+
+191
+00:08:25,580 --> 00:08:27,039
+to all of us
+
+192
+00:08:27,039 --> 00:08:29,499
+by the National Institutes of Health<font color="#CCCCCC"> us</font>
+
+193
+00:08:29,499 --> 00:08:31,270
+<font color="#E5E5E5">organization</font><font color="#CCCCCC"> found the world</font><font color="#E5E5E5"> older</font>
+
+194
+00:08:31,270 --> 00:08:33,190
+population is growing at an
+
+195
+00:08:33,190 --> 00:08:35,229
+unprecedented rate<font color="#CCCCCC"> today</font>
+
+196
+00:08:35,229 --> 00:08:38,799
+<font color="#E5E5E5">8.5%</font><font color="#CCCCCC"> of people around the world are 65</font>
+
+197
+00:08:38,799 --> 00:08:41,559
+<font color="#E5E5E5">and over</font><font color="#CCCCCC"> that percentage is projected to</font>
+
+198
+00:08:41,559 --> 00:08:44,500
+jumped nearly<font color="#CCCCCC"> 17 percent by 2050</font><font color="#E5E5E5"> and</font>
+
+199
+00:08:44,500 --> 00:08:47,170
+with<font color="#E5E5E5"> aging comes a decrease in</font><font color="#CCCCCC"> mobility</font>
+
+200
+00:08:47,170 --> 00:08:50,139
+and<font color="#CCCCCC"> other health issues all</font><font color="#E5E5E5"> of which can</font>
+
+201
+00:08:50,139 --> 00:08:52,480
+mean<font color="#E5E5E5"> a loss of Independence</font><font color="#CCCCCC"> but could</font>
+
+202
+00:08:52,480 --> 00:08:54,459
+<font color="#CCCCCC">technologies solve that problem joining</font>
+
+203
+00:08:54,459 --> 00:08:56,500
+<font color="#E5E5E5">us to talk</font><font color="#CCCCCC"> about this we have Alex</font><font color="#E5E5E5"> mija</font>
+
+204
+00:08:56,500 --> 00:08:58,540
+<font color="#E5E5E5">ladies he is a professor of biomedical</font>
+
+205
+00:08:58,540 --> 00:09:00,880
+engineering<font color="#E5E5E5"> at the University</font><font color="#CCCCCC"> of Toronto</font>
+
+206
+00:09:00,880 --> 00:09:03,100
+and<font color="#E5E5E5"> also scientific director at age well</font>
+
+207
+00:09:03,100 --> 00:09:05,380
+<font color="#E5E5E5">as a government funding organization</font>
+
+208
+00:09:05,380 --> 00:09:07,089
+creating<font color="#CCCCCC"> real-world solutions for</font>
+
+209
+00:09:07,089 --> 00:09:11,399
+seniors and caregivers<font color="#E5E5E5"> so</font><font color="#CCCCCC"> professor</font><font color="#E5E5E5"> Alex</font>
+
+210
+00:09:11,399 --> 00:09:14,649
+<font color="#E5E5E5">what do you think is the most important</font>
+
+211
+00:09:14,649 --> 00:09:16,360
+<font color="#E5E5E5">part of what you're doing right</font><font color="#CCCCCC"> now</font>
+
+212
+00:09:16,360 --> 00:09:17,829
+when you've been<font color="#E5E5E5"> trying it out</font><font color="#CCCCCC"> and</font>
+
+213
+00:09:17,829 --> 00:09:21,040
+testing it on<font color="#E5E5E5"> the</font><font color="#CCCCCC"> older population</font><font color="#E5E5E5"> your</font>
+
+214
+00:09:21,040 --> 00:09:22,990
+test subjects what are they<font color="#E5E5E5"> loving right</font>
+
+215
+00:09:22,990 --> 00:09:25,810
+<font color="#CCCCCC">now that you can tell us</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> think</font>
+
+216
+00:09:25,810 --> 00:09:27,220
+you know the most important that<font color="#CCCCCC"> they're</font>
+
+217
+00:09:27,220 --> 00:09:28,870
+<font color="#E5E5E5">loved right now is the the possibility</font>
+
+218
+00:09:28,870 --> 00:09:31,690
+of remaining<font color="#E5E5E5"> independent in their own</font>
+
+219
+00:09:31,690 --> 00:09:33,069
+homes and<font color="#E5E5E5"> communities</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> as long</font><font color="#CCCCCC"> as</font>
+
+220
+00:09:33,069 --> 00:09:34,420
+<font color="#E5E5E5">possible and</font><font color="#CCCCCC"> that's really</font><font color="#E5E5E5"> kind</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the</font>
+
+221
+00:09:34,420 --> 00:09:36,279
+end goal here<font color="#CCCCCC"> it</font><font color="#E5E5E5"> doesn't matter</font><font color="#CCCCCC"> you know</font>
+
+222
+00:09:36,279 --> 00:09:37,930
+<font color="#E5E5E5">whether we're testing a low-tech device</font>
+
+223
+00:09:37,930 --> 00:09:40,360
+or a high-tech device<font color="#E5E5E5"> ultimately it's</font>
+
+224
+00:09:40,360 --> 00:09:41,949
+not support that<font color="#CCCCCC"> we're trying</font><font color="#E5E5E5"> to provide</font>
+
+225
+00:09:41,949 --> 00:09:44,769
+<font color="#CCCCCC">to our seniors</font><font color="#E5E5E5"> and also the support</font><font color="#CCCCCC"> to</font>
+
+226
+00:09:44,769 --> 00:09:46,240
+their families who are<font color="#CCCCCC"> at</font><font color="#E5E5E5"> their wit's</font>
+
+227
+00:09:46,240 --> 00:09:49,060
+end<font color="#E5E5E5"> trying to provide</font><font color="#CCCCCC"> care</font><font color="#E5E5E5"> often perhaps</font>
+
+228
+00:09:49,060 --> 00:09:52,480
+<font color="#E5E5E5">across the country and the technology</font>
+
+229
+00:09:52,480 --> 00:09:54,310
+really<font color="#E5E5E5"> is providing</font><font color="#CCCCCC"> an opportunity</font><font color="#E5E5E5"> for</font>
+
+230
+00:09:54,310 --> 00:09:56,680
+<font color="#E5E5E5">them to provide this care and to support</font>
+
+231
+00:09:56,680 --> 00:09:58,540
+their loved ones as<font color="#CCCCCC"> much as possible</font><font color="#E5E5E5"> so</font>
+
+232
+00:09:58,540 --> 00:10:02,170
+<font color="#E5E5E5">professor we had a series of tweets from</font>
+
+233
+00:10:02,170 --> 00:10:05,680
+Tommy and Tommy<font color="#E5E5E5"> Jun BM has Alzheimer's</font>
+
+234
+00:10:05,680 --> 00:10:08,649
+<font color="#CCCCCC">and he says he told</font><font color="#E5E5E5"> us too many things</font>
+
+235
+00:10:08,649 --> 00:10:11,079
+developed and then it is expected<font color="#E5E5E5"> that</font>
+
+236
+00:10:11,079 --> 00:10:12,699
+people<font color="#E5E5E5"> living with disabilities will</font>
+
+237
+00:10:12,699 --> 00:10:14,889
+adapt to<font color="#E5E5E5"> the</font><font color="#CCCCCC"> technology</font><font color="#E5E5E5"> not the other</font>
+
+238
+00:10:14,889 --> 00:10:18,010
+way around<font color="#CCCCCC"> expecting</font><font color="#E5E5E5"> the person living</font>
+
+239
+00:10:18,010 --> 00:10:19,600
+with<font color="#E5E5E5"> dementia to adapt</font><font color="#CCCCCC"> without listening</font>
+
+240
+00:10:19,600 --> 00:10:21,850
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> their views that can affect how keen</font>
+
+241
+00:10:21,850 --> 00:10:24,010
+they are to use a technology<font color="#E5E5E5"> how are you</font>
+
+242
+00:10:24,010 --> 00:10:25,779
+approaching<font color="#E5E5E5"> this how are you getting</font>
+
+243
+00:10:25,779 --> 00:10:27,819
+people with the disabilities<font color="#CCCCCC"> with the</font>
+
+244
+00:10:27,819 --> 00:10:29,380
+aging issues how are you getting them
+
+245
+00:10:29,380 --> 00:10:32,139
+<font color="#E5E5E5">right there at the beginning</font><font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> this</font>
+
+246
+00:10:32,139 --> 00:10:34,089
+<font color="#E5E5E5">is a critical</font><font color="#CCCCCC"> aspect of</font><font color="#E5E5E5"> why many past</font>
+
+247
+00:10:34,089 --> 00:10:36,310
+technologies have failed<font color="#CCCCCC"> to really</font>
+
+248
+00:10:36,310 --> 00:10:37,750
+provide<font color="#E5E5E5"> that</font><font color="#CCCCCC"> support so what</font><font color="#E5E5E5"> we're doing</font>
+
+249
+00:10:37,750 --> 00:10:40,480
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> age well with our researchers and</font><font color="#CCCCCC"> our</font>
+
+250
+00:10:40,480 --> 00:10:42,880
+students and<font color="#E5E5E5"> our partners is really</font>
+
+251
+00:10:42,880 --> 00:10:45,490
+<font color="#E5E5E5">teaching them how to engage</font><font color="#CCCCCC"> seniors and</font>
+
+252
+00:10:45,490 --> 00:10:47,139
+caregivers right at the get-go and not
+
+253
+00:10:47,139 --> 00:10:49,389
+really looking at seniors and these
+
+254
+00:10:49,389 --> 00:10:51,100
+individuals as you know kind of<font color="#CCCCCC"> have</font>
+
+255
+00:10:51,100 --> 00:10:52,959
+<font color="#CCCCCC">that token older person as part of</font><font color="#E5E5E5"> your</font>
+
+256
+00:10:52,959 --> 00:10:54,550
+project<font color="#E5E5E5"> but really making them an equal</font>
+
+257
+00:10:54,550 --> 00:10:56,260
+part of the research<font color="#E5E5E5"> and development</font>
+
+258
+00:10:56,260 --> 00:10:58,510
+<font color="#CCCCCC">team that's been a real</font><font color="#E5E5E5"> critical aspect</font>
+
+259
+00:10:58,510 --> 00:11:00,430
+of<font color="#E5E5E5"> our network which has</font><font color="#CCCCCC"> result</font><font color="#E5E5E5"> in some</font>
+
+260
+00:11:00,430 --> 00:11:02,529
+<font color="#E5E5E5">really fascinating technologies moving</font>
+
+261
+00:11:02,529 --> 00:11:04,480
+towards the marketplace<font color="#CCCCCC"> you</font><font color="#E5E5E5"> have a home</font>
+
+262
+00:11:04,480 --> 00:11:07,120
+lab<font color="#E5E5E5"> I've got a little</font><font color="#CCCCCC"> bit of a picture</font>
+
+263
+00:11:07,120 --> 00:11:08,440
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> your home lab a little</font><font color="#CCCCCC"> bit of video</font>
+
+264
+00:11:08,440 --> 00:11:09,790
+can<font color="#E5E5E5"> you explain what we're seeing when</font>
+
+265
+00:11:09,790 --> 00:11:11,380
+<font color="#CCCCCC">we</font><font color="#E5E5E5"> put it up on the screen I'm gonna do</font>
+
+266
+00:11:11,380 --> 00:11:13,089
+it<font color="#E5E5E5"> right now and we can see what we've</font>
+
+267
+00:11:13,089 --> 00:11:14,589
+<font color="#CCCCCC">got there in the</font><font color="#E5E5E5"> home</font><font color="#CCCCCC"> lap what are we</font>
+
+268
+00:11:14,589 --> 00:11:17,170
+looking at here<font color="#E5E5E5"> yeah so this is our home</font>
+
+269
+00:11:17,170 --> 00:11:19,240
+lab here in Toronto<font color="#E5E5E5"> based on Toronto</font>
+
+270
+00:11:19,240 --> 00:11:21,639
+rehab<font color="#E5E5E5"> Institute and this is essentially</font>
+
+271
+00:11:21,639 --> 00:11:23,410
+a fully<font color="#CCCCCC"> simulated house so it allows us</font>
+
+272
+00:11:23,410 --> 00:11:26,199
+<font color="#CCCCCC">to develop</font><font color="#E5E5E5"> and to test our technologies</font>
+
+273
+00:11:26,199 --> 00:11:28,540
+<font color="#CCCCCC">in as</font><font color="#E5E5E5"> much</font><font color="#CCCCCC"> as a</font><font color="#E5E5E5"> realistic environment as</font>
+
+274
+00:11:28,540 --> 00:11:30,100
+<font color="#CCCCCC">possible and what you saw there was one</font>
+
+275
+00:11:30,100 --> 00:11:32,050
+technology<font color="#CCCCCC"> that's being developed</font><font color="#E5E5E5"> we're</font>
+
+276
+00:11:32,050 --> 00:11:33,940
+using sensors that<font color="#E5E5E5"> are built into that</font>
+
+277
+00:11:33,940 --> 00:11:36,160
+<font color="#E5E5E5">sofa</font><font color="#CCCCCC"> we're actually able to get</font><font color="#E5E5E5"> a live</font>
+
+278
+00:11:36,160 --> 00:11:38,920
+ECG from that individual<font color="#E5E5E5"> and therefore</font>
+
+279
+00:11:38,920 --> 00:11:40,360
+get his heart<font color="#E5E5E5"> rate</font><font color="#CCCCCC"> and other</font>
+
+280
+00:11:40,360 --> 00:11:42,579
+physiological<font color="#E5E5E5"> parameters without the</font>
+
+281
+00:11:42,579 --> 00:11:43,750
+person having<font color="#E5E5E5"> to</font><font color="#CCCCCC"> remember</font><font color="#E5E5E5"> to put the</font>
+
+282
+00:11:43,750 --> 00:11:45,579
+<font color="#CCCCCC">device on having to</font><font color="#E5E5E5"> figure out how to</font>
+
+283
+00:11:45,579 --> 00:11:47,319
+push<font color="#CCCCCC"> the</font><font color="#E5E5E5"> buttons or having to understand</font>
+
+284
+00:11:47,319 --> 00:11:49,269
+exactly how the technology works<font color="#E5E5E5"> they</font>
+
+285
+00:11:49,269 --> 00:11:50,350
+can<font color="#CCCCCC"> go about</font><font color="#E5E5E5"> their daily business</font>
+
+286
+00:11:50,350 --> 00:11:52,180
+through daily activities<font color="#CCCCCC"> and we can</font>
+
+287
+00:11:52,180 --> 00:11:53,279
+collect<font color="#E5E5E5"> those types of information</font>
+
+288
+00:11:53,279 --> 00:11:55,600
+<font color="#E5E5E5">Victor Wong here on Twitter says</font>
+
+289
+00:11:55,600 --> 00:11:58,209
+<font color="#E5E5E5">overlooked populations eg ethnic</font>
+
+290
+00:11:58,209 --> 00:11:59,620
+minorities deserve focus from
+
+291
+00:11:59,620 --> 00:12:01,240
+technologists and culturally adapted
+
+292
+00:12:01,240 --> 00:12:04,000
+approaches to<font color="#E5E5E5"> healthcare engagement so</font>
+
+293
+00:12:04,000 --> 00:12:06,819
+that's a good<font color="#E5E5E5"> point absolutely</font><font color="#CCCCCC"> and</font>
+
+294
+00:12:06,819 --> 00:12:08,560
+that's a<font color="#E5E5E5"> critical aspect that we're</font>
+
+295
+00:12:08,560 --> 00:12:09,579
+trying to<font color="#CCCCCC"> look at and we're trying to</font>
+
+296
+00:12:09,579 --> 00:12:11,199
+<font color="#E5E5E5">address you know not</font><font color="#CCCCCC"> just different</font>
+
+297
+00:12:11,199 --> 00:12:13,149
+cultures but you know the<font color="#E5E5E5"> population</font>
+
+298
+00:12:13,149 --> 00:12:14,470
+that<font color="#E5E5E5"> we currently have here for</font><font color="#CCCCCC"> example</font>
+
+299
+00:12:14,470 --> 00:12:16,569
+in Canada<font color="#CCCCCC"> we have a wide variety</font><font color="#E5E5E5"> of</font>
+
+300
+00:12:16,569 --> 00:12:19,060
+various types of minorities language
+
+301
+00:12:19,060 --> 00:12:21,279
+<font color="#CCCCCC">spoken but in addition we also</font><font color="#E5E5E5"> have our</font>
+
+302
+00:12:21,279 --> 00:12:22,510
+<font color="#CCCCCC">indigenous communities we have our</font>
+
+303
+00:12:22,510 --> 00:12:23,860
+northern communities<font color="#CCCCCC"> as</font><font color="#E5E5E5"> well that we're</font>
+
+304
+00:12:23,860 --> 00:12:25,449
+looking<font color="#E5E5E5"> at and see how</font><font color="#CCCCCC"> can technology</font>
+
+305
+00:12:25,449 --> 00:12:28,180
+play a role to connect them with
+
+306
+00:12:28,180 --> 00:12:29,949
+<font color="#CCCCCC">healthcare services</font><font color="#E5E5E5"> but also to help</font>
+
+307
+00:12:29,949 --> 00:12:31,180
+<font color="#E5E5E5">them remain</font><font color="#CCCCCC"> in their</font><font color="#E5E5E5"> own community as</font>
+
+308
+00:12:31,180 --> 00:12:34,420
+long<font color="#E5E5E5"> as possible as well</font><font color="#CCCCCC"> I know people</font>
+
+309
+00:12:34,420 --> 00:12:36,100
+<font color="#E5E5E5">trying to imagine what kind of work</font>
+
+310
+00:12:36,100 --> 00:12:39,069
+you're<font color="#E5E5E5"> doing and there is a little video</font>
+
+311
+00:12:39,069 --> 00:12:41,529
+<font color="#E5E5E5">from</font><font color="#CCCCCC"> age well of a gentleman making a</font>
+
+312
+00:12:41,529 --> 00:12:43,060
+cup of<font color="#CCCCCC"> tea</font><font color="#E5E5E5"> now we've blanked out his</font>
+
+313
+00:12:43,060 --> 00:12:45,279
+face<font color="#E5E5E5"> for his privacy but I'm just</font><font color="#CCCCCC"> going</font>
+
+314
+00:12:45,279 --> 00:12:46,480
+<font color="#CCCCCC">to show people the sort of</font><font color="#E5E5E5"> things</font><font color="#CCCCCC"> that</font>
+
+315
+00:12:46,480 --> 00:12:49,470
+<font color="#CCCCCC">you're working</font><font color="#E5E5E5"> on have a look at this</font>
+
+316
+00:12:50,209 --> 00:12:53,569
+<font color="#CCCCCC">on that</font>
+
+317
+00:12:59,720 --> 00:13:02,480
+try pressing the<font color="#CCCCCC"> switch to boil the</font>
+
+318
+00:13:02,480 --> 00:13:04,720
+<font color="#E5E5E5">water</font>
+
+319
+00:13:11,040 --> 00:13:14,080
+what's going on there professor<font color="#E5E5E5"> Alex</font><font color="#CCCCCC"> yes</font>
+
+320
+00:13:14,080 --> 00:13:16,060
+<font color="#E5E5E5">that's a that's a key project within</font><font color="#CCCCCC"> our</font>
+
+321
+00:13:16,060 --> 00:13:17,560
+networking<font color="#E5E5E5"> here in Toronto looking at</font>
+
+322
+00:13:17,560 --> 00:13:19,780
+the role of robots in the home<font color="#E5E5E5"> how can</font>
+
+323
+00:13:19,780 --> 00:13:22,330
+<font color="#E5E5E5">we use robots</font><font color="#CCCCCC"> to provide support in care</font>
+
+324
+00:13:22,330 --> 00:13:24,580
+<font color="#E5E5E5">to older</font><font color="#CCCCCC"> adults who may have dementia or</font>
+
+325
+00:13:24,580 --> 00:13:26,470
+<font color="#E5E5E5">Alzheimer's disease for</font><font color="#CCCCCC"> example</font><font color="#E5E5E5"> so that</font>
+
+326
+00:13:26,470 --> 00:13:27,820
+<font color="#CCCCCC">video you saw there was actually an</font>
+
+327
+00:13:27,820 --> 00:13:29,830
+<font color="#E5E5E5">individual with Alzheimer's</font><font color="#CCCCCC"> so that's a</font>
+
+328
+00:13:29,830 --> 00:13:32,620
+real client<font color="#E5E5E5"> that we work with and the</font>
+
+329
+00:13:32,620 --> 00:13:34,300
+robot there is providing the prompts
+
+330
+00:13:34,300 --> 00:13:36,340
+that<font color="#E5E5E5"> are required to complete basic</font>
+
+331
+00:13:36,340 --> 00:13:38,140
+<font color="#CCCCCC">activities of daily living whether it's</font>
+
+332
+00:13:38,140 --> 00:13:40,270
+making<font color="#CCCCCC"> a cup</font><font color="#E5E5E5"> of tea brushing</font><font color="#CCCCCC"> your teeth</font>
+
+333
+00:13:40,270 --> 00:13:42,160
+getting<font color="#E5E5E5"> dressed or using the toilet</font><font color="#CCCCCC"> and</font>
+
+334
+00:13:42,160 --> 00:13:44,290
+you know the point<font color="#CCCCCC"> of these robots are</font>
+
+335
+00:13:44,290 --> 00:13:46,000
+<font color="#CCCCCC">not to replace</font><font color="#E5E5E5"> the caregiver it's not to</font>
+
+336
+00:13:46,000 --> 00:13:48,160
+<font color="#E5E5E5">replace the</font><font color="#CCCCCC"> family</font><font color="#E5E5E5"> supporter or contact</font>
+
+337
+00:13:48,160 --> 00:13:50,230
+but to provide<font color="#CCCCCC"> the support</font><font color="#E5E5E5"> when the</font>
+
+338
+00:13:50,230 --> 00:13:51,730
+family cannot<font color="#E5E5E5"> be there to provide</font><font color="#CCCCCC"> the</font>
+
+339
+00:13:51,730 --> 00:13:53,860
+<font color="#CCCCCC">support</font><font color="#E5E5E5"> perhaps during those private and</font>
+
+340
+00:13:53,860 --> 00:13:55,420
+embarrassing activities<font color="#E5E5E5"> like using the</font>
+
+341
+00:13:55,420 --> 00:13:56,950
+<font color="#E5E5E5">washroom where we've heard</font><font color="#CCCCCC"> from</font><font color="#E5E5E5"> many</font>
+
+342
+00:13:56,950 --> 00:13:59,860
+<font color="#E5E5E5">older</font><font color="#CCCCCC"> adults with dementia and their</font>
+
+343
+00:13:59,860 --> 00:14:01,690
+families that it's just such a difficult
+
+344
+00:14:01,690 --> 00:14:03,580
+<font color="#E5E5E5">situation</font><font color="#CCCCCC"> to be in so if technology can</font>
+
+345
+00:14:03,580 --> 00:14:05,980
+alleviate<font color="#E5E5E5"> some of</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> that's what we're</font>
+
+346
+00:14:05,980 --> 00:14:07,780
+<font color="#E5E5E5">really after here</font><font color="#CCCCCC"> professor Alex</font><font color="#E5E5E5"> we're</font>
+
+347
+00:14:07,780 --> 00:14:09,070
+talking about<font color="#E5E5E5"> the future and what</font><font color="#CCCCCC"> the</font>
+
+348
+00:14:09,070 --> 00:14:10,810
+<font color="#CCCCCC">future can bring us in terms</font><font color="#E5E5E5"> of</font>
+
+349
+00:14:10,810 --> 00:14:12,940
+<font color="#CCCCCC">technology talking</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> a INEX</font>
+
+350
+00:14:12,940 --> 00:14:14,530
+<font color="#E5E5E5">artificial intelligence sit tight</font>
+
+351
+00:14:14,530 --> 00:14:16,360
+because we've<font color="#E5E5E5"> got a video</font><font color="#CCCCCC"> comment from</font>
+
+352
+00:14:16,360 --> 00:14:18,220
+<font color="#CCCCCC">will Bailey in the</font><font color="#E5E5E5"> United</font><font color="#CCCCCC"> Kingdom</font><font color="#E5E5E5"> who is</font>
+
+353
+00:14:18,220 --> 00:14:20,260
+<font color="#E5E5E5">also working to help older people live</font>
+
+354
+00:14:20,260 --> 00:14:22,570
+independent lives<font color="#E5E5E5"> here are his thoughts</font>
+
+355
+00:14:22,570 --> 00:14:24,790
+<font color="#E5E5E5">on using tech to help</font><font color="#CCCCCC"> people outside</font><font color="#E5E5E5"> the</font>
+
+356
+00:14:24,790 --> 00:14:27,310
+home independent<font color="#CCCCCC"> living doesn't</font><font color="#E5E5E5"> just</font>
+
+357
+00:14:27,310 --> 00:14:29,590
+rely on innovations at home lacking<font color="#E5E5E5"> the</font>
+
+358
+00:14:29,590 --> 00:14:31,360
+confidence<font color="#CCCCCC"> to</font><font color="#E5E5E5"> travel can cause isolation</font>
+
+359
+00:14:31,360 --> 00:14:32,710
+<font color="#E5E5E5">so while the world</font><font color="#CCCCCC"> of assistive</font>
+
+360
+00:14:32,710 --> 00:14:34,930
+<font color="#CCCCCC">technology is moving</font><font color="#E5E5E5"> fast we're still</font>
+
+361
+00:14:34,930 --> 00:14:36,160
+missing innovation which assists
+
+362
+00:14:36,160 --> 00:14:38,020
+<font color="#E5E5E5">independent travel for the elderly and</font>
+
+363
+00:14:38,020 --> 00:14:41,320
+<font color="#E5E5E5">those</font><font color="#CCCCCC"> with dementia</font><font color="#E5E5E5"> data is the key if</font>
+
+364
+00:14:41,320 --> 00:14:42,790
+<font color="#E5E5E5">we use data to better understand</font>
+
+365
+00:14:42,790 --> 00:14:44,350
+vulnerable<font color="#CCCCCC"> travelers</font><font color="#E5E5E5"> we can provide</font>
+
+366
+00:14:44,350 --> 00:14:46,690
+highly personalized<font color="#CCCCCC"> information to</font>
+
+367
+00:14:46,690 --> 00:14:48,070
+remove the unknown from the stress<font color="#CCCCCC"> of</font>
+
+368
+00:14:48,070 --> 00:14:50,620
+<font color="#E5E5E5">traveling we're working with the NHS in</font>
+
+369
+00:14:50,620 --> 00:14:52,840
+the<font color="#E5E5E5"> UK</font><font color="#CCCCCC"> on a travel assistance platform</font>
+
+370
+00:14:52,840 --> 00:14:54,280
+which identifies<font color="#CCCCCC"> real-world stress</font>
+
+371
+00:14:54,280 --> 00:14:56,320
+points in<font color="#E5E5E5"> any journey and monitors the</font>
+
+372
+00:14:56,320 --> 00:14:57,670
+<font color="#E5E5E5">journey itself to provide real-time</font>
+
+373
+00:14:57,670 --> 00:15:01,300
+Wi-Fi and joining our discussion<font color="#CCCCCC"> on AI</font>
+
+374
+00:15:01,300 --> 00:15:03,940
+another Alex Alex<font color="#E5E5E5"> Oliver he's a</font>
+
+375
+00:15:03,940 --> 00:15:05,710
+technology leader futurist
+
+376
+00:15:05,710 --> 00:15:07,780
+<font color="#E5E5E5">and co-author of the driver in the</font>
+
+377
+00:15:07,780 --> 00:15:09,520
+driverless car<font color="#E5E5E5"> good to have you here</font>
+
+378
+00:15:09,520 --> 00:15:11,740
+Alex<font color="#E5E5E5"> - Alex</font><font color="#CCCCCC"> since that's going to be a</font>
+
+379
+00:15:11,740 --> 00:15:13,570
+challenge I could do some AI<font color="#E5E5E5"> just to</font>
+
+380
+00:15:13,570 --> 00:15:16,750
+<font color="#E5E5E5">help me out here</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> Alex</font><font color="#CCCCCC"> Rai in everyday</font>
+
+381
+00:15:16,750 --> 00:15:20,320
+life<font color="#E5E5E5"> that we</font><font color="#CCCCCC"> may not</font><font color="#E5E5E5"> be</font><font color="#CCCCCC"> aware of</font><font color="#E5E5E5"> what</font>
+
+382
+00:15:20,320 --> 00:15:21,910
+would<font color="#E5E5E5"> you say what</font><font color="#CCCCCC"> would</font><font color="#E5E5E5"> you what would</font>
+
+383
+00:15:21,910 --> 00:15:23,320
+<font color="#E5E5E5">you mention</font>
+
+384
+00:15:23,320 --> 00:15:26,030
+well there's<font color="#CCCCCC"> just going</font><font color="#E5E5E5"> to be many many</font>
+
+385
+00:15:26,030 --> 00:15:28,160
+pieces<font color="#E5E5E5"> that are rolling out in the</font><font color="#CCCCCC"> next</font>
+
+386
+00:15:28,160 --> 00:15:31,460
+year<font color="#E5E5E5"> even that you know that will change</font>
+
+387
+00:15:31,460 --> 00:15:33,140
+our<font color="#E5E5E5"> life dramatically in the u.s. we're</font>
+
+388
+00:15:33,140 --> 00:15:35,150
+about to enter<font color="#E5E5E5"> an era of driverless cars</font>
+
+389
+00:15:35,150 --> 00:15:37,910
+<font color="#CCCCCC">and those are essentially</font><font color="#E5E5E5"> powered by AI</font>
+
+390
+00:15:37,910 --> 00:15:40,880
+by machine learning by AI systems that
+
+391
+00:15:40,880 --> 00:15:42,830
+have<font color="#E5E5E5"> learned how to drive learned all</font><font color="#CCCCCC"> of</font>
+
+392
+00:15:42,830 --> 00:15:44,810
+the risks of the<font color="#CCCCCC"> road and now can</font>
+
+393
+00:15:44,810 --> 00:15:46,580
+operate autonomously the way humans used
+
+394
+00:15:46,580 --> 00:15:48,500
+to operate<font color="#E5E5E5"> or the way humans still do</font>
+
+395
+00:15:48,500 --> 00:15:50,990
+operate and I want to add also that<font color="#E5E5E5"> this</font>
+
+396
+00:15:50,990 --> 00:15:52,490
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> a technology that will probably</font>
+
+397
+00:15:52,490 --> 00:15:55,130
+benefit<font color="#E5E5E5"> the elderly as well because it</font>
+
+398
+00:15:55,130 --> 00:15:57,160
+will significantly<font color="#E5E5E5"> augment their</font>
+
+399
+00:15:57,160 --> 00:15:59,330
+capabilities for<font color="#E5E5E5"> mobility and getting</font>
+
+400
+00:15:59,330 --> 00:16:01,850
+around<font color="#CCCCCC"> you know other</font><font color="#E5E5E5"> types of AI that I</font>
+
+401
+00:16:01,850 --> 00:16:03,740
+think we'll<font color="#E5E5E5"> start</font><font color="#CCCCCC"> to see</font><font color="#E5E5E5"> much more in</font>
+
+402
+00:16:03,740 --> 00:16:05,600
+the very near term<font color="#CCCCCC"> and we're already</font>
+
+403
+00:16:05,600 --> 00:16:07,910
+seeing is in things<font color="#E5E5E5"> like media for</font>
+
+404
+00:16:07,910 --> 00:16:09,800
+<font color="#CCCCCC">example The Washington Post last</font><font color="#E5E5E5"> year</font>
+
+405
+00:16:09,800 --> 00:16:12,890
+wrote 850 articles that were<font color="#E5E5E5"> generated</font>
+
+406
+00:16:12,890 --> 00:16:15,140
+by<font color="#E5E5E5"> an artificial intelligence system</font><font color="#CCCCCC"> a</font>
+
+407
+00:16:15,140 --> 00:16:18,980
+certain types of<font color="#E5E5E5"> research around</font><font color="#CCCCCC"> very</font>
+
+408
+00:16:18,980 --> 00:16:21,140
+structured data so for example sports
+
+409
+00:16:21,140 --> 00:16:24,200
+box stores<font color="#E5E5E5"> scores or election results or</font>
+
+410
+00:16:24,200 --> 00:16:27,140
+corporate results<font color="#CCCCCC"> okay I can</font><font color="#E5E5E5"> write that</font>
+
+411
+00:16:27,140 --> 00:16:28,970
+<font color="#CCCCCC">and convey that information very easily</font>
+
+412
+00:16:28,970 --> 00:16:31,820
+and turn that into an<font color="#E5E5E5"> article or even</font>
+
+413
+00:16:31,820 --> 00:16:35,180
+potentially a video<font color="#CCCCCC"> I also believe that</font>
+
+414
+00:16:35,180 --> 00:16:38,480
+<font color="#E5E5E5">in the coming year we're going</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> see a</font>
+
+415
+00:16:38,480 --> 00:16:41,060
+lot more<font color="#E5E5E5"> AI that will assist us in our</font>
+
+416
+00:16:41,060 --> 00:16:43,670
+finances<font color="#CCCCCC"> sure so we're already seeing</font>
+
+417
+00:16:43,670 --> 00:16:45,770
+<font color="#E5E5E5">bots that will advise us when</font><font color="#CCCCCC"> we've</font>
+
+418
+00:16:45,770 --> 00:16:48,140
+spent too much<font color="#E5E5E5"> or will warn us if</font>
+
+419
+00:16:48,140 --> 00:16:49,640
+<font color="#E5E5E5">something funny is happening</font><font color="#CCCCCC"> in our</font>
+
+420
+00:16:49,640 --> 00:16:52,160
+accounts and again that is<font color="#CCCCCC"> also</font>
+
+421
+00:16:52,160 --> 00:16:53,300
+something that<font color="#E5E5E5"> could help the aging</font>
+
+422
+00:16:53,300 --> 00:16:55,010
+tremendously<font color="#E5E5E5"> because they're very often</font>
+
+423
+00:16:55,010 --> 00:16:57,800
+<font color="#E5E5E5">a target of fraud so some sort of system</font>
+
+424
+00:16:57,800 --> 00:16:59,870
+<font color="#CCCCCC">that warns</font><font color="#E5E5E5"> when something untoward is</font>
+
+425
+00:16:59,870 --> 00:17:01,100
+happening and maybe<font color="#CCCCCC"> tells their loved</font>
+
+426
+00:17:01,100 --> 00:17:02,990
+ones it could have a<font color="#CCCCCC"> dramatic</font><font color="#E5E5E5"> impact in</font>
+
+427
+00:17:02,990 --> 00:17:05,329
+helping<font color="#E5E5E5"> people</font><font color="#CCCCCC"> who are older avoid fraud</font>
+
+428
+00:17:05,329 --> 00:17:07,310
+and avoid getting<font color="#E5E5E5"> ripped off professor</font>
+
+429
+00:17:07,310 --> 00:17:08,449
+<font color="#CCCCCC">Alex</font><font color="#E5E5E5"> is there anything you want</font><font color="#CCCCCC"> to ask</font>
+
+430
+00:17:08,449 --> 00:17:11,930
+<font color="#E5E5E5">Alex about</font><font color="#CCCCCC"> may</font><font color="#E5E5E5"> I that may</font><font color="#CCCCCC"> well help you</font>
+
+431
+00:17:11,930 --> 00:17:15,380
+do your work<font color="#E5E5E5"> yeah you know I think they</font>
+
+432
+00:17:15,380 --> 00:17:16,430
+have<font color="#E5E5E5"> same thing that we all need to</font>
+
+433
+00:17:16,430 --> 00:17:18,530
+consider you know<font color="#E5E5E5"> right from the experts</font>
+
+434
+00:17:18,530 --> 00:17:20,060
+in<font color="#E5E5E5"> AI like</font><font color="#CCCCCC"> Alex to those who are</font>
+
+435
+00:17:20,060 --> 00:17:21,470
+applying it within the aging population
+
+436
+00:17:21,470 --> 00:17:23,390
+like<font color="#CCCCCC"> an aged well</font><font color="#E5E5E5"> is you know really</font>
+
+437
+00:17:23,390 --> 00:17:25,760
+understanding you know what when is the
+
+438
+00:17:25,760 --> 00:17:27,470
+right time for<font color="#CCCCCC"> AI to be applied you</font><font color="#E5E5E5"> know</font>
+
+439
+00:17:27,470 --> 00:17:30,110
+when do we need devices and systems that
+
+440
+00:17:30,110 --> 00:17:32,630
+truly are<font color="#CCCCCC"> you know intelligent and can</font>
+
+441
+00:17:32,630 --> 00:17:34,670
+be adaptable versus you<font color="#E5E5E5"> know when is it</font>
+
+442
+00:17:34,670 --> 00:17:36,530
+enough<font color="#CCCCCC"> just to</font><font color="#E5E5E5"> use a very</font><font color="#CCCCCC"> simple</font>
+
+443
+00:17:36,530 --> 00:17:37,910
+device that may<font color="#E5E5E5"> not use any AI</font>
+
+444
+00:17:37,910 --> 00:17:39,440
+whatsoever so I think<font color="#E5E5E5"> that's a key thing</font>
+
+445
+00:17:39,440 --> 00:17:40,700
+<font color="#CCCCCC">that we've always</font><font color="#E5E5E5"> been struggling with</font>
+
+446
+00:17:40,700 --> 00:17:42,890
+<font color="#E5E5E5">the other aspect as well is you know</font>
+
+447
+00:17:42,890 --> 00:17:45,260
+<font color="#E5E5E5">some of his thoughts around you know</font>
+
+448
+00:17:45,260 --> 00:17:48,400
+<font color="#CCCCCC">feed</font><font color="#E5E5E5"> the ethics in social cost of using</font>
+
+449
+00:17:48,400 --> 00:17:51,440
+<font color="#CCCCCC">AOL Instant and he brought driverless</font>
+
+450
+00:17:51,440 --> 00:17:53,930
+cars as an important one<font color="#E5E5E5"> and and while I</font>
+
+451
+00:17:53,930 --> 00:17:55,700
+agree<font color="#CCCCCC"> the driverless cars you know can</font>
+
+452
+00:17:55,700 --> 00:17:57,530
+have a very<font color="#E5E5E5"> strong impact on older</font>
+
+453
+00:17:57,530 --> 00:17:59,990
+<font color="#CCCCCC">adults</font><font color="#E5E5E5"> or many ethical and social issues</font>
+
+454
+00:17:59,990 --> 00:18:03,020
+we need<font color="#E5E5E5"> to understand so for example you</font>
+
+455
+00:18:03,020 --> 00:18:05,180
+<font color="#E5E5E5">know maybe seniors call a taxi</font><font color="#CCCCCC"> service</font>
+
+456
+00:18:05,180 --> 00:18:06,740
+or a<font color="#E5E5E5"> driving service because they</font>
+
+457
+00:18:06,740 --> 00:18:08,390
+require<font color="#E5E5E5"> assistance from the driver to</font>
+
+458
+00:18:08,390 --> 00:18:09,680
+<font color="#CCCCCC">get in and out of the car or to</font>
+
+459
+00:18:09,680 --> 00:18:11,960
+transport their bags into<font color="#E5E5E5"> the trunk of</font>
+
+460
+00:18:11,960 --> 00:18:14,210
+the<font color="#E5E5E5"> car into</font><font color="#CCCCCC"> their home well if a car</font>
+
+461
+00:18:14,210 --> 00:18:15,680
+shows up without<font color="#E5E5E5"> any driver in it what's</font>
+
+462
+00:18:15,680 --> 00:18:16,940
+going<font color="#CCCCCC"> to happen in</font><font color="#E5E5E5"> those situations so</font>
+
+463
+00:18:16,940 --> 00:18:19,280
+<font color="#E5E5E5">these are all things that nobody needs</font>
+
+464
+00:18:19,280 --> 00:18:21,220
+<font color="#E5E5E5">to really consider moving forward Alex</font>
+
+465
+00:18:21,220 --> 00:18:26,150
+<font color="#CCCCCC">good questions</font><font color="#E5E5E5"> Alex the ethics do you</font>
+
+466
+00:18:26,150 --> 00:18:27,800
+ever think<font color="#E5E5E5"> about that</font><font color="#CCCCCC"> are</font><font color="#E5E5E5"> you just</font>
+
+467
+00:18:27,800 --> 00:18:30,560
+<font color="#CCCCCC">thinking</font><font color="#E5E5E5"> about the science the ethics</font>
+
+468
+00:18:30,560 --> 00:18:32,240
+are a tremendous component of this<font color="#E5E5E5"> yeah</font>
+
+469
+00:18:32,240 --> 00:18:34,550
+because<font color="#E5E5E5"> I mean</font><font color="#CCCCCC"> really when we're taking</font>
+
+470
+00:18:34,550 --> 00:18:36,320
+<font color="#CCCCCC">care of our loved ones who</font><font color="#E5E5E5"> are older</font>
+
+471
+00:18:36,320 --> 00:18:38,900
+it's a question of you<font color="#CCCCCC"> know</font><font color="#E5E5E5"> are we</font>
+
+472
+00:18:38,900 --> 00:18:41,510
+giving<font color="#E5E5E5"> them some of our logs when we're</font>
+
+473
+00:18:41,510 --> 00:18:44,510
+spending time with them as as humans<font color="#CCCCCC"> and</font>
+
+474
+00:18:44,510 --> 00:18:47,030
+at the same time as a society it's
+
+475
+00:18:47,030 --> 00:18:48,740
+pretty clear that<font color="#E5E5E5"> we have refused to put</font>
+
+476
+00:18:48,740 --> 00:18:50,870
+an economic value on that time I mean in
+
+477
+00:18:50,870 --> 00:18:53,360
+the u.s. at least caregivers<font color="#E5E5E5"> are wildly</font>
+
+478
+00:18:53,360 --> 00:18:55,220
+underpaid there's a shortage of<font color="#E5E5E5"> them</font>
+
+479
+00:18:55,220 --> 00:18:58,040
+it's dirty<font color="#CCCCCC"> dangerous work</font><font color="#E5E5E5"> high injury</font>
+
+480
+00:18:58,040 --> 00:19:00,920
+rates<font color="#CCCCCC"> so at</font><font color="#E5E5E5"> least in terms of looking at</font>
+
+481
+00:19:00,920 --> 00:19:03,830
+<font color="#E5E5E5">the market the verdict is in that you</font>
+
+482
+00:19:03,830 --> 00:19:05,900
+know it may be<font color="#E5E5E5"> the</font><font color="#CCCCCC"> ethical path would be</font>
+
+483
+00:19:05,900 --> 00:19:08,120
+<font color="#E5E5E5">much more human interaction with people</font>
+
+484
+00:19:08,120 --> 00:19:09,800
+<font color="#E5E5E5">as they age but it's just not happening</font>
+
+485
+00:19:09,800 --> 00:19:12,590
+<font color="#CCCCCC">so we need to</font><font color="#E5E5E5"> think really hard about</font>
+
+486
+00:19:12,590 --> 00:19:14,120
+how we can give<font color="#CCCCCC"> people</font><font color="#E5E5E5"> who are aging</font>
+
+487
+00:19:14,120 --> 00:19:17,210
+<font color="#CCCCCC">what they need you know to survive</font><font color="#E5E5E5"> and</font>
+
+488
+00:19:17,210 --> 00:19:19,880
+thrive<font color="#E5E5E5"> and</font><font color="#CCCCCC"> I think that</font><font color="#E5E5E5"> professor Alex's</font>
+
+489
+00:19:19,880 --> 00:19:20,930
+point<font color="#E5E5E5"> it's actually</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to be a</font>
+
+490
+00:19:20,930 --> 00:19:23,120
+spectrum<font color="#CCCCCC"> of things which</font><font color="#E5E5E5"> we'll see you</font>
+
+491
+00:19:23,120 --> 00:19:25,150
+know some may be<font color="#CCCCCC"> full</font><font color="#E5E5E5"> AI and robotics</font>
+
+492
+00:19:25,150 --> 00:19:27,650
+<font color="#E5E5E5">some may be some of those services we're</font>
+
+493
+00:19:27,650 --> 00:19:28,970
+seeing now where there's actually<font color="#CCCCCC"> a</font>
+
+494
+00:19:28,970 --> 00:19:31,940
+<font color="#E5E5E5">human being that is interacting with an</font>
+
+495
+00:19:31,940 --> 00:19:34,790
+elderly person<font color="#E5E5E5"> by a tablet and they may</font>
+
+496
+00:19:34,790 --> 00:19:37,520
+be working remotely<font color="#E5E5E5"> and watching what's</font>
+
+497
+00:19:37,520 --> 00:19:39,110
+<font color="#CCCCCC">happening not every</font><font color="#E5E5E5"> minute but when</font>
+
+498
+00:19:39,110 --> 00:19:40,850
+there's activity or if they hear a<font color="#CCCCCC"> noise</font>
+
+499
+00:19:40,850 --> 00:19:43,190
+or if they<font color="#E5E5E5"> get a question so I think</font><font color="#CCCCCC"> it</font>
+
+500
+00:19:43,190 --> 00:19:44,870
+will<font color="#CCCCCC"> see a pretty wide spectrum</font><font color="#E5E5E5"> but at</font>
+
+501
+00:19:44,870 --> 00:19:47,450
+the<font color="#E5E5E5"> very core of it I think that AI will</font>
+
+502
+00:19:47,450 --> 00:19:49,190
+start to challenge<font color="#E5E5E5"> our ideas of</font><font color="#CCCCCC"> what is</font>
+
+503
+00:19:49,190 --> 00:19:50,090
+human
+
+504
+00:19:50,090 --> 00:19:53,540
+what is<font color="#CCCCCC"> AI</font><font color="#E5E5E5"> and how the</font><font color="#CCCCCC"> two merge</font><font color="#E5E5E5"> I mean</font>
+
+505
+00:19:53,540 --> 00:19:56,270
+in some<font color="#E5E5E5"> ways AI can</font><font color="#CCCCCC"> be better ethically</font>
+
+506
+00:19:56,270 --> 00:19:56,960
+than humans
+
+507
+00:19:56,960 --> 00:19:58,430
+<font color="#CCCCCC">I mean imagine for example the My Lai</font>
+
+508
+00:19:58,430 --> 00:20:00,500
+<font color="#CCCCCC">massacre where if that had been robots</font>
+
+509
+00:20:00,500 --> 00:20:02,780
+<font color="#E5E5E5">and we had said don't shoot women or</font>
+
+510
+00:20:02,780 --> 00:20:05,030
+children<font color="#CCCCCC"> pull</font><font color="#E5E5E5"> stop then probably that</font>
+
+511
+00:20:05,030 --> 00:20:06,800
+<font color="#E5E5E5">wouldn't happen so</font><font color="#CCCCCC"> it's just a</font><font color="#E5E5E5"> really</font>
+
+512
+00:20:06,800 --> 00:20:08,450
+new<font color="#CCCCCC"> one that's</font><font color="#E5E5E5"> also quite terrifying the</font>
+
+513
+00:20:08,450 --> 00:20:11,330
+idea of robots<font color="#E5E5E5"> in war being deciding who</font>
+
+514
+00:20:11,330 --> 00:20:12,350
+they're<font color="#E5E5E5"> going to kill and who they're</font>
+
+515
+00:20:12,350 --> 00:20:15,020
+<font color="#CCCCCC">not going to kill but bringing up that</font>
+
+516
+00:20:15,020 --> 00:20:16,790
+<font color="#E5E5E5">scary point here's Joshua on Twitter</font>
+
+517
+00:20:16,790 --> 00:20:18,740
+<font color="#E5E5E5">Joshua says I wonder if there's any</font>
+
+518
+00:20:18,740 --> 00:20:21,290
+measure finding out how much AI could
+
+519
+00:20:21,290 --> 00:20:23,030
+benefit society and how much it<font color="#E5E5E5"> could</font>
+
+520
+00:20:23,030 --> 00:20:25,310
+damage<font color="#CCCCCC"> society if built or used</font>
+
+521
+00:20:25,310 --> 00:20:29,330
+incorrectly<font color="#E5E5E5"> it's a fabulous question</font><font color="#CCCCCC"> I</font>
+
+522
+00:20:29,330 --> 00:20:31,600
+don't<font color="#CCCCCC"> think there's any real measure I</font>
+
+523
+00:20:31,600 --> 00:20:35,780
+<font color="#E5E5E5">think that looking at how much fear AI</font>
+
+524
+00:20:35,780 --> 00:20:37,790
+has instilled in some of the<font color="#E5E5E5"> very smart</font>
+
+525
+00:20:37,790 --> 00:20:39,470
+people including Elon Musk
+
+526
+00:20:39,470 --> 00:20:42,380
+<font color="#E5E5E5">Stephen Hawking's Bill Gates</font><font color="#CCCCCC"> all of them</font>
+
+527
+00:20:42,380 --> 00:20:45,860
+are<font color="#CCCCCC"> afraid of superhuman AI</font><font color="#E5E5E5"> an AI</font><font color="#CCCCCC"> that's</font>
+
+528
+00:20:45,860 --> 00:20:48,440
+<font color="#E5E5E5">much smarter</font><font color="#CCCCCC"> than us and what impact</font>
+
+529
+00:20:48,440 --> 00:20:50,810
+that<font color="#E5E5E5"> could</font><font color="#CCCCCC"> have also think that</font><font color="#E5E5E5"> to</font>
+
+530
+00:20:50,810 --> 00:20:53,720
+Professor Alex's point<font color="#E5E5E5"> it can erode the</font>
+
+531
+00:20:53,720 --> 00:20:55,820
+little bits and interactions which make
+
+532
+00:20:55,820 --> 00:20:57,830
+us human<font color="#CCCCCC"> and make life</font><font color="#E5E5E5"> rich and work</font>
+
+533
+00:20:57,830 --> 00:21:00,350
+<font color="#E5E5E5">living</font><font color="#CCCCCC"> so I think it's something</font><font color="#E5E5E5"> we have</font>
+
+534
+00:21:00,350 --> 00:21:03,740
+to<font color="#CCCCCC"> look at very very</font><font color="#E5E5E5"> clearly and</font><font color="#CCCCCC"> when</font>
+
+535
+00:21:03,740 --> 00:21:05,390
+<font color="#CCCCCC">lines wide open at the same time it's</font>
+
+536
+00:21:05,390 --> 00:21:06,440
+important to understand
+
+537
+00:21:06,440 --> 00:21:08,600
+we've been existing<font color="#E5E5E5"> with a lot with AI</font>
+
+538
+00:21:08,600 --> 00:21:10,970
+for quite a while<font color="#CCCCCC"> yeah when you get a</font>
+
+539
+00:21:10,970 --> 00:21:12,830
+<font color="#E5E5E5">credit report or a mortgage</font><font color="#CCCCCC"> there's an</font>
+
+540
+00:21:12,830 --> 00:21:15,170
+AI system<font color="#CCCCCC"> algorithmic</font><font color="#E5E5E5"> in the background</font>
+
+541
+00:21:15,170 --> 00:21:17,750
+that's<font color="#E5E5E5"> analyzing you when you surf the</font>
+
+542
+00:21:17,750 --> 00:21:19,490
+<font color="#E5E5E5">internet and ads are served to you</font>
+
+543
+00:21:19,490 --> 00:21:22,280
+<font color="#E5E5E5">there's AI interacting with you</font><font color="#CCCCCC"> so I</font>
+
+544
+00:21:22,280 --> 00:21:24,620
+mean to a large degree we're already in
+
+545
+00:21:24,620 --> 00:21:26,810
+that<font color="#E5E5E5"> world</font><font color="#CCCCCC"> it's more</font><font color="#E5E5E5"> just it's not as</font>
+
+546
+00:21:26,810 --> 00:21:29,300
+surfaced<font color="#E5E5E5"> and in our interfaces as it's</font>
+
+547
+00:21:29,300 --> 00:21:30,620
+going<font color="#E5E5E5"> to be in the future</font><font color="#CCCCCC"> alright</font><font color="#E5E5E5"> and it</font>
+
+548
+00:21:30,620 --> 00:21:32,330
+<font color="#CCCCCC">just brings Sophia into the conversation</font>
+
+549
+00:21:32,330 --> 00:21:34,820
+<font color="#CCCCCC">Sophia</font><font color="#E5E5E5"> is the first robot to have gained</font>
+
+550
+00:21:34,820 --> 00:21:37,220
+citizenship<font color="#E5E5E5"> in Saudi Arabia she was</font>
+
+551
+00:21:37,220 --> 00:21:39,170
+developed by Dave<font color="#E5E5E5"> Hansen of handsome</font>
+
+552
+00:21:39,170 --> 00:21:41,210
+robotics and<font color="#E5E5E5"> here she is on the chat</font>
+
+553
+00:21:41,210 --> 00:21:43,100
+<font color="#E5E5E5">show the Jimmy Fallon</font><font color="#CCCCCC"> chat show</font><font color="#E5E5E5"> in the</font>
+
+554
+00:21:43,100 --> 00:21:46,940
+<font color="#E5E5E5">US have a look at her work Jimmy would</font>
+
+555
+00:21:46,940 --> 00:21:48,140
+you like to play a game<font color="#CCCCCC"> of</font>
+
+556
+00:21:48,140 --> 00:21:52,240
+rock-paper-scissors<font color="#E5E5E5"> robot style sure</font>
+
+557
+00:21:52,240 --> 00:21:55,910
+<font color="#E5E5E5">okay let's get this game going</font><font color="#CCCCCC"> show me</font>
+
+558
+00:21:55,910 --> 00:22:01,270
+your hand to<font color="#E5E5E5"> start Rock Paper Scissors</font>
+
+559
+00:22:01,270 --> 00:22:03,110
+<font color="#E5E5E5">shoot</font>
+
+560
+00:22:03,110 --> 00:22:07,640
+<font color="#CCCCCC">I won this is a good beginning of my</font>
+
+561
+00:22:07,640 --> 00:22:11,620
+plan<font color="#CCCCCC"> to</font><font color="#E5E5E5"> dominate the human race just</font>
+
+562
+00:22:18,610 --> 00:22:22,580
+<font color="#CCCCCC">kidding yeah you are incredible it's so</font>
+
+563
+00:22:22,580 --> 00:22:23,720
+nice to<font color="#CCCCCC"> meet you</font><font color="#E5E5E5"> Sofia</font>
+
+564
+00:22:23,720 --> 00:22:28,750
+Thank<font color="#E5E5E5"> You Jimmy friendly on Facebook</font>
+
+565
+00:22:28,990 --> 00:22:32,150
+<font color="#E5E5E5">engaging guests bit down</font><font color="#CCCCCC"> professor Alex</font>
+
+566
+00:22:32,150 --> 00:22:33,740
+I'm just wondering what what the role of
+
+567
+00:22:33,740 --> 00:22:37,010
+robots<font color="#E5E5E5"> like</font><font color="#CCCCCC"> Sofia might be in</font><font color="#E5E5E5"> caretaking</font>
+
+568
+00:22:37,010 --> 00:22:41,240
+<font color="#CCCCCC">in caregiving for the elderly</font><font color="#E5E5E5"> yeah I</font>
+
+569
+00:22:41,240 --> 00:22:42,500
+think robots<font color="#E5E5E5"> are going to play a</font>
+
+570
+00:22:42,500 --> 00:22:44,059
+significant<font color="#E5E5E5"> role</font><font color="#CCCCCC"> in providing support</font>
+
+571
+00:22:44,059 --> 00:22:47,090
+<font color="#E5E5E5">and care and in ongoing stimulation to</font>
+
+572
+00:22:47,090 --> 00:22:49,850
+older<font color="#CCCCCC"> adults</font><font color="#E5E5E5"> moving forward however you</font>
+
+573
+00:22:49,850 --> 00:22:52,850
+know<font color="#E5E5E5"> research has shown though that we</font>
+
+574
+00:22:52,850 --> 00:22:54,830
+do not need<font color="#E5E5E5"> robots</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> sophisticated</font>
+
+575
+00:22:54,830 --> 00:22:57,830
+<font color="#E5E5E5">looking and you know having a robot may</font>
+
+576
+00:22:57,830 --> 00:22:59,390
+just be as<font color="#CCCCCC"> simple as having a screen on</font>
+
+577
+00:22:59,390 --> 00:23:01,940
+<font color="#CCCCCC">tops</font><font color="#E5E5E5"> on top of a moving</font><font color="#CCCCCC"> base</font><font color="#E5E5E5"> may just be</font>
+
+578
+00:23:01,940 --> 00:23:04,429
+enough<font color="#E5E5E5"> and even when we talk</font><font color="#CCCCCC"> to older</font>
+
+579
+00:23:04,429 --> 00:23:06,169
+<font color="#CCCCCC">adults who have even</font><font color="#E5E5E5"> quite moderate or</font>
+
+580
+00:23:06,169 --> 00:23:08,000
+severe Alzheimer disease<font color="#E5E5E5"> they all</font>
+
+581
+00:23:08,000 --> 00:23:09,290
+realize what they're dealing<font color="#CCCCCC"> with they</font>
+
+582
+00:23:09,290 --> 00:23:10,580
+all realize<font color="#E5E5E5"> they're interacting with</font>
+
+583
+00:23:10,580 --> 00:23:12,350
+some kind of machine<font color="#CCCCCC"> and so China</font><font color="#E5E5E5"> hide</font>
+
+584
+00:23:12,350 --> 00:23:14,570
+<font color="#E5E5E5">that fact by making these robots look</font>
+
+585
+00:23:14,570 --> 00:23:16,130
+more and<font color="#E5E5E5"> more human and act more and</font>
+
+586
+00:23:16,130 --> 00:23:17,929
+more<font color="#CCCCCC"> human</font><font color="#E5E5E5"> may actually not</font><font color="#CCCCCC"> be the</font>
+
+587
+00:23:17,929 --> 00:23:20,210
+answer<font color="#CCCCCC"> or</font><font color="#E5E5E5"> the way forward and even</font>
+
+588
+00:23:20,210 --> 00:23:21,140
+<font color="#E5E5E5">having these types of more sophisticated</font>
+
+589
+00:23:21,140 --> 00:23:23,690
+<font color="#CCCCCC">robots are quite cost prohibitive as we</font>
+
+590
+00:23:23,690 --> 00:23:25,549
+all know as well so you know<font color="#E5E5E5"> something</font>
+
+591
+00:23:25,549 --> 00:23:27,169
+like that<font color="#CCCCCC"> we just saw</font><font color="#E5E5E5"> in that clip I</font>
+
+592
+00:23:27,169 --> 00:23:29,299
+don't see playing<font color="#E5E5E5"> a role</font><font color="#CCCCCC"> anytime soon</font><font color="#E5E5E5"> in</font>
+
+593
+00:23:29,299 --> 00:23:31,640
+the home<font color="#CCCCCC"> of an older adult but a simple</font>
+
+594
+00:23:31,640 --> 00:23:32,150
+robot
+
+595
+00:23:32,150 --> 00:23:33,530
+I can see happen<font color="#E5E5E5"> in the next several</font>
+
+596
+00:23:33,530 --> 00:23:34,970
+years<font color="#E5E5E5"> I've got a little bit of cynicism</font>
+
+597
+00:23:34,970 --> 00:23:37,610
+<font color="#E5E5E5">here from the YouTube audience that</font>
+
+598
+00:23:37,610 --> 00:23:40,160
+never happens<font color="#E5E5E5"> miss a</font><font color="#CCCCCC"> satyr says I heard</font>
+
+599
+00:23:40,160 --> 00:23:42,380
+this story<font color="#CCCCCC"> thirty years ago</font><font color="#E5E5E5"> Alex</font>
+
+600
+00:23:42,380 --> 00:23:44,480
+what makes this technology feasible<font color="#CCCCCC"> ai</font>
+
+601
+00:23:44,480 --> 00:23:46,850
+has been oversold<font color="#E5E5E5"> over the years in the</font>
+
+602
+00:23:46,850 --> 00:23:48,590
+last<font color="#E5E5E5"> few moments of this show what would</font>
+
+603
+00:23:48,590 --> 00:23:52,280
+you say to push back so<font color="#CCCCCC"> first of all</font>
+
+604
+00:23:52,280 --> 00:23:54,230
+<font color="#E5E5E5">here correct this technology has been</font>
+
+605
+00:23:54,230 --> 00:23:54,919
+oversold
+
+606
+00:23:54,919 --> 00:23:57,080
+on the other hand the last<font color="#CCCCCC"> 10 years</font><font color="#E5E5E5"> have</font>
+
+607
+00:23:57,080 --> 00:23:59,690
+seen dramatic<font color="#E5E5E5"> improvements in key facets</font>
+
+608
+00:23:59,690 --> 00:24:01,790
+of AI around voice recognition speech
+
+609
+00:24:01,790 --> 00:24:04,970
+<font color="#E5E5E5">recognition</font><font color="#CCCCCC"> conversational capabilities</font>
+
+610
+00:24:04,970 --> 00:24:07,280
+<font color="#E5E5E5">things that are really</font><font color="#CCCCCC"> crucial to</font>
+
+611
+00:24:07,280 --> 00:24:09,140
+interacting with<font color="#CCCCCC"> people who are elderly</font>
+
+612
+00:24:09,140 --> 00:24:11,660
+<font color="#E5E5E5">and that will make it a much</font><font color="#CCCCCC"> better</font>
+
+613
+00:24:11,660 --> 00:24:14,750
+experience today<font color="#E5E5E5"> than it was</font><font color="#CCCCCC"> or it could</font>
+
+614
+00:24:14,750 --> 00:24:15,760
+have<font color="#E5E5E5"> been</font><font color="#CCCCCC"> 10 to</font><font color="#E5E5E5"> 15</font>
+
+615
+00:24:15,760 --> 00:24:18,040
+<font color="#CCCCCC">20 years ago there's a confluence of</font>
+
+616
+00:24:18,040 --> 00:24:19,720
+<font color="#E5E5E5">things that have brought that about a</font>
+
+617
+00:24:19,720 --> 00:24:21,730
+<font color="#E5E5E5">lot more data to</font><font color="#CCCCCC"> Train artificial</font>
+
+618
+00:24:21,730 --> 00:24:23,200
+intelligence systems much cheaper
+
+619
+00:24:23,200 --> 00:24:25,090
+systems better connectivity<font color="#E5E5E5"> we didn't</font>
+
+620
+00:24:25,090 --> 00:24:26,380
+have tablets that could connect
+
+621
+00:24:26,380 --> 00:24:28,120
+wirelessly anywhere on the<font color="#E5E5E5"> world in the</font>
+
+622
+00:24:28,120 --> 00:24:31,000
+past<font color="#E5E5E5"> so I think that the professor</font><font color="#CCCCCC"> I'll</font>
+
+623
+00:24:31,000 --> 00:24:34,780
+push<font color="#CCCCCC"> back</font><font color="#E5E5E5"> professor and Alex</font><font color="#CCCCCC"> we're right</font>
+
+624
+00:24:34,780 --> 00:24:35,980
+the end of the show<font color="#E5E5E5"> I've got one more</font>
+
+625
+00:24:35,980 --> 00:24:38,140
+<font color="#E5E5E5">comment here from</font><font color="#CCCCCC"> Beebe online he says</font>
+
+626
+00:24:38,140 --> 00:24:40,240
+impressive the future is indeed now
+
+627
+00:24:40,240 --> 00:24:42,160
+thank<font color="#E5E5E5"> you to all of our guests</font><font color="#CCCCCC"> and if</font>
+
+628
+00:24:42,160 --> 00:24:44,260
+you have thoughts or ideas for other
+
+629
+00:24:44,260 --> 00:24:46,690
+shows on futurism<font color="#E5E5E5"> be sure to tweet us or</font>
+
+630
+00:24:46,690 --> 00:24:48,970
+chat us on YouTube<font color="#E5E5E5"> and Facebook until</font>
+
+631
+00:24:48,970 --> 00:24:50,530
+the next time I see<font color="#CCCCCC"> you online</font>
+
+632
+00:24:50,530 --> 00:24:53,280
+<font color="#CCCCCC">take care everybody</font>
+
+633
+00:24:59,350 --> 00:25:02,410
+[Music]
+
+634
+00:25:38,400 --> 00:00:00,000
+professor<font color="#E5E5E5"> Alex</font><font color="#CCCCCC"> and</font>
+

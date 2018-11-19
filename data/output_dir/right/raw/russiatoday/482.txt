@@ -1,0 +1,284 @@
+1
+00:00:00,030 --> 00:00:02,070
+the<font color="#CCCCCC"> Intelligence Sharing</font><font color="#E5E5E5"> alliance of the</font>
+
+2
+00:00:02,070 --> 00:00:04,830
+<font color="#E5E5E5">US UK Australia</font><font color="#CCCCCC"> New Zealand and</font><font color="#E5E5E5"> Canada</font>
+
+3
+00:00:04,830 --> 00:00:07,980
+known as<font color="#CCCCCC"> the five eyes threatening to</font>
+
+4
+00:00:07,980 --> 00:00:10,139
+<font color="#E5E5E5">punish tech</font><font color="#CCCCCC"> giants unless they allow</font>
+
+5
+00:00:10,139 --> 00:00:14,070
+access<font color="#CCCCCC"> to encrypted data pretty</font><font color="#E5E5E5"> laws</font>
+
+6
+00:00:14,070 --> 00:00:15,900
+must prevent arbitrary or unlawful
+
+7
+00:00:15,900 --> 00:00:19,199
+interference but privacy is not<font color="#E5E5E5"> absolute</font>
+
+8
+00:00:19,199 --> 00:00:21,359
+<font color="#E5E5E5">it is an established principle that</font>
+
+9
+00:00:21,359 --> 00:00:23,130
+appropriate government authorities
+
+10
+00:00:23,130 --> 00:00:25,260
+should<font color="#CCCCCC"> be able to seek access</font><font color="#E5E5E5"> to</font>
+
+11
+00:00:25,260 --> 00:00:27,390
+otherwise private information when a
+
+12
+00:00:27,390 --> 00:00:29,550
+court or independent<font color="#CCCCCC"> Authority has</font>
+
+13
+00:00:29,550 --> 00:00:31,710
+authorized such access based on
+
+14
+00:00:31,710 --> 00:00:34,320
+established<font color="#E5E5E5"> legal standards</font><font color="#CCCCCC"> they're</font>
+
+15
+00:00:34,320 --> 00:00:36,630
+<font color="#E5E5E5">calling for</font><font color="#CCCCCC"> increased powers to bypass</font>
+
+16
+00:00:36,630 --> 00:00:38,760
+encryption now this would allow each
+
+17
+00:00:38,760 --> 00:00:40,739
+<font color="#E5E5E5">government access to an individual's</font>
+
+18
+00:00:40,739 --> 00:00:42,989
+encrypted calls and messages in<font color="#CCCCCC"> the</font>
+
+19
+00:00:42,989 --> 00:00:44,879
+official statement<font color="#CCCCCC"> the five</font><font color="#E5E5E5"> government's</font>
+
+20
+00:00:44,879 --> 00:00:47,039
+outlined the importance of having<font color="#E5E5E5"> this</font>
+
+21
+00:00:47,039 --> 00:00:49,170
+sort<font color="#E5E5E5"> of sweeping access to tackle</font>
+
+22
+00:00:49,170 --> 00:00:51,090
+various<font color="#E5E5E5"> security threats including a</font>
+
+23
+00:00:51,090 --> 00:00:53,309
+crime and terrorism<font color="#CCCCCC"> and if tech</font>
+
+24
+00:00:53,309 --> 00:00:55,170
+companies do<font color="#CCCCCC"> not voluntarily</font><font color="#E5E5E5"> allow</font>
+
+25
+00:00:55,170 --> 00:00:57,149
+access<font color="#E5E5E5"> they threatened to push a</font>
+
+26
+00:00:57,149 --> 00:00:59,000
+legislation<font color="#E5E5E5"> that would force them to</font>
+
+27
+00:00:59,000 --> 00:01:01,559
+should<font color="#CCCCCC"> governments continue to encounter</font>
+
+28
+00:01:01,559 --> 00:01:03,780
+impediments<font color="#CCCCCC"> to lawful access to</font>
+
+29
+00:01:03,780 --> 00:01:06,000
+information necessary to<font color="#E5E5E5"> aid the</font>
+
+30
+00:01:06,000 --> 00:01:07,950
+protection<font color="#E5E5E5"> of the</font><font color="#CCCCCC"> citizens of our</font>
+
+31
+00:01:07,950 --> 00:01:10,700
+countries we may pursue technological
+
+32
+00:01:10,700 --> 00:01:13,170
+enforcement legislative or other
+
+33
+00:01:13,170 --> 00:01:15,570
+<font color="#E5E5E5">measures to</font><font color="#CCCCCC"> achieve</font><font color="#E5E5E5"> lawful access</font>
+
+34
+00:01:15,570 --> 00:01:17,700
+solutions<font color="#E5E5E5"> the memo also noted that</font>
+
+35
+00:01:17,700 --> 00:01:19,860
+<font color="#E5E5E5">encryption remains quote vital to the</font>
+
+36
+00:01:19,860 --> 00:01:21,360
+digital economy<font color="#CCCCCC"> and</font><font color="#E5E5E5"> that there</font><font color="#CCCCCC"> should be</font>
+
+37
+00:01:21,360 --> 00:01:23,479
+no intention to weaken encryption
+
+38
+00:01:23,479 --> 00:01:26,189
+mechanisms<font color="#E5E5E5"> but tech giants haven't found</font>
+
+39
+00:01:26,189 --> 00:01:28,920
+a way to create<font color="#E5E5E5"> a secure backdoor we</font>
+
+40
+00:01:28,920 --> 00:01:30,900
+have consistently raised concerns about
+
+41
+00:01:30,900 --> 00:01:32,280
+proposals that would<font color="#E5E5E5"> undermine</font>
+
+42
+00:01:32,280 --> 00:01:34,829
+encryption of devices and<font color="#E5E5E5"> services by</font>
+
+43
+00:01:34,829 --> 00:01:37,350
+requiring<font color="#E5E5E5"> so-called exceptional access</font>
+
+44
+00:01:37,350 --> 00:01:39,900
+<font color="#E5E5E5">for law enforcement</font><font color="#CCCCCC"> weakening the</font>
+
+45
+00:01:39,900 --> 00:01:41,759
+security and privacy<font color="#E5E5E5"> that encryption</font>
+
+46
+00:01:41,759 --> 00:01:44,220
+helps provide is not the<font color="#E5E5E5"> answer there is</font>
+
+47
+00:01:44,220 --> 00:01:46,200
+<font color="#E5E5E5">some domestic resistance to these</font>
+
+48
+00:01:46,200 --> 00:01:48,090
+encryption backdoors<font color="#CCCCCC"> a bill was</font>
+
+49
+00:01:48,090 --> 00:01:49,860
+introduced in Congress a<font color="#CCCCCC"> few months ago</font>
+
+50
+00:01:49,860 --> 00:01:52,170
+<font color="#E5E5E5">called the secure data</font><font color="#CCCCCC"> act and this</font>
+
+51
+00:01:52,170 --> 00:01:53,880
+would prevent<font color="#E5E5E5"> law enforcement and</font>
+
+52
+00:01:53,880 --> 00:01:55,829
+surveillance agencies from forcing
+
+53
+00:01:55,829 --> 00:01:57,810
+companies to insert these backdoors
+
+54
+00:01:57,810 --> 00:02:00,240
+Amnesty<font color="#E5E5E5"> International also stated their</font>
+
+55
+00:02:00,240 --> 00:02:01,979
+opinion on<font color="#E5E5E5"> this tweeting that backdoors</font>
+
+56
+00:02:01,979 --> 00:02:04,380
+quote won't make us safer it'll just
+
+57
+00:02:04,380 --> 00:02:06,240
+weaken security for everyone
+
+58
+00:02:06,240 --> 00:02:08,038
+law enforcement officials<font color="#E5E5E5"> have found</font>
+
+59
+00:02:08,038 --> 00:02:10,830
+encryption to be a big problem<font color="#CCCCCC"> in 2016</font>
+
+60
+00:02:10,830 --> 00:02:12,900
+the FBI filed a lawsuit<font color="#E5E5E5"> that would have</font>
+
+61
+00:02:12,900 --> 00:02:13,110
+broke
+
+62
+00:02:13,110 --> 00:02:15,270
+<font color="#CCCCCC">wired</font><font color="#E5E5E5"> Apple to create</font><font color="#CCCCCC"> software</font><font color="#E5E5E5"> that</font>
+
+63
+00:02:15,270 --> 00:02:16,680
+would<font color="#E5E5E5"> be able to bypass the encryption</font>
+
+64
+00:02:16,680 --> 00:02:18,900
+mechanism that the San Bernardino
+
+65
+00:02:18,900 --> 00:02:21,180
+shooter had used months before the case
+
+66
+00:02:21,180 --> 00:02:23,160
+was<font color="#CCCCCC"> dropped when the</font><font color="#E5E5E5"> FBI hacked his</font>
+
+67
+00:02:23,160 --> 00:02:25,380
+phone using an alternative method<font color="#E5E5E5"> looks</font>
+
+68
+00:02:25,380 --> 00:02:27,840
+like it's up<font color="#CCCCCC"> to the tech giants and the</font>
+
+69
+00:02:27,840 --> 00:02:29,970
+<font color="#E5E5E5">people of those respective countries to</font>
+
+70
+00:02:29,970 --> 00:02:31,350
+decide<font color="#E5E5E5"> if they stand on the side of</font>
+
+71
+00:02:31,350 --> 00:00:00,000
+<font color="#E5E5E5">Liberty or on the side of</font><font color="#CCCCCC"> security</font>
+

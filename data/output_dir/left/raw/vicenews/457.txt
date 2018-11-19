@@ -1,0 +1,280 @@
+1
+00:00:04,520 --> 00:00:07,890
+J Vance<font color="#CCCCCC"> who's dubbed himself j-bot has</font>
+
+2
+00:00:07,890 --> 00:00:09,090
+been touring and performing with
+
+3
+00:00:09,090 --> 00:00:11,700
+different bands for over<font color="#E5E5E5"> 20 years but</font>
+
+4
+00:00:11,700 --> 00:00:13,530
+he's built most<font color="#E5E5E5"> of his bandmates she</font>
+
+5
+00:00:13,530 --> 00:00:18,119
+plays faster than your stupid drummer he
+
+6
+00:00:18,119 --> 00:00:19,439
+started out by playing the human
+
+7
+00:00:19,439 --> 00:00:22,080
+<font color="#CCCCCC">bandmate</font><font color="#E5E5E5"> but it didn't</font><font color="#CCCCCC"> work out like</font>
+
+8
+00:00:22,080 --> 00:00:23,640
+can't get<font color="#E5E5E5"> along with</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> so it's a</font>
+
+9
+00:00:23,640 --> 00:00:25,350
+lot<font color="#CCCCCC"> easier to just</font><font color="#E5E5E5"> build robots to play</font>
+
+10
+00:00:25,350 --> 00:00:27,630
+<font color="#CCCCCC">with to have to like wait for a bassist</font>
+
+11
+00:00:27,630 --> 00:00:29,279
+to like tune his bass and stuff
+
+12
+00:00:29,279 --> 00:00:31,230
+<font color="#CCCCCC">all right alike if someone's</font><font color="#E5E5E5"> playing and</font>
+
+13
+00:00:31,230 --> 00:00:32,430
+they<font color="#E5E5E5"> just can't get that riff and I'm</font>
+
+14
+00:00:32,430 --> 00:00:34,590
+like I could program a robot<font color="#E5E5E5"> to do your</font>
+
+15
+00:00:34,590 --> 00:00:39,040
+<font color="#E5E5E5">rhythmic yeah</font>
+
+16
+00:00:39,040 --> 00:00:44,370
+[Music]
+
+17
+00:00:44,370 --> 00:00:47,950
+no no no he's preparing<font color="#CCCCCC"> to get one of</font>
+
+18
+00:00:47,950 --> 00:00:50,170
+his bands<font color="#CCCCCC"> the teddy bear</font><font color="#E5E5E5"> Orchestra back</font>
+
+19
+00:00:50,170 --> 00:00:53,700
+<font color="#CCCCCC">together for</font><font color="#E5E5E5"> the first time in</font><font color="#CCCCCC"> 11 years</font>
+
+20
+00:00:53,700 --> 00:00:56,920
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> goop is</font><font color="#E5E5E5"> made of salvaged parts</font><font color="#CCCCCC"> held</font>
+
+21
+00:00:56,920 --> 00:00:59,950
+together with levers and pulleys<font color="#CCCCCC"> where's</font>
+
+22
+00:00:59,950 --> 00:01:01,960
+<font color="#CCCCCC">the input oh and the whole thing is</font>
+
+23
+00:01:01,960 --> 00:01:04,479
+<font color="#E5E5E5">powered by pneumatic air pressure the</font>
+
+24
+00:01:04,479 --> 00:01:05,770
+<font color="#CCCCCC">air cylinders comes down and press it</font>
+
+25
+00:01:05,770 --> 00:01:08,110
+<font color="#E5E5E5">and then the elastic pulls it back up he</font>
+
+26
+00:01:08,110 --> 00:01:10,330
+<font color="#E5E5E5">uses a sequencer and a MIDI</font><font color="#CCCCCC"> keyboard to</font>
+
+27
+00:01:10,330 --> 00:01:17,979
+<font color="#CCCCCC">choreograph and write the music</font><font color="#E5E5E5"> a robot</font>
+
+28
+00:01:17,979 --> 00:01:20,110
+can play things<font color="#CCCCCC"> that a person maybe</font>
+
+29
+00:01:20,110 --> 00:01:21,610
+wouldn't<font color="#E5E5E5"> you know cuz I've got all these</font>
+
+30
+00:01:21,610 --> 00:01:22,750
+fingers you<font color="#E5E5E5"> can do all these weird</font>
+
+31
+00:01:22,750 --> 00:01:25,020
+<font color="#CCCCCC">things</font>
+
+32
+00:01:27,080 --> 00:01:30,410
+the music<font color="#E5E5E5"> isn't for everyone it's an</font>
+
+33
+00:01:30,410 --> 00:01:32,540
+original<font color="#E5E5E5"> sound</font><font color="#CCCCCC"> it's nice to have sounds</font>
+
+34
+00:01:32,540 --> 00:01:35,710
+that<font color="#CCCCCC"> don't</font><font color="#E5E5E5"> sound like everybody else</font>
+
+35
+00:01:37,090 --> 00:01:39,800
+each robot<font color="#E5E5E5"> is different for what</font>
+
+36
+00:01:39,800 --> 00:01:41,390
+controls what I mean there's<font color="#E5E5E5"> different</font>
+
+37
+00:01:41,390 --> 00:01:43,490
+channels there's different note numbers
+
+38
+00:01:43,490 --> 00:01:45,110
+that control<font color="#E5E5E5"> different things so I just</font>
+
+39
+00:01:45,110 --> 00:01:46,940
+have<font color="#E5E5E5"> to go in you don't have to put in</font>
+
+40
+00:01:46,940 --> 00:01:49,280
+the information<font color="#CCCCCC"> to</font><font color="#E5E5E5"> make each robot play</font>
+
+41
+00:01:49,280 --> 00:01:51,380
+with it with<font color="#CCCCCC"> a</font><font color="#E5E5E5"> keyboard it's all set</font><font color="#CCCCCC"> up</font>
+
+42
+00:01:51,380 --> 00:01:53,180
+so I could you<font color="#CCCCCC"> know control motions left</font>
+
+43
+00:01:53,180 --> 00:01:56,660
+and right up and<font color="#CCCCCC"> down the last time</font>
+
+44
+00:01:56,660 --> 00:01:58,460
+<font color="#CCCCCC">teddybear caster actually played a</font><font color="#E5E5E5"> gig</font>
+
+45
+00:01:58,460 --> 00:02:00,350
+<font color="#CCCCCC">that was just these two bears now you</font>
+
+46
+00:02:00,350 --> 00:02:01,550
+know I'm in<font color="#E5E5E5"> the band the horns are in</font>
+
+47
+00:02:01,550 --> 00:02:02,060
+the band
+
+48
+00:02:02,060 --> 00:02:03,320
+<font color="#CCCCCC">Whitey's in the bands</font><font color="#E5E5E5"> that has never</font>
+
+49
+00:02:03,320 --> 00:02:07,910
+been<font color="#E5E5E5"> seen like live it's not AI but it</font>
+
+50
+00:02:07,910 --> 00:02:09,590
+still seems like<font color="#E5E5E5"> a lot of work to avoid</font>
+
+51
+00:02:09,590 --> 00:02:12,640
+playing with other humans
+
+52
+00:02:13,080 --> 00:02:15,450
+this is the worst<font color="#E5E5E5"> setting up and</font>
+
+53
+00:02:15,450 --> 00:02:16,920
+breaking<font color="#CCCCCC"> down</font><font color="#E5E5E5"> with you with any band</font>
+
+54
+00:02:16,920 --> 00:02:18,180
+you're putting yourself out there<font color="#CCCCCC"> but as</font>
+
+55
+00:02:18,180 --> 00:02:20,870
+a solo thing and as a first show out
+
+56
+00:02:20,870 --> 00:02:22,620
+<font color="#E5E5E5">that's pressure</font>
+
+57
+00:02:22,620 --> 00:02:25,290
+I originally saw them as a duo<font color="#E5E5E5"> very</font>
+
+58
+00:02:25,290 --> 00:02:27,150
+excited to see the band's growth and
+
+59
+00:02:27,150 --> 00:02:29,850
+development<font color="#E5E5E5"> live performances are the</font>
+
+60
+00:02:29,850 --> 00:02:34,250
+one timely j-bot enjoys human<font color="#E5E5E5"> attention</font>
+
+61
+00:02:56,880 --> 00:03:00,470
+<font color="#CCCCCC">I was blessed with</font><font color="#E5E5E5"> having a totally</font>
+
+62
+00:03:00,470 --> 00:03:02,820
+<font color="#E5E5E5">obsessive-compulsive you know brain that</font>
+
+63
+00:03:02,820 --> 00:03:05,310
+<font color="#CCCCCC">just keeps going</font><font color="#E5E5E5"> on and so I just take</font>
+
+64
+00:03:05,310 --> 00:03:06,780
+the ideas that<font color="#E5E5E5"> I have and I put them</font>
+
+65
+00:03:06,780 --> 00:03:09,080
+into material<font color="#E5E5E5"> things and</font><font color="#CCCCCC"> I make things</font>
+
+66
+00:03:09,080 --> 00:03:12,080
+work
+
+67
+00:03:15,170 --> 00:03:16,010
+[Applause]
+
+68
+00:03:16,010 --> 00:03:16,840
+[Music]
+
+69
+00:03:16,840 --> 00:03:20,139
+[Applause]
+
+70
+00:03:25,880 --> 00:00:00,000
+you
+

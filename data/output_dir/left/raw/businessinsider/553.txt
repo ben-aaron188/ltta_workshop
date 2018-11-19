@@ -1,0 +1,44 @@
+1
+00:00:00,060 --> 00:00:04,290
+today's date<font color="#CCCCCC"> is July 25th 2017</font><font color="#E5E5E5"> time on</font>
+
+2
+00:00:04,290 --> 00:00:07,140
+deck is zero seven two zero Zulu<font color="#E5E5E5"> we're</font>
+
+3
+00:00:07,140 --> 00:00:08,880
+operating in<font color="#E5E5E5"> the northern</font><font color="#CCCCCC"> Arabian Gulf</font>
+
+4
+00:00:08,880 --> 00:00:11,429
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> position to 90 degrees</font><font color="#CCCCCC"> one-one</font>
+
+5
+00:00:11,429 --> 00:00:14,040
+<font color="#E5E5E5">decimal to north zero four Niner degrees</font>
+
+6
+00:00:14,040 --> 00:00:16,980
+<font color="#CCCCCC">one zero decimal 7</font><font color="#E5E5E5"> e we are on a course</font>
+
+7
+00:00:16,980 --> 00:00:18,900
+of one three zero degrees<font color="#E5E5E5"> to turning</font>
+
+8
+00:00:18,900 --> 00:00:22,320
+<font color="#E5E5E5">four five knots with zero one IRGC n</font>
+
+9
+00:00:22,320 --> 00:00:25,140
+nazzer walk<font color="#CCCCCC"> one nautical mile off our</font>
+
+10
+00:00:25,140 --> 00:00:27,330
+Stern<font color="#E5E5E5"> bearing one eight zero degrees</font>
+
+11
+00:00:27,330 --> 00:00:00,000
+relative<font color="#CCCCCC"> g q1</font><font color="#E5E5E5"> has been set</font>
+

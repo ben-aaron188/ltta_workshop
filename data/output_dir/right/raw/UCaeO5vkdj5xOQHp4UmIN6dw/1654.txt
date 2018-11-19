@@ -1,0 +1,32 @@
+1
+00:00:00,650 --> 00:00:03,030
+<font color="#E5E5E5">this is CNN</font>
+
+2
+00:00:03,030 --> 00:00:05,190
+some people<font color="#E5E5E5"> might try to tell you that</font>
+
+3
+00:00:05,190 --> 00:00:06,089
+<font color="#CCCCCC">it's news</font>
+
+4
+00:00:06,089 --> 00:00:10,349
+they might scream<font color="#CCCCCC"> News News News</font><font color="#E5E5E5"> over</font>
+
+5
+00:00:10,349 --> 00:00:13,559
+and over<font color="#E5E5E5"> and over again they might put</font>
+
+6
+00:00:13,559 --> 00:00:16,710
+news in all caps<font color="#E5E5E5"> you might even start to</font>
+
+7
+00:00:16,710 --> 00:00:19,560
+<font color="#CCCCCC">believe that this is news</font><font color="#E5E5E5"> but it's not</font>
+
+8
+00:00:19,560 --> 00:00:00,000
+this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> CNN</font>
+

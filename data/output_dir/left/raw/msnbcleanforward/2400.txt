@@ -1,0 +1,408 @@
+1
+00:00:03,640 --> 00:00:06,709
+[Music]
+
+2
+00:00:07,370 --> 00:00:09,300
+welcome back everyone<font color="#CCCCCC"> joining us now</font>
+
+3
+00:00:09,300 --> 00:00:11,370
+from Washington<font color="#CCCCCC"> DC</font><font color="#E5E5E5"> with a look at Axios</font>
+
+4
+00:00:11,370 --> 00:00:13,889
+am the<font color="#CCCCCC"> co-founder of axis Mike Allen</font>
+
+5
+00:00:13,889 --> 00:00:15,780
+Mike great<font color="#E5E5E5"> to have you with us on</font><font color="#CCCCCC"> this</font>
+
+6
+00:00:15,780 --> 00:00:17,670
+Tuesday morning what is axis is one big
+
+7
+00:00:17,670 --> 00:00:20,880
+<font color="#E5E5E5">thing for us one fourth of July</font><font color="#CCCCCC"> Eve the</font>
+
+8
+00:00:20,880 --> 00:00:24,150
+<font color="#CCCCCC">Axios one big thing is all the ways</font><font color="#E5E5E5"> to</font>
+
+9
+00:00:24,150 --> 00:00:28,050
+hack an election<font color="#E5E5E5"> so Americans vote in of</font>
+
+10
+00:00:28,050 --> 00:00:31,140
+<font color="#CCCCCC">course 50 separate state-run</font><font color="#E5E5E5"> elections</font>
+
+11
+00:00:31,140 --> 00:00:33,840
+<font color="#E5E5E5">every single one of them has potential</font>
+
+12
+00:00:33,840 --> 00:00:35,820
+points<font color="#E5E5E5"> of failure think about it</font>
+
+13
+00:00:35,820 --> 00:00:38,370
+voter registration both when you<font color="#CCCCCC"> go to</font>
+
+14
+00:00:38,370 --> 00:00:40,890
+fill out the form<font color="#E5E5E5"> and once they collect</font>
+
+15
+00:00:40,890 --> 00:00:44,309
+all the data<font color="#E5E5E5"> voter tabulation once you</font>
+
+16
+00:00:44,309 --> 00:00:46,680
+voted and<font color="#E5E5E5"> they send it in voting</font>
+
+17
+00:00:46,680 --> 00:00:48,570
+<font color="#E5E5E5">machines which sometimes come from</font>
+
+18
+00:00:48,570 --> 00:00:51,059
+<font color="#E5E5E5">third-party vendors of their security</font>
+
+19
+00:00:51,059 --> 00:00:53,520
+<font color="#E5E5E5">problems become the security problems of</font>
+
+20
+00:00:53,520 --> 00:00:57,180
+the American democracy<font color="#E5E5E5"> and of course you</font>
+
+21
+00:00:57,180 --> 00:01:00,390
+have also problems at the<font color="#CCCCCC"> polls the</font><font color="#E5E5E5"> pull</font>
+
+22
+00:01:00,390 --> 00:01:02,940
+books sometimes<font color="#CCCCCC"> online</font><font color="#E5E5E5"> sometimes on</font>
+
+23
+00:01:02,940 --> 00:01:05,700
+paper<font color="#CCCCCC"> what we learned from looking</font><font color="#E5E5E5"> at</font>
+
+24
+00:01:05,700 --> 00:01:07,470
+this list which<font color="#E5E5E5"> has</font><font color="#CCCCCC"> just popped up</font><font color="#E5E5E5"> on</font>
+
+25
+00:01:07,470 --> 00:01:10,799
+Axios<font color="#CCCCCC"> comm</font><font color="#E5E5E5"> is that as we look ahead to</font>
+
+26
+00:01:10,799 --> 00:01:12,659
+November<font color="#CCCCCC"> we think about the</font><font color="#E5E5E5"> fact that</font>
+
+27
+00:01:12,659 --> 00:01:14,880
+intelligence agencies have<font color="#E5E5E5"> told us there</font>
+
+28
+00:01:14,880 --> 00:01:17,820
+<font color="#E5E5E5">are already intrusions</font><font color="#CCCCCC"> in the midterm</font>
+
+29
+00:01:17,820 --> 00:01:21,060
+elections that<font color="#E5E5E5"> this is a huge fix and</font>
+
+30
+00:01:21,060 --> 00:01:22,650
+you think<font color="#E5E5E5"> about</font><font color="#CCCCCC"> the respect that</font><font color="#E5E5E5"> there</font>
+
+31
+00:01:22,650 --> 00:01:24,900
+are some states<font color="#E5E5E5"> don't even have a paper</font>
+
+32
+00:01:24,900 --> 00:01:26,520
+<font color="#E5E5E5">trail for their ballots so basically</font>
+
+33
+00:01:26,520 --> 00:01:27,659
+<font color="#E5E5E5">like what you're saying is on the eve of</font>
+
+34
+00:01:27,659 --> 00:01:29,520
+Independence Day when we as Americans
+
+35
+00:01:29,520 --> 00:01:31,079
+should<font color="#CCCCCC"> be</font><font color="#E5E5E5"> feeling the most confident</font>
+
+36
+00:01:31,079 --> 00:01:33,119
+about<font color="#E5E5E5"> our country who are feeling very</font>
+
+37
+00:01:33,119 --> 00:01:34,350
+<font color="#E5E5E5">vulnerable about those very same</font>
+
+38
+00:01:34,350 --> 00:01:36,509
+elections come November what are you
+
+39
+00:01:36,509 --> 00:01:37,409
+learning about<font color="#E5E5E5"> some of these</font>
+
+40
+00:01:37,409 --> 00:01:38,850
+<font color="#CCCCCC">vulnerabilities because it sounds kind</font>
+
+41
+00:01:38,850 --> 00:01:40,740
+of<font color="#E5E5E5"> scary that</font><font color="#CCCCCC"> you know we're once again</font>
+
+42
+00:01:40,740 --> 00:01:43,409
+at this crossroads<font color="#E5E5E5"> of a possibly a</font>
+
+43
+00:01:43,409 --> 00:01:45,720
+rigged election<font color="#E5E5E5"> well when you put it</font>
+
+44
+00:01:45,720 --> 00:01:46,259
+that way
+
+45
+00:01:46,259 --> 00:01:49,409
+yes no question and<font color="#E5E5E5"> this</font><font color="#CCCCCC"> is a place that</font>
+
+46
+00:01:49,409 --> 00:01:51,899
+America is far behind intelligence
+
+47
+00:01:51,899 --> 00:01:53,790
+agencies<font color="#E5E5E5"> have been warning us that</font>
+
+48
+00:01:53,790 --> 00:01:56,100
+<font color="#CCCCCC">people</font><font color="#E5E5E5"> are banging outside forces</font>
+
+49
+00:01:56,100 --> 00:01:58,229
+banging on these elections looking for
+
+50
+00:01:58,229 --> 00:02:01,020
+ways to<font color="#CCCCCC"> get</font><font color="#E5E5E5"> into the states we know that</font>
+
+51
+00:02:01,020 --> 00:02:04,049
+in 2016<font color="#CCCCCC"> and at</font><font color="#E5E5E5"> least 18 states there</font>
+
+52
+00:02:04,049 --> 00:02:06,329
+were efforts<font color="#E5E5E5"> to infiltrate those</font>
+
+53
+00:02:06,329 --> 00:02:07,469
+elections<font color="#E5E5E5"> now we think that those</font>
+
+54
+00:02:07,469 --> 00:02:09,060
+probably<font color="#E5E5E5"> weren't</font>
+
+55
+00:02:09,060 --> 00:02:11,550
+successful<font color="#E5E5E5"> but what we're seeing is</font><font color="#CCCCCC"> that</font>
+
+56
+00:02:11,550 --> 00:02:14,489
+in<font color="#CCCCCC"> addition to the</font><font color="#E5E5E5"> well-known</font><font color="#CCCCCC"> efforts to</font>
+
+57
+00:02:14,489 --> 00:02:16,140
+<font color="#E5E5E5">affect the</font><font color="#CCCCCC"> hwachun environment</font><font color="#E5E5E5"> and</font>
+
+58
+00:02:16,140 --> 00:02:19,170
+affect our Social Feeds<font color="#E5E5E5"> also physical</font>
+
+59
+00:02:19,170 --> 00:02:22,260
+voting now is<font color="#E5E5E5"> very</font><font color="#CCCCCC"> much in</font><font color="#E5E5E5"> danger let's</font>
+
+60
+00:02:22,260 --> 00:02:23,790
+<font color="#CCCCCC">switch gears</font><font color="#E5E5E5"> for a</font><font color="#CCCCCC"> moment and talk about</font>
+
+61
+00:02:23,790 --> 00:02:25,769
+internal democratic politics for a
+
+62
+00:02:25,769 --> 00:02:28,530
+moment how could the<font color="#CCCCCC"> blue wave</font><font color="#E5E5E5"> within</font>
+
+63
+00:02:28,530 --> 00:02:31,709
+the<font color="#E5E5E5"> Democrats his own party impact the</font>
+
+64
+00:02:31,709 --> 00:02:34,080
+candidate they put forth<font color="#E5E5E5"> in the 2020</font>
+
+65
+00:02:34,080 --> 00:02:35,400
+presidential race it's been getting<font color="#E5E5E5"> a</font>
+
+66
+00:02:35,400 --> 00:02:36,810
+lot<font color="#E5E5E5"> of</font><font color="#CCCCCC"> attention in the</font><font color="#E5E5E5"> wake</font><font color="#CCCCCC"> of the</font>
+
+67
+00:02:36,810 --> 00:02:39,390
+victory<font color="#E5E5E5"> here</font><font color="#CCCCCC"> in New York</font><font color="#E5E5E5"> by</font><font color="#CCCCCC"> Oracle</font>
+
+68
+00:02:39,390 --> 00:02:42,209
+<font color="#CCCCCC">Cortes</font><font color="#E5E5E5"> no that's right and that energy</font>
+
+69
+00:02:42,209 --> 00:02:43,709
+that we're seeing from<font color="#E5E5E5"> Democrats is</font>
+
+70
+00:02:43,709 --> 00:02:47,040
+great news for<font color="#CCCCCC"> them the bad</font><font color="#E5E5E5"> news for</font>
+
+71
+00:02:47,040 --> 00:02:48,630
+<font color="#E5E5E5">them and the</font><font color="#CCCCCC"> reason</font><font color="#E5E5E5"> that Democrats are</font>
+
+72
+00:02:48,630 --> 00:02:50,910
+more worried<font color="#CCCCCC"> than they were before</font>
+
+73
+00:02:50,910 --> 00:02:53,280
+is this progressive blue wave that<font color="#E5E5E5"> you</font>
+
+74
+00:02:53,280 --> 00:02:56,549
+see right there<font color="#E5E5E5"> from</font><font color="#CCCCCC"> Axios be visuals</font>
+
+75
+00:02:56,549 --> 00:02:59,819
+<font color="#E5E5E5">and what we're seeing is that the wings</font>
+
+76
+00:02:59,819 --> 00:03:02,730
+<font color="#E5E5E5">of the Democratic Party</font><font color="#CCCCCC"> are fighting</font>
+
+77
+00:03:02,730 --> 00:03:05,549
+each other<font color="#E5E5E5"> instead of just focusing on</font>
+
+78
+00:03:05,549 --> 00:03:06,540
+Republicans
+
+79
+00:03:06,540 --> 00:03:08,310
+so that amazing interview that we saw
+
+80
+00:03:08,310 --> 00:03:10,709
+with<font color="#CCCCCC"> Connor Lam here on Morning</font><font color="#E5E5E5"> Joe</font>
+
+81
+00:03:10,709 --> 00:03:13,829
+after<font color="#E5E5E5"> his victory in a Democratic</font>
+
+82
+00:03:13,829 --> 00:03:17,760
+primary<font color="#CCCCCC"> or Democrats then said</font><font color="#E5E5E5"> oh but</font>
+
+83
+00:03:17,760 --> 00:03:20,130
+the path<font color="#CCCCCC"> to win is to have moderates but</font>
+
+84
+00:03:20,130 --> 00:03:23,790
+now we're seeing this progressive wave
+
+85
+00:03:23,790 --> 00:03:28,590
+and including<font color="#E5E5E5"> in states where Democratic</font>
+
+86
+00:03:28,590 --> 00:03:31,160
+legislators have<font color="#CCCCCC"> been beaten in</font>
+
+87
+00:03:31,160 --> 00:03:34,109
+primaries from<font color="#E5E5E5"> the left in a couple of</font>
+
+88
+00:03:34,109 --> 00:03:37,859
+dozen cases<font color="#E5E5E5"> so can</font><font color="#CCCCCC"> Democrats focus on</font>
+
+89
+00:03:37,859 --> 00:03:40,859
+Republicans can they figure<font color="#CCCCCC"> out a way</font><font color="#E5E5E5"> to</font>
+
+90
+00:03:40,859 --> 00:03:43,139
+keep<font color="#E5E5E5"> these two wings of the party from</font>
+
+91
+00:03:43,139 --> 00:03:45,510
+swapping each other<font color="#CCCCCC"> all right</font><font color="#E5E5E5"> Mike Allen</font>
+
+92
+00:03:45,510 --> 00:03:46,859
+thank you very much of course we're
+
+93
+00:03:46,859 --> 00:03:48,690
+gonna<font color="#E5E5E5"> be reading access em in just a bit</font>
+
+94
+00:03:48,690 --> 00:03:50,040
+in to all<font color="#E5E5E5"> of our viewers out there you</font>
+
+95
+00:03:50,040 --> 00:03:51,600
+<font color="#E5E5E5">too can sign up for the newsletter by</font>
+
+96
+00:03:51,600 --> 00:03:55,049
+going to sign<font color="#E5E5E5"> up Axios</font><font color="#CCCCCC"> com hey there our</font>
+
+97
+00:03:55,049 --> 00:03:56,760
+Chris Hayes<font color="#E5E5E5"> from MSNBC thanks for</font>
+
+98
+00:03:56,760 --> 00:03:58,829
+watching MSNBC<font color="#CCCCCC"> on youtube if you want to</font>
+
+99
+00:03:58,829 --> 00:04:00,120
+keep<font color="#E5E5E5"> up to</font><font color="#CCCCCC"> date with the videos we're</font>
+
+100
+00:04:00,120 --> 00:04:01,769
+putting out you can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> subscribe just</font>
+
+101
+00:04:01,769 --> 00:04:03,780
+below me<font color="#CCCCCC"> or click over</font><font color="#E5E5E5"> on this list to</font>
+
+102
+00:04:03,780 --> 00:00:00,000
+see lots of other<font color="#E5E5E5"> great videos</font>
+

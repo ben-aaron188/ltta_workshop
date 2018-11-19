@@ -1,0 +1,47 @@
+Behind every order you place online is a real
+person called a picker.  They navigate massive
+warehouses to find the item you just ordered,
+and bring it to place where it is packed and shipped.
+With companies like Amazon offering delivery
+in as little as an hour, the pressure is on the
+pickers to really speed things up.
+The pick time in these facilities have gone
+from days to hours to minutes.
+It’s very hard to have an entire workforce
+shift their cadence and even sustain that cadence.
+Silicon Valley company Fetch thinks it has
+a solution to this problem.
+You guessed it, robots.
+The first step for us really was to eliminate
+the tedious activity.
+So they could specialize at the things that
+they’re good at and then the tedious task
+of going from one side of a 400 square foot
+warehouse to the other, that’s given to a robot.
+Exactly.
+Pickers used to spend several minutes pushing
+carts from one side of the warehouse to the other over and over again.
+Fetch wants their robots to do those long
+runs leaving the picker to fetch more items.
+The result is increased warehouse efficiency with orders up as much as 30 percent without adding more pickers.
+At Fetch, engineers work in a mock warehouse,
+training robots to maneuver about their future homes.
+We want to see how efficient they are how they are dealing with each in terms of going around each other, traffic management through the facility.
+The robots are able to get around autonomously by using a combination of a laser and a time-of-flight camera
+so the robot can adjust to obstacles.
+The robot actually does path planning, plans a path through the facility and then navigates along that path
+while avoiding obstacles.
+This is essentially looking through the robots eyes.
+It allows us to see 3D data coming off of
+the robot.
+You kind of see the shelves and the boxes
+around and every kind of nook and cranny there.
+RTK Logistics, which serves the semi-conductor
+industry, is among Fetch's first customers.
+Fetch's robots are designed to work side by
+side with people, unlike some robots that
+have to be separated from human workers for safety.
+Partnering with people to do what the robot
+is capable of doing
+while making the person
+more efficient is really important.

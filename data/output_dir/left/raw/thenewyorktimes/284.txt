@@ -1,0 +1,204 @@
+1
+00:00:00,030 --> 00:00:04,410
+in a remote corner of the Democratic
+Republic of Congo armed militias of
+
+2
+00:00:04,410 --> 00:00:09,719
+burning villages scores of people have
+been killed and over 100,000 have been
+
+3
+00:00:09,719 --> 00:00:14,759
+displaced it's often hard to tell what's
+going on in distant parts of the world
+
+4
+00:00:14,759 --> 00:00:18,960
+but by using satellite data we can
+monitor this conflict in almost
+
+5
+00:00:18,960 --> 00:00:24,019
+real-time and detect flare-ups that may
+indicate violence is starting to spread
+
+6
+00:00:24,019 --> 00:00:30,599
+what we're seeing doesn't look good this
+was the scene in western Uganda in
+
+7
+00:00:30,599 --> 00:00:36,270
+February waves of refugees fleeing
+violence in the DRC and crossing Lake
+
+8
+00:00:36,270 --> 00:00:42,059
+Albert at the height between five and a
+half and six thousand people coming
+
+9
+00:00:42,059 --> 00:00:48,780
+across today Andrew Harper was on the
+shore they grabbed everything that they
+
+10
+00:00:48,780 --> 00:00:52,610
+owned which is basically nothing and
+they brought it with them on the boat
+
+11
+00:00:52,610 --> 00:00:59,010
+all these very clear signs were
+indicative that whole areas had been
+
+12
+00:00:59,010 --> 00:01:11,970
+basically cleanse the refugees said that
+armed men had burned houses forcing
+
+13
+00:01:11,970 --> 00:01:18,150
+entire villages to flee across the lake
+most to the town of Cebu Goro many came
+
+14
+00:01:18,150 --> 00:01:23,729
+from here in a Cheree province but the
+scale of the violence was unclear so we
+
+15
+00:01:23,729 --> 00:01:28,380
+analysed aerial data NASA satellites
+captured the locations of active fires
+
+16
+00:01:28,380 --> 00:01:34,500
+every day and many were burning on the
+days that people fled now most were
+
+17
+00:01:34,500 --> 00:01:39,329
+probably forest fires not acts of
+violence so we used OpenStreetMap data
+
+18
+00:01:39,329 --> 00:01:45,329
+to pinpoint populated areas and obtained
+new high-resolution satellite pictures
+
+19
+00:01:45,329 --> 00:01:51,360
+of those villages they tell a clear
+story here's one village photographed
+
+20
+00:01:51,360 --> 00:01:56,689
+before the violence began and the same
+village on February 17th
+
+21
+00:01:56,689 --> 00:02:03,420
+nearly every structure is burned this
+pattern emerged in village after village
+
+22
+00:02:03,420 --> 00:02:09,419
+all along the lakeshore humanitarian
+groups estimate that more than 2,000
+
+23
+00:02:09,419 --> 00:02:13,840
+homes have been destroyed
+now while satellite data
+
+24
+00:02:13,840 --> 00:02:18,250
+gives us a clearer picture of the unrest
+it Charice history helps us understand
+
+25
+00:02:18,250 --> 00:02:25,269
+why the violence has suddenly erupted at
+this time in the early 2000s two
+
+26
+00:02:25,269 --> 00:02:31,330
+communities the hammer and the land uu
+were involved in a bloody conflict more
+
+27
+00:02:31,330 --> 00:02:35,830
+than fifty thousand people were killed
+before peace was restored why this
+
+28
+00:02:35,830 --> 00:02:40,390
+currently is happening now is fairly
+suspicious these communities were
+
+29
+00:02:40,390 --> 00:02:46,150
+reconciling relationships had improved
+Stern says that this time it's not
+
+30
+00:02:46,150 --> 00:02:50,530
+ethnic tensions but political
+motivations that are most likely driving
+
+31
+00:02:50,530 --> 00:02:56,110
+the conflict the country has been in a
+period of political turmoil as President
+
+32
+00:02:56,110 --> 00:03:02,890
+Joseph Kabila fights for his political
+survival it is one of unfortunately many
+
+33
+00:03:02,890 --> 00:03:10,540
+many different often interlocking
+conflicts more recently the violence and
+
+34
+00:03:10,540 --> 00:03:16,870
+ature II has spread inland the situation
+has escalated with the figures of
+
+35
+00:03:16,870 --> 00:03:22,299
+displacement basically doubling in the
+week our reporting suggests that after
+
+36
+00:03:22,299 --> 00:03:26,200
+the lakeshore villagers fled the
+violence built over this mountain ridge
+
+37
+00:03:26,200 --> 00:03:34,239
+driving people westward many toward the
+town of Banja up to 100,000 people are
+
+38
+00:03:34,239 --> 00:03:40,959
+displaced in the e2v province it's
+probably not a very good standard so
+
+39
+00:03:40,959 --> 00:03:45,819
+while it's unclear what stoking this
+violence it's troubling how suddenly it
+
+40
+00:03:45,819 --> 00:03:52,540
+flared and for the many displaced who
+knows when or even if they'll be able to
+
+41
+00:03:52,540 --> 00:00:00,000
+return home
+

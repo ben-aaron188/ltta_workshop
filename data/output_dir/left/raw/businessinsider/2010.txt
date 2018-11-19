@@ -1,0 +1,208 @@
+1
+00:00:03,560 --> 00:00:06,629
+from the old math to the new math to the
+
+2
+00:00:06,629 --> 00:00:09,420
+new new math known as common core<font color="#CCCCCC"> let's</font>
+
+3
+00:00:09,420 --> 00:00:11,250
+<font color="#E5E5E5">look at how subtraction has changed over</font>
+
+4
+00:00:11,250 --> 00:00:13,620
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> years</font><font color="#CCCCCC"> if you learn subtraction in</font>
+
+5
+00:00:13,620 --> 00:00:15,480
+the 1950s<font color="#CCCCCC"> you may have learned the</font>
+
+6
+00:00:15,480 --> 00:00:18,359
+borrow and payback method start on the
+
+7
+00:00:18,359 --> 00:00:20,430
+right in the ones place<font color="#CCCCCC"> since you can't</font>
+
+8
+00:00:20,430 --> 00:00:22,890
+take<font color="#E5E5E5"> 6 from 3 you need to borrow from</font>
+
+9
+00:00:22,890 --> 00:00:26,130
+<font color="#E5E5E5">the tens to make this 13 and pay it back</font>
+
+10
+00:00:26,130 --> 00:00:28,170
+by subtracting an additional<font color="#E5E5E5"> one here</font>
+
+11
+00:00:28,170 --> 00:00:31,260
+<font color="#E5E5E5">now 6 from 13 is 7 now we need to borrow</font>
+
+12
+00:00:31,260 --> 00:00:33,870
+and pay back again<font color="#E5E5E5"> and 12 minus 1 minus</font>
+
+13
+00:00:33,870 --> 00:00:38,700
+<font color="#CCCCCC">7 is 4 and 5 minus 1 minus 1 is</font><font color="#E5E5E5"> 3 but</font>
+
+14
+00:00:38,700 --> 00:00:40,320
+<font color="#E5E5E5">some people thought students were just</font>
+
+15
+00:00:40,320 --> 00:00:42,899
+memorizing an algorithm<font color="#CCCCCC"> so in</font><font color="#E5E5E5"> order for</font>
+
+16
+00:00:42,899 --> 00:00:44,670
+students to<font color="#E5E5E5"> really understand what they</font>
+
+17
+00:00:44,670 --> 00:00:47,430
+were doing<font color="#E5E5E5"> new math was introduced new</font>
+
+18
+00:00:47,430 --> 00:00:49,320
+math<font color="#E5E5E5"> replaced borrowing and paying back</font>
+
+19
+00:00:49,320 --> 00:00:52,500
+with<font color="#E5E5E5"> regrouping let's try it so you</font>
+
+20
+00:00:52,500 --> 00:00:54,930
+can't take 6 from 3 so<font color="#CCCCCC"> you need to</font>
+
+21
+00:00:54,930 --> 00:00:57,360
+regroup<font color="#E5E5E5"> your tens instead of</font><font color="#CCCCCC"> 2 tens you</font>
+
+22
+00:00:57,360 --> 00:01:00,000
+have<font color="#CCCCCC"> 110</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> 10 ones</font><font color="#E5E5E5"> would</font><font color="#CCCCCC"> you add your</font>
+
+23
+00:01:00,000 --> 00:01:04,199
+<font color="#CCCCCC">3 ones</font><font color="#E5E5E5"> so now 6 ones from 13 ones is 7</font>
+
+24
+00:01:04,199 --> 00:01:07,020
+ones and<font color="#E5E5E5"> 7 is larger than one so you</font>
+
+25
+00:01:07,020 --> 00:01:10,520
+regroup your hundreds into<font color="#CCCCCC"> 410 tens</font>
+
+26
+00:01:10,520 --> 00:01:14,060
+<font color="#CCCCCC">seven</font><font color="#E5E5E5"> tens from</font><font color="#CCCCCC"> 11 tens is four tens and</font>
+
+27
+00:01:14,060 --> 00:01:17,520
+one from<font color="#E5E5E5"> four is three but now once</font>
+
+28
+00:01:17,520 --> 00:01:19,049
+again<font color="#E5E5E5"> we're saying this is just an</font>
+
+29
+00:01:19,049 --> 00:01:20,790
+algorithm and we want students to
+
+30
+00:01:20,790 --> 00:01:23,070
+understand what they're<font color="#CCCCCC"> doing so here</font>
+
+31
+00:01:23,070 --> 00:01:25,380
+<font color="#E5E5E5">comes the common</font><font color="#CCCCCC"> core but this time it</font>
+
+32
+00:01:25,380 --> 00:01:26,670
+actually<font color="#E5E5E5"> does look</font><font color="#CCCCCC"> different</font>
+
+33
+00:01:26,670 --> 00:01:28,590
+the idea is to subtract the way you
+
+34
+00:01:28,590 --> 00:01:30,270
+would count<font color="#CCCCCC"> change in your head you</font>
+
+35
+00:01:30,270 --> 00:01:32,490
+start<font color="#CCCCCC"> with the smaller number and add up</font>
+
+36
+00:01:32,490 --> 00:01:34,619
+<font color="#CCCCCC">two friendly or larger numbers let's</font>
+
+37
+00:01:34,619 --> 00:01:37,350
+start with 176<font color="#E5E5E5"> we add forward to get to</font>
+
+38
+00:01:37,350 --> 00:01:42,600
+180 plus 20 is 200 plus 300 is 500 plus
+
+39
+00:01:42,600 --> 00:01:46,560
+23<font color="#E5E5E5"> gets us to 523 now add up all the</font>
+
+40
+00:01:46,560 --> 00:01:49,380
+<font color="#CCCCCC">numbers you added along the way</font><font color="#E5E5E5"> 4 + 3 is</font>
+
+41
+00:01:49,380 --> 00:01:51,149
+7 2 + 2 is 4
+
+42
+00:01:51,149 --> 00:01:54,960
+bring down the<font color="#E5E5E5"> 3 and we have 347 when</font>
+
+43
+00:01:54,960 --> 00:01:56,640
+new math came along it<font color="#E5E5E5"> was supposed to</font>
+
+44
+00:01:56,640 --> 00:01:58,760
+<font color="#E5E5E5">help students understand what they were</font>
+
+45
+00:01:58,760 --> 00:02:01,040
+doing this is exactly what<font color="#CCCCCC"> Common Core</font>
+
+46
+00:02:01,040 --> 00:02:03,530
+is trying to do<font color="#E5E5E5"> now new math was mocked</font>
+
+47
+00:02:03,530 --> 00:02:05,270
+for<font color="#CCCCCC"> being more concerned about kids</font>
+
+48
+00:02:05,270 --> 00:02:07,220
+<font color="#E5E5E5">understanding the steps than getting the</font>
+
+49
+00:02:07,220 --> 00:02:09,169
+<font color="#E5E5E5">right answer</font><font color="#CCCCCC"> and this</font><font color="#E5E5E5"> is exactly</font><font color="#CCCCCC"> what</font>
+
+50
+00:02:09,169 --> 00:02:10,789
+<font color="#CCCCCC">people</font><font color="#E5E5E5"> are complaining</font><font color="#CCCCCC"> about with Common</font>
+
+51
+00:02:10,789 --> 00:02:14,390
+Core change is<font color="#E5E5E5"> scary</font><font color="#CCCCCC"> especially when it</font>
+
+52
+00:02:14,390 --> 00:00:00,000
+<font color="#E5E5E5">involves</font><font color="#CCCCCC"> Matt</font>
+

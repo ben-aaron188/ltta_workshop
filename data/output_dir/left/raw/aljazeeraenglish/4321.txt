@@ -1,0 +1,180 @@
+1
+00:00:00,030 --> 00:00:02,580
+the world's biggest<font color="#E5E5E5"> technology companies</font>
+
+2
+00:00:02,580 --> 00:00:05,130
+are scrambling<font color="#CCCCCC"> to fix critical</font><font color="#E5E5E5"> cyber</font>
+
+3
+00:00:05,130 --> 00:00:07,710
+security flaws<font color="#CCCCCC"> that</font><font color="#E5E5E5"> could compromise</font>
+
+4
+00:00:07,710 --> 00:00:10,650
+<font color="#E5E5E5">every computer smartphone and server</font>
+
+5
+00:00:10,650 --> 00:00:14,130
+sold in the<font color="#E5E5E5"> past 20 years</font><font color="#CCCCCC"> Packers</font>
+
+6
+00:00:14,130 --> 00:00:16,949
+if they are<font color="#CCCCCC"> able to install some</font>
+
+7
+00:00:16,949 --> 00:00:18,930
+malicious software<font color="#E5E5E5"> on a computer</font><font color="#CCCCCC"> and</font>
+
+8
+00:00:18,930 --> 00:00:21,420
+<font color="#E5E5E5">then go the extra step to take advantage</font>
+
+9
+00:00:21,420 --> 00:00:23,369
+of this problem they can access<font color="#E5E5E5"> some</font>
+
+10
+00:00:23,369 --> 00:00:25,949
+really sensitive<font color="#CCCCCC"> information including</font>
+
+11
+00:00:25,949 --> 00:00:28,710
+passwords<font color="#E5E5E5"> encryption keys that let them</font>
+
+12
+00:00:28,710 --> 00:00:31,349
+access even<font color="#CCCCCC"> more sensitive</font><font color="#E5E5E5"> data security</font>
+
+13
+00:00:31,349 --> 00:00:32,780
+researchers discovered vulnerabilities
+
+14
+00:00:32,780 --> 00:00:35,760
+in computer chips used in<font color="#E5E5E5"> nearly all</font>
+
+15
+00:00:35,760 --> 00:00:39,450
+<font color="#E5E5E5">devices the flaws dubbed</font><font color="#CCCCCC"> specter and</font>
+
+16
+00:00:39,450 --> 00:00:42,600
+meltdown by security experts would allow
+
+17
+00:00:42,600 --> 00:00:45,239
+intruders to steal any data on<font color="#E5E5E5"> the</font>
+
+18
+00:00:45,239 --> 00:00:47,730
+<font color="#CCCCCC">system's</font><font color="#E5E5E5"> companies involved include</font>
+
+19
+00:00:47,730 --> 00:00:50,670
+Apple Microsoft and<font color="#E5E5E5"> Google the</font><font color="#CCCCCC"> flawed</font>
+
+20
+00:00:50,670 --> 00:00:54,800
+chips are made by Intel<font color="#CCCCCC"> AR m and AMD</font>
+
+21
+00:00:54,800 --> 00:00:57,899
+<font color="#E5E5E5">Google's project zero security team said</font>
+
+22
+00:00:57,899 --> 00:00:59,969
+<font color="#CCCCCC">it</font><font color="#E5E5E5"> found the flaws</font><font color="#CCCCCC"> sometime last year</font>
+
+23
+00:00:59,969 --> 00:01:03,180
+<font color="#E5E5E5">the company announced details of how it</font>
+
+24
+00:01:03,180 --> 00:01:05,250
+is working<font color="#CCCCCC"> to protect</font><font color="#E5E5E5"> users of Google</font>
+
+25
+00:01:05,250 --> 00:01:09,150
+<font color="#CCCCCC">cloud</font><font color="#E5E5E5"> and Android devices</font><font color="#CCCCCC"> it says a new</font>
+
+26
+00:01:09,150 --> 00:01:11,400
+version of the Chrome browser debuting
+
+27
+00:01:11,400 --> 00:01:14,390
+later this month<font color="#E5E5E5"> will include fixes</font>
+
+28
+00:01:14,390 --> 00:01:16,560
+<font color="#E5E5E5">Microsoft has also developed an</font>
+
+29
+00:01:16,560 --> 00:01:19,020
+emergency patch that<font color="#E5E5E5"> will automatically</font>
+
+30
+00:01:19,020 --> 00:01:21,450
+be applied<font color="#E5E5E5"> to all</font><font color="#CCCCCC"> devices running</font><font color="#E5E5E5"> on</font>
+
+31
+00:01:21,450 --> 00:01:24,299
+<font color="#E5E5E5">Windows 10 Apple has not publicly</font>
+
+32
+00:01:24,299 --> 00:01:27,150
+disclosed<font color="#E5E5E5"> any fixes for its operating</font>
+
+33
+00:01:27,150 --> 00:01:29,640
+systems<font color="#E5E5E5"> those patches will address the</font>
+
+34
+00:01:29,640 --> 00:01:31,500
+meltdown bug but they could
+
+35
+00:01:31,500 --> 00:01:33,540
+significantly<font color="#E5E5E5"> slow down device</font>
+
+36
+00:01:33,540 --> 00:01:36,360
+performance<font color="#E5E5E5"> in some</font><font color="#CCCCCC"> cases by as much as</font>
+
+37
+00:01:36,360 --> 00:01:38,520
+<font color="#CCCCCC">30 percent it's bad</font><font color="#E5E5E5"> news</font><font color="#CCCCCC"> for everybody</font>
+
+38
+00:01:38,520 --> 00:01:39,869
+if you've got no device<font color="#E5E5E5"> it'll become</font>
+
+39
+00:01:39,869 --> 00:01:42,240
+<font color="#CCCCCC">more vulnerable to hackers if you've got</font>
+
+40
+00:01:42,240 --> 00:01:44,430
+a new<font color="#E5E5E5"> device it may slow</font><font color="#CCCCCC"> down if it's</font>
+
+41
+00:01:44,430 --> 00:01:47,189
+got an Intel chip<font color="#E5E5E5"> inside it the other</font>
+
+42
+00:01:47,189 --> 00:01:50,369
+flaw called<font color="#CCCCCC"> Spectre</font><font color="#E5E5E5"> is harder</font><font color="#CCCCCC"> to fix and</font>
+
+43
+00:01:50,369 --> 00:01:53,040
+<font color="#E5E5E5">will ultimately require a redesign</font><font color="#CCCCCC"> of</font>
+
+44
+00:01:53,040 --> 00:01:55,530
+the chips themselves<font color="#CCCCCC"> rob reynolds al</font>
+
+45
+00:01:55,530 --> 00:00:00,000
+<font color="#CCCCCC">jazeera los angeles</font>
+

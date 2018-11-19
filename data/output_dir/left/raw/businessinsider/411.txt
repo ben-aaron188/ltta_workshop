@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:02,009
+<font color="#CCCCCC">I think they should disclose</font><font color="#E5E5E5"> them to the</font>
+
+2
+00:00:02,009 --> 00:00:06,830
+company so<font color="#CCCCCC"> that we can fix these bugs</font><font color="#E5E5E5"> I</font>
+
+3
+00:00:08,719 --> 00:00:11,250
+think it's a terrible<font color="#CCCCCC"> thing to do to</font>
+
+4
+00:00:11,250 --> 00:00:14,009
+<font color="#E5E5E5">stockpile anything because</font><font color="#CCCCCC"> peace just</font>
+
+5
+00:00:14,009 --> 00:00:17,220
+can be used in unintended<font color="#E5E5E5"> ways by people</font>
+
+6
+00:00:17,220 --> 00:00:18,510
+who can<font color="#E5E5E5"> get access to</font><font color="#CCCCCC"> them so I think</font>
+
+7
+00:00:18,510 --> 00:00:20,580
+the issue with some<font color="#E5E5E5"> of these</font><font color="#CCCCCC"> things is</font>
+
+8
+00:00:20,580 --> 00:00:23,369
+we need to make sure<font color="#CCCCCC"> that everybody is</font>
+
+9
+00:00:23,369 --> 00:00:25,529
+updated and patched<font color="#E5E5E5"> because one weak</font>
+
+10
+00:00:25,529 --> 00:00:27,420
+link<font color="#CCCCCC"> in one area can propagate</font>
+
+11
+00:00:27,420 --> 00:00:29,429
+<font color="#E5E5E5">especially in a connected world like</font>
+
+12
+00:00:29,429 --> 00:00:30,869
+ours so that's why I think<font color="#E5E5E5"> of this</font><font color="#CCCCCC"> as</font>
+
+13
+00:00:30,869 --> 00:00:33,079
+<font color="#CCCCCC">even a shared responsibility of</font>
+
+14
+00:00:33,079 --> 00:00:36,270
+governments<font color="#E5E5E5"> first</font><font color="#CCCCCC"> responders like us as</font>
+
+15
+00:00:36,270 --> 00:00:38,430
+tech companies and<font color="#CCCCCC"> even</font><font color="#E5E5E5"> our customers</font>
+
+16
+00:00:38,430 --> 00:00:40,200
+and partners<font color="#E5E5E5"> especially</font><font color="#CCCCCC"> in times like</font>
+
+17
+00:00:40,200 --> 00:00:42,120
+this where digital<font color="#E5E5E5"> technology is so</font>
+
+18
+00:00:42,120 --> 00:00:44,570
+<font color="#CCCCCC">pervasive in</font><font color="#E5E5E5"> all walks of life and</font>
+
+19
+00:00:44,570 --> 00:00:47,010
+infrastructure and parts of<font color="#E5E5E5"> our</font><font color="#CCCCCC"> economy</font>
+
+20
+00:00:47,010 --> 00:00:50,160
+<font color="#CCCCCC">that we all come together</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> make sure</font>
+
+21
+00:00:50,160 --> 00:00:52,829
+that security<font color="#E5E5E5"> and operational security</font>
+
+22
+00:00:52,829 --> 00:00:56,670
+<font color="#CCCCCC">yet all times</font><font color="#E5E5E5"> is being improved and</font>
+
+23
+00:00:56,670 --> 00:00:59,129
+stockpiling of any<font color="#CCCCCC"> zero-day</font><font color="#E5E5E5"> issues is</font>
+
+24
+00:00:59,129 --> 00:01:01,020
+<font color="#CCCCCC">not going to be helpful</font>
+
+25
+00:01:01,020 --> 00:01:02,770
+[Music]
+
+26
+00:01:02,770 --> 00:01:04,250
+[Applause]
+
+27
+00:01:04,250 --> 00:00:00,000
+[Music]
+

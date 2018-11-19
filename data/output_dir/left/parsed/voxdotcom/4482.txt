@@ -1,0 +1,267 @@
+You know this scene from The Wizard of Oz.
+It happens just after Dorothy croons in sepia-toned
+Kansas,
+Toto wags his tail,
+and the house gets caught in a tornado.
+She travels from a faded film strip to a Technicolor
+world.
+But there are three things about this scene
+you might get wrong.
+And each one helps show the real history of
+Technicolor.
+These misconceptions explain what the
+“Technicolor triumph” really was, from
+the technical aspects that made it work, to
+exactly why it took over the movies, to the
+way in which the technology shaped the look
+of the 20th century.
+Lie #1 - Wizard of Oz is not the first Technicolor
+movie.
+Not even close.
+You might know that, but a lot of people don’t.
+Come on Maryland Science Center, you’re
+better than this.
+Historian Barbara Flueckiger has an exhaustive
+timeline of color in film, from
+hand-painted film
+to the first movie filmed in “kinemacolor,”
+A Visit to the Seaside.
+But Technicolor stood out, and even it has
+a history that long predates The Wizard of
+Oz.
+Herbert Kalmus, Daniel Frost Comstock, and
+W. Burton Wescott founded the company in 1914,
+with the “Tech” referring to MIT, where
+Kalmus and Comstock met.
+It started by merging red and green - into
+a new image that roughly looked like this.
+You can see the look in this range of movies
+from the late 1920s and early 30s.
+It could do passably well with skin tones,
+but
+there’s no blue in these dresses for a reason.
+Blue came into the mix in 1932, when Technicolor
+added the key third strip.
+They showed off the process in Walt Disney’s
+Flowers and Trees, a gorgeous animated feature
+that was a botanist’s nightmare.
+You know, there are evil trees in Wizard of
+Oz, too.
+“What do you think you’re doing?”
+Anyway, in order to get Technicolor to work,
+it was an insanely difficult process.
+Technicolor distributed
+guides like these
+and we can make a reasonable simulation digitally,
+with a scene like this.
+So here’s a scene of some Lego people who
+are apparently worshipping Lawrence of Arabia?
+Not sure what’s going on here, but it’s
+our starting image.
+A technicolor camera would typically take
+that picture and shoot it through a prism
+that split the light into red, blue, and green
+negatives for the picture.
+Those negatives were then flipped into positive
+“matrices,”
+which eventually got soaked with dyes of the
+complementary colors.
+So the red matrix turned cyan, the green one
+magenta, and the blue one yellow.
+Then the dye was transferred — this was
+called a “dye transfer process” to create
+a final gorgeous Technicolor image.
+So if you’re anything like me, that explanation
+might make you feel like the scarecrow.
+“Oh I’m a failure because I haven’t
+got a brain.”
+So let’s try it again, but only look at
+that red channel.
+So keep your eye on the View-Master, the red
+in the Rubik’s cube, or maybe the Lego guy’s
+hat.
+It is all kind of dark now, because that’s
+just the red color in the negative.
+Now flipped in the matrix, that red is really
+bright, which means that when it’s dyed,
+it won’t get a lot of
+cyan.
+And that makes sense.
+Cyan is the complementary color — it’s
+the anti-red.
+So where you want a lot of red, you do not
+want a lot of cyan.
+That way, when it comes together, you get
+a ton of magenta and some yellow.
+You don’t have a lot of cyan, because the
+cyan cancels out the red.
+In the earlier days of Technicolor, they also
+had to amp up the contrast.
+The company would add a black and white layer
+underneath the matrices to serve as something
+called "the key."
+You can see the results early, in films like
+1934’s La Cucaracha,
+The Trail of the Lonesome Pine,
+and Robin Hood, all of which came out well
+before the Wizard of Oz.
+It’s easy enough to roughly copy the technology
+that “Technicolored” the Wizard of Oz.
+RGB split, color bath, mesh, repeat.
+But the film strip processes are just part
+of the story.
+Lie #2: this scene?
+It’s not going from a black and white world
+to a color one.
+The set was actually painted sepia-tone so
+the same Technicolor process could be used
+for the bright Oz reveal.
+Today, it’s much easier.
+I can draw a box with my hand and with a click,
+black and white and color play together.
+They even had techniques to do stuff like
+this in the Oz days.
+But the fact that they built a sepia house
+shows how Technicolor’s technical limitations
+shaped all color movies.
+“This is one of the cameras that was used
+to film
+The Wizard of Oz.”
+“It weighs 4 to 500 pounds, and these cameras
+were bigger than ordinary motion picture cameras
+because they had to run three strips of film
+through them at any given time.”
+So remember — this scene?
+That had to be done with this beast of a camera.
+Those three strips didn’t just require more
+space, they needed tons of light.
+That set had to be blazingly overlit to get
+enough light through to these three strips
+of film.
+The set was reportedly 100 degrees Fahrenheit
+at times.
+Sound was an issue, too.
+“It’s so loud when you’re running three
+strips of film through a camera, so they had
+to build this blimp around it.
+It’s filled with soundproofing material
+so when you’re making a sound film you don’t
+get all the sound from the camera throughout
+the studio there.”
+Technicolor’s advantages outweighed its
+limitations.
+It’s main advantage was the way in which
+it could capture the tone of a scene.
+Two movies made in the same year could have
+a different look, not just because of the
+choices made in front of the camera.
+Technicolor consultants and directors tweaked
+the palette of the film by adjusting the cyan,
+magenta and yellow dyes.
+The complicated dye transfer process gave
+Singin’ in the Rain some of its magenta-hued
+skin and deep saturated colors.
+The film and technology weren’t the only
+things that gave Technicolor movies their
+distinctive look.
+It also shaped the world that they chose to
+film.
+Lie #3: This isn’t the real Dorothy.
+It’s Judy Garland’s body double.
+She wore specially designed clothes and makeup
+to match the sepia world, so Judy Garland
+could swoop in, in the same shot and
+a blue dress, to join Technicolor Oz.
+These movies, and Oz, were shaped around Technicolor’s
+abilities, from head to toe.
+“The second page that you see here is the
+part of the script that shows the ruby slippers
+being unveiled, but what it shows is that
+they were still silver shoes at this point,
+but the producers of the film really wanted
+to show off that Technicolor that they were
+paying for, so they wanted them to be sparkly
+ruby slippers that would look good against
+the yellow brick road.
+So they changed it at the middle of production
+to ruby slippers.”
+Today, the shoes are kept under low light
+to preserve them, but during the shoot they
+were blasted with light to accommodate the
+camera and make those sequins sparkle.
+These weren’t just on-set decisions — Technicolor
+was always pulling strings behind the curtains.
+Look at the credits for Wizard of Oz,
+and The Trail of the Lonesome Pine, and A
+Star is Born, and so on and so on.
+You’ll see one name over and over.
+Natalie Kalmus.
+Once married to Technicolor cofounder Herb
+Kalmus, she ruled with an iron fist over
+Technicolor productions for many of the early
+years.
+Kalmus had over 300 film credits where she
+gave Technicolor advice — and sometimes
+told directors what to do.
+This is the IMDB page for a woman born in
+1882.
+In 
+documents like “Color Consciousness,”
+she extended her reach into art — the essay
+includes aesthetic color theory.
+“Red: danger, blood, life, heat.
+Green: Nature, outdoors, freedom, freshness.”
+Kalmus’s influence was significant, but
+it’s as important as a reflection of Technicolor’s
+power.
+Technicolor had its own processing facilities,
+and its own camera crew that continued Natalie
+Kalmus’ work after she left the company.
+The technology and the production process
+gave Technicolor a significant competitive
+advantage to alternatives being used.
+Despite all those alternatives shown on Barbara
+Flueckiger’s website, studios stuck with
+Technicolor for a long time.
+It had a reliable system and
+could be shown in any theatre in splendid
+color, without requiring special equipment.
+Technicolor eventually fell to cheaper processes
+through the 1950s, like Eastman Color, that
+used a single strip.
+The Godfather, Part II was one of the final
+major releases to use the Technicolor we recognize.
+But old prints remain surprisingly vibrant
+today due to the dye transfer process used.
+Today, I can snap my fingers and be in
+The Matrix or in Stranger Things’ Upside
+Down.
+Ok.
+What are all these dust particles?
+Is this asbestos?
+Am I covered in asbestos right now?
+Technicolor was never just a click —
+the look was formed by the camera’s strengths
+and weaknesses, the artistic choices made
+for color, and the Technicolor company’s
+infrastructure and supervision.
+In that key scene from the Wizard of Oz, you
+might not have known the trivia about Dorothy’s
+double, or the sepia doorway, or even that
+it wasn’t Technicolor’s debut.
+But one thing is easy to understand, intuitively.
+The movie is all about it.
+Technicolor wasn’t a switch or a doorway.
+It was a whole world, just waiting on the
+other side.
+You can nerd out a lot more on Technicolor
+by checking out Barbara Flueckiger’s website,
+or Eastman House, which was really generous
+with their time and a lot of the images that
+you saw in this video.
+I’ve linked both of those below.
+You can see the director’s commentary for
+this video in an additional video that we’ve
+made where I share some behind-the-scenes
+info and a few of the details that couldn’t
+quite fit in.

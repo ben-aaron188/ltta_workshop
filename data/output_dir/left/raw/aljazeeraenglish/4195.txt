@@ -1,0 +1,228 @@
+1
+00:00:02,060 --> 00:00:04,770
+by now you've heard<font color="#E5E5E5"> all about the</font>
+
+2
+00:00:04,770 --> 00:00:08,580
+Internet of Things or IOT<font color="#CCCCCC"> so-called</font>
+
+3
+00:00:08,580 --> 00:00:10,769
+smart homes feature<font color="#E5E5E5"> internet-connected</font>
+
+4
+00:00:10,769 --> 00:00:14,309
+TVs washing machines<font color="#CCCCCC"> thermostats door</font>
+
+5
+00:00:14,309 --> 00:00:16,859
+<font color="#CCCCCC">knobs and locks all controllable</font><font color="#E5E5E5"> by</font>
+
+6
+00:00:16,859 --> 00:00:19,770
+<font color="#CCCCCC">smart phones there are web</font><font color="#E5E5E5"> link security</font>
+
+7
+00:00:19,770 --> 00:00:23,160
+cameras smart showers and yes you
+
+8
+00:00:23,160 --> 00:00:26,609
+guessed it<font color="#E5E5E5"> online</font><font color="#CCCCCC"> toilets</font><font color="#E5E5E5"> the Internet</font>
+
+9
+00:00:26,609 --> 00:00:29,519
+of Things also includes<font color="#E5E5E5"> under things as</font>
+
+10
+00:00:29,519 --> 00:00:34,170
+NEMA<font color="#CCCCCC"> Maura vaji</font><font color="#E5E5E5"> of spire explains you</font>
+
+11
+00:00:34,170 --> 00:00:36,149
+simply put it right<font color="#CCCCCC"> here the gizmo</font>
+
+12
+00:00:36,149 --> 00:00:39,210
+<font color="#E5E5E5">attaches to</font><font color="#CCCCCC"> your bra or your briefs and</font>
+
+13
+00:00:39,210 --> 00:00:40,969
+gives you feedback<font color="#CCCCCC"> on your</font><font color="#E5E5E5"> health</font>
+
+14
+00:00:40,969 --> 00:00:43,260
+<font color="#E5E5E5">ultimately our clothes are going to be</font>
+
+15
+00:00:43,260 --> 00:00:45,510
+informing us about<font color="#CCCCCC"> how</font><font color="#E5E5E5"> to make the small</font>
+
+16
+00:00:45,510 --> 00:00:48,210
+baby step<font color="#E5E5E5"> of micro decisions that</font>
+
+17
+00:00:48,210 --> 00:00:50,820
+actually<font color="#CCCCCC"> lead to better health by 2030</font>
+
+18
+00:00:50,820 --> 00:00:54,870
+the IOT may add 14 trillion<font color="#E5E5E5"> dollars to</font>
+
+19
+00:00:54,870 --> 00:00:56,820
+<font color="#CCCCCC">the world economy</font><font color="#E5E5E5"> according</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> the</font>
+
+20
+00:00:56,820 --> 00:00:59,120
+<font color="#E5E5E5">management</font><font color="#CCCCCC"> consulting firm Accenture</font>
+
+21
+00:00:59,120 --> 00:01:02,010
+<font color="#CCCCCC">sounds great doesn't it but the more</font>
+
+22
+00:01:02,010 --> 00:01:04,229
+<font color="#E5E5E5">connected people</font><font color="#CCCCCC"> and their products</font>
+
+23
+00:01:04,229 --> 00:01:07,170
+become the more at risk<font color="#CCCCCC"> they are for a</font>
+
+24
+00:01:07,170 --> 00:01:09,689
+digital attack it opens up the
+
+25
+00:01:09,689 --> 00:01:13,049
+possibility<font color="#CCCCCC"> for risks</font><font color="#E5E5E5"> of security</font>
+
+26
+00:01:13,049 --> 00:01:15,150
+<font color="#CCCCCC">natures</font><font color="#E5E5E5"> these are computers that have</font>
+
+27
+00:01:15,150 --> 00:01:17,610
+some computing power always<font color="#CCCCCC"> on always</font>
+
+28
+00:01:17,610 --> 00:01:19,530
+connected<font color="#CCCCCC"> and they're very appealing</font><font color="#E5E5E5"> to</font>
+
+29
+00:01:19,530 --> 00:01:21,180
+the bad guys and<font color="#E5E5E5"> the problem is as</font>
+
+30
+00:01:21,180 --> 00:01:22,860
+you're rushing<font color="#CCCCCC"> to put this stuff on the</font>
+
+31
+00:01:22,860 --> 00:01:25,409
+<font color="#CCCCCC">market you</font><font color="#E5E5E5"> sometimes you use products</font>
+
+32
+00:01:25,409 --> 00:01:27,180
+off the<font color="#E5E5E5"> shelf and they have bugs in them</font>
+
+33
+00:01:27,180 --> 00:01:29,430
+and you<font color="#CCCCCC"> distribute those</font><font color="#E5E5E5"> bugs to your</font>
+
+34
+00:01:29,430 --> 00:01:31,890
+customers<font color="#E5E5E5"> in recent years we've</font><font color="#CCCCCC"> seen how</font>
+
+35
+00:01:31,890 --> 00:01:34,560
+vulnerable<font color="#CCCCCC"> even formidable institutions</font>
+
+36
+00:01:34,560 --> 00:01:37,110
+are to hackers<font color="#E5E5E5"> like the credit reporting</font>
+
+37
+00:01:37,110 --> 00:01:40,560
+agency<font color="#E5E5E5"> Equifax the movie studio Sony and</font>
+
+38
+00:01:40,560 --> 00:01:43,649
+<font color="#CCCCCC">the u.s. super spy Bureau the National</font>
+
+39
+00:01:43,649 --> 00:01:46,920
+Security Agency<font color="#E5E5E5"> BitDefender is marketing</font>
+
+40
+00:01:46,920 --> 00:01:49,500
+a box that will defend all your systems
+
+41
+00:01:49,500 --> 00:01:51,810
+and online connections<font color="#E5E5E5"> it's a complete</font>
+
+42
+00:01:51,810 --> 00:01:53,250
+<font color="#CCCCCC">solution to multi think of it like</font><font color="#E5E5E5"> a</font>
+
+43
+00:01:53,250 --> 00:01:55,340
+sandwich of technologies that<font color="#E5E5E5"> basically</font>
+
+44
+00:01:55,340 --> 00:01:59,399
+employ<font color="#E5E5E5"> our machine</font><font color="#CCCCCC"> learning and</font><font color="#E5E5E5"> AI to</font>
+
+45
+00:01:59,399 --> 00:02:01,500
+understand the<font color="#E5E5E5"> behavior of connected</font>
+
+46
+00:02:01,500 --> 00:02:03,210
+devices<font color="#CCCCCC"> and figure out when something</font>
+
+47
+00:02:03,210 --> 00:02:05,100
+<font color="#E5E5E5">nefarious has happened unfortunately</font>
+
+48
+00:02:05,100 --> 00:02:07,380
+<font color="#CCCCCC">cybersecurity</font><font color="#E5E5E5"> is not the top priority</font>
+
+49
+00:02:07,380 --> 00:02:10,209
+<font color="#CCCCCC">for many device makers</font>
+
+50
+00:02:10,209 --> 00:02:13,209
+<font color="#E5E5E5">it seems for many</font><font color="#CCCCCC"> consumers</font><font color="#E5E5E5"> at this</font>
+
+51
+00:02:13,209 --> 00:02:16,680
+point<font color="#CCCCCC"> the convenience</font><font color="#E5E5E5"> and wow factor and</font>
+
+52
+00:02:16,680 --> 00:02:18,670
+<font color="#E5E5E5">excitement</font><font color="#CCCCCC"> of new electronics are</font>
+
+53
+00:02:18,670 --> 00:02:21,340
+essentially winning the day consumers
+
+54
+00:02:21,340 --> 00:02:23,620
+<font color="#E5E5E5">might want to consider whether smart</font>
+
+55
+00:02:23,620 --> 00:02:26,650
+devices<font color="#E5E5E5"> are making their lives better or</font>
+
+56
+00:02:26,650 --> 00:02:29,400
+putting them and their families at risk
+
+57
+00:02:29,400 --> 00:00:00,000
+<font color="#CCCCCC">rob reynolds al jazeera</font><font color="#E5E5E5"> Las Vegas</font>
+

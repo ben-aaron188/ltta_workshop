@@ -1,0 +1,664 @@
+1
+00:00:00,000 --> 00:00:02,129
+telecom Giants in the<font color="#CCCCCC"> u.s. are set for a</font>
+
+2
+00:00:02,129 --> 00:00:04,230
+major victory if Washington goes ahead
+
+3
+00:00:04,230 --> 00:00:05,970
+<font color="#E5E5E5">with its</font><font color="#CCCCCC"> plan to</font><font color="#E5E5E5"> repeal the so-called</font>
+
+4
+00:00:05,970 --> 00:00:09,059
+<font color="#CCCCCC">net neutrality rules</font><font color="#E5E5E5"> it's likely to</font><font color="#CCCCCC"> have</font>
+
+5
+00:00:09,059 --> 00:00:11,700
+a direct impact<font color="#CCCCCC"> to</font><font color="#E5E5E5"> on internet speeds in</font>
+
+6
+00:00:11,700 --> 00:00:13,590
+the<font color="#CCCCCC"> United States so</font><font color="#E5E5E5"> this is how it</font>
+
+7
+00:00:13,590 --> 00:00:16,049
+works then currently internet providers
+
+8
+00:00:16,049 --> 00:00:18,539
+do have to treat<font color="#E5E5E5"> all online traffic</font>
+
+9
+00:00:18,539 --> 00:00:20,609
+equally at the moment and that<font color="#E5E5E5"> means</font>
+
+10
+00:00:20,609 --> 00:00:22,740
+they can't block or slow down<font color="#E5E5E5"> any</font>
+
+11
+00:00:22,740 --> 00:00:25,230
+particular content<font color="#E5E5E5"> are the authority</font>
+
+12
+00:00:25,230 --> 00:00:27,060
+behind<font color="#CCCCCC"> the push though to end</font><font color="#E5E5E5"> net</font>
+
+13
+00:00:27,060 --> 00:00:29,369
+neutrality<font color="#E5E5E5"> the FCC says it could allow</font>
+
+14
+00:00:29,369 --> 00:00:31,500
+trillions of dollars to<font color="#CCCCCC"> be invested into</font>
+
+15
+00:00:31,500 --> 00:00:34,680
+<font color="#E5E5E5">web services by the private</font><font color="#CCCCCC"> sector well</font>
+
+16
+00:00:34,680 --> 00:00:36,719
+it sounds good so<font color="#CCCCCC"> far but</font><font color="#E5E5E5"> that may not</font>
+
+17
+00:00:36,719 --> 00:00:38,489
+<font color="#CCCCCC">be good news</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> consumers</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> that's</font>
+
+18
+00:00:38,489 --> 00:00:41,010
+because it could allow telecom companies
+
+19
+00:00:41,010 --> 00:00:43,370
+to create<font color="#E5E5E5"> fast lanes for traffic and</font>
+
+20
+00:00:43,370 --> 00:00:47,039
+prioritize certain<font color="#E5E5E5"> sites over others</font><font color="#CCCCCC"> -</font>
+
+21
+00:00:47,039 --> 00:00:50,010
+<font color="#E5E5E5">and Internet users may be forced to pay</font>
+
+22
+00:00:50,010 --> 00:00:52,680
+more<font color="#E5E5E5"> to access content at the speeds</font>
+
+23
+00:00:52,680 --> 00:00:55,379
+they're<font color="#E5E5E5"> currently used</font><font color="#CCCCCC"> - well Kim com</font>
+
+24
+00:00:55,379 --> 00:00:57,780
+the founder of megaupload has weighed in
+
+25
+00:00:57,780 --> 00:00:59,850
+<font color="#CCCCCC">on this controversy surrounding the</font><font color="#E5E5E5"> US</font>
+
+26
+00:00:59,850 --> 00:01:01,559
+government's plan<font color="#CCCCCC"> to overturn net</font>
+
+27
+00:01:01,559 --> 00:01:03,719
+neutrality<font color="#CCCCCC"> the entrepreneur who's wanted</font>
+
+28
+00:01:03,719 --> 00:01:05,250
+in<font color="#E5E5E5"> America</font><font color="#CCCCCC"> for alleged widespread</font>
+
+29
+00:01:05,250 --> 00:01:07,290
+illegal file sharing has vowed to build
+
+30
+00:01:07,290 --> 00:01:09,900
+an alternative<font color="#E5E5E5"> internet to combat</font>
+
+31
+00:01:09,900 --> 00:01:12,930
+privacy and freedom problems<font color="#CCCCCC"> online</font>
+
+32
+00:01:12,930 --> 00:01:14,640
+where we can talk more about this with
+
+33
+00:01:14,640 --> 00:01:16,020
+Dimitri kleiner he joins us he's a
+
+34
+00:01:16,020 --> 00:01:18,479
+privacy activists<font color="#E5E5E5"> and software developer</font>
+
+35
+00:01:18,479 --> 00:01:20,420
+<font color="#E5E5E5">and Dimitri you're very welcome to RT</font>
+
+36
+00:01:20,420 --> 00:01:22,530
+firstly what are your thoughts<font color="#E5E5E5"> there on</font>
+
+37
+00:01:22,530 --> 00:01:25,470
+<font color="#CCCCCC">Kim comms idea</font><font color="#E5E5E5"> why is there a need do</font>
+
+38
+00:01:25,470 --> 00:01:28,520
+you think for<font color="#E5E5E5"> this</font><font color="#CCCCCC"> alternative internet</font>
+
+39
+00:01:28,520 --> 00:01:30,810
+well the the current<font color="#CCCCCC"> internet as</font><font color="#E5E5E5"> it</font>
+
+40
+00:01:30,810 --> 00:01:33,750
+exists right<font color="#CCCCCC"> now is is you</font><font color="#E5E5E5"> know suffers</font>
+
+41
+00:01:33,750 --> 00:01:35,640
+from a lot<font color="#E5E5E5"> of privacy concerns and</font><font color="#CCCCCC"> a lot</font>
+
+42
+00:01:35,640 --> 00:01:37,229
+of<font color="#E5E5E5"> those privacy concerns</font><font color="#CCCCCC"> actually</font><font color="#E5E5E5"> I</font>
+
+43
+00:01:37,229 --> 00:01:38,670
+mean<font color="#E5E5E5"> some of them are inherent to the</font>
+
+44
+00:01:38,670 --> 00:01:41,130
+architecture of the of the platforms<font color="#CCCCCC"> but</font>
+
+45
+00:01:41,130 --> 00:01:42,720
+<font color="#CCCCCC">a lot of them are are actually related</font>
+
+46
+00:01:42,720 --> 00:01:44,640
+more to<font color="#CCCCCC"> the business models of a lot of</font>
+
+47
+00:01:44,640 --> 00:01:46,619
+<font color="#CCCCCC">the of a lot</font><font color="#E5E5E5"> of the kind of companies</font>
+
+48
+00:01:46,619 --> 00:01:47,610
+<font color="#CCCCCC">that make money</font><font color="#E5E5E5"> on the internet</font>
+
+49
+00:01:47,610 --> 00:01:49,829
+<font color="#CCCCCC">companies like Google</font><font color="#E5E5E5"> and Facebook</font><font color="#CCCCCC"> you</font>
+
+50
+00:01:49,829 --> 00:01:51,270
+know make their money by<font color="#E5E5E5"> targeting</font>
+
+51
+00:01:51,270 --> 00:01:53,310
+advertising<font color="#E5E5E5"> and targeting advertising is</font>
+
+52
+00:01:53,310 --> 00:01:55,920
+of course you know requires to know a
+
+53
+00:01:55,920 --> 00:02:00,240
+lot more about<font color="#E5E5E5"> you</font><font color="#CCCCCC"> than</font><font color="#E5E5E5"> then</font><font color="#CCCCCC"> untargeted</font>
+
+54
+00:02:00,240 --> 00:02:01,590
+<font color="#E5E5E5">advertising so the more they</font><font color="#CCCCCC"> know about</font>
+
+55
+00:02:01,590 --> 00:02:03,360
+<font color="#E5E5E5">you the</font><font color="#CCCCCC"> more they can send</font><font color="#E5E5E5"> these ads for</font>
+
+56
+00:02:03,360 --> 00:02:06,840
+so<font color="#E5E5E5"> I mean Kim dot-coms proposal is is</font>
+
+57
+00:02:06,840 --> 00:02:08,610
+not something<font color="#CCCCCC"> that I've seen too many</font>
+
+58
+00:02:08,610 --> 00:02:10,258
+<font color="#CCCCCC">details about</font><font color="#E5E5E5"> although he has been</font>
+
+59
+00:02:10,258 --> 00:02:12,599
+<font color="#E5E5E5">mentioning</font><font color="#CCCCCC"> Megan net for a few years now</font>
+
+60
+00:02:12,599 --> 00:02:13,350
+<font color="#CCCCCC">I think</font>
+
+61
+00:02:13,350 --> 00:02:15,360
+as early as<font color="#E5E5E5"> 2 2015 he's already was</font>
+
+62
+00:02:15,360 --> 00:02:16,890
+<font color="#E5E5E5">already</font><font color="#CCCCCC"> mentioning mega net</font><font color="#E5E5E5"> and there's</font>
+
+63
+00:02:16,890 --> 00:02:18,300
+a lot<font color="#E5E5E5"> of things that sound pretty good</font>
+
+64
+00:02:18,300 --> 00:02:20,250
+<font color="#E5E5E5">about about what he's proposing</font>
+
+65
+00:02:20,250 --> 00:02:22,980
+especially the<font color="#E5E5E5"> idea of you know using</font>
+
+66
+00:02:22,980 --> 00:02:25,710
+mobile devices<font color="#CCCCCC"> more actively it's not</font>
+
+67
+00:02:25,710 --> 00:02:27,450
+clear what he means by that whether he's
+
+68
+00:02:27,450 --> 00:02:30,300
+whether he means<font color="#CCCCCC"> that</font><font color="#E5E5E5"> will be an overlay</font>
+
+69
+00:02:30,300 --> 00:02:32,010
+<font color="#CCCCCC">network on top of the kind of IP</font>
+
+70
+00:02:32,010 --> 00:02:34,530
+<font color="#CCCCCC">internet that adds anonymity</font><font color="#E5E5E5"> along the</font>
+
+71
+00:02:34,530 --> 00:02:36,590
+lines of<font color="#E5E5E5"> something like tor or an talks</font>
+
+72
+00:02:36,590 --> 00:02:39,810
+<font color="#E5E5E5">talks rather or whether he plans to use</font>
+
+73
+00:02:39,810 --> 00:02:43,110
+<font color="#CCCCCC">the no Bluetooth or NFC</font><font color="#E5E5E5"> or direct Wi-Fi</font>
+
+74
+00:02:43,110 --> 00:02:45,150
+capabilities of the mobile phones
+
+75
+00:02:45,150 --> 00:02:46,920
+<font color="#CCCCCC">themselves to create a</font><font color="#E5E5E5"> so-called mesh</font>
+
+76
+00:02:46,920 --> 00:02:49,530
+network along the lines of<font color="#CCCCCC"> breyer or</font>
+
+77
+00:02:49,530 --> 00:02:51,990
+several<font color="#E5E5E5"> other applications</font><font color="#CCCCCC"> but any case</font>
+
+78
+00:02:51,990 --> 00:02:53,850
+<font color="#E5E5E5">you know more development in this</font><font color="#CCCCCC"> area</font>
+
+79
+00:02:53,850 --> 00:02:55,380
+would certainly be good the<font color="#E5E5E5"> more the</font>
+
+80
+00:02:55,380 --> 00:02:57,680
+better platforms that consumers have
+
+81
+00:02:57,680 --> 00:03:02,520
+that deliver privacy and anonymity<font color="#CCCCCC"> you</font>
+
+82
+00:03:02,520 --> 00:03:03,720
+know the better the<font color="#CCCCCC"> more we have the</font>
+
+83
+00:03:03,720 --> 00:03:07,140
+<font color="#E5E5E5">better</font><font color="#CCCCCC"> but that won't necessarily affect</font>
+
+84
+00:03:07,140 --> 00:03:09,480
+the actual<font color="#E5E5E5"> concerns of data being</font>
+
+85
+00:03:09,480 --> 00:03:10,830
+collected<font color="#CCCCCC"> by the likes of Google and</font>
+
+86
+00:03:10,830 --> 00:03:13,350
+Facebook<font color="#E5E5E5"> mmm another item we've sort of</font>
+
+87
+00:03:13,350 --> 00:03:14,940
+been mentioned this evening is the<font color="#E5E5E5"> speed</font>
+
+88
+00:03:14,940 --> 00:03:16,610
+at which<font color="#E5E5E5"> people can use the</font><font color="#CCCCCC"> internet</font>
+
+89
+00:03:16,610 --> 00:03:19,320
+<font color="#CCCCCC">with these net neutrality rules</font><font color="#E5E5E5"> being</font>
+
+90
+00:03:19,320 --> 00:03:22,260
+rolled back<font color="#E5E5E5"> is</font><font color="#CCCCCC"> Kim comms idea a way of</font>
+
+91
+00:03:22,260 --> 00:03:25,170
+circumventing those those alternative
+
+92
+00:03:25,170 --> 00:03:26,930
+rules<font color="#E5E5E5"> that are going</font><font color="#CCCCCC"> to come into</font><font color="#E5E5E5"> force</font>
+
+93
+00:03:26,930 --> 00:03:29,700
+so<font color="#E5E5E5"> we would need to do know more about</font>
+
+94
+00:03:29,700 --> 00:03:31,380
+<font color="#E5E5E5">the architecture to actually make a</font>
+
+95
+00:03:31,380 --> 00:03:34,320
+claim either way<font color="#E5E5E5"> if it is</font><font color="#CCCCCC"> planning if it</font>
+
+96
+00:03:34,320 --> 00:03:36,660
+is planning<font color="#CCCCCC"> to</font><font color="#E5E5E5"> use the kind of radio</font>
+
+97
+00:03:36,660 --> 00:03:38,430
+capabilities of mobile phones themselves
+
+98
+00:03:38,430 --> 00:03:41,150
+<font color="#CCCCCC">in the Bluetooth</font><font color="#E5E5E5"> NFC and Wi-Fi</font>
+
+99
+00:03:41,150 --> 00:03:43,290
+capabilities those<font color="#E5E5E5"> phones have to create</font>
+
+100
+00:03:43,290 --> 00:03:45,120
+<font color="#CCCCCC">sort of</font><font color="#E5E5E5"> a mesh network then you could</font>
+
+101
+00:03:45,120 --> 00:03:48,270
+have you<font color="#CCCCCC"> you</font><font color="#E5E5E5"> could</font><font color="#CCCCCC"> have an</font><font color="#E5E5E5"> advantage</font>
+
+102
+00:03:48,270 --> 00:03:50,250
+that<font color="#E5E5E5"> it's much more</font><font color="#CCCCCC"> difficult</font><font color="#E5E5E5"> to block</font>
+
+103
+00:03:50,250 --> 00:03:52,560
+than then<font color="#E5E5E5"> centralized things so net</font>
+
+104
+00:03:52,560 --> 00:03:54,000
+neutrality wouldn't affect it as much
+
+105
+00:03:54,000 --> 00:03:56,520
+directly however it still may<font color="#CCCCCC"> be</font><font color="#E5E5E5"> a</font>
+
+106
+00:03:56,520 --> 00:03:58,680
+slower service to what people<font color="#E5E5E5"> are used</font>
+
+107
+00:03:58,680 --> 00:04:00,630
+to<font color="#E5E5E5"> right now giving given a neutral</font>
+
+108
+00:04:00,630 --> 00:04:03,540
+<font color="#E5E5E5">internet any drawbacks</font><font color="#CCCCCC"> you can think of</font>
+
+109
+00:04:03,540 --> 00:04:05,250
+<font color="#CCCCCC">having</font><font color="#E5E5E5"> an</font><font color="#CCCCCC"> alternative</font><font color="#E5E5E5"> internet I suppose</font>
+
+110
+00:04:05,250 --> 00:04:06,960
+some<font color="#CCCCCC"> people might say</font><font color="#E5E5E5"> there's too much</font>
+
+111
+00:04:06,960 --> 00:04:08,970
+anonymity there and perhaps<font color="#E5E5E5"> it will be</font>
+
+112
+00:04:08,970 --> 00:04:11,460
+<font color="#E5E5E5">sort of you know fair game for criminals</font>
+
+113
+00:04:11,460 --> 00:04:13,170
+than the like what's<font color="#CCCCCC"> your response</font><font color="#E5E5E5"> to</font>
+
+114
+00:04:13,170 --> 00:04:16,470
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> argument well it's it</font><font color="#CCCCCC"> seems to me</font>
+
+115
+00:04:16,470 --> 00:04:17,850
+the criminals<font color="#E5E5E5"> aren't having a terrible</font>
+
+116
+00:04:17,850 --> 00:04:19,290
+amount<font color="#E5E5E5"> of difficulty operating on the</font>
+
+117
+00:04:19,290 --> 00:04:21,930
+<font color="#E5E5E5">Internet as it is today</font><font color="#CCCCCC"> and and and</font>
+
+118
+00:04:21,930 --> 00:04:23,340
+<font color="#E5E5E5">having a more alternative internet</font>
+
+119
+00:04:23,340 --> 00:04:24,780
+that's more controlled by its users
+
+120
+00:04:24,780 --> 00:04:26,080
+gives us<font color="#E5E5E5"> better option</font>
+
+121
+00:04:26,080 --> 00:04:27,699
+in order you<font color="#E5E5E5"> know in</font><font color="#CCCCCC"> order to which to</font>
+
+122
+00:04:27,699 --> 00:04:29,139
+<font color="#E5E5E5">protect ourselves we can have like</font>
+
+123
+00:04:29,139 --> 00:04:30,580
+collaborative moderation and
+
+124
+00:04:30,580 --> 00:04:32,110
+collaborative block lists and stuff<font color="#E5E5E5"> like</font>
+
+125
+00:04:32,110 --> 00:04:34,690
+that that that that could make that
+
+126
+00:04:34,690 --> 00:04:37,990
+<font color="#E5E5E5">could make</font><font color="#CCCCCC"> user driven ways</font><font color="#E5E5E5"> to defend</font>
+
+127
+00:04:37,990 --> 00:04:39,639
+<font color="#E5E5E5">against this stuff more effective rather</font>
+
+128
+00:04:39,639 --> 00:04:41,349
+than being<font color="#CCCCCC"> completely in the</font><font color="#E5E5E5"> hands of</font>
+
+129
+00:04:41,349 --> 00:04:43,629
+Facebook and Google and<font color="#E5E5E5"> Twitter and only</font>
+
+130
+00:04:43,629 --> 00:04:45,250
+<font color="#E5E5E5">being able to</font><font color="#CCCCCC"> access the protections</font>
+
+131
+00:04:45,250 --> 00:04:47,379
+<font color="#CCCCCC">that they provide and can you see the</font>
+
+132
+00:04:47,379 --> 00:04:49,000
+public<font color="#E5E5E5"> taking to this alternative</font>
+
+133
+00:04:49,000 --> 00:04:50,830
+<font color="#E5E5E5">internet quickly or with the big</font>
+
+134
+00:04:50,830 --> 00:04:53,289
+problems or<font color="#E5E5E5"> for them to connect I mean</font>
+
+135
+00:04:53,289 --> 00:04:54,729
+what<font color="#E5E5E5"> are your thoughts on that</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> its on</font>
+
+136
+00:04:54,729 --> 00:04:58,539
+its accessibility well I think there's a
+
+137
+00:04:58,539 --> 00:04:59,800
+lot of questions<font color="#CCCCCC"> though there's a lot of</font>
+
+138
+00:04:59,800 --> 00:05:01,270
+questions need<font color="#E5E5E5"> to be looked at there one</font>
+
+139
+00:05:01,270 --> 00:05:03,729
+is of course<font color="#CCCCCC"> you</font><font color="#E5E5E5"> know how</font><font color="#CCCCCC"> user-friendly</font>
+
+140
+00:05:03,729 --> 00:05:06,370
+and<font color="#E5E5E5"> usable this kind of stuff is we know</font>
+
+141
+00:05:06,370 --> 00:05:07,870
+without<font color="#CCCCCC"> a clear business</font><font color="#E5E5E5"> model</font><font color="#CCCCCC"> like</font>
+
+142
+00:05:07,870 --> 00:05:10,020
+advertising<font color="#E5E5E5"> that Facebook and Google has</font>
+
+143
+00:05:10,020 --> 00:05:12,069
+<font color="#CCCCCC">you'd have to question</font><font color="#E5E5E5"> where the</font>
+
+144
+00:05:12,069 --> 00:05:13,690
+investments<font color="#E5E5E5"> going to come from to create</font>
+
+145
+00:05:13,690 --> 00:05:15,580
+the kind of you<font color="#E5E5E5"> know rich user</font>
+
+146
+00:05:15,580 --> 00:05:17,590
+experience<font color="#CCCCCC"> that users are used to to</font>
+
+147
+00:05:17,590 --> 00:05:19,240
+market it<font color="#CCCCCC"> to promote it to</font><font color="#E5E5E5"> support it</font>
+
+148
+00:05:19,240 --> 00:05:21,009
+<font color="#E5E5E5">and all that kind of</font><font color="#CCCCCC"> stuff so</font><font color="#E5E5E5"> I mean</font>
+
+149
+00:05:21,009 --> 00:05:22,870
+given<font color="#CCCCCC"> the right given the right support</font>
+
+150
+00:05:22,870 --> 00:05:25,120
+<font color="#CCCCCC">I</font><font color="#E5E5E5"> definitely think that that an</font>
+
+151
+00:05:25,120 --> 00:05:26,440
+alternative could<font color="#E5E5E5"> be made and it could</font>
+
+152
+00:05:26,440 --> 00:05:28,780
+be very<font color="#CCCCCC"> popular</font><font color="#E5E5E5"> however</font><font color="#CCCCCC"> it's not clear</font>
+
+153
+00:05:28,780 --> 00:05:30,729
+<font color="#CCCCCC">what where that support could come from</font>
+
+154
+00:05:30,729 --> 00:05:32,680
+<font color="#E5E5E5">you know short of public institutions</font>
+
+155
+00:05:32,680 --> 00:05:34,479
+because because as a private as a
+
+156
+00:05:34,479 --> 00:05:37,779
+private entrepreneur kim.com<font color="#CCCCCC"> only has</font>
+
+157
+00:05:37,779 --> 00:05:39,580
+you know can only spend money<font color="#CCCCCC"> that he</font>
+
+158
+00:05:39,580 --> 00:05:41,800
+can<font color="#E5E5E5"> earn back and it's not clear how</font><font color="#CCCCCC"> he</font>
+
+159
+00:05:41,800 --> 00:05:44,289
+would earn money on such a thing<font color="#E5E5E5"> given</font>
+
+160
+00:05:44,289 --> 00:05:46,659
+that<font color="#E5E5E5"> given</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> advertising and</font>
+
+161
+00:05:46,659 --> 00:05:48,310
+surveillance would not be would<font color="#E5E5E5"> not</font><font color="#CCCCCC"> be</font>
+
+162
+00:05:48,310 --> 00:05:50,259
+used<font color="#CCCCCC"> sure ok to make sure you look</font><font color="#E5E5E5"> we'll</font>
+
+163
+00:05:50,259 --> 00:05:51,550
+leave it there but<font color="#E5E5E5"> really</font><font color="#CCCCCC"> good to get</font>
+
+164
+00:05:51,550 --> 00:05:52,870
+<font color="#E5E5E5">your insights on</font><font color="#CCCCCC"> this that was to meet</font>
+
+165
+00:05:52,870 --> 00:05:54,849
+recliner<font color="#E5E5E5"> previously activists and also</font><font color="#CCCCCC"> a</font>
+
+166
+00:05:54,849 --> 00:00:00,000
+software developer thank you
+

@@ -1,0 +1,92 @@
+1
+00:00:02,080 --> 00:00:04,790
+<font color="#CCCCCC">windows 8</font><font color="#E5E5E5"> has a radically new interface</font>
+
+2
+00:00:04,790 --> 00:00:06,260
+that's made<font color="#CCCCCC"> to work on touchscreen</font>
+
+3
+00:00:06,260 --> 00:00:08,210
+<font color="#E5E5E5">devices like tablets</font><font color="#CCCCCC"> so since</font>
+
+4
+00:00:08,210 --> 00:00:09,590
+everything's been changed<font color="#CCCCCC"> around since</font>
+
+5
+00:00:09,590 --> 00:00:11,660
+the last version<font color="#E5E5E5"> of Windows 7 we're</font>
+
+6
+00:00:11,660 --> 00:00:13,370
+<font color="#E5E5E5">gonna show you how to multitask and</font>
+
+7
+00:00:13,370 --> 00:00:15,379
+switch between apps you already<font color="#CCCCCC"> have</font>
+
+8
+00:00:15,379 --> 00:00:17,960
+open<font color="#E5E5E5"> the first thing to do is swipe over</font>
+
+9
+00:00:17,960 --> 00:00:19,550
+from the left side<font color="#E5E5E5"> of your screen to</font><font color="#CCCCCC"> get</font>
+
+10
+00:00:19,550 --> 00:00:21,350
+<font color="#CCCCCC">the menu of apps</font><font color="#E5E5E5"> that are</font><font color="#CCCCCC"> already</font>
+
+11
+00:00:21,350 --> 00:00:26,270
+running so<font color="#CCCCCC"> you see</font><font color="#E5E5E5"> this list view of</font>
+
+12
+00:00:26,270 --> 00:00:27,980
+<font color="#CCCCCC">thumbnails of apps that you already have</font>
+
+13
+00:00:27,980 --> 00:00:29,750
+running and you just tap<font color="#E5E5E5"> one to open it</font>
+
+14
+00:00:29,750 --> 00:00:32,238
+<font color="#CCCCCC">you can also quickly</font><font color="#E5E5E5"> cycle through open</font>
+
+15
+00:00:32,238 --> 00:00:34,100
+apps by swiping<font color="#CCCCCC"> over from the left</font><font color="#E5E5E5"> side</font>
+
+16
+00:00:34,100 --> 00:00:37,760
+of<font color="#CCCCCC"> the screen very quickly</font><font color="#E5E5E5"> you can</font><font color="#CCCCCC"> also</font>
+
+17
+00:00:37,760 --> 00:00:39,980
+run<font color="#E5E5E5"> two apps at the</font><font color="#CCCCCC"> same</font><font color="#E5E5E5"> time in a</font>
+
+18
+00:00:39,980 --> 00:00:42,769
+<font color="#CCCCCC">split-screen</font><font color="#E5E5E5"> mode</font><font color="#CCCCCC"> by swiping</font><font color="#E5E5E5"> over</font>
+
+19
+00:00:42,769 --> 00:00:45,949
+<font color="#CCCCCC">slightly and letting the</font><font color="#E5E5E5"> apps snap into</font>
+
+20
+00:00:45,949 --> 00:00:49,550
+place<font color="#E5E5E5"> you can also adjust the</font><font color="#CCCCCC"> size of</font>
+
+21
+00:00:49,550 --> 00:00:51,199
+which app takes up<font color="#E5E5E5"> most of the screen</font>
+
+22
+00:00:51,199 --> 00:00:52,940
+and which app just takes up a column on
+
+23
+00:00:52,940 --> 00:00:00,000
+<font color="#E5E5E5">the side</font>
+

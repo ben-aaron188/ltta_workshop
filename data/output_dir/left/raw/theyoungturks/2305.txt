@@ -1,0 +1,832 @@
+1
+00:00:00,000 --> 00:00:03,510
+<font color="#E5E5E5">this Intel story</font><font color="#CCCCCC"> gets weirder and</font>
+
+2
+00:00:03,510 --> 00:00:04,290
+<font color="#CCCCCC">weirder</font>
+
+3
+00:00:04,290 --> 00:00:08,730
+okay you got 32<font color="#CCCCCC"> you got 32</font><font color="#E5E5E5"> class actions</font>
+
+4
+00:00:08,730 --> 00:00:12,509
+filed against Intel<font color="#E5E5E5"> and what's what it's</font>
+
+5
+00:00:12,509 --> 00:00:14,429
+about<font color="#E5E5E5"> and in addition to</font><font color="#CCCCCC"> that there's a</font>
+
+6
+00:00:14,429 --> 00:00:16,049
+derivative<font color="#CCCCCC"> suit that</font><font color="#E5E5E5"> I'd like to talk</font>
+
+7
+00:00:16,049 --> 00:00:18,900
+<font color="#E5E5E5">about series yeah so here you got you've</font>
+
+8
+00:00:18,900 --> 00:00:21,449
+got<font color="#E5E5E5"> security flaws talk about the story</font>
+
+9
+00:00:21,449 --> 00:00:23,730
+lay it out a little<font color="#E5E5E5"> bit the the security</font>
+
+10
+00:00:23,730 --> 00:00:25,680
+flaws are in<font color="#CCCCCC"> the chips which</font><font color="#E5E5E5"> isn't in</font>
+
+11
+00:00:25,680 --> 00:00:27,630
+every computer<font color="#E5E5E5"> known</font><font color="#CCCCCC"> to mankind I mean I</font>
+
+12
+00:00:27,630 --> 00:00:28,949
+don't<font color="#E5E5E5"> care what you own whether it's</font>
+
+13
+00:00:28,949 --> 00:00:32,040
+Intel Advanced Micro Devices arm holding
+
+14
+00:00:32,040 --> 00:00:34,110
+every one of those contains these<font color="#E5E5E5"> chips</font>
+
+15
+00:00:34,110 --> 00:00:36,600
+in these chips are<font color="#E5E5E5"> a bandwidth or a</font>
+
+16
+00:00:36,600 --> 00:00:39,300
+bridge<font color="#E5E5E5"> to for actors to come in and get</font>
+
+17
+00:00:39,300 --> 00:00:40,739
+<font color="#E5E5E5">information out of your computer</font>
+
+18
+00:00:40,739 --> 00:00:43,950
+<font color="#E5E5E5">so then Intel says well I got a fix so</font>
+
+19
+00:00:43,950 --> 00:00:45,960
+<font color="#E5E5E5">it's they put a kind</font><font color="#CCCCCC"> of a bandage over</font>
+
+20
+00:00:45,960 --> 00:00:48,719
+the over<font color="#E5E5E5"> the bridge so</font><font color="#CCCCCC"> hackers can</font><font color="#E5E5E5"> get</font>
+
+21
+00:00:48,719 --> 00:00:50,460
+in and steal<font color="#E5E5E5"> the</font><font color="#CCCCCC"> information but that</font>
+
+22
+00:00:50,460 --> 00:00:52,379
+slows down<font color="#CCCCCC"> the computer</font><font color="#E5E5E5"> well if you just</font>
+
+23
+00:00:52,379 --> 00:00:54,750
+spent a couple<font color="#E5E5E5"> grand on a computer is it</font>
+
+24
+00:00:54,750 --> 00:00:57,120
+<font color="#CCCCCC">is it</font><font color="#E5E5E5"> significant</font><font color="#CCCCCC"> oh yeah</font><font color="#E5E5E5"> it so it slows</font>
+
+25
+00:00:57,120 --> 00:00:58,410
+the whole thing down<font color="#E5E5E5"> enough to warrant</font>
+
+26
+00:00:58,410 --> 00:01:00,390
+you know<font color="#E5E5E5"> 32 suits so you buy a computer</font>
+
+27
+00:01:00,390 --> 00:01:02,250
+<font color="#CCCCCC">it slows it down you</font><font color="#E5E5E5"> have people getting</font>
+
+28
+00:01:02,250 --> 00:01:04,890
+<font color="#E5E5E5">their</font><font color="#CCCCCC"> Information Act</font><font color="#E5E5E5"> and so you have as</font>
+
+29
+00:01:04,890 --> 00:01:06,689
+you mentioned<font color="#CCCCCC"> you have 32 lawsuits that</font>
+
+30
+00:01:06,689 --> 00:01:09,450
+<font color="#E5E5E5">fit into three categories so one is I</font>
+
+31
+00:01:09,450 --> 00:01:11,700
+bought<font color="#E5E5E5"> I bought my computer and it's</font>
+
+32
+00:01:11,700 --> 00:01:13,560
+significantly slower with the fix then
+
+33
+00:01:13,560 --> 00:01:15,210
+what what was advertised I didn't get
+
+34
+00:01:15,210 --> 00:01:17,280
+what<font color="#E5E5E5"> you sold me that's one number two</font>
+
+35
+00:01:17,280 --> 00:01:18,900
+is the derivative<font color="#E5E5E5"> suit which the</font>
+
+36
+00:01:18,900 --> 00:01:21,450
+derivative<font color="#E5E5E5"> suit is the company</font>
+
+37
+00:01:21,450 --> 00:01:24,240
+essentially suing the officers not
+
+38
+00:01:24,240 --> 00:01:26,850
+directors<font color="#E5E5E5"> right so it's a it's a</font>
+
+39
+00:01:26,850 --> 00:01:28,650
+derivative<font color="#E5E5E5"> with</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> company</font><font color="#CCCCCC"> stockholders</font>
+
+40
+00:01:28,650 --> 00:01:30,270
+<font color="#CCCCCC">shooting officers</font><font color="#E5E5E5"> directly and the</font>
+
+41
+00:01:30,270 --> 00:01:32,220
+<font color="#CCCCCC">furqan terrible business decisions and</font>
+
+42
+00:01:32,220 --> 00:01:34,409
+the third one<font color="#E5E5E5"> is a security soup about</font>
+
+43
+00:01:34,409 --> 00:01:36,090
+what I love<font color="#E5E5E5"> which means that that they</font>
+
+44
+00:01:36,090 --> 00:01:37,740
+knew about<font color="#E5E5E5"> the company knew about it</font>
+
+45
+00:01:37,740 --> 00:01:39,750
+<font color="#E5E5E5">didn't disclose it so people that bought</font>
+
+46
+00:01:39,750 --> 00:01:41,340
+stock paid inflated but here's what I
+
+47
+00:01:41,340 --> 00:01:45,659
+love to<font color="#E5E5E5"> see the CEO</font><font color="#CCCCCC"> mica</font><font color="#E5E5E5"> pronounce his</font>
+
+48
+00:01:45,659 --> 00:01:48,570
+last name correctly<font color="#E5E5E5"> Brian</font><font color="#CCCCCC"> it's Kresnik</font>
+
+49
+00:01:48,570 --> 00:01:50,520
+he sold<font color="#E5E5E5"> eight hundred</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> eighty nine</font>
+
+50
+00:01:50,520 --> 00:01:53,579
+<font color="#E5E5E5">thousand shares on November as part of</font>
+
+51
+00:01:53,579 --> 00:01:56,460
+his plan<font color="#CCCCCC"> he made thirty nine million</font>
+
+52
+00:01:56,460 --> 00:01:59,880
+dollars but while he knows this is
+
+53
+00:01:59,880 --> 00:02:02,610
+overwhelming yeah he knew as of July
+
+54
+00:02:02,610 --> 00:02:05,820
+27th myself here<font color="#CCCCCC"> Vick Brian crashed it</font>
+
+55
+00:02:05,820 --> 00:02:08,989
+<font color="#E5E5E5">he says</font><font color="#CCCCCC"> Wow I got to keep this</font><font color="#E5E5E5"> quiet</font>
+
+56
+00:02:08,989 --> 00:02:11,970
+<font color="#CCCCCC">while I keep</font><font color="#E5E5E5"> it quiet</font><font color="#CCCCCC"> I'm going to go</font>
+
+57
+00:02:11,970 --> 00:02:13,680
+ahead and sell stock and I'm
+
+58
+00:02:13,680 --> 00:02:16,620
+<font color="#E5E5E5">I'm gonna make 39 million dollars well</font>
+
+59
+00:02:16,620 --> 00:02:19,379
+<font color="#E5E5E5">okay who got hit to understand you</font>
+
+60
+00:02:19,379 --> 00:02:21,510
+<font color="#CCCCCC">handled derivative suits vanillin</font><font color="#E5E5E5"> for</font>
+
+61
+00:02:21,510 --> 00:02:23,909
+years<font color="#E5E5E5"> a derivative suit</font><font color="#CCCCCC"> is when the</font>
+
+62
+00:02:23,909 --> 00:02:26,549
+shareholder says that the conduct of
+
+63
+00:02:26,549 --> 00:02:29,219
+management is so bad or it's so corrupt
+
+64
+00:02:29,219 --> 00:02:31,079
+you've ruined<font color="#CCCCCC"> life you've ruined the</font>
+
+65
+00:02:31,079 --> 00:02:33,659
+value of my stock<font color="#E5E5E5"> right okay so what</font>
+
+66
+00:02:33,659 --> 00:02:36,120
+could have so this guy<font color="#E5E5E5"> knows</font><font color="#CCCCCC"> that his</font>
+
+67
+00:02:36,120 --> 00:02:38,340
+his stock is<font color="#E5E5E5"> gonna tank</font>
+
+68
+00:02:38,340 --> 00:02:40,859
+if he doesn't secretly<font color="#E5E5E5"> go do this as</font>
+
+69
+00:02:40,859 --> 00:02:43,200
+quickly as he can<font color="#CCCCCC"> and if this</font>
+
+70
+00:02:43,200 --> 00:02:45,389
+<font color="#CCCCCC">information gets out then he's not gonna</font>
+
+71
+00:02:45,389 --> 00:02:47,939
+make<font color="#CCCCCC"> 39 you know compensation system is</font>
+
+72
+00:02:47,939 --> 00:02:49,889
+what's wrong<font color="#E5E5E5"> with with Wall Street</font><font color="#CCCCCC"> in</font>
+
+73
+00:02:49,889 --> 00:02:52,829
+<font color="#E5E5E5">corporate America we pay our CEOs in</font>
+
+74
+00:02:52,829 --> 00:02:54,150
+large part most of<font color="#E5E5E5"> their compensation</font>
+
+75
+00:02:54,150 --> 00:02:56,609
+<font color="#E5E5E5">comes from options in stocks which means</font>
+
+76
+00:02:56,609 --> 00:02:59,430
+I'm gonna give you stock that you<font color="#E5E5E5"> can</font>
+
+77
+00:02:59,430 --> 00:03:02,010
+execute<font color="#E5E5E5"> and</font><font color="#CCCCCC"> buy a year or two</font><font color="#E5E5E5"> down the</font>
+
+78
+00:03:02,010 --> 00:03:04,530
+<font color="#CCCCCC">line and</font><font color="#E5E5E5"> the thought is their goal is</font>
+
+79
+00:03:04,530 --> 00:03:05,849
+aligned with<font color="#CCCCCC"> a company get the stock</font>
+
+80
+00:03:05,849 --> 00:03:08,010
+price up<font color="#E5E5E5"> well what it really ends up is</font>
+
+81
+00:03:08,010 --> 00:03:10,859
+and any means<font color="#CCCCCC"> possible drive the stock</font>
+
+82
+00:03:10,859 --> 00:03:12,780
+price up as<font color="#E5E5E5"> much as human impossible</font>
+
+83
+00:03:12,780 --> 00:03:16,500
+<font color="#CCCCCC">keep the bad news y-yeah while I sell my</font>
+
+84
+00:03:16,500 --> 00:03:18,540
+smile<font color="#CCCCCC"> exercise my options and</font><font color="#E5E5E5"> then</font>
+
+85
+00:03:18,540 --> 00:03:20,729
+liquidate so what he's done<font color="#E5E5E5"> is</font><font color="#CCCCCC"> he's any</font>
+
+86
+00:03:20,729 --> 00:03:23,060
+saying oh this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> part of a regular</font>
+
+87
+00:03:23,060 --> 00:03:27,419
+<font color="#CCCCCC">coincidence though something Bad's</font>
+
+88
+00:03:27,419 --> 00:03:29,609
+coming<font color="#CCCCCC"> dude</font><font color="#E5E5E5"> you can't sell your</font><font color="#CCCCCC"> I mean</font>
+
+89
+00:03:29,609 --> 00:03:31,109
+well<font color="#E5E5E5"> thirty nine million dollars which</font>
+
+90
+00:03:31,109 --> 00:03:34,829
+is more<font color="#E5E5E5"> money than 99.99% of the</font>
+
+91
+00:03:34,829 --> 00:03:36,180
+population is ever gonna dream<font color="#E5E5E5"> about</font>
+
+92
+00:03:36,180 --> 00:03:37,409
+<font color="#E5E5E5">making in a lifetime</font>
+
+93
+00:03:37,409 --> 00:03:40,620
+he sold<font color="#E5E5E5"> in one liquidation in pocketed</font>
+
+94
+00:03:40,620 --> 00:03:42,090
+<font color="#E5E5E5">all the while</font><font color="#CCCCCC"> knowing that his</font>
+
+95
+00:03:42,090 --> 00:03:43,650
+shareholders<font color="#E5E5E5"> were about to get crushed</font>
+
+96
+00:03:43,650 --> 00:03:46,079
+<font color="#E5E5E5">and he sold it well you know the</font>
+
+97
+00:03:46,079 --> 00:03:47,909
+interesting<font color="#E5E5E5"> thing</font><font color="#CCCCCC"> about the point that</font>
+
+98
+00:03:47,909 --> 00:03:50,430
+you just made<font color="#CCCCCC"> and this</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> this is</font><font color="#CCCCCC"> so</font>
+
+99
+00:03:50,430 --> 00:03:53,489
+important people<font color="#CCCCCC"> don't understand</font><font color="#E5E5E5"> that</font>
+
+100
+00:03:53,489 --> 00:03:56,849
+<font color="#CCCCCC">sit that used to</font><font color="#E5E5E5"> be the CEO of a</font><font color="#CCCCCC"> company</font>
+
+101
+00:03:56,849 --> 00:03:58,620
+would be with that<font color="#CCCCCC"> company sometimes</font>
+
+102
+00:03:58,620 --> 00:04:03,000
+<font color="#E5E5E5">2025 years okay now the new MBA ideas</font>
+
+103
+00:04:03,000 --> 00:04:06,299
+get out<font color="#CCCCCC"> MBA school and get into</font><font color="#E5E5E5"> what</font>
+
+104
+00:04:06,299 --> 00:04:08,909
+they call<font color="#E5E5E5"> the NBA Network the CEO</font>
+
+105
+00:04:08,909 --> 00:04:11,009
+<font color="#CCCCCC">network</font><font color="#E5E5E5"> what that means they're moving</font>
+
+106
+00:04:11,009 --> 00:04:13,379
+from one company<font color="#CCCCCC"> to another</font><font color="#E5E5E5"> within a</font>
+
+107
+00:04:13,379 --> 00:04:15,930
+<font color="#E5E5E5">period most of the time anywhere between</font>
+
+108
+00:04:15,930 --> 00:04:18,029
+three five years<font color="#CCCCCC"> of the most okay so</font>
+
+109
+00:04:18,029 --> 00:04:19,949
+what happens what this thing Peter just
+
+110
+00:04:19,949 --> 00:04:22,860
+talked about they build in this process
+
+111
+00:04:22,860 --> 00:04:25,529
+<font color="#E5E5E5">now let's talk about a drug company for</font>
+
+112
+00:04:25,529 --> 00:04:26,620
+example
+
+113
+00:04:26,620 --> 00:04:28,900
+<font color="#CCCCCC">a drug company</font><font color="#E5E5E5"> ends up making</font><font color="#CCCCCC"> what they</font>
+
+114
+00:04:28,900 --> 00:04:31,090
+call<font color="#E5E5E5"> they they create a cash cow that's</font>
+
+115
+00:04:31,090 --> 00:04:32,979
+a drug that<font color="#E5E5E5"> they're gonna sell to</font>
+
+116
+00:04:32,979 --> 00:04:34,240
+everybody<font color="#E5E5E5"> it's going to make a lot of</font>
+
+117
+00:04:34,240 --> 00:04:38,020
+<font color="#E5E5E5">money but the</font><font color="#CCCCCC"> CEO is already</font><font color="#E5E5E5"> seeing the</font>
+
+118
+00:04:38,020 --> 00:04:40,180
+edge of a crisis he's<font color="#CCCCCC"> seeing</font><font color="#E5E5E5"> that</font>
+
+119
+00:04:40,180 --> 00:04:41,830
+oh yeah we're selling a<font color="#E5E5E5"> lot of this drug</font>
+
+120
+00:04:41,830 --> 00:04:44,440
+but<font color="#CCCCCC"> the problem is we know that it has</font>
+
+121
+00:04:44,440 --> 00:04:47,110
+<font color="#E5E5E5">potential to</font><font color="#CCCCCC"> kill</font><font color="#E5E5E5"> people</font><font color="#CCCCCC"> right so what</font>
+
+122
+00:04:47,110 --> 00:04:49,750
+he does<font color="#E5E5E5"> is</font><font color="#CCCCCC"> he maximizes all of his</font>
+
+123
+00:04:49,750 --> 00:04:51,699
+interest in that<font color="#E5E5E5"> company like this cat</font>
+
+124
+00:04:51,699 --> 00:04:54,040
+did<font color="#CCCCCC"> make</font><font color="#E5E5E5"> thirty nine million dollars he</font>
+
+125
+00:04:54,040 --> 00:04:57,880
+does that<font color="#E5E5E5"> before the the story is out</font>
+
+126
+00:04:57,880 --> 00:05:00,310
+there that this drug has<font color="#CCCCCC"> the ability to</font>
+
+127
+00:05:00,310 --> 00:05:03,820
+shut<font color="#E5E5E5"> down</font><font color="#CCCCCC"> your</font><font color="#E5E5E5"> kidneys or this drug has</font>
+
+128
+00:05:03,820 --> 00:05:07,210
+<font color="#CCCCCC">the ability to shut</font><font color="#E5E5E5"> down your liver</font><font color="#CCCCCC"> he</font>
+
+129
+00:05:07,210 --> 00:05:09,220
+gets to<font color="#E5E5E5"> see that</font><font color="#CCCCCC"> information early on</font>
+
+130
+00:05:09,220 --> 00:05:11,500
+it's<font color="#CCCCCC"> it's insider information</font><font color="#E5E5E5"> but more</font>
+
+131
+00:05:11,500 --> 00:05:14,020
+<font color="#E5E5E5">importantly what he does is he's knows</font>
+
+132
+00:05:14,020 --> 00:05:16,510
+he's moving through<font color="#CCCCCC"> the company</font><font color="#E5E5E5"> but</font>
+
+133
+00:05:16,510 --> 00:05:19,860
+we've<font color="#E5E5E5"> actually seen</font><font color="#CCCCCC"> cases where the CEO</font>
+
+134
+00:05:19,860 --> 00:05:22,750
+does what they call this this quick
+
+135
+00:05:22,750 --> 00:05:25,120
+sale<font color="#CCCCCC"> he know he has a drug he's a drug</font>
+
+136
+00:05:25,120 --> 00:05:26,740
+that's gonna kill people<font color="#CCCCCC"> he knows it's</font>
+
+137
+00:05:26,740 --> 00:05:28,510
+<font color="#E5E5E5">gonna kill</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> his scientists are</font>
+
+138
+00:05:28,510 --> 00:05:29,979
+gonna tell him is<font color="#E5E5E5"> are telling he's gonna</font>
+
+139
+00:05:29,979 --> 00:05:32,560
+kill people<font color="#E5E5E5"> so what he does is</font><font color="#CCCCCC"> he's</font>
+
+140
+00:05:32,560 --> 00:05:34,349
+already<font color="#CCCCCC"> looking for</font><font color="#E5E5E5"> the second job</font>
+
+141
+00:05:34,349 --> 00:05:38,200
+during<font color="#CCCCCC"> the</font><font color="#E5E5E5"> time that he sells the stock</font>
+
+142
+00:05:38,200 --> 00:05:40,720
+so while the cash cow drug is making<font color="#CCCCCC"> so</font>
+
+143
+00:05:40,720 --> 00:05:43,360
+much money<font color="#E5E5E5"> happens</font><font color="#CCCCCC"> every single</font><font color="#E5E5E5"> day</font>
+
+144
+00:05:43,360 --> 00:05:45,280
+<font color="#E5E5E5">there's very</font><font color="#CCCCCC"> few cases I've handled</font>
+
+145
+00:05:45,280 --> 00:05:46,599
+<font color="#E5E5E5">Peter where I haven't seen this happen</font>
+
+146
+00:05:46,599 --> 00:05:48,880
+it<font color="#E5E5E5"> does in the culture to me it's what</font>
+
+147
+00:05:48,880 --> 00:05:50,020
+the problem if<font color="#E5E5E5"> you push it</font><font color="#CCCCCC"> back because</font>
+
+148
+00:05:50,020 --> 00:05:51,460
+<font color="#E5E5E5">obviously the sale of the</font><font color="#CCCCCC"> stock is the</font>
+
+149
+00:05:51,460 --> 00:05:53,020
+problem<font color="#CCCCCC"> it's part of</font><font color="#E5E5E5"> the problem but if</font>
+
+150
+00:05:53,020 --> 00:05:55,630
+you push it back<font color="#E5E5E5"> there's absolutely zero</font>
+
+151
+00:05:55,630 --> 00:05:58,150
+incentive<font color="#CCCCCC"> to stop the drug that they</font>
+
+152
+00:05:58,150 --> 00:06:00,280
+<font color="#CCCCCC">know has a high probability of</font><font color="#E5E5E5"> hurting</font>
+
+153
+00:06:00,280 --> 00:06:01,720
+people<font color="#CCCCCC"> maybe they know what they told</font>
+
+154
+00:06:01,720 --> 00:06:03,669
+<font color="#E5E5E5">the FDA is inaccurate maybe they get</font>
+
+155
+00:06:03,669 --> 00:06:06,130
+<font color="#CCCCCC">updated</font><font color="#E5E5E5"> information</font><font color="#CCCCCC"> and all time they're</font>
+
+156
+00:06:06,130 --> 00:06:08,169
+thinking oh I got to keep this on<font color="#CCCCCC"> the</font>
+
+157
+00:06:08,169 --> 00:06:10,030
+<font color="#CCCCCC">down-low right</font><font color="#E5E5E5"> because I've got 150</font>
+
+158
+00:06:10,030 --> 00:06:12,310
+<font color="#CCCCCC">million dollars in options and that</font><font color="#E5E5E5"> goes</font>
+
+159
+00:06:12,310 --> 00:06:13,870
+to<font color="#E5E5E5"> what you're saying</font><font color="#CCCCCC"> this system</font>
+
+160
+00:06:13,870 --> 00:06:17,770
+continue to pay our<font color="#E5E5E5"> CEOs based on these</font>
+
+161
+00:06:17,770 --> 00:06:20,199
+<font color="#E5E5E5">options</font><font color="#CCCCCC"> down the line</font><font color="#E5E5E5"> knowing</font><font color="#CCCCCC"> that if</font>
+
+162
+00:06:20,199 --> 00:06:22,960
+they keep the<font color="#CCCCCC"> information down they mean</font>
+
+163
+00:06:22,960 --> 00:06:24,699
+perpetrate fraud and that's what it<font color="#E5E5E5"> is</font>
+
+164
+00:06:24,699 --> 00:06:26,770
+at the end<font color="#E5E5E5"> of the day promotes fraud</font><font color="#CCCCCC"> it</font>
+
+165
+00:06:26,770 --> 00:06:29,590
+does it's a whole<font color="#E5E5E5"> system that says I</font>
+
+166
+00:06:29,590 --> 00:06:32,199
+need<font color="#E5E5E5"> to maximize potential now not</font>
+
+167
+00:06:32,199 --> 00:06:34,270
+long-term<font color="#E5E5E5"> value which is what it was not</font>
+
+168
+00:06:34,270 --> 00:06:36,610
+<font color="#E5E5E5">short term quick profits which also if</font>
+
+169
+00:06:36,610 --> 00:06:38,409
+you compare that<font color="#E5E5E5"> to Wall</font><font color="#CCCCCC"> Street</font><font color="#E5E5E5"> and all</font>
+
+170
+00:06:38,409 --> 00:06:40,390
+the crazy crazy trading scams
+
+171
+00:06:40,390 --> 00:06:43,120
+we have everybody<font color="#E5E5E5"> knows that I'm gonna</font>
+
+172
+00:06:43,120 --> 00:06:44,460
+take<font color="#CCCCCC"> home and</font><font color="#E5E5E5"> put in my pocket</font>
+
+173
+00:06:44,460 --> 00:06:46,930
+<font color="#E5E5E5">short-term profits points from crazy</font>
+
+174
+00:06:46,930 --> 00:06:49,480
+risk<font color="#E5E5E5"> the shareholders take the risk</font><font color="#CCCCCC"> I</font>
+
+175
+00:06:49,480 --> 00:06:52,180
+get the reward<font color="#CCCCCC"> but they even</font><font color="#E5E5E5"> have a term</font>
+
+176
+00:06:52,180 --> 00:06:56,530
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> and the term is big risk quick</font>
+
+177
+00:06:56,530 --> 00:06:58,720
+profits<font color="#CCCCCC"> I mean we actually see it in</font>
+
+178
+00:06:58,720 --> 00:07:01,060
+memos where there's there's dialogue
+
+179
+00:07:01,060 --> 00:07:03,370
+<font color="#E5E5E5">going between management and the CEO and</font>
+
+180
+00:07:03,370 --> 00:07:05,500
+say well you know<font color="#E5E5E5"> to make big profits we</font>
+
+181
+00:07:05,500 --> 00:07:07,090
+got to take some quick<font color="#CCCCCC"> risks</font><font color="#E5E5E5"> some of the</font>
+
+182
+00:07:07,090 --> 00:07:09,070
+<font color="#CCCCCC">course</font><font color="#E5E5E5"> and then they fester</font><font color="#CCCCCC"> then</font><font color="#E5E5E5"> they</font>
+
+183
+00:07:09,070 --> 00:07:12,010
+pass<font color="#CCCCCC"> it on to the shareholders</font><font color="#E5E5E5"> and then</font>
+
+184
+00:07:12,010 --> 00:07:14,560
+that<font color="#CCCCCC"> maybe they get caught</font><font color="#E5E5E5"> the company</font>
+
+185
+00:07:14,560 --> 00:07:15,580
+gets fine
+
+186
+00:07:15,580 --> 00:07:17,410
+they don't pay it in money's good the
+
+187
+00:07:17,410 --> 00:07:19,450
+CEO they'd seen you up at the same<font color="#CCCCCC"> time</font>
+
+188
+00:07:19,450 --> 00:07:22,810
+<font color="#CCCCCC">has insurance</font><font color="#E5E5E5"> for what he's done he's</font>
+
+189
+00:07:22,810 --> 00:07:25,210
+committed a crime he has killed<font color="#CCCCCC"> people</font>
+
+190
+00:07:25,210 --> 00:07:28,060
+<font color="#E5E5E5">with a dangerous pharmaceutical that he</font>
+
+191
+00:07:28,060 --> 00:07:29,530
+knows is dangerous
+
+192
+00:07:29,530 --> 00:07:31,660
+he's maximized his<font color="#E5E5E5"> income while that's</font>
+
+193
+00:07:31,660 --> 00:07:33,400
+happening<font color="#E5E5E5"> and he's out of the way he</font>
+
+194
+00:07:33,400 --> 00:07:35,560
+moved<font color="#CCCCCC"> he's moved on</font><font color="#E5E5E5"> to the</font><font color="#CCCCCC"> teeth</font><font color="#E5E5E5"> he's</font>
+
+195
+00:07:35,560 --> 00:07:38,380
+moved from Pfizer<font color="#E5E5E5"> to Merck or former -</font>
+
+196
+00:07:38,380 --> 00:07:41,230
+you know Eli Lilly<font color="#E5E5E5"> he's they're always</font>
+
+197
+00:07:41,230 --> 00:07:43,660
+moving<font color="#E5E5E5"> and if you take a look at it</font>
+
+198
+00:07:43,660 --> 00:07:45,880
+you'll be amazed at how ugly this
+
+199
+00:07:45,880 --> 00:07:47,650
+process the<font color="#CCCCCC"> storyline that you've been</font>
+
+200
+00:07:47,650 --> 00:07:49,180
+you've been beating this drum for<font color="#E5E5E5"> a long</font>
+
+201
+00:07:49,180 --> 00:07:51,520
+time if<font color="#E5E5E5"> you would just hold</font><font color="#CCCCCC"> one or</font><font color="#E5E5E5"> two</font>
+
+202
+00:07:51,520 --> 00:07:53,080
+of these guys<font color="#CCCCCC"> account</font><font color="#E5E5E5"> or put a few</font>
+
+203
+00:07:53,080 --> 00:07:55,510
+<font color="#CCCCCC">sample doing a perp walk they</font><font color="#E5E5E5"> thinking</font>
+
+204
+00:07:55,510 --> 00:07:58,060
+twice<font color="#E5E5E5"> is cups on these</font><font color="#CCCCCC"> weights or twice</font>
+
+205
+00:07:58,060 --> 00:08:00,100
+<font color="#E5E5E5">and you would see an end to this but</font>
+
+206
+00:08:00,100 --> 00:08:01,270
+<font color="#E5E5E5">instead</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> don't see this pattern</font>
+
+207
+00:08:01,270 --> 00:08:04,420
+repeated over and over and<font color="#CCCCCC"> over</font><font color="#E5E5E5"> in all</font>
+
+208
+00:08:04,420 --> 00:00:00,000
+kinds of different industries
+

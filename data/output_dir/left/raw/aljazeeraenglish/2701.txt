@@ -1,0 +1,176 @@
+1
+00:00:00,079 --> 00:00:03,659
+<font color="#E5E5E5">liftoff</font><font color="#CCCCCC"> the SpaceX</font><font color="#E5E5E5"> Falcon 9 carrying</font>
+
+2
+00:00:03,659 --> 00:00:06,299
+tests this isn't the first mission<font color="#CCCCCC"> to</font>
+
+3
+00:00:06,299 --> 00:00:07,980
+search<font color="#CCCCCC"> for new worlds but it may be</font>
+
+4
+00:00:07,980 --> 00:00:10,860
+NASA's most<font color="#CCCCCC"> revealing for</font><font color="#E5E5E5"> the next two</font>
+
+5
+00:00:10,860 --> 00:00:12,870
+years<font color="#E5E5E5"> the test satellite will take over</font>
+
+6
+00:00:12,870 --> 00:00:14,969
+<font color="#E5E5E5">from the Kepler space telescope in</font>
+
+7
+00:00:14,969 --> 00:00:18,210
+search<font color="#CCCCCC"> of alien planets</font><font color="#E5E5E5"> whilst in orbit</font>
+
+8
+00:00:18,210 --> 00:00:20,789
+this new telescope<font color="#E5E5E5"> will observe</font><font color="#CCCCCC"> 200,000</font>
+
+9
+00:00:20,789 --> 00:00:22,560
+of the brightest stars in<font color="#CCCCCC"> the sky</font>
+
+10
+00:00:22,560 --> 00:00:25,760
+<font color="#E5E5E5">mission scientists say it could discover</font>
+
+11
+00:00:25,760 --> 00:00:28,710
+20,000 new worlds<font color="#E5E5E5"> now Tess is going to</font>
+
+12
+00:00:28,710 --> 00:00:30,599
+dramatically<font color="#CCCCCC"> increase the number of</font>
+
+13
+00:00:30,599 --> 00:00:35,610
+planets<font color="#CCCCCC"> that we have to study</font><font color="#E5E5E5"> it's going</font>
+
+14
+00:00:35,610 --> 00:00:37,320
+to more<font color="#CCCCCC"> than double the number that</font><font color="#E5E5E5"> have</font>
+
+15
+00:00:37,320 --> 00:00:41,879
+been seen and detected by by Kepler<font color="#CCCCCC"> and</font>
+
+16
+00:00:41,879 --> 00:00:45,300
+<font color="#E5E5E5">moreover the planets that we're going to</font>
+
+17
+00:00:45,300 --> 00:00:49,050
+<font color="#E5E5E5">find will will span a much greater range</font>
+
+18
+00:00:49,050 --> 00:00:52,710
+of host star types than was<font color="#CCCCCC"> the</font><font color="#E5E5E5"> case for</font>
+
+19
+00:00:52,710 --> 00:00:54,960
+Kepler<font color="#E5E5E5"> when the Kepler space telescope</font>
+
+20
+00:00:54,960 --> 00:00:58,020
+<font color="#E5E5E5">launched in 2009 it transformed our</font>
+
+21
+00:00:58,020 --> 00:01:00,270
+<font color="#CCCCCC">understanding of planets beyond our own</font>
+
+22
+00:01:00,270 --> 00:01:03,000
+<font color="#CCCCCC">solar system based on</font><font color="#E5E5E5"> its observations</font>
+
+23
+00:01:03,000 --> 00:01:05,040
+astronomers now believe the Milky Way<font color="#E5E5E5"> is</font>
+
+24
+00:01:05,040 --> 00:01:07,770
+home to at least two billion potentially
+
+25
+00:01:07,770 --> 00:01:10,860
+habitable<font color="#CCCCCC"> planets</font><font color="#E5E5E5"> Kepler only observed a</font>
+
+26
+00:01:10,860 --> 00:01:13,740
+fraction of the sky<font color="#E5E5E5"> Tess is able to see</font>
+
+27
+00:01:13,740 --> 00:01:16,830
+far more the exoplanet community is<font color="#E5E5E5"> very</font>
+
+28
+00:01:16,830 --> 00:01:19,170
+enthusiastic<font color="#CCCCCC"> to vibrant community and</font>
+
+29
+00:01:19,170 --> 00:01:21,780
+there are a lot of people<font color="#CCCCCC"> very eager to</font>
+
+30
+00:01:21,780 --> 00:01:24,240
+<font color="#CCCCCC">get their hands on the data</font><font color="#E5E5E5"> and start</font>
+
+31
+00:01:24,240 --> 00:01:26,280
+<font color="#E5E5E5">doing some great science with it and I</font>
+
+32
+00:01:26,280 --> 00:01:27,780
+think<font color="#CCCCCC"> you know I think</font><font color="#E5E5E5"> that over the</font>
+
+33
+00:01:27,780 --> 00:01:29,759
+coming<font color="#E5E5E5"> years we're going to see an</font>
+
+34
+00:01:29,759 --> 00:01:31,710
+<font color="#E5E5E5">enormous</font><font color="#CCCCCC"> number of</font><font color="#E5E5E5"> brilliant scientific</font>
+
+35
+00:01:31,710 --> 00:01:33,659
+results<font color="#E5E5E5"> coming</font><font color="#CCCCCC"> out of test data from</font>
+
+36
+00:01:33,659 --> 00:01:35,280
+across the entire<font color="#CCCCCC"> community I'm</font><font color="#E5E5E5"> really</font>
+
+37
+00:01:35,280 --> 00:01:37,200
+<font color="#E5E5E5">excited for that for the next 60 days</font>
+
+38
+00:01:37,200 --> 00:01:39,600
+mission scientists will be<font color="#E5E5E5"> running tests</font>
+
+39
+00:01:39,600 --> 00:01:41,340
+and ironing out bugs as the satellite
+
+40
+00:01:41,340 --> 00:01:44,250
+begins its orbit the first<font color="#E5E5E5"> batches of</font>
+
+41
+00:01:44,250 --> 00:01:46,649
+data<font color="#CCCCCC"> won't be released for months but if</font>
+
+42
+00:01:46,649 --> 00:01:48,720
+life is out there<font color="#E5E5E5"> tests may</font><font color="#CCCCCC"> be the</font>
+
+43
+00:01:48,720 --> 00:01:51,360
+project<font color="#CCCCCC"> that finds</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> Gallacher al</font>
+
+44
+00:01:51,360 --> 00:00:00,000
+<font color="#CCCCCC">Jazeera</font>
+

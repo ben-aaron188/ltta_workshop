@@ -1,0 +1,245 @@
+(playful music)
+This is Geoff Hinton.
+Because of a back condition,
+he hasn't been able
+to sit down for more than 12 years.
+I hate standing, I would
+much rather sit down,
+but if I sit down I have
+a disc that comes out.
+So.
+Okay.
+Well, at least now standing
+desks are fashionable and--
+Yeah, but I was ahead.
+(laughs)
+I was standing when they
+weren't fashionable.
+Since he can't sit in a car or on a bus,
+Hinton walks everywhere.
+(playful music)
+The walk says a lot about
+Hinton and his resolve.
+For nearly 40 years,
+Hinton has been trying
+to get computers to learn like people do.
+A quest almost everyone thought was crazy,
+or at least hopeless.
+Right up until the moment
+it revolutionized the field.
+Google thinks this is the
+future of the company.
+Amazon thinks this is the
+future of the company.
+Apple thinks it's future of the company.
+My own department thinks this
+stuff's probably nonsense
+and we shouldn't be doing any more of it.
+(laughs)
+So, I talked everybody into
+it except my own department.
+(playful music)
+You obviously grew up in the UK,
+and you had this very prestigious family
+full of famous
+mathematicians and economists
+and, I was curious what
+that was like for you.
+Yeah, there was a lot of pressure.
+I think by the time I was about seven,
+I realized I was gonna have to get a Ph.D.
+(laughing)
+Did you rebel against that?
+Or you went along with it?
+I dropped out every so often.
+I became a carpenter for a while.
+Geoff Hinton pretty
+early on became obsessed
+with this idea of figuring
+out how the mind works.
+He started off getting into physiology,
+the anatomy of how the brain works,
+then he got into psychology,
+and then finally,
+he settled on more of a
+computer science approach
+to modeling the brain, and got
+into artificial intelligence.
+My feeling is, if you want to understand
+a really complicated device like a brain,
+you should build one.
+I mean, you can look at cars,
+and you could think you
+could understand cars.
+When you try to build a
+car, you suddenly discover
+then there's this stuff that
+has to go under the hood,
+otherwise it doesn't work.
+Yeah. (laughs)
+As Geoff was starting to
+think about these ideas,
+he got inspired by some AI
+researchers across the pond.
+Specifically, this guy: Frank Rosenblatt.
+Rosenblatt, in the the late 1950s,
+developed what he called a perceptron,
+and it was a neural
+network, a computing system
+that would mimic the brain.
+The basic idea is a collection
+of small units, called neurons.
+These are little computing units,
+but they're actually modeled on the way
+that the human brain
+does it's computation.
+They take their incoming data
+like we do from our senses,
+and they actually learn, so the neural net
+can learn to make decisions over time.
+Rosenblatts's hope was that you could feed
+a neural network a bunch of data,
+like pictures of men and women,
+and it would eventually
+learn how to tell them apart.
+Just like humans do.
+There was just one problem:
+it didn't work very well.
+Rosenblatt, his neural
+network was the single layer
+of neurons, and it was
+limited in what it could do.
+Extremely limited.
+And a colleague of his
+wrote a book in the late 60s
+that showed these limitations.
+And, it kind of put the
+whole area of research
+into a deep freeze for a good 10 years.
+No one wanted to work in this area.
+They were sure it would never work.
+Well, almost no one.
+It was just obvious to me that everything
+was about ready to go.
+The brain's a big neural network,
+and so, it has to be that
+stuff like this can work,
+because it works in our brains.
+There's just never any doubt about that.
+And what do you think
+that it was inside of you
+that kept you wanting to pursue this
+when everyone else was giving up?
+Just, that you thought it was
+the right direction to go?
+No, that everyone else was wrong.
+Okay.
+(laughs)
+(upbeat music)
+Hinton decides he's got an idea
+of how these neural nets might work,
+and he's going to pursue
+it no matter what.
+For a little while, he's bouncing around
+research institutions in the US.
+He kind of gets fed up that most of them
+were funded by the Defense Department,
+and he starts looking for
+somewhere else he can go.
+I didn't want to take
+Defense Department money.
+I sort of didn't like
+the idea that this stuff
+was going to be used for purposes
+that I didn't think were good.
+He suddenly hears that
+Canada might be interested
+in funding artificial intelligence.
+And that was very attractive,
+that I could go off to
+this civilized town,
+and just get on with it.
+So I came to the University of Toronto.
+And then in the mid-80s, we discovered
+how to make more complicated neural nets
+so they could solve those problems
+that the simple ones couldn't solve.
+He and his collaborators developed
+a multi-layered neural
+network, a deep neural network.
+And this started to work in a lot of ways.
+Using a neural network, a guy named
+Dean Pomerleau built a
+self-driving car in the late 80s.
+And it drove on public roads.
+Yann LeCun, in the 90s, built a system
+that could recognize handwritten digits,
+and this ended up being used commercially.
+But again, they hit a ceiling.
+(upbeat music)
+It didn't work quite well enough,
+because we didn't have enough data,
+we didn't have enough compute power.
+And people in AI and computer science,
+decided that neural networks
+were wishful thinking, basically.
+So, it was a big disappointment.
+Through the 90s, into the 2000s,
+Geoff was one of only a
+handful of people on the planet
+who were still pursuing this technology.
+He would show up at academic conferences
+and be banished to the back rooms,
+he was treated as, really like a pariah.
+Was there like a time when you thought
+this just wasn't going to work?
+And you had some self-doubt?
+I mean there were many
+times when I thought,
+"I'm not going to make this work."
+(laughs)
+But Geoff was consumed by
+this and couldn't stop.
+He just kept pursuing the idea
+that computers could learn.
+Until about 2006, when
+the world catches up
+to Hinton's ideas.
+(upbeat music)
+Computers are now a lot faster.
+And now, it's behaving like I thought
+it would behave in the mid-80s.
+It's solving everything.
+The arrival of super-fast chips,
+and the massive amounts of
+data produced on the internet
+gave Hinton's algorithms a magical boost.
+Suddenly, computers could
+identify what was in an image.
+Then, they could recognize speech
+and translate from one
+language to another.
+By 2012, words like neural
+nets and machine learning
+were popping up on the front page
+of the New York Times.
+You have to go all these years,
+and then all of a sudden, in
+a the span of a few months,
+it just takes off.
+Did it finally feel like aha,
+the world has finally come to my vision?
+It was sort of a relief that people
+finally came to their senses.
+(laughs)
+(gentle music)
+For Hinton, this was
+clearly a redemptive moment
+after decades of toil.
+And for Canada, it meant
+something even bigger.
+Hinton and his students
+put the country on the map
+as an AI superpower,
+something no one, and no computer,
+could ever have predicted.

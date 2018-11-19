@@ -1,0 +1,40 @@
+1
+00:00:00,439 --> 00:00:02,730
+<font color="#E5E5E5">sergeant at arms will restore order in</font>
+
+2
+00:00:02,730 --> 00:00:17,430
+<font color="#E5E5E5">the gallery the sergeant at arms will</font>
+
+3
+00:00:17,430 --> 00:00:21,720
+restore order<font color="#E5E5E5"> in the gallery the</font>
+
+4
+00:00:21,720 --> 00:00:23,609
+sergeant at arms will restore order<font color="#CCCCCC"> in</font>
+
+5
+00:00:23,609 --> 00:00:30,660
+the gallery clerk<font color="#CCCCCC"> will suspend</font>
+
+6
+00:00:30,660 --> 00:00:33,180
+the sergeant at arms will restore order
+
+7
+00:00:33,180 --> 00:00:38,730
+in<font color="#E5E5E5"> the gallery sergeant at arms will</font>
+
+8
+00:00:38,730 --> 00:00:44,280
+restore<font color="#E5E5E5"> order in the gallery sergeant at</font>
+
+9
+00:00:44,280 --> 00:00:48,260
+arms has restored<font color="#E5E5E5"> order in the</font><font color="#CCCCCC"> gallery's</font>
+
+10
+00:00:58,400 --> 00:00:00,000
+you
+

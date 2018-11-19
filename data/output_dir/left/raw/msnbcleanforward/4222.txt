@@ -1,0 +1,696 @@
+1
+00:00:02,149 --> 00:00:04,770
+<font color="#E5E5E5">Facebook is</font><font color="#CCCCCC"> making</font><font color="#E5E5E5"> changes amid the fury</font>
+
+2
+00:00:04,770 --> 00:00:06,000
+over<font color="#E5E5E5"> how it's been handling your</font>
+
+3
+00:00:06,000 --> 00:00:08,700
+<font color="#CCCCCC">personal</font><font color="#E5E5E5"> data</font><font color="#CCCCCC"> the latest move shuts down</font>
+
+4
+00:00:08,700 --> 00:00:10,710
+a program that enables<font color="#CCCCCC"> third</font><font color="#E5E5E5"> party data</font>
+
+5
+00:00:10,710 --> 00:00:12,990
+providers<font color="#E5E5E5"> from targeting certain users</font>
+
+6
+00:00:12,990 --> 00:00:15,000
+that<font color="#E5E5E5"> the company says it</font><font color="#CCCCCC"> will help</font>
+
+7
+00:00:15,000 --> 00:00:17,730
+<font color="#E5E5E5">improve user privacy</font><font color="#CCCCCC"> Facebook is facing</font>
+
+8
+00:00:17,730 --> 00:00:19,680
+at<font color="#CCCCCC"> least</font><font color="#E5E5E5"> five lawsuits in</font><font color="#CCCCCC"> federal court</font>
+
+9
+00:00:19,680 --> 00:00:22,080
+<font color="#CCCCCC">all of it coming</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> of allegations</font>
+
+10
+00:00:22,080 --> 00:00:24,480
+<font color="#CCCCCC">that Cambridge analytic</font><font color="#E5E5E5"> harvested the</font>
+
+11
+00:00:24,480 --> 00:00:26,750
+personal<font color="#CCCCCC"> information</font><font color="#E5E5E5"> of 50 million</font>
+
+12
+00:00:26,750 --> 00:00:29,820
+unsuspecting Facebook users back in 2013
+
+13
+00:00:29,820 --> 00:00:32,668
+<font color="#CCCCCC">and 2014</font><font color="#E5E5E5"> now</font><font color="#CCCCCC"> if you're worried about</font>
+
+14
+00:00:32,668 --> 00:00:34,559
+Facebook's handling of your data<font color="#E5E5E5"> wait</font>
+
+15
+00:00:34,559 --> 00:00:36,059
+<font color="#E5E5E5">until you hear about what Google</font><font color="#CCCCCC"> is</font>
+
+16
+00:00:36,059 --> 00:00:38,520
+<font color="#CCCCCC">doing</font><font color="#E5E5E5"> a technology consultants tweet</font>
+
+17
+00:00:38,520 --> 00:00:40,950
+storm recently went viral<font color="#CCCCCC"> after he</font>
+
+18
+00:00:40,950 --> 00:00:42,510
+discovered just<font color="#E5E5E5"> how much</font><font color="#CCCCCC"> of his</font>
+
+19
+00:00:42,510 --> 00:00:44,280
+<font color="#CCCCCC">information Google</font><font color="#E5E5E5"> was storing without</font>
+
+20
+00:00:44,280 --> 00:00:47,280
+him realizing it Dylan Curran says after
+
+21
+00:00:47,280 --> 00:00:49,230
+<font color="#E5E5E5">requesting his data he found that Google</font>
+
+22
+00:00:49,230 --> 00:00:51,449
+stores your location<font color="#E5E5E5"> every time you turn</font>
+
+23
+00:00:51,449 --> 00:00:54,360
+on<font color="#E5E5E5"> your</font><font color="#CCCCCC"> phone if that setting is on</font><font color="#E5E5E5"> he</font>
+
+24
+00:00:54,360 --> 00:00:55,949
+posted a<font color="#CCCCCC"> picture from Google</font><font color="#E5E5E5"> that showed</font>
+
+25
+00:00:55,949 --> 00:00:58,260
+every location he'd been to in Ireland
+
+26
+00:00:58,260 --> 00:01:00,780
+<font color="#E5E5E5">for the past year the</font><font color="#CCCCCC"> timeline included</font>
+
+27
+00:01:00,780 --> 00:01:02,969
+what time he was<font color="#E5E5E5"> there</font><font color="#CCCCCC"> how</font><font color="#E5E5E5"> long it took</font>
+
+28
+00:01:02,969 --> 00:01:04,938
+him<font color="#CCCCCC"> to get</font><font color="#E5E5E5"> from one place</font><font color="#CCCCCC"> to the other</font>
+
+29
+00:01:04,938 --> 00:01:07,710
+<font color="#CCCCCC">Dylan says Google creates an</font><font color="#E5E5E5"> ad profile</font>
+
+30
+00:01:07,710 --> 00:01:10,020
+based on<font color="#CCCCCC"> your</font><font color="#E5E5E5"> information including</font>
+
+31
+00:01:10,020 --> 00:01:12,990
+<font color="#E5E5E5">gender age hobbies income even</font><font color="#CCCCCC"> your</font>
+
+32
+00:01:12,990 --> 00:01:15,720
+weight if that's not<font color="#E5E5E5"> enough</font><font color="#CCCCCC"> Google also</font>
+
+33
+00:01:15,720 --> 00:01:17,939
+<font color="#CCCCCC">stores your bookmarks emails contacts</font>
+
+34
+00:01:17,939 --> 00:01:20,280
+Google Drive files YouTube videos photos
+
+35
+00:01:20,280 --> 00:01:22,619
+taken on<font color="#E5E5E5"> your phone products you bought</font>
+
+36
+00:01:22,619 --> 00:01:25,110
+through Google in a statement a Google
+
+37
+00:01:25,110 --> 00:01:26,909
+spokesperson<font color="#E5E5E5"> says in order</font><font color="#CCCCCC"> to make the</font>
+
+38
+00:01:26,909 --> 00:01:28,950
+privacy choices that are right<font color="#CCCCCC"> for</font><font color="#E5E5E5"> them</font>
+
+39
+00:01:28,950 --> 00:01:30,930
+if the<font color="#E5E5E5"> essential people can understand</font>
+
+40
+00:01:30,930 --> 00:01:33,450
+and control<font color="#E5E5E5"> their</font><font color="#CCCCCC"> Google data</font><font color="#E5E5E5"> so over</font>
+
+41
+00:01:33,450 --> 00:01:35,610
+the<font color="#CCCCCC"> years we've</font><font color="#E5E5E5"> developed tools like my</font>
+
+42
+00:01:35,610 --> 00:01:37,799
+account expressly for this purpose<font color="#CCCCCC"> we'd</font>
+
+43
+00:01:37,799 --> 00:01:39,210
+encourage<font color="#E5E5E5"> everyone to review it</font>
+
+44
+00:01:39,210 --> 00:01:39,990
+regularly
+
+45
+00:01:39,990 --> 00:01:42,299
+joining me now Ben<font color="#CCCCCC"> Popkin NBC News</font>
+
+46
+00:01:42,299 --> 00:01:43,920
+senior business reporter who just wrote
+
+47
+00:01:43,920 --> 00:01:46,409
+all<font color="#CCCCCC"> about this for</font><font color="#E5E5E5"> NBC</font><font color="#CCCCCC"> News</font><font color="#E5E5E5"> calm and</font>
+
+48
+00:01:46,409 --> 00:01:48,210
+MSNBC<font color="#CCCCCC"> anchor and correspondent David</font>
+
+49
+00:01:48,210 --> 00:01:50,100
+<font color="#CCCCCC">guru who covers business and the economy</font>
+
+50
+00:01:50,100 --> 00:01:52,140
+<font color="#CCCCCC">so Ben it seems to me like what Google</font>
+
+51
+00:01:52,140 --> 00:01:53,640
+<font color="#E5E5E5">is saying to you was this is your</font>
+
+52
+00:01:53,640 --> 00:01:56,009
+<font color="#E5E5E5">responsibility not ours</font><font color="#CCCCCC"> right I mean</font>
+
+53
+00:01:56,009 --> 00:01:57,030
+they've been saying we've been<font color="#E5E5E5"> doing</font>
+
+54
+00:01:57,030 --> 00:01:59,040
+this<font color="#E5E5E5"> for years</font><font color="#CCCCCC"> and we've given you the</font>
+
+55
+00:01:59,040 --> 00:02:00,930
+link<font color="#CCCCCC"> to go check it out</font><font color="#E5E5E5"> for years my</font>
+
+56
+00:02:00,930 --> 00:02:04,680
+account google.com<font color="#CCCCCC"> but I</font><font color="#E5E5E5"> think</font><font color="#CCCCCC"> writing</font>
+
+57
+00:02:04,680 --> 00:02:06,950
+<font color="#E5E5E5">that down</font>
+
+58
+00:02:07,289 --> 00:02:13,959
+my account Google and the but yeah the
+
+59
+00:02:13,959 --> 00:02:16,480
+onus is on the consumer<font color="#E5E5E5"> we kind of think</font>
+
+60
+00:02:16,480 --> 00:02:18,190
+<font color="#E5E5E5">all right we give up a little</font><font color="#CCCCCC"> prior</font><font color="#E5E5E5"> data</font>
+
+61
+00:02:18,190 --> 00:02:20,739
+<font color="#CCCCCC">maybe you know the advertisers know but</font>
+
+62
+00:02:20,739 --> 00:02:22,780
+to this extent<font color="#CCCCCC"> I</font><font color="#E5E5E5"> mean when you have</font>
+
+63
+00:02:22,780 --> 00:02:25,569
+<font color="#E5E5E5">somebody</font><font color="#CCCCCC"> like this guy who's probably</font>
+
+64
+00:02:25,569 --> 00:02:27,459
+<font color="#E5E5E5">smarter than the average</font><font color="#CCCCCC"> person</font><font color="#E5E5E5"> about</font>
+
+65
+00:02:27,459 --> 00:02:29,470
+what's going on<font color="#E5E5E5"> in this business is</font>
+
+66
+00:02:29,470 --> 00:02:31,720
+shocked<font color="#E5E5E5"> by it right it's different to</font>
+
+67
+00:02:31,720 --> 00:02:33,640
+see it laid out<font color="#E5E5E5"> there one by one and if</font>
+
+68
+00:02:33,640 --> 00:02:35,769
+this can kind<font color="#E5E5E5"> of horrify even an IT</font>
+
+69
+00:02:35,769 --> 00:02:38,170
+consultant<font color="#CCCCCC"> you know regular America is</font>
+
+70
+00:02:38,170 --> 00:02:40,060
+waking<font color="#E5E5E5"> up</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> all right</font><font color="#CCCCCC"> so how do</font><font color="#E5E5E5"> we see</font>
+
+71
+00:02:40,060 --> 00:02:42,160
+all this information<font color="#CCCCCC"> David Lyford Mike</font>
+
+72
+00:02:42,160 --> 00:02:46,090
+was my Google<font color="#E5E5E5"> we know my date</font><font color="#CCCCCC"> Mike</font><font color="#E5E5E5"> I was</font>
+
+73
+00:02:46,090 --> 00:02:47,380
+<font color="#E5E5E5">struck there just by how beautifully</font>
+
+74
+00:02:47,380 --> 00:02:49,420
+this is<font color="#CCCCCC"> Illustrated for you I think</font><font color="#E5E5E5"> it's</font>
+
+75
+00:02:49,420 --> 00:02:50,680
+through the the inherent passivity of
+
+76
+00:02:50,680 --> 00:02:52,209
+<font color="#E5E5E5">this all that</font><font color="#CCCCCC"> Google's collecting</font>
+
+77
+00:02:52,209 --> 00:02:54,250
+<font color="#E5E5E5">without</font><font color="#CCCCCC"> us</font><font color="#E5E5E5"> knowing</font><font color="#CCCCCC"> just because we want</font>
+
+78
+00:02:54,250 --> 00:02:56,560
+it<font color="#E5E5E5"> to be fast or easy</font><font color="#CCCCCC"> it's display their</font>
+
+79
+00:02:56,560 --> 00:02:58,600
+<font color="#CCCCCC">beautiful</font><font color="#E5E5E5"> screenshots that we saw it</font>
+
+80
+00:02:58,600 --> 00:03:00,280
+also<font color="#CCCCCC"> display beautifully for</font><font color="#E5E5E5"> advertisers</font>
+
+81
+00:03:00,280 --> 00:03:03,580
+as well<font color="#CCCCCC"> I went</font><font color="#E5E5E5"> to check and</font><font color="#CCCCCC"> had sort of</font>
+
+82
+00:03:03,580 --> 00:03:05,170
+my profile a bit wrongs that<font color="#E5E5E5"> I was older</font>
+
+83
+00:03:05,170 --> 00:03:07,060
+lived elsewhere but it is astonishing
+
+84
+00:03:07,060 --> 00:03:08,430
+just to see<font color="#CCCCCC"> all that they've collected</font>
+
+85
+00:03:08,430 --> 00:03:11,230
+<font color="#CCCCCC">and and you know I guess they use it</font>
+
+86
+00:03:11,230 --> 00:03:12,430
+differently than Facebook might but
+
+87
+00:03:12,430 --> 00:03:15,100
+still just I don't<font color="#CCCCCC"> even</font><font color="#E5E5E5"> know how much I</font>
+
+88
+00:03:15,100 --> 00:03:17,079
+wish<font color="#E5E5E5"> yeah that's interesting</font><font color="#CCCCCC"> apples Tim</font>
+
+89
+00:03:17,079 --> 00:03:19,390
+<font color="#E5E5E5">Cook the fascinating interview</font><font color="#CCCCCC"> that's</font>
+
+90
+00:03:19,390 --> 00:03:21,310
+gonna<font color="#E5E5E5"> air next</font><font color="#CCCCCC"> week he went after</font>
+
+91
+00:03:21,310 --> 00:03:23,200
+Facebook<font color="#E5E5E5"> and Mark Zuckerberg</font><font color="#CCCCCC"> in this</font>
+
+92
+00:03:23,200 --> 00:03:25,570
+<font color="#E5E5E5">exclusive interview on MSNBC all this is</font>
+
+93
+00:03:25,570 --> 00:03:27,370
+about<font color="#E5E5E5"> privacy let's take a listen we</font>
+
+94
+00:03:27,370 --> 00:03:30,519
+<font color="#CCCCCC">could make a ton of money if we</font>
+
+95
+00:03:30,519 --> 00:03:33,160
+monetized our customer if our customer
+
+96
+00:03:33,160 --> 00:03:36,790
+<font color="#E5E5E5">was our product we could make a ton of</font>
+
+97
+00:03:36,790 --> 00:03:40,359
+money<font color="#CCCCCC"> we've elected</font><font color="#E5E5E5"> not to do that what</font>
+
+98
+00:03:40,359 --> 00:03:43,510
+would<font color="#E5E5E5"> you do what</font><font color="#CCCCCC"> would I do I wouldn't</font>
+
+99
+00:03:43,510 --> 00:03:47,079
+<font color="#CCCCCC">be in the situation well I mean that's</font>
+
+100
+00:03:47,079 --> 00:03:49,660
+how Zuckerberg makes his money<font color="#E5E5E5"> right so</font>
+
+101
+00:03:49,660 --> 00:03:53,500
+I mean<font color="#E5E5E5"> this see this says to me Tim Cook</font>
+
+102
+00:03:53,500 --> 00:03:56,280
+is saying we need regulation
+
+103
+00:03:56,280 --> 00:03:59,350
+<font color="#E5E5E5">yeah there's it's kind of a wild and</font>
+
+104
+00:03:59,350 --> 00:04:01,209
+<font color="#E5E5E5">woolly and unregulated world for these</font>
+
+105
+00:04:01,209 --> 00:04:02,980
+<font color="#E5E5E5">platforms they've been collecting vast</font>
+
+106
+00:04:02,980 --> 00:04:06,010
+treasure troves of our data<font color="#CCCCCC"> largely</font>
+
+107
+00:04:06,010 --> 00:04:08,230
+unbeknownst to<font color="#CCCCCC"> this sort of sleeping</font>
+
+108
+00:04:08,230 --> 00:04:11,350
+great masses<font color="#E5E5E5"> and it seems like some kind</font>
+
+109
+00:04:11,350 --> 00:04:13,720
+<font color="#CCCCCC">of regulation is coming they've they've</font>
+
+110
+00:04:13,720 --> 00:04:15,310
+had a chance<font color="#E5E5E5"> to fix this</font>
+
+111
+00:04:15,310 --> 00:04:16,988
+<font color="#CCCCCC">Facebook knew about the Cambridge</font>
+
+112
+00:04:16,988 --> 00:04:19,040
+analytical violations for<font color="#E5E5E5"> a year</font>
+
+113
+00:04:19,040 --> 00:04:20,420
+and they didn't do<font color="#E5E5E5"> anything until their</font>
+
+114
+00:04:20,420 --> 00:04:22,040
+hand was caught<font color="#CCCCCC"> and they won't say</font>
+
+115
+00:04:22,040 --> 00:04:23,630
+whether<font color="#CCCCCC"> or not</font><font color="#E5E5E5"> Decker burgers gonna go</font>
+
+116
+00:04:23,630 --> 00:04:26,450
+before<font color="#CCCCCC"> Congress or when so we're</font><font color="#E5E5E5"> waiting</font>
+
+117
+00:04:26,450 --> 00:04:28,400
+to hear<font color="#CCCCCC"> that and then you have Amazon</font>
+
+118
+00:04:28,400 --> 00:04:31,400
+and the president and these<font color="#E5E5E5"> reports that</font>
+
+119
+00:04:31,400 --> 00:04:33,080
+he really wants something<font color="#E5E5E5"> done about</font>
+
+120
+00:04:33,080 --> 00:04:34,790
+<font color="#E5E5E5">Amazon that he has friends who are</font>
+
+121
+00:04:34,790 --> 00:04:37,070
+whispering<font color="#E5E5E5"> in his ear and saying this is</font>
+
+122
+00:04:37,070 --> 00:04:38,810
+killing shopping malls this is killing a
+
+123
+00:04:38,810 --> 00:04:40,100
+lot<font color="#E5E5E5"> of businesses we're seeing</font>
+
+124
+00:04:40,100 --> 00:04:42,530
+businesses<font color="#E5E5E5"> like Toys R Us going out of</font>
+
+125
+00:04:42,530 --> 00:04:44,690
+business<font color="#E5E5E5"> and he even tweeted</font><font color="#CCCCCC"> about it</font>
+
+126
+00:04:44,690 --> 00:04:46,430
+today<font color="#E5E5E5"> I have stated my concerns with</font>
+
+127
+00:04:46,430 --> 00:04:48,650
+Amazon long before the election<font color="#E5E5E5"> unlike</font>
+
+128
+00:04:48,650 --> 00:04:50,450
+others they pay little or<font color="#CCCCCC"> no taxes to</font>
+
+129
+00:04:50,450 --> 00:04:52,100
+state and<font color="#E5E5E5"> local governments use our</font>
+
+130
+00:04:52,100 --> 00:04:53,810
+postal system as their delivery boy
+
+131
+00:04:53,810 --> 00:04:56,090
+causing<font color="#CCCCCC"> tremendous loss to the US and</font>
+
+132
+00:04:56,090 --> 00:04:58,190
+are putting<font color="#CCCCCC"> many thousands of retailers</font>
+
+133
+00:04:58,190 --> 00:05:00,920
+out of business<font color="#CCCCCC"> is this true</font><font color="#E5E5E5"> there are</font>
+
+134
+00:05:00,920 --> 00:05:02,420
+<font color="#CCCCCC">many things</font><font color="#E5E5E5"> wrong with that when you</font>
+
+135
+00:05:02,420 --> 00:05:04,010
+look<font color="#E5E5E5"> at the taxes in particular</font><font color="#CCCCCC"> Amazon</font>
+
+136
+00:05:04,010 --> 00:05:05,840
+has actually<font color="#E5E5E5"> been fairly</font><font color="#CCCCCC"> progressive at</font>
+
+137
+00:05:05,840 --> 00:05:07,850
+paying taxes<font color="#E5E5E5"> as</font><font color="#CCCCCC"> States</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> men they do</font>
+
+138
+00:05:07,850 --> 00:05:11,120
+this goes back to<font color="#E5E5E5"> 1967</font><font color="#CCCCCC"> a law</font><font color="#E5E5E5"> that if you</font>
+
+139
+00:05:11,120 --> 00:05:12,680
+are a<font color="#E5E5E5"> catalog company you don't have to</font>
+
+140
+00:05:12,680 --> 00:05:13,640
+pay sales tax if<font color="#E5E5E5"> you don't have a</font>
+
+141
+00:05:13,640 --> 00:05:14,930
+<font color="#CCCCCC">physical presence</font><font color="#E5E5E5"> in the state you're</font>
+
+142
+00:05:14,930 --> 00:05:16,370
+doing<font color="#E5E5E5"> business in the Supreme Court has</font>
+
+143
+00:05:16,370 --> 00:05:17,330
+taken<font color="#CCCCCC"> this up time and</font><font color="#E5E5E5"> time</font><font color="#CCCCCC"> again</font>
+
+144
+00:05:17,330 --> 00:05:20,930
+<font color="#E5E5E5">they're going</font><font color="#CCCCCC"> to next</font><font color="#E5E5E5"> month as well but</font>
+
+145
+00:05:20,930 --> 00:05:22,040
+to the<font color="#E5E5E5"> point out regulation I</font><font color="#CCCCCC"> think</font>
+
+146
+00:05:22,040 --> 00:05:23,180
+there's been<font color="#E5E5E5"> this gulf between</font>
+
+147
+00:05:23,180 --> 00:05:25,850
+Washington DC and Silicon Valley Silicon
+
+148
+00:05:25,850 --> 00:05:27,110
+Valley<font color="#E5E5E5"> because of</font><font color="#CCCCCC"> that Geographic</font>
+
+149
+00:05:27,110 --> 00:05:28,190
+removed<font color="#CCCCCC"> because of all that these</font>
+
+150
+00:05:28,190 --> 00:05:29,480
+companies were doing<font color="#E5E5E5"> were able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> enjoy</font>
+
+151
+00:05:29,480 --> 00:05:31,160
+life<font color="#CCCCCC"> without much influence from</font>
+
+152
+00:05:31,160 --> 00:05:32,720
+government<font color="#E5E5E5"> we're seeing that starting to</font>
+
+153
+00:05:32,720 --> 00:05:34,070
+<font color="#E5E5E5">change I think</font><font color="#CCCCCC"> in the context of</font>
+
+154
+00:05:34,070 --> 00:05:35,840
+Cambridge analytical as well you had
+
+155
+00:05:35,840 --> 00:05:37,040
+Chris<font color="#CCCCCC"> Wiley that whistleblower</font>
+
+156
+00:05:37,040 --> 00:05:39,080
+<font color="#E5E5E5">testifying before UK Parliament this</font>
+
+157
+00:05:39,080 --> 00:05:41,030
+<font color="#E5E5E5">week</font><font color="#CCCCCC"> it went</font><font color="#E5E5E5"> on for hours there was a</font>
+
+158
+00:05:41,030 --> 00:05:42,980
+real sense there that<font color="#E5E5E5"> lawmakers</font><font color="#CCCCCC"> they</font>
+
+159
+00:05:42,980 --> 00:05:44,900
+were trying<font color="#CCCCCC"> to reckon with</font><font color="#E5E5E5"> all that</font>
+
+160
+00:05:44,900 --> 00:05:45,890
+<font color="#E5E5E5">these companies are doing now I think</font>
+
+161
+00:05:45,890 --> 00:05:46,910
+<font color="#E5E5E5">the same thing</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> starting to happen</font>
+
+162
+00:05:46,910 --> 00:05:48,320
+<font color="#E5E5E5">more</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> more in DC yeah one of the</font>
+
+163
+00:05:48,320 --> 00:05:50,450
+other stunning things that he said<font color="#E5E5E5"> in</font>
+
+164
+00:05:50,450 --> 00:05:53,300
+that<font color="#E5E5E5"> testimony in the UK is we're under</font>
+
+165
+00:05:53,300 --> 00:05:55,790
+estimating actually the number of<font color="#E5E5E5"> people</font>
+
+166
+00:05:55,790 --> 00:05:58,190
+whose data<font color="#CCCCCC"> was used</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> this way</font>
+
+167
+00:05:58,190 --> 00:06:00,020
+thank you guys appreciate<font color="#E5E5E5"> it Ben and</font>
+
+168
+00:06:00,020 --> 00:06:01,820
+David appreciate it hey there I'm Chris
+
+169
+00:06:01,820 --> 00:06:03,740
+<font color="#E5E5E5">Hayes from MSNBC thanks for watching</font>
+
+170
+00:06:03,740 --> 00:06:05,780
+<font color="#CCCCCC">MSNBC on YouTube if you want to</font><font color="#E5E5E5"> keep up</font>
+
+171
+00:06:05,780 --> 00:06:06,980
+<font color="#CCCCCC">to date with the videos we're putting</font>
+
+172
+00:06:06,980 --> 00:06:08,720
+out you can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> Subscribe</font><font color="#E5E5E5"> just below</font>
+
+173
+00:06:08,720 --> 00:06:10,550
+me<font color="#CCCCCC"> or click over</font><font color="#E5E5E5"> on this list to see</font>
+
+174
+00:06:10,550 --> 00:00:00,000
+lots of<font color="#E5E5E5"> other great videos</font>
+

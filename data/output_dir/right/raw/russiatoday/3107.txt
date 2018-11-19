@@ -1,0 +1,420 @@
+1
+00:00:00,030 --> 00:00:02,580
+<font color="#E5E5E5">at artificial intelligence continues to</font>
+
+2
+00:00:02,580 --> 00:00:04,770
+integrate<font color="#E5E5E5"> into our</font><font color="#CCCCCC"> everyday lives a</font>
+
+3
+00:00:04,770 --> 00:00:06,779
+growing<font color="#E5E5E5"> chorus of</font><font color="#CCCCCC"> criticism is</font>
+
+4
+00:00:06,779 --> 00:00:08,730
+highlighting<font color="#CCCCCC"> the dangers of handing</font>
+
+5
+00:00:08,730 --> 00:00:11,639
+<font color="#CCCCCC">control to machines for example there's</font>
+
+6
+00:00:11,639 --> 00:00:13,349
+now a supercomputer<font color="#E5E5E5"> that's able</font><font color="#CCCCCC"> to</font>
+
+7
+00:00:13,349 --> 00:00:15,570
+create an artificially<font color="#CCCCCC"> intelligent child</font>
+
+8
+00:00:15,570 --> 00:00:18,240
+<font color="#CCCCCC">you can recognize</font><font color="#E5E5E5"> objects such as cars</font>
+
+9
+00:00:18,240 --> 00:00:20,400
+<font color="#E5E5E5">and people in</font><font color="#CCCCCC"> real-time</font><font color="#E5E5E5"> were</font>
+
+10
+00:00:20,400 --> 00:00:23,010
+<font color="#E5E5E5">outperforming any human made algorithms</font>
+
+11
+00:00:23,010 --> 00:00:25,500
+another system made by<font color="#CCCCCC"> Google has</font>
+
+12
+00:00:25,500 --> 00:00:27,420
+<font color="#CCCCCC">created a machine that took just four</font>
+
+13
+00:00:27,420 --> 00:00:29,310
+<font color="#CCCCCC">hours</font><font color="#E5E5E5"> to learn the rules of chess and</font>
+
+14
+00:00:29,310 --> 00:00:32,119
+then beat her world leading<font color="#E5E5E5"> program</font>
+
+15
+00:00:32,119 --> 00:00:34,500
+meanwhile tech giant<font color="#E5E5E5"> Facebook says its</font>
+
+16
+00:00:34,500 --> 00:00:37,079
+program can detect suicidal<font color="#E5E5E5"> behavior by</font>
+
+17
+00:00:37,079 --> 00:00:40,140
+analyzing user information<font color="#CCCCCC"> and</font><font color="#E5E5E5"> Facebook</font>
+
+18
+00:00:40,140 --> 00:00:42,570
+CEO Mark Zuckerberg believes this is
+
+19
+00:00:42,570 --> 00:00:46,140
+just the beginning in the future
+
+20
+00:00:46,140 --> 00:00:48,480
+<font color="#E5E5E5">AI will be</font><font color="#CCCCCC"> able to understand more of</font>
+
+21
+00:00:48,480 --> 00:00:51,030
+<font color="#CCCCCC">the subtle nuances of language and will</font>
+
+22
+00:00:51,030 --> 00:00:52,920
+be able<font color="#E5E5E5"> to</font><font color="#CCCCCC"> identify different</font><font color="#E5E5E5"> issues</font>
+
+23
+00:00:52,920 --> 00:00:56,100
+beyond suicide as well<font color="#E5E5E5"> my colleague</font>
+
+24
+00:00:56,100 --> 00:00:57,930
+<font color="#E5E5E5">Colin Bray discussing artificial</font>
+
+25
+00:00:57,930 --> 00:00:59,899
+intelligence with a panel<font color="#E5E5E5"> of experts</font>
+
+26
+00:00:59,899 --> 00:01:02,879
+<font color="#E5E5E5">well I can understand the fear part</font><font color="#CCCCCC"> of</font>
+
+27
+00:01:02,879 --> 00:01:03,870
+what we<font color="#E5E5E5"> need</font><font color="#CCCCCC"> to understand with</font>
+
+28
+00:01:03,870 --> 00:01:05,459
+artificial<font color="#E5E5E5"> intelligence</font><font color="#CCCCCC"> is that we're</font>
+
+29
+00:01:05,459 --> 00:01:07,680
+<font color="#E5E5E5">just at the beginning this</font><font color="#CCCCCC"> is just the</font>
+
+30
+00:01:07,680 --> 00:01:08,790
+tip of<font color="#E5E5E5"> the iceberg</font>
+
+31
+00:01:08,790 --> 00:01:09,840
+what's gonna<font color="#E5E5E5"> happen in the near future</font>
+
+32
+00:01:09,840 --> 00:01:11,700
+is<font color="#E5E5E5"> that you're gonna have predictive</font>
+
+33
+00:01:11,700 --> 00:01:14,580
+analytics which will allow AI to predict
+
+34
+00:01:14,580 --> 00:01:16,229
+<font color="#E5E5E5">your desires before you even know what</font>
+
+35
+00:01:16,229 --> 00:01:18,780
+you want<font color="#E5E5E5"> just the thought of machines</font>
+
+36
+00:01:18,780 --> 00:01:20,880
+telling me what I want it already<font color="#E5E5E5"> makes</font>
+
+37
+00:01:20,880 --> 00:01:22,590
+me uncomfortable and but we see<font color="#E5E5E5"> that</font>
+
+38
+00:01:22,590 --> 00:01:24,240
+happening<font color="#E5E5E5"> you know in</font><font color="#CCCCCC"> our lives</font>
+
+39
+00:01:24,240 --> 00:01:26,280
+instantly getting recommendations<font color="#E5E5E5"> from</font>
+
+40
+00:01:26,280 --> 00:01:28,290
+these<font color="#E5E5E5"> systems and they're constantly</font>
+
+41
+00:01:28,290 --> 00:01:30,479
+intervening in ways that we<font color="#E5E5E5"> don't expect</font>
+
+42
+00:01:30,479 --> 00:01:32,790
+<font color="#CCCCCC">that we didn't</font><font color="#E5E5E5"> ask for the future is</font>
+
+43
+00:01:32,790 --> 00:01:35,130
+technological<font color="#E5E5E5"> so we need to start</font>
+
+44
+00:01:35,130 --> 00:01:37,590
+understanding<font color="#E5E5E5"> it everyone it shouldn't</font>
+
+45
+00:01:37,590 --> 00:01:39,299
+<font color="#E5E5E5">be left to a couple</font><font color="#CCCCCC"> of people in</font>
+
+46
+00:01:39,299 --> 00:01:42,570
+industry<font color="#E5E5E5"> or in government to dictate how</font>
+
+47
+00:01:42,570 --> 00:01:44,460
+this goes we all<font color="#CCCCCC"> have to</font><font color="#E5E5E5"> be a part of</font>
+
+48
+00:01:44,460 --> 00:01:47,189
+this process<font color="#E5E5E5"> of moving</font><font color="#CCCCCC"> forward</font><font color="#E5E5E5"> in the</font>
+
+49
+00:01:47,189 --> 00:01:49,470
+<font color="#E5E5E5">future with AI I think that we need</font><font color="#CCCCCC"> to</font>
+
+50
+00:01:49,470 --> 00:01:51,960
+be<font color="#E5E5E5"> careful</font><font color="#CCCCCC"> about the idea that the</font>
+
+51
+00:01:51,960 --> 00:01:54,060
+future<font color="#E5E5E5"> is</font><font color="#CCCCCC"> technology and we have to</font>
+
+52
+00:01:54,060 --> 00:01:55,500
+adapt to<font color="#E5E5E5"> it people are talking about</font>
+
+53
+00:01:55,500 --> 00:01:59,000
+implanting technology in the body
+
+54
+00:01:59,000 --> 00:02:00,950
+<font color="#E5E5E5">in question you know and saying the</font>
+
+55
+00:02:00,950 --> 00:02:02,870
+technology itself<font color="#E5E5E5"> is human or</font><font color="#CCCCCC"> is a</font>
+
+56
+00:02:02,870 --> 00:02:05,630
+successor<font color="#CCCCCC"> to humanity</font><font color="#E5E5E5"> even this is this</font>
+
+57
+00:02:05,630 --> 00:02:06,620
+is very<font color="#CCCCCC"> dangerous</font>
+
+58
+00:02:06,620 --> 00:02:08,090
+<font color="#CCCCCC">the bishop</font><font color="#E5E5E5"> this is where the line has</font><font color="#CCCCCC"> to</font>
+
+59
+00:02:08,090 --> 00:02:09,530
+get drawn doesn't it really<font color="#E5E5E5"> because on</font>
+
+60
+00:02:09,530 --> 00:02:11,600
+the one<font color="#CCCCCC"> hand we all demand our devices</font>
+
+61
+00:02:11,600 --> 00:02:13,040
+know what we're doing where we're going
+
+62
+00:02:13,040 --> 00:02:14,990
+<font color="#E5E5E5">make these</font><font color="#CCCCCC"> decisions for</font><font color="#E5E5E5"> us we carry</font>
+
+63
+00:02:14,990 --> 00:02:16,520
+them around in our<font color="#E5E5E5"> pockets all the time</font>
+
+64
+00:02:16,520 --> 00:02:18,230
+<font color="#CCCCCC">and then we're the first</font><font color="#E5E5E5"> ones</font><font color="#CCCCCC"> to moan</font>
+
+65
+00:02:18,230 --> 00:02:20,630
+when tech<font color="#E5E5E5"> companies</font><font color="#CCCCCC"> have information on</font>
+
+66
+00:02:20,630 --> 00:02:22,010
+<font color="#E5E5E5">us and seem to be</font><font color="#CCCCCC"> able</font><font color="#E5E5E5"> to predict our</font>
+
+67
+00:02:22,010 --> 00:02:24,800
+<font color="#E5E5E5">behavior we then find that creepy yeah</font>
+
+68
+00:02:24,800 --> 00:02:27,710
+that happens and it<font color="#E5E5E5"> potentially</font><font color="#CCCCCC"> has</font>
+
+69
+00:02:27,710 --> 00:02:30,050
+political<font color="#E5E5E5"> impacts as well that the there</font>
+
+70
+00:02:30,050 --> 00:02:31,760
+<font color="#E5E5E5">are people suggesting that for example</font>
+
+71
+00:02:31,760 --> 00:02:34,820
+the the<font color="#CCCCCC"> American last American election</font>
+
+72
+00:02:34,820 --> 00:02:36,920
+and the British brexit vote<font color="#E5E5E5"> was in part</font>
+
+73
+00:02:36,920 --> 00:02:39,670
+informed by complex analytics
+
+74
+00:02:39,670 --> 00:02:43,520
+manipulating the images<font color="#CCCCCC"> that people</font><font color="#E5E5E5"> saw</font>
+
+75
+00:02:43,520 --> 00:02:45,260
+and related to for the<font color="#E5E5E5"> very first time</font>
+
+76
+00:02:45,260 --> 00:02:47,060
+<font color="#CCCCCC">on this planet we're all going to</font><font color="#E5E5E5"> have</font>
+
+77
+00:02:47,060 --> 00:02:49,160
+an enormous<font color="#E5E5E5"> amount of power not just a</font>
+
+78
+00:02:49,160 --> 00:02:50,930
+few<font color="#E5E5E5"> people every single</font><font color="#CCCCCC"> one of us is</font>
+
+79
+00:02:50,930 --> 00:02:52,100
+going to<font color="#E5E5E5"> have an enormous amount of</font>
+
+80
+00:02:52,100 --> 00:02:54,740
+power through the<font color="#E5E5E5"> power of AI and we</font>
+
+81
+00:02:54,740 --> 00:02:56,450
+have to decide as individuals and
+
+82
+00:02:56,450 --> 00:02:58,850
+societies<font color="#E5E5E5"> how we want to process that</font>
+
+83
+00:02:58,850 --> 00:03:01,780
+ability that<font color="#E5E5E5"> that amount of power</font><font color="#CCCCCC"> I'm</font>
+
+84
+00:03:01,780 --> 00:03:09,940
+not too comfortable<font color="#E5E5E5"> with</font><font color="#CCCCCC"> the idea</font><font color="#E5E5E5"> that</font>
+
+85
+00:03:10,150 --> 00:03:13,070
+we<font color="#CCCCCC"> are</font><font color="#E5E5E5"> going to</font><font color="#CCCCCC"> be powerful I don't know</font>
+
+86
+00:03:13,070 --> 00:03:15,320
+the technology is out to enslave<font color="#CCCCCC"> us but</font>
+
+87
+00:03:15,320 --> 00:03:17,840
+I do think<font color="#CCCCCC"> that technology is</font><font color="#E5E5E5"> upsetting</font>
+
+88
+00:03:17,840 --> 00:03:20,959
+<font color="#E5E5E5">the social balances and the economic</font>
+
+89
+00:03:20,959 --> 00:03:23,330
+balances and ecological balances<font color="#E5E5E5"> that</font>
+
+90
+00:03:23,330 --> 00:03:26,000
+<font color="#CCCCCC">have evolved over</font><font color="#E5E5E5"> millions and hundreds</font>
+
+91
+00:03:26,000 --> 00:03:28,730
+<font color="#E5E5E5">and dozens of years and this is</font><font color="#CCCCCC"> the</font>
+
+92
+00:03:28,730 --> 00:03:29,900
+great danger<font color="#CCCCCC"> you can blame the</font>
+
+93
+00:03:29,900 --> 00:03:31,160
+<font color="#E5E5E5">technology but it's not the technology</font>
+
+94
+00:03:31,160 --> 00:03:33,620
+<font color="#E5E5E5">it's us and so</font><font color="#CCCCCC"> I disagree with</font><font color="#E5E5E5"> the fact</font>
+
+95
+00:03:33,620 --> 00:03:35,630
+that we<font color="#CCCCCC"> are</font><font color="#E5E5E5"> as we are separate from the</font>
+
+96
+00:03:35,630 --> 00:03:37,970
+technology it<font color="#CCCCCC"> is a continuum separate</font>
+
+97
+00:03:37,970 --> 00:03:40,070
+technology and<font color="#CCCCCC"> humanity is I think the</font>
+
+98
+00:03:40,070 --> 00:03:41,989
+most dangerous<font color="#CCCCCC"> thing to</font><font color="#E5E5E5"> do because when</font>
+
+99
+00:03:41,989 --> 00:03:44,570
+self-aware machines finally arrive is
+
+100
+00:03:44,570 --> 00:03:45,950
+that going<font color="#E5E5E5"> to be the</font><font color="#CCCCCC"> new enemy if we</font>
+
+101
+00:03:45,950 --> 00:03:47,360
+continue this narrative so the new
+
+102
+00:03:47,360 --> 00:03:50,330
+narrative<font color="#CCCCCC"> has to be technology is a part</font>
+
+103
+00:03:50,330 --> 00:03:52,220
+of us it's a reflection of who<font color="#CCCCCC"> we are</font>
+
+104
+00:03:52,220 --> 00:03:53,959
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> the narrative we should be</font>
+
+105
+00:03:53,959 --> 00:00:00,000
+<font color="#E5E5E5">thinking about</font>
+

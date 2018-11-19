@@ -1,0 +1,83 @@
+and one of the things if I remember this
+era correctly you gave it away for free
+online and this became sort of a meme
+for the internet and it's still now this
+is the thing this is the way it's done
+software before that had basically been
+sold so forth Netscape gave it away for
+free later so was that because you were
+coming out of a university or did that
+just seem to be the way to distribute it
+so there were two reasons one is right
+the whole project was funded by the
+National Science Foundation and so part
+of what you did when you ran us have fun
+to do is you basically released it as
+what today would be called open source
+or at least in sort of free software was
+no model to take that charge for it the
+other thing though was the Internet
+itself you know sort of came out of this
+sort of free or open-source kind of
+culture and remember the internet was
+created even going back to the 60s but
+then certainly through the 70s 80s and
+90s the internet was an alternative
+network to what all of the big companies
+were doing so Microsoft for example the
+time we started the mosaic project
+Microsoft had still had this you know
+land manager and all these proprietary
+networking standards Lotus had their own
+networking approach novell was selling a
+lot of net where Apple had appletalk
+deck had met and so networking in that
+era in most companies was closed to
+proprietary and so there was this huge
+problem of ever actually hooking
+companies up to ever talk to each other
+or ever have consumers hooked up because
+everything was proprietary in fact on
+the consumer side a while Protestant
+compuserve were the main services and
+they were proprietary so the internet
+was always contrarian against the
+internet was a reaction to all that all
+those proprietary efforts and so the
+internet was always defined by open
+protocols that anybody can implement and
+open software that anybody could
+download and use and of course the huge
+advantage of that is if you're going for
+something that you want to be universal
+then free is the way to do it right and
+this is where I think people get really
+you know I think confused it's not free
+just because you don't want to make
+money or it's not free just because you
+don't know how to charge for it or
+whatever you use free is a technique
+when you want to get universal coverage
+and there are things that are just a lot
+more valuable and everybody uses them we
+never SAT there and said boy there's a
+great company owns a company we could
+build here and if only we could charge
+for it and let's go start like that
+never came up but we did think in terms
+of you know let's make it free let's
+make it super easy to use like a huge
+focus was ease of you
+let's make it really easy to download
+let's provide a lot of help I mean we
+spend a lot of time doing technical
+support for it in the first you know 12
+months and the theory very much was
+basically you're building a network or
+basically building a network of people
+using web browsers and a network there
+for people who are going to run web
+servers the other side of it too to get
+the content yin and so we knew that this
+would be the free was definitely the way
+to do that

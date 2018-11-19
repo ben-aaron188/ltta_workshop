@@ -1,0 +1,220 @@
+1
+00:00:00,210 --> 00:00:02,250
+<font color="#E5E5E5">at</font><font color="#CCCCCC"> Google is facing a backlash at the</font>
+
+2
+00:00:02,250 --> 00:00:04,170
+moment from<font color="#E5E5E5"> its employees over its</font>
+
+3
+00:00:04,170 --> 00:00:06,270
+partnership with<font color="#CCCCCC"> the US Department of</font>
+
+4
+00:00:06,270 --> 00:00:08,309
+Defense<font color="#CCCCCC"> the company is cooperating with</font>
+
+5
+00:00:08,309 --> 00:00:09,960
+<font color="#E5E5E5">the Pentagon under the military drone</font>
+
+6
+00:00:09,960 --> 00:00:12,269
+project maven Google is<font color="#CCCCCC"> developing</font>
+
+7
+00:00:12,269 --> 00:00:14,610
+artificial<font color="#E5E5E5"> intelligence to analyze drone</font>
+
+8
+00:00:14,610 --> 00:00:17,190
+video data<font color="#E5E5E5"> the tech giant has defended</font>
+
+9
+00:00:17,190 --> 00:00:19,640
+<font color="#E5E5E5">though its involvement in the project</font>
+
+10
+00:00:19,640 --> 00:00:22,590
+<font color="#E5E5E5">the technology Flags images for human</font>
+
+11
+00:00:22,590 --> 00:00:24,570
+review and<font color="#CCCCCC"> is for non offensive uses</font>
+
+12
+00:00:24,570 --> 00:00:26,340
+only<font color="#CCCCCC"> military</font><font color="#E5E5E5"> use of machine learning</font>
+
+13
+00:00:26,340 --> 00:00:29,189
+naturally raises valid concerns<font color="#E5E5E5"> we are</font>
+
+14
+00:00:29,189 --> 00:00:31,019
+<font color="#E5E5E5">actively discussing</font><font color="#CCCCCC"> this important topic</font>
+
+15
+00:00:31,019 --> 00:00:33,420
+internally and with others as we
+
+16
+00:00:33,420 --> 00:00:34,920
+continue<font color="#CCCCCC"> to develop</font><font color="#E5E5E5"> policies and</font>
+
+17
+00:00:34,920 --> 00:00:37,110
+<font color="#E5E5E5">safeguards around the development and</font>
+
+18
+00:00:37,110 --> 00:00:38,100
+<font color="#E5E5E5">the use of our machine learning</font>
+
+19
+00:00:38,100 --> 00:00:40,920
+technologies well the<font color="#CCCCCC"> US military does</font>
+
+20
+00:00:40,920 --> 00:00:42,899
+make extensive use of drones according
+
+21
+00:00:42,899 --> 00:00:44,219
+to the Bureau of<font color="#E5E5E5"> Investigative</font>
+
+22
+00:00:44,219 --> 00:00:47,820
+Journalism since 2004<font color="#E5E5E5"> almost</font><font color="#CCCCCC"> 5,000 drone</font>
+
+23
+00:00:47,820 --> 00:00:49,559
+strikes<font color="#E5E5E5"> have been confirmed and it's</font>
+
+24
+00:00:49,559 --> 00:00:51,059
+thought these have killed<font color="#E5E5E5"> around a</font>
+
+25
+00:00:51,059 --> 00:00:53,280
+thousand civilians<font color="#CCCCCC"> at the end of last</font>
+
+26
+00:00:53,280 --> 00:00:55,350
+year Google's then executive<font color="#E5E5E5"> chairman</font>
+
+27
+00:00:55,350 --> 00:00:57,120
+expressed fears the military was
+
+28
+00:00:57,120 --> 00:00:59,399
+actually exploiting the technology to
+
+29
+00:00:59,399 --> 00:01:02,550
+kill there's a general concern in the
+
+30
+00:01:02,550 --> 00:01:05,760
+tech community<font color="#CCCCCC"> of somehow the military</font>
+
+31
+00:01:05,760 --> 00:01:08,189
+industrial conflicts<font color="#E5E5E5"> using their stuff</font>
+
+32
+00:01:08,189 --> 00:01:10,799
+to kill people<font color="#E5E5E5"> incorrectly</font><font color="#CCCCCC"> if you will I</font>
+
+33
+00:01:10,799 --> 00:01:13,619
+<font color="#CCCCCC">don't have seen any other</font><font color="#E5E5E5"> way well at</font>
+
+34
+00:01:13,619 --> 00:01:15,659
+<font color="#E5E5E5">one time Google's motto was don't be</font>
+
+35
+00:01:15,659 --> 00:01:17,970
+<font color="#CCCCCC">evil a former CIA analyst and</font>
+
+36
+00:01:17,970 --> 00:01:20,009
+whistleblower<font color="#E5E5E5"> - who told us</font><font color="#CCCCCC"> that told us</font>
+
+37
+00:01:20,009 --> 00:01:22,290
+why the tech giant is finding it hard to
+
+38
+00:01:22,290 --> 00:01:25,140
+<font color="#E5E5E5">stick to its principles you know this is</font>
+
+39
+00:01:25,140 --> 00:01:26,850
+the dirty<font color="#CCCCCC"> little secret of</font><font color="#E5E5E5"> Corporate</font>
+
+40
+00:01:26,850 --> 00:01:29,909
+<font color="#E5E5E5">America</font><font color="#CCCCCC"> and that is that practically</font>
+
+41
+00:01:29,909 --> 00:01:32,250
+every<font color="#CCCCCC"> major corporation no matter what</font>
+
+42
+00:01:32,250 --> 00:01:34,920
+sector<font color="#CCCCCC"> it's in is cooperating in some</font>
+
+43
+00:01:34,920 --> 00:01:37,229
+way with either the Defense Department
+
+44
+00:01:37,229 --> 00:01:39,780
+<font color="#E5E5E5">or</font><font color="#CCCCCC"> the intelligence</font><font color="#E5E5E5"> community let's say</font>
+
+45
+00:01:39,780 --> 00:01:41,909
+you're the<font color="#CCCCCC"> CEO</font><font color="#E5E5E5"> of a</font><font color="#CCCCCC"> company and</font><font color="#E5E5E5"> the</font>
+
+46
+00:01:41,909 --> 00:01:43,470
+<font color="#CCCCCC">Department of Defense comes to you and</font>
+
+47
+00:01:43,470 --> 00:01:45,780
+says<font color="#CCCCCC"> we want you to help us</font><font color="#E5E5E5"> do X</font><font color="#CCCCCC"> Y</font><font color="#E5E5E5"> & Z</font>
+
+48
+00:01:45,780 --> 00:01:48,360
+and you say no I can't because<font color="#CCCCCC"> our</font>
+
+49
+00:01:48,360 --> 00:01:50,880
+slogan is<font color="#E5E5E5"> don't do evil they say your</font>
+
+50
+00:01:50,880 --> 00:01:52,979
+country needs you<font color="#CCCCCC"> and because you're a</font>
+
+51
+00:01:52,979 --> 00:01:54,780
+patriot<font color="#CCCCCC"> you</font><font color="#E5E5E5"> have to help your country</font>
+
+52
+00:01:54,780 --> 00:01:56,670
+<font color="#E5E5E5">and believe it or</font><font color="#CCCCCC"> not that's</font><font color="#E5E5E5"> a very</font>
+
+53
+00:01:56,670 --> 00:02:00,360
+convincing<font color="#E5E5E5"> argument and 99 companies out</font>
+
+54
+00:02:00,360 --> 00:02:02,189
+<font color="#CCCCCC">of a hundred</font><font color="#E5E5E5"> will do what's asked for</font>
+
+55
+00:02:02,189 --> 00:00:00,000
+them
+

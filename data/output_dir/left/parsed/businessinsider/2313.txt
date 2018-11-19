@@ -1,0 +1,95 @@
+welcome back today we're talking to
+Dennis Crowley co founder of foursquare
+tell us what's foursquare again because
+i'm not you know they were building
+things for mobile phones that are
+supposed to makes it easier to use and
+it combines friend finders with social
+city guides with a little bit of layer
+of game mechanics on top to reward
+people for doing interesting things so
+you said something interesting the other
+day we wrote a story about how Facebook
+is coming out with their own little
+check-in feature and you said that by
+the end of 2010 you expect check-ins to
+be a commodity that's interesting what
+did you mean by that I think well I mean
+everyone's kind of getting into the
+check-in game and so even when we we did
+it back in the day with dodgeball we
+start a bunch of competitors and that
+was before the day where everyone was
+come sharing data and now that you know
+open api's of the norm I imagine that
+there'll be a lot of services that are
+offering check-in services or check in
+functionality and that they'll
+eventually go to some common place and a
+lot of different applications be able to
+push and pull from them so how does how
+does foursquare you know how do you make
+it so it's more than a commodity on
+foursquare what do you do to make it so
+people incentivize them to keep checking
+in yeah well we always thought the thing
+that was broken with dodge ball was
+there was no incentive to check in and
+you know the big thing that's different
+in foursquare is we try to curate that
+experience so something different
+happens every time like you might get
+notified about a special that's nearby
+Mike SR some point see my turn some
+badges and I think the sweet spot is
+kind of curating that experience so that
+it is fun to check in every time and you
+want to keep doing it over and over
+again there's this perception out there
+that four squares killer app for New
+York City then it's very popular on the
+coast even San Francisco how do you do
+you think that's a fair perception and
+and if it is how do you break into
+mainstream America what is what i call
+the normals yeah well i mean i think
+this stuff is always going to work in
+you know in areas of high density at
+high density of people or places or
+things to do and it just so happened
+that that you know those normally
+overlap with large cities that being
+said I mean there's pockets of density
+everywhere you go and college campuses
+you know II used to say that it doesn't
+something that works so great in Boston
+it works in certain pockets of Boston or
+doesn't work so great in New York it
+works in certain pockets of New York
+sure so the big challenge for us is you
+know how do you expend that or extend
+that use case to folks that are outside
+of those larger areas and so some of the
+stuff that we're doing with partnering
+with larger media companies or
+you know just trying to offer a greater
+breadth of functionality kind of
+addresses those issues you sold your
+last startup dodgeball to google and
+Google's going on a massive acquisition
+spree now they say they're going to buy
+a company a month it's google good at
+acquiring companies or integrating them
+you know you left after a couple years
+but I think it depends you know we were
+there we were there in a really
+interesting time when I think you know
+the New York office was was really just
+starting to ramp up and I don't think
+that was the right time for us to be
+there I think you know you have to
+evaluate it on a case-by-case basis and
+you know it depends on how large the
+company is and what and you know what
+the company is actually doing and how
+that fits into the larger plans

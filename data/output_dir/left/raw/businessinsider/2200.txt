@@ -1,0 +1,304 @@
+1
+00:00:03,710 --> 00:00:08,010
+I've been homeless since 2011<font color="#CCCCCC"> I worked</font>
+
+2
+00:00:08,010 --> 00:00:12,509
+<font color="#E5E5E5">at</font><font color="#CCCCCC"> metlife</font><font color="#E5E5E5"> Sun Life Assurance</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> a</font>
+
+3
+00:00:12,509 --> 00:00:15,750
+year or<font color="#CCCCCC"> three</font><font color="#E5E5E5"> before I got fired</font><font color="#CCCCCC"> I was</font>
+
+4
+00:00:15,750 --> 00:00:18,539
+<font color="#E5E5E5">coming home and</font><font color="#CCCCCC"> I seen these giant</font>
+
+5
+00:00:18,539 --> 00:00:20,430
+billboards<font color="#E5E5E5"> in my neighborhood that they</font>
+
+6
+00:00:20,430 --> 00:00:23,160
+were going<font color="#E5E5E5"> to build condominiums</font><font color="#CCCCCC"> so when</font>
+
+7
+00:00:23,160 --> 00:00:25,680
+these<font color="#E5E5E5"> condominiums got completed the</font>
+
+8
+00:00:25,680 --> 00:00:27,660
+rent<font color="#E5E5E5"> in my neighborhood</font><font color="#CCCCCC"> without</font>
+
+9
+00:00:27,660 --> 00:00:30,750
+automatically<font color="#E5E5E5"> kind of priced out the</font>
+
+10
+00:00:30,750 --> 00:00:35,910
+neighborhood it has to be it remember
+
+11
+00:00:35,910 --> 00:00:38,969
+port 8080<font color="#CCCCCC"> so</font><font color="#E5E5E5"> we're trying to add</font><font color="#CCCCCC"> it</font>
+
+12
+00:00:38,969 --> 00:00:41,850
+every day for<font color="#CCCCCC"> four months I would</font><font color="#E5E5E5"> see</font>
+
+13
+00:00:41,850 --> 00:00:44,460
+<font color="#E5E5E5">this guy on the way to work</font><font color="#CCCCCC"> yeah he had</font>
+
+14
+00:00:44,460 --> 00:00:46,440
+to<font color="#E5E5E5"> ask him a question of whether or not</font>
+
+15
+00:00:46,440 --> 00:00:48,660
+he wanted<font color="#E5E5E5"> to do things differently kind</font>
+
+16
+00:00:48,660 --> 00:00:52,170
+of came to my mind<font color="#E5E5E5"> the question is a you</font>
+
+17
+00:00:52,170 --> 00:00:53,100
+know do you want me to give you a
+
+18
+00:00:53,100 --> 00:00:59,270
+<font color="#E5E5E5">hundred dollars</font><font color="#CCCCCC"> or</font><font color="#E5E5E5"> I will do my best to</font>
+
+19
+00:00:59,270 --> 00:01:02,070
+teach him to code<font color="#E5E5E5"> or not on a super</font>
+
+20
+00:01:02,070 --> 00:01:04,979
+cheap<font color="#E5E5E5"> you know use laptop</font><font color="#CCCCCC"> I figured you</font>
+
+21
+00:01:04,979 --> 00:01:07,470
+<font color="#CCCCCC">know</font><font color="#E5E5E5"> if I take the hundred bucks I'm</font>
+
+22
+00:01:07,470 --> 00:01:10,920
+<font color="#E5E5E5">gonna spin net and we done with that in</font>
+
+23
+00:01:10,920 --> 00:01:14,220
+<font color="#E5E5E5">a couple</font><font color="#CCCCCC"> of days</font><font color="#E5E5E5"> a week if I learn the</font>
+
+24
+00:01:14,220 --> 00:01:19,140
+coding classes this could last a
+
+25
+00:01:19,140 --> 00:01:21,530
+lifetime
+
+26
+00:01:21,530 --> 00:01:25,439
+<font color="#E5E5E5">so</font><font color="#CCCCCC"> I overnighted this from Amazon</font><font color="#E5E5E5"> after</font>
+
+27
+00:01:25,439 --> 00:01:28,170
+<font color="#CCCCCC">he decided to code and it was there the</font>
+
+28
+00:01:28,170 --> 00:01:30,360
+<font color="#CCCCCC">next day with the</font><font color="#E5E5E5"> first of the three</font>
+
+29
+00:01:30,360 --> 00:01:32,790
+JavaScript<font color="#CCCCCC"> flow so every time</font><font color="#E5E5E5"> it's</font>
+
+30
+00:01:32,790 --> 00:01:35,430
+making a request<font color="#CCCCCC"> I expressed to Patrick</font>
+
+31
+00:01:35,430 --> 00:01:38,310
+my concern about climate<font color="#E5E5E5"> change and</font>
+
+32
+00:01:38,310 --> 00:01:41,880
+<font color="#E5E5E5">global</font><font color="#CCCCCC"> warming</font><font color="#E5E5E5"> and he suggested</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> if</font>
+
+33
+00:01:41,880 --> 00:01:45,810
+you build<font color="#E5E5E5"> an app in relation to a Google</font>
+
+34
+00:01:45,810 --> 00:01:49,619
+woman people<font color="#CCCCCC"> could buy that and this</font>
+
+35
+00:01:49,619 --> 00:01:52,290
+<font color="#E5E5E5">would somehow help</font><font color="#CCCCCC"> to printing what your</font>
+
+36
+00:01:52,290 --> 00:01:53,610
+<font color="#E5E5E5">writers variable</font>
+
+37
+00:01:53,610 --> 00:01:56,390
+<font color="#E5E5E5">is that we start with 15 minutes of</font>
+
+38
+00:01:56,390 --> 00:01:59,310
+update on what he's covered already<font color="#CCCCCC"> we</font>
+
+39
+00:01:59,310 --> 00:02:01,230
+head<font color="#E5E5E5"> to a website called nitrous IO</font>
+
+40
+00:02:01,230 --> 00:02:03,920
+which<font color="#E5E5E5"> is where he manages</font><font color="#CCCCCC"> his server and</font>
+
+41
+00:02:03,920 --> 00:02:06,540
+review the<font color="#E5E5E5"> code that he did yesterday</font>
+
+42
+00:02:06,540 --> 00:02:10,410
+<font color="#CCCCCC">the next</font><font color="#E5E5E5"> 15</font><font color="#CCCCCC"> minutes is in-depth fast</font>
+
+43
+00:02:10,410 --> 00:02:12,420
+repetition of all the things we've
+
+44
+00:02:12,420 --> 00:02:14,490
+covered so far<font color="#E5E5E5"> then we do kind of a</font>
+
+45
+00:02:14,490 --> 00:02:17,250
+<font color="#CCCCCC">30-minute session of whatever is today's</font>
+
+46
+00:02:17,250 --> 00:02:20,370
+topic<font color="#CCCCCC"> so remember we talked about scope</font>
+
+47
+00:02:20,370 --> 00:02:22,950
+the frustrating part about<font color="#E5E5E5"> the coding</font>
+
+48
+00:02:22,950 --> 00:02:25,320
+process is learning<font color="#E5E5E5"> the language of</font>
+
+49
+00:02:25,320 --> 00:02:27,930
+JavaScript<font color="#E5E5E5"> we have we have like</font><font color="#CCCCCC"> a file</font>
+
+50
+00:02:27,930 --> 00:02:33,180
+<font color="#E5E5E5">we write code 50 70 times and</font><font color="#CCCCCC"> a data 15</font>
+
+51
+00:02:33,180 --> 00:02:36,520
+would<font color="#E5E5E5"> be to write</font>
+
+52
+00:02:36,520 --> 00:02:38,590
+actually charges the computer<font color="#CCCCCC"> at a</font>
+
+53
+00:02:38,590 --> 00:02:41,740
+pretty expensive high-rise building but
+
+54
+00:02:41,740 --> 00:02:43,870
+the people<font color="#CCCCCC"> are very nice</font><font color="#E5E5E5"> in conserving</font>
+
+55
+00:02:43,870 --> 00:02:48,880
+<font color="#E5E5E5">and don't mind</font><font color="#CCCCCC"> ok nicer here's the</font>
+
+56
+00:02:48,880 --> 00:02:50,140
+problem now check this out
+
+57
+00:02:50,140 --> 00:02:52,000
+a bunch of people<font color="#CCCCCC"> are accessing your app</font>
+
+58
+00:02:52,000 --> 00:02:54,340
+<font color="#E5E5E5">look what's happening there is</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> lot of</font>
+
+59
+00:02:54,340 --> 00:02:56,860
+<font color="#E5E5E5">need that became apparent through this</font>
+
+60
+00:02:56,860 --> 00:03:00,310
+and I would love to<font color="#CCCCCC"> get the tools</font>
+
+61
+00:03:00,310 --> 00:03:02,830
+necessary to help<font color="#CCCCCC"> some</font><font color="#E5E5E5"> of these</font>
+
+62
+00:03:02,830 --> 00:03:05,680
+individuals<font color="#E5E5E5"> and get them some of the</font>
+
+63
+00:03:05,680 --> 00:03:06,550
+information<font color="#E5E5E5"> they're looking for</font>
+
+64
+00:03:06,550 --> 00:03:08,890
+<font color="#E5E5E5">regarding coding and opportunity this</font>
+
+65
+00:03:08,890 --> 00:03:11,440
+thing<font color="#E5E5E5"> about being homeless it doesn't</font>
+
+66
+00:03:11,440 --> 00:03:13,690
+have to be a<font color="#CCCCCC"> negative</font><font color="#E5E5E5"> that everybody</font>
+
+67
+00:03:13,690 --> 00:03:15,790
+<font color="#E5E5E5">just assumes at all like these</font><font color="#CCCCCC"> homeless</font>
+
+68
+00:03:15,790 --> 00:03:19,330
+<font color="#CCCCCC">like that's kind of</font><font color="#E5E5E5"> suck no no life can</font>
+
+69
+00:03:19,330 --> 00:03:21,550
+<font color="#E5E5E5">still be good even if you're homeless</font><font color="#CCCCCC"> I</font>
+
+70
+00:03:21,550 --> 00:03:24,400
+don't need a million<font color="#CCCCCC"> dollars to be happy</font>
+
+71
+00:03:24,400 --> 00:03:27,790
+<font color="#E5E5E5">or</font><font color="#CCCCCC"> to live in your giant penthouse</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> I</font>
+
+72
+00:03:27,790 --> 00:03:32,230
+do the oxygen I need fresh<font color="#CCCCCC"> water and I</font>
+
+73
+00:03:32,230 --> 00:03:34,450
+<font color="#E5E5E5">need a stable environment</font><font color="#CCCCCC"> getting this</font>
+
+74
+00:03:34,450 --> 00:03:37,150
+mobile app completed and spreading
+
+75
+00:03:37,150 --> 00:03:39,550
+<font color="#CCCCCC">awareness of climate</font><font color="#E5E5E5"> change would be</font><font color="#CCCCCC"> a</font>
+
+76
+00:03:39,550 --> 00:00:00,000
+great<font color="#E5E5E5"> benefit</font>
+

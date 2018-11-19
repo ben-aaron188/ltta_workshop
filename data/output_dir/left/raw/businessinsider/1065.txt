@@ -1,0 +1,160 @@
+1
+00:00:00,089 --> 00:00:03,990
+the thing<font color="#CCCCCC"> that makes venmo so popular is</font>
+
+2
+00:00:03,990 --> 00:00:06,750
+that<font color="#E5E5E5"> it took a transaction this sort of</font>
+
+3
+00:00:06,750 --> 00:00:09,570
+p2p transaction<font color="#E5E5E5"> and turned it into an</font>
+
+4
+00:00:09,570 --> 00:00:11,880
+experience<font color="#CCCCCC"> it turned it into every</font>
+
+5
+00:00:11,880 --> 00:00:14,570
+single demo<font color="#E5E5E5"> 95% of all of them</font><font color="#CCCCCC"> mo</font>
+
+6
+00:00:14,570 --> 00:00:17,730
+transactions are shared with friends<font color="#CCCCCC"> and</font>
+
+7
+00:00:17,730 --> 00:00:19,830
+<font color="#CCCCCC">their mom those of you who</font><font color="#E5E5E5"> don't know is</font>
+
+8
+00:00:19,830 --> 00:00:21,750
+<font color="#CCCCCC">a system app based system where</font>
+
+9
+00:00:21,750 --> 00:00:23,640
+individuals can pay each other small
+
+10
+00:00:23,640 --> 00:00:26,760
+amounts yeah it's the leading app in the
+
+11
+00:00:26,760 --> 00:00:29,760
+<font color="#E5E5E5">US for</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> millennial generation on how</font>
+
+12
+00:00:29,760 --> 00:00:32,159
+they manage and<font color="#E5E5E5"> move money and every one</font>
+
+13
+00:00:32,159 --> 00:00:34,350
+of those transactions they can opt<font color="#E5E5E5"> to</font>
+
+14
+00:00:34,350 --> 00:00:36,450
+share with their friends<font color="#CCCCCC"> and they can</font>
+
+15
+00:00:36,450 --> 00:00:39,930
+comment on<font color="#E5E5E5"> it</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> 90%</font><font color="#CCCCCC"> plus comment on</font>
+
+16
+00:00:39,930 --> 00:00:41,969
+their transactions<font color="#E5E5E5"> and then share it</font>
+
+17
+00:00:41,969 --> 00:00:43,770
+<font color="#E5E5E5">most of you in the audience will</font>
+
+18
+00:00:43,770 --> 00:00:45,420
+<font color="#CCCCCC">probably never do that</font>
+
+19
+00:00:45,420 --> 00:00:48,210
+but there's a very<font color="#E5E5E5"> very big differences</font>
+
+20
+00:00:48,210 --> 00:00:51,780
+between<font color="#E5E5E5"> generations and I</font><font color="#CCCCCC"> think as we</font>
+
+21
+00:00:51,780 --> 00:00:53,969
+think<font color="#CCCCCC"> about where the</font><font color="#E5E5E5"> system is going</font>
+
+22
+00:00:53,969 --> 00:00:56,699
+<font color="#E5E5E5">and that's really kind of what I really</font>
+
+23
+00:00:56,699 --> 00:00:58,949
+spent a lot<font color="#CCCCCC"> of time thinking</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> 10</font>
+
+24
+00:00:58,949 --> 00:01:01,469
+years<font color="#CCCCCC"> from now who is the next</font>
+
+25
+00:01:01,469 --> 00:01:03,480
+<font color="#E5E5E5">generation</font><font color="#CCCCCC"> of consumer what are their</font>
+
+26
+00:01:03,480 --> 00:01:07,080
+needs going<font color="#E5E5E5"> to be we've</font><font color="#CCCCCC"> got two billion</font>
+
+27
+00:01:07,080 --> 00:01:08,610
+<font color="#CCCCCC">people in the world right now that are</font>
+
+28
+00:01:08,610 --> 00:01:12,180
+underserved<font color="#CCCCCC"> they need a basic system and</font>
+
+29
+00:01:12,180 --> 00:01:15,060
+<font color="#CCCCCC">platform for financial transactions and</font>
+
+30
+00:01:15,060 --> 00:01:18,000
+I don't<font color="#E5E5E5"> think</font><font color="#CCCCCC"> that we should extrapolate</font>
+
+31
+00:01:18,000 --> 00:01:21,509
+what was but we ought to reimagine<font color="#E5E5E5"> in a</font>
+
+32
+00:01:21,509 --> 00:01:23,640
+world of mobile<font color="#E5E5E5"> and software and</font>
+
+33
+00:01:23,640 --> 00:01:26,280
+connectivity<font color="#E5E5E5"> how</font><font color="#CCCCCC"> would you build a</font>
+
+34
+00:01:26,280 --> 00:01:28,920
+financial<font color="#E5E5E5"> services</font><font color="#CCCCCC"> platform to serve</font>
+
+35
+00:01:28,920 --> 00:01:35,579
+<font color="#E5E5E5">that sort of the majority</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> citizens so</font>
+
+36
+00:01:35,579 --> 00:01:37,740
+that managing and moving money<font color="#E5E5E5"> is a</font>
+
+37
+00:01:37,740 --> 00:01:40,110
+right for all<font color="#E5E5E5"> citizens and not really</font>
+
+38
+00:01:40,110 --> 00:01:42,720
+<font color="#E5E5E5">privileged for the affluent and that to</font>
+
+39
+00:01:42,720 --> 00:01:44,850
+me<font color="#E5E5E5"> is a critical element of what we're</font>
+
+40
+00:01:44,850 --> 00:00:00,000
+<font color="#E5E5E5">trying to do</font>
+

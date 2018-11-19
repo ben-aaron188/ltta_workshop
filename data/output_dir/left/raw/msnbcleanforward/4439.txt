@@ -1,0 +1,772 @@
+1
+00:00:00,000 --> 00:00:01,560
+<font color="#E5E5E5">be</font><font color="#CCCCCC"> I Special Agent and of course he's an</font>
+
+2
+00:00:01,560 --> 00:00:03,870
+NBC<font color="#E5E5E5"> News national security analyst</font><font color="#CCCCCC"> mr.</font>
+
+3
+00:00:03,870 --> 00:00:06,230
+<font color="#E5E5E5">Watts</font><font color="#CCCCCC"> good to see you sir</font>
+
+4
+00:00:06,230 --> 00:00:11,370
+good to see<font color="#CCCCCC"> you</font><font color="#E5E5E5"> all right</font><font color="#CCCCCC"> the how how</font>
+
+5
+00:00:11,370 --> 00:00:13,710
+can<font color="#CCCCCC"> the</font><font color="#E5E5E5"> United States government respond</font>
+
+6
+00:00:13,710 --> 00:00:16,049
+<font color="#CCCCCC">to this threat and can they respond</font>
+
+7
+00:00:16,049 --> 00:00:18,180
+beyond<font color="#E5E5E5"> anything other than more</font>
+
+8
+00:00:18,180 --> 00:00:19,949
+<font color="#E5E5E5">sanctions it seems as if and we've gone</font>
+
+9
+00:00:19,949 --> 00:00:22,560
+through<font color="#E5E5E5"> this before</font><font color="#CCCCCC"> are we have tied our</font>
+
+10
+00:00:22,560 --> 00:00:27,119
+own hands<font color="#E5E5E5"> when it comes to cyber yeah we</font>
+
+11
+00:00:27,119 --> 00:00:28,949
+are<font color="#E5E5E5"> vulnerable the biggest problem</font>
+
+12
+00:00:28,949 --> 00:00:31,349
+America<font color="#E5E5E5"> has in this new cyber space is</font>
+
+13
+00:00:31,349 --> 00:00:33,120
+that we have more vulnerabilities than
+
+14
+00:00:33,120 --> 00:00:35,100
+any other country because<font color="#E5E5E5"> we rely on it</font>
+
+15
+00:00:35,100 --> 00:00:36,780
+<font color="#E5E5E5">more</font><font color="#CCCCCC"> than</font><font color="#E5E5E5"> any other country</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> we've</font>
+
+16
+00:00:36,780 --> 00:00:38,399
+never built these systems out to be
+
+17
+00:00:38,399 --> 00:00:40,980
+secure even<font color="#E5E5E5"> further that we we have</font>
+
+18
+00:00:40,980 --> 00:00:43,050
+probably<font color="#E5E5E5"> the</font><font color="#CCCCCC"> best</font><font color="#E5E5E5"> offensive cyber</font>
+
+19
+00:00:43,050 --> 00:00:45,719
+capability<font color="#CCCCCC"> in the</font><font color="#E5E5E5"> world it</font><font color="#CCCCCC"> seems like by</font>
+
+20
+00:00:45,719 --> 00:00:47,760
+most accounts that's true and yet we
+
+21
+00:00:47,760 --> 00:00:49,440
+don't ever<font color="#CCCCCC"> actually use it and because</font>
+
+22
+00:00:49,440 --> 00:00:51,539
+the one thing we do know<font color="#CCCCCC"> about</font><font color="#E5E5E5"> this is</font>
+
+23
+00:00:51,539 --> 00:00:53,340
+you can't control the collateral<font color="#CCCCCC"> damage</font>
+
+24
+00:00:53,340 --> 00:00:55,260
+we've seen both with the<font color="#E5E5E5"> Russian</font>
+
+25
+00:00:55,260 --> 00:00:57,539
+<font color="#E5E5E5">cyberattacks with black</font><font color="#CCCCCC"> energy which is</font>
+
+26
+00:00:57,539 --> 00:00:58,379
+the one<font color="#E5E5E5"> you were</font><font color="#CCCCCC"> talking</font><font color="#E5E5E5"> about with</font>
+
+27
+00:00:58,379 --> 00:01:01,170
+<font color="#E5E5E5">Ukraine and</font><font color="#CCCCCC"> the knock Petya</font><font color="#E5E5E5"> attack from</font>
+
+28
+00:01:01,170 --> 00:01:01,890
+last summer
+
+29
+00:01:01,890 --> 00:01:03,989
+this had massive<font color="#CCCCCC"> collateral damage</font>
+
+30
+00:01:03,989 --> 00:01:05,280
+around<font color="#E5E5E5"> the world and I'm</font><font color="#CCCCCC"> sure the</font><font color="#E5E5E5"> United</font>
+
+31
+00:01:05,280 --> 00:01:07,530
+States doesn't<font color="#E5E5E5"> want to do that</font><font color="#CCCCCC"> in the</font>
+
+32
+00:01:07,530 --> 00:01:09,750
+case<font color="#E5E5E5"> of Russia in terms of a strike back</font>
+
+33
+00:01:09,750 --> 00:01:11,070
+and<font color="#E5E5E5"> therefore</font><font color="#CCCCCC"> it leaves us really</font>
+
+34
+00:01:11,070 --> 00:01:13,110
+<font color="#CCCCCC">vulnerable</font><font color="#E5E5E5"> and almost no options in</font>
+
+35
+00:01:13,110 --> 00:01:15,119
+<font color="#E5E5E5">terms of the cyber cyber landscape in</font>
+
+36
+00:01:15,119 --> 00:01:16,890
+<font color="#CCCCCC">terms of a</font><font color="#E5E5E5"> counter attack</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> right look</font>
+
+37
+00:01:16,890 --> 00:01:19,200
+if the president said<font color="#E5E5E5"> all right it's</font>
+
+38
+00:01:19,200 --> 00:01:21,270
+time<font color="#CCCCCC"> to fit we</font><font color="#E5E5E5"> gotta tighten everything</font>
+
+39
+00:01:21,270 --> 00:01:23,490
+up<font color="#E5E5E5"> you just said we built this huge</font>
+
+40
+00:01:23,490 --> 00:01:25,320
+infrastructure<font color="#E5E5E5"> really without security</font>
+
+41
+00:01:25,320 --> 00:01:27,420
+<font color="#E5E5E5">at the same time we're now trying to</font>
+
+42
+00:01:27,420 --> 00:01:29,909
+layer the security in there<font color="#E5E5E5"> we've got</font><font color="#CCCCCC"> to</font>
+
+43
+00:01:29,909 --> 00:01:32,220
+<font color="#CCCCCC">secure our elections</font><font color="#E5E5E5"> we've got a secure</font>
+
+44
+00:01:32,220 --> 00:01:36,210
+<font color="#E5E5E5">infrastructure</font><font color="#CCCCCC"> we got to</font><font color="#E5E5E5"> somehow figure</font>
+
+45
+00:01:36,210 --> 00:01:39,240
+<font color="#E5E5E5">out the social media issue in a way that</font>
+
+46
+00:01:39,240 --> 00:01:42,479
+both is constitutional and doesn't
+
+47
+00:01:42,479 --> 00:01:45,990
+destroy a democracy<font color="#E5E5E5"> do we have the tools</font>
+
+48
+00:01:45,990 --> 00:01:47,880
+<font color="#CCCCCC">to do this right now if the president</font>
+
+49
+00:01:47,880 --> 00:01:50,850
+said let's let's batten<font color="#E5E5E5"> down our own</font>
+
+50
+00:01:50,850 --> 00:01:55,140
+hatches<font color="#E5E5E5"> here no definitely not I think</font>
+
+51
+00:01:55,140 --> 00:01:57,180
+it was<font color="#CCCCCC"> very evident</font><font color="#E5E5E5"> last summer when I</font>
+
+52
+00:01:57,180 --> 00:02:00,030
+<font color="#CCCCCC">was at Aspen</font><font color="#E5E5E5"> at the NBC sponsored event</font>
+
+53
+00:02:00,030 --> 00:02:02,159
+out there<font color="#CCCCCC"> Tombaugh</font><font color="#E5E5E5"> sir who works in the</font>
+
+54
+00:02:02,159 --> 00:02:03,479
+White House and has<font color="#CCCCCC"> this in</font><font color="#E5E5E5"> his</font>
+
+55
+00:02:03,479 --> 00:02:05,579
+portfolio<font color="#CCCCCC"> basically said they would</font>
+
+56
+00:02:05,579 --> 00:02:09,090
+protect what's known as<font color="#CCCCCC"> government</font><font color="#E5E5E5"> but</font>
+
+57
+00:02:09,090 --> 00:02:11,280
+<font color="#E5E5E5">calm the rest of us out</font><font color="#CCCCCC"> in America</font>
+
+58
+00:02:11,280 --> 00:02:13,230
+really<font color="#E5E5E5"> they</font><font color="#CCCCCC"> could not protect it they</font>
+
+59
+00:02:13,230 --> 00:02:13,680
+pretty<font color="#E5E5E5"> much</font>
+
+60
+00:02:13,680 --> 00:02:15,870
+<font color="#E5E5E5">emitted that and there's no real plan</font>
+
+61
+00:02:15,870 --> 00:02:18,150
+moving<font color="#E5E5E5"> forward</font><font color="#CCCCCC"> I'm not</font><font color="#E5E5E5"> sure anyone in</font>
+
+62
+00:02:18,150 --> 00:02:19,950
+government<font color="#E5E5E5"> really knows what</font><font color="#CCCCCC"> to do and</font>
+
+63
+00:02:19,950 --> 00:02:21,180
+<font color="#CCCCCC">they definitely</font><font color="#E5E5E5"> don't have the</font>
+
+64
+00:02:21,180 --> 00:02:23,010
+capability to do it and we've talked
+
+65
+00:02:23,010 --> 00:02:24,780
+before<font color="#CCCCCC"> on the show about</font><font color="#E5E5E5"> an election</font>
+
+66
+00:02:24,780 --> 00:02:27,120
+infrastructure that's<font color="#E5E5E5"> a very simple you</font>
+
+67
+00:02:27,120 --> 00:02:28,560
+know thing we could pick<font color="#E5E5E5"> something</font>
+
+68
+00:02:28,560 --> 00:02:30,870
+<font color="#CCCCCC">that's extremely important in 2018</font><font color="#E5E5E5"> and</font>
+
+69
+00:02:30,870 --> 00:02:33,180
+<font color="#E5E5E5">beyond and yet we've seen just minimal</font>
+
+70
+00:02:33,180 --> 00:02:35,099
+motion<font color="#E5E5E5"> in terms of that in terms of</font>
+
+71
+00:02:35,099 --> 00:02:37,260
+critical<font color="#E5E5E5"> infrastructure defense and so</font>
+
+72
+00:02:37,260 --> 00:02:39,239
+for whatever<font color="#E5E5E5"> reason it</font><font color="#CCCCCC"> is whether it's</font>
+
+73
+00:02:39,239 --> 00:02:41,040
+really<font color="#E5E5E5"> the Obama administration or the</font>
+
+74
+00:02:41,040 --> 00:02:42,389
+Trump administration<font color="#CCCCCC"> we made</font><font color="#E5E5E5"> little</font>
+
+75
+00:02:42,389 --> 00:02:44,609
+progress<font color="#E5E5E5"> in terms of cyber defense you</font>
+
+76
+00:02:44,609 --> 00:02:46,290
+hinted at this but I was<font color="#E5E5E5"> struck by</font><font color="#CCCCCC"> a</font>
+
+77
+00:02:46,290 --> 00:02:50,939
+quote<font color="#CCCCCC"> that</font><font color="#E5E5E5"> that a the</font><font color="#CCCCCC"> fireEye</font><font color="#E5E5E5"> chief</font>
+
+78
+00:02:50,939 --> 00:02:52,650
+executive officer Kevin<font color="#E5E5E5"> Mandy I gave to</font>
+
+79
+00:02:52,650 --> 00:02:54,900
+our colleagues in CNBC yesterday he said
+
+80
+00:02:54,900 --> 00:02:57,329
+this the reality<font color="#E5E5E5"> is if all of Russia's</font>
+
+81
+00:02:57,329 --> 00:03:00,090
+cyber weapons went against us<font color="#E5E5E5"> and all of</font>
+
+82
+00:03:00,090 --> 00:03:02,459
+<font color="#CCCCCC">our</font><font color="#E5E5E5"> cyber weapons went against Russia</font>
+
+83
+00:03:02,459 --> 00:03:04,829
+he says they would win<font color="#CCCCCC"> now you</font><font color="#E5E5E5"> just said</font>
+
+84
+00:03:04,829 --> 00:03:06,629
+we have the<font color="#E5E5E5"> best offensive capabilities</font>
+
+85
+00:03:06,629 --> 00:03:08,280
+going<font color="#E5E5E5"> but obviously we're vulnerable</font>
+
+86
+00:03:08,280 --> 00:03:11,519
+<font color="#CCCCCC">right do you do you</font><font color="#E5E5E5"> accept his problem</font>
+
+87
+00:03:11,519 --> 00:03:13,379
+yeah we<font color="#E5E5E5"> just we just have more to lose</font>
+
+88
+00:03:13,379 --> 00:03:15,540
+<font color="#CCCCCC">yeah we've</font><font color="#E5E5E5"> got so much more to</font><font color="#CCCCCC"> lose than</font>
+
+89
+00:03:15,540 --> 00:03:17,219
+the Russians do you know we could<font color="#E5E5E5"> hit</font>
+
+90
+00:03:17,219 --> 00:03:19,379
+their systems<font color="#E5E5E5"> but their economy is not</font>
+
+91
+00:03:19,379 --> 00:03:21,510
+really dependent on<font color="#E5E5E5"> an</font><font color="#CCCCCC"> internet</font><font color="#E5E5E5"> economy</font>
+
+92
+00:03:21,510 --> 00:03:24,479
+we we now in<font color="#E5E5E5"> our houses our Internet of</font>
+
+93
+00:03:24,479 --> 00:03:25,979
+Things everything is tied to the
+
+94
+00:03:25,979 --> 00:03:28,199
+<font color="#E5E5E5">Internet and</font><font color="#CCCCCC"> so any massive attack they</font>
+
+95
+00:03:28,199 --> 00:03:30,269
+take against us will be far<font color="#CCCCCC"> more</font>
+
+96
+00:03:30,269 --> 00:03:31,739
+devastating<font color="#E5E5E5"> than anything we can do</font>
+
+97
+00:03:31,739 --> 00:03:33,359
+against them<font color="#CCCCCC"> well it sounds like do we</font>
+
+98
+00:03:33,359 --> 00:03:36,120
+<font color="#E5E5E5">it sounds like we need a deep</font><font color="#CCCCCC"> D Tech</font><font color="#E5E5E5"> in</font>
+
+99
+00:03:36,120 --> 00:03:38,129
+some areas I mean I think it's clear on
+
+100
+00:03:38,129 --> 00:03:39,930
+the election front the easiest way to
+
+101
+00:03:39,930 --> 00:03:43,500
+secure the elections<font color="#E5E5E5"> is to just</font>
+
+102
+00:03:43,500 --> 00:03:45,780
+basically unplug<font color="#E5E5E5"> them all go back to</font>
+
+103
+00:03:45,780 --> 00:03:49,199
+paper ballots<font color="#E5E5E5"> right it's really about</font>
+
+104
+00:03:49,199 --> 00:03:51,419
+resiliency<font color="#E5E5E5"> and planning and we would say</font>
+
+105
+00:03:51,419 --> 00:03:52,889
+you know in the<font color="#E5E5E5"> military context we say</font>
+
+106
+00:03:52,889 --> 00:03:54,540
+defense<font color="#E5E5E5"> and</font><font color="#CCCCCC"> deaths</font><font color="#E5E5E5"> did we have a back-up</font>
+
+107
+00:03:54,540 --> 00:03:57,090
+<font color="#E5E5E5">plan</font><font color="#CCCCCC"> and the military just a few years</font>
+
+108
+00:03:57,090 --> 00:03:58,799
+<font color="#E5E5E5">ago started going to this model it's</font>
+
+109
+00:03:58,799 --> 00:04:00,780
+ironic<font color="#E5E5E5"> it was general McMaster that was</font>
+
+110
+00:04:00,780 --> 00:04:02,669
+one who said we need to<font color="#E5E5E5"> train</font><font color="#CCCCCC"> for</font>
+
+111
+00:04:02,669 --> 00:04:04,680
+warfare hybrid warfare like we're<font color="#E5E5E5"> seeing</font>
+
+112
+00:04:04,680 --> 00:04:06,540
+in Ukraine that's really what he was
+
+113
+00:04:06,540 --> 00:04:08,729
+<font color="#E5E5E5">preparing the US military for and it was</font>
+
+114
+00:04:08,729 --> 00:04:10,319
+what happens if we lose<font color="#CCCCCC"> all of</font><font color="#E5E5E5"> our</font>
+
+115
+00:04:10,319 --> 00:04:12,479
+technical systems to decipher attack or
+
+116
+00:04:12,479 --> 00:04:14,310
+some sort of electronic warfare<font color="#E5E5E5"> what</font>
+
+117
+00:04:14,310 --> 00:04:16,709
+will we do as a<font color="#CCCCCC"> nation we need to</font><font color="#E5E5E5"> think</font>
+
+118
+00:04:16,709 --> 00:04:18,810
+of<font color="#CCCCCC"> that as well during the Sony attack</font>
+
+119
+00:04:18,810 --> 00:04:21,089
+<font color="#E5E5E5">which North Korea</font><font color="#CCCCCC"> did against</font><font color="#E5E5E5"> the</font>
+
+120
+00:04:21,089 --> 00:04:23,279
+company they<font color="#E5E5E5"> knocked their email their</font>
+
+121
+00:04:23,279 --> 00:04:24,779
+phones everything<font color="#E5E5E5"> out to where that</font>
+
+122
+00:04:24,779 --> 00:04:26,700
+company was functioning with<font color="#E5E5E5"> runners</font>
+
+123
+00:04:26,700 --> 00:04:28,020
+<font color="#E5E5E5">physical human beings running around</font>
+
+124
+00:04:28,020 --> 00:04:30,150
+with messages<font color="#E5E5E5"> so we</font><font color="#CCCCCC"> need to be</font><font color="#E5E5E5"> thinking</font>
+
+125
+00:04:30,150 --> 00:04:31,650
+about this all the way<font color="#CCCCCC"> through our</font>
+
+126
+00:04:31,650 --> 00:04:33,780
+companies and<font color="#E5E5E5"> resilience</font><font color="#CCCCCC"> in our</font>
+
+127
+00:04:33,780 --> 00:04:35,490
+<font color="#E5E5E5">infrastructure because we are now</font>
+
+128
+00:04:35,490 --> 00:04:37,170
+growing<font color="#E5E5E5"> up with</font><font color="#CCCCCC"> a generation</font><font color="#E5E5E5"> that's</font>
+
+129
+00:04:37,170 --> 00:04:39,270
+<font color="#E5E5E5">never gone 30 seconds without Wi-Fi in</font>
+
+130
+00:04:39,270 --> 00:04:41,610
+their life we are<font color="#E5E5E5"> we are</font><font color="#CCCCCC"> vulnerable both</font>
+
+131
+00:04:41,610 --> 00:04:43,500
+in terms of<font color="#E5E5E5"> our businesses but also</font>
+
+132
+00:04:43,500 --> 00:04:45,480
+emotionally<font color="#CCCCCC"> in terms</font><font color="#E5E5E5"> of how we handle</font>
+
+133
+00:04:45,480 --> 00:04:48,240
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> and look it just seems as if we</font>
+
+134
+00:04:48,240 --> 00:04:51,960
+have<font color="#E5E5E5"> no we have no weapon here to push</font>
+
+135
+00:04:51,960 --> 00:04:54,360
+back at<font color="#E5E5E5"> Putin here</font><font color="#CCCCCC"> no</font><font color="#E5E5E5"> at no</font><font color="#CCCCCC"> way of</font>
+
+136
+00:04:54,360 --> 00:04:57,810
+making<font color="#CCCCCC"> him</font><font color="#E5E5E5"> think</font><font color="#CCCCCC"> twice before</font><font color="#E5E5E5"> doing this</font>
+
+137
+00:04:57,810 --> 00:05:02,310
+<font color="#E5E5E5">do we I think there is</font><font color="#CCCCCC"> one way we could</font>
+
+138
+00:05:02,310 --> 00:05:03,720
+do it<font color="#CCCCCC"> what we don't want to</font><font color="#E5E5E5"> do is</font>
+
+139
+00:05:03,720 --> 00:05:05,880
+essentially do what<font color="#E5E5E5"> Russia does to us</font>
+
+140
+00:05:05,880 --> 00:05:08,130
+back to them<font color="#E5E5E5"> if it's in terms of social</font>
+
+141
+00:05:08,130 --> 00:05:09,330
+<font color="#CCCCCC">media we're violating our civil</font>
+
+142
+00:05:09,330 --> 00:05:11,070
+<font color="#CCCCCC">liberties you know we're we're</font>
+
+143
+00:05:11,070 --> 00:05:12,540
+undermining our values if it's with
+
+144
+00:05:12,540 --> 00:05:13,800
+<font color="#CCCCCC">cyberattacks we're hurting lots of</font>
+
+145
+00:05:13,800 --> 00:05:15,390
+innocent<font color="#CCCCCC"> people</font><font color="#E5E5E5"> but I think there are</font>
+
+146
+00:05:15,390 --> 00:05:17,130
+<font color="#E5E5E5">two</font><font color="#CCCCCC"> angles which you've seen that really</font>
+
+147
+00:05:17,130 --> 00:05:19,920
+<font color="#E5E5E5">do put fear in Putin one is oligarchs</font>
+
+148
+00:05:19,920 --> 00:05:21,330
+<font color="#E5E5E5">the more that we put</font><font color="#CCCCCC"> pressure on</font>
+
+149
+00:05:21,330 --> 00:05:22,740
+oligarchs with<font color="#E5E5E5"> sanctions and in the</font>
+
+150
+00:05:22,740 --> 00:05:24,450
+financial<font color="#CCCCCC"> system the</font><font color="#E5E5E5"> more that puts</font>
+
+151
+00:05:24,450 --> 00:05:26,490
+<font color="#E5E5E5">pressure back on Putin to sort of pull</font>
+
+152
+00:05:26,490 --> 00:05:28,320
+back<font color="#E5E5E5"> on his actions the second one is</font>
+
+153
+00:05:28,320 --> 00:05:30,600
+really activists that you know we had
+
+154
+00:05:30,600 --> 00:05:32,820
+you had mentioned<font color="#E5E5E5"> Navalny earlier in</font>
+
+155
+00:05:32,820 --> 00:05:34,500
+this right<font color="#E5E5E5"> if we actually help these</font>
+
+156
+00:05:34,500 --> 00:05:36,330
+activists<font color="#E5E5E5"> and pursue like we used to</font>
+
+157
+00:05:36,330 --> 00:05:37,380
+during<font color="#E5E5E5"> the Cold War</font>
+
+158
+00:05:37,380 --> 00:05:39,180
+hey let's bring<font color="#E5E5E5"> about a democratic</font>
+
+159
+00:05:39,180 --> 00:05:41,160
+<font color="#E5E5E5">system let's</font><font color="#CCCCCC"> actually</font><font color="#E5E5E5"> bring people</font><font color="#CCCCCC"> with</font>
+
+160
+00:05:41,160 --> 00:05:43,470
+<font color="#E5E5E5">let's work for the Russian</font><font color="#CCCCCC"> people to</font>
+
+161
+00:05:43,470 --> 00:05:45,690
+help push this kleptocratic regime away
+
+162
+00:05:45,690 --> 00:05:47,400
+<font color="#E5E5E5">that will actually put pressure such</font>
+
+163
+00:05:47,400 --> 00:05:49,410
+that we then<font color="#CCCCCC"> can negotiate</font><font color="#E5E5E5"> with Putin in</font>
+
+164
+00:05:49,410 --> 00:05:51,510
+a one-on-one<font color="#E5E5E5"> basis and say look we need</font>
+
+165
+00:05:51,510 --> 00:05:53,130
+you to push back on<font color="#CCCCCC"> your</font><font color="#E5E5E5"> cyberspace</font>
+
+166
+00:05:53,130 --> 00:05:55,260
+attacks<font color="#E5E5E5"> and your information warfare</font><font color="#CCCCCC"> and</font>
+
+167
+00:05:55,260 --> 00:05:57,360
+then you know in return will also be
+
+168
+00:05:57,360 --> 00:05:59,100
+more measured in<font color="#E5E5E5"> terms of how we handle</font>
+
+169
+00:05:59,100 --> 00:06:01,500
+your<font color="#E5E5E5"> financial constraints and also</font><font color="#CCCCCC"> with</font>
+
+170
+00:06:01,500 --> 00:06:03,240
+activists<font color="#CCCCCC"> I</font><font color="#E5E5E5"> think there are measures I</font>
+
+171
+00:06:03,240 --> 00:06:04,740
+just think our<font color="#E5E5E5"> president doesn't want to</font>
+
+172
+00:06:04,740 --> 00:06:06,900
+pursue them because<font color="#E5E5E5"> the the pursuant</font>
+
+173
+00:06:06,900 --> 00:06:09,000
+would be directly<font color="#E5E5E5"> personally you really</font>
+
+174
+00:06:09,000 --> 00:06:10,770
+have to personalize the attack is what
+
+175
+00:06:10,770 --> 00:06:11,190
+you're saying
+
+176
+00:06:11,190 --> 00:06:15,270
+<font color="#E5E5E5">target Putin yeah yeah yeah well it's</font>
+
+177
+00:06:15,270 --> 00:06:17,340
+<font color="#E5E5E5">that the president has to step step</font>
+
+178
+00:06:17,340 --> 00:06:18,120
+forward yes
+
+179
+00:06:18,120 --> 00:06:20,040
+<font color="#E5E5E5">all right Clem watts I</font><font color="#CCCCCC"> gotta</font><font color="#E5E5E5"> let you go</font>
+
+180
+00:06:20,040 --> 00:06:22,680
+<font color="#CCCCCC">I have</font><font color="#E5E5E5"> to say that your backdrop being</font>
+
+181
+00:06:22,680 --> 00:06:23,880
+in Key West<font color="#E5E5E5"> Florida</font><font color="#CCCCCC"> I don't know why you</font>
+
+182
+00:06:23,880 --> 00:06:24,540
+brought<font color="#CCCCCC"> a tie</font>
+
+183
+00:06:24,540 --> 00:06:26,850
+I appreciate it<font color="#E5E5E5"> for our viewers take</font>
+
+184
+00:06:26,850 --> 00:06:28,470
+<font color="#E5E5E5">that tie up and go enjoy Key West</font><font color="#CCCCCC"> I'll</font>
+
+185
+00:06:28,470 --> 00:06:30,180
+be in swim trunks<font color="#E5E5E5"> and</font><font color="#CCCCCC"> ten minutes that's</font>
+
+186
+00:06:30,180 --> 00:06:32,340
+right hey there I'm<font color="#E5E5E5"> Chris Hayes from</font>
+
+187
+00:06:32,340 --> 00:06:34,440
+MSNBC thanks for watching MSNBC<font color="#CCCCCC"> on</font>
+
+188
+00:06:34,440 --> 00:06:36,000
+<font color="#CCCCCC">YouTube if you</font><font color="#E5E5E5"> want to keep up to</font><font color="#CCCCCC"> date</font>
+
+189
+00:06:36,000 --> 00:06:37,260
+with<font color="#CCCCCC"> the videos we're putting out you</font>
+
+190
+00:06:37,260 --> 00:06:39,270
+can click<font color="#CCCCCC"> subscribe just</font><font color="#E5E5E5"> below me</font><font color="#CCCCCC"> or</font>
+
+191
+00:06:39,270 --> 00:06:39,880
+click over
+
+192
+00:06:39,880 --> 00:06:41,560
+this list to see lots of other<font color="#E5E5E5"> great</font>
+
+193
+00:06:41,560 --> 00:00:00,000
+videos
+

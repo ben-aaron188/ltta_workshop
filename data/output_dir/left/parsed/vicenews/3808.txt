@@ -1,0 +1,362 @@
+we're about an hour outside of Portland
+Maine it's a pretty rural part of the
+state and we're heading into this
+Sheriff's Department because they've
+been hacked along with every other
+Police Department in the county this is
+the office where we received the virus
+that was downloaded from email right
+here at this terminal we didn't know
+anything had happened until was again
+the system started to slow down files
+weren't accessible we started getting
+error messages this is a copy of the
+ransom information right on the top ian
+has crypto wall 3.0 it was a readme type
+file don't ask me to explain that um
+what does this mean this means that the
+the structure and data within your files
+have been irrevocably changed and you
+won't be able to work with them read
+them or see them what did you end up
+doing after you read this we ended up
+clicking on the IT folks went to the the
+HTTP address and what we were able to
+locate the request for ransom that they
+were asking for in in Bitcoin I've never
+heard of a Bitcoin at that point myself
+you know I mean you know we're law
+enforcement agency right and I my first
+reaction was I'll be damned if I pay
+ransoms it's the cardinal rule I mean
+every negotiation police you can't
+ransom us you know which obviously I had
+a rude awakening there and actually I
+was I was really surprised when our IT
+folks recommended that that we pay the
+ransom we've made several changes since
+then and we were not successful another
+email came through lo and behold we we
+started to experience the problem again
+you guys paid twice what makes you think
+these hackers won't come back again
+we've been fortunate not to have
+encountered the virus again but I'm not
+I'm not kidding myself
+I don't believe we're a hundred percent
+immune a cyber attack has spread to
+every corner of the world Lincoln County
+Maine is not alone across the country
+thousands of police stations hospitals
+and businesses have been hit by
+ransomware attacks and 2016 alone
+Americans paid close to a billion
+dollars in digital ransom
+this massive uptick in attacks has the
+Department of Homeland Security on high
+alert we went to their national
+cybersecurity and communications
+integration Center to see just how dire
+the situation is thank you so in order
+to get into this control room here yeah
+we got to leave our phones behind Ultra
+is secure in here so this is our main
+watch floor for the National
+cybersecurity and communications
+integration Center and this is where we
+have our 24/7 and watch operations
+looking for threats and incidents across
+the federal government and in our
+critical infrastructures domestically
+we're hearing a lot about ransomware are
+you concerned about that yes ransomware
+has expanded significantly existing
+organizations are now taking advantage
+of the Internet what is the nature of
+the type of hacking that we see in the
+u.s. originates in russian-speaking
+countries everything from cyber
+criminals to more organized capabilities
+and the Russian influence in our
+election process we put out what we call
+a joint analysis report back in December
+this report was the first time
+government officials published evidence
+of the 2016 Russian election hack which
+showed Russia's ability to penetrate
+major American networks to understand
+why Russia has become such a hub for
+hacking we traveled to Moscow
+Andre soldato is an investigative
+journalist who recently wrote a
+definitive account of Russia's cyber
+espionage of course it was huge news in
+the u.s. when the DNC and Clinton
+campaign emails were hacked but is there
+really any evidence to show that direct
+link you can't identify country and you
+can be quite certain whether I suppose a
+state back at their fault either
+something absolutely wrong
+and how do we know that mostly affects
+the technical expertise and digital
+forensic provided by the cyber security
+companies so you can say with certainty
+that those hackers were working with the
+Russian government exactly this
+operation was if it was approved it was
+a profit oh it's very hollow the Soviet
+Union many years ago enjoyed the largest
+engineer community in the world a Stalin
+large lots of us a call it Polytechnical
+schools because he needed a lot of
+engineers to help him to build a mighty
+military industrial complex but specific
+thing about the Russian Technical
+Education still as well in this course
+you are not taught ethics the idea is
+what an engineer should just provide
+technical expertise never ask any
+questions when the Soviet Union
+collapsed they ended up in some computer
+companies so we have lots of these
+people who are quite ready to help the
+government if the government want them
+to do something and we have lots of
+people who started doing stuff because
+they have technical skills and but they
+have no ethics at all
+to actually see Russian hacking at work
+we went to one of the country's biggest
+gatherings of hackers welcome to
+Russia's biggest cybersecurity
+conference you have guys who are hacking
+into ATM machines right here into BMWs
+Tesla's average age here is probably 25
+26 you have teenagers everyone seems to
+be under 30 cyber security expert and
+event organizer Andrew Prashad sqeeze
+showed us around these days is very
+unique IT security event nowadays when
+people hear hacker in most cases they
+have association with something bad
+because every time in the media we see
+that hackers do some bad job like
+privacy violation or data stolen from
+other companies or something else but
+actually hey Kirk is a good expert to
+understand security in every details
+alright so what are you excited about
+here can you show me some things yeah
+sure here we will see the real hot
+button so we have to hackers just one in
+front or father and they have the same
+application so it will be like a speed
+ahead
+I also have a bottle actually the name
+is a too drunk to you have
+application which is protected by
+firewalls
+so if firewall will detect a turn you
+need to drink one of the biggest thing
+that we have is a standoff this is a new
+format of CTF competition in this
+digital city we have a band we have
+industrial companies like oil and gas
+energy generation distribution all the
+things I quit by different smart and IOT
+devices and we have different teams who
+are trying to make ethics on those
+stands
+so what's their angle if they attack
+this what do they want to happen so if
+you have a control of the end of
+gestation you can just simply leave the
+whole city without energy and when it
+come to transportation you can easily
+crash to transit this is not a
+simulation this is not an installation
+if you can hack it here it means that
+you can pack it in the wild we wanted to
+see hacking in real time so we asked
+former NSA hacker capture portal and his
+associate Mikhail's to sunken
+to put my personal cybersecurity to the
+test well you know this was your first
+hacker conference and we really wanted
+to make the experience very authentic so
+we decided to just act you in as many
+ways as possible well I thought our crew
+was filming background footage they were
+in fact capturing me getting hacked
+generally there's too many ways to hack
+people remotely and with physical access
+so we designed some attacks to do both
+of these basically we set up wireless
+access points and we made it look like
+it was a hotel Wi-Fi there was like no
+thing that suggested the correct one and
+says guests so you probably thought that
+that's the one you shouldn't be
+connecting to oh wow and so when you
+connect it to it everything you entered
+in there like your last name your a rule
+number we basically collect a better
+hotel room numbers it's kind of what
+what hotels use as an authentication key
+oh my god and with that then we were
+able to pull off a social engineering
+attack which gave us
+of your limited good afternoon could you
+print another key for my room please we
+needed someone to impersonate you
+essentially and we had my lovely wife
+Diana call up the reception and say hey
+can you please give my colleague another
+key my coworker Gianna she's in room
+2086 you know the question that asks
+give me a key to your room then with
+that we were able to gain access to your
+room where we installed some hidden
+cameras so we could see when you access
+the safe what the keypad was wow so even
+if you put your laptop or your phone in
+there wouldn't matter
+we could have could've gotten it so at
+this point we kind of had complete
+access to your laptop
+there's the binary that's what we
+basically did was we installed something
+called a back door on your system that
+then would connect out to a computer we
+controlled allowing us to execute
+commands on your computer so at that
+point we could share your screen see
+exactly what you were looking at at all
+times we could record off the webcam to
+watch you as you walked around the room
+hijack your Skype sessions so how did
+you get my credit card information every
+time you press a button there's an event
+that happens in the machine and we can
+capture that you can see here we have
+your credit card information from when
+you were booking your trip to Cuba is
+there any personal information of mine
+that you couldn't have gotten access to
+I don't think so
+so you could have hijacked my whole
+identity yeah and you know the attacks
+we pulled off here really weren't hyper
+sophisticated so I always like to say if
+someone wants to hack you they're gonna
+be able to yes we bought you some
+souvenirs this is obviously the flag of
+Russia actually you know we use your
+credit card so cyber attacks originating
+in Russia have become increasingly
+brazen including a data breach of more
+than 500 million yahoo mail accounts and
+a scheme that stole 160 million credit
+cards from american corporations russian
+cybersecurity firm Group IB puns hackers
+they showed us online hacker forums
+filled with droves of stolen data people
+here
+they have different specialization
+technical intelligence they do
+monitoring of high performs high
+community this looks like malware could
+access between the information ceiling
+money record to your conversation just
+by dumped of thousands and thousand
+credit cards very easily I would like to
+show you how many government resources
+and different countries are compromised
+we're looking at websites that are DC US
+government websites and when we click on
+them you can see the username and the
+login it's all the information to access
+these accounts so these people may not
+know that her email has been hacked yeah
+so my name could be in there I wouldn't
+even know of course right now it's quite
+easy so a lot of people not from AG
+industry starting goodness and the
+second problem that people don't think
+that they're criminals so we will see
+more and more crime every year these
+cyber crimes are committed by blackhat
+hackers who can steal critical data and
+damaged networks they exist anonymously
+on the web but we found one who agreed
+to talk to us are there
+gianna nice to meet you Jana nice to
+meet you
+we first hesitated kocha eventually
+agreed to show us some of his hacks
+Wakita completely done almost beaten
+like us fact and indeed by his
+recruiting commission this one convinced
+and inform us the least what can we sit
+company Eve with sheet for quite a
+compliment accompany reached and done
+elicit runic of total me excited no is
+internet magazine of negatory has a
+little switch show at the script Kotori
+proponents and emotionally he was valid
+near all dogma from industry partnership
+in HTML postal site if convict street of
+Steel clear school Basel and so what are
+you doing with all this personal
+information yep only absolute buzzer
+done is plus the brothers like a chicken
+so he pulls you and then what will they
+use that information for the dogs to
+appear minor is pretty under serious you
+need to consider the Senate Democratic
+article describes or build poster we
+didn't with your daily marketing
+whispers also the rebuttable I was
+wondering if dollars cheaper the victim
+says if plea until a what's the most
+money you've made off of like this one
+yes ago eat piranhas Luthor tumbler sumo
+boy cheated off me on spurred by the
+trillions of dollars online in a
+generation raised on the web hacking
+from Russia and around the world is
+flourishing and increasingly Packers are
+targeting the world's most lucrative
+market the US but at DHS the first line
+of defense are hackers themselves i hack
+into agencies and then after the hacking
+is done I go in and I teach them how we
+did it so then they can actually go
+through and fix those vulnerabilities so
+the actual bad guys can't get in
+that's a map of 82,000 critical
+infrastructure sites the United States
+that are basically exposed directly to
+the Internet Wow we're talking about
+water systems manufacturing plants
+building automation when you start to
+aggregated at a scale of 80 mm right now
+you know intruding upon a lot of those
+systems all at once could cause you know
+a significant issue how do you see cyber
+attacks advancing in the
+next 10 20 30 years at a technical level
+we're going to be constantly evolving
+right as adversaries creating new
+capabilities will create new
+countermeasures as we advance past their
+capabilities with countermeasures
+they'll create new capabilities it's
+always going to be that kind of arms
+race type of activity I think this
+problem is one that it's certainly one
+that we can work on it's something but I
+don't think it's ever gonna completely
+go away so this is going to be with us
+for a long time

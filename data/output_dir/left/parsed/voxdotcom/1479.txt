@@ -1,0 +1,95 @@
+The virtual yellow line in NFL broadcasts
+is great.
+It tells viewers how far the offense needs
+to advance for a first down.
+It looks really simple and elegant but creating
+that line was a massive engineering challenge.
+It started in the mid 90s when the Fox Sports
+network tried to make hockey easier to watch.
+“Scientists at Fox Sports laboratories
+are working on new technology.”
+"You won't believe your eyes."
+They embedded infrared transmitters inside
+the puck and placed sensors around the rink,
+So that live tv viewers saw a blue glow around
+the puck at all times and a red comet tail
+if it traveled over 70 miles per hour.
+Hockey fans didn’t really embrace “glow
+puck” as it came to be known.
+So the technology was retired when the broadcasting
+rights for hockey switched to ABC a few years
+later.
+But the team of engineers they had assembled
+for the project was just getting started.
+They left Fox Sports to create a new company
+called SportVision.
+and in 1998, they debuted the “First and
+Ten” line on ESPN.
+“Until now, this marker was
+the only reference fans in the stadium and at home had
+for the first down.”
+The key challenge in making the yellow line
+is that the scene is constantly changing,
+which means the yellow line has to constantly
+change.
+Not only are there 3 different cameras used
+for the wide shots of the field, each camera
+pans, tilts and zooms to follow the action.
+So the first thing Sportvision does before
+the game is create a 3D mathematical model
+of each football field using laser surveying
+tools.
+And during the game they gather data from
+the cameras about their pan, tilt, and zoom positions
+for every single frame.
+So when the operator specifies that the first
+down is at the 43rd yard line, for example,
+the computers combine the camera data with
+their own model of the field to draw the yellow
+line in the proper perspective
+..and to redraw it, for every frame being
+broadcast to viewers.
+The final step is what makes the line kind of magical
+-- removing any part of the line obstructed
+by players, refs or the ball so that the line
+looks like it’s underneath them, almost
+painted on the field.
+The way the computers know which pixels to
+remove is by sampling the colors - think of
+the field as a giant green screen.
+But anyone who has worked with green or blue
+screens knows that you need a really uniform
+and evenly lit background for it to work well.
+So Sportvision identifies in advance which
+shades of green and brown are in the field
+given the lighting conditions -- those are
+the colors to be covered by the yellow line.
+And they identify which colors are in the
+players uniforms and should never be covered
+by yellow.
+It works amazingly well. Here’s the Packers,
+wearing green, in the rain. No problem.
+It only fails in the most extreme weather,
+like this 2013 game in Philly. The line ends
+up all over players, but on the other hand
+the system was helpfully used to insert the
+yardage numbers that had been covered up with
+snow.
+The whole yellow line process delays the live
+broadcast by less than a second.
+And not surprisingly, it was an immediate
+success. Sportvision won an Emmy for it,
+and went on to make virtual visual aids for
+NASCAR, baseball, sailing and the Olympics.
+And football broadcasts have since added more
+graphics, like the line of scrimmage and perhaps
+unnecessary large arrows showing the same
+information that’s in the scorebox.
+But if that’s annoying consider this:
+This type of technology is being used insert
+ads into stadiums and onto fields for a lot
+of sports broadcasts.
+But the NFL doesn’t allow it. In the grand
+tradition of the yellow line, the graphics
+on the field are not there to sell you things,
+but to help you follow the game.

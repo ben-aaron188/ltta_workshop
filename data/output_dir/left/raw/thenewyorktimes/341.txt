@@ -1,0 +1,444 @@
+1
+00:00:01,170 --> 00:00:03,810
+In a remote part
+of Afghanistan —
+
+2
+00:00:03,810 --> 00:00:06,740
+a US military outpost.
+
+3
+00:00:06,740 --> 00:00:08,200
+In the middle of Niger
+
+4
+00:00:08,200 --> 00:00:10,620
+the outlines of an expanded
+base and airstrip.
+
+5
+00:00:10,620 --> 00:00:11,880
+In Syria,
+
+6
+00:00:11,880 --> 00:00:14,370
+exercise routines and
+possible patrolling routes
+
+7
+00:00:14,370 --> 00:00:17,030
+on a base where American
+special forces trained.
+
+8
+00:00:17,030 --> 00:00:20,100
+By design, these secretive
+locations are supposed
+
+9
+00:00:20,100 --> 00:00:22,260
+to be difficult to spot.
+
+10
+00:00:22,260 --> 00:00:24,810
+But a heat map posted
+online by Strava,
+
+11
+00:00:24,810 --> 00:00:27,630
+a company that tracks
+people’s exercise routes,
+
+12
+00:00:27,630 --> 00:00:30,310
+has inadvertently put these places
+on public display
+
+13
+00:00:30,310 --> 00:00:33,400
+for all the world to see.
+
+14
+00:00:33,400 --> 00:00:35,850
+Many of the military
+bases are already well known,
+
+15
+00:00:35,850 --> 00:00:37,990
+like Bagram
+and Kandahar air fields
+
+16
+00:00:37,990 --> 00:00:40,010
+in Afghanistan.
+
+17
+00:00:40,010 --> 00:00:42,010
+And the material
+we’re revealing here
+
+18
+00:00:42,010 --> 00:00:44,320
+doesn’t go beyond anything
+that isn’t already available
+
+19
+00:00:44,320 --> 00:00:45,610
+on the open web.
+
+20
+00:00:45,610 --> 00:00:48,940
+But Strava’s platform has
+drawn attention in a new way
+
+21
+00:00:48,940 --> 00:00:52,240
+to the activity of military
+personnel in far flung outposts
+
+22
+00:00:52,240 --> 00:00:54,400
+and has laid bare some
+loopholes in the security
+
+23
+00:00:54,400 --> 00:00:55,900
+of military bases.
+
+24
+00:00:55,900 --> 00:00:57,220
+How did this happen?
+
+25
+00:00:57,220 --> 00:00:59,200
+Strava is an app
+and social network
+
+26
+00:00:59,200 --> 00:01:01,180
+that connects with
+devices like Fitbit
+
+27
+00:01:01,180 --> 00:01:03,880
+and is used to log workouts.
+
+28
+00:01:03,880 --> 00:01:06,665
+It’s popular with U.S. soldiers
+and others stationed abroad
+
+29
+00:01:06,665 --> 00:01:09,040
+and the Pentagon has distributed
+several thousand of them
+
+30
+00:01:09,040 --> 00:01:10,240
+to its personnel.
+
+31
+00:01:10,240 --> 00:01:11,740
+They use it to
+track their exercise
+
+32
+00:01:11,740 --> 00:01:15,350
+routines and everyday activities
+like walks or patrols.
+
+33
+00:01:15,350 --> 00:01:17,570
+But it also tracks
+users' locations,
+
+34
+00:01:17,570 --> 00:01:19,540
+and in November 2017
+
+35
+00:01:19,540 --> 00:01:21,400
+the company updated
+a map showing over
+
+36
+00:01:21,400 --> 00:01:27,580
+1 billion activities and
+3 trillion GPS points.
+
+37
+00:01:27,580 --> 00:01:30,930
+Twenty-year-old international
+security student Nathan Ruser
+
+38
+00:01:30,930 --> 00:01:33,750
+was the first to point out how
+Strava’s map could compromise
+
+39
+00:01:33,750 --> 00:01:35,940
+operational security.
+
+40
+00:01:35,940 --> 00:01:38,460
+The map alone doesn’t
+show the complete picture
+
+41
+00:01:38,460 --> 00:01:40,640
+and its satellite
+images are outdated,
+
+42
+00:01:40,640 --> 00:01:42,420
+but it does tell
+you where to look.
+
+43
+00:01:42,420 --> 00:01:44,220
+So by combining it
+with recent satellite
+
+44
+00:01:44,220 --> 00:01:47,430
+imagery and other reporting, we
+get a clearer sense of what’s
+
+45
+00:01:47,430 --> 00:01:48,930
+happening on the ground.
+
+46
+00:01:48,930 --> 00:01:52,530
+Take this new U.S. Air
+Force Base in Sarrin, Syria.
+
+47
+00:01:52,530 --> 00:01:55,590
+The map shows workouts are
+walking routes — activities that
+
+48
+00:01:55,590 --> 00:01:59,290
+provide a clear blueprint of the
+base and by tracing the lines,
+
+49
+00:01:59,290 --> 00:02:02,730
+we can follow soldiers to a
+newly set up helicopter pad.
+
+50
+00:02:02,730 --> 00:02:04,740
+Here’s what else we found.
+
+51
+00:02:04,740 --> 00:02:08,100
+A new compound at a French
+military site in Mali,
+
+52
+00:02:08,100 --> 00:02:10,190
+Strava highlighted the camp
+in the first place
+
+53
+00:02:10,190 --> 00:02:13,950
+and no other mapping
+platforms had marked the site.
+
+54
+00:02:13,950 --> 00:02:17,920
+These U.S. forward operating
+bases in Afghanistan.
+
+55
+00:02:17,920 --> 00:02:20,190
+The location of a U.S. drone
+base under construction
+
+56
+00:02:20,190 --> 00:02:25,170
+in Agadez, Niger, and various
+military facilities in Djibouti,
+
+57
+00:02:25,170 --> 00:02:27,180
+where the U.S. is fighting
+extremist groups
+
+58
+00:02:27,180 --> 00:02:29,220
+in the Horn of Africa.
+
+59
+00:02:29,220 --> 00:02:30,690
+And there are some
+mysterious sites
+
+60
+00:02:30,690 --> 00:02:32,500
+that we can’t yet identify.
+
+61
+00:02:32,500 --> 00:02:33,510
+An area in the middle
+
+62
+00:02:33,510 --> 00:02:34,570
+of the Nigerian desert.
+
+63
+00:02:34,570 --> 00:02:38,800
+Two remote locations surrounded
+by sand barriers in Yemen
+
+64
+00:02:38,800 --> 00:02:42,150
+And here’s an unusual activity
+in the desert in Mauritania
+
+65
+00:02:42,150 --> 00:02:44,590
+that led us to a
+suspected military site,
+
+66
+00:02:44,590 --> 00:02:47,420
+including an extended
+airstrip nearby.
+
+67
+00:02:47,420 --> 00:02:50,070
+Strava also allows users
+to share photos
+
+68
+00:02:50,070 --> 00:02:51,470
+and workout routes.
+
+69
+00:02:51,470 --> 00:02:53,491
+It’s basically
+Facebook for athletes.
+
+70
+00:02:53,491 --> 00:02:54,990
+This allows everyone
+with an account
+
+71
+00:02:54,990 --> 00:02:56,880
+to see who is working out
+where.
+
+72
+00:02:56,880 --> 00:02:58,990
+For example,
+the “King of the Camp” run
+
+73
+00:02:58,990 --> 00:03:01,470
+at a U.S. military base
+in Iraq,
+
+74
+00:03:01,470 --> 00:03:03,410
+or the
+“Embassy River Wall Segment”
+
+75
+00:03:03,410 --> 00:03:04,920
+in Baghdad’s green zone,
+
+76
+00:03:04,920 --> 00:03:08,280
+or the perimeter base run
+where more than 15 individuals
+
+77
+00:03:08,280 --> 00:03:12,470
+stationed at a U.S. military base
+challenge themselves.
+
+78
+00:03:12,480 --> 00:03:16,760
+We found photos posted by users
+from inside military bases
+
+79
+00:03:16,760 --> 00:03:19,510
+and the online profiles
+of several U.S. service members
+
+80
+00:03:19,510 --> 00:03:23,250
+stationed at one
+base near Mosul in Iraq.
+
+81
+00:03:23,250 --> 00:03:25,770
+A Pentagon spokeswoman
+said that this data release
+
+82
+00:03:25,770 --> 00:03:27,360
+emphasized the
+need for personnel
+
+83
+00:03:27,360 --> 00:03:29,980
+to have situational awareness.
+
+84
+00:03:29,980 --> 00:03:32,400
+And it’s assessing if any
+additional training or guidance
+
+85
+00:03:32,400 --> 00:03:34,164
+is required.
+
+86
+00:03:34,164 --> 00:03:36,330
+There are some areas where
+people presumably are not
+
+87
+00:03:36,330 --> 00:03:38,410
+allowed to bring their
+cellphones.
+
+88
+00:03:38,410 --> 00:03:39,870
+User activity at C.I.A.
+
+89
+00:03:39,870 --> 00:03:42,690
+and N.S.A. headquarters, 
+for instance, can be seen
+
+90
+00:03:42,690 --> 00:03:45,170
+around the perimeters,
+but not beyond certain points
+
+91
+00:03:45,170 --> 00:03:47,730
+inside the structure.
+
+92
+00:03:47,730 --> 00:03:49,530
+But out in the remote
+corners of the world
+
+93
+00:03:49,530 --> 00:03:51,600
+where the U.S. military
+is operating,
+
+94
+00:03:51,600 --> 00:00:00,000
+there’s plenty to see.
+

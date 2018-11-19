@@ -1,0 +1,319 @@
+1
+00:00:00,890 --> 00:00:03,360
+These are my assistants, Coleman and Phil.
+
+2
+00:00:03,360 --> 00:00:06,000
+They're both around the same height, weight,
+and consequently,
+
+3
+00:00:06,000 --> 00:00:08,620
+they have the same Body Mass Index — or BMI.
+
+4
+00:00:09,220 --> 00:00:14,640
+But if you split them open Damien Hirst style
+or just compare the results of their body
+
+5
+00:00:14,650 --> 00:00:16,850
+scans you can see a slight difference.
+
+6
+00:00:16,850 --> 00:00:21,650
+Phil has more body fat than Coleman, and Coleman
+has more muscle than Phil.
+
+7
+00:00:21,650 --> 00:00:26,510
+Although BMI is a popular measure to assess
+if a person’s weight might be putting them
+
+8
+00:00:26,510 --> 00:00:31,460
+at risk for obesity-related diseases,
+its results can be pretty misleading and less
+
+9
+00:00:31,460 --> 00:00:33,420
+nuanced than we’d like.
+
+10
+00:00:41,000 --> 00:00:45,180
+So the BMI is an index that looks at somebody's
+
+11
+00:00:45,199 --> 00:00:49,370
+body weight divided by their height. So the formula is the body weight
+
+12
+00:00:49,370 --> 00:00:52,820
+in kilograms divided by the height in square meters.
+
+13
+00:00:52,820 --> 00:01:00,850
+18.5 and below is underweight, 18.5 to 24.9
+is your healthy range, 25 to 29.9 is overweight,
+
+14
+00:01:00,850 --> 00:01:04,099
+and a BMI over 30 is classified as obese.
+
+15
+00:01:04,099 --> 00:01:08,810
+With the idea being that the taller somebody is,
+the more they should weigh.
+
+16
+00:01:08,810 --> 00:01:14,009
+Kinda weird how a single decimal point can
+separate being overweight from being obese.
+
+17
+00:01:14,009 --> 00:01:17,990
+The major problem with using BMI as a marker
+
+18
+00:01:17,990 --> 00:01:25,649
+of health when it comes to body weight, because
+it penalizes you if you have a lot of muscle
+
+19
+00:01:25,649 --> 00:01:26,860
+and you're healthier.
+
+20
+00:01:26,860 --> 00:01:30,969
+Let’s use professional athlete Marshawn
+Lynch as an example.
+
+21
+00:01:30,969 --> 00:01:36,260
+He’s 5’11, 215 lbs, and his BMI is 30.
+
+22
+00:01:36,260 --> 00:01:39,010
+He’d be categorized as obese.
+
+23
+00:01:39,010 --> 00:01:42,470
+That is because BMI doesn't distinguish muscle
+from fat.
+
+24
+00:01:42,470 --> 00:01:47,369
+We are really concentrating on how much
+muscle does somebody have, because muscle it's
+
+25
+00:01:47,369 --> 00:01:52,689
+the metabolic engine it's the thing that burns
+calories and the more muscle you have the
+
+26
+00:01:52,689 --> 00:01:59,380
+easier it is for you to stay at a lower and
+more healthy body fat percentage not necessarily
+
+27
+00:01:59,380 --> 00:02:00,380
+a BMI.
+
+28
+00:02:00,380 --> 00:02:06,560
+In this way, BMI’s reliability as an indicator
+of health breaks down for athletes like Lynch.
+
+29
+00:02:06,560 --> 00:02:11,030
+There are several more variables that can
+influence the interpretation of BMI.
+
+30
+00:02:11,030 --> 00:02:13,700
+Things like age, gender, and ethnicity.
+
+31
+00:02:13,700 --> 00:02:18,250
+While BMI is a useful health measure for a
+large population study, for example, to compare
+
+32
+00:02:18,250 --> 00:02:22,540
+relative obesity rates from state to state;
+it becomes more problematic when you use it
+
+33
+00:02:22,540 --> 00:02:25,959
+to determine an individual’s health.
+
+34
+00:02:25,959 --> 00:02:30,010
+The body mass index was introduced in the
+early 19th century.
+
+35
+00:02:30,010 --> 00:02:35,290
+The guy who created the formula — I’m
+so sorry, I’m gonna butcher his name,
+
+36
+00:02:35,290 --> 00:02:39,270
+Lambert Adolphe Jacques Quetelet — wasn’t
+even a physician.
+
+37
+00:02:39,270 --> 00:02:41,080
+Quetelet was a Belgian mathematician.
+
+38
+00:02:41,080 --> 00:02:45,709
+And his reason for creating the formula was
+to study the “normal man”, not obesity.
+
+39
+00:02:45,709 --> 00:02:49,440
+Its use shifted to study obesity because of
+Ancel Keys.
+
+40
+00:02:49,440 --> 00:02:55,420
+In 1972, Keys used the formula in his "Indices
+of Relative Weight and Obesity” study, renamed
+
+41
+00:02:55,420 --> 00:02:59,480
+the formula to body mass index, and
+from there the “new” measure caught on
+
+42
+00:02:59,480 --> 00:03:00,810
+among researchers.
+
+43
+00:03:00,810 --> 00:03:05,720
+Over the years, its use in the health professional
+field grew and it’s pretty much stuck around
+
+44
+00:03:05,720 --> 00:03:06,720
+since.
+
+45
+00:03:06,720 --> 00:03:11,520
+It's easy to use, cheap, fast, and its right about 80% of the time.
+
+46
+00:03:12,840 --> 00:03:16,760
+So even though BMI has stuck around for more than 200 years,
+
+47
+00:03:16,890 --> 00:03:19,870
+it's not the be-all and end-all indicator.
+
+48
+00:03:19,870 --> 00:03:23,950
+There are others ways to assess to body
+composition, and overall health.
+
+49
+00:03:23,950 --> 00:03:27,560
+Hydrostatic weighing, or underwater weighing, is an option.
+
+50
+00:03:27,560 --> 00:03:29,000
+Along with MRI scans,
+
+51
+00:03:29,000 --> 00:03:30,400
+and waist-to-hip ratio.
+
+52
+00:03:30,400 --> 00:03:32,160
+Medical tests like checking blood pressure,
+
+53
+00:03:32,160 --> 00:03:33,080
+your glucose levels,
+
+54
+00:03:33,080 --> 00:03:34,300
+resting metabolic rate,
+
+55
+00:03:34,300 --> 00:03:36,680
+can further give a picture of overall health.
+
+56
+00:03:36,680 --> 00:03:42,240
+I went to George Washington University, and lab director Todd Miller showed me another way,
+
+57
+00:03:42,240 --> 00:03:46,540
+using dual-energy x-ray absorptiometry
+or DEXA image.
+
+58
+00:03:46,540 --> 00:03:53,420
+It measures total body composition, including fat mass, lean body mass, and bone density.
+
+59
+00:03:53,420 --> 00:03:58,680
+So the green is the areas where the
+body is very lean.
+
+60
+00:03:58,680 --> 00:04:01,290
+The yellow areas of moderate fat.
+
+61
+00:04:01,290 --> 00:04:03,180
+And the red areas of high fat.
+
+62
+00:04:03,180 --> 00:04:09,940
+So this person was here July 3rd she
+had 72 pounds of fat and 109 pounds of muscle.
+
+63
+00:04:09,950 --> 00:04:16,420
+And in December 27th of this year she had
+at thirty seven pounds of fat in 115 pounds
+
+64
+00:04:16,420 --> 00:04:17,420
+of muscle.
+
+65
+00:04:17,420 --> 00:04:23,730
+Using this chart you can see if this person stepped on a scale, they'd only see they lost 29 pounds.
+
+66
+00:04:23,730 --> 00:04:27,120
+What the scale wouldn't say is that they gained six pounds of muscles,
+
+67
+00:04:27,280 --> 00:04:29,380
+and BMI wouldn't say that either.
+
+68
+00:04:29,760 --> 00:04:32,420
+So even if two people have similar BMIs,
+
+69
+00:04:32,420 --> 00:04:35,860
+that one number will never truly give either of them
+
+70
+00:04:35,860 --> 00:04:38,320
+the full picture of their overall wellbeing.
+
+71
+00:04:38,320 --> 00:04:43,120
+BMI is an indirect measurement of one aspect of an individual's health.
+
+72
+00:04:43,520 --> 00:00:00,000
+So while it can be helpful, it shouldn't be the only way to understand the human body.
+

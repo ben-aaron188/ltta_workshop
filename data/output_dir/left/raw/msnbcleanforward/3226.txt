@@ -1,0 +1,840 @@
+1
+00:00:00,110 --> 00:00:02,460
+new information<font color="#CCCCCC"> this morning about the</font>
+
+2
+00:00:02,460 --> 00:00:04,410
+<font color="#E5E5E5">safety and security</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> US election</font>
+
+3
+00:00:04,410 --> 00:00:05,879
+system homeland security<font color="#E5E5E5"> secretary</font>
+
+4
+00:00:05,879 --> 00:00:09,059
+Kirsten<font color="#E5E5E5"> Nielsen says it is</font><font color="#CCCCCC"> something the</font>
+
+5
+00:00:09,059 --> 00:00:11,880
+administration<font color="#CCCCCC"> takes seriously I'd love</font>
+
+6
+00:00:11,880 --> 00:00:13,380
+<font color="#CCCCCC">to know how speaking</font><font color="#E5E5E5"> after our</font>
+
+7
+00:00:13,380 --> 00:00:16,500
+closed-door meeting<font color="#E5E5E5"> I think</font><font color="#CCCCCC"> the</font>
+
+8
+00:00:16,500 --> 00:00:18,539
+president's been<font color="#CCCCCC"> very</font><font color="#E5E5E5"> clear that he</font>
+
+9
+00:00:18,539 --> 00:00:20,310
+agrees with<font color="#E5E5E5"> the Intel community</font><font color="#CCCCCC"> that the</font>
+
+10
+00:00:20,310 --> 00:00:22,380
+<font color="#E5E5E5">Russians did attempt to hack or</font>
+
+11
+00:00:22,380 --> 00:00:24,960
+otherwise through cyber means influence
+
+12
+00:00:24,960 --> 00:00:27,330
+our election<font color="#CCCCCC"> and he remains committed</font>
+
+13
+00:00:27,330 --> 00:00:30,420
+that's why we're here today<font color="#E5E5E5"> it's</font>
+
+14
+00:00:30,420 --> 00:00:31,619
+<font color="#CCCCCC">somebody if it is something</font><font color="#E5E5E5"> that the</font>
+
+15
+00:00:31,619 --> 00:00:34,050
+president takes so seriously<font color="#E5E5E5"> I'd like to</font>
+
+16
+00:00:34,050 --> 00:00:36,660
+see where he issued a decree on Twitter
+
+17
+00:00:36,660 --> 00:00:38,719
+on Sunday<font color="#CCCCCC"> calling for an investigation</font>
+
+18
+00:00:38,719 --> 00:00:41,730
+<font color="#CCCCCC">into the investigation of Russian</font>
+
+19
+00:00:41,730 --> 00:00:43,980
+<font color="#E5E5E5">influence in his campaign late Monday</font>
+
+20
+00:00:43,980 --> 00:00:45,239
+the president met with the<font color="#E5E5E5"> man</font>
+
+21
+00:00:45,239 --> 00:00:47,219
+<font color="#CCCCCC">responsible for</font><font color="#E5E5E5"> overseeing that new</font>
+
+22
+00:00:47,219 --> 00:00:49,110
+investigation<font color="#E5E5E5"> Deputy Attorney General</font>
+
+23
+00:00:49,110 --> 00:00:51,199
+<font color="#CCCCCC">rod Rosenstein along with FBI director</font>
+
+24
+00:00:51,199 --> 00:00:53,219
+Chris<font color="#CCCCCC"> Rea so let me just make something</font>
+
+25
+00:00:53,219 --> 00:00:55,800
+<font color="#E5E5E5">clear</font><font color="#CCCCCC"> the president did not ask for us</font>
+
+26
+00:00:55,800 --> 00:00:58,289
+to further investigate what Russia<font color="#E5E5E5"> doing</font>
+
+27
+00:00:58,289 --> 00:01:00,120
+was doing<font color="#E5E5E5"> to potentially try to</font>
+
+28
+00:01:00,120 --> 00:01:01,530
+influence with our last presidential
+
+29
+00:01:01,530 --> 00:01:04,470
+election<font color="#CCCCCC"> to see what Russia or</font><font color="#E5E5E5"> other</font>
+
+30
+00:01:04,470 --> 00:01:06,570
+countries could potentially be doing to
+
+31
+00:01:06,570 --> 00:01:08,820
+<font color="#E5E5E5">try to influence the</font><font color="#CCCCCC"> next election</font><font color="#E5E5E5"> with</font>
+
+32
+00:01:08,820 --> 00:01:10,590
+the president asked for<font color="#E5E5E5"> was an</font>
+
+33
+00:01:10,590 --> 00:01:13,680
+investigation into<font color="#E5E5E5"> the investigators who</font>
+
+34
+00:01:13,680 --> 00:01:15,210
+are<font color="#E5E5E5"> looking into this I want to bring in</font>
+
+35
+00:01:15,210 --> 00:01:16,979
+NBC<font color="#E5E5E5"> News intelligence and national</font>
+
+36
+00:01:16,979 --> 00:01:18,750
+<font color="#CCCCCC">security reporter my friend Kendall</font><font color="#E5E5E5"> E</font>
+
+37
+00:01:18,750 --> 00:01:21,210
+<font color="#E5E5E5">nian and Harry</font><font color="#CCCCCC"> sandack former assistant</font>
+
+38
+00:01:21,210 --> 00:01:23,159
+US<font color="#E5E5E5"> attorney for</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> Southern District of</font>
+
+39
+00:01:23,159 --> 00:01:27,450
+<font color="#CCCCCC">New York Ken I don't even know how to</font>
+
+40
+00:01:27,450 --> 00:01:29,670
+ask this the<font color="#E5E5E5"> secretary says the</font>
+
+41
+00:01:29,670 --> 00:01:32,100
+President does believe Russia tried to
+
+42
+00:01:32,100 --> 00:01:34,409
+influence<font color="#E5E5E5"> the</font><font color="#CCCCCC"> election do we have any</font>
+
+43
+00:01:34,409 --> 00:01:37,140
+any evidence<font color="#CCCCCC"> that the President does</font>
+
+44
+00:01:37,140 --> 00:01:39,630
+believe that<font color="#E5E5E5"> and what action steps</font><font color="#CCCCCC"> what</font>
+
+45
+00:01:39,630 --> 00:01:41,369
+people is he putting in<font color="#E5E5E5"> place what</font>
+
+46
+00:01:41,369 --> 00:01:43,979
+budget<font color="#E5E5E5"> is he approving to look into that</font>
+
+47
+00:01:43,979 --> 00:01:45,630
+<font color="#E5E5E5">because the last I checked</font><font color="#CCCCCC"> I've heard</font>
+
+48
+00:01:45,630 --> 00:01:47,100
+him say it could<font color="#E5E5E5"> be Russia</font>
+
+49
+00:01:47,100 --> 00:01:49,829
+<font color="#CCCCCC">it could be China it could be a</font><font color="#E5E5E5"> 400 400</font>
+
+50
+00:01:49,829 --> 00:01:51,560
+pound fat person on their bed
+
+51
+00:01:51,560 --> 00:01:53,970
+absolutely stuff not<font color="#E5E5E5"> only is there no</font>
+
+52
+00:01:53,970 --> 00:01:55,409
+<font color="#CCCCCC">evidence</font><font color="#E5E5E5"> that he believes</font><font color="#CCCCCC"> that there's a</font>
+
+53
+00:01:55,409 --> 00:01:57,060
+lot<font color="#E5E5E5"> of evidence on the public record to</font>
+
+54
+00:01:57,060 --> 00:01:57,750
+the<font color="#E5E5E5"> contrary</font>
+
+55
+00:01:57,750 --> 00:02:01,049
+for example the in talking<font color="#CCCCCC"> about I it's</font>
+
+56
+00:02:01,049 --> 00:02:03,149
+it's really unclear<font color="#E5E5E5"> I mean it's it's the</font>
+
+57
+00:02:03,149 --> 00:02:05,670
+party line the FBI director Christopher
+
+58
+00:02:05,670 --> 00:02:07,680
+<font color="#CCCCCC">Rea testified under oath</font><font color="#E5E5E5"> to Congress</font>
+
+59
+00:02:07,680 --> 00:02:09,479
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> he was never asked by President</font>
+
+60
+00:02:09,479 --> 00:02:11,790
+<font color="#CCCCCC">Trump</font><font color="#E5E5E5"> to do anything specific about</font>
+
+61
+00:02:11,790 --> 00:02:13,160
+<font color="#CCCCCC">Russian</font><font color="#E5E5E5"> election interfere</font>
+
+62
+00:02:13,160 --> 00:02:15,050
+the head<font color="#E5E5E5"> of the National Security Agency</font>
+
+63
+00:02:15,050 --> 00:02:17,390
+our digital spy agency<font color="#E5E5E5"> said essentially</font>
+
+64
+00:02:17,390 --> 00:02:20,720
+<font color="#E5E5E5">the same thing and we see no government</font>
+
+65
+00:02:20,720 --> 00:02:23,570
+effort no<font color="#E5E5E5"> agency</font><font color="#CCCCCC"> wide effort to</font><font color="#E5E5E5"> tackle</font>
+
+66
+00:02:23,570 --> 00:02:24,830
+this issue<font color="#CCCCCC"> of</font><font color="#E5E5E5"> Russian election</font>
+
+67
+00:02:24,830 --> 00:02:26,930
+interference yes<font color="#E5E5E5"> DHS</font><font color="#CCCCCC"> is working with the</font>
+
+68
+00:02:26,930 --> 00:02:28,550
+states and trying to shore up<font color="#E5E5E5"> their the</font>
+
+69
+00:02:28,550 --> 00:02:31,190
+basic<font color="#E5E5E5"> cybersecurity but there is no</font>
+
+70
+00:02:31,190 --> 00:02:33,230
+effort<font color="#E5E5E5"> on Russian social media</font>
+
+71
+00:02:33,230 --> 00:02:35,240
+interference and manipulation<font color="#E5E5E5"> we're not</font>
+
+72
+00:02:35,240 --> 00:02:36,410
+seeing<font color="#CCCCCC"> that we're seeing that the</font>
+
+73
+00:02:36,410 --> 00:02:38,690
+National<font color="#CCCCCC"> Security</font><font color="#E5E5E5"> Council has</font><font color="#CCCCCC"> eliminated</font>
+
+74
+00:02:38,690 --> 00:02:40,280
+<font color="#E5E5E5">its position of cybersecurity</font>
+
+75
+00:02:40,280 --> 00:02:42,350
+coordinator<font color="#CCCCCC"> the guy who is actually</font>
+
+76
+00:02:42,350 --> 00:02:43,790
+<font color="#CCCCCC">working on</font><font color="#E5E5E5"> that before he was fired</font><font color="#CCCCCC"> Tom</font>
+
+77
+00:02:43,790 --> 00:02:46,190
+<font color="#CCCCCC">Bossert he's not being replaced</font><font color="#E5E5E5"> so it's</font>
+
+78
+00:02:46,190 --> 00:02:48,560
+really unclear we do know<font color="#CCCCCC"> that the</font>
+
+79
+00:02:48,560 --> 00:02:50,210
+president<font color="#CCCCCC"> is very</font><font color="#E5E5E5"> concerned as</font><font color="#CCCCCC"> you said</font>
+
+80
+00:02:50,210 --> 00:02:52,190
+about<font color="#CCCCCC"> this investigation</font><font color="#E5E5E5"> into Russian</font>
+
+81
+00:02:52,190 --> 00:02:53,450
+election interference<font color="#E5E5E5"> but there's really</font>
+
+82
+00:02:53,450 --> 00:02:54,770
+no evidence<font color="#CCCCCC"> that</font><font color="#E5E5E5"> he's doing anything</font>
+
+83
+00:02:54,770 --> 00:02:56,600
+<font color="#E5E5E5">about actual Russian election</font>
+
+84
+00:02:56,600 --> 00:02:58,010
+interference<font color="#E5E5E5"> so I hope</font><font color="#CCCCCC"> that I am</font>
+
+85
+00:02:58,010 --> 00:02:59,900
+<font color="#CCCCCC">absolutely wrong here and Secretary</font>
+
+86
+00:02:59,900 --> 00:03:01,340
+<font color="#CCCCCC">Nielsen</font><font color="#E5E5E5"> I invite you to come</font><font color="#CCCCCC"> on</font>
+
+87
+00:03:01,340 --> 00:03:03,620
+<font color="#E5E5E5">television with me or any person working</font>
+
+88
+00:03:03,620 --> 00:03:05,420
+<font color="#E5E5E5">with her</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> this I would</font><font color="#CCCCCC"> love</font><font color="#E5E5E5"> to know</font>
+
+89
+00:03:05,420 --> 00:03:08,240
+where we<font color="#E5E5E5"> are taking</font><font color="#CCCCCC"> action for</font><font color="#E5E5E5"> me it has</font>
+
+90
+00:03:08,240 --> 00:03:11,090
+been 327 days since the White House has
+
+91
+00:03:11,090 --> 00:03:13,040
+agreed<font color="#CCCCCC"> to sit down</font><font color="#E5E5E5"> for any of the</font>
+
+92
+00:03:13,040 --> 00:03:15,020
+<font color="#E5E5E5">interviews I've</font><font color="#CCCCCC"> requested and if I'm</font>
+
+93
+00:03:15,020 --> 00:03:17,150
+wrong<font color="#E5E5E5"> on this and we</font><font color="#CCCCCC"> are</font><font color="#E5E5E5"> taking action</font><font color="#CCCCCC"> I</font>
+
+94
+00:03:17,150 --> 00:03:19,220
+invite<font color="#E5E5E5"> you to come sit</font><font color="#CCCCCC"> here and explain</font>
+
+95
+00:03:19,220 --> 00:03:20,510
+<font color="#CCCCCC">it to us how</font><font color="#E5E5E5"> our congressional</font>
+
+96
+00:03:20,510 --> 00:03:22,670
+<font color="#E5E5E5">Republicans have been asking</font><font color="#CCCCCC"> for</font>
+
+97
+00:03:22,670 --> 00:03:25,400
+classified information<font color="#E5E5E5"> and it looks like</font>
+
+98
+00:03:25,400 --> 00:03:27,020
+they're going<font color="#E5E5E5"> to get it what do you</font>
+
+99
+00:03:27,020 --> 00:03:28,910
+<font color="#E5E5E5">think about that I don't</font><font color="#CCCCCC"> think it's a</font>
+
+100
+00:03:28,910 --> 00:03:32,360
+<font color="#E5E5E5">good idea congressional oversight is</font>
+
+101
+00:03:32,360 --> 00:03:34,820
+important and when congressional
+
+102
+00:03:34,820 --> 00:03:37,040
+oversight is conducted it's usually in a
+
+103
+00:03:37,040 --> 00:03:39,200
+retrospective way so Congress<font color="#E5E5E5"> can look</font>
+
+104
+00:03:39,200 --> 00:03:41,060
+at an investigation when it's over<font color="#E5E5E5"> and</font>
+
+105
+00:03:41,060 --> 00:03:42,770
+ask<font color="#E5E5E5"> these questions that's right and</font>
+
+106
+00:03:42,770 --> 00:03:46,160
+then make recommendations<font color="#E5E5E5"> on top of this</font>
+
+107
+00:03:46,160 --> 00:03:47,959
+<font color="#E5E5E5">he's deeply involved he's got a</font>
+
+108
+00:03:47,959 --> 00:03:50,090
+<font color="#CCCCCC">whatever-it-is dog in this</font><font color="#E5E5E5"> hunt it</font>
+
+109
+00:03:50,090 --> 00:03:52,040
+<font color="#E5E5E5">definitely seems that way and he's</font>
+
+110
+00:03:52,040 --> 00:03:53,990
+really inserting himself<font color="#E5E5E5"> into the middle</font>
+
+111
+00:03:53,990 --> 00:03:56,420
+of the investigation<font color="#CCCCCC"> we had a situation</font>
+
+112
+00:03:56,420 --> 00:03:58,370
+here where<font color="#E5E5E5"> at first it seemed like the</font>
+
+113
+00:03:58,370 --> 00:04:00,470
+president's own lawyers were asking for
+
+114
+00:04:00,470 --> 00:04:02,900
+information<font color="#CCCCCC"> about the informant about</font>
+
+115
+00:04:02,900 --> 00:04:05,240
+the source of information<font color="#E5E5E5"> and now it</font>
+
+116
+00:04:05,240 --> 00:04:07,520
+seems<font color="#CCCCCC"> like in</font><font color="#E5E5E5"> kind of a compromise</font>
+
+117
+00:04:07,520 --> 00:04:09,740
+<font color="#E5E5E5">measure there's going to be some sharing</font>
+
+118
+00:04:09,740 --> 00:04:11,930
+of<font color="#CCCCCC"> information but</font><font color="#E5E5E5"> maybe less</font><font color="#CCCCCC"> than what</font>
+
+119
+00:04:11,930 --> 00:04:13,850
+was requested<font color="#E5E5E5"> and with Congress</font><font color="#CCCCCC"> rather</font>
+
+120
+00:04:13,850 --> 00:04:15,320
+<font color="#E5E5E5">than let's say with the president's own</font>
+
+121
+00:04:15,320 --> 00:04:17,540
+lawyers<font color="#CCCCCC"> okay but we can say all the day</font>
+
+122
+00:04:17,540 --> 00:04:19,790
+<font color="#CCCCCC">long this doesn't sound good I mean Rudy</font>
+
+123
+00:04:19,790 --> 00:04:22,340
+Giuliani Rudy<font color="#E5E5E5"> Giuliani went so far as to</font>
+
+124
+00:04:22,340 --> 00:04:25,610
+<font color="#E5E5E5">say congressional leadership deserves</font>
+
+125
+00:04:25,610 --> 00:04:26,060
+this in
+
+126
+00:04:26,060 --> 00:04:28,580
+formation but he also said yes it would
+
+127
+00:04:28,580 --> 00:04:30,530
+help the president<font color="#CCCCCC"> defend himself</font>
+
+128
+00:04:30,530 --> 00:04:32,630
+against<font color="#E5E5E5"> robert muller and we might say</font>
+
+129
+00:04:32,630 --> 00:04:34,250
+well<font color="#CCCCCC"> that doesn't sound right but it's</font>
+
+130
+00:04:34,250 --> 00:04:36,050
+still happening<font color="#CCCCCC"> and there's a report out</font>
+
+131
+00:04:36,050 --> 00:04:38,090
+that<font color="#CCCCCC"> trump fundraiser Eliot</font><font color="#E5E5E5"> Brody</font>
+
+132
+00:04:38,090 --> 00:04:41,480
+<font color="#CCCCCC">promised himself as excuse me</font><font color="#E5E5E5"> he</font>
+
+133
+00:04:41,480 --> 00:04:43,550
+<font color="#E5E5E5">promoted himself as a</font><font color="#CCCCCC"> back-channel to</font>
+
+134
+00:04:43,550 --> 00:04:45,530
+the White House<font color="#E5E5E5"> to secure a billion</font>
+
+135
+00:04:45,530 --> 00:04:47,480
+dollars<font color="#E5E5E5"> worth of business from Saudi</font>
+
+136
+00:04:47,480 --> 00:04:50,389
+<font color="#CCCCCC">Arabia and Qatar</font><font color="#E5E5E5"> when I read these</font>
+
+137
+00:04:50,389 --> 00:04:52,100
+headlines of course<font color="#CCCCCC"> oh my god it's</font>
+
+138
+00:04:52,100 --> 00:04:54,290
+unethical it's the swamp<font color="#CCCCCC"> but when do</font>
+
+139
+00:04:54,290 --> 00:04:57,260
+these issues actually<font color="#E5E5E5"> matter</font><font color="#CCCCCC"> well one</font>
+
+140
+00:04:57,260 --> 00:04:59,419
+would think<font color="#E5E5E5"> based on the fact that it's</font>
+
+141
+00:04:59,419 --> 00:05:01,010
+<font color="#E5E5E5">been reported that</font><font color="#CCCCCC"> George nadir has been</font>
+
+142
+00:05:01,010 --> 00:05:02,570
+meeting with<font color="#E5E5E5"> the</font><font color="#CCCCCC"> mother investigators</font>
+
+143
+00:05:02,570 --> 00:05:04,460
+that at some point<font color="#CCCCCC"> they'll be</font><font color="#E5E5E5"> a</font>
+
+144
+00:05:04,460 --> 00:05:06,530
+reckoning here and the mother team<font color="#E5E5E5"> has</font>
+
+145
+00:05:06,530 --> 00:05:08,630
+proceeded appropriately in a very secret
+
+146
+00:05:08,630 --> 00:05:10,070
+way they make their statements not
+
+147
+00:05:10,070 --> 00:05:11,690
+through leaks or press<font color="#CCCCCC"> releases but</font>
+
+148
+00:05:11,690 --> 00:05:13,460
+<font color="#E5E5E5">through their indictments and court</font>
+
+149
+00:05:13,460 --> 00:05:16,910
+appearances<font color="#CCCCCC"> and one would fairly expect</font>
+
+150
+00:05:16,910 --> 00:05:19,760
+that if<font color="#CCCCCC"> Nader is cooperating if Brody</font>
+
+151
+00:05:19,760 --> 00:05:21,620
+has already become kind of<font color="#E5E5E5"> a focus of</font>
+
+152
+00:05:21,620 --> 00:05:23,180
+interest<font color="#E5E5E5"> because</font><font color="#CCCCCC"> of his role in the</font>
+
+153
+00:05:23,180 --> 00:05:25,370
+Michael Cohen<font color="#CCCCCC"> piece</font><font color="#E5E5E5"> of the investigation</font>
+
+154
+00:05:25,370 --> 00:05:27,139
+<font color="#CCCCCC">that may be under</font><font color="#E5E5E5"> investigation the</font>
+
+155
+00:05:27,139 --> 00:05:29,150
+Southern District of<font color="#E5E5E5"> New</font><font color="#CCCCCC"> York</font><font color="#E5E5E5"> one would</font>
+
+156
+00:05:29,150 --> 00:05:32,060
+<font color="#E5E5E5">think that his time is coming</font><font color="#CCCCCC"> okay then</font>
+
+157
+00:05:32,060 --> 00:05:33,860
+if we're<font color="#E5E5E5"> saying his time is coming and</font>
+
+158
+00:05:33,860 --> 00:05:35,030
+we know there have already been
+
+159
+00:05:35,030 --> 00:05:36,919
+indictments we know you've got people
+
+160
+00:05:36,919 --> 00:05:39,229
+<font color="#E5E5E5">pleading guilty and</font><font color="#CCCCCC"> flippin Allah</font><font color="#E5E5E5"> I</font>
+
+161
+00:05:39,229 --> 00:05:41,060
+think just a week ago<font color="#CCCCCC"> Paul Manafort</font>
+
+162
+00:05:41,060 --> 00:05:43,760
+son-in-law should we be less<font color="#E5E5E5"> concerned</font>
+
+163
+00:05:43,760 --> 00:05:46,729
+<font color="#E5E5E5">that rod Rosenstein is pleasing the</font>
+
+164
+00:05:46,729 --> 00:05:48,710
+<font color="#CCCCCC">President and saying yes</font><font color="#E5E5E5"> we'll look</font><font color="#CCCCCC"> into</font>
+
+165
+00:05:48,710 --> 00:05:51,560
+this could he be<font color="#CCCCCC"> simply walking a very</font>
+
+166
+00:05:51,560 --> 00:05:53,780
+<font color="#CCCCCC">difficult line</font><font color="#E5E5E5"> because he's trying to</font>
+
+167
+00:05:53,780 --> 00:05:56,210
+buy more<font color="#E5E5E5"> time</font><font color="#CCCCCC"> for Robert Muller</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> he</font>
+
+168
+00:05:56,210 --> 00:05:58,160
+<font color="#E5E5E5">doesn't want to put the</font><font color="#CCCCCC"> president in</font><font color="#E5E5E5"> in</font>
+
+169
+00:05:58,160 --> 00:06:00,680
+in an absolute rage<font color="#E5E5E5"> where he's gonna</font>
+
+170
+00:06:00,680 --> 00:06:02,330
+<font color="#E5E5E5">pull a Saturday night</font><font color="#CCCCCC"> Massacre</font><font color="#E5E5E5"> I think</font>
+
+171
+00:06:02,330 --> 00:06:04,430
+that's exactly what's happening<font color="#CCCCCC"> it's</font>
+
+172
+00:06:04,430 --> 00:06:07,460
+easy<font color="#E5E5E5"> from the perspective</font><font color="#CCCCCC"> of people</font><font color="#E5E5E5"> on</font>
+
+173
+00:06:07,460 --> 00:06:09,740
+the<font color="#CCCCCC"> outside and</font><font color="#E5E5E5"> I don't</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> that</font>
+
+174
+00:06:09,740 --> 00:06:11,539
+they're wrong who said<font color="#E5E5E5"> why did he do</font>
+
+175
+00:06:11,539 --> 00:06:12,500
+this<font color="#CCCCCC"> he should</font><font color="#E5E5E5"> have</font><font color="#CCCCCC"> just said no</font>
+
+176
+00:06:12,500 --> 00:06:14,510
+president we're not doing this at all
+
+177
+00:06:14,510 --> 00:06:16,130
+there's nothing<font color="#E5E5E5"> more information than we</font>
+
+178
+00:06:16,130 --> 00:06:18,229
+<font color="#E5E5E5">do he has more information</font><font color="#CCCCCC"> than we do</font>
+
+179
+00:06:18,229 --> 00:06:20,180
+and he also picked I think an
+
+180
+00:06:20,180 --> 00:06:21,680
+<font color="#E5E5E5">interesting middle ground he said let's</font>
+
+181
+00:06:21,680 --> 00:06:22,820
+refer this to<font color="#E5E5E5"> the office of the</font>
+
+182
+00:06:22,820 --> 00:06:24,650
+<font color="#E5E5E5">inspector general that's a component of</font>
+
+183
+00:06:24,650 --> 00:06:25,910
+the<font color="#CCCCCC"> Department of Justice that's</font>
+
+184
+00:06:25,910 --> 00:06:27,380
+independent from the political<font color="#CCCCCC"> process</font>
+
+185
+00:06:27,380 --> 00:06:29,389
+<font color="#CCCCCC">and looks at allegations of wrongdoing</font>
+
+186
+00:06:29,389 --> 00:06:32,150
+by Department of<font color="#E5E5E5"> Justice personnel so</font>
+
+187
+00:06:32,150 --> 00:06:33,770
+it's a perfect<font color="#E5E5E5"> place to put</font><font color="#CCCCCC"> this let</font>
+
+188
+00:06:33,770 --> 00:06:35,840
+them investigate it<font color="#E5E5E5"> if the public</font>
+
+189
+00:06:35,840 --> 00:06:37,490
+reporting is<font color="#E5E5E5"> right they'll come back</font><font color="#CCCCCC"> and</font>
+
+190
+00:06:37,490 --> 00:06:39,010
+<font color="#CCCCCC">say there's nothing here but</font><font color="#E5E5E5"> that'll</font>
+
+191
+00:06:39,010 --> 00:06:41,500
+months from<font color="#CCCCCC"> now</font><font color="#E5E5E5"> and the president will</font>
+
+192
+00:06:41,500 --> 00:06:43,540
+have perhaps moved on to other<font color="#CCCCCC"> issues</font>
+
+193
+00:06:43,540 --> 00:06:45,550
+and in the meantime<font color="#E5E5E5"> the investigation</font>
+
+194
+00:06:45,550 --> 00:06:47,470
+continues so I think<font color="#E5E5E5"> he's walking a very</font>
+
+195
+00:06:47,470 --> 00:06:49,750
+fine line<font color="#CCCCCC"> trying</font><font color="#E5E5E5"> to avoid</font><font color="#CCCCCC"> the</font>
+
+196
+00:06:49,750 --> 00:06:51,790
+interference with the investigation<font color="#E5E5E5"> but</font>
+
+197
+00:06:51,790 --> 00:06:55,660
+<font color="#E5E5E5">also trying to avoid being fired</font><font color="#CCCCCC"> there</font>
+
+198
+00:06:55,660 --> 00:06:57,580
+you have<font color="#CCCCCC"> it</font><font color="#E5E5E5"> all right can I</font><font color="#CCCCCC"> apologize to</font>
+
+199
+00:06:57,580 --> 00:06:59,710
+you<font color="#E5E5E5"> when my guest says you're exactly</font>
+
+200
+00:06:59,710 --> 00:07:01,870
+right<font color="#CCCCCC"> I try</font><font color="#E5E5E5"> to end on that high note and</font>
+
+201
+00:07:01,870 --> 00:07:03,190
+and Harry<font color="#E5E5E5"> thank you sir</font>
+
+202
+00:07:03,190 --> 00:07:05,770
+hey MSNBC fans thanks<font color="#CCCCCC"> for checking out</font>
+
+203
+00:07:05,770 --> 00:07:07,930
+our<font color="#CCCCCC"> YouTube channel subscribe by</font>
+
+204
+00:07:07,930 --> 00:07:10,090
+clicking on<font color="#E5E5E5"> that button down there and</font>
+
+205
+00:07:10,090 --> 00:07:13,270
+click<font color="#E5E5E5"> on any of the videos here to watch</font>
+
+206
+00:07:13,270 --> 00:07:15,220
+the latest interviews and highlights you
+
+207
+00:07:15,220 --> 00:07:17,620
+can<font color="#E5E5E5"> get more</font><font color="#CCCCCC"> MSNBC for</font><font color="#E5E5E5"> free every</font><font color="#CCCCCC"> day</font>
+
+208
+00:07:17,620 --> 00:07:19,390
+with our newsletters just visit
+
+209
+00:07:19,390 --> 00:07:22,930
+msnbc.com<font color="#CCCCCC"> slash newsletters</font><font color="#E5E5E5"> to sign up</font>
+
+210
+00:07:22,930 --> 00:00:00,000
+<font color="#E5E5E5">now</font>
+

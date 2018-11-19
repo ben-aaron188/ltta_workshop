@@ -1,0 +1,93 @@
+what is the Bitcoin it's a technology
+the navels people to move money around
+anonymously it's harder to trace and
+it's so anonymous 100% untraceable
+people like to think that bitcoin is
+anonymous afternoon but buried in last
+month's special council indictment of 12
+alleged Russian spies is an explanation
+of how law enforcement tracked and
+identified the suspects using their
+cryptocurrency transactions the
+defendants used a network of computers
+around the world and they paid for it
+using crypto currencies one blockchain
+developer was also able to trace Bitcoin
+purchases back to Russia's Intelligence
+Agency the GRU using only public
+information he agreed to show vice news
+how almost anyone with a Bitcoin wallet
+could do something similar it is not a
+good idea to commit crime with Bitcoin
+because the moment you have one single
+weak link in your operational security
+all of your history is now exposed as
+we've seen in case after case indictment
+after indictment where they're shutting
+down drug trading exchanges that are
+operating illegally it's not just
+traceable it's trivial to trace these
+things the Russian agents were cam 2
+half from the GRU used Bitcoin as part
+of the moment exactly as part of the
+mole investigation it lists out several
+counts count 10 very specifically talks
+about how these Russian operatives from
+the GRU used Bitcoin amongst other
+crypto currencies to buy services needed
+to perform the alleged hacking there was
+a very specific call-out for a certain
+transaction amount that occurred on a
+specific date and when you went back
+into the blockchain and looked at it you
+can literally say alright
+there was a transaction for 0.026
+zero for three Bitcoin that's a very
+specific number right so you're saying
+that because you looked in the
+indictment and saw the exact amount of
+Bitcoin that they used that Russian
+agent was the only one to spend that
+exact amount of Bitcoin in that 24 hour
+period right exact time what if you
+wanted to trace back my Bitcoin payments
+do you think you can do that if you gave
+you some starting data yes so let's try
+it okay so I think I have like 30
+dollars in Bitcoin here sure so this VPN
+here costs $4.95 that's a very specific
+Bitcoin amount it's already on the
+blockchain this is the destination you
+sent it to this is the address it was
+sent from I can see that this wallet
+actually had transfers of Bitcoin from
+this wallet here an intermediate wallet
+this is not in exactly a normal address
+if you look at the number of
+transactions it has 118 transactions
+related to it and in fact this looks
+like a coin base the first thing a law
+enforcement might do is say okay this
+looks like in exchange I should go see
+if I have a record of this and any other
+transactions we've looked at if it is an
+exchange we go subpoena the exchange
+suddenly I know your name address
+because you had to submit your driver's
+license to start buying the coin in the
+first place so because all these
+transactions are listed and they're all
+verified by encryption and math sure all
+you can really hope to do is obscure
+your footsteps write someone with enough
+time and dedication will be able to
+trace your path back let's say I'm using
+Bitcoin but I'm like you know the feds
+they just keep getting me what what is
+better than Bitcoin cash let's pull your
+best bet for anonymity why it's cash
+better as in real life if you go meet
+someone in a dark alley and you hand
+over cash and there's not a camera
+nearby transaction is over
+you

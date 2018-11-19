@@ -1,0 +1,440 @@
+1
+00:00:00,030 --> 00:00:03,060
+in 2018<font color="#E5E5E5"> space X will launch a new</font><font color="#CCCCCC"> GPS</font>
+
+2
+00:00:03,060 --> 00:00:05,430
+satellite for the<font color="#E5E5E5"> US Air Force</font><font color="#CCCCCC"> GPS</font><font color="#E5E5E5"> has</font>
+
+3
+00:00:05,430 --> 00:00:08,039
+<font color="#CCCCCC">been vital in navigation for decades</font><font color="#E5E5E5"> but</font>
+
+4
+00:00:08,039 --> 00:00:09,990
+who actually owns<font color="#E5E5E5"> the Global Positioning</font>
+
+5
+00:00:09,990 --> 00:00:19,470
+<font color="#E5E5E5">System well officially GPS was created</font>
+
+6
+00:00:19,470 --> 00:00:21,510
+<font color="#E5E5E5">launched and maintained by</font><font color="#CCCCCC"> the United</font>
+
+7
+00:00:21,510 --> 00:00:23,910
+States<font color="#CCCCCC"> specifically by the</font><font color="#E5E5E5"> Air Force</font>
+
+8
+00:00:23,910 --> 00:00:26,430
+Space Command<font color="#CCCCCC"> the idea</font><font color="#E5E5E5"> originally came</font>
+
+9
+00:00:26,430 --> 00:00:28,140
+after Russia launched the<font color="#E5E5E5"> first-ever</font>
+
+10
+00:00:28,140 --> 00:00:30,929
+satellite<font color="#E5E5E5"> Sputnik American scientists</font>
+
+11
+00:00:30,929 --> 00:00:32,219
+realized that<font color="#CCCCCC"> they were able to</font>
+
+12
+00:00:32,219 --> 00:00:34,350
+<font color="#E5E5E5">calculate the position by interpreting</font>
+
+13
+00:00:34,350 --> 00:00:36,180
+<font color="#E5E5E5">the signals sent down from the satellite</font>
+
+14
+00:00:36,180 --> 00:00:38,309
+around the start of the Cold<font color="#E5E5E5"> War the US</font>
+
+15
+00:00:38,309 --> 00:00:39,960
+<font color="#E5E5E5">was secretly working on a way to</font>
+
+16
+00:00:39,960 --> 00:00:42,120
+<font color="#E5E5E5">increase the accuracy of its nuclear</font>
+
+17
+00:00:42,120 --> 00:00:44,129
+warheads<font color="#E5E5E5"> as a deterrent</font><font color="#CCCCCC"> to the Soviet</font>
+
+18
+00:00:44,129 --> 00:00:46,620
+<font color="#E5E5E5">Union by the 1980s the positioning</font>
+
+19
+00:00:46,620 --> 00:00:48,989
+system was conceptually operational but
+
+20
+00:00:48,989 --> 00:00:52,530
+limited to<font color="#E5E5E5"> military use however in 1983</font>
+
+21
+00:00:52,530 --> 00:00:55,110
+a Korean Airlines flight was shot down
+
+22
+00:00:55,110 --> 00:00:56,640
+<font color="#E5E5E5">by</font><font color="#CCCCCC"> the Russian military after</font>
+
+23
+00:00:56,640 --> 00:00:58,109
+accidentally entering prohibited
+
+24
+00:00:58,109 --> 00:01:00,960
+airspace<font color="#CCCCCC"> the event galvanized both sides</font>
+
+25
+00:01:00,960 --> 00:01:03,059
+the Cold War and in an<font color="#E5E5E5"> effort to avoid</font>
+
+26
+00:01:03,059 --> 00:01:04,920
+<font color="#E5E5E5">similar accidents from jeopardizing</font>
+
+27
+00:01:04,920 --> 00:01:07,320
+peace President Ronald Reagan announced
+
+28
+00:01:07,320 --> 00:01:09,240
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> existence of the global positioning</font>
+
+29
+00:01:09,240 --> 00:01:10,830
+system and promised<font color="#CCCCCC"> to make</font><font color="#E5E5E5"> it available</font>
+
+30
+00:01:10,830 --> 00:01:13,020
+<font color="#CCCCCC">for civilians</font><font color="#E5E5E5"> when it was fully up and</font>
+
+31
+00:01:13,020 --> 00:01:16,170
+running<font color="#CCCCCC"> about a</font><font color="#E5E5E5"> decade later in 1994 the</font>
+
+32
+00:01:16,170 --> 00:01:18,450
+first 24 satellites necessary for
+
+33
+00:01:18,450 --> 00:01:20,549
+accurate coverage were launched at<font color="#E5E5E5"> the</font>
+
+34
+00:01:20,549 --> 00:01:22,710
+total expense of about<font color="#E5E5E5"> 10 to 12 billion</font>
+
+35
+00:01:22,710 --> 00:01:25,170
+dollars<font color="#E5E5E5"> plus hundreds of million dollars</font>
+
+36
+00:01:25,170 --> 00:01:26,270
+a year in<font color="#E5E5E5"> maintenance</font>
+
+37
+00:01:26,270 --> 00:01:28,409
+despite Reagan's promise to make<font color="#E5E5E5"> the</font>
+
+38
+00:01:28,409 --> 00:01:29,820
+system<font color="#E5E5E5"> available to the public</font>
+
+39
+00:01:29,820 --> 00:01:31,740
+civilians<font color="#E5E5E5"> were limited to a weaker and</font>
+
+40
+00:01:31,740 --> 00:01:33,810
+intentionally degraded signal called
+
+41
+00:01:33,810 --> 00:01:36,659
+selective availability<font color="#E5E5E5"> until May 2000</font>
+
+42
+00:01:36,659 --> 00:01:38,640
+<font color="#E5E5E5">this secondary signal assured the US</font>
+
+43
+00:01:38,640 --> 00:01:40,619
+military in advantage in case an enemy
+
+44
+00:01:40,619 --> 00:01:42,960
+were to use their own GPS<font color="#E5E5E5"> against them</font>
+
+45
+00:01:42,960 --> 00:01:44,970
+<font color="#E5E5E5">with the</font><font color="#CCCCCC"> development</font><font color="#E5E5E5"> of new technologies</font>
+
+46
+00:01:44,970 --> 00:01:46,439
+this advantage soon became irrelevant
+
+47
+00:01:46,439 --> 00:01:48,960
+<font color="#CCCCCC">and President Bill Clinton removed the</font>
+
+48
+00:01:48,960 --> 00:01:50,220
+restriction<font color="#E5E5E5"> for civilians</font>
+
+49
+00:01:50,220 --> 00:01:52,680
+<font color="#E5E5E5">today GPS is maintained by the US</font>
+
+50
+00:01:52,680 --> 00:01:54,299
+Department of<font color="#E5E5E5"> Defense</font><font color="#CCCCCC"> and includes</font>
+
+51
+00:01:54,299 --> 00:01:55,710
+<font color="#E5E5E5">members from the Department</font><font color="#CCCCCC"> of Homeland</font>
+
+52
+00:01:55,710 --> 00:01:57,600
+Security<font color="#CCCCCC"> the Joint Chiefs of Staff and</font>
+
+53
+00:01:57,600 --> 00:02:00,899
+NASA<font color="#E5E5E5"> in fact the DoD</font><font color="#CCCCCC"> is required by law</font>
+
+54
+00:02:00,899 --> 00:02:03,420
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> maintain continuous worldwide</font>
+
+55
+00:02:03,420 --> 00:02:05,579
+<font color="#E5E5E5">standard positioning service</font><font color="#CCCCCC"> 'as due to</font>
+
+56
+00:02:05,579 --> 00:02:07,680
+its use in transportation<font color="#CCCCCC"> public</font><font color="#E5E5E5"> safety</font>
+
+57
+00:02:07,680 --> 00:02:10,560
+economy science<font color="#CCCCCC"> timing and especially</font>
+
+58
+00:02:10,560 --> 00:02:11,540
+<font color="#E5E5E5">safety</font>
+
+59
+00:02:11,540 --> 00:02:14,239
+like<font color="#E5E5E5"> navigation in the air and water</font><font color="#CCCCCC"> GPS</font>
+
+60
+00:02:14,239 --> 00:02:16,280
+<font color="#E5E5E5">is operating cost is roughly estimated</font>
+
+61
+00:02:16,280 --> 00:02:17,840
+at seven<font color="#E5E5E5"> hundred and</font><font color="#CCCCCC"> fifty million</font>
+
+62
+00:02:17,840 --> 00:02:20,659
+<font color="#E5E5E5">dollars a</font><font color="#CCCCCC"> year</font><font color="#E5E5E5"> but despite its ubiquity</font>
+
+63
+00:02:20,659 --> 00:02:22,670
+the<font color="#CCCCCC"> u.s.</font><font color="#E5E5E5"> isn't the only country</font><font color="#CCCCCC"> to run</font><font color="#E5E5E5"> a</font>
+
+64
+00:02:22,670 --> 00:02:25,310
+<font color="#CCCCCC">global positioning system both India and</font>
+
+65
+00:02:25,310 --> 00:02:27,319
+Russia<font color="#E5E5E5"> have also developed Global</font>
+
+66
+00:02:27,319 --> 00:02:29,540
+<font color="#E5E5E5">Positioning Systems Russia's GLONASS</font>
+
+67
+00:02:29,540 --> 00:02:31,519
+system<font color="#E5E5E5"> was developed around the same</font>
+
+68
+00:02:31,519 --> 00:02:34,220
+<font color="#E5E5E5">time as GPS however it did not manage to</font>
+
+69
+00:02:34,220 --> 00:02:35,810
+<font color="#E5E5E5">reach</font><font color="#CCCCCC"> the same level of global</font><font color="#E5E5E5"> coverage</font>
+
+70
+00:02:35,810 --> 00:02:38,060
+<font color="#CCCCCC">until roughly</font><font color="#E5E5E5"> a decade</font><font color="#CCCCCC"> after the</font><font color="#E5E5E5"> u.s.</font>
+
+71
+00:02:38,060 --> 00:02:40,280
+system<font color="#E5E5E5"> it's primarily used by the</font>
+
+72
+00:02:40,280 --> 00:02:42,230
+Russian military<font color="#E5E5E5"> and some civilians and</font>
+
+73
+00:02:42,230 --> 00:02:44,389
+today<font color="#E5E5E5"> actually provides a more</font><font color="#CCCCCC"> accurate</font>
+
+74
+00:02:44,389 --> 00:02:46,879
+reading<font color="#E5E5E5"> of about 2 to 3 meters compared</font>
+
+75
+00:02:46,879 --> 00:02:49,180
+to GPS<font color="#CCCCCC"> at best three and a</font><font color="#E5E5E5"> half meters</font>
+
+76
+00:02:49,180 --> 00:02:51,680
+<font color="#E5E5E5">the Indian regional navigation satellite</font>
+
+77
+00:02:51,680 --> 00:02:55,129
+system was<font color="#E5E5E5"> only finished in 2016 and is</font>
+
+78
+00:02:55,129 --> 00:02:56,840
+not yet fully operational<font color="#E5E5E5"> and</font>
+
+79
+00:02:56,840 --> 00:02:59,329
+additionally<font color="#CCCCCC"> only covers</font><font color="#E5E5E5"> India and the</font>
+
+80
+00:02:59,329 --> 00:03:01,549
+surrounding regions<font color="#E5E5E5"> making it not nearly</font>
+
+81
+00:03:01,549 --> 00:03:04,879
+as<font color="#E5E5E5"> useful as GLONASS or GPS China Japan</font>
+
+82
+00:03:04,879 --> 00:03:06,620
+and the European<font color="#CCCCCC"> Union are also</font>
+
+83
+00:03:06,620 --> 00:03:08,840
+developing<font color="#E5E5E5"> similar systems but are much</font>
+
+84
+00:03:08,840 --> 00:03:09,709
+farther<font color="#E5E5E5"> behind</font>
+
+85
+00:03:09,709 --> 00:03:12,109
+<font color="#E5E5E5">GPS is integral</font><font color="#CCCCCC"> to navigation</font><font color="#E5E5E5"> systems</font>
+
+86
+00:03:12,109 --> 00:03:14,030
+for both<font color="#CCCCCC"> military and civilian purposes</font>
+
+87
+00:03:14,030 --> 00:03:16,669
+<font color="#CCCCCC">in fact every country in the world</font><font color="#E5E5E5"> can</font>
+
+88
+00:03:16,669 --> 00:03:19,250
+use GPS<font color="#E5E5E5"> free of charge but ultimately</font>
+
+89
+00:03:19,250 --> 00:03:22,129
+<font color="#E5E5E5">it's owned and operated exclusively by</font>
+
+90
+00:03:22,129 --> 00:03:24,650
+<font color="#E5E5E5">the United States we can't do episodes</font>
+
+91
+00:03:24,650 --> 00:03:26,120
+like<font color="#E5E5E5"> this without help from our sponsors</font>
+
+92
+00:03:26,120 --> 00:03:28,639
+like<font color="#E5E5E5"> domain.com join millions</font><font color="#CCCCCC"> of others</font>
+
+93
+00:03:28,639 --> 00:03:30,919
+<font color="#CCCCCC">online with your</font><font color="#E5E5E5"> comm or.net domain name</font>
+
+94
+00:03:30,919 --> 00:03:33,049
+<font color="#E5E5E5">be recognized with the</font><font color="#CCCCCC"> world's premier</font>
+
+95
+00:03:33,049 --> 00:03:34,940
+web addresses<font color="#E5E5E5"> and our friends at</font>
+
+96
+00:03:34,940 --> 00:03:37,159
+domain.com<font color="#CCCCCC"> are giving fans 20% off</font>
+
+97
+00:03:37,159 --> 00:03:39,019
+domain names and<font color="#E5E5E5"> web</font><font color="#CCCCCC"> hosting</font><font color="#E5E5E5"> when you</font>
+
+98
+00:03:39,019 --> 00:03:40,959
+use coupon code seeker at<font color="#E5E5E5"> checkout</font>
+
+99
+00:03:40,959 --> 00:03:42,979
+<font color="#E5E5E5">pretty much everyone who owns a</font>
+
+100
+00:03:42,979 --> 00:03:45,739
+smartphone<font color="#E5E5E5"> has access to GPS but how</font>
+
+101
+00:03:45,739 --> 00:03:48,229
+<font color="#CCCCCC">exactly</font><font color="#E5E5E5"> does it track your location</font><font color="#CCCCCC"> find</font>
+
+102
+00:03:48,229 --> 00:03:49,729
+out by watching<font color="#CCCCCC"> this</font><font color="#E5E5E5"> video from dnews</font>
+
+103
+00:03:49,729 --> 00:03:51,650
+<font color="#E5E5E5">the US Naval</font><font color="#CCCCCC"> Observatory in Washington</font>
+
+104
+00:03:51,650 --> 00:03:53,959
+<font color="#CCCCCC">DC is the</font><font color="#E5E5E5"> official</font><font color="#CCCCCC"> United States time</font>
+
+105
+00:03:53,959 --> 00:03:56,479
+they mark time by measuring billions of
+
+106
+00:03:56,479 --> 00:04:01,250
+a second using 9,192,631,770 electron
+
+107
+00:04:01,250 --> 00:04:03,799
+vibrations<font color="#E5E5E5"> of a cesium 133 atom</font><font color="#CCCCCC"> don't</font>
+
+108
+00:04:03,799 --> 00:04:06,139
+<font color="#CCCCCC">forget</font><font color="#E5E5E5"> that thanks</font><font color="#CCCCCC"> watching seeker daily</font>
+
+109
+00:04:06,139 --> 00:04:07,609
+make sure<font color="#E5E5E5"> to LIKE and subscribe</font><font color="#CCCCCC"> for new</font>
+
+110
+00:04:07,609 --> 00:00:00,000
+videos<font color="#E5E5E5"> every day</font>
+

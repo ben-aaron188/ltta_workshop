@@ -1,0 +1,276 @@
+1
+00:00:00,000 --> 00:00:01,740
+now an app which does<font color="#E5E5E5"> let you</font><font color="#CCCCCC"> know if</font>
+
+2
+00:00:01,740 --> 00:00:03,870
+your home<font color="#E5E5E5"> is being snooped on has</font><font color="#CCCCCC"> been</font>
+
+3
+00:00:03,870 --> 00:00:05,430
+developed by<font color="#CCCCCC"> the</font><font color="#E5E5E5"> American whistleblower</font>
+
+4
+00:00:05,430 --> 00:00:07,470
+<font color="#CCCCCC">an anti surveillance campaigner</font><font color="#E5E5E5"> Edward</font>
+
+5
+00:00:07,470 --> 00:00:10,230
+Snowden<font color="#E5E5E5"> it works on</font><font color="#CCCCCC"> Android devices and</font>
+
+6
+00:00:10,230 --> 00:00:13,110
+can spot shadowy electronic intrusion
+
+7
+00:00:13,110 --> 00:00:15,809
+<font color="#CCCCCC">but Sunita</font><font color="#E5E5E5"> Sethi now explains it might</font>
+
+8
+00:00:15,809 --> 00:00:17,940
+also reveal<font color="#E5E5E5"> a</font><font color="#CCCCCC"> few things you might want</font>
+
+9
+00:00:17,940 --> 00:00:21,720
+to keep quiet<font color="#E5E5E5"> Edward Snowden has set</font><font color="#CCCCCC"> out</font>
+
+10
+00:00:21,720 --> 00:00:23,670
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> prove he's</font><font color="#CCCCCC"> capable of much more</font><font color="#E5E5E5"> than</font>
+
+11
+00:00:23,670 --> 00:00:26,640
+<font color="#E5E5E5">leaking NSA secrets he's keeping</font><font color="#CCCCCC"> up the</font>
+
+12
+00:00:26,640 --> 00:00:28,740
+fight<font color="#E5E5E5"> against digital</font><font color="#CCCCCC"> surveillance this</font>
+
+13
+00:00:28,740 --> 00:00:31,230
+time it's in<font color="#E5E5E5"> the form of an app he's</font>
+
+14
+00:00:31,230 --> 00:00:33,540
+created a personal<font color="#E5E5E5"> security system in</font>
+
+15
+00:00:33,540 --> 00:00:35,370
+the hope of empowering journalists and
+
+16
+00:00:35,370 --> 00:00:37,890
+activists<font color="#CCCCCC"> to secretly monitor their</font>
+
+17
+00:00:37,890 --> 00:00:39,930
+possessions<font color="#E5E5E5"> and it has a very fitting</font>
+
+18
+00:00:39,930 --> 00:00:43,920
+<font color="#CCCCCC">name</font><font color="#E5E5E5"> meet Haven Haven</font><font color="#CCCCCC"> makes it harder to</font>
+
+19
+00:00:43,920 --> 00:00:48,510
+silence<font color="#E5E5E5"> citizens raids searches arrests</font>
+
+20
+00:00:48,510 --> 00:00:51,379
+<font color="#E5E5E5">without</font><font color="#CCCCCC"> getting caught in</font><font color="#E5E5E5"> the act</font>
+
+21
+00:00:51,379 --> 00:00:52,680
+<font color="#E5E5E5">themselves</font>
+
+22
+00:00:52,680 --> 00:00:54,660
+this creates<font color="#CCCCCC"> a kind of herd immunity</font>
+
+23
+00:00:54,660 --> 00:00:56,789
+<font color="#E5E5E5">where</font><font color="#CCCCCC"> before people launched a crackdown</font>
+
+24
+00:00:56,789 --> 00:01:02,670
+<font color="#CCCCCC">they have to think so let's take a</font>
+
+25
+00:01:02,670 --> 00:01:05,430
+closer look<font color="#CCCCCC"> you simply install Haven on</font>
+
+26
+00:01:05,430 --> 00:01:07,950
+any Android phone<font color="#E5E5E5"> and your device turns</font>
+
+27
+00:01:07,950 --> 00:01:10,560
+into a surveillance<font color="#E5E5E5"> system</font><font color="#CCCCCC"> it works</font><font color="#E5E5E5"> by</font>
+
+28
+00:01:10,560 --> 00:01:12,119
+the app detecting changes<font color="#CCCCCC"> in the</font>
+
+29
+00:01:12,119 --> 00:01:13,950
+environment<font color="#E5E5E5"> using sensors already</font>
+
+30
+00:01:13,950 --> 00:01:16,020
+<font color="#CCCCCC">built-in say you left your phone</font>
+
+31
+00:01:16,020 --> 00:01:17,880
+<font color="#E5E5E5">unattended in your bedroom and an</font>
+
+32
+00:01:17,880 --> 00:01:20,310
+intruder<font color="#E5E5E5"> breaks in well first</font><font color="#CCCCCC"> of all it</font>
+
+33
+00:01:20,310 --> 00:01:22,200
+<font color="#E5E5E5">uses the camera and</font><font color="#CCCCCC"> it'll</font><font color="#E5E5E5"> instantly</font>
+
+34
+00:01:22,200 --> 00:01:24,060
+start recording it may catch the
+
+35
+00:01:24,060 --> 00:01:26,400
+<font color="#E5E5E5">unwanted visitor</font><font color="#CCCCCC"> of course you could</font>
+
+36
+00:01:26,400 --> 00:01:28,350
+also set a trap for<font color="#CCCCCC"> a nosy partner</font>
+
+37
+00:01:28,350 --> 00:01:30,869
+snooping through your messages<font color="#E5E5E5"> secondly</font>
+
+38
+00:01:30,869 --> 00:01:32,880
+the<font color="#CCCCCC"> built-in</font><font color="#E5E5E5"> microphone will pick up any</font>
+
+39
+00:01:32,880 --> 00:01:35,729
+conversations<font color="#CCCCCC"> thought to be private well</font>
+
+40
+00:01:35,729 --> 00:01:37,470
+that's great<font color="#CCCCCC"> for</font><font color="#E5E5E5"> a recording intruders</font>
+
+41
+00:01:37,470 --> 00:01:39,659
+voices<font color="#E5E5E5"> but which you</font><font color="#CCCCCC"> also be tempted to</font>
+
+42
+00:01:39,659 --> 00:01:42,329
+<font color="#E5E5E5">leave it somewhere you shouldn't in all</font>
+
+43
+00:01:42,329 --> 00:01:43,770
+cases of a breach
+
+44
+00:01:43,770 --> 00:01:46,229
+you'll receive encrypted alerts<font color="#E5E5E5"> so the</font>
+
+45
+00:01:46,229 --> 00:01:48,630
+app helps<font color="#CCCCCC"> keep you safe but it can</font><font color="#E5E5E5"> be</font>
+
+46
+00:01:48,630 --> 00:01:50,909
+exploited<font color="#CCCCCC"> I can have a good side if</font>
+
+47
+00:01:50,909 --> 00:01:52,500
+there's domestic<font color="#E5E5E5"> abuse going on for</font>
+
+48
+00:01:52,500 --> 00:01:54,689
+example<font color="#CCCCCC"> and you</font><font color="#E5E5E5"> want to record proof of</font>
+
+49
+00:01:54,689 --> 00:01:56,430
+it and then go<font color="#CCCCCC"> to</font><font color="#E5E5E5"> the police it can have</font>
+
+50
+00:01:56,430 --> 00:01:58,049
+a bad side<font color="#E5E5E5"> because you might can you</font><font color="#CCCCCC"> be</font>
+
+51
+00:01:58,049 --> 00:02:00,450
+<font color="#E5E5E5">stalked by a jealous ex spouse or a</font>
+
+52
+00:02:00,450 --> 00:02:02,969
+jealous spouse even<font color="#E5E5E5"> there's a potential</font>
+
+53
+00:02:02,969 --> 00:02:04,560
+I presume for<font color="#E5E5E5"> it to be hijacked as well</font>
+
+54
+00:02:04,560 --> 00:02:05,759
+<font color="#E5E5E5">particularly if it's running on</font><font color="#CCCCCC"> an</font>
+
+55
+00:02:05,759 --> 00:02:08,729
+<font color="#E5E5E5">Android which is I</font><font color="#CCCCCC"> think has closed bits</font>
+
+56
+00:02:08,729 --> 00:02:10,949
+of<font color="#CCCCCC"> software within</font><font color="#E5E5E5"> it so</font><font color="#CCCCCC"> their toys are</font>
+
+57
+00:02:10,949 --> 00:02:12,540
+pluses - physically these new
+
+58
+00:02:12,540 --> 00:02:13,260
+technologies
+
+59
+00:02:13,260 --> 00:02:15,959
+course<font color="#E5E5E5"> that said Edward Snowden himself</font>
+
+60
+00:02:15,959 --> 00:02:18,329
+<font color="#E5E5E5">has always been notoriously careful</font>
+
+61
+00:02:18,329 --> 00:02:20,700
+<font color="#E5E5E5">about the technology around him famously</font>
+
+62
+00:02:20,700 --> 00:02:22,470
+asking journalists to place their phones
+
+63
+00:02:22,470 --> 00:02:25,290
+in<font color="#E5E5E5"> hotel fridges to stop foil</font><font color="#CCCCCC"> would-be</font>
+
+64
+00:02:25,290 --> 00:02:25,920
+snoopers
+
+65
+00:02:25,920 --> 00:02:28,769
+so it's uncertain whether this app will
+
+66
+00:02:28,769 --> 00:02:31,230
+create a physical<font color="#E5E5E5"> space you can trust or</font>
+
+67
+00:02:31,230 --> 00:02:33,569
+make you more paranoid of the device
+
+68
+00:02:33,569 --> 00:02:36,720
+lying next<font color="#E5E5E5"> to you beware of the spy next</font>
+
+69
+00:02:36,720 --> 00:00:00,000
+door
+

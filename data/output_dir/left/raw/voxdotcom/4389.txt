@@ -1,0 +1,239 @@
+1
+00:00:00,280 --> 00:00:04,180
+When you flip a light switch, you expect it
+to work right?
+
+2
+00:00:05,640 --> 00:00:11,220
+All of your appliances work, because your
+power company has electricity ready to transmit.
+
+3
+00:00:11,760 --> 00:00:13,820
+For a lot of customers.
+
+4
+00:00:15,240 --> 00:00:19,720
+And utility companies have gotten really good
+at anticipating that demand.
+
+5
+00:00:26,720 --> 00:00:31,400
+But a rise in solar energy production is making
+their jobs a bit more complex.
+
+6
+00:00:32,360 --> 00:00:34,000
+Here's a chart that explains why.
+
+7
+00:00:35,080 --> 00:00:38,760
+It's showing demand for electricity at any
+given time of day.
+
+8
+00:00:38,770 --> 00:00:42,230
+The power companies supply the least amount
+of power overnight.
+
+9
+00:00:42,230 --> 00:00:45,050
+Then, it ramps up in the morning.
+
+10
+00:00:45,050 --> 00:00:48,150
+Everyone's woken up and business gets going.
+
+11
+00:00:48,150 --> 00:00:52,150
+Then at sunset, energy demand peaks.
+
+12
+00:00:52,150 --> 00:00:56,739
+Utility companies will update models like
+this to operate as efficiently as possible.
+
+13
+00:00:56,739 --> 00:01:00,989
+But the introduction of renewable energy,
+particularly the solar energy, has started
+
+14
+00:01:00,989 --> 00:01:05,319
+causing problems in these demand curves.
+
+15
+00:01:05,319 --> 00:01:10,330
+In 2010, solar panel deployment really started
+taking off.
+
+16
+00:01:10,330 --> 00:01:15,320
+Most of those installations took place in
+California, so researchers there started looking
+
+17
+00:01:15,320 --> 00:01:15,840
+into it.
+
+18
+00:01:18,530 --> 00:01:21,960
+They found that the sun produces the most
+energy at mid-day.
+
+19
+00:01:21,960 --> 00:01:28,159
+And when you factor in that new mid-day production,
+your demand curve changes like this.
+
+20
+00:01:28,160 --> 00:01:35,760
+Every year means new solar capacity, which
+makes mid-day demand dip lower and lower.
+
+21
+00:01:35,760 --> 00:01:39,600
+Researchers call this drop in demand the "duck
+curve."
+
+22
+00:01:40,000 --> 00:01:46,360
+From the grid managers' perspective, the people
+whose job it is to constantly balance generation
+
+23
+00:01:46,360 --> 00:01:49,920
+and demand, it looks like a drop in demand.
+
+24
+00:01:49,920 --> 00:01:53,710
+That drop in demand creates two problems.
+
+25
+00:01:53,710 --> 00:01:57,640
+The first has to do with the intense ramps
+in the new chart.
+
+26
+00:01:57,640 --> 00:02:04,710
+As the sun sets, solar energy production ends
+just as the demand for energy typically peaks.
+
+27
+00:02:04,710 --> 00:02:09,349
+Power plants then have to rapidly ramp up
+production to compensate for that.
+
+28
+00:02:09,360 --> 00:02:13,400
+Which is kind of hard to do with the current
+fleet of power infrastructure.
+
+29
+00:02:14,970 --> 00:02:17,160
+The second problem is economic.
+
+30
+00:02:17,180 --> 00:02:21,560
+Say you have a couple of nuclear and coal
+plants.
+
+31
+00:02:21,560 --> 00:02:26,680
+Those plants are only economic when they are
+running all the time, basically.
+
+32
+00:02:26,680 --> 00:02:28,879
+They run around the clock.
+
+33
+00:02:28,879 --> 00:02:34,860
+And if you have to turn them off at mid-day,
+it completely screws up their economics and
+
+34
+00:02:34,860 --> 00:02:39,370
+plus lots of utilities just have contracts
+with those power plants to keep them running
+
+35
+00:02:39,370 --> 00:02:40,370
+all the time.
+
+36
+00:02:40,370 --> 00:02:43,110
+So that creates sort of an artificial floor.
+
+37
+00:02:43,600 --> 00:02:51,719
+If solar generates too much power and there's
+no use for it, there's no one to consume it,
+
+38
+00:02:51,719 --> 00:02:55,730
+then grid managers just have to turn some
+solar panels off.
+
+39
+00:02:55,730 --> 00:03:00,840
+If they didn't, we could risk overloading
+or even damaging the power grid.
+
+40
+00:03:00,840 --> 00:03:03,500
+So we throw away some of that extra solar
+energy.
+
+41
+00:03:03,500 --> 00:03:08,889
+Effectively, what's happening is that solar
+power is being wasted.
+
+42
+00:03:08,889 --> 00:03:13,260
+That waste, curtailment, is the big challenge
+moving forward for solar energy.
+
+43
+00:03:13,260 --> 00:03:19,640
+If you want solar, eventually to power everything
+or close to everything, you've gotta figure
+
+44
+00:03:19,640 --> 00:03:22,370
+out some way of shifting it to the night time.
+
+45
+00:03:22,370 --> 00:03:24,609
+Cause the sun's down during the night time.
+
+46
+00:03:24,609 --> 00:03:29,890
+The more power that can be stored, the more
+you can sort of let solar rip.
+
+47
+00:03:29,890 --> 00:03:35,430
+While the grid managers figure out how to
+serve this new supply and demand, this duck
+
+48
+00:03:35,440 --> 00:03:38,120
+is the greatest challenge facing renewable
+energy.
+
+49
+00:03:41,089 --> 00:03:45,719
+Thank you for watching and thanks for Principal
+Financial for sponsoring Vox Video.
+
+50
+00:03:45,719 --> 00:03:51,080
+Whether it's securing investment, retirement,
+or protecting your insurance assets, they
+
+51
+00:03:51,080 --> 00:00:00,000
+can help you prepare for the unexpected.
+

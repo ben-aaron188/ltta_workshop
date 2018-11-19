@@ -1,0 +1,288 @@
+1
+00:00:11,910 --> 00:00:14,530
+if you were aware of what was going on
+
+2
+00:00:14,530 --> 00:00:15,730
+<font color="#CCCCCC">in the last presidential election</font>
+
+3
+00:00:15,730 --> 00:00:18,760
+basically politics was revolutionized by
+
+4
+00:00:18,760 --> 00:00:20,770
+what Barack Obama did on the technology
+
+5
+00:00:20,770 --> 00:00:23,619
+side communications and marketing blue
+
+6
+00:00:23,619 --> 00:00:25,119
+state digital obviously did a ton of
+
+7
+00:00:25,119 --> 00:00:27,160
+that describe<font color="#CCCCCC"> the system a little bit</font>
+
+8
+00:00:27,160 --> 00:00:29,560
+<font color="#E5E5E5">because obviously big email component of</font>
+
+9
+00:00:29,560 --> 00:00:31,210
+it you had the website what did<font color="#E5E5E5"> it look</font>
+
+10
+00:00:31,210 --> 00:00:34,120
+like I mean the magical number for me is
+
+11
+00:00:34,120 --> 00:00:36,250
+the the fact that one out<font color="#E5E5E5"> of five of the</font>
+
+12
+00:00:36,250 --> 00:00:37,450
+people that<font color="#E5E5E5"> voted for President Obama</font>
+
+13
+00:00:37,450 --> 00:00:39,670
+<font color="#E5E5E5">was on the email list so ended up being</font>
+
+14
+00:00:39,670 --> 00:00:42,070
+nearly 14 million people you know built
+
+15
+00:00:42,070 --> 00:00:44,410
+organically over 22 months that
+
+16
+00:00:44,410 --> 00:00:46,300
+responded to everything from fundraising
+
+17
+00:00:46,300 --> 00:00:48,370
+<font color="#E5E5E5">to doing virtual phone calls on Election</font>
+
+18
+00:00:48,370 --> 00:00:51,460
+Day really did developing<font color="#E5E5E5"> that narrative</font>
+
+19
+00:00:51,460 --> 00:00:52,750
+around the campaign that gave people
+
+20
+00:00:52,750 --> 00:00:54,760
+multiple opportunities to engage and
+
+21
+00:00:54,760 --> 00:00:56,410
+breaking down the silos of the
+
+22
+00:00:56,410 --> 00:00:57,880
+traditional campaign so it wasn't
+
+23
+00:00:57,880 --> 00:00:59,800
+development or fundraising in one area
+
+24
+00:00:59,800 --> 00:01:02,200
+field and communications in another it
+
+25
+00:01:02,200 --> 00:01:04,599
+<font color="#E5E5E5">really created a level playing field for</font>
+
+26
+00:01:04,599 --> 00:01:06,100
+everyone whether you're taught to your
+
+27
+00:01:06,100 --> 00:01:07,630
+donor or an individual<font color="#E5E5E5"> who gives five</font>
+
+28
+00:01:07,630 --> 00:01:09,280
+dollars a month that access to the
+
+29
+00:01:09,280 --> 00:01:11,079
+campaign in<font color="#E5E5E5"> the candidate and obviously</font>
+
+30
+00:01:11,079 --> 00:01:12,640
+<font color="#E5E5E5">we get used to technology very quickly</font>
+
+31
+00:01:12,640 --> 00:01:14,170
+assume people have<font color="#E5E5E5"> sort of forgotten</font>
+
+32
+00:01:14,170 --> 00:01:15,939
+about<font color="#E5E5E5"> how innovated this was at the time</font>
+
+33
+00:01:15,939 --> 00:01:18,819
+but what was what were things like 22
+
+34
+00:01:18,819 --> 00:01:20,950
+months earlier yeah and we've been the
+
+35
+00:01:20,950 --> 00:01:22,299
+competition<font color="#E5E5E5"> like we've been developing</font>
+
+36
+00:01:22,299 --> 00:01:23,889
+the technology sense sort of
+
+37
+00:01:23,889 --> 00:01:25,240
+frustrations out of the Dean campaign
+
+38
+00:01:25,240 --> 00:01:27,999
+and through our work with the<font color="#E5E5E5"> Democratic</font>
+
+39
+00:01:27,999 --> 00:01:30,399
+<font color="#E5E5E5">Party a lot of trade unions and a lot of</font>
+
+40
+00:01:30,399 --> 00:01:32,799
+the corporate clients we have<font color="#E5E5E5"> its we've</font>
+
+41
+00:01:32,799 --> 00:01:34,420
+built<font color="#E5E5E5"> up this proprietary license based</font>
+
+42
+00:01:34,420 --> 00:01:36,729
+service that you know the scalability
+
+43
+00:01:36,729 --> 00:01:38,590
+was a challenge for an effort of<font color="#CCCCCC"> the</font>
+
+44
+00:01:38,590 --> 00:01:39,999
+size of another presidential campaign
+
+45
+00:01:39,999 --> 00:01:41,020
+but we were<font color="#E5E5E5"> able to come to the table</font>
+
+46
+00:01:41,020 --> 00:01:43,389
+<font color="#E5E5E5">and say you as a campaign you don't need</font>
+
+47
+00:01:43,389 --> 00:01:45,609
+<font color="#E5E5E5">to hire a bunch of developers we have</font>
+
+48
+00:01:45,609 --> 00:01:47,530
+these tools let us keep working on them
+
+49
+00:01:47,530 --> 00:01:49,539
+everything from how do<font color="#E5E5E5"> you get a million</font>
+
+50
+00:01:49,539 --> 00:01:51,609
+<font color="#E5E5E5">emails out in a couple</font><font color="#CCCCCC"> of minutes to</font>
+
+51
+00:01:51,609 --> 00:01:53,439
+<font color="#E5E5E5">that log in my</font><font color="#CCCCCC"> beau system that allowed</font>
+
+52
+00:01:53,439 --> 00:01:55,240
+people<font color="#E5E5E5"> to really create their own local</font>
+
+53
+00:01:55,240 --> 00:01:57,999
+organizing capacity individually there
+
+54
+00:01:57,999 --> 00:01:59,259
+are competitors and all the different
+
+55
+00:01:59,259 --> 00:02:01,959
+<font color="#CCCCCC">modules of the software but the bundling</font>
+
+56
+00:02:01,959 --> 00:02:03,880
+up and allowing the data integrity to
+
+57
+00:02:03,880 --> 00:02:06,880
+exist in one system that scales is sort
+
+58
+00:02:06,880 --> 00:02:08,258
+of the competitive differentiation and
+
+59
+00:02:08,258 --> 00:02:10,119
+how much<font color="#E5E5E5"> of</font><font color="#CCCCCC"> that was</font><font color="#E5E5E5"> built before this</font>
+
+60
+00:02:10,119 --> 00:02:11,770
+and<font color="#E5E5E5"> how much was built on them the most</font>
+
+61
+00:02:11,770 --> 00:02:14,590
+the vast majority of it was<font color="#E5E5E5"> built prior</font>
+
+62
+00:02:14,590 --> 00:02:15,650
+to the campaign
+
+63
+00:02:15,650 --> 00:02:17,180
+was optimization of it and then the
+
+64
+00:02:17,180 --> 00:02:19,939
+scalability with that was required we're
+
+65
+00:02:19,939 --> 00:02:21,379
+now going<font color="#CCCCCC"> through the phases of making</font>
+
+66
+00:02:21,379 --> 00:02:22,909
+all the tools internationalized for our
+
+67
+00:02:22,909 --> 00:02:25,159
+international clients and dealing<font color="#CCCCCC"> with</font>
+
+68
+00:02:25,159 --> 00:02:26,959
+sort<font color="#CCCCCC"> of it's an ongoing platform</font>
+
+69
+00:02:26,959 --> 00:02:30,530
+development process that is<font color="#E5E5E5"> sometimes</font>
+
+70
+00:02:30,530 --> 00:02:32,420
+<font color="#E5E5E5">fueled by client need others just sort</font>
+
+71
+00:02:32,420 --> 00:02:33,739
+of competitive positioning for the
+
+72
+00:02:33,739 --> 00:00:00,000
+company<font color="#E5E5E5"> overall</font>
+

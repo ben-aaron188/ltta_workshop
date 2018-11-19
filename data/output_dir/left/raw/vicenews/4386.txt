@@ -1,0 +1,288 @@
+1
+00:00:03,350 --> 00:00:05,549
+you know it's been a bad week for<font color="#CCCCCC"> your</font>
+
+2
+00:00:05,549 --> 00:00:07,140
+company when a<font color="#E5E5E5"> board member steps down</font>
+
+3
+00:00:07,140 --> 00:00:09,330
+<font color="#E5E5E5">and your CEO takes a leave over sexist</font>
+
+4
+00:00:09,330 --> 00:00:10,980
+corporate culture<font color="#E5E5E5"> and it's not even your</font>
+
+5
+00:00:10,980 --> 00:00:12,799
+biggest problem
+
+6
+00:00:12,799 --> 00:00:15,089
+uber is<font color="#E5E5E5"> locked in a legal</font><font color="#CCCCCC"> battle</font><font color="#E5E5E5"> with</font>
+
+7
+00:00:15,089 --> 00:00:17,550
+Google<font color="#E5E5E5"> over stolen trade secrets and the</font>
+
+8
+00:00:17,550 --> 00:00:19,320
+cutthroat race for the<font color="#E5E5E5"> self-driving car</font>
+
+9
+00:00:19,320 --> 00:00:20,640
+that both<font color="#E5E5E5"> companies have set their</font>
+
+10
+00:00:20,640 --> 00:00:23,100
+<font color="#CCCCCC">sights on</font><font color="#E5E5E5"> it's a corporate war that</font>
+
+11
+00:00:23,100 --> 00:00:24,420
+could decide the future of<font color="#E5E5E5"> the</font><font color="#CCCCCC"> auto</font>
+
+12
+00:00:24,420 --> 00:00:27,390
+industry<font color="#CCCCCC"> and in</font><font color="#E5E5E5"> the middle of it is just</font>
+
+13
+00:00:27,390 --> 00:00:32,969
+one man back in 2004 a<font color="#E5E5E5"> berkeley graduate</font>
+
+14
+00:00:32,969 --> 00:00:35,010
+student named<font color="#CCCCCC"> anthony</font><font color="#E5E5E5"> 11</font><font color="#CCCCCC"> disease builds</font>
+
+15
+00:00:35,010 --> 00:00:37,260
+a self-driving<font color="#E5E5E5"> motorcycle which he calls</font>
+
+16
+00:00:37,260 --> 00:00:40,050
+ghost riders he entered it in<font color="#E5E5E5"> the DARPA</font>
+
+17
+00:00:40,050 --> 00:00:42,570
+Grand Challenge<font color="#CCCCCC"> a contest</font><font color="#E5E5E5"> testing the</font>
+
+18
+00:00:42,570 --> 00:00:45,329
+limits of autonomous<font color="#E5E5E5"> vehicles</font><font color="#CCCCCC"> Ghost</font>
+
+19
+00:00:45,329 --> 00:00:46,890
+<font color="#E5E5E5">Rider crashed</font><font color="#CCCCCC"> and couldn't finish the</font>
+
+20
+00:00:46,890 --> 00:00:51,120
+<font color="#CCCCCC">race but</font><font color="#E5E5E5"> it was a start after</font><font color="#CCCCCC"> graduating</font>
+
+21
+00:00:51,120 --> 00:00:53,160
+levin dosti co-founded a small company
+
+22
+00:00:53,160 --> 00:00:55,410
+<font color="#CCCCCC">called 510 systems where he built a</font>
+
+23
+00:00:55,410 --> 00:00:56,969
+<font color="#CCCCCC">program that marries images</font><font color="#E5E5E5"> from</font>
+
+24
+00:00:56,969 --> 00:01:00,180
+multiple cameras with<font color="#CCCCCC"> GPS data</font><font color="#E5E5E5"> he moved</font>
+
+25
+00:01:00,180 --> 00:01:02,820
+to<font color="#E5E5E5"> Google in 2007 but continued</font><font color="#CCCCCC"> to work</font>
+
+26
+00:01:02,820 --> 00:01:05,729
+at<font color="#E5E5E5"> five ten on the side</font><font color="#CCCCCC"> until 2011 when</font>
+
+27
+00:01:05,729 --> 00:01:08,640
+<font color="#CCCCCC">he convinced Google to</font><font color="#E5E5E5"> buy</font><font color="#CCCCCC"> 510 which</font>
+
+28
+00:01:08,640 --> 00:01:10,409
+then became the<font color="#CCCCCC"> foundation</font><font color="#E5E5E5"> of Google's</font>
+
+29
+00:01:10,409 --> 00:01:14,369
+self-driving car division<font color="#CCCCCC"> whammo</font><font color="#E5E5E5"> the</font>
+
+30
+00:01:14,369 --> 00:01:15,960
+innovation at the<font color="#E5E5E5"> heart of autonomous</font>
+
+31
+00:01:15,960 --> 00:01:18,210
+<font color="#CCCCCC">cars</font><font color="#E5E5E5"> is a</font><font color="#CCCCCC"> radar-like</font><font color="#E5E5E5"> system called lidar</font>
+
+32
+00:01:18,210 --> 00:01:21,540
+<font color="#E5E5E5">which lets them see and navigate levin</font>
+
+33
+00:01:21,540 --> 00:01:23,490
+<font color="#E5E5E5">dosti spent years at</font><font color="#CCCCCC"> Google working</font><font color="#E5E5E5"> on</font>
+
+34
+00:01:23,490 --> 00:01:26,460
+lidar<font color="#E5E5E5"> but in January</font><font color="#CCCCCC"> of 2016 he suddenly</font>
+
+35
+00:01:26,460 --> 00:01:28,560
+quit<font color="#CCCCCC"> along</font><font color="#E5E5E5"> with a handful of colleagues</font>
+
+36
+00:01:28,560 --> 00:01:30,509
+<font color="#E5E5E5">to open a</font><font color="#CCCCCC"> company of their own a</font>
+
+37
+00:01:30,509 --> 00:01:32,610
+self-driving<font color="#E5E5E5"> truck startup called Auto</font>
+
+38
+00:01:32,610 --> 00:01:34,650
+<font color="#E5E5E5">in August of that year</font>
+
+39
+00:01:34,650 --> 00:01:37,829
+uber bought<font color="#E5E5E5"> Auto and Levin</font><font color="#CCCCCC"> dau ski for</font>
+
+40
+00:01:37,829 --> 00:01:40,070
+six<font color="#CCCCCC"> hundred and</font><font color="#E5E5E5"> eighty million dollars</font>
+
+41
+00:01:40,070 --> 00:01:42,869
+<font color="#E5E5E5">but in December a Google employee was</font>
+
+42
+00:01:42,869 --> 00:01:44,790
+accidentally copied<font color="#E5E5E5"> on an email from an</font>
+
+43
+00:01:44,790 --> 00:01:47,520
+outside supplier<font color="#E5E5E5"> showing a lidar circuit</font>
+
+44
+00:01:47,520 --> 00:01:48,780
+board<font color="#E5E5E5"> that Google says looked</font>
+
+45
+00:01:48,780 --> 00:01:50,579
+suspiciously like<font color="#CCCCCC"> the board levin dosti</font>
+
+46
+00:01:50,579 --> 00:01:53,430
+had developed for them and which under
+
+47
+00:01:53,430 --> 00:01:57,110
+intellectual property law they would own
+
+48
+00:01:57,110 --> 00:01:59,759
+two months later<font color="#E5E5E5"> Google filed a public</font>
+
+49
+00:01:59,759 --> 00:02:01,829
+records request in Nevada<font color="#CCCCCC"> where uber was</font>
+
+50
+00:02:01,829 --> 00:02:04,110
+testing its vehicles which<font color="#CCCCCC"> deepened its</font>
+
+51
+00:02:04,110 --> 00:02:06,000
+hunch that<font color="#E5E5E5"> levin dosti had taken secrets</font>
+
+52
+00:02:06,000 --> 00:02:06,659
+with<font color="#CCCCCC"> him when he</font>
+
+53
+00:02:06,659 --> 00:02:09,929
+<font color="#E5E5E5">to the company a few days later</font><font color="#CCCCCC"> Google</font>
+
+54
+00:02:09,929 --> 00:02:13,019
+filed suit<font color="#CCCCCC"> Google alleges that</font><font color="#E5E5E5"> shortly</font>
+
+55
+00:02:13,019 --> 00:02:15,030
+before quitting<font color="#E5E5E5"> Levin douse key and two</font>
+
+56
+00:02:15,030 --> 00:02:17,489
+others downloaded<font color="#E5E5E5"> 14,000 documents from</font>
+
+57
+00:02:17,489 --> 00:02:19,799
+the company's servers and that they then
+
+58
+00:02:19,799 --> 00:02:22,230
+used what amounts to stolen property to
+
+59
+00:02:22,230 --> 00:02:24,060
+<font color="#E5E5E5">develop self-driving technology for</font>
+
+60
+00:02:24,060 --> 00:02:27,180
+Google's<font color="#CCCCCC"> archrival in federal court on</font>
+
+61
+00:02:27,180 --> 00:02:29,489
+March 30th<font color="#CCCCCC"> levin dosti was called to</font>
+
+62
+00:02:29,489 --> 00:02:31,530
+testify<font color="#E5E5E5"> in google's</font><font color="#CCCCCC"> civil suit against</font>
+
+63
+00:02:31,530 --> 00:02:33,989
+uber<font color="#E5E5E5"> he refused invoking his Fifth</font>
+
+64
+00:02:33,989 --> 00:02:36,930
+<font color="#CCCCCC">Amendment rights</font><font color="#E5E5E5"> he also refused to turn</font>
+
+65
+00:02:36,930 --> 00:02:38,970
+<font color="#CCCCCC">over any documents</font><font color="#E5E5E5"> even though uber</font>
+
+66
+00:02:38,970 --> 00:02:44,190
+<font color="#E5E5E5">urged him to two weeks ago uber fired</font>
+
+67
+00:02:44,190 --> 00:02:46,379
+<font color="#CCCCCC">levin dosti</font><font color="#E5E5E5"> but that won't stop them</font>
+
+68
+00:02:46,379 --> 00:02:47,989
+from<font color="#CCCCCC"> having to face google in court</font>
+
+69
+00:02:47,989 --> 00:02:50,250
+<font color="#E5E5E5">potentially curbing ubers self-driving</font>
+
+70
+00:02:50,250 --> 00:02:53,370
+dreams for his part levin dosti may
+
+71
+00:02:53,370 --> 00:02:55,769
+possibly return<font color="#E5E5E5"> to court - to face</font>
+
+72
+00:02:55,769 --> 00:00:00,000
+criminal charges
+

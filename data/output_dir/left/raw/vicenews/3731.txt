@@ -1,0 +1,476 @@
+1
+00:00:00,930 --> 00:00:06,190
+[Music]
+
+2
+00:00:08,750 --> 00:00:12,900
+[Music]
+
+3
+00:00:17,770 --> 00:00:19,940
+Amtrak's California Zephyr<font color="#E5E5E5"> is a</font>
+
+4
+00:00:19,940 --> 00:00:21,740
+cross-country<font color="#E5E5E5"> train that's normally full</font>
+
+5
+00:00:21,740 --> 00:00:25,490
+of sightseers and<font color="#E5E5E5"> train enthusiasts here</font>
+
+6
+00:00:25,490 --> 00:00:38,239
+<font color="#E5E5E5">we go and the theme for</font><font color="#CCCCCC"> Jam 2018 but</font>
+
+7
+00:00:38,239 --> 00:00:39,770
+<font color="#E5E5E5">each</font><font color="#CCCCCC"> year a group of video game</font>
+
+8
+00:00:39,770 --> 00:00:42,469
+developers<font color="#E5E5E5"> artists and musicians</font><font color="#CCCCCC"> hop on</font>
+
+9
+00:00:42,469 --> 00:00:44,120
+to take part in<font color="#E5E5E5"> an</font><font color="#CCCCCC"> event called</font><font color="#E5E5E5"> train</font>
+
+10
+00:00:44,120 --> 00:00:49,100
+<font color="#CCCCCC">jam three</font><font color="#E5E5E5"> hundred and forty participants</font>
+
+11
+00:00:49,100 --> 00:00:50,719
+from<font color="#E5E5E5"> 30 countries will get on the train</font>
+
+12
+00:00:50,719 --> 00:00:53,180
+<font color="#E5E5E5">in Chicago and in the</font><font color="#CCCCCC"> 52 hours</font><font color="#E5E5E5"> it takes</font>
+
+13
+00:00:53,180 --> 00:00:55,309
+<font color="#E5E5E5">to get to San Francisco so try to</font><font color="#CCCCCC"> create</font>
+
+14
+00:00:55,309 --> 00:00:57,199
+<font color="#E5E5E5">a video game completely from</font><font color="#CCCCCC"> scratch</font>
+
+15
+00:00:57,199 --> 00:00:59,300
+most people<font color="#E5E5E5"> get started before</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> train</font>
+
+16
+00:00:59,300 --> 00:01:07,610
+even<font color="#E5E5E5"> leaves the station</font><font color="#CCCCCC"> both</font><font color="#E5E5E5"> of us are</font>
+
+17
+00:01:07,610 --> 00:01:12,140
+like affected by the policies<font color="#E5E5E5"> in the</font>
+
+18
+00:01:12,140 --> 00:01:15,189
+<font color="#CCCCCC">u.s.</font><font color="#E5E5E5"> you're gonna hook up with</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> Syrian</font>
+
+19
+00:01:15,189 --> 00:01:18,920
+to make a game<font color="#E5E5E5"> specifically</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> US</font>
+
+20
+00:01:18,920 --> 00:01:21,760
+politics in the<font color="#E5E5E5"> US on a train</font>
+
+21
+00:01:21,760 --> 00:01:25,060
+that's me yeah<font color="#E5E5E5"> what</font><font color="#CCCCCC"> are you</font><font color="#E5E5E5"> hoping to</font>
+
+22
+00:01:25,060 --> 00:01:28,870
+<font color="#E5E5E5">make so the idea is a</font><font color="#CCCCCC"> high-tension kind</font>
+
+23
+00:01:28,870 --> 00:01:31,210
+of<font color="#CCCCCC"> slow-moving multiplayer game where</font>
+
+24
+00:01:31,210 --> 00:01:33,040
+you're all balloons<font color="#E5E5E5"> and you're using the</font>
+
+25
+00:01:33,040 --> 00:01:34,780
+<font color="#E5E5E5">environment to try and pop</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> destroy</font>
+
+26
+00:01:34,780 --> 00:01:36,360
+each other<font color="#E5E5E5"> Wow</font>
+
+27
+00:01:36,360 --> 00:01:39,500
+[Music]
+
+28
+00:01:41,740 --> 00:01:45,590
+[Music]
+
+29
+00:01:47,619 --> 00:01:50,090
+it turns out<font color="#E5E5E5"> some of those games are</font>
+
+30
+00:01:50,090 --> 00:01:51,500
+harder to<font color="#E5E5E5"> make than they sound like</font>
+
+31
+00:01:51,500 --> 00:01:53,750
+<font color="#E5E5E5">Alexandra sheets game about fake news</font>
+
+32
+00:01:53,750 --> 00:01:56,720
+<font color="#E5E5E5">how's the game coming along</font><font color="#CCCCCC"> ah</font><font color="#E5E5E5"> it's not</font>
+
+33
+00:01:56,720 --> 00:01:57,439
+going well
+
+34
+00:01:57,439 --> 00:02:00,470
+<font color="#CCCCCC">okay we have a</font><font color="#E5E5E5"> really great PI concept</font>
+
+35
+00:02:00,470 --> 00:02:02,000
+<font color="#E5E5E5">but we forgot to add the great</font><font color="#CCCCCC"> gameplay</font>
+
+36
+00:02:02,000 --> 00:02:09,410
+<font color="#CCCCCC">maybe this is</font><font color="#E5E5E5"> the fun but what we've</font>
+
+37
+00:02:09,410 --> 00:02:11,959
+discovered with the balloon game is<font color="#E5E5E5"> I</font>
+
+38
+00:02:11,959 --> 00:02:14,599
+came<font color="#CCCCCC"> up with a</font><font color="#E5E5E5"> great idea that forces us</font>
+
+39
+00:02:14,599 --> 00:02:17,269
+<font color="#E5E5E5">into a position of</font><font color="#CCCCCC"> what</font><font color="#E5E5E5"> is coming up</font>
+
+40
+00:02:17,269 --> 00:02:20,239
+within our own physics engine<font color="#CCCCCC"> okay</font><font color="#E5E5E5"> which</font>
+
+41
+00:02:20,239 --> 00:02:21,709
+is a bad idea
+
+42
+00:02:21,709 --> 00:02:22,910
+you're gonna go look<font color="#E5E5E5"> at</font><font color="#CCCCCC"> it now let's go</font>
+
+43
+00:02:22,910 --> 00:02:26,890
+look<font color="#E5E5E5"> at it all right</font><font color="#CCCCCC"> because I'm scared</font>
+
+44
+00:02:32,019 --> 00:02:37,010
+<font color="#E5E5E5">red balloon</font><font color="#CCCCCC"> what you do is</font><font color="#E5E5E5"> like you walk</font>
+
+45
+00:02:37,010 --> 00:02:39,590
+on these Springs<font color="#CCCCCC"> and you can see the</font>
+
+46
+00:02:39,590 --> 00:02:40,819
+white area that's<font color="#E5E5E5"> where you're supposed</font>
+
+47
+00:02:40,819 --> 00:02:42,319
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> walk okay</font><font color="#CCCCCC"> and you're kind of</font>
+
+48
+00:02:42,319 --> 00:02:44,030
+collecting all<font color="#E5E5E5"> these little green guys</font>
+
+49
+00:02:44,030 --> 00:02:46,160
+<font color="#E5E5E5">you know and</font><font color="#CCCCCC"> I have these red glasses</font>
+
+50
+00:02:46,160 --> 00:02:48,890
+<font color="#E5E5E5">that make people kind of experience it</font>
+
+51
+00:02:48,890 --> 00:02:53,590
+even more like<font color="#E5E5E5"> the diffraction glasses</font>
+
+52
+00:02:56,440 --> 00:02:59,000
+aside from<font color="#CCCCCC"> being on a train the whole</font>
+
+53
+00:02:59,000 --> 00:03:00,560
+thing pretty<font color="#E5E5E5"> much looks</font><font color="#CCCCCC"> like a standard</font>
+
+54
+00:03:00,560 --> 00:03:04,370
+programming<font color="#E5E5E5"> Jam people chug Gatorade and</font>
+
+55
+00:03:04,370 --> 00:03:07,129
+<font color="#E5E5E5">scarf down ramen and Oreos and</font><font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of</font>
+
+56
+00:03:07,129 --> 00:03:10,849
+people pull all-nighters<font color="#E5E5E5"> but not</font>
+
+57
+00:03:10,849 --> 00:03:12,340
+everybody
+
+58
+00:03:12,340 --> 00:03:15,490
+[Music]
+
+59
+00:03:26,409 --> 00:03:29,000
+there's no Wi-Fi<font color="#E5E5E5"> on the train so you</font>
+
+60
+00:03:29,000 --> 00:03:30,650
+can't<font color="#CCCCCC"> Google your programming questions</font>
+
+61
+00:03:30,650 --> 00:03:34,159
+or<font color="#E5E5E5"> get sidetracked by Facebook but the</font>
+
+62
+00:03:34,159 --> 00:03:37,150
+scenery<font color="#E5E5E5"> can get a little distracting</font>
+
+63
+00:03:37,150 --> 00:03:39,379
+some people like staring at<font color="#E5E5E5"> the Sierra</font>
+
+64
+00:03:39,379 --> 00:03:41,330
+Nevada<font color="#CCCCCC"> mountains</font><font color="#E5E5E5"> or watching the Rockies</font>
+
+65
+00:03:41,330 --> 00:03:43,819
+roll by while they code but other
+
+66
+00:03:43,819 --> 00:03:45,560
+developers hide out in<font color="#E5E5E5"> their rooms and</font>
+
+67
+00:03:45,560 --> 00:03:49,489
+try<font color="#E5E5E5"> to finish up their projects eager</font>
+
+68
+00:03:49,489 --> 00:03:51,519
+<font color="#CCCCCC">Wallach started</font><font color="#E5E5E5"> train</font><font color="#CCCCCC"> Jam five years ago</font>
+
+69
+00:03:51,519 --> 00:03:53,810
+<font color="#E5E5E5">back</font><font color="#CCCCCC"> then there were only</font><font color="#E5E5E5"> a few</font><font color="#CCCCCC"> dozen</font>
+
+70
+00:03:53,810 --> 00:03:55,970
+people<font color="#E5E5E5"> but this year they've had to rent</font>
+
+71
+00:03:55,970 --> 00:03:58,160
+out the entire<font color="#E5E5E5"> train and add a couple of</font>
+
+72
+00:03:58,160 --> 00:04:00,190
+<font color="#E5E5E5">extra cars just to accommodate everyone</font>
+
+73
+00:04:00,190 --> 00:04:02,359
+<font color="#E5E5E5">and it's turned into a place where</font>
+
+74
+00:04:02,359 --> 00:04:04,250
+newcomers and established professionals
+
+75
+00:04:04,250 --> 00:04:06,560
+can learn from<font color="#E5E5E5"> each other so people are</font>
+
+76
+00:04:06,560 --> 00:04:08,450
+<font color="#E5E5E5">coming here they're making projects do</font>
+
+77
+00:04:08,450 --> 00:04:11,410
+any of these end up<font color="#CCCCCC"> developing into some</font>
+
+78
+00:04:11,410 --> 00:04:14,660
+hugely viral<font color="#E5E5E5"> game something like that</font>
+
+79
+00:04:14,660 --> 00:04:16,339
+you know<font color="#E5E5E5"> that there's some apps up on</font>
+
+80
+00:04:16,339 --> 00:04:19,010
+the App<font color="#CCCCCC"> Store for</font><font color="#E5E5E5"> sale we</font><font color="#CCCCCC"> have a few</font>
+
+81
+00:04:19,010 --> 00:04:20,870
+people<font color="#CCCCCC"> who their games have been gone on</font>
+
+82
+00:04:20,870 --> 00:04:24,110
+to be shown at events I get to<font color="#E5E5E5"> look at</font>
+
+83
+00:04:24,110 --> 00:04:26,180
+that<font color="#CCCCCC"> and go I helped to facilitate that</font>
+
+84
+00:04:26,180 --> 00:04:28,010
+game existing this<font color="#CCCCCC"> is kind of</font><font color="#E5E5E5"> like a</font>
+
+85
+00:04:28,010 --> 00:04:32,419
+really<font color="#CCCCCC"> high-pressure</font><font color="#E5E5E5"> incubator</font><font color="#CCCCCC"> yeah it</font>
+
+86
+00:04:32,419 --> 00:04:33,950
+is moving<font color="#CCCCCC"> yeah I guess that's a good</font><font color="#E5E5E5"> way</font>
+
+87
+00:04:33,950 --> 00:04:35,360
+<font color="#E5E5E5">to put it</font><font color="#CCCCCC"> high-pressure incubator oh</font>
+
+88
+00:04:35,360 --> 00:04:36,520
+dear
+
+89
+00:04:36,520 --> 00:04:39,080
+train<font color="#E5E5E5"> jam is not a competition and</font>
+
+90
+00:04:39,080 --> 00:04:40,810
+<font color="#E5E5E5">there's no awards at the end of the ride</font>
+
+91
+00:04:40,810 --> 00:04:43,340
+<font color="#E5E5E5">for most people if you made something</font>
+
+92
+00:04:43,340 --> 00:04:46,750
+that's playable<font color="#E5E5E5"> you count that as</font><font color="#CCCCCC"> one</font>
+
+93
+00:04:49,660 --> 00:04:52,070
+<font color="#E5E5E5">Rashid and Alex with their separate ways</font>
+
+94
+00:04:52,070 --> 00:04:54,950
+<font color="#E5E5E5">like</font><font color="#CCCCCC"> it's somebody</font><font color="#E5E5E5"> took a game so he's</font>
+
+95
+00:04:54,950 --> 00:04:58,460
+just maybe he's<font color="#CCCCCC"> scared</font><font color="#E5E5E5"> of that he wants</font>
+
+96
+00:04:58,460 --> 00:04:59,810
+<font color="#E5E5E5">to make something ambitious and awesome</font>
+
+97
+00:04:59,810 --> 00:05:01,940
+<font color="#E5E5E5">like that's that</font><font color="#CCCCCC"> doesn't really work in</font>
+
+98
+00:05:01,940 --> 00:05:03,770
+train<font color="#CCCCCC"> jam honestly</font><font color="#E5E5E5"> you need to make</font>
+
+99
+00:05:03,770 --> 00:05:06,470
+something<font color="#E5E5E5"> that can be done in a short</font>
+
+100
+00:05:06,470 --> 00:05:08,150
+<font color="#CCCCCC">amount of time and then</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> know you</font>
+
+101
+00:05:08,150 --> 00:05:10,200
+gotta<font color="#E5E5E5"> make sure</font><font color="#CCCCCC"> it's finished</font>
+
+102
+00:05:10,200 --> 00:05:11,889
+[Music]
+
+103
+00:05:11,889 --> 00:05:14,450
+<font color="#E5E5E5">Jerry and mike's balloon game finally</font>
+
+104
+00:05:14,450 --> 00:05:15,080
+came together
+
+105
+00:05:15,080 --> 00:05:19,150
+<font color="#CCCCCC">oh</font><font color="#E5E5E5"> these knives are wild</font><font color="#CCCCCC"> man okay</font><font color="#E5E5E5"> okay</font>
+
+106
+00:05:19,150 --> 00:05:21,979
+<font color="#CCCCCC">it worked</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> I ran myself into a</font>
+
+107
+00:05:21,979 --> 00:05:26,139
+cactus okay<font color="#CCCCCC"> this is a game</font>
+
+108
+00:05:28,450 --> 00:05:31,090
+[Music]
+
+109
+00:05:31,090 --> 00:05:33,430
+if you see any garbage<font color="#E5E5E5"> just throw it</font>
+
+110
+00:05:33,430 --> 00:05:41,470
+away it's not yours what's<font color="#E5E5E5"> next uh take</font>
+
+111
+00:05:41,470 --> 00:05:43,660
+a shower<font color="#E5E5E5"> eat a nice hot meal and then</font>
+
+112
+00:05:43,660 --> 00:05:46,000
+lay in a bed where it's not<font color="#E5E5E5"> like moving</font>
+
+113
+00:05:46,000 --> 00:05:47,650
+<font color="#E5E5E5">and you just get under the covers</font><font color="#CCCCCC"> and</font>
+
+114
+00:05:47,650 --> 00:05:50,530
+<font color="#CCCCCC">it's the most like euphoric</font><font color="#E5E5E5"> thing that</font>
+
+115
+00:05:50,530 --> 00:05:51,370
+you're gonna feel<font color="#E5E5E5"> in a while</font>
+
+116
+00:05:51,370 --> 00:06:00,089
+[Music]
+
+117
+00:06:00,330 --> 00:06:02,130
+you
+
+118
+00:06:02,130 --> 00:06:05,870
+[Applause]
+
+119
+00:06:11,529 --> 00:00:00,000
+you
+

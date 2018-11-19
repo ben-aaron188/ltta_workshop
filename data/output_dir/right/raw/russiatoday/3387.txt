@@ -1,0 +1,752 @@
+1
+00:00:00,000 --> 00:00:02,070
+WikiLeaks is claiming<font color="#E5E5E5"> that</font><font color="#CCCCCC"> the CIA's</font>
+
+2
+00:00:02,070 --> 00:00:04,009
+created a computer<font color="#E5E5E5"> program that</font>
+
+3
+00:00:04,009 --> 00:00:06,420
+impersonates the software of the<font color="#E5E5E5"> Russian</font>
+
+4
+00:00:06,420 --> 00:00:08,580
+antivirus company Kaspersky Lab let's
+
+5
+00:00:08,580 --> 00:00:10,139
+get more details on<font color="#E5E5E5"> this</font><font color="#CCCCCC"> story</font>
+
+6
+00:00:10,139 --> 00:00:12,570
+<font color="#E5E5E5">while</font><font color="#CCCCCC"> correspondent caleb mopping</font><font color="#E5E5E5"> caleb</font>
+
+7
+00:00:12,570 --> 00:00:14,460
+good to see you what else then is in
+
+8
+00:00:14,460 --> 00:00:19,529
+these revelations well we've got a new
+
+9
+00:00:19,529 --> 00:00:21,960
+batch<font color="#CCCCCC"> of documents from the vault eight</font>
+
+10
+00:00:21,960 --> 00:00:25,050
+of<font color="#CCCCCC"> wikileaks</font><font color="#E5E5E5"> this new batch of</font><font color="#CCCCCC"> documents</font>
+
+11
+00:00:25,050 --> 00:00:27,330
+that's been released<font color="#CCCCCC"> showing some of the</font>
+
+12
+00:00:27,330 --> 00:00:29,060
+internal workings<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the CIA</font>
+
+13
+00:00:29,060 --> 00:00:33,030
+particularly in relation to software<font color="#E5E5E5"> now</font>
+
+14
+00:00:33,030 --> 00:00:35,010
+<font color="#E5E5E5">what was released as a program called</font>
+
+15
+00:00:35,010 --> 00:00:37,440
+hive<font color="#E5E5E5"> and essentially this is a major</font>
+
+16
+00:00:37,440 --> 00:00:40,559
+<font color="#E5E5E5">component of CIA infrastructure and</font>
+
+17
+00:00:40,559 --> 00:00:43,410
+malware<font color="#CCCCCC"> and it provides covert</font>
+
+18
+00:00:43,410 --> 00:00:45,719
+communications<font color="#E5E5E5"> about how the CIA</font>
+
+19
+00:00:45,719 --> 00:00:47,610
+operates and what<font color="#E5E5E5"> kind of software and</font>
+
+20
+00:00:47,610 --> 00:00:50,190
+malware<font color="#E5E5E5"> that they're using</font><font color="#CCCCCC"> now one</font><font color="#E5E5E5"> thing</font>
+
+21
+00:00:50,190 --> 00:00:52,289
+<font color="#CCCCCC">that was revealed</font><font color="#E5E5E5"> in these in these</font>
+
+22
+00:00:52,289 --> 00:00:54,539
+<font color="#CCCCCC">documents is that</font><font color="#E5E5E5"> essentially the CIA</font>
+
+23
+00:00:54,539 --> 00:00:57,930
+had a program<font color="#CCCCCC"> to</font><font color="#E5E5E5"> imitate Kaspersky</font>
+
+24
+00:00:57,930 --> 00:01:00,690
+laboratory now this is a huge popular
+
+25
+00:01:00,690 --> 00:01:03,480
+<font color="#E5E5E5">Russian software company</font><font color="#CCCCCC"> and it's</font>
+
+26
+00:01:03,480 --> 00:01:05,729
+<font color="#E5E5E5">recently been subject to scandal US</font>
+
+27
+00:01:05,729 --> 00:01:08,820
+authorities<font color="#E5E5E5"> have actually banned any</font>
+
+28
+00:01:08,820 --> 00:01:11,340
+<font color="#E5E5E5">government agencies from</font><font color="#CCCCCC"> using Kaspersky</font>
+
+29
+00:01:11,340 --> 00:01:13,229
+laboratories citing concerns about
+
+30
+00:01:13,229 --> 00:01:14,880
+national<font color="#CCCCCC"> security this happened back in</font>
+
+31
+00:01:14,880 --> 00:01:18,030
+September<font color="#CCCCCC"> and it was recently reported</font>
+
+32
+00:01:18,030 --> 00:01:20,159
+<font color="#E5E5E5">by</font><font color="#CCCCCC"> The Wall Street Journal that Russian</font>
+
+33
+00:01:20,159 --> 00:01:22,830
+hackers had stolen<font color="#E5E5E5"> u.s. cyber secrets</font>
+
+34
+00:01:22,830 --> 00:01:25,710
+from<font color="#E5E5E5"> the National Security Agency by</font>
+
+35
+00:01:25,710 --> 00:01:27,990
+using software<font color="#CCCCCC"> that was</font><font color="#E5E5E5"> developed by</font>
+
+36
+00:01:27,990 --> 00:01:30,840
+<font color="#E5E5E5">Kaspersky</font><font color="#CCCCCC"> Laboratory</font><font color="#E5E5E5"> this is actually</font>
+
+37
+00:01:30,840 --> 00:01:33,390
+what<font color="#E5E5E5"> was said by Elaine Duke of</font><font color="#CCCCCC"> the</font>
+
+38
+00:01:33,390 --> 00:01:35,100
+Homeland Security<font color="#CCCCCC"> Department of the</font>
+
+39
+00:01:35,100 --> 00:01:38,220
+<font color="#E5E5E5">United States</font><font color="#CCCCCC"> the risk that the Russian</font>
+
+40
+00:01:38,220 --> 00:01:40,530
+government<font color="#E5E5E5"> whether acting on its own or</font>
+
+41
+00:01:40,530 --> 00:01:42,810
+in collaboration<font color="#CCCCCC"> with Kaspersky</font><font color="#E5E5E5"> could</font>
+
+42
+00:01:42,810 --> 00:01:44,670
+capitalize on access provided by
+
+43
+00:01:44,670 --> 00:01:46,530
+Kaspersky products to<font color="#E5E5E5"> compromised</font>
+
+44
+00:01:46,530 --> 00:01:48,509
+federal information and<font color="#CCCCCC"> information</font>
+
+45
+00:01:48,509 --> 00:01:50,520
+<font color="#CCCCCC">systems directly implicates</font><font color="#E5E5E5"> u.s.</font>
+
+46
+00:01:50,520 --> 00:01:54,630
+national security now there has been a
+
+47
+00:01:54,630 --> 00:01:56,759
+response to these allegations<font color="#E5E5E5"> from</font>
+
+48
+00:01:56,759 --> 00:01:59,219
+Kaspersky laboratory they said<font color="#E5E5E5"> quote the</font>
+
+49
+00:01:59,219 --> 00:02:01,920
+company has never<font color="#E5E5E5"> helped nor will help</font>
+
+50
+00:02:01,920 --> 00:02:03,659
+any government in the<font color="#CCCCCC"> world</font><font color="#E5E5E5"> with its</font>
+
+51
+00:02:03,659 --> 00:02:05,700
+cyber espionage<font color="#E5E5E5"> or offensive efforts</font>
+
+52
+00:02:05,700 --> 00:02:08,008
+<font color="#CCCCCC">they made clear they had nothing</font><font color="#E5E5E5"> to do</font>
+
+53
+00:02:08,008 --> 00:02:10,050
+with<font color="#E5E5E5"> any hacking or stealing of</font>
+
+54
+00:02:10,050 --> 00:02:12,720
+information<font color="#CCCCCC"> to that effect</font><font color="#E5E5E5"> and now</font>
+
+55
+00:02:12,720 --> 00:02:15,660
+we see revealed in<font color="#E5E5E5"> this backup batch of</font>
+
+56
+00:02:15,660 --> 00:02:17,630
+WikiLeaks documents that the CIA
+
+57
+00:02:17,630 --> 00:02:20,610
+specifically has a program developed<font color="#E5E5E5"> for</font>
+
+58
+00:02:20,610 --> 00:02:22,860
+the purpose of imitating this popular
+
+59
+00:02:22,860 --> 00:02:24,870
+Russian software company<font color="#E5E5E5"> essentially</font>
+
+60
+00:02:24,870 --> 00:02:27,180
+making<font color="#E5E5E5"> activities look like they're</font>
+
+61
+00:02:27,180 --> 00:02:29,940
+being done by Kaspersky<font color="#E5E5E5"> Laboratory in</font>
+
+62
+00:02:29,940 --> 00:02:32,100
+fact there<font color="#E5E5E5"> are three</font><font color="#CCCCCC"> examples of source</font>
+
+63
+00:02:32,100 --> 00:02:34,710
+code<font color="#CCCCCC"> that's</font><font color="#E5E5E5"> used to build a fake</font>
+
+64
+00:02:34,710 --> 00:02:37,770
+certificate<font color="#E5E5E5"> for antivirus software to</font>
+
+65
+00:02:37,770 --> 00:02:39,660
+make it look like it<font color="#E5E5E5"> originated with</font>
+
+66
+00:02:39,660 --> 00:02:42,630
+Kaspersky<font color="#CCCCCC"> laboratory so quite an</font>
+
+67
+00:02:42,630 --> 00:02:43,890
+interesting<font color="#E5E5E5"> development all these</font>
+
+68
+00:02:43,890 --> 00:02:46,140
+<font color="#E5E5E5">allegations have</font><font color="#CCCCCC"> been leveled against</font>
+
+69
+00:02:46,140 --> 00:02:48,360
+Kaspersky<font color="#E5E5E5"> laboratory this very popular</font>
+
+70
+00:02:48,360 --> 00:02:50,850
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> very large Russian software company</font>
+
+71
+00:02:50,850 --> 00:02:52,830
+<font color="#E5E5E5">and we now</font><font color="#CCCCCC"> see that</font><font color="#E5E5E5"> the CIA had a</font>
+
+72
+00:02:52,830 --> 00:02:55,590
+<font color="#E5E5E5">specific program designed to make</font><font color="#CCCCCC"> it</font>
+
+73
+00:02:55,590 --> 00:02:57,660
+look like activities were being<font color="#E5E5E5"> done</font><font color="#CCCCCC"> by</font>
+
+74
+00:02:57,660 --> 00:03:00,000
+<font color="#E5E5E5">Kaspersky to imitate and leave</font>
+
+75
+00:03:00,000 --> 00:03:02,730
+essentially false digital fingerprints
+
+76
+00:03:02,730 --> 00:03:04,920
+for Kaspersky laboratory<font color="#CCCCCC"> a very</font>
+
+77
+00:03:04,920 --> 00:03:07,590
+interesting<font color="#E5E5E5"> development yeah absolutely</font>
+
+78
+00:03:07,590 --> 00:03:09,450
+and<font color="#E5E5E5"> we'll we'll stick with</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> story a</font>
+
+79
+00:03:09,450 --> 00:03:10,860
+little<font color="#E5E5E5"> bit more money thanks for now</font>
+
+80
+00:03:10,860 --> 00:03:15,300
+<font color="#CCCCCC">Kayla more</font><font color="#E5E5E5"> pin</font><font color="#CCCCCC"> they're in New York now</font>
+
+81
+00:03:15,300 --> 00:03:17,459
+vault<font color="#CCCCCC"> eight is a new series of WikiLeaks</font>
+
+82
+00:03:17,459 --> 00:03:20,160
+publications on a huge tranche of<font color="#E5E5E5"> leaked</font>
+
+83
+00:03:20,160 --> 00:03:22,890
+<font color="#E5E5E5">CIA files it details the revelations in</font>
+
+84
+00:03:22,890 --> 00:03:25,260
+the<font color="#E5E5E5"> previous</font><font color="#CCCCCC"> batch called</font><font color="#E5E5E5"> vault</font><font color="#CCCCCC"> seven</font>
+
+85
+00:03:25,260 --> 00:03:26,820
+which revealed the agency had its own
+
+86
+00:03:26,820 --> 00:03:29,160
+<font color="#E5E5E5">malware exploited vulnerabilities in</font>
+
+87
+00:03:29,160 --> 00:03:31,440
+phones and TVs and<font color="#CCCCCC"> had the</font><font color="#E5E5E5"> ability to</font>
+
+88
+00:03:31,440 --> 00:03:34,230
+<font color="#CCCCCC">bypass encryption on messaging apps</font>
+
+89
+00:03:34,230 --> 00:03:35,910
+<font color="#E5E5E5">that's springing forward British</font>
+
+90
+00:03:35,910 --> 00:03:37,470
+intelligence officer<font color="#CCCCCC"> Annie</font>
+
+91
+00:03:37,470 --> 00:03:40,140
+mash on hmm I<font color="#E5E5E5"> think</font><font color="#CCCCCC"> safe to say most</font>
+
+92
+00:03:40,140 --> 00:03:42,480
+<font color="#CCCCCC">people</font><font color="#E5E5E5"> won't be trusting the CIA</font><font color="#CCCCCC"> anytime</font>
+
+93
+00:03:42,480 --> 00:03:43,890
+soon<font color="#E5E5E5"> but we shouldn't be surprised</font>
+
+94
+00:03:43,890 --> 00:03:45,060
+should we this<font color="#E5E5E5"> is kind of what they do</font>
+
+95
+00:03:45,060 --> 00:03:47,220
+<font color="#CCCCCC">there's spy</font><font color="#E5E5E5"> agency are you surprised by</font>
+
+96
+00:03:47,220 --> 00:03:49,680
+any<font color="#E5E5E5"> of this or the scope of their</font>
+
+97
+00:03:49,680 --> 00:03:54,500
+operations not<font color="#E5E5E5"> at all no I mean</font>
+
+98
+00:03:54,500 --> 00:03:56,310
+<font color="#E5E5E5">intelligence agencies have</font><font color="#CCCCCC"> had</font><font color="#E5E5E5"> this</font>
+
+99
+00:03:56,310 --> 00:03:58,950
+<font color="#E5E5E5">level of capability</font><font color="#CCCCCC"> even in the analog</font>
+
+100
+00:03:58,950 --> 00:04:01,799
+era<font color="#E5E5E5"> it was just much more targeted much</font>
+
+101
+00:04:01,799 --> 00:04:03,810
+more resource intensive<font color="#CCCCCC"> of course with</font>
+
+102
+00:04:03,810 --> 00:04:05,670
+the internet it's opened up huge new
+
+103
+00:04:05,670 --> 00:04:07,440
+opportunities<font color="#CCCCCC"> for them to master the</font>
+
+104
+00:04:07,440 --> 00:04:09,150
+<font color="#CCCCCC">Internet</font><font color="#E5E5E5"> which is one of</font><font color="#CCCCCC"> the phrases</font>
+
+105
+00:04:09,150 --> 00:04:11,549
+<font color="#CCCCCC">that came out of the</font><font color="#E5E5E5"> Snowden leaks a few</font>
+
+106
+00:04:11,549 --> 00:04:13,560
+years ago but<font color="#E5E5E5"> in this case of</font><font color="#CCCCCC"> course the</font>
+
+107
+00:04:13,560 --> 00:04:17,690
+<font color="#CCCCCC">WikiLeaks</font><font color="#E5E5E5"> CIA vault</font><font color="#CCCCCC"> 7 and vaults 8</font>
+
+108
+00:04:17,690 --> 00:04:20,100
+<font color="#E5E5E5">revelations are fascinating because the</font>
+
+109
+00:04:20,100 --> 00:04:23,370
+vault<font color="#CCCCCC"> 7 revelations last year revealed</font>
+
+110
+00:04:23,370 --> 00:04:25,480
+that for example the CIA
+
+111
+00:04:25,480 --> 00:04:28,090
+actually make a<font color="#E5E5E5"> hack look at it like it</font>
+
+112
+00:04:28,090 --> 00:04:30,370
+had<font color="#E5E5E5"> come</font><font color="#CCCCCC"> from</font><font color="#E5E5E5"> Russia</font><font color="#CCCCCC"> under the codename</font>
+
+113
+00:04:30,370 --> 00:04:33,220
+<font color="#CCCCCC">umbrage from China under marble and</font>
+
+114
+00:04:33,220 --> 00:04:36,160
+<font color="#E5E5E5">under many many other countries so it's</font>
+
+115
+00:04:36,160 --> 00:04:38,140
+actually<font color="#CCCCCC"> really mucked up to a whole</font>
+
+116
+00:04:38,140 --> 00:04:40,630
+concept of forensic<font color="#CCCCCC"> ating any hack</font>
+
+117
+00:04:40,630 --> 00:04:42,940
+attacks<font color="#E5E5E5"> that go on around</font><font color="#CCCCCC"> the world so</font><font color="#E5E5E5"> I</font>
+
+118
+00:04:42,940 --> 00:04:44,290
+suppose it was inevitable it would<font color="#E5E5E5"> move</font>
+
+119
+00:04:44,290 --> 00:04:46,210
+on to looking<font color="#E5E5E5"> at corporations that were</font>
+
+120
+00:04:46,210 --> 00:04:49,090
+had a gold<font color="#E5E5E5"> standard of providing</font>
+
+121
+00:04:49,090 --> 00:04:51,490
+protection around<font color="#E5E5E5"> the world for</font>
+
+122
+00:04:51,490 --> 00:04:53,200
+companies and also<font color="#E5E5E5"> the American</font>
+
+123
+00:04:53,200 --> 00:04:55,360
+government by<font color="#E5E5E5"> the way Kaspersky</font><font color="#CCCCCC"> is a</font>
+
+124
+00:04:55,360 --> 00:04:58,450
+<font color="#E5E5E5">highly reputable it's been operating</font><font color="#CCCCCC"> for</font>
+
+125
+00:04:58,450 --> 00:05:00,070
+a couple of decades<font color="#CCCCCC"> it has</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> four</font>
+
+126
+00:05:00,070 --> 00:05:01,450
+<font color="#CCCCCC">hundred</font><font color="#E5E5E5"> million</font><font color="#CCCCCC"> users around the</font><font color="#E5E5E5"> world</font>
+
+127
+00:05:01,450 --> 00:05:03,460
+<font color="#E5E5E5">including until very recently the</font>
+
+128
+00:05:03,460 --> 00:05:05,890
+<font color="#CCCCCC">American government so you know if</font>
+
+129
+00:05:05,890 --> 00:05:07,150
+they're going<font color="#E5E5E5"> to do that</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> whole</font>
+
+130
+00:05:07,150 --> 00:05:08,410
+countries of<font color="#E5E5E5"> course they're going to do</font>
+
+131
+00:05:08,410 --> 00:05:11,400
+it<font color="#CCCCCC"> to competitive and competitor</font>
+
+132
+00:05:11,400 --> 00:05:14,170
+corporations around<font color="#E5E5E5"> the world -</font><font color="#CCCCCC"> okay the</font>
+
+133
+00:05:14,170 --> 00:05:15,850
+thing<font color="#E5E5E5"> I</font><font color="#CCCCCC"> will glean</font><font color="#E5E5E5"> from all of that is</font>
+
+134
+00:05:15,850 --> 00:05:17,650
+if anybody<font color="#E5E5E5"> accuses anyone else of having</font>
+
+135
+00:05:17,650 --> 00:05:19,630
+carried<font color="#E5E5E5"> out a hack</font><font color="#CCCCCC"> I won't believe it</font>
+
+136
+00:05:19,630 --> 00:05:21,670
+<font color="#E5E5E5">because</font><font color="#CCCCCC"> you just never know</font><font color="#E5E5E5"> how much</font>
+
+137
+00:05:21,670 --> 00:05:24,400
+<font color="#E5E5E5">smoke is involved in a</font><font color="#CCCCCC"> smokescreen why</font>
+
+138
+00:05:24,400 --> 00:05:26,680
+would the CIA choose Kaspersky<font color="#E5E5E5"> Lab and</font>
+
+139
+00:05:26,680 --> 00:05:28,300
+<font color="#E5E5E5">it's been a fascinating few months with</font>
+
+140
+00:05:28,300 --> 00:05:30,430
+Kaspersky in the doghouse<font color="#CCCCCC"> big</font><font color="#E5E5E5"> scandal</font>
+
+141
+00:05:30,430 --> 00:05:32,110
+over<font color="#E5E5E5"> them and now we've got the CIA</font>
+
+142
+00:05:32,110 --> 00:05:33,520
+revealed as being able to impersonate
+
+143
+00:05:33,520 --> 00:05:37,660
+Kaspersky but but why then there seems
+
+144
+00:05:37,660 --> 00:05:39,130
+<font color="#CCCCCC">to be</font><font color="#E5E5E5"> quite a lot of history I mean</font>
+
+145
+00:05:39,130 --> 00:05:40,930
+obviously the CIA will be interested<font color="#E5E5E5"> in</font>
+
+146
+00:05:40,930 --> 00:05:43,720
+a very<font color="#CCCCCC"> successful Russian based company</font>
+
+147
+00:05:43,720 --> 00:05:45,370
+<font color="#CCCCCC">that offers protection on the</font><font color="#E5E5E5"> Internet</font>
+
+148
+00:05:45,370 --> 00:05:47,590
+but it goes back a bit<font color="#E5E5E5"> further because I</font>
+
+149
+00:05:47,590 --> 00:05:51,190
+<font color="#CCCCCC">think it was 2010 the very first</font><font color="#E5E5E5"> proven</font>
+
+150
+00:05:51,190 --> 00:05:53,950
+cyber warfare weapon was deployed<font color="#E5E5E5"> and</font>
+
+151
+00:05:53,950 --> 00:05:56,340
+this was against<font color="#E5E5E5"> the Iranian domestic</font>
+
+152
+00:05:56,340 --> 00:05:59,680
+civilian<font color="#E5E5E5"> nuclear development capability</font>
+
+153
+00:05:59,680 --> 00:06:01,990
+and this<font color="#E5E5E5"> was at the</font><font color="#CCCCCC"> time when the</font>
+
+154
+00:06:01,990 --> 00:06:04,840
+Americans were drumming drumming up
+
+155
+00:06:04,840 --> 00:06:07,690
+against<font color="#E5E5E5"> the war against Iran</font><font color="#CCCCCC"> and there</font>
+
+156
+00:06:07,690 --> 00:06:08,920
+was an attack made against their
+
+157
+00:06:08,920 --> 00:06:11,800
+civilian nuclear<font color="#E5E5E5"> capability and in this</font>
+
+158
+00:06:11,800 --> 00:06:14,860
+case this virus which was<font color="#E5E5E5"> called</font><font color="#CCCCCC"> stunner</font>
+
+159
+00:06:14,860 --> 00:06:16,900
+Stuxnet<font color="#E5E5E5"> was deployed against the</font>
+
+160
+00:06:16,900 --> 00:06:19,900
+centrifuges that that enriched uranium
+
+161
+00:06:19,900 --> 00:06:22,420
+<font color="#E5E5E5">and nobody knew where it came</font><font color="#CCCCCC"> from it</font>
+
+162
+00:06:22,420 --> 00:06:24,400
+seemed to be<font color="#CCCCCC"> very weaponized</font><font color="#E5E5E5"> a state</font>
+
+163
+00:06:24,400 --> 00:06:27,250
+<font color="#E5E5E5">level and it was actually Kaspersky that</font>
+
+164
+00:06:27,250 --> 00:06:29,470
+<font color="#E5E5E5">unveiled who had developed it and it was</font>
+
+165
+00:06:29,470 --> 00:06:31,840
+the Americans and the Israeli
+
+166
+00:06:31,840 --> 00:06:34,480
+<font color="#E5E5E5">intelligence agencies so ever since then</font>
+
+167
+00:06:34,480 --> 00:06:35,860
+there's been<font color="#CCCCCC"> sort of</font><font color="#E5E5E5"> daggers drawn</font>
+
+168
+00:06:35,860 --> 00:06:36,940
+between
+
+169
+00:06:36,940 --> 00:06:38,800
+these two competing<font color="#E5E5E5"> sides and kaspersky</font>
+
+170
+00:06:38,800 --> 00:06:40,750
+<font color="#E5E5E5">has been very much in the crosshairs of</font>
+
+171
+00:06:40,750 --> 00:06:42,910
+both the<font color="#CCCCCC"> American and</font><font color="#E5E5E5"> the Israeli</font>
+
+172
+00:06:42,910 --> 00:06:45,460
+intelligence agencies and so it has
+
+173
+00:06:45,460 --> 00:06:47,170
+evolved<font color="#E5E5E5"> since then where we have</font>
+
+174
+00:06:47,170 --> 00:06:49,470
+Kaspersky saying you know we can do this
+
+175
+00:06:49,470 --> 00:06:52,360
+<font color="#CCCCCC">we</font><font color="#E5E5E5"> can prove</font><font color="#CCCCCC"> that some of these hacks</font>
+
+176
+00:06:52,360 --> 00:06:55,060
+are not Russian they're American when it
+
+177
+00:06:55,060 --> 00:06:57,370
+comes to<font color="#E5E5E5"> Russia gate in America and the</font>
+
+178
+00:06:57,370 --> 00:07:00,490
+<font color="#E5E5E5">presidential elections so they needed to</font>
+
+179
+00:07:00,490 --> 00:07:03,370
+discredit them<font color="#E5E5E5"> and I think that this new</font>
+
+180
+00:07:03,370 --> 00:07:05,670
+<font color="#CCCCCC">application of</font><font color="#E5E5E5"> a virus a</font><font color="#CCCCCC"> state level</font>
+
+181
+00:07:05,670 --> 00:07:07,840
+<font color="#E5E5E5">very aggressive virus that will</font>
+
+182
+00:07:07,840 --> 00:07:10,540
+discredit<font color="#E5E5E5"> a very proven brand around the</font>
+
+183
+00:07:10,540 --> 00:07:12,460
+world is<font color="#E5E5E5"> exactly what the Americans</font>
+
+184
+00:07:12,460 --> 00:07:14,170
+would want and the Israelis as what also
+
+185
+00:07:14,170 --> 00:07:17,290
+<font color="#E5E5E5">would</font><font color="#CCCCCC"> want fascinating insights there I</font>
+
+186
+00:07:17,290 --> 00:07:19,180
+think much appreciated your<font color="#CCCCCC"> time that</font>
+
+187
+00:07:19,180 --> 00:07:20,650
+former<font color="#E5E5E5"> British intelligence officer</font>
+
+188
+00:07:20,650 --> 00:00:00,000
+<font color="#CCCCCC">Annie Machon is my guest Thank You Annie</font>
+

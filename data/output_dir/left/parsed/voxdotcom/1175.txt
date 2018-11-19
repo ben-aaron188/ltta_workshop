@@ -1,0 +1,188 @@
+if you are to put sports and games on a
+continuum where the outcomes reflect
+pure skill on the right side and cure
+luck on the left side where would the
+big team sports go somewhere in the
+middle right but in what order there's
+actually a way to estimate that using
+statistics and this is where they end up
+what you find is the NBA's the sport
+that's farthest away from random and
+then you go down the line hockey is
+actually to support those closest to
+randomness Michael mobizen did these
+calculations for his book the success
+equation and his findings remind us what
+we love so much about these sports
+mobis ins continuum is based on the
+regular season for each league and he
+found that skill explains less than half
+of the season standings for the NHL but
+that's not to say hockey players are any
+less skilled all these players all these
+athletes are amazing amazing and almost
+inconceivable how good they are the
+continuum doesn't tell us how skilled
+the players are it's more like how well
+their sport measures their skills so a
+big factor is the sample size or the
+number of games in a season Major League
+Baseball teams play 162 games compare
+that to the NFL where teams play only 16
+games the small sample size pushes
+football towards the left side of the
+continuum since it's harder for skill to
+emerge from the noise with so few trials
+but the number of games doesn't explain
+everything
+both the NHL and the NBA play 82 games
+in a season so their placement has more
+to do with the dynamics of the game
+itself like the number of chances teams
+have to score during the game that's
+another type of sample size basketballs
+are coming down and every shot clock and
+they have to take lots of shots four to
+shoot
+DeLorean fires the Forsett a shot so
+there's a lot of samples that go back
+and forth ice hockey of course it's much
+more fluid that the possessions are much
+more discrete they don't even have a way
+to measure possessions in hockey which
+gives you a sense of how little
+sustained control those players have the
+number of players matters to tennis is a
+sport where skill plays a much bigger
+role in large part because there simply
+aren't many people involved
+that's why Serena Williams could hold
+the number-one-ranked for a hundred
+eighty six consecutive weeks from 2013
+to 2016
+when skilled dominates outcomes are more
+predictable in a sport like swimming or
+sprinting the activities are even more
+individual essentially racing a clock so
+there's nothing standing between the
+athletes still and their ranking but in
+team sports you have more players and
+lots of interactions and what matters
+isn't just how many are on the field at
+a time but how possession is distributed
+among the team's players over the course
+of the game baseball requires nine
+hitters on a team to take turns at that
+ideal B wouldn't it be awesome if our
+best hitter hit every single time right
+and we have our weaker players never
+play at all in basketball in the sense
+you can do a little bit of that not
+quite but you can have LeBron James
+playing most of the game whereas the
+very best hockey players Sidney Crosby
+can be on the ice you know 20 to 23
+minutes per game he's their superstar
+hockey is inherently really fast and
+erratic so even the best players need to
+rest and that puts some limits on how
+much their skill can influence the
+result whereas in football you have the
+quarterback involved in every offensive
+play I think that football does boil
+down to a few skill players typically
+and I would really say probably the
+quarterback head coach combination
+becomes the most important determinant
+or a predictor of success and then you
+have the question of the talent team
+basketball inherently rewards unusually
+tall players this chart shows the height
+and weight of different positions in
+different leagues these are the NBA
+players and here's the height of the
+average American male
+so what happens is you shrink your
+sample size and anything your small
+sample size you get a lot of variance
+saying that differently there are seven
+foot players who are really skillful and
+there are seven foot players who are not
+quite as skilful and they're both in the
+NBA right just because they're by virtue
+of their height so the consequence you
+get more variance that means skill tends
+to assert yourself more soccer and
+hockey don't require such an outlier
+body type so you'd expect less variance
+in players skills and that leaves more
+to look to understand what that means
+you have to see how mobis in calculated
+all of it
+I learned this by the way from the
+sports analytics guy so I wasn't clever
+enough to come up with this myself but
+there's a really interesting concept in
+statistics it's actually calls for the
+Pythagorean theorem statistics it says
+that if you have two random independent
+variables then you can add their
+variances variance is just a measure of
+how spread out a data set is for our
+purposes the equation looks like this
+the variance of the observed real-life
+results equals the variance of skill
+plus the variance of luck skill plus
+luck equals everything that happens so
+you think about how we apply this to
+sports most people use basketball an
+example so what do we know we know the
+actual variance of win-loss records of
+all the professional sports teams right
+basketball teams so that's a known over
+a season some teams win about half their
+games some do a lot better than that
+some a lot worse
+so if the variance is a measure of how
+spread out those win-loss records are
+for the league you can see that you have
+more variance in basketball than hockey
+the other part of the equation estimates
+what the results would be in an all luck
+world so instead of playing every
+basketball game that teams just went out
+and flip the coin and whoever won the
+coin toss take what back it took showers
+at home
+the variance of luck varies from sport
+to sport depending on how many games
+there are in a season more games means
+lower variance of luck just like the
+more times you flip a coin the closer
+your data gets to 50/50 now we have two
+out of the three pieces of the equation
+and what that allows us to do that is
+estimate the contribution of the other
+distribution basically what this asks is
+how different does the real world look
+from a world in which the winners are
+just chosen at random he averaged the
+results of five seasons for each sport
+and that's how he placed them on the
+continuum if you were to look at just
+the playoffs rather than the regular
+season you might get a different results
+according to one analysis baseball
+playoffs are the worst and ensuring that
+the best team wins which raises the
+question of what we want our sports to
+do do we want to measure skill as
+precisely as possible or do we just want
+to feel alive we're there to enjoy the
+journey we're to have the high blows and
+having both highs and lows what kind of
+makes it engaging as a fan
+I think that's part of the whole human
+condition that makes it really hard for
+us to watch
+you

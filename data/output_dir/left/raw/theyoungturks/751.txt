@@ -1,0 +1,644 @@
+1
+00:00:00,030 --> 00:00:02,610
+<font color="#CCCCCC">eleven-year-olds are able to</font><font color="#E5E5E5"> hack into a</font>
+
+2
+00:00:02,610 --> 00:00:05,430
+replica<font color="#CCCCCC"> of Florida's voting system so if</font>
+
+3
+00:00:05,430 --> 00:00:06,899
+you're concerned<font color="#E5E5E5"> about the</font><font color="#CCCCCC"> integrity of</font>
+
+4
+00:00:06,899 --> 00:00:10,500
+our<font color="#CCCCCC"> democracy and our elections you</font>
+
+5
+00:00:10,500 --> 00:00:12,389
+should be concerned because again
+
+6
+00:00:12,389 --> 00:00:14,780
+<font color="#CCCCCC">11-year</font><font color="#E5E5E5"> olds are able</font><font color="#CCCCCC"> to hack into</font>
+
+7
+00:00:14,780 --> 00:00:17,850
+voting systems within<font color="#CCCCCC"> ten minutes in</font>
+
+8
+00:00:17,850 --> 00:00:19,920
+fact there was<font color="#CCCCCC"> one student who was</font><font color="#E5E5E5"> able</font>
+
+9
+00:00:19,920 --> 00:00:22,260
+<font color="#E5E5E5">to do so even quick quicker so this</font>
+
+10
+00:00:22,260 --> 00:00:24,180
+group<font color="#E5E5E5"> of children</font><font color="#CCCCCC"> hacked</font><font color="#E5E5E5"> into a replica</font>
+
+11
+00:00:24,180 --> 00:00:25,680
+of Florida's voting system within<font color="#CCCCCC"> 30</font>
+
+12
+00:00:25,680 --> 00:00:27,480
+minutes including one who<font color="#E5E5E5"> broke in</font>
+
+13
+00:00:27,480 --> 00:00:30,810
+within<font color="#CCCCCC"> ten minutes</font><font color="#E5E5E5"> ten minutes</font><font color="#CCCCCC"> okay this</font>
+
+14
+00:00:30,810 --> 00:00:34,410
+is an exact<font color="#E5E5E5"> replica</font><font color="#CCCCCC"> ten minutes let's</font><font color="#E5E5E5"> go</font>
+
+15
+00:00:34,410 --> 00:00:37,590
+on an<font color="#E5E5E5"> 11 year</font><font color="#CCCCCC"> old boy changed</font><font color="#E5E5E5"> fake</font>
+
+16
+00:00:37,590 --> 00:00:39,690
+voting results by hacking<font color="#E5E5E5"> into an exact</font>
+
+17
+00:00:39,690 --> 00:00:41,160
+replica<font color="#CCCCCC"> of Florida State Election</font>
+
+18
+00:00:41,160 --> 00:00:45,570
+<font color="#E5E5E5">website now 35 of the 39 kids completed</font>
+
+19
+00:00:45,570 --> 00:00:48,180
+the exploit and tampered with voting
+
+20
+00:00:48,180 --> 00:00:51,120
+tallies party names and candidate names
+
+21
+00:00:51,120 --> 00:00:52,230
+<font color="#E5E5E5">within 30 minutes</font>
+
+22
+00:00:52,230 --> 00:00:55,110
+now these<font color="#E5E5E5"> Def Con participants</font>
+
+23
+00:00:55,110 --> 00:00:57,809
+discovered that voting systems running
+
+24
+00:00:57,809 --> 00:01:01,020
+on expired<font color="#E5E5E5"> SSL</font><font color="#CCCCCC"> Certificates</font><font color="#E5E5E5"> encryption</font>
+
+25
+00:01:01,020 --> 00:01:03,239
+keys that<font color="#CCCCCC"> are intended</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> create secure</font>
+
+26
+00:01:03,239 --> 00:01:04,890
+connections were the<font color="#E5E5E5"> most vulnerable</font>
+
+27
+00:01:04,890 --> 00:01:07,920
+<font color="#CCCCCC">which should be unsurprising but this is</font>
+
+28
+00:01:07,920 --> 00:01:10,680
+this is<font color="#CCCCCC"> crazy I mean we have these</font>
+
+29
+00:01:10,680 --> 00:01:13,979
+insane debates<font color="#E5E5E5"> about voter fraud</font><font color="#CCCCCC"> how</font>
+
+30
+00:01:13,979 --> 00:01:15,960
+about we<font color="#E5E5E5"> beefed up our</font><font color="#CCCCCC"> security when it</font>
+
+31
+00:01:15,960 --> 00:01:19,020
+<font color="#E5E5E5">comes to our voting systems because this</font>
+
+32
+00:01:19,020 --> 00:01:19,970
+is crazy
+
+33
+00:01:19,970 --> 00:01:24,030
+yeah<font color="#CCCCCC"> so number of problems here</font><font color="#E5E5E5"> one is</font>
+
+34
+00:01:24,030 --> 00:01:26,280
+how easy it<font color="#E5E5E5"> is to do it</font><font color="#CCCCCC"> two is how we</font>
+
+35
+00:01:26,280 --> 00:01:32,579
+react<font color="#E5E5E5"> so there is our reaction to the</font>
+
+36
+00:01:32,579 --> 00:01:34,590
+<font color="#E5E5E5">Russian attempts to break into the voter</font>
+
+37
+00:01:34,590 --> 00:01:36,720
+rolls<font color="#E5E5E5"> and yes they did attempt to do</font>
+
+38
+00:01:36,720 --> 00:01:38,220
+<font color="#CCCCCC">that and yes</font>
+
+39
+00:01:38,220 --> 00:01:40,860
+the all the intelligence<font color="#CCCCCC"> agencies say</font>
+
+40
+00:01:40,860 --> 00:01:43,380
+they are<font color="#E5E5E5"> actively engaged in interfering</font>
+
+41
+00:01:43,380 --> 00:01:46,860
+<font color="#CCCCCC">again in these elections</font><font color="#E5E5E5"> and so that's</font>
+
+42
+00:01:46,860 --> 00:01:49,680
+<font color="#E5E5E5">fairly well known and then the reaction</font>
+
+43
+00:01:49,680 --> 00:01:51,689
+to that<font color="#CCCCCC"> is</font><font color="#E5E5E5"> the Republicans</font><font color="#CCCCCC"> voted down</font>
+
+44
+00:01:51,689 --> 00:01:55,649
+<font color="#E5E5E5">extra money for securing the vote they</font>
+
+45
+00:01:55,649 --> 00:01:58,259
+<font color="#E5E5E5">voted it down</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> almost as if they</font>
+
+46
+00:01:58,259 --> 00:02:00,240
+<font color="#E5E5E5">don't want the vote to be</font><font color="#CCCCCC"> secured</font><font color="#E5E5E5"> it's</font>
+
+47
+00:02:00,240 --> 00:02:01,860
+really sick<font color="#E5E5E5"> these are the guys who</font><font color="#CCCCCC"> claim</font>
+
+48
+00:02:01,860 --> 00:02:04,399
+that<font color="#E5E5E5"> they're concerned</font><font color="#CCCCCC"> about voter</font><font color="#E5E5E5"> fraud</font>
+
+49
+00:02:04,399 --> 00:02:06,869
+note<font color="#CCCCCC"> that irony</font><font color="#E5E5E5"> but the one that</font>
+
+50
+00:02:06,869 --> 00:02:08,910
+<font color="#CCCCCC">actually bothers me the most is</font><font color="#E5E5E5"> the</font>
+
+51
+00:02:08,910 --> 00:02:09,720
+<font color="#E5E5E5">groupthink</font>
+
+52
+00:02:09,720 --> 00:02:11,790
+around both political<font color="#CCCCCC"> parties and the</font>
+
+53
+00:02:11,790 --> 00:02:12,730
+<font color="#CCCCCC">media</font>
+
+54
+00:02:12,730 --> 00:02:14,140
+as soon as<font color="#E5E5E5"> an election is over they're</font>
+
+55
+00:02:14,140 --> 00:02:16,450
+like<font color="#E5E5E5"> okay it's</font><font color="#CCCCCC"> over don't ask</font><font color="#E5E5E5"> don't</font><font color="#CCCCCC"> ask</font>
+
+56
+00:02:16,450 --> 00:02:18,190
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> verifies</font><font color="#E5E5E5"> about y'all don't don't ask</font>
+
+57
+00:02:18,190 --> 00:02:21,849
+<font color="#E5E5E5">don't ask</font><font color="#CCCCCC"> so look we raise money from</font>
+
+58
+00:02:21,849 --> 00:02:23,650
+you guys to have reporters so we spent
+
+59
+00:02:23,650 --> 00:02:25,030
+<font color="#E5E5E5">some</font><font color="#CCCCCC"> of that to send someone down to</font>
+
+60
+00:02:25,030 --> 00:02:27,670
+<font color="#CCCCCC">Johnson County Kansas</font><font color="#E5E5E5"> okay</font><font color="#CCCCCC"> where there</font>
+
+61
+00:02:27,670 --> 00:02:29,799
+<font color="#E5E5E5">was a computer glitch which is</font><font color="#CCCCCC"> a another</font>
+
+62
+00:02:29,799 --> 00:02:32,080
+word<font color="#CCCCCC"> for that as a computer failure in</font>
+
+63
+00:02:32,080 --> 00:02:33,430
+the middle of the election that's<font color="#E5E5E5"> why I</font>
+
+64
+00:02:33,430 --> 00:02:35,620
+<font color="#E5E5E5">took hours upon hours upon</font><font color="#CCCCCC"> hours to fix</font>
+
+65
+00:02:35,620 --> 00:02:38,230
+the error<font color="#CCCCCC"> now is it possible that it</font><font color="#E5E5E5"> was</font>
+
+66
+00:02:38,230 --> 00:02:40,390
+just an error and nothing<font color="#CCCCCC"> went wrong of</font>
+
+67
+00:02:40,390 --> 00:02:43,959
+course<font color="#E5E5E5"> that's possible</font><font color="#CCCCCC"> right so</font><font color="#E5E5E5"> is it</font>
+
+68
+00:02:43,959 --> 00:02:46,329
+possible<font color="#CCCCCC"> that</font><font color="#E5E5E5"> something went wrong</font>
+
+69
+00:02:46,329 --> 00:02:48,849
+without<font color="#E5E5E5"> any bad intent and some of the</font>
+
+70
+00:02:48,849 --> 00:02:50,920
+votes got tabulated wrong
+
+71
+00:02:50,920 --> 00:02:53,410
+well that's obviously also possible<font color="#E5E5E5"> is</font>
+
+72
+00:02:53,410 --> 00:02:55,230
+it possible<font color="#E5E5E5"> someone had bad intent</font>
+
+73
+00:02:55,230 --> 00:02:58,209
+possible right<font color="#E5E5E5"> now less likely</font><font color="#CCCCCC"> but</font>
+
+74
+00:02:58,209 --> 00:03:00,879
+possible<font color="#CCCCCC"> but when you go</font><font color="#E5E5E5"> to ask people</font>
+
+75
+00:03:00,879 --> 00:03:04,060
+as our reporter did<font color="#CCCCCC"> hey can can we</font>
+
+76
+00:03:04,060 --> 00:03:06,879
+verify<font color="#E5E5E5"> the vote answer's no of course</font>
+
+77
+00:03:06,879 --> 00:03:09,579
+not so can the<font color="#CCCCCC"> public see you verify the</font>
+
+78
+00:03:09,579 --> 00:03:12,790
+book<font color="#CCCCCC"> no yeah that's that's an issue</font>
+
+79
+00:03:12,790 --> 00:03:15,099
+<font color="#E5E5E5">okay then how the hell do we know I mean</font>
+
+80
+00:03:15,099 --> 00:03:18,220
+number<font color="#E5E5E5"> one how do we know how if any of</font>
+
+81
+00:03:18,220 --> 00:03:19,750
+the votes<font color="#E5E5E5"> are real number two look at</font>
+
+82
+00:03:19,750 --> 00:03:22,840
+how easy mr.<font color="#CCCCCC"> hack</font><font color="#E5E5E5"> in Jesus Christ</font><font color="#CCCCCC"> and so</font>
+
+83
+00:03:22,840 --> 00:03:25,540
+simple and then<font color="#E5E5E5"> you sure me that I</font>
+
+84
+00:03:25,540 --> 00:03:27,819
+should have absolute confidence<font color="#CCCCCC"> that</font>
+
+85
+00:03:27,819 --> 00:03:30,609
+none of<font color="#CCCCCC"> these</font><font color="#E5E5E5"> things are hacked into how</font>
+
+86
+00:03:30,609 --> 00:03:32,440
+would you know how<font color="#CCCCCC"> would have local</font>
+
+87
+00:03:32,440 --> 00:03:34,239
+bumpkin in the middle of Kansas<font color="#E5E5E5"> by the</font>
+
+88
+00:03:34,239 --> 00:03:35,349
+way could be<font color="#E5E5E5"> in the middle of</font><font color="#CCCCCC"> anywhere</font>
+
+89
+00:03:35,349 --> 00:03:37,049
+Rhode Island<font color="#CCCCCC"> Hawaii</font><font color="#E5E5E5"> doesn't</font><font color="#CCCCCC"> matter right</font>
+
+90
+00:03:37,049 --> 00:03:40,840
+<font color="#E5E5E5">no better than a hacker like what if the</font>
+
+91
+00:03:40,840 --> 00:03:42,700
+computer glitch was a hacker
+
+92
+00:03:42,700 --> 00:03:45,040
+how would that<font color="#E5E5E5"> guy know what is he a</font>
+
+93
+00:03:45,040 --> 00:03:48,069
+computer expert<font color="#CCCCCC"> he doesn't know and then</font>
+
+94
+00:03:48,069 --> 00:03:50,650
+when you go<font color="#E5E5E5"> to ask the verify oh how</font>
+
+95
+00:03:50,650 --> 00:03:52,840
+dare<font color="#E5E5E5"> you</font><font color="#CCCCCC"> look why isn't the Kansas City</font>
+
+96
+00:03:52,840 --> 00:03:54,549
+Star why aren't all<font color="#E5E5E5"> the papers I mean</font>
+
+97
+00:03:54,549 --> 00:03:56,440
+you've got<font color="#E5E5E5"> an incredibly contentious</font>
+
+98
+00:03:56,440 --> 00:03:58,840
+race in Kansas<font color="#CCCCCC"> with</font><font color="#E5E5E5"> Kris Kobach you get</font>
+
+99
+00:03:58,840 --> 00:04:01,269
+up again the current<font color="#E5E5E5"> governor on the</font>
+
+100
+00:04:01,269 --> 00:04:03,069
+Republican side<font color="#E5E5E5"> luckily there's a</font>
+
+101
+00:04:03,069 --> 00:04:05,349
+<font color="#E5E5E5">Republican in the race and why do I</font><font color="#CCCCCC"> say</font>
+
+102
+00:04:05,349 --> 00:04:08,109
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> they actually fight</font><font color="#E5E5E5"> so the</font>
+
+103
+00:04:08,109 --> 00:04:09,940
+I hope<font color="#E5E5E5"> the governor doesn't roll</font><font color="#CCCCCC"> over</font>
+
+104
+00:04:09,940 --> 00:04:12,069
+and go it's<font color="#E5E5E5"> totally fine but who knows</font>
+
+105
+00:04:12,069 --> 00:04:14,139
+<font color="#E5E5E5">but what you don't</font><font color="#CCCCCC"> see them what I'm</font>
+
+106
+00:04:14,139 --> 00:04:17,139
+here to tell you is enormous pressure in
+
+107
+00:04:17,139 --> 00:04:19,410
+the establishment<font color="#E5E5E5"> once a vote is</font>
+
+108
+00:04:19,410 --> 00:04:23,169
+concluded<font color="#E5E5E5"> right or</font><font color="#CCCCCC"> wrong</font><font color="#E5E5E5"> to move on move</font>
+
+109
+00:04:23,169 --> 00:04:24,850
+on<font color="#E5E5E5"> don't worry about it don't</font>
+
+110
+00:04:24,850 --> 00:04:26,920
+you know why what they're<font color="#E5E5E5"> afraid of is</font>
+
+111
+00:04:26,920 --> 00:04:28,480
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> you're not going to have faith in</font>
+
+112
+00:04:28,480 --> 00:04:31,270
+<font color="#E5E5E5">the system because if you go to find out</font>
+
+113
+00:04:31,270 --> 00:04:32,800
+what the hell<font color="#E5E5E5"> happened in a computer</font>
+
+114
+00:04:32,800 --> 00:04:34,300
+glitch<font color="#CCCCCC"> they're afraid of</font><font color="#E5E5E5"> what you're</font>
+
+115
+00:04:34,300 --> 00:04:37,150
+<font color="#E5E5E5">gonna find</font><font color="#CCCCCC"> and so they just</font><font color="#E5E5E5"> want to</font>
+
+116
+00:04:37,150 --> 00:04:38,830
+sweep it under the<font color="#CCCCCC"> rug as soon as an</font>
+
+117
+00:04:38,830 --> 00:04:41,530
+election<font color="#CCCCCC"> is over everyone sweeps it</font>
+
+118
+00:04:41,530 --> 00:04:44,410
+under the rug<font color="#E5E5E5"> it's maddening</font><font color="#CCCCCC"> we have no</font>
+
+119
+00:04:44,410 --> 00:04:47,770
+faith<font color="#CCCCCC"> I look I want</font><font color="#E5E5E5"> you to vote</font><font color="#CCCCCC"> I want</font>
+
+120
+00:04:47,770 --> 00:04:49,000
+you to go to primaries we've made a
+
+121
+00:04:49,000 --> 00:04:51,130
+<font color="#E5E5E5">giant difference</font><font color="#CCCCCC"> 18 different just</font>
+
+122
+00:04:51,130 --> 00:04:52,900
+Democrats<font color="#CCCCCC"> of</font><font color="#E5E5E5"> one so don't give</font><font color="#CCCCCC"> up hope</font>
+
+123
+00:04:52,900 --> 00:04:54,610
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> all the elections are rigged</font>
+
+124
+00:04:54,610 --> 00:04:56,410
+that's ridiculous in a<font color="#CCCCCC"> casa of cortez</font>
+
+125
+00:04:56,410 --> 00:04:58,600
+<font color="#E5E5E5">one and 17 others one that a real</font>
+
+126
+00:04:58,600 --> 00:05:00,790
+progressives<font color="#E5E5E5"> aren't corrupted etc but</font>
+
+127
+00:05:00,790 --> 00:05:03,070
+does<font color="#CCCCCC"> that</font><font color="#E5E5E5"> mean that we should just take</font>
+
+128
+00:05:03,070 --> 00:05:06,100
+<font color="#E5E5E5">it on blind faith</font><font color="#CCCCCC"> i would ask who would</font>
+
+129
+00:05:06,100 --> 00:05:08,140
+<font color="#E5E5E5">be</font><font color="#CCCCCC"> stupid</font><font color="#E5E5E5"> enough to say that except it's</font>
+
+130
+00:05:08,140 --> 00:05:10,810
+almost<font color="#E5E5E5"> entirety of the establishment</font>
+
+131
+00:05:10,810 --> 00:05:13,090
+both political parties<font color="#E5E5E5"> are in general</font>
+
+132
+00:05:13,090 --> 00:05:15,940
+and<font color="#E5E5E5"> god</font><font color="#CCCCCC"> the mainstream media the minute</font>
+
+133
+00:05:15,940 --> 00:05:17,920
+you talk about<font color="#E5E5E5"> if you do it</font><font color="#CCCCCC"> before an</font>
+
+134
+00:05:17,920 --> 00:05:18,940
+election they'll I guess theoretically
+
+135
+00:05:18,940 --> 00:05:21,370
+<font color="#CCCCCC">yes the Russians Russia's</font><font color="#E5E5E5"> I care about</font>
+
+136
+00:05:21,370 --> 00:05:23,320
+the Russians<font color="#E5E5E5"> you do it after an</font><font color="#CCCCCC"> election</font>
+
+137
+00:05:23,320 --> 00:05:27,010
+<font color="#CCCCCC">I go</font><font color="#E5E5E5"> conspiracy theory but</font><font color="#CCCCCC"> I don't have</font>
+
+138
+00:05:27,010 --> 00:05:29,200
+<font color="#CCCCCC">a conspiracy</font><font color="#E5E5E5"> theory I just I don't</font><font color="#CCCCCC"> have</font>
+
+139
+00:05:29,200 --> 00:05:30,580
+I don't have any theory as to<font color="#E5E5E5"> what</font>
+
+140
+00:05:30,580 --> 00:05:33,010
+happened<font color="#E5E5E5"> I want you to tell me what was</font>
+
+141
+00:05:33,010 --> 00:05:34,900
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> glitch they wouldn't even say what</font>
+
+142
+00:05:34,900 --> 00:05:38,080
+they did<font color="#CCCCCC"> it shut down</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> turned back</font><font color="#E5E5E5"> on</font>
+
+143
+00:05:38,080 --> 00:05:40,210
+why<font color="#E5E5E5"> did it shut down</font><font color="#CCCCCC"> they did</font><font color="#E5E5E5"> not shut</font>
+
+144
+00:05:40,210 --> 00:05:42,190
+<font color="#CCCCCC">down did it change votes that did not</font>
+
+145
+00:05:42,190 --> 00:05:44,200
+<font color="#E5E5E5">change</font><font color="#CCCCCC"> votes what do you mean glitch but</font>
+
+146
+00:05:44,200 --> 00:05:46,030
+they<font color="#CCCCCC"> refuse</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> answer in the media goes</font>
+
+147
+00:05:46,030 --> 00:05:47,710
+look that's fine<font color="#CCCCCC"> it's fine let's</font><font color="#E5E5E5"> move on</font>
+
+148
+00:05:47,710 --> 00:05:49,840
+let's<font color="#CCCCCC"> move</font><font color="#E5E5E5"> on</font><font color="#CCCCCC"> let's move</font><font color="#E5E5E5"> on</font><font color="#CCCCCC"> oh my god I</font>
+
+149
+00:05:49,840 --> 00:05:51,580
+don't<font color="#E5E5E5"> want people to question the</font><font color="#CCCCCC"> system</font>
+
+150
+00:05:51,580 --> 00:05:54,820
+why because<font color="#CCCCCC"> god</font><font color="#E5E5E5"> the media frustrates me</font>
+
+151
+00:05:54,820 --> 00:05:57,570
+so much<font color="#E5E5E5"> because they love the status quo</font>
+
+152
+00:05:57,570 --> 00:05:59,800
+<font color="#E5E5E5">anything that challenges</font><font color="#CCCCCC"> the status</font><font color="#E5E5E5"> quo</font>
+
+153
+00:05:59,800 --> 00:06:03,850
+makes them go nuts<font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> I mean another</font>
+
+154
+00:06:03,850 --> 00:06:05,890
+way to look at<font color="#E5E5E5"> this is you know kids</font>
+
+155
+00:06:05,890 --> 00:06:10,540
+these days<font color="#E5E5E5"> super computer literate</font><font color="#CCCCCC"> too</font>
+
+156
+00:06:10,540 --> 00:06:12,280
+easy<font color="#CCCCCC"> wasteful young turks want us hit</font>
+
+157
+00:06:12,280 --> 00:06:14,380
+the subscribe button down<font color="#E5E5E5"> below</font><font color="#CCCCCC"> then</font>
+
+158
+00:06:14,380 --> 00:06:16,780
+you're<font color="#CCCCCC"> at EIT subscriber</font><font color="#E5E5E5"> and second is</font>
+
+159
+00:06:16,780 --> 00:06:18,550
+ring the<font color="#E5E5E5"> bell and when</font><font color="#CCCCCC"> you do</font><font color="#E5E5E5"> that on</font>
+
+160
+00:06:18,550 --> 00:06:22,080
+<font color="#CCCCCC">youtube you</font><font color="#E5E5E5"> are notified of</font><font color="#CCCCCC"> our videos</font>
+
+161
+00:06:22,080 --> 00:00:00,000
+[Music]
+

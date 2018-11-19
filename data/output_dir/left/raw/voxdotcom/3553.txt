@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:02,600
+This voting machine is called a WINvote.
+
+2
+00:00:02,600 --> 00:00:04,589
+It was used in American elections
+
+3
+00:00:04,589 --> 00:00:06,980
+between 2004 and 2014.
+
+4
+00:00:06,980 --> 00:00:11,070
+In 2017, it took hackers just a few hours to play
+
+5
+00:00:11,070 --> 00:00:13,960
+Rick Astley on one of these at a
+cybersecurity conference.
+
+6
+00:00:16,600 --> 00:00:21,460
+Although the WINvote was out of use by
+then, the stunt pointed to a real problem:
+
+7
+00:00:38,740 --> 00:00:41,900
+In most of the US, voting machines are over
+a decade old.
+
+8
+00:00:41,900 --> 00:00:43,860
+In 2016 voters in these
+
+9
+00:00:43,860 --> 00:00:47,980
+counties were using machines bought in 2008
+or even earlier.
+
+10
+00:00:49,120 --> 00:00:50,220
+At that time this was
+
+11
+00:00:50,220 --> 00:00:52,120
+America's most popular cell phone.
+
+12
+00:00:52,920 --> 00:00:55,260
+Fast-forward to 2018 and the greatest
+
+13
+00:00:55,260 --> 00:00:57,940
+threat to these machines probably isn't
+hacking.
+
+14
+00:00:57,940 --> 00:00:59,370
+They're not even connected to
+
+15
+00:00:59,370 --> 00:01:03,440
+the internet, so remote large-scale
+meddling would be almost impossible.
+
+16
+00:01:04,280 --> 00:01:08,620
+The biggest problem is that they're so old,
+some of them may not be working right.
+
+17
+00:01:09,440 --> 00:01:12,560
+For over a decade there have been
+reports of apparent vote-flipping,
+
+18
+00:01:12,570 --> 00:01:17,340
+machine errors, and hardware breaking
+down across the country, but even though
+
+19
+00:01:17,340 --> 00:01:21,340
+this happens every election very few
+machines have been replaced.
+
+20
+00:01:21,340 --> 00:01:24,820
+And to understand why so many machines are
+failing now,
+
+21
+00:01:24,820 --> 00:01:25,920
+you have to look back at the
+
+22
+00:01:25,920 --> 00:01:28,740
+2000 election between George Bush and Al
+Gore.
+
+23
+00:01:29,040 --> 00:01:36,000
+And the lead story at this hour is the State
+of Florida is too close to call.
+
+24
+00:01:36,600 --> 00:01:37,640
+A nation waits.
+
+25
+00:01:37,780 --> 00:01:42,280
+Election officials decided to count all of the
+ballots by hand.
+
+26
+00:01:42,280 --> 00:01:43,500
+Punch hole is called a
+
+27
+00:01:43,500 --> 00:01:46,220
+"chad", pierced but still attached.
+
+28
+00:01:46,220 --> 00:01:48,119
+Hanging chad and whether it's an allowable vote.
+
+29
+00:01:48,119 --> 00:01:50,580
+What ballots count and what ballots
+don't count?
+
+30
+00:01:50,580 --> 00:01:52,110
+A hanging chad is the
+
+31
+00:01:52,110 --> 00:01:55,440
+partially torn piece of paper left on
+a ballot that isn't fully punched out.
+
+32
+00:01:55,440 --> 00:01:59,399
+When the 2000 election went to a recount
+Florida officials had to figure out
+
+33
+00:01:59,400 --> 00:02:02,400
+whether hanging chads represented a vote
+or not.
+
+34
+00:02:02,580 --> 00:02:03,980
+Clearly punched their ballot
+
+35
+00:02:03,989 --> 00:02:10,470
+correctly and there's a hanging Chad in
+the back it may read one time as no vote
+
+36
+00:02:10,470 --> 00:02:12,720
+and then the second time as a vote.
+
+37
+00:02:13,400 --> 00:02:15,740
+After the recount, frustrated officials started
+
+38
+00:02:15,740 --> 00:02:19,100
+replacing their old machines with new
+electronic ones.
+
+39
+00:02:20,080 --> 00:02:21,420
+Typically, state and
+
+40
+00:02:21,420 --> 00:02:25,080
+local officials would pay for this on
+their own, but after the 2000 election
+
+41
+00:02:25,080 --> 00:02:28,150
+fiasco the federal government passed the
+help America Vote Act,
+
+42
+00:02:28,150 --> 00:02:31,300
+which provided several billion dollars
+to pay for new equipment.
+
+43
+00:02:32,540 --> 00:02:33,240
+Congress has
+
+44
+00:02:33,240 --> 00:02:36,100
+made a vital contribution to the
+democratic process.
+
+45
+00:02:36,640 --> 00:02:37,480
+Now it's my honor to
+
+46
+00:02:37,480 --> 00:02:41,120
+sign into law the Help America Vote Act
+of 2002.
+
+47
+00:02:44,340 --> 00:02:45,640
+The electronic machines got rid
+
+48
+00:02:45,640 --> 00:02:48,680
+of hanging chads, but they also
+introduced new problems.
+
+49
+00:02:49,520 --> 00:02:53,200
+Officials without security training sometimes
+chose weak passwords.
+
+50
+00:02:53,560 --> 00:02:54,340
+The software
+
+51
+00:02:54,340 --> 00:02:59,110
+requires regular security updates and
+some machines don't have paper backups
+
+52
+00:02:59,110 --> 00:03:00,800
+that can be used to audit voting.
+
+53
+00:03:01,540 --> 00:03:03,840
+A recent report on election security says
+
+54
+00:03:03,849 --> 00:03:07,120
+that conducting elections with
+paper-based voting systems is one of the
+
+55
+00:03:07,120 --> 00:03:10,800
+most important steps states can take to
+improve election security.
+
+56
+00:03:11,360 --> 00:03:15,480
+The Help America Vote Act was the first time the
+federal government provided funding for
+
+57
+00:03:15,480 --> 00:03:16,880
+voting equipment.
+
+58
+00:03:17,500 --> 00:03:21,680
+Now that money is
+running out and many machines are failing.
+
+59
+00:03:22,480 --> 00:03:26,160
+Without federal funding some
+states like New Mexico and Rhode Island
+
+60
+00:03:26,160 --> 00:03:30,200
+have provided money for new machines, but
+in other states like New Jersey,
+
+61
+00:03:30,200 --> 00:03:33,520
+officials continue to work with aging
+equipment.
+
+62
+00:03:33,880 --> 00:03:34,980
+And there's a problem with
+
+63
+00:03:34,989 --> 00:03:36,240
+relying on local funding.
+
+64
+00:03:36,240 --> 00:03:38,900
+It can give an
+unfair advantage to larger counties.
+
+65
+00:03:38,900 --> 00:03:42,849
+In Texas for example, two neighboring
+counties have different budgets for
+
+66
+00:03:42,849 --> 00:03:43,980
+their voting systems.
+
+67
+00:03:43,980 --> 00:03:46,700
+Travis County is
+home to about a million people.
+
+68
+00:03:46,700 --> 00:03:47,799
+In 2017
+
+69
+00:03:47,799 --> 00:03:51,560
+their election administration budget was
+close to two million dollars.
+
+70
+00:03:51,560 --> 00:03:52,660
+Next door,
+
+71
+00:03:52,660 --> 00:03:56,420
+rural Blanco County budgeted only 46
+thousand.
+
+72
+00:03:57,069 --> 00:04:01,140
+The problem with this is that state and
+local officials are expected to pay for
+
+73
+00:04:01,140 --> 00:04:05,800
+new equipment on their own, but that's
+rarely a priority in the budgets they're given.
+
+74
+00:04:05,800 --> 00:04:10,360
+On the other hand, the federal
+government has a much larger budget.
+
+75
+00:04:10,360 --> 00:04:13,870
+For now, Congress has approved $380 million dollars to improve
+
+76
+00:04:13,870 --> 00:04:16,360
+the country's election infrastructure.
+
+77
+00:04:16,360 --> 00:04:18,430
+Whether that money will be used to
+
+78
+00:04:18,430 --> 00:00:00,000
+replace all of America's aging voting
+machines remains to be seen.
+

@@ -1,0 +1,1072 @@
+1
+00:00:00,060 --> 00:00:01,050
+we just want to jump<font color="#E5E5E5"> right into it</font>
+
+2
+00:00:01,050 --> 00:00:02,220
+<font color="#CCCCCC">because</font><font color="#E5E5E5"> I know that</font><font color="#CCCCCC"> our audience has</font>
+
+3
+00:00:02,220 --> 00:00:03,780
+<font color="#CCCCCC">been</font><font color="#E5E5E5"> waiting with bated breath ever</font>
+
+4
+00:00:03,780 --> 00:00:04,859
+since I<font color="#CCCCCC"> announced this morning</font><font color="#E5E5E5"> on</font>
+
+5
+00:00:04,859 --> 00:00:06,450
+Twitter<font color="#E5E5E5"> that we would be having on the</font>
+
+6
+00:00:06,450 --> 00:00:08,639
+author of<font color="#E5E5E5"> the Google memo the infamous</font>
+
+7
+00:00:08,639 --> 00:00:10,530
+<font color="#CCCCCC">Google memo the most important</font><font color="#E5E5E5"> document</font>
+
+8
+00:00:10,530 --> 00:00:12,780
+since the Magna Carta James d'amour is
+
+9
+00:00:12,780 --> 00:00:14,639
+joining<font color="#E5E5E5"> us right now</font><font color="#CCCCCC"> he of course was a</font>
+
+10
+00:00:14,639 --> 00:00:16,619
+senior engineer<font color="#CCCCCC"> at Google</font><font color="#E5E5E5"> until he made</font>
+
+11
+00:00:16,619 --> 00:00:18,000
+the<font color="#CCCCCC"> mistake of penning an eminently</font>
+
+12
+00:00:18,000 --> 00:00:20,580
+correct<font color="#CCCCCC"> scientific treatise</font><font color="#E5E5E5"> on the</font>
+
+13
+00:00:20,580 --> 00:00:21,990
+differences<font color="#CCCCCC"> between</font><font color="#E5E5E5"> men</font><font color="#CCCCCC"> and women</font><font color="#E5E5E5"> and</font>
+
+14
+00:00:21,990 --> 00:00:23,970
+<font color="#E5E5E5">why that may contribute in part to</font>
+
+15
+00:00:23,970 --> 00:00:26,130
+discrepancies<font color="#CCCCCC"> in terms of the levels of</font>
+
+16
+00:00:26,130 --> 00:00:28,289
+<font color="#E5E5E5">employment and wages at Google between</font>
+
+17
+00:00:28,289 --> 00:00:29,910
+women and<font color="#CCCCCC"> men and then of course</font><font color="#E5E5E5"> Google</font>
+
+18
+00:00:29,910 --> 00:00:31,679
+found out<font color="#CCCCCC"> about his wrong thing</font><font color="#E5E5E5"> and he</font>
+
+19
+00:00:31,679 --> 00:00:32,969
+was fired James thanks so much for
+
+20
+00:00:32,969 --> 00:00:36,420
+<font color="#E5E5E5">joining the program yeah</font><font color="#CCCCCC"> thankful okay</font>
+
+21
+00:00:36,420 --> 00:00:37,950
+so let me<font color="#CCCCCC"> just jump right</font><font color="#E5E5E5"> in here</font>
+
+22
+00:00:37,950 --> 00:00:40,530
+and I want to ask you<font color="#E5E5E5"> begin</font><font color="#CCCCCC"> to start</font>
+
+23
+00:00:40,530 --> 00:00:42,480
+you've alleged<font color="#E5E5E5"> that there's actually</font>
+
+24
+00:00:42,480 --> 00:00:44,719
+<font color="#E5E5E5">some illegal activity going on at Google</font>
+
+25
+00:00:44,719 --> 00:00:48,000
+<font color="#CCCCCC">because that's why presumably that</font><font color="#E5E5E5"> you</font>
+
+26
+00:00:48,000 --> 00:00:49,020
+should be in trouble<font color="#E5E5E5"> for firing you</font>
+
+27
+00:00:49,020 --> 00:00:50,550
+<font color="#CCCCCC">because it's an at-will state California</font>
+
+28
+00:00:50,550 --> 00:00:51,809
+<font color="#CCCCCC">snail</font><font color="#E5E5E5"> State anybody can be fired for</font>
+
+29
+00:00:51,809 --> 00:00:53,879
+anybody any reason but<font color="#E5E5E5"> according to the</font>
+
+30
+00:00:53,879 --> 00:00:55,020
+National<font color="#CCCCCC"> Labor Relations Board you</font>
+
+31
+00:00:55,020 --> 00:00:56,309
+cannot be<font color="#E5E5E5"> fired if</font><font color="#CCCCCC"> your</font><font color="#E5E5E5"> whistleblowing</font>
+
+32
+00:00:56,309 --> 00:00:58,469
+<font color="#E5E5E5">so what is the purported illegal</font>
+
+33
+00:00:58,469 --> 00:00:59,789
+activity<font color="#E5E5E5"> that's going on at</font><font color="#CCCCCC"> Google that</font>
+
+34
+00:00:59,789 --> 00:01:03,149
+<font color="#E5E5E5">you are attempting to expose so part of</font>
+
+35
+00:01:03,149 --> 00:01:05,729
+it is<font color="#CCCCCC"> that they treat people differently</font>
+
+36
+00:01:05,729 --> 00:01:09,450
+<font color="#CCCCCC">in the hiring process depending</font><font color="#E5E5E5"> on what</font>
+
+37
+00:01:09,450 --> 00:01:13,380
+their race<font color="#E5E5E5"> or gender is and some teams</font>
+
+38
+00:01:13,380 --> 00:01:15,659
+<font color="#CCCCCC">will preferentially choose certain</font>
+
+39
+00:01:15,659 --> 00:01:16,460
+<font color="#E5E5E5">groups</font>
+
+40
+00:01:16,460 --> 00:01:19,680
+okay so you've also said that they have
+
+41
+00:01:19,680 --> 00:01:21,750
+<font color="#E5E5E5">these sort of</font><font color="#CCCCCC"> super-secret</font><font color="#E5E5E5"> diversity</font>
+
+42
+00:01:21,750 --> 00:01:23,670
+sessions<font color="#E5E5E5"> in which they discuss all of</font>
+
+43
+00:01:23,670 --> 00:01:25,290
+<font color="#E5E5E5">this can you take</font><font color="#CCCCCC"> us inside</font><font color="#E5E5E5"> one</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> those</font>
+
+44
+00:01:25,290 --> 00:01:26,990
+what does that<font color="#E5E5E5"> look like</font><font color="#CCCCCC"> from the inside</font>
+
+45
+00:01:26,990 --> 00:01:30,030
+<font color="#E5E5E5">it's just</font><font color="#CCCCCC"> a group of all these people</font>
+
+46
+00:01:30,030 --> 00:01:32,520
+talking<font color="#CCCCCC"> about</font><font color="#E5E5E5"> the benefits of</font><font color="#CCCCCC"> diversity</font>
+
+47
+00:01:32,520 --> 00:01:36,720
+and how much they<font color="#E5E5E5"> love</font><font color="#CCCCCC"> diversity and all</font>
+
+48
+00:01:36,720 --> 00:01:40,380
+the sexism and racism<font color="#E5E5E5"> that happens and</font>
+
+49
+00:01:40,380 --> 00:01:43,950
+how we have<font color="#E5E5E5"> to try to fix that</font><font color="#CCCCCC"> okay we</font>
+
+50
+00:01:43,950 --> 00:01:45,180
+know<font color="#E5E5E5"> that Google has spent some two</font>
+
+51
+00:01:45,180 --> 00:01:46,740
+<font color="#CCCCCC">hundred and sixty five million dollars</font>
+
+52
+00:01:46,740 --> 00:01:48,030
+apparently trying<font color="#E5E5E5"> to increase their</font>
+
+53
+00:01:48,030 --> 00:01:49,920
+diversity ratios and<font color="#E5E5E5"> this of course has</font>
+
+54
+00:01:49,920 --> 00:01:51,899
+<font color="#CCCCCC">been a wild fail well I've read your</font>
+
+55
+00:01:51,899 --> 00:01:54,119
+memo<font color="#CCCCCC"> at least three</font><font color="#E5E5E5"> times now because</font><font color="#CCCCCC"> I</font>
+
+56
+00:01:54,119 --> 00:01:55,320
+<font color="#E5E5E5">just want to make sure I'm not crazy</font>
+
+57
+00:01:55,320 --> 00:01:56,790
+because<font color="#E5E5E5"> if you</font><font color="#CCCCCC"> watch the media</font><font color="#E5E5E5"> coverage</font>
+
+58
+00:01:56,790 --> 00:01:58,979
+of your memo<font color="#E5E5E5"> it is not in any way</font>
+
+59
+00:01:58,979 --> 00:02:00,630
+<font color="#CCCCCC">related to</font><font color="#E5E5E5"> the actual contents of the</font>
+
+60
+00:02:00,630 --> 00:02:01,829
+memo<font color="#E5E5E5"> the media's made a bunch of</font>
+
+61
+00:02:01,829 --> 00:02:02,909
+different<font color="#E5E5E5"> claims about the memo they've</font>
+
+62
+00:02:02,909 --> 00:02:04,740
+said that you were saying in the<font color="#E5E5E5"> memo</font>
+
+63
+00:02:04,740 --> 00:02:06,630
+<font color="#CCCCCC">that women are</font><font color="#E5E5E5"> biologically unfit for</font>
+
+64
+00:02:06,630 --> 00:02:08,758
+<font color="#E5E5E5">tech that was a</font><font color="#CCCCCC"> Chiron on CNN</font><font color="#E5E5E5"> were you</font>
+
+65
+00:02:08,758 --> 00:02:10,800
+<font color="#E5E5E5">making the claim James</font><font color="#CCCCCC"> d'amore a Google</font>
+
+66
+00:02:10,800 --> 00:02:12,430
+memo guy were you making<font color="#CCCCCC"> the claim</font>
+
+67
+00:02:12,430 --> 00:02:14,319
+women are biologically unfit for the
+
+68
+00:02:14,319 --> 00:02:17,670
+tech industry no I was<font color="#E5E5E5"> just trying</font><font color="#CCCCCC"> to</font>
+
+69
+00:02:17,670 --> 00:02:20,980
+<font color="#E5E5E5">explain why</font><font color="#CCCCCC"> we see a</font><font color="#E5E5E5"> disparity</font><font color="#CCCCCC"> in the</font>
+
+70
+00:02:20,980 --> 00:02:23,170
+population<font color="#CCCCCC"> of</font><font color="#E5E5E5"> people that</font><font color="#CCCCCC"> are</font><font color="#E5E5E5"> interested</font>
+
+71
+00:02:23,170 --> 00:02:27,040
+in working in<font color="#CCCCCC"> tech</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> began and</font><font color="#E5E5E5"> you can</font>
+
+72
+00:02:27,040 --> 00:02:28,239
+see that right<font color="#E5E5E5"> there</font><font color="#CCCCCC"> I mean I'm quoting</font>
+
+73
+00:02:28,239 --> 00:02:29,560
+your memo back to you here<font color="#E5E5E5"> but it says</font>
+
+74
+00:02:29,560 --> 00:02:31,180
+<font color="#E5E5E5">I'm not saying that all men differ from</font>
+
+75
+00:02:31,180 --> 00:02:32,829
+all women in the<font color="#CCCCCC"> following ways so that</font>
+
+76
+00:02:32,829 --> 00:02:34,480
+<font color="#E5E5E5">these differences are</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> I'm simply</font>
+
+77
+00:02:34,480 --> 00:02:35,739
+stating<font color="#CCCCCC"> that the</font><font color="#E5E5E5"> distribution of</font>
+
+78
+00:02:35,739 --> 00:02:37,209
+preferences<font color="#E5E5E5"> and</font><font color="#CCCCCC"> abilities of men</font><font color="#E5E5E5"> and</font>
+
+79
+00:02:37,209 --> 00:02:39,010
+women women differ in part due to
+
+80
+00:02:39,010 --> 00:02:40,989
+<font color="#CCCCCC">biological causes</font><font color="#E5E5E5"> this has been</font>
+
+81
+00:02:40,989 --> 00:02:42,849
+translated<font color="#E5E5E5"> by</font><font color="#CCCCCC"> the left into you are</font>
+
+82
+00:02:42,849 --> 00:02:45,099
+saying<font color="#E5E5E5"> that women ought not work in tech</font>
+
+83
+00:02:45,099 --> 00:02:47,200
+or<font color="#E5E5E5"> they're unqualified for tech you</font>
+
+84
+00:02:47,200 --> 00:02:48,280
+weren't even saying you<font color="#E5E5E5"> have an entire</font>
+
+85
+00:02:48,280 --> 00:02:50,260
+<font color="#E5E5E5">section of your memo promoting the</font><font color="#CCCCCC"> idea</font>
+
+86
+00:02:50,260 --> 00:02:51,790
+that there should<font color="#CCCCCC"> be</font><font color="#E5E5E5"> more</font><font color="#CCCCCC"> women in tech</font>
+
+87
+00:02:51,790 --> 00:02:53,440
+and<font color="#E5E5E5"> you offered a bunch of ways that you</font>
+
+88
+00:02:53,440 --> 00:02:54,489
+<font color="#CCCCCC">think that</font><font color="#E5E5E5"> the tech community could be</font>
+
+89
+00:02:54,489 --> 00:02:56,530
+<font color="#E5E5E5">made more welcoming</font><font color="#CCCCCC"> to women so are you</font>
+
+90
+00:02:56,530 --> 00:02:58,930
+in favor<font color="#E5E5E5"> of more women</font><font color="#CCCCCC"> yeah I mean I</font>
+
+91
+00:02:58,930 --> 00:03:04,450
+<font color="#CCCCCC">like women right and if we're in general</font>
+
+92
+00:03:04,450 --> 00:03:05,439
+<font color="#CCCCCC">just trying to get more people</font>
+
+93
+00:03:05,439 --> 00:03:07,599
+interested in<font color="#E5E5E5"> tech then that would be</font>
+
+94
+00:03:07,599 --> 00:03:10,000
+<font color="#E5E5E5">one way to do it</font><font color="#CCCCCC"> so I want to I</font><font color="#E5E5E5"> want</font><font color="#CCCCCC"> to</font>
+
+95
+00:03:10,000 --> 00:03:11,319
+talk to you a little<font color="#E5E5E5"> bit about something</font>
+
+96
+00:03:11,319 --> 00:03:13,870
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> the YouTube CEO</font><font color="#CCCCCC"> a woman named Susan</font>
+
+97
+00:03:13,870 --> 00:03:16,299
+<font color="#CCCCCC">watch kicky</font><font color="#E5E5E5"> that she wrote this morning</font>
+
+98
+00:03:16,299 --> 00:03:18,370
+<font color="#E5E5E5">over at Forbes she wrote a piece</font><font color="#CCCCCC"> it</font>
+
+99
+00:03:18,370 --> 00:03:19,840
+<font color="#E5E5E5">forms at the horrors of your memo and</font>
+
+100
+00:03:19,840 --> 00:03:21,459
+how they do obviously emotionally
+
+101
+00:03:21,459 --> 00:03:22,629
+crippled her a<font color="#E5E5E5"> young daughter who</font>
+
+102
+00:03:22,629 --> 00:03:24,190
+<font color="#CCCCCC">apparently came up to her and</font><font color="#E5E5E5"> said mom</font>
+
+103
+00:03:24,190 --> 00:03:25,269
+is it true that<font color="#E5E5E5"> there</font><font color="#CCCCCC"> are biological</font>
+
+104
+00:03:25,269 --> 00:03:27,190
+<font color="#E5E5E5">reasons why there are fewer women in</font>
+
+105
+00:03:27,190 --> 00:03:29,769
+tech and leadership<font color="#E5E5E5"> now it seems to me</font>
+
+106
+00:03:29,769 --> 00:03:31,840
+that that<font color="#E5E5E5"> was not exactly the claim</font><font color="#CCCCCC"> you</font>
+
+107
+00:03:31,840 --> 00:03:33,010
+were making is it true there<font color="#E5E5E5"> are</font>
+
+108
+00:03:33,010 --> 00:03:34,359
+biological reasons why there are<font color="#E5E5E5"> fewer</font>
+
+109
+00:03:34,359 --> 00:03:35,620
+<font color="#E5E5E5">women in tech</font><font color="#CCCCCC"> and leadership what's your</font>
+
+110
+00:03:35,620 --> 00:03:38,859
+response<font color="#E5E5E5"> to the YouTube CEO well I mean</font>
+
+111
+00:03:38,859 --> 00:03:43,479
+to me at least<font color="#CCCCCC"> like what Piers Morgan</font>
+
+112
+00:03:43,479 --> 00:03:45,909
+was trying to do to you<font color="#E5E5E5"> on his show by</font>
+
+113
+00:03:45,909 --> 00:03:48,940
+taking a little kid out<font color="#E5E5E5"> and saying oh</font>
+
+114
+00:03:48,940 --> 00:03:50,500
+aren't<font color="#E5E5E5"> you sorry</font><font color="#CCCCCC"> for him</font>
+
+115
+00:03:50,500 --> 00:03:52,209
+right I mean<font color="#E5E5E5"> they're</font><font color="#CCCCCC"> just trying to</font>
+
+116
+00:03:52,209 --> 00:03:56,530
+guilt<font color="#E5E5E5"> me so I'm saying</font>
+
+117
+00:03:56,530 --> 00:03:57,790
+<font color="#E5E5E5">yeah I do want to ask you about what</font>
+
+118
+00:03:57,790 --> 00:03:59,049
+<font color="#CCCCCC">that what the political representation</font>
+
+119
+00:03:59,049 --> 00:04:00,430
+is like inside<font color="#E5E5E5"> Google</font><font color="#CCCCCC"> cuz there was a</font>
+
+120
+00:04:00,430 --> 00:04:01,900
+poll sort of an informal<font color="#CCCCCC"> poll that came</font>
+
+121
+00:04:01,900 --> 00:04:04,569
+out this<font color="#CCCCCC"> morning that said that 56% of</font>
+
+122
+00:04:04,569 --> 00:04:06,340
+<font color="#E5E5E5">people who were responding</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> this</font>
+
+123
+00:04:06,340 --> 00:04:08,049
+online<font color="#E5E5E5"> poll who are working at Google</font>
+
+124
+00:04:08,049 --> 00:04:10,139
+<font color="#E5E5E5">said that they were against your firing</font>
+
+125
+00:04:10,139 --> 00:04:12,459
+<font color="#CCCCCC">number one you know are</font><font color="#E5E5E5"> there a lot</font><font color="#CCCCCC"> of</font>
+
+126
+00:04:12,459 --> 00:04:13,479
+<font color="#CCCCCC">people inside</font><font color="#E5E5E5"> Google who have been</font>
+
+127
+00:04:13,479 --> 00:04:16,870
+<font color="#E5E5E5">expressing support for you yeah since I</font>
+
+128
+00:04:16,870 --> 00:04:18,279
+wrote it there have been many<font color="#CCCCCC"> people</font>
+
+129
+00:04:18,279 --> 00:04:20,260
+that privately messaged me and<font color="#CCCCCC"> said yeah</font>
+
+130
+00:04:20,260 --> 00:04:22,840
+I support you<font color="#CCCCCC"> I agree this is a real</font>
+
+131
+00:04:22,840 --> 00:04:25,539
+problem<font color="#E5E5E5"> do you think that Google is</font>
+
+132
+00:04:25,539 --> 00:04:26,440
+biasing
+
+133
+00:04:26,440 --> 00:04:27,760
+<font color="#E5E5E5">their search results</font><font color="#CCCCCC"> in the</font><font color="#E5E5E5"> way they do</font>
+
+134
+00:04:27,760 --> 00:04:29,290
+business<font color="#CCCCCC"> toward the left do you think</font>
+
+135
+00:04:29,290 --> 00:04:30,370
+that how they're treating you is
+
+136
+00:04:30,370 --> 00:04:31,660
+reflective of how they do<font color="#CCCCCC"> business as a</font>
+
+137
+00:04:31,660 --> 00:04:34,240
+company<font color="#CCCCCC"> I don't know about biasing</font>
+
+138
+00:04:34,240 --> 00:04:36,100
+search results but they may<font color="#CCCCCC"> definitely</font>
+
+139
+00:04:36,100 --> 00:04:39,510
+be biasing<font color="#CCCCCC"> who they do business with</font>
+
+140
+00:04:39,510 --> 00:04:43,090
+<font color="#E5E5E5">okay so</font><font color="#CCCCCC"> uh and inside the company itself</font>
+
+141
+00:04:43,090 --> 00:04:44,320
+<font color="#CCCCCC">is it do you think</font><font color="#E5E5E5"> that there is a</font>
+
+142
+00:04:44,320 --> 00:04:47,110
+obvious<font color="#CCCCCC"> political preference for</font><font color="#E5E5E5"> you</font>
+
+143
+00:04:47,110 --> 00:04:48,970
+know folks on the<font color="#E5E5E5"> left</font><font color="#CCCCCC"> you know if you</font>
+
+144
+00:04:48,970 --> 00:04:51,520
+had written a memo<font color="#E5E5E5"> about how black lives</font>
+
+145
+00:04:51,520 --> 00:04:53,350
+matter<font color="#CCCCCC"> was</font><font color="#E5E5E5"> the cause of the day and that</font>
+
+146
+00:04:53,350 --> 00:04:54,790
+<font color="#E5E5E5">really mattered more than anything else</font>
+
+147
+00:04:54,790 --> 00:04:55,660
+I<font color="#E5E5E5"> mean they're all these sort</font><font color="#CCCCCC"> of</font>
+
+148
+00:04:55,660 --> 00:04:57,160
+internal Google<font color="#E5E5E5"> chats apparently that</font>
+
+149
+00:04:57,160 --> 00:04:58,390
+<font color="#E5E5E5">you're a part of these Google</font><font color="#CCCCCC"> message</font>
+
+150
+00:04:58,390 --> 00:05:00,130
+boards have you ever seen stuff<font color="#CCCCCC"> like</font>
+
+151
+00:05:00,130 --> 00:05:01,510
+<font color="#E5E5E5">that politically oriented material</font>
+
+152
+00:05:01,510 --> 00:05:03,010
+<font color="#CCCCCC">toward the left and</font><font color="#E5E5E5"> has that ever been a</font>
+
+153
+00:05:03,010 --> 00:05:07,240
+problem for<font color="#E5E5E5"> anyone yes so you</font><font color="#CCCCCC"> can openly</font>
+
+154
+00:05:07,240 --> 00:05:11,260
+shame white<font color="#E5E5E5"> people or all men and we do</font>
+
+155
+00:05:11,260 --> 00:05:14,950
+<font color="#CCCCCC">this in our company-wide meetings so yes</font>
+
+156
+00:05:14,950 --> 00:05:16,990
+there's<font color="#CCCCCC"> definitely a bias towards</font>
+
+157
+00:05:16,990 --> 00:05:21,010
+<font color="#CCCCCC">certain movements like we had a whole</font>
+
+158
+00:05:21,010 --> 00:05:23,140
+TGIF that was for the black lives<font color="#E5E5E5"> matter</font>
+
+159
+00:05:23,140 --> 00:05:26,260
+movement<font color="#E5E5E5"> and</font><font color="#CCCCCC"> in can give me some example</font>
+
+160
+00:05:26,260 --> 00:05:27,130
+<font color="#E5E5E5">me you said</font><font color="#CCCCCC"> you have company-wide</font>
+
+161
+00:05:27,130 --> 00:05:28,930
+meetings where<font color="#CCCCCC"> people are</font><font color="#E5E5E5"> shamed what</font>
+
+162
+00:05:28,930 --> 00:05:30,250
+does that what<font color="#CCCCCC"> does that sound like like</font>
+
+163
+00:05:30,250 --> 00:05:31,720
+<font color="#E5E5E5">can you give me an example of some stuff</font>
+
+164
+00:05:31,720 --> 00:05:34,810
+that people<font color="#E5E5E5"> have</font><font color="#CCCCCC"> said so I mean one</font>
+
+165
+00:05:34,810 --> 00:05:38,650
+example was just that someone<font color="#E5E5E5"> wrote a</font>
+
+166
+00:05:38,650 --> 00:05:42,340
+question and then it had something<font color="#E5E5E5"> to do</font>
+
+167
+00:05:42,340 --> 00:05:45,880
+with<font color="#CCCCCC"> gender she was a woman and out of</font>
+
+168
+00:05:45,880 --> 00:05:48,600
+300 votes<font color="#CCCCCC"> 50</font><font color="#E5E5E5"> of them were downloaded and</font>
+
+169
+00:05:48,600 --> 00:05:51,130
+she was complaining<font color="#CCCCCC"> about how she didn't</font>
+
+170
+00:05:51,130 --> 00:05:53,669
+feel<font color="#CCCCCC"> included at Google because she got</font>
+
+171
+00:05:53,669 --> 00:06:00,310
+<font color="#CCCCCC">1/6 of them down votes and</font><font color="#E5E5E5"> there were</font>
+
+172
+00:06:00,310 --> 00:06:04,210
+many other just random examples<font color="#E5E5E5"> okay so</font>
+
+173
+00:06:04,210 --> 00:06:06,550
+<font color="#E5E5E5">you know with with all of this said</font>
+
+174
+00:06:06,550 --> 00:06:08,050
+number<font color="#E5E5E5"> one you know I think you have</font><font color="#CCCCCC"> a</font>
+
+175
+00:06:08,050 --> 00:06:09,160
+lot of broad public support obviously
+
+176
+00:06:09,160 --> 00:06:10,810
+<font color="#CCCCCC">but it what do</font><font color="#E5E5E5"> you think this says</font><font color="#CCCCCC"> about</font>
+
+177
+00:06:10,810 --> 00:06:12,340
+<font color="#E5E5E5">the Left views of science</font><font color="#CCCCCC"> because</font>
+
+178
+00:06:12,340 --> 00:06:14,230
+there's an article in Slate for example
+
+179
+00:06:14,230 --> 00:06:16,000
+today saying science is bad now<font color="#E5E5E5"> we we've</font>
+
+180
+00:06:16,000 --> 00:06:17,620
+now found<font color="#E5E5E5"> that science is bad</font>
+
+181
+00:06:17,620 --> 00:06:20,680
+Susan<font color="#E5E5E5"> watch</font><font color="#CCCCCC"> Nikki as I say</font><font color="#E5E5E5"> now she said</font>
+
+182
+00:06:20,680 --> 00:06:23,080
+at the<font color="#CCCCCC"> very</font><font color="#E5E5E5"> end of her of her screed she</font>
+
+183
+00:06:23,080 --> 00:06:24,669
+said that<font color="#E5E5E5"> that these</font><font color="#CCCCCC"> are questions that</font>
+
+184
+00:06:24,669 --> 00:06:25,900
+<font color="#E5E5E5">shouldn't even be asked this is direct</font>
+
+185
+00:06:25,900 --> 00:06:27,190
+quote<font color="#E5E5E5"> from her piece of Forbes today she</font>
+
+186
+00:06:27,190 --> 00:06:29,590
+said for example<font color="#CCCCCC"> for instance</font><font color="#E5E5E5"> what if we</font>
+
+187
+00:06:29,590 --> 00:06:30,940
+<font color="#CCCCCC">replace</font><font color="#E5E5E5"> the word women in the memo with</font>
+
+188
+00:06:30,940 --> 00:06:32,680
+another group<font color="#E5E5E5"> what if the memo said that</font>
+
+189
+00:06:32,680 --> 00:06:34,240
+biological differences amongst black
+
+190
+00:06:34,240 --> 00:06:37,000
+<font color="#E5E5E5">Hispanic</font><font color="#CCCCCC"> or LGBTQ employees explained</font>
+
+191
+00:06:37,000 --> 00:06:38,500
+<font color="#E5E5E5">their under-representation</font><font color="#CCCCCC"> and tech and</font>
+
+192
+00:06:38,500 --> 00:06:40,130
+leadership<font color="#CCCCCC"> roles with some p</font>
+
+193
+00:06:40,130 --> 00:06:41,420
+still be discussing the merit of the
+
+194
+00:06:41,420 --> 00:06:42,830
+memos arguments or<font color="#E5E5E5"> would there be a</font>
+
+195
+00:06:42,830 --> 00:06:44,660
+universal call for swift action against
+
+196
+00:06:44,660 --> 00:06:47,440
+its author<font color="#CCCCCC"> what do you make</font><font color="#E5E5E5"> of the</font><font color="#CCCCCC"> left</font>
+
+197
+00:06:47,440 --> 00:06:49,790
+essentially saying that questions<font color="#E5E5E5"> can</font>
+
+198
+00:06:49,790 --> 00:06:52,070
+never<font color="#E5E5E5"> be asked about topics where the</font>
+
+199
+00:06:52,070 --> 00:06:53,870
+answer may not favor<font color="#E5E5E5"> what the Left</font>
+
+200
+00:06:53,870 --> 00:06:57,110
+wishes it<font color="#CCCCCC"> to say yet there at</font><font color="#E5E5E5"> least just</font>
+
+201
+00:06:57,110 --> 00:07:00,290
+putting their ideology before<font color="#E5E5E5"> truth in</font>
+
+202
+00:07:00,290 --> 00:07:03,920
+these cases<font color="#E5E5E5"> and she's just trying</font><font color="#CCCCCC"> to</font>
+
+203
+00:07:03,920 --> 00:07:06,530
+guilt<font color="#CCCCCC"> me by association with like Nazis</font>
+
+204
+00:07:06,530 --> 00:07:09,920
+or something<font color="#E5E5E5"> and you know when one group</font>
+
+205
+00:07:09,920 --> 00:07:12,620
+is just<font color="#E5E5E5"> trying to guilt you and call you</font>
+
+206
+00:07:12,620 --> 00:07:14,720
+<font color="#CCCCCC">names and</font><font color="#E5E5E5"> the other is actually using</font>
+
+207
+00:07:14,720 --> 00:07:17,540
+evidence in science<font color="#CCCCCC"> you really know</font>
+
+208
+00:07:17,540 --> 00:07:20,270
+which side is<font color="#CCCCCC"> actually seeking</font><font color="#E5E5E5"> truth and</font>
+
+209
+00:07:20,270 --> 00:07:21,800
+this I<font color="#CCCCCC"> think is one of</font><font color="#E5E5E5"> the points that</font>
+
+210
+00:07:21,800 --> 00:07:23,420
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> I that is why this story has</font>
+
+211
+00:07:23,420 --> 00:07:25,250
+captured the imagination is because the
+
+212
+00:07:25,250 --> 00:07:27,020
+memo itself is really moderate in tone
+
+213
+00:07:27,020 --> 00:07:28,850
+<font color="#CCCCCC">and tenor even</font><font color="#E5E5E5"> people like Kirsten</font>
+
+214
+00:07:28,850 --> 00:07:30,170
+<font color="#CCCCCC">powers who are on the</font><font color="#E5E5E5"> Left have said</font>
+
+215
+00:07:30,170 --> 00:07:31,490
+they really<font color="#CCCCCC"> don't see what</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> what the</font>
+
+216
+00:07:31,490 --> 00:07:32,930
+<font color="#CCCCCC">big problem here</font><font color="#E5E5E5"> is or why people</font><font color="#CCCCCC"> are</font>
+
+217
+00:07:32,930 --> 00:07:35,000
+<font color="#CCCCCC">going nuts over it</font><font color="#E5E5E5"> and yet you step out</font>
+
+218
+00:07:35,000 --> 00:07:36,440
+of line<font color="#E5E5E5"> at a company like Google</font><font color="#CCCCCC"> and the</font>
+
+219
+00:07:36,440 --> 00:07:37,580
+reason people<font color="#E5E5E5"> are freaked out about this</font>
+
+220
+00:07:37,580 --> 00:07:38,930
+<font color="#E5E5E5">is obviously</font><font color="#CCCCCC"> Google</font><font color="#E5E5E5"> is a super powerful</font>
+
+221
+00:07:38,930 --> 00:07:40,250
+company but<font color="#E5E5E5"> this happens inside</font>
+
+222
+00:07:40,250 --> 00:07:41,840
+Hollywood all the time this happens
+
+223
+00:07:41,840 --> 00:07:43,760
+inside journalistic institutions all the
+
+224
+00:07:43,760 --> 00:07:46,340
+time obviously<font color="#E5E5E5"> so James do more Google</font>
+
+225
+00:07:46,340 --> 00:07:47,810
+memo<font color="#CCCCCC"> guy what comes next for</font><font color="#E5E5E5"> you I've</font>
+
+226
+00:07:47,810 --> 00:07:49,700
+offered you<font color="#E5E5E5"> off the air I offered you a</font>
+
+227
+00:07:49,700 --> 00:07:53,410
+columnist gig to write<font color="#E5E5E5"> about stem issues</font>
+
+228
+00:07:53,410 --> 00:07:55,460
+<font color="#E5E5E5">particularly with regard to</font><font color="#CCCCCC"> two</font>
+
+229
+00:07:55,460 --> 00:07:57,050
+differences between men and women and
+
+230
+00:07:57,050 --> 00:07:59,240
+<font color="#E5E5E5">social science data and</font><font color="#CCCCCC"> all of us but I</font>
+
+231
+00:07:59,240 --> 00:08:00,860
+assume<font color="#CCCCCC"> that you</font><font color="#E5E5E5"> have job offers</font><font color="#CCCCCC"> that are</font>
+
+232
+00:08:00,860 --> 00:08:02,360
+coming in from<font color="#E5E5E5"> a wide variety of sources</font>
+
+233
+00:08:02,360 --> 00:08:04,370
+<font color="#CCCCCC">what comes what comes</font><font color="#E5E5E5"> next for you now</font>
+
+234
+00:08:04,370 --> 00:08:06,880
+<font color="#E5E5E5">that Google is no longer in your future</font>
+
+235
+00:08:06,880 --> 00:08:09,470
+yeah I'm still evaluating<font color="#E5E5E5"> all my options</font>
+
+236
+00:08:09,470 --> 00:08:12,610
+<font color="#CCCCCC">it's been a really busy past few days</font>
+
+237
+00:08:12,610 --> 00:08:15,500
+and and I've heard also<font color="#E5E5E5"> that</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> were</font>
+
+238
+00:08:15,500 --> 00:08:17,870
+<font color="#CCCCCC">offered a position</font><font color="#E5E5E5"> by WikiLeaks out urge</font>
+
+239
+00:08:17,870 --> 00:08:20,120
+you not to<font color="#E5E5E5"> take them</font><font color="#CCCCCC"> I think that is</font>
+
+240
+00:08:20,120 --> 00:08:22,550
+probably<font color="#CCCCCC"> a bad career move</font><font color="#E5E5E5"> but it's up</font>
+
+241
+00:08:22,550 --> 00:08:24,740
+to<font color="#E5E5E5"> you</font><font color="#CCCCCC"> you're free</font><font color="#E5E5E5"> man</font><font color="#CCCCCC"> so okay well</font>
+
+242
+00:08:24,740 --> 00:08:26,750
+thank you for for you know<font color="#CCCCCC"> writing this</font>
+
+243
+00:08:26,750 --> 00:08:28,520
+<font color="#E5E5E5">memo because I think obviously when more</font>
+
+244
+00:08:28,520 --> 00:08:29,930
+truth is promulgated<font color="#CCCCCC"> it's a better</font>
+
+245
+00:08:29,930 --> 00:08:32,659
+country and and please keep us updated
+
+246
+00:08:32,659 --> 00:08:35,330
+as far as your own<font color="#E5E5E5"> lawsuit</font><font color="#CCCCCC"> or is</font><font color="#E5E5E5"> that</font>
+
+247
+00:08:35,330 --> 00:08:36,620
+<font color="#E5E5E5">actually going to happen or is that just</font>
+
+248
+00:08:36,620 --> 00:08:38,090
+<font color="#CCCCCC">a possibility at this point of lawsuit</font>
+
+249
+00:08:38,090 --> 00:08:39,979
+against Google<font color="#E5E5E5"> yeah it's it's a</font>
+
+250
+00:08:39,979 --> 00:08:40,940
+possibility
+
+251
+00:08:40,940 --> 00:08:43,849
+I'm definitely pursuing it<font color="#E5E5E5"> that</font><font color="#CCCCCC"> okay so</font>
+
+252
+00:08:43,849 --> 00:08:45,350
+keep<font color="#E5E5E5"> us updated on that</font>
+
+253
+00:08:45,350 --> 00:08:48,380
+and obviously<font color="#E5E5E5"> we are rooting for for you</font>
+
+254
+00:08:48,380 --> 00:08:50,210
+as far<font color="#CCCCCC"> as</font><font color="#E5E5E5"> the whistleblowing</font>
+
+255
+00:08:50,210 --> 00:08:52,670
+<font color="#E5E5E5">aspect of this and please keep writing</font>
+
+256
+00:08:52,670 --> 00:08:53,720
+through things even though there's
+
+257
+00:08:53,720 --> 00:08:54,740
+there's pretty<font color="#E5E5E5"> tremendous blowback</font>
+
+258
+00:08:54,740 --> 00:08:55,730
+thanks so much<font color="#E5E5E5"> for</font><font color="#CCCCCC"> joining</font><font color="#E5E5E5"> the show</font><font color="#CCCCCC"> I</font>
+
+259
+00:08:55,730 --> 00:08:57,860
+really appreciate it<font color="#E5E5E5"> all right thanks</font>
+
+260
+00:08:57,860 --> 00:08:59,300
+<font color="#E5E5E5">thanks that's James d'amour he's the</font>
+
+261
+00:08:59,300 --> 00:09:00,860
+senior engineer<font color="#E5E5E5"> at Google who penned</font>
+
+262
+00:09:00,860 --> 00:09:03,259
+that diversity memo<font color="#CCCCCC"> that regarding why</font>
+
+263
+00:09:03,259 --> 00:09:05,389
+we Google changes practices if<font color="#CCCCCC"> he wants</font>
+
+264
+00:09:05,389 --> 00:09:07,339
+<font color="#E5E5E5">to attract more women actually and he</font>
+
+265
+00:09:07,339 --> 00:09:09,079
+got shellacked for it by the<font color="#E5E5E5"> left end</font>
+
+266
+00:09:09,079 --> 00:09:10,879
+<font color="#E5E5E5">and fired from from Google for</font><font color="#CCCCCC"> that</font>
+
+267
+00:09:10,879 --> 00:09:13,129
+<font color="#E5E5E5">James</font><font color="#CCCCCC"> d'amour a senior engineer</font><font color="#E5E5E5"> at</font>
+
+268
+00:09:13,129 --> 00:00:00,000
+Google thanks so much
+

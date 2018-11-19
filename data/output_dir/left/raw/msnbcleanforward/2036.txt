@@ -1,0 +1,604 @@
+1
+00:00:02,360 --> 00:00:04,859
+welcome back multiple top administration
+
+2
+00:00:04,859 --> 00:00:06,569
+<font color="#CCCCCC">officials warned this week that Russia</font>
+
+3
+00:00:06,569 --> 00:00:08,460
+will try to<font color="#CCCCCC"> continue</font><font color="#E5E5E5"> to undermine our</font>
+
+4
+00:00:08,460 --> 00:00:10,650
+democracy<font color="#CCCCCC"> but it is not just our</font>
+
+5
+00:00:10,650 --> 00:00:12,510
+elections that Russia is<font color="#CCCCCC"> targeting</font>
+
+6
+00:00:12,510 --> 00:00:14,400
+<font color="#E5E5E5">Director of National Intelligence dan</font>
+
+7
+00:00:14,400 --> 00:00:16,859
+<font color="#CCCCCC">coats</font><font color="#E5E5E5"> said that targets range from the</font>
+
+8
+00:00:16,859 --> 00:00:18,300
+federal government<font color="#CCCCCC"> including our</font>
+
+9
+00:00:18,300 --> 00:00:20,759
+military<font color="#CCCCCC"> and critical infrastructure</font><font color="#E5E5E5"> for</font>
+
+10
+00:00:20,759 --> 00:00:23,310
+<font color="#E5E5E5">American water and energy needs</font><font color="#CCCCCC"> that is</font>
+
+11
+00:00:23,310 --> 00:00:25,650
+just to name a few<font color="#CCCCCC"> and</font><font color="#E5E5E5"> Russia is not the</font>
+
+12
+00:00:25,650 --> 00:00:27,269
+<font color="#E5E5E5">only threat multiple foreign adversaries</font>
+
+13
+00:00:27,269 --> 00:00:29,460
+are trying to target this country
+
+14
+00:00:29,460 --> 00:00:32,009
+<font color="#E5E5E5">multiple senior US officials tell NBC</font>
+
+15
+00:00:32,009 --> 00:00:34,770
+News<font color="#CCCCCC"> that Iranian</font><font color="#E5E5E5"> hackers have laid the</font>
+
+16
+00:00:34,770 --> 00:00:37,200
+groundwork<font color="#E5E5E5"> to carry out extensive cyber</font>
+
+17
+00:00:37,200 --> 00:00:39,660
+attacks on US<font color="#E5E5E5"> and European</font>
+
+18
+00:00:39,660 --> 00:00:42,470
+<font color="#E5E5E5">infrastructure and on private companies</font>
+
+19
+00:00:42,470 --> 00:00:45,270
+<font color="#CCCCCC">there's no suggestion</font><font color="#E5E5E5"> an attack is</font>
+
+20
+00:00:45,270 --> 00:00:48,240
+imminent<font color="#CCCCCC"> but still</font><font color="#E5E5E5"> Iran's cyber weapons</font>
+
+21
+00:00:48,240 --> 00:00:51,180
+are at the ready<font color="#CCCCCC"> I'm joined now by NBC</font>
+
+22
+00:00:51,180 --> 00:00:52,890
+News intelligence<font color="#CCCCCC"> and national security</font>
+
+23
+00:00:52,890 --> 00:00:55,170
+<font color="#CCCCCC">reporter</font><font color="#E5E5E5"> Kendall a</font><font color="#CCCCCC"> nyan who was one of</font>
+
+24
+00:00:55,170 --> 00:00:57,540
+the reporters<font color="#CCCCCC"> who broke this story ken</font>
+
+25
+00:00:57,540 --> 00:00:58,920
+tell us a little<font color="#E5E5E5"> bit more about the</font>
+
+26
+00:00:58,920 --> 00:01:03,240
+Iranian<font color="#E5E5E5"> side of things</font><font color="#CCCCCC"> Katie our sources</font>
+
+27
+00:01:03,240 --> 00:01:05,190
+<font color="#CCCCCC">tell us that this is</font><font color="#E5E5E5"> in direct response</font>
+
+28
+00:01:05,190 --> 00:01:06,720
+<font color="#E5E5E5">to the decision</font><font color="#CCCCCC"> by the Trump</font>
+
+29
+00:01:06,720 --> 00:01:08,159
+<font color="#CCCCCC">administration to pull out of</font><font color="#E5E5E5"> the Iran</font>
+
+30
+00:01:08,159 --> 00:01:10,560
+nuclear deal<font color="#CCCCCC"> and then it's a common</font>
+
+31
+00:01:10,560 --> 00:01:13,350
+practice of Iran<font color="#E5E5E5"> every time they they</font>
+
+32
+00:01:13,350 --> 00:01:15,030
+think<font color="#E5E5E5"> they are they are at a</font>
+
+33
+00:01:15,030 --> 00:01:16,830
+disadvantage<font color="#E5E5E5"> with the United States</font><font color="#CCCCCC"> they</font>
+
+34
+00:01:16,830 --> 00:01:19,290
+amp up their cyber probing<font color="#E5E5E5"> and in this</font>
+
+35
+00:01:19,290 --> 00:01:21,060
+case they<font color="#CCCCCC"> are laying</font><font color="#E5E5E5"> the groundwork for</font>
+
+36
+00:01:21,060 --> 00:01:22,500
+<font color="#E5E5E5">cyber attacks in a more aggressive</font>
+
+37
+00:01:22,500 --> 00:01:24,030
+manner than US officials have seen
+
+38
+00:01:24,030 --> 00:01:24,570
+<font color="#E5E5E5">before</font>
+
+39
+00:01:24,570 --> 00:01:26,820
+probing things like electric grids and
+
+40
+00:01:26,820 --> 00:01:28,680
+pipeline networks<font color="#E5E5E5"> and that can include</font>
+
+41
+00:01:28,680 --> 00:01:30,510
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> know probing network defenses</font><font color="#E5E5E5"> and</font>
+
+42
+00:01:30,510 --> 00:01:33,360
+also implanting cyber bombs essentially
+
+43
+00:01:33,360 --> 00:01:34,890
+that they can<font color="#CCCCCC"> detonate at a later time</font>
+
+44
+00:01:34,890 --> 00:01:37,049
+<font color="#CCCCCC">now as you said there's nothing that</font>
+
+45
+00:01:37,049 --> 00:01:38,820
+suggests<font color="#CCCCCC"> that this</font><font color="#E5E5E5"> is imminent the</font>
+
+46
+00:01:38,820 --> 00:01:40,500
+Iranians<font color="#CCCCCC"> our sources tell us still want</font>
+
+47
+00:01:40,500 --> 00:01:42,870
+<font color="#E5E5E5">to see how the Iran nuclear deal shakes</font>
+
+48
+00:01:42,870 --> 00:01:44,280
+out and what kind of<font color="#E5E5E5"> sanctions are</font>
+
+49
+00:01:44,280 --> 00:01:46,950
+imposed on<font color="#E5E5E5"> them but look they are they</font>
+
+50
+00:01:46,950 --> 00:01:50,250
+are a very dangerous<font color="#E5E5E5"> cyber power in 2012</font>
+
+51
+00:01:50,250 --> 00:01:51,600
+<font color="#CCCCCC">when they attacked Saudi Arabia's</font>
+
+52
+00:01:51,600 --> 00:01:53,729
+largest oil company they turned 75
+
+53
+00:01:53,729 --> 00:01:55,320
+<font color="#E5E5E5">percent</font><font color="#CCCCCC"> of the computers that at that</font>
+
+54
+00:01:55,320 --> 00:01:57,390
+<font color="#E5E5E5">company into BRICS erased all</font><font color="#CCCCCC"> the data</font>
+
+55
+00:01:57,390 --> 00:01:59,520
+<font color="#CCCCCC">so imagine that</font><font color="#E5E5E5"> happening at Walmart or</font>
+
+56
+00:01:59,520 --> 00:02:01,409
+Amazon or<font color="#E5E5E5"> Bank of America it's a very</font>
+
+57
+00:02:01,409 --> 00:02:03,119
+<font color="#E5E5E5">serious threat</font><font color="#CCCCCC"> the US intelligence</font>
+
+58
+00:02:03,119 --> 00:02:05,280
+officials take seriously<font color="#CCCCCC"> King and what</font>
+
+59
+00:02:05,280 --> 00:02:09,258
+have<font color="#CCCCCC"> we done</font><font color="#E5E5E5"> to target Iran in the past</font>
+
+60
+00:02:09,258 --> 00:02:11,370
+<font color="#E5E5E5">well you bring up a very good point</font><font color="#CCCCCC"> you</font>
+
+61
+00:02:11,370 --> 00:02:13,110
+know the u.s. probes networks all over
+
+62
+00:02:13,110 --> 00:02:14,190
+<font color="#CCCCCC">the world of our</font>
+
+63
+00:02:14,190 --> 00:02:16,380
+<font color="#CCCCCC">Cerys</font><font color="#E5E5E5"> and specifically with iran it's</font>
+
+64
+00:02:16,380 --> 00:02:17,910
+widely<font color="#E5E5E5"> believed</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> u.s. and israel</font>
+
+65
+00:02:17,910 --> 00:02:20,580
+<font color="#E5E5E5">were responsible for the sucks net virus</font>
+
+66
+00:02:20,580 --> 00:02:22,860
+that targeted<font color="#E5E5E5"> Iran's nuclear program and</font>
+
+67
+00:02:22,860 --> 00:02:24,630
+actually<font color="#CCCCCC"> did physical damage to</font>
+
+68
+00:02:24,630 --> 00:02:26,610
+centrifuges and there's an argument<font color="#CCCCCC"> that</font>
+
+69
+00:02:26,610 --> 00:02:29,040
+<font color="#CCCCCC">Iran essentially the attacks</font><font color="#E5E5E5"> that Iran</font>
+
+70
+00:02:29,040 --> 00:02:30,630
+perpetrated against<font color="#E5E5E5"> the West after that</font>
+
+71
+00:02:30,630 --> 00:02:32,610
+<font color="#E5E5E5">were in response</font><font color="#CCCCCC"> that essentially the</font>
+
+72
+00:02:32,610 --> 00:02:34,350
+u.s. started it now of course<font color="#E5E5E5"> US</font>
+
+73
+00:02:34,350 --> 00:02:36,750
+<font color="#E5E5E5">policymakers had a very strong intent to</font>
+
+74
+00:02:36,750 --> 00:02:38,700
+subdue Iran's nuclear program which they
+
+75
+00:02:38,700 --> 00:02:40,980
+viewed as<font color="#E5E5E5"> a threat to</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> West but that</font>
+
+76
+00:02:40,980 --> 00:02:42,750
+was a very<font color="#CCCCCC"> aggressive cyber move by the</font>
+
+77
+00:02:42,750 --> 00:02:44,370
+United<font color="#CCCCCC"> States and Israel who does the</font>
+
+78
+00:02:44,370 --> 00:02:45,750
+intelligence community see is the
+
+79
+00:02:45,750 --> 00:02:47,220
+biggest and most imminent threat right
+
+80
+00:02:47,220 --> 00:02:49,310
+<font color="#CCCCCC">now</font>
+
+81
+00:02:49,310 --> 00:02:51,450
+well it's sort of neck and<font color="#CCCCCC"> neck between</font>
+
+82
+00:02:51,450 --> 00:02:53,610
+China and<font color="#E5E5E5"> Russia</font><font color="#CCCCCC"> some</font><font color="#E5E5E5"> officials say</font>
+
+83
+00:02:53,610 --> 00:02:56,040
+<font color="#E5E5E5">Russia is more aggressive right</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> but</font>
+
+84
+00:02:56,040 --> 00:02:57,840
+<font color="#E5E5E5">China overall in</font><font color="#CCCCCC"> terms</font><font color="#E5E5E5"> of a cyber</font>
+
+85
+00:02:57,840 --> 00:03:00,480
+espionage threat<font color="#E5E5E5"> they they have they are</font>
+
+86
+00:03:00,480 --> 00:03:01,800
+<font color="#CCCCCC">they are doing the most widespread</font>
+
+87
+00:03:01,800 --> 00:03:04,500
+hacking economic hacking as well as
+
+88
+00:03:04,500 --> 00:03:06,450
+national<font color="#CCCCCC"> security has been ouch but then</font>
+
+89
+00:03:06,450 --> 00:03:08,550
+close behind<font color="#E5E5E5"> would be Iran and North</font>
+
+90
+00:03:08,550 --> 00:03:10,620
+Korea<font color="#CCCCCC"> KT they have less technical</font>
+
+91
+00:03:10,620 --> 00:03:12,750
+capability<font color="#E5E5E5"> but they have the intent</font><font color="#CCCCCC"> Iran</font>
+
+92
+00:03:12,750 --> 00:03:14,760
+<font color="#CCCCCC">in North</font><font color="#E5E5E5"> Korea to target the</font><font color="#CCCCCC"> west and do</font>
+
+93
+00:03:14,760 --> 00:03:16,590
+damage<font color="#E5E5E5"> against the</font><font color="#CCCCCC"> west</font><font color="#E5E5E5"> in the case of</font>
+
+94
+00:03:16,590 --> 00:03:18,900
+<font color="#CCCCCC">Iran though the US has the</font><font color="#E5E5E5"> capability</font><font color="#CCCCCC"> to</font>
+
+95
+00:03:18,900 --> 00:03:20,640
+strike<font color="#E5E5E5"> back and strike back</font><font color="#CCCCCC"> hard and</font>
+
+96
+00:03:20,640 --> 00:03:22,610
+part of<font color="#E5E5E5"> our reporting is</font><font color="#CCCCCC"> that they are</font>
+
+97
+00:03:22,610 --> 00:03:25,440
+considering<font color="#CCCCCC"> countermeasures including in</font>
+
+98
+00:03:25,440 --> 00:03:28,230
+<font color="#CCCCCC">cyber space against Iran let's</font><font color="#E5E5E5"> listen to</font>
+
+99
+00:03:28,230 --> 00:03:30,000
+rod Rosen Stein at the Aspen<font color="#E5E5E5"> Security</font>
+
+100
+00:03:30,000 --> 00:03:32,070
+<font color="#E5E5E5">Forum</font><font color="#CCCCCC"> talking</font><font color="#E5E5E5"> about how he's gonna alert</font>
+
+101
+00:03:32,070 --> 00:03:35,000
+<font color="#E5E5E5">the public take a listen</font>
+
+102
+00:03:35,000 --> 00:03:37,980
+exposing schemes to the public<font color="#E5E5E5"> is an</font>
+
+103
+00:03:37,980 --> 00:03:40,830
+important way to<font color="#CCCCCC"> neutralize them the</font>
+
+104
+00:03:40,830 --> 00:03:42,420
+American people have a<font color="#E5E5E5"> right</font><font color="#CCCCCC"> to know if</font>
+
+105
+00:03:42,420 --> 00:03:44,459
+<font color="#CCCCCC">foreign governments are targeting them</font>
+
+106
+00:03:44,459 --> 00:03:47,010
+with propaganda<font color="#E5E5E5"> so how is Rosenstein</font>
+
+107
+00:03:47,010 --> 00:03:49,140
+<font color="#E5E5E5">gonna do this and and is this</font>
+
+108
+00:03:49,140 --> 00:03:51,209
+essentially them<font color="#E5E5E5"> learning</font><font color="#CCCCCC"> from their</font>
+
+109
+00:03:51,209 --> 00:03:55,680
+mistakes<font color="#CCCCCC"> in 2016 it is kaity but it's</font>
+
+110
+00:03:55,680 --> 00:03:58,050
+really the Department<font color="#CCCCCC"> of Justice fueling</font>
+
+111
+00:03:58,050 --> 00:04:00,420
+a vacuum stepping into a vacuum created
+
+112
+00:04:00,420 --> 00:04:02,790
+by Donald<font color="#CCCCCC"> Trump there is no</font><font color="#E5E5E5"> Trump</font>
+
+113
+00:04:02,790 --> 00:04:04,560
+<font color="#E5E5E5">administration strategies to stop</font>
+
+114
+00:04:04,560 --> 00:04:06,420
+foreign election intervention<font color="#E5E5E5"> but rod</font>
+
+115
+00:04:06,420 --> 00:04:08,160
+<font color="#E5E5E5">Rosen</font><font color="#CCCCCC"> Stein</font><font color="#E5E5E5"> has just articulated the</font>
+
+116
+00:04:08,160 --> 00:04:10,470
+Department<font color="#E5E5E5"> of Justice strategy and part</font>
+
+117
+00:04:10,470 --> 00:04:11,730
+<font color="#CCCCCC">of that is he's going</font><font color="#E5E5E5"> to step up the</font>
+
+118
+00:04:11,730 --> 00:04:14,040
+prosecution of foreign actors
+
+119
+00:04:14,040 --> 00:04:15,900
+perpetrating<font color="#E5E5E5"> these kind of campaigns</font><font color="#CCCCCC"> and</font>
+
+120
+00:04:15,900 --> 00:04:17,608
+part of<font color="#CCCCCC"> it as you played there he's</font>
+
+121
+00:04:17,608 --> 00:04:19,140
+going to try<font color="#E5E5E5"> to make more of this public</font>
+
+122
+00:04:19,140 --> 00:04:21,529
+because he feels like<font color="#E5E5E5"> if</font><font color="#CCCCCC"> he can call out</font>
+
+123
+00:04:21,529 --> 00:04:24,240
+essentially a foreign actor<font color="#E5E5E5"> creating a</font>
+
+124
+00:04:24,240 --> 00:04:25,710
+propaganda campaign<font color="#E5E5E5"> whether it's on</font>
+
+125
+00:04:25,710 --> 00:04:27,230
+Twitter<font color="#CCCCCC"> or Facebook back in</font>
+
+126
+00:04:27,230 --> 00:04:28,940
+inoculate the public against these
+
+127
+00:04:28,940 --> 00:04:30,980
+divisive messages but there are a couple
+
+128
+00:04:30,980 --> 00:04:32,720
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> problems with</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> Katie one</font><font color="#CCCCCC"> of which</font>
+
+129
+00:04:32,720 --> 00:04:34,190
+<font color="#E5E5E5">is often the way they learn about</font><font color="#CCCCCC"> these</font>
+
+130
+00:04:34,190 --> 00:04:35,660
+campaigns is through classified
+
+131
+00:04:35,660 --> 00:04:37,280
+intelligence gathering<font color="#E5E5E5"> and they are</font>
+
+132
+00:04:37,280 --> 00:04:38,990
+<font color="#E5E5E5">loathe to make that</font><font color="#CCCCCC"> public</font><font color="#E5E5E5"> that's why</font>
+
+133
+00:04:38,990 --> 00:04:42,200
+they were reluctant in 2016<font color="#CCCCCC"> early on to</font>
+
+134
+00:04:42,200 --> 00:04:44,630
+say explicitly<font color="#E5E5E5"> that</font><font color="#CCCCCC"> the Russians were</font>
+
+135
+00:04:44,630 --> 00:04:47,120
+intervening in the 2016 election<font color="#CCCCCC"> Kendall</font>
+
+136
+00:04:47,120 --> 00:04:49,010
+a<font color="#E5E5E5"> nyan</font><font color="#CCCCCC"> can remarkable reporting thank</font>
+
+137
+00:04:49,010 --> 00:04:51,710
+you very much<font color="#E5E5E5"> hello youtubers if you're</font>
+
+138
+00:04:51,710 --> 00:04:53,000
+watching<font color="#E5E5E5"> this it means you've checked</font>
+
+139
+00:04:53,000 --> 00:04:54,650
+out<font color="#CCCCCC"> our channel so thank you now do me a</font>
+
+140
+00:04:54,650 --> 00:04:56,930
+favor<font color="#E5E5E5"> subscribe by clicking on that</font>
+
+141
+00:04:56,930 --> 00:04:58,910
+<font color="#CCCCCC">button down there click on any of the</font>
+
+142
+00:04:58,910 --> 00:05:00,380
+videos<font color="#CCCCCC"> to watch the latest interviews</font>
+
+143
+00:05:00,380 --> 00:05:02,420
+and highlights from MTV<font color="#CCCCCC"> daily and MSNBC</font>
+
+144
+00:05:02,420 --> 00:05:04,880
+<font color="#CCCCCC">you get more</font><font color="#E5E5E5"> meat to press content every</font>
+
+145
+00:05:04,880 --> 00:05:06,680
+morning and<font color="#E5E5E5"> the first</font><font color="#CCCCCC"> read newsletter</font><font color="#E5E5E5"> if</font>
+
+146
+00:05:06,680 --> 00:05:08,210
+you're tired of content<font color="#E5E5E5"> that you don't</font>
+
+147
+00:05:08,210 --> 00:05:09,620
+know<font color="#E5E5E5"> anything about where it came from</font>
+
+148
+00:05:09,620 --> 00:05:10,910
+<font color="#E5E5E5">you don't have to have that problem with</font>
+
+149
+00:05:10,910 --> 00:05:15,560
+<font color="#E5E5E5">us NBC News MSNBC MTP</font><font color="#CCCCCC"> and the Meet the</font>
+
+150
+00:05:15,560 --> 00:05:17,480
+Press<font color="#CCCCCC"> mindset</font><font color="#E5E5E5"> right</font><font color="#CCCCCC"> here for you on</font>
+
+151
+00:05:17,480 --> 00:00:00,000
+<font color="#CCCCCC">youtube</font><font color="#E5E5E5"> subscribe now</font>
+

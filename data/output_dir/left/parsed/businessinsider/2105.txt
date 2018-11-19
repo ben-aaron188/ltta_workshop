@@ -1,0 +1,33 @@
+conditional formatting is a great
+feature in Excel it allows you to take a
+whole bunch of numbers and highlight
+things so that data pops out when it's
+positive or when it's negative it's a
+correlation matrix it's a great example
+of a use of conditional formatting here
+we're gonna take a look at another
+spreadsheet of stock information where
+it updates daily so you can see is a
+one-week price change in the stock and
+I'm gonna highlight all the stocks that
+have moved down more than 10% so I'm
+gonna go to highlight cell rules less
+than and I'm gonna put a negative 10%
+okay and if I scroll down through my
+data I can always check every day to see
+what stocks have gone down by more than
+10% in the past week another use is
+let's say we have a schedule for our
+team I'm in it but I have no idea where
+I am so I can highlight it conditional
+formatting highlight cell rules I'm
+going to select equal to
+and put in my name there I am but if I
+want other people to be able to use it
+and find themselves I can change this go
+to manage rules select the rule and I'm
+gonna change that to a cell instead of
+my name now if anybody types their name
+in that cell they can find themselves in
+the schedule and that is it that is easy
+simple way to use conditional formatting

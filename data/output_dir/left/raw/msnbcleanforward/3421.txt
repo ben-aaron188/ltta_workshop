@@ -1,0 +1,472 @@
+1
+00:00:01,210 --> 00:00:03,199
+welcome back everybody joining<font color="#CCCCCC"> us from</font>
+
+2
+00:00:03,199 --> 00:00:05,029
+Washington<font color="#CCCCCC"> with</font><font color="#E5E5E5"> a look at Axios</font><font color="#CCCCCC"> a.m.</font>
+
+3
+00:00:05,029 --> 00:00:06,950
+national political<font color="#CCCCCC"> reporter for</font><font color="#E5E5E5"> Axios</font>
+
+4
+00:00:06,950 --> 00:00:08,870
+<font color="#E5E5E5">Jonathan</font><font color="#CCCCCC"> Swan Jonathan good morning to</font>
+
+5
+00:00:08,870 --> 00:00:09,920
+you thanks for joining us<font color="#E5E5E5"> talk</font><font color="#CCCCCC"> to us</font>
+
+6
+00:00:09,920 --> 00:00:12,940
+<font color="#E5E5E5">about</font><font color="#CCCCCC"> axes</font><font color="#E5E5E5"> one big thing this morning</font>
+
+7
+00:00:12,940 --> 00:00:16,100
+<font color="#E5E5E5">Trump summit style leading into his</font>
+
+8
+00:00:16,100 --> 00:00:18,320
+meeting with North Korea's Kim jong-un
+
+9
+00:00:18,320 --> 00:00:20,630
+we've done a ton of reporting on<font color="#CCCCCC"> how</font>
+
+10
+00:00:20,630 --> 00:00:23,390
+<font color="#E5E5E5">Trump prepares for meetings with foreign</font>
+
+11
+00:00:23,390 --> 00:00:26,510
+<font color="#CCCCCC">leaders and</font><font color="#E5E5E5"> behaves behind the scenes</font><font color="#CCCCCC"> my</font>
+
+12
+00:00:26,510 --> 00:00:28,190
+very strong<font color="#CCCCCC"> impression from talking to</font>
+
+13
+00:00:28,190 --> 00:00:30,260
+<font color="#E5E5E5">sources</font><font color="#CCCCCC"> who have discussed the North</font>
+
+14
+00:00:30,260 --> 00:00:31,790
+Korea meeting<font color="#E5E5E5"> with President Trump</font><font color="#CCCCCC"> is</font>
+
+15
+00:00:31,790 --> 00:00:34,100
+that even he<font color="#E5E5E5"> doesn't</font><font color="#CCCCCC"> know what he's</font>
+
+16
+00:00:34,100 --> 00:00:36,410
+going to<font color="#E5E5E5"> say</font><font color="#CCCCCC"> to Kim jong-un and there's</font>
+
+17
+00:00:36,410 --> 00:00:39,530
+a very<font color="#E5E5E5"> clear</font><font color="#CCCCCC"> reason for</font><font color="#E5E5E5"> that he believes</font>
+
+18
+00:00:39,530 --> 00:00:41,870
+that he's best for these<font color="#E5E5E5"> meetings when</font>
+
+19
+00:00:41,870 --> 00:00:44,540
+he<font color="#E5E5E5"> doesn't prepare particularly much and</font>
+
+20
+00:00:44,540 --> 00:00:47,120
+relies instead on his own god-given
+
+21
+00:00:47,120 --> 00:00:52,100
+<font color="#E5E5E5">brilliance so let me ask you this I know</font>
+
+22
+00:00:52,100 --> 00:00:53,420
+<font color="#CCCCCC">that ax has been focusing on</font><font color="#E5E5E5"> the</font>
+
+23
+00:00:53,420 --> 00:00:55,190
+president Trump's habit of<font color="#E5E5E5"> walking into</font>
+
+24
+00:00:55,190 --> 00:00:57,020
+a<font color="#E5E5E5"> meeting with a head of state</font><font color="#CCCCCC"> and then</font>
+
+25
+00:00:57,020 --> 00:00:58,970
+literally<font color="#E5E5E5"> just</font><font color="#CCCCCC"> throwing out the protocol</font>
+
+26
+00:00:58,970 --> 00:01:00,230
+he's done it sometimes even<font color="#CCCCCC"> at press</font>
+
+27
+00:01:00,230 --> 00:01:01,940
+conferences where<font color="#CCCCCC"> he'll just throw his</font>
+
+28
+00:01:01,940 --> 00:01:04,339
+notes up in the air<font color="#E5E5E5"> explain his thinking</font>
+
+29
+00:01:04,339 --> 00:01:06,110
+behind that<font color="#E5E5E5"> does he just want as I think</font>
+
+30
+00:01:06,110 --> 00:01:07,970
+<font color="#E5E5E5">somebody said yesterday he he wants to</font>
+
+31
+00:01:07,970 --> 00:01:09,909
+<font color="#E5E5E5">out-crazy crazy</font>
+
+32
+00:01:09,909 --> 00:01:14,270
+he believes<font color="#CCCCCC"> and you know this is</font>
+
+33
+00:01:14,270 --> 00:01:15,650
+actually<font color="#CCCCCC"> probably</font><font color="#E5E5E5"> one of these theories</font>
+
+34
+00:01:15,650 --> 00:01:18,890
+<font color="#E5E5E5">that even I've spoken to people</font><font color="#CCCCCC"> who work</font>
+
+35
+00:01:18,890 --> 00:01:21,490
+<font color="#E5E5E5">for Obama and they say has at least some</font>
+
+36
+00:01:21,490 --> 00:01:24,110
+value to<font color="#E5E5E5"> it</font><font color="#CCCCCC"> is he</font><font color="#E5E5E5"> believes that foreign</font>
+
+37
+00:01:24,110 --> 00:01:26,390
+<font color="#E5E5E5">affairs is overly scripted everything is</font>
+
+38
+00:01:26,390 --> 00:01:28,520
+overly choreographed<font color="#E5E5E5"> and when he just</font>
+
+39
+00:01:28,520 --> 00:01:30,440
+goes in and completely<font color="#E5E5E5"> throws everything</font>
+
+40
+00:01:30,440 --> 00:01:33,110
+out<font color="#E5E5E5"> he believes it throws his the</font>
+
+41
+00:01:33,110 --> 00:01:35,299
+opposite<font color="#E5E5E5"> the opposing leader off-balance</font>
+
+42
+00:01:35,299 --> 00:01:37,460
+<font color="#E5E5E5">now the problem</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> when you keep doing</font>
+
+43
+00:01:37,460 --> 00:01:39,350
+<font color="#CCCCCC">that over</font><font color="#E5E5E5"> and over</font><font color="#CCCCCC"> again they</font><font color="#E5E5E5"> start to</font>
+
+44
+00:01:39,350 --> 00:01:42,320
+<font color="#CCCCCC">actually</font><font color="#E5E5E5"> prepare for that scenario talk</font>
+
+45
+00:01:42,320 --> 00:01:44,450
+<font color="#E5E5E5">about how the president sort of likes to</font>
+
+46
+00:01:44,450 --> 00:01:47,420
+get<font color="#CCCCCC"> awkwardly tough it kind of</font><font color="#E5E5E5"> raises</font>
+
+47
+00:01:47,420 --> 00:01:49,010
+these<font color="#E5E5E5"> leaders when he walks in the room</font>
+
+48
+00:01:49,010 --> 00:01:50,960
+tells them how amazing<font color="#E5E5E5"> heat they are and</font>
+
+49
+00:01:50,960 --> 00:01:53,210
+then suddenly takes a<font color="#E5E5E5"> total turn and</font>
+
+50
+00:01:53,210 --> 00:01:55,549
+gets pretty awkward<font color="#E5E5E5"> and</font><font color="#CCCCCC"> really tough on</font>
+
+51
+00:01:55,549 --> 00:01:56,540
+them<font color="#E5E5E5"> kind of this Jekyll and Hyde</font>
+
+52
+00:01:56,540 --> 00:01:59,869
+situation<font color="#CCCCCC"> well the most the most amazing</font>
+
+53
+00:01:59,869 --> 00:02:02,240
+example<font color="#CCCCCC"> of</font><font color="#E5E5E5"> that from my reporting and</font>
+
+54
+00:02:02,240 --> 00:02:04,610
+<font color="#CCCCCC">we'll report</font><font color="#E5E5E5"> that this morning is when</font>
+
+55
+00:02:04,610 --> 00:02:06,590
+<font color="#E5E5E5">they were in Beijing</font><font color="#CCCCCC"> with the Chinese</font>
+
+56
+00:02:06,590 --> 00:02:09,378
+you saw yeah it was incredible<font color="#CCCCCC"> lavishing</font>
+
+57
+00:02:09,378 --> 00:02:11,930
+praise you know the Forbidden City the
+
+58
+00:02:11,930 --> 00:02:13,260
+red carpet<font color="#E5E5E5"> everything</font>
+
+59
+00:02:13,260 --> 00:02:15,269
+amazing and then they get in the<font color="#E5E5E5"> meeting</font>
+
+60
+00:02:15,269 --> 00:02:19,220
+with<font color="#E5E5E5"> she and Trump says so you know</font>
+
+61
+00:02:19,220 --> 00:02:21,420
+everything's<font color="#E5E5E5"> been terrible</font><font color="#CCCCCC"> with China</font>
+
+62
+00:02:21,420 --> 00:02:23,730
+<font color="#E5E5E5">you've been ripping us after</font><font color="#CCCCCC"> that and</font>
+
+63
+00:02:23,730 --> 00:02:25,530
+<font color="#CCCCCC">and it's</font><font color="#E5E5E5"> been</font><font color="#CCCCCC"> happening for years Bob</font>
+
+64
+00:02:25,530 --> 00:02:27,269
+<font color="#E5E5E5">and he turns to</font><font color="#CCCCCC"> Bob lighthouse</font><font color="#E5E5E5"> of the</font>
+
+65
+00:02:27,269 --> 00:02:28,769
+<font color="#CCCCCC">trake ogres</font><font color="#E5E5E5"> why don't you explain to</font>
+
+66
+00:02:28,769 --> 00:02:30,510
+<font color="#E5E5E5">them the history tell them how</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> you</font>
+
+67
+00:02:30,510 --> 00:02:32,670
+know<font color="#E5E5E5"> all of these</font><font color="#CCCCCC"> years that</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> then</font>
+
+68
+00:02:32,670 --> 00:02:34,560
+<font color="#CCCCCC">Bob light Heiser</font><font color="#E5E5E5"> of course who's a</font>
+
+69
+00:02:34,560 --> 00:02:37,560
+really strong<font color="#E5E5E5"> anti</font><font color="#CCCCCC"> China hawk you know</font>
+
+70
+00:02:37,560 --> 00:02:39,510
+seizes the opportunity goes through the
+
+71
+00:02:39,510 --> 00:02:42,140
+<font color="#E5E5E5">history of 20 years of China basically</font>
+
+72
+00:02:42,140 --> 00:02:44,730
+<font color="#E5E5E5">beating the</font><font color="#CCCCCC"> living hell out of America</font>
+
+73
+00:02:44,730 --> 00:02:47,040
+so it's this incredible scene after
+
+74
+00:02:47,040 --> 00:02:48,780
+they've basically been hugging each
+
+75
+00:02:48,780 --> 00:02:50,670
+other<font color="#CCCCCC"> he goes</font><font color="#E5E5E5"> from one extreme to the</font>
+
+76
+00:02:50,670 --> 00:02:54,569
+other<font color="#CCCCCC"> perhaps I would say more than any</font>
+
+77
+00:02:54,569 --> 00:02:57,060
+other leader we've seen in American
+
+78
+00:02:57,060 --> 00:02:59,129
+politics for<font color="#E5E5E5"> quite some time</font><font color="#CCCCCC"> it's</font>
+
+79
+00:02:59,129 --> 00:03:00,690
+<font color="#E5E5E5">feeling like you've been</font><font color="#CCCCCC"> gut-punched or</font>
+
+80
+00:03:00,690 --> 00:03:02,489
+something yeah<font color="#E5E5E5"> absolutely so let's let's</font>
+
+81
+00:03:02,489 --> 00:03:05,430
+talk<font color="#CCCCCC"> about</font><font color="#E5E5E5"> if we have an early sense of</font>
+
+82
+00:03:05,430 --> 00:03:07,109
+a game<font color="#CCCCCC"> plan for the</font><font color="#E5E5E5"> president when it</font>
+
+83
+00:03:07,109 --> 00:03:09,359
+comes to this career<font color="#E5E5E5"> summit about a</font>
+
+84
+00:03:09,359 --> 00:03:11,909
+month away<font color="#E5E5E5"> now what do we expect to</font>
+
+85
+00:03:11,909 --> 00:03:13,290
+<font color="#E5E5E5">happen you know the Trump administration</font>
+
+86
+00:03:13,290 --> 00:03:14,879
+<font color="#E5E5E5">what are they gonna do in the</font><font color="#CCCCCC"> build-up</font>
+
+87
+00:03:14,879 --> 00:03:16,650
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> it and then ultimately</font><font color="#E5E5E5"> what do you</font>
+
+88
+00:03:16,650 --> 00:03:18,510
+think plays out there well a lot of<font color="#E5E5E5"> the</font>
+
+89
+00:03:18,510 --> 00:03:21,329
+<font color="#E5E5E5">build-up is already choreographed so one</font>
+
+90
+00:03:21,329 --> 00:03:22,560
+<font color="#CCCCCC">of the important things about</font><font color="#E5E5E5"> having</font>
+
+91
+00:03:22,560 --> 00:03:24,930
+<font color="#CCCCCC">Pompeo in</font><font color="#E5E5E5"> instead of Rex Tillerson</font><font color="#CCCCCC"> is</font>
+
+92
+00:03:24,930 --> 00:03:27,000
+<font color="#CCCCCC">the North Koreans can actually deal with</font>
+
+93
+00:03:27,000 --> 00:03:29,639
+<font color="#CCCCCC">somebody who at least to the best of his</font>
+
+94
+00:03:29,639 --> 00:03:31,349
+ability can speak for the present so
+
+95
+00:03:31,349 --> 00:03:33,079
+we're gonna<font color="#CCCCCC"> probably see a theatrical</font>
+
+96
+00:03:33,079 --> 00:03:35,250
+destruction of a North Korean nuclear
+
+97
+00:03:35,250 --> 00:03:37,889
+facility near the Chinese border<font color="#E5E5E5"> to make</font>
+
+98
+00:03:37,889 --> 00:03:39,780
+the conditions<font color="#E5E5E5"> even better for the</font>
+
+99
+00:03:39,780 --> 00:03:41,519
+meeting<font color="#E5E5E5"> but as for what happens in the</font>
+
+100
+00:03:41,519 --> 00:03:44,099
+meeting you<font color="#E5E5E5"> know you're delusional if</font>
+
+101
+00:03:44,099 --> 00:03:45,540
+<font color="#CCCCCC">you think that you know what Trump is</font>
+
+102
+00:03:45,540 --> 00:03:47,519
+<font color="#E5E5E5">going</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> say because truly I don't think</font>
+
+103
+00:03:47,519 --> 00:03:49,829
+he knows<font color="#E5E5E5"> what he's going to say in</font><font color="#CCCCCC"> that</font>
+
+104
+00:03:49,829 --> 00:03:51,690
+meeting<font color="#CCCCCC"> maybe</font><font color="#E5E5E5"> it'll be a successful</font>
+
+105
+00:03:51,690 --> 00:03:55,230
+maybe<font color="#E5E5E5"> won't be all right Jonathan Swan</font>
+
+106
+00:03:55,230 --> 00:03:57,030
+live for us in<font color="#CCCCCC"> Washington DC thank you</font>
+
+107
+00:03:57,030 --> 00:03:58,109
+very much of course<font color="#CCCCCC"> we're</font><font color="#E5E5E5"> gonna be</font>
+
+108
+00:03:58,109 --> 00:04:00,180
+<font color="#E5E5E5">reading axiom in just a little</font><font color="#CCCCCC"> bit and</font>
+
+109
+00:04:00,180 --> 00:04:01,620
+of course to all<font color="#E5E5E5"> of our</font><font color="#CCCCCC"> viewers out</font>
+
+110
+00:04:01,620 --> 00:04:03,120
+<font color="#E5E5E5">there as well</font><font color="#CCCCCC"> you too can now sign up</font>
+
+111
+00:04:03,120 --> 00:04:05,129
+<font color="#E5E5E5">for the</font><font color="#CCCCCC"> Axios newsletter by simply</font><font color="#E5E5E5"> going</font>
+
+112
+00:04:05,129 --> 00:04:06,930
+to access<font color="#E5E5E5"> calm hey there I'm Chris</font><font color="#CCCCCC"> Hayes</font>
+
+113
+00:04:06,930 --> 00:04:09,510
+from<font color="#E5E5E5"> MSNBC thanks for watching MSNBC on</font>
+
+114
+00:04:09,510 --> 00:04:10,889
+youtube if you want<font color="#CCCCCC"> to</font><font color="#E5E5E5"> keep up</font><font color="#CCCCCC"> to date</font>
+
+115
+00:04:10,889 --> 00:04:12,150
+<font color="#E5E5E5">with the videos we're putting out you</font>
+
+116
+00:04:12,150 --> 00:04:14,190
+can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> subscribe just</font><font color="#E5E5E5"> below me or</font>
+
+117
+00:04:14,190 --> 00:04:15,870
+click over<font color="#E5E5E5"> on this list to see lots of</font>
+
+118
+00:04:15,870 --> 00:00:00,000
+<font color="#E5E5E5">other great</font><font color="#CCCCCC"> videos</font>
+

@@ -1,0 +1,292 @@
+1
+00:00:12,590 --> 00:00:15,719
+so Jeremy how important is the mobile
+
+2
+00:00:15,719 --> 00:00:17,190
+strategy at Yelp for the overall
+
+3
+00:00:17,190 --> 00:00:19,260
+business model it seems to go hand in
+
+4
+00:00:19,260 --> 00:00:21,330
+hand with the location-based service
+
+5
+00:00:21,330 --> 00:00:23,609
+yeah for the content that we provide
+
+6
+00:00:23,609 --> 00:00:25,460
+which is sort of<font color="#E5E5E5"> this reputation of</font>
+
+7
+00:00:25,460 --> 00:00:27,869
+particular small business it's extremely
+
+8
+00:00:27,869 --> 00:00:29,820
+valuable when you're on the go so you
+
+9
+00:00:29,820 --> 00:00:30,779
+know when you're traveling when you're
+
+10
+00:00:30,779 --> 00:00:31,859
+in an unfamiliar neighborhood
+
+11
+00:00:31,859 --> 00:00:33,840
+neighborhood to be able<font color="#E5E5E5"> to pull up your</font>
+
+12
+00:00:33,840 --> 00:00:35,670
+phone<font color="#CCCCCC"> and find great recommendations go</font>
+
+13
+00:00:35,670 --> 00:00:37,739
+to the perfect<font color="#CCCCCC"> hotspot get the service</font>
+
+14
+00:00:37,739 --> 00:00:40,050
+that<font color="#CCCCCC"> you're looking</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> is so key and so</font>
+
+15
+00:00:40,050 --> 00:00:41,730
+<font color="#E5E5E5">from the very beginning we've been</font>
+
+16
+00:00:41,730 --> 00:00:43,350
+pretty focused on mobile we had a
+
+17
+00:00:43,350 --> 00:00:45,120
+website or before all the smartphones
+
+18
+00:00:45,120 --> 00:00:47,460
+became all the rage and then we were
+
+19
+00:00:47,460 --> 00:00:50,039
+there at the iphone app store launch and
+
+20
+00:00:50,039 --> 00:00:52,140
+we've<font color="#E5E5E5"> had a lot of traction with that we</font>
+
+21
+00:00:52,140 --> 00:00:54,420
+now have over a million unique device is
+
+22
+00:00:54,420 --> 00:00:56,160
+just on iphone alone that are tapping
+
+23
+00:00:56,160 --> 00:00:58,500
+into Yelp every single month that's not
+
+24
+00:00:58,500 --> 00:01:00,270
+downloads that's actual users every
+
+25
+00:01:00,270 --> 00:01:01,890
+month so we've seen a lot<font color="#CCCCCC"> of success</font>
+
+26
+00:01:01,890 --> 00:01:03,239
+there and we continue<font color="#CCCCCC"> to invest heavily</font>
+
+27
+00:01:03,239 --> 00:01:04,619
+in that part of<font color="#E5E5E5"> our</font><font color="#CCCCCC"> business what</font>
+
+28
+00:01:04,619 --> 00:01:06,090
+percentage<font color="#E5E5E5"> of your overall traffic that</font>
+
+29
+00:01:06,090 --> 00:01:08,970
+is mobile it's<font color="#E5E5E5"> still relatively small</font>
+
+30
+00:01:08,970 --> 00:01:11,670
+minority because<font color="#CCCCCC"> we have tremendous</font>
+
+31
+00:01:11,670 --> 00:01:13,470
+distribution on<font color="#CCCCCC"> the web so we're north</font>
+
+32
+00:01:13,470 --> 00:01:15,930
+of 26 million unique visitors a month so
+
+33
+00:01:15,930 --> 00:01:18,150
+that's<font color="#E5E5E5"> a lot but you know we're</font>
+
+34
+00:01:18,150 --> 00:01:19,680
+certainly seeing interesting numbers and
+
+35
+00:01:19,680 --> 00:01:21,659
+really rapid growth on the<font color="#CCCCCC"> mobile side</font>
+
+36
+00:01:21,659 --> 00:01:24,030
+so what<font color="#E5E5E5"> are the I mean how is your</font>
+
+37
+00:01:24,030 --> 00:01:25,590
+strategy evolving there what can we see
+
+38
+00:01:25,590 --> 00:01:28,970
+in<font color="#CCCCCC"> the future come to mobile free help I</font>
+
+39
+00:01:28,970 --> 00:01:31,530
+think a big part of<font color="#E5E5E5"> our strategy there</font>
+
+40
+00:01:31,530 --> 00:01:34,079
+lately has been the platform expansion
+
+41
+00:01:34,079 --> 00:01:35,970
+so just the other day in fact we
+
+42
+00:01:35,970 --> 00:01:38,070
+launched on<font color="#E5E5E5"> Android which we have been</font>
+
+43
+00:01:38,070 --> 00:01:40,049
+<font color="#E5E5E5">getting more and more demand for as</font><font color="#CCCCCC"> the</font>
+
+44
+00:01:40,049 --> 00:01:41,759
+platform has become more popular and
+
+45
+00:01:41,759 --> 00:01:43,710
+more phones have come out and so the
+
+46
+00:01:43,710 --> 00:01:45,750
+response<font color="#E5E5E5"> that's been really great and so</font>
+
+47
+00:01:45,750 --> 00:01:47,640
+we're going to<font color="#E5E5E5"> get up keep expanding the</font>
+
+48
+00:01:47,640 --> 00:01:49,950
+the software that<font color="#E5E5E5"> we have on those</font>
+
+49
+00:01:49,950 --> 00:01:51,479
+different platforms so right now it's
+
+50
+00:01:51,479 --> 00:01:53,280
+<font color="#CCCCCC">pretty basic for instance on Android</font>
+
+51
+00:01:53,280 --> 00:01:55,340
+it's pretty<font color="#E5E5E5"> much just</font><font color="#CCCCCC"> a read-only</font>
+
+52
+00:01:55,340 --> 00:01:57,479
+application so<font color="#CCCCCC"> you can read reviews but</font>
+
+53
+00:01:57,479 --> 00:01:58,950
+you can't contribute and so getting some
+
+54
+00:01:58,950 --> 00:02:00,540
+of those contribution features going is
+
+55
+00:02:00,540 --> 00:02:02,729
+a high priority for<font color="#CCCCCC"> us so high priority</font>
+
+56
+00:02:02,729 --> 00:02:05,280
+<font color="#E5E5E5">maybe capitalizing on the networking</font>
+
+57
+00:02:05,280 --> 00:02:06,570
+effects of save logging in through
+
+58
+00:02:06,570 --> 00:02:08,369
+<font color="#CCCCCC">Facebook or through Twitter and being</font>
+
+59
+00:02:08,369 --> 00:02:11,910
+<font color="#CCCCCC">able to upload your review that way yeah</font>
+
+60
+00:02:11,910 --> 00:02:13,090
+so we we do
+
+61
+00:02:13,090 --> 00:02:16,360
+away on the website<font color="#E5E5E5"> to connect to</font>
+
+62
+00:02:16,360 --> 00:02:17,830
+facebook to connect to<font color="#CCCCCC"> twitter to</font>
+
+63
+00:02:17,830 --> 00:02:19,840
+publisher reviews and so bringing some
+
+64
+00:02:19,840 --> 00:02:21,220
+of<font color="#CCCCCC"> that to the phone so when you add a</font>
+
+65
+00:02:21,220 --> 00:02:23,470
+photo for instance or you add a tip that
+
+66
+00:02:23,470 --> 00:02:25,480
+that gets published is also interesting
+
+67
+00:02:25,480 --> 00:02:27,220
+and so I think you know<font color="#CCCCCC"> we'll provide</font>
+
+68
+00:02:27,220 --> 00:02:28,840
+that in the future so there's a lot<font color="#E5E5E5"> of</font>
+
+69
+00:02:28,840 --> 00:02:30,940
+opportunity there as far as doing
+
+70
+00:02:30,940 --> 00:02:32,019
+something<font color="#CCCCCC"> on mobile and having it</font>
+
+71
+00:02:32,019 --> 00:02:33,459
+broadcast out to all the<font color="#CCCCCC"> different</font>
+
+72
+00:02:33,459 --> 00:02:35,319
+places you might want to publish great
+
+73
+00:02:35,319 --> 00:00:00,000
+thank<font color="#CCCCCC"> you thanks</font>
+

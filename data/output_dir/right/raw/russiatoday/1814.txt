@@ -1,0 +1,300 @@
+1
+00:00:02,629 --> 00:00:05,730
+one of bitcoins most valuable traits<font color="#E5E5E5"> is</font>
+
+2
+00:00:05,730 --> 00:00:08,130
+its anonymity<font color="#CCCCCC"> sure there's a ledger</font><font color="#E5E5E5"> of</font>
+
+3
+00:00:08,130 --> 00:00:10,530
+transactions but you can<font color="#E5E5E5"> determine who</font>
+
+4
+00:00:10,530 --> 00:00:11,670
+they belong to
+
+5
+00:00:11,670 --> 00:00:14,519
+but now<font color="#E5E5E5"> tech giant Amazon</font><font color="#CCCCCC"> could</font><font color="#E5E5E5"> be</font>
+
+6
+00:00:14,519 --> 00:00:17,760
+taking it all away<font color="#CCCCCC"> courtesy a brand new</font>
+
+7
+00:00:17,760 --> 00:00:20,430
+<font color="#E5E5E5">Amazon patent the</font><font color="#CCCCCC"> idea is to create</font>
+
+8
+00:00:20,430 --> 00:00:24,210
+<font color="#E5E5E5">what's called a data marketplace who</font>
+
+9
+00:00:24,210 --> 00:00:24,960
+will take<font color="#CCCCCC"> part</font>
+
+10
+00:00:24,960 --> 00:00:27,300
+well electronic and internet retailers
+
+11
+00:00:27,300 --> 00:00:29,609
+for start<font color="#E5E5E5"> they could combine a shipping</font>
+
+12
+00:00:29,609 --> 00:00:32,098
+address with Bitcoin transaction data
+
+13
+00:00:32,098 --> 00:00:35,160
+then the telecom providers can subscribe
+
+14
+00:00:35,160 --> 00:00:37,710
+<font color="#CCCCCC">to this data stream</font><font color="#E5E5E5"> and correlated</font>
+
+15
+00:00:37,710 --> 00:00:41,460
+between<font color="#CCCCCC"> IP addresses of the transaction</font>
+
+16
+00:00:41,460 --> 00:00:44,460
+<font color="#CCCCCC">two countries of origin but that's not</font>
+
+17
+00:00:44,460 --> 00:00:44,969
+all
+
+18
+00:00:44,969 --> 00:00:47,670
+here come the<font color="#CCCCCC"> government's government</font>
+
+19
+00:00:47,670 --> 00:00:49,250
+agencies may be<font color="#E5E5E5"> able to subscribe</font>
+
+20
+00:00:49,250 --> 00:00:51,870
+downstream and correlate<font color="#CCCCCC"> tax</font><font color="#E5E5E5"> transaction</font>
+
+21
+00:00:51,870 --> 00:00:54,629
+<font color="#CCCCCC">data to help identify transaction</font>
+
+22
+00:00:54,629 --> 00:00:57,270
+participants surely government and law
+
+23
+00:00:57,270 --> 00:00:59,340
+enforcement<font color="#E5E5E5"> agencies would like to</font>
+
+24
+00:00:59,340 --> 00:01:02,070
+<font color="#CCCCCC">subscribe to</font><font color="#E5E5E5"> just such a data stream for</font>
+
+25
+00:01:02,070 --> 00:01:04,229
+example<font color="#CCCCCC"> the police</font><font color="#E5E5E5"> of America's National</font>
+
+26
+00:01:04,229 --> 00:01:07,500
+Security Agency the<font color="#CCCCCC"> NSA</font><font color="#E5E5E5"> would use all</font>
+
+27
+00:01:07,500 --> 00:01:10,680
+that combined data to<font color="#CCCCCC"> identify the final</font>
+
+28
+00:01:10,680 --> 00:01:13,409
+<font color="#E5E5E5">Bitcoin user governments across the</font>
+
+29
+00:01:13,409 --> 00:01:16,110
+<font color="#E5E5E5">globe</font><font color="#CCCCCC"> have been</font><font color="#E5E5E5"> striving to</font><font color="#CCCCCC"> Rhine</font><font color="#E5E5E5"> in on</font>
+
+30
+00:01:16,110 --> 00:01:18,150
+crypto currencies for<font color="#E5E5E5"> quite a while now</font>
+
+31
+00:01:18,150 --> 00:01:20,880
+we want to make<font color="#CCCCCC"> sure</font><font color="#E5E5E5"> that crypto</font>
+
+32
+00:01:20,880 --> 00:01:24,659
+currencies are not used<font color="#CCCCCC"> for bad actors</font>
+
+33
+00:01:24,659 --> 00:01:27,900
+<font color="#E5E5E5">and illicit financing is important it is</font>
+
+34
+00:01:27,900 --> 00:01:29,400
+very important<font color="#E5E5E5"> that these new</font>
+
+35
+00:01:29,400 --> 00:01:31,320
+technologies<font color="#E5E5E5"> don't lead</font><font color="#CCCCCC"> to the</font>
+
+36
+00:01:31,320 --> 00:01:33,270
+<font color="#CCCCCC">appearance of</font><font color="#E5E5E5"> anonymity that might</font>
+
+37
+00:01:33,270 --> 00:01:35,189
+<font color="#CCCCCC">favour the financing of</font><font color="#E5E5E5"> criminal</font>
+
+38
+00:01:35,189 --> 00:01:37,950
+activities<font color="#CCCCCC"> a</font><font color="#E5E5E5"> position</font><font color="#CCCCCC"> the position we</font>
+
+39
+00:01:37,950 --> 00:01:39,360
+defended together with the<font color="#E5E5E5"> German</font>
+
+40
+00:01:39,360 --> 00:01:42,830
+<font color="#E5E5E5">Finance Minister is to regulate Bitcoin</font>
+
+41
+00:01:42,830 --> 00:01:45,260
+but unanimity is not the only crypto
+
+42
+00:01:45,260 --> 00:01:47,300
+feature which is endangered by<font color="#E5E5E5"> Amazon's</font>
+
+43
+00:01:47,300 --> 00:01:49,970
+<font color="#CCCCCC">new patent crypto currencies are</font>
+
+44
+00:01:49,970 --> 00:01:53,420
+decentralized<font color="#CCCCCC"> no central bank no trade</font>
+
+45
+00:01:53,420 --> 00:01:55,940
+market and no way<font color="#E5E5E5"> to predict their</font>
+
+46
+00:01:55,940 --> 00:01:58,370
+dynamic<font color="#E5E5E5"> now a data stream</font><font color="#CCCCCC"> that Amazon is</font>
+
+47
+00:01:58,370 --> 00:02:00,890
+<font color="#E5E5E5">pushing for would create a sort of stock</font>
+
+48
+00:02:00,890 --> 00:02:03,800
+exchange for Bitcoin that would make the
+
+49
+00:02:03,800 --> 00:02:06,050
+crypto market more well predictable
+
+50
+00:02:06,050 --> 00:02:08,869
+pinpoint bearish and bullish trends for
+
+51
+00:02:08,869 --> 00:02:10,759
+example<font color="#E5E5E5"> so who knows maybe that's the</font>
+
+52
+00:02:10,759 --> 00:02:12,770
+good<font color="#E5E5E5"> thing we might be getting here but</font>
+
+53
+00:02:12,770 --> 00:02:15,260
+<font color="#E5E5E5">will anonymity have to be sacrificed for</font>
+
+54
+00:02:15,260 --> 00:02:17,810
+that<font color="#E5E5E5"> and is it the end of a</font>
+
+55
+00:02:17,810 --> 00:02:21,260
+<font color="#CCCCCC">cryptocurrency as we know it I think</font>
+
+56
+00:02:21,260 --> 00:02:24,680
+right now<font color="#E5E5E5"> we are in the era of some</font>
+
+57
+00:02:24,680 --> 00:02:28,850
+massive massive disruption<font color="#E5E5E5"> and in fact I</font>
+
+58
+00:02:28,850 --> 00:02:31,220
+<font color="#CCCCCC">think this</font><font color="#E5E5E5"> this disruption is driven by</font>
+
+59
+00:02:31,220 --> 00:02:33,650
+the people<font color="#E5E5E5"> questioning</font><font color="#CCCCCC"> these large</font>
+
+60
+00:02:33,650 --> 00:02:36,110
+<font color="#E5E5E5">corporations</font><font color="#CCCCCC"> basically stealing</font><font color="#E5E5E5"> our</font>
+
+61
+00:02:36,110 --> 00:02:38,270
+personal<font color="#CCCCCC"> information and the real</font>
+
+62
+00:02:38,270 --> 00:02:40,970
+question<font color="#CCCCCC"> is that who owns these</font>
+
+63
+00:02:40,970 --> 00:02:44,450
+information and whether this<font color="#CCCCCC"> information</font>
+
+64
+00:02:44,450 --> 00:02:46,880
+should<font color="#E5E5E5"> be abused by corporations for</font>
+
+65
+00:02:46,880 --> 00:02:50,450
+their products<font color="#E5E5E5"> so will private</font>
+
+66
+00:02:50,450 --> 00:02:52,940
+enterprises out there buy this type of
+
+67
+00:02:52,940 --> 00:02:56,900
+<font color="#CCCCCC">information to have more segmented kind</font>
+
+68
+00:02:56,900 --> 00:02:59,840
+of marketing program<font color="#CCCCCC"> absolutely this</font>
+
+69
+00:02:59,840 --> 00:03:03,320
+monetary supply of Bitcoin is<font color="#E5E5E5"> not</font>
+
+70
+00:03:03,320 --> 00:03:05,209
+controlled by the<font color="#CCCCCC"> government but</font><font color="#E5E5E5"> it is</font>
+
+71
+00:03:05,209 --> 00:03:07,070
+controlled by the math formula<font color="#E5E5E5"> but I do</font>
+
+72
+00:03:07,070 --> 00:03:09,590
+think<font color="#CCCCCC"> that</font><font color="#E5E5E5"> losing and limiting will be a</font>
+
+73
+00:03:09,590 --> 00:03:14,030
+huge huge loss<font color="#CCCCCC"> but I don't add up</font><font color="#E5E5E5"> people</font>
+
+74
+00:03:14,030 --> 00:03:15,590
+<font color="#E5E5E5">who killed</font><font color="#CCCCCC"> entire cryptocurrency</font>
+
+75
+00:03:15,590 --> 00:00:00,000
+movement<font color="#E5E5E5"> marketing</font>
+

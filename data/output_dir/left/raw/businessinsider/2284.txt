@@ -1,0 +1,516 @@
+1
+00:00:04,480 --> 00:00:07,569
+<font color="#E5E5E5">John you use your guru based investment</font>
+
+2
+00:00:07,569 --> 00:00:09,639
+approach to analyze stocks<font color="#E5E5E5"> how exactly</font>
+
+3
+00:00:09,639 --> 00:00:12,369
+does that<font color="#E5E5E5"> work</font><font color="#CCCCCC"> basically it</font><font color="#E5E5E5"> looks</font><font color="#CCCCCC"> at</font>
+
+4
+00:00:12,369 --> 00:00:15,190
+<font color="#CCCCCC">some 300</font><font color="#E5E5E5"> different variables from</font>
+
+5
+00:00:15,190 --> 00:00:17,650
+earnings to the<font color="#E5E5E5"> financial statements</font><font color="#CCCCCC"> to</font>
+
+6
+00:00:17,650 --> 00:00:20,289
+<font color="#CCCCCC">debt</font><font color="#E5E5E5"> relative</font><font color="#CCCCCC"> strengths of the company</font>
+
+7
+00:00:20,289 --> 00:00:23,770
+and then tries to<font color="#CCCCCC"> emulate the investment</font>
+
+8
+00:00:23,770 --> 00:00:26,380
+masters of last 75 years<font color="#CCCCCC"> in terms</font><font color="#E5E5E5"> of</font>
+
+9
+00:00:26,380 --> 00:00:27,700
+their thought processes in picking a
+
+10
+00:00:27,700 --> 00:00:29,529
+stock so who are these investment
+
+11
+00:00:29,529 --> 00:00:32,380
+masters well one of them obviously<font color="#E5E5E5"> is</font>
+
+12
+00:00:32,380 --> 00:00:34,660
+<font color="#CCCCCC">warren buffett</font><font color="#E5E5E5"> the second is</font><font color="#CCCCCC"> Peter Lynch</font>
+
+13
+00:00:34,660 --> 00:00:37,510
+<font color="#E5E5E5">another is</font><font color="#CCCCCC"> Martha Schweich Benjamin</font>
+
+14
+00:00:37,510 --> 00:00:39,100
+<font color="#E5E5E5">Graham who</font><font color="#CCCCCC"> is actually Buffett's</font>
+
+15
+00:00:39,100 --> 00:00:42,370
+professor<font color="#E5E5E5"> David</font><font color="#CCCCCC"> dremen who's a great</font>
+
+16
+00:00:42,370 --> 00:00:45,460
+contrary and John Neff who's into value
+
+17
+00:00:45,460 --> 00:00:47,170
+and dividend stocks<font color="#E5E5E5"> those are some of</font>
+
+18
+00:00:47,170 --> 00:00:49,570
+them<font color="#CCCCCC"> yes</font><font color="#E5E5E5"> just to focus on one let's just</font>
+
+19
+00:00:49,570 --> 00:00:51,310
+take Buffett for<font color="#CCCCCC"> an</font><font color="#E5E5E5"> example what goes</font>
+
+20
+00:00:51,310 --> 00:00:53,350
+into that<font color="#E5E5E5"> strategy</font><font color="#CCCCCC"> and how has the</font>
+
+21
+00:00:53,350 --> 00:00:55,090
+performance been<font color="#E5E5E5"> say over the last year</font>
+
+22
+00:00:55,090 --> 00:00:57,579
+<font color="#E5E5E5">the performance of the last year has</font>
+
+23
+00:00:57,579 --> 00:00:59,829
+<font color="#CCCCCC">been outstanding</font><font color="#E5E5E5"> the strategy has</font>
+
+24
+00:00:59,829 --> 00:01:01,780
+<font color="#E5E5E5">actually been up 52 percent over the</font>
+
+25
+00:01:01,780 --> 00:01:03,670
+<font color="#E5E5E5">past 12 months which</font><font color="#CCCCCC"> is interesting</font><font color="#E5E5E5"> you</font>
+
+26
+00:01:03,670 --> 00:01:04,869
+compare that<font color="#E5E5E5"> to Berkshire itself</font>
+
+27
+00:01:04,869 --> 00:01:07,450
+Berkshires been up<font color="#E5E5E5"> 34%</font><font color="#CCCCCC"> over the past</font><font color="#E5E5E5"> 12</font>
+
+28
+00:01:07,450 --> 00:01:09,819
+months<font color="#E5E5E5"> how it essentially works the</font>
+
+29
+00:01:09,819 --> 00:01:12,280
+first<font color="#E5E5E5"> thing it looks for is a consistent</font>
+
+30
+00:01:12,280 --> 00:01:13,960
+earnings pattern over a<font color="#CCCCCC"> 10-year period</font>
+
+31
+00:01:13,960 --> 00:01:16,509
+<font color="#E5E5E5">of time and most strategies</font><font color="#CCCCCC"> actually</font>
+
+32
+00:01:16,509 --> 00:01:18,310
+don't look for<font color="#CCCCCC"> 10 years worth of</font>
+
+33
+00:01:18,310 --> 00:01:19,990
+<font color="#CCCCCC">information they go for three or five</font>
+
+34
+00:01:19,990 --> 00:01:22,090
+years but Buffett is unusual<font color="#E5E5E5"> that</font><font color="#CCCCCC"> he</font>
+
+35
+00:01:22,090 --> 00:01:23,979
+wants<font color="#E5E5E5"> 10 years worth of data and the</font>
+
+36
+00:01:23,979 --> 00:01:25,749
+reason he wants<font color="#E5E5E5"> that is to look for</font>
+
+37
+00:01:25,749 --> 00:01:27,880
+earnings predictability<font color="#CCCCCC"> for the future</font>
+
+38
+00:01:27,880 --> 00:01:29,969
+so generally these particular stocks
+
+39
+00:01:29,969 --> 00:01:32,530
+will have steadily<font color="#E5E5E5"> increasing earnings</font>
+
+40
+00:01:32,530 --> 00:01:35,469
+<font color="#E5E5E5">over the</font><font color="#CCCCCC"> 10-year period of time</font><font color="#E5E5E5"> the next</font>
+
+41
+00:01:35,469 --> 00:01:37,179
+thing is a high return<font color="#CCCCCC"> on equity again</font>
+
+42
+00:01:37,179 --> 00:01:40,029
+over a full<font color="#E5E5E5"> 10 year period of time debt</font>
+
+43
+00:01:40,029 --> 00:01:41,679
+to equity is also something that<font color="#E5E5E5"> is</font>
+
+44
+00:01:41,679 --> 00:01:44,259
+looked<font color="#E5E5E5"> at in particular</font><font color="#CCCCCC"> Warren</font><font color="#E5E5E5"> Buffett</font>
+
+45
+00:01:44,259 --> 00:01:46,929
+wants to see stocks where the debt can
+
+46
+00:01:46,929 --> 00:01:49,779
+<font color="#CCCCCC">be repaid</font><font color="#E5E5E5"> in between two to five</font><font color="#CCCCCC"> years</font>
+
+47
+00:01:49,779 --> 00:01:51,729
+<font color="#E5E5E5">from the earnings</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the company right</font>
+
+48
+00:01:51,729 --> 00:01:53,859
+that's an unusual criteria because debt
+
+49
+00:01:53,859 --> 00:01:55,479
+to equity is<font color="#E5E5E5"> the more common</font><font color="#CCCCCC"> criteria</font>
+
+50
+00:01:55,479 --> 00:01:58,270
+<font color="#E5E5E5">but he looks compared to earnings</font><font color="#CCCCCC"> now is</font>
+
+51
+00:01:58,270 --> 00:02:00,249
+there any<font color="#CCCCCC"> overlap with the</font><font color="#E5E5E5"> Buffett model</font>
+
+52
+00:02:00,249 --> 00:02:01,979
+compared to his<font color="#E5E5E5"> actual portfolio</font>
+
+53
+00:02:01,979 --> 00:02:04,749
+<font color="#CCCCCC">actually yes there</font><font color="#E5E5E5"> is in several cases</font>
+
+54
+00:02:04,749 --> 00:02:06,789
+<font color="#E5E5E5">there is Walmart there's Johnson and</font>
+
+55
+00:02:06,789 --> 00:02:07,659
+Johnson
+
+56
+00:02:07,659 --> 00:02:11,319
+um there is Nike<font color="#E5E5E5"> there's Becton</font>
+
+57
+00:02:11,319 --> 00:02:13,000
+Dickinson<font color="#CCCCCC"> so there</font><font color="#E5E5E5"> are</font><font color="#CCCCCC"> actually several</font>
+
+58
+00:02:13,000 --> 00:02:15,040
+overlaps now do you personally have a
+
+59
+00:02:15,040 --> 00:02:17,400
+favorite strategy across<font color="#E5E5E5"> the</font><font color="#CCCCCC"> groovers I</font>
+
+60
+00:02:17,400 --> 00:02:20,049
+actually do not have<font color="#E5E5E5"> a favorite strategy</font>
+
+61
+00:02:20,049 --> 00:02:22,510
+because each strategies are unique in
+
+62
+00:02:22,510 --> 00:02:23,709
+their<font color="#CCCCCC"> own special way</font>
+
+63
+00:02:23,709 --> 00:02:27,700
+<font color="#E5E5E5">Juwan looks for the growth buff ahead of</font>
+
+64
+00:02:27,700 --> 00:02:30,280
+course has<font color="#E5E5E5"> his effect he looks for</font><font color="#CCCCCC"> ten</font>
+
+65
+00:02:30,280 --> 00:02:31,510
+years worth of data<font color="#E5E5E5"> and a</font><font color="#CCCCCC"> lot of other</font>
+
+66
+00:02:31,510 --> 00:02:34,150
+<font color="#CCCCCC">criteria and a particular buy point</font><font color="#E5E5E5"> was</font>
+
+67
+00:02:34,150 --> 00:02:37,150
+<font color="#E5E5E5">also very very valuable</font><font color="#CCCCCC"> the dremen cried</font>
+
+68
+00:02:37,150 --> 00:02:39,549
+<font color="#CCCCCC">Drummond contrarian strategy has also</font>
+
+69
+00:02:39,549 --> 00:02:41,349
+been excellent<font color="#CCCCCC"> for looking at value</font>
+
+70
+00:02:41,349 --> 00:02:42,640
+stocks and finding highly unpopular
+
+71
+00:02:42,640 --> 00:02:44,440
+stocks<font color="#CCCCCC"> they tend to do well</font><font color="#E5E5E5"> so it just</font>
+
+72
+00:02:44,440 --> 00:02:46,150
+<font color="#E5E5E5">depends on your personal appetite for</font>
+
+73
+00:02:46,150 --> 00:02:48,250
+risk and and what you're<font color="#E5E5E5"> looking for it</font>
+
+74
+00:02:48,250 --> 00:02:50,379
+does<font color="#E5E5E5"> but I also actually have a</font><font color="#CCCCCC"> strategy</font>
+
+75
+00:02:50,379 --> 00:02:52,030
+that<font color="#E5E5E5"> blends all the strategies together</font>
+
+76
+00:02:52,030 --> 00:02:54,010
+<font color="#E5E5E5">so you don't have to make up your</font><font color="#CCCCCC"> mind</font>
+
+77
+00:02:54,010 --> 00:02:56,489
+in<font color="#CCCCCC"> terms of which is your favorite</font><font color="#E5E5E5"> you</font>
+
+78
+00:02:56,489 --> 00:02:58,930
+<font color="#CCCCCC">know so what are some</font><font color="#E5E5E5"> of the</font><font color="#CCCCCC"> challenges</font>
+
+79
+00:02:58,930 --> 00:03:00,910
+investors face when trying<font color="#CCCCCC"> to implement</font>
+
+80
+00:03:00,910 --> 00:03:03,609
+these strategies<font color="#E5E5E5"> the hardest challenge</font>
+
+81
+00:03:03,609 --> 00:03:07,060
+is to follow the actual<font color="#E5E5E5"> strategy itself</font>
+
+82
+00:03:07,060 --> 00:03:09,730
+<font color="#E5E5E5">when</font><font color="#CCCCCC"> the strategy</font><font color="#E5E5E5"> recommends buying</font><font color="#CCCCCC"> 10</font>
+
+83
+00:03:09,730 --> 00:03:12,250
+<font color="#CCCCCC">socks</font><font color="#E5E5E5"> at a particular time it's actually</font>
+
+84
+00:03:12,250 --> 00:03:13,959
+<font color="#E5E5E5">pulling the trigger and buying those 10</font>
+
+85
+00:03:13,959 --> 00:03:15,849
+socks in<font color="#E5E5E5"> particular time as well as</font>
+
+86
+00:03:15,849 --> 00:03:17,950
+selling not trying to cherry-pick it and
+
+87
+00:03:17,950 --> 00:03:19,660
+not trying<font color="#E5E5E5"> to</font><font color="#CCCCCC"> be disciplined</font><font color="#E5E5E5"> being</font>
+
+88
+00:03:19,660 --> 00:03:21,160
+disciplined exactly and<font color="#CCCCCC"> being on</font>
+
+89
+00:03:21,160 --> 00:03:22,090
+emotional about it
+
+90
+00:03:22,090 --> 00:03:26,260
+a second really<font color="#E5E5E5"> key thing is to</font><font color="#CCCCCC"> have the</font>
+
+91
+00:03:26,260 --> 00:03:29,230
+the patience and<font color="#CCCCCC"> the belief in the</font>
+
+92
+00:03:29,230 --> 00:03:31,540
+<font color="#CCCCCC">integrity of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> system</font><font color="#E5E5E5"> to stay with it</font>
+
+93
+00:03:31,540 --> 00:03:34,209
+<font color="#CCCCCC">even when</font><font color="#E5E5E5"> the system is out of</font><font color="#CCCCCC"> favor you</font>
+
+94
+00:03:34,209 --> 00:03:36,190
+have to follow strategic methodologies
+
+95
+00:03:36,190 --> 00:03:37,959
+<font color="#E5E5E5">through thick and thin in order to</font>
+
+96
+00:03:37,959 --> 00:03:40,120
+benefit from it and that's<font color="#E5E5E5"> one</font><font color="#CCCCCC"> of the</font>
+
+97
+00:03:40,120 --> 00:03:41,349
+things that the<font color="#CCCCCC"> Masters have</font><font color="#E5E5E5"> done they</font>
+
+98
+00:03:41,349 --> 00:03:43,780
+pretty much<font color="#E5E5E5"> stuck to their particular</font>
+
+99
+00:03:43,780 --> 00:03:46,090
+strategies<font color="#E5E5E5"> not trying to chase whatever</font>
+
+100
+00:03:46,090 --> 00:03:48,220
+<font color="#E5E5E5">the hottest strategy is so the economic</font>
+
+101
+00:03:48,220 --> 00:03:50,260
+environment<font color="#E5E5E5"> has you know changed over</font>
+
+102
+00:03:50,260 --> 00:03:53,019
+the<font color="#CCCCCC"> last couple</font><font color="#E5E5E5"> years over the last you</font>
+
+103
+00:03:53,019 --> 00:03:54,880
+know century<font color="#CCCCCC"> do you think the strategies</font>
+
+104
+00:03:54,880 --> 00:03:56,829
+will continue to work<font color="#E5E5E5"> and is there risk</font>
+
+105
+00:03:56,829 --> 00:03:59,560
+with the<font color="#E5E5E5"> changing environment that these</font>
+
+106
+00:03:59,560 --> 00:04:01,540
+won't<font color="#CCCCCC"> be valid</font><font color="#E5E5E5"> in the years to</font><font color="#CCCCCC"> come</font>
+
+107
+00:04:01,540 --> 00:04:03,130
+actually I'm confident they will
+
+108
+00:04:03,130 --> 00:04:05,139
+continue<font color="#E5E5E5"> to work these strategies were</font>
+
+109
+00:04:05,139 --> 00:04:06,730
+selected because they<font color="#CCCCCC"> were the very</font><font color="#E5E5E5"> best</font>
+
+110
+00:04:06,730 --> 00:04:10,389
+<font color="#E5E5E5">ones over the last 75</font><font color="#CCCCCC"> years where the</font>
+
+111
+00:04:10,389 --> 00:04:12,280
+person<font color="#CCCCCC"> actually disclosed the strategy</font>
+
+112
+00:04:12,280 --> 00:04:13,840
+the medium successful and he had
+
+113
+00:04:13,840 --> 00:04:16,120
+successful track<font color="#CCCCCC"> record and then we've</font>
+
+114
+00:04:16,120 --> 00:04:18,370
+been<font color="#E5E5E5"> actually</font><font color="#CCCCCC"> looking</font><font color="#E5E5E5"> since 2003 the</font>
+
+115
+00:04:18,370 --> 00:04:19,630
+<font color="#CCCCCC">strategy still can</font>
+
+116
+00:04:19,630 --> 00:04:21,010
+continue to work<font color="#E5E5E5"> and dramatically</font>
+
+117
+00:04:21,010 --> 00:04:22,330
+outperform the market<font color="#E5E5E5"> even over that</font>
+
+118
+00:04:22,330 --> 00:04:24,160
+time so I've got a lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> confidence</font><font color="#CCCCCC"> in</font>
+
+119
+00:04:24,160 --> 00:04:27,040
+that<font color="#E5E5E5"> now that said one</font><font color="#CCCCCC"> of the</font><font color="#E5E5E5"> reasons</font>
+
+120
+00:04:27,040 --> 00:04:28,540
+<font color="#E5E5E5">these strategies still continue work is</font>
+
+121
+00:04:28,540 --> 00:04:31,060
+because they don't<font color="#E5E5E5"> always work and what</font>
+
+122
+00:04:31,060 --> 00:04:32,590
+I mean<font color="#CCCCCC"> by that</font><font color="#E5E5E5"> is there will be some</font>
+
+123
+00:04:32,590 --> 00:04:34,860
+<font color="#CCCCCC">years</font><font color="#E5E5E5"> when they fall out</font><font color="#CCCCCC"> of favor</font><font color="#E5E5E5"> and</font>
+
+124
+00:04:34,860 --> 00:04:37,390
+they don't work<font color="#CCCCCC"> and at the</font><font color="#E5E5E5"> end of the</font>
+
+125
+00:04:37,390 --> 00:04:38,860
+year the<font color="#CCCCCC"> investor's was</font><font color="#E5E5E5"> a this can't</font>
+
+126
+00:04:38,860 --> 00:04:40,180
+<font color="#CCCCCC">possibly work</font><font color="#E5E5E5"> anymore</font><font color="#CCCCCC"> and they're</font><font color="#E5E5E5"> on to</font>
+
+127
+00:04:40,180 --> 00:04:42,670
+<font color="#CCCCCC">something else</font><font color="#E5E5E5"> so they're constantly</font>
+
+128
+00:04:42,670 --> 00:04:44,560
+<font color="#E5E5E5">evolving with them constantly evolving</font>
+
+129
+00:04:44,560 --> 00:00:00,000
+constantly<font color="#E5E5E5"> evolving</font>
+

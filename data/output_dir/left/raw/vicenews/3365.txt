@@ -1,0 +1,308 @@
+1
+00:00:04,040 --> 00:00:07,560
+this is<font color="#E5E5E5"> fate Donald Trump wasn't</font>
+
+2
+00:00:07,560 --> 00:00:10,019
+actually in Young Frankenstein<font color="#E5E5E5"> and Steve</font>
+
+3
+00:00:10,019 --> 00:00:12,840
+Buscemi wasn't the star a<font color="#CCCCCC"> basic instinct</font>
+
+4
+00:00:12,840 --> 00:00:15,000
+I'd have to<font color="#E5E5E5"> be</font><font color="#CCCCCC"> pretty stupid</font><font color="#E5E5E5"> to write</font><font color="#CCCCCC"> a</font>
+
+5
+00:00:15,000 --> 00:00:16,109
+book about<font color="#E5E5E5"> killing and then kill</font>
+
+6
+00:00:16,109 --> 00:00:18,090
+somebody the way I described<font color="#E5E5E5"> it my book</font>
+
+7
+00:00:18,090 --> 00:00:20,400
+<font color="#E5E5E5">I'd be announcing myself as the killer</font>
+
+8
+00:00:20,400 --> 00:00:23,100
+<font color="#E5E5E5">but thanks to the open sourced facial</font>
+
+9
+00:00:23,100 --> 00:00:25,769
+replacement app called deep fake<font color="#E5E5E5"> almost</font>
+
+10
+00:00:25,769 --> 00:00:30,869
+anyone can now be in almost<font color="#E5E5E5"> anything</font><font color="#CCCCCC"> you</font>
+
+11
+00:00:30,869 --> 00:00:33,000
+may remember last<font color="#E5E5E5"> December</font><font color="#CCCCCC"> deep fakes</font>
+
+12
+00:00:33,000 --> 00:00:35,219
+burst onto Reddit<font color="#E5E5E5"> in the form of massive</font>
+
+13
+00:00:35,219 --> 00:00:37,260
+amounts of porn with<font color="#CCCCCC"> the female</font>
+
+14
+00:00:37,260 --> 00:00:39,719
+performers faces replaced with the faces
+
+15
+00:00:39,719 --> 00:00:43,079
+<font color="#CCCCCC">of famous actresses</font><font color="#E5E5E5"> read it quickly</font><font color="#CCCCCC"> ban</font>
+
+16
+00:00:43,079 --> 00:00:45,300
+the subreddit<font color="#E5E5E5"> saying it was quote a</font>
+
+17
+00:00:45,300 --> 00:00:47,149
+violation of<font color="#E5E5E5"> our content policy</font>
+
+18
+00:00:47,149 --> 00:00:49,200
+<font color="#E5E5E5">specifically our policy against</font>
+
+19
+00:00:49,200 --> 00:00:53,760
+<font color="#E5E5E5">involuntary pornography but this</font>
+
+20
+00:00:53,760 --> 00:00:55,410
+<font color="#E5E5E5">technology is not just</font><font color="#CCCCCC"> being developed</font>
+
+21
+00:00:55,410 --> 00:00:58,020
+<font color="#CCCCCC">by internet trolls</font><font color="#E5E5E5"> in Vancouver last</font>
+
+22
+00:00:58,020 --> 00:01:00,210
+week the world's most important computer
+
+23
+00:01:00,210 --> 00:01:01,949
+<font color="#E5E5E5">graphics companies and academic</font>
+
+24
+00:01:01,949 --> 00:01:04,890
+<font color="#CCCCCC">institutions</font><font color="#E5E5E5"> gathered at SIGGRAPH to</font>
+
+25
+00:01:04,890 --> 00:01:07,260
+talk<font color="#CCCCCC"> about their craft</font><font color="#E5E5E5"> and deep fix was</font>
+
+26
+00:01:07,260 --> 00:01:10,710
+very much in<font color="#E5E5E5"> the mix so on the left side</font>
+
+27
+00:01:10,710 --> 00:01:14,010
+you see<font color="#CCCCCC"> a source actor that is able to</font>
+
+28
+00:01:14,010 --> 00:01:16,560
+<font color="#E5E5E5">control a virtual avatar of another</font>
+
+29
+00:01:16,560 --> 00:01:19,140
+person<font color="#CCCCCC"> called target actor</font><font color="#E5E5E5"> in this talk</font>
+
+30
+00:01:19,140 --> 00:01:21,630
+this is justice Stiles from<font color="#CCCCCC"> the</font>
+
+31
+00:01:21,630 --> 00:01:24,119
+Technical University of Munich<font color="#CCCCCC"> along</font>
+
+32
+00:01:24,119 --> 00:01:26,070
+with colleagues from Stanford<font color="#E5E5E5"> he is</font>
+
+33
+00:01:26,070 --> 00:01:28,829
+presenting the<font color="#E5E5E5"> first</font><font color="#CCCCCC"> real-time source to</font>
+
+34
+00:01:28,829 --> 00:01:31,470
+target<font color="#E5E5E5"> reenactment approach for human</font>
+
+35
+00:01:31,470 --> 00:01:34,290
+portrait videos<font color="#E5E5E5"> it seems obvious to most</font>
+
+36
+00:01:34,290 --> 00:01:35,790
+that<font color="#E5E5E5"> of this technology progresses</font>
+
+37
+00:01:35,790 --> 00:01:37,920
+<font color="#E5E5E5">further it</font><font color="#CCCCCC"> may be the center of the</font>
+
+38
+00:01:37,920 --> 00:01:40,079
+<font color="#CCCCCC">shitstorm that</font><font color="#E5E5E5"> permanently asurs in the</font>
+
+39
+00:01:40,079 --> 00:01:43,590
+post truth<font color="#E5E5E5"> era moving forward we</font><font color="#CCCCCC"> need to</font>
+
+40
+00:01:43,590 --> 00:01:45,540
+<font color="#E5E5E5">be more vigilant with what we trust from</font>
+
+41
+00:01:45,540 --> 00:01:48,479
+<font color="#CCCCCC">the internet I'm stay wolf bitches</font><font color="#E5E5E5"> the</font>
+
+42
+00:01:48,479 --> 00:01:50,490
+researchers here<font color="#E5E5E5"> don't have an answer</font>
+
+43
+00:01:50,490 --> 00:01:52,530
+for<font color="#E5E5E5"> this problem</font><font color="#CCCCCC"> I'm</font><font color="#E5E5E5"> just wondering</font><font color="#CCCCCC"> like</font>
+
+44
+00:01:52,530 --> 00:01:54,810
+is this<font color="#E5E5E5"> technique sort of available</font><font color="#CCCCCC"> to</font>
+
+45
+00:01:54,810 --> 00:01:56,310
+everyone<font color="#E5E5E5"> and if you could just talk a</font>
+
+46
+00:01:56,310 --> 00:01:58,799
+tiny bit<font color="#E5E5E5"> more about sort of where you</font>
+
+47
+00:01:58,799 --> 00:02:00,240
+see<font color="#E5E5E5"> that going in the sort of ethical</font>
+
+48
+00:02:00,240 --> 00:02:02,310
+<font color="#CCCCCC">implications of the technology as a</font>
+
+49
+00:02:02,310 --> 00:02:05,370
+researcher<font color="#E5E5E5"> we can are we gonna to</font><font color="#CCCCCC"> keep</font>
+
+50
+00:02:05,370 --> 00:02:08,669
+working on to detect such a misuse<font color="#E5E5E5"> and</font>
+
+51
+00:02:08,669 --> 00:02:10,800
+it's<font color="#E5E5E5"> gonna put all the effort</font><font color="#CCCCCC"> to prevent</font>
+
+52
+00:02:10,800 --> 00:02:14,250
+those<font color="#E5E5E5"> misuse yes</font><font color="#CCCCCC"> thanks I don't think</font>
+
+53
+00:02:14,250 --> 00:02:15,600
+there's a good<font color="#CCCCCC"> answer to this in the</font>
+
+54
+00:02:15,600 --> 00:02:18,320
+sense<font color="#CCCCCC"> that as the technology progresses</font>
+
+55
+00:02:18,320 --> 00:02:20,760
+<font color="#CCCCCC">it's becoming harder and harder to</font>
+
+56
+00:02:20,760 --> 00:02:22,710
+detect<font color="#CCCCCC"> but it's becoming harder and</font>
+
+57
+00:02:22,710 --> 00:02:24,990
+<font color="#CCCCCC">harder to detect</font><font color="#E5E5E5"> for humans but as the</font>
+
+58
+00:02:24,990 --> 00:02:26,610
+technology<font color="#CCCCCC"> progress will also have</font>
+
+59
+00:02:26,610 --> 00:02:29,070
+technology called tools to detect what's
+
+60
+00:02:29,070 --> 00:02:31,710
+real and what's fake<font color="#CCCCCC"> that doesn't sound</font>
+
+61
+00:02:31,710 --> 00:02:34,050
+too convincing<font color="#E5E5E5"> and the government thinks</font>
+
+62
+00:02:34,050 --> 00:02:36,510
+this is a problem this year DARPA will
+
+63
+00:02:36,510 --> 00:02:38,220
+spend more than<font color="#E5E5E5"> 28 million dollars</font>
+
+64
+00:02:38,220 --> 00:02:40,320
+developing<font color="#CCCCCC"> a way to detect in debunk</font>
+
+65
+00:02:40,320 --> 00:02:43,200
+<font color="#E5E5E5">fake videos so we're playing a</font>
+
+66
+00:02:43,200 --> 00:02:45,660
+cat-and-mouse game with the taxes be
+
+67
+00:02:45,660 --> 00:02:48,150
+fake generated videos based on the fact
+
+68
+00:02:48,150 --> 00:02:51,180
+that<font color="#E5E5E5"> those faces in the fake videos do</font>
+
+69
+00:02:51,180 --> 00:02:54,900
+<font color="#CCCCCC">not</font><font color="#E5E5E5"> blink</font><font color="#CCCCCC"> as of June our</font><font color="#E5E5E5"> detection</font>
+
+70
+00:02:54,900 --> 00:02:57,480
+accuracy<font color="#E5E5E5"> is 100% the battle is ongoing</font>
+
+71
+00:02:57,480 --> 00:03:01,470
+<font color="#CCCCCC">I'm expecting the quality of the fake</font>
+
+72
+00:03:01,470 --> 00:03:04,110
+<font color="#CCCCCC">video to getting better</font><font color="#E5E5E5"> in the better in</font>
+
+73
+00:03:04,110 --> 00:03:07,470
+a sort of exponential speed<font color="#E5E5E5"> researchers</font>
+
+74
+00:03:07,470 --> 00:03:10,470
+may be able<font color="#CCCCCC"> to</font><font color="#E5E5E5"> detect a fake video but</font>
+
+75
+00:03:10,470 --> 00:03:12,030
+people seeing those videos<font color="#CCCCCC"> on their</font>
+
+76
+00:03:12,030 --> 00:03:15,920
+Facebook feed<font color="#CCCCCC"> could still be fooled</font>
+
+77
+00:03:24,700 --> 00:00:00,000
+<font color="#E5E5E5">you</font>
+

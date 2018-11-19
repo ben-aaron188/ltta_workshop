@@ -1,0 +1,64 @@
+1
+00:00:01,530 --> 00:00:04,840
+this is Apple's new<font color="#CCCCCC"> iPhone 5s it has a</font>
+
+2
+00:00:04,840 --> 00:00:06,490
+special<font color="#CCCCCC"> camera feature that lets</font><font color="#E5E5E5"> you</font>
+
+3
+00:00:06,490 --> 00:00:09,099
+shoot<font color="#CCCCCC"> video at</font><font color="#E5E5E5"> 120 frames</font><font color="#CCCCCC"> per second</font>
+
+4
+00:00:09,099 --> 00:00:11,259
+<font color="#E5E5E5">what does</font><font color="#CCCCCC"> that mean it means slow motion</font>
+
+5
+00:00:11,259 --> 00:00:11,740
+video
+
+6
+00:00:11,740 --> 00:00:15,909
+let's see how it works<font color="#CCCCCC"> a camera</font><font color="#E5E5E5"> swipe</font>
+
+7
+00:00:15,909 --> 00:00:19,840
+over to<font color="#CCCCCC"> slow-mo go like</font><font color="#E5E5E5"> that</font>
+
+8
+00:00:19,840 --> 00:00:26,350
+go now that we've shot our video<font color="#E5E5E5"> we're</font>
+
+9
+00:00:26,350 --> 00:00:28,030
+going<font color="#E5E5E5"> to control which part shows up in</font>
+
+10
+00:00:28,030 --> 00:00:29,980
+slow motion<font color="#CCCCCC"> so when you view</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> video</font>
+
+11
+00:00:29,980 --> 00:00:32,469
+you just<font color="#CCCCCC"> take the slider</font><font color="#E5E5E5"> and scan</font><font color="#CCCCCC"> it</font>
+
+12
+00:00:32,469 --> 00:00:34,030
+along<font color="#CCCCCC"> to which part you want</font><font color="#E5E5E5"> to be in</font>
+
+13
+00:00:34,030 --> 00:00:35,920
+<font color="#CCCCCC">slo-mo and when you're adjusting the</font>
+
+14
+00:00:35,920 --> 00:00:37,780
+video<font color="#CCCCCC"> the parts with the wider gaps in</font>
+
+15
+00:00:37,780 --> 00:00:39,070
+the middle that's the<font color="#E5E5E5"> part</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> will</font>
+
+16
+00:00:39,070 --> 00:00:00,000
+show up in slow motion<font color="#E5E5E5"> and then hit play</font>
+

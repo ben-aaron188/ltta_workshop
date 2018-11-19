@@ -1,0 +1,384 @@
+1
+00:00:00,250 --> 00:00:03,439
+[Music]
+
+2
+00:00:05,990 --> 00:00:09,629
+the<font color="#CCCCCC"> encephalo</font><font color="#E5E5E5"> phone is it's kind of a</font>
+
+3
+00:00:09,629 --> 00:00:12,509
+academic name<font color="#E5E5E5"> really but this is a music</font>
+
+4
+00:00:12,509 --> 00:00:14,820
+<font color="#CCCCCC">based device thinking brain signal and</font>
+
+5
+00:00:14,820 --> 00:00:17,310
+turning<font color="#CCCCCC"> it into</font><font color="#E5E5E5"> music it just</font><font color="#CCCCCC"> literally</font>
+
+6
+00:00:17,310 --> 00:00:20,940
+means brain instrument<font color="#E5E5E5"> another way to</font>
+
+7
+00:00:20,940 --> 00:00:23,070
+explain it would be some music
+
+8
+00:00:23,070 --> 00:00:26,970
+prosthetic<font color="#E5E5E5"> it converts thoughts into</font>
+
+9
+00:00:26,970 --> 00:00:31,830
+music my name is<font color="#E5E5E5"> Thomas</font><font color="#CCCCCC"> tool</font><font color="#E5E5E5"> I'm a</font>
+
+10
+00:00:31,830 --> 00:00:35,010
+neurologist at Swedish hospital<font color="#CCCCCC"> and I am</font>
+
+11
+00:00:35,010 --> 00:00:38,190
+also a<font color="#E5E5E5"> professor in the School of</font><font color="#CCCCCC"> Music</font>
+
+12
+00:00:38,190 --> 00:00:41,010
+at the<font color="#CCCCCC"> University of Washington I was</font>
+
+13
+00:00:41,010 --> 00:00:44,699
+<font color="#CCCCCC">studying brain computer interfaces</font><font color="#E5E5E5"> and I</font>
+
+14
+00:00:44,699 --> 00:00:46,890
+was studying<font color="#E5E5E5"> music and I was studying</font>
+
+15
+00:00:46,890 --> 00:00:49,530
+<font color="#E5E5E5">neural physiology so they just kind of</font>
+
+16
+00:00:49,530 --> 00:00:52,469
+became<font color="#E5E5E5"> a kind of a mad scientist project</font>
+
+17
+00:00:52,469 --> 00:00:54,149
+and started off as an art project<font color="#CCCCCC"> I</font>
+
+18
+00:00:54,149 --> 00:01:34,170
+thought yeah we can completely change
+
+19
+00:01:34,170 --> 00:01:37,469
+<font color="#E5E5E5">the sound envelope of the of the tone so</font>
+
+20
+00:01:37,469 --> 00:01:40,220
+it sounds more<font color="#E5E5E5"> like</font><font color="#CCCCCC"> a human instrument</font>
+
+21
+00:01:40,220 --> 00:01:49,459
+[Music]
+
+22
+00:01:50,680 --> 00:01:53,299
+there's many signals<font color="#E5E5E5"> coming out from</font>
+
+23
+00:01:53,299 --> 00:01:55,070
+many different electrodes but in one
+
+24
+00:01:55,070 --> 00:01:58,610
+area<font color="#E5E5E5"> it's like</font><font color="#CCCCCC"> a resting</font><font color="#E5E5E5"> signal for the</font>
+
+25
+00:01:58,610 --> 00:02:01,820
+motor<font color="#E5E5E5"> cortex we ask people to either</font>
+
+26
+00:02:01,820 --> 00:02:04,280
+relax<font color="#CCCCCC"> where we get the maximum amount of</font>
+
+27
+00:02:04,280 --> 00:02:06,259
+that<font color="#E5E5E5"> signal that's the resting potential</font>
+
+28
+00:02:06,259 --> 00:02:10,280
+<font color="#CCCCCC">or think</font><font color="#E5E5E5"> about moving and then we make a</font>
+
+29
+00:02:10,280 --> 00:02:13,519
+scale from<font color="#E5E5E5"> 1 to</font><font color="#CCCCCC"> 8</font><font color="#E5E5E5"> we chose one</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> eight</font>
+
+30
+00:02:13,519 --> 00:02:15,500
+for a few reasons but the first is just
+
+31
+00:02:15,500 --> 00:02:18,470
+<font color="#E5E5E5">since this is a music based device we</font>
+
+32
+00:02:18,470 --> 00:02:20,840
+wanted to come up<font color="#CCCCCC"> with the notes of a of</font>
+
+33
+00:02:20,840 --> 00:02:24,680
+a scale it was just kind<font color="#CCCCCC"> of an art</font>
+
+34
+00:02:24,680 --> 00:02:27,410
+<font color="#CCCCCC">project</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> then</font><font color="#E5E5E5"> I'm at the same time</font>
+
+35
+00:02:27,410 --> 00:02:29,000
+I'm<font color="#CCCCCC"> working in the hospital and I'm</font>
+
+36
+00:02:29,000 --> 00:02:30,799
+seeing a lot<font color="#CCCCCC"> of these patients who have</font>
+
+37
+00:02:30,799 --> 00:02:33,680
+<font color="#E5E5E5">strokes or they have other motor</font>
+
+38
+00:02:33,680 --> 00:02:36,290
+disability<font color="#E5E5E5"> from other diseases ALS or</font>
+
+39
+00:02:36,290 --> 00:02:38,720
+brain hemorrhages or tumors<font color="#CCCCCC"> I began</font><font color="#E5E5E5"> just</font>
+
+40
+00:02:38,720 --> 00:02:42,980
+to think<font color="#E5E5E5"> I could take this</font><font color="#CCCCCC"> thing I made</font>
+
+41
+00:02:42,980 --> 00:02:44,630
+as an art project<font color="#CCCCCC"> I could use</font><font color="#E5E5E5"> it to</font>
+
+42
+00:02:44,630 --> 00:02:46,760
+<font color="#E5E5E5">restore musical ability to people</font><font color="#CCCCCC"> have</font>
+
+43
+00:02:46,760 --> 00:02:49,540
+lost it<font color="#E5E5E5"> so someone</font><font color="#CCCCCC"> who</font><font color="#E5E5E5"> has severe arm</font>
+
+44
+00:02:49,540 --> 00:02:52,340
+mobility issues for<font color="#CCCCCC"> example we're going</font>
+
+45
+00:02:52,340 --> 00:02:54,019
+<font color="#E5E5E5">to be using</font><font color="#CCCCCC"> the part of their brain that</font>
+
+46
+00:02:54,019 --> 00:02:56,180
+normally controls that arm<font color="#E5E5E5"> we would hope</font>
+
+47
+00:02:56,180 --> 00:02:57,799
+that we'd be able<font color="#E5E5E5"> to actually</font><font color="#CCCCCC"> improve</font>
+
+48
+00:02:57,799 --> 00:02:59,600
+the connectivity<font color="#E5E5E5"> in that part of the</font>
+
+49
+00:02:59,600 --> 00:03:02,510
+<font color="#CCCCCC">brain that's certainly a likely benefit</font>
+
+50
+00:03:02,510 --> 00:03:03,859
+<font color="#E5E5E5">and it's something we would</font><font color="#CCCCCC"> like to</font>
+
+51
+00:03:03,859 --> 00:03:04,459
+<font color="#E5E5E5">study</font>
+
+52
+00:03:04,459 --> 00:03:07,410
+you got your joystick going
+
+53
+00:03:07,410 --> 00:03:08,970
+[Music]
+
+54
+00:03:08,970 --> 00:03:13,390
+<font color="#E5E5E5">I'm doing</font><font color="#CCCCCC"> ok</font><font color="#E5E5E5"> was originally diagnosed in</font>
+
+55
+00:03:13,390 --> 00:03:20,620
+with MS in 2005 I was 35<font color="#E5E5E5"> at this point</font>
+
+56
+00:03:20,620 --> 00:03:25,090
+to<font color="#E5E5E5"> have a</font><font color="#CCCCCC"> widow</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> most simple control</font>
+
+57
+00:03:25,090 --> 00:03:28,660
+of my body below my neck<font color="#E5E5E5"> what Jonathan's</font>
+
+58
+00:03:28,660 --> 00:03:30,730
+part<font color="#E5E5E5"> of here is a clinical trial that</font><font color="#CCCCCC"> we</font>
+
+59
+00:03:30,730 --> 00:03:34,060
+started which<font color="#CCCCCC"> is trying</font><font color="#E5E5E5"> to take the</font><font color="#CCCCCC"> in</font>
+
+60
+00:03:34,060 --> 00:03:35,770
+suppli phone which up<font color="#CCCCCC"> until this point</font>
+
+61
+00:03:35,770 --> 00:03:38,410
+we've<font color="#CCCCCC"> been using with healthy</font>
+
+62
+00:03:38,410 --> 00:03:41,230
+individuals<font color="#E5E5E5"> to see if those</font><font color="#CCCCCC"> people who</font>
+
+63
+00:03:41,230 --> 00:03:42,970
+have motor disability if<font color="#E5E5E5"> they are able</font>
+
+64
+00:03:42,970 --> 00:03:46,150
+<font color="#E5E5E5">to achieve some level</font><font color="#CCCCCC"> of control</font><font color="#E5E5E5"> so this</font>
+
+65
+00:03:46,150 --> 00:03:48,460
+is the signal<font color="#CCCCCC"> that</font><font color="#E5E5E5"> we're reading it's</font>
+
+66
+00:03:48,460 --> 00:03:50,620
+the left side and the<font color="#CCCCCC"> right side it's</font>
+
+67
+00:03:50,620 --> 00:03:52,270
+not gonna be very musical because it's a
+
+68
+00:03:52,270 --> 00:03:54,190
+test<font color="#E5E5E5"> you're gonna hear an organ type</font>
+
+69
+00:03:54,190 --> 00:03:56,590
+sound<font color="#CCCCCC"> that he's trying to match he's the</font>
+
+70
+00:03:56,590 --> 00:03:59,380
+piano all<font color="#E5E5E5"> right here we go</font>
+
+71
+00:03:59,380 --> 00:04:06,069
+[Music]
+
+72
+00:04:06,580 --> 00:04:09,260
+I'm trying to influence<font color="#E5E5E5"> the direction is</font>
+
+73
+00:04:09,260 --> 00:04:12,940
+<font color="#CCCCCC">going is more sort of I'm concentrating</font>
+
+74
+00:04:12,940 --> 00:04:16,389
+so I'm trying to<font color="#E5E5E5"> relax more or trying to</font>
+
+75
+00:04:16,389 --> 00:04:19,639
+<font color="#E5E5E5">move my hand a</font><font color="#CCCCCC"> little</font><font color="#E5E5E5"> bit more to try</font>
+
+76
+00:04:19,639 --> 00:04:22,250
+and make it<font color="#E5E5E5"> go up or down</font><font color="#CCCCCC"> it's kind of</font>
+
+77
+00:04:22,250 --> 00:04:25,870
+<font color="#E5E5E5">the level of control</font><font color="#CCCCCC"> that I have with it</font>
+
+78
+00:04:27,150 --> 00:04:30,419
+so if I think<font color="#E5E5E5"> about relaxing</font><font color="#CCCCCC"> my hair and</font>
+
+79
+00:04:30,419 --> 00:04:34,020
+relaxing my my mind<font color="#E5E5E5"> then the nut will go</font>
+
+80
+00:04:34,020 --> 00:04:34,280
+higher
+
+81
+00:04:34,280 --> 00:04:38,180
+[Music]
+
+82
+00:04:38,180 --> 00:04:39,949
+and there's a<font color="#CCCCCC"> little bit</font><font color="#E5E5E5"> of noise in</font>
+
+83
+00:04:39,949 --> 00:04:42,169
+there so if I start<font color="#CCCCCC"> thinking about lunch</font>
+
+84
+00:04:42,169 --> 00:04:44,330
+or something<font color="#CCCCCC"> like that then I'll notice</font>
+
+85
+00:04:44,330 --> 00:04:47,570
+<font color="#E5E5E5">it'll affect so that was his brain in</font>
+
+86
+00:04:47,570 --> 00:04:50,690
+<font color="#E5E5E5">real-time</font><font color="#CCCCCC"> sauna fied as as a piano</font><font color="#E5E5E5"> so</font>
+
+87
+00:04:50,690 --> 00:04:53,090
+now what we'll do is<font color="#CCCCCC"> we'll allow him</font><font color="#E5E5E5"> to</font>
+
+88
+00:04:53,090 --> 00:04:56,530
+play freely<font color="#CCCCCC"> this is fun but it's also</font>
+
+89
+00:04:56,530 --> 00:04:59,180
+training<font color="#E5E5E5"> because he's learning to</font>
+
+90
+00:04:59,180 --> 00:05:14,030
+<font color="#E5E5E5">control his signal by doing more of it I</font>
+
+91
+00:05:14,030 --> 00:05:18,110
+feel<font color="#CCCCCC"> like I'm</font><font color="#E5E5E5"> getting better my days are</font>
+
+92
+00:05:18,110 --> 00:05:22,060
+often<font color="#E5E5E5"> not so filled with stuff so</font>
+
+93
+00:05:22,060 --> 00:05:25,100
+<font color="#E5E5E5">definitely feels like I'm making the</font>
+
+94
+00:05:25,100 --> 00:05:28,190
+music<font color="#CCCCCC"> thing that's that's</font><font color="#E5E5E5"> pretty magical</font>
+
+95
+00:05:28,190 --> 00:05:36,339
+[Music]
+
+96
+00:05:41,870 --> 00:00:00,000
+you
+

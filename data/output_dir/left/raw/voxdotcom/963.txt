@@ -1,0 +1,436 @@
+1
+00:00:01,220 --> 00:00:03,000
+Imagine it's 1980.
+
+2
+00:00:04,320 --> 00:00:05,640
+Mullets are cool.
+
+3
+00:00:05,960 --> 00:00:08,080
+The Empire Strikes Back is playing in theaters.
+
+4
+00:00:09,300 --> 00:00:14,099
+And International Business
+Machines or IBM is the world's dominant
+
+5
+00:00:14,100 --> 00:00:15,520
+technology firm.
+
+6
+00:00:15,780 --> 00:00:20,120
+It embodies the American
+Dream with a progressive agenda of equal
+
+7
+00:00:20,120 --> 00:00:23,920
+opportunity and prides itself on a
+stable workforce.
+
+8
+00:00:24,800 --> 00:00:25,700
+It's so thrilling to
+
+9
+00:00:25,700 --> 00:00:29,840
+see the new IBM personal system - in the
+hands of an old master.
+
+10
+00:00:30,080 --> 00:00:30,960
+According to this
+
+11
+00:00:30,960 --> 00:00:35,780
+handbook in over 40 years, full-time
+employees haven't been touched by layoffs.
+
+12
+00:00:36,620 --> 00:00:39,860
+People are a treasured resource
+and are treated like one.
+
+13
+00:00:41,800 --> 00:00:43,400
+Fast forward to the present.
+
+14
+00:00:43,400 --> 00:00:46,399
+ProPublica estimates IBM has eliminated
+
+15
+00:00:46,399 --> 00:00:51,640
+20,000 American employees age 40 and
+over in just the past five years.
+
+16
+00:00:52,140 --> 00:00:56,320
+That's about 60 percent of its estimated US job
+cuts during that time.
+
+17
+00:00:56,780 --> 00:00:58,260
+How did IBM go
+
+18
+00:00:58,260 --> 00:01:02,800
+from valuing its older workforce to
+systematically getting rid of them?
+
+19
+00:01:25,680 --> 00:01:26,880
+Through the '80s,
+
+20
+00:01:26,880 --> 00:01:29,620
+technology started shifting rapidly.
+
+21
+00:01:29,620 --> 00:01:34,140
+Among other things, Apple
+introduced the first Macintosh and took
+
+22
+00:01:34,140 --> 00:01:36,140
+a direct shot at IBM.
+
+23
+00:01:36,140 --> 00:01:40,340
+It appears IBM
+wants it all.
+
+24
+00:01:40,340 --> 00:01:42,780
+By the early 2000's IBM fell
+
+25
+00:01:42,780 --> 00:01:47,500
+further as new rivals like Google,
+Facebook, and Amazon took the lead.
+
+26
+00:01:48,660 --> 00:01:53,480
+In our world the speed and tempo of modern
+living are increasing at an
+
+27
+00:01:53,490 --> 00:01:54,780
+ever-accelerating rate.
+
+28
+00:01:54,780 --> 00:01:58,500
+And as it slipped,
+IBM had to deal with something most of
+
+29
+00:01:58,500 --> 00:02:04,140
+these competitors didn't have: a large
+number of experienced and aging
+
+30
+00:02:04,140 --> 00:02:05,340
+employees.
+
+31
+00:02:05,720 --> 00:02:08,360
+They reacted to new setbacks
+with layoffs
+
+32
+00:02:08,360 --> 00:02:10,660
+and many of them were older workers.
+
+33
+00:02:10,800 --> 00:02:15,120
+ProPublica heard from over 1,400 former IBM employees.
+
+34
+00:02:37,020 --> 00:02:38,380
+Here's what we know.
+
+35
+00:02:38,420 --> 00:02:41,300
+In making staff cuts, IBM has side-stepped
+
+36
+00:02:41,300 --> 00:02:46,220
+US laws and regulations intended to
+protect workers from age discrimination.
+
+37
+00:02:46,720 --> 00:02:51,620
+In the past, they would get two lists
+from IBM. One that had ages of people
+
+38
+00:02:51,620 --> 00:02:55,120
+staying and another with ages of those
+being let go.
+
+39
+00:02:55,800 --> 00:02:57,180
+In 2014
+
+40
+00:02:57,180 --> 00:02:59,580
+IBM stopped giving that information.
+
+41
+00:02:59,580 --> 00:03:02,790
+On top of that, the company required people
+
+42
+00:03:02,790 --> 00:03:07,320
+to sign away their rights to sue for age
+discrimination in court, in exchange for
+
+43
+00:03:07,320 --> 00:03:08,540
+their severance packages.
+
+44
+00:03:08,540 --> 00:03:12,390
+By signing the
+documents, laid-off employees waived the
+
+45
+00:03:12,390 --> 00:03:13,660
+right to go to court.
+
+46
+00:03:13,660 --> 00:03:16,290
+They could only
+pursue their age cases through
+
+47
+00:03:16,290 --> 00:03:17,780
+confidential arbitration.
+
+48
+00:03:17,780 --> 00:03:21,120
+They also have
+to do it solo, so they couldn't combine
+
+49
+00:03:21,120 --> 00:03:25,100
+forces with other workers who may be
+claiming similar age discrimination.
+
+50
+00:03:25,500 --> 00:03:29,020
+Studies show arbitration overwhelmingly
+favors employers.
+
+51
+00:03:29,020 --> 00:03:30,500
+Workers win only
+
+52
+00:03:30,510 --> 00:03:35,160
+19% of the time, when their
+cases are arbitrated versus 36%
+
+53
+00:03:35,160 --> 00:03:39,900
+of the time when they go to
+federal court and 57% in state courts.
+
+54
+00:03:39,900 --> 00:03:44,370
+IBM has also laid off and fired
+some older workers with review
+
+55
+00:03:44,370 --> 00:03:48,140
+techniques that effectively made their
+age a disadvantage.
+
+56
+00:03:48,140 --> 00:03:49,410
+Take the case of one
+
+57
+00:03:49,410 --> 00:03:53,200
+business unit that was using a point
+system to evaluate workers.
+
+58
+00:03:53,620 --> 00:03:54,200
+The more
+
+59
+00:03:54,210 --> 00:03:58,080
+points a person got, the more protected
+they were from negative changes to
+
+60
+00:03:58,080 --> 00:03:58,740
+employment.
+
+61
+00:03:59,340 --> 00:04:02,120
+But the system itself
+appeared biased.
+
+62
+00:04:02,120 --> 00:04:03,060
+Employees were given
+
+63
+00:04:03,060 --> 00:04:07,860
+points for being relatively new at a job
+level, so those who worked there fewer
+
+64
+00:04:07,860 --> 00:04:10,950
+years earned more points than long time
+IBMers.
+
+65
+00:04:10,950 --> 00:04:15,540
+The bias against older workers is
+evident when you compare the number of
+
+66
+00:04:15,540 --> 00:04:17,200
+points to years of service.
+
+67
+00:04:17,200 --> 00:04:20,339
+Those with no
+points worked there an average of more
+
+68
+00:04:20,339 --> 00:04:21,539
+than thirty years.
+
+69
+00:04:21,980 --> 00:04:25,080
+Those with higher
+points average fifteen years.
+
+70
+00:04:25,080 --> 00:04:27,800
+But the numbers don't
+reflect worker skills.
+
+71
+00:04:27,800 --> 00:04:29,860
+80% of older, more
+
+72
+00:04:29,860 --> 00:04:35,080
+long-term employees, the ones with lower
+points, were rated by the company itself
+
+73
+00:04:35,080 --> 00:04:39,760
+as "good enough to stay at current job
+levels or be promoted",
+
+74
+00:04:39,760 --> 00:04:41,259
+while only a small
+
+75
+00:04:41,259 --> 00:04:45,460
+percentage of younger employees with
+high numbers had similar ratings.
+
+76
+00:04:45,460 --> 00:04:50,919
+They've also converted many layoffs into
+retirements, forcing ex-employees to
+
+77
+00:04:50,919 --> 00:04:54,581
+accept a retirement package or leave
+with no benefits.
+
+78
+00:04:54,581 --> 00:04:55,870
+They've told remote
+
+79
+00:04:55,870 --> 00:05:00,820
+workers, including older ones who had
+worked from home for years, to relocate
+
+80
+00:05:00,820 --> 00:05:04,940
+to offices potentially thousands of
+miles away from their homes.
+
+81
+00:05:04,940 --> 00:05:09,660
+Their options were relocate or resign.
+
+82
+00:05:09,660 --> 00:05:11,860
+In response to all of these findings IBM
+
+83
+00:05:11,860 --> 00:05:16,270
+has said "we are proud of our company and
+our employees ability to reinvent
+
+84
+00:05:16,270 --> 00:05:20,040
+themselves era after era while always
+complying with the law."
+
+85
+00:05:20,580 --> 00:05:21,400
+The problem is
+
+86
+00:05:21,400 --> 00:05:24,800
+protection for workers under the law is
+eroding.
+
+87
+00:05:24,800 --> 00:05:26,860
+In the past few decades, rulings
+
+88
+00:05:26,860 --> 00:05:31,240
+in age discrimination cases have said
+former employees must prove that there
+
+89
+00:05:31,240 --> 00:05:35,860
+were no factors other than age involved
+in their job changes, but companies like
+
+90
+00:05:35,860 --> 00:05:38,620
+IBM have made it near impossible to
+prove that.
+
+91
+00:05:39,060 --> 00:05:41,520
+With nearly 400,000 employees
+
+92
+00:05:41,530 --> 00:05:44,820
+worldwide, IBM is still a tech giant.
+
+93
+00:05:44,820 --> 00:05:47,500
+And how it handles its older workforce could
+
+94
+00:05:47,500 --> 00:05:51,220
+encourage other companies to follow suit,
+even though a lot of these companies
+
+95
+00:05:51,220 --> 00:05:53,520
+have a younger workforce now.
+
+96
+00:05:53,520 --> 00:00:00,000
+Here's the thing about aging: it happens to everyone
+

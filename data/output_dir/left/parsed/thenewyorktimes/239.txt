@@ -1,0 +1,145 @@
+Most people know that Facebook
+has information about them.
+We submit things like
+our names, our hometowns,
+our ages, our birthdays
+and our interests,
+and we assume that Facebook
+is collecting that data.
+But Facebook has much
+more data on most people
+than they realize.
+Facebook can take all
+the data that you submit
+and combine it with
+data from other users
+and outside information to
+construct a profile of you.
+Facebook uses nearly
+100 different data points
+to classify your
+interests and activities.
+This would include basic stuff
+like your age and gender,
+but also more
+complicated information
+like whether you
+own a motorcycle
+or you recently went on
+vacation or whether you’re
+a gadget geek.
+Researchers have found
+that by using signals
+such as your likes
+and interactions,
+Facebook could tell if
+you were in a relationship
+or going through a breakup.
+Facebook doesn’t just 
+know who you are.
+It also knows
+where you are.
+If you have location tracking
+turned on, Facebook
+collects an enormous
+amount of location data
+about where you’re going, 
+where you came from,
+where you live,
+where you work,
+what restaurants and
+businesses you tend to go to.
+And they use this information
+to target ads at you.
+And location data could
+reveal other people who
+live in your house,
+even if you’re not
+connected to them
+on Facebook.
+Now obviously,
+Facebook knows what
+its users buy when they
+click on ads from Facebook.
+But what most
+people don’t realize
+is that they have
+ways of tracking
+your offline 
+purchases as well.
+For many years, Facebook 
+has had partnerships
+with data brokers that
+collected information
+about people’s purchases.
+So for example, if you buy a
+burrito with your credit card,
+Facebook could know 
+about that transaction,
+match it with a credit card
+that you’ve added
+to Facebook or 
+Facebook Messenger,
+and start showing you ads
+for indigestion medicine.
+One of the most controversial
+parts of Facebook data collection
+is a feature called
+“People You May Know.”
+And this is where Facebook
+uses many different signals
+of what it knows about you
+to determine who
+else you might be connected to.
+And this is not always things
+that you share with Facebook.
+It might be contacts
+in your phone.
+It might be people who have
+been in the same room as you.
+Facebook was using location
+data to recommend friends.
+So it might have
+been recommending
+people who share
+a doctor with you
+or work in the same building.
+Facebook can also be
+used to compile data
+about your political activity
+like protests or marches you go to.
+In one case in 2016,
+the A.C.L.U. found
+that 500 police organizations
+had signed up
+for a service called
+Geofeedia, which scraped
+data from social networks
+like Facebook, Twitter
+and Instagram to help
+officers look for users who
+might be in a specific location
+or attending a specific protest.
+For example, Geofeedia
+claimed it helped
+the Baltimore Police Department
+monitor and respond
+to the protests after
+the death of Freddie Gray.
+Facebook doesn’t just know
+who you are, where you are
+and what you buy.
+It also can be used to figure
+out what kinds of things
+you might do in the future.
+To predict life outcomes,
+like whether you will be
+addicted to substances,
+whether you will switch
+political parties,
+whether you’re physically healthy
+or physically unhealthy.
+These are all part of the
+information that advertisers
+love to know because it helps
+them better target users.

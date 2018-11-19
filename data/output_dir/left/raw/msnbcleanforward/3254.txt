@@ -1,0 +1,428 @@
+1
+00:00:02,640 --> 00:00:05,720
+[Music]
+
+2
+00:00:06,950 --> 00:00:08,969
+welcome back everybody<font color="#E5E5E5"> joining us from</font>
+
+3
+00:00:08,969 --> 00:00:10,889
+Washington<font color="#CCCCCC"> with</font><font color="#E5E5E5"> a look at Axios a and</font>
+
+4
+00:00:10,889 --> 00:00:12,990
+the co-founder<font color="#CCCCCC"> of Axios</font><font color="#E5E5E5"> Mike</font><font color="#CCCCCC"> Allen Mike</font>
+
+5
+00:00:12,990 --> 00:00:15,179
+good<font color="#CCCCCC"> morning to you</font><font color="#E5E5E5"> talk to us about</font>
+
+6
+00:00:15,179 --> 00:00:16,860
+access<font color="#E5E5E5"> as one big</font><font color="#CCCCCC"> thing today</font>
+
+7
+00:00:16,860 --> 00:00:19,770
+well happy Monday and the<font color="#CCCCCC"> Axios one big</font>
+
+8
+00:00:19,770 --> 00:00:23,099
+thing is the<font color="#E5E5E5"> greatest growing threat to</font>
+
+9
+00:00:23,099 --> 00:00:25,980
+America and that's China<font color="#E5E5E5"> which has very</font>
+
+10
+00:00:25,980 --> 00:00:30,419
+specific plans for<font color="#CCCCCC"> 2025 for 2050</font><font color="#E5E5E5"> to be</font>
+
+11
+00:00:30,419 --> 00:00:32,549
+the<font color="#E5E5E5"> dominant economic and national</font>
+
+12
+00:00:32,549 --> 00:00:35,730
+security<font color="#E5E5E5"> superpower in the world and</font>
+
+13
+00:00:35,730 --> 00:00:38,610
+<font color="#E5E5E5">between their scale their size their</font>
+
+14
+00:00:38,610 --> 00:00:41,520
+population<font color="#E5E5E5"> and the fact</font><font color="#CCCCCC"> that they can</font>
+
+15
+00:00:41,520 --> 00:00:44,130
+coerce their population<font color="#E5E5E5"> they're acting</font>
+
+16
+00:00:44,130 --> 00:00:47,340
+on this<font color="#E5E5E5"> with infrastructure plans on</font>
+
+17
+00:00:47,340 --> 00:00:49,440
+<font color="#E5E5E5">continents around the world the belt and</font>
+
+18
+00:00:49,440 --> 00:00:52,620
+<font color="#CCCCCC">road</font><font color="#E5E5E5"> initiative and plans to eat our</font>
+
+19
+00:00:52,620 --> 00:00:55,470
+lunch on<font color="#E5E5E5"> AI and the other technologies</font>
+
+20
+00:00:55,470 --> 00:00:58,860
+of the future<font color="#CCCCCC"> let me ask you about what</font>
+
+21
+00:00:58,860 --> 00:01:01,230
+if any<font color="#E5E5E5"> plans this president Trump have</font>
+
+22
+00:01:01,230 --> 00:01:04,379
+to try in combat<font color="#E5E5E5"> China strategies to</font>
+
+23
+00:01:04,379 --> 00:01:06,090
+displace the United States on top of the
+
+24
+00:01:06,090 --> 00:01:07,770
+economic<font color="#CCCCCC"> world</font><font color="#E5E5E5"> and possibly</font><font color="#CCCCCC"> even at one</font>
+
+25
+00:01:07,770 --> 00:01:10,020
+<font color="#CCCCCC">point the military well president</font><font color="#E5E5E5"> Trump</font>
+
+26
+00:01:10,020 --> 00:01:12,510
+is<font color="#E5E5E5"> getting up about now he might well be</font>
+
+27
+00:01:12,510 --> 00:01:16,560
+watching<font color="#CCCCCC"> us</font><font color="#E5E5E5"> and he's</font><font color="#CCCCCC"> making his 20-25</font>
+
+28
+00:01:16,560 --> 00:01:20,430
+<font color="#E5E5E5">2015 today the United States in general</font>
+
+29
+00:01:20,430 --> 00:01:22,620
+and this might have some particular<font color="#E5E5E5"> very</font>
+
+30
+00:01:22,620 --> 00:01:24,840
+<font color="#E5E5E5">short term planning which is what leaves</font>
+
+31
+00:01:24,840 --> 00:01:28,260
+this huge<font color="#E5E5E5"> opening for China</font><font color="#CCCCCC"> so for a</font>
+
+32
+00:01:28,260 --> 00:01:30,180
+<font color="#CCCCCC">politician who's coming along</font><font color="#E5E5E5"> either</font>
+
+33
+00:01:30,180 --> 00:01:32,670
+party<font color="#E5E5E5"> president Trump</font><font color="#CCCCCC"> has showed</font><font color="#E5E5E5"> that</font>
+
+34
+00:01:32,670 --> 00:01:36,690
+China can<font color="#CCCCCC"> be</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> unifying</font><font color="#E5E5E5"> bull villain on</font>
+
+35
+00:01:36,690 --> 00:01:39,780
+trade<font color="#E5E5E5"> but</font><font color="#CCCCCC"> a smart politician could make</font>
+
+36
+00:01:39,780 --> 00:01:42,720
+China the unifying villain across all
+
+37
+00:01:42,720 --> 00:01:45,299
+the topics<font color="#E5E5E5"> the matter looking ahead</font>
+
+38
+00:01:45,299 --> 00:01:47,729
+<font color="#E5E5E5">getting people to act on infrastructure</font>
+
+39
+00:01:47,729 --> 00:01:51,119
+on immigration on<font color="#CCCCCC"> 5g and on next</font>
+
+40
+00:01:51,119 --> 00:01:53,220
+<font color="#CCCCCC">generation education I think one of the</font>
+
+41
+00:01:53,220 --> 00:01:54,689
+most<font color="#CCCCCC"> interesting things that</font><font color="#E5E5E5"> Mike in</font>
+
+42
+00:01:54,689 --> 00:01:57,180
+your note was was the title the numbers
+
+43
+00:01:57,180 --> 00:02:00,479
+don't<font color="#E5E5E5"> lie really showing how fast</font><font color="#CCCCCC"> China</font>
+
+44
+00:02:00,479 --> 00:02:03,000
+is<font color="#E5E5E5"> growing with respect to United States</font>
+
+45
+00:02:03,000 --> 00:02:04,200
+can you talk to us<font color="#CCCCCC"> a little</font><font color="#E5E5E5"> bit</font><font color="#CCCCCC"> about</font>
+
+46
+00:02:04,200 --> 00:02:06,299
+those<font color="#CCCCCC"> numbers yeah this piece just</font>
+
+47
+00:02:06,299 --> 00:02:09,360
+<font color="#E5E5E5">popped up on Axios comments by</font><font color="#CCCCCC"> Axios CEO</font>
+
+48
+00:02:09,360 --> 00:02:11,939
+Jim VandeHei and what we're seeing is
+
+49
+00:02:11,939 --> 00:02:14,430
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> China is on track to eclipse</font><font color="#CCCCCC"> the</font>
+
+50
+00:02:14,430 --> 00:02:17,489
+<font color="#CCCCCC">United</font><font color="#E5E5E5"> States in the size of the economy</font>
+
+51
+00:02:17,489 --> 00:02:18,630
+<font color="#E5E5E5">with</font>
+
+52
+00:02:18,630 --> 00:02:21,090
+with money<font color="#E5E5E5"> and riches</font><font color="#CCCCCC"> come power of</font>
+
+53
+00:02:21,090 --> 00:02:24,600
+course<font color="#E5E5E5"> but we're also seeing growth and</font>
+
+54
+00:02:24,600 --> 00:02:27,600
+investment in the technologies that<font color="#E5E5E5"> are</font>
+
+55
+00:02:27,600 --> 00:02:29,490
+<font color="#CCCCCC">going</font><font color="#E5E5E5"> to shape the future so already</font>
+
+56
+00:02:29,490 --> 00:02:32,580
+we've seen<font color="#E5E5E5"> China moving ahead of the US</font>
+
+57
+00:02:32,580 --> 00:02:34,920
+and<font color="#CCCCCC"> some</font><font color="#E5E5E5"> of the AI technologies and</font>
+
+58
+00:02:34,920 --> 00:02:38,250
+they're ambitious<font color="#E5E5E5"> about going ahead with</font>
+
+59
+00:02:38,250 --> 00:02:40,260
+other technologies whether<font color="#E5E5E5"> it's</font>
+
+60
+00:02:40,260 --> 00:02:42,480
+autonomous cars<font color="#CCCCCC"> or any of the</font>
+
+61
+00:02:42,480 --> 00:02:44,520
+technologies that we think of as the
+
+62
+00:02:44,520 --> 00:02:48,030
+future<font color="#E5E5E5"> China is investing and has a very</font>
+
+63
+00:02:48,030 --> 00:02:50,400
+specific plan<font color="#CCCCCC"> to corner those basic</font>
+
+64
+00:02:50,400 --> 00:02:53,130
+technologies by 2050<font color="#CCCCCC"> I just want to</font>
+
+65
+00:02:53,130 --> 00:02:54,210
+quickly read<font color="#E5E5E5"> these numbers China</font>
+
+66
+00:02:54,210 --> 00:02:56,640
+controlled<font color="#CCCCCC"> 4% of the</font><font color="#E5E5E5"> global economy back</font>
+
+67
+00:02:56,640 --> 00:02:58,950
+in 2000<font color="#E5E5E5"> and the u.s. controlled 31%</font>
+
+68
+00:02:58,950 --> 00:03:02,790
+<font color="#E5E5E5">today China has</font><font color="#CCCCCC"> 15% in</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> u.s. 24%</font>
+
+69
+00:03:02,790 --> 00:03:05,130
+<font color="#E5E5E5">let's switch gears for a moment let's</font>
+
+70
+00:03:05,130 --> 00:03:06,810
+say I want to<font color="#CCCCCC"> bring it I want to ask you</font>
+
+71
+00:03:06,810 --> 00:03:07,890
+<font color="#CCCCCC">actually if you don't mind</font><font color="#E5E5E5"> about Paul</font>
+
+72
+00:03:07,890 --> 00:03:09,330
+Ryan for<font color="#E5E5E5"> a moment because yeah you</font><font color="#CCCCCC"> have</font>
+
+73
+00:03:09,330 --> 00:03:10,590
+<font color="#E5E5E5">some new reporting on the likelihood</font>
+
+74
+00:03:10,590 --> 00:03:12,120
+<font color="#CCCCCC">that Paul Ryan could be replaced that</font>
+
+75
+00:03:12,120 --> 00:03:14,610
+<font color="#E5E5E5">Speaker of the</font><font color="#CCCCCC"> House before</font><font color="#E5E5E5"> he actually</font>
+
+76
+00:03:14,610 --> 00:03:16,410
+<font color="#E5E5E5">steps down at the end of the year when</font>
+
+77
+00:03:16,410 --> 00:03:17,850
+his term is up<font color="#E5E5E5"> what are your sources</font>
+
+78
+00:03:17,850 --> 00:03:20,160
+<font color="#CCCCCC">telling you yeah we've seen speaker Ryan</font>
+
+79
+00:03:20,160 --> 00:03:23,190
+lose a series of battles<font color="#CCCCCC"> anytime</font><font color="#E5E5E5"> the</font>
+
+80
+00:03:23,190 --> 00:03:25,110
+<font color="#CCCCCC">Year a lame duck you're weaker when</font>
+
+81
+00:03:25,110 --> 00:03:27,030
+speaker Ryan announced<font color="#E5E5E5"> that he would not</font>
+
+82
+00:03:27,030 --> 00:03:30,270
+be<font color="#E5E5E5"> returning his allies saw that coming</font>
+
+83
+00:03:30,270 --> 00:03:32,100
+<font color="#E5E5E5">now we're seeing the possibility of</font>
+
+84
+00:03:32,100 --> 00:03:35,340
+moderate Republicans joining<font color="#E5E5E5"> with</font>
+
+85
+00:03:35,340 --> 00:03:39,320
+Democrats<font color="#E5E5E5"> to force a vote on the dreamer</font>
+
+86
+00:03:39,320 --> 00:03:42,870
+<font color="#E5E5E5">legislation</font><font color="#CCCCCC"> a daca</font><font color="#E5E5E5"> if that happens there</font>
+
+87
+00:03:42,870 --> 00:03:44,190
+could be<font color="#CCCCCC"> I guess we could call it a</font>
+
+88
+00:03:44,190 --> 00:03:46,710
+counter or revolt<font color="#E5E5E5"> another revolt by the</font>
+
+89
+00:03:46,710 --> 00:03:48,720
+most conservative<font color="#CCCCCC"> members of the</font>
+
+90
+00:03:48,720 --> 00:03:51,330
+<font color="#CCCCCC">Republican caucus the freedom caucus</font><font color="#E5E5E5"> and</font>
+
+91
+00:03:51,330 --> 00:03:53,850
+that's<font color="#E5E5E5"> exactly how John Boehner lost his</font>
+
+92
+00:03:53,850 --> 00:03:56,010
+grip<font color="#E5E5E5"> on power</font><font color="#CCCCCC"> all right of course you</font>
+
+93
+00:03:56,010 --> 00:03:57,209
+<font color="#E5E5E5">can read all the numbers that he</font><font color="#CCCCCC"> has</font>
+
+94
+00:03:57,209 --> 00:03:59,040
+been there was citing<font color="#E5E5E5"> my count thank you</font>
+
+95
+00:03:59,040 --> 00:04:00,209
+very much and as I was<font color="#E5E5E5"> saying</font><font color="#CCCCCC"> you can</font>
+
+96
+00:04:00,209 --> 00:04:01,709
+read<font color="#E5E5E5"> all those details in the new</font><font color="#CCCCCC"> acts</font>
+
+97
+00:04:01,709 --> 00:04:03,390
+<font color="#CCCCCC">Asin</font><font color="#E5E5E5"> that's coming out in just a</font><font color="#CCCCCC"> little</font>
+
+98
+00:04:03,390 --> 00:04:05,670
+<font color="#CCCCCC">bit to all of our viewers out</font><font color="#E5E5E5"> there make</font>
+
+99
+00:04:05,670 --> 00:04:06,900
+sure<font color="#E5E5E5"> to sign up</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> that newsletter at</font>
+
+100
+00:04:06,900 --> 00:04:07,740
+<font color="#E5E5E5">access</font><font color="#CCCCCC"> com</font>
+
+101
+00:04:07,740 --> 00:04:09,240
+hey there I'm<font color="#E5E5E5"> Chris Hayes from MSNBC</font>
+
+102
+00:04:09,240 --> 00:04:11,820
+thanks for watching MSNBC<font color="#E5E5E5"> on youtube if</font>
+
+103
+00:04:11,820 --> 00:04:12,959
+you<font color="#CCCCCC"> want to keep up to date with the</font>
+
+104
+00:04:12,959 --> 00:04:14,220
+videos we're putting out you can<font color="#E5E5E5"> click</font>
+
+105
+00:04:14,220 --> 00:04:16,500
+<font color="#CCCCCC">subscribe just</font><font color="#E5E5E5"> below me</font><font color="#CCCCCC"> or click over</font><font color="#E5E5E5"> on</font>
+
+106
+00:04:16,500 --> 00:04:18,180
+<font color="#E5E5E5">this list to see lots of other great</font>
+
+107
+00:04:18,180 --> 00:00:00,000
+videos
+

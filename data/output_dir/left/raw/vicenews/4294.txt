@@ -1,0 +1,540 @@
+1
+00:00:00,589 --> 00:00:03,360
+the<font color="#E5E5E5"> singularity is the theoretical</font><font color="#CCCCCC"> day</font>
+
+2
+00:00:03,360 --> 00:00:05,430
+that artificial intelligence<font color="#CCCCCC"> advances</font>
+
+3
+00:00:05,430 --> 00:00:08,039
+beyond human understanding<font color="#E5E5E5"> and begins to</font>
+
+4
+00:00:08,039 --> 00:00:09,540
+change the<font color="#CCCCCC"> villa's ation in ways we</font>
+
+5
+00:00:09,540 --> 00:00:12,030
+can't<font color="#E5E5E5"> conceive of many fears of</font>
+
+6
+00:00:12,030 --> 00:00:15,839
+singularity<font color="#E5E5E5"> needs one try the grip not</font>
+
+7
+00:00:15,839 --> 00:00:18,210
+pinned<font color="#CCCCCC"> Arvin Armen</font><font color="#E5E5E5"> he's doing</font><font color="#CCCCCC"> his small</font>
+
+8
+00:00:18,210 --> 00:00:19,859
+part to<font color="#E5E5E5"> make it</font><font color="#CCCCCC"> happen by teaching</font>
+
+9
+00:00:19,859 --> 00:00:22,470
+robots<font color="#CCCCCC"> to make art he's writing</font><font color="#E5E5E5"> code</font>
+
+10
+00:00:22,470 --> 00:00:24,300
+that<font color="#E5E5E5"> nobody's seen before and thinks his</font>
+
+11
+00:00:24,300 --> 00:00:25,650
+machines are<font color="#CCCCCC"> on the precipice</font><font color="#E5E5E5"> of</font>
+
+12
+00:00:25,650 --> 00:00:28,320
+creative autonomy<font color="#CCCCCC"> here's a de</font><font color="#E5E5E5"> Kooning in</font>
+
+13
+00:00:28,320 --> 00:00:29,910
+this<font color="#E5E5E5"> one</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> Styles like just as</font>
+
+14
+00:00:29,910 --> 00:00:31,590
+interesting<font color="#E5E5E5"> Wow</font>
+
+15
+00:00:31,590 --> 00:00:35,040
+I'd like that<font color="#CCCCCC"> looks cool</font><font color="#E5E5E5"> and here is</font>
+
+16
+00:00:35,040 --> 00:00:39,510
+<font color="#E5E5E5">gonna come a little darker but transfer</font>
+
+17
+00:00:39,510 --> 00:00:41,340
+<font color="#CCCCCC">gear and</font><font color="#E5E5E5"> salaries like</font><font color="#CCCCCC"> human suffering</font>
+
+18
+00:00:41,340 --> 00:00:48,030
+on my face Pindar is a computer<font color="#E5E5E5"> security</font>
+
+19
+00:00:48,030 --> 00:00:50,070
+contractor in Northern Virginia<font color="#CCCCCC"> but</font><font color="#E5E5E5"> for</font>
+
+20
+00:00:50,070 --> 00:00:52,020
+the last 12 years<font color="#CCCCCC"> he's been making robot</font>
+
+21
+00:00:52,020 --> 00:00:55,079
+artists on the side these portraits<font color="#E5E5E5"> are</font>
+
+22
+00:00:55,079 --> 00:00:56,760
+made by<font color="#E5E5E5"> sending the computer to images</font>
+
+23
+00:00:56,760 --> 00:00:58,500
+and running an algorithm<font color="#E5E5E5"> called style</font>
+
+24
+00:00:58,500 --> 00:01:00,899
+transfer it takes content<font color="#E5E5E5"> and style from</font>
+
+25
+00:01:00,899 --> 00:01:03,600
+<font color="#E5E5E5">one and applies it</font><font color="#CCCCCC"> to the</font><font color="#E5E5E5"> other</font><font color="#CCCCCC"> here's</font>
+
+26
+00:01:03,600 --> 00:01:07,799
+<font color="#CCCCCC">us Marilyn</font><font color="#E5E5E5"> Monroe so it doesn't quite</font>
+
+27
+00:01:07,799 --> 00:01:09,960
+capture what Andy Warhol is doing though
+
+28
+00:01:09,960 --> 00:01:11,340
+right because<font color="#E5E5E5"> like instead</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> just</font>
+
+29
+00:01:11,340 --> 00:01:13,020
+<font color="#CCCCCC">making my hair blonde it gives me like</font>
+
+30
+00:01:13,020 --> 00:01:16,680
+<font color="#E5E5E5">Marilyn hair</font><font color="#CCCCCC"> so how would it</font><font color="#E5E5E5"> have to</font>
+
+31
+00:01:16,680 --> 00:01:18,750
+<font color="#CCCCCC">progress to make it more in the</font><font color="#E5E5E5"> style of</font>
+
+32
+00:01:18,750 --> 00:01:20,759
+Warhol yeah it<font color="#E5E5E5"> doesn't it doesn't really</font>
+
+33
+00:01:20,759 --> 00:01:22,500
+<font color="#E5E5E5">kept your context right</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> so style</font>
+
+34
+00:01:22,500 --> 00:01:24,840
+transfer does amazing things<font color="#E5E5E5"> a lot of</font>
+
+35
+00:01:24,840 --> 00:01:26,490
+data scientists are<font color="#E5E5E5"> trying to make this</font>
+
+36
+00:01:26,490 --> 00:01:28,259
+even<font color="#E5E5E5"> better including myself we're</font>
+
+37
+00:01:28,259 --> 00:01:30,180
+trying to find a way to add the context
+
+38
+00:01:30,180 --> 00:01:32,880
+we just don't know how yet<font color="#CCCCCC"> the hardware</font>
+
+39
+00:01:32,880 --> 00:01:34,740
+<font color="#E5E5E5">is pretty basic</font><font color="#CCCCCC"> the robots can be built</font>
+
+40
+00:01:34,740 --> 00:01:36,869
+<font color="#E5E5E5">for just a few hundred</font><font color="#CCCCCC"> dollars is the</font><font color="#E5E5E5"> a</font>
+
+41
+00:01:36,869 --> 00:01:39,750
+I work in the special sauce is his
+
+42
+00:01:39,750 --> 00:01:41,430
+software program a decade in the<font color="#CCCCCC"> making</font>
+
+43
+00:01:41,430 --> 00:01:44,009
+<font color="#CCCCCC">called cloud</font><font color="#E5E5E5"> painter like a human</font>
+
+44
+00:01:44,009 --> 00:01:45,780
+<font color="#CCCCCC">artists cloud painter remember</font><font color="#E5E5E5"> this past</font>
+
+45
+00:01:45,780 --> 00:01:47,670
+work<font color="#CCCCCC"> and can try to</font><font color="#E5E5E5"> improve it and</font><font color="#CCCCCC"> it's</font>
+
+46
+00:01:47,670 --> 00:01:50,159
+style evolved over time and<font color="#E5E5E5"> the robots</font>
+
+47
+00:01:50,159 --> 00:01:51,930
+can<font color="#E5E5E5"> see what they're</font><font color="#CCCCCC"> doing because</font><font color="#E5E5E5"> they</font>
+
+48
+00:01:51,930 --> 00:01:53,430
+use cameras to<font color="#CCCCCC"> watch their work in</font>
+
+49
+00:01:53,430 --> 00:01:55,979
+progress and make adjustments<font color="#CCCCCC"> I want</font>
+
+50
+00:01:55,979 --> 00:01:57,210
+them to<font color="#CCCCCC"> always watch what</font><font color="#E5E5E5"> they're</font>
+
+51
+00:01:57,210 --> 00:01:58,530
+painting<font color="#E5E5E5"> is that's when they make the</font>
+
+52
+00:01:58,530 --> 00:02:00,299
+really<font color="#E5E5E5"> good decision</font><font color="#CCCCCC"> to do the robots</font>
+
+53
+00:02:00,299 --> 00:02:02,310
+ever create something that<font color="#E5E5E5"> falls in the</font>
+
+54
+00:02:02,310 --> 00:02:04,530
+uncanny<font color="#E5E5E5"> valley where it's kind of creepy</font>
+
+55
+00:02:04,530 --> 00:02:06,070
+I've been at eggs
+
+56
+00:02:06,070 --> 00:02:07,870
+we're fellow<font color="#E5E5E5"> artists has come</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> like I</font>
+
+57
+00:02:07,870 --> 00:02:08,800
+<font color="#CCCCCC">don't know whether</font><font color="#E5E5E5"> to be really</font>
+
+58
+00:02:08,800 --> 00:02:10,780
+<font color="#E5E5E5">impressed with this</font><font color="#CCCCCC"> or really disgusted</font>
+
+59
+00:02:10,780 --> 00:02:13,270
+<font color="#E5E5E5">with</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> and so it's</font><font color="#CCCCCC"> an the</font><font color="#E5E5E5"> uncanny</font><font color="#CCCCCC"> value</font>
+
+60
+00:02:13,270 --> 00:02:17,140
+that I am trying to replicate human
+
+61
+00:02:17,140 --> 00:02:19,570
+<font color="#E5E5E5">creativity</font><font color="#CCCCCC"> it does make some people</font>
+
+62
+00:02:19,570 --> 00:02:20,760
+<font color="#E5E5E5">uneasy</font>
+
+63
+00:02:20,760 --> 00:02:22,870
+<font color="#E5E5E5">Pindar can tell the robot to paint</font>
+
+64
+00:02:22,870 --> 00:02:24,310
+whoever walks in front of the robots
+
+65
+00:02:24,310 --> 00:02:26,680
+camera<font color="#E5E5E5"> or</font><font color="#CCCCCC"> it can</font><font color="#E5E5E5"> program it to paint</font>
+
+66
+00:02:26,680 --> 00:02:28,060
+something<font color="#E5E5E5"> based on what's turning</font><font color="#CCCCCC"> in</font>
+
+67
+00:02:28,060 --> 00:02:28,930
+Google<font color="#E5E5E5"> moon</font>
+
+68
+00:02:28,930 --> 00:02:30,640
+but that still essentially means
+
+69
+00:02:30,640 --> 00:02:32,800
+Pindar's the<font color="#E5E5E5"> artist and the robot is his</font>
+
+70
+00:02:32,800 --> 00:02:36,610
+<font color="#CCCCCC">medium can</font><font color="#E5E5E5"> a robot</font><font color="#CCCCCC"> be creative</font><font color="#E5E5E5"> yeah it</font>
+
+71
+00:02:36,610 --> 00:02:38,170
+definitely can be<font color="#E5E5E5"> creative but it's like</font>
+
+72
+00:02:38,170 --> 00:02:40,450
+a question<font color="#CCCCCC"> of like what level of</font>
+
+73
+00:02:40,450 --> 00:02:42,250
+creativity<font color="#E5E5E5"> like I think my robots and</font>
+
+74
+00:02:42,250 --> 00:02:44,320
+they make portraits<font color="#CCCCCC"> they make all the</font>
+
+75
+00:02:44,320 --> 00:02:46,510
+same creative decisions I make<font color="#E5E5E5"> it's</font>
+
+76
+00:02:46,510 --> 00:02:48,700
+actually<font color="#CCCCCC"> making decisions about what to</font>
+
+77
+00:02:48,700 --> 00:02:51,190
+<font color="#E5E5E5">do</font><font color="#CCCCCC"> yeah I have some paintings that</font><font color="#E5E5E5"> I</font>
+
+78
+00:02:51,190 --> 00:02:52,930
+don't<font color="#E5E5E5"> make a single decision all I do is</font>
+
+79
+00:02:52,930 --> 00:02:54,790
+turn the robot<font color="#E5E5E5"> on and say paint the next</font>
+
+80
+00:02:54,790 --> 00:02:56,260
+person that<font color="#E5E5E5"> walks</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> front of the camera</font>
+
+81
+00:02:56,260 --> 00:02:58,900
+<font color="#E5E5E5">so there is a way a robot can use an</font>
+
+82
+00:02:58,900 --> 00:03:00,310
+evolutionary approach<font color="#E5E5E5"> to develop an</font>
+
+83
+00:03:00,310 --> 00:03:01,900
+algorithm<font color="#E5E5E5"> it</font><font color="#CCCCCC"> can randomly select all</font>
+
+84
+00:03:01,900 --> 00:03:03,910
+these algorithms<font color="#E5E5E5"> paint a bunch of</font><font color="#CCCCCC"> Brunch</font>
+
+85
+00:03:03,910 --> 00:03:06,610
+<font color="#E5E5E5">strokes randomly on</font><font color="#CCCCCC"> ten different</font>
+
+86
+00:03:06,610 --> 00:03:08,920
+<font color="#CCCCCC">canvases throw them up</font><font color="#E5E5E5"> for sale on</font><font color="#CCCCCC"> eBay</font>
+
+87
+00:03:08,920 --> 00:03:11,260
+whichever one sells the highest it tries
+
+88
+00:03:11,260 --> 00:03:13,060
+to<font color="#E5E5E5"> paint a</font><font color="#CCCCCC"> little more like</font><font color="#E5E5E5"> that do you</font>
+
+89
+00:03:13,060 --> 00:03:16,390
+think<font color="#CCCCCC"> your robot has started</font><font color="#E5E5E5"> making</font><font color="#CCCCCC"> more</font>
+
+90
+00:03:16,390 --> 00:03:19,330
+beautiful paintings<font color="#E5E5E5"> over time</font><font color="#CCCCCC"> beauty is</font>
+
+91
+00:03:19,330 --> 00:03:22,000
+measured by how interesting is
+
+92
+00:03:22,000 --> 00:03:23,799
+definitely much more<font color="#E5E5E5"> beautiful but</font>
+
+93
+00:03:23,799 --> 00:03:25,720
+aesthetically the aesthetics are going
+
+94
+00:03:25,720 --> 00:03:27,970
+in an unsure direction<font color="#CCCCCC"> because I just</font>
+
+95
+00:03:27,970 --> 00:03:29,739
+wanted to make<font color="#CCCCCC"> a beautiful</font><font color="#E5E5E5"> painting</font><font color="#CCCCCC"> I</font>
+
+96
+00:03:29,739 --> 00:03:32,110
+could I could use a printer and print it
+
+97
+00:03:32,110 --> 00:03:34,299
+out and<font color="#E5E5E5"> be perfect and so I'm going away</font>
+
+98
+00:03:34,299 --> 00:03:35,980
+<font color="#E5E5E5">from</font><font color="#CCCCCC"> that I'm trying</font><font color="#E5E5E5"> to get more</font>
+
+99
+00:03:35,980 --> 00:03:39,220
+interpretation more serendipity<font color="#CCCCCC"> Kim</font>
+
+100
+00:03:39,220 --> 00:03:40,959
+<font color="#CCCCCC">Goldberg is an artist and professor of</font>
+
+101
+00:03:40,959 --> 00:03:42,730
+<font color="#E5E5E5">engineering who runs the robotics lab</font><font color="#CCCCCC"> at</font>
+
+102
+00:03:42,730 --> 00:03:45,100
+<font color="#E5E5E5">UC Berkeley we showed them how Pindar's</font>
+
+103
+00:03:45,100 --> 00:03:47,410
+robots work<font color="#E5E5E5"> world lights will do</font>
+
+104
+00:03:47,410 --> 00:03:49,870
+unexpected<font color="#E5E5E5"> things</font><font color="#CCCCCC"> all the</font><font color="#E5E5E5"> time</font><font color="#CCCCCC"> the fact</font>
+
+105
+00:03:49,870 --> 00:03:50,829
+that<font color="#E5E5E5"> it does something a little bit</font>
+
+106
+00:03:50,829 --> 00:03:52,420
+<font color="#E5E5E5">surprising doesn't mean and it's</font>
+
+107
+00:03:52,420 --> 00:03:55,870
+creative<font color="#E5E5E5"> it's saying it's the nature of</font>
+
+108
+00:03:55,870 --> 00:03:58,720
+<font color="#E5E5E5">most</font><font color="#CCCCCC"> machines I that bill don't do</font>
+
+109
+00:03:58,720 --> 00:04:00,610
+<font color="#E5E5E5">things you don't</font><font color="#CCCCCC"> expect as soon as you</font>
+
+110
+00:04:00,610 --> 00:04:03,400
+inject any kind<font color="#E5E5E5"> of randomness into</font><font color="#CCCCCC"> a</font>
+
+111
+00:04:03,400 --> 00:04:05,530
+program you get behavior that you may
+
+112
+00:04:05,530 --> 00:04:07,810
+not predict<font color="#E5E5E5"> and this is essential to a</font>
+
+113
+00:04:07,810 --> 00:04:11,470
+lot<font color="#E5E5E5"> of the deep</font><font color="#CCCCCC"> learning</font><font color="#E5E5E5"> or AI methods</font>
+
+114
+00:04:11,470 --> 00:04:13,930
+being able to show where this
+
+115
+00:04:13,930 --> 00:04:15,790
+<font color="#E5E5E5">uncertainty is arising is very</font>
+
+116
+00:04:15,790 --> 00:04:17,589
+interesting conceptually<font color="#CCCCCC"> but I want</font><font color="#E5E5E5"> to</font>
+
+117
+00:04:17,589 --> 00:04:18,760
+make a distinction between<font color="#E5E5E5"> that</font><font color="#CCCCCC"> and</font>
+
+118
+00:04:18,760 --> 00:04:20,738
+saying<font color="#E5E5E5"> well the robot is now being</font>
+
+119
+00:04:20,738 --> 00:04:24,730
+creative<font color="#CCCCCC"> I think when people see a great</font>
+
+120
+00:04:24,730 --> 00:04:28,150
+work of<font color="#E5E5E5"> art one reason they relate</font><font color="#CCCCCC"> to it</font>
+
+121
+00:04:28,150 --> 00:04:29,770
+is<font color="#E5E5E5"> because you</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> all this great</font>
+
+122
+00:04:29,770 --> 00:04:31,930
+artists<font color="#E5E5E5"> have the same emotion as me</font><font color="#CCCCCC"> so</font>
+
+123
+00:04:31,930 --> 00:04:35,800
+how could a robot create that yeah I
+
+124
+00:04:35,800 --> 00:04:39,430
+<font color="#E5E5E5">don't know obviously</font><font color="#CCCCCC"> a robot won't</font><font color="#E5E5E5"> be</font>
+
+125
+00:04:39,430 --> 00:04:41,740
+able<font color="#E5E5E5"> to make emotional artwork until it</font>
+
+126
+00:04:41,740 --> 00:04:44,320
+is emotional<font color="#CCCCCC"> but that doesn't mean that</font>
+
+127
+00:04:44,320 --> 00:04:45,910
+<font color="#E5E5E5">when we look at</font><font color="#CCCCCC"> a piece of</font><font color="#E5E5E5"> artwork we</font>
+
+128
+00:04:45,910 --> 00:04:47,950
+can't get emotions from it<font color="#E5E5E5"> so you know</font>
+
+129
+00:04:47,950 --> 00:04:50,440
+every so often<font color="#CCCCCC"> my robot I'll paint</font><font color="#E5E5E5"> a</font>
+
+130
+00:04:50,440 --> 00:04:51,850
+picture that<font color="#CCCCCC"> looks like</font><font color="#E5E5E5"> a sad person</font>
+
+131
+00:04:51,850 --> 00:04:54,190
+that might make me<font color="#CCCCCC"> feel sad</font><font color="#E5E5E5"> through what</font>
+
+132
+00:04:54,190 --> 00:04:56,050
+was obviously not<font color="#E5E5E5"> sad when I made it but</font>
+
+133
+00:04:56,050 --> 00:04:57,640
+it didn't stop<font color="#CCCCCC"> me from</font><font color="#E5E5E5"> having that</font>
+
+134
+00:04:57,640 --> 00:05:00,270
+emotional<font color="#CCCCCC"> reaction</font>
+
+135
+00:05:00,340 --> 00:00:00,000
+[Music]
+

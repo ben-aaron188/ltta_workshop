@@ -1,0 +1,653 @@
+1
+00:00:00,780 --> 00:00:05,859
+A decade ago, robots still seemed pretty limited.
+
+2
+00:00:05,859 --> 00:00:09,990
+Now, not so much.
+
+3
+00:00:09,990 --> 00:00:13,450
+And computers don’t just win chess any more,
+they can win Jeopardy.
+
+4
+00:00:13,450 --> 00:00:14,450
+“Watson.”
+
+5
+00:00:14,450 --> 00:00:16,580
+“What is the of the Elegance of the Hedgehog?”
+
+6
+00:00:16,580 --> 00:00:17,580
+They can win Go.
+
+7
+00:00:17,580 --> 00:00:21,430
+“There are about 200 possible moves for
+the average position in Go.”
+
+8
+00:00:21,430 --> 00:00:22,810
+This is all happening really fast.
+
+9
+00:00:22,810 --> 00:00:27,910
+And it’s causing some to forecast a future
+where humans can’t find work.
+
+10
+00:00:27,910 --> 00:00:31,160
+“There will be fewer and fewer jobs that
+a robot cannot do better.”
+
+11
+00:00:31,160 --> 00:00:32,829
+“And what are the people gonna do?”
+
+12
+00:00:32,829 --> 00:00:34,550
+“That’s the $64,000 question.”
+
+13
+00:00:34,550 --> 00:00:38,800
+I believe this is going to be one of the biggest
+challenges we face in the coming decades.
+
+14
+00:00:38,800 --> 00:00:40,699
+“People who are not just unemployed.
+
+15
+00:00:40,699 --> 00:00:42,539
+They are unemployable.”
+
+16
+00:00:42,539 --> 00:00:47,059
+But if you ask economists, they tend to have
+a pretty different view from the futurists
+
+17
+00:00:47,059 --> 00:00:48,800
+and Silicon Valley types.
+
+18
+00:00:48,800 --> 00:00:54,059
+Do you worry that new technologies could cause
+mass unemployment?
+
+19
+00:00:54,060 --> 00:00:54,560
+Yes. No.
+
+20
+00:01:03,580 --> 00:01:10,299
+I have devoted my career to worrying about
+the labor market, particularly worrying about
+
+21
+00:01:10,299 --> 00:01:13,020
+the living standards of low and moderate income
+workers.
+
+22
+00:01:13,020 --> 00:01:14,670
+So I worry a lot about things.
+
+23
+00:01:14,670 --> 00:01:16,940
+I am not worried about this.
+
+24
+00:01:18,390 --> 00:01:22,940
+One of the reasons a lot of economists are
+skeptical about robots taking all the jobs
+
+25
+00:01:22,950 --> 00:01:24,610
+is that we’ve heard that before.
+
+26
+00:01:24,610 --> 00:01:29,799
+There was a spike of automation anxiety in
+the late 20s, early 1930s when machines
+
+27
+00:01:29,799 --> 00:01:33,520
+were starting to take over jobs on farms and
+also in factories.
+
+28
+00:01:33,520 --> 00:01:37,390
+This article from 1928 points out that there
+used to be guards who opened and closed the
+
+29
+00:01:37,390 --> 00:01:42,070
+doors on new york subway trains, and people
+who took tickets before there were turnstiles.
+
+30
+00:01:42,070 --> 00:01:46,649
+And I just love this quote: It says “building
+materials are mixed like dough in a machine
+
+31
+00:01:46,649 --> 00:01:52,130
+and literally poured into place without the
+touch of a human hand.”
+
+32
+00:01:52,130 --> 00:01:56,799
+Automation anxiety surged again in the late
+1950s, early 1960s.
+
+33
+00:01:56,799 --> 00:02:00,409
+President Kennedy ranks automation first as
+job challenge.
+
+34
+00:02:00,409 --> 00:02:05,929
+“Computers and automation threaten to create
+vast unemployment and social unrest”
+
+35
+00:02:05,929 --> 00:02:07,400
+“What should I do Mr. Whipple?”
+
+36
+00:02:07,420 --> 00:02:08,820
+“Stop him!”
+
+37
+00:02:11,520 --> 00:02:18,260
+This article from 1958 is about 17,000 longshoremen
+who were protesting automation on the piers.
+
+38
+00:02:18,260 --> 00:02:22,340
+And if you don't know what longshoremen are,
+that’s because there aren’t many of them left.
+
+39
+00:02:22,340 --> 00:02:25,020
+Technology destroyed a lot of those jobs.
+
+40
+00:02:26,240 --> 00:02:29,260
+And yet, we didn’t run out of work.
+
+41
+00:02:29,260 --> 00:02:33,290
+This chart shows the percentage of prime-age
+people with jobs in the US.
+
+42
+00:02:33,290 --> 00:02:38,100
+Ever since women joined the workforce in big
+numbers, it’s stayed around 80%, outside
+
+43
+00:02:38,100 --> 00:02:39,230
+of recessions.
+
+44
+00:02:39,230 --> 00:02:45,159
+During this period, technology displaced some
+8 million farmers in the US, 7 million factory
+
+45
+00:02:45,159 --> 00:02:49,690
+workers, over a million railroad workers,
+hundreds of thousands of telephone  operators,
+
+46
+00:02:49,690 --> 00:02:53,960
+we’ve lost gas-pumpers, elevator attendants,
+travel agents.
+
+47
+00:02:53,960 --> 00:02:57,420
+Tons of jobs have died but work persists.
+
+48
+00:02:59,580 --> 00:03:02,670
+What you realize when you look through those
+old reports is that it’s really easy for
+
+49
+00:03:02,670 --> 00:03:05,670
+us to see the jobs being replaced by machines.
+
+50
+00:03:05,670 --> 00:03:10,939
+It’s a bit harder to visualize the jobs
+that come from what happens next.
+
+51
+00:03:10,939 --> 00:03:13,379
+New technology creates jobs in a few ways.
+
+52
+00:03:13,379 --> 00:03:17,330
+There are the direct jobs for people who design
+and maintain the technology, and sometimes
+
+53
+00:03:17,330 --> 00:03:19,590
+whole new industries built on the technology.
+
+54
+00:03:19,590 --> 00:03:24,689
+But the part we tend to forget is the indirect
+effect of labor-saving inventions.
+
+55
+00:03:24,689 --> 00:03:29,439
+When companies can do more with less, they
+can expand, maybe add new products or open
+
+56
+00:03:29,439 --> 00:03:33,370
+new locations, and they can lower prices to
+compete.
+
+57
+00:03:33,370 --> 00:03:37,760
+And that means consumers can buy more of their
+product, or if we don’t want any more of
+
+58
+00:03:37,760 --> 00:03:40,930
+it, we can use the savings to buy other things.
+
+59
+00:03:40,930 --> 00:03:43,829
+Maybe we go to more sports events or out to
+dinner more often.
+
+60
+00:03:43,829 --> 00:03:47,019
+Maybe we get more haircuts or add more day-care
+for the kids.
+
+61
+00:03:47,019 --> 00:03:51,470
+This process is how our standard of living
+has improved over time and it’s always required
+
+62
+00:03:51,470 --> 00:03:52,470
+workers.
+
+63
+00:03:52,470 --> 00:03:59,299
+The key economic logic here is automation
+does indeed displace workers who are doing
+
+64
+00:03:59,299 --> 00:04:05,689
+work that got automated, but it doesn't actually
+affect the total number of jobs in the economy
+
+65
+00:04:05,689 --> 00:04:08,489
+because of these offsetting effects.
+
+66
+00:04:08,489 --> 00:04:12,370
+Warnings about the “end of work” tend
+to focus on this part and not all of this
+
+67
+00:04:12,370 --> 00:04:17,930
+-- like a widely cited study from 2013,
+“According to research conducted by Oxford
+
+68
+00:04:17,930 --> 00:04:22,389
+University, nearly half of all current jobs
+in America --” “47 percent of all our
+
+69
+00:04:22,389 --> 00:04:27,509
+jobs--” “47 percent of US jobs in the
+next decade or two, according to researchers
+
+70
+00:04:27,509 --> 00:04:30,580
+at Oxford, will be replaced by robots.”
+
+71
+00:04:30,580 --> 00:04:33,710
+That study assessed the capabilities of automation
+technology.
+
+72
+00:04:33,710 --> 00:04:38,080
+It didn’t attempt to estimate the actual
+“extent or pace” of automation or the
+
+73
+00:04:38,080 --> 00:04:39,890
+overall effect on employment.
+
+74
+00:04:39,890 --> 00:04:43,220
+Now, all this doesn’t mean that the new
+jobs will show up right away or that they’ll
+
+75
+00:04:43,220 --> 00:04:47,300
+be located in the same place or pay the same
+wage as the ones that were lost.
+
+76
+00:04:47,300 --> 00:04:51,020
+All it means is that the overall need for
+human work hasn’t gone away.
+
+77
+00:04:54,020 --> 00:04:58,030
+Technologists and futurists don’t deny that’s
+been true historically, but they question
+
+78
+00:04:58,030 --> 00:05:01,000
+whether history is a good guide of what’s
+to come.
+
+79
+00:05:01,020 --> 00:05:04,280
+Fundamentally the argument is that this time
+it’s different.
+
+80
+00:05:04,289 --> 00:05:05,660
+That’s what I think.
+
+81
+00:05:05,660 --> 00:05:08,430
+Imagine a form of electricity that could automate
+all the routine work.
+
+82
+00:05:08,430 --> 00:05:10,220
+I mean, that’s basically what we are talking
+about here.
+
+83
+00:05:10,220 --> 00:05:12,780
+And so It’s going to be across the board.
+
+84
+00:05:12,780 --> 00:05:16,370
+And it is easy to underestimate technology
+these days.
+
+85
+00:05:16,370 --> 00:05:21,060
+In a 2004 book, two economists  assessed
+the future of automation and concluded that
+
+86
+00:05:21,060 --> 00:05:27,020
+tasks like driving in traffic would be “enormously
+difficult” to teach to a computer.
+
+87
+00:05:27,020 --> 00:05:32,250
+That same year, a review of 50 years of research
+concluded that “human level speech recognition
+
+88
+00:05:32,250 --> 00:05:34,900
+has proved to be an elusive goal.”
+
+89
+00:05:35,000 --> 00:05:36,000
+And now?
+
+90
+00:05:36,120 --> 00:05:37,380
+“Ok Google.
+
+91
+00:05:37,560 --> 00:05:41,160
+How many miles has google’s autonomous vehicle
+driven?”
+
+92
+00:05:43,040 --> 00:05:47,000
+“According to Recode, that’s because the
+company announced its self-driving car project,
+
+93
+00:05:47,000 --> 00:05:52,360
+which was created in 2009, has racked up over
+two million miles of driving experience.”
+
+94
+00:05:52,360 --> 00:05:56,190
+This is the textbook chart of advancement
+in computer hardware — it’s the number
+
+95
+00:05:56,190 --> 00:06:01,330
+of transistors that engineers have squeezed
+onto a computer chip over time.
+
+96
+00:06:01,330 --> 00:06:05,349
+Already pretty impressive, but notice that
+this isn’t a typical scale: these numbers
+
+97
+00:06:05,349 --> 00:06:07,990
+are increasing exponentially.
+
+98
+00:06:07,990 --> 00:06:10,610
+On a typical linear scale it would look more
+like this.
+
+99
+00:06:10,610 --> 00:06:15,800
+It really is hard to imagine this not being
+massively disruptive.
+
+100
+00:06:15,800 --> 00:06:20,440
+And as the authors of The Second Machine Age
+point out, processors aren’t the only dimension
+
+101
+00:06:20,440 --> 00:06:23,330
+of computing that has seen exponential improvement.
+
+102
+00:06:23,330 --> 00:06:25,569
+The idea of acceleration in your daily life
+
+103
+00:06:25,569 --> 00:06:26,569
+when do you encounter that?
+
+104
+00:06:26,569 --> 00:06:28,810
+Maybe in a car for a few seconds?
+
+105
+00:06:28,810 --> 00:06:32,110
+In an airplane for seconds again?
+
+106
+00:06:32,110 --> 00:06:37,610
+The idea that something can accelerate for
+decades literally just continuously is just
+
+107
+00:06:37,610 --> 00:06:38,639
+not something that we deal with.
+
+108
+00:06:38,639 --> 00:06:40,270
+I mean, we think in straight lines.
+
+109
+00:06:40,270 --> 00:06:44,470
+But even though there’s been all this innovation,
+it’s not showing up in the data.
+
+110
+00:06:44,470 --> 00:06:48,710
+If we were seeing this big increase in automation
+we would see productivity growing much more
+
+111
+00:06:48,710 --> 00:06:53,650
+rapidly now than it usually does, and we are
+instead seeing the opposite.
+
+112
+00:06:53,650 --> 00:06:57,949
+Labor productivity is a measure of the goods
+and services we produce divided by the hours
+
+113
+00:06:57,949 --> 00:06:59,250
+that we work.
+
+114
+00:06:59,250 --> 00:07:01,940
+Over time it goes up - we do more with less
+labor.
+
+115
+00:07:01,940 --> 00:07:03,970
+We’re more efficient.
+
+116
+00:07:03,970 --> 00:07:08,100
+If we were starting to see a ton of labor-saving
+innovation you’d expect this line to get
+
+117
+00:07:08,100 --> 00:07:12,210
+steeper, but when you look at productivity
+growth, you can see that it has been slowing
+
+118
+00:07:12,210 --> 00:07:16,210
+down since the early 2000s, and not just for
+the US.
+
+119
+00:07:16,210 --> 00:07:21,560
+It’s possible that new technologies are
+changing our lives without fundamentally changing
+
+120
+00:07:21,560 --> 00:07:23,040
+the economy.
+
+121
+00:07:23,960 --> 00:07:25,220
+So will this all change?
+
+122
+00:07:25,229 --> 00:07:28,800
+Will today’s robots and AI cause mass unemployment?
+
+123
+00:07:28,800 --> 00:07:33,280
+There’s reason to be skeptical, but nobody
+really knows.
+
+124
+00:07:33,280 --> 00:07:38,000
+But one thing we do know is that the wealth
+that technology creates, it isn’t necessarily
+
+125
+00:07:38,000 --> 00:07:39,370
+shared with workers.
+
+126
+00:07:39,370 --> 00:07:43,580
+When you account for inflation, the income
+of most families has stayed pretty flat as
+
+127
+00:07:43,580 --> 00:07:44,800
+the economy has grown.
+
+128
+00:07:44,800 --> 00:07:49,629
+One of the problems we've seen over the last
+40 years is that we have seen all of this
+
+129
+00:07:49,629 --> 00:07:55,370
+rising productivity growth but actually hasn't
+been broadly shared, it's been captured by
+
+130
+00:07:55,370 --> 00:07:59,289
+a thin slice of people at the top of the income
+distribution.
+
+131
+00:07:59,289 --> 00:08:04,240
+Even if unemployment stays low, automation
+might worsen economic inequality, which is
+
+132
+00:08:04,240 --> 00:08:08,289
+already more extreme in the US than it is
+in most other advanced countries.
+
+133
+00:08:08,289 --> 00:08:10,090
+But technology isn’t destiny.
+
+134
+00:08:10,090 --> 00:08:14,599
+Governments decide how a society weathers
+disruptions, and that worries people on both
+
+135
+00:08:14,599 --> 00:08:17,560
+sides of the debate about the future of work.
+
+136
+00:08:17,560 --> 00:08:26,481
+We’ve adopted policies that instead of really
+trying to counteract the trend caused by technology
+
+137
+00:08:26,481 --> 00:08:30,849
+and globalization and other things, we’ve
+in many cases exacerbated them.
+
+138
+00:08:30,849 --> 00:08:33,870
+We’ve put a wind in the back of them and
+made them more extreme.
+
+139
+00:08:33,870 --> 00:08:36,000
+And that’s a big problem.
+
+140
+00:08:36,000 --> 00:08:40,730
+We will probably always be fascinated by the
+prospect of robots taking our jobs.
+
+141
+00:08:40,730 --> 00:00:00,000
+But if we  focus on things we can’t really
+control, we risk neglecting the things we can.
+

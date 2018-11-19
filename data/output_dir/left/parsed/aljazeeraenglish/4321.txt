@@ -1,0 +1,45 @@
+the world's biggest technology companies
+are scrambling to fix critical cyber
+security flaws that could compromise
+every computer smartphone and server
+sold in the past 20 years Packers
+if they are able to install some
+malicious software on a computer and
+then go the extra step to take advantage
+of this problem they can access some
+really sensitive information including
+passwords encryption keys that let them
+access even more sensitive data security
+researchers discovered vulnerabilities
+in computer chips used in nearly all
+devices the flaws dubbed specter and
+meltdown by security experts would allow
+intruders to steal any data on the
+system's companies involved include
+Apple Microsoft and Google the flawed
+chips are made by Intel AR m and AMD
+Google's project zero security team said
+it found the flaws sometime last year
+the company announced details of how it
+is working to protect users of Google
+cloud and Android devices it says a new
+version of the Chrome browser debuting
+later this month will include fixes
+Microsoft has also developed an
+emergency patch that will automatically
+be applied to all devices running on
+Windows 10 Apple has not publicly
+disclosed any fixes for its operating
+systems those patches will address the
+meltdown bug but they could
+significantly slow down device
+performance in some cases by as much as
+30 percent it's bad news for everybody
+if you've got no device it'll become
+more vulnerable to hackers if you've got
+a new device it may slow down if it's
+got an Intel chip inside it the other
+flaw called Spectre is harder to fix and
+will ultimately require a redesign of
+the chips themselves rob reynolds al
+jazeera los angeles

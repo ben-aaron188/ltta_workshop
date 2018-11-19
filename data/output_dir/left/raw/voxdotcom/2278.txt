@@ -1,0 +1,208 @@
+1
+00:00:00,030 --> 00:00:01,890
+every presidential<font color="#E5E5E5"> election</font><font color="#CCCCCC"> year there</font>
+
+2
+00:00:01,890 --> 00:00:04,290
+<font color="#CCCCCC">is this one visual aid</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> we see over</font>
+
+3
+00:00:04,290 --> 00:00:06,839
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> over again</font><font color="#E5E5E5"> show the</font><font color="#CCCCCC"> Mitt Romney map</font>
+
+4
+00:00:06,839 --> 00:00:08,250
+<font color="#CCCCCC">look at that</font><font color="#E5E5E5"> map</font><font color="#CCCCCC"> let's go back</font><font color="#E5E5E5"> to the</font>
+
+5
+00:00:08,250 --> 00:00:10,920
+2000 map and it is in dire need of a
+
+6
+00:00:10,920 --> 00:00:13,380
+redesign<font color="#E5E5E5"> just look at this map it's not</font>
+
+7
+00:00:13,380 --> 00:00:15,990
+<font color="#CCCCCC">just unhelpful</font><font color="#E5E5E5"> it's actually misleading</font>
+
+8
+00:00:15,990 --> 00:00:18,060
+it shows the states that Mitt<font color="#CCCCCC"> Romney and</font>
+
+9
+00:00:18,060 --> 00:00:20,970
+<font color="#E5E5E5">Barack</font><font color="#CCCCCC"> Obama won in 2012 without more</font>
+
+10
+00:00:20,970 --> 00:00:22,590
+<font color="#CCCCCC">information it's really hard to tell</font>
+
+11
+00:00:22,590 --> 00:00:24,960
+<font color="#E5E5E5">that Obama</font><font color="#CCCCCC"> actually won</font><font color="#E5E5E5"> he beat Romney</font>
+
+12
+00:00:24,960 --> 00:00:26,640
+by more than<font color="#CCCCCC"> a hundred electoral votes</font>
+
+13
+00:00:26,640 --> 00:00:28,859
+<font color="#CCCCCC">so while this map does a great job</font>
+
+14
+00:00:28,859 --> 00:00:30,900
+telling<font color="#E5E5E5"> you that Romney won Montana</font><font color="#CCCCCC"> for</font>
+
+15
+00:00:30,900 --> 00:00:33,210
+example<font color="#E5E5E5"> what it doesn't tell you</font><font color="#CCCCCC"> is how</font>
+
+16
+00:00:33,210 --> 00:00:35,579
+much that<font color="#E5E5E5"> victory doesn't matter it's</font>
+
+17
+00:00:35,579 --> 00:00:37,050
+because Montana only gets three
+
+18
+00:00:37,050 --> 00:00:39,719
+<font color="#E5E5E5">electoral votes Massachusetts gets four</font>
+
+19
+00:00:39,719 --> 00:00:41,760
+times as<font color="#E5E5E5"> many and you can barely find it</font>
+
+20
+00:00:41,760 --> 00:00:44,070
+on the<font color="#E5E5E5"> map that's because the people who</font>
+
+21
+00:00:44,070 --> 00:00:46,620
+made this map made a choice<font color="#CCCCCC"> they chose</font>
+
+22
+00:00:46,620 --> 00:00:48,899
+<font color="#E5E5E5">to prioritize Geographic accuracy over</font>
+
+23
+00:00:48,899 --> 00:00:51,809
+electoral importance and geographically
+
+24
+00:00:51,809 --> 00:00:53,670
+accurate<font color="#E5E5E5"> maps are great for road trips</font>
+
+25
+00:00:53,670 --> 00:00:55,590
+<font color="#CCCCCC">but they don't do a very good job</font>
+
+26
+00:00:55,590 --> 00:00:58,170
+<font color="#E5E5E5">telling us how the country voted so some</font>
+
+27
+00:00:58,170 --> 00:00:59,730
+designers have tried other solutions
+
+28
+00:00:59,730 --> 00:01:02,010
+<font color="#E5E5E5">they're making different maps called</font>
+
+29
+00:01:02,010 --> 00:01:04,349
+cartograms<font color="#CCCCCC"> these maps distort the</font>
+
+30
+00:01:04,349 --> 00:01:05,729
+<font color="#E5E5E5">state's shape so</font><font color="#CCCCCC"> that their physical</font>
+
+31
+00:01:05,729 --> 00:01:07,560
+<font color="#CCCCCC">size corresponds not with their</font>
+
+32
+00:01:07,560 --> 00:01:09,390
+geographic boundaries<font color="#E5E5E5"> but with the</font>
+
+33
+00:01:09,390 --> 00:01:10,830
+<font color="#E5E5E5">number of electoral votes they get</font>
+
+34
+00:01:10,830 --> 00:01:12,540
+here's a version<font color="#E5E5E5"> designed by the New</font>
+
+35
+00:01:12,540 --> 00:01:14,880
+York<font color="#CCCCCC"> Times with each state scaled by</font>
+
+36
+00:01:14,880 --> 00:01:16,860
+<font color="#E5E5E5">electoral votes they've ditched the</font>
+
+37
+00:01:16,860 --> 00:01:18,540
+precise borders of each state in favor
+
+38
+00:01:18,540 --> 00:01:20,610
+of squares but still<font color="#E5E5E5"> arrange them</font>
+
+39
+00:01:20,610 --> 00:01:22,320
+geographically<font color="#CCCCCC"> so it's easy enough</font><font color="#E5E5E5"> to</font>
+
+40
+00:01:22,320 --> 00:01:24,330
+<font color="#E5E5E5">find your own state another approach</font>
+
+41
+00:01:24,330 --> 00:01:26,520
+<font color="#E5E5E5">from the daily</font><font color="#CCCCCC"> Coast</font><font color="#E5E5E5"> makes room to</font>
+
+42
+00:01:26,520 --> 00:01:27,990
+report the popular vote from each
+
+43
+00:01:27,990 --> 00:01:31,170
+congressional district but so far these
+
+44
+00:01:31,170 --> 00:01:33,479
+ideas<font color="#E5E5E5"> haven't been widely adopted so</font>
+
+45
+00:01:33,479 --> 00:01:34,920
+does this mean that we're stuck with bad
+
+46
+00:01:34,920 --> 00:01:37,229
+maps for another<font color="#CCCCCC"> election cycle not</font>
+
+47
+00:01:37,229 --> 00:01:39,509
+necessarily<font color="#E5E5E5"> there are so many different</font>
+
+48
+00:01:39,509 --> 00:01:41,700
+<font color="#E5E5E5">ways to visualize information</font><font color="#CCCCCC"> why not</font>
+
+49
+00:01:41,700 --> 00:01:43,680
+show a list<font color="#E5E5E5"> of states or a series of bar</font>
+
+50
+00:01:43,680 --> 00:01:46,170
+<font color="#CCCCCC">charts</font><font color="#E5E5E5"> all of these methods tell you so</font>
+
+51
+00:01:46,170 --> 00:01:48,180
+much<font color="#E5E5E5"> more than those ubiquitous red</font>
+
+52
+00:01:48,180 --> 00:00:00,000
+state blue state<font color="#E5E5E5"> maps</font>
+

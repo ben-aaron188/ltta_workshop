@@ -1,0 +1,77 @@
+Google has confirmed that it's been
+collecting location data from Android
+phones even when users have disabled
+location services and removed the SIM
+card the practice was discovered by the
+news website quartz Google insists it
+neither stored nor used the information
+but has agreed to stop
+Caleb Marvin explains how the tracking
+works now your cell phone will often ask
+you annoying questions like would you
+like to share your geolocation data well
+if you answer the question no you would
+assume that your geo data is safe well
+it turns out you're wrong cell phone's
+operating on Android are sharing
+information with Google even if you take
+the SIM card out the Android phone will
+start gathering the addresses at any
+nearby cell phone towers I'm standing
+not far from one right now essentially
+what you need is a few pieces of
+information you need the unique identity
+of the phone itself which every phone
+has and in this case they're using cell
+tower locations and so if you have a
+single cell tower then that will only
+tell you something about a radius around
+which the phone is somewhere but if you
+have let's say three cell towers that
+all have different distance locations
+then you can triangulate pretty closely
+to where the actual phone is so you're
+only referring to the phones identity
+and the fact that it is on the native
+telephone network so what it's doing is
+it's pinging cell towers nearby and by
+the way all phones do that Google admits
+that they've been keeping track of
+mobile phone IDs and their location for
+over a year now but they insist their
+intentions are good in January of this
+year we began looking into using cell ID
+codes as an additional signal to further
+improve the speed and performance of
+message delivery Google claims that it
+hasn't done anything particularly with
+this day
+and now is gonna turn it off I don't
+find that entirely credible because some
+engineer or group of engineers had to
+spend time putting together this
+capability and they had to do it for a
+reason because someone told him to do it
+now Google assures us that we have
+nothing to worry about that they never
+store or share our data with anyone well
+we've heard that song and dance before
+does the NSA collect any type of data at
+all on millions or hundreds of millions
+of Americans no sir it does not not
+wittingly the technology really is
+moving faster than the regulatory
+apparatus so there's not any easy way to
+suddenly come up with new rules that
+will take care of these things most of
+the time the political bodies aren't as
+technologically savvy as Silicon Valley
+so they don't even really understand
+what this stuff is doing Google says
+that Android phones will stop tracking
+the locations of users without their
+consent by the end of November that
+sounds like good news unlike the fact
+that they have been doing it without
+consent for many months caleb Maupin RT
+washington DC

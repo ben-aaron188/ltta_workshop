@@ -1,0 +1,568 @@
+1
+00:00:00,030 --> 00:00:02,520
+researchers<font color="#CCCCCC"> from Toronto have developed</font>
+
+2
+00:00:02,520 --> 00:00:06,060
+a<font color="#E5E5E5"> way</font><font color="#CCCCCC"> to read our minds</font><font color="#E5E5E5"> sort of but this</font>
+
+3
+00:00:06,060 --> 00:00:09,510
+advanced<font color="#CCCCCC"> technology</font><font color="#E5E5E5"> is essentially</font>
+
+4
+00:00:09,510 --> 00:00:12,500
+setting<font color="#E5E5E5"> the the groundwork in order to</font>
+
+5
+00:00:12,500 --> 00:00:16,680
+create what<font color="#CCCCCC"> is necessary</font><font color="#E5E5E5"> to help</font><font color="#CCCCCC"> people</font>
+
+6
+00:00:16,680 --> 00:00:20,220
+who are<font color="#E5E5E5"> paralyzed to communicate if they</font>
+
+7
+00:00:20,220 --> 00:00:22,500
+<font color="#E5E5E5">are</font><font color="#CCCCCC"> having</font><font color="#E5E5E5"> difficulty speaking so that's</font>
+
+8
+00:00:22,500 --> 00:00:24,480
+the<font color="#CCCCCC"> upside of</font><font color="#E5E5E5"> it but of</font><font color="#CCCCCC"> course if this</font>
+
+9
+00:00:24,480 --> 00:00:26,849
+<font color="#E5E5E5">technology is advanced to the point</font>
+
+10
+00:00:26,849 --> 00:00:28,859
+where<font color="#CCCCCC"> people could read anyone's minds</font>
+
+11
+00:00:28,859 --> 00:00:30,929
+it could be abused but<font color="#E5E5E5"> first let me tell</font>
+
+12
+00:00:30,929 --> 00:00:33,149
+you where we're at at the moment<font color="#CCCCCC"> when it</font>
+
+13
+00:00:33,149 --> 00:00:35,040
+<font color="#E5E5E5">comes to being able</font><font color="#CCCCCC"> to read people's</font>
+
+14
+00:00:35,040 --> 00:00:36,540
+minds now the researchers have developed
+
+15
+00:00:36,540 --> 00:00:38,940
+a technique<font color="#E5E5E5"> that can produce a digital</font>
+
+16
+00:00:38,940 --> 00:00:41,610
+image of what a person<font color="#E5E5E5"> is picturing in</font>
+
+17
+00:00:41,610 --> 00:00:43,200
+their mind<font color="#CCCCCC"> simply by reading</font><font color="#E5E5E5"> the</font>
+
+18
+00:00:43,200 --> 00:00:45,899
+electrical activity<font color="#CCCCCC"> of their brain now</font>
+
+19
+00:00:45,899 --> 00:00:48,030
+how do they do this<font color="#E5E5E5"> well the researchers</font>
+
+20
+00:00:48,030 --> 00:00:51,449
+hooked up the volunteers to<font color="#E5E5E5"> EEG via</font>
+
+21
+00:00:51,449 --> 00:00:53,489
+electrodes placed on their heads<font color="#E5E5E5"> they</font>
+
+22
+00:00:53,489 --> 00:00:56,100
+then showed the<font color="#E5E5E5"> participants the faces</font>
+
+23
+00:00:56,100 --> 00:00:58,530
+of<font color="#E5E5E5"> 140 individuals one by one on the</font>
+
+24
+00:00:58,530 --> 00:01:00,510
+<font color="#E5E5E5">computer screen while</font><font color="#CCCCCC"> recording</font><font color="#E5E5E5"> their</font>
+
+25
+00:01:00,510 --> 00:01:02,160
+brain activity they're looking at these
+
+26
+00:01:02,160 --> 00:01:04,290
+<font color="#CCCCCC">images on a computer screen the</font>
+
+27
+00:01:04,290 --> 00:01:05,670
+electrodes<font color="#E5E5E5"> that are connected to their</font>
+
+28
+00:01:05,670 --> 00:01:09,570
+head is basically<font color="#CCCCCC"> measuring the activity</font>
+
+29
+00:01:09,570 --> 00:01:12,119
+<font color="#CCCCCC">of their brains and then this is where</font>
+
+30
+00:01:12,119 --> 00:01:14,130
+things get super interesting<font color="#E5E5E5"> on a</font>
+
+31
+00:01:14,130 --> 00:01:16,080
+computer installed with special machine
+
+32
+00:01:16,080 --> 00:01:18,810
+learning algorithms<font color="#E5E5E5"> the team recreated</font>
+
+33
+00:01:18,810 --> 00:01:20,939
+the images of the faces<font color="#CCCCCC"> that the</font>
+
+34
+00:01:20,939 --> 00:01:23,009
+participants were looking at using the
+
+35
+00:01:23,009 --> 00:01:26,280
+data recorded<font color="#CCCCCC"> by the EEG</font><font color="#E5E5E5"> essentially the</font>
+
+36
+00:01:26,280 --> 00:01:28,439
+algorithm searched for brain signals
+
+37
+00:01:28,439 --> 00:01:30,659
+related to the mental image that<font color="#CCCCCC"> the</font>
+
+38
+00:01:30,659 --> 00:01:32,820
+volunteers were holding in their mind
+
+39
+00:01:32,820 --> 00:01:35,820
+<font color="#E5E5E5">and reproduced it as a digital image so</font>
+
+40
+00:01:35,820 --> 00:01:37,170
+think<font color="#CCCCCC"> about it</font><font color="#E5E5E5"> this way they look at</font>
+
+41
+00:01:37,170 --> 00:01:39,540
+<font color="#E5E5E5">images on a computer screen someone's</font>
+
+42
+00:01:39,540 --> 00:01:42,090
+face for<font color="#CCCCCC"> instance in this case</font><font color="#E5E5E5"> and then</font>
+
+43
+00:01:42,090 --> 00:01:44,909
+later on<font color="#E5E5E5"> through the data that</font><font color="#CCCCCC"> was</font>
+
+44
+00:01:44,909 --> 00:01:48,780
+recorded<font color="#CCCCCC"> through the EEG the scientists</font>
+
+45
+00:01:48,780 --> 00:01:52,049
+were<font color="#CCCCCC"> able to recreate what these</font>
+
+46
+00:01:52,049 --> 00:01:54,119
+individuals saw in those<font color="#E5E5E5"> images right</font>
+
+47
+00:01:54,119 --> 00:01:57,030
+like so it wasn't perfect<font color="#CCCCCC"> but</font><font color="#E5E5E5"> what was</font>
+
+48
+00:01:57,030 --> 00:02:00,000
+fascinating<font color="#E5E5E5"> is is how accurate it was</font>
+
+49
+00:02:00,000 --> 00:02:03,000
+compared to let's say how a person would
+
+50
+00:02:03,000 --> 00:02:06,509
+describe a person's face later on yeah
+
+51
+00:02:06,509 --> 00:02:09,389
+yeah<font color="#E5E5E5"> so when I first saw the headline I</font>
+
+52
+00:02:09,389 --> 00:02:11,879
+was like not buying it<font color="#CCCCCC"> I know we get</font><font color="#E5E5E5"> all</font>
+
+53
+00:02:11,879 --> 00:02:13,370
+<font color="#CCCCCC">these futuristic article</font>
+
+54
+00:02:13,370 --> 00:02:16,310
+and and sometimes people<font color="#E5E5E5"> get carried</font>
+
+55
+00:02:16,310 --> 00:02:17,360
+away<font color="#E5E5E5"> now they're gonna be able to read</font>
+
+56
+00:02:17,360 --> 00:02:20,120
+your<font color="#E5E5E5"> mind and but when's the holodeck</font>
+
+57
+00:02:20,120 --> 00:02:21,410
+coming<font color="#E5E5E5"> okay that's the thing I'm</font>
+
+58
+00:02:21,410 --> 00:02:23,360
+interested<font color="#CCCCCC"> and sometimes people promise</font>
+
+59
+00:02:23,360 --> 00:02:25,220
+that I'm<font color="#CCCCCC"> stalling</font><font color="#E5E5E5"> here right</font>
+
+60
+00:02:25,220 --> 00:02:28,220
+but when I read how they<font color="#CCCCCC"> described how</font>
+
+61
+00:02:28,220 --> 00:02:30,019
+they did it I was like oh yeah that'll
+
+62
+00:02:30,019 --> 00:02:30,170
+work
+
+63
+00:02:30,170 --> 00:02:34,790
+okay<font color="#E5E5E5"> so but the key</font><font color="#CCCCCC"> here is they show</font>
+
+64
+00:02:34,790 --> 00:02:37,340
+you the images<font color="#CCCCCC"> and then record</font><font color="#E5E5E5"> electric</font>
+
+65
+00:02:37,340 --> 00:02:39,680
+<font color="#E5E5E5">activity in your head so that</font><font color="#CCCCCC"> when they</font>
+
+66
+00:02:39,680 --> 00:02:41,720
+<font color="#E5E5E5">see that same pattern</font><font color="#CCCCCC"> in your head they</font>
+
+67
+00:02:41,720 --> 00:02:44,390
+know what the images<font color="#E5E5E5"> so don't let them</font>
+
+68
+00:02:44,390 --> 00:02:53,180
+record<font color="#E5E5E5"> your head in the first place</font><font color="#CCCCCC"> so</font>
+
+69
+00:02:53,180 --> 00:02:56,060
+this<font color="#E5E5E5"> is literally an episode of black</font>
+
+70
+00:02:56,060 --> 00:02:58,010
+mirror and it was the<font color="#CCCCCC"> skin for me</font>
+
+71
+00:02:58,010 --> 00:02:59,840
+personally<font color="#CCCCCC"> it was</font><font color="#E5E5E5"> the scariest episode</font>
+
+72
+00:02:59,840 --> 00:03:02,030
+<font color="#CCCCCC">but</font><font color="#E5E5E5"> it's the same kind of situation</font>
+
+73
+00:03:02,030 --> 00:03:04,459
+where in<font color="#E5E5E5"> order for someone to read your</font>
+
+74
+00:03:04,459 --> 00:03:06,920
+mind they have to put some gadget on
+
+75
+00:03:06,920 --> 00:03:09,140
+your head<font color="#CCCCCC"> so you're right don't don't</font>
+
+76
+00:03:09,140 --> 00:03:11,750
+let people<font color="#E5E5E5"> put gadgets on your head</font><font color="#CCCCCC"> no</font>
+
+77
+00:03:11,750 --> 00:03:12,650
+<font color="#E5E5E5">because it has begun</font>
+
+78
+00:03:12,650 --> 00:03:14,209
+they say the pictures are<font color="#E5E5E5"> not bad and</font>
+
+79
+00:03:14,209 --> 00:03:16,910
+and<font color="#E5E5E5"> better than memory</font><font color="#CCCCCC"> and they say look</font>
+
+80
+00:03:16,910 --> 00:03:18,590
+it could really help people<font color="#E5E5E5"> that's true</font>
+
+81
+00:03:18,590 --> 00:03:20,600
+that's<font color="#E5E5E5"> how it always starts so for</font>
+
+82
+00:03:20,600 --> 00:03:23,150
+example if you can't speak they can show
+
+83
+00:03:23,150 --> 00:03:27,680
+you the images record your how your
+
+84
+00:03:27,680 --> 00:03:31,250
+brain a receives those images and then
+
+85
+00:03:31,250 --> 00:03:32,660
+<font color="#CCCCCC">whenever you think</font><font color="#E5E5E5"> that again it will</font>
+
+86
+00:03:32,660 --> 00:03:35,480
+show that image<font color="#CCCCCC"> to someone so in a sense</font>
+
+87
+00:03:35,480 --> 00:03:37,280
+you<font color="#CCCCCC"> are speaking to</font><font color="#E5E5E5"> them the problem is</font>
+
+88
+00:03:37,280 --> 00:03:40,609
+you can't contain it<font color="#CCCCCC"> so if if you're</font>
+
+89
+00:03:40,609 --> 00:03:43,069
+just<font color="#E5E5E5"> or you know they</font><font color="#CCCCCC"> recorded all</font><font color="#E5E5E5"> those</font>
+
+90
+00:03:43,069 --> 00:03:46,190
+images<font color="#CCCCCC"> and you didn't want</font><font color="#E5E5E5"> to think</font>
+
+91
+00:03:46,190 --> 00:03:49,160
+about<font color="#E5E5E5"> that cute girl at the mall but</font>
+
+92
+00:03:49,160 --> 00:03:51,019
+<font color="#E5E5E5">then</font><font color="#CCCCCC"> no it came to your head</font><font color="#E5E5E5"> and then</font>
+
+93
+00:03:51,019 --> 00:03:54,530
+your girlfriend<font color="#CCCCCC"> is</font><font color="#E5E5E5"> oh right one of a</font>
+
+94
+00:03:54,530 --> 00:03:56,180
+thousand different<font color="#E5E5E5"> problems that could</font>
+
+95
+00:03:56,180 --> 00:04:00,319
+it could create<font color="#E5E5E5"> and so it could</font><font color="#CCCCCC"> be used</font>
+
+96
+00:04:00,319 --> 00:04:04,700
+for<font color="#E5E5E5"> good genies out of the bottle</font><font color="#CCCCCC"> could</font>
+
+97
+00:04:04,700 --> 00:04:06,590
+<font color="#E5E5E5">be really helpful</font><font color="#CCCCCC"> in the</font><font color="#E5E5E5"> times up in me</font>
+
+98
+00:04:06,590 --> 00:04:08,269
+to movement<font color="#CCCCCC"> I mean you could check</font>
+
+99
+00:04:08,269 --> 00:04:10,639
+<font color="#E5E5E5">around a ton of</font><font color="#CCCCCC"> evidence there for</font>
+
+100
+00:04:10,639 --> 00:04:12,560
+sexual harassment in the workplace or
+
+101
+00:04:12,560 --> 00:04:14,930
+but I mean yeah there's a lot of ways in
+
+102
+00:04:14,930 --> 00:04:16,789
+which<font color="#E5E5E5"> this could be abused it starts to</font>
+
+103
+00:04:16,789 --> 00:04:19,880
+feel like<font color="#CCCCCC"> like transfer</font><font color="#E5E5E5"> of consciousness</font>
+
+104
+00:04:19,880 --> 00:04:23,419
+<font color="#E5E5E5">is not too far away it's not</font>
+
+105
+00:04:23,419 --> 00:04:25,580
+I hate<font color="#E5E5E5"> all of this I'm sorry</font><font color="#CCCCCC"> I do I</font>
+
+106
+00:04:25,580 --> 00:04:26,539
+<font color="#E5E5E5">don't like any of it</font>
+
+107
+00:04:26,539 --> 00:04:29,030
+<font color="#E5E5E5">I I see how it could</font><font color="#CCCCCC"> potentially be good</font>
+
+108
+00:04:29,030 --> 00:04:31,610
+<font color="#E5E5E5">but</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> doing a quick cost-benefit</font>
+
+109
+00:04:31,610 --> 00:04:33,800
+analysis and<font color="#E5E5E5"> knowing how technology</font>
+
+110
+00:04:33,800 --> 00:04:36,650
+already<font color="#E5E5E5"> gets abused and used against us</font>
+
+111
+00:04:36,650 --> 00:04:39,259
+<font color="#E5E5E5">I just</font><font color="#CCCCCC"> don't want any</font><font color="#E5E5E5"> of this well look</font>
+
+112
+00:04:39,259 --> 00:04:40,849
+first of<font color="#E5E5E5"> all</font><font color="#CCCCCC"> we don't</font><font color="#E5E5E5"> have</font><font color="#CCCCCC"> a choice</font>
+
+113
+00:04:40,849 --> 00:04:42,949
+<font color="#CCCCCC">because</font><font color="#E5E5E5"> we could try to stop it it</font><font color="#CCCCCC"> won't</font>
+
+114
+00:04:42,949 --> 00:04:45,680
+<font color="#E5E5E5">work</font><font color="#CCCCCC"> if somebody</font><font color="#E5E5E5"> else somewhere else in</font>
+
+115
+00:04:45,680 --> 00:04:47,150
+the<font color="#CCCCCC"> world would like it's</font><font color="#E5E5E5"> like your</font>
+
+116
+00:04:47,150 --> 00:04:48,530
+opinion man<font color="#E5E5E5"> but we're gonna go ahead</font><font color="#CCCCCC"> and</font>
+
+117
+00:04:48,530 --> 00:04:50,180
+<font color="#E5E5E5">do it in this country</font><font color="#CCCCCC"> and then it'll</font>
+
+118
+00:04:50,180 --> 00:04:51,770
+spread and spread<font color="#E5E5E5"> and you can't stop</font>
+
+119
+00:04:51,770 --> 00:04:54,289
+technology and but I like to<font color="#E5E5E5"> kind of</font><font color="#CCCCCC"> go</font>
+
+120
+00:04:54,289 --> 00:04:56,300
+spin this Simone put on it as<font color="#E5E5E5"> a</font>
+
+121
+00:04:56,300 --> 00:05:00,039
+part-time transcendentalist and<font color="#E5E5E5"> Taoist</font>
+
+122
+00:05:00,039 --> 00:05:02,930
+<font color="#CCCCCC">that if we then use this to share</font>
+
+123
+00:05:02,930 --> 00:05:05,300
+consciousness in a sense<font color="#CCCCCC"> then we all</font>
+
+124
+00:05:05,300 --> 00:05:07,759
+become one<font color="#CCCCCC"> mm-hmm</font>
+
+125
+00:05:07,759 --> 00:05:12,409
+<font color="#CCCCCC">Buddhist surveillance yeah they're like</font>
+
+126
+00:05:12,409 --> 00:05:16,789
+<font color="#CCCCCC">Oh Taoism I like this but but</font><font color="#E5E5E5"> the one</font>
+
+127
+00:05:16,789 --> 00:05:19,759
+good<font color="#CCCCCC"> thing seriously is that if we all</font>
+
+128
+00:05:19,759 --> 00:05:22,069
+find out what<font color="#E5E5E5"> each other is</font><font color="#CCCCCC"> are thinking</font>
+
+129
+00:05:22,069 --> 00:05:23,779
+in the beginning<font color="#E5E5E5"> there's gonna be</font>
+
+130
+00:05:23,779 --> 00:05:26,930
+madness and and terrible things that
+
+131
+00:05:26,930 --> 00:05:28,819
+<font color="#E5E5E5">people</font><font color="#CCCCCC"> buy now like what are the world</font>
+
+132
+00:05:28,819 --> 00:05:31,879
+<font color="#E5E5E5">right</font><font color="#CCCCCC"> and then probably hopefully at</font>
+
+133
+00:05:31,879 --> 00:05:34,370
+some<font color="#CCCCCC"> point oh oh</font><font color="#E5E5E5"> so everybody was</font><font color="#CCCCCC"> saying</font>
+
+134
+00:05:34,370 --> 00:05:36,110
+<font color="#CCCCCC">you what you</font><font color="#E5E5E5"> just watched was one of the</font>
+
+135
+00:05:36,110 --> 00:05:38,449
+videos<font color="#CCCCCC"> that we do today but we actually</font>
+
+136
+00:05:38,449 --> 00:05:40,610
+do a whole<font color="#CCCCCC"> two-hour</font><font color="#E5E5E5"> show every single</font>
+
+137
+00:05:40,610 --> 00:05:42,259
+<font color="#E5E5E5">day it's a podcast you could watch it a</font>
+
+138
+00:05:42,259 --> 00:05:44,719
+video<font color="#E5E5E5"> or listen to it as audio you can</font>
+
+139
+00:05:44,719 --> 00:05:46,099
+<font color="#E5E5E5">download it you</font><font color="#CCCCCC"> can stream</font><font color="#E5E5E5"> it you can</font>
+
+140
+00:05:46,099 --> 00:05:47,839
+get<font color="#CCCCCC"> a completely</font><font color="#E5E5E5"> ad free if you could</font>
+
+141
+00:05:47,839 --> 00:05:50,449
+become a<font color="#E5E5E5"> member</font><font color="#CCCCCC"> of the Young Turks TYT</font>
+
+142
+00:05:50,449 --> 00:00:00,000
+Network<font color="#CCCCCC"> calm slash join</font>
+

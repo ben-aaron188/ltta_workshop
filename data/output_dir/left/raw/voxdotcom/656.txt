@@ -1,0 +1,272 @@
+1
+00:00:01,120 --> 00:00:05,710
+we make a lot<font color="#CCCCCC"> of charts</font><font color="#E5E5E5"> at</font><font color="#CCCCCC"> marks table</font>
+
+2
+00:00:06,790 --> 00:00:09,469
+and of course<font color="#E5E5E5"> charts of vaccines and</font>
+
+3
+00:00:09,469 --> 00:00:11,660
+<font color="#E5E5E5">pretty much every time we run a chart</font>
+
+4
+00:00:11,660 --> 00:00:13,459
+with<font color="#E5E5E5"> a</font><font color="#CCCCCC"> y-axis that</font><font color="#E5E5E5"> starts anywhere other</font>
+
+5
+00:00:13,459 --> 00:00:15,559
+than<font color="#CCCCCC"> zero</font><font color="#E5E5E5"> no someone winds up emailing</font>
+
+6
+00:00:15,559 --> 00:00:18,830
+<font color="#E5E5E5">to complete you see there's a really</font>
+
+7
+00:00:18,830 --> 00:00:20,300
+famous book on how<font color="#E5E5E5"> to lie with</font>
+
+8
+00:00:20,300 --> 00:00:22,250
+<font color="#CCCCCC">statistics</font><font color="#E5E5E5"> and it contains a discussion</font>
+
+9
+00:00:22,250 --> 00:00:24,439
+<font color="#E5E5E5">of how you can create a misleading chart</font>
+
+10
+00:00:24,439 --> 00:00:26,929
+by messing with the<font color="#CCCCCC"> y-axis</font><font color="#E5E5E5"> and it's</font>
+
+11
+00:00:26,929 --> 00:00:29,330
+<font color="#E5E5E5">definitely true you can do this here's a</font>
+
+12
+00:00:29,330 --> 00:00:31,279
+chart<font color="#E5E5E5"> from Fox News</font><font color="#CCCCCC"> for example it's a</font>
+
+13
+00:00:31,279 --> 00:00:36,140
+total disaster<font color="#CCCCCC"> but the y-axis</font><font color="#E5E5E5"> dogmatists</font>
+
+14
+00:00:36,140 --> 00:00:37,250
+<font color="#CCCCCC">take it way too far</font>
+
+15
+00:00:37,250 --> 00:00:39,200
+the big<font color="#E5E5E5"> problem with the people who lie</font>
+
+16
+00:00:39,200 --> 00:00:41,000
+with statistics is<font color="#CCCCCC"> that they're lying to</font>
+
+17
+00:00:41,000 --> 00:00:43,370
+you it's true<font color="#CCCCCC"> that misleading</font><font color="#E5E5E5"> charts are</font>
+
+18
+00:00:43,370 --> 00:00:45,290
+one way to lie<font color="#E5E5E5"> but the English language</font>
+
+19
+00:00:45,290 --> 00:00:46,790
+is also<font color="#CCCCCC"> a tool that</font><font color="#E5E5E5"> can be</font><font color="#CCCCCC"> used for</font>
+
+20
+00:00:46,790 --> 00:00:48,260
+lying<font color="#E5E5E5"> and</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> doesn't mean we should</font>
+
+21
+00:00:48,260 --> 00:00:51,860
+<font color="#E5E5E5">never speak English sometimes</font><font color="#CCCCCC"> you need</font>
+
+22
+00:00:51,860 --> 00:00:53,630
+<font color="#CCCCCC">to fiddle with the y-axis to</font><font color="#E5E5E5"> tell a</font>
+
+23
+00:00:53,630 --> 00:00:56,360
+story properly<font color="#CCCCCC"> so for</font><font color="#E5E5E5"> example right</font><font color="#CCCCCC"> now</font>
+
+24
+00:00:56,360 --> 00:00:58,010
+the share of<font color="#E5E5E5"> American adults</font><font color="#CCCCCC"> who have a</font>
+
+25
+00:00:58,010 --> 00:01:00,500
+job<font color="#CCCCCC"> has fallen to a generation long</font><font color="#E5E5E5"> love</font>
+
+26
+00:01:00,500 --> 00:01:03,260
+<font color="#E5E5E5">this is a really big deal but if you</font>
+
+27
+00:01:03,260 --> 00:01:05,570
+chart this data with the<font color="#CCCCCC"> y-axis at zero</font>
+
+28
+00:01:05,570 --> 00:01:08,979
+<font color="#CCCCCC">you can't see the change at</font><font color="#E5E5E5"> all</font>
+
+29
+00:01:09,159 --> 00:01:11,539
+narrowing<font color="#CCCCCC"> the range to dramatize what</font>
+
+30
+00:01:11,539 --> 00:01:13,280
+we're talking about isn't<font color="#CCCCCC"> lying with</font>
+
+31
+00:01:13,280 --> 00:01:14,119
+statistics
+
+32
+00:01:14,119 --> 00:01:16,280
+it's<font color="#E5E5E5"> emphasizing what's relevant the way</font>
+
+33
+00:01:16,280 --> 00:01:17,990
+<font color="#CCCCCC">Edward Tufte puts it is you need to</font><font color="#E5E5E5"> use</font>
+
+34
+00:01:17,990 --> 00:01:20,210
+a<font color="#E5E5E5"> baseline that shows the data not</font><font color="#CCCCCC"> the</font>
+
+35
+00:01:20,210 --> 00:01:23,359
+zero<font color="#E5E5E5"> point</font><font color="#CCCCCC"> and after all</font><font color="#E5E5E5"> zero is</font><font color="#CCCCCC"> just a</font>
+
+36
+00:01:23,359 --> 00:01:25,520
+<font color="#E5E5E5">number</font><font color="#CCCCCC"> like any</font><font color="#E5E5E5"> other sometimes to make</font>
+
+37
+00:01:25,520 --> 00:01:26,840
+sense of<font color="#E5E5E5"> the</font><font color="#CCCCCC"> data you need to be able</font><font color="#E5E5E5"> to</font>
+
+38
+00:01:26,840 --> 00:01:29,539
+show<font color="#E5E5E5"> numbers that go below zero halting</font>
+
+39
+00:01:29,539 --> 00:01:31,130
+at zero in those cases doesn't make any
+
+40
+00:01:31,130 --> 00:01:33,469
+sense<font color="#E5E5E5"> but extending every chart way</font>
+
+41
+00:01:33,469 --> 00:01:35,179
+below zero<font color="#E5E5E5"> will</font><font color="#CCCCCC"> be crazy</font><font color="#E5E5E5"> too</font>
+
+42
+00:01:35,179 --> 00:01:37,939
+and of course<font color="#CCCCCC"> we're</font><font color="#E5E5E5"> zero even is depends</font>
+
+43
+00:01:37,939 --> 00:01:39,829
+on the<font color="#E5E5E5"> unit's you're using if you do a</font>
+
+44
+00:01:39,829 --> 00:01:41,270
+chart of a person's temperature in
+
+45
+00:01:41,270 --> 00:01:43,069
+Fahrenheit you're likely to miss the
+
+46
+00:01:43,069 --> 00:01:44,450
+fever if you've zoomed all<font color="#CCCCCC"> the way out</font>
+
+47
+00:01:44,450 --> 00:01:46,939
+to<font color="#E5E5E5"> zero if you redo it as a Celsius</font>
+
+48
+00:01:46,939 --> 00:01:48,799
+chart it's not quite as bad<font color="#E5E5E5"> but</font><font color="#CCCCCC"> if you</font>
+
+49
+00:01:48,799 --> 00:01:50,659
+<font color="#E5E5E5">switch to Kelvin and extend everything</font>
+
+50
+00:01:50,659 --> 00:01:52,759
+to absolute zero<font color="#E5E5E5"> then</font><font color="#CCCCCC"> it charts become</font>
+
+51
+00:01:52,759 --> 00:01:55,069
+<font color="#CCCCCC">useless when people are really lying</font>
+
+52
+00:01:55,069 --> 00:01:56,569
+with charts the main thing they're
+
+53
+00:01:56,569 --> 00:01:58,189
+normally doing<font color="#CCCCCC"> wrong is leaving up the</font>
+
+54
+00:01:58,189 --> 00:02:00,679
+context<font color="#CCCCCC"> not leaving out the</font><font color="#E5E5E5"> zero go back</font>
+
+55
+00:02:00,679 --> 00:02:01,969
+to that<font color="#CCCCCC"> foxnews turn</font>
+
+56
+00:02:01,969 --> 00:02:03,979
+you never know from<font color="#E5E5E5"> this chart that the</font>
+
+57
+00:02:03,979 --> 00:02:06,889
+top marginal rate was 39.6% back in the
+
+58
+00:02:06,889 --> 00:02:07,450
+<font color="#E5E5E5">clinton</font>
+
+59
+00:02:07,450 --> 00:02:09,068
+raishin<font color="#E5E5E5"> or than the</font><font color="#CCCCCC"> Reagan</font>
+
+60
+00:02:09,068 --> 00:02:11,200
+<font color="#CCCCCC">administration it was 50% or</font><font color="#E5E5E5"> the fact</font>
+
+61
+00:02:11,200 --> 00:02:13,330
+when Eisenhower was<font color="#CCCCCC"> president was the 91</font>
+
+62
+00:02:13,330 --> 00:02:14,110
+versa
+
+63
+00:02:14,110 --> 00:02:17,019
+the missing<font color="#E5E5E5"> zero was really the last</font><font color="#CCCCCC"> of</font>
+
+64
+00:02:17,019 --> 00:02:18,970
+<font color="#E5E5E5">n charts problems</font><font color="#CCCCCC"> what they left</font><font color="#E5E5E5"> out was</font>
+
+65
+00:02:18,970 --> 00:02:20,709
+the entire history of taxes in the
+
+66
+00:02:20,709 --> 00:02:21,660
+United States
+
+67
+00:02:21,660 --> 00:02:24,550
+so just remember<font color="#CCCCCC"> y-axis don't lie to</font>
+
+68
+00:02:24,550 --> 00:00:00,000
+people<font color="#E5E5E5"> people</font>
+

@@ -1,0 +1,244 @@
+1
+00:00:01,490 --> 00:00:03,899
+hi I'm Neil deGrasse Tyson<font color="#CCCCCC"> I'm an</font>
+
+2
+00:00:03,899 --> 00:00:05,940
+astrophysicist<font color="#CCCCCC"> with the American</font><font color="#E5E5E5"> Museum</font>
+
+3
+00:00:05,940 --> 00:00:08,639
+of Natural<font color="#E5E5E5"> History and I'm host of star</font>
+
+4
+00:00:08,639 --> 00:00:15,179
+talk radio welcome<font color="#CCCCCC"> back to star talk</font>
+
+5
+00:00:15,179 --> 00:00:18,510
+<font color="#E5E5E5">radio</font><font color="#CCCCCC"> and it's fighting</font><font color="#E5E5E5"> all these air</font>
+
+6
+00:00:18,510 --> 00:00:20,070
+<font color="#CCCCCC">molecules like what's up with that</font><font color="#E5E5E5"> we</font>
+
+7
+00:00:20,070 --> 00:00:28,859
+win astrophysicist well so we suspected
+
+8
+00:00:28,859 --> 00:00:31,439
+that<font color="#E5E5E5"> other stars would have planets and</font>
+
+9
+00:00:31,439 --> 00:00:33,660
+that's been<font color="#E5E5E5"> confirmed we got that the</font>
+
+10
+00:00:33,660 --> 00:00:36,059
+problem is the<font color="#CCCCCC"> method invoked</font><font color="#E5E5E5"> to detect</font>
+
+11
+00:00:36,059 --> 00:00:38,360
+those planets is best for detecting
+
+12
+00:00:38,360 --> 00:00:41,489
+<font color="#CCCCCC">Jupiter sized object in orbit</font><font color="#E5E5E5"> around</font>
+
+13
+00:00:41,489 --> 00:00:43,290
+their host star<font color="#CCCCCC"> but if you're</font><font color="#E5E5E5"> looking</font>
+
+14
+00:00:43,290 --> 00:00:44,850
+for life as<font color="#CCCCCC"> we know it you</font><font color="#E5E5E5"> want to find</font>
+
+15
+00:00:44,850 --> 00:00:47,430
+familiar<font color="#CCCCCC"> planets planets may be the size</font>
+
+16
+00:00:47,430 --> 00:00:49,110
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> Earth</font><font color="#E5E5E5"> planets that</font><font color="#CCCCCC"> are the right</font>
+
+17
+00:00:49,110 --> 00:00:51,360
+distance<font color="#E5E5E5"> from their host star</font><font color="#CCCCCC"> and what</font>
+
+18
+00:00:51,360 --> 00:00:52,800
+is the right distance is the Goldilocks
+
+19
+00:00:52,800 --> 00:00:54,480
+distance<font color="#CCCCCC"> you</font><font color="#E5E5E5"> don't</font><font color="#CCCCCC"> want to be too close</font>
+
+20
+00:00:54,480 --> 00:00:56,760
+<font color="#CCCCCC">your water would evaporate you don't</font>
+
+21
+00:00:56,760 --> 00:00:58,379
+want to be too far your water would
+
+22
+00:00:58,379 --> 00:01:00,930
+freeze<font color="#CCCCCC"> you want to be in that zone</font><font color="#E5E5E5"> just</font>
+
+23
+00:01:00,930 --> 00:01:03,570
+right where your water<font color="#E5E5E5"> is in liquid form</font>
+
+24
+00:01:03,570 --> 00:01:05,309
+<font color="#E5E5E5">every place on earth where there's</font>
+
+25
+00:01:05,309 --> 00:01:08,340
+liquid water<font color="#E5E5E5"> there is life even the Dead</font>
+
+26
+00:01:08,340 --> 00:01:10,619
+Sea has life so why was it<font color="#E5E5E5"> called the</font>
+
+27
+00:01:10,619 --> 00:01:12,119
+<font color="#E5E5E5">Dead Sea because the people who named it</font>
+
+28
+00:01:12,119 --> 00:01:14,400
+<font color="#E5E5E5">that didn't have microscopes okay they</font>
+
+29
+00:01:14,400 --> 00:01:16,560
+know macroscopic fishes but there's life
+
+30
+00:01:16,560 --> 00:01:18,500
+everywhere in extraordinary<font color="#E5E5E5"> conditions</font>
+
+31
+00:01:18,500 --> 00:01:23,549
+<font color="#E5E5E5">thriving here on earth</font><font color="#CCCCCC"> so the search for</font>
+
+32
+00:01:23,549 --> 00:01:25,799
+life<font color="#CCCCCC"> in the</font><font color="#E5E5E5"> universe</font><font color="#CCCCCC"> we start out with</font>
+
+33
+00:01:25,799 --> 00:01:27,180
+what we're<font color="#E5E5E5"> most familiar and</font><font color="#CCCCCC"> we search</font>
+
+34
+00:01:27,180 --> 00:01:29,070
+for<font color="#E5E5E5"> earth-like planets</font><font color="#CCCCCC"> so NASA launched</font>
+
+35
+00:01:29,070 --> 00:01:31,170
+an entire<font color="#E5E5E5"> mission called Kepler oh and</font>
+
+36
+00:01:31,170 --> 00:01:33,600
+liftoff of the Delta<font color="#CCCCCC"> 2 rocket with</font>
+
+37
+00:01:33,600 --> 00:01:34,890
+Kepler<font color="#E5E5E5"> that mission</font>
+
+38
+00:01:34,890 --> 00:01:36,659
+there's some parts<font color="#E5E5E5"> of the craft that no</font>
+
+39
+00:01:36,659 --> 00:01:38,729
+<font color="#E5E5E5">longer work but before</font><font color="#CCCCCC"> it broke it had</font>
+
+40
+00:01:38,729 --> 00:01:41,430
+catalog<font color="#CCCCCC"> last I checked a thousand</font>
+
+41
+00:01:41,430 --> 00:01:43,860
+candidate planets<font color="#CCCCCC"> and it was tuned for</font>
+
+42
+00:01:43,860 --> 00:01:46,009
+finding earth-like planets around
+
+43
+00:01:46,009 --> 00:01:48,840
+<font color="#CCCCCC">sun-like stars so if the day ever comes</font>
+
+44
+00:01:48,840 --> 00:01:51,270
+<font color="#E5E5E5">where we can travel to the stars I would</font>
+
+45
+00:01:51,270 --> 00:01:53,189
+start out with the list of<font color="#E5E5E5"> Kepler</font>
+
+46
+00:01:53,189 --> 00:01:54,930
+planets<font color="#E5E5E5"> those are our best bet</font><font color="#CCCCCC"> for</font>
+
+47
+00:01:54,930 --> 00:01:56,850
+finding<font color="#E5E5E5"> life as we know it</font><font color="#CCCCCC"> I don't know</font>
+
+48
+00:01:56,850 --> 00:01:58,740
+that we'll find a twin<font color="#E5E5E5"> of Earth</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> I</font>
+
+49
+00:01:58,740 --> 00:02:00,030
+don't see why<font color="#CCCCCC"> we wouldn't</font><font color="#E5E5E5"> find another</font>
+
+50
+00:02:00,030 --> 00:02:01,770
+<font color="#E5E5E5">planet with life and</font><font color="#CCCCCC"> maybe with life</font>
+
+51
+00:02:01,770 --> 00:02:03,920
+that<font color="#E5E5E5"> we might call intelligent the real</font>
+
+52
+00:02:03,920 --> 00:02:06,180
+<font color="#E5E5E5">here's what you</font><font color="#CCCCCC"> should be</font><font color="#E5E5E5"> afraid of that</font>
+
+53
+00:02:06,180 --> 00:02:07,770
+that intelligent life comes<font color="#CCCCCC"> to Earth</font>
+
+54
+00:02:07,770 --> 00:02:09,270
+observes<font color="#CCCCCC"> Hugh</font>
+
+55
+00:02:09,270 --> 00:02:10,740
+and concludes there's no sign of
+
+56
+00:02:10,740 --> 00:02:12,540
+<font color="#CCCCCC">intelligent life on</font><font color="#E5E5E5"> earth</font><font color="#CCCCCC"> you want to be</font>
+
+57
+00:02:12,540 --> 00:02:15,060
+afraid<font color="#E5E5E5"> of</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> moment because</font><font color="#CCCCCC"> everything</font>
+
+58
+00:02:15,060 --> 00:02:17,510
+we summon as for what we<font color="#E5E5E5"> present as</font>
+
+59
+00:02:17,510 --> 00:02:20,640
+intelligence may just pale compared<font color="#E5E5E5"> with</font>
+
+60
+00:02:20,640 --> 00:02:22,710
+the brilliance expressed by other
+
+61
+00:02:22,710 --> 00:00:00,000
+<font color="#E5E5E5">life-forms from other planets</font>
+

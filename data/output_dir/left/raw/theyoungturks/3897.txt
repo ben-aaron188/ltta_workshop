@@ -1,0 +1,812 @@
+1
+00:00:00,030 --> 00:00:03,149
+<font color="#E5E5E5">Equifax is facing a</font><font color="#CCCCCC"> massive class</font><font color="#E5E5E5"> action</font>
+
+2
+00:00:03,149 --> 00:00:05,339
+lawsuit following the<font color="#CCCCCC"> announcement of a</font>
+
+3
+00:00:05,339 --> 00:00:07,710
+massive security breach which indicates
+
+4
+00:00:07,710 --> 00:00:09,870
+that<font color="#E5E5E5"> hackers have accessed the personal</font>
+
+5
+00:00:09,870 --> 00:00:14,309
+data<font color="#CCCCCC"> of</font><font color="#E5E5E5"> over 143</font><font color="#CCCCCC"> million</font><font color="#E5E5E5"> Americans</font>
+
+6
+00:00:14,309 --> 00:00:16,619
+<font color="#E5E5E5">Bloomberg has described this as an</font>
+
+7
+00:00:16,619 --> 00:00:19,140
+unprecedented hack it compromised the
+
+8
+00:00:19,140 --> 00:00:21,960
+private information<font color="#CCCCCC"> of</font><font color="#E5E5E5"> about 143 million</font>
+
+9
+00:00:21,960 --> 00:00:24,810
+people now users alleged that Equifax
+
+10
+00:00:24,810 --> 00:00:26,970
+<font color="#CCCCCC">was negligent</font><font color="#E5E5E5"> in failing to protect</font>
+
+11
+00:00:26,970 --> 00:00:29,279
+consumer data<font color="#E5E5E5"> choosing to save money</font>
+
+12
+00:00:29,279 --> 00:00:31,320
+instead<font color="#CCCCCC"> of spending on technical</font>
+
+13
+00:00:31,320 --> 00:00:33,149
+safeguards<font color="#E5E5E5"> that could have stopped the</font>
+
+14
+00:00:33,149 --> 00:00:35,969
+attack<font color="#CCCCCC"> data revealed</font><font color="#E5E5E5"> included Social</font>
+
+15
+00:00:35,969 --> 00:00:38,280
+<font color="#E5E5E5">Security numbers addresses driver's</font>
+
+16
+00:00:38,280 --> 00:00:40,710
+license data and birth dates<font color="#E5E5E5"> some credit</font>
+
+17
+00:00:40,710 --> 00:00:42,420
+card information was also<font color="#E5E5E5"> put at risk</font><font color="#CCCCCC"> I</font>
+
+18
+00:00:42,420 --> 00:00:43,320
+would<font color="#CCCCCC"> argue that the credit card</font>
+
+19
+00:00:43,320 --> 00:00:45,270
+<font color="#CCCCCC">information is the last thing</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> worry</font>
+
+20
+00:00:45,270 --> 00:00:47,219
+about<font color="#E5E5E5"> when you consider the fact that</font>
+
+21
+00:00:47,219 --> 00:00:49,079
+<font color="#CCCCCC">social</font><font color="#E5E5E5"> security numbers are out there</font>
+
+22
+00:00:49,079 --> 00:00:50,789
+<font color="#E5E5E5">and once someone has access to your</font>
+
+23
+00:00:50,789 --> 00:00:52,800
+<font color="#E5E5E5">social security number</font><font color="#CCCCCC"> especially people</font>
+
+24
+00:00:52,800 --> 00:00:54,690
+with<font color="#E5E5E5"> ill intent they can do some pretty</font>
+
+25
+00:00:54,690 --> 00:00:56,579
+terrible<font color="#E5E5E5"> things with that information</font>
+
+26
+00:00:56,579 --> 00:00:59,430
+now the fine people<font color="#E5E5E5"> over in Equifax</font>
+
+27
+00:00:59,430 --> 00:01:01,680
+found out about<font color="#E5E5E5"> this security breach</font>
+
+28
+00:01:01,680 --> 00:01:04,349
+back in July and they have just
+
+29
+00:01:04,349 --> 00:01:06,360
+<font color="#E5E5E5">announced it but</font><font color="#CCCCCC"> another</font><font color="#E5E5E5"> thing to keep</font>
+
+30
+00:01:06,360 --> 00:01:07,710
+in mind<font color="#CCCCCC"> is that this class-action</font>
+
+31
+00:01:07,710 --> 00:01:10,080
+lawsuit is alleging<font color="#E5E5E5"> that some of the</font>
+
+32
+00:01:10,080 --> 00:01:13,110
+executives over<font color="#E5E5E5"> at Equifax</font><font color="#CCCCCC"> had sold</font>
+
+33
+00:01:13,110 --> 00:01:16,500
+their stocks<font color="#E5E5E5"> in days following</font><font color="#CCCCCC"> this</font>
+
+34
+00:01:16,500 --> 00:01:19,320
+security breach<font color="#E5E5E5"> to the tune of 1.7</font>
+
+35
+00:01:19,320 --> 00:01:22,470
+million dollars<font color="#CCCCCC"> I believe and so she I</font>
+
+36
+00:01:22,470 --> 00:01:24,240
+wonder<font color="#E5E5E5"> why they did that</font><font color="#CCCCCC"> they're saying</font>
+
+37
+00:01:24,240 --> 00:01:25,380
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> they didn't</font><font color="#E5E5E5"> have</font><font color="#CCCCCC"> knowledge about</font>
+
+38
+00:01:25,380 --> 00:01:27,780
+<font color="#E5E5E5">the hack</font><font color="#CCCCCC"> prior to selling</font><font color="#E5E5E5"> their</font><font color="#CCCCCC"> stocks</font>
+
+39
+00:01:27,780 --> 00:01:29,729
+<font color="#CCCCCC">all</font><font color="#E5E5E5"> right so let's break this</font><font color="#CCCCCC"> down</font><font color="#E5E5E5"> first</font>
+
+40
+00:01:29,729 --> 00:01:32,579
+of all they're only<font color="#CCCCCC"> assumed for seventy</font>
+
+41
+00:01:32,579 --> 00:01:36,210
+billion<font color="#CCCCCC"> dollars</font><font color="#E5E5E5"> so this is as big a</font>
+
+42
+00:01:36,210 --> 00:01:40,229
+lawsuit<font color="#E5E5E5"> as as you'll find and this is</font>
+
+43
+00:01:40,229 --> 00:01:41,610
+about half<font color="#CCCCCC"> the</font><font color="#E5E5E5"> country that it</font><font color="#CCCCCC"> affects</font>
+
+44
+00:01:41,610 --> 00:01:44,880
+<font color="#E5E5E5">so if all</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> our private</font><font color="#CCCCCC"> information I</font>
+
+45
+00:01:44,880 --> 00:01:46,770
+mean look to the right<font color="#E5E5E5"> of</font><font color="#CCCCCC"> you look to</font>
+
+46
+00:01:46,770 --> 00:01:50,670
+the<font color="#E5E5E5"> left of you</font><font color="#CCCCCC"> well one</font><font color="#E5E5E5"> of you has had</font>
+
+47
+00:01:50,670 --> 00:01:53,970
+<font color="#CCCCCC">your information compromised</font><font color="#E5E5E5"> so probably</font>
+
+48
+00:01:53,970 --> 00:01:57,439
+us<font color="#CCCCCC"> not</font><font color="#E5E5E5"> probably almost certainly</font><font color="#CCCCCC"> and and</font>
+
+49
+00:01:57,439 --> 00:02:00,930
+and you guys if you're watching<font color="#CCCCCC"> so let</font>
+
+50
+00:02:00,930 --> 00:02:02,430
+me give you another<font color="#E5E5E5"> twist of this story</font>
+
+51
+00:02:02,430 --> 00:02:06,270
+<font color="#E5E5E5">that should concern everyone so Equifax</font>
+
+52
+00:02:06,270 --> 00:02:10,500
+<font color="#E5E5E5">and uh</font><font color="#CCCCCC"> it's lobbying arm has been</font>
+
+53
+00:02:10,500 --> 00:02:12,420
+fighting<font color="#CCCCCC"> a certain</font>
+
+54
+00:02:12,420 --> 00:02:15,540
+consumer protection rules<font color="#E5E5E5"> one of those</font>
+
+55
+00:02:15,540 --> 00:02:17,489
+rules has to do with class-action
+
+56
+00:02:17,489 --> 00:02:20,280
+lawsuits<font color="#E5E5E5"> and so if you were worried that</font>
+
+57
+00:02:20,280 --> 00:02:22,739
+<font color="#E5E5E5">you were implicated</font><font color="#CCCCCC"> in the security</font>
+
+58
+00:02:22,739 --> 00:02:24,750
+breach<font color="#E5E5E5"> and you went to Equifax</font><font color="#CCCCCC"> a--'s</font>
+
+59
+00:02:24,750 --> 00:02:27,150
+website<font color="#E5E5E5"> where they allow you to search</font>
+
+60
+00:02:27,150 --> 00:02:29,970
+to see<font color="#CCCCCC"> whether</font><font color="#E5E5E5"> or not you're at risk</font><font color="#CCCCCC"> you</font>
+
+61
+00:02:29,970 --> 00:02:31,319
+<font color="#E5E5E5">should have read the</font><font color="#CCCCCC"> fine print</font><font color="#E5E5E5"> because</font>
+
+62
+00:02:31,319 --> 00:02:33,470
+<font color="#CCCCCC">the fine print indicates that you are</font>
+
+63
+00:02:33,470 --> 00:02:36,000
+<font color="#E5E5E5">waiving your right to a class-action</font>
+
+64
+00:02:36,000 --> 00:02:38,010
+lawsuit<font color="#E5E5E5"> if you search your name in</font><font color="#CCCCCC"> that</font>
+
+65
+00:02:38,010 --> 00:02:41,580
+database it is<font color="#E5E5E5"> insane and that is</font>
+
+66
+00:02:41,580 --> 00:02:43,260
+<font color="#CCCCCC">exactly why</font><font color="#E5E5E5"> you need the Consumer</font>
+
+67
+00:02:43,260 --> 00:02:45,060
+Protection<font color="#E5E5E5"> Bureau which fights</font>
+
+68
+00:02:45,060 --> 00:02:47,220
+<font color="#E5E5E5">aggressively to prevent that type of</font>
+
+69
+00:02:47,220 --> 00:02:49,260
+behavior<font color="#E5E5E5"> from happening but under the</font>
+
+70
+00:02:49,260 --> 00:02:50,910
+<font color="#CCCCCC">trump administration things are</font><font color="#E5E5E5"> likely</font>
+
+71
+00:02:50,910 --> 00:02:52,739
+<font color="#E5E5E5">to change so these are all things that</font>
+
+72
+00:02:52,739 --> 00:02:54,060
+<font color="#CCCCCC">you should keep in mind the Consumer</font>
+
+73
+00:02:54,060 --> 00:02:55,830
+Protection Bureau<font color="#E5E5E5"> is there to protect</font>
+
+74
+00:02:55,830 --> 00:02:58,890
+you the consumer yes so often these
+
+75
+00:02:58,890 --> 00:03:02,549
+these situations<font color="#E5E5E5"> that you</font><font color="#CCCCCC"> agree to terms</font>
+
+76
+00:03:02,549 --> 00:03:03,900
+and conditions<font color="#E5E5E5"> just in our routine</font>
+
+77
+00:03:03,900 --> 00:03:06,299
+<font color="#CCCCCC">taking</font><font color="#E5E5E5"> out</font><font color="#CCCCCC"> of apps or</font><font color="#E5E5E5"> whatever else they</font>
+
+78
+00:03:06,299 --> 00:03:08,760
+force arbitration<font color="#CCCCCC"> instead of your real</font>
+
+79
+00:03:08,760 --> 00:03:10,799
+ability to sue<font color="#E5E5E5"> and when Anna's talking</font>
+
+80
+00:03:10,799 --> 00:03:13,560
+about is that<font color="#E5E5E5"> in this case</font><font color="#CCCCCC"> so that's a</font>
+
+81
+00:03:13,560 --> 00:03:15,989
+they're forcing arbitration that's in
+
+82
+00:03:15,989 --> 00:03:17,579
+the terms and conditions of<font color="#E5E5E5"> what Anna's</font>
+
+83
+00:03:17,579 --> 00:03:18,780
+talking about where<font color="#E5E5E5"> you look for</font><font color="#CCCCCC"> your</font>
+
+84
+00:03:18,780 --> 00:03:21,000
+stuff and<font color="#E5E5E5"> you make</font><font color="#CCCCCC"> sure that you weren't</font>
+
+85
+00:03:21,000 --> 00:03:22,500
+part<font color="#E5E5E5"> of this hack and if you were hey</font>
+
+86
+00:03:22,500 --> 00:03:24,359
+<font color="#E5E5E5">we're gonna provide you with our service</font>
+
+87
+00:03:24,359 --> 00:03:26,519
+free for a year<font color="#CCCCCC"> but you're gonna</font><font color="#E5E5E5"> agree</font>
+
+88
+00:03:26,519 --> 00:03:28,230
+that you'll<font color="#E5E5E5"> just arbitrate this should</font>
+
+89
+00:03:28,230 --> 00:03:30,540
+there be any problem<font color="#E5E5E5"> and that then means</font>
+
+90
+00:03:30,540 --> 00:03:32,010
+you can't be<font color="#E5E5E5"> part of any class-action</font>
+
+91
+00:03:32,010 --> 00:03:35,190
+suit and any kind of any<font color="#E5E5E5"> kind of way to</font>
+
+92
+00:03:35,190 --> 00:03:38,489
+seriously pay off<font color="#E5E5E5"> what is a huge piece</font>
+
+93
+00:03:38,489 --> 00:03:40,799
+<font color="#CCCCCC">of damage to your reputation to</font><font color="#E5E5E5"> your</font>
+
+94
+00:03:40,799 --> 00:03:43,170
+ability<font color="#CCCCCC"> to conduct</font><font color="#E5E5E5"> basic commerce in</font>
+
+95
+00:03:43,170 --> 00:03:44,820
+life right<font color="#E5E5E5"> I mean</font><font color="#CCCCCC"> it's your say</font><font color="#E5E5E5"> Anna</font>
+
+96
+00:03:44,820 --> 00:03:46,799
+this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> devastating</font><font color="#E5E5E5"> it is devastating</font>
+
+97
+00:03:46,799 --> 00:03:48,120
+especially<font color="#E5E5E5"> considering you know the</font>
+
+98
+00:03:48,120 --> 00:03:49,620
+<font color="#CCCCCC">sensitivity of the</font><font color="#E5E5E5"> data that these</font>
+
+99
+00:03:49,620 --> 00:03:51,840
+<font color="#CCCCCC">hackers have access to it's likely to</font><font color="#E5E5E5"> be</font>
+
+100
+00:03:51,840 --> 00:03:54,209
+sold on<font color="#E5E5E5"> the dark web</font><font color="#CCCCCC"> now and it's gonna</font>
+
+101
+00:03:54,209 --> 00:03:57,000
+cause<font color="#CCCCCC"> all sorts of problems for you know</font>
+
+102
+00:03:57,000 --> 00:03:59,810
+<font color="#E5E5E5">hundreds of millions</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> Americans so</font>
+
+103
+00:03:59,810 --> 00:04:01,680
+luckily it's<font color="#E5E5E5"> not about sensitive</font>
+
+104
+00:04:01,680 --> 00:04:04,079
+<font color="#E5E5E5">information</font><font color="#CCCCCC"> no they have everything</font><font color="#E5E5E5"> so</font>
+
+105
+00:04:04,079 --> 00:04:06,930
+this is as bad<font color="#CCCCCC"> as it gets</font><font color="#E5E5E5"> look</font><font color="#CCCCCC"> on the</font>
+
+106
+00:04:06,930 --> 00:04:09,810
+one<font color="#E5E5E5"> hand I want</font><font color="#CCCCCC"> to give a little bit</font><font color="#E5E5E5"> of</font>
+
+107
+00:04:09,810 --> 00:04:14,250
+context here<font color="#CCCCCC"> look people are</font><font color="#E5E5E5"> hacking is</font>
+
+108
+00:04:14,250 --> 00:04:15,569
+a hell of<font color="#E5E5E5"> a thing and it's really</font><font color="#CCCCCC"> hard</font>
+
+109
+00:04:15,569 --> 00:04:17,070
+<font color="#E5E5E5">to keep track</font><font color="#CCCCCC"> of it's really hard to</font>
+
+110
+00:04:17,070 --> 00:04:22,019
+prevent<font color="#E5E5E5"> and and so I have some</font><font color="#CCCCCC"> sympathy</font>
+
+111
+00:04:22,019 --> 00:04:23,729
+<font color="#CCCCCC">for them in that regard and then I have</font>
+
+112
+00:04:23,729 --> 00:04:25,000
+some<font color="#CCCCCC"> sympathy in that they</font>
+
+113
+00:04:25,000 --> 00:04:26,320
+then<font color="#CCCCCC"> announce it immediately</font><font color="#E5E5E5"> because</font>
+
+114
+00:04:26,320 --> 00:04:27,160
+they're gonna<font color="#E5E5E5"> have to take a lot of</font>
+
+115
+00:04:27,160 --> 00:04:28,840
+precautions<font color="#CCCCCC"> and</font><font color="#E5E5E5"> you got to make sure</font>
+
+116
+00:04:28,840 --> 00:04:31,330
+<font color="#E5E5E5">that you've</font><font color="#CCCCCC"> got everything</font><font color="#E5E5E5"> straightened</font>
+
+117
+00:04:31,330 --> 00:04:32,800
+out before<font color="#E5E5E5"> you let</font><font color="#CCCCCC"> people know</font><font color="#E5E5E5"> and then</font>
+
+118
+00:04:32,800 --> 00:04:35,440
+the panic begins right<font color="#E5E5E5"> so having said</font>
+
+119
+00:04:35,440 --> 00:04:39,430
+that if you're a<font color="#CCCCCC"> mom-and-pop</font><font color="#E5E5E5"> shop and</font>
+
+120
+00:04:39,430 --> 00:04:40,510
+you got a restaurant and you took some
+
+121
+00:04:40,510 --> 00:04:42,730
+<font color="#CCCCCC">credit-card bills</font><font color="#E5E5E5"> and some jerk hacked</font>
+
+122
+00:04:42,730 --> 00:04:44,500
+you Jesus<font color="#E5E5E5"> you didn't have enough money</font>
+
+123
+00:04:44,500 --> 00:04:46,780
+for security<font color="#CCCCCC"> I hear you</font><font color="#E5E5E5"> if you're</font>
+
+124
+00:04:46,780 --> 00:04:49,510
+Equifax<font color="#E5E5E5"> and you have a hundred and forty</font>
+
+125
+00:04:49,510 --> 00:04:52,030
+three million people's information<font color="#CCCCCC"> no</font>
+
+126
+00:04:52,030 --> 00:04:53,440
+it's incumbent upon you to take
+
+127
+00:04:53,440 --> 00:04:56,380
+tremendous precautions to make<font color="#CCCCCC"> sure</font>
+
+128
+00:04:56,380 --> 00:04:58,450
+<font color="#CCCCCC">that's</font><font color="#E5E5E5"> the heart of your business</font><font color="#CCCCCC"> so</font>
+
+129
+00:04:58,450 --> 00:05:00,460
+you've got to take<font color="#CCCCCC"> those precautions now</font>
+
+130
+00:05:00,460 --> 00:05:02,860
+<font color="#E5E5E5">again I don't begrudge them the taking</font><font color="#CCCCCC"> a</font>
+
+131
+00:05:02,860 --> 00:05:04,330
+month<font color="#E5E5E5"> to figure out how to announce this</font>
+
+132
+00:05:04,330 --> 00:05:06,610
+news and in<font color="#E5E5E5"> the case of the three</font>
+
+133
+00:05:06,610 --> 00:05:08,620
+executives who sold their stock after
+
+134
+00:05:08,620 --> 00:05:11,080
+<font color="#CCCCCC">the company knew but before the public</font>
+
+135
+00:05:11,080 --> 00:05:13,960
+<font color="#CCCCCC">knew and made</font><font color="#E5E5E5"> 1.7 million dollars</font><font color="#CCCCCC"> or</font><font color="#E5E5E5"> two</font>
+
+136
+00:05:13,960 --> 00:05:16,060
+or sold 1.7 million<font color="#CCCCCC"> dollars worth of</font>
+
+137
+00:05:16,060 --> 00:05:18,540
+stock<font color="#E5E5E5"> well let's give context there</font><font color="#CCCCCC"> to</font>
+
+138
+00:05:18,540 --> 00:05:21,280
+it could<font color="#E5E5E5"> be that these executives are</font>
+
+139
+00:05:21,280 --> 00:05:24,000
+super rich<font color="#CCCCCC"> so you'd have</font><font color="#E5E5E5"> to look at the</font>
+
+140
+00:05:24,000 --> 00:05:26,680
+period<font color="#E5E5E5"> of time is it</font><font color="#CCCCCC"> different</font><font color="#E5E5E5"> than a</font>
+
+141
+00:05:26,680 --> 00:05:29,470
+normal<font color="#CCCCCC"> three-day period</font><font color="#E5E5E5"> or a week or</font>
+
+142
+00:05:29,470 --> 00:05:31,600
+whenever they sold<font color="#E5E5E5"> it off maybe</font><font color="#CCCCCC"> they'd</font>
+
+143
+00:05:31,600 --> 00:05:33,220
+sell off 1.7 million dollars<font color="#CCCCCC"> all the</font>
+
+144
+00:05:33,220 --> 00:05:36,760
+<font color="#CCCCCC">time</font><font color="#E5E5E5"> etc</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> if you find but</font><font color="#CCCCCC"> you should</font>
+
+145
+00:05:36,760 --> 00:05:39,520
+look into<font color="#CCCCCC"> it and yes you see should yeah</font>
+
+146
+00:05:39,520 --> 00:05:40,990
+there<font color="#E5E5E5"> will</font><font color="#CCCCCC"> probably yeah and if you're</font>
+
+147
+00:05:40,990 --> 00:05:42,820
+<font color="#CCCCCC">looking to it and you find out</font><font color="#E5E5E5"> no it is</font>
+
+148
+00:05:42,820 --> 00:05:45,790
+<font color="#E5E5E5">not at all normal and all of a</font><font color="#CCCCCC"> sudden</font>
+
+149
+00:05:45,790 --> 00:05:47,320
+right after they<font color="#E5E5E5"> found out about the</font>
+
+150
+00:05:47,320 --> 00:05:51,010
+<font color="#CCCCCC">hack these three executives who knew has</font>
+
+151
+00:05:51,010 --> 00:05:53,320
+sold 1.7 million dollars<font color="#E5E5E5"> of stock with</font>
+
+152
+00:05:53,320 --> 00:05:54,940
+insider knowledge that they have<font color="#E5E5E5"> it the</font>
+
+153
+00:05:54,940 --> 00:05:57,280
+<font color="#E5E5E5">public didn't know and it is not within</font>
+
+154
+00:05:57,280 --> 00:05:59,740
+any range of<font color="#CCCCCC"> normal</font><font color="#E5E5E5"> they should go to</font>
+
+155
+00:05:59,740 --> 00:06:02,620
+prison<font color="#CCCCCC"> yeah that's how it goes</font><font color="#E5E5E5"> that's</font>
+
+156
+00:06:02,620 --> 00:06:04,390
+<font color="#E5E5E5">how it's supposed to go but we know how</font>
+
+157
+00:06:04,390 --> 00:06:06,970
+it really<font color="#CCCCCC"> goes okay then do we</font><font color="#E5E5E5"> have a</font>
+
+158
+00:06:06,970 --> 00:06:07,810
+<font color="#E5E5E5">government anymore</font>
+
+159
+00:06:07,810 --> 00:06:09,820
+this is the right<font color="#E5E5E5"> wing says that like oh</font>
+
+160
+00:06:09,820 --> 00:06:12,490
+we were<font color="#CCCCCC"> oh boy</font><font color="#E5E5E5"> a rule of law we don't</font>
+
+161
+00:06:12,490 --> 00:06:13,870
+have a government<font color="#E5E5E5"> anymore we don't have</font>
+
+162
+00:06:13,870 --> 00:06:15,910
+a country<font color="#CCCCCC"> anymore well if white collar</font>
+
+163
+00:06:15,910 --> 00:06:19,000
+criminals can commit fraud<font color="#CCCCCC"> and at and</font>
+
+164
+00:06:19,000 --> 00:06:22,660
+criminal acts<font color="#E5E5E5"> any time they want well</font>
+
+165
+00:06:22,660 --> 00:06:24,880
+<font color="#E5E5E5">then it what we're saying is we're not</font><font color="#CCCCCC"> a</font>
+
+166
+00:06:24,880 --> 00:06:27,040
+<font color="#CCCCCC">democracy anymore the law</font><font color="#E5E5E5"> only applies</font>
+
+167
+00:06:27,040 --> 00:06:28,720
+to the middle<font color="#E5E5E5"> class and the poor but the</font>
+
+168
+00:06:28,720 --> 00:06:30,400
+rich can do whatever they want<font color="#CCCCCC"> and it's</font>
+
+169
+00:06:30,400 --> 00:06:32,350
+gross<font color="#E5E5E5"> so again they have to investigate</font>
+
+170
+00:06:32,350 --> 00:06:34,120
+<font color="#E5E5E5">it I'm not saying by definition it is</font>
+
+171
+00:06:34,120 --> 00:06:36,610
+<font color="#E5E5E5">but if they found out that it is</font><font color="#CCCCCC"> insider</font>
+
+172
+00:06:36,610 --> 00:06:37,990
+<font color="#E5E5E5">information</font><font color="#CCCCCC"> they should get</font>
+
+173
+00:06:37,990 --> 00:06:40,900
+we go to<font color="#E5E5E5"> jail and then lastly the Anna's</font>
+
+174
+00:06:40,900 --> 00:06:43,770
+right the<font color="#E5E5E5"> most egregious part</font><font color="#CCCCCC"> of this is</font>
+
+175
+00:06:43,770 --> 00:06:46,900
+is is the<font color="#CCCCCC"> part where they have you sign</font>
+
+176
+00:06:46,900 --> 00:06:48,310
+away<font color="#CCCCCC"> your rights I</font><font color="#E5E5E5"> mean think about it</font>
+
+177
+00:06:48,310 --> 00:06:52,720
+<font color="#E5E5E5">okay we</font><font color="#CCCCCC"> screwed</font><font color="#E5E5E5"> up Equifax</font><font color="#CCCCCC"> and so all</font><font color="#E5E5E5"> of</font>
+
+178
+00:06:52,720 --> 00:06:54,160
+<font color="#E5E5E5">your private</font><font color="#CCCCCC"> information is out there it</font>
+
+179
+00:06:54,160 --> 00:06:56,830
+<font color="#E5E5E5">could cause you tremendous damage so in</font>
+
+180
+00:06:56,830 --> 00:06:58,330
+order<font color="#CCCCCC"> for you to</font><font color="#E5E5E5"> figure</font><font color="#CCCCCC"> out</font><font color="#E5E5E5"> how to fix</font>
+
+181
+00:06:58,330 --> 00:07:01,480
+the damage<font color="#E5E5E5"> you come to our site and then</font>
+
+182
+00:07:01,480 --> 00:07:04,150
+<font color="#E5E5E5">huh I tricked you you came to our site</font>
+
+183
+00:07:04,150 --> 00:07:06,490
+<font color="#E5E5E5">you just signed away</font><font color="#CCCCCC"> your rights to sue</font>
+
+184
+00:07:06,490 --> 00:07:10,090
+us no that's not remotely acceptable<font color="#CCCCCC"> so</font>
+
+185
+00:07:10,090 --> 00:07:11,590
+<font color="#E5E5E5">I don't know if the government</font><font color="#CCCCCC"> will ever</font>
+
+186
+00:07:11,590 --> 00:07:14,710
+protect<font color="#E5E5E5"> the average American or all they</font>
+
+187
+00:07:14,710 --> 00:07:15,970
+do is protect<font color="#E5E5E5"> the rich and the</font>
+
+188
+00:07:15,970 --> 00:07:17,710
+multinational<font color="#E5E5E5"> corporations but we're</font>
+
+189
+00:07:17,710 --> 00:07:19,450
+gonna<font color="#E5E5E5"> find out we're gonna find out what</font>
+
+190
+00:07:19,450 --> 00:07:21,250
+happens here with Equifax<font color="#E5E5E5"> because if</font>
+
+191
+00:07:21,250 --> 00:07:23,680
+they are<font color="#E5E5E5"> allowed to just say we screwed</font>
+
+192
+00:07:23,680 --> 00:07:25,480
+you over<font color="#E5E5E5"> you have to come</font><font color="#CCCCCC"> over and look</font>
+
+193
+00:07:25,480 --> 00:07:27,370
+to see<font color="#CCCCCC"> if</font><font color="#E5E5E5"> you got screwed over</font><font color="#CCCCCC"> ha ha</font>
+
+194
+00:07:27,370 --> 00:07:29,140
+<font color="#E5E5E5">tricked you now you won't be</font><font color="#CCCCCC"> able to</font><font color="#E5E5E5"> sue</font>
+
+195
+00:07:29,140 --> 00:07:30,670
+us<font color="#E5E5E5"> and the government</font><font color="#CCCCCC"> doesn't do</font>
+
+196
+00:07:30,670 --> 00:07:33,310
+anything about<font color="#E5E5E5"> that</font><font color="#CCCCCC"> then we then</font><font color="#E5E5E5"> we're</font>
+
+197
+00:07:33,310 --> 00:07:35,020
+not a<font color="#CCCCCC"> democracy and we've lost</font>
+
+198
+00:07:35,020 --> 00:07:37,390
+everything<font color="#E5E5E5"> and we're just ruled by a new</font>
+
+199
+00:07:37,390 --> 00:07:41,380
+set of<font color="#CCCCCC"> Lords</font><font color="#E5E5E5"> and royalty that that are</font>
+
+200
+00:07:41,380 --> 00:07:43,630
+now are playing with our<font color="#CCCCCC"> lives</font><font color="#E5E5E5"> support</font>
+
+201
+00:07:43,630 --> 00:07:44,530
+independent media
+
+202
+00:07:44,530 --> 00:07:46,900
+come join<font color="#E5E5E5"> us</font><font color="#CCCCCC"> the Young Turks TYT Network</font>
+
+203
+00:07:46,900 --> 00:00:00,000
+dot-com<font color="#CCCCCC"> slash</font><font color="#E5E5E5"> join</font>
+

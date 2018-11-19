@@ -1,0 +1,32 @@
+1
+00:00:21,930 --> 00:00:26,449
+I'm going back<font color="#E5E5E5"> to</font>
+
+2
+00:00:45,079 --> 00:00:47,329
+and you subtract the weight of the
+
+3
+00:00:47,329 --> 00:00:49,070
+burrito<font color="#CCCCCC"> from the weight of</font><font color="#E5E5E5"> the burrito</font>
+
+4
+00:00:49,070 --> 00:00:50,750
+bowl<font color="#CCCCCC"> you end</font><font color="#E5E5E5"> up with a difference of</font>
+
+5
+00:00:50,750 --> 00:00:53,960
+about<font color="#CCCCCC"> 0.4 for 8 pounds that means</font><font color="#E5E5E5"> that</font>
+
+6
+00:00:53,960 --> 00:00:57,079
+after<font color="#CCCCCC"> you do the math</font><font color="#E5E5E5"> you end up with 70</font>
+
+7
+00:00:57,079 --> 00:01:00,050
+<font color="#E5E5E5">point</font><font color="#CCCCCC"> 7</font><font color="#E5E5E5"> percent</font><font color="#CCCCCC"> more food</font><font color="#E5E5E5"> with a burrito</font>
+
+8
+00:01:00,050 --> 00:00:00,000
+bowl<font color="#E5E5E5"> than with the burrito</font>
+

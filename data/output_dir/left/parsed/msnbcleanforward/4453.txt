@@ -1,0 +1,335 @@
+today the Treasury Department announced
+they were going to bring sanctions new
+sanctions against the Russians who were
+indicted by robert muller last month yet
+another payout from the robert muller
+special counsels office but then at the
+same time we also got this a technical
+alert from the FBI and the Department of
+Homeland Security this alert provides
+information on Russian government
+actions targeting US government entities
+as well as organizations in the energy
+nuclear commercial facilities water
+aviation and critical manufacturing
+sectors this alert contains indicators
+of compromise and technical details on
+the tactics techniques and procedures
+used by Russian government cyber actors
+on compromised victim networks now you
+can tell from all the weird nouns there
+that this is obviously a technical
+document this is a long and technical
+document but the plain English of it is
+clear it's a it's a warning it's some
+sort of nationwide signal that something
+is wrong
+says right at the top of the report
+contact DHS or law enforcement
+immediately to report an intrusion now I
+am not tech savvy enough or sort of
+computer engineer minded enough to
+understand a ton of what is here
+particularly the long strings of
+computer code that are included in this
+report but what is clear to me just as
+somebody who reads the news is that this
+appears to be the follow-up and much
+more serious and much more public update
+to something we saw that happen this
+past summer this past summer you might
+remember this when you see this picture
+of that nuclear power plant
+this past summer Bloomberg News of New
+York Times reported that a secret
+warning had been issued by these same
+agencies by Homeland Security and F and
+the FBI a secret warning had been issued
+to American power plant operators
+telling them that there had been cyber
+attacks specifically targeting u.s.
+power plants including memorably the
+operator of this big isolated nuclear
+reactor out in Burlington Kansas the
+warning this past summer about these
+cyber attacks on American power plants
+it didn't name who the perpetrator of
+those attacks was and clearly that
+warning was also never meant to be
+public it was sent out secretly to power
+plant operators to let
+them know how to protect themselves we
+the public only found out about it
+because of very alarming leaks about
+this secret warning that made their way
+into the pages of the New York Times and
+Bloomberg News so that was last summer
+now it's seven eight months later now
+the government is making a public
+warning saying that these attacks on US
+power plants have been committed by a
+known perpetrator they've perpetrated by
+the government of Russia
+and this time the warning is public it's
+not a secret warning that only goes out
+to power plant operators and skilled
+journalists it's going to everybody and
+I think what they are saying is that
+these attacks have gotten more serious
+Nicole pearlroth at the New York Times
+covered this for The Times last summer
+when the warning had been secret and it
+hadn't named Russia
+Nicole pearlroth is also covering it
+tonight for the New York Times now that
+the warning is public and it does name
+Russia here's how she explains the
+evolution here quote in its urgent
+report in June the Department of
+Homeland Security and the FBI notified
+power plant operators about the attacks
+but stopped short of identifying Russia
+as the culprit by then Russian spies had
+compromised the business networks
+business networks of several American
+energy water and nuclear plants mapping
+out their corporate structures and
+computer networks they included that of
+the Wolf Creek nuclear operating
+corporation which runs a nuclear plant
+near Burlington Kansas but in that case
+and those of other nuclear operators
+Russian hackers hadn't left from the
+company's business networks into nuclear
+plant controls forensic analysis
+suggested that Russian spies were
+looking for inroads although it wasn't
+clear what what their goal was well now
+apparently they've gotten further in
+these attacks according to this report
+released today by homeland security in
+the FBI by the spring of 2017
+Russian attackers successfully
+compromised some North American and
+European energy operators in the
+following months the Russian hackers
+made their way to machines that have
+access to critical control systems at
+power plants so not just the business
+side but the stuff that actually
+controls the power plants new computer
+screenshots released in the report today
+show that Russian state hackers
+have the foothold they would have needed
+to manipulate or shut down a u.s. power
+plants according to Eric chin a security
+technology director at Symantec a
+digital security firm that's reported
+extensively on this attack quote we now
+have evidence that they're sitting on
+the machines connected to industrial
+control infrastructure that allow them
+to effectively turn the power off or
+effect sabotage from what we can see
+they're there and they have the ability
+to shut the power off all that's missing
+is some political motivation the reason
+this story belongs today alongside the
+new sanctions that were just announced
+against Russia and the Moller
+investigation more broadly the reason
+this belongs align side that reporting
+is in part because this is something
+else done by the Russian government to
+us but it's also because of the timing
+what's described here in this new
+technical warning from homeland security
+in the FBI is an attack that does have
+have roots and you can see first signs
+of it going several years back but in
+terms of when this really got going it
+parallels exactly the timing and the
+pace at which Russia was mounting their
+other attacks on our election leading up
+to the election victory of Donald Trump
+quote the strikes accelerated in late
+2015 at the same time the Russian
+interference in the American election
+was underway by December 2015 the
+Russian hacks had taken an aggressive
+turn the attacks were no longer aimed at
+intelligence gathering
+but at potentially sabotaging or
+shutting down power plant operations
+this would suggest that at least three
+separate Russian cyber operations were
+underway simultaneously one focused on
+stealing documents from the Democratic
+National Committee and other political
+groups a second using social media to
+sow discord and division and this third
+effort sought to burrow into the
+infrastructure of American and European
+nations joining us now is Nicole pearl
+Roth who covered the secret warning to
+power plant operators last summer is
+covering this public warning and
+technical alert from DHS and FBI tonight
+at the New York Times I'm is pearlroth
+thanks very much for joining us I
+appreciate you being here thanks Rita so
+first of all this is technical stuff and
+I'm not that technically minded I will
+bet that I just got some of that wrong
+can you tell me if I got anything
+important wrong or if those basics were
+correct the basics were correct you did
+a pretty good job there you know the
+point is we've been under attack by
+Russia for a while now
+this is the first time today that the US
+government has come out publicly and
+named Russia as the perpetrator behind
+some of these pretty serious attacks on
+our critical infrastructure last year as
+you mentioned I covered the attack on
+the Wolf Creek nuclear plant that was
+one of about a dozen nuclear power
+plants that Russians had targeted what's
+different in the announcement today is
+it actually included a screen shot that
+showed Russia's Russian hackers have
+their buttons
+sorry their fingers on the buttons here
+they if they wanted to could have shut
+down some of these power plants or
+sabotage them in some way now there's no
+evidence that they have done not yet but
+for the first time we put out publicly
+that they certainly have that capability
+why was the previous warning to power
+plant operators secret the one that you
+reported on last summer that was not a
+public warning I did altom Utley make it
+into public discussion in part because
+of your reporting on it but this one is
+public today is it does it necessarily
+follow that the increased severity of
+these cyber attacks would result in it
+being more important for this morning to
+be public or would some of the same
+caution apply that led them to keep the
+previous warning under Epps I think when
+they first came out with it last year it
+had been about three months of innis
+into a series of attacks on power plants
+and nuclear facilities and as we
+reported last year basically they had
+only gotten into the business and
+administrative computer networks back
+then they hadn't been able to make the
+leap from those networks into the
+control systems themselves what's
+different now and what they came out
+with today was basically that's changed
+we're now in a very serious situation
+where Russian hackers are no longer just
+in the administrative networks they
+actually are in the computers that have
+access to the machinery themselves
+they're they're stealing screenshots and
+they were taking screenshots that that
+the Department of Homeland Security
+published today which
+that they were they were there they they
+can turn off some of those power plant
+systems if they want to they could
+manipulate them they can sabotage them
+and they're there and I think we've got
+into a point where these attacks have
+gotten so serious that we were left with
+no choice but to come out and say hey we
+know you're there is this the sort of
+thing we're identifying it pointing out
+what they've done naming in in some
+cases the the specific technical ways
+that these hacks were achieved the
+specific type of malware that was used
+on all these other things strings of
+computer code that are in this technical
+alert is this the sort of thing we're
+naming it and identifying it will allow
+power plant operators to stop hackers
+from potentially doing this or are these
+power plant operators essentially
+helpless and tonight if Russian hackers
+wanted to they could shut these things
+down I mean it's a great question I
+think at this point part of the reason
+they came out with this is to tell power
+plant operators hey look for this on
+your systems because it's happening and
+it's real there's a the separate
+question is whether they can defend
+against it and there it's just not clear
+unfortunately when you look at the
+critical infrastructure in the United
+States first of all most of its
+controlled privately it's not like if
+we're attacked the government can come
+in and sweep things up and fix things
+this is largely been left to the private
+sector to deal with and the private
+sectors relied on a lot of old legacy
+software which just makes it even easier
+for some of these attacks to happen so
+in some cases when you talk to some of
+the the targets they don't even know
+that they've been compromised
+hopefully we hope that in many cases
+when the government sees evidence or
+picks up evidence that that Russians are
+inside their systems they tip off these
+companies as soon as possible but
+there's definitely some instances out
+there where you have a situation where a
+power plant or a critical infrastructure
+provider or oil and pipeline operator
+has been compromised by some of these
+Russian state-sponsored groups and don't
+even know about it
+well well everybody's tipped off now and
+now it's a question of whether or not
+they can successfully defend themselves
+and fix and fix what's already gone
+wrong Nicole pearlroth cybersecurity
+reporter at The New York Times that was
+an absolutely terrifying discussion but
+clarifying as well thank you for helping
+us understand it thanks for having me
+Rachel all right um-hmm
+I thought the scariest thing in
+cyberattack news today was going to be
+the other story that Nicole Perl Roth
+had in the New York Times today which is
+about a petrochemical plant in Saudi
+Arabia being hit by a cyber attack that
+was designed to not just shut it down
+but to make it explode and kill people
+and then we got her follow-up story
+which is about what's happening here
+right under our noses in our country all
+right since I have been speaking in the
+last couple of minutes we've got some
+breaking news tonight
+about what is said to be the next
+high-level major staff shake-up at the
+White House one of the reporters who
+just broke that story joins us next day
+with us hey there I'm Chris Hayes from
+MSNBC thanks for watching MSNBC on
+YouTube if you want to keep up to date
+with the videos we're putting out you
+can click subscribe just below me or
+click over on this list to see lots of
+other great videos

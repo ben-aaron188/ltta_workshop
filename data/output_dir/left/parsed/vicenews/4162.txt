@@ -1,0 +1,57 @@
+Puerto Ricans emerged from their homes today
+to find an island utterly devastated
+by Hurricane Maria.
+Maria is just the latest in a nasty string of hurricanes
+that suggest that deadly storms are
+hitting with more frequency and power.
+But scientists have upped their game, too:
+with a new satellite called GOES-16
+that produces the most detailed
+hurricane images ever recorded.
+VICE News spoke to Mike Stringer,
+the NOAA engineer who runs the program.
+— GOES-16 is better than the legacy satellites
+that are up there previously,
+because it has three times the spectral resolution—
+in other words, the number of color bands it can see.
+It has four times the resolution as the legacy satellites
+and five times the refresh rate
+of being able to take images.
+Where are the old satellites,
+they could do a mesoscale,
+but they had to stop doing everything else.
+So, we can do all of that at the same time.
+We can look at the clouds and,
+from one time step to the next,
+see where that cloud is moving
+and tell how the winds are.
+Those winds can then be put in the models
+and used to say how that hurricane’s going to move.
+The other new instrument we have on the satellite
+is a geostationary lightning mapper.
+And so this sees all the lightning,
+and scientists have done some analysis showing
+that when that total lightning count jumps,
+that’s usually a precursor indicator
+that that storm is getting very severe
+and could produce severe hail, possibly tornados.
+Another feature that it allows us to do,
+but we’re not as focused on right now
+because of the hurricanes,
+is to detect fires.
+We can see fires in hot spots around the country
+and we’ve been able to look at the heat patterns change
+and follow that direction of that front moving through.
+In the last about five years, on average,
+there’s been 10 billion-dollar weather-related disasters.
+This year, before Harvey,
+I believe the number had been seven already.
+The estimates on Harvey are tens of billions,
+or even maybe a hundred billion.
+So, by creating these programs
+and getting the satellites up
+and be able to get the information
+out quicker to people,
+they’ll be able to protect themselves.
+And depending on what the type of event it is,
+they may even be able to protect their property.

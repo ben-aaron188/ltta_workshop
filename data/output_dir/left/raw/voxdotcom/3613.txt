@@ -1,0 +1,308 @@
+1
+00:00:00,030 --> 00:00:04,799
+It's hard to overestimate just how much
+broadband changed the internet. Back when
+
+2
+00:00:04,799 --> 00:00:07,980
+you had to connect to the internet using
+dial-up, information traveled slowly.
+
+3
+00:00:07,980 --> 00:00:13,070
+Pages took forever to load and watching
+this video would have been impossible.
+
+4
+00:00:13,070 --> 00:00:18,000
+Today's internet is a completely
+different creature, which is why it's so
+
+5
+00:00:18,000 --> 00:00:21,869
+puzzling that the last time Congress
+passed a major legislation for
+
+6
+00:00:21,869 --> 00:00:26,730
+regulating the internet, it was 1996. And
+so the task of regulating the Internet
+
+7
+00:00:26,730 --> 00:00:32,488
+has fallen to five unelected bureaucrats:
+the Federal Communications Commission.
+
+8
+00:00:32,488 --> 00:00:37,380
+As the tools we use to access the Internet
+have changed, they've had to decide what
+
+9
+00:00:37,380 --> 00:00:41,460
+kinds of rules the companies that
+provide those tools should have to
+
+10
+00:00:41,460 --> 00:00:46,620
+follow. And now under a new commissioner
+appointed by President Trump the FCC has
+
+11
+00:00:46,620 --> 00:00:50,910
+altered those rules in a way that could
+fundamentally change how we use the Internet.
+
+12
+00:00:50,910 --> 00:00:55,379
+Take a deep breath. This decision will
+
+13
+00:00:55,379 --> 00:00:59,370
+not break the Internet. This decision
+puts the Federal Communications
+
+14
+00:00:59,370 --> 00:01:04,920
+Commission on the wrong side of history.
+It creates a free-for-all, that we have
+
+15
+00:01:04,920 --> 00:01:10,159
+not had on the Internet in the past and
+that's very very dangerous. It's gonna be f****d.
+
+16
+00:01:10,159 --> 00:01:16,320
+What we're seeing here is the cable-ization of the Internet. This is a dark
+
+17
+00:01:16,320 --> 00:01:20,189
+day for innovation, this is a dark day
+for small business, it is a dark day for
+
+18
+00:01:20,189 --> 00:01:24,509
+consumers. First, let's define what most
+people mean when they talk about Net
+
+19
+00:01:24,509 --> 00:01:28,590
+Neutrality. A good working consensus
+model that most would agree with is the
+
+20
+00:01:28,590 --> 00:01:32,490
+idea that Internet Service Providers
+should treat all traffic more or less
+
+21
+00:01:32,490 --> 00:01:36,960
+the same on their network. This means the
+companies whose wires and towers we use
+
+22
+00:01:36,960 --> 00:01:40,740
+to access the Internet,
+can't block or slow down data from
+
+23
+00:01:40,740 --> 00:01:45,030
+certain sites or apps. They can't make
+special deals to move certain data along
+
+24
+00:01:45,030 --> 00:01:49,259
+faster than everybody else's. Internet
+content providers like Facebook, Google,
+
+25
+00:01:49,259 --> 00:01:53,670
+and Netflix - they love Net Neutrality
+because it means that even if some of
+
+26
+00:01:53,670 --> 00:01:58,110
+their products, like streaming this video
+for example, take up a lot more bandwidth
+
+27
+00:01:58,110 --> 00:02:03,299
+than others like email, Internet Service
+Providers can't charge them extra for
+
+28
+00:02:03,299 --> 00:02:08,520
+getting all that data to our phones and
+computers. Which is exactly why ISPs like
+
+29
+00:02:08,520 --> 00:02:13,720
+Comcast Verizon and AT&T hate it.
+If they could charge Netflix and YouTube
+
+30
+00:02:13,720 --> 00:02:19,090
+extra for those big packets of data, they
+could make a lot of money and now that
+
+31
+00:02:19,090 --> 00:02:24,970
+the FCC has scrapped the net neutrality
+rules they almost certainly will. ISPs
+
+32
+00:02:24,970 --> 00:02:29,530
+will also be able to charge customers
+more to access sites or apps that take
+
+33
+00:02:29,530 --> 00:02:34,750
+up more bandwidth. And some argue this
+will mean more choices for consumers.
+
+34
+00:02:34,750 --> 00:02:37,660
+My sense is this will be fantastic,
+right because my daughter chews through
+
+35
+00:02:37,660 --> 00:02:41,410
+my Verizon data cap every month and all
+she ever does is Instagram. So if I could
+
+36
+00:02:41,410 --> 00:02:44,500
+pay like 20 bucks and get her a phone
+that I can text with her and talk with
+
+37
+00:02:44,500 --> 00:02:48,760
+her, but would allow her to use Instagram
+and get her off my standard data plan
+
+38
+00:02:48,760 --> 00:02:53,500
+that would be great. But by privileging
+established tools like Instagram, these
+
+39
+00:02:53,500 --> 00:02:58,090
+plans could make it a lot harder for new
+ones to break through. It's a time when
+
+40
+00:02:58,090 --> 00:03:03,250
+more than ever we want to encourage and
+keep open a playing field for new
+
+41
+00:03:03,250 --> 00:03:07,720
+services, new platforms, to be able to get
+in the game and provide a real
+
+42
+00:03:07,720 --> 00:03:10,240
+alternative.
+I mean imagine a world in which we were
+
+43
+00:03:10,240 --> 00:03:14,290
+all still stuck with MySpace. I don't
+think, you know, that's what we want, but
+
+44
+00:03:14,290 --> 00:03:19,600
+Net Neutrality is part of why that's not
+what we have. Until 2005 Internet Service
+
+45
+00:03:19,600 --> 00:03:23,890
+Providers were classified as common
+carriers which meant the FCC could
+
+46
+00:03:23,890 --> 00:03:27,700
+regulate them like phone companies. In
+the Internet's early days these
+
+47
+00:03:27,700 --> 00:03:31,750
+regulations kept phone companies from
+charging customers extra for using
+
+48
+00:03:31,750 --> 00:03:36,850
+dial-up services like AOL and when phone
+companies started offering DSL broadband
+
+49
+00:03:36,850 --> 00:03:40,480
+service over their lines, common carrier
+rules force them to let their
+
+50
+00:03:40,480 --> 00:03:45,460
+competitors use those lines too. Which
+meant consumers had tons of choices when
+
+51
+00:03:45,460 --> 00:03:47,500
+it came to picking an Internet Service
+Provider.
+
+52
+00:03:47,500 --> 00:03:52,330
+A 2003 page from the Washington Post
+lists 18 different DSL options for the
+
+53
+00:03:52,330 --> 00:03:56,140
+Washington, D.C. region. Today,
+residents have less than half as many
+
+54
+00:03:56,140 --> 00:04:03,610
+choices. So what happened? In 2005 the FCC
+did the same thing it did in 2017. It
+
+55
+00:04:03,610 --> 00:04:07,630
+said ISPs weren't common carriers and it
+stopped regulating them like phone
+
+56
+00:04:07,630 --> 00:04:13,210
+companies and without that regulation
+ISPs became virtual monopolies. Today,
+
+57
+00:04:13,210 --> 00:04:17,440
+two-thirds of Americans live in areas
+with just one choice for high-speed
+
+58
+00:04:17,440 --> 00:04:20,420
+Internet.
+And if their ISPs start blocking,
+
+59
+00:04:20,420 --> 00:04:25,520
+slowing down, or charging more as a
+result of this rule change, their options
+
+60
+00:04:25,520 --> 00:04:28,970
+are to put up with it or go without the
+Internet. Despite the fact that
+
+61
+00:04:28,970 --> 00:04:33,260
+majorities of both Republican and
+Democratic voters support Net Neutrality,
+
+62
+00:04:33,260 --> 00:00:00,000
+it doesn't look like Congress or the FCC
+will be bringing it back anytime soon.
+

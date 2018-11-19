@@ -1,0 +1,120 @@
+1
+00:00:00,410 --> 00:00:03,060
+<font color="#E5E5E5">time zones were originally invented by</font>
+
+2
+00:00:03,060 --> 00:00:04,770
+railroads in<font color="#CCCCCC"> the late</font><font color="#E5E5E5"> 19th century</font>
+
+3
+00:00:04,770 --> 00:00:06,629
+<font color="#E5E5E5">because</font><font color="#CCCCCC"> it was inconvenient</font><font color="#E5E5E5"> for each</font>
+
+4
+00:00:06,629 --> 00:00:08,610
+town to<font color="#E5E5E5"> have its own time pick to</font><font color="#CCCCCC"> the</font>
+
+5
+00:00:08,610 --> 00:00:10,440
+local movement<font color="#E5E5E5"> of the Sun but while</font>
+
+6
+00:00:10,440 --> 00:00:12,179
+dividing<font color="#E5E5E5"> the world up into a couple</font>
+
+7
+00:00:12,179 --> 00:00:13,710
+<font color="#CCCCCC">different times is easier than having</font>
+
+8
+00:00:13,710 --> 00:00:16,170
+hundreds<font color="#E5E5E5"> it's way harder than just</font>
+
+9
+00:00:16,170 --> 00:00:18,600
+having<font color="#E5E5E5"> a</font><font color="#CCCCCC"> single global time</font><font color="#E5E5E5"> that doesn't</font>
+
+10
+00:00:18,600 --> 00:00:20,250
+<font color="#CCCCCC">mean half the</font><font color="#E5E5E5"> planet would</font><font color="#CCCCCC"> have to wake</font>
+
+11
+00:00:20,250 --> 00:00:21,900
+<font color="#E5E5E5">up in the middle of the night or sleep</font>
+
+12
+00:00:21,900 --> 00:00:23,970
+in the<font color="#E5E5E5"> morning 7:00 a.m. might be a</font>
+
+13
+00:00:23,970 --> 00:00:25,619
+normal time to wake<font color="#CCCCCC"> up if you live in</font>
+
+14
+00:00:25,619 --> 00:00:27,449
+London<font color="#CCCCCC"> while a New Yorker would</font><font color="#E5E5E5"> be more</font>
+
+15
+00:00:27,449 --> 00:00:29,580
+likely to<font color="#E5E5E5"> rise at noon from Angelina at</font>
+
+16
+00:00:29,580 --> 00:00:31,019
+<font color="#E5E5E5">3:00 p.m.</font><font color="#CCCCCC"> by midnight</font>
+
+17
+00:00:31,019 --> 00:00:33,120
+bartenders are<font color="#E5E5E5"> still at work in Paris</font>
+
+18
+00:00:33,120 --> 00:00:35,100
+but most of<font color="#E5E5E5"> France would be asleep even</font>
+
+19
+00:00:35,100 --> 00:00:37,260
+<font color="#CCCCCC">as Chicago sits down for dinner but if</font>
+
+20
+00:00:37,260 --> 00:00:38,370
+you wanted to<font color="#CCCCCC"> schedule a call with</font>
+
+21
+00:00:38,370 --> 00:00:40,590
+people in<font color="#CCCCCC"> Detroit and Dubai you could</font>
+
+22
+00:00:40,590 --> 00:00:42,629
+just name a<font color="#E5E5E5"> time with no ambiguity</font><font color="#CCCCCC"> you</font>
+
+23
+00:00:42,629 --> 00:00:43,950
+wouldn't<font color="#E5E5E5"> need</font><font color="#CCCCCC"> to remember</font><font color="#E5E5E5"> of Detroit's</font>
+
+24
+00:00:43,950 --> 00:00:46,200
+in central or Eastern<font color="#CCCCCC"> time a six-hour</font>
+
+25
+00:00:46,200 --> 00:00:47,940
+flight would land<font color="#E5E5E5"> six hours after</font><font color="#CCCCCC"> it</font>
+
+26
+00:00:47,940 --> 00:00:49,680
+<font color="#E5E5E5">took off</font><font color="#CCCCCC"> regardless of whether it</font><font color="#E5E5E5"> went</font>
+
+27
+00:00:49,680 --> 00:00:52,440
+east or west<font color="#CCCCCC"> it's simple</font><font color="#E5E5E5"> practical and</font>
+
+28
+00:00:52,440 --> 00:00:54,030
+it's a logical<font color="#CCCCCC"> extension of</font><font color="#E5E5E5"> why we</font>
+
+29
+00:00:54,030 --> 00:00:57,469
+created the zones in<font color="#E5E5E5"> the first place</font>
+
+30
+00:01:08,820 --> 00:00:00,000
+<font color="#E5E5E5">you</font>
+

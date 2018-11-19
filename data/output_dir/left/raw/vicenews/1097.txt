@@ -1,0 +1,532 @@
+1
+00:00:00,570 --> 00:00:01,070
+[Music]
+
+2
+00:00:01,070 --> 00:00:03,540
+Trevor Paglen is an artist based in
+
+3
+00:00:03,540 --> 00:00:06,000
+Berlin his work has made<font color="#CCCCCC"> headlines</font><font color="#E5E5E5"> for</font>
+
+4
+00:00:06,000 --> 00:00:08,429
+exploring CIA black sites drone warfare
+
+5
+00:00:08,429 --> 00:00:11,330
+<font color="#CCCCCC">and America's secret security</font><font color="#E5E5E5"> apparatus</font>
+
+6
+00:00:11,330 --> 00:00:14,519
+<font color="#E5E5E5">his latest project tackles computer</font>
+
+7
+00:00:14,519 --> 00:00:16,920
+vision on any given day<font color="#CCCCCC"> or any given</font>
+
+8
+00:00:16,920 --> 00:00:19,350
+<font color="#E5E5E5">minute more machines are analyzing</font>
+
+9
+00:00:19,350 --> 00:00:21,240
+images<font color="#E5E5E5"> and seeing them and making sense</font>
+
+10
+00:00:21,240 --> 00:00:24,390
+of them than humans<font color="#E5E5E5"> are entitled</font><font color="#CCCCCC"> the</font>
+
+11
+00:00:24,390 --> 00:00:26,580
+<font color="#E5E5E5">Atlas of invisible images the word</font>
+
+12
+00:00:26,580 --> 00:00:28,050
+provides a window<font color="#CCCCCC"> into</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> world of</font>
+
+13
+00:00:28,050 --> 00:00:30,150
+surveillance<font color="#CCCCCC"> and computer analysis</font><font color="#E5E5E5"> that</font>
+
+14
+00:00:30,150 --> 00:00:33,590
+most of<font color="#E5E5E5"> us just don't think about</font><font color="#CCCCCC"> I</font>
+
+15
+00:00:33,590 --> 00:00:35,880
+<font color="#CCCCCC">cannot collectively call them invisible</font>
+
+16
+00:00:35,880 --> 00:00:38,670
+<font color="#E5E5E5">images because</font><font color="#CCCCCC"> they're images</font><font color="#E5E5E5"> that are</font>
+
+17
+00:00:38,670 --> 00:00:41,790
+<font color="#E5E5E5">not for us</font><font color="#CCCCCC"> they're images</font><font color="#E5E5E5"> for computers</font>
+
+18
+00:00:41,790 --> 00:00:43,320
+we don't see them<font color="#CCCCCC"> in many</font><font color="#E5E5E5"> cases we don't</font>
+
+19
+00:00:43,320 --> 00:00:45,480
+<font color="#E5E5E5">have access</font><font color="#CCCCCC"> to them and so I've been</font>
+
+20
+00:00:45,480 --> 00:00:48,420
+<font color="#CCCCCC">doing</font><font color="#E5E5E5"> this kind of huge exploration of</font>
+
+21
+00:00:48,420 --> 00:00:50,579
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> trying to understand what the</font>
+
+22
+00:00:50,579 --> 00:00:52,860
+mechanics<font color="#CCCCCC"> of computer vision are what</font>
+
+23
+00:00:52,860 --> 00:00:55,440
+its<font color="#CCCCCC"> implications</font><font color="#E5E5E5"> are not only for image</font>
+
+24
+00:00:55,440 --> 00:00:57,809
+<font color="#CCCCCC">making but you know sociological and</font>
+
+25
+00:00:57,809 --> 00:00:59,430
+political implications<font color="#CCCCCC"> and that sort of</font>
+
+26
+00:00:59,430 --> 00:01:00,170
+thing as well
+
+27
+00:01:00,170 --> 00:01:02,850
+computer vision training computers to
+
+28
+00:01:02,850 --> 00:01:05,069
+recognize objects and people<font color="#E5E5E5"> is already</font>
+
+29
+00:01:05,069 --> 00:01:07,409
+used<font color="#E5E5E5"> for advertising security and social</font>
+
+30
+00:01:07,409 --> 00:01:09,510
+media<font color="#E5E5E5"> and will likely become even</font><font color="#CCCCCC"> more</font>
+
+31
+00:01:09,510 --> 00:01:12,659
+widespread<font color="#CCCCCC"> Patton has trained his own AI</font>
+
+32
+00:01:12,659 --> 00:01:14,909
+<font color="#E5E5E5">much like those that are</font><font color="#CCCCCC"> being quietly</font>
+
+33
+00:01:14,909 --> 00:01:17,040
+deployed elsewhere by feeding it
+
+34
+00:01:17,040 --> 00:01:19,759
+thousands upon thousands of<font color="#CCCCCC"> RAW</font><font color="#E5E5E5"> images</font>
+
+35
+00:01:19,759 --> 00:01:22,110
+<font color="#E5E5E5">where do you get all these images from</font>
+
+36
+00:01:22,110 --> 00:01:23,700
+when you're doing this<font color="#E5E5E5"> kind of research</font>
+
+37
+00:01:23,700 --> 00:01:27,380
+<font color="#CCCCCC">in general</font><font color="#E5E5E5"> you're using standardized</font>
+
+38
+00:01:27,380 --> 00:01:30,360
+training<font color="#E5E5E5"> sets so there's training sets</font>
+
+39
+00:01:30,360 --> 00:01:33,439
+for recognize emotions<font color="#CCCCCC"> recognizing</font><font color="#E5E5E5"> faces</font>
+
+40
+00:01:33,439 --> 00:01:35,400
+recognizing different kinds<font color="#E5E5E5"> of objects</font>
+
+41
+00:01:35,400 --> 00:01:36,900
+<font color="#E5E5E5">and there's even weirder ones like</font>
+
+42
+00:01:36,900 --> 00:01:38,939
+recognizing different kinds<font color="#E5E5E5"> of fast food</font>
+
+43
+00:01:38,939 --> 00:01:40,380
+<font color="#CCCCCC">you know</font><font color="#E5E5E5"> or different kinds of like</font>
+
+44
+00:01:40,380 --> 00:01:42,600
+kittens or whatever most of<font color="#E5E5E5"> these</font>
+
+45
+00:01:42,600 --> 00:01:43,890
+training sets were compiled by
+
+46
+00:01:43,890 --> 00:01:45,600
+universities doing computer<font color="#CCCCCC"> science</font>
+
+47
+00:01:45,600 --> 00:01:49,290
+research<font color="#CCCCCC"> in the 1990s</font><font color="#E5E5E5"> nobody expected</font>
+
+48
+00:01:49,290 --> 00:01:51,060
+they'd be the basis for nearly all image
+
+49
+00:01:51,060 --> 00:01:55,170
+recognition<font color="#CCCCCC"> 25 years later so when I'm</font>
+
+50
+00:01:55,170 --> 00:01:58,170
+<font color="#E5E5E5">looking into this this webcam what was</font>
+
+51
+00:01:58,170 --> 00:02:00,450
+it interpreting me as it says you are<font color="#CCCCCC"> a</font>
+
+52
+00:02:00,450 --> 00:02:04,229
+band-aid or you might be an oxygen mask
+
+53
+00:02:04,229 --> 00:02:05,850
+<font color="#E5E5E5">where you're probably a band-aid</font>
+
+54
+00:02:05,850 --> 00:02:08,340
+really<font color="#CCCCCC"> really brutal</font><font color="#E5E5E5"> it was not</font>
+
+55
+00:02:08,340 --> 00:02:10,470
+necessary it's being a<font color="#E5E5E5"> little bit</font><font color="#CCCCCC"> racist</font>
+
+56
+00:02:10,470 --> 00:02:11,819
+it's telling you<font color="#E5E5E5"> that you're</font><font color="#CCCCCC"> probably a</font>
+
+57
+00:02:11,819 --> 00:02:16,080
+monkey now I think this this<font color="#E5E5E5"> this one</font>
+
+58
+00:02:16,080 --> 00:02:19,980
+<font color="#CCCCCC">has not</font><font color="#E5E5E5"> really trained on humans while</font>
+
+59
+00:02:19,980 --> 00:02:21,630
+it's awkward to<font color="#E5E5E5"> be categorized with the</font>
+
+60
+00:02:21,630 --> 00:02:23,940
+proboscis monkey<font color="#CCCCCC"> by a computer what's</font>
+
+61
+00:02:23,940 --> 00:02:25,920
+more unsettling<font color="#E5E5E5"> is how artificial</font>
+
+62
+00:02:25,920 --> 00:02:27,150
+intelligence<font color="#E5E5E5"> arrived</font><font color="#CCCCCC"> with such</font>
+
+63
+00:02:27,150 --> 00:02:29,100
+conclusions for example if you are
+
+64
+00:02:29,100 --> 00:02:32,220
+putting an image on<font color="#E5E5E5"> Facebook what your</font>
+
+65
+00:02:32,220 --> 00:02:34,530
+experience of<font color="#E5E5E5"> that is is similar to a</font>
+
+66
+00:02:34,530 --> 00:02:36,480
+photo album<font color="#CCCCCC"> what a typical facial</font>
+
+67
+00:02:36,480 --> 00:02:38,010
+<font color="#E5E5E5">recognition algorithm would be would</font>
+
+68
+00:02:38,010 --> 00:02:39,900
+take all of<font color="#CCCCCC"> those images</font><font color="#E5E5E5"> of your face</font>
+
+69
+00:02:39,900 --> 00:02:41,940
+but it knows<font color="#E5E5E5"> are you and combine them</font>
+
+70
+00:02:41,940 --> 00:02:43,860
+<font color="#CCCCCC">into a kind of meta image of your face</font>
+
+71
+00:02:43,860 --> 00:02:46,980
+they'll take your face and subtract from
+
+72
+00:02:46,980 --> 00:02:48,870
+you<font color="#E5E5E5"> what you have in common</font><font color="#CCCCCC"> with</font>
+
+73
+00:02:48,870 --> 00:02:52,050
+<font color="#E5E5E5">everybody else to arrive at what</font><font color="#CCCCCC"> is a</font>
+
+74
+00:02:52,050 --> 00:02:54,720
+unique fingerprint as it were<font color="#E5E5E5"> of your</font>
+
+75
+00:02:54,720 --> 00:02:56,640
+face what is<font color="#E5E5E5"> different about your face</font>
+
+76
+00:02:56,640 --> 00:02:58,980
+<font color="#E5E5E5">so that's an</font><font color="#CCCCCC"> example of a kind of</font>
+
+77
+00:02:58,980 --> 00:03:01,380
+invisible image that a computer
+
+78
+00:03:01,380 --> 00:03:03,780
+algorithm<font color="#E5E5E5"> invented for itself but you</font>
+
+79
+00:03:03,780 --> 00:03:05,549
+don't have to you<font color="#E5E5E5"> don't there's nothing</font>
+
+80
+00:03:05,549 --> 00:03:08,069
+<font color="#E5E5E5">in the world that says you have</font><font color="#CCCCCC"> to train</font>
+
+81
+00:03:08,069 --> 00:03:11,070
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> eye on</font><font color="#CCCCCC"> like common sense objects to</font>
+
+82
+00:03:11,070 --> 00:03:12,390
+show<font color="#CCCCCC"> that what computers see is a</font>
+
+83
+00:03:12,390 --> 00:03:14,640
+<font color="#CCCCCC">surreal</font><font color="#E5E5E5"> version of the world based on</font>
+
+84
+00:03:14,640 --> 00:03:15,600
+what they've been fed by<font color="#E5E5E5"> their</font>
+
+85
+00:03:15,600 --> 00:03:17,640
+programmers<font color="#E5E5E5"> tagged and trained his</font>
+
+86
+00:03:17,640 --> 00:03:19,410
+<font color="#E5E5E5">computers on images</font><font color="#CCCCCC"> themes around</font>
+
+87
+00:03:19,410 --> 00:03:21,930
+<font color="#E5E5E5">Freud's dream symbols American predators</font>
+
+88
+00:03:21,930 --> 00:03:24,180
+<font color="#E5E5E5">and historic metaphors for capitalism</font>
+
+89
+00:03:24,180 --> 00:03:26,459
+<font color="#E5E5E5">among other things</font><font color="#CCCCCC"> I guess when you do</font>
+
+90
+00:03:26,459 --> 00:03:29,340
+more<font color="#E5E5E5"> sort of abstract or surrealist</font>
+
+91
+00:03:29,340 --> 00:03:31,109
+<font color="#CCCCCC">datasets</font><font color="#E5E5E5"> or ask me</font><font color="#CCCCCC"> different questions</font>
+
+92
+00:03:31,109 --> 00:03:33,140
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> vision</font><font color="#CCCCCC"> you're asking how they think</font>
+
+93
+00:03:33,140 --> 00:03:36,420
+<font color="#E5E5E5">exactly</font><font color="#CCCCCC"> one of the wonderful things</font>
+
+94
+00:03:36,420 --> 00:03:39,299
+<font color="#CCCCCC">about humans is that we are constantly</font>
+
+95
+00:03:39,299 --> 00:03:44,670
+<font color="#E5E5E5">able to redefine the ways that that we</font>
+
+96
+00:03:44,670 --> 00:03:46,769
+make<font color="#CCCCCC"> meaning this is kind of one of the</font>
+
+97
+00:03:46,769 --> 00:03:48,750
+philosophical dangers of using
+
+98
+00:03:48,750 --> 00:03:50,489
+<font color="#E5E5E5">widespread automation which is that it</font>
+
+99
+00:03:50,489 --> 00:03:52,709
+<font color="#E5E5E5">fixes meaning that's kind of one</font><font color="#CCCCCC"> of the</font>
+
+100
+00:03:52,709 --> 00:03:53,880
+<font color="#E5E5E5">things I'm trying to get</font><font color="#CCCCCC"> out with this</font>
+
+101
+00:03:53,880 --> 00:03:56,340
+<font color="#E5E5E5">quality of artwork is try to like point</font>
+
+102
+00:03:56,340 --> 00:03:59,970
+out that vision<font color="#E5E5E5"> is always culturally</font>
+
+103
+00:03:59,970 --> 00:04:01,590
+constructed and constructed through
+
+104
+00:04:01,590 --> 00:04:04,069
+politics<font color="#E5E5E5"> and constructed through history</font>
+
+105
+00:04:04,069 --> 00:04:06,930
+even in Berlin<font color="#E5E5E5"> a</font><font color="#CCCCCC"> city which is</font>
+
+106
+00:04:06,930 --> 00:04:08,700
+<font color="#E5E5E5">suspicious of surveillance after years</font>
+
+107
+00:04:08,700 --> 00:04:11,250
+<font color="#E5E5E5">of Soviet eavesdropping</font><font color="#CCCCCC"> trevor's atlas</font>
+
+108
+00:04:11,250 --> 00:04:13,330
+seemed far from an<font color="#CCCCCC"> academic exercise</font>
+
+109
+00:04:13,330 --> 00:04:16,250
+all around<font color="#E5E5E5"> us</font><font color="#CCCCCC"> people were uploading</font>
+
+110
+00:04:16,250 --> 00:04:18,589
+selfies<font color="#E5E5E5"> which are</font><font color="#CCCCCC"> often</font><font color="#E5E5E5"> used by social</font>
+
+111
+00:04:18,589 --> 00:04:20,630
+<font color="#CCCCCC">media and search companies to build</font>
+
+112
+00:04:20,630 --> 00:04:22,510
+their<font color="#CCCCCC"> own computer vision databases</font>
+
+113
+00:04:22,510 --> 00:04:24,590
+<font color="#E5E5E5">really that's the point of my project</font>
+
+114
+00:04:24,590 --> 00:04:25,639
+I'm calling<font color="#E5E5E5"> these invisible</font>
+
+115
+00:04:25,639 --> 00:04:27,490
+images because it really are
+
+116
+00:04:27,490 --> 00:04:30,340
+technologies and forms of seeing<font color="#E5E5E5"> that</font>
+
+117
+00:04:30,340 --> 00:04:34,070
+surround us<font color="#E5E5E5"> literally</font><font color="#CCCCCC"> all the time</font><font color="#E5E5E5"> but</font>
+
+118
+00:04:34,070 --> 00:04:36,560
+<font color="#CCCCCC">that our eyes which are made out of</font>
+
+119
+00:04:36,560 --> 00:04:39,770
+<font color="#E5E5E5">flesh are not you know are not capable</font>
+
+120
+00:04:39,770 --> 00:04:41,480
+of<font color="#E5E5E5"> seeing what would you say to all</font>
+
+121
+00:04:41,480 --> 00:04:43,100
+these<font color="#CCCCCC"> people</font><font color="#E5E5E5"> who are happily making</font>
+
+122
+00:04:43,100 --> 00:04:45,889
+selfies I presume<font color="#E5E5E5"> reasonably oblivious</font>
+
+123
+00:04:45,889 --> 00:04:48,710
+of the interests<font color="#CCCCCC"> that lie behind</font><font color="#E5E5E5"> the</font>
+
+124
+00:04:48,710 --> 00:04:50,450
+companies that<font color="#CCCCCC"> I would love</font><font color="#E5E5E5"> to live in a</font>
+
+125
+00:04:50,450 --> 00:04:51,650
+world where all<font color="#E5E5E5"> of us could</font><font color="#CCCCCC"> make all the</font>
+
+126
+00:04:51,650 --> 00:04:53,240
+<font color="#E5E5E5">selfies that we wanted but I guess the</font>
+
+127
+00:04:53,240 --> 00:04:55,280
+guiding assumption that<font color="#E5E5E5"> I always make</font>
+
+128
+00:04:55,280 --> 00:04:57,320
+with this sort of thing<font color="#CCCCCC"> is</font><font color="#E5E5E5"> that who</font>
+
+129
+00:04:57,320 --> 00:05:00,680
+stands to<font color="#E5E5E5"> benefit big</font><font color="#CCCCCC"> companies benefit</font>
+
+130
+00:05:00,680 --> 00:05:02,990
+police benefit military benefit and
+
+131
+00:05:02,990 --> 00:05:06,260
+<font color="#E5E5E5">oftentimes that</font><font color="#CCCCCC"> benefit comes at the</font>
+
+132
+00:05:06,260 --> 00:05:10,300
+expense<font color="#CCCCCC"> of individual people</font>
+
+133
+00:05:18,420 --> 00:00:00,000
+you
+

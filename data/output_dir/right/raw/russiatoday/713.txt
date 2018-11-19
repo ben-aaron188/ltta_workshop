@@ -1,0 +1,1076 @@
+1
+00:00:00,000 --> 00:00:01,860
+<font color="#E5E5E5">turn into</font><font color="#CCCCCC"> a terminal count poll</font>
+
+2
+00:00:01,860 --> 00:00:05,250
+conducted<font color="#E5E5E5"> by the launch conductor where</font>
+
+3
+00:00:05,250 --> 00:00:07,170
+the<font color="#E5E5E5"> launch conductor will pull each</font>
+
+4
+00:00:07,170 --> 00:00:09,510
+engineer and verify<font color="#CCCCCC"> that their systems</font>
+
+5
+00:00:09,510 --> 00:00:13,080
+are in fact ready with a simple go and
+
+6
+00:00:13,080 --> 00:00:14,670
+that indicates<font color="#CCCCCC"> that</font><font color="#E5E5E5"> the launch is</font><font color="#CCCCCC"> ready</font>
+
+7
+00:00:14,670 --> 00:00:17,430
+<font color="#CCCCCC">in Delta's ready to fly</font><font color="#E5E5E5"> and we're just</font>
+
+8
+00:00:17,430 --> 00:00:19,949
+<font color="#E5E5E5">about 18 seconds away from that</font><font color="#CCCCCC"> poll</font>
+
+9
+00:00:19,949 --> 00:00:21,480
+live on your screen you<font color="#CCCCCC"> can</font><font color="#E5E5E5"> see the</font>
+
+10
+00:00:21,480 --> 00:00:23,609
+delta 4 heavy rocket<font color="#CCCCCC"> with</font><font color="#E5E5E5"> the additional</font>
+
+11
+00:00:23,609 --> 00:00:26,400
+third stage at Space Launch<font color="#E5E5E5"> Complex 37 I</font>
+
+12
+00:00:26,400 --> 00:00:27,869
+Cape Canaveral Air<font color="#E5E5E5"> Force Station and</font>
+
+13
+00:00:27,869 --> 00:00:30,510
+we'll listen<font color="#E5E5E5"> in to this poll</font><font color="#CCCCCC"> and about</font>
+
+14
+00:00:30,510 --> 00:00:37,800
+<font color="#E5E5E5">five seconds status check to proceed</font>
+
+15
+00:00:37,800 --> 00:00:39,030
+with terminal count
+
+16
+00:00:39,030 --> 00:00:41,300
+<font color="#E5E5E5">first</font><font color="#CCCCCC"> aid systems propulsion</font><font color="#E5E5E5"> go</font>
+
+17
+00:00:41,300 --> 00:00:46,590
+<font color="#CCCCCC">hydraulics go locks</font><font color="#E5E5E5"> go LH to go second</font>
+
+18
+00:00:46,590 --> 00:00:51,030
+stage systems logs go LH to go third
+
+19
+00:00:51,030 --> 00:00:53,399
+stage systems<font color="#E5E5E5"> there's a bitch vehicle</font>
+
+20
+00:00:53,399 --> 00:00:54,920
+manager go
+
+21
+00:00:54,920 --> 00:00:59,180
+electrical systems<font color="#E5E5E5"> airborne go</font><font color="#CCCCCC"> ground go</font>
+
+22
+00:00:59,180 --> 00:01:03,809
+facility go<font color="#CCCCCC"> our</font><font color="#E5E5E5"> FFTs go flight control</font>
+
+23
+00:01:03,809 --> 00:01:11,060
+go comm go<font color="#E5E5E5"> jcq go</font><font color="#CCCCCC"> operation support go</font>
+
+24
+00:01:11,060 --> 00:01:16,650
+pneumatics go umbilicals go has gas<font color="#E5E5E5"> go</font>
+
+25
+00:01:16,650 --> 00:01:22,619
+<font color="#E5E5E5">ACS go</font><font color="#CCCCCC"> redline monitor go quality go</font><font color="#E5E5E5"> op</font>
+
+26
+00:01:22,619 --> 00:01:25,080
+<font color="#E5E5E5">safety manager go your life safety</font>
+
+27
+00:01:25,080 --> 00:01:28,290
+<font color="#CCCCCC">officer go vehicle system engineer go</font>
+
+28
+00:01:28,290 --> 00:01:31,799
+<font color="#E5E5E5">I'm not my chief go branch coordinator</font>
+
+29
+00:01:31,799 --> 00:01:32,850
+clear to proceed
+
+30
+00:01:32,850 --> 00:01:35,909
+launch director you<font color="#E5E5E5"> have permission to</font>
+
+31
+00:01:35,909 --> 00:01:36,740
+<font color="#E5E5E5">launch</font>
+
+32
+00:01:36,740 --> 00:01:40,020
+proceeding with<font color="#E5E5E5"> the count and make you</font>
+
+33
+00:01:40,020 --> 00:01:41,729
+<font color="#CCCCCC">establish swingarm lock pins polled</font>
+
+34
+00:01:41,729 --> 00:01:46,439
+active and we just heard the<font color="#CCCCCC"> poll with</font>
+
+35
+00:01:46,439 --> 00:01:48,390
+all stations reporting that there go for
+
+36
+00:01:48,390 --> 00:01:48,780
+launch
+
+37
+00:01:48,780 --> 00:01:50,490
+<font color="#CCCCCC">elissa we're entering the final few</font>
+
+38
+00:01:50,490 --> 00:01:52,170
+<font color="#CCCCCC">minutes</font><font color="#E5E5E5"> of the count here about</font><font color="#CCCCCC"> 5</font>
+
+39
+00:01:52,170 --> 00:01:54,390
+<font color="#E5E5E5">minutes and 45 seconds</font><font color="#CCCCCC"> before we launch</font>
+
+40
+00:01:54,390 --> 00:01:56,130
+and can you tell me what it means<font color="#E5E5E5"> to</font>
+
+41
+00:01:56,130 --> 00:01:57,360
+United Launch Alliance to be able<font color="#E5E5E5"> to</font>
+
+42
+00:01:57,360 --> 00:01:58,799
+<font color="#E5E5E5">launch the Parker Solar Probe mission</font>
+
+43
+00:01:58,799 --> 00:02:02,490
+yeah<font color="#E5E5E5"> ula is always excited about doing</font>
+
+44
+00:02:02,490 --> 00:02:04,649
+interplanetary missions the chance to
+
+45
+00:02:04,649 --> 00:02:06,689
+get<font color="#E5E5E5"> to explore the solar system is</font>
+
+46
+00:02:06,689 --> 00:02:08,489
+<font color="#E5E5E5">something that we look forward to and</font>
+
+47
+00:02:08,489 --> 00:02:11,068
+are happy to<font color="#E5E5E5"> be a part of this</font><font color="#CCCCCC"> mission</font>
+
+48
+00:02:11,068 --> 00:02:12,730
+means<font color="#E5E5E5"> a lot to us</font>
+
+49
+00:02:12,730 --> 00:02:17,290
+is<font color="#CCCCCC"> Delta heavy</font><font color="#E5E5E5"> so Delta he gets to show</font>
+
+50
+00:02:17,290 --> 00:02:19,239
+off<font color="#E5E5E5"> its performance and and get Parker</font>
+
+51
+00:02:19,239 --> 00:02:20,830
+Solar Probe exactly where it needs to<font color="#E5E5E5"> go</font>
+
+52
+00:02:20,830 --> 00:02:23,950
+<font color="#E5E5E5">which is</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> only rocket currently that</font>
+
+53
+00:02:23,950 --> 00:02:26,590
+can can do that<font color="#E5E5E5"> so we're excited to be a</font>
+
+54
+00:02:26,590 --> 00:02:30,879
+part of that<font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> well thank you</font><font color="#CCCCCC"> very</font>
+
+55
+00:02:30,879 --> 00:02:32,260
+much<font color="#E5E5E5"> for being with us and enjoy the</font>
+
+56
+00:02:32,260 --> 00:02:33,819
+launch today<font color="#CCCCCC"> thank you you as well thank</font>
+
+57
+00:02:33,819 --> 00:02:38,769
+<font color="#E5E5E5">you all</font><font color="#CCCCCC"> -</font><font color="#E5E5E5"> five minutes</font><font color="#CCCCCC"> ovm transfer a</font>
+
+58
+00:02:38,769 --> 00:02:40,360
+third stage<font color="#CCCCCC"> to internal power</font>
+
+59
+00:02:40,360 --> 00:02:45,610
+<font color="#E5E5E5">Roger</font><font color="#CCCCCC"> all steps are complete prior to</font>
+
+60
+00:02:45,610 --> 00:02:48,269
+terminal count
+
+61
+00:03:04,160 --> 00:03:07,110
+and we have about 30 seconds remaining
+
+62
+00:03:07,110 --> 00:03:09,360
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> our hold in the team - clock after</font>
+
+63
+00:03:09,360 --> 00:03:12,390
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> the L - and the team - clocks will</font>
+
+64
+00:03:12,390 --> 00:03:14,190
+be<font color="#E5E5E5"> synced up you're looking</font><font color="#CCCCCC"> at a live</font>
+
+65
+00:03:14,190 --> 00:03:16,860
+shot<font color="#CCCCCC"> the</font><font color="#E5E5E5"> delta 4 heavy rocket poised for</font>
+
+66
+00:03:16,860 --> 00:03:19,320
+liftoff from Space Launch Complex<font color="#E5E5E5"> 37 at</font>
+
+67
+00:03:19,320 --> 00:03:30,390
+Cape Canaveral<font color="#E5E5E5"> Air Force Station and</font>
+
+68
+00:03:30,390 --> 00:03:33,410
+<font color="#CCCCCC">we'll pick up</font><font color="#E5E5E5"> the count five four three</font>
+
+69
+00:03:33,410 --> 00:03:38,270
+two<font color="#E5E5E5"> one two - four minutes and Counting</font>
+
+70
+00:03:38,270 --> 00:03:46,220
+- 355 ground Pyro's enabled
+
+71
+00:04:09,560 --> 00:04:13,320
+and once again 25 we're about three
+
+72
+00:04:13,320 --> 00:04:16,700
+<font color="#CCCCCC">minutes</font><font color="#E5E5E5"> and 20 seconds before liftoff</font>
+
+73
+00:04:16,700 --> 00:04:18,959
+<font color="#CCCCCC">Amit can you tell me what we have</font><font color="#E5E5E5"> left</font>
+
+74
+00:04:18,959 --> 00:04:20,519
+<font color="#E5E5E5">to go in</font><font color="#CCCCCC"> the next</font><font color="#E5E5E5"> three minutes</font>
+
+75
+00:04:20,519 --> 00:04:23,190
+yeah the teams are securing locks and
+
+76
+00:04:23,190 --> 00:04:27,600
+<font color="#E5E5E5">llh</font><font color="#CCCCCC"> to liquid hydrogen tank</font><font color="#E5E5E5"> in there</font>
+
+77
+00:04:27,600 --> 00:04:29,760
+they'll be finishing<font color="#E5E5E5"> that up</font><font color="#CCCCCC"> getting</font>
+
+78
+00:04:29,760 --> 00:04:31,470
+ready<font color="#CCCCCC"> to</font><font color="#E5E5E5"> go internal you'll hear a call</font>
+
+79
+00:04:31,470 --> 00:04:34,470
+for spacecraft<font color="#CCCCCC"> power to internal</font><font color="#E5E5E5"> they'll</font>
+
+80
+00:04:34,470 --> 00:04:35,880
+be arming their flight termination
+
+81
+00:04:35,880 --> 00:04:37,950
+systems and getting ready<font color="#CCCCCC"> for launch</font><font color="#E5E5E5"> and</font>
+
+82
+00:04:37,950 --> 00:04:40,530
+then bringing the delta 4 heavy launch
+
+83
+00:04:40,530 --> 00:04:44,370
+vehicle<font color="#CCCCCC"> onto internal power to prepare</font>
+
+84
+00:04:44,370 --> 00:04:46,169
+<font color="#E5E5E5">for the final terminal count</font>
+
+85
+00:04:46,169 --> 00:04:50,370
+-<font color="#CCCCCC"> 249</font><font color="#E5E5E5"> and we are coming up very</font><font color="#CCCCCC"> shortly</font>
+
+86
+00:04:50,370 --> 00:04:54,180
+on<font color="#CCCCCC"> the verification that spacecraft</font>
+
+87
+00:04:54,180 --> 00:05:01,050
+being on internal<font color="#E5E5E5"> CBC locks</font><font color="#CCCCCC"> light</font>
+
+88
+00:05:01,050 --> 00:05:08,400
+pressure<font color="#CCCCCC"> and flight level - 230</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> SC</font>
+
+89
+00:05:08,400 --> 00:05:10,370
+verify spacecraft on internal power
+
+90
+00:05:10,370 --> 00:05:13,370
+<font color="#E5E5E5">verified</font>
+
+91
+00:05:26,279 --> 00:05:30,759
+and we are t-minus two minutes five
+
+92
+00:05:30,759 --> 00:05:35,529
+<font color="#E5E5E5">seconds and counting after</font><font color="#CCCCCC"> liftoff we'll</font>
+
+93
+00:05:35,529 --> 00:05:37,539
+<font color="#E5E5E5">be listening to the voice of United</font>
+
+94
+00:05:37,539 --> 00:05:39,340
+Launch Alliance<font color="#CCCCCC"> Patrick</font><font color="#E5E5E5"> Moore providing</font>
+
+95
+00:05:39,340 --> 00:05:44,080
+acent commentary 155 launch<font color="#E5E5E5"> sequence or</font>
+
+96
+00:05:44,080 --> 00:05:46,379
+start
+
+97
+00:05:56,050 --> 00:06:06,400
+<font color="#CCCCCC">1:40 FCS launch enable 137 CBC</font><font color="#E5E5E5"> lh2 at</font>
+
+98
+00:06:06,400 --> 00:06:08,379
+flight pressure and flight level<font color="#E5E5E5"> FPS</font>
+
+99
+00:06:08,379 --> 00:06:19,060
+armed<font color="#E5E5E5"> - 120</font><font color="#CCCCCC"> will see you are FCS count</font>
+
+100
+00:06:19,060 --> 00:06:36,690
+started<font color="#E5E5E5"> - - one minute</font>
+
+101
+00:06:36,690 --> 00:06:40,090
+engine starts go rock report range
+
+102
+00:06:40,090 --> 00:06:51,759
+status<font color="#E5E5E5"> Ranger in 50 lv o LC o vm there's</font>
+
+103
+00:06:51,759 --> 00:06:53,099
+always go for launch
+
+104
+00:06:53,099 --> 00:06:56,440
+<font color="#CCCCCC">Rangers selective size LH to secure fly</font>
+
+105
+00:06:56,440 --> 00:06:59,520
+level 40
+
+106
+00:07:05,310 --> 00:07:21,660
+- 30 status<font color="#CCCCCC"> check go Delta</font><font color="#E5E5E5"> go PSP - 15</font>
+
+107
+00:07:21,660 --> 00:07:33,320
+<font color="#E5E5E5">brophy ignition</font><font color="#CCCCCC"> 10 9 - or star</font><font color="#E5E5E5"> 8 7 6 5 3</font>
+
+108
+00:07:33,320 --> 00:07:39,630
+2 1<font color="#E5E5E5"> 0 liftoff of the</font><font color="#CCCCCC"> mighty delta 4</font>
+
+109
+00:07:39,630 --> 00:07:42,090
+heavy rocket with<font color="#E5E5E5"> NASA's Parker Solar</font>
+
+110
+00:07:42,090 --> 00:07:44,790
+Probe a daring mission<font color="#E5E5E5"> to shed light</font><font color="#CCCCCC"> on</font>
+
+111
+00:07:44,790 --> 00:07:46,919
+the mysteries of<font color="#E5E5E5"> our closest star the</font>
+
+112
+00:07:46,919 --> 00:07:49,160
+Sun
+
+113
+00:07:52,010 --> 00:07:53,660
+we are educated look good in<font color="#E5E5E5"> a full</font>
+
+114
+00:07:53,660 --> 00:07:55,570
+dress<font color="#CCCCCC"> code</font>
+
+115
+00:07:55,570 --> 00:07:58,829
+[Music]
+
+116
+00:08:01,669 --> 00:08:05,150
+<font color="#E5E5E5">25 seconds into flight can you look good</font>
+
+117
+00:08:05,150 --> 00:08:07,990
+<font color="#E5E5E5">on all three booster</font>
+
+118
+00:08:13,550 --> 00:08:16,920
+<font color="#CCCCCC">from that core booster throttling down</font>
+
+119
+00:08:16,920 --> 00:08:19,740
+to the partial<font color="#CCCCCC"> thrust mode response</font>
+
+120
+00:08:19,740 --> 00:08:22,160
+looks good
+
+121
+00:08:26,220 --> 00:08:29,190
+now 50 seconds<font color="#E5E5E5"> into flight strap-on</font>
+
+122
+00:08:29,190 --> 00:08:30,690
+boosters look good in the full thrust
+
+123
+00:08:30,690 --> 00:08:32,460
+mode core booster looks good in the
+
+124
+00:08:32,460 --> 00:08:37,650
+market<font color="#CCCCCC"> for</font><font color="#E5E5E5"> us</font><font color="#CCCCCC"> but now one minute into</font>
+
+125
+00:08:37,650 --> 00:08:42,719
+<font color="#E5E5E5">flight equal trajectory looking good</font>
+
+126
+00:08:42,719 --> 00:08:47,610
+right down the middle<font color="#E5E5E5"> grades track one</font>
+
+127
+00:08:47,610 --> 00:08:50,630
+minute<font color="#CCCCCC"> 10 seconds into</font><font color="#E5E5E5"> flight</font>
+
+128
+00:08:54,829 --> 00:08:57,450
+<font color="#CCCCCC">they</font><font color="#E5E5E5"> up on one minute 19 seconds into</font>
+
+129
+00:08:57,450 --> 00:08:58,920
+flight<font color="#E5E5E5"> max Q maximum dynamic pressure</font>
+
+130
+00:08:58,920 --> 00:09:06,839
+<font color="#E5E5E5">and Mach 1 l spores now supersonic one</font>
+
+131
+00:09:06,839 --> 00:09:11,339
+minute 30 seconds into<font color="#E5E5E5"> flight port</font><font color="#CCCCCC"> and</font>
+
+132
+00:09:11,339 --> 00:09:13,050
+starboard booster engines continue look
+
+133
+00:09:13,050 --> 00:09:14,339
+good in the full thrust mode before
+
+134
+00:09:14,339 --> 00:09:15,600
+booster looks good in the partial<font color="#CCCCCC"> thrust</font>
+
+135
+00:09:15,600 --> 00:09:25,130
+<font color="#CCCCCC">mode one minute 45 seconds in the</font><font color="#E5E5E5"> flight</font>
+
+136
+00:09:29,630 --> 00:09:31,500
+trajectory continuing to<font color="#E5E5E5"> look good right</font>
+
+137
+00:09:31,500 --> 00:09:36,959
+<font color="#CCCCCC">down the middle the</font><font color="#E5E5E5"> range</font><font color="#CCCCCC"> track ACS</font>
+
+138
+00:09:36,959 --> 00:09:40,070
+press<font color="#CCCCCC"> valve has been</font><font color="#E5E5E5"> opened ACS pressure</font>
+
+139
+00:09:40,070 --> 00:09:47,339
+<font color="#E5E5E5">response looks good</font><font color="#CCCCCC"> two minutes 10</font>
+
+140
+00:09:47,339 --> 00:09:51,779
+seconds in strap-on boosters continue to
+
+141
+00:09:51,779 --> 00:09:53,490
+<font color="#E5E5E5">look</font><font color="#CCCCCC"> good in the</font><font color="#E5E5E5"> full thrust mode core</font>
+
+142
+00:09:53,490 --> 00:09:54,600
+booster looks good in the<font color="#E5E5E5"> partial thrust</font>
+
+143
+00:09:54,600 --> 00:10:01,050
+<font color="#E5E5E5">mode and Delta 4 has gone to closed-loop</font>
+
+144
+00:10:01,050 --> 00:10:08,550
+guidance<font color="#CCCCCC"> 2 minutes</font><font color="#E5E5E5"> 30 seconds into</font>
+
+145
+00:10:08,550 --> 00:10:10,579
+flight
+
+146
+00:10:14,890 --> 00:10:17,680
+and at<font color="#CCCCCC"> 2 minutes</font><font color="#E5E5E5"> 39 seconds into flight</font>
+
+147
+00:10:17,680 --> 00:10:19,600
+the<font color="#E5E5E5"> Delta 4 rocket now weighs just one</font>
+
+148
+00:10:19,600 --> 00:10:21,070
+<font color="#CCCCCC">half of</font><font color="#E5E5E5"> what it did</font><font color="#CCCCCC"> it launched burning</font>
+
+149
+00:10:21,070 --> 00:10:22,810
+propellant at a rate of<font color="#E5E5E5"> almost 5,000</font>
+
+150
+00:10:22,810 --> 00:10:30,730
+pounds per second and launch vehicle<font color="#E5E5E5"> is</font>
+
+151
+00:10:30,730 --> 00:10:33,280
+now 33 miles in altitude<font color="#E5E5E5"> 49 miles</font>
+
+152
+00:10:33,280 --> 00:10:36,430
+downrange distance<font color="#E5E5E5"> traveling at 4,500</font>
+
+153
+00:10:36,430 --> 00:10:41,010
+miles per hour<font color="#CCCCCC"> 3 minutes</font><font color="#E5E5E5"> into flight</font>
+
+154
+00:10:42,210 --> 00:10:44,740
+rs-68 a<font color="#E5E5E5"> engines in the port and</font>
+
+155
+00:10:44,740 --> 00:10:46,210
+starboard boosters continue look good in
+
+156
+00:10:46,210 --> 00:10:47,650
+the full thrust mode core booster looks
+
+157
+00:10:47,650 --> 00:10:52,720
+good in the partial<font color="#CCCCCC"> thrust mode</font><font color="#E5E5E5"> 3</font>
+
+158
+00:10:52,720 --> 00:10:55,920
+minutes 15 seconds into<font color="#CCCCCC"> flight</font>
+
+159
+00:11:03,040 --> 00:11:05,540
+<font color="#CCCCCC">trajectory</font><font color="#E5E5E5"> continuing to look good down</font>
+
+160
+00:11:05,540 --> 00:11:08,410
+the middle<font color="#E5E5E5"> of the rains track</font>
+
+161
+00:11:12,580 --> 00:11:14,540
+approximately<font color="#E5E5E5"> two minutes remaining the</font>
+
+162
+00:11:14,540 --> 00:11:16,700
+<font color="#CCCCCC">boost phase of flight</font><font color="#E5E5E5"> chamber</font><font color="#CCCCCC"> pressures</font>
+
+163
+00:11:16,700 --> 00:11:18,200
+continuing to<font color="#E5E5E5"> look good on all three</font>
+
+164
+00:11:18,200 --> 00:11:20,750
+boosters<font color="#CCCCCC"> horton starboard booster</font><font color="#E5E5E5"> and</font>
+
+165
+00:11:20,750 --> 00:11:21,860
+the full thrust mode core booster
+
+166
+00:11:21,860 --> 00:11:23,560
+continuing in the<font color="#E5E5E5"> partial</font><font color="#CCCCCC"> thrust mode</font>
+
+167
+00:11:23,560 --> 00:11:28,460
+<font color="#E5E5E5">and standing by for a strap-on booster</font>
+
+168
+00:11:28,460 --> 00:11:31,250
+<font color="#E5E5E5">throttle down momentary port and</font>
+
+169
+00:11:31,250 --> 00:11:32,210
+starboard boosters have begun to
+
+170
+00:11:32,210 --> 00:11:38,960
+throttle down and we have jettison of
+
+171
+00:11:38,960 --> 00:11:43,790
+both strap-on boosters<font color="#CCCCCC"> curb booster has</font>
+
+172
+00:11:43,790 --> 00:11:45,020
+throttled back up to<font color="#E5E5E5"> full thrust</font>
+
+173
+00:11:45,020 --> 00:11:48,370
+<font color="#E5E5E5">response looks good</font>
+
+174
+00:12:00,980 --> 00:12:05,170
+<font color="#CCCCCC">four minutes 25 seconds into flight</font>
+
+175
+00:12:06,549 --> 00:12:08,869
+<font color="#CCCCCC">upper-stage lock system has begun boost</font>
+
+176
+00:12:08,869 --> 00:12:13,489
+phase<font color="#E5E5E5"> chill down sequence and</font><font color="#CCCCCC"> one minute</font>
+
+177
+00:12:13,489 --> 00:12:21,189
+<font color="#E5E5E5">remaining in boost phase of flight an</font>
+
+178
+00:12:21,189 --> 00:12:23,540
+upper stage fuel system has begun blue
+
+179
+00:12:23,540 --> 00:12:26,169
+<font color="#E5E5E5">states</font><font color="#CCCCCC"> chill down</font>
+
+180
+00:12:36,139 --> 00:12:39,420
+I've been<font color="#CCCCCC"> attending flight</font><font color="#E5E5E5"> just over 30</font>
+
+181
+00:12:39,420 --> 00:12:41,459
+seconds now remaining in first aid<font color="#E5E5E5"> first</font>
+
+182
+00:12:41,459 --> 00:12:47,129
+stage phase of flight core booster
+
+183
+00:12:47,129 --> 00:12:48,810
+engine continues to<font color="#CCCCCC"> look good in the</font>
+
+184
+00:12:48,810 --> 00:12:51,899
+full thrust mode the equal trajectory
+
+185
+00:12:51,899 --> 00:12:53,100
+continuing down the middle<font color="#CCCCCC"> deranged</font>
+
+186
+00:12:53,100 --> 00:12:59,750
+track<font color="#CCCCCC"> 5 minutes 20 seconds into flight</font>
+
+187
+00:13:00,259 --> 00:13:03,750
+<font color="#E5E5E5">and standing by for core booster</font>
+
+188
+00:13:03,750 --> 00:13:07,920
+throttle<font color="#E5E5E5"> down momentarily core booster</font>
+
+189
+00:13:07,920 --> 00:13:12,240
+has begun to throttle down standing by
+
+190
+00:13:12,240 --> 00:13:16,800
+for<font color="#E5E5E5"> Pico and we have</font><font color="#CCCCCC"> Beco booster engine</font>
+
+191
+00:13:16,800 --> 00:13:20,970
+cutoff<font color="#CCCCCC"> stand by</font><font color="#E5E5E5"> for stage step and we</font>
+
+192
+00:13:20,970 --> 00:13:24,139
+have good indication of stage separation
+
+193
+00:13:24,199 --> 00:13:31,589
+that<font color="#CCCCCC"> is deploying we have pre start on</font>
+
+194
+00:13:31,589 --> 00:13:36,329
+the all<font color="#CCCCCC"> tent and we have ignition on</font><font color="#E5E5E5"> the</font>
+
+195
+00:13:36,329 --> 00:13:40,199
+<font color="#E5E5E5">Alton engine and didn't chamber pressure</font>
+
+196
+00:13:40,199 --> 00:13:42,529
+looks<font color="#E5E5E5"> good</font>
+
+197
+00:13:47,910 --> 00:13:49,680
+and we have good indication<font color="#E5E5E5"> of payload</font>
+
+198
+00:13:49,680 --> 00:13:57,840
+fairing jettison now six minutes 20
+
+199
+00:13:57,840 --> 00:14:01,860
+<font color="#E5E5E5">seconds into flight and with the boost</font>
+
+200
+00:14:01,860 --> 00:14:03,510
+phase of flight complete<font color="#CCCCCC"> Parker Solar</font>
+
+201
+00:14:03,510 --> 00:14:04,890
+Probe will now continue its<font color="#CCCCCC"> journey to</font>
+
+202
+00:14:04,890 --> 00:14:07,280
+<font color="#CCCCCC">the Sun</font>
+
+203
+00:14:25,540 --> 00:14:28,000
+and it's<font color="#E5E5E5"> six minutes 50 seconds into</font>
+
+204
+00:14:28,000 --> 00:14:34,019
+flight<font color="#CCCCCC"> rl10 chamber pressure looks good</font>
+
+205
+00:14:35,010 --> 00:14:37,540
+seeing good responses on the<font color="#CCCCCC"> upper-stage</font>
+
+206
+00:14:37,540 --> 00:14:44,320
+<font color="#E5E5E5">RCS system and after a brief review of</font>
+
+207
+00:14:44,320 --> 00:14:47,290
+<font color="#CCCCCC">booster performance</font><font color="#E5E5E5"> seeing very close to</font>
+
+208
+00:14:47,290 --> 00:14:50,699
+nominal performance on the booster
+
+209
+00:14:59,290 --> 00:15:02,440
+in this first burn of the<font color="#CCCCCC"> second-stage</font>
+
+210
+00:15:02,440 --> 00:15:04,270
+will last approximately<font color="#CCCCCC"> four minutes</font><font color="#E5E5E5"> 42</font>
+
+211
+00:15:04,270 --> 00:15:08,050
+seconds now<font color="#CCCCCC"> seven minutes 30 seconds</font>
+
+212
+00:15:08,050 --> 00:15:11,140
+into<font color="#E5E5E5"> flight about three minutes</font>
+
+213
+00:15:11,140 --> 00:15:14,730
+<font color="#E5E5E5">remaining in the first burn</font>
+
+214
+00:16:06,580 --> 00:16:08,800
+and at<font color="#CCCCCC"> eight</font><font color="#E5E5E5"> minutes 30 seconds into</font>
+
+215
+00:16:08,800 --> 00:16:10,420
+<font color="#CCCCCC">flight</font><font color="#E5E5E5"> Carlton chamber pressure</font>
+
+216
+00:16:10,420 --> 00:16:13,839
+continues<font color="#CCCCCC"> to look</font><font color="#E5E5E5"> good seeing very</font>
+
+217
+00:16:13,839 --> 00:16:16,750
+stable values on the upper stage<font color="#CCCCCC"> lox and</font>
+
+218
+00:16:16,750 --> 00:16:22,690
+<font color="#CCCCCC">LH to tanks HDS storage bottle pressure</font>
+
+219
+00:16:22,690 --> 00:16:25,570
+<font color="#E5E5E5">looks good</font><font color="#CCCCCC"> and vehicle</font><font color="#E5E5E5"> body rates are</font>
+
+220
+00:16:25,570 --> 00:16:28,500
+very smooth
+
+221
+00:16:36,150 --> 00:16:39,860
+now nine minutes<font color="#E5E5E5"> into flight</font>
+
+222
+00:17:14,250 --> 00:17:17,369
+at nine<font color="#E5E5E5"> minutes</font><font color="#CCCCCC"> forty seconds into</font>
+
+223
+00:17:17,369 --> 00:17:20,849
+flight<font color="#E5E5E5"> just under one minute remaining</font>
+
+224
+00:17:20,849 --> 00:17:22,500
+now in the first burn of the second
+
+225
+00:17:22,500 --> 00:17:24,390
+<font color="#E5E5E5">stage second stage continuing to perform</font>
+
+226
+00:17:24,390 --> 00:17:27,960
+nominally<font color="#CCCCCC"> Carleton engine performing</font>
+
+227
+00:17:27,960 --> 00:17:31,410
+well tank pressures look good<font color="#CCCCCC"> vehicle</font>
+
+228
+00:17:31,410 --> 00:17:37,980
+<font color="#CCCCCC">body</font><font color="#E5E5E5"> rates remain smooth and then</font><font color="#CCCCCC"> attend</font>
+
+229
+00:17:37,980 --> 00:17:46,440
+<font color="#CCCCCC">to flight</font><font color="#E5E5E5"> and about</font><font color="#CCCCCC"> thirty seconds</font>
+
+230
+00:17:46,440 --> 00:17:49,550
+remaining in the<font color="#CCCCCC"> first burn</font>
+
+231
+00:18:05,980 --> 00:18:07,779
+and standing<font color="#E5E5E5"> back</font><font color="#CCCCCC"> from</font><font color="#E5E5E5"> eco one</font>
+
+232
+00:18:07,779 --> 00:18:10,260
+momentarily
+
+233
+00:18:17,669 --> 00:18:21,379
+and we have<font color="#E5E5E5"> Miko</font>
+
+234
+00:18:25,100 --> 00:18:32,270
+body<font color="#E5E5E5"> rate smoothing out nicely</font><font color="#CCCCCC"> and now</font>
+
+235
+00:18:32,270 --> 00:18:35,809
+seeing<font color="#CCCCCC"> upper stage</font><font color="#E5E5E5"> ACS</font><font color="#CCCCCC"> firings as</font>
+
+236
+00:18:35,809 --> 00:18:42,710
+expected<font color="#E5E5E5"> now 11 minutes into flight and</font>
+
+237
+00:18:42,710 --> 00:18:44,990
+this will be approximately<font color="#E5E5E5"> a 13 minute</font>
+
+238
+00:18:44,990 --> 00:18:48,429
+coaster ation prior to mess<font color="#CCCCCC"> to</font>
+
+239
+00:18:56,330 --> 00:18:58,650
+from the mission director<font color="#E5E5E5"> center I'm</font>
+
+240
+00:18:58,650 --> 00:19:00,810
+joined once again by<font color="#CCCCCC"> Elissa Macbeth if</font>
+
+241
+00:19:00,810 --> 00:19:02,640
+he not at<font color="#E5E5E5"> launch alliance for those of</font>
+
+242
+00:19:02,640 --> 00:19:03,960
+you that are<font color="#E5E5E5"> watching we had an on-time</font>
+
+243
+00:19:03,960 --> 00:19:05,640
+liftoff today at the Delta for a heavy
+
+244
+00:19:05,640 --> 00:19:07,770
+rocket and<font color="#CCCCCC"> Alyssa can you tell me have a</font>
+
+245
+00:19:07,770 --> 00:19:10,050
+launch one oh my goodness that was<font color="#CCCCCC"> a</font>
+
+246
+00:19:10,050 --> 00:19:12,630
+<font color="#E5E5E5">beautiful launch just the sound and</font>
+
+247
+00:19:12,630 --> 00:19:15,090
+<font color="#E5E5E5">everything</font><font color="#CCCCCC"> oh it was great</font>
+
+248
+00:19:15,090 --> 00:19:18,210
+it's looking good<font color="#CCCCCC"> so far - we saw</font><font color="#E5E5E5"> good</font>
+
+249
+00:19:18,210 --> 00:19:20,370
+<font color="#CCCCCC">separation of the Boosters</font><font color="#E5E5E5"> from the main</font>
+
+250
+00:19:20,370 --> 00:19:21,900
+core and the booster<font color="#E5E5E5"> from the second</font>
+
+251
+00:19:21,900 --> 00:19:24,030
+stage<font color="#CCCCCC"> just experienced</font>
+
+252
+00:19:24,030 --> 00:19:26,340
+<font color="#CCCCCC">Mikko one there there's going to be two</font>
+
+253
+00:19:26,340 --> 00:19:28,110
+burns of the second stage so<font color="#E5E5E5"> that's</font>
+
+254
+00:19:28,110 --> 00:19:30,030
+<font color="#E5E5E5">coming up in the second burn second</font>
+
+255
+00:19:30,030 --> 00:19:32,850
+<font color="#E5E5E5">engine start</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> then in just 40</font>
+
+256
+00:19:32,850 --> 00:19:35,250
+approximately 45<font color="#CCCCCC"> minutes we'll see the</font>
+
+257
+00:19:35,250 --> 00:19:37,590
+payload separation<font color="#E5E5E5"> so everything's</font>
+
+258
+00:19:37,590 --> 00:19:39,750
+<font color="#E5E5E5">looking good so far great and can you</font>
+
+259
+00:19:39,750 --> 00:19:41,010
+tell me a<font color="#E5E5E5"> little bit about about about</font>
+
+260
+00:19:41,010 --> 00:19:42,660
+<font color="#E5E5E5">your experience working with ula and</font>
+
+261
+00:19:42,660 --> 00:19:44,400
+<font color="#CCCCCC">what it's like</font><font color="#E5E5E5"> to work in Mission like</font>
+
+262
+00:19:44,400 --> 00:19:48,060
+this again yeah<font color="#CCCCCC"> so I get</font><font color="#E5E5E5"> to I get to</font>
+
+263
+00:19:48,060 --> 00:19:50,070
+work<font color="#E5E5E5"> with the the innards of the rocket</font>
+
+264
+00:19:50,070 --> 00:19:52,020
+the electronics<font color="#E5E5E5"> the avionics boxes</font>
+
+265
+00:19:52,020 --> 00:19:54,360
+<font color="#E5E5E5">ordnance pyrotechnics all that kind of</font>
+
+266
+00:19:54,360 --> 00:19:57,000
+<font color="#CCCCCC">stuff so</font><font color="#E5E5E5"> working on</font><font color="#CCCCCC"> a mission like this</font>
+
+267
+00:19:57,000 --> 00:20:00,000
+<font color="#E5E5E5">is something really special to</font><font color="#CCCCCC"> be able</font>
+
+268
+00:20:00,000 --> 00:20:02,850
+<font color="#E5E5E5">to get your hands on on on a vehicle</font>
+
+269
+00:20:02,850 --> 00:00:00,000
+<font color="#E5E5E5">like this and do</font>
+

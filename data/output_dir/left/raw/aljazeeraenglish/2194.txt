@@ -1,0 +1,2268 @@
+1
+00:00:01,890 --> 00:00:06,109
+[Music]
+
+2
+00:00:06,109 --> 00:00:10,469
+it was a daring raid<font color="#E5E5E5"> tens of millions of</font>
+
+3
+00:00:10,469 --> 00:00:12,809
+dollars<font color="#E5E5E5"> stolen</font><font color="#CCCCCC"> from Bangladesh's</font><font color="#E5E5E5"> central</font>
+
+4
+00:00:12,809 --> 00:00:15,780
+<font color="#E5E5E5">bank via the Federal Reserve Bank of New</font>
+
+5
+00:00:15,780 --> 00:00:18,480
+<font color="#CCCCCC">York</font><font color="#E5E5E5"> and then laundered in the</font>
+
+6
+00:00:18,480 --> 00:00:21,420
+Philippines the money<font color="#E5E5E5"> and the thieves</font>
+
+7
+00:00:21,420 --> 00:00:26,039
+<font color="#E5E5E5">then vanished</font><font color="#CCCCCC"> I'm Steve Chow on this</font>
+
+8
+00:00:26,039 --> 00:00:27,330
+episode of one on one East we
+
+9
+00:00:27,330 --> 00:00:29,070
+investigate one<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the biggest bank</font>
+
+10
+00:00:29,070 --> 00:00:31,859
+robberies of modern times<font color="#CCCCCC"> and ask how</font>
+
+11
+00:00:31,859 --> 00:00:35,809
+the cyber hackers got<font color="#E5E5E5"> away with it</font>
+
+12
+00:00:50,059 --> 00:00:54,409
+<font color="#CCCCCC">Decker</font><font color="#E5E5E5"> the capital of Bangladesh</font><font color="#CCCCCC"> a</font>
+
+13
+00:00:54,409 --> 00:00:57,119
+teeming chaotic<font color="#CCCCCC"> city and one of the</font>
+
+14
+00:00:57,119 --> 00:01:01,469
+world's poorest<font color="#CCCCCC"> 70 million people live</font>
+
+15
+00:01:01,469 --> 00:01:03,750
+here<font color="#CCCCCC"> a third of them surviving on less</font>
+
+16
+00:01:03,750 --> 00:01:08,159
+than $2 a day<font color="#E5E5E5"> Bangladesh</font><font color="#CCCCCC"> has one of the</font>
+
+17
+00:01:08,159 --> 00:01:11,700
+world's<font color="#E5E5E5"> fastest growing economies it's a</font>
+
+18
+00:01:11,700 --> 00:01:14,490
+country on the<font color="#CCCCCC"> up</font><font color="#E5E5E5"> but one that could ill</font>
+
+19
+00:01:14,490 --> 00:01:16,619
+afford to<font color="#CCCCCC"> lose</font><font color="#E5E5E5"> more than</font><font color="#CCCCCC"> 80 million</font>
+
+20
+00:01:16,619 --> 00:01:23,490
+<font color="#CCCCCC">dollars of taxpayers money</font><font color="#E5E5E5"> Bangladesh</font>
+
+21
+00:01:23,490 --> 00:01:25,920
+<font color="#E5E5E5">Bank the country's central bank is at</font>
+
+22
+00:01:25,920 --> 00:01:28,890
+the heart of its economic<font color="#E5E5E5"> system it</font>
+
+23
+00:01:28,890 --> 00:01:31,170
+overlooks our busy roundabouts<font color="#CCCCCC"> indicas</font>
+
+24
+00:01:31,170 --> 00:01:34,709
+financial district high walls and tight
+
+25
+00:01:34,709 --> 00:01:37,709
+<font color="#E5E5E5">security to stop anyone getting in who</font>
+
+26
+00:01:37,709 --> 00:01:40,429
+shouldn't be<font color="#E5E5E5"> there</font><font color="#CCCCCC"> but sometimes</font>
+
+27
+00:01:40,429 --> 00:01:43,979
+physical barriers aren't enough<font color="#E5E5E5"> for this</font>
+
+28
+00:01:43,979 --> 00:01:46,739
+heist<font color="#E5E5E5"> nobody broke in</font><font color="#CCCCCC"> and nobody took</font>
+
+29
+00:01:46,739 --> 00:01:49,319
+anything<font color="#E5E5E5"> away the entire crime was</font>
+
+30
+00:01:49,319 --> 00:01:51,920
+perpetrated electronically
+
+31
+00:01:51,920 --> 00:01:55,570
+[Music]
+
+32
+00:01:55,570 --> 00:01:58,600
+on the evening of<font color="#CCCCCC"> Thursday February the</font>
+
+33
+00:01:58,600 --> 00:02:01,900
+4th 2016<font color="#E5E5E5"> the</font><font color="#CCCCCC"> stars of the weekend in</font>
+
+34
+00:02:01,900 --> 00:02:04,450
+<font color="#E5E5E5">Muslim Bangladesh most of the central</font>
+
+35
+00:02:04,450 --> 00:02:06,220
+bank staff had gone home
+
+36
+00:02:06,220 --> 00:02:09,130
+the building was<font color="#CCCCCC"> secured but intruders</font>
+
+37
+00:02:09,130 --> 00:02:14,260
+were<font color="#E5E5E5"> already inside in an interim report</font>
+
+38
+00:02:14,260 --> 00:02:16,600
+experts commissioned by<font color="#CCCCCC"> Bangladesh</font><font color="#E5E5E5"> Bank</font>
+
+39
+00:02:16,600 --> 00:02:18,430
+said a malicious<font color="#E5E5E5"> program was installed</font>
+
+40
+00:02:18,430 --> 00:02:21,120
+<font color="#E5E5E5">on</font><font color="#CCCCCC"> the bank's computer systems</font><font color="#E5E5E5"> a malware</font>
+
+41
+00:02:21,120 --> 00:02:24,180
+<font color="#E5E5E5">possibly delivered via an infected email</font>
+
+42
+00:02:24,180 --> 00:02:27,450
+<font color="#E5E5E5">collected passwords and usernames and</font>
+
+43
+00:02:27,450 --> 00:02:31,420
+covered its own tracks<font color="#E5E5E5"> investigators say</font>
+
+44
+00:02:31,420 --> 00:02:33,490
+they<font color="#CCCCCC"> found considerable evidence</font><font color="#E5E5E5"> that</font>
+
+45
+00:02:33,490 --> 00:02:35,350
+the hackers used the bank's credentials
+
+46
+00:02:35,350 --> 00:02:38,440
+to access<font color="#CCCCCC"> Swift</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> International</font>
+
+47
+00:02:38,440 --> 00:02:40,780
+messaging system<font color="#E5E5E5"> used to send money</font>
+
+48
+00:02:40,780 --> 00:02:43,030
+<font color="#E5E5E5">around the</font><font color="#CCCCCC"> world the hackers then</font>
+
+49
+00:02:43,030 --> 00:02:46,240
+generated<font color="#E5E5E5"> 35 requests to transfer funds</font>
+
+50
+00:02:46,240 --> 00:02:48,910
+<font color="#E5E5E5">from</font><font color="#CCCCCC"> bangladesh</font><font color="#E5E5E5"> banks account with the</font>
+
+51
+00:02:48,910 --> 00:02:51,489
+Federal<font color="#CCCCCC"> Reserve</font><font color="#E5E5E5"> Bank of New</font><font color="#CCCCCC"> York</font><font color="#E5E5E5"> the</font>
+
+52
+00:02:51,489 --> 00:02:54,480
+orders<font color="#E5E5E5"> came close to a billion dollars</font>
+
+53
+00:02:54,480 --> 00:02:57,310
+<font color="#E5E5E5">most of the requests were blocked but</font>
+
+54
+00:02:57,310 --> 00:02:59,800
+<font color="#CCCCCC">four did get through and as a result</font>
+
+55
+00:02:59,800 --> 00:03:02,830
+almost<font color="#CCCCCC"> 81</font><font color="#E5E5E5"> million dollars was sent to</font>
+
+56
+00:03:02,830 --> 00:03:05,610
+accounts at<font color="#E5E5E5"> a bank called RCBC</font>
+
+57
+00:03:05,610 --> 00:03:08,350
+thousands of miles away<font color="#E5E5E5"> in the</font>
+
+58
+00:03:08,350 --> 00:03:13,870
+Philippines because<font color="#E5E5E5"> nothing like that</font>
+
+59
+00:03:13,870 --> 00:03:15,970
+even a smaller thing like that<font color="#CCCCCC"> never</font>
+
+60
+00:03:15,970 --> 00:03:18,580
+happened<font color="#CCCCCC"> so I was I was</font><font color="#E5E5E5"> dumb and</font>
+
+61
+00:03:18,580 --> 00:03:20,380
+actually<font color="#E5E5E5"> for for a while</font>
+
+62
+00:03:20,380 --> 00:03:22,690
+<font color="#CCCCCC">attea Rahman was the governor of</font><font color="#E5E5E5"> the</font>
+
+63
+00:03:22,690 --> 00:03:24,489
+<font color="#CCCCCC">bank when</font><font color="#E5E5E5"> its systems were compromised</font>
+
+64
+00:03:24,489 --> 00:03:27,400
+<font color="#CCCCCC">and the money was stolen you know I'm</font>
+
+65
+00:03:27,400 --> 00:03:30,310
+not blaming Swift<font color="#CCCCCC"> I'm not</font><font color="#E5E5E5"> blaming Fed</font>
+
+66
+00:03:30,310 --> 00:03:33,100
+I'm not blaming<font color="#CCCCCC"> Bangladesh</font><font color="#E5E5E5"> bank but the</font>
+
+67
+00:03:33,100 --> 00:03:38,080
+entire<font color="#E5E5E5"> system was not strong enough to</font>
+
+68
+00:03:38,080 --> 00:03:40,959
+really withstand the kind of attack<font color="#E5E5E5"> that</font>
+
+69
+00:03:40,959 --> 00:03:45,190
+it got all institutions touched by the
+
+70
+00:03:45,190 --> 00:03:47,560
+heist<font color="#CCCCCC"> have denied they were at</font><font color="#E5E5E5"> fault for</font>
+
+71
+00:03:47,560 --> 00:03:50,470
+the<font color="#E5E5E5"> losses they have however taken steps</font>
+
+72
+00:03:50,470 --> 00:03:52,120
+to<font color="#E5E5E5"> improve</font><font color="#CCCCCC"> security</font>
+
+73
+00:03:52,120 --> 00:03:55,260
+[Music]
+
+74
+00:03:55,260 --> 00:03:58,680
+police<font color="#E5E5E5"> headquarters in downtown</font><font color="#CCCCCC"> dhaka</font>
+
+75
+00:03:58,680 --> 00:04:00,700
+detectives here are<font color="#E5E5E5"> working with</font>
+
+76
+00:04:00,700 --> 00:04:02,740
+authorities<font color="#CCCCCC"> in</font><font color="#E5E5E5"> other countries in what</font>
+
+77
+00:04:02,740 --> 00:04:04,330
+has become an<font color="#E5E5E5"> international</font>
+
+78
+00:04:04,330 --> 00:04:07,540
+investigation<font color="#CCCCCC"> they've yet to confirm</font><font color="#E5E5E5"> how</font>
+
+79
+00:04:07,540 --> 00:04:10,620
+the hackers got into the<font color="#E5E5E5"> system we</font>
+
+80
+00:04:10,620 --> 00:04:14,800
+process all the<font color="#CCCCCC"> data and</font><font color="#E5E5E5"> FBI is</font><font color="#CCCCCC"> helping</font>
+
+81
+00:04:14,800 --> 00:04:19,690
+us<font color="#CCCCCC"> Interpol is helping us and we</font><font color="#E5E5E5"> are</font>
+
+82
+00:04:19,690 --> 00:04:22,810
+trying<font color="#E5E5E5"> to find out the</font><font color="#CCCCCC"> conclusive</font>
+
+83
+00:04:22,810 --> 00:04:27,820
+evidence<font color="#CCCCCC"> we investigators are sifting</font>
+
+84
+00:04:27,820 --> 00:04:30,940
+through<font color="#CCCCCC"> 10</font><font color="#E5E5E5"> terabytes of data</font><font color="#CCCCCC"> in the hunt</font>
+
+85
+00:04:30,940 --> 00:04:33,250
+for a<font color="#E5E5E5"> smoking</font><font color="#CCCCCC"> gun that might identify</font>
+
+86
+00:04:33,250 --> 00:04:34,690
+the culprits
+
+87
+00:04:34,690 --> 00:04:37,810
+<font color="#E5E5E5">so no bank insiders have been charged</font>
+
+88
+00:04:37,810 --> 00:04:40,180
+over<font color="#E5E5E5"> the heist</font><font color="#CCCCCC"> police say they must</font>
+
+89
+00:04:40,180 --> 00:04:42,760
+fully investigate the possibility<font color="#CCCCCC"> oh</font>
+
+90
+00:04:42,760 --> 00:04:44,950
+yeah looking<font color="#E5E5E5"> into that maybe a bank</font>
+
+91
+00:04:44,950 --> 00:04:47,740
+employee<font color="#CCCCCC"> yes</font>
+
+92
+00:04:47,740 --> 00:04:50,959
+[Music]
+
+93
+00:04:51,560 --> 00:04:53,990
+Angela -<font color="#CCCCCC"> Bank denies that anyone on</font><font color="#E5E5E5"> the</font>
+
+94
+00:04:53,990 --> 00:04:56,150
+<font color="#E5E5E5">inside was involved and also denies</font>
+
+95
+00:04:56,150 --> 00:04:59,090
+negligence<font color="#E5E5E5"> the police have not charged</font>
+
+96
+00:04:59,090 --> 00:05:01,520
+anyone<font color="#E5E5E5"> from Bangladesh Bank in relation</font>
+
+97
+00:05:01,520 --> 00:05:04,190
+<font color="#CCCCCC">to the</font><font color="#E5E5E5"> heist to find out more I</font>
+
+98
+00:05:04,190 --> 00:05:06,050
+contacted one<font color="#CCCCCC"> of the private sector</font>
+
+99
+00:05:06,050 --> 00:05:08,150
+<font color="#E5E5E5">cybersecurity companies that have</font>
+
+100
+00:05:08,150 --> 00:05:10,370
+<font color="#E5E5E5">investigated the methods used</font><font color="#CCCCCC"> by the</font>
+
+101
+00:05:10,370 --> 00:05:12,710
+hackers<font color="#E5E5E5"> what were your thoughts when you</font>
+
+102
+00:05:12,710 --> 00:05:14,900
+heard<font color="#CCCCCC"> that</font><font color="#E5E5E5"> this central bank had been</font>
+
+103
+00:05:14,900 --> 00:05:17,930
+<font color="#E5E5E5">hacked</font><font color="#CCCCCC"> the the early indicators</font><font color="#E5E5E5"> show</font>
+
+104
+00:05:17,930 --> 00:05:19,550
+that this they likely<font color="#E5E5E5"> got in through</font>
+
+105
+00:05:19,550 --> 00:05:21,290
+some sort of<font color="#CCCCCC"> spearfishing message so</font>
+
+106
+00:05:21,290 --> 00:05:22,910
+basically they sent an email to someone
+
+107
+00:05:22,910 --> 00:05:25,250
+<font color="#E5E5E5">and then that person basically clicked</font>
+
+108
+00:05:25,250 --> 00:05:27,080
+on that<font color="#CCCCCC"> email and had their computer</font>
+
+109
+00:05:27,080 --> 00:05:29,240
+system infected<font color="#E5E5E5"> now they were going</font>
+
+110
+00:05:29,240 --> 00:05:31,130
+<font color="#CCCCCC">after what's called the</font><font color="#E5E5E5"> Swift terminals</font>
+
+111
+00:05:31,130 --> 00:05:32,870
+these are the terminals<font color="#E5E5E5"> or computers</font>
+
+112
+00:05:32,870 --> 00:05:35,000
+that<font color="#CCCCCC"> are responsible for conducting</font>
+
+113
+00:05:35,000 --> 00:05:37,360
+large bank transfers between
+
+114
+00:05:37,360 --> 00:05:39,680
+<font color="#E5E5E5">organizations or even countries it's</font>
+
+115
+00:05:39,680 --> 00:05:41,479
+basically<font color="#CCCCCC"> they're modifying the</font>
+
+116
+00:05:41,479 --> 00:05:43,490
+applications on the computer that<font color="#CCCCCC"> has</font>
+
+117
+00:05:43,490 --> 00:05:44,930
+sort of been hijacked and<font color="#E5E5E5"> remember those</font>
+
+118
+00:05:44,930 --> 00:05:46,460
+computers<font color="#E5E5E5"> are actually inside</font><font color="#CCCCCC"> the bank</font>
+
+119
+00:05:46,460 --> 00:05:48,320
+<font color="#E5E5E5">this is</font><font color="#CCCCCC"> a case where this institution</font>
+
+120
+00:05:48,320 --> 00:05:50,479
+was compromised more so than anything
+
+121
+00:05:50,479 --> 00:05:52,270
+<font color="#CCCCCC">Swift specific</font>
+
+122
+00:05:52,270 --> 00:05:56,760
+[Music]
+
+123
+00:05:56,760 --> 00:05:59,250
+in<font color="#E5E5E5"> Bangladesh</font><font color="#CCCCCC"> the investigation</font><font color="#E5E5E5"> into who</font>
+
+124
+00:05:59,250 --> 00:06:01,590
+stole the 81<font color="#E5E5E5"> million dollars continues</font>
+
+125
+00:06:01,590 --> 00:06:04,200
+but it's quite<font color="#CCCCCC"> possible that the hackers</font>
+
+126
+00:06:04,200 --> 00:06:06,330
+may actually have never set foot in<font color="#E5E5E5"> the</font>
+
+127
+00:06:06,330 --> 00:06:09,390
+country<font color="#E5E5E5"> missing millions were sent</font>
+
+128
+00:06:09,390 --> 00:06:11,550
+overseas<font color="#E5E5E5"> and I'm following the money</font>
+
+129
+00:06:11,550 --> 00:06:13,650
+trail<font color="#CCCCCC"> to the Philippines</font><font color="#E5E5E5"> where</font>
+
+130
+00:06:13,650 --> 00:06:16,470
+electronic wire transfers became hard
+
+131
+00:06:16,470 --> 00:06:18,770
+cash
+
+132
+00:06:18,770 --> 00:06:21,890
+[Music]
+
+133
+00:06:24,260 --> 00:06:26,900
+I've come to Manila<font color="#CCCCCC"> it's one</font><font color="#E5E5E5"> of the</font>
+
+134
+00:06:26,900 --> 00:06:28,990
+<font color="#E5E5E5">fastest-growing</font><font color="#CCCCCC"> cities in</font><font color="#E5E5E5"> Asia</font>
+
+135
+00:06:28,990 --> 00:06:31,850
+<font color="#E5E5E5">Manila's business district has expanded</font>
+
+136
+00:06:31,850 --> 00:06:34,190
+<font color="#CCCCCC">substantially over the</font><font color="#E5E5E5"> last decade</font><font color="#CCCCCC"> but</font>
+
+137
+00:06:34,190 --> 00:06:36,020
+<font color="#E5E5E5">its banking sector operates under</font>
+
+138
+00:06:36,020 --> 00:06:39,590
+unusually strict secrecy laws and that
+
+139
+00:06:39,590 --> 00:06:41,810
+includes the institution which helped
+
+140
+00:06:41,810 --> 00:06:44,660
+turn the transfers<font color="#E5E5E5"> from Bangladesh into</font>
+
+141
+00:06:44,660 --> 00:06:48,620
+cash<font color="#E5E5E5"> it was by sending money here that</font>
+
+142
+00:06:48,620 --> 00:06:50,360
+the thieves<font color="#E5E5E5"> effectively made their</font>
+
+143
+00:06:50,360 --> 00:06:53,330
+<font color="#CCCCCC">getaway</font><font color="#E5E5E5"> 81 million dollars of bangladesh</font>
+
+144
+00:06:53,330 --> 00:06:55,880
+<font color="#E5E5E5">bank's funds ended up in this local</font>
+
+145
+00:06:55,880 --> 00:07:00,020
+branch<font color="#CCCCCC"> of a bank</font><font color="#E5E5E5"> called RCBC</font><font color="#CCCCCC"> and they</font>
+
+146
+00:07:00,020 --> 00:07:01,580
+did it using bank accounts<font color="#CCCCCC"> that had been</font>
+
+147
+00:07:01,580 --> 00:07:04,250
+opened<font color="#E5E5E5"> months earlier using fake IDs and</font>
+
+148
+00:07:04,250 --> 00:07:07,670
+had since lain inactive<font color="#E5E5E5"> the hackers had</font>
+
+149
+00:07:07,670 --> 00:07:09,350
+sent payment requests<font color="#CCCCCC"> from Bangladesh</font>
+
+150
+00:07:09,350 --> 00:07:11,660
+<font color="#CCCCCC">Bank to the New York Fed on Thursday</font><font color="#E5E5E5"> and</font>
+
+151
+00:07:11,660 --> 00:07:14,390
+by<font color="#CCCCCC"> Friday</font><font color="#E5E5E5"> the money had hid accounts at</font>
+
+152
+00:07:14,390 --> 00:07:15,740
+<font color="#CCCCCC">RCBC in Manila</font>
+
+153
+00:07:15,740 --> 00:07:18,500
+it was then moved<font color="#E5E5E5"> between an array</font><font color="#CCCCCC"> of</font>
+
+154
+00:07:18,500 --> 00:07:20,150
+other accounts controlled<font color="#E5E5E5"> by a</font>
+
+155
+00:07:20,150 --> 00:07:22,370
+remittance company called<font color="#CCCCCC"> fill Ram</font><font color="#E5E5E5"> and</font>
+
+156
+00:07:22,370 --> 00:07:24,380
+some of it was<font color="#CCCCCC"> converted into Philippine</font>
+
+157
+00:07:24,380 --> 00:07:27,890
+pesos over a period<font color="#E5E5E5"> of 10</font><font color="#CCCCCC"> days the money</font>
+
+158
+00:07:27,890 --> 00:07:29,810
+was transferred electronically and in
+
+159
+00:07:29,810 --> 00:07:32,570
+cash and<font color="#E5E5E5"> channelled into</font><font color="#CCCCCC"> manila's casino</font>
+
+160
+00:07:32,570 --> 00:07:36,320
+industry the accounts here on Jupiter
+
+161
+00:07:36,320 --> 00:07:38,180
+Street were<font color="#E5E5E5"> a vital clue for</font>
+
+162
+00:07:38,180 --> 00:07:40,370
+<font color="#E5E5E5">investigators they were crucial for</font>
+
+163
+00:07:40,370 --> 00:07:42,560
+laundering<font color="#E5E5E5"> the money and someone had set</font>
+
+164
+00:07:42,560 --> 00:07:44,870
+them up using<font color="#E5E5E5"> false names and fake</font>
+
+165
+00:07:44,870 --> 00:07:49,060
+credentials<font color="#CCCCCC"> the question is who</font>
+
+166
+00:07:53,320 --> 00:07:56,180
+the<font color="#E5E5E5"> Philippine Senate held an inquiry</font>
+
+167
+00:07:56,180 --> 00:07:57,980
+into the<font color="#E5E5E5"> laundering of the proceeds of</font>
+
+168
+00:07:57,980 --> 00:08:01,100
+<font color="#E5E5E5">the heist it heard that the accounts</font>
+
+169
+00:08:01,100 --> 00:08:03,760
+were opened by<font color="#CCCCCC"> the manager of the RCBC</font>
+
+170
+00:08:03,760 --> 00:08:06,680
+<font color="#E5E5E5">Jupiter Street branch a woman called</font>
+
+171
+00:08:06,680 --> 00:08:14,570
+Maya<font color="#CCCCCC"> dig it oh she says she opened the</font>
+
+172
+00:08:14,570 --> 00:08:17,090
+accounts for this man a<font color="#E5E5E5"> manila casino</font>
+
+173
+00:08:17,090 --> 00:08:19,280
+owner and agent she'd known for<font color="#E5E5E5"> several</font>
+
+174
+00:08:19,280 --> 00:08:22,460
+years<font color="#E5E5E5"> called Kim Wong who also gave</font>
+
+175
+00:08:22,460 --> 00:08:26,480
+evidence at the<font color="#E5E5E5"> inquiry Maya dengue</font><font color="#CCCCCC"> toe</font>
+
+176
+00:08:26,480 --> 00:08:27,830
+declined to be interviewed for<font color="#CCCCCC"> this</font>
+
+177
+00:08:27,830 --> 00:08:30,260
+<font color="#E5E5E5">program but she testified to the inquiry</font>
+
+178
+00:08:30,260 --> 00:08:33,200
+<font color="#E5E5E5">that she had actually met four people</font>
+
+179
+00:08:33,200 --> 00:08:36,590
+whose names were<font color="#E5E5E5"> on the accounts she's</font>
+
+180
+00:08:36,590 --> 00:08:39,020
+been represented by<font color="#CCCCCC"> a lawyer who has an</font>
+
+181
+00:08:39,020 --> 00:08:42,469
+unusual taste in art<font color="#E5E5E5"> mr. Wang vouch for</font>
+
+182
+00:08:42,469 --> 00:08:46,390
+their identities presented documents
+
+183
+00:08:46,390 --> 00:08:49,250
+which showed their identities<font color="#CCCCCC"> and</font>
+
+184
+00:08:49,250 --> 00:08:52,400
+requested her to<font color="#CCCCCC"> open</font><font color="#E5E5E5"> accounts in her</font>
+
+185
+00:08:52,400 --> 00:08:54,620
+branch<font color="#E5E5E5"> on behalf of these five</font>
+
+186
+00:08:54,620 --> 00:08:59,950
+individuals<font color="#CCCCCC"> and with</font><font color="#E5E5E5"> the promise that a</font>
+
+187
+00:08:59,950 --> 00:09:04,850
+substantial amount would come into<font color="#E5E5E5"> these</font>
+
+188
+00:09:04,850 --> 00:09:06,980
+accounts<font color="#E5E5E5"> one hasn't been formally</font>
+
+189
+00:09:06,980 --> 00:09:09,410
+charged<font color="#E5E5E5"> over the heist but is subject to</font>
+
+190
+00:09:09,410 --> 00:09:11,930
+civil action<font color="#E5E5E5"> he denied the guitars</font>
+
+191
+00:09:11,930 --> 00:09:14,120
+version of events<font color="#E5E5E5"> and denied knowing</font>
+
+192
+00:09:14,120 --> 00:09:15,830
+that the money<font color="#E5E5E5"> was stolen</font>
+
+193
+00:09:15,830 --> 00:09:19,490
+<font color="#CCCCCC">welcome team elements appear on my</font>
+
+194
+00:09:19,490 --> 00:09:25,030
+documents<font color="#E5E5E5"> para o mas o Don para</font><font color="#CCCCCC"> Sabanci</font>
+
+195
+00:09:25,030 --> 00:09:30,380
+<font color="#CCCCCC">india enrico alam an enamel on than</font><font color="#E5E5E5"> 81</font>
+
+196
+00:09:30,380 --> 00:09:33,770
+million dollars<font color="#E5E5E5"> sanaya</font>
+
+197
+00:09:33,770 --> 00:09:37,520
+<font color="#CCCCCC">ana</font><font color="#E5E5E5"> PK lung</font><font color="#CCCCCC"> sinha sobbing</font><font color="#E5E5E5"> diamond bank</font>
+
+198
+00:09:37,520 --> 00:09:42,770
+accounts some<font color="#CCCCCC"> foreign alum and</font><font color="#E5E5E5"> Nina</font>
+
+199
+00:09:42,770 --> 00:09:47,780
+Foucault<font color="#CCCCCC"> Kamiya main important Brannan</font>
+
+200
+00:09:47,780 --> 00:09:51,210
+at<font color="#E5E5E5"> Atrato PO</font>
+
+201
+00:09:51,210 --> 00:09:54,670
+<font color="#CCCCCC">our CBC Bank was fined close to</font><font color="#E5E5E5"> 20</font>
+
+202
+00:09:54,670 --> 00:09:56,110
+<font color="#E5E5E5">million dollars for</font><font color="#CCCCCC"> failing to</font><font color="#E5E5E5"> comply</font>
+
+203
+00:09:56,110 --> 00:09:58,900
+<font color="#CCCCCC">with banking regulations</font><font color="#E5E5E5"> and its chief</font>
+
+204
+00:09:58,900 --> 00:10:02,140
+<font color="#CCCCCC">executive and president resigned</font><font color="#E5E5E5"> the</font>
+
+205
+00:10:02,140 --> 00:10:04,030
+bank said it accepted the findings of
+
+206
+00:10:04,030 --> 00:10:07,270
+the regulator<font color="#E5E5E5"> and wants to move on the</font>
+
+207
+00:10:07,270 --> 00:10:09,910
+company's lawyer says<font color="#CCCCCC"> Maia Diggy Joe</font><font color="#E5E5E5"> was</font>
+
+208
+00:10:09,910 --> 00:10:12,520
+a rogue employee<font color="#CCCCCC"> branch</font><font color="#E5E5E5"> manager says</font>
+
+209
+00:10:12,520 --> 00:10:15,460
+<font color="#CCCCCC">that she was</font><font color="#E5E5E5"> naive that she was a pawn</font>
+
+210
+00:10:15,460 --> 00:10:18,310
+in a<font color="#CCCCCC"> much larger plan</font><font color="#E5E5E5"> which she didn't</font>
+
+211
+00:10:18,310 --> 00:10:20,640
+<font color="#E5E5E5">clearly understand at the time</font><font color="#CCCCCC"> I</font>
+
+212
+00:10:20,640 --> 00:10:22,120
+disagree with that
+
+213
+00:10:22,120 --> 00:10:24,490
+she knows the banking system<font color="#E5E5E5"> she's</font>
+
+214
+00:10:24,490 --> 00:10:27,040
+<font color="#CCCCCC">trained</font><font color="#E5E5E5"> of all the policies of the bank</font>
+
+215
+00:10:27,040 --> 00:10:29,530
+<font color="#CCCCCC">she knew about</font><font color="#E5E5E5"> these accounts she set it</font>
+
+216
+00:10:29,530 --> 00:10:31,930
+up<font color="#CCCCCC"> she was obviously</font><font color="#E5E5E5"> waiting for the</font>
+
+217
+00:10:31,930 --> 00:10:34,540
+funds<font color="#E5E5E5"> to be credited and when it was</font>
+
+218
+00:10:34,540 --> 00:10:37,360
+credited<font color="#E5E5E5"> she acted with lightning speed</font>
+
+219
+00:10:37,360 --> 00:10:40,180
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> getting these accounts out of the</font>
+
+220
+00:10:40,180 --> 00:10:43,500
+beneficiary accounts<font color="#E5E5E5"> into other accounts</font>
+
+221
+00:10:43,500 --> 00:10:46,600
+the Senate<font color="#E5E5E5"> report documented the timing</font>
+
+222
+00:10:46,600 --> 00:10:48,940
+of<font color="#E5E5E5"> the payments many were made within</font>
+
+223
+00:10:48,940 --> 00:10:50,340
+minutes of each other
+
+224
+00:10:50,340 --> 00:10:52,930
+<font color="#CCCCCC">Maia de Ito's lawyers say that when</font>
+
+225
+00:10:52,930 --> 00:10:55,270
+funds were received on February<font color="#CCCCCC"> the</font><font color="#E5E5E5"> 5th</font>
+
+226
+00:10:55,270 --> 00:10:57,670
+<font color="#E5E5E5">she confirmed the legitimacy of the</font>
+
+227
+00:10:57,670 --> 00:11:00,160
+remittances with<font color="#CCCCCC"> our CBC head office and</font>
+
+228
+00:11:00,160 --> 00:11:02,770
+<font color="#E5E5E5">received emails confirming they were</font>
+
+229
+00:11:02,770 --> 00:11:05,920
+from valid sources<font color="#E5E5E5"> her legal team say</font>
+
+230
+00:11:05,920 --> 00:11:07,870
+she didn't have<font color="#CCCCCC"> authority</font><font color="#E5E5E5"> to</font>
+
+231
+00:11:07,870 --> 00:11:10,600
+unilaterally prevent transfers and their
+
+232
+00:11:10,600 --> 00:11:12,640
+client was told there was<font color="#E5E5E5"> no reason to</font>
+
+233
+00:11:12,640 --> 00:11:15,070
+<font color="#CCCCCC">hold the funds</font><font color="#E5E5E5"> following an</font>
+
+234
+00:11:15,070 --> 00:11:16,740
+investigation<font color="#CCCCCC"> by anti-money laundering</font>
+
+235
+00:11:16,740 --> 00:11:19,720
+authorities<font color="#E5E5E5"> the AML</font><font color="#CCCCCC"> C the Philippine</font>
+
+236
+00:11:19,720 --> 00:11:21,520
+<font color="#CCCCCC">Department of Justice has recommended</font>
+
+237
+00:11:21,520 --> 00:11:24,130
+that<font color="#E5E5E5"> Maia</font><font color="#CCCCCC"> Dieguito be charged with eight</font>
+
+238
+00:11:24,130 --> 00:11:26,620
+counts<font color="#E5E5E5"> of money laundering</font><font color="#CCCCCC"> her</font><font color="#E5E5E5"> legal</font>
+
+239
+00:11:26,620 --> 00:11:28,570
+<font color="#CCCCCC">team is trying to quash the charges</font>
+
+240
+00:11:28,570 --> 00:11:30,640
+against her but<font color="#E5E5E5"> if the case goes ahead</font>
+
+241
+00:11:30,640 --> 00:11:34,690
+<font color="#CCCCCC">she will plead not guilty</font><font color="#E5E5E5"> Sergio was</font>
+
+242
+00:11:34,690 --> 00:11:37,090
+menya a former<font color="#CCCCCC"> Philippines</font><font color="#E5E5E5"> senator who</font>
+
+243
+00:11:37,090 --> 00:11:38,680
+sat on<font color="#E5E5E5"> the</font><font color="#CCCCCC"> committee looking</font><font color="#E5E5E5"> into the</font>
+
+244
+00:11:38,680 --> 00:11:41,080
+heist<font color="#CCCCCC"> says he doesn't</font><font color="#E5E5E5"> believe seven days</font>
+
+245
+00:11:41,080 --> 00:11:43,680
+of<font color="#E5E5E5"> testimony uncovered the whole story</font>
+
+246
+00:11:43,680 --> 00:11:47,740
+<font color="#CCCCCC">we couldn't quite get her to explain</font>
+
+247
+00:11:47,740 --> 00:11:49,840
+everything because<font color="#E5E5E5"> we did not</font><font color="#CCCCCC"> give her</font>
+
+248
+00:11:49,840 --> 00:11:53,890
+witness<font color="#E5E5E5"> protection program when the</font>
+
+249
+00:11:53,890 --> 00:11:56,200
+money left<font color="#E5E5E5"> our CBC it was paid</font><font color="#CCCCCC"> to</font>
+
+250
+00:11:56,200 --> 00:11:58,060
+accounts at the<font color="#E5E5E5"> Phil</font><font color="#CCCCCC"> Gramm remittance</font>
+
+251
+00:11:58,060 --> 00:11:59,119
+company
+
+252
+00:11:59,119 --> 00:12:01,879
+<font color="#E5E5E5">Phil rim was run by Michael and salud</font>
+
+253
+00:12:01,879 --> 00:12:05,029
+<font color="#E5E5E5">Batista they along with Kim Wong and the</font>
+
+254
+00:12:05,029 --> 00:12:07,069
+company that<font color="#CCCCCC"> owns a casino</font><font color="#E5E5E5"> called Sol</font>
+
+255
+00:12:07,069 --> 00:12:09,499
+air<font color="#E5E5E5"> are the subject of pending</font><font color="#CCCCCC"> legal</font>
+
+256
+00:12:09,499 --> 00:12:11,599
+action by<font color="#E5E5E5"> money laundering authorities</font>
+
+257
+00:12:11,599 --> 00:12:14,119
+to try to<font color="#E5E5E5"> recover some of the stolen</font>
+
+258
+00:12:14,119 --> 00:12:17,179
+<font color="#CCCCCC">money</font><font color="#E5E5E5"> Jim Wong and</font><font color="#CCCCCC"> sole heir say they</font>
+
+259
+00:12:17,179 --> 00:12:18,979
+are complying with the authorities
+
+260
+00:12:18,979 --> 00:12:21,319
+the Batista's have not responded<font color="#E5E5E5"> to our</font>
+
+261
+00:12:21,319 --> 00:12:23,829
+request<font color="#CCCCCC"> for</font><font color="#E5E5E5"> comment</font>
+
+262
+00:12:23,829 --> 00:12:26,209
+one stumbling block<font color="#CCCCCC"> for the</font><font color="#E5E5E5"> Senate's</font>
+
+263
+00:12:26,209 --> 00:12:28,519
+inquiry was the unusually high<font color="#E5E5E5"> level of</font>
+
+264
+00:12:28,519 --> 00:12:31,549
+privacy afforded<font color="#CCCCCC"> to bank accounts the</font>
+
+265
+00:12:31,549 --> 00:12:33,589
+Philippines along with<font color="#CCCCCC"> Switzerland and</font>
+
+266
+00:12:33,589 --> 00:12:35,929
+Lebanon has one of the most secretive
+
+267
+00:12:35,929 --> 00:12:37,969
+banking sectors in the<font color="#CCCCCC"> world</font>
+
+268
+00:12:37,969 --> 00:12:41,929
+<font color="#CCCCCC">Kim</font><font color="#E5E5E5"> Walsh bank account we couldn't get</font>
+
+269
+00:12:41,929 --> 00:12:44,899
+it filled a spike account<font color="#CCCCCC"> we</font><font color="#E5E5E5"> couldn't</font>
+
+270
+00:12:44,899 --> 00:12:52,249
+get it why<font color="#E5E5E5"> Bank Secrecy Act it stopped</font>
+
+271
+00:12:52,249 --> 00:12:53,689
+us from<font color="#E5E5E5"> getting the whole picture</font><font color="#CCCCCC"> it</font>
+
+272
+00:12:53,689 --> 00:12:55,129
+stopped us from<font color="#CCCCCC"> tracing</font><font color="#E5E5E5"> the money</font>
+
+273
+00:12:55,129 --> 00:13:00,259
+because we<font color="#E5E5E5"> couldn't get the the bank</font>
+
+274
+00:13:00,259 --> 00:13:03,349
+accounts<font color="#CCCCCC"> of anybody</font><font color="#E5E5E5"> almost 15 million</font>
+
+275
+00:13:03,349 --> 00:13:05,299
+dollars has been<font color="#E5E5E5"> recovered according to</font>
+
+276
+00:13:05,299 --> 00:13:07,039
+the official Philippine Senate report
+
+277
+00:13:07,039 --> 00:13:09,439
+<font color="#E5E5E5">some of</font><font color="#CCCCCC"> it handed over</font><font color="#E5E5E5"> by Kim Wong who</font>
+
+278
+00:13:09,439 --> 00:13:12,619
+denied knowing<font color="#E5E5E5"> it was stolen the AML</font><font color="#CCCCCC"> C</font>
+
+279
+00:13:12,619 --> 00:13:16,099
+says<font color="#E5E5E5"> Phil</font><font color="#CCCCCC"> Ramones</font><font color="#E5E5E5"> 17 million</font><font color="#CCCCCC"> dollars of</font>
+
+280
+00:13:16,099 --> 00:13:18,199
+the<font color="#CCCCCC"> stolen money</font><font color="#E5E5E5"> and is suing</font><font color="#CCCCCC"> for its</font>
+
+281
+00:13:18,199 --> 00:13:20,989
+<font color="#E5E5E5">return the company denies it has the</font>
+
+282
+00:13:20,989 --> 00:13:24,139
+money<font color="#E5E5E5"> almost</font><font color="#CCCCCC"> 50 million dollars has been</font>
+
+283
+00:13:24,139 --> 00:13:26,779
+<font color="#E5E5E5">traced to casinos and gambling junket</font>
+
+284
+00:13:26,779 --> 00:13:28,939
+operators according<font color="#E5E5E5"> to the AML C</font>
+
+285
+00:13:28,939 --> 00:13:31,969
+investigation<font color="#E5E5E5"> but none</font><font color="#CCCCCC"> of that 67</font>
+
+286
+00:13:31,969 --> 00:13:35,269
+million<font color="#E5E5E5"> has</font><font color="#CCCCCC"> been recovered the casinos</font>
+
+287
+00:13:35,269 --> 00:13:37,039
+were used for<font color="#CCCCCC"> turning the electronic</font>
+
+288
+00:13:37,039 --> 00:13:39,439
+money transfers into<font color="#E5E5E5"> hard cash though</font>
+
+289
+00:13:39,439 --> 00:13:41,719
+there's<font color="#E5E5E5"> been no inference they knew the</font>
+
+290
+00:13:41,719 --> 00:13:42,979
+funds were stolen
+
+291
+00:13:42,979 --> 00:13:45,469
+they weren't covered by money laundering
+
+292
+00:13:45,469 --> 00:13:48,109
+laws at<font color="#CCCCCC"> the time and weren't required</font><font color="#E5E5E5"> to</font>
+
+293
+00:13:48,109 --> 00:13:52,219
+record large transactions for Sergio<font color="#CCCCCC"> Oz</font>
+
+294
+00:13:52,219 --> 00:13:54,499
+manias<font color="#CCCCCC"> committee the heist exposed</font>
+
+295
+00:13:54,499 --> 00:13:57,319
+serious flaws and they were flaws that
+
+296
+00:13:57,319 --> 00:13:58,459
+were predictable
+
+297
+00:13:58,459 --> 00:14:02,269
+I was concerned<font color="#CCCCCC"> especially in 2010 when</font>
+
+298
+00:14:02,269 --> 00:14:04,849
+when they<font color="#E5E5E5"> were going to develop the four</font>
+
+299
+00:14:04,849 --> 00:14:07,339
+big casinos here<font color="#E5E5E5"> when they did that</font><font color="#CCCCCC"> I</font>
+
+300
+00:14:07,339 --> 00:14:12,840
+said it's time<font color="#CCCCCC"> that we updated our money</font>
+
+301
+00:14:12,840 --> 00:14:15,630
+laundering law because they're gonna<font color="#E5E5E5"> be</font>
+
+302
+00:14:15,630 --> 00:14:19,080
+very<font color="#CCCCCC"> bad for us</font><font color="#E5E5E5"> the senators inquiry</font>
+
+303
+00:14:19,080 --> 00:14:21,000
+made more than<font color="#CCCCCC"> a dozen recommendations</font>
+
+304
+00:14:21,000 --> 00:14:22,530
+which included extending money
+
+305
+00:14:22,530 --> 00:14:24,810
+laundering laws to casinos and making it
+
+306
+00:14:24,810 --> 00:14:26,940
+easier to<font color="#E5E5E5"> access information about bank</font>
+
+307
+00:14:26,940 --> 00:14:30,120
+accounts<font color="#CCCCCC"> new laws covering the casinos</font>
+
+308
+00:14:30,120 --> 00:14:33,030
+were passed in<font color="#CCCCCC"> July 2017</font><font color="#E5E5E5"> and earlier</font>
+
+309
+00:14:33,030 --> 00:14:35,100
+that year the<font color="#E5E5E5"> Philippines appointed a</font>
+
+310
+00:14:35,100 --> 00:14:37,500
+new central bank governor who vowed<font color="#CCCCCC"> to</font>
+
+311
+00:14:37,500 --> 00:14:39,900
+make it harder for dirty money to<font color="#E5E5E5"> enter</font>
+
+312
+00:14:39,900 --> 00:14:43,020
+the financial system but<font color="#CCCCCC"> as menya says</font>
+
+313
+00:14:43,020 --> 00:14:45,660
+he found<font color="#E5E5E5"> it hard to get politicians to</font>
+
+314
+00:14:45,660 --> 00:14:48,780
+<font color="#E5E5E5">act</font><font color="#CCCCCC"> we have the strictest bank secrecy</font>
+
+315
+00:14:48,780 --> 00:14:52,650
+<font color="#CCCCCC">law in the world</font><font color="#E5E5E5"> and I can't get any of</font>
+
+316
+00:14:52,650 --> 00:14:55,140
+<font color="#CCCCCC">my congressmen</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> senators</font><font color="#E5E5E5"> to amend</font>
+
+317
+00:14:55,140 --> 00:15:04,890
+that law<font color="#E5E5E5"> new york city one of</font><font color="#CCCCCC"> the</font>
+
+318
+00:15:04,890 --> 00:15:06,900
+world's biggest financial<font color="#CCCCCC"> centers and</font>
+
+319
+00:15:06,900 --> 00:15:08,790
+home to<font color="#CCCCCC"> one of its</font><font color="#E5E5E5"> most important</font>
+
+320
+00:15:08,790 --> 00:15:12,000
+<font color="#CCCCCC">financial institutions the Federal</font>
+
+321
+00:15:12,000 --> 00:15:15,240
+<font color="#E5E5E5">Reserve Bank of</font><font color="#CCCCCC"> New York or the Fed its</font>
+
+322
+00:15:15,240 --> 00:15:17,160
+Manhattan headquarters sit on top<font color="#CCCCCC"> of</font>
+
+323
+00:15:17,160 --> 00:15:19,860
+five<font color="#E5E5E5"> hundred and eight thousand gold</font>
+
+324
+00:15:19,860 --> 00:15:22,370
+bars<font color="#E5E5E5"> and it handles around eight hundred</font>
+
+325
+00:15:22,370 --> 00:15:26,120
+<font color="#CCCCCC">billion dollars of payments every day</font>
+
+326
+00:15:26,120 --> 00:15:29,220
+Jonathan Spicer<font color="#E5E5E5"> reports on its activity</font>
+
+327
+00:15:29,220 --> 00:15:31,340
+which moves markets around the<font color="#E5E5E5"> world</font>
+
+328
+00:15:31,340 --> 00:15:33,600
+<font color="#E5E5E5">well no one thinks as the Federal</font>
+
+329
+00:15:33,600 --> 00:15:35,820
+Reserve in terms of cyber<font color="#CCCCCC"> heists usually</font>
+
+330
+00:15:35,820 --> 00:15:38,130
+you think<font color="#E5E5E5"> of you know</font><font color="#CCCCCC"> economics you</font>
+
+331
+00:15:38,130 --> 00:15:39,690
+think of labor markets you think of
+
+332
+00:15:39,690 --> 00:15:42,120
+macro models of the US central<font color="#CCCCCC"> bank and</font>
+
+333
+00:15:42,120 --> 00:15:43,680
+<font color="#CCCCCC">its economists</font><font color="#E5E5E5"> are</font><font color="#CCCCCC"> pouring</font><font color="#E5E5E5"> over to try</font>
+
+334
+00:15:43,680 --> 00:15:45,510
+<font color="#CCCCCC">and decide what to do about</font><font color="#E5E5E5"> interest</font>
+
+335
+00:15:45,510 --> 00:15:46,890
+rates<font color="#E5E5E5"> it turns out of course that</font>
+
+336
+00:15:46,890 --> 00:15:49,410
+<font color="#E5E5E5">there's about three and a</font><font color="#CCCCCC"> half trillion</font>
+
+337
+00:15:49,410 --> 00:15:52,890
+<font color="#CCCCCC">dollars of foreign funds</font><font color="#E5E5E5"> being held at</font>
+
+338
+00:15:52,890 --> 00:15:55,440
+the New<font color="#E5E5E5"> York Fed and the Fed is</font>
+
+339
+00:15:55,440 --> 00:16:00,120
+basically account custodian for 250
+
+340
+00:16:00,120 --> 00:16:02,150
+<font color="#E5E5E5">foreign entities around</font><font color="#CCCCCC"> the world and</font>
+
+341
+00:16:02,150 --> 00:16:04,800
+<font color="#E5E5E5">its customers included</font><font color="#CCCCCC"> bangladesh's</font>
+
+342
+00:16:04,800 --> 00:16:06,690
+<font color="#CCCCCC">Central Bank</font><font color="#E5E5E5"> and it was</font><font color="#CCCCCC"> to the New York</font>
+
+343
+00:16:06,690 --> 00:16:09,600
+<font color="#CCCCCC">Fed that the hackers sent</font><font color="#E5E5E5"> 35 messages</font>
+
+344
+00:16:09,600 --> 00:16:11,940
+requesting payments from<font color="#E5E5E5"> the</font><font color="#CCCCCC"> bangladesh</font>
+
+345
+00:16:11,940 --> 00:16:13,619
+<font color="#CCCCCC">bank account</font>
+
+346
+00:16:13,619 --> 00:16:15,850
+things could have<font color="#CCCCCC"> been a lot worse</font><font color="#E5E5E5"> but</font>
+
+347
+00:16:15,850 --> 00:16:17,519
+for an<font color="#E5E5E5"> extraordinary coincidence</font>
+
+348
+00:16:17,519 --> 00:16:19,899
+<font color="#CCCCCC">millions</font><font color="#E5E5E5"> of dollars hundreds of</font><font color="#CCCCCC"> millions</font>
+
+349
+00:16:19,899 --> 00:16:21,939
+were never transferred because<font color="#E5E5E5"> the name</font>
+
+350
+00:16:21,939 --> 00:16:24,160
+Jupiter in<font color="#E5E5E5"> the address for the bank</font>
+
+351
+00:16:24,160 --> 00:16:26,949
+<font color="#E5E5E5">happened to match that of an oil tanker</font>
+
+352
+00:16:26,949 --> 00:16:29,049
+<font color="#E5E5E5">nothing to do with the heist</font><font color="#CCCCCC"> but on a</font>
+
+353
+00:16:29,049 --> 00:16:31,869
+list of US sanctions against Iran<font color="#CCCCCC"> as a</font>
+
+354
+00:16:31,869 --> 00:16:33,879
+result most<font color="#E5E5E5"> of the transfer orders were</font>
+
+355
+00:16:33,879 --> 00:16:37,420
+flagged<font color="#E5E5E5"> as suspicious and blocked by</font><font color="#CCCCCC"> the</font>
+
+356
+00:16:37,420 --> 00:16:40,119
+Fed<font color="#E5E5E5"> and there were other reasons</font><font color="#CCCCCC"> the</font>
+
+357
+00:16:40,119 --> 00:16:41,709
+transfer requests could have aroused
+
+358
+00:16:41,709 --> 00:16:43,629
+<font color="#CCCCCC">suspicion they were different to most</font>
+
+359
+00:16:43,629 --> 00:16:45,579
+payments made by<font color="#CCCCCC"> Bangladesh</font><font color="#E5E5E5"> Bank</font>
+
+360
+00:16:45,579 --> 00:16:47,410
+they weren't formatted properly<font color="#E5E5E5"> and</font>
+
+361
+00:16:47,410 --> 00:16:49,350
+these were large payments to individuals
+
+362
+00:16:49,350 --> 00:16:56,379
+rather than<font color="#E5E5E5"> organizations but largely</font>
+
+363
+00:16:56,379 --> 00:16:57,970
+because the requests appeared to be
+
+364
+00:16:57,970 --> 00:17:00,730
+authenticated by Swift<font color="#E5E5E5"> 81 million</font>
+
+365
+00:17:00,730 --> 00:17:03,380
+<font color="#E5E5E5">dollars was sent</font>
+
+366
+00:17:03,380 --> 00:17:07,209
+[Music]
+
+367
+00:17:07,209 --> 00:17:10,010
+when<font color="#E5E5E5"> I use</font><font color="#CCCCCC"> my card in a foreign</font><font color="#E5E5E5"> country</font>
+
+368
+00:17:10,010 --> 00:17:11,720
+for<font color="#E5E5E5"> example or</font><font color="#CCCCCC"> for a</font><font color="#E5E5E5"> sudden large</font>
+
+369
+00:17:11,720 --> 00:17:15,199
+purchase it can trigger<font color="#E5E5E5"> a simple fraud</font>
+
+370
+00:17:15,199 --> 00:17:17,480
+inquiry from my bank<font color="#CCCCCC"> real</font><font color="#E5E5E5"> time</font>
+
+371
+00:17:17,480 --> 00:17:19,069
+monitoring the technology is quite
+
+372
+00:17:19,069 --> 00:17:21,079
+<font color="#E5E5E5">straightforward</font><font color="#CCCCCC"> but in the case</font><font color="#E5E5E5"> of the</font>
+
+373
+00:17:21,079 --> 00:17:23,240
+heist<font color="#E5E5E5"> nothing like</font><font color="#CCCCCC"> that happened at the</font>
+
+374
+00:17:23,240 --> 00:17:26,959
+Fed the vast<font color="#CCCCCC"> majority of these payment</font>
+
+375
+00:17:26,959 --> 00:17:29,360
+requests<font color="#E5E5E5"> that arrived on the doorstep of</font>
+
+376
+00:17:29,360 --> 00:17:32,020
+<font color="#E5E5E5">the New York Fed are automatically</font>
+
+377
+00:17:32,020 --> 00:17:35,000
+<font color="#E5E5E5">executed you know they come to</font><font color="#CCCCCC"> the Swift</font>
+
+378
+00:17:35,000 --> 00:17:35,529
+Network
+
+379
+00:17:35,529 --> 00:17:38,179
+<font color="#CCCCCC">they have all the</font><font color="#E5E5E5"> boxes ticked</font><font color="#CCCCCC"> they're</font>
+
+380
+00:17:38,179 --> 00:17:40,760
+<font color="#E5E5E5">Swift authenticated and so they</font>
+
+381
+00:17:40,760 --> 00:17:42,950
+automatically<font color="#E5E5E5"> growth the door but</font><font color="#CCCCCC"> Fed</font>
+
+382
+00:17:42,950 --> 00:17:44,779
+staff were concerned enough<font color="#CCCCCC"> about some</font>
+
+383
+00:17:44,779 --> 00:17:46,700
+of the payments<font color="#E5E5E5"> to try to contact</font>
+
+384
+00:17:46,700 --> 00:17:49,460
+<font color="#E5E5E5">bangladesh bank at the</font><font color="#CCCCCC"> end of</font><font color="#E5E5E5"> Thursday</font>
+
+385
+00:17:49,460 --> 00:17:52,520
+<font color="#E5E5E5">they sent a message</font><font color="#CCCCCC"> using Swift</font><font color="#E5E5E5"> and two</font>
+
+386
+00:17:52,520 --> 00:17:54,710
+more on<font color="#E5E5E5"> Friday but hackers had</font>
+
+387
+00:17:54,710 --> 00:17:56,779
+compromised<font color="#E5E5E5"> Bangladesh</font><font color="#CCCCCC"> banks Swift</font>
+
+388
+00:17:56,779 --> 00:17:59,929
+<font color="#CCCCCC">system and sabotage</font><font color="#E5E5E5"> the crucial printer</font>
+
+389
+00:17:59,929 --> 00:18:01,399
+in<font color="#E5E5E5"> the Decker office</font>
+
+390
+00:18:01,399 --> 00:18:04,340
+it wasn't until Saturday that Bangladesh
+
+391
+00:18:04,340 --> 00:18:06,440
+Bank staff<font color="#E5E5E5"> realized what had</font><font color="#CCCCCC"> happened</font>
+
+392
+00:18:06,440 --> 00:18:08,870
+<font color="#E5E5E5">and tried</font><font color="#CCCCCC"> to contact</font><font color="#E5E5E5"> the Fed urgently</font>
+
+393
+00:18:08,870 --> 00:18:11,419
+<font color="#E5E5E5">but could only use numbers they found on</font>
+
+394
+00:18:11,419 --> 00:18:13,789
+the<font color="#CCCCCC"> internet</font><font color="#E5E5E5"> lines that weren't answered</font>
+
+395
+00:18:13,789 --> 00:18:17,210
+at<font color="#CCCCCC"> the weekend</font><font color="#E5E5E5"> on Monday Bangladesh Bank</font>
+
+396
+00:18:17,210 --> 00:18:19,370
+finally got messages through to<font color="#E5E5E5"> New York</font>
+
+397
+00:18:19,370 --> 00:18:21,880
+saying they'd been hacked
+
+398
+00:18:21,880 --> 00:18:24,649
+it would have<font color="#E5E5E5"> been seen as staff arrived</font>
+
+399
+00:18:24,649 --> 00:18:27,320
+<font color="#CCCCCC">for work in New York at 7:30 in the</font>
+
+400
+00:18:27,320 --> 00:18:31,669
+morning the Fed declined our invitation
+
+401
+00:18:31,669 --> 00:18:33,890
+<font color="#E5E5E5">to provide someone for interview but</font>
+
+402
+00:18:33,890 --> 00:18:36,679
+said this<font color="#E5E5E5"> while the event in</font><font color="#CCCCCC"> February</font>
+
+403
+00:18:36,679 --> 00:18:39,020
+2016<font color="#CCCCCC"> did not result in a breach or</font>
+
+404
+00:18:39,020 --> 00:18:41,240
+compromise of the<font color="#E5E5E5"> New York Fed systems</font>
+
+405
+00:18:41,240 --> 00:18:43,820
+<font color="#E5E5E5">we did view this as an</font><font color="#CCCCCC"> opportunity to</font>
+
+406
+00:18:43,820 --> 00:18:45,620
+further strengthen<font color="#E5E5E5"> the safety of global</font>
+
+407
+00:18:45,620 --> 00:18:48,200
+<font color="#E5E5E5">payments the New York Fed performs</font>
+
+408
+00:18:48,200 --> 00:18:50,419
+certain screening of and diligence on
+
+409
+00:18:50,419 --> 00:18:53,270
+funds transfers sent both to and<font color="#CCCCCC"> from</font>
+
+410
+00:18:53,270 --> 00:18:55,250
+the accounts of foreign central<font color="#E5E5E5"> banks on</font>
+
+411
+00:18:55,250 --> 00:18:58,190
+our books the robustness<font color="#CCCCCC"> of cyber</font>
+
+412
+00:18:58,190 --> 00:19:00,169
+security around the<font color="#CCCCCC"> global payment</font>
+
+413
+00:19:00,169 --> 00:19:02,360
+<font color="#E5E5E5">system must continue to be</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> priority</font>
+
+414
+00:19:02,360 --> 00:19:06,909
+for<font color="#CCCCCC"> each participant in the chain</font>
+
+415
+00:19:08,720 --> 00:19:09,960
+<font color="#CCCCCC">Brussels</font>
+
+416
+00:19:09,960 --> 00:19:12,480
+<font color="#CCCCCC">Elgin</font><font color="#E5E5E5"> capital and home to European</font>
+
+417
+00:19:12,480 --> 00:19:14,820
+institutions as<font color="#CCCCCC"> well as</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> headquarters</font>
+
+418
+00:19:14,820 --> 00:19:17,370
+of<font color="#CCCCCC"> Swift</font><font color="#E5E5E5"> a cooperative organization</font>
+
+419
+00:19:17,370 --> 00:19:21,350
+owned by the banks that<font color="#E5E5E5"> use it well in</font>
+
+420
+00:19:21,350 --> 00:19:24,480
+1973<font color="#CCCCCC"> you have to go back to then</font><font color="#E5E5E5"> banks</font>
+
+421
+00:19:24,480 --> 00:19:27,570
+<font color="#CCCCCC">were sending messages to each other</font>
+
+422
+00:19:27,570 --> 00:19:31,440
+using the telex<font color="#E5E5E5"> imagine</font><font color="#CCCCCC"> getting</font><font color="#E5E5E5"> 10,000</font>
+
+423
+00:19:31,440 --> 00:19:34,920
+faxes a day<font color="#E5E5E5"> not very secure</font><font color="#CCCCCC"> not very</font>
+
+424
+00:19:34,920 --> 00:19:38,490
+automated so<font color="#E5E5E5"> 239 banks from 15 countries</font>
+
+425
+00:19:38,490 --> 00:19:42,780
+<font color="#CCCCCC">said hey let's use</font><font color="#E5E5E5"> computers 1973 let's</font>
+
+426
+00:19:42,780 --> 00:19:44,880
+use global<font color="#E5E5E5"> telecommunications and try to</font>
+
+427
+00:19:44,880 --> 00:19:46,680
+get it to work<font color="#CCCCCC"> and they</font><font color="#E5E5E5"> formed the</font>
+
+428
+00:19:46,680 --> 00:19:48,840
+Society for<font color="#CCCCCC"> worldwide interbank</font>
+
+429
+00:19:48,840 --> 00:19:52,100
+financial telecommunication<font color="#CCCCCC"> Swift</font><font color="#E5E5E5"> and</font>
+
+430
+00:19:52,100 --> 00:19:55,350
+today<font color="#E5E5E5"> a fast forward</font><font color="#CCCCCC"> its thousands of</font>
+
+431
+00:19:55,350 --> 00:19:59,090
+<font color="#E5E5E5">banks hundreds of 200 countries</font><font color="#CCCCCC"> and</font>
+
+432
+00:19:59,090 --> 00:20:01,380
+trillions<font color="#E5E5E5"> of dollars a day flow</font><font color="#CCCCCC"> through</font>
+
+433
+00:20:01,380 --> 00:20:03,870
+the Swift Network<font color="#CCCCCC"> over</font><font color="#E5E5E5"> 10 trillion a day</font>
+
+434
+00:20:03,870 --> 00:20:06,900
+<font color="#E5E5E5">now</font><font color="#CCCCCC"> and it was</font><font color="#E5E5E5"> Swift's messaging system</font>
+
+435
+00:20:06,900 --> 00:20:09,060
+that the hackers<font color="#E5E5E5"> access to send messages</font>
+
+436
+00:20:09,060 --> 00:20:13,410
+to<font color="#CCCCCC"> the Fed we always realize that</font><font color="#E5E5E5"> Swift</font>
+
+437
+00:20:13,410 --> 00:20:14,130
+<font color="#E5E5E5">sweetspot</font>
+
+438
+00:20:14,130 --> 00:20:17,880
+were at the<font color="#CCCCCC"> users terminal at the at the</font>
+
+439
+00:20:17,880 --> 00:20:20,160
+endpoints was we're not responsible<font color="#CCCCCC"> for</font>
+
+440
+00:20:20,160 --> 00:20:23,190
+the<font color="#E5E5E5"> the physical security and for them</font>
+
+441
+00:20:23,190 --> 00:20:25,230
+keeping their<font color="#CCCCCC"> own passwords safe and</font>
+
+442
+00:20:25,230 --> 00:20:28,710
+secure<font color="#E5E5E5"> and other credentials</font><font color="#CCCCCC"> and over</font>
+
+443
+00:20:28,710 --> 00:20:31,890
+time you can<font color="#CCCCCC"> imagine as</font><font color="#E5E5E5"> cybercrime</font>
+
+444
+00:20:31,890 --> 00:20:35,100
+became much more sophisticated Swift
+
+445
+00:20:35,100 --> 00:20:36,720
+should have been doing<font color="#E5E5E5"> more or could</font>
+
+446
+00:20:36,720 --> 00:20:38,730
+<font color="#E5E5E5">have</font><font color="#CCCCCC"> been doing</font><font color="#E5E5E5"> more as we all know</font>
+
+447
+00:20:38,730 --> 00:20:41,460
+<font color="#CCCCCC">today</font><font color="#E5E5E5"> Swift declined to be interviewed</font>
+
+448
+00:20:41,460 --> 00:20:44,370
+<font color="#E5E5E5">but said there is no indication</font><font color="#CCCCCC"> that</font>
+
+449
+00:20:44,370 --> 00:20:46,500
+Swift's<font color="#CCCCCC"> network or</font><font color="#E5E5E5"> core messaging</font>
+
+450
+00:20:46,500 --> 00:20:48,450
+services have been compromised<font color="#E5E5E5"> in the</font>
+
+451
+00:20:48,450 --> 00:20:50,460
+recent attacks<font color="#E5E5E5"> on banks while our</font>
+
+452
+00:20:50,460 --> 00:20:51,990
+customers are individually responsible
+
+453
+00:20:51,990 --> 00:20:53,940
+for the security<font color="#CCCCCC"> of their own</font>
+
+454
+00:20:53,940 --> 00:20:56,760
+environments we fully recognize<font color="#CCCCCC"> that the</font>
+
+455
+00:20:56,760 --> 00:20:59,460
+security of<font color="#E5E5E5"> the industry as a whole is a</font>
+
+456
+00:20:59,460 --> 00:21:02,820
+shared<font color="#E5E5E5"> responsibility in mid-2016</font><font color="#CCCCCC"> we</font>
+
+457
+00:21:02,820 --> 00:21:05,460
+launched a customer security<font color="#E5E5E5"> program to</font>
+
+458
+00:21:05,460 --> 00:21:07,740
+reinforce the local<font color="#CCCCCC"> security</font><font color="#E5E5E5"> of their</font>
+
+459
+00:21:07,740 --> 00:21:10,680
+<font color="#E5E5E5">Swift related infrastructure and the</font>
+
+460
+00:21:10,680 --> 00:21:12,590
+organization<font color="#E5E5E5"> has introduced changes</font>
+
+461
+00:21:12,590 --> 00:21:15,300
+<font color="#CCCCCC">users like Bangladesh Bank now require</font>
+
+462
+00:21:15,300 --> 00:21:18,530
+more than<font color="#CCCCCC"> just a username and a password</font>
+
+463
+00:21:18,530 --> 00:21:21,920
+to<font color="#CCCCCC"> login under</font><font color="#E5E5E5"> pressure over the heist</font>
+
+464
+00:21:21,920 --> 00:21:24,470
+<font color="#E5E5E5">changes</font><font color="#CCCCCC"> have been made at some of the</font>
+
+465
+00:21:24,470 --> 00:21:27,230
+big institutions<font color="#CCCCCC"> but will they be enough</font>
+
+466
+00:21:27,230 --> 00:21:30,800
+<font color="#E5E5E5">to stay</font><font color="#CCCCCC"> ahead of</font><font color="#E5E5E5"> the hackers and who was</font>
+
+467
+00:21:30,800 --> 00:21:35,960
+behind this audacious theft<font color="#E5E5E5"> what</font>
+
+468
+00:21:35,960 --> 00:21:37,490
+happened to much of<font color="#E5E5E5"> the money that was</font>
+
+469
+00:21:37,490 --> 00:21:38,990
+played at casino tables in the
+
+470
+00:21:38,990 --> 00:21:42,170
+Philippines isn't<font color="#CCCCCC"> known but analysis by</font>
+
+471
+00:21:42,170 --> 00:21:44,810
+US authorities and<font color="#CCCCCC"> cybersecurity experts</font>
+
+472
+00:21:44,810 --> 00:21:47,030
+<font color="#E5E5E5">says the digital fingerprint found at</font>
+
+473
+00:21:47,030 --> 00:21:49,280
+the scene<font color="#CCCCCC"> of the crime Bangladesh banks</font>
+
+474
+00:21:49,280 --> 00:21:52,930
+computer systems<font color="#E5E5E5"> points to North Korea</font>
+
+475
+00:21:52,930 --> 00:21:56,120
+<font color="#E5E5E5">in the UK the defense company</font><font color="#CCCCCC"> bae</font>
+
+476
+00:21:56,120 --> 00:21:58,310
+<font color="#CCCCCC">systems is subject to</font><font color="#E5E5E5"> frequent attacks</font>
+
+477
+00:21:58,310 --> 00:22:00,920
+by hackers<font color="#E5E5E5"> and helps other</font><font color="#CCCCCC"> organizations</font>
+
+478
+00:22:00,920 --> 00:22:03,610
+defend themselves<font color="#CCCCCC"> from cybercrime</font>
+
+479
+00:22:03,610 --> 00:22:06,380
+<font color="#E5E5E5">according to its experts the bangladesh</font>
+
+480
+00:22:06,380 --> 00:22:08,360
+bank heist<font color="#CCCCCC"> bares the hallmark of other</font>
+
+481
+00:22:08,360 --> 00:22:11,270
+attacks<font color="#CCCCCC"> a distinctive code used to erase</font>
+
+482
+00:22:11,270 --> 00:22:13,940
+the tracks of hackers that<font color="#CCCCCC"> also featured</font>
+
+483
+00:22:13,940 --> 00:22:16,990
+in an attack<font color="#CCCCCC"> on Sony Pictures in 2014</font>
+
+484
+00:22:16,990 --> 00:22:19,760
+the US government has blamed that<font color="#CCCCCC"> on</font>
+
+485
+00:22:19,760 --> 00:22:22,430
+North Korea a claim that North Korea
+
+486
+00:22:22,430 --> 00:22:25,190
+denies so we've got a few clues from<font color="#E5E5E5"> the</font>
+
+487
+00:22:25,190 --> 00:22:27,620
+<font color="#CCCCCC">tools</font><font color="#E5E5E5"> that these attackers used in</font>
+
+488
+00:22:27,620 --> 00:22:29,360
+Bangladesh Bank and other attacks<font color="#E5E5E5"> that</font>
+
+489
+00:22:29,360 --> 00:22:31,250
+we've seen<font color="#CCCCCC"> and</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> tools are very</font>
+
+490
+00:22:31,250 --> 00:22:33,440
+specific<font color="#CCCCCC"> to a group called Lazarus and</font>
+
+491
+00:22:33,440 --> 00:22:35,270
+this is a name<font color="#E5E5E5"> that's been given by the</font>
+
+492
+00:22:35,270 --> 00:22:38,000
+security community and it's a group that
+
+493
+00:22:38,000 --> 00:22:39,650
+has been<font color="#E5E5E5"> involved in attacks on South</font>
+
+494
+00:22:39,650 --> 00:22:41,120
+Korea<font color="#E5E5E5"> they've been involved in attacks</font>
+
+495
+00:22:41,120 --> 00:22:43,010
+in the<font color="#E5E5E5"> u.s. we've seen them in attacks</font>
+
+496
+00:22:43,010 --> 00:22:44,870
+in Europe<font color="#E5E5E5"> as well</font><font color="#CCCCCC"> and they're almost</font>
+
+497
+00:22:44,870 --> 00:22:46,580
+<font color="#E5E5E5">certainly</font><font color="#CCCCCC"> behind this</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> Bangladesh</font>
+
+498
+00:22:46,580 --> 00:22:48,230
+<font color="#E5E5E5">bank heist as well the Russian</font>
+
+499
+00:22:48,230 --> 00:22:50,480
+<font color="#E5E5E5">cybersecurity firm Kaspersky Lab has</font>
+
+500
+00:22:50,480 --> 00:22:53,270
+<font color="#CCCCCC">also said it found digital evidence</font><font color="#E5E5E5"> that</font>
+
+501
+00:22:53,270 --> 00:22:55,850
+<font color="#CCCCCC">Lazarus hackers made a direct</font><font color="#E5E5E5"> connection</font>
+
+502
+00:22:55,850 --> 00:22:58,430
+from<font color="#E5E5E5"> an IP address in North Korea</font><font color="#CCCCCC"> to a</font>
+
+503
+00:22:58,430 --> 00:23:00,620
+server in Europe used to control systems
+
+504
+00:23:00,620 --> 00:23:03,530
+infected by the group<font color="#E5E5E5"> Kaspersky said</font>
+
+505
+00:23:03,530 --> 00:23:05,450
+that was the first<font color="#CCCCCC"> time they've seen a</font>
+
+506
+00:23:05,450 --> 00:23:07,730
+direct connection between Lazarus<font color="#E5E5E5"> and</font>
+
+507
+00:23:07,730 --> 00:23:10,370
+North Korea and while it's<font color="#CCCCCC"> possible the</font>
+
+508
+00:23:10,370 --> 00:23:12,500
+<font color="#E5E5E5">Bangladesh hackers were trying to frame</font>
+
+509
+00:23:12,500 --> 00:23:15,530
+Pyongyang North Korean involvement was
+
+510
+00:23:15,530 --> 00:23:17,909
+the most likely<font color="#E5E5E5"> explanation</font>
+
+511
+00:23:17,909 --> 00:23:21,880
+and in<font color="#E5E5E5"> 2017</font><font color="#CCCCCC"> the then Deputy Director of</font>
+
+512
+00:23:21,880 --> 00:23:23,950
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> National</font><font color="#E5E5E5"> Security Agency said</font>
+
+513
+00:23:23,950 --> 00:23:25,899
+private sector research linking North
+
+514
+00:23:25,899 --> 00:23:28,870
+Korea to<font color="#CCCCCC"> the</font><font color="#E5E5E5"> heist was</font><font color="#CCCCCC"> strong that</font>
+
+515
+00:23:28,870 --> 00:23:31,779
+linkage<font color="#E5E5E5"> from Sony actors to the</font>
+
+516
+00:23:31,779 --> 00:23:35,289
+Bangladeshi<font color="#CCCCCC"> bank actors is accurate</font><font color="#E5E5E5"> that</font>
+
+517
+00:23:35,289 --> 00:23:37,240
+means a<font color="#E5E5E5"> nation state is robbing banks</font>
+
+518
+00:23:37,240 --> 00:23:40,740
+<font color="#CCCCCC">that's a big deal that's different</font>
+
+519
+00:23:40,740 --> 00:23:44,769
+and do you<font color="#E5E5E5"> believe</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> there are</font><font color="#CCCCCC"> nation</font>
+
+520
+00:23:44,769 --> 00:23:47,380
+<font color="#CCCCCC">states now robbing banks</font>
+
+521
+00:23:47,380 --> 00:23:53,590
+<font color="#CCCCCC">is</font><font color="#E5E5E5"> that your assessment</font><font color="#CCCCCC"> I do allegations</font>
+
+522
+00:23:53,590 --> 00:23:55,659
+<font color="#E5E5E5">of hacking whether from security firms</font>
+
+523
+00:23:55,659 --> 00:23:57,789
+or officials in the<font color="#E5E5E5"> United States and</font>
+
+524
+00:23:57,789 --> 00:24:00,519
+South<font color="#CCCCCC"> Korea are</font><font color="#E5E5E5"> all denied by the North</font>
+
+525
+00:24:00,519 --> 00:24:02,830
+Korean government<font color="#E5E5E5"> but no matter who is</font>
+
+526
+00:24:02,830 --> 00:24:04,990
+behind the Bangladesh<font color="#CCCCCC"> Bank job</font><font color="#E5E5E5"> North</font>
+
+527
+00:24:04,990 --> 00:24:07,090
+Korea or an<font color="#E5E5E5"> unknown crime syndicate</font>
+
+528
+00:24:07,090 --> 00:24:10,149
+<font color="#E5E5E5">could there be another cyber heist well</font>
+
+529
+00:24:10,149 --> 00:24:13,049
+there have already been<font color="#E5E5E5"> more attempts in</font>
+
+530
+00:24:13,049 --> 00:24:16,539
+2017<font color="#E5E5E5"> Taiwan's</font><font color="#CCCCCC"> far eastern international</font>
+
+531
+00:24:16,539 --> 00:24:18,700
+<font color="#CCCCCC">bank was attacked by hackers</font><font color="#E5E5E5"> trying to</font>
+
+532
+00:24:18,700 --> 00:24:20,590
+steal millions<font color="#E5E5E5"> of dollars using the</font>
+
+533
+00:24:20,590 --> 00:24:23,019
+<font color="#CCCCCC">Swift payment system the banks declined</font>
+
+534
+00:24:23,019 --> 00:24:25,059
+to comment<font color="#CCCCCC"> Russia's central</font><font color="#E5E5E5"> bank has</font>
+
+535
+00:24:25,059 --> 00:24:26,740
+said hackers took control<font color="#E5E5E5"> of computers</font>
+
+536
+00:24:26,740 --> 00:24:29,740
+<font color="#E5E5E5">at an unnamed Russian</font><font color="#CCCCCC"> Bank in 2017</font><font color="#E5E5E5"> and</font>
+
+537
+00:24:29,740 --> 00:24:32,080
+used the Swift system<font color="#E5E5E5"> to steal six</font>
+
+538
+00:24:32,080 --> 00:24:34,779
+million<font color="#E5E5E5"> dollars and in February 2018</font>
+
+539
+00:24:34,779 --> 00:24:37,210
+<font color="#E5E5E5">hackers tried to steal nearly two</font>
+
+540
+00:24:37,210 --> 00:24:39,490
+million dollars<font color="#E5E5E5"> from India's</font><font color="#CCCCCC"> city Union</font>
+
+541
+00:24:39,490 --> 00:24:41,139
+<font color="#E5E5E5">Bank the</font><font color="#CCCCCC"> Bank said there were</font>
+
+542
+00:24:41,139 --> 00:24:44,909
+similarities with the<font color="#E5E5E5"> Bangladesh case</font>
+
+543
+00:24:51,020 --> 00:24:53,270
+on the trail of the missing<font color="#E5E5E5"> millions</font>
+
+544
+00:24:53,270 --> 00:24:55,610
+<font color="#E5E5E5">I've visited many</font><font color="#CCCCCC"> places from</font><font color="#E5E5E5"> the heart</font>
+
+545
+00:24:55,610 --> 00:24:57,590
+of<font color="#CCCCCC"> the global</font><font color="#E5E5E5"> financial</font><font color="#CCCCCC"> system to</font>
+
+546
+00:24:57,590 --> 00:24:59,179
+developing countries all with different
+
+547
+00:24:59,179 --> 00:25:01,390
+<font color="#CCCCCC">levels of technological sophistication</font>
+
+548
+00:25:01,390 --> 00:25:04,730
+<font color="#CCCCCC">but their banks all share one thing</font><font color="#E5E5E5"> the</font>
+
+549
+00:25:04,730 --> 00:25:08,000
+messaging system<font color="#CCCCCC"> Swift</font><font color="#E5E5E5"> and hackers have</font>
+
+550
+00:25:08,000 --> 00:25:10,340
+realized its users can make themselves
+
+551
+00:25:10,340 --> 00:25:11,710
+<font color="#E5E5E5">vulnerable</font>
+
+552
+00:25:11,710 --> 00:25:15,200
+<font color="#E5E5E5">maybe Bangladesh is a victim but but it</font>
+
+553
+00:25:15,200 --> 00:25:17,570
+is at the<font color="#CCCCCC"> cost of Bangladesh that the</font>
+
+554
+00:25:17,570 --> 00:25:20,300
+<font color="#CCCCCC">Global payment system is improving but</font>
+
+555
+00:25:20,300 --> 00:25:22,309
+<font color="#E5E5E5">enforcing the highest standards</font>
+
+556
+00:25:22,309 --> 00:25:25,280
+internationally<font color="#E5E5E5"> is a challenge where I</font>
+
+557
+00:25:25,280 --> 00:25:27,559
+think<font color="#E5E5E5"> the vulnerability</font><font color="#CCCCCC"> is is there</font>
+
+558
+00:25:27,559 --> 00:25:30,070
+isn't<font color="#CCCCCC"> a global a more global a</font>
+
+559
+00:25:30,070 --> 00:25:32,840
+coordinated response<font color="#CCCCCC"> to these threats</font>
+
+560
+00:25:32,840 --> 00:25:36,710
+<font color="#CCCCCC">and the hackers have not gone away</font><font color="#E5E5E5"> the</font>
+
+561
+00:25:36,710 --> 00:25:38,990
+<font color="#CCCCCC">Bangladesh heist was a wake-up call</font><font color="#E5E5E5"> for</font>
+
+562
+00:25:38,990 --> 00:25:42,080
+the international<font color="#CCCCCC"> banking system changes</font>
+
+563
+00:25:42,080 --> 00:25:44,390
+<font color="#CCCCCC">have been made but</font><font color="#E5E5E5"> the threat from</font>
+
+564
+00:25:44,390 --> 00:25:47,690
+<font color="#CCCCCC">hackers is constantly evolving</font><font color="#E5E5E5"> and many</font>
+
+565
+00:25:47,690 --> 00:25:50,360
+<font color="#CCCCCC">institutions regard</font><font color="#E5E5E5"> cyber</font><font color="#CCCCCC"> security as</font>
+
+566
+00:25:50,360 --> 00:25:55,570
+the biggest risk<font color="#E5E5E5"> they face today</font>
+
+567
+00:25:56,169 --> 00:00:00,000
+you
+

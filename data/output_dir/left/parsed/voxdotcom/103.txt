@@ -1,0 +1,118 @@
+We need to get the hell out of here.
+The premise of the movie Gravity is that
+space debris hits the International
+Space Station, it causes utter
+destruction which is a little unrealistic,
+but that scenario is
+actually what people are scared of.
+My name is Amber Yang I am 19 years old.
+And I am a physics major college student
+at Stanford University, I'm also the
+founder of Seer Tracking.
+So we take the
+data of current satellites and
+spacecraft and try to predict if there
+will be any collisions with space debris.
+So space debris is any defunct man-made
+space part or spacecraft, that is
+orbiting in low-earth orbit right now.
+They can be as small as a paint fleck to
+as big as a completely dead satellite.
+And they often travel as fast as 17,500
+miles per hour and you can only imagine
+with something traveling that quickly
+that its impact on another orbiting
+object will be extremely large
+and will cause lots of damage.
+This space debris
+could have such a big impact on
+essentially the success of the American
+space program and mankind's advancement
+into space technologies.
+I watched this
+series of videos that astronaut Scott
+Kelly published,
+he would have to duck into
+the Soyuz capsule which is an adjacent
+capsule to the International Space Station,
+because there was fear that the
+spacecraft that he was in might be hit
+by space debris.
+We're just inside one minute from the
+time of closest approach.
+It first became like an issue around the
+1950's and really in the past few decades,
+that number has only skyrocketed.
+There is a concept that, as the space debris
+collide with other space debris and
+other objects,
+that fragmentation will
+cause even more space debris to occur.
+Currently the method for tracking space
+debris is extremely inaccurate at times,
+because the orbit of space debris
+changes so quickly.
+The method that I
+have introduced is using artificial
+neural networks and artificial
+intelligence to track space debris.
+It will provide a prediction, it will say
+I think this is where the space debris
+will be in this future point in time.
+And if we find the actual point in time in
+the future where the space debris is and
+there is an error metric between the
+artificial neural network and where the
+space debris actually is,
+we can tell the
+neural network that oh you're wrong by
+this amount.
+I am basically allowing the
+artificial intelligence to learn the
+patterns of how the space debris
+positions are changing over time and it
+will keep training itself until its
+predictions are actually very very accurate.
+The primary concern would be
+for things already orbiting in space and
+trying to allow these things orbiting in
+space to have enough time to move out of a
+collision's way,
+If my software predicts
+that there would be a future collision.
+Another thing that it could be readily
+used for is predicting when is the best
+optimal launch time for things like NASA
+and SpaceX,
+when they're trying to find
+a time window where to launch their
+rockets and other space cargo. They want
+to look at a window where there isn't a
+lot of space debris.
+Right now a lot
+of people are putting space debris on
+the back burner, they're saying it could
+be potentially very dangerous someday,
+but right now it's not that big of a
+concern because we haven't really had
+any casualties yet.
+But the very
+terrifying version of the Kessler
+syndrome would be a space atmosphere so
+trashed, that you couldn't launch
+anything up without it being hit by
+space debris.
+The whole goal is that
+we're trying to preserve our Earth, our
+atmosphere for future generations in
+front of us and in order to keep
+developing technologies that will
+succeed and go to space,
+Thanks for watching.
+Now if you're
+interested in what it takes to get into
+outer space, head over to our sister site
+The Verge and watch Spacecraft with
+Loren Grush.
+Check it out and subscribe
+for more videos.

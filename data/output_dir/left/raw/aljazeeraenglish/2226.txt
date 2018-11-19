@@ -1,0 +1,904 @@
+1
+00:00:02,090 --> 00:00:05,339
+<font color="#E5E5E5">on May 25th the internet will change</font>
+
+2
+00:00:05,339 --> 00:00:07,680
+<font color="#E5E5E5">from that date if your personal data is</font>
+
+3
+00:00:07,680 --> 00:00:09,420
+being<font color="#E5E5E5"> used</font><font color="#CCCCCC"> by any company</font><font color="#E5E5E5"> in the</font>
+
+4
+00:00:09,420 --> 00:00:11,849
+<font color="#CCCCCC">European Union then you have rights that</font>
+
+5
+00:00:11,849 --> 00:00:14,490
+<font color="#CCCCCC">didn't exist before this</font><font color="#E5E5E5"> is a global</font>
+
+6
+00:00:14,490 --> 00:00:15,900
+change because so many<font color="#CCCCCC"> internet</font>
+
+7
+00:00:15,900 --> 00:00:18,180
+companies have employees or users
+
+8
+00:00:18,180 --> 00:00:21,119
+somewhere in Europe<font color="#E5E5E5"> our data is used to</font>
+
+9
+00:00:21,119 --> 00:00:22,699
+try to sell<font color="#E5E5E5"> a stuff in the shape of</font>
+
+10
+00:00:22,699 --> 00:00:25,230
+personalized advertising<font color="#CCCCCC"> it's how</font>
+
+11
+00:00:25,230 --> 00:00:27,269
+<font color="#CCCCCC">Internet companies make money</font><font color="#E5E5E5"> and why so</font>
+
+12
+00:00:27,269 --> 00:00:29,130
+much of<font color="#CCCCCC"> the Internet is free</font><font color="#E5E5E5"> to users</font>
+
+13
+00:00:29,130 --> 00:00:31,859
+<font color="#E5E5E5">we're the product not the customer and</font>
+
+14
+00:00:31,859 --> 00:00:34,530
+data is a<font color="#E5E5E5"> billion-dollar industry but</font>
+
+15
+00:00:34,530 --> 00:00:35,670
+now those companies will have
+
+16
+00:00:35,670 --> 00:00:37,620
+responsibilities<font color="#E5E5E5"> and if they fail to</font>
+
+17
+00:00:37,620 --> 00:00:39,750
+live<font color="#CCCCCC"> up to them then they will be fined</font>
+
+18
+00:00:39,750 --> 00:00:42,600
+by the European<font color="#CCCCCC"> Union the EU use new set</font>
+
+19
+00:00:42,600 --> 00:00:45,120
+of<font color="#E5E5E5"> rules are known as</font><font color="#CCCCCC"> gdpr</font><font color="#E5E5E5"> and it's a</font>
+
+20
+00:00:45,120 --> 00:00:47,520
+major change for how<font color="#CCCCCC"> our online world</font>
+
+21
+00:00:47,520 --> 00:00:51,059
+works<font color="#CCCCCC"> GD P R stands for general data</font>
+
+22
+00:00:51,059 --> 00:00:53,219
+protection regulation<font color="#E5E5E5"> the new law</font>
+
+23
+00:00:53,219 --> 00:00:55,730
+applies to<font color="#CCCCCC"> all</font><font color="#E5E5E5"> global Internet companies</font>
+
+24
+00:00:55,730 --> 00:00:59,100
+processing user data in the<font color="#CCCCCC"> EU they</font>
+
+25
+00:00:59,100 --> 00:01:00,629
+include everything from<font color="#E5E5E5"> your credit card</font>
+
+26
+00:01:00,629 --> 00:01:02,879
+<font color="#CCCCCC">details to your photos and even</font>
+
+27
+00:01:02,879 --> 00:01:05,880
+biometric data<font color="#E5E5E5"> companies must clearly</font>
+
+28
+00:01:05,880 --> 00:01:08,700
+ask for consumers consent to harvest
+
+29
+00:01:08,700 --> 00:01:11,340
+data<font color="#E5E5E5"> so people will have</font><font color="#CCCCCC"> to actively opt</font>
+
+30
+00:01:11,340 --> 00:01:14,100
+in consumers also<font color="#E5E5E5"> now have the right to</font>
+
+31
+00:01:14,100 --> 00:01:16,979
+know if<font color="#CCCCCC"> their data is</font><font color="#E5E5E5"> being</font><font color="#CCCCCC"> used</font><font color="#E5E5E5"> and for</font>
+
+32
+00:01:16,979 --> 00:01:19,350
+what purpose a<font color="#E5E5E5"> company's in breach of</font>
+
+33
+00:01:19,350 --> 00:01:22,590
+<font color="#CCCCCC">GDP are can be</font><font color="#E5E5E5"> fined up to</font><font color="#CCCCCC"> 4% of</font><font color="#E5E5E5"> annual</font>
+
+34
+00:01:22,590 --> 00:01:25,650
+global turnover<font color="#CCCCCC"> and users who no longer</font>
+
+35
+00:01:25,650 --> 00:01:27,869
+want their<font color="#CCCCCC"> personal data processed</font><font color="#E5E5E5"> have</font>
+
+36
+00:01:27,869 --> 00:01:29,939
+the right to be forgotten<font color="#CCCCCC"> and have their</font>
+
+37
+00:01:29,939 --> 00:01:33,450
+data<font color="#CCCCCC"> deleted companies will now also</font>
+
+38
+00:01:33,450 --> 00:01:35,820
+<font color="#E5E5E5">have to tell you if your personal data</font>
+
+39
+00:01:35,820 --> 00:01:39,299
+has been hacked<font color="#CCCCCC"> as soon</font><font color="#E5E5E5"> as possible</font><font color="#CCCCCC"> well</font>
+
+40
+00:01:39,299 --> 00:01:41,009
+joining us<font color="#E5E5E5"> now</font><font color="#CCCCCC"> via Skype from</font><font color="#E5E5E5"> New York</font>
+
+41
+00:01:41,009 --> 00:01:43,680
+is Jason<font color="#CCCCCC"> bier chief privacy officer at</font>
+
+42
+00:01:43,680 --> 00:01:46,439
+the<font color="#E5E5E5"> engine group a global</font><font color="#CCCCCC"> data-driven</font>
+
+43
+00:01:46,439 --> 00:01:48,210
+<font color="#CCCCCC">marketing company thanks for being with</font>
+
+44
+00:01:48,210 --> 00:01:51,450
+<font color="#CCCCCC">us</font><font color="#E5E5E5"> now I know you're not a fan</font><font color="#CCCCCC"> of gdpr</font>
+
+45
+00:01:51,450 --> 00:01:54,720
+<font color="#E5E5E5">and your view is that the consumer is</font>
+
+46
+00:01:54,720 --> 00:01:57,540
+<font color="#CCCCCC">the clear loser in all of this but the</font>
+
+47
+00:01:57,540 --> 00:02:00,180
+whole law is designed<font color="#E5E5E5"> to</font><font color="#CCCCCC"> give them</font>
+
+48
+00:02:00,180 --> 00:02:02,610
+rights<font color="#E5E5E5"> that they didn't have before</font><font color="#CCCCCC"> and</font>
+
+49
+00:02:02,610 --> 00:02:04,710
+surely legal rights over<font color="#E5E5E5"> your own data</font>
+
+50
+00:02:04,710 --> 00:02:08,340
+<font color="#E5E5E5">is a good thing isn't it well it</font>
+
+51
+00:02:08,340 --> 00:02:10,440
+certainly<font color="#E5E5E5"> is I mean we we advocate and</font>
+
+52
+00:02:10,440 --> 00:02:13,110
+have for a<font color="#CCCCCC"> very long time</font><font color="#E5E5E5"> that consumers</font>
+
+53
+00:02:13,110 --> 00:02:13,890
+<font color="#E5E5E5">should</font><font color="#CCCCCC"> be</font>
+
+54
+00:02:13,890 --> 00:02:15,900
+<font color="#CCCCCC">to you know have control over</font><font color="#E5E5E5"> their data</font>
+
+55
+00:02:15,900 --> 00:02:17,819
+<font color="#CCCCCC">and you</font><font color="#E5E5E5"> know for the most part</font>
+
+56
+00:02:17,819 --> 00:02:20,459
+definitely that's the case<font color="#E5E5E5"> it</font><font color="#CCCCCC"> G DTR has</font>
+
+57
+00:02:20,459 --> 00:02:23,970
+good intentions<font color="#CCCCCC"> however some of</font><font color="#E5E5E5"> the some</font>
+
+58
+00:02:23,970 --> 00:02:26,069
+of the law itself<font color="#E5E5E5"> really it breaks the</font>
+
+59
+00:02:26,069 --> 00:02:28,200
+<font color="#E5E5E5">internet I mean there's a lot of</font>
+
+60
+00:02:28,200 --> 00:02:30,600
+<font color="#E5E5E5">confusion and how the interpretation of</font>
+
+61
+00:02:30,600 --> 00:02:33,770
+personal personal data<font color="#E5E5E5"> will will be</font>
+
+62
+00:02:33,770 --> 00:02:35,940
+interpreted really by the data
+
+63
+00:02:35,940 --> 00:02:37,500
+<font color="#E5E5E5">protection authorities</font><font color="#CCCCCC"> in each member</font>
+
+64
+00:02:37,500 --> 00:02:40,590
+state<font color="#CCCCCC"> there has</font><font color="#E5E5E5"> been you know the</font>
+
+65
+00:02:40,590 --> 00:02:44,060
+addition of an IP address<font color="#CCCCCC"> which is</font>
+
+66
+00:02:44,060 --> 00:02:46,530
+<font color="#E5E5E5">considered personal data that if it's</font>
+
+67
+00:02:46,530 --> 00:02:49,050
+process before consent is<font color="#CCCCCC"> given by the</font>
+
+68
+00:02:49,050 --> 00:02:52,050
+user<font color="#E5E5E5"> that would be a violation</font><font color="#CCCCCC"> of the</font>
+
+69
+00:02:52,050 --> 00:02:52,739
+<font color="#CCCCCC">gdpr</font>
+
+70
+00:02:52,739 --> 00:02:56,010
+and as we all know<font color="#CCCCCC"> the IP address is an</font>
+
+71
+00:02:56,010 --> 00:02:57,959
+essential<font color="#E5E5E5"> building block of the internet</font>
+
+72
+00:02:57,959 --> 00:03:00,269
+every communication<font color="#E5E5E5"> that said between a</font>
+
+73
+00:03:00,269 --> 00:03:04,200
+device and a<font color="#CCCCCC"> webpage it exchanges that</font>
+
+74
+00:03:04,200 --> 00:03:07,230
+simple data so it's really a question of
+
+75
+00:03:07,230 --> 00:03:09,810
+what<font color="#CCCCCC"> is consumer data what is personal</font>
+
+76
+00:03:09,810 --> 00:03:11,880
+data and that definition<font color="#E5E5E5"> has</font><font color="#CCCCCC"> been</font>
+
+77
+00:03:11,880 --> 00:03:14,640
+broadened dramatically<font color="#CCCCCC"> and and so what</font>
+
+78
+00:03:14,640 --> 00:03:16,769
+<font color="#E5E5E5">we're going to see really is potentially</font>
+
+79
+00:03:16,769 --> 00:03:19,680
+more data being<font color="#CCCCCC"> shared with consumers</font>
+
+80
+00:03:19,680 --> 00:03:23,010
+because<font color="#CCCCCC"> or with businesses it</font><font color="#E5E5E5"> with by</font>
+
+81
+00:03:23,010 --> 00:03:25,680
+consumers<font color="#E5E5E5"> that causes really an increase</font>
+
+82
+00:03:25,680 --> 00:03:27,930
+in the amount<font color="#E5E5E5"> of data</font><font color="#CCCCCC"> that that's given</font>
+
+83
+00:03:27,930 --> 00:03:31,230
+<font color="#CCCCCC">to companies</font><font color="#E5E5E5"> rather than curtailing data</font>
+
+84
+00:03:31,230 --> 00:03:34,019
+<font color="#CCCCCC">share it you've said as well that we're</font>
+
+85
+00:03:34,019 --> 00:03:36,000
+kind of sleepwalking into<font color="#E5E5E5"> this data</font>
+
+86
+00:03:36,000 --> 00:03:39,209
+protection<font color="#E5E5E5"> brexit as it were I'm</font>
+
+87
+00:03:39,209 --> 00:03:40,650
+wondering if you could<font color="#E5E5E5"> explain</font><font color="#CCCCCC"> that and</font>
+
+88
+00:03:40,650 --> 00:03:44,190
+<font color="#E5E5E5">if you could tell</font><font color="#CCCCCC"> us as well because the</font>
+
+89
+00:03:44,190 --> 00:03:46,440
+idea is<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you know these tech</font>
+
+90
+00:03:46,440 --> 00:03:49,739
+<font color="#CCCCCC">companies have</font><font color="#E5E5E5"> have made a lot of money</font>
+
+91
+00:03:49,739 --> 00:03:52,560
+<font color="#CCCCCC">out of</font><font color="#E5E5E5"> out of using</font><font color="#CCCCCC"> our data and</font>
+
+92
+00:03:52,560 --> 00:03:55,470
+something needs to<font color="#CCCCCC"> be done to hold them</font>
+
+93
+00:03:55,470 --> 00:03:59,250
+accountable what<font color="#E5E5E5"> do you say to that well</font>
+
+94
+00:03:59,250 --> 00:04:00,750
+look we don't need<font color="#CCCCCC"> to break the internet</font>
+
+95
+00:04:00,750 --> 00:04:02,940
+to do that you know I know<font color="#CCCCCC"> Google and</font>
+
+96
+00:04:02,940 --> 00:04:04,590
+Facebook are really gonna<font color="#E5E5E5"> be empowered</font>
+
+97
+00:04:04,590 --> 00:04:07,920
+by<font color="#CCCCCC"> gdpr</font><font color="#E5E5E5"> they're very familiar</font><font color="#CCCCCC"> to people</font>
+
+98
+00:04:07,920 --> 00:04:10,549
+<font color="#CCCCCC">they the services are widely used</font>
+
+99
+00:04:10,549 --> 00:04:13,049
+<font color="#E5E5E5">they're gonna get up in consent that's</font>
+
+100
+00:04:13,049 --> 00:04:15,570
+really the<font color="#CCCCCC"> issue here small businesses</font>
+
+101
+00:04:15,570 --> 00:04:17,970
+can't get off in consent<font color="#E5E5E5"> they they have</font>
+
+102
+00:04:17,970 --> 00:04:19,829
+a hard<font color="#E5E5E5"> time because they don't collect</font>
+
+103
+00:04:19,829 --> 00:04:21,750
+<font color="#CCCCCC">personal data they don't</font><font color="#E5E5E5"> collect you</font>
+
+104
+00:04:21,750 --> 00:04:24,030
+know<font color="#E5E5E5"> personally identify identifiable</font>
+
+105
+00:04:24,030 --> 00:04:26,160
+information that Google<font color="#CCCCCC"> and Facebook do</font>
+
+106
+00:04:26,160 --> 00:04:27,630
+<font color="#CCCCCC">um you know</font>
+
+107
+00:04:27,630 --> 00:04:30,270
+<font color="#E5E5E5">in the Internet to get back</font><font color="#CCCCCC"> as big these</font>
+
+108
+00:04:30,270 --> 00:04:32,730
+big companies<font color="#E5E5E5"> is is really it's not</font>
+
+109
+00:04:32,730 --> 00:04:33,900
+going to<font color="#E5E5E5"> work it's going to further</font>
+
+110
+00:04:33,900 --> 00:04:36,300
+empower them they're<font color="#CCCCCC"> gonna</font><font color="#E5E5E5"> collect</font><font color="#CCCCCC"> more</font>
+
+111
+00:04:36,300 --> 00:04:38,370
+not less data on individuals and<font color="#CCCCCC"> they're</font>
+
+112
+00:04:38,370 --> 00:04:40,080
+going<font color="#E5E5E5"> to associate</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> to personally</font>
+
+113
+00:04:40,080 --> 00:04:42,270
+identifiable<font color="#E5E5E5"> information versus</font>
+
+114
+00:04:42,270 --> 00:04:43,920
+companies like engine that have
+
+115
+00:04:43,920 --> 00:04:46,410
+pseudonymous<font color="#E5E5E5"> data and help small</font>
+
+116
+00:04:46,410 --> 00:04:48,720
+<font color="#E5E5E5">publishers earn money</font><font color="#CCCCCC"> and in</font><font color="#E5E5E5"> order to</font>
+
+117
+00:04:48,720 --> 00:04:50,460
+pay<font color="#E5E5E5"> their you know for their content</font>
+
+118
+00:04:50,460 --> 00:04:52,320
+creation<font color="#E5E5E5"> and I think you're really</font>
+
+119
+00:04:52,320 --> 00:04:54,540
+that's the disturbing issue here is that
+
+120
+00:04:54,540 --> 00:04:56,850
+<font color="#E5E5E5">we're seeing large-scale confusion on</font>
+
+121
+00:04:56,850 --> 00:04:58,770
+how<font color="#CCCCCC"> gdpr</font><font color="#E5E5E5"> is to be interpreted</font>
+
+122
+00:04:58,770 --> 00:05:00,990
+there hasn't been any economic studies
+
+123
+00:05:00,990 --> 00:05:03,330
+on the<font color="#CCCCCC"> impact of</font><font color="#E5E5E5"> this regulation but in</font>
+
+124
+00:05:03,330 --> 00:05:05,310
+the way in the wake of<font color="#CCCCCC"> the the Cambridge</font>
+
+125
+00:05:05,310 --> 00:05:07,790
+analytic a scandal surely some kind of
+
+126
+00:05:07,790 --> 00:05:10,830
+regulation is needed<font color="#E5E5E5"> isn't it</font>
+
+127
+00:05:10,830 --> 00:05:12,390
+particularly with companies<font color="#CCCCCC"> like</font>
+
+128
+00:05:12,390 --> 00:05:15,000
+Facebook and<font color="#E5E5E5"> Google that's a good</font>
+
+129
+00:05:15,000 --> 00:05:17,940
+<font color="#E5E5E5">question I think</font><font color="#CCCCCC"> that the</font><font color="#E5E5E5"> the issue</font>
+
+130
+00:05:17,940 --> 00:05:20,490
+really<font color="#E5E5E5"> is here how how does an</font>
+
+131
+00:05:20,490 --> 00:05:22,950
+individual company handle privacy and I
+
+132
+00:05:22,950 --> 00:05:25,410
+think and I know<font color="#E5E5E5"> that you know Mark</font>
+
+133
+00:05:25,410 --> 00:05:27,210
+Zuckerberg and<font color="#E5E5E5"> Facebook's have a huge</font>
+
+134
+00:05:27,210 --> 00:05:29,280
+issue with<font color="#E5E5E5"> how they manage privacy</font><font color="#CCCCCC"> I</font>
+
+135
+00:05:29,280 --> 00:05:32,070
+don't<font color="#E5E5E5"> think that should</font><font color="#CCCCCC"> be you know</font>
+
+136
+00:05:32,070 --> 00:05:34,200
+necessarily imputed on other businesses
+
+137
+00:05:34,200 --> 00:05:36,330
+that<font color="#E5E5E5"> have good privacy practice but have</font>
+
+138
+00:05:36,330 --> 00:05:38,220
+data minimization practices that don't
+
+139
+00:05:38,220 --> 00:05:40,050
+<font color="#E5E5E5">do</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> there's a lot</font><font color="#CCCCCC"> of small</font>
+
+140
+00:05:40,050 --> 00:05:42,030
+businesses out there that<font color="#E5E5E5"> have a very</font>
+
+141
+00:05:42,030 --> 00:05:44,280
+small<font color="#E5E5E5"> amount</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> data and are</font><font color="#CCCCCC"> able to</font>
+
+142
+00:05:44,280 --> 00:05:46,950
+<font color="#E5E5E5">leverage that and create content</font><font color="#CCCCCC"> and</font>
+
+143
+00:05:46,950 --> 00:05:49,650
+keep the internet free and and encourage
+
+144
+00:05:49,650 --> 00:05:52,140
+diversity<font color="#E5E5E5"> of content out around the</font>
+
+145
+00:05:52,140 --> 00:05:54,210
+<font color="#E5E5E5">world good to speak with you Jason</font><font color="#CCCCCC"> beard</font>
+
+146
+00:05:54,210 --> 00:05:55,590
+joining us<font color="#E5E5E5"> Dan thanks very much to be</font>
+
+147
+00:05:55,590 --> 00:05:57,630
+loose<font color="#E5E5E5"> well joining us now from Brussels</font>
+
+148
+00:05:57,630 --> 00:06:00,720
+is Diego<font color="#CCCCCC"> Naranjo a senior policy adviser</font>
+
+149
+00:06:00,720 --> 00:06:03,270
+at European digital<font color="#E5E5E5"> rights thanks very</font>
+
+150
+00:06:03,270 --> 00:06:05,250
+much for<font color="#CCCCCC"> being</font><font color="#E5E5E5"> with us</font><font color="#CCCCCC"> so the new law</font>
+
+151
+00:06:05,250 --> 00:06:08,160
+<font color="#CCCCCC">this new law comes into effect next week</font>
+
+152
+00:06:08,160 --> 00:06:10,500
+then has enough been really done to
+
+153
+00:06:10,500 --> 00:06:13,110
+<font color="#CCCCCC">educate people about</font><font color="#E5E5E5"> this and</font><font color="#CCCCCC"> that's</font><font color="#E5E5E5"> a</font>
+
+154
+00:06:13,110 --> 00:06:14,910
+good<font color="#E5E5E5"> question</font><font color="#CCCCCC"> we're not sure we have</font>
+
+155
+00:06:14,910 --> 00:06:17,010
+<font color="#E5E5E5">been telling the European Commission</font>
+
+156
+00:06:17,010 --> 00:06:20,040
+<font color="#CCCCCC">that a such a change in</font><font color="#E5E5E5"> its a proper</font>
+
+157
+00:06:20,040 --> 00:06:23,340
+campaign<font color="#E5E5E5"> to advise it to tell people how</font>
+
+158
+00:06:23,340 --> 00:06:25,700
+their rights are<font color="#E5E5E5"> going to be reinforced</font>
+
+159
+00:06:25,700 --> 00:06:28,290
+<font color="#CCCCCC">we have seen a lot of misinformation by</font>
+
+160
+00:06:28,290 --> 00:06:31,410
+private<font color="#E5E5E5"> companies who see their business</font>
+
+161
+00:06:31,410 --> 00:06:34,830
+<font color="#E5E5E5">model</font><font color="#CCCCCC"> affected or potentially affected</font>
+
+162
+00:06:34,830 --> 00:06:37,710
+by<font color="#CCCCCC"> this regulation</font><font color="#E5E5E5"> and we haven't seen</font>
+
+163
+00:06:37,710 --> 00:06:41,040
+<font color="#CCCCCC">yet such a big campaign from from</font>
+
+164
+00:06:41,040 --> 00:06:42,690
+authorities<font color="#E5E5E5"> from the European Union</font><font color="#CCCCCC"> we</font>
+
+165
+00:06:42,690 --> 00:06:44,250
+are launching a campaign ourselves on
+
+166
+00:06:44,250 --> 00:06:46,170
+the 25th of<font color="#CCCCCC"> May</font><font color="#E5E5E5"> where we are trying to</font>
+
+167
+00:06:46,170 --> 00:06:48,750
+<font color="#E5E5E5">inform users</font><font color="#CCCCCC"> of the new rights and some</font>
+
+168
+00:06:48,750 --> 00:06:52,710
+people say that<font color="#CCCCCC"> gdpr</font><font color="#E5E5E5"> is it benefits big</font>
+
+169
+00:06:52,710 --> 00:06:55,650
+technology<font color="#E5E5E5"> companies</font><font color="#CCCCCC"> rather</font><font color="#E5E5E5"> than holding</font>
+
+170
+00:06:55,650 --> 00:06:58,320
+companies like Facebook to account<font color="#E5E5E5"> what</font>
+
+171
+00:06:58,320 --> 00:07:00,870
+do you say to that<font color="#E5E5E5"> criticism well if</font>
+
+172
+00:07:00,870 --> 00:07:03,240
+that was true I<font color="#E5E5E5"> guess we would</font><font color="#CCCCCC"> have seen</font>
+
+173
+00:07:03,240 --> 00:07:07,350
+less heavy lobbying companies<font color="#E5E5E5"> lesser</font>
+
+174
+00:07:07,350 --> 00:07:10,290
+lobbying<font color="#E5E5E5"> from from them in the last four</font>
+
+175
+00:07:10,290 --> 00:07:11,820
+and<font color="#E5E5E5"> a half years</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> lasted the</font>
+
+176
+00:07:11,820 --> 00:07:14,670
+negotiations<font color="#E5E5E5"> so I don't think</font><font color="#CCCCCC"> that</font>
+
+177
+00:07:14,670 --> 00:07:17,790
+that's<font color="#E5E5E5"> the case the new regulation</font>
+
+178
+00:07:17,790 --> 00:07:21,840
+brings a lot<font color="#E5E5E5"> of strength and mechanisms</font>
+
+179
+00:07:21,840 --> 00:07:25,740
+it brings potential<font color="#E5E5E5"> sanctions so I don't</font>
+
+180
+00:07:25,740 --> 00:07:29,700
+think<font color="#CCCCCC"> that will be able</font><font color="#E5E5E5"> to benefit</font>
+
+181
+00:07:29,700 --> 00:07:31,620
+directly from<font color="#E5E5E5"> it I think if they follow</font>
+
+182
+00:07:31,620 --> 00:07:33,060
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> rules</font><font color="#E5E5E5"> that we'll be able to</font><font color="#CCCCCC"> do their</font>
+
+183
+00:07:33,060 --> 00:07:36,000
+<font color="#CCCCCC">business as a as anybody else and they</font>
+
+184
+00:07:36,000 --> 00:07:37,770
+of course<font color="#CCCCCC"> they're big so they will be</font>
+
+185
+00:07:37,770 --> 00:07:40,410
+able<font color="#E5E5E5"> to adapt quickly</font><font color="#CCCCCC"> but I'm not sure</font>
+
+186
+00:07:40,410 --> 00:07:42,540
+<font color="#E5E5E5">this</font><font color="#CCCCCC"> going to reinforce</font><font color="#E5E5E5"> these two big</font>
+
+187
+00:07:42,540 --> 00:07:44,910
+companies<font color="#CCCCCC"> I rather the opposite will it</font>
+
+188
+00:07:44,910 --> 00:07:48,060
+not be harder for<font color="#E5E5E5"> smaller internet</font>
+
+189
+00:07:48,060 --> 00:07:50,430
+businesses to operate given these new
+
+190
+00:07:50,430 --> 00:07:53,790
+new rules new restrictions rather<font color="#E5E5E5"> around</font>
+
+191
+00:07:53,790 --> 00:07:58,170
+<font color="#E5E5E5">IP addresses I don't think so whether we</font>
+
+192
+00:07:58,170 --> 00:08:00,330
+have to<font color="#CCCCCC"> take to akanda this is only the</font>
+
+193
+00:08:00,330 --> 00:08:02,460
+the update of<font color="#CCCCCC"> their current directive so</font>
+
+194
+00:08:02,460 --> 00:08:05,010
+there's not<font color="#CCCCCC"> much new in a way in this</font>
+
+195
+00:08:05,010 --> 00:08:06,960
+<font color="#E5E5E5">regulation so those companies</font><font color="#CCCCCC"> that were</font>
+
+196
+00:08:06,960 --> 00:08:09,390
+respecting<font color="#E5E5E5"> the the current directive</font>
+
+197
+00:08:09,390 --> 00:08:12,150
+which is in place is 1995<font color="#E5E5E5"> don't have</font>
+
+198
+00:08:12,150 --> 00:08:15,060
+anything to do a bit probably<font color="#CCCCCC"> a bit</font><font color="#E5E5E5"> of</font>
+
+199
+00:08:15,060 --> 00:08:17,310
+an update but not much<font color="#E5E5E5"> and those who</font>
+
+200
+00:08:17,310 --> 00:08:19,070
+have something<font color="#CCCCCC"> to be</font><font color="#E5E5E5"> afraid</font><font color="#CCCCCC"> to who could</font>
+
+201
+00:08:19,070 --> 00:08:22,440
+suffer some<font color="#E5E5E5"> problems are those who are</font>
+
+202
+00:08:22,440 --> 00:08:25,140
+<font color="#CCCCCC">already not respecting and data</font>
+
+203
+00:08:25,140 --> 00:08:28,700
+<font color="#E5E5E5">protection regulations here in the</font><font color="#CCCCCC"> u</font>
+
+204
+00:08:28,700 --> 00:08:31,620
+another<font color="#E5E5E5"> criticism of these new rules is</font>
+
+205
+00:08:31,620 --> 00:08:34,159
+this is actually<font color="#CCCCCC"> going to restrict</font>
+
+206
+00:08:34,159 --> 00:08:38,010
+competition<font color="#E5E5E5"> and content</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> in a number</font>
+
+207
+00:08:38,010 --> 00:08:40,020
+<font color="#CCCCCC">of ways what</font><font color="#E5E5E5"> will still people people</font>
+
+208
+00:08:40,020 --> 00:08:43,380
+still be able<font color="#E5E5E5"> to use</font><font color="#CCCCCC"> the internet as</font>
+
+209
+00:08:43,380 --> 00:08:45,710
+freely<font color="#CCCCCC"> as they have in</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> past</font>
+
+210
+00:08:45,710 --> 00:08:49,110
+of course<font color="#E5E5E5"> yes</font><font color="#CCCCCC"> and what these</font><font color="#E5E5E5"> rules allow</font>
+
+211
+00:08:49,110 --> 00:08:52,380
+is<font color="#CCCCCC"> for the movement</font><font color="#E5E5E5"> of personal data and</font>
+
+212
+00:08:52,380 --> 00:08:54,580
+then the<font color="#E5E5E5"> legal</font><font color="#CCCCCC"> use of</font><font color="#E5E5E5"> the dispersed</font>
+
+213
+00:08:54,580 --> 00:08:58,510
+data<font color="#E5E5E5"> but</font><font color="#CCCCCC"> also requires</font><font color="#E5E5E5"> the consent of</font>
+
+214
+00:08:58,510 --> 00:09:01,120
+users for such use<font color="#CCCCCC"> so</font><font color="#E5E5E5"> people are able to</font>
+
+215
+00:09:01,120 --> 00:09:02,649
+<font color="#E5E5E5">do whatever they want</font><font color="#CCCCCC"> on the internet</font>
+
+216
+00:09:02,649 --> 00:09:04,089
+<font color="#CCCCCC">they're free to share their pictures</font>
+
+217
+00:09:04,089 --> 00:09:06,730
+their personal<font color="#E5E5E5"> data</font><font color="#CCCCCC"> as they wish as long</font>
+
+218
+00:09:06,730 --> 00:09:08,769
+<font color="#E5E5E5">as they are really informed of what's</font>
+
+219
+00:09:08,769 --> 00:09:10,510
+going to<font color="#E5E5E5"> be done</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> their personal</font>
+
+220
+00:09:10,510 --> 00:09:12,430
+data<font color="#CCCCCC"> and so I don't think this country</font>
+
+221
+00:09:12,430 --> 00:09:14,019
+<font color="#E5E5E5">will restrict anything but rather in</font>
+
+222
+00:09:14,019 --> 00:09:16,480
+<font color="#E5E5E5">hands and data protection friendly</font>
+
+223
+00:09:16,480 --> 00:09:19,240
+<font color="#CCCCCC">businesses to do the what they</font><font color="#E5E5E5"> are</font>
+
+224
+00:09:19,240 --> 00:09:21,910
+already<font color="#E5E5E5"> doing</font><font color="#CCCCCC"> and users to be more in</font>
+
+225
+00:09:21,910 --> 00:09:24,250
+<font color="#CCCCCC">charge of their personal data</font><font color="#E5E5E5"> good to</font>
+
+226
+00:09:24,250 --> 00:00:00,000
+speak<font color="#CCCCCC"> with you</font><font color="#E5E5E5"> Diego</font><font color="#CCCCCC"> Naranjo thank you</font>
+

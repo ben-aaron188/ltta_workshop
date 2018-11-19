@@ -1,0 +1,285 @@
+I met IRA the world's largest robotics
+convention in Tokyo Japan riding on this
+robotic unit cycle through the
+exhibitions which showcase every
+imaginable variety of robot
+there are robotic snakes for looking
+through drains
+there's rescue robots climbing robots
+breast examination robots
+this body armor connects me to the robot
+which mirrors all the movements I put my
+hand in the robots hand and then held my
+own and that using my hands control the
+robot
+definitely has an uncanny valley effect
+where it's just human-like enough and
+almost repulsive in a way some of the
+most popular robots were human-like
+machines built for dangerous tasks in
+disaster recovery though impressive was
+surprising how slow and limited these
+robots were at moving likes humans I
+visited a robotics lab in Tokyo to talk
+to Shige O'Hara say a pioneer in
+robotics technology about why that's the
+case
+why is it that this mechanical
+innovation moves slowly relative to the
+innovation in software and electronics
+and if we try to imitate a human body
+the function cannot be so good the
+development of the computer performance
+is always evolving exponentially but
+mechanical development is developing
+just linearly
+this is a fact
+essentially for robots to become more
+functional they need bigger brains not
+better mechanics and a key to unlocking
+that brain power is developing
+artificial intelligence or AI even the
+tech giant Google is said to be moving
+away from the physical and doubling down
+on AI AI is the science of programming
+computers to perceive their environment
+and make rational cognitive decisions in
+order to achieve a goal and it's one of
+the most rapidly progressing and
+sought-after technologies in the world
+at Harvard Center for brain science dr.
+David Cox is hoping to model AI of real
+biological functions by mapping the
+brains of animals a major drive of the
+experiments we're doing is to understand
+how brains learn and if we understand
+how brains learn we need to have the
+brains be learning and we have rooms
+full of these kinds of rocks and
+basically what this is is like a video
+arcade for rats and if you look inside
+you can see there are different little
+ports that they can lick basically those
+are the buttons on the game controller
+for the rats and there's a monitor in
+the back of the rig and we can train the
+rats to distinguish between different
+things
+once the rats are trained dr. Cox
+observes the neuronal activity inside
+the rats brains while they're thinking
+we've injected a virus into their brain
+that carries a genetically engineered
+protein which lights up a little bit
+brighter when we shine a laser on it
+when the cell is active so this is a way
+that we can actually watch the animal
+the most intelligent rats brains are
+divided into slices thousands of times
+thinner than a human hair and then
+imaged through a powerful electron
+microscope and then modeled in 3d space
+so what we're doing is we're marrying
+behavior what the animal can do it's
+actual it's learning and how it's
+improving with the activity of those
+neurons and then marrying that with the
+neuroanatomy and from all of this
+massive amount of data we're gonna try
+and really understand what kinds of
+algorithms might be easier on systems be
+computing
+what allows biological systems do all
+these things that we haven't yet figured
+out how to make artificial systems do
+that's gonna unlock a huge renaissance
+in practical robotics practical machine
+learning vision things like that one of
+the major milestones in creating human
+level intelligence is for machines to
+attain self-awareness Columbia
+University's creative machines lab may
+have already done it when you look at
+this robot you can see it has four legs
+but the robot itself does not know that
+it has four legs all it knows is that it
+has a couple of motors a couple of
+sensors so if self awareness works this
+machine should gradually learn what it
+is as the robot comes to life and takes
+its first steps it tries to understand
+what it is we turn it on and we can
+watch what it thinks it is we can
+actually look at its memory and
+understand how its modeling it stuff is
+it recognize that it has four tentacles
+or eight joints in the beginning it's
+completely wrong but the robot very
+quickly knows that they're wrong and it
+basically hones itself image to a point
+where it pretty much matches its
+experiences in reality using that self
+image it can learn how to walk by
+playing out lots of forms of locomotion
+in its mind these robots learn over time
+to simulate themselves in a future
+situation they have an actual experience
+in other words they don't have to learn
+by doing they can learn by thinking if
+these robots are in the infancy of AI
+their counterparts at UC Berkeley are
+going to kindergarten
+I'm in the arms of Brett a Berkley robot
+for the elimination of tedious tasks
+using trial and error brett learns how
+to fold laundry assemble lego blocks and
+fit pegs into holes it goes from scratch
+it has no notion of how its arms move
+notion of anything except for electrical
+and it does some random set of actions
+and depending on whether it's doing good
+or bad it evaluates that and keeps
+updating its policy to do better better
+better and like a child Brett can watch
+someone perform a task like tying a knot
+and actually learn it
+as to use voted and
+so that's how it's supposed to work
+to make robots like Brett even smarter
+some AI developers are using gaming
+principles to teach their AI is to
+strategize in 2014 Google reportedly
+spent more than five hundred million
+dollars to acquire deep mind one of the
+world's leading AI developers led by
+gaming prodigy demis hassabis what is
+the significance of games in this sort
+of research
+gays are invented to be a kind of
+microcosm of aspects of life they're a
+very efficient platform to sort of
+develop a our algorithms and test them
+they can have some of the richness of
+the real world but there are more
+constrained ways advancements in
+computer science have been tested with
+games before like supercomputer deep
+blues stunning defeat of world chess
+champion Garry Kasparov in 1997 well
+beyond my understanding
+now deep mind has set out to beat the
+most complex board game in the world
+the ancient Chinese game of go he talked
+a little bit about what makes this a big
+deal why it's important there's more
+possible board positions in go than
+there are atoms in the universe if you
+ask a great go player why they made a
+particular move they'll often answer
+that it just felt right that's quite
+different to when you ask a great chess
+player they'll usually be able to tell
+you precisely the calculations they made
+goes a lot more about feel these great
+go players use all of their years of
+experience to just sort of come up with
+the right pattern-matching move and that
+fits for that position
+in other words it was believed you need
+human intuition or else you can't win no
+AI program has ever defeated a go world
+champion before
+TCF deepmind successfully built
+artificial human intuition we traveled
+to South Korea where Google organized a
+go tournament with a 1 million dollar
+prize hitting one of the world's top
+human players against alphago that was
+lee sedol who Franco champion walking by
+this is the final game of the
+co-championship this may be the biggest
+board game competition in history
+because this is a human champion versus
+the most sophisticated computer-based go
+playing system that has ever been
+created lee sedol has about ten minutes
+left on the clock a game is slowly
+nearing its end
+I wonder if we have a resonation here it
+could be the lease at all as resign yeah
+Lee I'm getting worried Lee has resigned
+sober Lee SEDOL has lost
+alphago won four out of five years it is
+a champion go player alpha goes big win
+reinforce the idea that we may be on the
+brink of transformative artificial
+intelligence but some of the world's
+most renowned thinkers are warning that
+there's a high risk of unintended
+consequences with artificial
+intelligence we are summoning the demon
+is the guy with the pentagram and holy
+water it's like yeah sure you control a
+demon
+I don't think its inherent that as we
+create super intelligence that it will
+necessarily always have the same goals
+in mind that we do Oxford philosopher
+Nick Bostrom believes that the benefits
+of super intelligence must be reconciled
+with these risks I think of all the
+things that the human species might have
+been able to achieve in the fullness of
+time maybe you would have a cure for
+aging maybe you would have space
+colonization all these kind of
+science-fiction like things but all of
+those things I think might happen very
+quickly done on digital timescales in
+the long term I think we have an
+additional and very different and
+distinct and unique problem which is how
+could you ensure that this super
+intelligent system will actually do what
+you intended for it to do how can you
+control and intelligence vastly greater
+than your own
+there's always this concern of some kind
+of telescoping singularity situation
+where a sufficiently intelligent
+computer is able to build more
+intelligent computers which leads to
+some kind of spiraling effect I think if
+you ask most AI researchers or experts
+they'll probably give you the same
+answer that a lot of these more science
+fiction scenarios are just that science
+fiction most technologies they're kind
+of inherently neutral but it depends on
+how society uses them and deploys them
+that ends up determining whether they're
+not being for good or for bad as
+researchers work to balance ai's risks
+and possibilities much of the science
+fiction of the past is becoming today's
+reality and the worlds of artificial
+intelligence and robotics are on track
+to achieve breakthroughs and technology
+and science that have never been
+possible for humans before what I
+think's the most important thing is to
+use AI to advance science and medicine
+things like diseases climate even things
+like particle physics macroeconomics
+these all hugely complex systems now
+that we're trying to deal with him we're
+trying to get an understanding of I kind
+of dream about the day when they are is
+good enough that we can have this idea
+of AI scientists that work hand in hand
+with human experts to allow us to make
+breakthroughs in much faster and we're
+able to at the moment do you think that
+will happen soon and then I could happen
+in the next 20 years yeah sure
+you

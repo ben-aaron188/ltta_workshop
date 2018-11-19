@@ -1,0 +1,180 @@
+1
+00:00:00,080 --> 00:00:04,009
+[Music]
+
+2
+00:00:04,009 --> 00:00:06,330
+my name is<font color="#CCCCCC"> Gareth Owlman I'm a research</font>
+
+3
+00:00:06,330 --> 00:00:07,410
+<font color="#CCCCCC">fellow at the</font><font color="#E5E5E5"> University</font><font color="#CCCCCC"> of Cambridge</font>
+
+4
+00:00:07,410 --> 00:00:09,780
+and<font color="#E5E5E5"> my claim</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> fame</font><font color="#CCCCCC"> is that I was one</font>
+
+5
+00:00:09,780 --> 00:00:11,160
+of<font color="#CCCCCC"> the first academically trained</font>
+
+6
+00:00:11,160 --> 00:00:13,469
+<font color="#E5E5E5">economists to take an interest in</font>
+
+7
+00:00:13,469 --> 00:00:15,120
+<font color="#E5E5E5">Bitcoin and blockchain technology</font>
+
+8
+00:00:15,120 --> 00:00:18,270
+so where is cryptocurrency mining taking
+
+9
+00:00:18,270 --> 00:00:20,010
+place today<font color="#E5E5E5"> well it's taking place all</font>
+
+10
+00:00:20,010 --> 00:00:22,170
+over<font color="#E5E5E5"> the</font><font color="#CCCCCC"> world but there are certain</font>
+
+11
+00:00:22,170 --> 00:00:24,869
+<font color="#E5E5E5">countries</font><font color="#CCCCCC"> where you know the four key</font>
+
+12
+00:00:24,869 --> 00:00:26,310
+<font color="#CCCCCC">ingredients low-cost electricity</font>
+
+13
+00:00:26,310 --> 00:00:29,400
+<font color="#CCCCCC">cold-weather</font><font color="#E5E5E5"> reliable</font><font color="#CCCCCC"> internet and low</font>
+
+14
+00:00:29,400 --> 00:00:33,630
+population density<font color="#CCCCCC"> are more present than</font>
+
+15
+00:00:33,630 --> 00:00:35,309
+<font color="#CCCCCC">others</font><font color="#E5E5E5"> so you see a lot of</font>
+
+16
+00:00:35,309 --> 00:00:37,530
+cryptocurrency mining<font color="#E5E5E5"> taking place in</font>
+
+17
+00:00:37,530 --> 00:00:40,590
+the far north<font color="#CCCCCC"> in the northern</font><font color="#E5E5E5"> hemisphere</font>
+
+18
+00:00:40,590 --> 00:00:43,050
+<font color="#E5E5E5">so countries like Iceland Sweden Canada</font>
+
+19
+00:00:43,050 --> 00:00:44,789
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> also see cryptocurrency mining</font>
+
+20
+00:00:44,789 --> 00:00:46,890
+<font color="#E5E5E5">taking place in</font><font color="#CCCCCC"> countries like the</font>
+
+21
+00:00:46,890 --> 00:00:48,690
+United States<font color="#E5E5E5"> but</font><font color="#CCCCCC"> by far and away the</font>
+
+22
+00:00:48,690 --> 00:00:50,280
+country where<font color="#E5E5E5"> most of this mining is</font>
+
+23
+00:00:50,280 --> 00:00:52,140
+taking<font color="#CCCCCC"> place is China for a couple of</font>
+
+24
+00:00:52,140 --> 00:00:55,079
+reasons<font color="#E5E5E5"> one</font><font color="#CCCCCC"> and the biggest</font><font color="#E5E5E5"> reason of</font>
+
+25
+00:00:55,079 --> 00:00:57,360
+all is<font color="#E5E5E5"> low cost electricity or free</font>
+
+26
+00:00:57,360 --> 00:00:59,219
+electricity<font color="#CCCCCC"> China has very cheap</font>
+
+27
+00:00:59,219 --> 00:01:03,390
+coal-based electricity and also<font color="#E5E5E5"> a lot of</font>
+
+28
+00:01:03,390 --> 00:01:05,820
+<font color="#E5E5E5">excess hydro capacity so a number of</font>
+
+29
+00:01:05,820 --> 00:01:07,710
+hydro facilities and provinces like
+
+30
+00:01:07,710 --> 00:01:10,260
+Sichuan were developed in<font color="#CCCCCC"> the</font>
+
+31
+00:01:10,260 --> 00:01:12,090
+anticipation<font color="#CCCCCC"> of new cities coming online</font>
+
+32
+00:01:12,090 --> 00:01:13,650
+<font color="#E5E5E5">to take advantage of this</font><font color="#CCCCCC"> very</font>
+
+33
+00:01:13,650 --> 00:01:16,830
+inexpensive electricity<font color="#E5E5E5"> however that</font>
+
+34
+00:01:16,830 --> 00:01:19,140
+electricity is<font color="#E5E5E5"> idle it's not being</font>
+
+35
+00:01:19,140 --> 00:01:21,330
+utilized<font color="#E5E5E5"> and so many hydro dam operators</font>
+
+36
+00:01:21,330 --> 00:01:23,729
+<font color="#E5E5E5">have gone into the cryptocurrency mining</font>
+
+37
+00:01:23,729 --> 00:01:25,890
+business<font color="#CCCCCC"> I think this is important to</font>
+
+38
+00:01:25,890 --> 00:01:27,030
+keep<font color="#E5E5E5"> in</font><font color="#CCCCCC"> mind as we think about</font><font color="#E5E5E5"> the</font>
+
+39
+00:01:27,030 --> 00:01:29,759
+environmental<font color="#E5E5E5"> impact of Bitcoin if that</font>
+
+40
+00:01:29,759 --> 00:01:32,460
+electricity is<font color="#E5E5E5"> just going</font><font color="#CCCCCC"> to waste it's</font>
+
+41
+00:01:32,460 --> 00:01:34,369
+<font color="#E5E5E5">already really less of a negative</font>
+
+42
+00:01:34,369 --> 00:01:38,070
+<font color="#E5E5E5">externality for Bitcoin to be having you</font>
+
+43
+00:01:38,070 --> 00:01:41,159
+know this excess hydro capacity used for
+
+44
+00:01:41,159 --> 00:01:43,970
+<font color="#E5E5E5">for Bitcoin mining</font>
+
+45
+00:01:50,920 --> 00:00:00,000
+<font color="#E5E5E5">you</font>
+

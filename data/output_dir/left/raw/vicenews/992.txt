@@ -1,0 +1,284 @@
+1
+00:00:00,610 --> 00:00:06,670
+[Music]
+
+2
+00:00:08,119 --> 00:00:10,740
+sound designer Jason<font color="#E5E5E5"> Candler and</font>
+
+3
+00:00:10,740 --> 00:00:13,080
+seismologist<font color="#E5E5E5"> Ben Holtzman are the</font>
+
+4
+00:00:13,080 --> 00:00:14,639
+creators of a show at the American
+
+5
+00:00:14,639 --> 00:00:16,049
+Museum of Natural<font color="#E5E5E5"> History in New York</font>
+
+6
+00:00:16,049 --> 00:00:18,930
+City<font color="#CCCCCC"> show is launching</font><font color="#E5E5E5"> this fall</font><font color="#CCCCCC"> and</font>
+
+7
+00:00:18,930 --> 00:00:21,900
+<font color="#E5E5E5">it's called the size meadow</font><font color="#CCCCCC"> okay so I'm</font>
+
+8
+00:00:21,900 --> 00:00:24,480
+going<font color="#E5E5E5"> to show you a ground motion</font>
+
+9
+00:00:24,480 --> 00:00:27,960
+visualization<font color="#CCCCCC"> on gmv as if we're inside</font>
+
+10
+00:00:27,960 --> 00:00:32,779
+<font color="#E5E5E5">the earth during</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> earthquake</font>
+
+11
+00:00:33,080 --> 00:00:39,080
+[Music]
+
+12
+00:00:39,080 --> 00:00:42,480
+the show takes<font color="#E5E5E5"> visitors inside planet</font>
+
+13
+00:00:42,480 --> 00:00:44,920
+<font color="#E5E5E5">Earth to experience earthquakes</font>
+
+14
+00:00:44,920 --> 00:00:49,420
+[Music]
+
+15
+00:00:50,780 --> 00:00:53,690
+this is a network<font color="#CCCCCC"> of seismometers</font>
+
+16
+00:00:53,690 --> 00:00:56,550
+messages the ground<font color="#CCCCCC"> vibrating in each</font>
+
+17
+00:00:56,550 --> 00:00:59,670
+dive<font color="#CCCCCC"> and enjoy</font><font color="#E5E5E5"> point earthquakes are</font>
+
+18
+00:00:59,670 --> 00:01:02,070
+basically<font color="#CCCCCC"> just energy waves</font><font color="#E5E5E5"> that humans</font>
+
+19
+00:01:02,070 --> 00:01:04,709
+<font color="#CCCCCC">almost never get to hear so</font><font color="#E5E5E5"> making that</font>
+
+20
+00:01:04,709 --> 00:01:07,320
+experience<font color="#E5E5E5"> possible</font><font color="#CCCCCC"> took some work</font><font color="#E5E5E5"> Ben</font>
+
+21
+00:01:07,320 --> 00:01:09,390
+and Jason<font color="#E5E5E5"> had to convert those waves to</font>
+
+22
+00:01:09,390 --> 00:01:11,670
+audible sounds which they then paired
+
+23
+00:01:11,670 --> 00:01:15,539
+<font color="#E5E5E5">with visuals when an</font><font color="#CCCCCC"> earthquake</font><font color="#E5E5E5"> hits</font>
+
+24
+00:01:15,539 --> 00:01:17,460
+<font color="#E5E5E5">scientists measure it by using a machine</font>
+
+25
+00:01:17,460 --> 00:01:19,890
+<font color="#E5E5E5">called</font><font color="#CCCCCC"> a seismometer</font><font color="#E5E5E5"> that records the</font>
+
+26
+00:01:19,890 --> 00:01:21,690
+<font color="#E5E5E5">up-and-down movements of the Earth's</font>
+
+27
+00:01:21,690 --> 00:01:24,509
+<font color="#E5E5E5">surface the end result is a graph</font><font color="#CCCCCC"> that</font>
+
+28
+00:01:24,509 --> 00:01:26,550
+<font color="#CCCCCC">looks like this one so instead</font><font color="#E5E5E5"> of</font>
+
+29
+00:01:26,550 --> 00:01:28,789
+<font color="#CCCCCC">looking at</font><font color="#E5E5E5"> a graph that's you know just</font>
+
+30
+00:01:28,789 --> 00:01:31,140
+squiggles up and down you're able<font color="#CCCCCC"> to</font>
+
+31
+00:01:31,140 --> 00:01:32,880
+actually hear what's going<font color="#E5E5E5"> on to hear</font>
+
+32
+00:01:32,880 --> 00:01:35,100
+the nuances<font color="#E5E5E5"> that's the general idea yeah</font>
+
+33
+00:01:35,100 --> 00:01:36,990
+<font color="#CCCCCC">and one</font><font color="#E5E5E5"> of the things we study you know</font>
+
+34
+00:01:36,990 --> 00:01:40,649
+in a research context is how how much of
+
+35
+00:01:40,649 --> 00:01:42,630
+that sothey<font color="#CCCCCC"> we actually can perceive</font>
+
+36
+00:01:42,630 --> 00:01:45,000
+through sound<font color="#CCCCCC"> a</font><font color="#E5E5E5"> seismic wave looks like</font>
+
+37
+00:01:45,000 --> 00:01:47,670
+a sound wave essentially<font color="#E5E5E5"> we're telling</font>
+
+38
+00:01:47,670 --> 00:01:49,920
+the computer<font color="#E5E5E5"> to convert that into a</font>
+
+39
+00:01:49,920 --> 00:01:54,420
+<font color="#E5E5E5">signal that becomes how far the speaker</font>
+
+40
+00:01:54,420 --> 00:01:58,079
+<font color="#CCCCCC">cone moves from its resting point that</font>
+
+41
+00:01:58,079 --> 00:02:00,060
+conversion<font color="#E5E5E5"> means that the audience gets</font>
+
+42
+00:02:00,060 --> 00:02:02,549
+<font color="#CCCCCC">to hear the 7.0 magnitude earthquake</font>
+
+43
+00:02:02,549 --> 00:02:04,390
+that<font color="#E5E5E5"> hit Haiti in 20</font>
+
+44
+00:02:04,390 --> 00:02:07,210
+and the record-breaking 9.0 magnitude
+
+45
+00:02:07,210 --> 00:02:09,399
+<font color="#E5E5E5">from</font><font color="#CCCCCC"> Hoku earthquake that devastated</font>
+
+46
+00:02:09,399 --> 00:02:13,990
+<font color="#CCCCCC">Japan in 2011</font><font color="#E5E5E5"> the human toll isn't lost</font>
+
+47
+00:02:13,990 --> 00:02:16,920
+on<font color="#E5E5E5"> the show's creators</font>
+
+48
+00:02:16,920 --> 00:02:18,870
+in the kind<font color="#CCCCCC"> of</font><font color="#E5E5E5"> beginning of each size</font>
+
+49
+00:02:18,870 --> 00:02:22,230
+<font color="#CCCCCC">modeling show</font><font color="#E5E5E5"> we make some kind</font><font color="#CCCCCC"> of</font>
+
+50
+00:02:22,230 --> 00:02:24,630
+disclaimer<font color="#CCCCCC"> you know these are quakes</font>
+
+51
+00:02:24,630 --> 00:02:26,670
+that one of them killed<font color="#CCCCCC"> 200,000</font><font color="#E5E5E5"> people</font>
+
+52
+00:02:26,670 --> 00:02:29,160
+<font color="#E5E5E5">and we say you know this</font><font color="#CCCCCC"> is this show is</font>
+
+53
+00:02:29,160 --> 00:02:32,730
+about<font color="#E5E5E5"> the</font><font color="#CCCCCC"> natural process and you can</font>
+
+54
+00:02:32,730 --> 00:02:35,490
+find them<font color="#E5E5E5"> beautiful it's not without the</font>
+
+55
+00:02:35,490 --> 00:02:40,530
+association of<font color="#E5E5E5"> what happened to us this</font>
+
+56
+00:02:40,530 --> 00:02:42,600
+<font color="#E5E5E5">will be the fifth version of the show at</font>
+
+57
+00:02:42,600 --> 00:02:45,270
+the<font color="#E5E5E5"> museum's Hayden Planetarium</font><font color="#CCCCCC"> Ben and</font>
+
+58
+00:02:45,270 --> 00:02:47,130
+Jason<font color="#E5E5E5"> try to improve the experience each</font>
+
+59
+00:02:47,130 --> 00:02:49,730
+<font color="#CCCCCC">time</font><font color="#E5E5E5"> they say the new show will feature</font>
+
+60
+00:02:49,730 --> 00:02:51,810
+significantly more advanced graphics
+
+61
+00:02:51,810 --> 00:02:54,959
+<font color="#E5E5E5">made using video game software why are</font>
+
+62
+00:02:54,959 --> 00:02:56,640
+you doing this hopefully it's<font color="#CCCCCC"> self</font>
+
+63
+00:02:56,640 --> 00:03:00,269
+<font color="#CCCCCC">explanatory</font><font color="#E5E5E5"> it blows our minds all the</font>
+
+64
+00:03:00,269 --> 00:03:01,170
+<font color="#E5E5E5">time</font>
+
+65
+00:03:01,170 --> 00:03:03,300
+we like blowing other people's minds
+
+66
+00:03:03,300 --> 00:03:05,040
+some of<font color="#E5E5E5"> that happens you're</font><font color="#CCCCCC"> like and</font>
+
+67
+00:03:05,040 --> 00:03:06,390
+he's like<font color="#E5E5E5"> Jay you gotta hear this</font>
+
+68
+00:03:06,390 --> 00:03:09,720
+<font color="#E5E5E5">okay great let me Wow okay every time</font>
+
+69
+00:03:09,720 --> 00:03:14,360
+<font color="#CCCCCC">Wow</font><font color="#E5E5E5"> you're listening</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> a living planet</font>
+
+70
+00:03:14,360 --> 00:03:18,470
+<font color="#E5E5E5">what's not great about</font><font color="#CCCCCC"> that</font>
+
+71
+00:03:24,660 --> 00:00:00,000
+you
+

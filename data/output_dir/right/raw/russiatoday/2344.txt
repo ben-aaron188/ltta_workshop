@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:01,800
+<font color="#CCCCCC">a Californian who's an expert in</font>
+
+2
+00:00:01,800 --> 00:00:03,840
+<font color="#E5E5E5">recycling electronics has found himself</font>
+
+3
+00:00:03,840 --> 00:00:06,480
+on a whole lot<font color="#CCCCCC"> of trouble it's over his</font>
+
+4
+00:00:06,480 --> 00:00:08,700
+idea to<font color="#E5E5E5"> help</font><font color="#CCCCCC"> people save money when it</font>
+
+5
+00:00:08,700 --> 00:00:10,500
+comes<font color="#CCCCCC"> to upgrading</font><font color="#E5E5E5"> their computers</font>
+
+6
+00:00:10,500 --> 00:00:12,750
+Microsoft<font color="#CCCCCC"> I was accused</font><font color="#E5E5E5"> Erick Lindgren</font>
+
+7
+00:00:12,750 --> 00:00:15,210
+here of creating thousands of illegal
+
+8
+00:00:15,210 --> 00:00:17,369
+copies<font color="#CCCCCC"> of its software</font><font color="#E5E5E5"> and he argues</font>
+
+9
+00:00:17,369 --> 00:00:19,710
+though he was only<font color="#CCCCCC"> using it to extend</font>
+
+10
+00:00:19,710 --> 00:00:23,160
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> lifespan of old</font><font color="#CCCCCC"> pcs but he faces up</font>
+
+11
+00:00:23,160 --> 00:00:25,320
+to<font color="#E5E5E5"> 15 months in prison and also a</font>
+
+12
+00:00:25,320 --> 00:00:28,949
+possible $50,000 fine<font color="#E5E5E5"> Lundgren insists</font>
+
+13
+00:00:28,949 --> 00:00:33,059
+he<font color="#E5E5E5"> was acting within the law the</font>
+
+14
+00:00:33,059 --> 00:00:35,969
+Microsoft software itself gets missing
+
+15
+00:00:35,969 --> 00:00:39,600
+dll files and bloatware<font color="#E5E5E5"> and viruses that</font>
+
+16
+00:00:39,600 --> 00:00:42,120
+<font color="#CCCCCC">over</font><font color="#E5E5E5"> time will break down the software</font>
+
+17
+00:00:42,120 --> 00:00:43,590
+so that<font color="#E5E5E5"> it doesn't</font><font color="#CCCCCC"> operate and function</font>
+
+18
+00:00:43,590 --> 00:00:45,660
+<font color="#CCCCCC">as intended</font><font color="#E5E5E5"> you might have seen</font><font color="#CCCCCC"> that</font>
+
+19
+00:00:45,660 --> 00:00:47,039
+before<font color="#E5E5E5"> if you ever use the computer and</font>
+
+20
+00:00:47,039 --> 00:00:49,289
+it<font color="#CCCCCC"> just seems</font><font color="#E5E5E5"> to slow down over time and</font>
+
+21
+00:00:49,289 --> 00:00:51,480
+it needs a refresh which is what the
+
+22
+00:00:51,480 --> 00:00:53,399
+<font color="#E5E5E5">purpose of a restore CD is so you have</font><font color="#CCCCCC"> a</font>
+
+23
+00:00:53,399 --> 00:00:55,199
+license with<font color="#E5E5E5"> your computer and that</font>
+
+24
+00:00:55,199 --> 00:00:56,520
+follows your computer in perpetuity
+
+25
+00:00:56,520 --> 00:00:58,500
+<font color="#CCCCCC">until your computer is no longer working</font>
+
+26
+00:00:58,500 --> 00:01:01,440
+<font color="#E5E5E5">and that computer can</font><font color="#CCCCCC"> be used by</font>
+
+27
+00:01:01,440 --> 00:01:03,300
+hundreds of<font color="#E5E5E5"> people thousands of</font><font color="#CCCCCC"> people</font>
+
+28
+00:01:03,300 --> 00:01:06,060
+and the license follows the hardware so
+
+29
+00:01:06,060 --> 00:01:08,790
+the hardware itself over time<font color="#E5E5E5"> might get</font>
+
+30
+00:01:08,790 --> 00:01:11,159
+missing dll files<font color="#E5E5E5"> or it might get</font>
+
+31
+00:01:11,159 --> 00:01:13,170
+viruses<font color="#CCCCCC"> and bloatware and what you'll</font>
+
+32
+00:01:13,170 --> 00:01:14,939
+end up<font color="#CCCCCC"> doing is</font><font color="#E5E5E5"> you'll</font><font color="#CCCCCC"> want to refresh</font>
+
+33
+00:01:14,939 --> 00:01:18,299
+or reinstall your valid copy of license
+
+34
+00:01:18,299 --> 00:01:20,490
+on your computer and to do<font color="#E5E5E5"> that you need</font>
+
+35
+00:01:20,490 --> 00:01:22,320
+three<font color="#CCCCCC"> things you need</font><font color="#E5E5E5"> a CoA you need a</font>
+
+36
+00:01:22,320 --> 00:01:24,509
+license and you<font color="#E5E5E5"> need to</font><font color="#CCCCCC"> restore media or</font>
+
+37
+00:01:24,509 --> 00:01:27,420
+restore CD the restore<font color="#E5E5E5"> CD is free you</font>
+
+38
+00:01:27,420 --> 00:01:29,970
+can download it anywhere online<font color="#E5E5E5"> but the</font>
+
+39
+00:01:29,970 --> 00:01:32,130
+<font color="#CCCCCC">COA license have to come</font><font color="#E5E5E5"> from Microsoft</font>
+
+40
+00:01:32,130 --> 00:01:33,479
+<font color="#E5E5E5">they're the only ones</font><font color="#CCCCCC"> that can provide</font>
+
+41
+00:01:33,479 --> 00:01:36,119
+you<font color="#E5E5E5"> with that what Microsoft has claimed</font>
+
+42
+00:01:36,119 --> 00:01:38,100
+it missed out<font color="#CCCCCC"> on sales</font><font color="#E5E5E5"> of its</font><font color="#CCCCCC"> license</font>
+
+43
+00:01:38,100 --> 00:01:40,350
+products because of Lundgren's piracy
+
+44
+00:01:40,350 --> 00:01:43,409
+prosecutors<font color="#E5E5E5"> claim he made</font><font color="#CCCCCC"> 28,000 illegal</font>
+
+45
+00:01:43,409 --> 00:01:46,380
+copies<font color="#E5E5E5"> of Microsoft's operating system</font>
+
+46
+00:01:46,380 --> 00:01:48,960
+last year<font color="#E5E5E5"> Lundgren</font><font color="#CCCCCC"> was convicted but an</font>
+
+47
+00:01:48,960 --> 00:01:51,270
+appeals court did allow him to<font color="#CCCCCC"> argue his</font>
+
+48
+00:01:51,270 --> 00:01:52,710
+<font color="#CCCCCC">case one more time</font>
+
+49
+00:01:52,710 --> 00:01:54,570
+he says his<font color="#E5E5E5"> main purpose</font><font color="#CCCCCC"> was to</font>
+
+50
+00:01:54,570 --> 00:01:56,430
+encourage<font color="#E5E5E5"> people to use refurbished</font>
+
+51
+00:01:56,430 --> 00:01:58,860
+computers instead of purchasing new<font color="#E5E5E5"> ones</font>
+
+52
+00:01:58,860 --> 00:02:03,180
+<font color="#CCCCCC">I know that if you were to make copies</font>
+
+53
+00:02:03,180 --> 00:02:06,090
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> their license</font><font color="#CCCCCC"> or</font><font color="#E5E5E5"> their COAS</font>
+
+54
+00:02:06,090 --> 00:02:08,340
+<font color="#E5E5E5">you're directly stealing from Microsoft</font>
+
+55
+00:02:08,340 --> 00:02:11,910
+<font color="#CCCCCC">and and you deserve</font><font color="#E5E5E5"> to go to prison</font><font color="#CCCCCC"> but</font>
+
+56
+00:02:11,910 --> 00:02:13,830
+if you're<font color="#CCCCCC"> providing the restores</font>
+
+57
+00:02:13,830 --> 00:02:16,500
+which is the free thing that you can
+
+58
+00:02:16,500 --> 00:02:18,390
+download<font color="#E5E5E5"> for free or that's given</font><font color="#CCCCCC"> to you</font>
+
+59
+00:02:18,390 --> 00:02:21,000
+with your<font color="#E5E5E5"> computer if you provide</font><font color="#CCCCCC"> that</font>
+
+60
+00:02:21,000 --> 00:02:22,620
+to consumers you're giving them<font color="#E5E5E5"> the</font>
+
+61
+00:02:22,620 --> 00:02:25,650
+<font color="#CCCCCC">ability to repair</font><font color="#E5E5E5"> their legally owned</font>
+
+62
+00:02:25,650 --> 00:02:28,440
+property<font color="#E5E5E5"> and I see no problem</font><font color="#CCCCCC"> with that</font>
+
+63
+00:02:28,440 --> 00:02:31,530
+<font color="#CCCCCC">I I</font><font color="#E5E5E5"> believe in extending the life cycle</font>
+
+64
+00:02:31,530 --> 00:02:33,420
+<font color="#E5E5E5">of electronics and</font><font color="#CCCCCC"> I believe that</font><font color="#E5E5E5"> it</font>
+
+65
+00:02:33,420 --> 00:02:35,940
+helps us be<font color="#CCCCCC"> more efficient in society if</font>
+
+66
+00:02:35,940 --> 00:02:37,560
+we're able to<font color="#E5E5E5"> use these computers as</font>
+
+67
+00:02:37,560 --> 00:02:40,110
+long as they last<font color="#CCCCCC"> I was very surprised</font>
+
+68
+00:02:40,110 --> 00:02:42,540
+<font color="#CCCCCC">when Microsoft put me in that</font><font color="#E5E5E5"> same</font>
+
+69
+00:02:42,540 --> 00:02:44,700
+circle with<font color="#E5E5E5"> the people they're out there</font>
+
+70
+00:02:44,700 --> 00:02:48,450
+<font color="#E5E5E5">hacking or stealing their licenses or</font>
+
+71
+00:02:48,450 --> 00:02:51,780
+<font color="#E5E5E5">COAS</font><font color="#CCCCCC"> I mean that is a crime crime</font><font color="#E5E5E5"> that</font>
+
+72
+00:02:51,780 --> 00:02:53,070
+deserves<font color="#E5E5E5"> to be punished because you're</font>
+
+73
+00:02:53,070 --> 00:02:54,630
+directly stealing from<font color="#E5E5E5"> somebody all I</font>
+
+74
+00:02:54,630 --> 00:02:57,270
+was attempting<font color="#CCCCCC"> to</font><font color="#E5E5E5"> do is help consumers</font>
+
+75
+00:02:57,270 --> 00:02:59,550
+use what they legally<font color="#E5E5E5"> owned</font><font color="#CCCCCC"> I've been a</font>
+
+76
+00:02:59,550 --> 00:03:01,500
+recycler for 16 years and<font color="#E5E5E5"> all I care</font>
+
+77
+00:03:01,500 --> 00:03:03,330
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> is the environment</font><font color="#CCCCCC"> I want to</font><font color="#E5E5E5"> make</font>
+
+78
+00:03:03,330 --> 00:03:05,940
+sure that things that work<font color="#E5E5E5"> continue to</font>
+
+79
+00:03:05,940 --> 00:00:00,000
+work<font color="#CCCCCC"> for</font><font color="#E5E5E5"> the benefit of mankind</font>
+

@@ -1,0 +1,384 @@
+1
+00:00:12,170 --> 00:00:14,190
+Spencer<font color="#CCCCCC"> as the downturn in the housing</font>
+
+2
+00:00:14,190 --> 00:00:16,949
+market made zillow more relevant you
+
+3
+00:00:16,949 --> 00:00:18,270
+have a ton of content on your site
+
+4
+00:00:18,270 --> 00:00:20,250
+people advising other people you have
+
+5
+00:00:20,250 --> 00:00:22,680
+the QA has the activity<font color="#CCCCCC"> actually</font>
+
+6
+00:00:22,680 --> 00:00:24,900
+increased over the last year activities
+
+7
+00:00:24,900 --> 00:00:26,189
+increased a lot and part of that's been
+
+8
+00:00:26,189 --> 00:00:27,599
+driven by the housing downturn part of
+
+9
+00:00:27,599 --> 00:00:29,550
+it by an increasing feature set but our
+
+10
+00:00:29,550 --> 00:00:31,380
+traffic was up about<font color="#CCCCCC"> fifty seven percent</font>
+
+11
+00:00:31,380 --> 00:00:35,190
+in 2009 verse 2008 and market volatility
+
+12
+00:00:35,190 --> 00:00:37,890
+benefits information providers so a lot
+
+13
+00:00:37,890 --> 00:00:39,360
+of our traffic growth has come<font color="#CCCCCC"> because</font>
+
+14
+00:00:39,360 --> 00:00:41,969
+<font color="#CCCCCC">of the housing downturn so</font><font color="#E5E5E5"> sometimes and</font>
+
+15
+00:00:41,969 --> 00:00:44,129
+now especially owning is<font color="#CCCCCC"> a lot more</font>
+
+16
+00:00:44,129 --> 00:00:46,050
+expensive<font color="#E5E5E5"> than than renting and I know</font>
+
+17
+00:00:46,050 --> 00:00:48,149
+that zillow recently entered the rental
+
+18
+00:00:48,149 --> 00:00:49,739
+market was that out<font color="#E5E5E5"> of necessity or is</font>
+
+19
+00:00:49,739 --> 00:00:51,059
+that just a natural progression of the
+
+20
+00:00:51,059 --> 00:00:52,680
+model<font color="#CCCCCC"> it's natural</font><font color="#E5E5E5"> progression we always</font>
+
+21
+00:00:52,680 --> 00:00:54,420
+had rentals in our sites i mean it<font color="#CCCCCC"> it</font>
+
+22
+00:00:54,420 --> 00:00:56,160
+makes<font color="#E5E5E5"> sense really to</font><font color="#CCCCCC"> have for sale and</font>
+
+23
+00:00:56,160 --> 00:00:58,440
+rentals on the same website in fact when
+
+24
+00:00:58,440 --> 00:01:00,059
+we<font color="#E5E5E5"> launched rentals just last month we</font>
+
+25
+00:01:00,059 --> 00:01:01,859
+<font color="#E5E5E5">became</font><font color="#CCCCCC"> the first major real estate site</font>
+
+26
+00:01:01,859 --> 00:01:03,930
+to have for sale homes and for rent
+
+27
+00:01:03,930 --> 00:01:05,580
+homes available in the same map and the
+
+28
+00:01:05,580 --> 00:01:07,020
+same list to look at at the same time
+
+29
+00:01:07,020 --> 00:01:09,150
+and about a quarter of all home shoppers
+
+30
+00:01:09,150 --> 00:01:10,890
+now are looking for for sale and for
+
+31
+00:01:10,890 --> 00:01:12,810
+<font color="#CCCCCC">rent homes at the same time so it's</font>
+
+32
+00:01:12,810 --> 00:01:13,920
+really<font color="#E5E5E5"> quite a benefit to be</font><font color="#CCCCCC"> able to</font>
+
+33
+00:01:13,920 --> 00:01:15,659
+look at them<font color="#E5E5E5"> side by side so you grew up</font>
+
+34
+00:01:15,659 --> 00:01:17,189
+<font color="#E5E5E5">in New York I know that you've lived in</font>
+
+35
+00:01:17,189 --> 00:01:19,830
+LA how does zillow approach these dense
+
+36
+00:01:19,830 --> 00:01:22,229
+markets it's got to be<font color="#CCCCCC"> difficult we have</font>
+
+37
+00:01:22,229 --> 00:01:24,840
+our niche sites like bid on<font color="#E5E5E5"> the city and</font>
+
+38
+00:01:24,840 --> 00:01:26,670
+citi habitats and<font color="#E5E5E5"> whatnot how does the</font>
+
+39
+00:01:26,670 --> 00:01:28,470
+low think about these cities um it's
+
+40
+00:01:28,470 --> 00:01:30,150
+hard it's very hard particularly was
+
+41
+00:01:30,150 --> 00:01:31,650
+estimates which is probably what zillow
+
+42
+00:01:31,650 --> 00:01:33,119
+is still best known for these valuations
+
+43
+00:01:33,119 --> 00:01:34,650
+on almost every home the country it's a
+
+44
+00:01:34,650 --> 00:01:36,689
+very hard to value Manhattan real estate
+
+45
+00:01:36,689 --> 00:01:38,400
+for example I mean it's it's hard for
+
+46
+00:01:38,400 --> 00:01:40,500
+real estate agents<font color="#CCCCCC"> or buyers to evaluate</font>
+
+47
+00:01:40,500 --> 00:01:42,600
+no less for a computer algorithm which
+
+48
+00:01:42,600 --> 00:01:44,100
+is what<font color="#CCCCCC"> zomos trying</font><font color="#E5E5E5"> to do so it's</font>
+
+49
+00:01:44,100 --> 00:01:45,869
+extremely<font color="#E5E5E5"> difficult those are bright</font>
+
+50
+00:01:45,869 --> 00:01:48,840
+spot geography of the<font color="#E5E5E5"> u.s. is any place</font>
+
+51
+00:01:48,840 --> 00:01:50,880
+where housing market is actually booming
+
+52
+00:01:50,880 --> 00:01:53,189
+or doing better than save<font color="#E5E5E5"> Detroit not</font>
+
+53
+00:01:53,189 --> 00:01:55,200
+quite booming but but those data shows
+
+54
+00:01:55,200 --> 00:01:56,700
+that Boston in LA I've actually already
+
+55
+00:01:56,700 --> 00:01:59,310
+bought them so<font color="#E5E5E5"> there now it may</font><font color="#CCCCCC"> be a</font>
+
+56
+00:01:59,310 --> 00:02:01,770
+very long slow climb off that bottom but
+
+57
+00:02:01,770 --> 00:02:03,479
+we think<font color="#E5E5E5"> the worst is behind us some</font>
+
+58
+00:02:03,479 --> 00:02:03,870
+<font color="#E5E5E5">sort</font><font color="#CCCCCC"> of</font>
+
+59
+00:02:03,870 --> 00:02:05,760
+values in Boston in LA not so much<font color="#E5E5E5"> New</font>
+
+60
+00:02:05,760 --> 00:02:07,650
+<font color="#E5E5E5">York yet right so what are you</font>
+
+61
+00:02:07,650 --> 00:02:09,930
+estimating them for 2010 and beyond um
+
+62
+00:02:09,930 --> 00:02:11,760
+what's the housing market<font color="#CCCCCC"> look like so</font>
+
+63
+00:02:11,760 --> 00:02:14,790
+the numbers at the end of 2009 we're
+
+64
+00:02:14,790 --> 00:02:16,260
+home values were declining around six
+
+65
+00:02:16,260 --> 00:02:17,850
+percent year-over-year which was
+
+66
+00:02:17,850 --> 00:02:19,020
+actually<font color="#CCCCCC"> the lowest rate of decline</font>
+
+67
+00:02:19,020 --> 00:02:21,000
+since december two thousand seven so
+
+68
+00:02:21,000 --> 00:02:22,710
+home values are still<font color="#E5E5E5"> going down but not</font>
+
+69
+00:02:22,710 --> 00:02:24,300
+<font color="#E5E5E5">nearly as much</font><font color="#CCCCCC"> as they were a couple</font>
+
+70
+00:02:24,300 --> 00:02:26,880
+years<font color="#E5E5E5"> ago we still think</font><font color="#CCCCCC"> there's another</font>
+
+71
+00:02:26,880 --> 00:02:30,330
+10 or so percent drop down the<font color="#CCCCCC"> downside</font>
+
+72
+00:02:30,330 --> 00:02:32,760
+nationwide now nationwide<font color="#CCCCCC"> is kind of not</font>
+
+73
+00:02:32,760 --> 00:02:35,010
+that interesting to any individual but
+
+74
+00:02:35,010 --> 00:02:37,020
+you know in terms of how we learn a data
+
+75
+00:02:37,020 --> 00:02:40,200
+it's it's important but some markets and
+
+76
+00:02:40,200 --> 00:02:41,550
+some price ranges are already starting
+
+77
+00:02:41,550 --> 00:02:43,140
+to come back<font color="#E5E5E5"> I think more importantly is</font>
+
+78
+00:02:43,140 --> 00:02:44,730
+it's going<font color="#E5E5E5"> to be a very slow recovery</font>
+
+79
+00:02:44,730 --> 00:02:47,220
+from there it's going<font color="#E5E5E5"> to be five or more</font>
+
+80
+00:02:47,220 --> 00:02:49,530
+years of low single-digit appreciation
+
+81
+00:02:49,530 --> 00:02:51,720
+rates we should you<font color="#CCCCCC"> know forget</font><font color="#E5E5E5"> about</font>
+
+82
+00:02:51,720 --> 00:02:54,150
+<font color="#E5E5E5">the boom times this is not going to</font>
+
+83
+00:02:54,150 --> 00:02:56,220
+we're not going to return to that it's
+
+84
+00:02:56,220 --> 00:02:57,390
+<font color="#E5E5E5">going to be a long period of slow</font>
+
+85
+00:02:57,390 --> 00:02:58,980
+recovery so you say we still have ten
+
+86
+00:02:58,980 --> 00:03:01,280
+percent down side wins the bottom coming
+
+87
+00:03:01,280 --> 00:03:03,270
+nationwide we think the bottom is still
+
+88
+00:03:03,270 --> 00:03:05,730
+about 9 to 12 months<font color="#E5E5E5"> out but again some</font>
+
+89
+00:03:05,730 --> 00:03:07,320
+markets have already reached it great so
+
+90
+00:03:07,320 --> 00:03:10,950
+we're looking at 2015 for back to normal
+
+91
+00:03:10,950 --> 00:03:12,989
+levels well the normal is a relative
+
+92
+00:03:12,989 --> 00:03:16,410
+term<font color="#E5E5E5"> this may be normal oh yeah but yeah</font>
+
+93
+00:03:16,410 --> 00:03:17,790
+in terms of returning to the peak we
+
+94
+00:03:17,790 --> 00:03:18,930
+think it's going to<font color="#E5E5E5"> be quite a long time</font>
+
+95
+00:03:18,930 --> 00:03:20,520
+<font color="#CCCCCC">five to ten years before he</font><font color="#E5E5E5"> returns to</font>
+
+96
+00:03:20,520 --> 00:00:00,000
+people great thanks Spencer thank you
+

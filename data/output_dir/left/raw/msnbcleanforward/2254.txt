@@ -1,0 +1,508 @@
+1
+00:00:03,730 --> 00:00:06,790
+[Music]
+
+2
+00:00:08,000 --> 00:00:10,170
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+3
+00:00:10,170 --> 00:00:12,090
+<font color="#CCCCCC">Washington with</font><font color="#E5E5E5"> a look at Axios am</font>
+
+4
+00:00:12,090 --> 00:00:15,690
+co-founder<font color="#CCCCCC"> and CEO</font><font color="#E5E5E5"> of Axios</font><font color="#CCCCCC"> jim van hi</font>
+
+5
+00:00:15,690 --> 00:00:17,609
+Jim good<font color="#CCCCCC"> morning to you</font><font color="#E5E5E5"> good</font><font color="#CCCCCC"> morning</font>
+
+6
+00:00:17,609 --> 00:00:19,740
+<font color="#E5E5E5">talk to us about</font><font color="#CCCCCC"> Axios is one big thing</font>
+
+7
+00:00:19,740 --> 00:00:22,260
+today<font color="#CCCCCC"> I mean the one big thing for the</font>
+
+8
+00:00:22,260 --> 00:00:24,900
+week<font color="#CCCCCC"> maybe for the year is a Supreme</font>
+
+9
+00:00:24,900 --> 00:00:27,510
+Court<font color="#CCCCCC"> picked</font><font color="#E5E5E5"> by the president</font><font color="#CCCCCC"> I can't</font>
+
+10
+00:00:27,510 --> 00:00:29,310
+stress enough if you<font color="#E5E5E5"> just step back what</font>
+
+11
+00:00:29,310 --> 00:00:32,250
+a big deal<font color="#E5E5E5"> this</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> Trump</font><font color="#E5E5E5"> on several</font>
+
+12
+00:00:32,250 --> 00:00:34,710
+different<font color="#CCCCCC"> levels</font><font color="#E5E5E5"> conservatives for 30</font>
+
+13
+00:00:34,710 --> 00:00:36,420
+<font color="#E5E5E5">years have had a project to try to get a</font>
+
+14
+00:00:36,420 --> 00:00:38,340
+conservative<font color="#CCCCCC"> Court now they're on</font><font color="#E5E5E5"> the</font>
+
+15
+00:00:38,340 --> 00:00:40,730
+verge of having<font color="#E5E5E5"> that most Republicans</font>
+
+16
+00:00:40,730 --> 00:00:44,850
+<font color="#E5E5E5">voted for</font><font color="#CCCCCC"> Trump</font><font color="#E5E5E5"> largely around this</font><font color="#CCCCCC"> idea</font>
+
+17
+00:00:44,850 --> 00:00:47,670
+<font color="#CCCCCC">of a conservative Court</font><font color="#E5E5E5"> and so that 90</font>
+
+18
+00:00:47,670 --> 00:00:49,379
+percent approval rating that<font color="#E5E5E5"> he has with</font>
+
+19
+00:00:49,379 --> 00:00:51,360
+the<font color="#E5E5E5"> base not</font><font color="#CCCCCC"> only is it going</font><font color="#E5E5E5"> to go up</font>
+
+20
+00:00:51,360 --> 00:00:54,270
+<font color="#CCCCCC">it has solidified</font><font color="#E5E5E5"> his license with</font>
+
+21
+00:00:54,270 --> 00:00:57,030
+conservatives<font color="#E5E5E5"> is so much stronger today</font>
+
+22
+00:00:57,030 --> 00:00:58,980
+<font color="#CCCCCC">than it was</font><font color="#E5E5E5"> yesterday</font>
+
+23
+00:00:58,980 --> 00:01:00,960
+<font color="#E5E5E5">because they can say listen you made a</font>
+
+24
+00:01:00,960 --> 00:01:02,579
+promise<font color="#CCCCCC"> you stuck to</font><font color="#E5E5E5"> your promise I'm</font>
+
+25
+00:01:02,579 --> 00:01:04,769
+the most consequential<font color="#CCCCCC"> act of your</font>
+
+26
+00:01:04,769 --> 00:01:07,710
+presidency<font color="#CCCCCC"> and for</font><font color="#E5E5E5"> Democrats and for</font>
+
+27
+00:01:07,710 --> 00:01:09,360
+Republicans it shows how much your vote
+
+28
+00:01:09,360 --> 00:01:11,549
+counts a hundred thousand votes<font color="#E5E5E5"> go a</font>
+
+29
+00:01:11,549 --> 00:01:13,260
+different<font color="#CCCCCC"> way</font><font color="#E5E5E5"> in three</font><font color="#CCCCCC"> different states</font>
+
+30
+00:01:13,260 --> 00:01:15,810
+<font color="#E5E5E5">in 2016 and you have</font><font color="#CCCCCC"> Hillary Clinton</font>
+
+31
+00:01:15,810 --> 00:01:18,180
+cementing a liberal<font color="#CCCCCC"> court for</font><font color="#E5E5E5"> the next</font>
+
+32
+00:01:18,180 --> 00:01:20,189
+<font color="#CCCCCC">30 years</font><font color="#E5E5E5"> so this</font><font color="#CCCCCC"> is a very profoundly</font>
+
+33
+00:01:20,189 --> 00:01:22,259
+important day yeah<font color="#E5E5E5"> you make such a good</font>
+
+34
+00:01:22,259 --> 00:01:23,490
+point<font color="#E5E5E5"> there are so many voters that I</font>
+
+35
+00:01:23,490 --> 00:01:25,470
+spoke<font color="#E5E5E5"> to</font><font color="#CCCCCC"> who voted for</font><font color="#E5E5E5"> President Trump</font>
+
+36
+00:01:25,470 --> 00:01:28,259
+<font color="#E5E5E5">that were not necessarily assured about</font>
+
+37
+00:01:28,259 --> 00:01:30,000
+<font color="#E5E5E5">him becoming president and confident in</font>
+
+38
+00:01:30,000 --> 00:01:32,150
+his abilities they voted for<font color="#CCCCCC"> him because</font>
+
+39
+00:01:32,150 --> 00:01:34,799
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> the Supreme Court that's</font><font color="#E5E5E5"> really what</font>
+
+40
+00:01:34,799 --> 00:01:37,439
+sort of put them over the edge<font color="#E5E5E5"> Jim take</font>
+
+41
+00:01:37,439 --> 00:01:40,020
+us inside<font color="#CCCCCC"> president Trump's thinking</font>
+
+42
+00:01:40,020 --> 00:01:42,840
+<font color="#E5E5E5">with regards to picking Brett Kavanaugh</font>
+
+43
+00:01:42,840 --> 00:01:44,189
+what<font color="#E5E5E5"> are sources telling</font><font color="#CCCCCC"> Axios about</font>
+
+44
+00:01:44,189 --> 00:01:46,500
+that process<font color="#E5E5E5"> yeah I mean you get for</font>
+
+45
+00:01:46,500 --> 00:01:48,329
+this White House it<font color="#CCCCCC"> was an extremely</font>
+
+46
+00:01:48,329 --> 00:01:50,189
+organized process<font color="#E5E5E5"> they've said from the</font>
+
+47
+00:01:50,189 --> 00:01:52,079
+beginning<font color="#E5E5E5"> that they had this list of</font>
+
+48
+00:01:52,079 --> 00:01:54,600
+<font color="#E5E5E5">Supreme</font><font color="#CCCCCC"> Court potential picks</font><font color="#E5E5E5"> they've</font>
+
+49
+00:01:54,600 --> 00:01:56,939
+stuck to it<font color="#E5E5E5"> he was always at the</font><font color="#CCCCCC"> very</font>
+
+50
+00:01:56,939 --> 00:01:58,969
+<font color="#CCCCCC">top of the list</font><font color="#E5E5E5"> he was one of the four</font>
+
+51
+00:01:58,969 --> 00:02:01,259
+finalists<font color="#E5E5E5"> when people came to the</font>
+
+52
+00:02:01,259 --> 00:02:03,210
+president and raised<font color="#CCCCCC"> concerns about him</font>
+
+53
+00:02:03,210 --> 00:02:04,979
+is he conservative enough are we gonna
+
+54
+00:02:04,979 --> 00:02:06,719
+have<font color="#CCCCCC"> problems with</font><font color="#E5E5E5"> the work that he did</font>
+
+55
+00:02:06,719 --> 00:02:08,598
+on<font color="#E5E5E5"> impeachment during the Clinton years</font>
+
+56
+00:02:08,598 --> 00:02:11,220
+<font color="#CCCCCC">Trump's record would</font><font color="#E5E5E5"> be he's got the</font>
+
+57
+00:02:11,220 --> 00:02:12,720
+votes<font color="#E5E5E5"> he wants a</font>
+
+58
+00:02:12,720 --> 00:02:15,420
+<font color="#CCCCCC">Wyn he wants a</font><font color="#E5E5E5"> slam-dunk win and it's</font>
+
+59
+00:02:15,420 --> 00:02:17,370
+possible<font color="#CCCCCC"> then he'll get it</font><font color="#E5E5E5"> and he'll get</font>
+
+60
+00:02:17,370 --> 00:02:19,710
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> before the</font><font color="#E5E5E5"> election it's very hard</font>
+
+61
+00:02:19,710 --> 00:02:21,120
+<font color="#CCCCCC">for Democrats</font><font color="#E5E5E5"> to defeat this you're</font>
+
+62
+00:02:21,120 --> 00:02:23,520
+gonna hear<font color="#E5E5E5"> lots of Democrats come out</font>
+
+63
+00:02:23,520 --> 00:02:25,530
+today<font color="#E5E5E5"> and say he's got to be beaten he's</font>
+
+64
+00:02:25,530 --> 00:02:26,430
+got to be stopped
+
+65
+00:02:26,430 --> 00:02:28,050
+yeah<font color="#E5E5E5"> very hard to stop they don't have</font>
+
+66
+00:02:28,050 --> 00:02:30,210
+the votes<font color="#E5E5E5"> and you know to your</font><font color="#CCCCCC"> point</font>
+
+67
+00:02:30,210 --> 00:02:31,530
+about the<font color="#E5E5E5"> importance with that</font>
+
+68
+00:02:31,530 --> 00:02:33,930
+Republican base<font color="#CCCCCC"> if</font><font color="#E5E5E5"> any people has always</font>
+
+69
+00:02:33,930 --> 00:02:35,760
+<font color="#E5E5E5">been a mystery why do you even</font><font color="#CCCCCC"> Jellicle</font>
+
+70
+00:02:35,760 --> 00:02:37,830
+Christians like<font color="#CCCCCC"> Trump's so much given so</font>
+
+71
+00:02:37,830 --> 00:02:39,900
+much of<font color="#E5E5E5"> his behavior it's because of</font>
+
+72
+00:02:39,900 --> 00:02:42,120
+<font color="#E5E5E5">this they've always pointed to the court</font>
+
+73
+00:02:42,120 --> 00:02:43,710
+and there's a lot of<font color="#CCCCCC"> those voters that</font>
+
+74
+00:02:43,710 --> 00:02:45,450
+<font color="#E5E5E5">are sitting in red states that are gonna</font>
+
+75
+00:02:45,450 --> 00:02:47,700
+<font color="#E5E5E5">put pressure on Democrats to vote for</font>
+
+76
+00:02:47,700 --> 00:02:49,560
+him<font color="#CCCCCC"> yes</font><font color="#E5E5E5"> that's such a good point there</font>
+
+77
+00:02:49,560 --> 00:02:52,050
+<font color="#E5E5E5">we know Justice Kennedy was really the</font>
+
+78
+00:02:52,050 --> 00:02:53,790
+swing vote<font color="#CCCCCC"> in</font><font color="#E5E5E5"> so many major decisions on</font>
+
+79
+00:02:53,790 --> 00:02:54,510
+the Supreme Court
+
+80
+00:02:54,510 --> 00:02:56,520
+<font color="#E5E5E5">where does Cavanaugh stand with regards</font>
+
+81
+00:02:56,520 --> 00:02:58,620
+to<font color="#E5E5E5"> the ideological spectrum on</font><font color="#CCCCCC"> the</font>
+
+82
+00:02:58,620 --> 00:03:01,260
+Supreme<font color="#E5E5E5"> Court</font><font color="#CCCCCC"> is on the right</font><font color="#E5E5E5"> he's very</font>
+
+83
+00:03:01,260 --> 00:03:03,000
+much on the right you now have a<font color="#E5E5E5"> very</font>
+
+84
+00:03:03,000 --> 00:03:05,280
+conservative<font color="#CCCCCC"> court you're replacing</font>
+
+85
+00:03:05,280 --> 00:03:07,200
+<font color="#E5E5E5">Kennedy is sort of your decider with</font>
+
+86
+00:03:07,200 --> 00:03:09,480
+Roberts now who's probably<font color="#E5E5E5"> in the middle</font>
+
+87
+00:03:09,480 --> 00:03:10,980
+<font color="#E5E5E5">and he's much more conservative than</font>
+
+88
+00:03:10,980 --> 00:03:13,740
+Kennedy was this isn't neither sides
+
+89
+00:03:13,740 --> 00:03:15,120
+being hyperbolic<font color="#E5E5E5"> when they say you're</font>
+
+90
+00:03:15,120 --> 00:03:17,519
+<font color="#E5E5E5">about to cement a very conservative</font><font color="#CCCCCC"> very</font>
+
+91
+00:03:17,519 --> 00:03:19,980
+young<font color="#CCCCCC"> Court for a long time most people</font>
+
+92
+00:03:19,980 --> 00:03:21,630
+who get<font color="#CCCCCC"> on the court</font><font color="#E5E5E5"> sit there</font><font color="#CCCCCC"> until</font>
+
+93
+00:03:21,630 --> 00:03:23,010
+they're in<font color="#E5E5E5"> their 80s so this could be a</font>
+
+94
+00:03:23,010 --> 00:03:25,440
+long<font color="#CCCCCC"> time before</font><font color="#E5E5E5"> liberals have a chance</font>
+
+95
+00:03:25,440 --> 00:03:27,239
+to take back<font color="#E5E5E5"> the court and if you think</font>
+
+96
+00:03:27,239 --> 00:03:29,489
+about this era we live in in where it's
+
+97
+00:03:29,489 --> 00:03:30,959
+so polarized you have divided<font color="#E5E5E5"> government</font>
+
+98
+00:03:30,959 --> 00:03:32,400
+<font color="#E5E5E5">almost nothing gets done in Washington</font>
+
+99
+00:03:32,400 --> 00:03:35,070
+<font color="#CCCCCC">the Supreme Court ends up becoming the</font>
+
+100
+00:03:35,070 --> 00:03:37,709
+most powerful<font color="#E5E5E5"> institution in some years</font>
+
+101
+00:03:37,709 --> 00:03:40,110
+and now it's a conservative<font color="#E5E5E5"> institution</font>
+
+102
+00:03:40,110 --> 00:03:41,489
+and one that's<font color="#E5E5E5"> gonna have a huge effect</font>
+
+103
+00:03:41,489 --> 00:03:44,790
+<font color="#E5E5E5">on our</font><font color="#CCCCCC"> business laws on our social laws</font>
+
+104
+00:03:44,790 --> 00:03:47,010
+on<font color="#CCCCCC"> how we</font><font color="#E5E5E5"> think about abortion these are</font>
+
+105
+00:03:47,010 --> 00:03:49,019
+really big cases that<font color="#E5E5E5"> affect your every</font>
+
+106
+00:03:49,019 --> 00:03:51,360
+day life and<font color="#E5E5E5"> that's why the consequences</font>
+
+107
+00:03:51,360 --> 00:03:52,739
+are huge why Schumer would like to
+
+108
+00:03:52,739 --> 00:03:53,940
+defeat it<font color="#E5E5E5"> but I think it's gonna be</font><font color="#CCCCCC"> very</font>
+
+109
+00:03:53,940 --> 00:03:55,530
+difficult<font color="#CCCCCC"> I mean it's gonna be a</font>
+
+110
+00:03:55,530 --> 00:03:57,450
+<font color="#E5E5E5">conservative institution for decades to</font>
+
+111
+00:03:57,450 --> 00:03:59,220
+come<font color="#E5E5E5"> as we know I believe</font><font color="#CCCCCC"> Cavanaugh only</font>
+
+112
+00:03:59,220 --> 00:04:01,350
+53 years old he<font color="#E5E5E5"> could feasibly sit on</font>
+
+113
+00:04:01,350 --> 00:04:03,299
+the Supreme<font color="#CCCCCC"> Court for the next 40 years</font>
+
+114
+00:04:03,299 --> 00:04:05,940
+<font color="#E5E5E5">or</font><font color="#CCCCCC"> so if you wanted to yeah Jim VandeHei</font>
+
+115
+00:04:05,940 --> 00:04:07,440
+<font color="#E5E5E5">thank you so much we're gonna be reading</font>
+
+116
+00:04:07,440 --> 00:04:09,000
+<font color="#CCCCCC">Axios</font><font color="#E5E5E5"> a.m. in just a</font><font color="#CCCCCC"> little</font><font color="#E5E5E5"> bit and to</font>
+
+117
+00:04:09,000 --> 00:04:11,130
+all our<font color="#CCCCCC"> viewers</font><font color="#E5E5E5"> out there you too can</font>
+
+118
+00:04:11,130 --> 00:04:12,570
+sign<font color="#CCCCCC"> up for the newsletter Act to sign</font>
+
+119
+00:04:12,570 --> 00:04:15,660
+up Axios<font color="#CCCCCC"> com that does it for us on this</font>
+
+120
+00:04:15,660 --> 00:04:16,560
+Tuesday morning
+
+121
+00:04:16,560 --> 00:04:18,000
+hey there I'm<font color="#E5E5E5"> Chris Hayes from MSNBC</font>
+
+122
+00:04:18,000 --> 00:04:20,579
+thanks for watching MSNBC<font color="#CCCCCC"> on YouTube if</font>
+
+123
+00:04:20,579 --> 00:04:21,720
+you<font color="#CCCCCC"> want to</font><font color="#E5E5E5"> keep up</font><font color="#CCCCCC"> to date</font><font color="#E5E5E5"> with the</font>
+
+124
+00:04:21,720 --> 00:04:22,979
+videos we're putting out you can<font color="#E5E5E5"> click</font>
+
+125
+00:04:22,979 --> 00:04:25,229
+<font color="#CCCCCC">subscribe just</font><font color="#E5E5E5"> below me or click over on</font>
+
+126
+00:04:25,229 --> 00:04:25,940
+<font color="#E5E5E5">this list</font>
+
+127
+00:04:25,940 --> 00:00:00,000
+lots of other<font color="#E5E5E5"> great</font><font color="#CCCCCC"> videos</font>
+

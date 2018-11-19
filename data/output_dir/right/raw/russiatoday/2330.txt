@@ -1,0 +1,976 @@
+1
+00:00:00,000 --> 00:00:01,170
+the<font color="#CCCCCC"> United States government</font><font color="#E5E5E5"> may be</font>
+
+2
+00:00:01,170 --> 00:00:03,240
+granted<font color="#CCCCCC"> the opportunity to access</font><font color="#E5E5E5"> data</font>
+
+3
+00:00:03,240 --> 00:00:05,190
+that's stored in other<font color="#E5E5E5"> countries a case</font>
+
+4
+00:00:05,190 --> 00:00:07,170
+between<font color="#E5E5E5"> the government and Microsoft is</font>
+
+5
+00:00:07,170 --> 00:00:09,059
+currently being heard by the US<font color="#E5E5E5"> Supreme</font>
+
+6
+00:00:09,059 --> 00:00:11,580
+<font color="#CCCCCC">Court</font><font color="#E5E5E5"> now this all started five</font><font color="#CCCCCC"> years</font>
+
+7
+00:00:11,580 --> 00:00:13,830
+<font color="#E5E5E5">ago when Microsoft refused to hand over</font>
+
+8
+00:00:13,830 --> 00:00:16,560
+to<font color="#E5E5E5"> authorities</font><font color="#CCCCCC"> emails</font><font color="#E5E5E5"> that related to</font><font color="#CCCCCC"> a</font>
+
+9
+00:00:16,560 --> 00:00:18,660
+drug trafficking<font color="#E5E5E5"> investigation he claims</font>
+
+10
+00:00:18,660 --> 00:00:20,640
+that the data was<font color="#E5E5E5"> stored on servers that</font>
+
+11
+00:00:20,640 --> 00:00:22,680
+<font color="#E5E5E5">are physically located in Ireland and US</font>
+
+12
+00:00:22,680 --> 00:00:24,720
+<font color="#CCCCCC">law</font><font color="#E5E5E5"> does not stretch</font><font color="#CCCCCC"> outside its own</font>
+
+13
+00:00:24,720 --> 00:00:27,480
+borders<font color="#E5E5E5"> but Washington argues as the</font>
+
+14
+00:00:27,480 --> 00:00:29,910
+tech giant is an American company<font color="#CCCCCC"> it</font>
+
+15
+00:00:29,910 --> 00:00:32,729
+should provide the data<font color="#E5E5E5"> Microsoft says</font>
+
+16
+00:00:32,729 --> 00:00:34,770
+that if it loses foreign<font color="#CCCCCC"> states</font><font color="#E5E5E5"> would</font>
+
+17
+00:00:34,770 --> 00:00:36,600
+then have the<font color="#CCCCCC"> right</font><font color="#E5E5E5"> to access data</font>
+
+18
+00:00:36,600 --> 00:00:38,579
+that's based in<font color="#E5E5E5"> the US the tech giant</font>
+
+19
+00:00:38,579 --> 00:00:40,500
+claims the<font color="#CCCCCC"> credibility of all our IT</font>
+
+20
+00:00:40,500 --> 00:00:43,890
+companies is at stake<font color="#E5E5E5"> the reality is</font>
+
+21
+00:00:43,890 --> 00:00:46,770
+that<font color="#CCCCCC"> people</font><font color="#E5E5E5"> will not</font><font color="#CCCCCC"> use technology</font><font color="#E5E5E5"> they</font>
+
+22
+00:00:46,770 --> 00:00:49,289
+do not trust we need<font color="#CCCCCC"> to sustain their</font>
+
+23
+00:00:49,289 --> 00:00:51,239
+trust<font color="#E5E5E5"> and part of sustaining their trust</font>
+
+24
+00:00:51,239 --> 00:00:53,489
+<font color="#E5E5E5">is giving people confidence</font><font color="#CCCCCC"> that their</font>
+
+25
+00:00:53,489 --> 00:00:55,739
+legal<font color="#E5E5E5"> rights under their legal systems</font>
+
+26
+00:00:55,739 --> 00:00:58,140
+will in fact be respected including by
+
+27
+00:00:58,140 --> 00:01:02,070
+<font color="#E5E5E5">the United States okay let's discuss</font>
+
+28
+00:01:02,070 --> 00:01:03,510
+<font color="#E5E5E5">this in more detail now I'm joined on</font>
+
+29
+00:01:03,510 --> 00:01:05,129
+<font color="#E5E5E5">the line by a political activist George</font>
+
+30
+00:01:05,129 --> 00:01:08,640
+<font color="#CCCCCC">bada</font><font color="#E5E5E5"> and Paul violist CEO at</font><font color="#CCCCCC"> Via</font><font color="#E5E5E5"> violist</font>
+
+31
+00:01:08,640 --> 00:01:10,619
+<font color="#CCCCCC">group International</font><font color="#E5E5E5"> to first of our mate</font>
+
+32
+00:01:10,619 --> 00:01:13,110
+Paul what should we be worried about
+
+33
+00:01:13,110 --> 00:01:14,970
+<font color="#E5E5E5">here if Microsoft loses the case what</font>
+
+34
+00:01:14,970 --> 00:01:21,270
+are<font color="#E5E5E5"> the</font><font color="#CCCCCC"> implications well you know the</font>
+
+35
+00:01:21,270 --> 00:01:23,729
+issue that Microsoft is pounding on is
+
+36
+00:01:23,729 --> 00:01:25,740
+this<font color="#CCCCCC"> you know cut it this alleged</font>
+
+37
+00:01:25,740 --> 00:01:27,420
+<font color="#CCCCCC">constitutional right to privacy in the</font>
+
+38
+00:01:27,420 --> 00:01:28,680
+United States<font color="#CCCCCC"> Nealon that's that's the</font>
+
+39
+00:01:28,680 --> 00:01:30,420
+one<font color="#E5E5E5"> thing that people keep keep</font><font color="#CCCCCC"> going</font>
+
+40
+00:01:30,420 --> 00:01:32,159
+back and<font color="#CCCCCC"> forth on is the right</font><font color="#E5E5E5"> to</font>
+
+41
+00:01:32,159 --> 00:01:34,759
+privacy the<font color="#CCCCCC"> right to privacy I</font>
+
+42
+00:01:34,759 --> 00:01:36,689
+<font color="#E5E5E5">personally and and the way that we</font>
+
+43
+00:01:36,689 --> 00:01:38,189
+really<font color="#E5E5E5"> need to be</font><font color="#CCCCCC"> looking is this is we</font>
+
+44
+00:01:38,189 --> 00:01:39,840
+need<font color="#E5E5E5"> to find a balance</font><font color="#CCCCCC"> and the balance</font>
+
+45
+00:01:39,840 --> 00:01:42,170
+needs<font color="#CCCCCC"> to be between privacy and</font>
+
+46
+00:01:42,170 --> 00:01:43,979
+<font color="#E5E5E5">communicating in a manner in which</font>
+
+47
+00:01:43,979 --> 00:01:47,189
+<font color="#CCCCCC">people feel</font><font color="#E5E5E5"> you know is is unfettered</font>
+
+48
+00:01:47,189 --> 00:01:50,490
+<font color="#E5E5E5">and then looking at the</font><font color="#CCCCCC"> right of or the</font>
+
+49
+00:01:50,490 --> 00:01:52,740
+<font color="#E5E5E5">responsibility</font><font color="#CCCCCC"> of government to protect</font>
+
+50
+00:01:52,740 --> 00:01:54,329
+against groups such as Isis that<font color="#E5E5E5"> are</font>
+
+51
+00:01:54,329 --> 00:01:57,030
+using medium<font color="#E5E5E5"> slits such as that to</font><font color="#CCCCCC"> plan</font>
+
+52
+00:01:57,030 --> 00:01:59,610
+direct train<font color="#CCCCCC"> terrorist</font><font color="#E5E5E5"> attacks so there</font>
+
+53
+00:01:59,610 --> 00:02:01,740
+has to be<font color="#CCCCCC"> a balance between the two</font><font color="#E5E5E5"> okay</font>
+
+54
+00:02:01,740 --> 00:02:03,479
+George I mean it's an obvious argument
+
+55
+00:02:03,479 --> 00:02:04,829
+many people will make if you've got
+
+56
+00:02:04,829 --> 00:02:06,930
+nothing<font color="#CCCCCC"> to hide what's the concern but</font>
+
+57
+00:02:06,930 --> 00:02:08,429
+there will<font color="#CCCCCC"> be an argument and</font><font color="#E5E5E5"> I'm sure</font>
+
+58
+00:02:08,429 --> 00:02:13,110
+you'll give<font color="#CCCCCC"> it to us and</font><font color="#E5E5E5"> I think the key</font>
+
+59
+00:02:13,110 --> 00:02:13,630
+issue
+
+60
+00:02:13,630 --> 00:02:16,360
+speaking from from Europe is<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you</font>
+
+61
+00:02:16,360 --> 00:02:18,070
+know and many other<font color="#E5E5E5"> places that there</font>
+
+62
+00:02:18,070 --> 00:02:20,890
+have been<font color="#E5E5E5"> extended struggles over</font><font color="#CCCCCC"> there</font>
+
+63
+00:02:20,890 --> 00:02:23,560
+very<font color="#CCCCCC"> sort of vexed and and</font><font color="#E5E5E5"> I think what</font>
+
+64
+00:02:23,560 --> 00:02:24,670
+will be an increasingly important
+
+65
+00:02:24,670 --> 00:02:27,070
+question of privacy on the<font color="#CCCCCC"> Internet and</font>
+
+66
+00:02:27,070 --> 00:02:29,470
+what the<font color="#E5E5E5"> the</font><font color="#CCCCCC"> judgment if it goes with</font>
+
+67
+00:02:29,470 --> 00:02:31,000
+the Justice<font color="#E5E5E5"> Department would mean is</font>
+
+68
+00:02:31,000 --> 00:02:34,060
+that<font color="#E5E5E5"> the result of those struggles in</font>
+
+69
+00:02:34,060 --> 00:02:35,950
+terms of domestic legal frameworks that
+
+70
+00:02:35,950 --> 00:02:37,780
+<font color="#E5E5E5">are designed to protect online users</font>
+
+71
+00:02:37,780 --> 00:02:39,880
+privacy<font color="#E5E5E5"> will then essentially just be</font>
+
+72
+00:02:39,880 --> 00:02:42,180
+ridden roughshod over by the<font color="#CCCCCC"> judgement</font>
+
+73
+00:02:42,180 --> 00:02:46,300
+now it's<font color="#CCCCCC"> there's a piece of legislation</font>
+
+74
+00:02:46,300 --> 00:02:47,920
+<font color="#E5E5E5">coming into the Congress potentially</font>
+
+75
+00:02:47,920 --> 00:02:49,630
+called the<font color="#E5E5E5"> cloud</font><font color="#CCCCCC"> act which might make</font>
+
+76
+00:02:49,630 --> 00:02:51,640
+all of this moot and it may be that
+
+77
+00:02:51,640 --> 00:02:54,100
+<font color="#CCCCCC">Congress decides in passing</font><font color="#E5E5E5"> that law and</font>
+
+78
+00:02:54,100 --> 00:02:56,650
+that that that's<font color="#E5E5E5"> okay and that the</font>
+
+79
+00:02:56,650 --> 00:02:58,240
+government can do that anyway<font color="#E5E5E5"> but</font>
+
+80
+00:02:58,240 --> 00:02:59,380
+certainly speaking<font color="#E5E5E5"> from a sort of</font>
+
+81
+00:02:59,380 --> 00:03:01,540
+<font color="#CCCCCC">international point</font><font color="#E5E5E5"> of view to have a</font>
+
+82
+00:03:01,540 --> 00:03:03,430
+court decision<font color="#CCCCCC"> that makes a mockery of</font>
+
+83
+00:03:03,430 --> 00:03:05,620
+you know years long struggles to protect
+
+84
+00:03:05,620 --> 00:03:09,910
+<font color="#CCCCCC">Internet privacy</font><font color="#E5E5E5"> is a major problem is</font>
+
+85
+00:03:09,910 --> 00:03:11,320
+<font color="#E5E5E5">that something that the</font><font color="#CCCCCC"> georgeous</font>
+
+86
+00:03:11,320 --> 00:03:12,520
+mentioned<font color="#CCCCCC"> they're</font><font color="#E5E5E5"> poor perhaps the</font>
+
+87
+00:03:12,520 --> 00:03:14,170
+biggest<font color="#E5E5E5"> problem that legislation is just</font>
+
+88
+00:03:14,170 --> 00:03:16,330
+so old<font color="#E5E5E5"> it doesn't it hasn't caught</font><font color="#CCCCCC"> up</font>
+
+89
+00:03:16,330 --> 00:03:18,490
+<font color="#E5E5E5">with the internet and with the cloud and</font>
+
+90
+00:03:18,490 --> 00:03:25,240
+<font color="#CCCCCC">that this needs a legal update I believe</font>
+
+91
+00:03:25,240 --> 00:03:26,710
+that<font color="#E5E5E5"> George</font><font color="#CCCCCC"> is completely on point</font>
+
+92
+00:03:26,710 --> 00:03:29,860
+<font color="#CCCCCC">without questioning</font><font color="#E5E5E5"> and no one that's</font>
+
+93
+00:03:29,860 --> 00:03:31,300
+going<font color="#E5E5E5"> to look at this prudently is going</font>
+
+94
+00:03:31,300 --> 00:03:32,740
+to say that that<font color="#CCCCCC"> government should have</font>
+
+95
+00:03:32,740 --> 00:03:35,350
+<font color="#E5E5E5">unfettered access to to the Internet and</font>
+
+96
+00:03:35,350 --> 00:03:37,540
+as well<font color="#E5E5E5"> you know we know we must</font>
+
+97
+00:03:37,540 --> 00:03:39,040
+safeguard our right to be able<font color="#E5E5E5"> to</font>
+
+98
+00:03:39,040 --> 00:03:41,590
+<font color="#CCCCCC">communicate over the</font><font color="#E5E5E5"> Internet</font><font color="#CCCCCC"> with a</font>
+
+99
+00:03:41,590 --> 00:03:43,300
+certain degree<font color="#E5E5E5"> of privacy and what's</font>
+
+100
+00:03:43,300 --> 00:03:45,340
+significant<font color="#E5E5E5"> privacy</font><font color="#CCCCCC"> even goes so far</font><font color="#E5E5E5"> as</font>
+
+101
+00:03:45,340 --> 00:03:47,820
+to say but the<font color="#E5E5E5"> fact remains that</font>
+
+102
+00:03:47,820 --> 00:03:50,650
+government<font color="#E5E5E5"> needs to</font><font color="#CCCCCC"> take a stronger role</font>
+
+103
+00:03:50,650 --> 00:03:53,200
+in monitoring certain activity on the
+
+104
+00:03:53,200 --> 00:03:55,510
+<font color="#CCCCCC">Internet and</font><font color="#E5E5E5"> in social</font><font color="#CCCCCC"> media if</font><font color="#E5E5E5"> we are</font>
+
+105
+00:03:55,510 --> 00:03:59,020
+<font color="#E5E5E5">going to try try to stay in line and</font>
+
+106
+00:03:59,020 --> 00:04:01,570
+somewhat ahead<font color="#E5E5E5"> if we can with groups</font>
+
+107
+00:04:01,570 --> 00:04:04,480
+<font color="#E5E5E5">such as Isis al-shabaab Boko Haram that</font>
+
+108
+00:04:04,480 --> 00:04:06,520
+are using the<font color="#CCCCCC"> Internet and that are</font>
+
+109
+00:04:06,520 --> 00:04:09,270
+using social<font color="#CCCCCC"> media as a high way of</font>
+
+110
+00:04:09,270 --> 00:04:12,130
+transporting information<font color="#E5E5E5"> to plan and</font>
+
+111
+00:04:12,130 --> 00:04:13,630
+execute terrorist attacks so it's a
+
+112
+00:04:13,630 --> 00:04:16,450
+matter of creating a balance<font color="#CCCCCC"> between</font><font color="#E5E5E5"> as</font>
+
+113
+00:04:16,450 --> 00:04:19,540
+George<font color="#E5E5E5"> said that</font><font color="#CCCCCC"> internet privacy and</font>
+
+114
+00:04:19,540 --> 00:04:22,180
+the ability to communicate<font color="#E5E5E5"> as</font><font color="#CCCCCC"> well as</font>
+
+115
+00:04:22,180 --> 00:04:24,700
+the government's right<font color="#CCCCCC"> to be able to</font>
+
+116
+00:04:24,700 --> 00:04:27,370
+monitor preemptively<font color="#CCCCCC"> to protect</font>
+
+117
+00:04:27,370 --> 00:04:29,800
+society in general<font color="#CCCCCC"> George what about</font>
+
+118
+00:04:29,800 --> 00:04:31,120
+that argument<font color="#CCCCCC"> because you</font><font color="#E5E5E5"> know some</font>
+
+119
+00:04:31,120 --> 00:04:33,100
+people<font color="#CCCCCC"> might argue</font><font color="#E5E5E5"> that terrorists are</font>
+
+120
+00:04:33,100 --> 00:04:34,630
+winning that<font color="#CCCCCC"> battle when it comes to</font>
+
+121
+00:04:34,630 --> 00:04:36,669
+organizing attacks in in major cities
+
+122
+00:04:36,669 --> 00:04:38,710
+very hard to stop<font color="#E5E5E5"> them doing so wouldn't</font>
+
+123
+00:04:38,710 --> 00:04:41,169
+this be a very useful weapon<font color="#E5E5E5"> for the</font>
+
+124
+00:04:41,169 --> 00:04:46,110
+Laura Thoren Durst<font color="#E5E5E5"> and it that there are</font>
+
+125
+00:04:46,110 --> 00:04:48,820
+there<font color="#CCCCCC"> are farm</font><font color="#E5E5E5"> there are many sort</font><font color="#CCCCCC"> of</font>
+
+126
+00:04:48,820 --> 00:04:50,440
+covert means of communicating
+
+127
+00:04:50,440 --> 00:04:52,720
+effectively<font color="#E5E5E5"> online if you want to that</font>
+
+128
+00:04:52,720 --> 00:04:55,180
+<font color="#E5E5E5">wouldn't be touched by this judgment in</font>
+
+129
+00:04:55,180 --> 00:04:57,300
+the particular case that<font color="#E5E5E5"> that's at issue</font>
+
+130
+00:04:57,300 --> 00:04:59,770
+<font color="#E5E5E5">the Irish government has been very clear</font>
+
+131
+00:04:59,770 --> 00:05:02,169
+that<font color="#CCCCCC"> it would had it had there</font><font color="#E5E5E5"> been a</font>
+
+132
+00:05:02,169 --> 00:05:03,669
+request<font color="#CCCCCC"> from the Justice Department for</font>
+
+133
+00:05:03,669 --> 00:05:05,260
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> information</font><font color="#E5E5E5"> that is stored</font><font color="#CCCCCC"> on these</font>
+
+134
+00:05:05,260 --> 00:05:07,450
+<font color="#E5E5E5">servers in Ireland they would</font><font color="#CCCCCC"> absolutely</font>
+
+135
+00:05:07,450 --> 00:05:09,669
+have<font color="#E5E5E5"> responded</font><font color="#CCCCCC"> by releasing</font><font color="#E5E5E5"> that by</font>
+
+136
+00:05:09,669 --> 00:05:12,610
+releasing<font color="#E5E5E5"> that data and I mean the UK</font>
+
+137
+00:05:12,610 --> 00:05:15,280
+<font color="#E5E5E5">for instance has</font><font color="#CCCCCC"> recently signed</font><font color="#E5E5E5"> what's</font>
+
+138
+00:05:15,280 --> 00:05:17,440
+called an<font color="#CCCCCC"> M</font><font color="#E5E5E5"> Latin mutual legal</font>
+
+139
+00:05:17,440 --> 00:05:19,780
+assistance treaty<font color="#E5E5E5"> so that your</font>
+
+140
+00:05:19,780 --> 00:05:21,760
+authorities in the UK<font color="#E5E5E5"> and the</font><font color="#CCCCCC"> US can</font>
+
+141
+00:05:21,760 --> 00:05:23,919
+coordinate<font color="#E5E5E5"> on these matters but I think</font>
+
+142
+00:05:23,919 --> 00:05:26,139
+it's you know<font color="#E5E5E5"> in in a world where you</font>
+
+143
+00:05:26,139 --> 00:05:27,550
+know yes<font color="#CCCCCC"> we you know it's arguably</font>
+
+144
+00:05:27,550 --> 00:05:29,650
+<font color="#E5E5E5">multipolar world with a</font><font color="#CCCCCC"> paralyzing power</font>
+
+145
+00:05:29,650 --> 00:05:31,690
+<font color="#E5E5E5">of China</font><font color="#CCCCCC"> etc but</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> u.s. is</font><font color="#E5E5E5"> effectively</font>
+
+146
+00:05:31,690 --> 00:05:34,660
+still<font color="#CCCCCC"> a kind of imperial power</font><font color="#E5E5E5"> and and</font>
+
+147
+00:05:34,660 --> 00:05:37,120
+given that<font color="#E5E5E5"> people across the</font><font color="#CCCCCC"> world are</font>
+
+148
+00:05:37,120 --> 00:05:40,570
+<font color="#E5E5E5">using social media most of you know</font><font color="#CCCCCC"> most</font>
+
+149
+00:05:40,570 --> 00:05:42,160
+<font color="#E5E5E5">of the major companies for which are</font>
+
+150
+00:05:42,160 --> 00:05:45,250
+based in<font color="#E5E5E5"> the</font><font color="#CCCCCC"> US judgements like this if</font>
+
+151
+00:05:45,250 --> 00:05:46,510
+it goes the<font color="#E5E5E5"> wrong way would essentially</font>
+
+152
+00:05:46,510 --> 00:05:48,700
+mean<font color="#CCCCCC"> that anybody using a u.s. social</font>
+
+153
+00:05:48,700 --> 00:05:50,410
+media account can essentially<font color="#E5E5E5"> just</font><font color="#CCCCCC"> have</font>
+
+154
+00:05:50,410 --> 00:05:52,810
+all their data immediately accessed by
+
+155
+00:05:52,810 --> 00:05:54,729
+the US Justice<font color="#CCCCCC"> Department</font><font color="#E5E5E5"> and as we know</font>
+
+156
+00:05:54,729 --> 00:05:56,110
+from the<font color="#E5E5E5"> revelations of Edward Snowden</font>
+
+157
+00:05:56,110 --> 00:05:59,740
+<font color="#E5E5E5">and others there are huge questions to</font>
+
+158
+00:05:59,740 --> 00:06:01,660
+be asked in terms<font color="#CCCCCC"> of the</font><font color="#E5E5E5"> legitimacy and</font>
+
+159
+00:06:01,660 --> 00:06:05,080
+and of of<font color="#CCCCCC"> US snooping and the interests</font>
+
+160
+00:06:05,080 --> 00:06:06,760
+that<font color="#CCCCCC"> are being</font><font color="#E5E5E5"> served and certainly as a</font>
+
+161
+00:06:06,760 --> 00:06:08,620
+political activist that<font color="#E5E5E5"> has you know</font>
+
+162
+00:06:08,620 --> 00:06:11,080
+genuine<font color="#E5E5E5"> cause to fear governments</font>
+
+163
+00:06:11,080 --> 00:06:13,840
+essentially using<font color="#E5E5E5"> internet spying to</font>
+
+164
+00:06:13,840 --> 00:06:16,150
+undermine effective democratic dissent<font color="#CCCCCC"> I</font>
+
+165
+00:06:16,150 --> 00:06:17,590
+think this is a really important<font color="#E5E5E5"> issue</font>
+
+166
+00:06:17,590 --> 00:06:20,320
+that that<font color="#CCCCCC"> needs to be</font><font color="#E5E5E5"> kept at</font><font color="#CCCCCC"> the</font>
+
+167
+00:06:20,320 --> 00:06:24,460
+forefront<font color="#E5E5E5"> of the discussion if I'm a</font>
+
+168
+00:06:24,460 --> 00:06:25,780
+George because<font color="#E5E5E5"> I</font><font color="#CCCCCC"> think is a really</font><font color="#E5E5E5"> good</font>
+
+169
+00:06:25,780 --> 00:06:28,960
+<font color="#E5E5E5">point you've made Paul isn't</font><font color="#CCCCCC"> Big Brother</font>
+
+170
+00:06:28,960 --> 00:06:30,669
+here<font color="#CCCCCC"> and it's if</font><font color="#E5E5E5"> it's if it goes their</font>
+
+171
+00:06:30,669 --> 00:06:32,470
+<font color="#CCCCCC">way this</font><font color="#E5E5E5"> would be the US government will</font>
+
+172
+00:06:32,470 --> 00:06:33,250
+be<font color="#CCCCCC"> Big Brother</font>
+
+173
+00:06:33,250 --> 00:06:35,050
+you've got Microsoft make computers they
+
+174
+00:06:35,050 --> 00:06:36,729
+make phones that make tablets all the
+
+175
+00:06:36,729 --> 00:06:39,159
+other big<font color="#E5E5E5"> US social media giants they'll</font>
+
+176
+00:06:39,159 --> 00:06:40,870
+be able<font color="#E5E5E5"> to just pick and choose</font><font color="#CCCCCC"> which</font>
+
+177
+00:06:40,870 --> 00:06:42,100
+<font color="#E5E5E5">have anybody</font><font color="#CCCCCC"> in the world's information</font>
+
+178
+00:06:42,100 --> 00:06:44,260
+<font color="#CCCCCC">they want to delve</font><font color="#E5E5E5"> into and go through</font>
+
+179
+00:06:44,260 --> 00:06:46,390
+anyone's sordid details and secrets<font color="#CCCCCC"> that</font>
+
+180
+00:06:46,390 --> 00:06:47,980
+they thought were private<font color="#E5E5E5"> they thought</font>
+
+181
+00:06:47,980 --> 00:06:49,840
+was secretly hidden<font color="#E5E5E5"> in a in a cloud</font>
+
+182
+00:06:49,840 --> 00:06:53,820
+that's actually not<font color="#E5E5E5"> a cloud at all</font>
+
+183
+00:06:55,920 --> 00:06:58,930
+<font color="#CCCCCC">George</font><font color="#E5E5E5"> raises a legitimate concern and</font>
+
+184
+00:06:58,930 --> 00:07:00,880
+no<font color="#E5E5E5"> matter</font><font color="#CCCCCC"> what side of the argument that</font>
+
+185
+00:07:00,880 --> 00:07:02,860
+<font color="#E5E5E5">you are on with this that's a legitimate</font>
+
+186
+00:07:02,860 --> 00:07:04,990
+concern<font color="#CCCCCC"> and whenever you empower</font>
+
+187
+00:07:04,990 --> 00:07:07,240
+government to the extent that they<font color="#CCCCCC"> have</font>
+
+188
+00:07:07,240 --> 00:07:09,220
+the ability<font color="#E5E5E5"> they meaning any government</font>
+
+189
+00:07:09,220 --> 00:07:10,150
+in this<font color="#E5E5E5"> case we're talking about the</font>
+
+190
+00:07:10,150 --> 00:07:11,530
+United<font color="#CCCCCC"> States</font><font color="#E5E5E5"> govern we can talk</font><font color="#CCCCCC"> about</font>
+
+191
+00:07:11,530 --> 00:07:14,020
+anybody<font color="#E5E5E5"> because all governments as</font>
+
+192
+00:07:14,020 --> 00:07:16,240
+<font color="#CCCCCC">Georgia's all</font><font color="#E5E5E5"> government snoop it's just</font>
+
+193
+00:07:16,240 --> 00:07:17,680
+we've been<font color="#E5E5E5"> doing it for hundreds of</font>
+
+194
+00:07:17,680 --> 00:07:20,410
+<font color="#E5E5E5">years but it's important to understand</font>
+
+195
+00:07:20,410 --> 00:07:22,780
+that what we're<font color="#CCCCCC"> looking to do with this</font>
+
+196
+00:07:22,780 --> 00:07:25,570
+<font color="#E5E5E5">is not to have complete unfettered as I</font>
+
+197
+00:07:25,570 --> 00:07:28,330
+said before<font color="#E5E5E5"> access</font><font color="#CCCCCC"> to the</font><font color="#E5E5E5"> Internet</font><font color="#CCCCCC"> but</font>
+
+198
+00:07:28,330 --> 00:07:30,760
+enough<font color="#E5E5E5"> access so</font><font color="#CCCCCC"> that there are keywords</font>
+
+199
+00:07:30,760 --> 00:07:34,000
+<font color="#E5E5E5">phrases documents pictures</font><font color="#CCCCCC"> etc</font><font color="#E5E5E5"> that will</font>
+
+200
+00:07:34,000 --> 00:07:37,390
+be used for algorithmically<font color="#E5E5E5"> to detect</font>
+
+201
+00:07:37,390 --> 00:07:40,570
+issues<font color="#E5E5E5"> and incidences preemptively that</font>
+
+202
+00:07:40,570 --> 00:07:42,070
+law enforcement<font color="#CCCCCC"> that military that</font>
+
+203
+00:07:42,070 --> 00:07:43,990
+government can<font color="#CCCCCC"> intervene on</font><font color="#E5E5E5"> it's not a</font>
+
+204
+00:07:43,990 --> 00:07:47,080
+<font color="#CCCCCC">cart launch decision to say ok</font><font color="#E5E5E5"> now you</font>
+
+205
+00:07:47,080 --> 00:07:49,540
+<font color="#E5E5E5">have complete</font><font color="#CCCCCC"> access to to the</font><font color="#E5E5E5"> Internet</font>
+
+206
+00:07:49,540 --> 00:07:51,820
+<font color="#CCCCCC">to social media but to give them</font><font color="#E5E5E5"> access</font>
+
+207
+00:07:51,820 --> 00:07:54,580
+<font color="#E5E5E5">so</font><font color="#CCCCCC"> that they can on a regular basis if</font>
+
+208
+00:07:54,580 --> 00:07:56,260
+certain<font color="#CCCCCC"> things come up if certain things</font>
+
+209
+00:07:56,260 --> 00:07:57,820
+are said if<font color="#E5E5E5"> certain things are</font>
+
+210
+00:07:57,820 --> 00:07:59,770
+communicated<font color="#CCCCCC"> pictures presented</font><font color="#E5E5E5"> where</font>
+
+211
+00:07:59,770 --> 00:08:03,810
+they can<font color="#E5E5E5"> intervene at that point in look</font>
+
+212
+00:08:03,810 --> 00:08:06,010
+search warrants<font color="#CCCCCC"> and going</font><font color="#E5E5E5"> to the court</font>
+
+213
+00:08:06,010 --> 00:08:07,690
+<font color="#E5E5E5">in getting</font><font color="#CCCCCC"> permission</font><font color="#E5E5E5"> do it</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> just want</font>
+
+214
+00:08:07,690 --> 00:08:08,770
+to come back<font color="#E5E5E5"> to George George you've got</font>
+
+215
+00:08:08,770 --> 00:08:10,090
+just<font color="#E5E5E5"> under</font><font color="#CCCCCC"> one minute and</font><font color="#E5E5E5"> I just want to</font>
+
+216
+00:08:10,090 --> 00:08:12,100
+<font color="#CCCCCC">put that to you so if we're leaving it</font>
+
+217
+00:08:12,100 --> 00:08:14,950
+to<font color="#CCCCCC"> the discretion of big Internet</font>
+
+218
+00:08:14,950 --> 00:08:17,440
+companies<font color="#CCCCCC"> and the US government both of</font>
+
+219
+00:08:17,440 --> 00:08:19,210
+whom let's be honest have<font color="#CCCCCC"> letters</font><font color="#E5E5E5"> down</font>
+
+220
+00:08:19,210 --> 00:08:21,610
+when it comes to privacy and<font color="#E5E5E5"> telling the</font>
+
+221
+00:08:21,610 --> 00:08:24,720
+truth in the past can we trust them<font color="#E5E5E5"> I</font>
+
+222
+00:08:24,720 --> 00:08:28,600
+mean<font color="#E5E5E5"> I think that my fellow debaters is</font>
+
+223
+00:08:28,600 --> 00:08:31,330
+raising generally significant points
+
+224
+00:08:31,330 --> 00:08:34,179
+about when it's appropriate<font color="#CCCCCC"> for for law</font>
+
+225
+00:08:34,179 --> 00:08:35,950
+enforcement to<font color="#CCCCCC"> be able</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> access</font>
+
+226
+00:08:35,950 --> 00:08:38,289
+<font color="#E5E5E5">information but I</font><font color="#CCCCCC"> think there there are</font>
+
+227
+00:08:38,289 --> 00:08:40,659
+there<font color="#CCCCCC"> are very large questions going</font>
+
+228
+00:08:40,659 --> 00:08:43,210
+<font color="#E5E5E5">forward in that the</font><font color="#CCCCCC"> internet offers</font>
+
+229
+00:08:43,210 --> 00:08:45,850
+possibilities<font color="#E5E5E5"> for snooping on virtually</font>
+
+230
+00:08:45,850 --> 00:08:47,620
+every single<font color="#E5E5E5"> aspect of anybody's</font>
+
+231
+00:08:47,620 --> 00:08:49,780
+interaction with any other individual on
+
+232
+00:08:49,780 --> 00:08:50,570
+the planet
+
+233
+00:08:50,570 --> 00:08:52,700
+and<font color="#E5E5E5"> and any decision</font><font color="#CCCCCC"> that essentially</font>
+
+234
+00:08:52,700 --> 00:08:55,490
+opens the floodgates<font color="#E5E5E5"> into a sort of</font>
+
+235
+00:08:55,490 --> 00:08:57,860
+free-for-all where<font color="#E5E5E5"> governments on the</font>
+
+236
+00:08:57,860 --> 00:08:59,480
+basis of the idea<font color="#CCCCCC"> that they're doing</font>
+
+237
+00:08:59,480 --> 00:09:00,800
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> worth well can look at</font>
+
+238
+00:09:00,800 --> 00:09:02,360
+anything they want I think<font color="#CCCCCC"> raised</font>
+
+239
+00:09:02,360 --> 00:09:03,890
+apologize George<font color="#E5E5E5"> you're gonna have to</font>
+
+240
+00:09:03,890 --> 00:09:05,420
+wrap you up there I'm<font color="#CCCCCC"> afraid we're out</font>
+
+241
+00:09:05,420 --> 00:09:07,730
+of time I wish we could go on<font color="#E5E5E5"> longer</font><font color="#CCCCCC"> but</font>
+
+242
+00:09:07,730 --> 00:09:09,350
+apologies political activist<font color="#E5E5E5"> George</font>
+
+243
+00:09:09,350 --> 00:09:11,600
+Bardo<font color="#CCCCCC"> Paul viola CEO violas</font><font color="#E5E5E5"> group</font>
+
+244
+00:09:11,600 --> 00:00:00,000
+<font color="#E5E5E5">international many thanks guys</font>
+

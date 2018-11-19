@@ -1,0 +1,239 @@
+1
+00:00:01,500 --> 00:00:04,480
+The virtual yellow line in NFL broadcasts
+is great.
+
+2
+00:00:04,480 --> 00:00:08,230
+It tells viewers how far the offense needs
+to advance for a first down.
+
+3
+00:00:08,230 --> 00:00:16,670
+It looks really simple and elegant but creating
+that line was a massive engineering challenge.
+
+4
+00:00:16,670 --> 00:00:22,670
+It started in the mid 90s when the Fox Sports
+network tried to make hockey easier to watch.
+
+5
+00:00:22,670 --> 00:00:27,199
+“Scientists at Fox Sports laboratories
+are working on new technology.”
+
+6
+00:00:27,199 --> 00:00:30,979
+"You won't believe your eyes."
+
+7
+00:00:30,980 --> 00:00:35,480
+They embedded infrared transmitters inside
+the puck and placed sensors around the rink,
+
+8
+00:00:35,480 --> 00:00:40,890
+So that live tv viewers saw a blue glow around
+the puck at all times and a red comet tail
+
+9
+00:00:40,890 --> 00:00:46,640
+if it traveled over 70 miles per hour.
+Hockey fans didn’t really embrace “glow
+
+10
+00:00:46,640 --> 00:00:50,890
+puck” as it came to be known.
+So the technology was retired when the broadcasting
+
+11
+00:00:50,890 --> 00:00:54,039
+rights for hockey switched to ABC a few years
+later.
+
+12
+00:00:54,039 --> 00:00:58,120
+But the team of engineers they had assembled
+for the project was just getting started.
+
+13
+00:00:58,120 --> 00:01:01,640
+They left Fox Sports to create a new company
+called SportVision.
+
+14
+00:01:01,640 --> 00:01:05,170
+and in 1998, they debuted the “First and
+Ten” line on ESPN.
+
+15
+00:01:05,170 --> 00:01:12,720
+“Until now, this marker was
+the only reference fans in the stadium and at home had
+
+16
+00:01:12,720 --> 00:01:15,360
+for the first down.”
+The key challenge in making the yellow line
+
+17
+00:01:15,360 --> 00:01:19,670
+is that the scene is constantly changing,
+which means the yellow line has to constantly
+
+18
+00:01:19,670 --> 00:01:22,520
+change.
+Not only are there 3 different cameras used
+
+19
+00:01:22,520 --> 00:01:27,900
+for the wide shots of the field, each camera
+pans, tilts and zooms to follow the action.
+
+20
+00:01:27,900 --> 00:01:32,799
+So the first thing Sportvision does before
+the game is create a 3D mathematical model
+
+21
+00:01:32,799 --> 00:01:36,070
+of each football field using laser surveying
+tools.
+
+22
+00:01:36,070 --> 00:01:41,259
+And during the game they gather data from
+the cameras about their pan, tilt, and zoom positions
+
+23
+00:01:41,259 --> 00:01:44,950
+for every single frame.
+So when the operator specifies that the first
+
+24
+00:01:44,950 --> 00:01:49,860
+down is at the 43rd yard line, for example,
+the computers combine the camera data with
+
+25
+00:01:49,860 --> 00:01:53,960
+their own model of the field to draw the yellow
+line in the proper perspective
+
+26
+00:01:53,960 --> 00:01:58,399
+..and to redraw it, for every frame being
+broadcast to viewers.
+
+27
+00:01:58,399 --> 00:02:03,619
+The final step is what makes the line kind of magical
+-- removing any part of the line obstructed
+
+28
+00:02:03,619 --> 00:02:07,950
+by players, refs or the ball so that the line
+looks like it’s underneath them, almost
+
+29
+00:02:07,950 --> 00:02:11,280
+painted on the field.
+The way the computers know which pixels to
+
+30
+00:02:11,280 --> 00:02:15,780
+remove is by sampling the colors - think of
+the field as a giant green screen.
+
+31
+00:02:15,780 --> 00:02:19,819
+But anyone who has worked with green or blue
+screens knows that you need a really uniform
+
+32
+00:02:19,819 --> 00:02:24,840
+and evenly lit background for it to work well.
+So Sportvision identifies in advance which
+
+33
+00:02:24,840 --> 00:02:29,370
+shades of green and brown are in the field
+given the lighting conditions -- those are
+
+34
+00:02:29,370 --> 00:02:33,129
+the colors to be covered by the yellow line.
+And they identify which colors are in the
+
+35
+00:02:33,129 --> 00:02:35,940
+players uniforms and should never be covered
+by yellow.
+
+36
+00:02:35,940 --> 00:02:41,590
+It works amazingly well. Here’s the Packers,
+wearing green, in the rain. No problem.
+
+37
+00:02:41,590 --> 00:02:46,340
+It only fails in the most extreme weather,
+like this 2013 game in Philly. The line ends
+
+38
+00:02:46,340 --> 00:02:50,430
+up all over players, but on the other hand
+the system was helpfully used to insert the
+
+39
+00:02:50,430 --> 00:02:53,730
+yardage numbers that had been covered up with
+snow.
+
+40
+00:02:53,730 --> 00:02:57,680
+The whole yellow line process delays the live
+broadcast by less than a second.
+
+41
+00:02:57,680 --> 00:03:02,590
+And not surprisingly, it was an immediate
+success. Sportvision won an Emmy for it,
+
+42
+00:03:02,590 --> 00:03:08,980
+and went on to make virtual visual aids for
+NASCAR, baseball, sailing and the Olympics.
+
+43
+00:03:08,980 --> 00:03:13,870
+And football broadcasts have since added more
+graphics, like the line of scrimmage and perhaps
+
+44
+00:03:13,870 --> 00:03:18,629
+unnecessary large arrows showing the same
+information that’s in the scorebox.
+
+45
+00:03:18,629 --> 00:03:23,390
+But if that’s annoying consider this:
+This type of technology is being used insert
+
+46
+00:03:23,390 --> 00:03:27,819
+ads into stadiums and onto fields for a lot
+of sports broadcasts.
+
+47
+00:03:27,819 --> 00:03:32,970
+But the NFL doesn’t allow it. In the grand
+tradition of the yellow line, the graphics
+
+48
+00:03:32,970 --> 00:00:00,000
+on the field are not there to sell you things,
+but to help you follow the game.
+

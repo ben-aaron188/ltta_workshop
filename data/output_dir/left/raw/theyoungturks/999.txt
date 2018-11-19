@@ -1,0 +1,728 @@
+1
+00:00:00,000 --> 00:00:02,730
+<font color="#E5E5E5">Axios</font><font color="#CCCCCC"> and SurveyMonkey which is always</font><font color="#E5E5E5"> a</font>
+
+2
+00:00:02,730 --> 00:00:06,620
+<font color="#E5E5E5">fun name had decided to look into how</font>
+
+3
+00:00:06,620 --> 00:00:09,719
+<font color="#E5E5E5">Americans really felt about Donald</font>
+
+4
+00:00:09,719 --> 00:00:11,849
+<font color="#E5E5E5">Trump's summit with Vladimir Putin</font>
+
+5
+00:00:11,849 --> 00:00:16,049
+and I guess unsurprisingly if you divvy
+
+6
+00:00:16,049 --> 00:00:18,000
+up the respondents based on<font color="#CCCCCC"> political</font>
+
+7
+00:00:18,000 --> 00:00:19,800
+ideology there is a significant
+
+8
+00:00:19,800 --> 00:00:21,180
+<font color="#CCCCCC">difference between Democrats and</font>
+
+9
+00:00:21,180 --> 00:00:22,920
+Republicans<font color="#CCCCCC"> so let's start off with</font>
+
+10
+00:00:22,920 --> 00:00:24,840
+<font color="#E5E5E5">Republicans or conservatives I should</font>
+
+11
+00:00:24,840 --> 00:00:27,900
+say<font color="#CCCCCC"> 79% of conservatives approve of how</font>
+
+12
+00:00:27,900 --> 00:00:30,119
+Trump handled the press conference with
+
+13
+00:00:30,119 --> 00:00:32,549
+his Russian counterpart<font color="#CCCCCC"> so this is</font>
+
+14
+00:00:32,549 --> 00:00:34,559
+specifically<font color="#E5E5E5"> about the press</font><font color="#CCCCCC"> conference</font>
+
+15
+00:00:34,559 --> 00:00:36,989
+this is the press conference this<font color="#CCCCCC"> is not</font>
+
+16
+00:00:36,989 --> 00:00:40,890
+hey<font color="#E5E5E5"> let's have</font><font color="#CCCCCC"> a question that</font><font color="#E5E5E5"> just kind</font>
+
+17
+00:00:40,890 --> 00:00:42,800
+of talks about<font color="#E5E5E5"> the broader issue of</font>
+
+18
+00:00:42,800 --> 00:00:46,260
+<font color="#E5E5E5">diplomacy no no how did Trump perform</font>
+
+19
+00:00:46,260 --> 00:00:49,219
+during<font color="#E5E5E5"> this press</font><font color="#CCCCCC"> conference where he</font>
+
+20
+00:00:49,219 --> 00:00:52,770
+<font color="#E5E5E5">basically won against America</font><font color="#CCCCCC"> and told</font>
+
+21
+00:00:52,770 --> 00:00:54,690
+the entire world that he believes
+
+22
+00:00:54,690 --> 00:00:57,000
+Vladimir Putin over our own intelligence
+
+23
+00:00:57,000 --> 00:00:59,070
+agency knows<font color="#E5E5E5"> goes to show you that</font><font color="#CCCCCC"> the</font>
+
+24
+00:00:59,070 --> 00:01:01,949
+Republican voters<font color="#E5E5E5"> are just authoritarian</font>
+
+25
+00:01:01,949 --> 00:01:03,570
+<font color="#E5E5E5">by nature that's what they are</font>
+
+26
+00:01:03,570 --> 00:01:05,700
+they'd like<font color="#CCCCCC"> to</font><font color="#E5E5E5"> give their banana to</font><font color="#CCCCCC"> the</font>
+
+27
+00:01:05,700 --> 00:01:08,220
+to their leader<font color="#E5E5E5"> and that's it can't help</font>
+
+28
+00:01:08,220 --> 00:01:11,520
+themselves<font color="#CCCCCC"> so in if a</font><font color="#E5E5E5"> Democrat had gone</font>
+
+29
+00:01:11,520 --> 00:01:14,220
+with a foreign<font color="#E5E5E5"> leader let's say the</font>
+
+30
+00:01:14,220 --> 00:01:16,530
+leader of Iran and had done a press
+
+31
+00:01:16,530 --> 00:01:18,330
+conference<font color="#E5E5E5"> saying the American</font>
+
+32
+00:01:18,330 --> 00:01:20,009
+intelligence agencies<font color="#CCCCCC"> are stupid and</font>
+
+33
+00:01:20,009 --> 00:01:22,049
+<font color="#E5E5E5">weak I believe the leader of Iran</font><font color="#CCCCCC"> I</font>
+
+34
+00:01:22,049 --> 00:01:24,750
+think<font color="#CCCCCC"> the Ayatollah is right their heads</font>
+
+35
+00:01:24,750 --> 00:01:25,770
+would<font color="#E5E5E5"> have exploded they would have been</font>
+
+36
+00:01:25,770 --> 00:01:28,200
+trade or I<font color="#E5E5E5"> would have lost their minds</font>
+
+37
+00:01:28,200 --> 00:01:30,960
+impeachment etc Trump goes and does that
+
+38
+00:01:30,960 --> 00:01:33,270
+with Putin goes<font color="#CCCCCC"> uh</font><font color="#E5E5E5"> were weak and stupid</font>
+
+39
+00:01:33,270 --> 00:01:35,549
+America's wrong Russia's right<font color="#E5E5E5"> and then</font>
+
+40
+00:01:35,549 --> 00:01:38,850
+he has<font color="#CCCCCC"> to on top right</font><font color="#E5E5E5"> there</font><font color="#CCCCCC"> were</font>
+
+41
+00:01:38,850 --> 00:01:40,350
+problems<font color="#CCCCCC"> looking tango oh great that's</font>
+
+42
+00:01:40,350 --> 00:01:42,150
+wonderful<font color="#CCCCCC"> wait he's still our leader</font>
+
+43
+00:01:42,150 --> 00:01:44,700
+<font color="#E5E5E5">right my here's my banana here's my okay</font>
+
+44
+00:01:44,700 --> 00:01:47,340
+<font color="#E5E5E5">let's just suppose the response that</font>
+
+45
+00:01:47,340 --> 00:01:49,409
+<font color="#E5E5E5">conservatives had to</font><font color="#CCCCCC"> the summit to the</font>
+
+46
+00:01:49,409 --> 00:01:51,479
+way that<font color="#CCCCCC"> they reacted</font><font color="#E5E5E5"> to Obama when he</font>
+
+47
+00:01:51,479 --> 00:01:53,070
+met<font color="#E5E5E5"> with other world leaders now we're</font>
+
+48
+00:01:53,070 --> 00:01:54,420
+<font color="#E5E5E5">not</font><font color="#CCCCCC"> talking</font><font color="#E5E5E5"> about Obama meeting with</font>
+
+49
+00:01:54,420 --> 00:01:56,490
+enemies and and telling everyone in the
+
+50
+00:01:56,490 --> 00:01:58,950
+world that he supports the enemy over<font color="#CCCCCC"> US</font>
+
+51
+00:01:58,950 --> 00:02:01,170
+intelligence<font color="#CCCCCC"> but there was a case where</font>
+
+52
+00:02:01,170 --> 00:02:03,960
+Obama<font color="#E5E5E5"> I believe bowed to another world</font>
+
+53
+00:02:03,960 --> 00:02:06,479
+leader was a Shinzo Abe a or yeah and it
+
+54
+00:02:06,479 --> 00:02:08,610
+was first<font color="#CCCCCC"> of</font><font color="#E5E5E5"> all you're supposed</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> it's</font>
+
+55
+00:02:08,610 --> 00:02:11,220
+custom in Japan and<font color="#E5E5E5"> now Trump has bowed</font>
+
+56
+00:02:11,220 --> 00:02:13,080
+on multiple occasions the multiple
+
+57
+00:02:13,080 --> 00:02:15,150
+foreign leaders<font color="#E5E5E5"> because by the way and I</font>
+
+58
+00:02:15,150 --> 00:02:16,440
+<font color="#CCCCCC">don't blame them for</font><font color="#E5E5E5"> that because that's</font>
+
+59
+00:02:16,440 --> 00:02:18,540
+their custom and it's a decent<font color="#CCCCCC"> thing new</font>
+
+60
+00:02:18,540 --> 00:02:20,280
+Bush walked around with the Saudi leader
+
+61
+00:02:20,280 --> 00:02:22,710
+holding hands in Crawford because<font color="#E5E5E5"> it was</font>
+
+62
+00:02:22,710 --> 00:02:25,170
+custom<font color="#E5E5E5"> and that's diplomacy and and</font>
+
+63
+00:02:25,170 --> 00:02:27,450
+that's totally<font color="#CCCCCC"> fine and but they're like</font>
+
+64
+00:02:27,450 --> 00:02:29,700
+no Obama<font color="#E5E5E5"> about</font><font color="#CCCCCC"> a little</font><font color="#E5E5E5"> too much he was</font>
+
+65
+00:02:29,700 --> 00:02:33,290
+off<font color="#E5E5E5"> by a couple of degrees in his bow</font>
+
+66
+00:02:33,290 --> 00:02:36,240
+<font color="#CCCCCC">and now this guy goes up</font><font color="#E5E5E5"> and it's like</font>
+
+67
+00:02:36,240 --> 00:02:38,490
+bear<font color="#E5E5E5"> hugging if you will block Amir</font>
+
+68
+00:02:38,490 --> 00:02:42,750
+<font color="#E5E5E5">Putin I'm sorry I'm sorry</font>
+
+69
+00:02:42,750 --> 00:02:45,030
+the Americans are wrong<font color="#CCCCCC"> he went on an</font>
+
+70
+00:02:45,030 --> 00:02:49,080
+<font color="#CCCCCC">apology tour and</font><font color="#E5E5E5"> 80% of</font><font color="#CCCCCC"> Republicans are</font>
+
+71
+00:02:49,080 --> 00:02:51,810
+like Bravo way to<font color="#E5E5E5"> apologize for America</font>
+
+72
+00:02:51,810 --> 00:02:54,150
+<font color="#CCCCCC">make Russia great again that's what I</font>
+
+73
+00:02:54,150 --> 00:02:56,520
+always<font color="#E5E5E5"> meant so</font><font color="#CCCCCC"> 79 percent of</font>
+
+74
+00:02:56,520 --> 00:02:59,040
+conservatives<font color="#E5E5E5"> they approve of this joint</font>
+
+75
+00:02:59,040 --> 00:03:01,350
+press conference with Putin<font color="#E5E5E5"> let's take a</font>
+
+76
+00:03:01,350 --> 00:03:02,970
+look at independence independence
+
+77
+00:03:02,970 --> 00:03:05,640
+luckily you have quite a<font color="#E5E5E5"> difference</font>
+
+78
+00:03:05,640 --> 00:03:07,170
+<font color="#CCCCCC">sixty-two percent of Independence said</font>
+
+79
+00:03:07,170 --> 00:03:09,990
+that they disapprove of<font color="#E5E5E5"> Trump's conduct</font>
+
+80
+00:03:09,990 --> 00:03:11,760
+and then when it comes<font color="#E5E5E5"> to Democrats</font>
+
+81
+00:03:11,760 --> 00:03:13,830
+<font color="#E5E5E5">unsurprisingly ninety-one percent say</font>
+
+82
+00:03:13,830 --> 00:03:16,260
+that<font color="#E5E5E5"> they also disapprove look the fact</font>
+
+83
+00:03:16,260 --> 00:03:18,540
+that the Republican<font color="#E5E5E5"> voters have lost</font>
+
+84
+00:03:18,540 --> 00:03:19,769
+their minds<font color="#E5E5E5"> at large</font>
+
+85
+00:03:19,769 --> 00:03:23,700
+is<font color="#E5E5E5"> one of</font><font color="#CCCCCC"> my I don't know if itís</font><font color="#E5E5E5"> a pet</font>
+
+86
+00:03:23,700 --> 00:03:25,769
+peeve I just can't believe it
+
+87
+00:03:25,769 --> 00:03:27,540
+and it's you would think<font color="#E5E5E5"> like</font><font color="#CCCCCC"> wait you</font>
+
+88
+00:03:27,540 --> 00:03:30,390
+would criticize<font color="#CCCCCC"> Republicans all the time</font>
+
+89
+00:03:30,390 --> 00:03:33,209
+<font color="#E5E5E5">I know but I I</font><font color="#CCCCCC"> really remember I used</font><font color="#E5E5E5"> to</font>
+
+90
+00:03:33,209 --> 00:03:36,450
+be a Republican<font color="#CCCCCC"> I can't believe that the</font>
+
+91
+00:03:36,450 --> 00:03:38,280
+<font color="#E5E5E5">entirety of the party has lost their</font>
+
+92
+00:03:38,280 --> 00:03:40,500
+mind<font color="#CCCCCC"> completely</font><font color="#E5E5E5"> and they have no ability</font>
+
+93
+00:03:40,500 --> 00:03:42,269
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> see what is right and what is wrong</font>
+
+94
+00:03:42,269 --> 00:03:45,060
+<font color="#E5E5E5">what is true</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> what is</font><font color="#CCCCCC"> not true and in</font>
+
+95
+00:03:45,060 --> 00:03:46,980
+<font color="#E5E5E5">a four out of five</font><font color="#CCCCCC"> of them there's</font>
+
+96
+00:03:46,980 --> 00:03:49,080
+<font color="#E5E5E5">nothing the Trump can't do where they</font>
+
+97
+00:03:49,080 --> 00:03:51,450
+<font color="#E5E5E5">wouldn't be like</font><font color="#CCCCCC"> bravo Bravo way to</font>
+
+98
+00:03:51,450 --> 00:03:52,980
+punch yourself in the face<font color="#CCCCCC"> that</font><font color="#E5E5E5"> was</font>
+
+99
+00:03:52,980 --> 00:03:55,140
+<font color="#CCCCCC">genius the way</font><font color="#E5E5E5"> that you did</font><font color="#CCCCCC"> it right it</font>
+
+100
+00:03:55,140 --> 00:03:56,820
+<font color="#CCCCCC">goes further than that</font><font color="#E5E5E5"> like if Trump</font>
+
+101
+00:03:56,820 --> 00:03:58,140
+wants to punch himself<font color="#E5E5E5"> in the face</font>
+
+102
+00:03:58,140 --> 00:04:02,540
+that's one thing but Bravo<font color="#E5E5E5"> way to lower</font>
+
+103
+00:04:02,540 --> 00:04:05,850
+America while simultaneously supporting
+
+104
+00:04:05,850 --> 00:04:10,410
+who Putin<font color="#E5E5E5"> like no no like I like it's</font>
+
+105
+00:04:10,410 --> 00:04:11,880
+now literal I'm not sure he could<font color="#E5E5E5"> do</font>
+
+106
+00:04:11,880 --> 00:04:12,450
+anything
+
+107
+00:04:12,450 --> 00:04:14,730
+remember he famously<font color="#CCCCCC"> said I</font><font color="#E5E5E5"> could shoot</font>
+
+108
+00:04:14,730 --> 00:04:15,870
+somebody in Fifth Avenue and<font color="#E5E5E5"> they'd</font>
+
+109
+00:04:15,870 --> 00:04:18,720
+still support me look first of all they
+
+110
+00:04:18,720 --> 00:04:20,040
+would<font color="#CCCCCC"> definitely</font><font color="#E5E5E5"> find a reason to</font>
+
+111
+00:04:20,040 --> 00:04:21,180
+<font color="#E5E5E5">support him on that I don't even think</font>
+
+112
+00:04:21,180 --> 00:04:23,700
+<font color="#CCCCCC">that's close I guarantee you eight out</font>
+
+113
+00:04:23,700 --> 00:04:25,320
+of ten Republicans would say well of
+
+114
+00:04:25,320 --> 00:04:26,080
+course he's<font color="#CCCCCC"> the Prez</font>
+
+115
+00:04:26,080 --> 00:04:27,520
+<font color="#E5E5E5">the right to execute anyone he likes</font>
+
+116
+00:04:27,520 --> 00:04:29,050
+he's got he's in the executive branch
+
+117
+00:04:29,050 --> 00:04:30,819
+that's what do you do you do executions
+
+118
+00:04:30,819 --> 00:04:31,569
+it's totally fine
+
+119
+00:04:31,569 --> 00:04:33,310
+Obama did I guarantee you they would say
+
+120
+00:04:33,310 --> 00:04:35,710
+<font color="#E5E5E5">that that's not</font><font color="#CCCCCC"> even close right but he</font>
+
+121
+00:04:35,710 --> 00:04:37,270
+could do things<font color="#CCCCCC"> that would seem like</font>
+
+122
+00:04:37,270 --> 00:04:39,280
+more antithetical to<font color="#E5E5E5"> Republicans he</font>
+
+123
+00:04:39,280 --> 00:04:41,319
+could spit on the floor<font color="#E5E5E5"> American flag in</font>
+
+124
+00:04:41,319 --> 00:04:43,539
+front<font color="#E5E5E5"> of Putin and</font><font color="#CCCCCC"> they'd be like</font><font color="#E5E5E5"> no he</font>
+
+125
+00:04:43,539 --> 00:04:45,460
+<font color="#E5E5E5">means that symbolically</font><font color="#CCCCCC"> is rain which is</font>
+
+126
+00:04:45,460 --> 00:04:47,590
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> blessing</font><font color="#CCCCCC"> he's helping the</font><font color="#E5E5E5"> Americans</font>
+
+127
+00:04:47,590 --> 00:04:50,169
+like there's nothing<font color="#E5E5E5"> that they won't say</font>
+
+128
+00:04:50,169 --> 00:04:53,439
+<font color="#E5E5E5">yes to with telling you look what else</font>
+
+129
+00:04:53,439 --> 00:04:56,500
+<font color="#CCCCCC">can he say he kissed the Russian leaders</font>
+
+130
+00:04:56,500 --> 00:04:59,469
+<font color="#E5E5E5">ass and for the whole world</font><font color="#CCCCCC"> and they're</font>
+
+131
+00:04:59,469 --> 00:05:01,599
+like nailed it I would look to<font color="#CCCCCC"> be fair</font>
+
+132
+00:05:01,599 --> 00:05:06,490
+<font color="#CCCCCC">that ass must</font><font color="#E5E5E5"> have been</font><font color="#CCCCCC"> delicious there</font>
+
+133
+00:05:06,490 --> 00:05:08,620
+was that and then yeah the<font color="#CCCCCC"> way that he</font>
+
+134
+00:05:08,620 --> 00:05:11,650
+he did a world tour<font color="#E5E5E5"> bragging about how</font>
+
+135
+00:05:11,650 --> 00:05:14,259
+awesome<font color="#CCCCCC"> Kim Jong</font><font color="#E5E5E5"> hoon is and he goes on</font>
+
+136
+00:05:14,259 --> 00:05:16,300
+<font color="#CCCCCC">yeah but</font><font color="#E5E5E5"> I'll tell you look don't lose</font>
+
+137
+00:05:16,300 --> 00:05:19,060
+track of the good news<font color="#E5E5E5"> it's not</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> 91%</font>
+
+138
+00:05:19,060 --> 00:05:20,560
+of Democrats thought he was a<font color="#E5E5E5"> buffoon</font>
+
+139
+00:05:20,560 --> 00:05:22,629
+<font color="#CCCCCC">that's actually in my opinion too low</font>
+
+140
+00:05:22,629 --> 00:05:25,900
+<font color="#CCCCCC">number what are</font><font color="#E5E5E5"> the who who thought that</font>
+
+141
+00:05:25,900 --> 00:05:28,090
+<font color="#E5E5E5">was</font><font color="#CCCCCC"> a good</font><font color="#E5E5E5"> anyways no the good news is</font>
+
+142
+00:05:28,090 --> 00:05:31,180
+guys if you've lost 62<font color="#E5E5E5"> percent</font><font color="#CCCCCC"> of</font>
+
+143
+00:05:31,180 --> 00:05:33,129
+<font color="#E5E5E5">Independence and I it's just on this</font>
+
+144
+00:05:33,129 --> 00:05:34,719
+press conference<font color="#E5E5E5"> to be fair but they're</font>
+
+145
+00:05:34,719 --> 00:05:36,430
+leaning<font color="#CCCCCC"> in that direction they keep</font>
+
+146
+00:05:36,430 --> 00:05:38,349
+leaning in that direction<font color="#CCCCCC"> you lose 62</font>
+
+147
+00:05:38,349 --> 00:05:39,729
+percent of<font color="#E5E5E5"> Independence you're never</font>
+
+148
+00:05:39,729 --> 00:05:40,719
+gonna win<font color="#E5E5E5"> an election</font>
+
+149
+00:05:40,719 --> 00:05:42,969
+you're just not<font color="#CCCCCC"> I know you think</font><font color="#E5E5E5"> oh no</font>
+
+150
+00:05:42,969 --> 00:05:44,979
+but he did he won last time<font color="#E5E5E5"> so there's</font>
+
+151
+00:05:44,979 --> 00:05:47,620
+magic there's no magic he ran against a
+
+152
+00:05:47,620 --> 00:05:49,930
+terrible terrible opponent who
+
+153
+00:05:49,930 --> 00:05:51,279
+represented the elite and<font color="#E5E5E5"> the</font>
+
+154
+00:05:51,279 --> 00:05:53,229
+<font color="#E5E5E5">establishment in the minds of</font><font color="#CCCCCC"> Americans</font>
+
+155
+00:05:53,229 --> 00:05:55,599
+<font color="#E5E5E5">she was the only one less popular</font><font color="#CCCCCC"> than</font>
+
+156
+00:05:55,599 --> 00:05:58,089
+him<font color="#E5E5E5"> in American history of all</font>
+
+157
+00:05:58,089 --> 00:06:00,310
+presidential<font color="#E5E5E5"> candidates since polling</font>
+
+158
+00:06:00,310 --> 00:06:03,669
+right<font color="#E5E5E5"> if the Democrats are not that</font>
+
+159
+00:06:03,669 --> 00:06:05,500
+<font color="#E5E5E5">stupid again although that is a big if I</font>
+
+160
+00:06:05,500 --> 00:06:07,750
+will<font color="#E5E5E5"> grant you that right</font><font color="#CCCCCC"> and they elect</font>
+
+161
+00:06:07,750 --> 00:06:11,139
+they nominate someone with a pulse<font color="#CCCCCC"> if</font>
+
+162
+00:06:11,139 --> 00:06:13,569
+you've lost 62<font color="#E5E5E5"> percent</font><font color="#CCCCCC"> of independents</font>
+
+163
+00:06:13,569 --> 00:06:15,610
+gone you're gone it's not<font color="#CCCCCC"> a close</font>
+
+164
+00:06:15,610 --> 00:06:19,569
+election<font color="#CCCCCC"> and so and</font><font color="#E5E5E5"> and overall for the</font>
+
+165
+00:06:19,569 --> 00:06:21,099
+whole country<font color="#CCCCCC"> how did they think he</font>
+
+166
+00:06:21,099 --> 00:06:23,110
+<font color="#E5E5E5">handled the press conference 58 to 40</font>
+
+167
+00:06:23,110 --> 00:06:25,120
+right<font color="#E5E5E5"> you think like oh my god that's</font>
+
+168
+00:06:25,120 --> 00:06:26,710
+amazing<font color="#CCCCCC"> I can't believe</font><font color="#E5E5E5"> 40% of the</font>
+
+169
+00:06:26,710 --> 00:06:27,969
+country<font color="#E5E5E5"> thinks</font><font color="#CCCCCC"> that that</font><font color="#E5E5E5"> way he did a</font>
+
+170
+00:06:27,969 --> 00:06:29,349
+good job<font color="#E5E5E5"> in that</font><font color="#CCCCCC"> press conference and</font>
+
+171
+00:06:29,349 --> 00:06:31,539
+<font color="#CCCCCC">that's</font><font color="#E5E5E5"> depressing on the other hand 58</font>
+
+172
+00:06:31,539 --> 00:06:35,709
+<font color="#E5E5E5">to 40 is a landslide</font><font color="#CCCCCC"> it's a landslide</font><font color="#E5E5E5"> if</font>
+
+173
+00:06:35,709 --> 00:06:38,050
+we had the election<font color="#CCCCCC"> today and you put</font>
+
+174
+00:06:38,050 --> 00:06:39,870
+someone<font color="#E5E5E5"> now the</font>
+
+175
+00:06:39,870 --> 00:06:41,640
+the country did not<font color="#CCCCCC"> view as</font><font color="#E5E5E5"> the elite of</font>
+
+176
+00:06:41,640 --> 00:06:45,000
+<font color="#CCCCCC">the elite</font><font color="#E5E5E5"> they would crush him there is</font>
+
+177
+00:06:45,000 --> 00:06:48,330
+no magic<font color="#CCCCCC"> numbers still exist</font><font color="#E5E5E5"> and and we</font>
+
+178
+00:06:48,330 --> 00:06:50,100
+do still live<font color="#E5E5E5"> in the</font><font color="#CCCCCC"> reality-based</font><font color="#E5E5E5"> world</font>
+
+179
+00:06:50,100 --> 00:06:52,860
+<font color="#E5E5E5">Republican voters might not but they're</font>
+
+180
+00:06:52,860 --> 00:06:55,260
+gonna get outvoted<font color="#CCCCCC"> especially with</font><font color="#E5E5E5"> that</font>
+
+181
+00:06:55,260 --> 00:06:57,360
+number<font color="#E5E5E5"> of independents going this guy's</font>
+
+182
+00:06:57,360 --> 00:00:00,000
+a buffoon<font color="#CCCCCC"> two easy ways folly</font>
+

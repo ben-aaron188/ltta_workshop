@@ -1,0 +1,696 @@
+1
+00:00:00,000 --> 00:00:02,280
+<font color="#E5E5E5">virus that can</font><font color="#CCCCCC"> access</font><font color="#E5E5E5"> your computer of</font>
+
+2
+00:00:02,280 --> 00:00:05,100
+mine<font color="#E5E5E5"> cryptocurrency back to hack is is</font>
+
+3
+00:00:05,100 --> 00:00:06,690
+<font color="#E5E5E5">reportedly infected thousands of</font>
+
+4
+00:00:06,690 --> 00:00:08,130
+<font color="#CCCCCC">government websites kicked off over the</font>
+
+5
+00:00:08,130 --> 00:00:09,809
+weekend this it's even<font color="#CCCCCC"> affecting the</font>
+
+6
+00:00:09,809 --> 00:00:12,420
+UK's<font color="#CCCCCC"> data protection watchdog you can</font>
+
+7
+00:00:12,420 --> 00:00:14,730
+see the<font color="#CCCCCC"> irony there</font><font color="#E5E5E5"> the malware uses</font><font color="#CCCCCC"> a</font>
+
+8
+00:00:14,730 --> 00:00:18,390
+technique known as crypto<font color="#CCCCCC"> jacking now</font>
+
+9
+00:00:18,390 --> 00:00:20,760
+here's why and<font color="#CCCCCC"> here's how it works</font><font color="#E5E5E5"> and</font>
+
+10
+00:00:20,760 --> 00:00:24,300
+effectively hijacks computers<font color="#CCCCCC"> that</font><font color="#E5E5E5"> visit</font>
+
+11
+00:00:24,300 --> 00:00:26,430
+infected websites<font color="#CCCCCC"> and then covertly</font>
+
+12
+00:00:26,430 --> 00:00:29,640
+<font color="#CCCCCC">minds</font><font color="#E5E5E5"> cryptocurrency using the laptop or</font>
+
+13
+00:00:29,640 --> 00:00:32,930
+<font color="#E5E5E5">death stocks capability stay with me</font>
+
+14
+00:00:32,930 --> 00:00:35,820
+<font color="#E5E5E5">finally it then sends the mine coins</font>
+
+15
+00:00:35,820 --> 00:00:37,800
+back<font color="#CCCCCC"> to the hacker and then on to their</font>
+
+16
+00:00:37,800 --> 00:00:41,250
+online<font color="#E5E5E5"> wallet</font><font color="#CCCCCC"> alright</font><font color="#E5E5E5"> Scott Helms the</font>
+
+17
+00:00:41,250 --> 00:00:42,930
+<font color="#E5E5E5">man exposed all this cyber security</font>
+
+18
+00:00:42,930 --> 00:00:44,760
+expert<font color="#CCCCCC"> who broke the news the</font><font color="#E5E5E5"> government</font>
+
+19
+00:00:44,760 --> 00:00:46,770
+websites<font color="#CCCCCC"> had</font><font color="#E5E5E5"> been infected</font><font color="#CCCCCC"> along with</font>
+
+20
+00:00:46,770 --> 00:00:48,180
+<font color="#E5E5E5">thousands of others</font><font color="#CCCCCC"> in this crypto</font>
+
+21
+00:00:48,180 --> 00:00:50,250
+<font color="#E5E5E5">Jiaqing virus you're a hero Scott</font>
+
+22
+00:00:50,250 --> 00:00:52,949
+apparently<font color="#CCCCCC"> hi there thanks</font><font color="#E5E5E5"> for being</font>
+
+23
+00:00:52,949 --> 00:00:53,340
+with<font color="#CCCCCC"> us</font>
+
+24
+00:00:53,340 --> 00:00:54,809
+but I don't understand it<font color="#E5E5E5"> what does this</font>
+
+25
+00:00:54,809 --> 00:00:57,960
+mean I<font color="#E5E5E5"> don't</font><font color="#CCCCCC"> know how currency so why</font>
+
+26
+00:00:57,960 --> 00:00:59,760
+should why<font color="#CCCCCC"> should i why should a lot</font><font color="#E5E5E5"> of</font>
+
+27
+00:00:59,760 --> 00:01:05,489
+us<font color="#E5E5E5"> worry</font><font color="#CCCCCC"> about this I</font><font color="#E5E5E5"> guess the worst</font>
+
+28
+00:01:05,489 --> 00:01:08,420
+thing is that<font color="#E5E5E5"> you</font><font color="#CCCCCC"> have</font><font color="#E5E5E5"> inadvertently</font>
+
+29
+00:01:08,420 --> 00:01:10,830
+<font color="#E5E5E5">financed a criminal gang your device</font><font color="#CCCCCC"> has</font>
+
+30
+00:01:10,830 --> 00:01:12,810
+been<font color="#E5E5E5"> taken over you've mined crypto</font>
+
+31
+00:01:12,810 --> 00:01:14,280
+currency and that<font color="#CCCCCC"> has been</font><font color="#E5E5E5"> sent to the</font>
+
+32
+00:01:14,280 --> 00:01:16,049
+the criminals<font color="#E5E5E5"> that masterminded this</font>
+
+33
+00:01:16,049 --> 00:01:20,460
+attack right I got you<font color="#E5E5E5"> these viruses</font>
+
+34
+00:01:20,460 --> 00:01:22,350
+don't<font color="#E5E5E5"> steal data how do they</font><font color="#CCCCCC"> work it</font>
+
+35
+00:01:22,350 --> 00:01:28,170
+laid<font color="#CCCCCC"> out in layman's terms for us yeah</font>
+
+36
+00:01:28,170 --> 00:01:30,119
+so whilst you're<font color="#E5E5E5"> on one of the</font><font color="#CCCCCC"> infected</font>
+
+37
+00:01:30,119 --> 00:01:31,500
+websites<font color="#E5E5E5"> which</font><font color="#CCCCCC"> includes</font><font color="#E5E5E5"> some government</font>
+
+38
+00:01:31,500 --> 00:01:33,630
+websites here in the<font color="#CCCCCC"> UK over the weekend</font>
+
+39
+00:01:33,630 --> 00:01:35,280
+what happens is your device is
+
+40
+00:01:35,280 --> 00:01:37,650
+temporarily borrowed by the bad<font color="#CCCCCC"> guys and</font>
+
+41
+00:01:37,650 --> 00:01:39,060
+they use<font color="#CCCCCC"> that</font><font color="#E5E5E5"> to do these complex</font>
+
+42
+00:01:39,060 --> 00:01:41,579
+mathematical operations and that results
+
+43
+00:01:41,579 --> 00:01:42,990
+in<font color="#E5E5E5"> you being rewarded with</font>
+
+44
+00:01:42,990 --> 00:01:44,909
+<font color="#CCCCCC">cryptocurrency</font><font color="#E5E5E5"> which is you know can</font><font color="#CCCCCC"> be</font>
+
+45
+00:01:44,909 --> 00:01:46,920
+converted into real money<font color="#CCCCCC"> and then the</font>
+
+46
+00:01:46,920 --> 00:01:48,899
+bad guys<font color="#CCCCCC"> make away with that</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> you</font>
+
+47
+00:01:48,899 --> 00:01:50,700
+have been used your computer<font color="#CCCCCC"> your your</font>
+
+48
+00:01:50,700 --> 00:01:53,070
+power at home has been used to to
+
+49
+00:01:53,070 --> 00:01:55,049
+<font color="#CCCCCC">generate funds for these these criminal</font>
+
+50
+00:01:55,049 --> 00:01:58,170
+<font color="#CCCCCC">gangs now this the way that</font><font color="#E5E5E5"> this got in</font>
+
+51
+00:01:58,170 --> 00:01:59,640
+apparently was through something called
+
+52
+00:01:59,640 --> 00:02:02,490
+browsealoud<font color="#E5E5E5"> yet that's something</font><font color="#CCCCCC"> that</font>
+
+53
+00:02:02,490 --> 00:02:05,100
+deaf and<font color="#E5E5E5"> hard of hearing and and and yes</font>
+
+54
+00:02:05,100 --> 00:02:07,530
+out of<font color="#CCCCCC"> sight people</font><font color="#E5E5E5"> use that's that's</font>
+
+55
+00:02:07,530 --> 00:02:09,239
+something that a lot<font color="#CCCCCC"> of people have got</font>
+
+56
+00:02:09,239 --> 00:02:10,889
+and and that<font color="#E5E5E5"> that's how they got in</font>
+
+57
+00:02:10,889 --> 00:02:14,510
+that's<font color="#E5E5E5"> the crux of the problem is it</font>
+
+58
+00:02:15,840 --> 00:02:18,010
+yeah so a lot<font color="#CCCCCC"> of the websites that</font><font color="#E5E5E5"> were</font>
+
+59
+00:02:18,010 --> 00:02:19,569
+impacted were kind<font color="#E5E5E5"> of official or</font>
+
+60
+00:02:19,569 --> 00:02:21,549
+government websites<font color="#CCCCCC"> lots of local</font>
+
+61
+00:02:21,549 --> 00:02:22,930
+councils and<font color="#E5E5E5"> departments here in the UK</font>
+
+62
+00:02:22,930 --> 00:02:25,720
+<font color="#E5E5E5">because they all load this software for</font>
+
+63
+00:02:25,720 --> 00:02:26,950
+visually impaired<font color="#E5E5E5"> visitors to their</font>
+
+64
+00:02:26,950 --> 00:02:28,840
+<font color="#CCCCCC">websites to</font><font color="#E5E5E5"> have the website</font><font color="#CCCCCC"> read out</font>
+
+65
+00:02:28,840 --> 00:02:30,519
+<font color="#CCCCCC">loud to them rather</font><font color="#E5E5E5"> than having to read</font>
+
+66
+00:02:30,519 --> 00:02:32,739
+the<font color="#E5E5E5"> website and the attackers have</font>
+
+67
+00:02:32,739 --> 00:02:35,500
+compromised this<font color="#E5E5E5"> third party and because</font>
+
+68
+00:02:35,500 --> 00:02:36,610
+all of<font color="#E5E5E5"> these different government</font>
+
+69
+00:02:36,610 --> 00:02:38,799
+websites load<font color="#E5E5E5"> the compromised software</font>
+
+70
+00:02:38,799 --> 00:02:40,720
+into their web pages they are<font color="#E5E5E5"> by</font>
+
+71
+00:02:40,720 --> 00:02:42,970
+extension compromised as well so the bad
+
+72
+00:02:42,970 --> 00:02:45,190
+guys target one company and they end up
+
+73
+00:02:45,190 --> 00:02:47,440
+compromising<font color="#CCCCCC"> in this case thousands of</font>
+
+74
+00:02:47,440 --> 00:02:49,299
+websites<font color="#CCCCCC"> as well and</font><font color="#E5E5E5"> it's one wake up</font>
+
+75
+00:02:49,299 --> 00:02:50,980
+call after another<font color="#E5E5E5"> isn't</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> I mean a lot</font>
+
+76
+00:02:50,980 --> 00:02:52,569
+<font color="#CCCCCC">of these sites these government sites</font>
+
+77
+00:02:52,569 --> 00:02:55,359
+are highly protected they're highly
+
+78
+00:02:55,359 --> 00:02:57,069
+guarding themselves you would think
+
+79
+00:02:57,069 --> 00:02:59,620
+against this kind<font color="#E5E5E5"> of attack but it</font>
+
+80
+00:02:59,620 --> 00:03:01,569
+hasn't<font color="#CCCCCC"> worked yet again I mean it's</font>
+
+81
+00:03:01,569 --> 00:03:03,430
+<font color="#CCCCCC">gonna be constant constant chasing your</font>
+
+82
+00:03:03,430 --> 00:03:05,739
+tails here isn't it - try<font color="#E5E5E5"> and stay above</font>
+
+83
+00:03:05,739 --> 00:03:07,870
+<font color="#CCCCCC">the hackers stay one step in front of</font>
+
+84
+00:03:07,870 --> 00:03:13,540
+them yeah I<font color="#E5E5E5"> think especially with this</font>
+
+85
+00:03:13,540 --> 00:03:15,190
+one one<font color="#E5E5E5"> of the the things that I'm</font>
+
+86
+00:03:15,190 --> 00:03:16,690
+hoping<font color="#CCCCCC"> is this will be kind</font><font color="#E5E5E5"> of a</font><font color="#CCCCCC"> wake up</font>
+
+87
+00:03:16,690 --> 00:03:18,489
+call<font color="#E5E5E5"> that the technologies do exist to</font>
+
+88
+00:03:18,489 --> 00:03:20,019
+defend against this attack and<font color="#E5E5E5"> there are</font>
+
+89
+00:03:20,019 --> 00:03:21,370
+ways that<font color="#E5E5E5"> we can</font><font color="#CCCCCC"> ensure this</font><font color="#E5E5E5"> doesn't</font>
+
+90
+00:03:21,370 --> 00:03:23,530
+<font color="#CCCCCC">happen again unfortunately seems that</font>
+
+91
+00:03:23,530 --> 00:03:25,900
+they weren't in place<font color="#E5E5E5"> in many examples</font>
+
+92
+00:03:25,900 --> 00:03:27,579
+<font color="#E5E5E5">over the weekend and I'm hoping that</font>
+
+93
+00:03:27,579 --> 00:03:29,139
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> week we</font><font color="#CCCCCC"> actually got</font><font color="#E5E5E5"> away quite</font>
+
+94
+00:03:29,139 --> 00:03:30,910
+mildly with crypto<font color="#E5E5E5"> jacking it could have</font>
+
+95
+00:03:30,910 --> 00:03:32,590
+<font color="#E5E5E5">been a lot worse and what I'm hoping is</font>
+
+96
+00:03:32,590 --> 00:03:34,329
+that<font color="#E5E5E5"> this will serve</font><font color="#CCCCCC"> as a</font><font color="#E5E5E5"> wake-up call</font>
+
+97
+00:03:34,329 --> 00:03:35,410
+going<font color="#CCCCCC"> forwards</font><font color="#E5E5E5"> and we may see</font>
+
+98
+00:03:35,410 --> 00:03:37,599
+<font color="#CCCCCC">organizations start to protect against</font>
+
+99
+00:03:37,599 --> 00:03:39,459
+attacks<font color="#E5E5E5"> like this yeah but more and</font><font color="#CCCCCC"> more</font>
+
+100
+00:03:39,459 --> 00:03:41,650
+that people<font color="#E5E5E5"> use crypto currencies the</font>
+
+101
+00:03:41,650 --> 00:03:42,970
+more and<font color="#E5E5E5"> more of this we're going to see</font>
+
+102
+00:03:42,970 --> 00:03:49,120
+<font color="#CCCCCC">away yes I think</font><font color="#E5E5E5"> so I think certainly</font>
+
+103
+00:03:49,120 --> 00:03:50,739
+the<font color="#CCCCCC"> the rise of crypto jacking is</font>
+
+104
+00:03:50,739 --> 00:03:52,000
+related to<font color="#E5E5E5"> the value of crypto</font>
+
+105
+00:03:52,000 --> 00:03:53,859
+<font color="#E5E5E5">currencies so as a</font><font color="#CCCCCC"> crypto currency</font>
+
+106
+00:03:53,859 --> 00:03:56,079
+<font color="#CCCCCC">increases in value if you can steal it</font>
+
+107
+00:03:56,079 --> 00:03:58,780
+or obtain it legitimately<font color="#E5E5E5"> then then your</font>
+
+108
+00:03:58,780 --> 00:04:00,129
+proceeds<font color="#E5E5E5"> increase you know they're</font>
+
+109
+00:04:00,129 --> 00:04:02,049
+they're worth more<font color="#CCCCCC"> so I think yes that</font>
+
+110
+00:04:02,049 --> 00:04:03,970
+<font color="#E5E5E5">we will see the rise of more crypto</font>
+
+111
+00:04:03,970 --> 00:04:05,829
+<font color="#CCCCCC">jacking attacks like this partially</font>
+
+112
+00:04:05,829 --> 00:04:08,079
+motivated by the increase<font color="#CCCCCC"> in</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> value</font>
+
+113
+00:04:08,079 --> 00:04:09,910
+<font color="#E5E5E5">of crypto currencies and partially</font>
+
+114
+00:04:09,910 --> 00:04:11,440
+motivated right<font color="#E5E5E5"> now by the ease with</font>
+
+115
+00:04:11,440 --> 00:04:12,970
+which these attacks can<font color="#CCCCCC"> be</font><font color="#E5E5E5"> carried out</font>
+
+116
+00:04:12,970 --> 00:04:16,209
+and it's<font color="#E5E5E5"> I suppose unless somebody pulls</font>
+
+117
+00:04:16,209 --> 00:04:18,250
+a finger<font color="#CCCCCC"> out</font><font color="#E5E5E5"> on this it's</font><font color="#CCCCCC"> going to deter</font>
+
+118
+00:04:18,250 --> 00:04:20,048
+a<font color="#E5E5E5"> lot of people from trying their hand</font>
+
+119
+00:04:20,048 --> 00:04:21,880
+<font color="#E5E5E5">out with crypto currency we're buying</font>
+
+120
+00:04:21,880 --> 00:04:23,650
+this stuff<font color="#E5E5E5"> putting their</font><font color="#CCCCCC"> hard-earned -</font>
+
+121
+00:04:23,650 --> 00:04:25,920
+<font color="#E5E5E5">somewhere that could just disappear</font>
+
+122
+00:04:25,920 --> 00:04:32,190
+<font color="#E5E5E5">I hope not yeah I mean it doesn't it</font>
+
+123
+00:04:32,190 --> 00:04:33,390
+<font color="#E5E5E5">doesn't look great when headlines are</font>
+
+124
+00:04:33,390 --> 00:04:34,890
+made about crypto currencies and<font color="#E5E5E5"> they're</font>
+
+125
+00:04:34,890 --> 00:04:36,750
+being<font color="#CCCCCC"> used by by criminals they're being</font>
+
+126
+00:04:36,750 --> 00:04:38,130
+obtained<font color="#E5E5E5"> illegitimately and</font><font color="#CCCCCC"> mined</font>
+
+127
+00:04:38,130 --> 00:04:39,480
+illegitimately like we saw<font color="#E5E5E5"> with this</font>
+
+128
+00:04:39,480 --> 00:04:41,970
+attack over the<font color="#E5E5E5"> weekend but criminals</font>
+
+129
+00:04:41,970 --> 00:04:43,890
+have used cash for hundreds of years<font color="#E5E5E5"> and</font>
+
+130
+00:04:43,890 --> 00:04:45,690
+criminals will move to the next form of
+
+131
+00:04:45,690 --> 00:04:47,370
+currency<font color="#CCCCCC"> which is cryptocurrency</font><font color="#E5E5E5"> so I</font>
+
+132
+00:04:47,370 --> 00:04:49,020
+hope that<font color="#CCCCCC"> doesn't</font><font color="#E5E5E5"> deter people but if</font>
+
+133
+00:04:49,020 --> 00:04:50,250
+<font color="#E5E5E5">you're just an ordinary user and it</font>
+
+134
+00:04:50,250 --> 00:04:51,540
+wasn't<font color="#E5E5E5"> just big</font><font color="#CCCCCC"> websites such as</font>
+
+135
+00:04:51,540 --> 00:04:53,070
+personal people's<font color="#CCCCCC"> websites that were</font>
+
+136
+00:04:53,070 --> 00:04:54,960
+hacked as well<font color="#E5E5E5"> just an ordinary</font><font color="#CCCCCC"> user</font>
+
+137
+00:04:54,960 --> 00:04:56,640
+<font color="#CCCCCC">I mean how</font><font color="#E5E5E5"> on the</font><font color="#CCCCCC"> balls</font><font color="#E5E5E5"> you need to be</font>
+
+138
+00:04:56,640 --> 00:04:57,900
+<font color="#E5E5E5">these days you need to be looking at</font>
+
+139
+00:04:57,900 --> 00:05:02,670
+<font color="#E5E5E5">your software safeguards daily weekly</font>
+
+140
+00:05:02,670 --> 00:05:05,070
+<font color="#CCCCCC">war oh I'm an Apple user and I'd we had</font>
+
+141
+00:05:05,070 --> 00:05:06,930
+that great<font color="#E5E5E5"> big download the other day</font>
+
+142
+00:05:06,930 --> 00:05:08,670
+you know<font color="#E5E5E5"> that says safety</font><font color="#CCCCCC"> down no they</font>
+
+143
+00:05:08,670 --> 00:05:10,260
+said knocked off<font color="#CCCCCC"> my printers and I</font><font color="#E5E5E5"> Chuck</font>
+
+144
+00:05:10,260 --> 00:05:12,300
+him in the bin<font color="#CCCCCC"> I mean if you're not</font>
+
+145
+00:05:12,300 --> 00:05:13,980
+<font color="#E5E5E5">really big-time into a cryptocurrency</font>
+
+146
+00:05:13,980 --> 00:05:16,280
+<font color="#CCCCCC">but you might like to try it out</font>
+
+147
+00:05:16,280 --> 00:05:19,080
+it is really<font color="#E5E5E5"> off-putting and if you're</font>
+
+148
+00:05:19,080 --> 00:05:23,220
+not so into<font color="#E5E5E5"> your computer safeguards</font>
+
+149
+00:05:23,220 --> 00:05:25,410
+<font color="#CCCCCC">just a</font><font color="#E5E5E5"> normal</font><font color="#CCCCCC"> human being what should</font>
+
+150
+00:05:25,410 --> 00:05:31,440
+<font color="#E5E5E5">you be doing</font><font color="#CCCCCC"> I think there's a few</font>
+
+151
+00:05:31,440 --> 00:05:32,910
+common things<font color="#CCCCCC"> unfortunately with</font><font color="#E5E5E5"> this</font>
+
+152
+00:05:32,910 --> 00:05:34,290
+attack here because it was government
+
+153
+00:05:34,290 --> 00:05:36,120
+<font color="#E5E5E5">sites that were here you as a user would</font>
+
+154
+00:05:36,120 --> 00:05:37,800
+quite legitimately go to one<font color="#E5E5E5"> of those</font>
+
+155
+00:05:37,800 --> 00:05:39,390
+<font color="#CCCCCC">web sites</font><font color="#E5E5E5"> and not expect to</font><font color="#CCCCCC"> become a</font>
+
+156
+00:05:39,390 --> 00:05:41,900
+victim of<font color="#E5E5E5"> an attack like this</font>
+
+157
+00:05:41,900 --> 00:05:44,610
+fortunately<font color="#CCCCCC"> this was as I said earlier</font>
+
+158
+00:05:44,610 --> 00:05:46,620
+quite mild<font color="#E5E5E5"> example of what the attackers</font>
+
+159
+00:05:46,620 --> 00:05:48,480
+could<font color="#E5E5E5"> have done but I</font><font color="#CCCCCC"> think common</font>
+
+160
+00:05:48,480 --> 00:05:50,460
+<font color="#E5E5E5">advice still applies you know make sure</font>
+
+161
+00:05:50,460 --> 00:05:52,800
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> you keep your device up-to-date if</font>
+
+162
+00:05:52,800 --> 00:05:54,690
+<font color="#E5E5E5">it's an iPhone do the iPhone updates if</font>
+
+163
+00:05:54,690 --> 00:05:56,760
+<font color="#CCCCCC">it's Windows do</font><font color="#E5E5E5"> Windows updates yeah</font>
+
+164
+00:05:56,760 --> 00:05:58,080
+<font color="#E5E5E5">make sure you're running the latest</font>
+
+165
+00:05:58,080 --> 00:05:59,850
+<font color="#E5E5E5">versions of apps maybe you have</font>
+
+166
+00:05:59,850 --> 00:06:01,770
+<font color="#CCCCCC">anti-virus programs on</font><font color="#E5E5E5"> your computers</font>
+
+167
+00:06:01,770 --> 00:06:03,870
+<font color="#CCCCCC">all of the standard</font><font color="#E5E5E5"> kind of advice still</font>
+
+168
+00:06:03,870 --> 00:06:06,660
+applies here<font color="#E5E5E5"> and you know that</font><font color="#CCCCCC"> the wider</font>
+
+169
+00:06:06,660 --> 00:06:07,980
+<font color="#CCCCCC">end</font><font color="#E5E5E5"> issue just needs to react to this</font>
+
+170
+00:06:07,980 --> 00:06:09,870
+and start<font color="#E5E5E5"> getting on top</font><font color="#CCCCCC"> of these kinds</font>
+
+171
+00:06:09,870 --> 00:06:11,790
+of<font color="#E5E5E5"> attacks</font><font color="#CCCCCC"> Scott up there</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> Magisters</font>
+
+172
+00:06:11,790 --> 00:06:14,280
+<font color="#E5E5E5">cyber</font><font color="#CCCCCC"> security expert</font><font color="#E5E5E5"> and hero as we say</font>
+
+173
+00:06:14,280 --> 00:06:15,450
+thank<font color="#E5E5E5"> you for being on the</font><font color="#CCCCCC"> program much</font>
+
+174
+00:06:15,450 --> 00:00:00,000
+<font color="#CCCCCC">appreciated thank you</font><font color="#E5E5E5"> for watching</font>
+

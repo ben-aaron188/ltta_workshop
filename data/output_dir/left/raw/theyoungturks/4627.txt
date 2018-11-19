@@ -1,0 +1,12 @@
+1
+00:02:03,229 --> 00:02:06,229
+<font color="#CCCCCC">money</font>
+
+2
+00:02:29,290 --> 00:02:32,350
+[Musica]
+
+3
+00:02:50,460 --> 00:00:00,000
+<font color="#E5E5E5">tasting</font><font color="#CCCCCC"> session</font><font color="#E5E5E5"> a brief</font>
+

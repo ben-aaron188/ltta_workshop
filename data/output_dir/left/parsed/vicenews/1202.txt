@@ -1,0 +1,303 @@
+you
+here's a question please how much could
+you lose if the data in your phone was
+stolen okay now ask yourself what are
+you doing to protect your data if you're
+like most young people the answer is
+probably nothing
+forget those non-p pictures on your
+phone hackers could stop your car on the
+highway if they wanted as a culture we
+kind of know there are risks to putting
+our schedules contacts on bank accounts
+online but rarely think anything to
+protect ourselves even as rates of
+identity theft rise and international
+cyber war becomes only reality so ask
+yourself again what are you doing to
+protect yourself and what should we as a
+society do right now we're going to find
+out and as always we'll break down the
+issues in facts figures dollars and
+cents I'm joined by a panel of brilliant
+experts trying to answer the question
+what is the business of cyber security
+you've heard that a strong passwords
+will make you less vulnerable but does
+it take a look at this to seconds that's
+the time it takes to brute-force crack
+the password ace line DJ s3 it's
+important to note here so 61% of
+Americans so we don't want the majority
+here use the same password for multiple
+sites all right guys I'm going to ask
+you one here who has changed their
+password in the last six months raise
+your hand okay pretty good pretty how
+many of you guys use the same password
+for multiple sites not so great new as
+well what
+it's just really inconvenient I mean I'm
+not going to lie like I know what risk
+practices I advise people to do it and I
+mostly follow it but security is largely
+about trade-offs right it's a trade-off
+between security and convenience and I'm
+not going to lie and say that I've never
+chosen convenience I think can we just
+buy conference I can explain what is a
+brute smooth correct
+basically it's it's running a program
+that will run all the digits of your
+password through like a dictionary until
+it comes to the actual solution so we
+think the simple password or a complex
+password this one here very simple
+really we said can you give me an
+example of a complex password is that
+when they ask you to use like an
+asterisk and an uppercase and lowercase
+sure prevailing wisdom these days is
+that you should actually start thinking
+in terms of pass phrases rather than
+passwords okay
+so for instance the the passphrase like
+horse cup shoe-shining
+life like for instance a bunch of
+seriously unrelated words that comprise
+maybe like four or five of them there's
+actually a password program called dice
+where that will actually help you choose
+these things and so I mean you can
+provide yourself with the ability to
+memorize a passphrase relatively easily
+and it's far more difficult than seven
+alphanumeric characters do you know
+about security questions can they help
+as well because iPad it's a good idea to
+say this for each question things like
+what would your mother's maid mean to
+set the answer to that to be the answer
+to a completely different question like
+your date of birth for sure you don't
+you know especially mother's maiden name
+you've got a genealogy site and find
+those out pretty quick on people um but
+there's another thing you can do that
+allow you to go to any site have it
+always be unique and still be kind of
+easy remember come up with come your set
+password have it be eight characters
+crazy uppercase lowercase whatever it is
+and then look at the domain name from
+where you're at and come up with your
+algorithm of what you're going to use
+let's say it's Amazon I'm going to use
+the first letter in the last nine or if
+that domain name and from every that
+point on every site I go to always add
+the first and last letter of the domain
+name at the end of my password so now
+every time I go to my password will
+always be unique and yet for me it will
+be easy for me remember cuz I just look
+at the domain name and I know whatever
+it is run off of that I just want to say
+that password recovery questions are the
+devil so you go to a website and you
+type in your password and then you
+realize that you don't remember it and
+then you get a drop-down which says what
+what city were you born in right now you
+can find out what city I was born in by
+googling my name the answer to the
+question which city were you born in
+that is now your password like would you
+set your password to Austin if you
+wouldn't set your password to Austin
+then you shouldn't use it for password
+recovery questions let's look at this
+from a global perspective how safe is
+the world on average in 2015 one hundred
+thousand cyber attacks hit the US
+Department of Defense every single day
+awesome teaching the next terrorist
+attack is going to be a cyber attack I
+think it will be one I don't know about
+the next but you know one of the things
+that the government does is kind of an
+army getting scenario right kind of
+working out how they would respond to a
+targeted attack that almost like
+three-prong taking out critical
+infrastructure
+financial maybe Nasdaq or stock
+exchange taking down public
+transportation knocking out the MTA at
+the same time taking out maybe the kana
+electric grid you think about all the
+implications aside from mass panic think
+about all the people who are trapped in
+on subways in the tunnel think about the
+power goes down how many people are
+affected how many lives are affected a
+complete another nightmare these
+scenarios are looked at because they're
+there in a real they're real
+possibilities I mean we've talked about
+government defending itself I know it
+concerns a lot of people but is about
+defending ourselves from surveillance
+from government I think over the last
+sort of three four years we've we've
+learnt the web sites you browse on the
+internet the emails you send you know
+the documents you see and back and forth
+and messages you post on message boards
+the majority of this information that
+passes over the Internet
+is you know sort of collected by
+government intelligence I mean not
+specifically because of you right but
+they've just decided that they need the
+haystack if they want a sifter people
+didn't realize like the amount of
+information that can be gathered just
+from your home you you have smart
+devices that you put your televisions
+now your Amazon echo these things that
+you're putting out they can actually
+listen to what you're saying do collect
+data yes your Fitbit and they've
+actually been subpoenaed you need legal
+process to get that type of information
+the government just can't come knocking
+on your door and come catch your Fitbit
+and say we want to download it there has
+to be probable cause to believe that a
+crime is being committed or has been
+committed and the fruit of that crime
+the amount of resources that it takes to
+tap a phone and monitor that phone
+legally is a lot that's the highest
+level of intrusiveness that the
+government can do you have to exhaust
+all of our investigative possibilities
+to get to that wiretap I think now like
+what if someone went through my house or
+someone went through my bedroom what do
+they get right they they can see what
+I'm reading play the clothes I wear they
+might gain some information as to my
+sexual proclivities but what if someone
+went through my phone right that is
+actually a far far more invasive level
+of information than you could actually
+find going through my bedroom but I've
+no interested in looking at your phone
+if I don't think you're doing anything
+right but so I mean like does does that
+mean that you should get the data about
+my online activities just to reassure
+yourself I mean there's a friction there
+between transparency required to have
+public trust in your actions and then
+you know obviously keeping and and I see
+it out of secret right I think that's
+the crux of the issue it's we can't
+release everything that you're doing
+unless it's not going to work right you
+can't surveil somebody for six weeks if
+you're telling them that your
+surveillance let's talk about another
+vulnerability most people think about
+your personal computer or phone when
+talking about cybersecurity but what
+about your car take a look at this more
+than 36 billion dollars that's the
+projected revenue from wireless devices
+in cars by 2018 however nearly one and a
+half million vehicles were recalled by
+Chrysler in 2015 for vulnerability
+tacking and 100 million Volkswagen cars
+are vulnerable to hacking - Jim the
+public was really excited about what if
+these devices write will be cheap no I
+mean devices are cool I mean you can do
+a lot a lot of great things now you can
+turn your car on from an app I mean
+that's pretty cool but know where the
+risk comes in is that you have all these
+manufacturers that have you know one
+today we want to go Wi-Fi we want to
+have this stuff in our cars and I think
+that they kind of put the cart before
+the horse and didn't really think about
+the security aspects at least at a real
+level until after the fact Chrysler to
+me was the most frightening because you
+could remotely control the car and so if
+you're talking about being in your home
+on a computer and being able to turn
+somebody's car off or and screw with
+them and someone run on the road that's
+pretty frightening and that bad idea
+that crime scene came up they can expect
+okay yeah but their fix is a frightening
+fix even because what they said is okay
+here's what we're gonna do we're gonna
+send you a USB in the mail and you me
+dude ow that's that's the fix and you
+have to put it in your car to patch your
+car how many people do you think did
+that um I mean I guarantee if my parents
+got a USB in the mail they look at it
+and you know think of some foreign
+object in throw it away I mean they just
+would know to do with that at all okay
+we have time for another question
+he knows house 1 hello
+we're just worrying if you guys think
+the privacy is a thing of the past now I
+think privacy is a thing of the past a
+while ago I don't think that's I think
+maybe people are starting to realize it
+now but we can't rely on a guy who went
+well I mean the minute you got a
+cellphone you've given up a certain
+level of privacy I mean right off the
+mark people know on track exactly where
+you are pretty much all the time whether
+you want to or not every time you
+install an app you answer like yes I
+allow it to have all this access
+nobody ever actually reads with the
+access that they're giving up but they
+give up all this access
+so that what are the manufacturers of
+that app can now monitor certain things
+you're doing does that mean the privacy
+has become a thing of the past thing on
+since yes I guess it also depends on
+what you're calling a privacy I mean is
+it Big Brother looking down and
+monitoring everything you do I don't
+think we're there is it that people or
+organizations are able to track certain
+things you do and then they can take
+that data and use that for whatever
+purposes they want absolutely
+unfortunately that does it for this
+edition of the business of life I'd like
+to thank all of our panelists for
+joining us here today Austin Morgan and
+Jim and all of you for watching home
+we'll see you next time from the
+difference of life
+business of life is made possible by
+better money habits it's a free resource
+that helps you build practical knowledge
+and take control of your finances
+powered by Bank of America see more that
+our money habits calm
+you

@@ -1,0 +1,488 @@
+1
+00:00:00,030 --> 00:00:02,100
+this week a<font color="#CCCCCC"> new self-driving car was</font>
+
+2
+00:00:02,100 --> 00:00:03,750
+rolled out it's a collaboration between
+
+3
+00:00:03,750 --> 00:00:06,330
+Chrysler and<font color="#CCCCCC"> wham-o</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> spin-off of</font>
+
+4
+00:00:06,330 --> 00:00:08,460
+Google<font color="#E5E5E5"> X the search giant highly</font>
+
+5
+00:00:08,460 --> 00:00:11,010
+secretive special project lab they
+
+6
+00:00:11,010 --> 00:00:12,960
+opened their offices to<font color="#E5E5E5"> vice news for a</font>
+
+7
+00:00:12,960 --> 00:00:14,610
+rare glimpse<font color="#CCCCCC"> of</font><font color="#E5E5E5"> what they're</font><font color="#CCCCCC"> building</font>
+
+8
+00:00:14,610 --> 00:00:16,890
+<font color="#E5E5E5">and shared never-before-seen footage of</font>
+
+9
+00:00:16,890 --> 00:00:23,760
+<font color="#E5E5E5">their early prototype you can't walk</font>
+
+10
+00:00:23,760 --> 00:00:25,350
+down<font color="#CCCCCC"> the</font><font color="#E5E5E5"> street in San Francisco without</font>
+
+11
+00:00:25,350 --> 00:00:27,390
+<font color="#E5E5E5">seeing a car with a spinning</font><font color="#CCCCCC"> Castle of</font>
+
+12
+00:00:27,390 --> 00:00:30,660
+<font color="#CCCCCC">lasers speed by Ford</font><font color="#E5E5E5"> Toyota Nissan Honda</font>
+
+13
+00:00:30,660 --> 00:00:33,899
+<font color="#CCCCCC">all have self-driving</font><font color="#E5E5E5"> car projects uber</font>
+
+14
+00:00:33,899 --> 00:00:35,700
+<font color="#E5E5E5">has autonomous cars already picking up</font>
+
+15
+00:00:35,700 --> 00:00:38,640
+riders<font color="#CCCCCC"> in viña it's a self-driving arms</font>
+
+16
+00:00:38,640 --> 00:00:43,860
+race there have been self-driving cars
+
+17
+00:00:43,860 --> 00:00:46,950
+<font color="#CCCCCC">in certain guises for a long time look</font>
+
+18
+00:00:46,950 --> 00:00:49,379
+now at the electronics revolution<font color="#CCCCCC"> when</font>
+
+19
+00:00:49,379 --> 00:00:50,850
+people started<font color="#E5E5E5"> to</font><font color="#CCCCCC"> think wow we could</font>
+
+20
+00:00:50,850 --> 00:00:53,250
+actually control cars and have them on
+
+21
+00:00:53,250 --> 00:00:55,649
+the road<font color="#E5E5E5"> and this was a lot of</font><font color="#CCCCCC"> burying</font>
+
+22
+00:00:55,649 --> 00:00:57,809
+wires<font color="#E5E5E5"> in the middle of the lane</font><font color="#CCCCCC"> so that</font>
+
+23
+00:00:57,809 --> 00:01:00,120
+the car can follow it<font color="#E5E5E5"> then it actually</font>
+
+24
+00:01:00,120 --> 00:01:02,430
+started to become a little<font color="#E5E5E5"> bit real for</font>
+
+25
+00:01:02,430 --> 00:01:04,319
+example in 1995<font color="#E5E5E5"> navlab</font>
+
+26
+00:01:04,319 --> 00:01:06,030
+which was<font color="#E5E5E5"> the project at</font><font color="#CCCCCC"> Carnegie Mellon</font>
+
+27
+00:01:06,030 --> 00:01:09,390
+drove across<font color="#CCCCCC"> the</font><font color="#E5E5E5"> United States</font><font color="#CCCCCC"> 98%</font><font color="#E5E5E5"> of it</font>
+
+28
+00:01:09,390 --> 00:01:11,689
+no hands no hands touching<font color="#E5E5E5"> the wheel</font>
+
+29
+00:01:11,689 --> 00:01:14,820
+<font color="#E5E5E5">Google saw all of this progress that had</font>
+
+30
+00:01:14,820 --> 00:01:17,220
+been made<font color="#E5E5E5"> and they decided</font><font color="#CCCCCC"> let's</font><font color="#E5E5E5"> see</font>
+
+31
+00:01:17,220 --> 00:01:18,420
+where we can<font color="#CCCCCC"> go</font><font color="#E5E5E5"> from there</font>
+
+32
+00:01:18,420 --> 00:01:20,520
+Google hired those early car hackers
+
+33
+00:01:20,520 --> 00:01:22,920
+including<font color="#CCCCCC"> Nathaniel a roboticist from</font>
+
+34
+00:01:22,920 --> 00:01:24,689
+<font color="#E5E5E5">Carnegie</font><font color="#CCCCCC"> Mellon</font><font color="#E5E5E5"> and decided</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> try to</font>
+
+35
+00:01:24,689 --> 00:01:26,820
+<font color="#E5E5E5">make it a business which has been harder</font>
+
+36
+00:01:26,820 --> 00:01:29,220
+than<font color="#E5E5E5"> the company expected first there's</font>
+
+37
+00:01:29,220 --> 00:01:32,340
+a 2009 retrofitted Prius<font color="#CCCCCC"> than a Lexus</font>
+
+38
+00:01:32,340 --> 00:01:35,490
+SUV in 2014 they made their own car from
+
+39
+00:01:35,490 --> 00:01:38,009
+the<font color="#CCCCCC"> ground up</font><font color="#E5E5E5"> prototype</font><font color="#CCCCCC"> a little bubble</font>
+
+40
+00:01:38,009 --> 00:01:39,500
+car without a steering<font color="#CCCCCC"> wheel at all</font>
+
+41
+00:01:39,500 --> 00:01:42,390
+<font color="#E5E5E5">which brings us to</font><font color="#CCCCCC"> way low which is what</font>
+
+42
+00:01:42,390 --> 00:01:43,829
+the company now is<font color="#E5E5E5"> calling their</font>
+
+43
+00:01:43,829 --> 00:01:47,549
+self-driving car project<font color="#E5E5E5"> yes</font><font color="#CCCCCC"> wham-o</font><font color="#E5E5E5"> you</font>
+
+44
+00:01:47,549 --> 00:01:49,610
+know you're in Silicon Valley<font color="#E5E5E5"> now</font>
+
+45
+00:01:49,610 --> 00:01:52,130
+here's me and<font color="#E5E5E5"> my big ham hands all over</font>
+
+46
+00:01:52,130 --> 00:01:55,970
+<font color="#E5E5E5">the wheel right now I'm doing this</font><font color="#CCCCCC"> Auto</font>
+
+47
+00:01:55,970 --> 00:01:59,540
+<font color="#CCCCCC">training hand off the card expert safe</font>
+
+48
+00:01:59,540 --> 00:02:01,670
+travel car is an extra safe driver I
+
+49
+00:02:01,670 --> 00:02:03,350
+mean in<font color="#CCCCCC"> general we're talking like a</font>
+
+50
+00:02:03,350 --> 00:02:05,510
+grandma level or<font color="#CCCCCC"> Grandma well it's not</font>
+
+51
+00:02:05,510 --> 00:02:08,060
+exactly<font color="#E5E5E5"> grandma level</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> assertive but</font>
+
+52
+00:02:08,060 --> 00:02:09,649
+it's very<font color="#E5E5E5"> safe it remembers all</font><font color="#CCCCCC"> the</font>
+
+53
+00:02:09,649 --> 00:02:12,470
+steps<font color="#E5E5E5"> every time so if it's going to</font>
+
+54
+00:02:12,470 --> 00:02:14,120
+make a turn it remembers<font color="#CCCCCC"> the turn the</font>
+
+55
+00:02:14,120 --> 00:02:15,860
+turn signal on every time<font color="#E5E5E5"> there's a</font>
+
+56
+00:02:15,860 --> 00:02:17,420
+pedestrian getting out of a car over
+
+57
+00:02:17,420 --> 00:02:19,670
+there all<font color="#CCCCCC"> of that information</font><font color="#E5E5E5"> we build a</font>
+
+58
+00:02:19,670 --> 00:02:21,440
+<font color="#E5E5E5">model of the</font><font color="#CCCCCC"> world</font><font color="#E5E5E5"> and then that gets</font>
+
+59
+00:02:21,440 --> 00:02:23,450
+pulled into the planner<font color="#E5E5E5"> and the planner</font>
+
+60
+00:02:23,450 --> 00:02:26,180
+<font color="#E5E5E5">has to decide hey is that cyclist going</font>
+
+61
+00:02:26,180 --> 00:02:27,860
+<font color="#CCCCCC">to keep going straighter they going to</font>
+
+62
+00:02:27,860 --> 00:02:30,950
+make<font color="#CCCCCC"> a turn</font><font color="#E5E5E5"> never get scared test</font>
+
+63
+00:02:30,950 --> 00:02:33,320
+traffic the unpredictability of<font color="#CCCCCC"> a human</font>
+
+64
+00:02:33,320 --> 00:02:35,330
+being<font color="#E5E5E5"> that</font><font color="#CCCCCC"> is what scares me the most</font>
+
+65
+00:02:35,330 --> 00:02:37,880
+<font color="#E5E5E5">when I'm in this car yeah humans are</font>
+
+66
+00:02:37,880 --> 00:02:38,720
+terrible<font color="#E5E5E5"> drivers</font>
+
+67
+00:02:38,720 --> 00:02:41,060
+humans are shocking<font color="#E5E5E5"> I said on Instagram</font>
+
+68
+00:02:41,060 --> 00:02:45,290
+<font color="#E5E5E5">while I'm driving didn't hear that the</font>
+
+69
+00:02:45,290 --> 00:02:46,790
+different Google<font color="#E5E5E5"> car models have had</font>
+
+70
+00:02:46,790 --> 00:02:49,430
+<font color="#E5E5E5">similar technology lasers radar and</font>
+
+71
+00:02:49,430 --> 00:02:52,070
+cameras the car makes a 3d model of<font color="#E5E5E5"> the</font>
+
+72
+00:02:52,070 --> 00:02:53,690
+<font color="#E5E5E5">world around it and can differentiate</font>
+
+73
+00:02:53,690 --> 00:02:56,120
+<font color="#E5E5E5">between a pedestrian and a bicycle</font><font color="#CCCCCC"> or a</font>
+
+74
+00:02:56,120 --> 00:02:58,760
+duck<font color="#E5E5E5"> wham-o recently started making</font>
+
+75
+00:02:58,760 --> 00:03:01,700
+these tools<font color="#CCCCCC"> in-house and this new car is</font>
+
+76
+00:03:01,700 --> 00:03:03,470
+basically<font color="#CCCCCC"> a</font><font color="#E5E5E5"> tricked-out Chrysler a</font>
+
+77
+00:03:03,470 --> 00:03:05,600
+compromise<font color="#CCCCCC"> from early visions of</font>
+
+78
+00:03:05,600 --> 00:03:07,670
+<font color="#E5E5E5">building a vehicle from scratch crouch</font>
+
+79
+00:03:07,670 --> 00:03:10,940
+down here<font color="#E5E5E5"> that thing up on the roof</font>
+
+80
+00:03:10,940 --> 00:03:12,620
+can't see me there's actually<font color="#E5E5E5"> four</font>
+
+81
+00:03:12,620 --> 00:03:14,510
+lasers that<font color="#E5E5E5"> provide kind</font><font color="#CCCCCC"> of complete</font>
+
+82
+00:03:14,510 --> 00:03:16,730
+<font color="#E5E5E5">blind spot coverage all around</font><font color="#CCCCCC"> the car</font>
+
+83
+00:03:16,730 --> 00:03:19,519
+<font color="#E5E5E5">now the laser data is a fairly short</font>
+
+84
+00:03:19,519 --> 00:03:21,140
+range like I was saying out to about<font color="#E5E5E5"> 10</font>
+
+85
+00:03:21,140 --> 00:03:23,120
+meters<font color="#E5E5E5"> or so and it can see a lot of</font>
+
+86
+00:03:23,120 --> 00:03:25,730
+<font color="#E5E5E5">detail the radars can actually see way</font>
+
+87
+00:03:25,730 --> 00:03:27,560
+out far they can<font color="#E5E5E5"> see about</font><font color="#CCCCCC"> 200 meters</font>
+
+88
+00:03:27,560 --> 00:03:29,420
+out and they are really<font color="#E5E5E5"> good at picking</font>
+
+89
+00:03:29,420 --> 00:03:31,220
+<font color="#CCCCCC">up motion that's all you care</font><font color="#E5E5E5"> about at</font>
+
+90
+00:03:31,220 --> 00:03:32,690
+long distance if<font color="#E5E5E5"> you can't break it if I</font>
+
+91
+00:03:32,690 --> 00:03:34,310
+<font color="#CCCCCC">remember all</font><font color="#E5E5E5"> that we can break I</font><font color="#CCCCCC"> can</font>
+
+92
+00:03:34,310 --> 00:03:36,230
+<font color="#CCCCCC">track it</font><font color="#E5E5E5"> with a look at that yeah</font><font color="#CCCCCC"> okay</font>
+
+93
+00:03:36,230 --> 00:03:38,959
+no<font color="#CCCCCC"> breaking</font><font color="#E5E5E5"> no breaking you think</font>
+
+94
+00:03:38,959 --> 00:03:40,910
+culturally Americans can handle
+
+95
+00:03:40,910 --> 00:03:44,000
+self-driving cars driving<font color="#CCCCCC"> is sold</font><font color="#E5E5E5"> to us</font>
+
+96
+00:03:44,000 --> 00:03:47,239
+as that<font color="#E5E5E5"> sitting in your convertible a</font>
+
+97
+00:03:47,239 --> 00:03:50,690
+pop down<font color="#E5E5E5"> breeze through your hair but</font>
+
+98
+00:03:50,690 --> 00:03:53,989
+for<font color="#CCCCCC"> most of us</font><font color="#E5E5E5"> driving</font><font color="#CCCCCC"> is a 50 minute</font>
+
+99
+00:03:53,989 --> 00:03:57,440
+commute<font color="#E5E5E5"> each way</font><font color="#CCCCCC"> every day</font><font color="#E5E5E5"> the company</font>
+
+100
+00:03:57,440 --> 00:03:58,940
+<font color="#CCCCCC">has been developing this car</font>
+
+101
+00:03:58,940 --> 00:04:01,370
+<font color="#CCCCCC">years spending</font><font color="#E5E5E5"> untold millions and you</font>
+
+102
+00:04:01,370 --> 00:04:04,670
+still can't buy a thing now late entries
+
+103
+00:04:04,670 --> 00:04:06,470
+into<font color="#E5E5E5"> the race like uber might even</font>
+
+104
+00:04:06,470 --> 00:04:09,020
+overtake them our cars have<font color="#E5E5E5"> more</font>
+
+105
+00:04:09,020 --> 00:04:10,790
+experience our technology is based off
+
+106
+00:04:10,790 --> 00:04:12,410
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> more experience our solutions are</font>
+
+107
+00:04:12,410 --> 00:04:14,090
+<font color="#CCCCCC">based off the more experience so what I</font>
+
+108
+00:04:14,090 --> 00:04:16,519
+am pretty confident<font color="#E5E5E5"> is saying is that</font><font color="#CCCCCC"> we</font>
+
+109
+00:04:16,519 --> 00:04:18,649
+<font color="#CCCCCC">have run into</font><font color="#E5E5E5"> more problems than anybody</font>
+
+110
+00:04:18,649 --> 00:04:21,410
+else<font color="#E5E5E5"> if it seems strange a search engine</font>
+
+111
+00:04:21,410 --> 00:04:23,480
+company would be building<font color="#E5E5E5"> a car it is</font>
+
+112
+00:04:23,480 --> 00:04:25,850
+and a<font color="#E5E5E5"> lot of</font><font color="#CCCCCC"> these moonshot projects</font>
+
+113
+00:04:25,850 --> 00:04:27,950
+have<font color="#CCCCCC"> been getting</font><font color="#E5E5E5"> killed lately by CFO</font>
+
+114
+00:04:27,950 --> 00:04:31,070
+<font color="#E5E5E5">Ruth</font><font color="#CCCCCC"> Porat</font><font color="#E5E5E5"> so long fiber optic cabling</font>
+
+115
+00:04:31,070 --> 00:04:33,740
+<font color="#CCCCCC">solar powered drones</font><font color="#E5E5E5"> and modular phones</font>
+
+116
+00:04:33,740 --> 00:04:37,220
+<font color="#E5E5E5">but not today for whammo their first</font>
+
+117
+00:04:37,220 --> 00:04:38,960
+<font color="#E5E5E5">product is hitting the</font><font color="#CCCCCC"> road for testing</font>
+
+118
+00:04:38,960 --> 00:04:41,270
+<font color="#E5E5E5">a huge moment for longtime believers</font>
+
+119
+00:04:41,270 --> 00:04:43,640
+like<font color="#E5E5E5"> Nathaniel when will you</font><font color="#CCCCCC"> buy this</font>
+
+120
+00:04:43,640 --> 00:04:48,550
+car<font color="#CCCCCC"> aha good question when it's ready</font>
+
+121
+00:04:48,550 --> 00:04:51,860
+which is soon
+
+122
+00:04:51,860 --> 00:00:00,000
+[Music]
+

@@ -1,0 +1,604 @@
+1
+00:00:01,669 --> 00:00:04,470
+well joining<font color="#E5E5E5"> me now from Amsterdam is</font>
+
+2
+00:00:04,470 --> 00:00:07,350
+Adam Anders<font color="#E5E5E5"> Adam is a co-founder</font><font color="#CCCCCC"> and</font>
+
+3
+00:00:07,350 --> 00:00:09,960
+managing<font color="#CCCCCC"> partner at</font><font color="#E5E5E5"> and terror capital</font>
+
+4
+00:00:09,960 --> 00:00:11,219
+good to have you with us
+
+5
+00:00:11,219 --> 00:00:14,040
+so can the world produce enough<font color="#CCCCCC"> food for</font>
+
+6
+00:00:14,040 --> 00:00:16,379
+<font color="#CCCCCC">nine billion people</font><font color="#E5E5E5"> that's the big</font>
+
+7
+00:00:16,379 --> 00:00:18,150
+concern going<font color="#CCCCCC"> forward</font><font color="#E5E5E5"> where do you think</font>
+
+8
+00:00:18,150 --> 00:00:20,340
+we're heading you know I think<font color="#E5E5E5"> if it's</font>
+
+9
+00:00:20,340 --> 00:00:22,830
+just<font color="#E5E5E5"> about delivering calories there is</font>
+
+10
+00:00:22,830 --> 00:00:24,930
+enough land around the world and
+
+11
+00:00:24,930 --> 00:00:26,609
+probably<font color="#E5E5E5"> enough resourceful people</font><font color="#CCCCCC"> I</font>
+
+12
+00:00:26,609 --> 00:00:29,189
+think<font color="#CCCCCC"> the problem</font><font color="#E5E5E5"> is where that food has</font>
+
+13
+00:00:29,189 --> 00:00:30,960
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> be and whether</font><font color="#CCCCCC"> it's nutritious enough</font>
+
+14
+00:00:30,960 --> 00:00:32,098
+whether it's affordable
+
+15
+00:00:32,098 --> 00:00:36,690
+what exactly is AG tech so for us AG
+
+16
+00:00:36,690 --> 00:00:41,219
+<font color="#E5E5E5">tech is the adoption</font><font color="#CCCCCC"> of new ideas new</font>
+
+17
+00:00:41,219 --> 00:00:43,829
+technologies<font color="#E5E5E5"> being digital biotech</font>
+
+18
+00:00:43,829 --> 00:00:47,489
+material sciences applied<font color="#CCCCCC"> to any aspect</font>
+
+19
+00:00:47,489 --> 00:00:49,170
+of<font color="#E5E5E5"> the food and agriculture value chain</font>
+
+20
+00:00:49,170 --> 00:00:51,660
+that works from the stage of breeding to
+
+21
+00:00:51,660 --> 00:00:54,500
+pesticides on farm<font color="#CCCCCC"> practices</font>
+
+22
+00:00:54,500 --> 00:00:57,500
+transportation<font color="#CCCCCC"> shelf-life logistics</font>
+
+23
+00:00:57,500 --> 00:01:00,149
+<font color="#CCCCCC">right give us some examples though</font><font color="#E5E5E5"> some</font>
+
+24
+00:01:00,149 --> 00:01:03,539
+practical examples<font color="#CCCCCC"> of what a</font><font color="#E5E5E5"> normal farm</font>
+
+25
+00:01:03,539 --> 00:01:05,880
+<font color="#E5E5E5">that's converted into AG tag how does it</font>
+
+26
+00:01:05,880 --> 00:01:10,110
+<font color="#E5E5E5">look different and so for</font><font color="#CCCCCC"> example if</font>
+
+27
+00:01:10,110 --> 00:01:11,729
+we're dealing at<font color="#E5E5E5"> the farm level you</font>
+
+28
+00:01:11,729 --> 00:01:14,220
+could first of<font color="#E5E5E5"> all what AG input the</font>
+
+29
+00:01:14,220 --> 00:01:17,220
+farmer might choose so the genetics<font color="#E5E5E5"> the</font>
+
+30
+00:01:17,220 --> 00:01:19,470
+actual performance<font color="#CCCCCC"> of the plant how do</font>
+
+31
+00:01:19,470 --> 00:01:21,420
+we know that that<font color="#E5E5E5"> plant is suitable for</font>
+
+32
+00:01:21,420 --> 00:01:23,400
+that soil<font color="#E5E5E5"> how do we know that the right</font>
+
+33
+00:01:23,400 --> 00:01:26,060
+<font color="#CCCCCC">amount that C is going</font><font color="#E5E5E5"> to be used and</font>
+
+34
+00:01:26,060 --> 00:01:28,560
+then from there once you've actually
+
+35
+00:01:28,560 --> 00:01:30,570
+<font color="#CCCCCC">made a planting decision</font><font color="#E5E5E5"> how can you use</font>
+
+36
+00:01:30,570 --> 00:01:34,770
+data in order to<font color="#E5E5E5"> be</font><font color="#CCCCCC"> more precise both</font>
+
+37
+00:01:34,770 --> 00:01:36,659
+about that first moment<font color="#E5E5E5"> of planting and</font>
+
+38
+00:01:36,659 --> 00:01:39,000
+<font color="#E5E5E5">then how to treat that that plant as it</font>
+
+39
+00:01:39,000 --> 00:01:41,700
+grows then we go through<font color="#CCCCCC"> that treatment</font>
+
+40
+00:01:41,700 --> 00:01:43,170
+<font color="#E5E5E5">process with</font><font color="#CCCCCC"> different forms of</font>
+
+41
+00:01:43,170 --> 00:01:45,530
+pesticide fungicide herbicide
+
+42
+00:01:45,530 --> 00:01:47,640
+traditionally an area where<font color="#E5E5E5"> some quite</font>
+
+43
+00:01:47,640 --> 00:01:49,740
+brutal chemicals have been<font color="#E5E5E5"> used and it's</font>
+
+44
+00:01:49,740 --> 00:01:52,170
+time<font color="#CCCCCC"> to</font><font color="#E5E5E5"> the next generation and then</font>
+
+45
+00:01:52,170 --> 00:01:53,970
+it's harvesting time<font color="#E5E5E5"> how do we record</font>
+
+46
+00:01:53,970 --> 00:01:56,310
+<font color="#CCCCCC">that yield</font><font color="#E5E5E5"> how can the</font><font color="#CCCCCC"> farmer best</font><font color="#E5E5E5"> mark</font>
+
+47
+00:01:56,310 --> 00:01:59,430
+<font color="#E5E5E5">at that product</font><font color="#CCCCCC"> and digital or biotech</font>
+
+48
+00:01:59,430 --> 00:02:01,439
+solutions are<font color="#CCCCCC"> available to help every</font>
+
+49
+00:02:01,439 --> 00:02:03,899
+aspect<font color="#E5E5E5"> for the power okay but listening</font>
+
+50
+00:02:03,899 --> 00:02:05,640
+<font color="#CCCCCC">to you there one wonders this are we</font>
+
+51
+00:02:05,640 --> 00:02:07,740
+talking about<font color="#E5E5E5"> a system</font><font color="#CCCCCC"> of farming</font><font color="#E5E5E5"> that</font>
+
+52
+00:02:07,740 --> 00:02:10,770
+really requires a fundamental maybe
+
+53
+00:02:10,770 --> 00:02:13,620
+complicated set<font color="#CCCCCC"> of changes</font><font color="#E5E5E5"> to the whole</font>
+
+54
+00:02:13,620 --> 00:02:15,690
+<font color="#CCCCCC">Sesa</font><font color="#E5E5E5"> farming you know I don't</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> so</font>
+
+55
+00:02:15,690 --> 00:02:17,400
+and<font color="#CCCCCC"> also farmers can adopt it in</font>
+
+56
+00:02:17,400 --> 00:02:19,620
+<font color="#E5E5E5">different degrees so if it's just a</font>
+
+57
+00:02:19,620 --> 00:02:23,519
+better performing<font color="#CCCCCC"> sea in a saline soil</font>
+
+58
+00:02:23,519 --> 00:02:28,230
+or<font color="#CCCCCC"> an</font><font color="#E5E5E5"> low moisture</font><font color="#CCCCCC"> environment that's</font>
+
+59
+00:02:28,230 --> 00:02:29,129
+<font color="#E5E5E5">something that could be distributed</font>
+
+60
+00:02:29,129 --> 00:02:31,430
+anywhere<font color="#CCCCCC"> in the world and just</font><font color="#E5E5E5"> help</font>
+
+61
+00:02:31,430 --> 00:02:34,019
+<font color="#E5E5E5">productivity</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> use you can also go very</font>
+
+62
+00:02:34,019 --> 00:02:37,530
+<font color="#E5E5E5">high-tech and be analyzing your farm not</font>
+
+63
+00:02:37,530 --> 00:02:40,260
+even at the field<font color="#E5E5E5"> over</font><font color="#CCCCCC"> at the plant</font>
+
+64
+00:02:40,260 --> 00:02:42,659
+level eventually<font color="#E5E5E5"> maybe so I think that's</font>
+
+65
+00:02:42,659 --> 00:02:45,420
+going to<font color="#E5E5E5"> be up to the farm</font><font color="#CCCCCC"> is there</font>
+
+66
+00:02:45,420 --> 00:02:46,769
+enough<font color="#E5E5E5"> investment going on there they</font>
+
+67
+00:02:46,769 --> 00:02:49,859
+like that because it sounds great<font color="#E5E5E5"> the</font>
+
+68
+00:02:49,859 --> 00:02:52,709
+investment activity is moved from let's
+
+69
+00:02:52,709 --> 00:02:54,269
+say five years<font color="#CCCCCC"> ago</font><font color="#E5E5E5"> practically</font>
+
+70
+00:02:54,269 --> 00:02:57,989
+non-existent<font color="#CCCCCC"> so globally when we started</font>
+
+71
+00:02:57,989 --> 00:03:00,810
+looking at<font color="#E5E5E5"> eight</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> ten years</font><font color="#CCCCCC"> ago was</font>
+
+72
+00:03:00,810 --> 00:03:03,959
+<font color="#CCCCCC">300</font><font color="#E5E5E5"> million globally invested a year in</font>
+
+73
+00:03:03,959 --> 00:03:06,299
+the one<font color="#CCCCCC"> of the largest centers in the</font>
+
+74
+00:03:06,299 --> 00:03:09,090
+earth<font color="#E5E5E5"> these days</font><font color="#CCCCCC"> we're looking in</font><font color="#E5E5E5"> the</font>
+
+75
+00:03:09,090 --> 00:03:11,159
+billions<font color="#E5E5E5"> and</font><font color="#CCCCCC"> egg tech alone</font><font color="#E5E5E5"> probably</font>
+
+76
+00:03:11,159 --> 00:03:13,260
+<font color="#CCCCCC">three to</font><font color="#E5E5E5"> four billion last year</font><font color="#CCCCCC"> if you</font>
+
+77
+00:03:13,260 --> 00:03:15,750
+<font color="#CCCCCC">include food tech</font><font color="#E5E5E5"> some people say</font><font color="#CCCCCC"> Tempe</font>
+
+78
+00:03:15,750 --> 00:03:18,540
+so it's definitely growing<font color="#CCCCCC"> is it enough</font>
+
+79
+00:03:18,540 --> 00:03:21,510
+<font color="#CCCCCC">there I'm</font><font color="#E5E5E5"> not sure</font><font color="#CCCCCC"> about you</font><font color="#E5E5E5"> what about</font>
+
+80
+00:03:21,510 --> 00:03:23,549
+developing countries will they be<font color="#E5E5E5"> left</font>
+
+81
+00:03:23,549 --> 00:03:26,940
+behind the AG tech revolution<font color="#CCCCCC"> if they're</font>
+
+82
+00:03:26,940 --> 00:03:28,980
+not<font color="#E5E5E5"> able</font><font color="#CCCCCC"> to put as much money</font><font color="#E5E5E5"> as others</font>
+
+83
+00:03:28,980 --> 00:03:33,030
+into the game I personally think some of
+
+84
+00:03:33,030 --> 00:03:35,250
+<font color="#E5E5E5">the best</font><font color="#CCCCCC"> opportunities for</font><font color="#E5E5E5"> improvement</font>
+
+85
+00:03:35,250 --> 00:03:38,310
+are an<font color="#E5E5E5"> emerging</font><font color="#CCCCCC"> countries and also some</font>
+
+86
+00:03:38,310 --> 00:03:39,780
+<font color="#CCCCCC">of the</font><font color="#E5E5E5"> best opportunities</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> getting a</font>
+
+87
+00:03:39,780 --> 00:03:43,109
+return<font color="#CCCCCC"> on that application</font><font color="#E5E5E5"> of technology</font>
+
+88
+00:03:43,109 --> 00:03:45,269
+for entrepreneurs<font color="#E5E5E5"> and that's in</font><font color="#CCCCCC"> part</font>
+
+89
+00:03:45,269 --> 00:03:47,220
+because we've got a very<font color="#CCCCCC"> big yield cap</font>
+
+90
+00:03:47,220 --> 00:03:49,919
+<font color="#CCCCCC">and in developed countries farmers are</font>
+
+91
+00:03:49,919 --> 00:03:52,440
+achieving<font color="#CCCCCC"> seventy sometimes 80 percent</font>
+
+92
+00:03:52,440 --> 00:03:54,840
+of yield potential in emerging markets
+
+93
+00:03:54,840 --> 00:03:57,480
+often<font color="#E5E5E5"> 30 percent another key reason</font>
+
+94
+00:03:57,480 --> 00:03:59,730
+would<font color="#CCCCCC"> be we're seeing a step change in</font>
+
+95
+00:03:59,730 --> 00:04:01,680
+technology<font color="#E5E5E5"> where you</font><font color="#CCCCCC"> turn it to</font><font color="#E5E5E5"> going</font>
+
+96
+00:04:01,680 --> 00:04:03,209
+through<font color="#E5E5E5"> the farming practices that have</font>
+
+97
+00:04:03,209 --> 00:04:05,730
+helped emerging<font color="#E5E5E5"> in the developed markets</font>
+
+98
+00:04:05,730 --> 00:04:08,069
+<font color="#E5E5E5">but arguably these days are holding them</font>
+
+99
+00:04:08,069 --> 00:04:10,199
+<font color="#E5E5E5">back a bit and that links to my third</font>
+
+100
+00:04:10,199 --> 00:04:11,669
+reason why it's<font color="#E5E5E5"> going to be great for</font>
+
+101
+00:04:11,669 --> 00:04:14,220
+emerging markets<font color="#CCCCCC"> is less arrogant</font><font color="#E5E5E5"> about</font>
+
+102
+00:04:14,220 --> 00:04:16,529
+how to farm<font color="#E5E5E5"> and there's more openness to</font>
+
+103
+00:04:16,529 --> 00:04:18,620
+some of these suggestions than we see in
+
+104
+00:04:18,620 --> 00:04:22,019
+<font color="#CCCCCC">God</font><font color="#E5E5E5"> armies in say the Netherlands taking</font>
+
+105
+00:04:22,019 --> 00:04:23,490
+advice on how to do<font color="#E5E5E5"> Terry when they've</font>
+
+106
+00:04:23,490 --> 00:04:25,560
+been world leaders for 400<font color="#E5E5E5"> years</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> that</font>
+
+107
+00:04:25,560 --> 00:04:27,020
+sector
+
+108
+00:04:27,020 --> 00:04:29,360
+<font color="#E5E5E5">I like the point there you touched upon</font>
+
+109
+00:04:29,360 --> 00:04:31,280
+an issue<font color="#E5E5E5"> you made me think of an issue</font>
+
+110
+00:04:31,280 --> 00:04:32,690
+there when you said<font color="#E5E5E5"> they'll</font><font color="#CCCCCC"> be less</font>
+
+111
+00:04:32,690 --> 00:04:37,069
+arrogant<font color="#CCCCCC"> how</font><font color="#E5E5E5"> different will the farmer</font>
+
+112
+00:04:37,069 --> 00:04:39,500
+<font color="#CCCCCC">of the future look like then compared to</font>
+
+113
+00:04:39,500 --> 00:04:41,659
+<font color="#CCCCCC">now</font><font color="#E5E5E5"> because when you say farmer you know</font>
+
+114
+00:04:41,659 --> 00:04:43,190
+<font color="#E5E5E5">you kind of think</font><font color="#CCCCCC"> of a chap in</font><font color="#E5E5E5"> the field</font>
+
+115
+00:04:43,190 --> 00:04:46,610
+with a you<font color="#E5E5E5"> know raking the field</font><font color="#CCCCCC"> will</font>
+
+116
+00:04:46,610 --> 00:04:48,139
+the farmer instead<font color="#E5E5E5"> be sitting on a</font>
+
+117
+00:04:48,139 --> 00:04:49,909
+computer<font color="#CCCCCC"> with big</font><font color="#E5E5E5"> data and doing</font>
+
+118
+00:04:49,909 --> 00:04:51,830
+statistical manipulations or something
+
+119
+00:04:51,830 --> 00:04:54,949
+<font color="#E5E5E5">like</font><font color="#CCCCCC"> that okay</font><font color="#E5E5E5"> definitely</font><font color="#CCCCCC"> don't think</font><font color="#E5E5E5"> a</font>
+
+120
+00:04:54,949 --> 00:04:56,569
+<font color="#CCCCCC">computers part of the arts</font><font color="#E5E5E5"> and farmers</font>
+
+121
+00:04:56,569 --> 00:04:58,370
+will always want<font color="#E5E5E5"> to be in the food and</font>
+
+122
+00:04:58,370 --> 00:05:01,099
+<font color="#E5E5E5">be close to their plants their animals</font>
+
+123
+00:05:01,099 --> 00:05:02,750
+their<font color="#E5E5E5"> land and there's a big part of</font>
+
+124
+00:05:02,750 --> 00:05:04,460
+<font color="#CCCCCC">that that's</font><font color="#E5E5E5"> that's a part of</font><font color="#CCCCCC"> owning</font><font color="#E5E5E5"> a</font>
+
+125
+00:05:04,460 --> 00:05:06,110
+grub on<font color="#E5E5E5"> a farm that's a part</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> being a</font>
+
+126
+00:05:06,110 --> 00:05:09,590
+farmer<font color="#E5E5E5"> but using your</font><font color="#CCCCCC"> smartphone or an</font>
+
+127
+00:05:09,590 --> 00:05:12,710
+iPad in<font color="#E5E5E5"> order to prioritize what to do</font>
+
+128
+00:05:12,710 --> 00:05:14,599
+that<font color="#CCCCCC"> day to know</font><font color="#E5E5E5"> more in more</font>
+
+129
+00:05:14,599 --> 00:05:17,419
+specificity<font color="#E5E5E5"> where there might be disease</font>
+
+130
+00:05:17,419 --> 00:05:19,190
+pressure<font color="#E5E5E5"> how you can more accurately</font>
+
+131
+00:05:19,190 --> 00:05:21,500
+<font color="#CCCCCC">apply a pesticide or look</font><font color="#E5E5E5"> after your</font>
+
+132
+00:05:21,500 --> 00:05:25,129
+field<font color="#E5E5E5"> and actually farming at that more</font>
+
+133
+00:05:25,129 --> 00:05:27,259
+detailed<font color="#CCCCCC"> level will be</font><font color="#E5E5E5"> helped by</font>
+
+134
+00:05:27,259 --> 00:05:29,030
+technology<font color="#E5E5E5"> I'm quite certain of it</font>
+
+135
+00:05:29,030 --> 00:05:31,729
+<font color="#CCCCCC">whether it be 3d printing our food for</font>
+
+136
+00:05:31,729 --> 00:05:35,449
+example<font color="#CCCCCC"> but look I think</font><font color="#E5E5E5"> that's a</font>
+
+137
+00:05:35,449 --> 00:05:37,370
+different<font color="#CCCCCC"> solution in a different data</font>
+
+138
+00:05:37,370 --> 00:05:41,479
+set and<font color="#E5E5E5"> it's possible that 3d printing</font>
+
+139
+00:05:41,479 --> 00:05:44,000
+will<font color="#CCCCCC"> helpful but I don't see</font><font color="#E5E5E5"> that as a</font>
+
+140
+00:05:44,000 --> 00:05:46,009
+fundamental revolution in the same way
+
+141
+00:05:46,009 --> 00:05:48,080
+of what I see happening on<font color="#E5E5E5"> the farm</font><font color="#CCCCCC"> I do</font>
+
+142
+00:05:48,080 --> 00:05:49,610
+think it's a novel idea and I<font color="#E5E5E5"> think</font>
+
+143
+00:05:49,610 --> 00:05:52,009
+it'll<font color="#E5E5E5"> solve some transportation issues</font>
+
+144
+00:05:52,009 --> 00:05:55,400
+some ingredient issues and certainly it
+
+145
+00:05:55,400 --> 00:05:57,169
+can<font color="#CCCCCC"> be a</font><font color="#E5E5E5"> lot of fun in terms of</font>
+
+146
+00:05:57,169 --> 00:05:58,909
+<font color="#E5E5E5">different flavors textures and</font>
+
+147
+00:05:58,909 --> 00:06:00,229
+<font color="#E5E5E5">everything else that we're seeing in</font>
+
+148
+00:06:00,229 --> 00:06:02,630
+<font color="#E5E5E5">high-end restaurants</font><font color="#CCCCCC"> alright thanks so</font>
+
+149
+00:06:02,630 --> 00:06:04,310
+much for<font color="#E5E5E5"> coming</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> talking to us about</font>
+
+150
+00:06:04,310 --> 00:06:05,870
+that<font color="#E5E5E5"> that's</font><font color="#CCCCCC"> a great</font><font color="#E5E5E5"> pleasure thank you</font>
+
+151
+00:06:05,870 --> 00:00:00,000
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> having</font><font color="#E5E5E5"> me</font>
+

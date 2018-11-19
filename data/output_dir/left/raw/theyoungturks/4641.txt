@@ -1,0 +1,888 @@
+1
+00:00:00,000 --> 00:00:02,639
+<font color="#CCCCCC">a new cyber</font><font color="#E5E5E5"> attack hit Ukraine and</font>
+
+2
+00:00:02,639 --> 00:00:04,319
+unfortunately has now spread
+
+3
+00:00:04,319 --> 00:00:06,450
+internationally<font color="#CCCCCC"> disabling certain</font>
+
+4
+00:00:06,450 --> 00:00:09,000
+businesses and making it incredibly
+
+5
+00:00:09,000 --> 00:00:11,280
+<font color="#E5E5E5">difficult</font><font color="#CCCCCC"> for some</font><font color="#E5E5E5"> individuals to even</font>
+
+6
+00:00:11,280 --> 00:00:14,250
+access<font color="#CCCCCC"> their own money at ATMs now if</font>
+
+7
+00:00:14,250 --> 00:00:16,260
+you can<font color="#E5E5E5"> remember earlier this</font><font color="#CCCCCC"> year there</font>
+
+8
+00:00:16,260 --> 00:00:20,400
+was an attack that<font color="#CCCCCC"> was known to everyone</font>
+
+9
+00:00:20,400 --> 00:00:25,160
+as the wanna cry attacks right<font color="#E5E5E5"> and so</font>
+
+10
+00:00:25,160 --> 00:00:28,859
+individuals were unsure<font color="#E5E5E5"> who or who</font><font color="#CCCCCC"> these</font>
+
+11
+00:00:28,859 --> 00:00:32,488
+<font color="#CCCCCC">people include essentially hacked</font><font color="#E5E5E5"> into</font>
+
+12
+00:00:32,488 --> 00:00:35,130
+people's<font color="#E5E5E5"> computers encrypted their data</font>
+
+13
+00:00:35,130 --> 00:00:39,200
+and then<font color="#E5E5E5"> through ransomware were able to</font>
+
+14
+00:00:39,200 --> 00:00:42,480
+convince some individuals to pay up in
+
+15
+00:00:42,480 --> 00:00:44,070
+<font color="#CCCCCC">order</font><font color="#E5E5E5"> to reiax s their data</font>
+
+16
+00:00:44,070 --> 00:00:45,960
+<font color="#E5E5E5">well something similar is happening now</font>
+
+17
+00:00:45,960 --> 00:00:48,059
+<font color="#CCCCCC">it's a series of attacks</font><font color="#E5E5E5"> making use of</font>
+
+18
+00:00:48,059 --> 00:00:50,489
+dozens of hacking tools<font color="#E5E5E5"> that were stolen</font>
+
+19
+00:00:50,489 --> 00:00:52,770
+<font color="#E5E5E5">from the NSA National</font><font color="#CCCCCC"> Security Agency</font>
+
+20
+00:00:52,770 --> 00:00:55,199
+<font color="#E5E5E5">and leaked</font><font color="#CCCCCC"> online in April by a group</font>
+
+21
+00:00:55,199 --> 00:00:57,840
+called the shadow brokers<font color="#CCCCCC"> what's crazy</font>
+
+22
+00:00:57,840 --> 00:01:00,480
+about<font color="#CCCCCC"> this is yeah they use methods that</font>
+
+23
+00:01:00,480 --> 00:01:03,449
+<font color="#E5E5E5">were used by the NSA</font><font color="#CCCCCC"> and so as soon as</font>
+
+24
+00:01:03,449 --> 00:01:05,309
+those methods were made<font color="#E5E5E5"> public and</font>
+
+25
+00:01:05,309 --> 00:01:06,810
+leaked to the<font color="#CCCCCC"> public</font>
+
+26
+00:01:06,810 --> 00:01:09,450
+hackers started<font color="#CCCCCC"> utilizing them</font><font color="#E5E5E5"> for their</font>
+
+27
+00:01:09,450 --> 00:01:12,240
+<font color="#E5E5E5">own personal gain</font><font color="#CCCCCC"> so like the wanna cry</font>
+
+28
+00:01:12,240 --> 00:01:15,299
+attacks in May the<font color="#E5E5E5"> latest global hacking</font>
+
+29
+00:01:15,299 --> 00:01:18,119
+took control<font color="#E5E5E5"> of computers and demanded</font>
+
+30
+00:01:18,119 --> 00:01:19,830
+digital ransom from<font color="#E5E5E5"> their owners to</font>
+
+31
+00:01:19,830 --> 00:01:22,799
+regain access so this impacted a<font color="#CCCCCC"> number</font>
+
+32
+00:01:22,799 --> 00:01:24,360
+<font color="#E5E5E5">of different</font><font color="#CCCCCC"> things including</font><font color="#E5E5E5"> ATMs</font>
+
+33
+00:01:24,360 --> 00:01:28,110
+<font color="#E5E5E5">postal services</font><font color="#CCCCCC"> also railway companies</font>
+
+34
+00:01:28,110 --> 00:01:31,770
+<font color="#CCCCCC">so here is a</font><font color="#E5E5E5"> quick report kind of</font>
+
+35
+00:01:31,770 --> 00:01:33,990
+outlining<font color="#E5E5E5"> more of the damage that's been</font>
+
+36
+00:01:33,990 --> 00:01:36,180
+<font color="#CCCCCC">done so far one is spreading around</font>
+
+37
+00:01:36,180 --> 00:01:38,310
+<font color="#E5E5E5">among today's targets pharmaceutical</font>
+
+38
+00:01:38,310 --> 00:01:39,840
+maker<font color="#E5E5E5"> Merck the world's largest</font>
+
+39
+00:01:39,840 --> 00:01:42,450
+container<font color="#E5E5E5"> shipping company Maersk even</font>
+
+40
+00:01:42,450 --> 00:01:44,340
+the Chernobyl nuclear plant switch to
+
+41
+00:01:44,340 --> 00:01:46,649
+manual monitoring to protect against
+
+42
+00:01:46,649 --> 00:01:48,329
+attack this is a highly profitable
+
+43
+00:01:48,329 --> 00:01:50,100
+business<font color="#E5E5E5"> you know we have to remember</font>
+
+44
+00:01:50,100 --> 00:01:53,130
+<font color="#E5E5E5">that organized cybercrime totals up to</font>
+
+45
+00:01:53,130 --> 00:01:56,430
+<font color="#E5E5E5">almost</font><font color="#CCCCCC"> 445 billion dollars on an annual</font>
+
+46
+00:01:56,430 --> 00:01:58,560
+basis<font color="#CCCCCC"> US government security experts say</font>
+
+47
+00:01:58,560 --> 00:02:01,170
+<font color="#E5E5E5">this attack called petia is similar to</font>
+
+48
+00:02:01,170 --> 00:02:03,360
+last month's<font color="#E5E5E5"> one a cry attack that was</font>
+
+49
+00:02:03,360 --> 00:02:06,119
+based on hacking<font color="#CCCCCC"> method used by the NSA</font>
+
+50
+00:02:06,119 --> 00:02:08,429
+then released by hackers<font color="#CCCCCC"> exploiting</font>
+
+51
+00:02:08,429 --> 00:02:10,110
+vulnerabilities in the Windows operating
+
+52
+00:02:10,110 --> 00:02:12,210
+system<font color="#E5E5E5"> encrypting data</font>
+
+53
+00:02:12,210 --> 00:02:14,490
+and holding it all for ransom<font color="#E5E5E5"> so they</font>
+
+54
+00:02:14,490 --> 00:02:15,630
+hold it for<font color="#CCCCCC"> ransom and</font><font color="#E5E5E5"> they</font><font color="#CCCCCC"> ask for</font>
+
+55
+00:02:15,630 --> 00:02:17,370
+bitcoins and it's kind of<font color="#CCCCCC"> incredible</font>
+
+56
+00:02:17,370 --> 00:02:19,110
+because<font color="#E5E5E5"> in some cases they ask for as</font>
+
+57
+00:02:19,110 --> 00:02:21,810
+little as<font color="#CCCCCC"> $300 worth of Bitcoin</font><font color="#E5E5E5"> yeah</font>
+
+58
+00:02:21,810 --> 00:02:24,030
+it's not incredible<font color="#E5E5E5"> that's gonna lead to</font>
+
+59
+00:02:24,030 --> 00:02:25,920
+<font color="#E5E5E5">two of my theories on what actually</font>
+
+60
+00:02:25,920 --> 00:02:29,370
+happened here okay<font color="#CCCCCC"> oh yes</font><font color="#E5E5E5"> so first of</font>
+
+61
+00:02:29,370 --> 00:02:31,260
+all<font color="#E5E5E5"> is</font><font color="#CCCCCC"> Pat yep means a</font><font color="#E5E5E5"> little Peter in</font>
+
+62
+00:02:31,260 --> 00:02:37,080
+in Russian this<font color="#CCCCCC"> is unfortunate so people</font>
+
+63
+00:02:37,080 --> 00:02:39,750
+are<font color="#CCCCCC"> wondering is this</font><font color="#E5E5E5"> is it relevant</font>
+
+64
+00:02:39,750 --> 00:02:41,940
+<font color="#E5E5E5">that it was Ukraine that was attacked</font>
+
+65
+00:02:41,940 --> 00:02:43,770
+<font color="#E5E5E5">and it was right around there</font>
+
+66
+00:02:43,770 --> 00:02:46,820
+Independence Day from the Soviet<font color="#CCCCCC"> Union</font>
+
+67
+00:02:46,820 --> 00:02:50,010
+<font color="#E5E5E5">it's not an open question</font><font color="#CCCCCC"> like it could</font>
+
+68
+00:02:50,010 --> 00:02:51,750
+have<font color="#E5E5E5"> been political</font><font color="#CCCCCC"> of course of course</font>
+
+69
+00:02:51,750 --> 00:02:54,510
+<font color="#E5E5E5">it's</font><font color="#CCCCCC"> bullying ago right</font><font color="#E5E5E5"> now there's one</font>
+
+70
+00:02:54,510 --> 00:02:57,270
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> two options</font><font color="#E5E5E5"> here</font><font color="#CCCCCC"> either</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> Russians</font>
+
+71
+00:02:57,270 --> 00:03:01,320
+in it<font color="#CCCCCC"> 2 against Ukraine</font><font color="#E5E5E5"> or someone</font>
+
+72
+00:03:01,320 --> 00:03:03,360
+wanted you to think<font color="#E5E5E5"> the Russians did it</font>
+
+73
+00:03:03,360 --> 00:03:05,370
+but it is not<font color="#CCCCCC"> a quick</font><font color="#E5E5E5"> there's not a</font>
+
+74
+00:03:05,370 --> 00:03:08,850
+coincidence large enough<font color="#E5E5E5"> where petia</font>
+
+75
+00:03:08,850 --> 00:03:11,700
+<font color="#E5E5E5">attacks the Ukraine around from when</font>
+
+76
+00:03:11,700 --> 00:03:13,710
+they got<font color="#CCCCCC"> there celebration of</font>
+
+77
+00:03:13,710 --> 00:03:15,690
+independence<font color="#E5E5E5"> from the Soviet Union that</font>
+
+78
+00:03:15,690 --> 00:03:19,020
+<font color="#CCCCCC">is not a coincidence so but</font><font color="#E5E5E5"> again it</font>
+
+79
+00:03:19,020 --> 00:03:20,640
+doesn't<font color="#E5E5E5"> mean that it is the Russians it</font>
+
+80
+00:03:20,640 --> 00:03:21,990
+could be someone<font color="#E5E5E5"> trying to throw you off</font>
+
+81
+00:03:21,990 --> 00:03:24,090
+<font color="#E5E5E5">the scent</font><font color="#CCCCCC"> by pretending to</font><font color="#E5E5E5"> be Russian</font>
+
+82
+00:03:24,090 --> 00:03:25,800
+<font color="#E5E5E5">right and a bunch of</font><font color="#CCCCCC"> Russian</font><font color="#E5E5E5"> companies</font>
+
+83
+00:03:25,800 --> 00:03:27,330
+did get hit so<font color="#E5E5E5"> it's really hard to</font>
+
+84
+00:03:27,330 --> 00:03:28,980
+decipher including the<font color="#CCCCCC"> worst NEFT</font>
+
+85
+00:03:28,980 --> 00:03:32,040
+their largest<font color="#E5E5E5"> energy company</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> don't</font>
+
+86
+00:03:32,040 --> 00:03:33,660
+look I<font color="#CCCCCC"> don't know</font><font color="#E5E5E5"> if it's the Russians</font><font color="#CCCCCC"> I</font>
+
+87
+00:03:33,660 --> 00:03:35,940
+don't know who it is<font color="#E5E5E5"> and basically any</font>
+
+88
+00:03:35,940 --> 00:03:37,710
+type of commentary<font color="#CCCCCC"> on who it is a</font>
+
+89
+00:03:37,710 --> 00:03:39,600
+<font color="#E5E5E5">speculation right we're clear</font><font color="#CCCCCC"> on that</font>
+
+90
+00:03:39,600 --> 00:03:41,640
+<font color="#CCCCCC">however I think</font><font color="#E5E5E5"> it would be incredibly</font>
+
+91
+00:03:41,640 --> 00:03:44,630
+dumb<font color="#E5E5E5"> for the Russians to call this</font><font color="#CCCCCC"> petia</font>
+
+92
+00:03:44,630 --> 00:03:47,880
+<font color="#CCCCCC">attack</font><font color="#E5E5E5"> Ukraine first like it could just</font>
+
+93
+00:03:47,880 --> 00:03:50,010
+be a way of<font color="#CCCCCC"> attempting</font><font color="#E5E5E5"> to frame the</font>
+
+94
+00:03:50,010 --> 00:03:51,870
+Russians<font color="#E5E5E5"> no that's</font><font color="#CCCCCC"> exactly what I'm</font>
+
+95
+00:03:51,870 --> 00:03:52,230
+saying
+
+96
+00:03:52,230 --> 00:03:54,150
+so and I<font color="#E5E5E5"> know but I of course I</font><font color="#CCCCCC"> don't</font>
+
+97
+00:03:54,150 --> 00:03:56,220
+<font color="#E5E5E5">know which one of those two it is but it</font>
+
+98
+00:03:56,220 --> 00:03:58,380
+is one of<font color="#E5E5E5"> those two which then leads to</font>
+
+99
+00:03:58,380 --> 00:04:00,180
+the<font color="#CCCCCC"> other part when you mention the bid</font>
+
+100
+00:04:00,180 --> 00:04:01,710
+<font color="#E5E5E5">corners and</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> rants was that you're</font>
+
+101
+00:04:01,710 --> 00:04:03,630
+asking for too little money<font color="#CCCCCC"> this</font><font color="#E5E5E5"> is if</font>
+
+102
+00:04:03,630 --> 00:04:05,760
+these were this level of sophistication
+
+103
+00:04:05,760 --> 00:04:09,030
+and<font color="#E5E5E5"> being able</font><font color="#CCCCCC"> to take down</font><font color="#E5E5E5"> the the web</font>
+
+104
+00:04:09,030 --> 00:04:10,140
+presence of some of the largest
+
+105
+00:04:10,140 --> 00:04:12,290
+companies<font color="#E5E5E5"> and governments in the</font><font color="#CCCCCC"> world</font>
+
+106
+00:04:12,290 --> 00:04:15,570
+<font color="#CCCCCC">and you're getting like a nickel</font><font color="#E5E5E5"> and a</font>
+
+107
+00:04:15,570 --> 00:04:17,640
+dime<font color="#E5E5E5"> the last time when they didn't want</font>
+
+108
+00:04:17,640 --> 00:04:19,589
+<font color="#CCCCCC">to cry</font><font color="#E5E5E5"> it wasn't that big a hit it was a</font>
+
+109
+00:04:19,589 --> 00:04:21,750
+big hit and<font color="#E5E5E5"> what it affected in terms of</font>
+
+110
+00:04:21,750 --> 00:04:22,860
+how<font color="#E5E5E5"> much money they</font><font color="#CCCCCC"> got it was very</font>
+
+111
+00:04:22,860 --> 00:04:24,900
+little same time this time it<font color="#E5E5E5"> seems like</font>
+
+112
+00:04:24,900 --> 00:04:25,740
+<font color="#E5E5E5">it's</font>
+
+113
+00:04:25,740 --> 00:04:28,560
+you do a hit on<font color="#E5E5E5"> someone and you go okay</font>
+
+114
+00:04:28,560 --> 00:04:30,210
+we<font color="#E5E5E5"> don't want this to</font><font color="#CCCCCC"> look like a</font>
+
+115
+00:04:30,210 --> 00:04:31,680
+political<font color="#CCCCCC"> hit so let's take his wallet</font>
+
+116
+00:04:31,680 --> 00:04:34,319
+<font color="#E5E5E5">so they'll call it a</font><font color="#CCCCCC"> robbery you see</font>
+
+117
+00:04:34,319 --> 00:04:36,419
+what I'm saying<font color="#CCCCCC"> and both of them have</font>
+
+118
+00:04:36,419 --> 00:04:38,550
+the feel of something<font color="#E5E5E5"> like where they're</font>
+
+119
+00:04:38,550 --> 00:04:42,060
+<font color="#CCCCCC">just beta-testing like they're did just</font>
+
+120
+00:04:42,060 --> 00:04:43,680
+the first<font color="#E5E5E5"> one</font><font color="#CCCCCC"> was out</font><font color="#E5E5E5"> for the second</font>
+
+121
+00:04:43,680 --> 00:04:45,330
+<font color="#CCCCCC">what's</font><font color="#E5E5E5"> the beta uh-oh what's coming next</font>
+
+122
+00:04:45,330 --> 00:04:48,210
+<font color="#CCCCCC">right and I think I think what concerns</font>
+
+123
+00:04:48,210 --> 00:04:50,849
+me<font color="#CCCCCC"> the most is look it this sounds like</font>
+
+124
+00:04:50,849 --> 00:04:53,340
+<font color="#E5E5E5">an incredibly sophisticated cyberattack</font>
+
+125
+00:04:53,340 --> 00:04:55,979
+<font color="#E5E5E5">but really it</font><font color="#CCCCCC"> comes</font><font color="#E5E5E5"> down</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> phishing</font>
+
+126
+00:04:55,979 --> 00:04:58,919
+<font color="#E5E5E5">which you know has happened prior to the</font>
+
+127
+00:04:58,919 --> 00:05:02,039
+NSA's<font color="#E5E5E5"> strategies being leaked to the</font>
+
+128
+00:05:02,039 --> 00:05:04,860
+public<font color="#E5E5E5"> and it's just so incredibly</font><font color="#CCCCCC"> easy</font>
+
+129
+00:05:04,860 --> 00:05:09,720
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> any</font><font color="#E5E5E5"> company</font><font color="#CCCCCC"> to be targeted and</font><font color="#E5E5E5"> also</font>
+
+130
+00:05:09,720 --> 00:05:12,389
+fall victim to this method because there
+
+131
+00:05:12,389 --> 00:05:14,250
+has to be at<font color="#CCCCCC"> least one person</font><font color="#E5E5E5"> within</font>
+
+132
+00:05:14,250 --> 00:05:16,979
+that company<font color="#E5E5E5"> who unfortunately will</font>
+
+133
+00:05:16,979 --> 00:05:19,229
+click on<font color="#E5E5E5"> the link in that phishing email</font>
+
+134
+00:05:19,229 --> 00:05:21,000
+and then that will compromise<font color="#E5E5E5"> the entire</font>
+
+135
+00:05:21,000 --> 00:05:23,190
+you<font color="#CCCCCC"> know that the servers within that</font>
+
+136
+00:05:23,190 --> 00:05:25,259
+company and<font color="#E5E5E5"> that's what's happening time</font>
+
+137
+00:05:25,259 --> 00:05:27,180
+and time again<font color="#CCCCCC"> someone</font><font color="#E5E5E5"> because of this</font>
+
+138
+00:05:27,180 --> 00:05:29,280
+spear<font color="#E5E5E5"> phishing method someone within the</font>
+
+139
+00:05:29,280 --> 00:05:31,110
+company<font color="#E5E5E5"> will open a questionable email</font>
+
+140
+00:05:31,110 --> 00:05:33,090
+<font color="#E5E5E5">and by the way look the onus is not on</font>
+
+141
+00:05:33,090 --> 00:05:36,240
+employees<font color="#E5E5E5"> at companies to you know act a</font>
+
+142
+00:05:36,240 --> 00:05:39,060
+certain way<font color="#E5E5E5"> the onus is on you know</font>
+
+143
+00:05:39,060 --> 00:05:42,180
+<font color="#CCCCCC">cybersecurity</font><font color="#E5E5E5"> firms and you know to some</font>
+
+144
+00:05:42,180 --> 00:05:43,919
+<font color="#CCCCCC">extent</font><font color="#E5E5E5"> governments to make sure that</font>
+
+145
+00:05:43,919 --> 00:05:45,930
+they have<font color="#E5E5E5"> certain safeguards in place to</font>
+
+146
+00:05:45,930 --> 00:05:47,940
+<font color="#CCCCCC">prevent things like this from</font><font color="#E5E5E5"> happening</font>
+
+147
+00:05:47,940 --> 00:05:50,099
+<font color="#E5E5E5">and of course</font><font color="#CCCCCC"> you know make sure</font><font color="#E5E5E5"> that</font>
+
+148
+00:05:50,099 --> 00:05:51,719
+<font color="#CCCCCC">you update your</font><font color="#E5E5E5"> software there are</font>
+
+149
+00:05:51,719 --> 00:05:53,789
+<font color="#E5E5E5">software updates</font><font color="#CCCCCC"> available both for</font>
+
+150
+00:05:53,789 --> 00:05:57,690
+<font color="#CCCCCC">Windows</font><font color="#E5E5E5"> and also for Apple products but</font>
+
+151
+00:05:57,690 --> 00:06:03,060
+<font color="#CCCCCC">ok so</font><font color="#E5E5E5"> yeah no I'm sorry because</font><font color="#CCCCCC"> I</font>
+
+152
+00:06:03,060 --> 00:06:04,919
+haven't even gotten<font color="#E5E5E5"> to my speculation</font>
+
+153
+00:06:04,919 --> 00:06:07,949
+yet<font color="#CCCCCC"> ok</font><font color="#E5E5E5"> so those two first</font><font color="#CCCCCC"> pieces are I</font>
+
+154
+00:06:07,949 --> 00:06:10,889
+think<font color="#CCCCCC"> fairly clear now let's get into</font>
+
+155
+00:06:10,889 --> 00:06:15,630
+fun speculation<font color="#CCCCCC"> hey so</font><font color="#E5E5E5"> that was reading</font>
+
+156
+00:06:15,630 --> 00:06:18,270
+the<font color="#CCCCCC"> story I was</font><font color="#E5E5E5"> like what if there's</font>
+
+157
+00:06:18,270 --> 00:06:20,159
+<font color="#E5E5E5">something wrong with the software used</font>
+
+158
+00:06:20,159 --> 00:06:22,830
+<font color="#E5E5E5">to fix all this but and they already</font>
+
+159
+00:06:22,830 --> 00:06:25,500
+know it<font color="#CCCCCC"> so they do one attack and</font>
+
+160
+00:06:25,500 --> 00:06:27,750
+everybody rushes<font color="#E5E5E5"> in everybody uses the</font>
+
+161
+00:06:27,750 --> 00:06:29,940
+software to fix it<font color="#E5E5E5"> they do a second</font>
+
+162
+00:06:29,940 --> 00:06:32,580
+attack<font color="#E5E5E5"> everybody uses the software to</font>
+
+163
+00:06:32,580 --> 00:06:34,710
+fix it<font color="#E5E5E5"> and then they unleash the virus</font>
+
+164
+00:06:34,710 --> 00:06:38,099
+in<font color="#E5E5E5"> the software I don't know</font><font color="#CCCCCC"> ok I</font><font color="#E5E5E5"> have</font>
+
+165
+00:06:38,099 --> 00:06:39,270
+no<font color="#E5E5E5"> idea yeah</font>
+
+166
+00:06:39,270 --> 00:06:43,270
+I'm just saying you<font color="#E5E5E5"> talk about</font><font color="#CCCCCC"> evolution</font>
+
+167
+00:06:43,270 --> 00:06:46,840
+okay listen<font color="#CCCCCC"> all I know is this isn't the</font>
+
+168
+00:06:46,840 --> 00:06:48,940
+real deal<font color="#E5E5E5"> there's a red wedding in our</font>
+
+169
+00:06:48,940 --> 00:06:52,420
+future<font color="#E5E5E5"> so these these are because</font><font color="#CCCCCC"> this</font>
+
+170
+00:06:52,420 --> 00:06:54,580
+shows you what<font color="#E5E5E5"> they can do but yet they</font>
+
+171
+00:06:54,580 --> 00:06:57,520
+<font color="#E5E5E5">have not unleashed it in a pandamonium</font>
+
+172
+00:06:57,520 --> 00:07:00,340
+way that they could infecting everyone
+
+173
+00:07:00,340 --> 00:07:02,920
+and pet yet by<font color="#CCCCCC"> the</font><font color="#E5E5E5"> way does</font><font color="#CCCCCC"> not have a</font>
+
+174
+00:07:02,920 --> 00:07:04,540
+kill switch<font color="#E5E5E5"> want to cry had a kill</font>
+
+175
+00:07:04,540 --> 00:07:06,820
+switch<font color="#E5E5E5"> right so now the</font><font color="#CCCCCC"> Cuse kill switch</font>
+
+176
+00:07:06,820 --> 00:07:09,340
+is gone and this thing could be totally
+
+177
+00:07:09,340 --> 00:07:12,700
+utterly<font color="#E5E5E5"> out of control</font><font color="#CCCCCC"> and but we don't</font>
+
+178
+00:07:12,700 --> 00:07:14,440
+know what the objective<font color="#CCCCCC"> is</font><font color="#E5E5E5"> okay now last</font>
+
+179
+00:07:14,440 --> 00:07:16,210
+piece of now again this<font color="#E5E5E5"> is in the</font><font color="#CCCCCC"> bucket</font>
+
+180
+00:07:16,210 --> 00:07:20,700
+of speculation okay as<font color="#E5E5E5"> Bush you say</font>
+
+181
+00:07:20,700 --> 00:07:25,000
+speculation what if it's an essay what
+
+182
+00:07:25,000 --> 00:07:27,910
+so the NSA stuff got stolen which by the
+
+183
+00:07:27,910 --> 00:07:29,850
+<font color="#E5E5E5">way thanks NSA we really appreciate it</font>
+
+184
+00:07:29,850 --> 00:07:32,320
+<font color="#CCCCCC">but if you wanted</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> look into Ross</font>
+
+185
+00:07:32,320 --> 00:07:35,170
+<font color="#CCCCCC">Neffs records</font><font color="#E5E5E5"> you might call something</font>
+
+186
+00:07:35,170 --> 00:07:37,990
+Petya do an attack against<font color="#E5E5E5"> the Ukraine</font>
+
+187
+00:07:37,990 --> 00:07:40,270
+and do it against a bunch of<font color="#E5E5E5"> other</font>
+
+188
+00:07:40,270 --> 00:07:42,040
+companies<font color="#E5E5E5"> while you go</font><font color="#CCCCCC"> ahead a Russian</font>
+
+189
+00:07:42,040 --> 00:07:43,900
+energy<font color="#E5E5E5"> company</font><font color="#CCCCCC"> and a couple other</font>
+
+190
+00:07:43,900 --> 00:07:45,910
+Russian companies and get the info<font color="#CCCCCC"> that</font>
+
+191
+00:07:45,910 --> 00:07:48,220
+<font color="#CCCCCC">you needed</font><font color="#E5E5E5"> while pretending to hold them</font>
+
+192
+00:07:48,220 --> 00:07:54,130
+up for<font color="#CCCCCC"> ransom in other words we have no</font>
+
+193
+00:07:54,130 --> 00:07:57,250
+idea who<font color="#CCCCCC"> did this</font><font color="#E5E5E5"> yeah we don't so we'll</font>
+
+194
+00:07:57,250 --> 00:07:58,650
+see how it<font color="#CCCCCC"> plays out but in the meantime</font>
+
+195
+00:07:58,650 --> 00:08:01,630
+<font color="#CCCCCC">please</font><font color="#E5E5E5"> save all</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> your important data</font>
+
+196
+00:08:01,630 --> 00:08:05,530
+onto a hard drive<font color="#CCCCCC"> separate</font><font color="#E5E5E5"> from you know</font>
+
+197
+00:08:05,530 --> 00:08:07,890
+your computer's hard<font color="#CCCCCC"> drive obviously</font>
+
+198
+00:08:07,890 --> 00:08:10,060
+<font color="#CCCCCC">that way no one can hold</font><font color="#E5E5E5"> your</font>
+
+199
+00:08:10,060 --> 00:08:12,670
+information<font color="#E5E5E5"> for ransom by the way it's</font>
+
+200
+00:08:12,670 --> 00:08:14,050
+obviously a lot more<font color="#E5E5E5"> difficult if you</font>
+
+201
+00:08:14,050 --> 00:08:15,820
+work at a company but any type<font color="#CCCCCC"> of</font>
+
+202
+00:08:15,820 --> 00:08:18,400
+sensitive<font color="#E5E5E5"> data</font><font color="#CCCCCC"> I mean</font><font color="#E5E5E5"> I would even</font>
+
+203
+00:08:18,400 --> 00:08:20,560
+<font color="#E5E5E5">delete it from my email delete it from</font>
+
+204
+00:08:20,560 --> 00:08:22,090
+your<font color="#CCCCCC"> email save it onto your hard</font><font color="#E5E5E5"> drive</font>
+
+205
+00:08:22,090 --> 00:08:23,530
+just<font color="#E5E5E5"> protect yourself</font><font color="#CCCCCC"> as much</font><font color="#E5E5E5"> as</font><font color="#CCCCCC"> you</font>
+
+206
+00:08:23,530 --> 00:08:24,310
+possibly<font color="#E5E5E5"> can</font>
+
+207
+00:08:24,310 --> 00:08:29,910
+and and I would<font color="#CCCCCC"> add</font><font color="#E5E5E5"> then</font><font color="#CCCCCC"> demand ends and</font>
+
+208
+00:08:29,910 --> 00:08:33,220
+it's<font color="#CCCCCC"> it's soon not going to be funny so</font>
+
+209
+00:08:33,220 --> 00:08:36,760
+this is my<font color="#E5E5E5"> last I mean this is already</font>
+
+210
+00:08:36,760 --> 00:08:39,370
+impacted hospitals and and that's a
+
+211
+00:08:39,370 --> 00:08:41,710
+<font color="#CCCCCC">disaster</font><font color="#E5E5E5"> right they're unable to do</font>
+
+212
+00:08:41,710 --> 00:08:43,419
+<font color="#E5E5E5">procedures that they need to do because</font>
+
+213
+00:08:43,419 --> 00:08:44,950
+<font color="#E5E5E5">of the fact</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> they're you know</font>
+
+214
+00:08:44,950 --> 00:08:47,020
+<font color="#E5E5E5">computer systems have been compromised</font>
+
+215
+00:08:47,020 --> 00:08:49,270
+yeah but on the<font color="#E5E5E5"> other</font><font color="#CCCCCC"> hand they can't</font>
+
+216
+00:08:49,270 --> 00:08:49,990
+measure the radio
+
+217
+00:08:49,990 --> 00:08:52,240
+<font color="#E5E5E5">coming out of tree</font><font color="#CCCCCC"> noble</font><font color="#E5E5E5"> you don't like</font>
+
+218
+00:08:52,240 --> 00:08:54,070
+<font color="#E5E5E5">ads I hear</font><font color="#CCCCCC"> you brother you know how you</font>
+
+219
+00:08:54,070 --> 00:08:55,630
+could avoid ads for the Young Turks
+
+220
+00:08:55,630 --> 00:08:57,040
+<font color="#CCCCCC">because when young turks member and get</font>
+
+221
+00:08:57,040 --> 00:08:59,290
+all the content<font color="#CCCCCC"> ad free</font><font color="#E5E5E5"> tea white tea</font>
+
+222
+00:08:59,290 --> 00:00:00,000
+network.com slash join
+

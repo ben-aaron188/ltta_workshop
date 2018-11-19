@@ -1,0 +1,540 @@
+1
+00:00:00,000 --> 00:00:01,290
+there's a<font color="#CCCCCC"> little-known service</font><font color="#E5E5E5"> from</font>
+
+2
+00:00:01,290 --> 00:00:03,360
+Amazon<font color="#E5E5E5"> it's suddenly in a great big</font>
+
+3
+00:00:03,360 --> 00:00:06,000
+spotlight<font color="#CCCCCC"> Amazon recognition what is it</font>
+
+4
+00:00:06,000 --> 00:00:08,730
+<font color="#E5E5E5">a facial recognition tool that</font><font color="#CCCCCC"> Amazon</font>
+
+5
+00:00:08,730 --> 00:00:11,759
+says can scan in<font color="#E5E5E5"> real time</font><font color="#CCCCCC"> comedy says</font>
+
+6
+00:00:11,759 --> 00:00:13,440
+the tool can determine a person's<font color="#E5E5E5"> age</font>
+
+7
+00:00:13,440 --> 00:00:17,070
+gender<font color="#E5E5E5"> mood even</font><font color="#CCCCCC"> if their identity if</font>
+
+8
+00:00:17,070 --> 00:00:20,070
+they're in their database and<font color="#E5E5E5"> it's using</font>
+
+9
+00:00:20,070 --> 00:00:22,439
+the ability to track as a selling<font color="#E5E5E5"> point</font>
+
+10
+00:00:22,439 --> 00:00:24,510
+pushing the ability<font color="#CCCCCC"> to increase</font><font color="#E5E5E5"> security</font>
+
+11
+00:00:24,510 --> 00:00:26,640
+<font color="#E5E5E5">in public places</font><font color="#CCCCCC"> to home surveillance</font>
+
+12
+00:00:26,640 --> 00:00:29,039
+<font color="#E5E5E5">and video tagging it is already in use</font>
+
+13
+00:00:29,039 --> 00:00:31,470
+<font color="#CCCCCC">by Florida and Oregon law enforcement</font>
+
+14
+00:00:31,470 --> 00:00:33,630
+but privacy advocates say the tech
+
+15
+00:00:33,630 --> 00:00:36,210
+giant's newest offering<font color="#CCCCCC"> goes too far</font>
+
+16
+00:00:36,210 --> 00:00:38,520
+giving police<font color="#CCCCCC"> expansive new search</font>
+
+17
+00:00:38,520 --> 00:00:41,010
+powers NBC's Kerry Sanders is live in
+
+18
+00:00:41,010 --> 00:00:43,500
+Orlando<font color="#E5E5E5"> where local police are</font><font color="#CCCCCC"> using the</font>
+
+19
+00:00:43,500 --> 00:00:46,410
+technology<font color="#CCCCCC"> Kerry</font><font color="#E5E5E5"> as I read this story</font><font color="#CCCCCC"> I</font>
+
+20
+00:00:46,410 --> 00:00:49,230
+was having<font color="#CCCCCC"> flashbacks</font><font color="#E5E5E5"> of the book 1984</font>
+
+21
+00:00:49,230 --> 00:00:52,469
+<font color="#E5E5E5">which haunted me</font><font color="#CCCCCC"> in high school and then</font>
+
+22
+00:00:52,469 --> 00:00:55,320
+for the<font color="#E5E5E5"> next 20 years</font><font color="#CCCCCC"> his Big Brother</font>
+
+23
+00:00:55,320 --> 00:00:59,699
+<font color="#E5E5E5">watching or is that in our future well</font>
+
+24
+00:00:59,699 --> 00:01:01,109
+Stephanie the Orlando<font color="#CCCCCC"> Police Department</font>
+
+25
+00:01:01,109 --> 00:01:03,660
+of course<font color="#E5E5E5"> doesn't believe this is 1984</font>
+
+26
+00:01:03,660 --> 00:01:05,099
+and neither<font color="#E5E5E5"> that is Amazon that is</font>
+
+27
+00:01:05,099 --> 00:01:06,840
+deploying this<font color="#E5E5E5"> look we're probably all</font>
+
+28
+00:01:06,840 --> 00:01:08,970
+<font color="#E5E5E5">familiar with facial</font><font color="#CCCCCC"> recognition because</font>
+
+29
+00:01:08,970 --> 00:01:11,549
+in our little<font color="#CCCCCC"> electronic digital</font><font color="#E5E5E5"> photos</font>
+
+30
+00:01:11,549 --> 00:01:14,760
+we<font color="#CCCCCC"> can now sort our loved ones</font><font color="#E5E5E5"> because</font>
+
+31
+00:01:14,760 --> 00:01:16,439
+of facial recognition<font color="#E5E5E5"> the real</font>
+
+32
+00:01:16,439 --> 00:01:18,810
+<font color="#CCCCCC">game-changer here is artificial</font>
+
+33
+00:01:18,810 --> 00:01:20,549
+<font color="#CCCCCC">intelligence</font><font color="#E5E5E5"> and that's where for</font>
+
+34
+00:01:20,549 --> 00:01:24,960
+<font color="#CCCCCC">instance in Oregon or here the officers</font>
+
+35
+00:01:24,960 --> 00:01:27,240
+are out<font color="#E5E5E5"> and they've got</font><font color="#CCCCCC"> maybe a body</font>
+
+36
+00:01:27,240 --> 00:01:29,460
+<font color="#E5E5E5">camera or as we know wherever we go in</font>
+
+37
+00:01:29,460 --> 00:01:31,200
+public<font color="#E5E5E5"> there's a camera I don't know but</font>
+
+38
+00:01:31,200 --> 00:01:32,400
+there's<font color="#CCCCCC"> probably three cameras that are</font>
+
+39
+00:01:32,400 --> 00:01:33,479
+<font color="#E5E5E5">picking me up right now</font>
+
+40
+00:01:33,479 --> 00:01:35,909
+beyond the television camera<font color="#E5E5E5"> that is a</font>
+
+41
+00:01:35,909 --> 00:01:37,650
+database<font color="#CCCCCC"> of</font><font color="#E5E5E5"> information and the</font>
+
+42
+00:01:37,650 --> 00:01:39,900
+artificial<font color="#E5E5E5"> intelligence</font><font color="#CCCCCC"> that the police</font>
+
+43
+00:01:39,900 --> 00:01:42,780
+agencies can<font color="#CCCCCC"> use is to</font><font color="#E5E5E5"> load all</font><font color="#CCCCCC"> of that</font>
+
+44
+00:01:42,780 --> 00:01:46,950
+imagery into an<font color="#CCCCCC"> Amazon computer and at</font>
+
+45
+00:01:46,950 --> 00:01:49,549
+the<font color="#E5E5E5"> same time they've already loaded a</font>
+
+46
+00:01:49,549 --> 00:01:53,189
+database mugshots<font color="#E5E5E5"> people that are on the</font>
+
+47
+00:01:53,189 --> 00:01:54,750
+<font color="#E5E5E5">ten most</font><font color="#CCCCCC"> wanted list</font><font color="#E5E5E5"> all sorts of stuff</font>
+
+48
+00:01:54,750 --> 00:01:56,520
+and here's where the computer does what
+
+49
+00:01:56,520 --> 00:01:58,290
+man can't it just sorts through<font color="#E5E5E5"> it so</font>
+
+50
+00:01:58,290 --> 00:02:01,110
+<font color="#E5E5E5">quickly and it says</font><font color="#CCCCCC"> to officer friendly</font>
+
+51
+00:02:01,110 --> 00:02:03,149
+walking down the street<font color="#E5E5E5"> that guy that</font>
+
+52
+00:02:03,149 --> 00:02:05,340
+<font color="#E5E5E5">you took a picture of and that you sent</font>
+
+53
+00:02:05,340 --> 00:02:06,990
+<font color="#E5E5E5">into the computer that's somebody we're</font>
+
+54
+00:02:06,990 --> 00:02:08,610
+looking for and they turn around<font color="#CCCCCC"> the</font>
+
+55
+00:02:08,610 --> 00:02:10,199
+problem is you're out in<font color="#E5E5E5"> public you're</font>
+
+56
+00:02:10,199 --> 00:02:12,540
+walking<font color="#CCCCCC"> around and something</font><font color="#E5E5E5"> happened in</font>
+
+57
+00:02:12,540 --> 00:02:13,870
+<font color="#E5E5E5">your life but</font><font color="#CCCCCC"> you now on this</font>
+
+58
+00:02:13,870 --> 00:02:16,180
+narrow<font color="#E5E5E5"> the computer is telling the</font>
+
+59
+00:02:16,180 --> 00:02:19,000
+officer who you are what you've done<font color="#CCCCCC"> in</font>
+
+60
+00:02:19,000 --> 00:02:20,440
+other words your privacy out on the
+
+61
+00:02:20,440 --> 00:02:23,319
+public<font color="#CCCCCC"> is</font><font color="#E5E5E5"> not necessarily privacy</font>
+
+62
+00:02:23,319 --> 00:02:24,730
+anymore<font color="#CCCCCC"> and that</font><font color="#E5E5E5"> has some people</font>
+
+63
+00:02:24,730 --> 00:02:27,790
+concerned<font color="#CCCCCC"> I can understand the things</font>
+
+64
+00:02:27,790 --> 00:02:29,440
+that in<font color="#E5E5E5"> the wrong hands it could be very</font>
+
+65
+00:02:29,440 --> 00:02:31,330
+dangerous<font color="#CCCCCC"> and I also think some people</font>
+
+66
+00:02:31,330 --> 00:02:32,560
+<font color="#E5E5E5">are gonna feel like it's gonna be</font>
+
+67
+00:02:32,560 --> 00:02:35,620
+another<font color="#CCCCCC"> way the government is</font><font color="#E5E5E5"> kind of</font>
+
+68
+00:02:35,620 --> 00:02:37,870
+peering into our lives and<font color="#E5E5E5"> big brother's</font>
+
+69
+00:02:37,870 --> 00:02:40,360
+watching<font color="#E5E5E5"> as I think you know</font><font color="#CCCCCC"> if you're</font>
+
+70
+00:02:40,360 --> 00:02:43,569
+<font color="#E5E5E5">using it</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> law</font><font color="#CCCCCC"> enforcement I would</font>
+
+71
+00:02:43,569 --> 00:02:45,610
+think that there would<font color="#CCCCCC"> be enough</font>
+
+72
+00:02:45,610 --> 00:02:47,590
+parameters that would<font color="#E5E5E5"> be in place to</font>
+
+73
+00:02:47,590 --> 00:02:52,329
+protect people<font color="#CCCCCC"> from it being abused and</font>
+
+74
+00:02:52,329 --> 00:02:53,980
+<font color="#E5E5E5">so the police say this is all about</font>
+
+75
+00:02:53,980 --> 00:02:55,870
+<font color="#CCCCCC">public safety and we will likely see</font>
+
+76
+00:02:55,870 --> 00:02:58,209
+more<font color="#E5E5E5"> of this</font><font color="#CCCCCC"> Amazon weighed in saying</font>
+
+77
+00:02:58,209 --> 00:03:00,879
+<font color="#E5E5E5">Amazon requires that customers comply</font>
+
+78
+00:03:00,879 --> 00:03:02,980
+with the law and<font color="#E5E5E5"> be responsible when</font>
+
+79
+00:03:02,980 --> 00:03:05,079
+they use Amazon Web Services which<font color="#CCCCCC"> is a</font>
+
+80
+00:03:05,079 --> 00:03:07,209
+function<font color="#CCCCCC"> of when we find that am a job</font>
+
+81
+00:03:07,209 --> 00:03:09,910
+<font color="#E5E5E5">Amazon Web Services are being abused by</font>
+
+82
+00:03:09,910 --> 00:03:11,410
+a customer in<font color="#E5E5E5"> this case possibly the</font>
+
+83
+00:03:11,410 --> 00:03:13,000
+police department we suspend that
+
+84
+00:03:13,000 --> 00:03:15,790
+customers right to use our services<font color="#E5E5E5"> but</font>
+
+85
+00:03:15,790 --> 00:03:18,130
+Amazon<font color="#E5E5E5"> clearly believes</font><font color="#CCCCCC"> Stephanie that</font>
+
+86
+00:03:18,130 --> 00:03:20,620
+this is going<font color="#CCCCCC"> to be a growing</font><font color="#E5E5E5"> area</font><font color="#CCCCCC"> of</font>
+
+87
+00:03:20,620 --> 00:03:22,269
+law enforcement<font color="#CCCCCC"> and again it's all</font>
+
+88
+00:03:22,269 --> 00:03:24,130
+because of<font color="#E5E5E5"> the ability of artificial</font>
+
+89
+00:03:24,130 --> 00:03:26,590
+intelligence<font color="#CCCCCC"> all</font><font color="#E5E5E5"> right well we know that</font>
+
+90
+00:03:26,590 --> 00:03:28,930
+the criticisms are people are just
+
+91
+00:03:28,930 --> 00:03:30,760
+<font color="#E5E5E5">uncomfortable they feel like it's it's</font>
+
+92
+00:03:30,760 --> 00:03:32,829
+Big Brother<font color="#E5E5E5"> watching but from a law</font>
+
+93
+00:03:32,829 --> 00:03:34,900
+<font color="#CCCCCC">enforcement</font><font color="#E5E5E5"> perspective or</font><font color="#CCCCCC"> there</font><font color="#E5E5E5"> you</font>
+
+94
+00:03:34,900 --> 00:03:36,430
+said you<font color="#E5E5E5"> believe that it's going to be</font>
+
+95
+00:03:36,430 --> 00:03:38,500
+<font color="#E5E5E5">used more</font><font color="#CCCCCC"> broadly</font><font color="#E5E5E5"> in law</font><font color="#CCCCCC"> enforcement is</font>
+
+96
+00:03:38,500 --> 00:03:40,299
+there any side<font color="#CCCCCC"> of the law that says nope</font>
+
+97
+00:03:40,299 --> 00:03:42,370
+we don't<font color="#E5E5E5"> want it or is it</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> a budget</font>
+
+98
+00:03:42,370 --> 00:03:45,489
+issue so<font color="#CCCCCC"> far it's so new and it's</font><font color="#E5E5E5"> just</font>
+
+99
+00:03:45,489 --> 00:03:48,010
+being deployed you know here in Orlando
+
+100
+00:03:48,010 --> 00:03:50,109
+<font color="#CCCCCC">it's in a testing phase but there's a</font>
+
+101
+00:03:50,109 --> 00:03:52,239
+<font color="#E5E5E5">general excitement among law</font><font color="#CCCCCC"> enforcement</font>
+
+102
+00:03:52,239 --> 00:03:54,310
+to be<font color="#E5E5E5"> able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> use the power of</font><font color="#CCCCCC"> a</font>
+
+103
+00:03:54,310 --> 00:03:57,160
+computer<font color="#E5E5E5"> to</font><font color="#CCCCCC"> help ferret out individuals</font>
+
+104
+00:03:57,160 --> 00:03:58,750
+in a public<font color="#E5E5E5"> area let's say</font><font color="#CCCCCC"> you were</font>
+
+105
+00:03:58,750 --> 00:04:00,579
+<font color="#CCCCCC">going to a soccer</font><font color="#E5E5E5"> game across town and</font>
+
+106
+00:04:00,579 --> 00:04:03,010
+you and 10,000 other<font color="#CCCCCC"> people</font><font color="#E5E5E5"> are walking</font>
+
+107
+00:04:03,010 --> 00:04:04,630
+through<font color="#E5E5E5"> the gates that camera is taking</font>
+
+108
+00:04:04,630 --> 00:04:06,849
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> picture that picture frame can then</font>
+
+109
+00:04:06,849 --> 00:04:08,169
+be put in the<font color="#E5E5E5"> computer let's say there's</font>
+
+110
+00:04:08,169 --> 00:04:09,819
+a<font color="#E5E5E5"> hundred people in the picture</font><font color="#CCCCCC"> the</font>
+
+111
+00:04:09,819 --> 00:04:11,470
+computer can scan through<font color="#E5E5E5"> the hundred</font>
+
+112
+00:04:11,470 --> 00:04:13,359
+people<font color="#CCCCCC"> in</font><font color="#E5E5E5"> that freeze</font><font color="#CCCCCC"> frame and then</font>
+
+113
+00:04:13,359 --> 00:04:15,760
+compare it<font color="#E5E5E5"> to everybody</font><font color="#CCCCCC"> that is in the</font>
+
+114
+00:04:15,760 --> 00:04:17,289
+database<font color="#CCCCCC"> of maybe people they're looking</font>
+
+115
+00:04:17,289 --> 00:04:19,959
+<font color="#CCCCCC">for criminals</font><font color="#E5E5E5"> and say you know what John</font>
+
+116
+00:04:19,959 --> 00:04:21,548
+<font color="#E5E5E5">Smith who we've been looking for for</font>
+
+117
+00:04:21,548 --> 00:04:23,169
+<font color="#CCCCCC">three years just</font><font color="#E5E5E5"> walk to the soccer game</font>
+
+118
+00:04:23,169 --> 00:04:25,409
+<font color="#CCCCCC">here's what he looks</font><font color="#E5E5E5"> like he's</font><font color="#CCCCCC"> wearing a</font>
+
+119
+00:04:25,409 --> 00:04:27,310
+blue shirt
+
+120
+00:04:27,310 --> 00:04:29,470
+his hair<font color="#CCCCCC"> is combed to the side and they</font>
+
+121
+00:04:29,470 --> 00:04:31,030
+can<font color="#E5E5E5"> then look at the picture kind</font><font color="#CCCCCC"> of</font>
+
+122
+00:04:31,030 --> 00:04:32,410
+scan<font color="#CCCCCC"> around and then they could possibly</font>
+
+123
+00:04:32,410 --> 00:04:34,570
+go find<font color="#CCCCCC"> them</font><font color="#E5E5E5"> or as a mom with three kids</font>
+
+124
+00:04:34,570 --> 00:04:37,090
+<font color="#E5E5E5">who walk into amusement parks and run in</font>
+
+125
+00:04:37,090 --> 00:04:39,100
+two different<font color="#E5E5E5"> directions</font><font color="#CCCCCC"> the idea</font><font color="#E5E5E5"> of</font>
+
+126
+00:04:39,100 --> 00:04:41,080
+being able to track them<font color="#CCCCCC"> down makes me</font>
+
+127
+00:04:41,080 --> 00:04:43,690
+<font color="#CCCCCC">feel pretty good hey MSNBC fans thanks</font>
+
+128
+00:04:43,690 --> 00:04:45,460
+<font color="#CCCCCC">for checking out our</font><font color="#E5E5E5"> YouTube</font><font color="#CCCCCC"> channel</font>
+
+129
+00:04:45,460 --> 00:04:47,740
+<font color="#E5E5E5">subscribe by clicking on that</font><font color="#CCCCCC"> button</font>
+
+130
+00:04:47,740 --> 00:04:49,990
+down there<font color="#CCCCCC"> and click</font><font color="#E5E5E5"> on any of the</font>
+
+131
+00:04:49,990 --> 00:04:52,240
+<font color="#E5E5E5">videos here to watch the latest</font>
+
+132
+00:04:52,240 --> 00:04:53,980
+interviews and highlights you can<font color="#E5E5E5"> get</font>
+
+133
+00:04:53,980 --> 00:04:56,530
+more<font color="#CCCCCC"> MSNBC for free</font><font color="#E5E5E5"> every</font><font color="#CCCCCC"> day with</font><font color="#E5E5E5"> our</font>
+
+134
+00:04:56,530 --> 00:04:59,979
+newsletters just visit msnbc.com<font color="#CCCCCC"> slash</font>
+
+135
+00:04:59,979 --> 00:00:00,000
+newsletters<font color="#E5E5E5"> to sign up now</font>
+

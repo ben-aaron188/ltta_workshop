@@ -1,0 +1,142 @@
+now let's take a step back for a second
+and ask who really benefits from 5g well
+it's closely linked to the survival of
+the telecoms industry last week Gartner
+reported the first year on year decline
+in smartphone sales for the critical
+holiday quarter since 2004 the industry
+needs new technology to trigger a new
+burst of profitability and growth they
+want consumers like you and me and
+global businesses to buy equipment and
+mobile services and here's a word you
+may also hear a lot about spectrum this
+is how companies use the airwaves for
+communications spectrum is actually a
+sovereign asset and governments haven't
+even started auctioning off the spectrum
+needed for 5g yet well joining us now
+from London is Daniel Gleason a senior
+analyst in consumer technology with
+london-based / thanks for being with us
+Daniel so just tell us then why does 5g
+matter so much if you had to explain
+this to a layman in a nutshell what is
+it all about really 5g of course is it's
+the next generation of mobile technology
+it's gonna be faster and more reliable
+internet speeds on your phone but more
+than that it's all about having very low
+latency connections so very reliable and
+very quick responding connections and
+particularly it's gonna be very very
+important for enabling new new use cases
+for this technology particularly in
+things like connected cars or on our
+various Internet of Things applications
+and when we talk about technology we
+often talk about the what's known as the
+digital divide that there is this big
+gap between between different
+communities different cultures over how
+much how much access they have to the
+latest technology it does this risk
+further widening the digital divide
+there is always this risk but one of the
+big things that operators are doing with
+5g in particular is that they are using
+it in very high frequency spaces what's
+enormous millimeter-wave and in this
+area you have very very high amounts of
+bandwidth which is perfectly suitable
+for
+or doing point-to-point communications
+to rural communities and to isolated
+areas so this is ideal for helping
+provide that last mile connection which
+for example that fiber broadband simply
+cannot do due to the costs involved so
+that's probably one the big promises of
+5g that in that very high frequency band
+that can help and bridge that gap in a
+way that previous mobile technologies
+simply were not able to and what sort of
+privacy issues does this bring up I mean
+when it comes to 4G for example we we
+have already had to give up a lot in
+that area is 5g gonna be the same well
+in terms of privacy that's more of a an
+application-level basis the technology
+itself is fairly like secure is very
+very secure the main issues in terms of
+privacy and security come really on the
+application level in terms of what your
+apps are doing and who they're sending
+that data to obviously of course within
+5g probably the thing that people will
+on a network level be more concerned
+about is that one of the things that 5g
+enables is a much smaller and denser
+network in urban areas where mobile
+towers will only cover you know a couple
+hundred meters in each direction rather
+than you know 600 to 800 meters which is
+what they would usually do now as I said
+the main threat in terms of security and
+privacy is always going to be on the
+application level where the apps like
+Facebook Twitter Google and many many
+other apps track your position will much
+greater accuracy based off the GPS in
+your device as well as having access to
+you know all the matter of sensitive
+information including payment
+information it does all sound very
+expensive though doesn't it and this
+gets back to the earlier issue of the
+digital divide yes exactly and this is
+gone as I said this is probably going to
+be the big big problem for operators in
+terms of how exactly they decide to roll
+it out it is going to be very expensive
+every part of it from licensing the
+spectrum on day one
+to building out small networks in urban
+areas and eventually building bridging
+that digital divide as I said one of the
+things the regulators have done
+regularly in the past particularly with
+4G to try to accelerate this rollout has
+been to put restrictions or rules around
+the spectrum that does get licensed
+things like saying oh the operator has
+to cover 90% or 95% of the population
+within a certain length of time and
+often with with even with certain pieces
+of spectrum they will say it must be
+used for this specific purpose and
+cannot be used for other ones so that's
+the kind of way that governments and
+regulators will try to help guide the
+rollout of 5g and try to push operators
+in certain directions the cost issue
+though is going to be very is going to
+be very much at the forefront when you
+think particularly in Western Europe and
+in North America where the mobile
+networks are very very mature everybody
+already has a smartphone the amount the
+proposition or the case for growth isn't
+very very strong and that's why
+operators in particular looking at these
+automotive these industrial and IOT
+related use cases for 5g to really be
+the bulk of the business case they may
+not be very glamorous certainly may not
+be you know the most demanding in terms
+of bandwidth they're very sensitive in
+terms of security in terms of
+reliability and in terms of latency and
+that's really the strengths of 5g
+compared to 4G Daniel gleason good to
+speak with you thank you

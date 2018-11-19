@@ -1,0 +1,220 @@
+1
+00:00:00,000 --> 00:00:01,650
+group of music fans may<font color="#CCCCCC"> have</font><font color="#E5E5E5"> unwittingly</font>
+
+2
+00:00:01,650 --> 00:00:03,510
+developed a way to evade facial
+
+3
+00:00:03,510 --> 00:00:05,130
+recognition tools that are frequently
+
+4
+00:00:05,130 --> 00:00:07,230
+<font color="#CCCCCC">used</font><font color="#E5E5E5"> in police surveillance</font><font color="#CCCCCC"> the so</font>
+
+5
+00:00:07,230 --> 00:00:08,910
+<font color="#CCCCCC">called</font><font color="#E5E5E5"> Juggalos are fans of the hip-hop</font>
+
+6
+00:00:08,910 --> 00:00:11,340
+<font color="#CCCCCC">duo Insane Clown Posse who</font><font color="#E5E5E5"> are known for</font>
+
+7
+00:00:11,340 --> 00:00:13,080
+<font color="#E5E5E5">sporting an elaborate style of facial</font>
+
+8
+00:00:13,080 --> 00:00:15,179
+<font color="#CCCCCC">makeup</font><font color="#E5E5E5"> but now a tech researcher claims</font>
+
+9
+00:00:15,179 --> 00:00:17,220
+that the face paint<font color="#E5E5E5"> could potentially</font>
+
+10
+00:00:17,220 --> 00:00:19,380
+disrupt<font color="#E5E5E5"> algorithms used by facial</font>
+
+11
+00:00:19,380 --> 00:00:20,520
+recognition software
+
+12
+00:00:20,520 --> 00:00:23,039
+<font color="#CCCCCC">here's</font><font color="#E5E5E5"> how he explains it facial</font>
+
+13
+00:00:23,039 --> 00:00:25,260
+<font color="#E5E5E5">recognition generator relies on looking</font>
+
+14
+00:00:25,260 --> 00:00:26,939
+for<font color="#CCCCCC"> a few</font><font color="#E5E5E5"> different important facial</font>
+
+15
+00:00:26,939 --> 00:00:29,279
+features<font color="#CCCCCC"> usually like nose eyes mouth</font>
+
+16
+00:00:29,279 --> 00:00:31,679
+<font color="#E5E5E5">eyebrows and</font><font color="#CCCCCC"> jawline</font><font color="#E5E5E5"> this makeup</font>
+
+17
+00:00:31,679 --> 00:00:33,960
+actually<font color="#E5E5E5"> kind</font><font color="#CCCCCC"> of replaces</font><font color="#E5E5E5"> the jawline as</font>
+
+18
+00:00:33,960 --> 00:00:36,090
+well as a few other large features which
+
+19
+00:00:36,090 --> 00:00:37,649
+makes it<font color="#CCCCCC"> very</font><font color="#E5E5E5"> difficult to match it to</font>
+
+20
+00:00:37,649 --> 00:00:39,239
+<font color="#CCCCCC">other regular faces most of the</font>
+
+21
+00:00:39,239 --> 00:00:40,770
+techniques<font color="#CCCCCC"> to avoid facial recognition</font>
+
+22
+00:00:40,770 --> 00:00:43,590
+on yourself<font color="#E5E5E5"> are generally quite drastic</font>
+
+23
+00:00:43,590 --> 00:00:45,870
+facial obfuscation such as a mask or
+
+24
+00:00:45,870 --> 00:00:47,340
+<font color="#CCCCCC">anything which</font><font color="#E5E5E5"> completely hides the face</font>
+
+25
+00:00:47,340 --> 00:00:49,530
+is<font color="#E5E5E5"> going to be most effective</font><font color="#CCCCCC"> I don't</font>
+
+26
+00:00:49,530 --> 00:00:52,350
+think that these<font color="#CCCCCC"> technologies to avoid</font>
+
+27
+00:00:52,350 --> 00:00:53,730
+facial recognition will be used<font color="#E5E5E5"> for</font>
+
+28
+00:00:53,730 --> 00:00:55,680
+crime right away now this kind of
+
+29
+00:00:55,680 --> 00:00:57,360
+science<font color="#CCCCCC"> has come under fire</font><font color="#E5E5E5"> before from</font>
+
+30
+00:00:57,360 --> 00:00:58,949
+rights groups who say it's<font color="#E5E5E5"> being used by</font>
+
+31
+00:00:58,949 --> 00:01:00,300
+the authorities not only to catch
+
+32
+00:01:00,300 --> 00:01:02,640
+criminals<font color="#CCCCCC"> but</font><font color="#E5E5E5"> also to spy on law-abiding</font>
+
+33
+00:01:02,640 --> 00:01:06,769
+<font color="#E5E5E5">citizens here's a</font><font color="#CCCCCC"> hero kneel again</font>
+
+34
+00:01:07,040 --> 00:01:09,210
+recognition technology has some very
+
+35
+00:01:09,210 --> 00:01:11,159
+useful applications<font color="#CCCCCC"> especially for law</font>
+
+36
+00:01:11,159 --> 00:01:13,290
+enforcement<font color="#CCCCCC"> but it could potentially</font><font color="#E5E5E5"> be</font>
+
+37
+00:01:13,290 --> 00:01:15,509
+<font color="#CCCCCC">used</font><font color="#E5E5E5"> maliciously</font><font color="#CCCCCC"> such as</font><font color="#E5E5E5"> waiting outside</font>
+
+38
+00:01:15,509 --> 00:01:17,729
+<font color="#E5E5E5">of hospitals to sell this</font><font color="#CCCCCC"> information on</font>
+
+39
+00:01:17,729 --> 00:01:20,070
+who was there<font color="#CCCCCC"> to</font><font color="#E5E5E5"> insurance companies or</font>
+
+40
+00:01:20,070 --> 00:01:22,049
+other<font color="#E5E5E5"> things which might be more morally</font>
+
+41
+00:01:22,049 --> 00:01:23,670
+questionable<font color="#CCCCCC"> I think there are</font>
+
+42
+00:01:23,670 --> 00:01:25,740
+absolutely<font color="#E5E5E5"> consequences to help</font><font color="#CCCCCC"> tissue</font>
+
+43
+00:01:25,740 --> 00:01:27,240
+<font color="#E5E5E5">recognition technology is being used</font>
+
+44
+00:01:27,240 --> 00:01:28,740
+<font color="#CCCCCC">it's important to make sure</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> we</font>
+
+45
+00:01:28,740 --> 00:01:30,479
+still<font color="#E5E5E5"> continue to develop and understand</font>
+
+46
+00:01:30,479 --> 00:01:32,400
+this technology<font color="#E5E5E5"> but people should be</font>
+
+47
+00:01:32,400 --> 00:01:34,409
+<font color="#E5E5E5">aware of how this data is</font><font color="#CCCCCC"> being gathered</font>
+
+48
+00:01:34,409 --> 00:01:36,479
+<font color="#CCCCCC">what it's</font><font color="#E5E5E5"> used for and potentially how</font>
+
+49
+00:01:36,479 --> 00:01:38,460
+to avoid<font color="#E5E5E5"> it it may be better to limit</font>
+
+50
+00:01:38,460 --> 00:01:40,409
+the sorts<font color="#E5E5E5"> of online exposure you have on</font>
+
+51
+00:01:40,409 --> 00:01:42,329
+social<font color="#CCCCCC"> media even if</font><font color="#E5E5E5"> you can't prevent</font>
+
+52
+00:01:42,329 --> 00:01:43,590
+people<font color="#CCCCCC"> who are recognized in your</font><font color="#E5E5E5"> face</font>
+
+53
+00:01:43,590 --> 00:01:45,149
+you can<font color="#E5E5E5"> limit</font><font color="#CCCCCC"> what they can do with that</font>
+
+54
+00:01:45,149 --> 00:01:47,420
+<font color="#E5E5E5">information</font>
+
+55
+00:01:53,530 --> 00:00:00,000
+you
+

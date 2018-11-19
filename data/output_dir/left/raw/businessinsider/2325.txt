@@ -1,0 +1,752 @@
+1
+00:00:11,900 --> 00:00:14,190
+next question is from Jonathan will
+
+2
+00:00:14,190 --> 00:00:16,049
+Microsoft become a credible player in
+
+3
+00:00:16,049 --> 00:00:18,960
+the mobile OS<font color="#E5E5E5"> Wars what Microsoft what</font>
+
+4
+00:00:18,960 --> 00:00:21,480
+mobile<font color="#CCCCCC"> s OS with Microsoft deliver or</font>
+
+5
+00:00:21,480 --> 00:00:24,539
+what have they delivered in<font color="#E5E5E5"> the past you</font>
+
+6
+00:00:24,539 --> 00:00:26,070
+<font color="#CCCCCC">know the answer that question is</font>
+
+7
+00:00:26,070 --> 00:00:28,949
+becoming no more each day Microsoft has
+
+8
+00:00:28,949 --> 00:00:32,399
+had a history of decent mobile os's
+
+9
+00:00:32,399 --> 00:00:34,680
+dating until about two thousand seven
+
+10
+00:00:34,680 --> 00:00:36,030
+when<font color="#CCCCCC"> the iphone</font><font color="#E5E5E5"> came out and made</font>
+
+11
+00:00:36,030 --> 00:00:38,219
+everybody looks silly and since then
+
+12
+00:00:38,219 --> 00:00:40,290
+<font color="#E5E5E5">they've made some minor tweaks to</font>
+
+13
+00:00:40,290 --> 00:00:41,940
+windows mobile but nothing major that
+
+14
+00:00:41,940 --> 00:00:44,280
+would put it on the same level as iphone
+
+15
+00:00:44,280 --> 00:00:48,420
+android or even palm webos so I've<font color="#E5E5E5"> heard</font>
+
+16
+00:00:48,420 --> 00:00:50,520
+that the new microsoft windows mobile
+
+17
+00:00:50,520 --> 00:00:52,620
+seven which is based on kind of<font color="#E5E5E5"> the zune</font>
+
+18
+00:00:52,620 --> 00:00:56,460
+the new zune HD framework kind of
+
+19
+00:00:56,460 --> 00:00:57,750
+looking like<font color="#E5E5E5"> that is actually pretty</font>
+
+20
+00:00:57,750 --> 00:00:59,940
+<font color="#E5E5E5">good but that's not going to help that</font>
+
+21
+00:00:59,940 --> 00:01:02,070
+much if they can't get mobile
+
+22
+00:01:02,070 --> 00:01:04,110
+manufacturers and carriers and
+
+23
+00:01:04,110 --> 00:01:06,150
+developers to embrace Microsoft again
+
+24
+00:01:06,150 --> 00:01:08,580
+and as Apple and Android really kind of
+
+25
+00:01:08,580 --> 00:01:10,140
+kick everyone else's butts in that field
+
+26
+00:01:10,140 --> 00:01:12,330
+it's going to<font color="#E5E5E5"> be</font><font color="#CCCCCC"> very hard for Microsoft</font>
+
+27
+00:01:12,330 --> 00:01:14,340
+even with<font color="#CCCCCC"> all that money behind it even</font>
+
+28
+00:01:14,340 --> 00:01:16,590
+with its past relationships even<font color="#CCCCCC"> with</font>
+
+29
+00:01:16,590 --> 00:01:18,390
+some weird deal at signed with LG
+
+30
+00:01:18,390 --> 00:01:20,549
+recently to catch up where it's falling
+
+31
+00:01:20,549 --> 00:01:22,830
+behind so I would<font color="#CCCCCC"> say the odds of</font>
+
+32
+00:01:22,830 --> 00:01:24,450
+Microsoft becoming an important player
+
+33
+00:01:24,450 --> 00:01:26,400
+here you can never count<font color="#E5E5E5"> them out they</font>
+
+34
+00:01:26,400 --> 00:01:28,619
+can<font color="#E5E5E5"> easily</font><font color="#CCCCCC"> buy rim they could easily buy</font>
+
+35
+00:01:28,619 --> 00:01:30,210
+palm they could do a lot<font color="#E5E5E5"> of</font><font color="#CCCCCC"> things to</font>
+
+36
+00:01:30,210 --> 00:01:32,299
+<font color="#CCCCCC">become a big player through acquisition</font>
+
+37
+00:01:32,299 --> 00:01:34,409
+organically I think it's going<font color="#E5E5E5"> to really</font>
+
+38
+00:01:34,409 --> 00:01:37,259
+take a miracle for them so we'll<font color="#E5E5E5"> see</font><font color="#CCCCCC"> how</font>
+
+39
+00:01:37,259 --> 00:01:38,970
+good windows mobile seven is I get a
+
+40
+00:01:38,970 --> 00:01:40,229
+hunch we're going to hear a lot about it
+
+41
+00:01:40,229 --> 00:01:42,270
+next month at the Mobile World Congress
+
+42
+00:01:42,270 --> 00:01:44,880
+in Barcelona I get a feeling they're
+
+43
+00:01:44,880 --> 00:01:46,140
+going to have to ship it by the<font color="#E5E5E5"> end of</font>
+
+44
+00:01:46,140 --> 00:01:47,850
+the<font color="#CCCCCC"> year otherwise</font><font color="#E5E5E5"> it's probably too</font>
+
+45
+00:01:47,850 --> 00:01:49,140
+late and they'll have to buy<font color="#CCCCCC"> some one</font>
+
+46
+00:01:49,140 --> 00:01:53,009
+and from Adam why do many large
+
+47
+00:01:53,009 --> 00:01:55,259
+companies continue to create lousy
+
+48
+00:01:55,259 --> 00:01:57,000
+products rather than focus on fewer
+
+49
+00:01:57,000 --> 00:01:59,399
+better products and one of the examples
+
+50
+00:01:59,399 --> 00:02:01,380
+he gave with<font color="#CCCCCC"> Sony Ericsson which used</font><font color="#E5E5E5"> to</font>
+
+51
+00:02:01,380 --> 00:02:03,000
+make<font color="#E5E5E5"> great phones and I had</font><font color="#CCCCCC"> three of</font>
+
+52
+00:02:03,000 --> 00:02:05,460
+them<font color="#E5E5E5"> which I love for many years you</font>
+
+53
+00:02:05,460 --> 00:02:07,259
+<font color="#E5E5E5">know has this problem where they have 50</font>
+
+54
+00:02:07,259 --> 00:02:08,848
+different phones or<font color="#CCCCCC"> hundred phones a</font>
+
+55
+00:02:08,848 --> 00:02:10,410
+year Motorola had this very problem
+
+56
+00:02:10,410 --> 00:02:12,300
+where they had six operating systems
+
+57
+00:02:12,300 --> 00:02:12,540
+into
+
+58
+00:02:12,540 --> 00:02:15,629
+development and<font color="#CCCCCC"> you look at the counter</font>
+
+59
+00:02:15,629 --> 00:02:17,430
+example which is<font color="#E5E5E5"> apple or palm where</font>
+
+60
+00:02:17,430 --> 00:02:20,099
+they have to you know one phone two
+
+61
+00:02:20,099 --> 00:02:22,530
+phones something like<font color="#CCCCCC"> that one of the</font>
+
+62
+00:02:22,530 --> 00:02:24,019
+<font color="#E5E5E5">reasons for in the mobile industry</font>
+
+63
+00:02:24,019 --> 00:02:27,120
+specifically is the way that phones are
+
+64
+00:02:27,120 --> 00:02:28,920
+distributed worldwide and that is in a
+
+65
+00:02:28,920 --> 00:02:31,560
+carrier system so in the<font color="#E5E5E5"> u.s.</font><font color="#CCCCCC"> Motorola</font>
+
+66
+00:02:31,560 --> 00:02:33,780
+may make four versions of the same phone
+
+67
+00:02:33,780 --> 00:02:37,140
+with very minor tweaks so one at verizon
+
+68
+00:02:37,140 --> 00:02:39,030
+one at t-mobile one at sprint one at 80
+
+69
+00:02:39,030 --> 00:02:42,120
+<font color="#CCCCCC">I'm sure that this is a hassle for</font><font color="#E5E5E5"> them</font>
+
+70
+00:02:42,120 --> 00:02:43,500
+on the<font color="#E5E5E5"> back end but this is something</font>
+
+71
+00:02:43,500 --> 00:02:45,000
+where they have customers who want to
+
+72
+00:02:45,000 --> 00:02:46,950
+have something differentiated they want
+
+73
+00:02:46,950 --> 00:02:49,950
+to say they have the only you<font color="#E5E5E5"> know</font><font color="#CCCCCC"> Q 302</font>
+
+74
+00:02:49,950 --> 00:02:52,859
+C model they want<font color="#E5E5E5"> to have something</font>
+
+75
+00:02:52,859 --> 00:02:54,000
+different to be<font color="#CCCCCC"> able to market to</font>
+
+76
+00:02:54,000 --> 00:02:56,669
+consumers is it the best way of<font color="#CCCCCC"> doing</font>
+
+77
+00:02:56,669 --> 00:02:58,560
+things I think<font color="#E5E5E5"> that the answer</font><font color="#CCCCCC"> we found</font>
+
+78
+00:02:58,560 --> 00:03:00,419
+out especially his<font color="#CCCCCC"> phone's become more</font>
+
+79
+00:03:00,419 --> 00:03:03,810
+expensive and smarter is no and I think
+
+80
+00:03:03,810 --> 00:03:05,280
+<font color="#CCCCCC">that's why we're</font><font color="#E5E5E5"> going to see things</font>
+
+81
+00:03:05,280 --> 00:03:08,849
+like the droid which motorola is using
+
+82
+00:03:08,849 --> 00:03:11,010
+as the basis for a phone for verizon
+
+83
+00:03:11,010 --> 00:03:14,099
+here but also overseas I think we'll
+
+84
+00:03:14,099 --> 00:03:15,900
+start to see more stuff like the iPhone
+
+85
+00:03:15,900 --> 00:03:18,870
+where a manufacturer will have one phone
+
+86
+00:03:18,870 --> 00:03:20,760
+that they sell on multiple carriers if
+
+87
+00:03:20,760 --> 00:03:22,049
+you look at<font color="#E5E5E5"> palm they're doing it with</font>
+
+88
+00:03:22,049 --> 00:03:24,690
+the palm pre plus and a pixi plus it's
+
+89
+00:03:24,690 --> 00:03:27,239
+very similar verizon and sprint but the
+
+90
+00:03:27,239 --> 00:03:29,099
+bottom line is<font color="#CCCCCC"> I</font><font color="#E5E5E5"> think we'll see simpler</font>
+
+91
+00:03:29,099 --> 00:03:31,919
+product lines fewer operating systems /
+
+92
+00:03:31,919 --> 00:03:35,790
+manufacturer because<font color="#E5E5E5"> software is really</font>
+
+93
+00:03:35,790 --> 00:03:37,979
+what sets phones apart these days not
+
+94
+00:03:37,979 --> 00:03:40,169
+the<font color="#E5E5E5"> color of the case or the way the</font>
+
+95
+00:03:40,169 --> 00:03:41,489
+keyboard looks or something like that
+
+96
+00:03:41,489 --> 00:03:43,949
+it's the it's the apps and the operating
+
+97
+00:03:43,949 --> 00:03:47,280
+system so i think<font color="#E5E5E5"> that the companies</font>
+
+98
+00:03:47,280 --> 00:03:49,049
+that<font color="#E5E5E5"> don't adapt that will have problems</font>
+
+99
+00:03:49,049 --> 00:03:51,329
+<font color="#E5E5E5">nokia has had problems lately they've</font>
+
+100
+00:03:51,329 --> 00:03:54,720
+been slow to adapt to that and Apple of
+
+101
+00:03:54,720 --> 00:03:56,010
+course has<font color="#CCCCCC"> been very successful with</font>
+
+102
+00:03:56,010 --> 00:03:59,010
+that and the last question comes from
+
+103
+00:03:59,010 --> 00:04:00,870
+Eric W who asks what are your thoughts
+
+104
+00:04:00,870 --> 00:04:02,609
+on the whole mobile social thing
+
+105
+00:04:02,609 --> 00:04:05,310
+regarding Foursquare and Yelp and
+
+106
+00:04:05,310 --> 00:04:07,199
+gowalla do you think Facebook is going
+
+107
+00:04:07,199 --> 00:04:10,590
+to turn<font color="#E5E5E5"> on location soon so what is this</font>
+
+108
+00:04:10,590 --> 00:04:13,620
+mobile social thing foursquare is kind
+
+109
+00:04:13,620 --> 00:04:15,509
+of the example that everyone uses right
+
+110
+00:04:15,509 --> 00:04:17,970
+now because they are<font color="#E5E5E5"> the newest and</font>
+
+111
+00:04:17,970 --> 00:04:19,649
+we're one of the newest and one of the
+
+112
+00:04:19,649 --> 00:04:21,719
+most<font color="#E5E5E5"> popular in this little niche and</font>
+
+113
+00:04:21,719 --> 00:04:24,930
+this niche is I have a phone that has
+
+114
+00:04:24,930 --> 00:04:27,660
+is a powerful processor and a<font color="#E5E5E5"> GPS</font><font color="#CCCCCC"> unit</font>
+
+115
+00:04:27,660 --> 00:04:29,280
+in it I can use that<font color="#CCCCCC"> to tell my friends</font>
+
+116
+00:04:29,280 --> 00:04:31,710
+<font color="#CCCCCC">where I am I can find out where my</font>
+
+117
+00:04:31,710 --> 00:04:34,110
+friends are I can send<font color="#E5E5E5"> pictures and</font>
+
+118
+00:04:34,110 --> 00:04:37,380
+information with my location tag to it
+
+119
+00:04:37,380 --> 00:04:41,190
+and share that with my friends and only
+
+120
+00:04:41,190 --> 00:04:43,110
+now this stuff has<font color="#E5E5E5"> been around for a</font>
+
+121
+00:04:43,110 --> 00:04:44,220
+little while there's companies like
+
+122
+00:04:44,220 --> 00:04:45,870
+<font color="#CCCCCC">loopt that have been selling this sort</font>
+
+123
+00:04:45,870 --> 00:04:47,910
+of stuff for years but now we're
+
+124
+00:04:47,910 --> 00:04:49,889
+starting<font color="#E5E5E5"> to get into a period where</font>
+
+125
+00:04:49,889 --> 00:04:51,600
+there's actually practical uses for it
+
+126
+00:04:51,600 --> 00:04:53,759
+where foursquare<font color="#CCCCCC"> to people who are</font>
+
+127
+00:04:53,759 --> 00:04:56,190
+social and who go out actually find
+
+128
+00:04:56,190 --> 00:04:57,479
+something useful out of this it is
+
+129
+00:04:57,479 --> 00:04:59,300
+helpful to know where your friends are
+
+130
+00:04:59,300 --> 00:05:01,440
+without<font color="#E5E5E5"> having to call them or message</font>
+
+131
+00:05:01,440 --> 00:05:03,240
+them especially if they're really
+
+132
+00:05:03,240 --> 00:05:04,800
+proactive about filling out this
+
+133
+00:05:04,800 --> 00:05:09,270
+information recently there's been a push
+
+134
+00:05:09,270 --> 00:05:11,039
+from other companies that<font color="#E5E5E5"> have other</font>
+
+135
+00:05:11,039 --> 00:05:13,080
+social aspects of them to move<font color="#CCCCCC"> into this</font>
+
+136
+00:05:13,080 --> 00:05:16,380
+mobile area so Yelp for example which
+
+137
+00:05:16,380 --> 00:05:18,660
+has a very popular website and a popular
+
+138
+00:05:18,660 --> 00:05:20,849
+iPhone app has added this kind of
+
+139
+00:05:20,849 --> 00:05:24,240
+check-in activity to the yelp app and a
+
+140
+00:05:24,240 --> 00:05:26,190
+lot of<font color="#E5E5E5"> people were wondering ok it's</font>
+
+141
+00:05:26,190 --> 00:05:27,960
+Foursquare already dead is Yelp going to
+
+142
+00:05:27,960 --> 00:05:30,330
+come kick their butts I don't think Yelp
+
+143
+00:05:30,330 --> 00:05:31,680
+is going to be the one<font color="#CCCCCC"> that gives them</font>
+
+144
+00:05:31,680 --> 00:05:34,409
+much trouble Yelp obviously is bigger
+
+145
+00:05:34,409 --> 00:05:36,330
+than four square but Yelp who's actually
+
+146
+00:05:36,330 --> 00:05:38,430
+friends with people on yelp I mean if
+
+147
+00:05:38,430 --> 00:05:40,199
+you're friends<font color="#CCCCCC"> with people on Yelp it's</font>
+
+148
+00:05:40,199 --> 00:05:42,120
+people that you know from Yelp and those
+
+149
+00:05:42,120 --> 00:05:43,199
+are not the people you're going<font color="#E5E5E5"> to be</font>
+
+150
+00:05:43,199 --> 00:05:45,360
+hanging<font color="#E5E5E5"> out with in person so I think</font>
+
+151
+00:05:45,360 --> 00:05:47,280
+the<font color="#E5E5E5"> biggest trouble for foursquare could</font>
+
+152
+00:05:47,280 --> 00:05:48,930
+be<font color="#CCCCCC"> Facebook because</font><font color="#E5E5E5"> that's really where</font>
+
+153
+00:05:48,930 --> 00:05:51,030
+people are friends with the people they
+
+154
+00:05:51,030 --> 00:05:53,550
+associate with in real life<font color="#E5E5E5"> Twitter you</font>
+
+155
+00:05:53,550 --> 00:05:55,259
+kind<font color="#E5E5E5"> of follow people that you know from</font>
+
+156
+00:05:55,259 --> 00:05:57,570
+<font color="#E5E5E5">the internet Yelp you hang out with</font>
+
+157
+00:05:57,570 --> 00:05:59,130
+<font color="#CCCCCC">people I don't know what</font><font color="#E5E5E5"> you do on Yelp</font>
+
+158
+00:05:59,130 --> 00:06:00,419
+you talk to people who go the same
+
+159
+00:06:00,419 --> 00:06:01,830
+restaurant as you do that you probably
+
+160
+00:06:01,830 --> 00:06:04,080
+don't<font color="#E5E5E5"> know but Facebook is the site</font>
+
+161
+00:06:04,080 --> 00:06:05,759
+where you interact with<font color="#E5E5E5"> people you do</font>
+
+162
+00:06:05,759 --> 00:06:08,130
+know who you would hang out with who
+
+163
+00:06:08,130 --> 00:06:10,380
+<font color="#E5E5E5">you'd want to run into at a bar so if</font>
+
+164
+00:06:10,380 --> 00:06:12,180
+Facebook Ads some sort of check-in
+
+165
+00:06:12,180 --> 00:06:14,490
+location thing that could be<font color="#E5E5E5"> trouble for</font>
+
+166
+00:06:14,490 --> 00:06:16,530
+foursquare when I<font color="#E5E5E5"> talk to Mark</font>
+
+167
+00:06:16,530 --> 00:06:18,659
+<font color="#E5E5E5">Zuckerberg about that over a year</font><font color="#CCCCCC"> ago he</font>
+
+168
+00:06:18,659 --> 00:06:21,270
+said location is important to me but I
+
+169
+00:06:21,270 --> 00:06:23,490
+you know<font color="#E5E5E5"> we're figuring out how to put</font>
+
+170
+00:06:23,490 --> 00:06:24,960
+it<font color="#E5E5E5"> into facebook there's obviously a lot</font>
+
+171
+00:06:24,960 --> 00:06:26,460
+of privacy issues around that
+
+172
+00:06:26,460 --> 00:06:29,400
+infrastructure issues and security and
+
+173
+00:06:29,400 --> 00:06:31,530
+things like that and<font color="#E5E5E5"> the idea that they</font>
+
+174
+00:06:31,530 --> 00:06:33,060
+<font color="#E5E5E5">would be screwing over some of their</font>
+
+175
+00:06:33,060 --> 00:06:36,419
+developer partners like Foursquare so at
+
+176
+00:06:36,419 --> 00:06:38,219
+some point I imagine Facebook will do
+
+177
+00:06:38,219 --> 00:06:38,560
+some
+
+178
+00:06:38,560 --> 00:06:39,970
+around this I think<font color="#CCCCCC"> they're more focused</font>
+
+179
+00:06:39,970 --> 00:06:43,630
+now in advertising and payments but as
+
+180
+00:06:43,630 --> 00:06:45,550
+this continues<font color="#E5E5E5"> to grow as more people</font>
+
+181
+00:06:45,550 --> 00:06:47,770
+use foursquare and gowalla and services
+
+182
+00:06:47,770 --> 00:06:49,450
+like that i<font color="#CCCCCC"> think that</font><font color="#E5E5E5"> facebook will</font>
+
+183
+00:06:49,450 --> 00:06:50,919
+have to do something eventually and
+
+184
+00:06:50,919 --> 00:06:53,290
+that's it next week we'll have another
+
+185
+00:06:53,290 --> 00:06:55,630
+one of<font color="#E5E5E5"> these and look out for a post on</font>
+
+186
+00:06:55,630 --> 00:06:57,310
+silicon alley insider where you can ask
+
+187
+00:06:57,310 --> 00:06:59,260
+your questions<font color="#E5E5E5"> and have them answered on</font>
+
+188
+00:06:59,260 --> 00:00:00,000
+camera thanks for<font color="#CCCCCC"> watching</font>
+

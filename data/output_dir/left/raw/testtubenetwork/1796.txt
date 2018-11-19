@@ -1,0 +1,215 @@
+1
+00:00:04,330 --> 00:00:09,160
+In February 2016, the US government ordered
+the tech company, Apple, to create software
+
+2
+00:00:09,160 --> 00:00:12,410
+that could grant unauthorized access into
+the iPhone.
+
+3
+00:00:12,410 --> 00:00:16,379
+The FBI has said this access would allow them
+to investigate a suspect in the San Bernardino
+
+4
+00:00:16,379 --> 00:00:17,410
+terror attack.
+
+5
+00:00:17,410 --> 00:00:22,720
+But Apple’s CEO Tim Cook has refused, saying
+that a backdoor to the iPhone could lead to
+
+6
+00:00:22,720 --> 00:00:25,390
+significant privacy concerns for its customers.
+
+7
+00:00:25,390 --> 00:00:29,730
+It is rare for a major company to defy the
+federal government, so we wanted to know,
+
+8
+00:00:29,730 --> 00:00:31,390
+just how powerful is Apple?
+
+9
+00:00:31,390 --> 00:00:35,300
+Well, Apple is the world’s most valuable
+publicly traded company.
+
+10
+00:00:35,300 --> 00:00:40,630
+In February 2015 it rose to be the first US
+company worth more than $700 billion dollars,
+
+11
+00:00:40,630 --> 00:00:46,330
+about the same as the GDP of Saudi Arabia
+Since 1976, Apple has manufactured and sold
+
+12
+00:00:46,330 --> 00:00:50,330
+personal computers, but they are now better
+known for consumer electronics, including
+
+13
+00:00:50,330 --> 00:00:53,460
+phones, tablets, mp3 players and smartwatches.
+
+14
+00:00:53,460 --> 00:00:58,730
+Apple has sold more than 700 million iPhones
+worldwide, and stand as the leading smartphone
+
+15
+00:00:58,730 --> 00:01:00,650
+retailer in the US.
+
+16
+00:01:00,650 --> 00:01:04,890
+But much of Apple’s financial success doesn’t
+come from its quantity of sales, but rather
+
+17
+00:01:04,890 --> 00:01:06,900
+the amount spent on each device.
+
+18
+00:01:06,900 --> 00:01:12,050
+In fact, iPhones only count for roughly 14
+percent of the global smartphone market.
+
+19
+00:01:12,050 --> 00:01:16,110
+Yet, Apple still makes more than half of the
+total profits in that industry.
+
+20
+00:01:16,110 --> 00:01:20,990
+This, combined with the tight ecosystem of
+their products, has given Apple an unusual
+
+21
+00:01:20,990 --> 00:01:22,000
+amount of brand loyalty.
+
+22
+00:01:22,000 --> 00:01:27,790
+In a 2015 survey of iPhone users, more than
+83 percent of respondents said they planned
+
+23
+00:01:27,790 --> 00:01:30,590
+to stick with Apple for their next smartphone
+purchase.
+
+24
+00:01:30,590 --> 00:01:34,910
+Apple product releases and store openings
+are known to attract thousands of people,
+
+25
+00:01:34,910 --> 00:01:37,060
+some of whom wait for hours in line.
+
+26
+00:01:37,060 --> 00:01:41,300
+With such a widespread level of reach and
+influence, any security breach on Apple products
+
+27
+00:01:41,300 --> 00:01:43,230
+has severe consequences.
+
+28
+00:01:43,230 --> 00:01:47,920
+This was demonstrated in 2014, when hundreds
+of private photos of celebrities surfaced
+
+29
+00:01:47,920 --> 00:01:50,680
+online as the result of a suspected iCloud
+hack.
+
+30
+00:01:50,680 --> 00:01:54,440
+This was not only devastating to those who
+were involved, but it raised concern around
+
+31
+00:01:54,440 --> 00:01:59,590
+the security of services like iCloud, which
+store mass amounts of private information.
+
+32
+00:01:59,590 --> 00:02:03,370
+In fact, later that same year, the company
+revamped the level of encryption in their
+
+33
+00:02:03,370 --> 00:02:08,258
+mobile operating systems, preventing hackers,
+governments, and even Apple themselves from
+
+34
+00:02:08,258 --> 00:02:09,618
+gaining access.
+
+35
+00:02:09,619 --> 00:02:14,510
+Tim Cook has long described digital privacy
+as a human right, and has repeatedly moved
+
+36
+00:02:14,510 --> 00:02:19,130
+beyond his role as CEO, into the center of
+high-stakes social and political issues.
+
+37
+00:02:19,130 --> 00:02:23,250
+As Apple devices have increasingly been able
+to carry more personal data, they have been
+
+38
+00:02:23,250 --> 00:02:25,260
+forced to become more secure.
+
+39
+00:02:25,260 --> 00:02:29,530
+The most recent pushback on government intrusion
+has shown that Apple is powerful enough to
+
+40
+00:02:29,530 --> 00:02:31,650
+stand up to even the FBI.
+
+41
+00:02:31,650 --> 00:02:34,360
+But how can Apple just deny access to the
+government?
+
+42
+00:02:34,360 --> 00:02:38,940
+What does Tim Cook mean when he says they’re
+unable to access phones produced by Apple?
+
+43
+00:02:38,940 --> 00:02:40,530
+How does encryption work?
+
+44
+00:02:40,530 --> 00:02:42,400
+Check out this DNews video to find out!
+
+45
+00:02:42,400 --> 00:02:53,910
+(sound up) Thanks for 
+watching TestTube News, don’t forget to
+
+46
+00:02:53,910 --> 00:00:00,000
+like and subscribe for new videos every day!
+

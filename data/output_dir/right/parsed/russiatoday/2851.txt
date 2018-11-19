@@ -1,0 +1,636 @@
+hello their friend Max Keiser this is
+the Kaiser report the show that expands
+your mind and your pocketbook sometimes
+Jason obviously this is the ninth
+birthday week of Bitcoin so I'm gonna
+stick on this but I know also a lot of
+people have not only indigestion from
+the new year still but they also have
+indigestion from the you know baptism by
+market crashes and volatility you know
+most people got into Bitcoin in 2017 and
+they only saw up a parabolic up and it
+was like it was like pennies from heaven
+it was like wonderful and then a lot of
+volatility hit over Christmas so I'm
+assuming there's a lot of indigestion
+and fear and panic and self-loathing and
+all sorts of stuff happening so we're
+gonna look at this article that Jameson
+lop as we mentioned when we were hanging
+out with him for the Bitcoin birthday
+party last night and I want to talk
+about a take a step back to understand
+where Bitcoin came from and by
+understanding the genesis of the Genesis
+block that happened on January 3rd 2009
+I understand where the future might be
+what might happen in 9 years from now
+Bitcoin and the rise of the cypher punks
+this is an important term to understand
+and the cypherpunks because right now
+most of the attention for all the
+newbies involved in cryptocurrency is
+all about the corporate side everything
+on CNBC Bloomberg what they're focusing
+on and for us to watch CNBC and
+Bloomberg it's quite interesting because
+it's it's not at all what most people it
+all the OGIS like the original gangsters
+of Bitcoin nobody really talks about
+these aren't what are important to the
+Bitcoin community but it's a corporate
+side and that's their side of the story
+but we're looking at the origin what
+happened from Bitcoin to blockchain to
+distributed Ledger's the cryptocurrency
+space is fast evolving to the point
+where it can be difficult to see which
+direction that's headed but we're not
+without clues while many of the
+innovations in the space are new they
+are built on deck
+aids of work that led to this point by
+tracing this history we can understand
+the motivations behind the movement that
+spawned Bitcoin and share his vision for
+the future so he starts with the history
+which was in the 70s and at that time
+cryptography was invented and created
+and developed by the US military by that
+likes of the NSA and CIA mostly NSA so
+they developed cryptography and it was
+at that time that all of the guys with
+the knowledge of that this was
+considered basically state secret was
+like you know you can't just sell
+somebody US military technology this was
+considered military technology to tell
+them about cryptography to tell them
+about encryption so in the 70s was
+crypto war one there was crypto war one
+the cryptographers against the
+government they wanted to open-source it
+and share this encryption technology in
+order to keep the Internet and
+communication private this notion of
+privacy not secrecy but privacy for the
+individual participating online the idea
+of privacy is enshrined in the
+Constitution clearly you can interpret
+there the right to assemble as the right
+to assemble and communicate privately
+they think about if that were not the
+case before the American Revolution if
+there were no private meetings and think
+about the American Revolutionary War
+without George Washington's ability to
+send message privately out there in the
+the colonies to to organize the the war
+against the the Empire yeah well he
+obviously needed secrecy these were
+secrets he was keeping from the crown
+and there is a legitimate reason for
+secrecy and all these early
+cryptographers did understand that you
+wanted secrets kept from your enemies
+and you know it will during World War
+two we didn't want the Nazis to have our
+our knowledge we use those you know
+Native Americans said they spoke the
+language that they not just going to
+speak we were keeping information secret
+from them
+however there's privacy these curtains
+are open right now behind us because
+where everybody's going to watch this on
+you
+- were not trying to hide anything we're
+happy for anybody to walk past there and
+look at us but if we were walking around
+naked or in our underwear or you know
+just hanging out with our friends here
+we do much we you could possibly be
+Dutch if you've ever been to answer them
+they don't seem to have curtains they
+don't seem to mind not having much
+privacy but nevertheless we're not we're
+American and we're in America and you
+know you you want to keep some things
+private you went your own intimate
+private space this is what they want to
+maintain for the people so then he goes
+into the 1980s he lists a few of the key
+people remember this the title of this
+article is Bitcoin and the rise of the
+cypherpunks
+it's really we can't get into it here we
+don't have enough time but you should go
+read it and find out the history of it
+but it was in 1992 where the term
+cypherpunks was first coined San
+Francisco of course everything happens
+there in 1992 Eric Hughes Timothy C May
+and John Gilmer founded a small group
+that met monthly at Gilmore's company
+Cygnus solutions in the San Francisco
+Bay Area
+the group was humorously termed
+cypherpunks as a derivation of cipher
+and cyberpunk the cypherpunks mailing
+list was formed at the same time and
+just a few months later Eric Hughes
+published a cypherpunks manifesto he
+wrote privacy is necessary for an open
+society in the electronic age privacy is
+not secrecy a private matter is
+something one does not want the world to
+know but a secret matter is something
+one doesn't want anybody to know privacy
+is the power to selectively reveal
+oneself to the world so this was the
+birth of the cyberpunk movement and this
+these are the people the cypherpunks who
+invented the technology that is Bitcoin
+that that is the foundation upon which
+Bitcoin is built right they were getting
+into the how we got to Genesis block and
+the idea of having private messages sent
+require electronically required advances
+in technology and I believe at some
+point in this story the government's
+work in creating
+encryption was kind of released wasn't
+it it was it was released finally after
+big battles between these guys in the
+90s in in San Francisco and the
+government and there were threats to
+arrest them there were threats that they
+were a revealing state secrets and
+that's important to understand and
+that's in the the documentation here
+that he's talking about but then the
+technology here just like remember in
+the last episode we talked about the
+Precambrian explosion of all these ideas
+emerging here here are the ideas that
+went into it in in the you know
+biological life there were creatures
+with seven eyes creatures with ten eyes
+creatures with three eyes you know there
+were all sorts of attempts at various
+configurations but you could see that
+eyes were going to be a good
+evolutionary design it was it was useful
+and eventually two eyes was the one that
+was settled on that was a standard upon
+which many biological creatures emerged
+that is what those guys those
+cypherpunks were laying out the
+basically the standards upon which
+bitcoin was built and one of the things
+of how to keep your messages private how
+to secure it was it just sent
+incentivize people to keep it private
+and he mentions that in 1997 dr. Adam
+back created hash cash which was
+designed as an anti-spam mechanism that
+would essentially add a time and
+computational cost to send an email thus
+making spam on economical he envisioned
+that hash cash would be easier for
+people to use than dr. charms digit cash
+which was created a decade earlier since
+there was no need for the creation of an
+account hashcash even has some
+protection against double spending then
+later he mentions that dr. way day
+published a proposal for B money a
+practical way to enforce contractual
+agreements between anonymous actors he
+described two interesting concepts that
+should sound familiar first a protocol
+in which every participant maintains a
+separate database of how much money
+belongs to user secondly a variant of
+the first system where the accounts
+of who has how much money are kept by a
+subset of the participants who are
+incentivized to remain honest by putting
+their money on the line so Bitcoin
+obviously copies some of those in
+evolved it evolves from those concepts
+right well you know I say often that if
+you look at gold is a periodic element
+number 79 and has unique attributes that
+make it great for money so you think
+Bitcoin not born in a vacuum and it's
+got 40 years of history to it and it's
+evolved through all these technologies
+it's a unique protocol and it like gold
+it is attracting a huge amount of
+capital force forth for this achievement
+and you can't say that you can simply go
+out there and create another one there
+are competitors of course just like
+there are competing species on planet
+earth for energy and survival but
+there's only one apex predator that is
+man at the moment before he dies from
+all the garbage then he goes into the
+2000s you mentioned goals and that's one
+of the ideas like all the ideas from our
+history of money from our history of
+privacy of being humans and evolving
+higher intellectual you know you know
+speaking freely amongst each other in
+these groups and speaking about ideas no
+matter how crazy or stupid they might
+seem and they eventually emerge into
+powerful you know robust systems so he
+mentions Hal Finney who recently passed
+away he in 2004 created work which was
+called the reusable proof of work which
+built on facts Hashcash and then of
+course nick szabo in 2005 he did bitgold
+which was a digital collectable so these
+ideas obviously you know bitcoin is
+often called big gold 2.0 it's it's in
+fact the IRS does qualify it as a
+commodity as a property and asset like
+gold so you know these are the this is
+the evolution and then he's predicting
+where the future will go that's right
+and also the white paper the Satoshi
+white paper is it's a bitcoin assistant
+for digital cash transmission to moving
+digital cash digital cash paraphrasing
+which is sets off most inquiries into
+this onto
+a bit of a skewed path because they're
+looking at it in one use case the the
+replacement for the payments use case
+which is to ignore the entire history of
+this entire movement and to ignore
+everything else that this can possibly
+do including obvious references to gold
+and is mentioned in the white paper gold
+it comes from derivation from a bit gold
+and just always been store values always
+been key to this whole thing store value
+means of exchange a payment system or
+actually what the the Genesis the origin
+of this is about privacy I mean
+ultimately and the ability to protect
+that electronically ended up with where
+we are today the cyberpunk movement is
+the genesis movement to understand it no
+one's even should buy any Bitcoin
+without first studying the cypherpunks
+that's my feeling Satoshi white paper in
+2008 did mention it he mentioned
+Hashcash MB money and he in fact Satoshi
+emailed Wade a directly and mentioned
+that he learned about be money from
+doctor back so this is he whoever
+Satoshi are they were came from the
+cyberpunk movement and it's important to
+understand and research cyberpunk
+because many people have piled into
+Bitcoin they might now be distressed
+about prices and other that but it's
+about an idea it's much bigger than just
+prices or doctor back is still alive
+he's on Twitter he's on Twitter and if
+you have a quite you know if you want to
+find out what it's about is it really
+Bitcoin cash asked him asked out your
+back what he thinks about it he'll give
+you the straight dope alright well we
+got to take a break we'll be back with a
+lot more right after the break
+welcome back to the Kaiser report I'm
+Max Keiser time now to go to Miami speak
+with Richard Hart
+he's a Bitcoin enthusiast who knows what
+he's talking about actually when it
+comes to technology and derivatives
+trading I've been following his YouTube
+channel for quite some time now Richard
+Hart welcome Thank You max pleasure
+being here I guess we can't avoid we got
+to look at this Bitcoin cash it's
+trading just now there's a lot of drama
+it's the drama of the Month Club on
+Bitcoin always you've got some insight
+into what's happening a Bitcoin cache
+can you dive into that a little bit
+Richard well I mean it's real simple if
+I if I made a Kaiser report cache and
+then you know had somebody dress up like
+you make a separate channel and then
+told everyone that it was the real Max
+Keiser you'd be pretty upset about that
+I mean you put a lot of years and work
+into building up your brand and making
+something of quality to have someone
+else come along that had nearly no say
+and how the thing was built never wrote
+an improvement proposal never improved
+the code you know basically a leech you
+know if a leech came along and said that
+Max Keiser cash was the real Max Keiser
+Report you'd be pretty upset about that
+and in the normal business world it
+would be illegal it's brand dilution
+it's you know stealing the goodwill of
+another company through confusion for
+your get-rich-quick project so you know
+I don't like I don't like people that
+pretend to compete I like real
+competition real competition means you
+get your own name you build your own
+unique value add and you compete you
+compete on price you compete on features
+you know if you cheat and you just copy
+and confuse people and have the maximum
+similar logo the maximum similar name
+the maximum similar user experience but
+behind the scenes it's totally fake you
+know the same developers don't work on
+your project the technology is lagging
+behind you know it it's gross and it
+would be illegal and any legacy business
+but because no one owns the BIC
+or you know name it's hard for them to
+find a legal standing by which to sue
+the imposters which is unfortunate so
+there's a couple of points here first is
+as you're getting into there its
+plagiarism clearly the Bitcoin cash is
+plagiarizing they're they're pirating
+the the Bitcoin name and also I guess
+you could point to folks in this drama
+like Roger ver for example they have
+control over Bitcoin calm the domain
+name which is very misleading because
+people go there having heard about
+Bitcoin and then they're led into
+something completely different you
+mentioned on your podcast before and
+your YouTube channel that the developers
+that created Bitcoin an actor like Roger
+Vera's profited handsomely from that so
+it's a real kick in the teeth
+- then plagiarize and steal the name
+steal the brand and come up with this
+clone or to come up with a you know a
+bad Chinese imitation that some have
+called it but there's another part of
+the drama and that now you've got
+financial media like CNBC CNBC Fast
+Money are now entering into this without
+doing any due diligence without doing
+any research they're pushing what's
+clearly a fraud and but this is this is
+I want to get your take on this because
+this is new to the whole crypto history
+in space in that you've got now CNBC
+Bloomberg and other mainstream financial
+news is now covering crypto how is this
+going to play out your thoughts Richard
+libertarians hate government
+intervention laws rules they want
+everything to be peer-to-peer
+they don't want Big Brother involved and
+they forget how be the past really was
+and every one of these laws and
+regulations came about because someone
+was doing something evil or shady and as
+time goes on had these laws of protected
+people they forget why the law was first
+instance instantiated so you know you've
+got people shilling their own bags on
+financial media that are heavily
+invested and that tie
+of activity is not legal in the in the
+stock market you know you if you're if
+you're the CEO of a publicly listed
+company you have to abide by strict
+rules regarding forward-looking
+statements and making promises to people
+and insider trading and because
+cryptocurrencies are not regulated in
+that way all of the problems that you
+saw in the past from people talking
+their own book insider trading you know
+wash trading where you pump up the price
+by selling to yourself at increasingly
+higher prices you know all of those
+problems are they're back they're here
+again and it's just funny for for people
+that hate the government so much to
+complain and cry for government
+invention intervention when things go
+wrong like this be cash lunch on G Dax
+they told everyone that it was going to
+come out in January then they surprised
+launched it why would you surprise
+launch a new financial product
+increasing volatility volatility
+decreasing people's time to plan
+decreasing people's time to have their
+coins where they need to be terribly
+terribly stupid - no one's benefit
+except insiders and you know if if there
+was ever a reason to see the financial
+regulators come down on cryptocurrency
+businesses in the United States like
+going against your own roadmap and
+instantly listing something against your
+own advice days earlier I couldn't think
+of a more clear reason to demand it you
+mentioned coinbase they're in G Dax
+out there in San Francisco headed up by
+Brian Armstrong this has been a tension
+in the crypto community for a while
+because you've got the corporate crypto
+community you've got for example
+coinbase you've got bitpay
+you've got other big corporations who
+are tied in with VC money they're
+looking for exit strategies they're
+looking for quick profits this has been
+a bit of a tension because on the other
+hand there's a part of the community I
+guess you could call it the cypherpunk
+community going back to the origins of
+Bitcoin and the technology that came out
+of the cyberpunk movement and so these
+two are not pitted against each other in
+a new
+on one hand you could say this has been
+going on for our since the creation of
+Bitcoin this has always been tension
+there but secondarily or in another way
+the questions got to be asked if in fact
+we're recreating all the problems we had
+with Wall Street all over again what's
+the prognosis for Bitcoin will it get
+through this latest drama will your
+thoughts on that you know you talk about
+conflict of interest one of the
+investors in Pitt pays Roger ver Roger
+ver pumps be cash heart he holds a
+majority of his savings in B cash so he
+says publicly and it would match with
+clothing that he wears which is always a
+B CH please shirt used to be a Bitcoin
+shirt you know Bitcoin Jesus turned into
+Bitcoin Judas now the only things he
+says about Bitcoin are negative and
+demeaning just pretty insulting based on
+the fact that his little get rich quick
+project is built on the hard work and
+effort and labor of the Bitcoin coders
+that built it you know when he stole
+their work or is benefiting from their
+work when he forked it and didn't just
+take the code took the name took the
+logo and so now we don't have that
+problem just with Roger ver we also have
+that problem with Brian Armstrong
+coinbase he doesn't like Bitcoin he
+holds a majority of his wealth and
+aetherium so I hear and every time you
+hear him speak about that coin versus
+aetherium he says you got to go where
+the developers are going which i think
+is pretty funny because that's where the
+developers are going to lose money
+that's where they get lured into a honey
+trap of making buggy smart contracts
+that lose millions of dollars it's much
+harder to make buggy smart contracts in
+Bitcoin that lose millions of dollars
+because we've purposely restricted the
+attack surface so it's harder to screw
+up and lose money so less money is lost
+well Brian Armstrong one of the you know
+the CEO of the biggest on border in the
+United States right now doesn't like
+Bitcoin so much so he has an implemented
+segue which gives us twice the
+processing power and you know more
+security transaction mail abilities
+cured a sick boost has cured all these
+good things that came from Sega being
+implemented you know Brian Armstrong's
+team doesn't do and his team also
+doesn't improve the Bitcoin protocol no
+one on his
+developer team makes any improvements to
+Bitcoin well that's pretty terrible you
+know when they're a core product that
+they sell the most of which is Bitcoin
+he speaks negatively about publicly and
+his team does nothing to improve and he
+rolls in the diss copy this terrible
+copy that
+doesn't even have seg wit it's bad and
+it's all conflict of interests and you
+know I I would be happy to see a
+financial regulator or the directors of
+coinbase replace him asiya because I do
+not believe he is treating their core
+product fairly and if you saw this most
+recent launch of the B cache token
+surprise release which wrecked a lot of
+people's entire wealth you know life
+savings lost I don't it doesn't seem
+like the kind of guy that should be in
+charge of a billion dollar endeavor
+let's for a moment here talk about what
+your view is about let's say bitcoins
+push back I mean what what's happening
+on the other side of the equation we
+have continued adoption continued
+awareness where do you see where do you
+give me some good news on Bitcoin you
+know Bitcoin is the only product that
+has good legal backing so there's laws
+which specifically named Bitcoin that
+allow you to get good bank earning
+relationships with it to get custodial
+services for instance through Gemini
+where a larger institution could
+purchase a bunch of Bitcoin and have a
+licensed insured bonded reason to
+believe it wouldn't get stolen or hacked
+other cryptocurrencies don't have that
+we also have the CM II futures largest
+market in the entire planet by the CBOE
+which does about a quarter of the volume
+which is still quite amazing we have the
+best developers in the entire world
+working on this we've got first mover
+advantage the greatest liquidity the
+most secure platform software that you
+know isn't buggy really works doesn't
+have emergency down targeting problems
+like the fake imposters have had and you
+know we do have some problems we have a
+unit bias problem where you
+people want to own a single coin of a
+thing and since Milly bits isn't popular
+they choose things like like coin or be
+cash because they're cheaper and you
+know that puts Bitcoin at a disadvantage
+on a product like coin base where people
+just want to buy they just want to get
+in they don't have time to figure out
+what's good and why so they just click
+market buy and you know they got they
+used to have three products there they
+could market by now they've got fourth
+product unfortunately the worst possible
+product you could add or close and it's
+gonna be a fight you know if Wall Street
+wants to step in and start long in the
+futures the bitcoins gonna you know take
+more dominance and the old coins will
+die more Wall Street doesn't want to
+step in and start long in that futures
+contract and take advantage of the new
+cool institutional relationships then I
+think the all coins are gonna pump and
+people are gonna take advantage of that
+units bias and try and get that next you
+know smaller market cap easier to pump
+coin that might give them a higher
+percentage return it's gonna be a fight
+so Richard you've been in the game since
+I believe 2011 we started covering
+Bitcoin in 2011 you know we've been in
+it almost from the inception we've seen
+more than once at least three or four
+times
+massive corrections in the space 50 60
+70 percent ninety percent in one case
+where are we on the timeline there do
+you I mean first of all I guess it's all
+right instead of asking you that
+question let me ask you this can you
+stick around for a second segment and
+we'll get into that in a second segment
+yeah I love it
+anyway thanks for being on this segment
+Richard Hart and that's gonna do it for
+this edition of the Kaiser report with
+me max Kaiser and Stacy Herbert I'd like
+to thank our guest Richard Hart he's got
+an outstanding YouTube channel check it
+out if you want to catch us on Twitter
+it's Kaiser report until next time bye
+y'all
+you

@@ -1,0 +1,204 @@
+1
+00:00:02,720 --> 00:00:06,390
+in the mid<font color="#E5E5E5"> 20th century we began</font>
+
+2
+00:00:06,390 --> 00:00:08,160
+<font color="#E5E5E5">launching satellites</font><font color="#CCCCCC"> into</font><font color="#E5E5E5"> space</font><font color="#CCCCCC"> that</font>
+
+3
+00:00:08,160 --> 00:00:09,480
+<font color="#E5E5E5">would help us determine the exact</font>
+
+4
+00:00:09,480 --> 00:00:11,490
+circumference of the earth<font color="#E5E5E5"> forty</font>
+
+5
+00:00:11,490 --> 00:00:14,730
+thousand<font color="#E5E5E5"> thirty kilometers but over two</font>
+
+6
+00:00:14,730 --> 00:00:16,590
+thousand years<font color="#CCCCCC"> earlier</font><font color="#E5E5E5"> in ancient Greece</font>
+
+7
+00:00:16,590 --> 00:00:19,020
+<font color="#CCCCCC">a man arrived at nearly that exact same</font>
+
+8
+00:00:19,020 --> 00:00:22,880
+<font color="#CCCCCC">figure</font><font color="#E5E5E5"> by putting a stick in the</font><font color="#CCCCCC"> ground</font>
+
+9
+00:00:23,330 --> 00:00:26,820
+that man was Eratosthenes<font color="#CCCCCC"> a</font><font color="#E5E5E5"> Greek</font>
+
+10
+00:00:26,820 --> 00:00:28,560
+mathematician<font color="#CCCCCC"> in the head of the Library</font>
+
+11
+00:00:28,560 --> 00:00:30,990
+of Alexandria<font color="#CCCCCC"> Eratosthenes had heard</font>
+
+12
+00:00:30,990 --> 00:00:32,940
+that in Syene<font color="#E5E5E5"> a city to the south of</font>
+
+13
+00:00:32,940 --> 00:00:35,550
+<font color="#E5E5E5">Alexandria</font><font color="#CCCCCC"> no vertical shadows were cast</font>
+
+14
+00:00:35,550 --> 00:00:37,980
+at noon on the summer solstice<font color="#CCCCCC"> the Sun</font>
+
+15
+00:00:37,980 --> 00:00:40,200
+<font color="#E5E5E5">was directly overhead</font><font color="#CCCCCC"> he wondered if</font>
+
+16
+00:00:40,200 --> 00:00:42,450
+<font color="#E5E5E5">this were also true in Alexandria so on</font>
+
+17
+00:00:42,450 --> 00:00:44,640
+June 21st he planted a stick vertically
+
+18
+00:00:44,640 --> 00:00:46,440
+in<font color="#E5E5E5"> the ground and waited to see if</font><font color="#CCCCCC"> a</font>
+
+19
+00:00:46,440 --> 00:00:49,020
+shadow would be cast at noon it turns
+
+20
+00:00:49,020 --> 00:00:51,059
+out there was<font color="#E5E5E5"> one and it measured about</font>
+
+21
+00:00:51,059 --> 00:00:54,059
+seven degrees<font color="#E5E5E5"> now if the sun's rays are</font>
+
+22
+00:00:54,059 --> 00:00:55,800
+<font color="#CCCCCC">coming in at the</font><font color="#E5E5E5"> same angle at the same</font>
+
+23
+00:00:55,800 --> 00:00:58,260
+time of<font color="#CCCCCC"> day and a stick in Alexandria is</font>
+
+24
+00:00:58,260 --> 00:01:00,300
+casting a shadow<font color="#CCCCCC"> while a stick in Syene</font>
+
+25
+00:01:00,300 --> 00:01:02,280
+is not it<font color="#E5E5E5"> must mean that the</font><font color="#CCCCCC"> Earth's</font>
+
+26
+00:01:02,280 --> 00:01:05,519
+<font color="#E5E5E5">surface is curved and Eratosthenes</font>
+
+27
+00:01:05,519 --> 00:01:07,619
+probably already knew that<font color="#E5E5E5"> the idea of a</font>
+
+28
+00:01:07,619 --> 00:01:08,970
+<font color="#E5E5E5">spherical earth was floated by</font>
+
+29
+00:01:08,970 --> 00:01:11,970
+<font color="#E5E5E5">pythagoras around 500 BC</font><font color="#CCCCCC"> and validated</font>
+
+30
+00:01:11,970 --> 00:01:13,979
+by<font color="#E5E5E5"> Aristotle a couple centuries later if</font>
+
+31
+00:01:13,979 --> 00:01:15,960
+the earth<font color="#E5E5E5"> really was a sphere</font>
+
+32
+00:01:15,960 --> 00:01:18,210
+<font color="#CCCCCC">Eratosthenes could use his observations</font>
+
+33
+00:01:18,210 --> 00:01:19,680
+to estimate the circumference of the
+
+34
+00:01:19,680 --> 00:01:21,930
+<font color="#CCCCCC">entire planet since</font><font color="#E5E5E5"> the difference in</font>
+
+35
+00:01:21,930 --> 00:01:23,549
+shadow<font color="#E5E5E5"> length is</font><font color="#CCCCCC"> seven degrees between</font>
+
+36
+00:01:23,549 --> 00:01:26,280
+Alexandria and Syene<font color="#CCCCCC"> that means the two</font>
+
+37
+00:01:26,280 --> 00:01:27,900
+cities are<font color="#E5E5E5"> seven degrees apart on</font>
+
+38
+00:01:27,900 --> 00:01:30,020
+earth's 360<font color="#CCCCCC"> degree surface</font>
+
+39
+00:01:30,020 --> 00:01:32,549
+Eratosthenes hired a man<font color="#CCCCCC"> to pace the</font>
+
+40
+00:01:32,549 --> 00:01:34,049
+distance between the two cities<font color="#CCCCCC"> and</font>
+
+41
+00:01:34,049 --> 00:01:37,140
+learn there were<font color="#CCCCCC"> 5000 stadia</font><font color="#E5E5E5"> apart which</font>
+
+42
+00:01:37,140 --> 00:01:39,840
+<font color="#CCCCCC">is about 800</font><font color="#E5E5E5"> kilometers</font><font color="#CCCCCC"> he could then</font>
+
+43
+00:01:39,840 --> 00:01:41,610
+use simple proportions to find the
+
+44
+00:01:41,610 --> 00:01:44,490
+Earth's circumference 7.2 degrees is<font color="#E5E5E5"> one</font>
+
+45
+00:01:44,490 --> 00:01:47,159
+<font color="#E5E5E5">fiftieth of 360 degrees so</font><font color="#CCCCCC"> 800</font>
+
+46
+00:01:47,159 --> 00:01:50,189
+<font color="#E5E5E5">kilometers times 50 equals 40,000</font>
+
+47
+00:01:50,189 --> 00:01:52,229
+kilometers<font color="#E5E5E5"> and just like that a man</font>
+
+48
+00:01:52,229 --> 00:01:54,240
+<font color="#E5E5E5">2,200 years ago found the circumference</font>
+
+49
+00:01:54,240 --> 00:01:56,189
+of<font color="#E5E5E5"> the entire planet with just a stick</font>
+
+50
+00:01:56,189 --> 00:01:57,790
+and his brain
+
+51
+00:01:57,790 --> 00:00:00,000
+<font color="#E5E5E5">you</font>
+

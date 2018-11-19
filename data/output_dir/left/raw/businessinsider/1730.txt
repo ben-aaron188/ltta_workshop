@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:01,860
+Donald<font color="#CCCCCC"> Trump seems to have elevated</font>
+
+2
+00:00:01,860 --> 00:00:04,410
+political trolling to an art<font color="#CCCCCC"> form Donald</font>
+
+3
+00:00:04,410 --> 00:00:07,230
+Trump's Twitter war knows no bounds now
+
+4
+00:00:07,230 --> 00:00:08,639
+I<font color="#E5E5E5"> want</font><font color="#CCCCCC"> to put up that tweet again this</font>
+
+5
+00:00:08,639 --> 00:00:10,889
+morning from Donald Trump Donald Trump's
+
+6
+00:00:10,889 --> 00:00:12,480
+Twitter account has captivated the
+
+7
+00:00:12,480 --> 00:00:14,429
+country's attention followers have come
+
+8
+00:00:14,429 --> 00:00:16,680
+to expect<font color="#E5E5E5"> pithy opinions controversial</font>
+
+9
+00:00:16,680 --> 00:00:18,960
+retweeting<font color="#E5E5E5"> and catchy nicknames from the</font>
+
+10
+00:00:18,960 --> 00:00:20,850
+New York billionaire but the Republican
+
+11
+00:00:20,850 --> 00:00:22,800
+nominees feed isn't a hundred percent
+
+12
+00:00:22,800 --> 00:00:25,050
+insults<font color="#E5E5E5"> and name-calling many treats</font>
+
+13
+00:00:25,050 --> 00:00:26,849
+make campaign announcements<font color="#E5E5E5"> and thanked</font>
+
+14
+00:00:26,849 --> 00:00:28,949
+supporters and surrogates so Trump
+
+15
+00:00:28,949 --> 00:00:30,960
+doesn't only fire off heated aggressive
+
+16
+00:00:30,960 --> 00:00:34,320
+tweets right well maybe data scientists
+
+17
+00:00:34,320 --> 00:00:38,760
+<font color="#E5E5E5">David Robinson analyzed 1390 tweets to</font>
+
+18
+00:00:38,760 --> 00:00:41,010
+try and determine when Trump or his
+
+19
+00:00:41,010 --> 00:00:43,350
+staff was actually tweeting everybody on
+
+20
+00:00:43,350 --> 00:00:44,969
+<font color="#CCCCCC">twitter made the same joke at</font><font color="#E5E5E5"> the same</font>
+
+21
+00:00:44,969 --> 00:00:47,280
+time which is<font color="#E5E5E5"> Donald Trump is locked in</font>
+
+22
+00:00:47,280 --> 00:00:48,989
+a bathroom clawing at the door while his
+
+23
+00:00:48,989 --> 00:00:50,489
+staff keeps his phone away from<font color="#E5E5E5"> him</font><font color="#CCCCCC"> I</font>
+
+24
+00:00:50,489 --> 00:00:53,160
+<font color="#E5E5E5">know but he got</font><font color="#CCCCCC"> too exalted</font><font color="#E5E5E5"> he's working</font>
+
+25
+00:00:53,160 --> 00:00:54,809
+off the theory that<font color="#CCCCCC"> tweets from an</font>
+
+26
+00:00:54,809 --> 00:00:57,210
+<font color="#E5E5E5">Android are Trump himself and tweets</font>
+
+27
+00:00:57,210 --> 00:01:00,149
+from an iphone are from a staff during
+
+28
+00:01:00,149 --> 00:01:02,730
+an interview in 2015 the New<font color="#E5E5E5"> York Times</font>
+
+29
+00:01:02,730 --> 00:01:05,519
+noted that Trump uses samsung galaxy and
+
+30
+00:01:05,519 --> 00:01:07,830
+<font color="#E5E5E5">Robinson dives deep into the data to</font>
+
+31
+00:01:07,830 --> 00:01:09,840
+uncover some key differences between the
+
+32
+00:01:09,840 --> 00:01:11,580
+iphone and android tweets that are
+
+33
+00:01:11,580 --> 00:01:14,250
+signatures of a user like time of day
+
+34
+00:01:14,250 --> 00:01:16,950
+the<font color="#CCCCCC"> Android tweets primarily come during</font>
+
+35
+00:01:16,950 --> 00:01:19,290
+morning hours while<font color="#CCCCCC"> I</font><font color="#E5E5E5"> phone tweets occur</font>
+
+36
+00:01:19,290 --> 00:01:22,439
+later in the day retweets look different
+
+37
+00:01:22,439 --> 00:01:25,290
+to the<font color="#E5E5E5"> Android retweets are often done</font>
+
+38
+00:01:25,290 --> 00:01:27,570
+manually which surrounds the copied
+
+39
+00:01:27,570 --> 00:01:29,820
+tweets with quotation marks while the
+
+40
+00:01:29,820 --> 00:01:33,750
+iphone retweets are rarely done this way
+
+41
+00:01:33,750 --> 00:01:36,330
+pictures and links are different as well
+
+42
+00:01:36,330 --> 00:01:39,400
+<font color="#CCCCCC">iphone</font><font color="#E5E5E5"> tweets are 38 times more likely</font>
+
+43
+00:01:39,400 --> 00:01:41,920
+<font color="#E5E5E5">than android tweets to include a</font><font color="#CCCCCC"> picture</font>
+
+44
+00:01:41,920 --> 00:01:44,170
+or a link this fits into the theory that
+
+45
+00:01:44,170 --> 00:01:46,030
+<font color="#CCCCCC">Trump staffed right</font><font color="#E5E5E5"> the iphone tweets</font>
+
+46
+00:01:46,030 --> 00:01:48,100
+<font color="#E5E5E5">because many with pictures</font><font color="#CCCCCC"> and links</font><font color="#E5E5E5"> are</font>
+
+47
+00:01:48,100 --> 00:01:50,680
+rally and event<font color="#E5E5E5"> announcements word</font>
+
+48
+00:01:50,680 --> 00:01:52,270
+choice highlights the differences
+
+49
+00:01:52,270 --> 00:01:54,510
+between<font color="#E5E5E5"> the iphone and android users</font>
+
+50
+00:01:54,510 --> 00:01:57,160
+hashtags and logistics are more common
+
+51
+00:01:57,160 --> 00:01:59,560
+in iphone trees colorful and charged
+
+52
+00:01:59,560 --> 00:02:01,570
+words however are more common in the
+
+53
+00:02:01,570 --> 00:02:04,570
+<font color="#CCCCCC">android</font><font color="#E5E5E5"> ones Davidson's analysis</font>
+
+54
+00:02:04,570 --> 00:02:06,580
+concludes that Trump is only<font color="#E5E5E5"> writing the</font>
+
+55
+00:02:06,580 --> 00:02:08,770
+<font color="#CCCCCC">Android tweets himself which is</font>
+
+56
+00:02:08,770 --> 00:02:10,360
+<font color="#CCCCCC">certainly the more spirited and</font>
+
+57
+00:02:10,360 --> 00:00:00,000
+aggressive portion of his accounts feed
+

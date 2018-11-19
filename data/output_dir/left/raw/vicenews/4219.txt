@@ -1,0 +1,412 @@
+1
+00:00:03,470 --> 00:00:06,240
+every child of the 90s figured virtual
+
+2
+00:00:06,240 --> 00:00:07,890
+reality would<font color="#CCCCCC"> be an integral part of our</font>
+
+3
+00:00:07,890 --> 00:00:08,910
+<font color="#E5E5E5">lives by now</font>
+
+4
+00:00:08,910 --> 00:00:11,179
+that hasn't exactly<font color="#E5E5E5"> panned out</font><font color="#CCCCCC"> the</font>
+
+5
+00:00:11,179 --> 00:00:14,820
+<font color="#CCCCCC">headsets are not cool</font><font color="#E5E5E5"> the apps are</font>
+
+6
+00:00:14,820 --> 00:00:19,410
+uninspiring<font color="#CCCCCC"> and sometimes you puke</font><font color="#E5E5E5"> when</font>
+
+7
+00:00:19,410 --> 00:00:25,740
+you use it on<font color="#CCCCCC"> the</font><font color="#E5E5E5"> other hand augmented</font>
+
+8
+00:00:25,740 --> 00:00:28,560
+reality<font color="#E5E5E5"> or AR is now an</font><font color="#CCCCCC"> actual thing in</font>
+
+9
+00:00:28,560 --> 00:00:30,510
+<font color="#E5E5E5">our lives not just because you've</font>
+
+10
+00:00:30,510 --> 00:00:36,570
+<font color="#E5E5E5">probably</font><font color="#CCCCCC"> faced walked with your dad</font><font color="#E5E5E5"> or</font>
+
+11
+00:00:36,570 --> 00:00:39,090
+caught a Pokemon at your desk<font color="#E5E5E5"> or because</font>
+
+12
+00:00:39,090 --> 00:00:41,010
+you've heard this guy say this I'm so
+
+13
+00:00:41,010 --> 00:00:43,050
+excited about<font color="#E5E5E5"> augmented reality</font><font color="#CCCCCC"> they are</font>
+
+14
+00:00:43,050 --> 00:00:45,120
+<font color="#CCCCCC">x' moment is here because</font><font color="#E5E5E5"> you already</font>
+
+15
+00:00:45,120 --> 00:00:50,850
+<font color="#E5E5E5">carry an AR device around with you this</font>
+
+16
+00:00:50,850 --> 00:00:53,309
+<font color="#CCCCCC">is greg jaws ouack apple's vp of product</font>
+
+17
+00:00:53,309 --> 00:00:56,219
+<font color="#CCCCCC">marketing hi camera and he is super</font>
+
+18
+00:00:56,219 --> 00:00:58,559
+excited about<font color="#E5E5E5"> AR</font><font color="#CCCCCC"> I am super</font><font color="#E5E5E5"> excited</font>
+
+19
+00:00:58,559 --> 00:01:00,480
+<font color="#E5E5E5">about augmented reality because people</font>
+
+20
+00:01:00,480 --> 00:01:02,579
+have dreamed about<font color="#E5E5E5"> this for years</font><font color="#CCCCCC"> next</font>
+
+21
+00:01:02,579 --> 00:01:05,459
+I'd like<font color="#CCCCCC"> to turn</font><font color="#E5E5E5"> to a</font><font color="#CCCCCC"> our two months ago</font>
+
+22
+00:01:05,459 --> 00:01:07,560
+<font color="#CCCCCC">Apple announced a platform for software</font>
+
+23
+00:01:07,560 --> 00:01:10,350
+developers called AR kit<font color="#CCCCCC"> they are</font><font color="#E5E5E5"> kit</font>
+
+24
+00:01:10,350 --> 00:01:11,580
+<font color="#E5E5E5">takes care of a</font><font color="#CCCCCC"> lot of</font><font color="#E5E5E5"> the nasty</font>
+
+25
+00:01:11,580 --> 00:01:13,619
+technical work involved<font color="#E5E5E5"> in tracking six</font>
+
+26
+00:01:13,619 --> 00:01:15,450
+dimensions of your<font color="#E5E5E5"> phone's motion in</font>
+
+27
+00:01:15,450 --> 00:01:18,600
+real time it also automatically detects
+
+28
+00:01:18,600 --> 00:01:21,450
+planes<font color="#E5E5E5"> and adjusts for lighting within</font>
+
+29
+00:01:21,450 --> 00:01:23,759
+weeks of a<font color="#CCCCCC"> arc</font><font color="#E5E5E5"> its arrival the internet</font>
+
+30
+00:01:23,759 --> 00:01:26,280
+was flooded<font color="#E5E5E5"> with splashy demos</font><font color="#CCCCCC"> one of</font>
+
+31
+00:01:26,280 --> 00:01:28,170
+the things<font color="#E5E5E5"> that's really</font><font color="#CCCCCC"> difficult about</font>
+
+32
+00:01:28,170 --> 00:01:31,259
+augmented reality is it required in the
+
+33
+00:01:31,259 --> 00:01:34,350
+past<font color="#E5E5E5"> very specialized hardware we're</font>
+
+34
+00:01:34,350 --> 00:01:35,970
+able<font color="#E5E5E5"> to bring it to literally hundreds</font>
+
+35
+00:01:35,970 --> 00:01:37,860
+of<font color="#E5E5E5"> millions</font><font color="#CCCCCC"> of people</font><font color="#E5E5E5"> with</font><font color="#CCCCCC"> a software</font>
+
+36
+00:01:37,860 --> 00:01:40,740
+<font color="#E5E5E5">update</font><font color="#CCCCCC"> with existing</font><font color="#E5E5E5"> iPhones and iPads</font>
+
+37
+00:01:40,740 --> 00:01:42,780
+it puts<font color="#E5E5E5"> us in an incredibly unique</font>
+
+38
+00:01:42,780 --> 00:01:45,689
+position<font color="#CCCCCC"> of course this is exciting</font><font color="#E5E5E5"> for</font>
+
+39
+00:01:45,689 --> 00:01:48,509
+<font color="#E5E5E5">Apple</font><font color="#CCCCCC"> okay you're</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> marketing right</font><font color="#E5E5E5"> and</font>
+
+40
+00:01:48,509 --> 00:01:50,759
+so why<font color="#CCCCCC"> should we</font><font color="#E5E5E5"> trust you</font><font color="#CCCCCC"> the good</font>
+
+41
+00:01:50,759 --> 00:01:52,409
+thing about this is is you<font color="#CCCCCC"> don't have to</font>
+
+42
+00:01:52,409 --> 00:01:54,210
+just trust me<font color="#E5E5E5"> do a search on the web</font>
+
+43
+00:01:54,210 --> 00:01:56,250
+<font color="#CCCCCC">right now</font><font color="#E5E5E5"> see the amazing amount</font><font color="#CCCCCC"> of</font>
+
+44
+00:01:56,250 --> 00:01:58,259
+<font color="#E5E5E5">things that developers are</font><font color="#CCCCCC"> creating with</font>
+
+45
+00:01:58,259 --> 00:02:02,070
+the<font color="#CCCCCC"> beta's they have of iOS 11 so</font><font color="#E5E5E5"> we did</font>
+
+46
+00:02:02,070 --> 00:02:04,270
+and<font color="#CCCCCC"> we found this guy</font>
+
+47
+00:02:04,270 --> 00:02:07,330
+the founder of<font color="#CCCCCC"> 60-day eyewear we develop</font>
+
+48
+00:02:07,330 --> 00:02:09,758
+a our apps and a partner<font color="#E5E5E5"> at super</font>
+
+49
+00:02:09,758 --> 00:02:12,420
+ventures where<font color="#E5E5E5"> we invest in</font><font color="#CCCCCC"> AR startups</font>
+
+50
+00:02:12,420 --> 00:02:15,310
+<font color="#E5E5E5">this is Matt and he doesn't work for</font>
+
+51
+00:02:15,310 --> 00:02:18,250
+<font color="#E5E5E5">Apple</font><font color="#CCCCCC"> no I</font><font color="#E5E5E5"> don't work Apple and he's</font>
+
+52
+00:02:18,250 --> 00:02:21,250
+still excited<font color="#CCCCCC"> oh yeah I'm still excited</font>
+
+53
+00:02:21,250 --> 00:02:23,530
+<font color="#E5E5E5">you know it's a big deal for the</font>
+
+54
+00:02:23,530 --> 00:02:25,390
+industry for anyone who wants to<font color="#E5E5E5"> develop</font>
+
+55
+00:02:25,390 --> 00:02:27,730
+an IR app basically<font color="#CCCCCC"> if you have an</font>
+
+56
+00:02:27,730 --> 00:02:30,220
+iPhone<font color="#CCCCCC"> or iPad which a lot of</font><font color="#E5E5E5"> people do</font>
+
+57
+00:02:30,220 --> 00:02:32,470
+<font color="#E5E5E5">as soon as you update in September</font>
+
+58
+00:02:32,470 --> 00:02:34,120
+you'll become an augmented reality user
+
+59
+00:02:34,120 --> 00:02:36,820
+<font color="#CCCCCC">I think what we're</font><font color="#E5E5E5"> gonna see with the</font>
+
+60
+00:02:36,820 --> 00:02:39,250
+first apps that get launched in the<font color="#CCCCCC"> App</font>
+
+61
+00:02:39,250 --> 00:02:40,450
+<font color="#CCCCCC">Store largely</font>
+
+62
+00:02:40,450 --> 00:02:42,940
+novelties remember the flashlight app in
+
+63
+00:02:42,940 --> 00:02:45,519
+2008 it<font color="#CCCCCC"> was the most downloaded utility</font>
+
+64
+00:02:45,519 --> 00:02:48,010
+app a few years later and<font color="#E5E5E5"> Apple built it</font>
+
+65
+00:02:48,010 --> 00:02:49,930
+right<font color="#CCCCCC"> into the phone</font><font color="#E5E5E5"> you can imagine</font>
+
+66
+00:02:49,930 --> 00:02:51,580
+<font color="#E5E5E5">something similar happening with this AR</font>
+
+67
+00:02:51,580 --> 00:02:53,380
+tape-measure app which drops in
+
+68
+00:02:53,380 --> 00:02:56,350
+September when iOS 11 launches it's
+
+69
+00:02:56,350 --> 00:02:58,660
+easier for<font color="#E5E5E5"> Apple because they can</font>
+
+70
+00:02:58,660 --> 00:03:01,959
+control the<font color="#CCCCCC"> sensors</font><font color="#E5E5E5"> for other phones</font>
+
+71
+00:03:01,959 --> 00:03:04,600
+like Android Google would have to work
+
+72
+00:03:04,600 --> 00:03:05,920
+with each individual Android
+
+73
+00:03:05,920 --> 00:03:08,680
+manufacturer to try and calibrate the
+
+74
+00:03:08,680 --> 00:03:11,530
+Google<font color="#CCCCCC"> version of this software today</font>
+
+75
+00:03:11,530 --> 00:03:13,989
+<font color="#CCCCCC">Google announced a competing platform</font><font color="#E5E5E5"> AR</font>
+
+76
+00:03:13,989 --> 00:03:16,000
+core but at its<font color="#E5E5E5"> launch it will still</font>
+
+77
+00:03:16,000 --> 00:03:18,390
+<font color="#CCCCCC">only work with three Android phones</font>
+
+78
+00:03:18,390 --> 00:03:21,370
+<font color="#E5E5E5">right now</font><font color="#CCCCCC"> we can only experience</font><font color="#E5E5E5"> AR</font>
+
+79
+00:03:21,370 --> 00:03:23,829
+individually<font color="#CCCCCC"> we can't leave</font><font color="#E5E5E5"> maps for</font>
+
+80
+00:03:23,829 --> 00:03:26,230
+other people to follow paint over things
+
+81
+00:03:26,230 --> 00:03:27,820
+<font color="#E5E5E5">in the real world for</font><font color="#CCCCCC"> other people to</font>
+
+82
+00:03:27,820 --> 00:03:30,400
+see or leave<font color="#E5E5E5"> gifts for</font><font color="#CCCCCC"> our significant</font>
+
+83
+00:03:30,400 --> 00:03:33,730
+others but<font color="#E5E5E5"> that will</font><font color="#CCCCCC"> change</font><font color="#E5E5E5"> as each</font>
+
+84
+00:03:33,730 --> 00:03:36,610
+phone starts to<font color="#E5E5E5"> build its own</font><font color="#CCCCCC"> a local</font><font color="#E5E5E5"> 3d</font>
+
+85
+00:03:36,610 --> 00:03:38,709
+map<font color="#E5E5E5"> of the world and</font><font color="#CCCCCC"> those are passed up</font>
+
+86
+00:03:38,709 --> 00:03:40,900
+<font color="#CCCCCC">to the cloud what ends up happening</font><font color="#E5E5E5"> is</font>
+
+87
+00:03:40,900 --> 00:03:43,239
+3d model of<font color="#CCCCCC"> the whole world gets</font>
+
+88
+00:03:43,239 --> 00:03:45,489
+<font color="#E5E5E5">gradually built by everyone's device</font>
+
+89
+00:03:45,489 --> 00:03:48,370
+that data is<font color="#E5E5E5"> going to enable lots and</font>
+
+90
+00:03:48,370 --> 00:03:49,959
+lots of shared interactions between
+
+91
+00:03:49,959 --> 00:03:52,359
+people<font color="#CCCCCC"> it's like you have this shared</font>
+
+92
+00:03:52,359 --> 00:03:54,459
+hallucination<font color="#CCCCCC"> of what you're seeing</font><font color="#E5E5E5"> and</font>
+
+93
+00:03:54,459 --> 00:03:56,380
+you<font color="#CCCCCC"> know way more enjoyable</font><font color="#E5E5E5"> than just</font>
+
+94
+00:03:56,380 --> 00:03:59,019
+just experiencing it on your own<font color="#E5E5E5"> when we</font>
+
+95
+00:03:59,019 --> 00:04:00,489
+reach<font color="#E5E5E5"> the point</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> being able to share</font>
+
+96
+00:04:00,489 --> 00:04:02,980
+these<font color="#CCCCCC"> experiences</font><font color="#E5E5E5"> you may not ever want</font>
+
+97
+00:04:02,980 --> 00:04:04,739
+<font color="#CCCCCC">to live outside</font><font color="#E5E5E5"> of an augmented reality</font>
+
+98
+00:04:04,739 --> 00:04:07,690
+<font color="#E5E5E5">how long before I can leave my wife</font>
+
+99
+00:04:07,690 --> 00:04:09,100
+virtual flowers in the counter<font color="#CCCCCC"> you</font>
+
+100
+00:04:09,100 --> 00:04:10,210
+<font color="#CCCCCC">actually</font><font color="#E5E5E5"> be able to do some really</font>
+
+101
+00:04:10,210 --> 00:04:12,760
+romantic<font color="#E5E5E5"> things for her soon as iOS 11</font>
+
+102
+00:04:12,760 --> 00:04:15,000
+ships
+
+103
+00:04:21,040 --> 00:00:00,000
+you
+

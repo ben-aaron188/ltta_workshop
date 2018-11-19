@@ -1,0 +1,132 @@
+1
+00:00:03,380 --> 00:00:05,399
+conditional<font color="#CCCCCC"> formatting is a great</font>
+
+2
+00:00:05,399 --> 00:00:07,680
+feature<font color="#E5E5E5"> in Excel it allows you to take a</font>
+
+3
+00:00:07,680 --> 00:00:09,600
+whole<font color="#E5E5E5"> bunch of</font><font color="#CCCCCC"> numbers and highlight</font>
+
+4
+00:00:09,600 --> 00:00:11,519
+things so that data pops out when<font color="#CCCCCC"> it's</font>
+
+5
+00:00:11,519 --> 00:00:13,530
+<font color="#CCCCCC">positive</font><font color="#E5E5E5"> or when it's negative</font><font color="#CCCCCC"> it's a</font>
+
+6
+00:00:13,530 --> 00:00:15,809
+<font color="#E5E5E5">correlation</font><font color="#CCCCCC"> matrix</font><font color="#E5E5E5"> it's a great</font><font color="#CCCCCC"> example</font>
+
+7
+00:00:15,809 --> 00:00:18,300
+<font color="#CCCCCC">of a use of conditional formatting</font><font color="#E5E5E5"> here</font>
+
+8
+00:00:18,300 --> 00:00:19,739
+<font color="#E5E5E5">we're gonna take a look at another</font>
+
+9
+00:00:19,739 --> 00:00:22,710
+spreadsheet<font color="#E5E5E5"> of stock information</font><font color="#CCCCCC"> where</font>
+
+10
+00:00:22,710 --> 00:00:24,869
+<font color="#CCCCCC">it updates daily</font><font color="#E5E5E5"> so you</font><font color="#CCCCCC"> can</font><font color="#E5E5E5"> see is a</font>
+
+11
+00:00:24,869 --> 00:00:27,180
+<font color="#CCCCCC">one-week</font><font color="#E5E5E5"> price change</font><font color="#CCCCCC"> in the stock and</font>
+
+12
+00:00:27,180 --> 00:00:29,579
+I'm gonna highlight all the stocks that
+
+13
+00:00:29,579 --> 00:00:32,098
+<font color="#E5E5E5">have moved down more</font><font color="#CCCCCC"> than 10% so I'm</font>
+
+14
+00:00:32,098 --> 00:00:34,620
+gonna go to highlight cell rules<font color="#E5E5E5"> less</font>
+
+15
+00:00:34,620 --> 00:00:37,399
+<font color="#E5E5E5">than and I'm gonna put a</font><font color="#CCCCCC"> negative 10%</font>
+
+16
+00:00:37,399 --> 00:00:41,129
+<font color="#CCCCCC">okay</font><font color="#E5E5E5"> and if I scroll</font><font color="#CCCCCC"> down through my</font>
+
+17
+00:00:41,129 --> 00:00:44,609
+data<font color="#CCCCCC"> I can always check every day to see</font>
+
+18
+00:00:44,609 --> 00:00:47,489
+what stocks have<font color="#CCCCCC"> gone down by more than</font>
+
+19
+00:00:47,489 --> 00:00:50,699
+<font color="#CCCCCC">10% in the past week another</font><font color="#E5E5E5"> use is</font>
+
+20
+00:00:50,699 --> 00:00:52,379
+<font color="#E5E5E5">let's say we have a schedule</font><font color="#CCCCCC"> for our</font>
+
+21
+00:00:52,379 --> 00:00:54,749
+team<font color="#CCCCCC"> I'm in it but I have no idea where</font>
+
+22
+00:00:54,749 --> 00:00:57,659
+I<font color="#CCCCCC"> am</font><font color="#E5E5E5"> so I can highlight</font><font color="#CCCCCC"> it conditional</font>
+
+23
+00:00:57,659 --> 00:01:00,149
+<font color="#E5E5E5">formatting</font><font color="#CCCCCC"> highlight cell rules I'm</font>
+
+24
+00:01:00,149 --> 00:01:01,579
+going to select equal to
+
+25
+00:01:01,579 --> 00:01:05,150
+and put in my<font color="#CCCCCC"> name there</font><font color="#E5E5E5"> I am but if I</font>
+
+26
+00:01:05,150 --> 00:01:06,890
+want other people<font color="#CCCCCC"> to</font><font color="#E5E5E5"> be able to use it</font>
+
+27
+00:01:06,890 --> 00:01:10,670
+and find<font color="#CCCCCC"> themselves I can change this go</font>
+
+28
+00:01:10,670 --> 00:01:13,760
+to manage rules<font color="#E5E5E5"> select the rule and I'm</font>
+
+29
+00:01:13,760 --> 00:01:15,979
+<font color="#CCCCCC">gonna</font><font color="#E5E5E5"> change that</font><font color="#CCCCCC"> to a cell</font><font color="#E5E5E5"> instead of</font>
+
+30
+00:01:15,979 --> 00:01:20,000
+<font color="#E5E5E5">my name now if anybody types their name</font>
+
+31
+00:01:20,000 --> 00:01:22,400
+in that<font color="#E5E5E5"> cell they can find themselves in</font>
+
+32
+00:01:22,400 --> 00:01:25,009
+the schedule<font color="#E5E5E5"> and that is it that</font><font color="#CCCCCC"> is easy</font>
+
+33
+00:01:25,009 --> 00:00:00,000
+simple way<font color="#E5E5E5"> to use conditional</font><font color="#CCCCCC"> formatting</font>
+

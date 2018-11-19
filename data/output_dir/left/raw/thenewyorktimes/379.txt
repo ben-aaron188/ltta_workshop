@@ -1,0 +1,225 @@
+1
+00:00:02,960 --> 00:00:07,140
+Here we are, in a very unusual
+space, with six main windows
+
+2
+00:00:07,140 --> 00:00:09,560
+into neighboring cells.
+If you look straight up
+
+3
+00:00:09,560 --> 00:00:11,909
+or straight down, everything
+looks about normal.
+
+4
+00:00:11,909 --> 00:00:15,259
+The cells above and below us
+are just like the ones we're in.
+
+5
+00:00:15,269 --> 00:00:18,450
+Let's move downward and 
+follow this infinite column of cells
+
+6
+00:00:18,450 --> 00:00:20,330
+as we watch more cells
+come into view.
+
+7
+00:00:20,330 --> 00:00:22,870
+In this direction, space behaves
+the way we're used to in
+
+8
+00:00:22,870 --> 00:00:26,210
+everyday life — it's euclidean.
+But what about the cells
+
+9
+00:00:26,210 --> 00:00:28,720
+around you to the side?
+You'll notice something
+
+10
+00:00:28,720 --> 00:00:31,730
+different going on.
+The four cells directly around you look
+
+11
+00:00:31,730 --> 00:00:34,127
+pretty similar to the
+one you're in, but as you look
+
+12
+00:00:34,127 --> 00:00:37,670
+towards the horizon, they appear
+to become taller and narrower.
+
+13
+00:00:37,670 --> 00:00:42,170
+Let's go towards the horizon and 
+see what shape these cells actually are.
+
+14
+00:00:42,170 --> 00:00:44,999
+You could think of this as the
+cells themselves warping
+
+15
+00:00:44,999 --> 00:00:47,500
+and changing shape as we move.
+But the way I think of it,
+
+16
+00:00:47,500 --> 00:00:50,399
+and the way this model was
+programmed, has all cells as
+
+17
+00:00:50,399 --> 00:00:54,400
+being the same, unchanging shape
+to begin with, and it's space itself
+
+18
+00:00:54,400 --> 00:00:58,280
+that is warped.
+Along the horizontal plane,
+
+19
+00:00:58,280 --> 00:01:02,010
+this space is hyperbolic.
+It's curved in such a way that
+
+20
+00:01:02,010 --> 00:01:05,159
+there's more room to fit more
+cells, and that's why they
+
+21
+00:01:05,159 --> 00:01:09,360
+appear squished from afar.
+Now let's see what space looks like
+
+22
+00:01:09,360 --> 00:01:14,140
+when it's curved hyperbolically 
+in all directions equally.
+
+23
+00:01:19,510 --> 00:01:22,759
+As we move towards the horizon,
+every cell is still the same,
+
+24
+00:01:22,759 --> 00:01:25,299
+but rather than there being
+just more room horizontally
+
+25
+00:01:25,299 --> 00:01:28,090
+for more cells, making them appear
+thinner, there's more room vertically
+
+26
+00:01:28,090 --> 00:01:32,419
+as well, making them appear smaller 
+in height than they really are.
+
+27
+00:01:32,419 --> 00:01:35,780
+In the euclidean space we're used to, 
+only four cubes can fit around one edge
+
+28
+00:01:35,780 --> 00:01:40,180
+or four square cornered rooms.
+But here in hyperbolic space,
+
+29
+00:01:40,180 --> 00:01:43,970
+we can fit six cube-shaped rooms
+around a single column.
+
+30
+00:01:43,970 --> 00:01:46,810
+Let's go back to the space that's 
+hyperbolic in just two directions
+
+31
+00:01:46,810 --> 00:01:50,019
+and euclidean in the third.
+The horizontal beams
+
+32
+00:01:50,019 --> 00:01:53,949
+connect four cells as we'd 
+expect from euclidean space.
+
+33
+00:01:53,950 --> 00:01:57,829
+The vertical beams, on the other
+hand, connect six cells.
+
+34
+00:01:57,829 --> 00:02:02,070
+Let's start in this olive green cell 
+and move around one of the columns.
+
+35
+00:02:02,080 --> 00:02:05,429
+First, we move straight into
+a neighboring teal cell.
+
+36
+00:02:05,429 --> 00:02:08,440
+At the center, we'll turn left 
+90 degrees and go straight into
+
+37
+00:02:08,440 --> 00:02:13,950
+the sky blue cell.
+From the center of this one,
+
+38
+00:02:13,950 --> 00:02:20,170
+we'll make another 90 degree left turn 
+to move into the light peach cell.
+
+39
+00:02:20,170 --> 00:02:24,039
+From there, 90 degrees brings us
+not to the original olive green cell,
+
+40
+00:02:24,039 --> 00:02:29,970
+but this coral orange cell.
+Another 90 degree left, and
+
+41
+00:02:29,970 --> 00:02:35,909
+we're heading into the deep red cell.
+And finally, our last turn,
+
+42
+00:02:35,909 --> 00:02:41,280
+will bring us back to the 
+olive green cell we started in.
+
+43
+00:02:41,280 --> 00:02:44,340
+The path we took around
+that column was a regular
+
+44
+00:02:44,340 --> 00:02:48,440
+hexagon with six right angles.
+And that's the kind of thing that
+
+45
+00:02:48,440 --> 00:00:00,000
+can happen when your 
+space is curved.
+

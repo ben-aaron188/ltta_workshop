@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:01,650
+when you think<font color="#CCCCCC"> about</font><font color="#E5E5E5"> algorithms in the</font>
+
+2
+00:00:01,650 --> 00:00:02,850
+criminal justice<font color="#CCCCCC"> system you</font><font color="#E5E5E5"> have to</font>
+
+3
+00:00:02,850 --> 00:00:04,200
+really<font color="#E5E5E5"> think about the data and how the</font>
+
+4
+00:00:04,200 --> 00:00:06,569
+data<font color="#E5E5E5"> is built</font><font color="#CCCCCC"> I'm</font><font color="#E5E5E5"> Cathy</font><font color="#CCCCCC"> O'Neill I'm a</font>
+
+5
+00:00:06,569 --> 00:00:09,900
+math nerd<font color="#CCCCCC"> data scientist and author so</font>
+
+6
+00:00:09,900 --> 00:00:11,580
+the way predictive policing works is
+
+7
+00:00:11,580 --> 00:00:13,349
+they<font color="#E5E5E5"> take the data they look for crime</font>
+
+8
+00:00:13,349 --> 00:00:15,599
+data<font color="#E5E5E5"> and they really don't have crime</font>
+
+9
+00:00:15,599 --> 00:00:17,580
+data so they use this<font color="#E5E5E5"> their best proxy</font>
+
+10
+00:00:17,580 --> 00:00:18,990
+for it which<font color="#E5E5E5"> is usually arrest data</font>
+
+11
+00:00:18,990 --> 00:00:21,000
+<font color="#E5E5E5">which means that police are basically</font>
+
+12
+00:00:21,000 --> 00:00:22,470
+sent back to<font color="#E5E5E5"> the same neighborhoods</font>
+
+13
+00:00:22,470 --> 00:00:24,449
+where they're already<font color="#CCCCCC"> over policing and</font>
+
+14
+00:00:24,449 --> 00:00:26,099
+in particular they're not sent to
+
+15
+00:00:26,099 --> 00:00:27,930
+neighborhoods that have crime but aren't
+
+16
+00:00:27,930 --> 00:00:30,179
+those crimes aren't<font color="#E5E5E5"> found now if you</font>
+
+17
+00:00:30,179 --> 00:00:32,219
+think<font color="#E5E5E5"> about what that</font><font color="#CCCCCC"> means</font><font color="#E5E5E5"> for the</font>
+
+18
+00:00:32,219 --> 00:00:34,020
+algorithms<font color="#E5E5E5"> where you're looking for</font>
+
+19
+00:00:34,020 --> 00:00:36,540
+crimes based<font color="#E5E5E5"> on the location of previous</font>
+
+20
+00:00:36,540 --> 00:00:39,210
+arrests<font color="#E5E5E5"> or previous convictions or even</font>
+
+21
+00:00:39,210 --> 00:00:40,920
+previous reported<font color="#CCCCCC"> crime that kind of</font>
+
+22
+00:00:40,920 --> 00:00:43,170
+<font color="#CCCCCC">algorithm</font><font color="#E5E5E5"> is intrinsically biased and</font>
+
+23
+00:00:43,170 --> 00:00:44,910
+then there's<font color="#CCCCCC"> another kind</font><font color="#E5E5E5"> of algorithm</font>
+
+24
+00:00:44,910 --> 00:00:46,890
+<font color="#E5E5E5">that is little downstream from the</font>
+
+25
+00:00:46,890 --> 00:00:48,180
+<font color="#E5E5E5">predictive policing algorithm it's</font>
+
+26
+00:00:48,180 --> 00:00:49,920
+called the recidivism risk<font color="#E5E5E5"> algorithm</font>
+
+27
+00:00:49,920 --> 00:00:51,989
+recidivism risk<font color="#E5E5E5"> algorithms are</font><font color="#CCCCCC"> used by</font>
+
+28
+00:00:51,989 --> 00:00:54,300
+judges<font color="#E5E5E5"> to determine how long sent a</font>
+
+29
+00:00:54,300 --> 00:00:56,789
+<font color="#E5E5E5">sentence a defendant and the higher risk</font>
+
+30
+00:00:56,789 --> 00:00:58,350
+of recidivism<font color="#E5E5E5"> which is the risk of</font>
+
+31
+00:00:58,350 --> 00:00:59,820
+<font color="#E5E5E5">returning to prison sometime in the</font>
+
+32
+00:00:59,820 --> 00:01:00,359
+future
+
+33
+00:01:00,359 --> 00:01:01,800
+or<font color="#E5E5E5"> even just getting arrested in the</font>
+
+34
+00:01:01,800 --> 00:01:04,170
+future<font color="#CCCCCC"> the higher risk the longer</font>
+
+35
+00:01:04,170 --> 00:01:05,519
+someone gets<font color="#E5E5E5"> sentenced and what</font>
+
+36
+00:01:05,519 --> 00:01:07,470
+<font color="#CCCCCC">ProPublica found was the compass model</font>
+
+37
+00:01:07,470 --> 00:01:09,240
+which is one<font color="#E5E5E5"> version of a recidivism</font>
+
+38
+00:01:09,240 --> 00:01:12,030
+earth model<font color="#E5E5E5"> made mistakes by sending</font>
+
+39
+00:01:12,030 --> 00:01:13,770
+people<font color="#E5E5E5"> to</font><font color="#CCCCCC"> prison</font><font color="#E5E5E5"> longer</font><font color="#CCCCCC"> that kind of</font>
+
+40
+00:01:13,770 --> 00:01:16,799
+mistake<font color="#E5E5E5"> twice as often</font><font color="#CCCCCC"> for African</font>
+
+41
+00:01:16,799 --> 00:01:18,630
+<font color="#CCCCCC">American defendants as for white</font>
+
+42
+00:01:18,630 --> 00:01:20,610
+defendants at least in Broward<font color="#CCCCCC"> County</font>
+
+43
+00:01:20,610 --> 00:01:23,159
+Florida<font color="#CCCCCC"> and if there's another</font><font color="#E5E5E5"> kind</font><font color="#CCCCCC"> of</font>
+
+44
+00:01:23,159 --> 00:01:25,049
+mistake you<font color="#E5E5E5"> can</font><font color="#CCCCCC"> make which is</font><font color="#E5E5E5"> you look</font>
+
+45
+00:01:25,049 --> 00:01:26,820
+like you're not<font color="#E5E5E5"> coming</font><font color="#CCCCCC"> back you look low</font>
+
+46
+00:01:26,820 --> 00:01:28,650
+<font color="#E5E5E5">risk</font><font color="#CCCCCC"> where you actually</font><font color="#E5E5E5"> do come back</font>
+
+47
+00:01:28,650 --> 00:01:30,030
+<font color="#E5E5E5">that kind of risk</font>
+
+48
+00:01:30,030 --> 00:01:31,799
+<font color="#CCCCCC">that kind of mistake was made twice as</font>
+
+49
+00:01:31,799 --> 00:01:33,420
+<font color="#CCCCCC">often for</font><font color="#E5E5E5"> white defendants as for</font>
+
+50
+00:01:33,420 --> 00:01:36,380
+<font color="#CCCCCC">African American defense</font>
+
+51
+00:01:39,280 --> 00:00:00,000
+[Music]
+

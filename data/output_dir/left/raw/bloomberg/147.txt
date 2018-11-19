@@ -1,0 +1,476 @@
+1
+00:00:07,380 --> 00:00:09,740
+Instead of taking a sledgehammer approach
+
+2
+00:00:09,740 --> 00:00:15,700
+to brain disorders, which is what we're doing today,
+
+3
+00:00:15,700 --> 00:00:18,600
+with technology like Inscopix,
+
+4
+00:00:18,600 --> 00:00:22,560
+we can peer deep into the brain
+
+5
+00:00:22,560 --> 00:00:26,180
+when the subject is actually interacting with its environment.
+
+6
+00:00:37,560 --> 00:00:40,460
+At a NASA research facility in the heart of Silicon Valley,
+
+7
+00:00:40,460 --> 00:00:43,100
+neuro scientists are working on a microscopic camera
+
+8
+00:00:43,100 --> 00:00:46,280
+that can record individual nerve cells or neurons
+
+9
+00:00:46,280 --> 00:00:49,500
+as they fire inside a living working brain.
+
+10
+00:00:51,440 --> 00:00:54,680
+A start-up in nearby Palo Alto called Inscopix
+
+11
+00:00:54,680 --> 00:00:56,800
+developed this tiny device.
+
+12
+00:00:58,540 --> 00:01:01,800
+The company science director took me inside the NASA animal lab
+
+13
+00:01:01,800 --> 00:01:05,099
+where they test their product on mice - like this little guy.
+
+14
+00:01:05,099 --> 00:01:08,160
+So I'm going to put him back in his cage.
+
+15
+00:01:09,600 --> 00:01:12,620
+Right now he's doing a little bit of digging!
+
+16
+00:01:13,720 --> 00:01:17,940
+There's a little docking station right on the animal's head
+
+17
+00:01:17,940 --> 00:01:20,940
+and this allows us just to attach the microscope.
+
+18
+00:01:20,940 --> 00:01:24,420
+So the microscope is what you see on top.
+
+19
+00:01:24,420 --> 00:01:27,040
+The whole thing depends on some pretty crazy science.
+
+20
+00:01:28,880 --> 00:01:30,480
+They start with a special virus
+
+21
+00:01:30,480 --> 00:01:32,260
+and inject it into the mouse.
+
+22
+00:01:32,260 --> 00:01:35,220
+The virus bores into the nuclei of the furry guy's neurons
+
+23
+00:01:35,220 --> 00:01:38,740
+and changes DNA there so the cells will glow.
+
+24
+00:01:38,740 --> 00:01:40,700
+But they only glow when they're hit with a special light
+
+25
+00:01:40,700 --> 00:01:42,880
+and when the neurons fire off.
+
+26
+00:01:42,880 --> 00:01:44,260
+To see the neurons flashing,
+
+27
+00:01:44,260 --> 00:01:47,399
+researchers surgically implant a microscopic optical needle
+
+28
+00:01:47,400 --> 00:01:50,700
+into the specific part of the brain that interests them.
+
+29
+00:01:50,700 --> 00:01:53,080
+The microscope plugs into a brain docking station
+
+30
+00:01:53,080 --> 00:01:54,480
+straight out of "The Matrix"
+
+31
+00:01:54,480 --> 00:01:57,660
+and streams video of brain activity to a computer screen.
+
+32
+00:01:58,940 --> 00:02:02,320
+All while the mouse scurries on about its mousey business.
+
+33
+00:02:05,480 --> 00:02:08,300
+Each one of these flashing dots you see
+
+34
+00:02:08,300 --> 00:02:10,620
+is one brain cell.
+
+35
+00:02:12,500 --> 00:02:15,220
+So we're looking at a live picture of
+
+36
+00:02:15,220 --> 00:02:18,160
+information transmission within the brain.
+
+37
+00:02:19,000 --> 00:02:20,000
+That's crazy.
+
+38
+00:02:21,380 --> 00:02:24,020
+Do you remember the first time you ever saw this in action
+
+39
+00:02:24,020 --> 00:02:25,480
+and what did it feel like?
+
+40
+00:02:25,480 --> 00:02:27,640
+Yeah I was extremely excited.
+
+41
+00:02:28,560 --> 00:02:30,220
+Before, I was trying to record
+
+42
+00:02:30,220 --> 00:02:31,520
+from these cells you see
+
+43
+00:02:31,520 --> 00:02:33,320
+one cell at a time
+
+44
+00:02:34,580 --> 00:02:37,280
+and the very first time that I saw
+
+45
+00:02:37,280 --> 00:02:40,040
+this many cells, a thousand neurons light up
+
+46
+00:02:40,040 --> 00:02:42,300
+it was transformational.
+
+47
+00:02:44,520 --> 00:02:46,800
+We've had techniques to analyze the brain
+
+48
+00:02:46,800 --> 00:02:51,820
+on a whole scale like MRI
+
+49
+00:02:51,820 --> 00:02:53,980
+and we've had techniques that allowed us
+
+50
+00:02:53,980 --> 00:02:56,200
+to record from individual neurons.
+
+51
+00:02:57,500 --> 00:02:59,400
+But if you actually want to understand
+
+52
+00:02:59,400 --> 00:03:01,260
+how the brain functions,
+
+53
+00:03:01,260 --> 00:03:04,420
+we have to visualize multiple cells
+
+54
+00:03:04,420 --> 00:03:06,180
+that are working together
+
+55
+00:03:06,180 --> 00:03:08,880
+to perform a particular function
+
+56
+00:03:08,880 --> 00:03:11,960
+as an animal navigates its space.
+
+57
+00:03:13,580 --> 00:03:15,280
+Inscopix does just that.
+
+58
+00:03:15,280 --> 00:03:16,720
+It films brain cells
+
+59
+00:03:16,720 --> 00:03:18,040
+while a mouse wanders around his cage
+
+60
+00:03:18,040 --> 00:03:19,680
+or during an epileptic seizure.
+
+61
+00:03:22,900 --> 00:03:24,760
+It can even capture the symphony of neurons
+
+62
+00:03:24,760 --> 00:03:27,300
+inside a songbirds mind.
+
+63
+00:03:33,340 --> 00:03:34,640
+The brain camera started its life
+
+64
+00:03:34,640 --> 00:03:36,400
+as a research project at Stanford
+
+65
+00:03:36,400 --> 00:03:38,040
+ten years ago.
+
+66
+00:03:38,040 --> 00:03:39,300
+But it proved so popular,
+
+67
+00:03:39,300 --> 00:03:41,920
+its developers thought labs would pay to use it
+
+68
+00:03:41,920 --> 00:03:45,260
+even at sixty to a hundred thousand dollars a pop.
+
+69
+00:03:45,260 --> 00:03:47,560
+And so Inscopix was formed.
+
+70
+00:03:47,560 --> 00:03:51,620
+I was always a scientist, even as a little girl
+
+71
+00:03:51,620 --> 00:03:54,100
+and with technology like this,
+
+72
+00:03:54,100 --> 00:03:55,060
+it's exciting because with a
+
+73
+00:03:55,060 --> 00:03:57,320
+thorough understanding of how the brain
+
+74
+00:03:57,320 --> 00:03:58,700
+is actually operating,
+
+75
+00:03:58,700 --> 00:04:01,920
+we're starting to develop the ability to control it,
+
+76
+00:04:01,920 --> 00:04:05,940
+to potentially alleviate devastating brain disorders.
+
+77
+00:04:10,360 --> 00:04:11,500
+In San Francisco at the
+
+78
+00:04:11,500 --> 00:04:14,000
+Gladstone Institute Of Neurological Disease,
+
+79
+00:04:14,000 --> 00:04:16,120
+researchers use the Inscopix microscope
+
+80
+00:04:16,120 --> 00:04:17,540
+to live-stream the brain,
+
+81
+00:04:17,540 --> 00:04:19,100
+as mice make basic decisions.
+
+82
+00:04:22,300 --> 00:04:24,660
+Are you looking at the brain up close or what's the...?
+
+83
+00:04:24,660 --> 00:04:26,620
+So we're really interested in how
+
+84
+00:04:26,620 --> 00:04:29,500
+the brain functions during behavior.
+
+85
+00:04:29,500 --> 00:04:34,280
+So, we measure the behavior of mice as they
+
+86
+00:04:34,280 --> 00:04:37,000
+make economic decisions about what to do
+
+87
+00:04:37,000 --> 00:04:40,060
+and what kinds of rewards they're going to get.
+
+88
+00:04:41,360 --> 00:04:43,740
+What's the application in humans?
+
+89
+00:04:43,740 --> 00:04:46,720
+There are a number of neuropsychiatric diseases
+
+90
+00:04:46,720 --> 00:04:49,740
+where value based decision making has gone wrong.
+
+91
+00:04:50,900 --> 00:04:53,480
+Addiction I think is probably the most prominent one
+
+92
+00:04:53,480 --> 00:04:55,260
+in which people have decided that
+
+93
+00:04:55,260 --> 00:04:56,680
+obtaining and using drugs
+
+94
+00:04:56,680 --> 00:04:59,360
+is really the main action that they want to perform.
+
+95
+00:05:01,640 --> 00:05:04,020
+And then of course diseases like depression
+
+96
+00:05:04,020 --> 00:05:09,020
+where patients have lost the motivation to perform
+
+97
+00:05:09,020 --> 00:05:10,520
+any kind of action really.
+
+98
+00:05:13,000 --> 00:05:15,240
+As we understand more specifically
+
+99
+00:05:15,240 --> 00:05:18,560
+how cells control basic decisions,
+
+100
+00:05:18,560 --> 00:05:21,540
+we'll be able to develop entirely new strategies
+
+101
+00:05:21,540 --> 00:05:23,120
+for treating these diseases.
+
+102
+00:05:27,080 --> 00:05:29,740
+About 200 labs already use Inscopix
+
+103
+00:05:29,740 --> 00:05:32,540
+and the company has raised 10 million dollars in funding.
+
+104
+00:05:32,540 --> 00:05:34,760
+DARPA, the Pentagon sci-fi research arm
+
+105
+00:05:34,760 --> 00:05:36,420
+just gave them four million dollars to
+
+106
+00:05:36,420 --> 00:05:38,160
+create a device that can be hardwired
+
+107
+00:05:38,160 --> 00:05:40,230
+into the brain and restore vision for
+
+108
+00:05:40,230 --> 00:05:41,840
+some blind patients.
+
+109
+00:05:42,760 --> 00:05:44,840
+Futurists in Silicon Valley believe that
+
+110
+00:05:44,840 --> 00:05:46,520
+decoding how the brain works
+
+111
+00:05:46,520 --> 00:05:48,880
+will help us build a new generation of computers
+
+112
+00:05:48,880 --> 00:05:52,040
+that are more powerful because they resemble human intelligence
+
+113
+00:05:52,040 --> 00:05:54,780
+or maybe it'll be the other way around.
+
+114
+00:05:54,780 --> 00:05:56,370
+I always enjoyed a range of
+
+115
+00:05:56,370 --> 00:05:59,820
+sci-fi movies when I was growing up
+
+116
+00:05:59,820 --> 00:06:02,080
+and these concepts are coming to life
+
+117
+00:06:02,080 --> 00:06:05,020
+like a merging of a computer
+
+118
+00:06:05,020 --> 00:06:06,900
+with an active, living brain.
+
+119
+00:06:08,080 --> 00:00:00,000
+The sky's the limit really.
+

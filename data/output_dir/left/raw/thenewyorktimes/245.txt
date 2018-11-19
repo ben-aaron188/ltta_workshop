@@ -1,0 +1,411 @@
+1
+00:00:01,980 --> 00:00:05,100
+All cybersecurity experts who
+have given electronic voting
+
+2
+00:00:05,100 --> 00:00:07,970
+machines any thought
+agree.
+
+3
+00:00:07,970 --> 00:00:10,210
+These machines have got to go.
+
+4
+00:00:11,440 --> 00:00:13,660
+To show you why, I’m running a mock
+election
+
+5
+00:00:13,710 --> 00:00:18,750
+using the same dangerous and obsolete
+machines still in use today.
+
+6
+00:00:18,750 --> 00:00:20,970
+Our election will find out
+whether Michigan students
+
+7
+00:00:20,970 --> 00:00:25,760
+prefer their own university
+or our arch rival Ohio State.
+
+8
+00:00:27,140 --> 00:00:28,140
+Here we are.
+
+9
+00:00:28,960 --> 00:00:31,580
+After the chaos of
+the 2000 election,
+
+10
+00:00:31,580 --> 00:00:35,250
+we were promised a modern
+and dependable way to vote.
+
+11
+00:00:36,940 --> 00:00:40,360
+I’m here to tell you that the
+electronic voting machines
+
+12
+00:00:40,360 --> 00:00:43,480
+Americans got to solve the
+problem of voting integrity —
+
+13
+00:00:43,480 --> 00:00:46,330
+they turned out to
+be an awful idea.
+
+14
+00:00:46,650 --> 00:00:47,650
+One vote for McCain.
+
+15
+00:00:47,650 --> 00:00:48,580
+Huh?!
+
+16
+00:00:48,880 --> 00:00:53,950
+That’s because people like me
+can hack them all too easily.
+
+17
+00:00:53,950 --> 00:00:57,820
+I’m a computer scientist who has
+hacked a lot of electronic voting
+
+18
+00:00:57,820 --> 00:00:58,930
+machines.
+
+19
+00:00:58,930 --> 00:01:02,020
+I even turned one machine
+into a video game console.
+
+20
+00:01:02,020 --> 00:01:05,170
+Imagine what the Russians
+and North Koreans can do.
+
+21
+00:01:05,800 --> 00:01:08,540
+I’ve even gone to Congress
+to raise the alarm.
+
+22
+00:01:08,550 --> 00:01:11,500
+Our highly computerized election
+infrastructure
+
+23
+00:01:11,500 --> 00:01:15,790
+is vulnerable to sabotage
+and even to cyber-attacks
+
+24
+00:01:18,310 --> 00:01:20,590
+This is the same
+electronic voting machine
+
+25
+00:01:20,590 --> 00:01:24,070
+used in Georgia and parts
+of Indiana, Kansas, Kentucky
+
+26
+00:01:24,070 --> 00:01:27,400
+Mississippi, Tennessee, Texas
+and even in swing states
+
+27
+00:01:27,400 --> 00:01:30,280
+like Virginia, Florida
+and Pennsylvania.
+
+28
+00:01:30,280 --> 00:01:33,790
+Millions of Americans voted
+on paperless electronic voting
+
+29
+00:01:33,790 --> 00:01:36,170
+machines in the 2016 election.
+
+30
+00:01:36,170 --> 00:01:37,080
+Who are you going to vote for?
+
+31
+00:01:37,080 --> 00:01:39,010
+Hundred percent Michigan.
+
+32
+00:01:39,010 --> 00:01:40,010
+Obviously Michigan.
+
+33
+00:01:40,010 --> 00:01:42,010
+Michigan.
+
+34
+00:01:42,010 --> 00:01:44,980
+But here’s a little
+secret between you and me.
+
+35
+00:01:44,980 --> 00:01:47,900
+I’ve already hacked these worthless
+machines.
+
+36
+00:01:48,560 --> 00:01:51,340
+Step one: buy a voting machine on Ebay.
+
+37
+00:01:51,340 --> 00:01:53,590
+Or, if you are the
+North Koreans, hack
+
+38
+00:01:53,590 --> 00:01:56,480
+the manufacturer and
+steal their software code.
+
+39
+00:01:57,020 --> 00:01:59,740
+Step two: write a virus.
+
+40
+00:01:59,740 --> 00:02:03,040
+Step three: email your virus
+to every election official
+
+41
+00:02:03,040 --> 00:02:04,840
+responsible for
+programming the voting
+
+42
+00:02:04,840 --> 00:02:06,700
+machines with new ballots.
+
+43
+00:02:06,700 --> 00:02:09,880
+Many of these officials
+are easy to find online.
+
+44
+00:02:09,880 --> 00:02:12,240
+Step four: sip coffee
+and wait.
+
+45
+00:02:14,090 --> 00:02:17,080
+Step five: hijack the
+ballot programming
+
+46
+00:02:17,080 --> 00:02:18,900
+and let the election
+officials copy
+
+47
+00:02:18,900 --> 00:02:22,730
+your invisible malicious code
+onto the voting machines.
+
+48
+00:02:23,710 --> 00:02:24,900
+Step six:
+
+49
+00:02:24,900 --> 00:02:27,380
+watch your code
+silently steal votes.
+
+50
+00:02:32,550 --> 00:02:35,020
+All right, here are the results
+from the electronic voting
+
+51
+00:02:35,020 --> 00:02:36,580
+machines.
+
+52
+00:02:36,580 --> 00:02:39,670
+Ohio State wins 131 to 108.
+
+53
+00:02:43,510 --> 00:02:44,820
+There’s a good reason
+
+54
+00:02:44,820 --> 00:02:46,850
+we computer scientists
+are paranoid.
+
+55
+00:02:47,080 --> 00:02:49,120
+It’s a golden age for hackers.
+
+56
+00:02:49,120 --> 00:02:51,020
+The computer virus
+that destroyed
+
+57
+00:02:51,020 --> 00:02:52,020
+Iranian nuclear equipment —
+
+58
+00:02:52,380 --> 00:02:53,890
+This is one of the largest data
+
+59
+00:02:53,890 --> 00:02:55,120
+breaches in history.
+
+60
+00:02:55,120 --> 00:02:58,270
+More than one billion
+of its accounts were hacked.
+
+61
+00:02:58,270 --> 00:03:01,300
+What chance do the people
+running your local elections
+
+62
+00:03:01,300 --> 00:03:04,130
+really have against
+Russia or North Korea?
+
+63
+00:03:05,200 --> 00:03:07,370
+OK, everyone.
+
+64
+00:03:07,370 --> 00:03:09,720
+I hacked the voting machines.
+
+65
+00:03:10,690 --> 00:03:12,860
+I do have the real
+results,
+
+66
+00:03:13,070 --> 00:03:16,050
+because we also counted on paper.
+
+67
+00:03:17,330 --> 00:03:18,780
+Michigan wins!
+
+68
+00:03:19,970 --> 00:03:22,080
+Michigan won in a landslide.
+
+69
+00:03:22,340 --> 00:03:26,060
+And I can say this confidently
+because I have the real results
+
+70
+00:03:26,060 --> 00:03:28,570
+from the safest and
+simplest solution.
+
+71
+00:03:29,030 --> 00:03:29,881
+Paper ballots.
+
+72
+00:03:33,110 --> 00:03:35,750
+We need to take a hard look
+at the equipment that actually
+
+73
+00:03:35,750 --> 00:03:37,560
+records and reports votes.
+
+74
+00:03:37,560 --> 00:03:38,990
+Even though the Senate intelligence
+
+75
+00:03:38,990 --> 00:03:41,420
+committee is finally
+showing some understanding
+
+76
+00:03:41,420 --> 00:03:42,200
+of the problem,
+
+77
+00:03:42,200 --> 00:03:43,490
+it’s not enough.
+
+78
+00:03:43,490 --> 00:03:46,050
+All states in this
+country, the people
+
+79
+00:03:46,050 --> 00:03:48,410
+ultimately responsible
+for how we vote,
+
+80
+00:03:50,460 --> 00:03:52,730
+In a real election,
+an official could quickly
+
+81
+00:03:52,730 --> 00:03:54,440
+scan these paper ballots
+
+82
+00:03:54,440 --> 00:03:58,220
+and shortly after, have a
+human verify the results.
+
+83
+00:03:58,220 --> 00:04:01,840
+Paper plus audits: all elections
+should be run this way.
+
+84
+00:04:02,090 --> 00:04:05,540
+But if you don’t want to believe
+me or every single expert
+
+85
+00:04:05,540 --> 00:04:08,580
+in cybersecurity who’s
+thought this through,
+
+86
+00:04:08,580 --> 00:04:09,870
+then take it from this guy.
+
+87
+00:04:10,010 --> 00:04:12,020
+It’s old fashioned,
+but it’s always
+
+88
+00:04:12,020 --> 00:04:15,670
+good to have a paper
+backup system of voting.
+
+89
+00:04:15,950 --> 00:00:00,000
+It’s called paper.
+

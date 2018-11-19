@@ -1,0 +1,284 @@
+1
+00:00:00,570 --> 00:00:04,840
+After Pokemon Go was released in the US, it
+took less than a day before it was making
+
+2
+00:00:04,840 --> 00:00:08,660
+more money than all the other apps in both
+Apple’s and Google’s app stores.
+
+3
+00:00:08,660 --> 00:00:14,009
+“It’s already earned $14 million in revenue
+since launching last Wednesday — not even
+
+4
+00:00:14,009 --> 00:00:16,510
+a full week.”
+But users didn’t have to pay a cent for
+
+5
+00:00:16,510 --> 00:00:21,699
+the game. All that money was coming from optional
+purchases people were making as they played.
+
+6
+00:00:21,699 --> 00:00:26,820
+This is the world of Freemium apps — a business
+model that, in the past few years, has largely
+
+7
+00:00:26,820 --> 00:00:32,780
+wiped out the market for paid games.
+Now game designers have to monetize the gameplay
+
+8
+00:00:32,780 --> 00:00:38,180
+and one way to do that is by applying some
+fundamental lessons of behavioral psychology.
+
+9
+00:00:43,430 --> 00:00:46,960
+The first thing these games do is set up a
+virtual currency so that it doesn’t feel
+
+10
+00:00:46,960 --> 00:00:49,489
+like you’re spending real currency, even
+though you are.
+
+11
+00:00:49,489 --> 00:00:52,920
+This is a variation on something we’ve known
+for decades - which is that people find it
+
+12
+00:00:52,920 --> 00:00:56,670
+harder to spend money when they’re paying
+in cash than if they’re using a card.
+
+13
+00:00:56,670 --> 00:01:03,320
+“So when you pay cash for something, you
+see it leave your hands and you get a very immediate
+
+14
+00:01:03,320 --> 00:01:08,680
+sense of how much your cash reserves have
+dropped, how much your wealth has dropped.”
+
+15
+00:01:08,680 --> 00:01:13,909
+Games add yet another layer. You pay for lollipop
+boosters with gold bars and you pay for gold
+
+16
+00:01:13,909 --> 00:01:18,420
+bars with your credit card, which is already
+distanced from actual payment.
+
+17
+00:01:18,420 --> 00:01:22,280
+And then on top of that, they don’t make
+the exchange rate simple. It’s not 50 gems
+
+18
+00:01:22,280 --> 00:01:25,479
+for 50 cents.
+“They’re always something weird like 1
+
+19
+00:01:25,479 --> 00:01:32,130
+dollar will get you 12 purple diamonds, and
+that sort of off kilter exchange rate is the
+
+20
+00:01:32,130 --> 00:01:38,320
+same thing you see with people spending — tourists
+spending money that they’re not familiar
+
+21
+00:01:38,320 --> 00:01:42,829
+with in foreign countries.”
+If incense costs 80 pokecoins and a batch
+
+22
+00:01:42,829 --> 00:01:51,219
+of 550 pokecoins costs $4.99, how much real
+money does incense cost? Yeah i don’t know
+
+23
+00:01:51,219 --> 00:01:53,189
+either.
+So you’re spending money that doesn’t
+
+24
+00:01:53,189 --> 00:01:57,180
+seem real and it only takes a second because
+the app store already has your credit card.
+
+25
+00:01:57,180 --> 00:02:00,200
+The whole payment process is designed to be
+painless.
+
+26
+00:02:00,200 --> 00:02:02,840
+Other parts of the game, however, are designed
+to be painful.
+
+27
+00:02:02,840 --> 00:02:07,469
+A key finding of behavioral research is that
+people tend to experience unexpected losses
+
+28
+00:02:07,469 --> 00:02:13,110
+more intensely than comparable gains. That
+can inform the timing of purchase prompts.
+
+29
+00:02:13,110 --> 00:02:17,170
+In Puzzle & Dragons, players progress through
+a dungeon before facing a boss, and if they
+
+30
+00:02:17,170 --> 00:02:21,980
+die, they stand to lose all the rewards they
+just earned. That’s when they’re presented
+
+31
+00:02:21,980 --> 00:02:26,080
+with the option to save their coins and their
+points by spending magic stones, which you
+
+32
+00:02:26,080 --> 00:02:32,800
+can by in the store with real money.
+Other developers actively embed inconvenience
+
+33
+00:02:32,800 --> 00:02:39,260
+into the games, so that you can purchase convenience.
+In Clash of Clans and Game of War, everything
+
+34
+00:02:39,260 --> 00:02:45,420
+you try to build has wait times that get progressively
+longer but are skippable, for a price.
+
+35
+00:02:45,420 --> 00:02:51,820
+“So they build incentives to remove pain
+points into the games and then if they want
+
+36
+00:02:51,820 --> 00:02:55,500
+that, then they have the incentives to insert
+pain points into the game.”
+
+37
+00:02:55,500 --> 00:03:00,150
+Ultimately though, only a tiny percentage
+of players actually become payers. And a small
+
+38
+00:03:00,150 --> 00:03:04,980
+percentage of payers are those so-called “whales”
+— people who will pay hundreds, sometimes
+
+39
+00:03:04,980 --> 00:03:09,110
+thousands of dollars in the app.
+The marketing firm Swrve estimates that about
+
+40
+00:03:09,110 --> 00:03:13,700
+half of the revenue for mobile games is coming
+from less than a half of a percent of all
+
+41
+00:03:13,700 --> 00:03:16,900
+players.
+Which means that for some of these games,
+
+42
+00:03:16,900 --> 00:03:21,870
+non-paying users, which is most people, are
+essentially pouring time into a game designed
+
+43
+00:03:21,870 --> 00:03:27,030
+to hit the pain points of a small, susceptible
+group of players. If you’re really having
+
+44
+00:03:27,030 --> 00:03:30,090
+fun, that’s fine.
+But it might be worth rewarding games that
+
+45
+00:03:30,090 --> 00:03:35,790
+find another way. As of now, the monetization
+in Pokemon Go is unobtrusive, it’s kind
+
+46
+00:03:35,790 --> 00:03:41,470
+of tucked away. And that lack of manipulation
+is a pretty good reason to buy some lure modules
+
+47
+00:03:41,470 --> 00:03:46,610
+and some incense.
+
+48
+00:03:46,610 --> 00:03:50,690
+One argument in favor of free-to-play games
+and in-app purchases is that they give developers
+
+49
+00:03:50,690 --> 00:03:54,890
+a reason to keep updating the games. And they’re
+collecting tons of data in order to inform
+
+50
+00:03:54,890 --> 00:03:59,630
+those updates — things like where you get
+stuck, where you close the game, which features
+
+51
+00:03:59,630 --> 00:04:04,840
+are most popular. All that data can help them
+keep making a game that you want to keep playing.
+
+52
+00:04:04,840 --> 00:04:09,920
+But it also means that they can tweak the
+prices based on individual profiles and behavior.
+
+53
+00:04:09,920 --> 00:04:14,860
+If it seems like you’re about to quit, hey
+here’s a discount. Or if you’re the type
+
+54
+00:04:14,860 --> 00:04:19,260
+of person who will spend a lot of money, maybe
+they bump up the prices a bit. They can even
+
+55
+00:04:19,260 --> 00:04:24,510
+look at how fancy your phone is and what country
+you live in and set the prices accordingly.
+
+56
+00:04:24,510 --> 00:04:29,070
+According to one survey, 40% of game developers
+said they were setting different prices for
+
+57
+00:04:29,070 --> 00:00:00,000
+different players. But the survey was anonymous
+and it’s pretty hard to tell which games those are.
+

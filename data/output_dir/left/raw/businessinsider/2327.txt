@@ -1,0 +1,572 @@
+1
+00:00:12,019 --> 00:00:13,980
+welcome back we're here to<font color="#E5E5E5"> stay with</font>
+
+2
+00:00:13,980 --> 00:00:16,410
+Matt<font color="#CCCCCC"> mireles founder and CEO of speaker</font>
+
+3
+00:00:16,410 --> 00:00:18,119
+text Matt can you tell us a<font color="#CCCCCC"> little bit</font>
+
+4
+00:00:18,119 --> 00:00:20,070
+more<font color="#CCCCCC"> about speaker text yeah sure</font>
+
+5
+00:00:20,070 --> 00:00:23,039
+speaker text is a really easy<font color="#E5E5E5"> to use web</font>
+
+6
+00:00:23,039 --> 00:00:25,140
+application right now works with<font color="#E5E5E5"> YouTube</font>
+
+7
+00:00:25,140 --> 00:00:27,510
+and it integrates your transcript into
+
+8
+00:00:27,510 --> 00:00:29,369
+the<font color="#E5E5E5"> video and it allows you to search</font>
+
+9
+00:00:29,369 --> 00:00:30,779
+and navigate within the do using the
+
+10
+00:00:30,779 --> 00:00:32,279
+transcript<font color="#E5E5E5"> just like you could any other</font>
+
+11
+00:00:32,279 --> 00:00:35,040
+text document furthermore anytime you
+
+12
+00:00:35,040 --> 00:00:36,960
+quote the transcript and you paste into
+
+13
+00:00:36,960 --> 00:00:39,270
+a blog or a story if you're a journalist
+
+14
+00:00:39,270 --> 00:00:41,520
+or an<font color="#E5E5E5"> email the quote automatically</font>
+
+15
+00:00:41,520 --> 00:00:43,079
+hyperlinks back to the exact moment
+
+16
+00:00:43,079 --> 00:00:44,789
+inside the<font color="#E5E5E5"> video where that quote came</font>
+
+17
+00:00:44,789 --> 00:00:47,129
+from gotcha now<font color="#E5E5E5"> you started the company</font>
+
+18
+00:00:47,129 --> 00:00:48,960
+in fall<font color="#CCCCCC"> of two thousand eight right in</font>
+
+19
+00:00:48,960 --> 00:00:50,010
+the middle of the financial apocalypse
+
+20
+00:00:50,010 --> 00:00:54,149
+what was<font color="#E5E5E5"> that like uh part of it</font><font color="#CCCCCC"> was a</font>
+
+21
+00:00:54,149 --> 00:00:56,789
+practical<font color="#E5E5E5"> decision I was like all right</font>
+
+22
+00:00:56,789 --> 00:00:59,070
+I<font color="#E5E5E5"> just graduated from Columbia in May I</font>
+
+23
+00:00:59,070 --> 00:01:02,039
+was<font color="#E5E5E5"> looking at the job the job outlook</font>
+
+24
+00:01:02,039 --> 00:01:04,379
+and it wasn't<font color="#CCCCCC"> pretty and I had this idea</font>
+
+25
+00:01:04,379 --> 00:01:06,900
+for a start-up and I decided to kind of
+
+26
+00:01:06,900 --> 00:01:09,810
+go for<font color="#E5E5E5"> it and it was really good thing</font>
+
+27
+00:01:09,810 --> 00:01:12,180
+though for us because initially we
+
+28
+00:01:12,180 --> 00:01:13,830
+thought oh maybe we'll raise money<font color="#CCCCCC"> and</font>
+
+29
+00:01:13,830 --> 00:01:15,630
+we'll do all these you know being
+
+30
+00:01:15,630 --> 00:01:19,170
+extravagant spendy things but we<font color="#E5E5E5"> looked</font>
+
+31
+00:01:19,170 --> 00:01:22,080
+at the<font color="#E5E5E5"> economic situation we realized</font>
+
+32
+00:01:22,080 --> 00:01:24,570
+okay<font color="#E5E5E5"> that's not going to happen where we</font>
+
+33
+00:01:24,570 --> 00:01:26,189
+got to<font color="#CCCCCC"> do this just with what little we</font>
+
+34
+00:01:26,189 --> 00:01:28,560
+have and so it really forced us to pare
+
+35
+00:01:28,560 --> 00:01:31,290
+down and focus we had all these big
+
+36
+00:01:31,290 --> 00:01:33,750
+extravagant features in mind that would
+
+37
+00:01:33,750 --> 00:01:35,640
+cost a lot of money to<font color="#E5E5E5"> create and we</font>
+
+38
+00:01:35,640 --> 00:01:38,939
+just pared it down to<font color="#E5E5E5"> are the little</font>
+
+39
+00:01:38,939 --> 00:01:41,790
+things<font color="#E5E5E5"> that were important product</font>
+
+40
+00:01:41,790 --> 00:01:44,340
+features and just those and just build a
+
+41
+00:01:44,340 --> 00:01:47,189
+minimally Viable Product and we did it
+
+42
+00:01:47,189 --> 00:01:49,140
+on almost<font color="#E5E5E5"> no money and it ended up</font>
+
+43
+00:01:49,140 --> 00:01:51,119
+really making us focus as a company
+
+44
+00:01:51,119 --> 00:01:53,970
+great so are<font color="#E5E5E5"> there any specific ways</font>
+
+45
+00:01:53,970 --> 00:01:56,130
+that you had to innovate or any tricks
+
+46
+00:01:56,130 --> 00:01:57,479
+that you used in order<font color="#E5E5E5"> to get</font><font color="#CCCCCC"> your</font>
+
+47
+00:01:57,479 --> 00:01:59,070
+product off<font color="#CCCCCC"> the ground</font><font color="#E5E5E5"> right away</font>
+
+48
+00:01:59,070 --> 00:02:02,610
+uh yeah so one thing was hiring
+
+49
+00:02:02,610 --> 00:02:05,520
+engineers initially it<font color="#CCCCCC"> was just me and</font>
+
+50
+00:02:05,520 --> 00:02:08,160
+<font color="#E5E5E5">my co-founder he was an engineer that I</font>
+
+51
+00:02:08,160 --> 00:02:10,949
+knew from<font color="#E5E5E5"> college talked him into doing</font>
+
+52
+00:02:10,949 --> 00:02:13,650
+this with me and we had an opportunity
+
+53
+00:02:13,650 --> 00:02:16,620
+to<font color="#E5E5E5"> go to a job fair at the Columbia at</font>
+
+54
+00:02:16,620 --> 00:02:18,300
+Columbia was the engineering job fair in
+
+55
+00:02:18,300 --> 00:02:22,230
+<font color="#CCCCCC">the fall and and we went and we got all</font>
+
+56
+00:02:22,230 --> 00:02:23,820
+these amazing resumes and all these
+
+57
+00:02:23,820 --> 00:02:25,170
+people who wanted<font color="#E5E5E5"> to hire but we didn't</font>
+
+58
+00:02:25,170 --> 00:02:27,209
+have any<font color="#E5E5E5"> money</font><font color="#CCCCCC"> to hire them but we</font>
+
+59
+00:02:27,209 --> 00:02:28,290
+interviewed we talked to them we said
+
+60
+00:02:28,290 --> 00:02:29,820
+well what's something we can offer them
+
+61
+00:02:29,820 --> 00:02:33,060
+that you know they might actually want
+
+62
+00:02:33,060 --> 00:02:35,880
+and we decided well I phones you know
+
+63
+00:02:35,880 --> 00:02:37,350
+they're in college they probably don't
+
+64
+00:02:37,350 --> 00:02:39,690
+have the money<font color="#CCCCCC"> to afford it and you know</font>
+
+65
+00:02:39,690 --> 00:02:41,850
+it sounds a lot better than saying I'll
+
+66
+00:02:41,850 --> 00:02:46,440
+give you two hundred dollars I say hey
+
+67
+00:02:46,440 --> 00:02:48,030
+here's an iphone it's actually<font color="#CCCCCC"> pretty</font>
+
+68
+00:02:48,030 --> 00:02:50,040
+cool and<font color="#E5E5E5"> it's useful and strategically</font>
+
+69
+00:02:50,040 --> 00:02:52,050
+it's useful for<font color="#E5E5E5"> us that they understand</font>
+
+70
+00:02:52,050 --> 00:02:53,340
+the power of the<font color="#E5E5E5"> iphone is a mobile</font>
+
+71
+00:02:53,340 --> 00:02:55,890
+computer<font color="#CCCCCC"> gotcha</font><font color="#E5E5E5"> was there were there any</font>
+
+72
+00:02:55,890 --> 00:02:57,870
+tricks that you use to get<font color="#E5E5E5"> maybe service</font>
+
+73
+00:02:57,870 --> 00:02:59,850
+providers to give you services for for
+
+74
+00:02:59,850 --> 00:03:03,000
+you<font color="#CCCCCC"> too yeah yeah so um I actually I</font>
+
+75
+00:03:03,000 --> 00:03:04,230
+<font color="#CCCCCC">worked as a paramedic here in the city</font>
+
+76
+00:03:04,230 --> 00:03:06,840
+that's how i funded myself in my life
+
+77
+00:03:06,840 --> 00:03:11,790
+ever since<font color="#CCCCCC"> i graduated</font><font color="#E5E5E5"> and one time</font><font color="#CCCCCC"> i</font>
+
+78
+00:03:11,790 --> 00:03:15,360
+was<font color="#CCCCCC"> working at</font><font color="#E5E5E5"> done CPR and somebody's</font>
+
+79
+00:03:15,360 --> 00:03:16,440
+family member and I was<font color="#E5E5E5"> doing the</font>
+
+80
+00:03:16,440 --> 00:03:19,560
+paperwork afterwards and I was kind<font color="#CCCCCC"> of</font>
+
+81
+00:03:19,560 --> 00:03:21,209
+struck up casual conversation with the
+
+82
+00:03:21,209 --> 00:03:23,670
+person son and you know turns out he was
+
+83
+00:03:23,670 --> 00:03:25,709
+a lawyer asked him what kind and the
+
+84
+00:03:25,709 --> 00:03:26,850
+course of it he turned<font color="#E5E5E5"> out</font><font color="#CCCCCC"> to be a</font>
+
+85
+00:03:26,850 --> 00:03:28,530
+corporate<font color="#E5E5E5"> lawyer I mentioned it's like</font>
+
+86
+00:03:28,530 --> 00:03:30,989
+<font color="#E5E5E5">she said why I said oh I have the</font>
+
+87
+00:03:30,989 --> 00:03:32,489
+startup work looking for a lawyer and
+
+88
+00:03:32,489 --> 00:03:33,840
+it's like oh what's the startup and I
+
+89
+00:03:33,840 --> 00:03:36,120
+kind of flipped the switch and I went in
+
+90
+00:03:36,120 --> 00:03:39,030
+to pitch mode mm-hmm hi and you know he
+
+91
+00:03:39,030 --> 00:03:40,470
+was impressed he gave me his number and
+
+92
+00:03:40,470 --> 00:03:43,140
+then month and a half later out of the
+
+93
+00:03:43,140 --> 00:03:45,150
+<font color="#E5E5E5">blue he called me and said that his firm</font>
+
+94
+00:03:45,150 --> 00:03:46,769
+which happened to be a major
+
+95
+00:03:46,769 --> 00:03:48,720
+<font color="#E5E5E5">international law firm with 1,100</font>
+
+96
+00:03:48,720 --> 00:03:52,820
+lawyers and 17 or 17 offices worldwide
+
+97
+00:03:52,820 --> 00:03:55,950
+would take us on as pro bono clients and
+
+98
+00:03:55,950 --> 00:03:58,280
+that provided a lot<font color="#E5E5E5"> of validation and</font>
+
+99
+00:03:58,280 --> 00:04:00,180
+psychologically<font color="#CCCCCC"> just like it's</font><font color="#E5E5E5"> really</font>
+
+100
+00:04:00,180 --> 00:04:01,709
+hard when you think like man this is
+
+101
+00:04:01,709 --> 00:04:03,390
+never going to work to have somebody who
+
+102
+00:04:03,390 --> 00:04:05,040
+actually believes in you it was a huge
+
+103
+00:04:05,040 --> 00:04:08,370
+help and<font color="#CCCCCC"> we may we might</font><font color="#E5E5E5"> not</font><font color="#CCCCCC"> even gone</font>
+
+104
+00:04:08,370 --> 00:04:09,180
+<font color="#E5E5E5">through with the whole point</font>
+
+105
+00:04:09,180 --> 00:04:11,730
+if if you hadn't you know<font color="#CCCCCC"> believed in us</font>
+
+106
+00:04:11,730 --> 00:04:13,950
+at that<font color="#E5E5E5"> really early stage great and</font>
+
+107
+00:04:13,950 --> 00:04:15,959
+finally do<font color="#E5E5E5"> you have any words of advice</font>
+
+108
+00:04:15,959 --> 00:04:17,820
+for other entrepreneurs thinking about
+
+109
+00:04:17,820 --> 00:04:19,680
+starting a business<font color="#E5E5E5"> while resources are</font>
+
+110
+00:04:19,680 --> 00:04:21,870
+still scarce yeah I think<font color="#E5E5E5"> the most</font>
+
+111
+00:04:21,870 --> 00:04:25,320
+important thing is don't hide your ideas
+
+112
+00:04:25,320 --> 00:04:26,699
+you<font color="#CCCCCC"> know there's a school of thought</font>
+
+113
+00:04:26,699 --> 00:04:28,830
+that oh I need to keep all my IDs secret
+
+114
+00:04:28,830 --> 00:04:31,020
+people are going to steal them people
+
+115
+00:04:31,020 --> 00:04:32,160
+aren't going to steal your ideas your
+
+116
+00:04:32,160 --> 00:04:34,500
+<font color="#E5E5E5">idea is probably maybe have something</font>
+
+117
+00:04:34,500 --> 00:04:36,600
+good about them but they mostly suck the
+
+118
+00:04:36,600 --> 00:04:38,910
+best way to<font color="#CCCCCC"> improve your</font><font color="#E5E5E5"> ideas is</font>
+
+119
+00:04:38,910 --> 00:04:40,229
+actually to go out and talk<font color="#CCCCCC"> to other</font>
+
+120
+00:04:40,229 --> 00:04:42,509
+people and pitch them you know because
+
+121
+00:04:42,509 --> 00:04:43,979
+when we started off we think it would be
+
+122
+00:04:43,979 --> 00:04:45,720
+a tool we thought speaker text to be a
+
+123
+00:04:45,720 --> 00:04:47,280
+tool just<font color="#E5E5E5"> for you journalists use</font>
+
+124
+00:04:47,280 --> 00:04:49,560
+privately well in the course of pitching
+
+125
+00:04:49,560 --> 00:04:51,930
+<font color="#E5E5E5">gazillions of people we got feedback and</font>
+
+126
+00:04:51,930 --> 00:04:53,220
+realized huh this could be actually
+
+127
+00:04:53,220 --> 00:04:55,220
+useful for video publishers and it
+
+128
+00:04:55,220 --> 00:04:57,570
+expanded our idea<font color="#CCCCCC"> of our potential</font>
+
+129
+00:04:57,570 --> 00:05:01,440
+market size gazillion times and going
+
+130
+00:05:01,440 --> 00:05:02,400
+out there putting yourself out there
+
+131
+00:05:02,400 --> 00:05:05,240
+pitching even when it's<font color="#E5E5E5"> just an idea um</font>
+
+132
+00:05:05,240 --> 00:05:07,800
+you and the other thing<font color="#E5E5E5"> is don't say</font>
+
+133
+00:05:07,800 --> 00:05:10,320
+that<font color="#E5E5E5"> I'm going to start a company start</font>
+
+134
+00:05:10,320 --> 00:05:13,979
+the company it's that act of<font color="#CCCCCC"> st. of</font>
+
+135
+00:05:13,979 --> 00:05:17,010
+doing it is bliss you have to you<font color="#E5E5E5"> have</font>
+
+136
+00:05:17,010 --> 00:05:17,940
+to get<font color="#CCCCCC"> people to believe in something</font>
+
+137
+00:05:17,940 --> 00:05:20,039
+<font color="#E5E5E5">that doesn't exist yet and that's the</font>
+
+138
+00:05:20,039 --> 00:05:22,320
+after the entrepreneur is to get other
+
+139
+00:05:22,320 --> 00:05:24,300
+people to see<font color="#E5E5E5"> what does not yet exist</font>
+
+140
+00:05:24,300 --> 00:05:26,639
+and to do that you have to see it<font color="#E5E5E5"> in</font>
+
+141
+00:05:26,639 --> 00:05:28,590
+<font color="#E5E5E5">your mind first and if you do that and</font>
+
+142
+00:05:28,590 --> 00:05:30,210
+you're good people will actually follow
+
+143
+00:05:30,210 --> 00:00:00,000
+you<font color="#E5E5E5"> okay well thank you</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> much</font>
+

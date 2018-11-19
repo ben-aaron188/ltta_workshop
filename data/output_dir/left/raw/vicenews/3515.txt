@@ -1,0 +1,260 @@
+1
+00:00:01,660 --> 00:00:05,680
+on<font color="#E5E5E5"> Friday</font><font color="#CCCCCC"> the Supreme Court ruled that</font>
+
+2
+00:00:05,680 --> 00:00:06,970
+cops need<font color="#E5E5E5"> a search</font><font color="#CCCCCC"> warrant before</font>
+
+3
+00:00:06,970 --> 00:00:08,680
+<font color="#E5E5E5">getting data</font><font color="#CCCCCC"> from your cellphone that</font>
+
+4
+00:00:08,680 --> 00:00:11,290
+shows where you were and when it's a
+
+5
+00:00:11,290 --> 00:00:13,420
+major privacy decision<font color="#E5E5E5"> and sets one of</font>
+
+6
+00:00:13,420 --> 00:00:15,280
+the strongest legal limits yet on how
+
+7
+00:00:15,280 --> 00:00:17,770
+the government<font color="#E5E5E5"> can access your data but</font>
+
+8
+00:00:17,770 --> 00:00:19,360
+the<font color="#E5E5E5"> Justice is also stressed that their</font>
+
+9
+00:00:19,360 --> 00:00:21,280
+ruling was narrow and only<font color="#E5E5E5"> applies to</font>
+
+10
+00:00:21,280 --> 00:00:22,810
+the type of data<font color="#E5E5E5"> in question</font>
+
+11
+00:00:22,810 --> 00:00:24,250
+historical cell phone location
+
+12
+00:00:24,250 --> 00:00:26,830
+<font color="#CCCCCC">information not</font><font color="#E5E5E5"> real-time</font><font color="#CCCCCC"> cell records</font>
+
+13
+00:00:26,830 --> 00:00:28,630
+<font color="#E5E5E5">or national security</font><font color="#CCCCCC"> surveillance for</font>
+
+14
+00:00:28,630 --> 00:00:33,819
+example the ACLU argued this<font color="#E5E5E5"> case on</font>
+
+15
+00:00:33,819 --> 00:00:35,980
+behalf<font color="#E5E5E5"> of Timothy Carpenter who was</font>
+
+16
+00:00:35,980 --> 00:00:37,329
+arrested for<font color="#CCCCCC"> a series of</font><font color="#E5E5E5"> robberies</font>
+
+17
+00:00:37,329 --> 00:00:39,969
+around Detroit<font color="#E5E5E5"> largely</font><font color="#CCCCCC"> because data from</font>
+
+18
+00:00:39,969 --> 00:00:43,229
+his cell phone put him near<font color="#CCCCCC"> the crimes</font>
+
+19
+00:00:43,229 --> 00:00:45,579
+<font color="#E5E5E5">records of where you use</font><font color="#CCCCCC"> your phone can</font>
+
+20
+00:00:45,579 --> 00:00:47,170
+construct a detailed portrait<font color="#E5E5E5"> of your</font>
+
+21
+00:00:47,170 --> 00:00:50,499
+life<font color="#E5E5E5"> where you eat</font><font color="#CCCCCC"> work study or pray</font>
+
+22
+00:00:50,499 --> 00:00:53,710
+and<font color="#E5E5E5"> even if you're having</font><font color="#CCCCCC"> an affair but</font>
+
+23
+00:00:53,710 --> 00:00:55,239
+<font color="#E5E5E5">the FBI didn't get a warrant for</font>
+
+24
+00:00:55,239 --> 00:00:57,280
+carpenters location data<font color="#E5E5E5"> because back in</font>
+
+25
+00:00:57,280 --> 00:01:00,339
+<font color="#E5E5E5">2011 it didn't need to until Friday</font>
+
+26
+00:01:00,339 --> 00:01:01,989
+<font color="#E5E5E5">those records weren't federally</font>
+
+27
+00:01:01,989 --> 00:01:03,760
+protected by the Fourth Amendment<font color="#E5E5E5"> which</font>
+
+28
+00:01:03,760 --> 00:01:05,199
+guards against warrantless search and
+
+29
+00:01:05,199 --> 00:01:07,479
+seizure<font color="#E5E5E5"> because</font><font color="#CCCCCC"> users</font><font color="#E5E5E5"> choose to give</font>
+
+30
+00:01:07,479 --> 00:01:09,369
+those records<font color="#E5E5E5"> to a third party their</font>
+
+31
+00:01:09,369 --> 00:01:11,860
+cell service<font color="#E5E5E5"> provider this Fourth</font>
+
+32
+00:01:11,860 --> 00:01:13,509
+<font color="#E5E5E5">Amendment caveat is known as the third</font>
+
+33
+00:01:13,509 --> 00:01:15,969
+party doctrine<font color="#E5E5E5"> an arguments in carpenter</font>
+
+34
+00:01:15,969 --> 00:01:17,710
+<font color="#E5E5E5">versus</font><font color="#CCCCCC"> u.s.</font><font color="#E5E5E5"> centered around whether it</font>
+
+35
+00:01:17,710 --> 00:01:19,930
+holds up in the<font color="#E5E5E5"> 21st century when</font>
+
+36
+00:01:19,930 --> 00:01:21,579
+disclosing your<font color="#E5E5E5"> personal data</font><font color="#CCCCCC"> to</font>
+
+37
+00:01:21,579 --> 00:01:23,200
+<font color="#CCCCCC">third-party companies is basically</font>
+
+38
+00:01:23,200 --> 00:01:26,229
+unavoidable so tech firms have something
+
+39
+00:01:26,229 --> 00:01:28,390
+at stake<font color="#E5E5E5"> in this case</font><font color="#CCCCCC"> too and some</font><font color="#E5E5E5"> of</font>
+
+40
+00:01:28,390 --> 00:01:30,159
+them including<font color="#E5E5E5"> Facebook filed a joint</font>
+
+41
+00:01:30,159 --> 00:01:32,679
+brief with<font color="#CCCCCC"> the court</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> company said</font>
+
+42
+00:01:32,679 --> 00:01:34,600
+<font color="#E5E5E5">they weren't picking</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> side but did</font>
+
+43
+00:01:34,600 --> 00:01:35,890
+argue<font color="#E5E5E5"> that the government</font><font color="#CCCCCC"> should have a</font>
+
+44
+00:01:35,890 --> 00:01:37,570
+more<font color="#E5E5E5"> nuanced</font><font color="#CCCCCC"> view of what kind of</font>
+
+45
+00:01:37,570 --> 00:01:39,100
+<font color="#CCCCCC">information it</font><font color="#E5E5E5"> can scoop up without a</font>
+
+46
+00:01:39,100 --> 00:01:40,170
+warrant
+
+47
+00:01:40,170 --> 00:01:42,520
+<font color="#E5E5E5">Friday's decision basically agreed with</font>
+
+48
+00:01:42,520 --> 00:01:44,380
+that<font color="#E5E5E5"> saying there's a world of</font>
+
+49
+00:01:44,380 --> 00:01:46,210
+<font color="#CCCCCC">difference between digital location data</font>
+
+50
+00:01:46,210 --> 00:01:47,920
+<font color="#E5E5E5">and the types of data the doctrine</font>
+
+51
+00:01:47,920 --> 00:01:50,229
+originally<font color="#E5E5E5"> applied</font><font color="#CCCCCC"> to like bank records</font>
+
+52
+00:01:50,229 --> 00:01:52,450
+and telephone numbers even though
+
+53
+00:01:52,450 --> 00:01:54,369
+Friday's ruling focused only on certain
+
+54
+00:01:54,369 --> 00:01:56,170
+<font color="#E5E5E5">types of location data that</font>
+
+55
+00:01:56,170 --> 00:01:57,850
+clarification<font color="#E5E5E5"> of</font><font color="#CCCCCC"> how the</font><font color="#E5E5E5"> third</font><font color="#CCCCCC"> party</font>
+
+56
+00:01:57,850 --> 00:01:59,200
+doctrine<font color="#CCCCCC"> should be applied to modern</font>
+
+57
+00:01:59,200 --> 00:02:01,359
+technology sets a big precedent for what
+
+58
+00:02:01,359 --> 00:02:02,679
+types of information<font color="#E5E5E5"> the Fourth</font>
+
+59
+00:02:02,679 --> 00:02:04,150
+Amendment<font color="#CCCCCC"> protects</font>
+
+60
+00:02:04,150 --> 00:02:06,370
+and<font color="#E5E5E5"> as more facets of daily life</font><font color="#CCCCCC"> are</font>
+
+61
+00:02:06,370 --> 00:02:08,649
+automated<font color="#E5E5E5"> and recorded by corporations</font>
+
+62
+00:02:08,649 --> 00:02:11,020
+<font color="#E5E5E5">that could have</font><font color="#CCCCCC"> implications for</font><font color="#E5E5E5"> things</font>
+
+63
+00:02:11,020 --> 00:02:12,550
+<font color="#E5E5E5">that go beyond the places where you've</font>
+
+64
+00:02:12,550 --> 00:02:15,330
+<font color="#E5E5E5">been using your phone</font>
+
+65
+00:02:26,390 --> 00:00:00,000
+you
+

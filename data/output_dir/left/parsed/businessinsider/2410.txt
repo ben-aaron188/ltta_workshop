@@ -1,0 +1,77 @@
+so mark when when a company like
+Facebook gets to this size gives this
+level of maturity a lot of people would
+sort of look at it and assume that this
+was the direction you set out to go the
+whole time take us back to the dorm room
+at Harvard talked about the initial idea
+and what the initial idea looked like
+relative to where you are today well so
+my sophomore year at Harvard when when I
+first built this there's a lot of really
+interesting stuff going on I mean there
+are two primary things that were
+happening it kind of at the same time
+but the first was like any college
+student I just spent a lot of time
+hanging out with my friends where people
+were studying computer science
+psychology the things that I studied
+other stuff and we just spend a lot of
+time talking about what we thought were
+the big issues with the world and how
+the world was gonna change over the next
+five 10 20 years and a lot of cool stuff
+has come out of college conversations
+like that in the past and for us what we
+discussed was that the biggest trend
+that was going on right now was that
+more and more information was becoming
+available right so going back to kind of
+a start of the the internet and
+mainstream when browsers were available
+and since then people have just been
+sharing more and more information and
+that um a lot of that was still being
+shared by a small number of companies or
+content producers but that over time
+people would be sharing more and more
+information themselves and how that
+happened was a really important thing
+right so people care a lot about
+controlling you know information about
+themselves their reputation their
+privacy and there was just kind of a big
+question about whether the world would
+evolve in this way that people would
+have control over that themselves or if
+that information would just be available
+and so that's kind of on the one hand we
+spent like all this time discussing that
+and on the other hand I just built this
+little thing right and you know so kind
+of had those conversations in the back
+of my head but what I was building was
+this application for Harvard students
+6,000 people to share some information
+about themselves and stay connected with
+their friends and family and what we've
+basically just found since then is that
+that application is something that
+almost everyone wants to use right
+everyone has an identity that they want
+to express and friends and family that
+they want
+stay connected with and it's grown from
+that original six thousand persons
+student body to more than 250 million
+people across the world and the cool
+irony in it is now we've actually had an
+opportunity to shape how that first sort
+of big trend that that my friends and I
+discussed five years ago about more
+information being available and people
+having control over their information
+we've now been able to shape a bit how
+that plays out so that's been a really
+fun part of this

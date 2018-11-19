@@ -1,0 +1,605 @@
+Facebook on the defensive again it now
+says no European uses data was shared in
+the privacy scandal which is the reverse
+of what it said before so by the flip
+and will it change anyone's mind this is
+inside story
+hello and welcome to the program
+I'm Peter Dhabi now Facebook says no
+European uses information may have been
+shared with the UK firm at the centre of
+the privacy scandal after all but at
+their hearing the social media networks
+executives said they still had to
+conduct an internal audit to confirm
+that Facebook had previously said data
+from up to 2.7 million
+EU users had been improperly shared with
+Cambridge analytic ah that's the firm
+reportedly hired to influence Britain's
+brexit referendum and the u.s. election
+campaign that saw Donald Trump getting
+into the White House the Facebook
+founder Mark Zuckerberg has apologized
+and pledged to apply new European data
+protection rules globally but has that
+happened yet well that's the key
+question for our guest in just a moment
+before we get to their discussion
+here's a reminder of how the Facebook
+scandal unfolded on March the 17th
+millions of Facebook users woke up to
+the news that their personal information
+had been acquired by the data company
+Cambridge analytic ah the revelations
+coming from the co-founder of the
+uk-based company a man called
+Christopher Wiley the data was
+reportedly sold to Cambridge analytical
+and used for political purposes linked
+the 2016 US presidential election
+campaign and also the brexit campaign
+the company said the data was destroyed
+in 2015 but there were reports not all
+of it was actually deleted Facebook then
+confirmed that up to 87 million users
+details may have been improperly shared
+it all goes back to 2014 when 270
+thousand users took an online
+personality survey via a third-party
+quiz this gave access not only to their
+Facebook information but to that of
+their friends facebook says it was a
+violation of company policy okay let's
+get going let's bring in our guests
+joining us here on inside story from
+Palo Alto California on skype is Larry
+Majeed CEO of connect safely org that's
+an Internet safety and privacy and
+security organization in London NIST
+ancestry senior lecturer in the
+Department of Informatics at King's
+College London and joining us from
+Brussels on skype
+even
+keilly a member of the European
+Parliament and the chair of the
+Parliament Science and Technology
+options Assessment a warm welcome to you
+all
+let's just talk to you first miss
+ancestry in London what does this mean
+for the people who thought their data
+had been accessed well it basically
+means that their their details have not
+been revealed to some rogue company so
+it's good news for these people but it's
+not so good news still for the US
+citizens and others whose data has been
+leaked to Cambridge Latika and Larry
+Majeed in California does this mean that
+people trust Facebook less or more than
+they did back in May when the scandal
+broke I doubt if it has much impact on
+people's trust of Facebook and as it was
+said it's good that Europe may not have
+been impacted and the way the US was but
+it's still a big issue in the US and I
+must say that the victim they're not
+just those whose information was taken
+but everybody who believes in democracy
+whose vote may not have been counted in
+the way or maybe it was counted but who
+met whose election outcomes may have
+been influenced as a result of this and
+other campaigns IVA Kylie in Brussels
+the scope of the gdpr does that go far
+enough because that basically means that
+people that you click on I accept with
+they have to tell you they have to
+confess and say no your information will
+or will not go to other people first let
+me say that at least gdpr arrived maybe
+but it's there and it can create some
+global standards on how we treat data so
+this means people citizens have now the
+option to control their data they can
+take them away they can ask for
+transparency with what is happening with
+their data and basically they can choose
+if they should deny or allow access to
+this data so I think giving them back
+control is the first thing that happened
+but because innovation is happening
+really fast I still believe
+improve typically I'll to add more
+requirements more options to the
+citizens to be able to understand who
+the third parties are who you're sharing
+your data with and to explain of course
+the consequences in holding that even a
+grandparent will understand that they
+are familiar no technology will use
+Facebook but they can understand the
+small letters and they don't know
+exactly what the data are being their
+help and how they can be misused so we
+want to improve that we have more
+legislation coming but I think the main
+principles are set out with gbbr okay
+Larry Majeed back in California but
+Facebook is promising an internal audit
+what are the key questions for you that
+it has to address well I think the main
+question is are there systems in place
+today that could prevent this type of
+thing from happening again
+have they a tightened up sufficiently
+the access that their third-party
+developers have to the data and also
+have they increased their own
+surveillance techniques and advice
+surveillance I don't mean spying on
+people but the ability to surveil the
+apps that they know that these things
+can't happen again so they have to have
+very robust systems with their software
+and their servers to prevent these types
+of things from happening in the future
+aniss ancestry in London I mean people
+users and politicians they were
+frustrated I guess by the reality of the
+revelations but also by Facebook's
+reaction to other people's reaction to
+the revelation surely yeah so I guess
+the part of the predicament is that we
+have all started to use Facebook in such
+December in such deep ways in our daily
+lives that we feel as if we are betrayed
+by these kind of revelations that
+somebody that you trusted with sort of
+the basic bits of your life has now
+given away that data to someone else now
+so it should be made clear that Facebook
+has been tightening up
+and has cleaned up after itself in quite
+significant ways but it still feels as
+though they could be doing a little bit
+more it also feels like they have
+already given away some amount of data
+and that's part of the frustration and I
+think this is this is also in some ways
+normal in the sense that the technology
+is evolving very fast as as I was saying
+and in many of the tech companies are
+putting up new functionalities before
+completely realizing what the
+consequences of these are and so it's
+it's a consequences of the evolving
+landscape that we have here eva is that
+part of the problem in your last answer
+you were talking about more legislation
+still to come but unless the legislation
+chimes perfectly with where the
+technology is going people like yourself
+the European MEP is you're always going
+to be playing catch-up well that's true
+because you know patient cannot follow
+the rules innovation takes place by
+thinking out of the box so we have to
+move fast but we cannot move faster
+because then we could block innovation
+what I can say is that you know there
+not to happen again we have to make sure
+that people understand their perception
+can be manipulated by the newsfeed so
+this is not about fake news it's about
+the content that you see so if you see a
+lot of happy content called scary
+content this could change your mood this
+could affect your options and your
+choices unless you educate people to
+understand what they are seeing and make
+sure that by default the newsfeed is not
+being manipulated in order to target
+specific advertisement that takes
+advantage of your religion or your
+political beliefs or your sex
+orientation that sexual orientation then
+I I think we're gonna still be left
+behind because we haven't understood
+exactly identified the main problem
+which was the manipulation of the
+perception to create uncertainty and
+need people to hold with a different
+understanding of the world or a
+different list of some other people so
+they they see a different content and I
+think that's why I mentioned we should
+move
+we should understand the technology and
+try to set up the right principles there
+in order to be full control to the
+citizens and allow them to use the
+applications but not already use their
+data to make profits and them and then
+this could lead to discrimination this
+could lead to any kind of consequences
+that we as politicians have to protect
+them from Larry Majeed in California it
+would appear to me that these 2.7
+million Europeans are safe they are home
+and dry when it comes to their data what
+they will how they will react to say
+advertising how they will react to echo
+chamber conversations but that's just
+2.7 million Europeans there are surely
+other Europeans who were in the United
+States say when this was all going on so
+how do you come up with global
+legislation such as the legislation that
+IVA is involved with to make everyone
+that uses Facebook as safe as these 2.7
+million Europeans well first of all I
+want to make a general comment about
+legislation I certainly agree with the
+conduct common even made about
+principles but it's very difficult for
+regulators to micromanage companies what
+we need are principles that can last for
+potentially decades about privacy and
+security that are independent of the
+specific technologies because
+technologies will change very quickly
+but general principles can can last for
+a long time as per global regulations
+well the good news is that the GDP are
+even though it only affects Europe
+actually is having an impact globally
+because some of these companies at least
+are trying to apply GDP are on an
+international level because it's
+actually easier for them to have one set
+of rules for the entire population than
+to have to break it down country by
+country and the same is true for example
+with the Children's Online Privacy
+Protection Act in the United States it
+doesn't affect directly any other
+country but most of the Internet service
+providers have complied complied with it
+globally so I think that we're all
+benefitting through gdpr but having said
+that I know there will continue to be
+discussions in Washington about ways the
+US can tighten our prime
+see laws that's inevitable I think Mark
+Zuckerberg realizes it his goal I think
+is to try to make it so it it doesn't
+hurt his business but they all know it's
+coming and I think Europe set the pace
+about the entire world miss Anthony it
+may sound like a slightly idiotic
+question but is there anything that one
+can do to make oneself safer here mean
+when this scandal broke 1.8 million
+Australians deleted their accounts but
+off the back of that we discovered that
+66% of Facebook users don't know how to
+set their privacy settings and if you
+look at the Facebook screen even if you
+want to log off your account
+eva's nodding she's already gone through
+the same process if you want to log off
+your account you have to go to that
+small triangle top right hand side and
+if you're on your iPad or your iPhone
+it's difficult so you maybe still leave
+yourself logged in even more and at the
+end of the day Mark Zuckerberg surely
+innocent wants you to be logged in for
+as long as possible because Facebook is
+a multi-billion dollar company and he
+wants to monetize you a user as a
+resource
+sure I mean so just to the last point
+about as being the product that is
+certainly the case today and with
+legislation such as gdpr and other
+things that that proposition is sort of
+drying up a little bit right so it's a
+it presumably in the near future we're
+gonna start seeing new business models
+for new Internet companies or even for
+old internet companies to reinvent
+themselves such that we are not the
+product but rather the service they're
+offering is the product as it should be
+but going back again to what you are
+saying yes it is extremely difficult
+today for even a well-informed user so
+one of the things that I've been trying
+to do since gdpr is every new website
+that I visit I make sure to see what
+their policy is and what kind of cookies
+are they storing on me and so forth so
+this is information that I could have
+figured out before but was not so easy
+to figure out before and now a new sort
+of a pop-up comes up for me that says
+are you okay that I'm collecting
+such-and-such cookies and I go through
+and figure out what the cookies are and
+it is a tedious process it's actually a
+doing my work because I'm no longer able
+to browse in the same way same seamless
+way that I used to before right so even
+with things like consent that doesn't
+necessarily go far enough in preserving
+the same kind of browsing experience
+that we used to have before and and
+again so this is this is because of the
+advertising based business model that we
+have and it's also because with social
+platforms it becomes even more difficult
+to think about what does privacy mean so
+if I give access to the entire world to
+see a photograph of me and my friends
+would my friends who happen to be in the
+picture be ok with that how do they
+prevent that from happening if they're
+not ok with that so this these are
+difficult thorny questions and somehow
+Zuckerberg and Co have to figure out
+ways around this and they are they are
+going forward but not not quickly enough
+ok IVA Kylie in Brussels
+I mean still surely it's the case
+Facebook doesn't seem to want to admit
+or concede what it actually is it's not
+some some organization at the vanguard
+of freedom is it a news organization is
+that a broadcaster is it I've used the
+phrase before on the show an echo
+chamber for people's your friends
+opinions and you know other broadcasters
+other publishers are monitored people do
+monitor them because they've got to
+because there are legal issues to do
+with that and yet Facebook wants to
+still be above all that perhaps well for
+social platforms and their
+responsibilities to businesses
+especially is now here in the European
+Union so I'm gonna work on this file and
+I will try to make sure that our at
+least citizens are safe and they
+understand how these platforms use their
+data but also businesses to be able to
+use the applications but with clear
+rules and that's one thing gdpr was
+important because as you mentioned these
+cannot fix the old definitions what what
+Facebook and other platforms are in
+something
+I would like the world and consisted of
+different services actually and we have
+to adapt our legislation to what they
+offer so mainly as I said we have to
+make sure that it grants not threaten
+the explenation is as easy for everyone
+to understand as it could be for
+somebody that uses for the first time
+they will like so we have to make sure
+that it's clear and that you have many
+options so to be able to say yes I want
+to use this application I can use the
+minimum of it because I want to use it
+but the rest of my data either I share
+with you because I know you're gonna use
+it or good for science or hands or I'm
+gonna send them to you but no you may
+not and access without my knowledge and
+my control and also to be able to deny
+access to third parties because your
+insurance company and if you go to
+search a chronic disease maybe you're
+excluded and suddenly even why it be
+discriminated and you don't even know
+why so basically we have to establish
+specific rules of which kind of data and
+are sensitive and private and should not
+be news and then to give more options to
+the citizens so are the platforms the
+platforms are ready to follow the rules
+once we are sure and certain that we
+will ask them to so for me I really
+don't have a lot of work to do and since
+there are no borders on the internet
+like we saw with gbbr if you want to
+work in Europe and most of the big
+companies actually do want to offer the
+services here they have to comply we
+have the right to be forgotten and we
+have the right information we have the
+right to privacy and we have to find
+this new balance between the rights that
+we have so it's an ongoing process but
+mainly we have to learn from what
+happened and make sure that people we
+will not be manipulated especially in
+sensitive issues like political
+decisions and we initially understood
+understood
+I just want to boil that point down for
+a second and put that too lairy Majeed
+in California Larry clearly the essence
+of what we're discussing here when it
+comes to these 2.7 million people in
+Europe is pushback but how do you strike
+the balance I mean it is faintly
+ridiculous because for example the
+Chicago Tribune
+website a perfectly reputable newspaper
+website you can't see it in Europe then
+you put up a VPN and you can see it in
+Europe I mean how does that work well
+first of all I got on the Facebook
+safety advisory board for a number of
+years or so far and these conversations
+come up all the time and I just want to
+make it clear that often it's nuanced
+for example I agree that there should be
+a lot of privacy controls but the more
+privacy controls you add the more
+complicated they become so there's a
+trade-off between simplicity and control
+and I'm not suggesting that Facebook
+couldn't do a better job I know they
+could but but these are things at
+Facebook and their advisors have been
+struggling with for years I also want to
+point out that consumer education is
+critical you can have the safest
+platform in the world but if people
+aren't using it in a safe way then their
+information is going to be getting into
+the wrong hands
+because ultimately social media is about
+sharing and the question isn't whether
+we share our information I wouldn't have
+any use for Facebook if I weren't using
+it to reach out to my friends and share
+information the question is how do we
+keep control over our information yet
+still have the ability to share it and
+with that freedom to share means we have
+the freedom to go too far if we're not
+careful so it's a it's a balance the
+government has a role obviously industry
+has a role but the rest of us have a
+role and that's where I think consumer
+education is so important this enth in
+London using social media and trusting
+it without question of those days now
+gone I think you'll find that there are
+people who have very very different
+conceptions of what privacy means and
+what privacy means to them there are
+still a number of people who don't care
+that much about their privacy oftentimes
+the argument that you hear being made is
+I don't have anything to hide so why do
+I need to care about privacy there are
+others who are privacy extremists and
+who might you know go to great lengths
+to keep themselves private from from
+from these big huge companies right so
+given the spectrum of different kinds of
+users that there are there's not going
+to be a single right balance
+and which is why you need users to have
+more control over exactly how their data
+is being stored and what are the
+services that are being offered in
+return for or in exchange for a certain
+lack of privacy the fact that a website
+can be can be tailored to your needs can
+be tailored to the way you want it to
+look and the functionality that you want
+it to be there is necessarily intense a
+loss of privacy the website needs to
+know a bit more about you and login
+details and so forth so but maybe others
+don't actually want that they could have
+a much more generic looking website
+without actually having to login and so
+this this is the kind of balance where
+users need to exercise control but on
+the other hand if you give too much
+control as the previous speaker was
+saying it could end up being decision
+fatigue if each website as I am doing
+now if each website I need to go in and
+look and see what cookies are there what
+quick cookies do I need to allow what am
+i comfortable with doing that actually
+is a huge mental and cognitive load
+which takes away from the rich
+experience that we get from browsing the
+internet and from getting all the
+information that you've been getting and
+the way our lives have been transformed
+so it's a very very delicate line and I
+don't envy the job that the legislators
+have whether in Europe or outside but
+it's it's something where we need to
+think beyond these knee-jerk reactions
+200km general attica happens so how do
+we prevent that from happening
+sure k.michelle urtica is not gonna
+happen yet again something else is gonna
+happen so you need to come up with
+broader principles broader further
+things which which last the test of time
+and work for all these different people
+and there are different conceptions of
+privacy and their different needs even
+in the context of that decision fatigue
+that nisith is talking about they're out
+of London is what is what we're seeing a
+birthing pain for Facebook and if
+Facebook is reinventing itself can it
+reinvent itself with Mark Zuckerberg at
+the top well basically as I said when
+you have the principles then they saw
+that they will follow these principles
+once we have them up there and
+on what we ask and let me say also that
+we are these days voting also for
+copyrights this means there will be an
+obligation for the big platforms on like
+YouTube to pay the users of the content
+or the copyrights in a more direct and
+transparent way so also the journalists
+whoever provides content so we are
+slowly slowly building up a very
+concrete installation based on
+principles that will allow freedom of
+thing okay Eva I'm going to interrupt
+you there which I apologize last word to
+Larry in California
+clearly Larry this is the starting point
+for where social media is going what's
+the end point that we're going to get to
+well ideally the end point you that
+people are gonna feel comfortable like
+they get control their own social media
+they have complete transparency of where
+their data Eve and who have access to it
+and they can enjoy sharing with the
+education and the knowledge that they
+need to limit what they share if they
+want privacy but at the same time they
+can take advantage of all the great
+features that social media offers okay
+thank you all very much for your time
+today here on Inside Story thanks to our
+guests Larry Majeed in California
+innocence a story who joined us from
+London and Eva Kiley who joined us out
+of Brussels and thank you to you too for
+watching the program over the past half
+hour you can see the show again anytime
+on the web site aljazeera.com and for
+further discussion to check out our
+Facebook page that's facebook.com
+forward slash AJ Inside Story you can
+also join the conversation on twitter
+our handle is @h a inside story or tweet
+me i'll tweet you back i'm pat peter
+dobby one from me Peter Dhabi and
+everyone on the team here in Doha thanks
+for watching we'll see you soon
+you
+you

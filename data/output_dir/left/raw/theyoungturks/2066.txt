@@ -1,0 +1,948 @@
+1
+00:00:00,030 --> 00:00:01,740
+researchers<font color="#E5E5E5"> for from Stanford University</font>
+
+2
+00:00:01,740 --> 00:00:05,910
+<font color="#CCCCCC">looked</font><font color="#E5E5E5"> into a possible cancer vaccine</font>
+
+3
+00:00:05,910 --> 00:00:08,610
+<font color="#CCCCCC">and through their clinical trials on</font>
+
+4
+00:00:08,610 --> 00:00:10,650
+mice found that the vaccine is
+
+5
+00:00:10,650 --> 00:00:12,780
+<font color="#E5E5E5">incredibly effective</font><font color="#CCCCCC"> and they're</font>
+
+6
+00:00:12,780 --> 00:00:14,849
+<font color="#E5E5E5">planning on testing the</font><font color="#CCCCCC"> vaccine on</font>
+
+7
+00:00:14,849 --> 00:00:17,750
+humans very soon<font color="#CCCCCC"> now</font><font color="#E5E5E5"> the treatment</font>
+
+8
+00:00:17,750 --> 00:00:20,580
+<font color="#E5E5E5">stimulates the body's immune system to</font>
+
+9
+00:00:20,580 --> 00:00:23,130
+<font color="#CCCCCC">attack cancer cells</font><font color="#E5E5E5"> in studies in mice</font>
+
+10
+00:00:23,130 --> 00:00:25,279
+with various cancers including lymphoma
+
+11
+00:00:25,279 --> 00:00:28,349
+<font color="#CCCCCC">breast cancer</font><font color="#E5E5E5"> and colon</font><font color="#CCCCCC"> cancer the</font>
+
+12
+00:00:28,349 --> 00:00:30,510
+treatment<font color="#E5E5E5"> eliminated cancer tumors in</font>
+
+13
+00:00:30,510 --> 00:00:33,000
+eighty seven out of nine team ice<font color="#E5E5E5"> even</font>
+
+14
+00:00:33,000 --> 00:00:34,739
+<font color="#CCCCCC">when the tumors had spread to</font><font color="#E5E5E5"> other</font>
+
+15
+00:00:34,739 --> 00:00:36,030
+parts<font color="#CCCCCC"> of the body</font>
+
+16
+00:00:36,030 --> 00:00:38,640
+now the word<font color="#E5E5E5"> vaccine is being used by</font>
+
+17
+00:00:38,640 --> 00:00:41,460
+the researchers here but<font color="#E5E5E5"> this treatment</font>
+
+18
+00:00:41,460 --> 00:00:44,879
+works differently from traditional
+
+19
+00:00:44,879 --> 00:00:47,160
+vaccines<font color="#E5E5E5"> now traditionally vaccines</font>
+
+20
+00:00:47,160 --> 00:00:51,180
+prevent<font color="#E5E5E5"> diseases in this case the cancer</font>
+
+21
+00:00:51,180 --> 00:00:54,899
+already<font color="#E5E5E5"> exists however the treatment is</font>
+
+22
+00:00:54,899 --> 00:00:57,420
+injected into<font color="#E5E5E5"> the</font><font color="#CCCCCC"> tumor and it</font>
+
+23
+00:00:57,420 --> 00:01:00,300
+strengthens the<font color="#E5E5E5"> immune system to</font><font color="#CCCCCC"> help</font>
+
+24
+00:01:00,300 --> 00:01:03,210
+the body<font color="#CCCCCC"> fight</font><font color="#E5E5E5"> the cancer</font><font color="#CCCCCC"> and not only</font>
+
+25
+00:01:03,210 --> 00:01:05,489
+that<font color="#E5E5E5"> tumor but all other tumors that</font>
+
+26
+00:01:05,489 --> 00:01:06,930
+have spread<font color="#CCCCCC"> to the rest</font><font color="#E5E5E5"> of that</font>
+
+27
+00:01:06,930 --> 00:01:09,299
+<font color="#CCCCCC">individual's</font><font color="#E5E5E5"> body so researchers from</font>
+
+28
+00:01:09,299 --> 00:01:11,250
+Stanford will test the therapy in about
+
+29
+00:01:11,250 --> 00:01:14,159
+<font color="#E5E5E5">35</font><font color="#CCCCCC"> people with lymphoma by the end of</font>
+
+30
+00:01:14,159 --> 00:01:16,170
+<font color="#E5E5E5">the year so let's get into the</font><font color="#CCCCCC"> Nitty</font>
+
+31
+00:01:16,170 --> 00:01:18,360
+<font color="#CCCCCC">Gritty of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> science and how this</font>
+
+32
+00:01:18,360 --> 00:01:20,759
+<font color="#E5E5E5">treatment works the treatment contains a</font>
+
+33
+00:01:20,759 --> 00:01:23,369
+combination<font color="#CCCCCC"> of two agents</font><font color="#E5E5E5"> that stimulate</font>
+
+34
+00:01:23,369 --> 00:01:26,280
+<font color="#E5E5E5">t-cells</font><font color="#CCCCCC"> a type of</font><font color="#E5E5E5"> immune cell to attack</font>
+
+35
+00:01:26,280 --> 00:01:28,500
+cancer<font color="#E5E5E5"> normally the body's</font><font color="#CCCCCC"> t-cells</font>
+
+36
+00:01:28,500 --> 00:01:31,439
+<font color="#CCCCCC">recognize cancer cells as abnormal and</font>
+
+37
+00:01:31,439 --> 00:01:34,380
+will<font color="#CCCCCC"> infiltrate and attack them</font><font color="#E5E5E5"> but as a</font>
+
+38
+00:01:34,380 --> 00:01:36,659
+tumor grows it<font color="#E5E5E5"> suppresses the activity</font>
+
+39
+00:01:36,659 --> 00:01:38,790
+of the<font color="#E5E5E5"> t-cells so that these cells can</font>
+
+40
+00:01:38,790 --> 00:01:41,759
+<font color="#CCCCCC">no longer keep the cancer at bay</font><font color="#E5E5E5"> but</font>
+
+41
+00:01:41,759 --> 00:01:44,310
+this treatment would essentially<font color="#E5E5E5"> empower</font>
+
+42
+00:01:44,310 --> 00:01:46,470
+those t-cells<font color="#E5E5E5"> to keep fighting</font>
+
+43
+00:01:46,470 --> 00:01:48,479
+researchers inject the vaccine directly
+
+44
+00:01:48,479 --> 00:01:50,729
+into the tumor<font color="#CCCCCC"> the two agents</font><font color="#E5E5E5"> in the</font>
+
+45
+00:01:50,729 --> 00:01:53,130
+treatment<font color="#E5E5E5"> work synergistically</font><font color="#CCCCCC"> in</font>
+
+46
+00:01:53,130 --> 00:01:56,040
+<font color="#E5E5E5">attacking that's</font><font color="#CCCCCC"> t-cells because these</font>
+
+47
+00:01:56,040 --> 00:01:58,200
+<font color="#CCCCCC">t-cells</font><font color="#E5E5E5"> were already inside</font><font color="#CCCCCC"> the tumors</font>
+
+48
+00:01:58,200 --> 00:02:00,270
+<font color="#E5E5E5">they have essentially been pre-screened</font>
+
+49
+00:02:00,270 --> 00:02:04,020
+<font color="#E5E5E5">by the body to</font><font color="#CCCCCC"> recognize cancer specific</font>
+
+50
+00:02:04,020 --> 00:02:07,230
+proteins<font color="#E5E5E5"> and so again it has</font>
+
+51
+00:02:07,230 --> 00:02:11,240
+been rather<font color="#CCCCCC"> successful in these trials</font>
+
+52
+00:02:11,240 --> 00:02:14,340
+<font color="#E5E5E5">involving mice but there have</font><font color="#CCCCCC"> been other</font>
+
+53
+00:02:14,340 --> 00:02:17,820
+trials using<font color="#E5E5E5"> other treatments that have</font>
+
+54
+00:02:17,820 --> 00:02:19,410
+<font color="#E5E5E5">been successful with mice but it didn't</font>
+
+55
+00:02:19,410 --> 00:02:22,830
+transfer to humans<font color="#CCCCCC"> so</font><font color="#E5E5E5"> hopefully this</font>
+
+56
+00:02:22,830 --> 00:02:24,690
+<font color="#E5E5E5">will be successful in trials involving</font>
+
+57
+00:02:24,690 --> 00:02:27,300
+humans<font color="#E5E5E5"> but we'll see it's kind of</font><font color="#CCCCCC"> early</font>
+
+58
+00:02:27,300 --> 00:02:29,040
+but<font color="#CCCCCC"> it is still</font><font color="#E5E5E5"> it's fine to be</font>
+
+59
+00:02:29,040 --> 00:02:30,540
+optimistic<font color="#E5E5E5"> it's always good to be</font>
+
+60
+00:02:30,540 --> 00:02:31,650
+optimistic<font color="#E5E5E5"> about this what I think is</font>
+
+61
+00:02:31,650 --> 00:02:33,600
+interesting is<font color="#E5E5E5"> that a vaccine I usually</font>
+
+62
+00:02:33,600 --> 00:02:35,490
+think<font color="#E5E5E5"> of as</font><font color="#CCCCCC"> preventative and this is a</font>
+
+63
+00:02:35,490 --> 00:02:37,290
+little bit more reactionary which is
+
+64
+00:02:37,290 --> 00:02:39,810
+fine but it's<font color="#E5E5E5"> just interesting to see</font>
+
+65
+00:02:39,810 --> 00:02:42,710
+how we're developing<font color="#CCCCCC"> the technology and</font>
+
+66
+00:02:42,710 --> 00:02:45,990
+<font color="#E5E5E5">the medicinal science to deal with</font>
+
+67
+00:02:45,990 --> 00:02:47,760
+cancer<font color="#E5E5E5"> and it's probably</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> going to be</font>
+
+68
+00:02:47,760 --> 00:02:49,260
+the way<font color="#CCCCCC"> that I would have</font><font color="#E5E5E5"> expected I</font>
+
+69
+00:02:49,260 --> 00:02:50,220
+sort of<font color="#E5E5E5"> thought</font><font color="#CCCCCC"> that within my lifetime</font>
+
+70
+00:02:50,220 --> 00:02:52,680
+<font color="#CCCCCC">we would maybe have some sort of a</font>
+
+71
+00:02:52,680 --> 00:02:56,490
+vaccine or<font color="#E5E5E5"> something and perhaps it if</font>
+
+72
+00:02:56,490 --> 00:02:57,840
+this goes through then you would<font color="#CCCCCC"> sort of</font>
+
+73
+00:02:57,840 --> 00:02:59,400
+<font color="#E5E5E5">have to contract cancer first and then</font>
+
+74
+00:02:59,400 --> 00:03:01,080
+you can deal with<font color="#E5E5E5"> it so we'll</font><font color="#CCCCCC"> see how</font>
+
+75
+00:03:01,080 --> 00:03:02,400
+this<font color="#E5E5E5"> rolls out</font><font color="#CCCCCC"> there's</font><font color="#E5E5E5"> so many different</font>
+
+76
+00:03:02,400 --> 00:03:03,990
+kinds<font color="#CCCCCC"> of cancers and it's happening</font><font color="#E5E5E5"> at a</font>
+
+77
+00:03:03,990 --> 00:03:05,670
+cellular<font color="#CCCCCC"> level and cells begin to</font>
+
+78
+00:03:05,670 --> 00:03:07,710
+<font color="#CCCCCC">misfire and</font><font color="#E5E5E5"> so it involves a lot</font><font color="#CCCCCC"> of</font>
+
+79
+00:03:07,710 --> 00:03:09,960
+<font color="#E5E5E5">different biological systems so I</font><font color="#CCCCCC"> think</font>
+
+80
+00:03:09,960 --> 00:03:11,010
+that's one of<font color="#E5E5E5"> the reasons it's hard to</font>
+
+81
+00:03:11,010 --> 00:03:12,380
+come up<font color="#E5E5E5"> with you know</font><font color="#CCCCCC"> the cure for</font>
+
+82
+00:03:12,380 --> 00:03:16,560
+<font color="#CCCCCC">cancer in any of our lifetime</font><font color="#E5E5E5"> I've said</font>
+
+83
+00:03:16,560 --> 00:03:18,360
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> before</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> don't approve</font><font color="#E5E5E5"> of the</font><font color="#CCCCCC"> use of</font>
+
+84
+00:03:18,360 --> 00:03:20,190
+<font color="#E5E5E5">animals and any of these experiments</font>
+
+85
+00:03:20,190 --> 00:03:22,350
+it's it's an awful thing<font color="#CCCCCC"> these animals</font>
+
+86
+00:03:22,350 --> 00:03:23,880
+suffer and<font color="#E5E5E5"> they're tortured and then</font>
+
+87
+00:03:23,880 --> 00:03:25,530
+<font color="#E5E5E5">they're destroyed which means killed at</font>
+
+88
+00:03:25,530 --> 00:03:27,870
+the end<font color="#E5E5E5"> of this and then to what Anna</font>
+
+89
+00:03:27,870 --> 00:03:31,080
+says it's not an accurate predictor<font color="#E5E5E5"> of</font>
+
+90
+00:03:31,080 --> 00:03:33,390
+what will<font color="#CCCCCC"> happen with people the</font><font color="#E5E5E5"> only</font>
+
+91
+00:03:33,390 --> 00:03:35,400
+way you can<font color="#CCCCCC"> actually do this is with</font>
+
+92
+00:03:35,400 --> 00:03:37,260
+double-blind studies with human beings
+
+93
+00:03:37,260 --> 00:03:41,220
+<font color="#E5E5E5">because in overwhelming cases it's not a</font>
+
+94
+00:03:41,220 --> 00:03:43,800
+predictor it doesn't<font color="#CCCCCC"> show the indication</font>
+
+95
+00:03:43,800 --> 00:03:45,360
+again I<font color="#E5E5E5"> don't mean</font><font color="#CCCCCC"> to rain</font><font color="#E5E5E5"> on the parade</font>
+
+96
+00:03:45,360 --> 00:03:47,910
+<font color="#E5E5E5">this might be a great drug but</font><font color="#CCCCCC"> the only</font>
+
+97
+00:03:47,910 --> 00:03:49,620
+way we'll<font color="#CCCCCC"> know is the</font><font color="#E5E5E5"> next step</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> Anna</font>
+
+98
+00:03:49,620 --> 00:03:51,390
+says when they do the double-blind<font color="#E5E5E5"> study</font>
+
+99
+00:03:51,390 --> 00:03:55,709
+in humans with<font color="#E5E5E5"> tumors so it hopefully is</font>
+
+100
+00:03:55,709 --> 00:03:57,510
+good news and as you say might be<font color="#CCCCCC"> the</font>
+
+101
+00:03:57,510 --> 00:03:59,489
+beginning<font color="#CCCCCC"> of a real</font><font color="#E5E5E5"> process of treating</font>
+
+102
+00:03:59,489 --> 00:04:00,930
+<font color="#CCCCCC">cancer we certainly</font><font color="#E5E5E5"> come up with</font>
+
+103
+00:04:00,930 --> 00:04:02,040
+<font color="#E5E5E5">different ways</font><font color="#CCCCCC"> to treat it in our</font>
+
+104
+00:04:02,040 --> 00:04:04,560
+lifetime<font color="#CCCCCC"> but</font><font color="#E5E5E5"> that's it's totally</font>
+
+105
+00:04:04,560 --> 00:04:07,470
+<font color="#CCCCCC">different you know my my</font><font color="#E5E5E5"> fiance's</font>
+
+106
+00:04:07,470 --> 00:04:10,680
+grandmother and my<font color="#CCCCCC"> fiance's mother both</font>
+
+107
+00:04:10,680 --> 00:04:13,320
+<font color="#E5E5E5">had breast cancer and it's interesting</font>
+
+108
+00:04:13,320 --> 00:04:14,700
+so that's<font color="#E5E5E5"> obviously</font><font color="#CCCCCC"> something</font><font color="#E5E5E5"> in their</font>
+
+109
+00:04:14,700 --> 00:04:16,589
+in their gene pool<font color="#CCCCCC"> and the treatments</font>
+
+110
+00:04:16,589 --> 00:04:17,180
+<font color="#CCCCCC">that they want</font>
+
+111
+00:04:17,180 --> 00:04:19,699
+just but generationally have improved
+
+112
+00:04:19,699 --> 00:04:21,738
+vastly<font color="#E5E5E5"> and so there there's a lot to</font><font color="#CCCCCC"> be</font>
+
+113
+00:04:21,738 --> 00:04:24,440
+encouraged<font color="#CCCCCC"> about</font><font color="#E5E5E5"> but obviously</font><font color="#CCCCCC"> we're</font>
+
+114
+00:04:24,440 --> 00:04:27,050
+still<font color="#E5E5E5"> a ways away</font><font color="#CCCCCC"> so I wanted</font><font color="#E5E5E5"> to jump in</font>
+
+115
+00:04:27,050 --> 00:04:29,330
+on what Mark<font color="#CCCCCC"> was saying</font><font color="#E5E5E5"> because there</font>
+
+116
+00:04:29,330 --> 00:04:31,699
+was a story recently that unfortunately
+
+117
+00:04:31,699 --> 00:04:33,949
+we didn't get to on the<font color="#E5E5E5"> show regarding</font>
+
+118
+00:04:33,949 --> 00:04:37,850
+how members of<font color="#E5E5E5"> the right</font><font color="#CCCCCC"> right-wing</font>
+
+119
+00:04:37,850 --> 00:04:41,570
+lawmakers<font color="#E5E5E5"> were pushing</font><font color="#CCCCCC"> for legislation</font>
+
+120
+00:04:41,570 --> 00:04:45,380
+<font color="#E5E5E5">that would allow people with cancer and</font>
+
+121
+00:04:45,380 --> 00:04:48,770
+<font color="#E5E5E5">other illnesses</font><font color="#CCCCCC"> to opt in to treatments</font>
+
+122
+00:04:48,770 --> 00:04:50,570
+<font color="#E5E5E5">that haven't</font><font color="#CCCCCC"> been approved</font><font color="#E5E5E5"> by the FDA</font>
+
+123
+00:04:50,570 --> 00:04:54,039
+<font color="#E5E5E5">yet so they would be you know trial type</font>
+
+124
+00:04:54,039 --> 00:04:56,599
+situations and I don't<font color="#E5E5E5"> know why it is</font>
+
+125
+00:04:56,599 --> 00:04:59,180
+<font color="#CCCCCC">but members of</font><font color="#E5E5E5"> the left aren't</font>
+
+126
+00:04:59,180 --> 00:05:01,250
+necessarily in favor<font color="#CCCCCC"> of that</font><font color="#E5E5E5"> and I think</font>
+
+127
+00:05:01,250 --> 00:05:02,750
+part of the<font color="#CCCCCC"> reason why these clinical</font>
+
+128
+00:05:02,750 --> 00:05:05,120
+trials begin with mice is because of
+
+129
+00:05:05,120 --> 00:05:06,970
+some of<font color="#CCCCCC"> those regulatory</font><font color="#E5E5E5"> restrictions</font>
+
+130
+00:05:06,970 --> 00:05:10,970
+<font color="#CCCCCC">I'm a firm</font><font color="#E5E5E5"> ly believe that as humans we</font>
+
+131
+00:05:10,970 --> 00:05:13,789
+<font color="#CCCCCC">should have complete say over our own</font>
+
+132
+00:05:13,789 --> 00:05:15,919
+bodies<font color="#CCCCCC"> and what we do to our own bodies</font>
+
+133
+00:05:15,919 --> 00:05:17,539
+as long as we're<font color="#CCCCCC"> not harming</font><font color="#E5E5E5"> anyone else</font>
+
+134
+00:05:17,539 --> 00:05:19,520
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> if someone has a terminal illness or</font>
+
+135
+00:05:19,520 --> 00:05:21,650
+<font color="#E5E5E5">something as serious as cancer</font><font color="#CCCCCC"> I think</font>
+
+136
+00:05:21,650 --> 00:05:23,360
+he or she should<font color="#CCCCCC"> have the ability to</font>
+
+137
+00:05:23,360 --> 00:05:25,010
+make a<font color="#E5E5E5"> decision as to whether or</font><font color="#CCCCCC"> not</font>
+
+138
+00:05:25,010 --> 00:05:28,070
+they're involved in<font color="#CCCCCC"> in</font><font color="#E5E5E5"> certain trials or</font>
+
+139
+00:05:28,070 --> 00:05:29,409
+certain treatments<font color="#E5E5E5"> that haven't been</font>
+
+140
+00:05:29,409 --> 00:05:32,479
+<font color="#E5E5E5">approved by the FDA yet now with that</font>
+
+141
+00:05:32,479 --> 00:05:36,699
+<font color="#E5E5E5">said there has already been considerable</font>
+
+142
+00:05:36,699 --> 00:05:38,930
+<font color="#E5E5E5">advancements in cancer treatments in</font>
+
+143
+00:05:38,930 --> 00:05:40,370
+other countries something that isn't
+
+144
+00:05:40,370 --> 00:05:41,810
+<font color="#E5E5E5">talked about a lot here in the United</font>
+
+145
+00:05:41,810 --> 00:05:45,080
+States<font color="#CCCCCC"> it's key</font><font color="#E5E5E5"> real in fact there has</font>
+
+146
+00:05:45,080 --> 00:05:49,099
+been some development in treating lung
+
+147
+00:05:49,099 --> 00:05:52,039
+cancer in<font color="#E5E5E5"> Cuba and there have been</font>
+
+148
+00:05:52,039 --> 00:05:53,570
+numerous reports<font color="#CCCCCC"> about this but I just</font>
+
+149
+00:05:53,570 --> 00:05:55,099
+<font color="#E5E5E5">wanted to show you this quick video to</font>
+
+150
+00:05:55,099 --> 00:05:58,009
+<font color="#E5E5E5">give</font><font color="#CCCCCC"> you a little</font><font color="#E5E5E5"> more</font><font color="#CCCCCC"> insight</font><font color="#E5E5E5"> into this</font>
+
+151
+00:05:58,009 --> 00:05:59,060
+treatment<font color="#E5E5E5"> take a look</font>
+
+152
+00:05:59,060 --> 00:06:02,449
+<font color="#CCCCCC">sim effects EGF is a Cuban developed</font>
+
+153
+00:06:02,449 --> 00:06:04,880
+drug<font color="#E5E5E5"> aimed at preventing the recurrence</font>
+
+154
+00:06:04,880 --> 00:06:08,030
+of the disease<font color="#CCCCCC"> Gomez is now back at</font><font color="#E5E5E5"> work</font>
+
+155
+00:06:08,030 --> 00:06:10,340
+<font color="#CCCCCC">and once a month she returns to</font><font color="#E5E5E5"> the</font>
+
+156
+00:06:10,340 --> 00:06:13,280
+<font color="#E5E5E5">hospital</font><font color="#CCCCCC"> for a series of intramuscular</font>
+
+157
+00:06:13,280 --> 00:06:16,490
+injections<font color="#CCCCCC"> my synthoid</font>
+
+158
+00:06:16,490 --> 00:06:19,580
+<font color="#CCCCCC">I feel good I've even</font><font color="#E5E5E5"> gained some weight</font>
+
+159
+00:06:19,580 --> 00:06:21,620
+<font color="#E5E5E5">I've been using the vaccine for two</font>
+
+160
+00:06:21,620 --> 00:06:23,870
+years and<font color="#E5E5E5"> four</font><font color="#CCCCCC"> months</font><font color="#E5E5E5"> now and so</font><font color="#CCCCCC"> far</font><font color="#E5E5E5"> I</font>
+
+161
+00:06:23,870 --> 00:06:26,340
+feel really good my<font color="#CCCCCC"> Cynthia</font>
+
+162
+00:06:26,340 --> 00:06:28,780
+<font color="#CCCCCC">patience still have to complete a</font><font color="#E5E5E5"> course</font>
+
+163
+00:06:28,780 --> 00:06:31,660
+of chemo or<font color="#CCCCCC"> radiotherapy before moving</font>
+
+164
+00:06:31,660 --> 00:06:34,870
+on to<font color="#CCCCCC"> the</font><font color="#E5E5E5"> vaccine there are other lung</font>
+
+165
+00:06:34,870 --> 00:06:36,880
+cancer<font color="#E5E5E5"> fighting drugs which work</font><font color="#CCCCCC"> by</font>
+
+166
+00:06:36,880 --> 00:06:39,460
+<font color="#E5E5E5">attacking the</font><font color="#CCCCCC"> cancer cells</font><font color="#E5E5E5"> what's</font>
+
+167
+00:06:39,460 --> 00:06:41,350
+<font color="#E5E5E5">different about the vaccine is</font><font color="#CCCCCC"> that it</font>
+
+168
+00:06:41,350 --> 00:06:43,870
+<font color="#E5E5E5">helps the body generate its own immune</font>
+
+169
+00:06:43,870 --> 00:06:46,600
+<font color="#CCCCCC">system</font><font color="#E5E5E5"> in a way that starves the cancer</font>
+
+170
+00:06:46,600 --> 00:06:51,010
+and stops it from growing it has
+
+171
+00:06:51,010 --> 00:06:53,110
+revolutionized lung cancer treatment in
+
+172
+00:06:53,110 --> 00:06:54,910
+our country it's a new therapeutic
+
+173
+00:06:54,910 --> 00:06:58,270
+weapon for treating the disease<font color="#E5E5E5"> patients</font>
+
+174
+00:06:58,270 --> 00:07:00,430
+are responding<font color="#E5E5E5"> well and surviving for</font>
+
+175
+00:07:00,430 --> 00:07:02,770
+longer than those<font color="#E5E5E5"> not</font><font color="#CCCCCC"> being treated with</font>
+
+176
+00:07:02,770 --> 00:07:06,580
+it so you know<font color="#E5E5E5"> there again has been some</font>
+
+177
+00:07:06,580 --> 00:07:09,460
+advancements<font color="#E5E5E5"> in Cuba</font><font color="#CCCCCC"> and for all</font><font color="#E5E5E5"> of the</font>
+
+178
+00:07:09,460 --> 00:07:11,020
+<font color="#CCCCCC">fear-mongering that you hear in the</font>
+
+179
+00:07:11,020 --> 00:07:13,450
+United States<font color="#E5E5E5"> regarding Cuba and how</font>
+
+180
+00:07:13,450 --> 00:07:15,669
+Cubans are living they're still<font color="#E5E5E5"> doing an</font>
+
+181
+00:07:15,669 --> 00:07:17,169
+incredible<font color="#CCCCCC"> job when it comes to</font>
+
+182
+00:07:17,169 --> 00:07:20,380
+<font color="#CCCCCC">preventative health care and</font><font color="#E5E5E5"> apparently</font>
+
+183
+00:07:20,380 --> 00:07:22,360
+they've shown some improvement when it
+
+184
+00:07:22,360 --> 00:07:24,280
+comes to<font color="#E5E5E5"> treating diseases such as</font>
+
+185
+00:07:24,280 --> 00:07:26,350
+cancer as<font color="#E5E5E5"> well I can't help but be</font>
+
+186
+00:07:26,350 --> 00:07:27,880
+<font color="#CCCCCC">struck that as we talk about</font><font color="#E5E5E5"> all these</font>
+
+187
+00:07:27,880 --> 00:07:29,260
+different cancer cures and there are
+
+188
+00:07:29,260 --> 00:07:30,640
+breakthroughs and<font color="#E5E5E5"> they're great signs</font>
+
+189
+00:07:30,640 --> 00:07:34,030
+that never talked about<font color="#E5E5E5"> is the cause of</font>
+
+190
+00:07:34,030 --> 00:07:37,300
+cancer<font color="#E5E5E5"> we</font><font color="#CCCCCC"> don't talk enough actually we</font>
+
+191
+00:07:37,300 --> 00:07:40,120
+do talk a bit about<font color="#CCCCCC"> it on TYT</font><font color="#E5E5E5"> but these</font>
+
+192
+00:07:40,120 --> 00:07:41,500
+pollutants that<font color="#E5E5E5"> we referred to</font>
+
+193
+00:07:41,500 --> 00:07:43,780
+<font color="#CCCCCC">particularly in</font><font color="#E5E5E5"> our one the toxification</font>
+
+194
+00:07:43,780 --> 00:07:46,390
+of the air the water the<font color="#E5E5E5"> land and of</font>
+
+195
+00:07:46,390 --> 00:07:48,330
+course the cancer rates<font color="#E5E5E5"> are growing and</font>
+
+196
+00:07:48,330 --> 00:07:51,010
+the treatments<font color="#E5E5E5"> have</font><font color="#CCCCCC"> to grow with them</font>
+
+197
+00:07:51,010 --> 00:07:53,200
+but if if we can have a little<font color="#CCCCCC"> more</font>
+
+198
+00:07:53,200 --> 00:07:55,210
+conversation in this country<font color="#E5E5E5"> about the</font>
+
+199
+00:07:55,210 --> 00:07:57,700
+causes of the cancer instead of<font color="#E5E5E5"> hey</font>
+
+200
+00:07:57,700 --> 00:07:59,560
+different ways to treat the tumor hey<font color="#E5E5E5"> yo</font>
+
+201
+00:07:59,560 --> 00:08:02,140
+my aunt just<font color="#E5E5E5"> got cancer right because</font>
+
+202
+00:08:02,140 --> 00:08:04,690
+we're we're swimming we're<font color="#CCCCCC"> bathing in</font>
+
+203
+00:08:04,690 --> 00:08:06,370
+these carcinogens<font color="#E5E5E5"> every day and it's</font>
+
+204
+00:08:06,370 --> 00:08:07,660
+just<font color="#E5E5E5"> a shame</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> there</font><font color="#CCCCCC"> isn't more talk</font>
+
+205
+00:08:07,660 --> 00:08:09,160
+<font color="#CCCCCC">about those</font><font color="#E5E5E5"> things</font><font color="#CCCCCC"> in our</font><font color="#E5E5E5"> environment</font>
+
+206
+00:08:09,160 --> 00:08:10,890
+<font color="#CCCCCC">that are producing</font><font color="#E5E5E5"> these conditions</font>
+
+207
+00:08:10,890 --> 00:08:13,030
+<font color="#E5E5E5">absolutely and also treatments in other</font>
+
+208
+00:08:13,030 --> 00:08:14,110
+countries<font color="#E5E5E5"> I</font><font color="#CCCCCC"> think that's</font><font color="#E5E5E5"> really</font>
+
+209
+00:08:14,110 --> 00:08:16,570
+important to point out yeah I<font color="#E5E5E5"> mean I I</font>
+
+210
+00:08:16,570 --> 00:08:18,970
+think<font color="#E5E5E5"> that one thing</font><font color="#CCCCCC"> that the US could</font>
+
+211
+00:08:18,970 --> 00:08:22,540
+certainly improve upon is learning<font color="#CCCCCC"> from</font>
+
+212
+00:08:22,540 --> 00:08:24,729
+what other countries<font color="#CCCCCC"> are</font><font color="#E5E5E5"> doing right and</font>
+
+213
+00:08:24,729 --> 00:08:27,040
+<font color="#E5E5E5">oftentimes that has to do with policy</font>
+
+214
+00:08:27,040 --> 00:08:30,040
+<font color="#E5E5E5">right I mean we very rarely look at</font>
+
+215
+00:08:30,040 --> 00:08:31,690
+things like health policy health care
+
+216
+00:08:31,690 --> 00:08:33,849
+policy in other countries and learn from
+
+217
+00:08:33,849 --> 00:08:35,530
+what they're doing<font color="#E5E5E5"> right in fact we'll</font>
+
+218
+00:08:35,530 --> 00:08:36,760
+look at<font color="#CCCCCC"> countries that are doing</font><font color="#E5E5E5"> things</font>
+
+219
+00:08:36,760 --> 00:08:38,860
+<font color="#E5E5E5">right</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> automatically</font>
+
+220
+00:08:38,860 --> 00:08:41,438
+smear<font color="#CCCCCC"> it</font><font color="#E5E5E5"> as our politicians do with</font>
+
+221
+00:08:41,438 --> 00:08:43,719
+universal health<font color="#CCCCCC"> care and in places like</font>
+
+222
+00:08:43,719 --> 00:08:46,600
+Canada for instance<font color="#CCCCCC"> and it's because of</font>
+
+223
+00:08:46,600 --> 00:08:48,009
+<font color="#E5E5E5">the corporate interests that don't want</font>
+
+224
+00:08:48,009 --> 00:08:50,649
+us<font color="#CCCCCC"> to have a better</font><font color="#E5E5E5"> system in place</font><font color="#CCCCCC"> but</font>
+
+225
+00:08:50,649 --> 00:08:53,679
+you know what we saw in Cuba<font color="#E5E5E5"> with that</font>
+
+226
+00:08:53,679 --> 00:08:55,779
+<font color="#E5E5E5">treatment</font><font color="#CCCCCC"> for lung cancer</font><font color="#E5E5E5"> is kind of</font>
+
+227
+00:08:55,779 --> 00:08:58,059
+<font color="#E5E5E5">similar to what researchers are now</font>
+
+228
+00:08:58,059 --> 00:08:59,679
+looking<font color="#E5E5E5"> into here in the United States</font>
+
+229
+00:08:59,679 --> 00:09:03,699
+<font color="#CCCCCC">ways to</font><font color="#E5E5E5"> strengthen and improve the human</font>
+
+230
+00:09:03,699 --> 00:09:05,739
+<font color="#E5E5E5">immune system</font><font color="#CCCCCC"> so it can kind of fight</font>
+
+231
+00:09:05,739 --> 00:09:08,290
+off that cancer and<font color="#CCCCCC"> keep</font><font color="#E5E5E5"> people living</font>
+
+232
+00:09:08,290 --> 00:09:10,449
+longer<font color="#E5E5E5"> lives</font><font color="#CCCCCC"> you just watch the video by</font>
+
+233
+00:09:10,449 --> 00:09:12,369
+<font color="#CCCCCC">the young turks home of the revolution</font>
+
+234
+00:09:12,369 --> 00:09:14,139
+if you'd like<font color="#E5E5E5"> to get a lot</font><font color="#CCCCCC"> more</font><font color="#E5E5E5"> than</font>
+
+235
+00:09:14,139 --> 00:09:16,239
+that<font color="#E5E5E5"> get the full show by becoming a</font>
+
+236
+00:09:16,239 --> 00:09:16,689
+member
+
+237
+00:09:16,689 --> 00:00:00,000
+tea white tea network.com slash<font color="#CCCCCC"> join</font>
+

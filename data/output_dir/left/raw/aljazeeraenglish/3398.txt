@@ -1,0 +1,568 @@
+1
+00:00:01,669 --> 00:00:04,500
+now let's take a<font color="#E5E5E5"> step</font><font color="#CCCCCC"> back for a second</font>
+
+2
+00:00:04,500 --> 00:00:07,410
+<font color="#E5E5E5">and ask who really benefits from 5g well</font>
+
+3
+00:00:07,410 --> 00:00:09,300
+<font color="#CCCCCC">it's closely linked to the survival of</font>
+
+4
+00:00:09,300 --> 00:00:11,880
+the telecoms industry<font color="#CCCCCC"> last week Gartner</font>
+
+5
+00:00:11,880 --> 00:00:14,490
+reported the first year on year decline
+
+6
+00:00:14,490 --> 00:00:16,619
+<font color="#E5E5E5">in smartphone sales for the critical</font>
+
+7
+00:00:16,619 --> 00:00:20,220
+holiday quarter<font color="#CCCCCC"> since 2004 the industry</font>
+
+8
+00:00:20,220 --> 00:00:22,529
+<font color="#E5E5E5">needs new technology to trigger</font><font color="#CCCCCC"> a new</font>
+
+9
+00:00:22,529 --> 00:00:25,140
+burst of<font color="#E5E5E5"> profitability and growth</font><font color="#CCCCCC"> they</font>
+
+10
+00:00:25,140 --> 00:00:26,730
+want consumers<font color="#E5E5E5"> like</font><font color="#CCCCCC"> you and me and</font>
+
+11
+00:00:26,730 --> 00:00:29,340
+<font color="#CCCCCC">global businesses to buy equipment and</font>
+
+12
+00:00:29,340 --> 00:00:32,460
+<font color="#E5E5E5">mobile services</font><font color="#CCCCCC"> and here's a word you</font>
+
+13
+00:00:32,460 --> 00:00:34,980
+may also hear a<font color="#E5E5E5"> lot about spectrum this</font>
+
+14
+00:00:34,980 --> 00:00:37,829
+<font color="#E5E5E5">is how companies</font><font color="#CCCCCC"> use the airwaves</font><font color="#E5E5E5"> for</font>
+
+15
+00:00:37,829 --> 00:00:40,890
+communications<font color="#E5E5E5"> spectrum is actually a</font>
+
+16
+00:00:40,890 --> 00:00:43,079
+sovereign asset and governments haven't
+
+17
+00:00:43,079 --> 00:00:45,629
+even started<font color="#E5E5E5"> auctioning off the</font><font color="#CCCCCC"> spectrum</font>
+
+18
+00:00:45,629 --> 00:00:48,629
+needed for 5g yet well joining us<font color="#CCCCCC"> now</font>
+
+19
+00:00:48,629 --> 00:00:51,149
+from<font color="#CCCCCC"> London is Daniel Gleason a senior</font>
+
+20
+00:00:51,149 --> 00:00:53,250
+analyst in consumer technology with
+
+21
+00:00:53,250 --> 00:00:55,199
+<font color="#E5E5E5">london-based</font><font color="#CCCCCC"> / thanks for being with us</font>
+
+22
+00:00:55,199 --> 00:00:59,129
+<font color="#E5E5E5">Daniel so just tell us then why does 5g</font>
+
+23
+00:00:59,129 --> 00:01:01,320
+<font color="#E5E5E5">matter so much if you had to explain</font>
+
+24
+00:01:01,320 --> 00:01:06,030
+<font color="#CCCCCC">this to a layman in a nutshell</font><font color="#E5E5E5"> what</font><font color="#CCCCCC"> is</font>
+
+25
+00:01:06,030 --> 00:01:09,420
+it all<font color="#E5E5E5"> about really 5g of course is it's</font>
+
+26
+00:01:09,420 --> 00:01:11,250
+the next generation<font color="#CCCCCC"> of</font><font color="#E5E5E5"> mobile technology</font>
+
+27
+00:01:11,250 --> 00:01:13,110
+it's gonna be faster and<font color="#E5E5E5"> more reliable</font>
+
+28
+00:01:13,110 --> 00:01:15,869
+internet speeds on your phone<font color="#CCCCCC"> but more</font>
+
+29
+00:01:15,869 --> 00:01:18,930
+<font color="#CCCCCC">than that it's all</font><font color="#E5E5E5"> about having very low</font>
+
+30
+00:01:18,930 --> 00:01:21,299
+<font color="#CCCCCC">latency connections</font><font color="#E5E5E5"> so very reliable and</font>
+
+31
+00:01:21,299 --> 00:01:23,280
+<font color="#E5E5E5">very quick responding connections and</font>
+
+32
+00:01:23,280 --> 00:01:24,600
+<font color="#E5E5E5">particularly it's</font><font color="#CCCCCC"> gonna</font><font color="#E5E5E5"> be very very</font>
+
+33
+00:01:24,600 --> 00:01:28,350
+<font color="#E5E5E5">important for enabling new new use cases</font>
+
+34
+00:01:28,350 --> 00:01:30,180
+for<font color="#CCCCCC"> this technology</font><font color="#E5E5E5"> particularly in</font>
+
+35
+00:01:30,180 --> 00:01:33,570
+<font color="#E5E5E5">things like connected cars or on our</font>
+
+36
+00:01:33,570 --> 00:01:36,270
+various Internet of Things<font color="#CCCCCC"> applications</font>
+
+37
+00:01:36,270 --> 00:01:38,520
+<font color="#E5E5E5">and when we talk about</font><font color="#CCCCCC"> technology we</font>
+
+38
+00:01:38,520 --> 00:01:40,320
+often talk about the what's known as<font color="#E5E5E5"> the</font>
+
+39
+00:01:40,320 --> 00:01:43,259
+digital<font color="#E5E5E5"> divide that there is this big</font>
+
+40
+00:01:43,259 --> 00:01:46,040
+gap<font color="#E5E5E5"> between between different</font>
+
+41
+00:01:46,040 --> 00:01:49,200
+<font color="#E5E5E5">communities different cultures over</font><font color="#CCCCCC"> how</font>
+
+42
+00:01:49,200 --> 00:01:50,909
+<font color="#E5E5E5">much how much access</font><font color="#CCCCCC"> they have to the</font>
+
+43
+00:01:50,909 --> 00:01:53,189
+<font color="#E5E5E5">latest technology it does this risk</font>
+
+44
+00:01:53,189 --> 00:01:55,439
+further widening the digital divide
+
+45
+00:01:55,439 --> 00:01:57,990
+<font color="#E5E5E5">there is always this risk but one of the</font>
+
+46
+00:01:57,990 --> 00:02:00,360
+big things that operators are doing<font color="#CCCCCC"> with</font>
+
+47
+00:02:00,360 --> 00:02:02,790
+5g in<font color="#E5E5E5"> particular is that they are using</font>
+
+48
+00:02:02,790 --> 00:02:07,140
+it in<font color="#E5E5E5"> very high frequency spaces</font><font color="#CCCCCC"> what's</font>
+
+49
+00:02:07,140 --> 00:02:09,030
+<font color="#CCCCCC">enormous millimeter-wave</font><font color="#E5E5E5"> and in this</font>
+
+50
+00:02:09,030 --> 00:02:11,430
+<font color="#E5E5E5">area you</font><font color="#CCCCCC"> have very</font><font color="#E5E5E5"> very high</font><font color="#CCCCCC"> amounts of</font>
+
+51
+00:02:11,430 --> 00:02:13,500
+bandwidth which<font color="#CCCCCC"> is perfectly suitable</font>
+
+52
+00:02:13,500 --> 00:02:13,930
+for
+
+53
+00:02:13,930 --> 00:02:16,269
+or doing point-to-point communications
+
+54
+00:02:16,269 --> 00:02:19,569
+to rural<font color="#CCCCCC"> communities and to</font><font color="#E5E5E5"> isolated</font>
+
+55
+00:02:19,569 --> 00:02:21,969
+<font color="#E5E5E5">areas so this is ideal for helping</font>
+
+56
+00:02:21,969 --> 00:02:24,819
+provide that last mile connection<font color="#E5E5E5"> which</font>
+
+57
+00:02:24,819 --> 00:02:27,819
+for example that<font color="#E5E5E5"> fiber broadband simply</font>
+
+58
+00:02:27,819 --> 00:02:31,269
+cannot do due<font color="#CCCCCC"> to</font><font color="#E5E5E5"> the costs involved</font><font color="#CCCCCC"> so</font>
+
+59
+00:02:31,269 --> 00:02:32,769
+<font color="#E5E5E5">that's probably one the big promises of</font>
+
+60
+00:02:32,769 --> 00:02:36,069
+5g that<font color="#E5E5E5"> in that</font><font color="#CCCCCC"> very high frequency band</font>
+
+61
+00:02:36,069 --> 00:02:38,920
+<font color="#CCCCCC">that can help and bridge that gap in a</font>
+
+62
+00:02:38,920 --> 00:02:40,689
+way that previous mobile technologies
+
+63
+00:02:40,689 --> 00:02:44,370
+simply were<font color="#CCCCCC"> not able to and what sort of</font>
+
+64
+00:02:44,370 --> 00:02:47,019
+privacy<font color="#E5E5E5"> issues does this bring up I mean</font>
+
+65
+00:02:47,019 --> 00:02:50,019
+when it comes<font color="#CCCCCC"> to 4G for example we we</font>
+
+66
+00:02:50,019 --> 00:02:52,780
+have already<font color="#E5E5E5"> had to give up</font><font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> in</font>
+
+67
+00:02:52,780 --> 00:02:57,669
+that<font color="#CCCCCC"> area is 5g gonna be the same well</font>
+
+68
+00:02:57,669 --> 00:03:00,400
+in terms<font color="#E5E5E5"> of privacy that's more of a an</font>
+
+69
+00:03:00,400 --> 00:03:03,760
+<font color="#CCCCCC">application-level</font><font color="#E5E5E5"> basis</font><font color="#CCCCCC"> the technology</font>
+
+70
+00:03:03,760 --> 00:03:08,200
+<font color="#E5E5E5">itself is fairly like secure is very</font>
+
+71
+00:03:08,200 --> 00:03:11,319
+very secure<font color="#CCCCCC"> the main issues in terms of</font>
+
+72
+00:03:11,319 --> 00:03:13,299
+privacy<font color="#CCCCCC"> and security</font><font color="#E5E5E5"> come really on the</font>
+
+73
+00:03:13,299 --> 00:03:15,519
+application level<font color="#E5E5E5"> in terms of</font><font color="#CCCCCC"> what</font><font color="#E5E5E5"> your</font>
+
+74
+00:03:15,519 --> 00:03:17,049
+apps are<font color="#CCCCCC"> doing and who they're sending</font>
+
+75
+00:03:17,049 --> 00:03:20,909
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> data to</font><font color="#E5E5E5"> obviously of course within</font>
+
+76
+00:03:20,909 --> 00:03:23,709
+5g probably the thing<font color="#CCCCCC"> that people</font><font color="#E5E5E5"> will</font>
+
+77
+00:03:23,709 --> 00:03:26,109
+on a<font color="#E5E5E5"> network level be more concerned</font>
+
+78
+00:03:26,109 --> 00:03:29,260
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> is that one</font><font color="#CCCCCC"> of the things that 5g</font>
+
+79
+00:03:29,260 --> 00:03:31,120
+enables is a much smaller<font color="#CCCCCC"> and denser</font>
+
+80
+00:03:31,120 --> 00:03:34,540
+<font color="#E5E5E5">network in urban areas where mobile</font>
+
+81
+00:03:34,540 --> 00:03:37,209
+towers<font color="#E5E5E5"> will only cover you</font><font color="#CCCCCC"> know a couple</font>
+
+82
+00:03:37,209 --> 00:03:39,819
+<font color="#CCCCCC">hundred</font><font color="#E5E5E5"> meters</font><font color="#CCCCCC"> in each direction rather</font>
+
+83
+00:03:39,819 --> 00:03:42,400
+<font color="#E5E5E5">than you know 600 to 800 meters which</font><font color="#CCCCCC"> is</font>
+
+84
+00:03:42,400 --> 00:03:44,409
+what they would usually do now<font color="#E5E5E5"> as I said</font>
+
+85
+00:03:44,409 --> 00:03:46,810
+the main threat in terms<font color="#CCCCCC"> of</font><font color="#E5E5E5"> security and</font>
+
+86
+00:03:46,810 --> 00:03:48,340
+<font color="#E5E5E5">privacy is always going to be on the</font>
+
+87
+00:03:48,340 --> 00:03:50,799
+application level<font color="#E5E5E5"> where the apps like</font>
+
+88
+00:03:50,799 --> 00:03:53,199
+Facebook<font color="#E5E5E5"> Twitter Google and many many</font>
+
+89
+00:03:53,199 --> 00:03:56,229
+other apps track your position will much
+
+90
+00:03:56,229 --> 00:03:58,870
+greater accuracy<font color="#E5E5E5"> based off the GPS in</font>
+
+91
+00:03:58,870 --> 00:04:01,500
+your<font color="#E5E5E5"> device as well as having</font><font color="#CCCCCC"> access</font><font color="#E5E5E5"> to</font>
+
+92
+00:04:01,500 --> 00:04:04,509
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> know all the matter of sensitive</font>
+
+93
+00:04:04,509 --> 00:04:05,919
+<font color="#CCCCCC">information including payment</font>
+
+94
+00:04:05,919 --> 00:04:07,689
+information<font color="#CCCCCC"> it does all sound very</font>
+
+95
+00:04:07,689 --> 00:04:09,250
+<font color="#E5E5E5">expensive though doesn't it and this</font>
+
+96
+00:04:09,250 --> 00:04:10,900
+gets back<font color="#CCCCCC"> to the earlier issue of the</font>
+
+97
+00:04:10,900 --> 00:04:13,720
+digital divide<font color="#CCCCCC"> yes exactly</font><font color="#E5E5E5"> and this is</font>
+
+98
+00:04:13,720 --> 00:04:15,250
+<font color="#E5E5E5">gone as I said this is</font><font color="#CCCCCC"> probably</font><font color="#E5E5E5"> going to</font>
+
+99
+00:04:15,250 --> 00:04:17,440
+<font color="#E5E5E5">be the big big problem for operators in</font>
+
+100
+00:04:17,440 --> 00:04:19,988
+terms<font color="#CCCCCC"> of how</font><font color="#E5E5E5"> exactly they decide</font><font color="#CCCCCC"> to roll</font>
+
+101
+00:04:19,988 --> 00:04:22,270
+<font color="#E5E5E5">it out it is going to be very expensive</font>
+
+102
+00:04:22,270 --> 00:04:25,599
+<font color="#CCCCCC">every part of it from licensing the</font>
+
+103
+00:04:25,599 --> 00:04:27,220
+spectrum on day one
+
+104
+00:04:27,220 --> 00:04:29,620
+<font color="#CCCCCC">to building out small networks in urban</font>
+
+105
+00:04:29,620 --> 00:04:31,780
+areas<font color="#E5E5E5"> and eventually building bridging</font>
+
+106
+00:04:31,780 --> 00:04:34,090
+that digital divide<font color="#CCCCCC"> as I said one of the</font>
+
+107
+00:04:34,090 --> 00:04:35,170
+<font color="#E5E5E5">things</font><font color="#CCCCCC"> the regulators have done</font>
+
+108
+00:04:35,170 --> 00:04:37,060
+regularly<font color="#E5E5E5"> in the past particularly with</font>
+
+109
+00:04:37,060 --> 00:04:40,840
+4G to try to accelerate<font color="#E5E5E5"> this rollout has</font>
+
+110
+00:04:40,840 --> 00:04:44,080
+<font color="#E5E5E5">been to put</font><font color="#CCCCCC"> restrictions or rules around</font>
+
+111
+00:04:44,080 --> 00:04:46,210
+<font color="#CCCCCC">the spectrum that does get</font><font color="#E5E5E5"> licensed</font>
+
+112
+00:04:46,210 --> 00:04:49,120
+<font color="#E5E5E5">things like saying</font><font color="#CCCCCC"> oh</font><font color="#E5E5E5"> the operator has</font>
+
+113
+00:04:49,120 --> 00:04:52,350
+<font color="#CCCCCC">to cover</font><font color="#E5E5E5"> 90% or 95% of the population</font>
+
+114
+00:04:52,350 --> 00:04:54,670
+<font color="#CCCCCC">within a certain</font><font color="#E5E5E5"> length of time and</font>
+
+115
+00:04:54,670 --> 00:04:58,000
+often with with even with certain pieces
+
+116
+00:04:58,000 --> 00:05:00,100
+of spectrum they will say it must<font color="#E5E5E5"> be</font>
+
+117
+00:05:00,100 --> 00:05:01,810
+used<font color="#E5E5E5"> for this specific</font><font color="#CCCCCC"> purpose</font><font color="#E5E5E5"> and</font>
+
+118
+00:05:01,810 --> 00:05:05,110
+cannot be<font color="#E5E5E5"> used for</font><font color="#CCCCCC"> other ones</font><font color="#E5E5E5"> so that's</font>
+
+119
+00:05:05,110 --> 00:05:06,670
+the<font color="#E5E5E5"> kind of way that governments and</font>
+
+120
+00:05:06,670 --> 00:05:09,280
+regulators will try to help guide the
+
+121
+00:05:09,280 --> 00:05:11,620
+rollout of 5g and<font color="#E5E5E5"> try to push operators</font>
+
+122
+00:05:11,620 --> 00:05:14,830
+in certain<font color="#E5E5E5"> directions</font><font color="#CCCCCC"> the cost issue</font>
+
+123
+00:05:14,830 --> 00:05:16,510
+though is<font color="#CCCCCC"> going</font><font color="#E5E5E5"> to be very is</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to</font>
+
+124
+00:05:16,510 --> 00:05:18,040
+be very much at<font color="#CCCCCC"> the forefront when you</font>
+
+125
+00:05:18,040 --> 00:05:19,930
+think<font color="#E5E5E5"> particularly in Western</font><font color="#CCCCCC"> Europe and</font>
+
+126
+00:05:19,930 --> 00:05:22,200
+in<font color="#CCCCCC"> North America where</font><font color="#E5E5E5"> the mobile</font>
+
+127
+00:05:22,200 --> 00:05:25,690
+<font color="#E5E5E5">networks are very very mature</font><font color="#CCCCCC"> everybody</font>
+
+128
+00:05:25,690 --> 00:05:27,850
+already<font color="#CCCCCC"> has a smartphone the amount</font><font color="#E5E5E5"> the</font>
+
+129
+00:05:27,850 --> 00:05:30,640
+proposition<font color="#E5E5E5"> or the case for growth isn't</font>
+
+130
+00:05:30,640 --> 00:05:32,530
+<font color="#E5E5E5">very very strong and that's why</font>
+
+131
+00:05:32,530 --> 00:05:34,780
+operators in<font color="#CCCCCC"> particular looking at these</font>
+
+132
+00:05:34,780 --> 00:05:38,200
+<font color="#CCCCCC">automotive these industrial and IOT</font>
+
+133
+00:05:38,200 --> 00:05:41,470
+related use cases for 5g to really be
+
+134
+00:05:41,470 --> 00:05:43,690
+the bulk of the<font color="#CCCCCC"> business case</font><font color="#E5E5E5"> they may</font>
+
+135
+00:05:43,690 --> 00:05:45,910
+not be<font color="#CCCCCC"> very glamorous certainly may not</font>
+
+136
+00:05:45,910 --> 00:05:47,650
+be you<font color="#E5E5E5"> know the most demanding in terms</font>
+
+137
+00:05:47,650 --> 00:05:50,380
+of bandwidth they're<font color="#E5E5E5"> very sensitive in</font>
+
+138
+00:05:50,380 --> 00:05:51,880
+terms<font color="#CCCCCC"> of</font><font color="#E5E5E5"> security</font><font color="#CCCCCC"> in terms of</font>
+
+139
+00:05:51,880 --> 00:05:54,760
+<font color="#E5E5E5">reliability and in terms of latency and</font>
+
+140
+00:05:54,760 --> 00:05:56,979
+that's really the strengths of 5g
+
+141
+00:05:56,979 --> 00:05:59,530
+compared to 4G<font color="#E5E5E5"> Daniel</font><font color="#CCCCCC"> gleason good to</font>
+
+142
+00:05:59,530 --> 00:00:00,000
+speak<font color="#E5E5E5"> with you thank you</font>
+

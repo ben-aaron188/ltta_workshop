@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:02,909
+America's national security<font color="#CCCCCC"> agency has</font>
+
+2
+00:00:02,909 --> 00:00:04,799
+the power<font color="#CCCCCC"> to identify people by</font><font color="#E5E5E5"> the</font>
+
+3
+00:00:04,799 --> 00:00:06,690
+sound of<font color="#E5E5E5"> their voice they are thought to</font>
+
+4
+00:00:06,690 --> 00:00:08,550
+<font color="#E5E5E5">be using technology</font><font color="#CCCCCC"> much more advanced</font>
+
+5
+00:00:08,550 --> 00:00:10,920
+<font color="#CCCCCC">than that of Apple or Amazon</font><font color="#E5E5E5"> that's</font>
+
+6
+00:00:10,920 --> 00:00:12,660
+<font color="#E5E5E5">according to a report based on documents</font>
+
+7
+00:00:12,660 --> 00:00:14,460
+leaked<font color="#E5E5E5"> by the</font><font color="#CCCCCC"> agency's former contractor</font>
+
+8
+00:00:14,460 --> 00:00:17,340
+<font color="#E5E5E5">Edward Snowden</font><font color="#CCCCCC"> Jacqueline</font><font color="#E5E5E5"> Ruger picks up</font>
+
+9
+00:00:17,340 --> 00:00:20,910
+the story<font color="#E5E5E5"> based on</font><font color="#CCCCCC"> my voice there isn't</font>
+
+10
+00:00:20,910 --> 00:00:22,350
+much<font color="#CCCCCC"> you can</font><font color="#E5E5E5"> gather about my identity</font>
+
+11
+00:00:22,350 --> 00:00:24,779
+<font color="#CCCCCC">sure you can</font><font color="#E5E5E5"> tell them female and based</font>
+
+12
+00:00:24,779 --> 00:00:26,369
+<font color="#E5E5E5">on</font><font color="#CCCCCC"> my accent you can assume that</font><font color="#E5E5E5"> I'm</font>
+
+13
+00:00:26,369 --> 00:00:29,279
+American<font color="#CCCCCC"> and that's more or less the NSA</font>
+
+14
+00:00:29,279 --> 00:00:31,980
+however could do a lot<font color="#CCCCCC"> more easily</font><font color="#E5E5E5"> using</font>
+
+15
+00:00:31,980 --> 00:00:34,050
+my voice to identify<font color="#CCCCCC"> Who I am</font><font color="#E5E5E5"> what</font>
+
+16
+00:00:34,050 --> 00:00:36,090
+language I'm speaking<font color="#E5E5E5"> my gender and my</font>
+
+17
+00:00:36,090 --> 00:00:37,140
+<font color="#CCCCCC">dialect</font>
+
+18
+00:00:37,140 --> 00:00:38,670
+according to classified documents from
+
+19
+00:00:38,670 --> 00:00:40,649
+<font color="#CCCCCC">the Snowden</font><font color="#E5E5E5"> archive the NSA has been</font>
+
+20
+00:00:40,649 --> 00:00:42,629
+<font color="#CCCCCC">developing technology to identify</font><font color="#E5E5E5"> a</font>
+
+21
+00:00:42,629 --> 00:00:45,079
+speaker<font color="#E5E5E5"> using just their voice for years</font>
+
+22
+00:00:45,079 --> 00:00:48,180
+when<font color="#E5E5E5"> SIGINT transcribers worked the same</font>
+
+23
+00:00:48,180 --> 00:00:50,309
+<font color="#E5E5E5">target set for a long time they</font>
+
+24
+00:00:50,309 --> 00:00:51,870
+sometimes can identify a certain
+
+25
+00:00:51,870 --> 00:00:54,059
+<font color="#E5E5E5">individual in recorded conversations</font>
+
+26
+00:00:54,059 --> 00:00:56,219
+<font color="#E5E5E5">just by the sound of his voice and by</font>
+
+27
+00:00:56,219 --> 00:00:58,530
+his unique way<font color="#CCCCCC"> of speaking</font><font color="#E5E5E5"> this process</font>
+
+28
+00:00:58,530 --> 00:01:00,300
+was traditionally known as voice
+
+29
+00:01:00,300 --> 00:01:03,359
+identification<font color="#E5E5E5"> now rapidly improving</font>
+
+30
+00:01:03,359 --> 00:01:05,369
+technology is<font color="#CCCCCC"> available that</font><font color="#E5E5E5"> can do the</font>
+
+31
+00:01:05,369 --> 00:01:06,930
+same<font color="#CCCCCC"> job</font><font color="#E5E5E5"> of mathematically the</font>
+
+32
+00:01:06,930 --> 00:01:08,490
+technology works by analyzing<font color="#E5E5E5"> your</font>
+
+33
+00:01:08,490 --> 00:01:10,350
+voices unique features to<font color="#CCCCCC"> create an</font>
+
+34
+00:01:10,350 --> 00:01:12,810
+individual<font color="#E5E5E5"> voice print</font><font color="#CCCCCC"> and once</font><font color="#E5E5E5"> the NSA</font>
+
+35
+00:01:12,810 --> 00:01:15,020
+has that a single<font color="#E5E5E5"> speaker can be almost</font>
+
+36
+00:01:15,020 --> 00:01:17,490
+instantaneously pinpointed even among
+
+37
+00:01:17,490 --> 00:01:20,670
+massive databases<font color="#E5E5E5"> now in 2016</font><font color="#CCCCCC"> alone</font><font color="#E5E5E5"> the</font>
+
+38
+00:01:20,670 --> 00:01:23,400
+NSA hoarded more than<font color="#E5E5E5"> 151 million</font>
+
+39
+00:01:23,400 --> 00:01:25,560
+records<font color="#E5E5E5"> of Americans phone calls and</font>
+
+40
+00:01:25,560 --> 00:01:27,390
+that was<font color="#CCCCCC"> after their bulk collection</font>
+
+41
+00:01:27,390 --> 00:01:30,030
+abilities were limited by Congress<font color="#E5E5E5"> so</font>
+
+42
+00:01:30,030 --> 00:01:31,590
+there's no<font color="#E5E5E5"> telling how many voice prints</font>
+
+43
+00:01:31,590 --> 00:01:33,180
+they could have at their disposal<font color="#CCCCCC"> and</font>
+
+44
+00:01:33,180 --> 00:01:34,710
+theoretically<font color="#E5E5E5"> a person could be</font>
+
+45
+00:01:34,710 --> 00:01:36,810
+instantly located and tracked down as
+
+46
+00:01:36,810 --> 00:01:38,670
+long as a microphone is somewhere nearby
+
+47
+00:01:38,670 --> 00:01:40,740
+<font color="#CCCCCC">and as Edward Snowden pointed out</font>
+
+48
+00:01:40,740 --> 00:01:42,659
+there's almost no escaping mics these
+
+49
+00:01:42,659 --> 00:01:44,549
+days<font color="#CCCCCC"> I don't</font><font color="#E5E5E5"> think anybody would argue</font>
+
+50
+00:01:44,549 --> 00:01:48,240
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> the police should catch</font><font color="#CCCCCC"> they'd</font>
+
+51
+00:01:48,240 --> 00:01:51,180
+chase<font color="#E5E5E5"> terrorists or pedophiles but we're</font>
+
+52
+00:01:51,180 --> 00:01:54,530
+not<font color="#E5E5E5"> talking about just just targeted</font>
+
+53
+00:01:54,530 --> 00:01:56,880
+surveillance what we're talking about<font color="#E5E5E5"> is</font>
+
+54
+00:01:56,880 --> 00:01:59,820
+everybody<font color="#E5E5E5"> everything</font><font color="#CCCCCC"> a piece</font><font color="#E5E5E5"> of data by</font>
+
+55
+00:01:59,820 --> 00:02:03,450
+everybody<font color="#E5E5E5"> being collected and scanned by</font>
+
+56
+00:02:03,450 --> 00:02:05,939
+software<font color="#E5E5E5"> for anything that looks deviant</font>
+
+57
+00:02:05,939 --> 00:02:07,530
+<font color="#E5E5E5">they could start targeting</font><font color="#CCCCCC"> people</font>
+
+58
+00:02:07,530 --> 00:02:09,389
+involved in very legitimate things like
+
+59
+00:02:09,389 --> 00:02:13,030
+demonstration<font color="#E5E5E5"> strikes even</font>
+
+60
+00:02:13,030 --> 00:02:15,370
+people who vote for<font color="#E5E5E5"> the wrong way as far</font>
+
+61
+00:02:15,370 --> 00:02:16,900
+<font color="#E5E5E5">as the American government is concerned</font>
+
+62
+00:02:16,900 --> 00:02:19,000
+<font color="#E5E5E5">another fear is that speaker recognition</font>
+
+63
+00:02:19,000 --> 00:02:20,319
+could end up discouraging people from
+
+64
+00:02:20,319 --> 00:02:22,300
+<font color="#E5E5E5">speaking out</font><font color="#CCCCCC"> it has the potential to</font>
+
+65
+00:02:22,300 --> 00:02:24,280
+unmask<font color="#E5E5E5"> anonymous sources or track</font>
+
+66
+00:02:24,280 --> 00:02:25,780
+journalists or whistleblowers<font color="#E5E5E5"> and</font>
+
+67
+00:02:25,780 --> 00:02:27,280
+according to<font color="#E5E5E5"> the intercept this</font>
+
+68
+00:02:27,280 --> 00:02:29,170
+technology isn't<font color="#E5E5E5"> only in American hands</font>
+
+69
+00:02:29,170 --> 00:02:29,770
+either
+
+70
+00:02:29,770 --> 00:02:31,660
+it looks like<font color="#E5E5E5"> Interpol the European</font>
+
+71
+00:02:31,660 --> 00:02:33,670
+Union and<font color="#E5E5E5"> China have their own version</font>
+
+72
+00:02:33,670 --> 00:02:36,310
+as well<font color="#E5E5E5"> among others</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> you can run but</font>
+
+73
+00:02:36,310 --> 00:02:40,870
+<font color="#CCCCCC">you definitely</font><font color="#E5E5E5"> cannot hide and from</font>
+
+74
+00:02:40,870 --> 00:02:42,790
+collecting information<font color="#CCCCCC"> and</font><font color="#E5E5E5"> to losing it</font>
+
+75
+00:02:42,790 --> 00:02:44,680
+<font color="#CCCCCC">the US</font><font color="#E5E5E5"> federal court has revealed the</font>
+
+76
+00:02:44,680 --> 00:02:47,200
+NSA deleted crucial data connected to
+
+77
+00:02:47,200 --> 00:02:49,420
+illegal wiretapping carried out by the
+
+78
+00:02:49,420 --> 00:02:52,060
+George W Bush administration<font color="#CCCCCC"> the agency</font>
+
+79
+00:02:52,060 --> 00:02:54,250
+responded<font color="#E5E5E5"> saying the data was removed</font><font color="#CCCCCC"> to</font>
+
+80
+00:02:54,250 --> 00:02:57,269
+simply free up space on its hard drives
+
+81
+00:02:57,269 --> 00:02:59,860
+<font color="#E5E5E5">the presidential surveillance program</font>
+
+82
+00:02:59,860 --> 00:03:02,440
+<font color="#E5E5E5">internet content data</font><font color="#CCCCCC"> makes criteria</font>
+
+83
+00:03:02,440 --> 00:03:04,090
+that were broadly<font color="#E5E5E5"> used to delete dates</font>
+
+84
+00:03:04,090 --> 00:03:06,489
+of a certain type in response to mission
+
+85
+00:03:06,489 --> 00:03:08,380
+requirements to free up space and
+
+86
+00:03:08,380 --> 00:03:11,160
+improve<font color="#CCCCCC"> performance of</font><font color="#E5E5E5"> the backup system</font>
+
+87
+00:03:11,160 --> 00:03:14,319
+the data in<font color="#CCCCCC"> question was</font><font color="#E5E5E5"> controversially</font>
+
+88
+00:03:14,319 --> 00:03:16,330
+collected after<font color="#CCCCCC"> the 9/11 terror attacks</font>
+
+89
+00:03:16,330 --> 00:03:19,630
+<font color="#CCCCCC">in the u.s. in 2007</font><font color="#E5E5E5"> it was initially</font>
+
+90
+00:03:19,630 --> 00:03:21,459
+<font color="#E5E5E5">ordered by the court to</font><font color="#CCCCCC"> be preserved for</font>
+
+91
+00:03:21,459 --> 00:03:23,019
+further examination<font color="#CCCCCC"> but has now been</font>
+
+92
+00:03:23,019 --> 00:03:25,989
+erased<font color="#CCCCCC"> along with the</font><font color="#E5E5E5"> backup tapes the</font>
+
+93
+00:03:25,989 --> 00:03:27,730
+information was deemed important to a
+
+94
+00:03:27,730 --> 00:03:30,100
+number of<font color="#CCCCCC"> pending lawsuits a former NSA</font>
+
+95
+00:03:30,100 --> 00:03:31,989
+<font color="#E5E5E5">director and whistleblower we spoke to</font>
+
+96
+00:03:31,989 --> 00:03:33,850
+says this sort of data<font color="#E5E5E5"> tends to</font>
+
+97
+00:03:33,850 --> 00:03:37,630
+disappear far too<font color="#CCCCCC"> often it's a way of</font>
+
+98
+00:03:37,630 --> 00:03:40,209
+covering<font color="#CCCCCC"> your backside</font><font color="#E5E5E5"> so that when the</font>
+
+99
+00:03:40,209 --> 00:03:41,680
+<font color="#CCCCCC">investigations</font><font color="#E5E5E5"> started and they get</font>
+
+100
+00:03:41,680 --> 00:03:43,720
+<font color="#E5E5E5">there they just can't let</font><font color="#CCCCCC"> that data be</font>
+
+101
+00:03:43,720 --> 00:03:45,549
+exposed that's all it's<font color="#CCCCCC"> just more</font>
+
+102
+00:03:45,549 --> 00:03:47,170
+<font color="#CCCCCC">evidence of their criminal</font><font color="#E5E5E5"> activity</font><font color="#CCCCCC"> the</font>
+
+103
+00:03:47,170 --> 00:03:48,670
+Department of Defense<font color="#CCCCCC"> Inspector General</font>
+
+104
+00:03:48,670 --> 00:03:50,440
+did the same thing<font color="#E5E5E5"> with the material</font>
+
+105
+00:03:50,440 --> 00:03:52,359
+against<font color="#CCCCCC"> whistleblowers even when the</font>
+
+106
+00:03:52,359 --> 00:03:54,070
+whistleblowers were in a court under
+
+107
+00:03:54,070 --> 00:03:56,049
+under<font color="#CCCCCC"> criminal accusation in a criminal</font>
+
+108
+00:03:56,049 --> 00:03:58,570
+<font color="#CCCCCC">trial they destroyed evidence and it was</font>
+
+109
+00:03:58,570 --> 00:04:00,700
+only because<font color="#CCCCCC"> it was exculpatory and they</font>
+
+110
+00:04:00,700 --> 00:04:03,040
+didn't want<font color="#CCCCCC"> that out so now this is all</font>
+
+111
+00:04:03,040 --> 00:04:05,049
+deliberate even when they lie<font color="#CCCCCC"> in front</font>
+
+112
+00:04:05,049 --> 00:04:07,720
+<font color="#E5E5E5">of Congress or to</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> people the United</font>
+
+113
+00:04:07,720 --> 00:04:09,820
+States or<font color="#CCCCCC"> even to the President or</font><font color="#E5E5E5"> any</font>
+
+114
+00:04:09,820 --> 00:04:12,010
+of the cabinet heads<font color="#E5E5E5"> it doesn't seem to</font>
+
+115
+00:04:12,010 --> 00:04:13,660
+matter<font color="#E5E5E5"> if there's no</font><font color="#CCCCCC"> accountability here</font>
+
+116
+00:04:13,660 --> 00:04:15,820
+<font color="#CCCCCC">the intelligence community has</font><font color="#E5E5E5"> so much</font>
+
+117
+00:04:15,820 --> 00:04:17,950
+power<font color="#CCCCCC"> I mean even</font><font color="#E5E5E5"> Senator Schumer told</font>
+
+118
+00:04:17,950 --> 00:04:19,570
+the<font color="#E5E5E5"> president Trump that he shouldn't be</font>
+
+119
+00:04:19,570 --> 00:04:21,579
+attacking<font color="#CCCCCC"> the intelligence community</font>
+
+120
+00:04:21,579 --> 00:04:23,200
+because they've got six ways to Sunday
+
+121
+00:04:23,200 --> 00:04:25,479
+to get<font color="#E5E5E5"> back at you and these are the</font>
+
+122
+00:04:25,479 --> 00:00:00,000
+ways they do it
+

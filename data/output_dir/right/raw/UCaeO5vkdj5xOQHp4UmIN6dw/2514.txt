@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:04,080
+this is a man some people might<font color="#E5E5E5"> try to</font>
+
+2
+00:00:04,080 --> 00:00:07,379
+tell you it's a woman they might scream
+
+3
+00:00:07,379 --> 00:00:11,280
+woman woman woman<font color="#CCCCCC"> over and</font><font color="#E5E5E5"> over and over</font>
+
+4
+00:00:11,280 --> 00:00:14,780
+<font color="#E5E5E5">again they might put woman in all-caps</font>
+
+5
+00:00:14,780 --> 00:00:17,400
+you might even start<font color="#E5E5E5"> to</font><font color="#CCCCCC"> believe</font><font color="#E5E5E5"> that</font>
+
+6
+00:00:17,400 --> 00:00:23,699
+this is a<font color="#E5E5E5"> woman but it's not this is a</font>
+
+7
+00:00:23,699 --> 00:00:00,000
+man
+

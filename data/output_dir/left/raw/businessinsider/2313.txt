@@ -1,0 +1,380 @@
+1
+00:00:00,020 --> 00:00:02,250
+welcome back<font color="#E5E5E5"> today we're talking to</font>
+
+2
+00:00:02,250 --> 00:00:04,380
+Dennis Crowley co founder of foursquare
+
+3
+00:00:04,380 --> 00:00:07,379
+tell us what's foursquare again because
+
+4
+00:00:07,379 --> 00:00:10,080
+i'm not you know they were building
+
+5
+00:00:10,080 --> 00:00:11,400
+things for mobile phones that are
+
+6
+00:00:11,400 --> 00:00:12,719
+supposed to makes it easier to use<font color="#CCCCCC"> and</font>
+
+7
+00:00:12,719 --> 00:00:14,460
+it combines friend finders with social
+
+8
+00:00:14,460 --> 00:00:15,900
+city guides with a little<font color="#E5E5E5"> bit</font><font color="#CCCCCC"> of layer</font>
+
+9
+00:00:15,900 --> 00:00:18,090
+of game mechanics on top to reward
+
+10
+00:00:18,090 --> 00:00:19,980
+people for doing interesting things so
+
+11
+00:00:19,980 --> 00:00:21,270
+<font color="#E5E5E5">you said something interesting the other</font>
+
+12
+00:00:21,270 --> 00:00:24,150
+day we wrote a story about how<font color="#E5E5E5"> Facebook</font>
+
+13
+00:00:24,150 --> 00:00:25,260
+is coming out with<font color="#CCCCCC"> their own little</font>
+
+14
+00:00:25,260 --> 00:00:27,060
+check-in feature and you said<font color="#CCCCCC"> that by</font>
+
+15
+00:00:27,060 --> 00:00:29,400
+<font color="#E5E5E5">the end of 2010 you expect check-ins to</font>
+
+16
+00:00:29,400 --> 00:00:30,599
+be a commodity that's interesting what
+
+17
+00:00:30,599 --> 00:00:32,430
+did you mean by that<font color="#E5E5E5"> I think well I mean</font>
+
+18
+00:00:32,430 --> 00:00:33,600
+everyone's kind of getting<font color="#E5E5E5"> into the</font>
+
+19
+00:00:33,600 --> 00:00:35,460
+check-in game and so<font color="#E5E5E5"> even when we</font><font color="#CCCCCC"> we did</font>
+
+20
+00:00:35,460 --> 00:00:36,480
+<font color="#E5E5E5">it back in the day with</font><font color="#CCCCCC"> dodgeball we</font>
+
+21
+00:00:36,480 --> 00:00:37,710
+<font color="#CCCCCC">start a bunch of competitors and that</font>
+
+22
+00:00:37,710 --> 00:00:39,090
+<font color="#CCCCCC">was</font><font color="#E5E5E5"> before the day where everyone was</font>
+
+23
+00:00:39,090 --> 00:00:40,829
+come sharing data and now that you know
+
+24
+00:00:40,829 --> 00:00:43,290
+open api's of the norm I imagine that
+
+25
+00:00:43,290 --> 00:00:44,399
+there'll be a lot of services<font color="#CCCCCC"> that are</font>
+
+26
+00:00:44,399 --> 00:00:46,230
+offering check-in services or check<font color="#E5E5E5"> in</font>
+
+27
+00:00:46,230 --> 00:00:47,370
+functionality and that<font color="#CCCCCC"> they'll</font>
+
+28
+00:00:47,370 --> 00:00:49,260
+eventually go<font color="#CCCCCC"> to some common place and a</font>
+
+29
+00:00:49,260 --> 00:00:50,340
+lot<font color="#E5E5E5"> of different</font><font color="#CCCCCC"> applications be able to</font>
+
+30
+00:00:50,340 --> 00:00:52,170
+push and pull from them so how does how
+
+31
+00:00:52,170 --> 00:00:54,329
+does foursquare you know how do you make
+
+32
+00:00:54,329 --> 00:00:55,440
+<font color="#CCCCCC">it so it's more</font><font color="#E5E5E5"> than a commodity on</font>
+
+33
+00:00:55,440 --> 00:00:57,210
+foursquare what do you do to make<font color="#CCCCCC"> it so</font>
+
+34
+00:00:57,210 --> 00:00:59,850
+people incentivize them to keep checking
+
+35
+00:00:59,850 --> 00:01:01,230
+<font color="#E5E5E5">in yeah well we always thought the thing</font>
+
+36
+00:01:01,230 --> 00:01:02,609
+that was<font color="#CCCCCC"> broken with dodge ball was</font>
+
+37
+00:01:02,609 --> 00:01:05,099
+there was no incentive to check in and
+
+38
+00:01:05,099 --> 00:01:06,420
+you know the big thing that's different
+
+39
+00:01:06,420 --> 00:01:08,340
+in foursquare is<font color="#E5E5E5"> we try to curate that</font>
+
+40
+00:01:08,340 --> 00:01:09,659
+experience so something different
+
+41
+00:01:09,659 --> 00:01:11,880
+happens every time like you might get
+
+42
+00:01:11,880 --> 00:01:13,530
+notified about a special<font color="#E5E5E5"> that's nearby</font>
+
+43
+00:01:13,530 --> 00:01:15,360
+Mike SR some point see my turn some
+
+44
+00:01:15,360 --> 00:01:16,860
+badges and I think the sweet spot is
+
+45
+00:01:16,860 --> 00:01:18,420
+kind of curating that experience so that
+
+46
+00:01:18,420 --> 00:01:19,860
+<font color="#E5E5E5">it is fun to check in every time and you</font>
+
+47
+00:01:19,860 --> 00:01:20,820
+want to keep<font color="#CCCCCC"> doing it over and over</font>
+
+48
+00:01:20,820 --> 00:01:22,619
+again there's this perception out there
+
+49
+00:01:22,619 --> 00:01:24,420
+that four squares killer app for New
+
+50
+00:01:24,420 --> 00:01:26,100
+York<font color="#E5E5E5"> City then it's very</font><font color="#CCCCCC"> popular on</font><font color="#E5E5E5"> the</font>
+
+51
+00:01:26,100 --> 00:01:28,500
+coast even San Francisco how do you<font color="#E5E5E5"> do</font>
+
+52
+00:01:28,500 --> 00:01:29,880
+you think that's a fair perception and
+
+53
+00:01:29,880 --> 00:01:32,340
+and if it<font color="#E5E5E5"> is how do you break into</font>
+
+54
+00:01:32,340 --> 00:01:34,770
+mainstream America what is what i call
+
+55
+00:01:34,770 --> 00:01:36,479
+the normals yeah well<font color="#E5E5E5"> i mean i think</font>
+
+56
+00:01:36,479 --> 00:01:38,460
+<font color="#E5E5E5">this stuff is always going to work in</font>
+
+57
+00:01:38,460 --> 00:01:40,950
+you know in<font color="#E5E5E5"> areas of high density at</font>
+
+58
+00:01:40,950 --> 00:01:42,630
+high density of people or places or
+
+59
+00:01:42,630 --> 00:01:43,619
+things to<font color="#E5E5E5"> do and it just so happened</font>
+
+60
+00:01:43,619 --> 00:01:44,909
+that that you<font color="#E5E5E5"> know those normally</font>
+
+61
+00:01:44,909 --> 00:01:47,100
+overlap with large cities that being
+
+62
+00:01:47,100 --> 00:01:48,450
+said I mean there's pockets of density
+
+63
+00:01:48,450 --> 00:01:51,140
+everywhere you go and college campuses
+
+64
+00:01:51,140 --> 00:01:53,340
+you know II used<font color="#E5E5E5"> to say that it doesn't</font>
+
+65
+00:01:53,340 --> 00:01:54,689
+something<font color="#CCCCCC"> that works so great in Boston</font>
+
+66
+00:01:54,689 --> 00:01:56,520
+it works in certain pockets of Boston or
+
+67
+00:01:56,520 --> 00:01:57,869
+doesn't work<font color="#E5E5E5"> so great in New York it</font>
+
+68
+00:01:57,869 --> 00:01:59,189
+works in certain pockets of New York
+
+69
+00:01:59,189 --> 00:02:01,320
+sure so the<font color="#E5E5E5"> big challenge for us is you</font>
+
+70
+00:02:01,320 --> 00:02:03,540
+know how do you expend that or extend
+
+71
+00:02:03,540 --> 00:02:05,369
+that use case to folks<font color="#E5E5E5"> that are outside</font>
+
+72
+00:02:05,369 --> 00:02:06,899
+of<font color="#E5E5E5"> those larger areas and so some of the</font>
+
+73
+00:02:06,899 --> 00:02:08,280
+stuff that we're doing with partnering
+
+74
+00:02:08,280 --> 00:02:10,639
+with larger media companies or
+
+75
+00:02:10,639 --> 00:02:11,840
+you know just<font color="#E5E5E5"> trying to offer a greater</font>
+
+76
+00:02:11,840 --> 00:02:12,920
+breadth of functionality kind of
+
+77
+00:02:12,920 --> 00:02:14,660
+addresses those issues you sold your
+
+78
+00:02:14,660 --> 00:02:16,490
+last startup dodgeball to<font color="#CCCCCC"> google and</font>
+
+79
+00:02:16,490 --> 00:02:18,440
+Google's going on a massive acquisition
+
+80
+00:02:18,440 --> 00:02:19,640
+spree now they say they're going to buy
+
+81
+00:02:19,640 --> 00:02:21,590
+a company a month it's google good at
+
+82
+00:02:21,590 --> 00:02:24,050
+acquiring companies or<font color="#E5E5E5"> integrating them</font>
+
+83
+00:02:24,050 --> 00:02:25,610
+you know you left after a couple years
+
+84
+00:02:25,610 --> 00:02:28,010
+but I think it depends you know we were
+
+85
+00:02:28,010 --> 00:02:29,240
+<font color="#CCCCCC">there we were there in a really</font>
+
+86
+00:02:29,240 --> 00:02:30,620
+interesting time when I think you know
+
+87
+00:02:30,620 --> 00:02:32,420
+the New York office was was really just
+
+88
+00:02:32,420 --> 00:02:33,740
+<font color="#E5E5E5">starting to ramp up and I don't think</font>
+
+89
+00:02:33,740 --> 00:02:34,850
+that<font color="#CCCCCC"> was the right time for us to be</font>
+
+90
+00:02:34,850 --> 00:02:36,080
+there I think you know you have<font color="#E5E5E5"> to</font>
+
+91
+00:02:36,080 --> 00:02:37,820
+evaluate it on a case-by-case basis and
+
+92
+00:02:37,820 --> 00:02:39,950
+<font color="#E5E5E5">you know it depends on how large the</font>
+
+93
+00:02:39,950 --> 00:02:41,390
+company is and what and you know<font color="#E5E5E5"> what</font>
+
+94
+00:02:41,390 --> 00:02:42,470
+<font color="#E5E5E5">the company is actually doing and how</font>
+
+95
+00:02:42,470 --> 00:00:00,000
+that fits into the larger plans
+

@@ -1,0 +1,121 @@
+this week a new self-driving car was
+rolled out it's a collaboration between
+Chrysler and wham-o that spin-off of
+Google X the search giant highly
+secretive special project lab they
+opened their offices to vice news for a
+rare glimpse of what they're building
+and shared never-before-seen footage of
+their early prototype you can't walk
+down the street in San Francisco without
+seeing a car with a spinning Castle of
+lasers speed by Ford Toyota Nissan Honda
+all have self-driving car projects uber
+has autonomous cars already picking up
+riders in viña it's a self-driving arms
+race there have been self-driving cars
+in certain guises for a long time look
+now at the electronics revolution when
+people started to think wow we could
+actually control cars and have them on
+the road and this was a lot of burying
+wires in the middle of the lane so that
+the car can follow it then it actually
+started to become a little bit real for
+example in 1995 navlab
+which was the project at Carnegie Mellon
+drove across the United States 98% of it
+no hands no hands touching the wheel
+Google saw all of this progress that had
+been made and they decided let's see
+where we can go from there
+Google hired those early car hackers
+including Nathaniel a roboticist from
+Carnegie Mellon and decided to try to
+make it a business which has been harder
+than the company expected first there's
+a 2009 retrofitted Prius than a Lexus
+SUV in 2014 they made their own car from
+the ground up prototype a little bubble
+car without a steering wheel at all
+which brings us to way low which is what
+the company now is calling their
+self-driving car project yes wham-o you
+know you're in Silicon Valley now
+here's me and my big ham hands all over
+the wheel right now I'm doing this Auto
+training hand off the card expert safe
+travel car is an extra safe driver I
+mean in general we're talking like a
+grandma level or Grandma well it's not
+exactly grandma level it's assertive but
+it's very safe it remembers all the
+steps every time so if it's going to
+make a turn it remembers the turn the
+turn signal on every time there's a
+pedestrian getting out of a car over
+there all of that information we build a
+model of the world and then that gets
+pulled into the planner and the planner
+has to decide hey is that cyclist going
+to keep going straighter they going to
+make a turn never get scared test
+traffic the unpredictability of a human
+being that is what scares me the most
+when I'm in this car yeah humans are
+terrible drivers
+humans are shocking I said on Instagram
+while I'm driving didn't hear that the
+different Google car models have had
+similar technology lasers radar and
+cameras the car makes a 3d model of the
+world around it and can differentiate
+between a pedestrian and a bicycle or a
+duck wham-o recently started making
+these tools in-house and this new car is
+basically a tricked-out Chrysler a
+compromise from early visions of
+building a vehicle from scratch crouch
+down here that thing up on the roof
+can't see me there's actually four
+lasers that provide kind of complete
+blind spot coverage all around the car
+now the laser data is a fairly short
+range like I was saying out to about 10
+meters or so and it can see a lot of
+detail the radars can actually see way
+out far they can see about 200 meters
+out and they are really good at picking
+up motion that's all you care about at
+long distance if you can't break it if I
+remember all that we can break I can
+track it with a look at that yeah okay
+no breaking no breaking you think
+culturally Americans can handle
+self-driving cars driving is sold to us
+as that sitting in your convertible a
+pop down breeze through your hair but
+for most of us driving is a 50 minute
+commute each way every day the company
+has been developing this car
+years spending untold millions and you
+still can't buy a thing now late entries
+into the race like uber might even
+overtake them our cars have more
+experience our technology is based off
+of more experience our solutions are
+based off the more experience so what I
+am pretty confident is saying is that we
+have run into more problems than anybody
+else if it seems strange a search engine
+company would be building a car it is
+and a lot of these moonshot projects
+have been getting killed lately by CFO
+Ruth Porat so long fiber optic cabling
+solar powered drones and modular phones
+but not today for whammo their first
+product is hitting the road for testing
+a huge moment for longtime believers
+like Nathaniel when will you buy this
+car aha good question when it's ready
+which is soon

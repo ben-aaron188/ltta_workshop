@@ -1,0 +1,209 @@
+a Republican contractors database of
+nearly 200 million voters from all walks
+of life and all political ideologies uh
+is under fire because it turns out that
+their database was left exposed on the
+internet for a whopping 12 days now we
+know this thanks to a cybersecurity
+researcher by the name of Chris Vickery
+and uh you know he does research to see
+what type of vulnerabilities there are
+out there in regard to our private
+information of private citizens and he
+came across this detailed information of
+nearly every single u.s. voter now
+detailed information of nearly every US
+voter including in some cases their
+ethnicity religion and views on
+political issues was left exposed online
+for two weeks by a political consultancy
+that works for the RNC Republican
+National Committee and other GOP clients
+now the group that has been contracted
+by the RNC is uh named deep root
+analytics and they claim that they
+haven't been hacked this was the result
+of a hack
+but that certain terms by their uh
+providers uh changed and as a result
+they didn't realize that there needed to
+be some extra steps taken to protect the
+data of these individuals now thankfully
+Kim Borchers here she's more of an
+expert on uh you know this type of tech
+related news but let me give you a few
+more details and I want you to jump in
+camera included which voters are
+suspicious of Wall Street and
+pharmaceutical firms or who reluctantly
+voted for Hillary Clinton or supports
+the Affordable Care Act so this part is
+relevant because this isn't just private
+citizens obviously this is voter
+information that also includes public
+figures politicians and so there might
+be some Republicans in Congress who
+might have reluctantly voted for Hillary
+Clinton like obviously this is
+incredibly private information for a lot
+of people and to know that it was just
+out there vulnerable for anyone is is
+concerning a lot of that information is
+technically public record besides the
+who reluctantly voted for Hillary
+Clinton who is a an opponent opponent of
+the Affordable Care Act whatever like
+things like name where you live what
+your party is blah blah blah this isn't
+the first time victory has done this
+earlier this year he
+found 87 million Mexican voter records
+on an exposed database and then layer he
+found her before he found several US
+voter databases online totally 18
+million voters and the state of
+Louisiana's entire database of 2.9
+million voters now we have this company
+here kind of blaming a third party and
+that in my experience seems to almost
+always be the case where this has been
+this very sensitive and very important
+data has been put in the hands of
+someone else who is in some way
+vulnerable or some way exposes whatever
+the information is this is how things
+get exposed in the internet of things
+quite often and I also think if this is
+kind of symptomatic of as a society
+we've kind of been taught to stop caring
+about our own data privacy right and you
+know we get like asked by certain
+websites to share all of our Facebook
+info or share all of our contact info or
+all of its posted out there and we think
+oh it's fine it's okay but it's not okay
+you have to stop being willing to
+wholesale give up all of your privacy
+all of your data because that will be
+used against you one day already is old
+okay so here's my question
+uh in response to that though what do
+you do when you want to register to vote
+I mean you have to use your address and
+to know that you know look there are
+people who go to extreme lengths to keep
+their address private right and like
+what do those people do if if they come
+across stories like this and they want
+to vote they want to be part of this
+democratic process right but they also
+want to maintain their privacy
+especially where they live or which
+issues matter to them maybe they don't
+want their you know political ideology
+to be out there available for the world
+to see you know what I'm saying to do
+better with our state and federal
+security measures I mean in the last
+election we found some of the voting
+machines were over 10 years old or
+running on software that had like
+Windows 98 involved we have to be better
+about that we have to value our privacy
+more and I think this is I mean I've
+seen I see these stories not this
+extreme but I see them all the time and
+like you said people who
+do want to vote and do want to be part
+of the democratic process but don't want
+their stuff shown that's perfectly fair
+and I know while this is uh publicly
+available information it's all together
+it's all easy to read I hope this was
+also a database not a bunch of
+spreadsheets like I read but yeah it
+should be worrisome yeah and by the way
+not all of the information that was in
+this database was publicly available oh
+no yes some of it was some avail yes and
+still you don't want all organized like
+that right uh I hope this uh does a
+little further damage to the argument
+that the only reason that the DNC was
+act in the 2016 election was because the
+DNC has porous Internet security they
+may well have incredibly porous internet
+security but the RNC was an actress
+nobody want hack it was just there that
+it is not because the RNC uh has such
+tight cybersecurity right the Russians
+try yes it couldn't get it done yeah you
+know another thing that I thought was a
+little concerning and look political
+parties are going to want to collect as
+much information on American voters as
+possible so they can you know uh
+calibrate their campaigns in a way that
+appeal to the most voters as possible I
+mean that's common sense
+but they're collecting a ton of
+information on you and storing it
+including you know how are you likely to
+feel about pharmaceutical companies how
+are you likely to feel about Wall Street
+major corporations this is all stuff
+that they keep about every single voter
+so the company also kept information on
+Americans voting histories and the
+reported enthusiasm for Trump
+nearly 170 gigabytes of the expose data
+consisted of social media posts scrapped
+from reddit Church which is amazing and
+so look you're a your participation on
+reddit or social media is obviously
+gonna be public and if there are
+political parties who want to collect
+that data for their own benefit of
+course they're gonna do it also the
+exposure began on June 1st when a deep
+root and a lid
+adopted updates that accidentally
+stripped away the password protection on
+the files by the way this isn't
+something that's unique to a political
+party or politics in general this is
+something that we see over and over
+again with you know health care
+providers getting hacked this stuff
+happens all the time and so I think
+there needs to be a general awareness of
+it there needs to be measures taken to
+protect people's privacy I can't even
+tell you how many times I've had to like
+call my credit card company and be like
+yo didn't spend $800 at whatever
+restaurant last night like that's insane
+and later on I'll find out that there
+was a breach for one of the websites
+where my credit card information is
+stored so that kind of stuff happens on
+a regular basis there needs to be more
+emphasis on protecting our privacy and
+making sure that hackers can't get to
+our information and that as in this case
+our information is just readily
+available for anyone who wants a I think
+I speak for Ana when I say thank God Kim
+was here for the story
+I know stuff do you know okay fine
+that I she probably will I would have
+helped you not at all so you had to do
+the story on your own okay at least had
+someone other stories so it works out
+membership helps fund the Young Turks
+you know one great thing about that that
+means we're not accountable to anyone
+but you guys that's why we're strong
+together because we built the show
+around you come build it even bigger and
+better at TYT Network dot-com slash join

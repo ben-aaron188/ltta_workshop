@@ -1,0 +1,258 @@
+you along with with comscore and others
+are widely known for your measurement
+offerings last summer you launched your
+media program what is that qualcast
+you're right did start as a measurement
+company and measurement was really the
+foundation to get to where we ultimately
+have the vision to take the company
+which is to really connect buyers and
+sellers of media in a way that is
+defined around audiences and people
+really ask a lot of times what does that
+really mean well what it means is if you
+think about search search is all about
+audiences it's people typing in keywords
+and people building out audiences based
+on the keywords that those consumers are
+are essentially typing into the box in
+display you don't have that and so what
+we've done is we've developed a way for
+advertisers to define their own
+audiences by placing a pixel on their
+website capturing what's unique about
+that person and then finding more people
+like them across the web and the media
+program essentially joins the two sides
+the market and advertiser builds an
+audience segments and a publisher can
+then sell that exact audience segments
+to them what it does is it reduces
+friction it gives the advertisers the
+ability to have confidence in the
+audience that they're buying it gives
+the publisher the ability to speak in
+the advertisers language so that they
+can specifically deliver the audience's
+that they're looking for and this is a
+real departure from traditional media
+buying which has been typically based on
+essentially indexes I want to buy this
+property because this property index is
+high from my audience what we're doing
+this we're flipping that model on that's
+head and being able to enable the
+advertiser to say these are the this is
+the audience I want to go for it here or
+here are the people the users that we
+want to reach and here's across the
+entire web where those people exist and
+that was really if you think about
+what's really revolutionary about
+quantcast is because we see both sides
+of that marketplace we give the
+advertiser the ability to find the
+audience and then because we have that
+measurement service in place we can tell
+the advertiser exactly where those those
+people are so that they know who to go
+talk to now to buy their audiences and
+they do that at an impression by an
+impression level versus just Brown
+broadly on the sites in its totality now
+is this what differentiates you from
+your competition yeah I mean I would say
+this is really what puts quantcast very
+unique
+in the marketplace there are people that
+do various different kind of portions of
+the quantcast offering so for example
+there are measurement companies out
+there that provide measurement data
+about properties problem with those is
+that they have a very what I would say
+antiquated way in which they provide
+measurement they provide measurement
+using panel safe right which don't
+connect back to impression by impression
+level address ability because they are
+panel based there are only a small
+component of the total audience out on
+the web our model goes a little bit
+deeper than that and gives you census
+level understanding what people are
+doing you have data companies that
+provide data but those companies when
+you provide just single source data you
+typically have very small audiences
+because data is not available you know
+in its entirety for every single person
+in the US and our model which is all
+inference based gives you the ability to
+create predictions it's a predictive
+model that enables you to push out and
+make predictions about everyone and what
+that now does is it gives a marketer
+scale and when marketers have scaled
+they have confidence if you think about
+what's happened in television marketers
+have confidence in buying audiences
+across television because there is a
+currency for audiences they rely on
+Nielsen to do that digital is very
+different it's an individual impression
+my impression addressability and that
+really distances us from our competition
+because we excuse me we do have this
+massive footprint over 10 million
+publishers carry our measurement pixels
+that gives us comprehensive visibility
+of the Internet we have machine learning
+that creates those predictions about
+about the consumers and then give the
+advertisers and publishers access to
+that on an anonymous basis so that they
+can then leverage that information to
+better target the advertising so you
+talked a little bit about you know the
+legacy earth at this store achill way to
+measure audiences panel based are the
+new ways of measuring and defining
+target segments is that becoming a
+little bit more valid than new
+methodology there was a problem that
+needed to be solved and the problem was
+mass the mass amount of the
+internet was becoming highly fragmented
+and what needed to happen was a solution
+needed to come in that could measure the
+preponderance of the internet panel base
+were really only able to handle the
+largest companies and then at that level
+could not go very granular Lee within
+those they could measure at a total site
+level so when we extended down and now
+can measure individual web assets as
+small as 500 consumers you now opened up
+an understanding the internet that you
+never had before so that was the start
+right and then what happened after that
+was really very simply we were able to
+extend into marketers marketers could
+never get an understanding other than
+doing kind of market fielded market
+research they could never get a real
+time understanding of who their
+consumers are now an automotive company
+can understand precisely the audience
+that is engaging and configuring a
+particular car for them and they can
+then take that and use that to build
+greater audiences at scale that they can
+target within their ad servers so we're
+connecting the essentially that
+measurement planning buying and delivery
+process all into one single product 18
+months ago when I joined the company we
+had no marketers that we're using
+podcasts and even as early as six months
+ago we hadn't launched yet our product
+for marketers within the last six months
+we have hundreds of marketers now that
+are using the product right and nice
+when you look at when I say hundreds i'm
+talking about the top hundred bite
+marketers that are using the product now
+the everything from CPG to Pharma to
+auto to retail and really understanding
+those nuances about customers you know
+can you understand what's different
+about the people consuming a particular
+diaper product then the people consuming
+a particular liquid detergent all of a
+sudden now the CPG manufacturer has very
+granular information consumer so we have
+now every major agency is using our
+product understand audiences are you
+also helping them a better understand
+better you the data that they have
+in-house yes yeah great question so one
+unique piece about quantcast is we
+always start with the marketers data so
+we always start with an event right and
+the marketer thinks of events in
+different ways someone might think of it
+as a click on an ad but the majority of
+people think about it as
+tional level right who downloaded a
+brochure who configured a car who
+downloaded a coupon and then we have
+some marketers that work with us and
+actually pass us data so they passes
+data anonymously out of their CRM
+database and now they can get really
+interesting metrics like what was the
+shopping cart like for this particular
+consumer right show me what's they have
+audience profile someone who purchases
+five hundred dollars versus someone who
+purchases a hundred dollars because what
+people are looking for is we all know
+there's a there's a very sharp
+distribution curve when you look at
+consumption patterns there's a small
+amount of people that are highly
+profitable for companies and they want
+to find and replicate and find more
+people right that are in that highly
+profitable customer segment so we do
+allow marketers to bring in their own
+data leverage that then against the
+entire data set that we have you know
+that that data set then enables them to
+really create massive extension of
+audiences but only the audience's that
+matter only those audiences that are the
+most profitable for that should having
+to pay to count your traffic property be
+illegal illegal that's a strong term I
+think that quantcast we view that
+markets are efficient right we've
+announced a solution into the
+marketplace that does provide free data
+for everyone right you can come in and a
+self-service basis and use that so we
+think that over time right data is going
+to become something that is ubiquitous
+we believe that's important to have out
+in the marketplace so that people can
+make better decisions we then take the
+approach that we will then charge for
+the use of that data right when you
+actually want to action you can take an
+action with a think of it very similar
+to a stock market data is free in the
+stock market you can go find a stock
+quote pretty much from any website but
+when you want to take action to actually
+purchase a stalker you want to take
+action to engage in some sort of
+transaction you pay for the right to do
+that and so we think of that similarly
+in terms of our business right we
+provide data out to the market because
+that makes a more intelligent market
+creates a more efficient market and then
+we charge for the transaction level
+activity that happens and you know will
+our competitors follow suit I don't know
+you know I think it'll be difficult than
+active right I think it's one of those
+things that the market will tell us you
+know whether our model
+one that that ultimately prevails but I
+think that's the great thing about
+competition is that everyone can put out
+there they're offering in the market
+will judge what's the better software
+for them

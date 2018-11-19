@@ -1,0 +1,856 @@
+1
+00:00:00,089 --> 00:00:01,600
+You guys are not going to believe
+
+2
+00:00:01,600 --> 00:00:03,230
+what Trump just tweeted.
+
+3
+00:00:03,230 --> 00:00:03,800
+He–
+
+4
+00:00:03,960 --> 00:00:05,300
+Uh oh.
+
+5
+00:00:06,540 --> 00:00:07,160
+Sorry.
+
+6
+00:00:07,160 --> 00:00:08,080
+Try it again.
+
+7
+00:00:08,080 --> 00:00:10,200
+You guys are not going to believe what Trump—
+
+8
+00:00:11,200 --> 00:00:11,780
+Jesus.
+
+9
+00:00:11,780 --> 00:00:12,700
+What's wrong?
+
+10
+00:00:12,700 --> 00:00:13,880
+Um.
+
+11
+00:00:14,100 --> 00:00:14,600
+Nothing.
+
+12
+00:00:14,780 --> 00:00:15,300
+One more time.
+
+13
+00:00:15,300 --> 00:00:16,520
+You guys are not going to—
+
+14
+00:00:17,160 --> 00:00:17,780
+You know what?
+
+15
+00:00:17,780 --> 00:00:18,440
+Never mind.
+
+16
+00:00:18,440 --> 00:00:20,040
+Twitter's harassment problem is out of control
+
+17
+00:00:20,040 --> 00:00:21,880
+and it's changing the way we talk about
+
+18
+00:00:21,880 --> 00:00:23,620
+free speech on the internet.
+
+19
+00:00:27,940 --> 00:00:29,670
+Before we talk about what Twitter is,
+
+20
+00:00:29,670 --> 00:00:32,009
+we should talk about what Twitter was supposed
+to be.
+
+21
+00:00:32,009 --> 00:00:35,200
+In the preamble to its original rules, Twitter
+stated:
+
+22
+00:00:41,000 --> 00:00:42,560
+except in limited circumstances.”
+
+23
+00:00:42,560 --> 00:00:43,440
+In other words,
+
+24
+00:00:43,440 --> 00:00:45,280
+Twitter was supposed to be a neutral platform
+
+25
+00:00:45,290 --> 00:00:47,469
+where you could say anything to anyone
+
+26
+00:00:47,469 --> 00:00:48,860
+with very few rules.
+
+27
+00:00:48,860 --> 00:00:51,290
+Twitter, and Blogger before it, were very
+interested in
+
+28
+00:00:51,290 --> 00:00:54,060
+kind of committing to that principle of free
+speech.
+
+29
+00:00:54,060 --> 00:00:57,460
+If you get the barriers out of the way, speech
+will happen,
+
+30
+00:00:57,460 --> 00:01:00,949
+rich discussion will happen, the best ideas
+will bubble forth.
+
+31
+00:01:00,949 --> 00:01:03,149
+That's Tarleton Gillespie, who's been studying
+speech
+
+32
+00:01:03,149 --> 00:01:05,489
+on the internet since Napster was around.
+
+33
+00:01:05,489 --> 00:01:06,540
+What's Napster?
+
+34
+00:01:07,100 --> 00:01:07,960
+Am I old?
+
+35
+00:01:07,960 --> 00:01:11,119
+Twitter prided itself on being an anti-censorship
+platform,
+
+36
+00:01:11,119 --> 00:01:14,890
+especially after it played a role in the Arab
+Spring uprisings in 2011.
+
+37
+00:01:14,890 --> 00:01:17,979
+That was a very compelling idea for what Twitter
+could be,
+
+38
+00:01:17,979 --> 00:01:19,389
+what citizen journalism could be.
+
+39
+00:01:19,389 --> 00:01:20,930
+For a while, Twitter talked about themselves
+as
+
+40
+00:01:20,930 --> 00:01:23,450
+the free speech wing of the free speech party.
+
+41
+00:01:23,450 --> 00:01:24,649
+Twitter's commitment to free speech was
+
+42
+00:01:24,649 --> 00:01:26,789
+baked into its design and structure.
+
+43
+00:01:26,789 --> 00:01:27,990
+You can tweet anonymously,
+
+44
+00:01:27,990 --> 00:01:29,829
+meaning you won't be punished for your opinions.
+
+45
+00:01:29,829 --> 00:01:31,000
+You can tweet at whoever you want,
+
+46
+00:01:31,000 --> 00:01:32,469
+meaning you don't need permission to talk
+to
+
+47
+00:01:32,469 --> 00:01:33,999
+politicians and celebrities.
+
+48
+00:01:33,999 --> 00:01:35,249
+And maybe most importantly,
+
+49
+00:01:35,249 --> 00:01:37,920
+beyond copyright infringement and impersonation,
+
+50
+00:01:37,920 --> 00:01:40,939
+Twitter was not interested in monitoring what
+you tweeted.
+
+51
+00:01:40,939 --> 00:01:43,020
+That was a very powerful commitment
+for them
+
+52
+00:01:43,020 --> 00:01:46,000
+and made them design their tool in really
+compelling ways.
+
+53
+00:01:46,000 --> 00:01:47,240
+Sorry, one second.
+
+54
+00:01:51,000 --> 00:01:52,520
+Jesus, someone tweeted that?
+
+55
+00:01:52,800 --> 00:01:53,959
+No, it's a text from my mom.
+
+56
+00:01:53,959 --> 00:01:56,639
+Twitter began as a radical experiment in free
+speech.
+
+57
+00:01:56,639 --> 00:01:59,020
+But over time that experiment started to fall
+apart
+
+58
+00:01:59,020 --> 00:02:01,049
+because the same features that made Twitter
+
+59
+00:02:01,049 --> 00:02:04,429
+so attractive to citizen journalists and political
+dissidents
+
+60
+00:02:04,429 --> 00:02:07,149
+also made it a perfect environment for trolls:
+
+61
+00:02:07,149 --> 00:02:09,758
+neo-Nazis, white supremacists, and misogynists.
+
+62
+00:02:09,758 --> 00:02:12,310
+These users realized they could use Twitter's
+anonymity
+
+63
+00:02:12,310 --> 00:02:15,569
+and structure to target and harass people
+they didn't agree with.
+
+64
+00:02:15,569 --> 00:02:16,460
+And before long,
+
+65
+00:02:16,460 --> 00:02:19,459
+Twitter had a massive PR problem on their
+hands.
+
+66
+00:02:19,459 --> 00:02:21,370
+Every few weeks, another story about Twitter
+
+67
+00:02:21,370 --> 00:02:23,099
+being overrun by abuse —
+
+68
+00:02:23,099 --> 00:02:26,620
+high-profile users like journalists, celebrities,
+and authors
+
+69
+00:02:26,620 --> 00:02:28,909
+leaving the platform because of Twitter's
+inability
+
+70
+00:02:28,909 --> 00:02:30,100
+to deal with harassment.
+
+71
+00:02:30,100 --> 00:02:32,129
+One of those users was Lindy West.
+
+72
+00:02:32,129 --> 00:02:34,879
+I am a contributing opinion writer for the
+New York Times.
+
+73
+00:02:34,879 --> 00:02:37,629
+I wrote a book called Shrill that came out
+in 2016.
+
+74
+00:02:37,629 --> 00:02:40,760
+I'm just a general sort of internet feminist.
+
+75
+00:02:40,760 --> 00:02:42,409
+West loved Twitter at first.
+
+76
+00:02:42,409 --> 00:02:43,409
+But over time,
+
+77
+00:02:43,409 --> 00:02:46,480
+her work made her the target of brutal harassment
+campaigns.
+
+78
+00:02:46,480 --> 00:02:48,349
+Very quickly, my experience on Twitter became
+
+79
+00:02:48,349 --> 00:02:50,730
+one of endless constant harassment.
+
+80
+00:02:50,730 --> 00:02:51,730
+I'll just read them.
+
+81
+00:02:51,730 --> 00:02:54,810
+"No need for you to worry about rape, uggo."
+
+82
+00:02:54,810 --> 00:02:57,920
+"That big bitch is bitter that no one wants
+to rape her."
+
+83
+00:02:57,920 --> 00:02:59,489
+"What a fucking cunt."
+
+84
+00:02:59,489 --> 00:03:00,890
+"Kill yourself you dumb bitch."
+
+85
+00:03:00,890 --> 00:03:01,890
+Is that enough?
+
+86
+00:03:01,890 --> 00:03:03,519
+Oh, there's so many more.
+
+87
+00:03:03,519 --> 00:03:05,730
+West recognized early on that that harassment
+
+88
+00:03:05,730 --> 00:03:06,829
+wasn't just mean.
+
+89
+00:03:06,829 --> 00:03:07,820
+It had a purpose.
+
+90
+00:03:12,440 --> 00:03:15,700
+They want you removed from the national conversation
+
+91
+00:03:15,709 --> 00:03:18,640
+and removed from whatever little shred of
+power
+
+92
+00:03:18,640 --> 00:03:20,030
+you've managed to achieve.
+
+93
+00:03:20,030 --> 00:03:21,400
+And Twitter realized it too.
+
+94
+00:03:21,400 --> 00:03:24,960
+In 2015, former CEO Dick Costolo told employees,
+
+95
+00:03:34,580 --> 00:03:37,080
+Twitter's radical free speech experiment had
+failed.
+
+96
+00:03:37,080 --> 00:03:38,620
+If you have a commitment to free speech
+
+97
+00:03:38,629 --> 00:03:40,859
+and some of your users are being shouted down,
+
+98
+00:03:40,859 --> 00:03:43,079
+threatened, and driven off the platform,
+
+99
+00:03:43,079 --> 00:03:44,269
+something's happening to their speech.
+
+100
+00:03:44,269 --> 00:03:47,200
+The idea that you can be neutral without any
+moderation
+
+101
+00:03:47,200 --> 00:03:50,660
+is an illusion, and it's a very lazy, self-serving
+illusion.
+
+102
+00:03:57,420 --> 00:03:58,420
+Sorry, sorry.
+
+103
+00:04:03,580 --> 00:04:04,840
+Twitter again?
+
+104
+00:04:06,379 --> 00:04:08,840
+So this is where things start to get really
+dicey,
+
+105
+00:04:08,840 --> 00:04:10,609
+because Twitter has to answer this basic
+
+106
+00:04:10,609 --> 00:04:12,139
+but messy question:
+
+107
+00:04:12,139 --> 00:04:14,579
+Is Twitter really a neutral service provider,
+
+108
+00:04:14,579 --> 00:04:17,899
+like Verizon or Comcast, offering a semi-public
+platform
+
+109
+00:04:17,899 --> 00:04:19,649
+without caring about what happens on it?
+
+110
+00:04:19,649 --> 00:04:21,388
+Or had Twitter become something else,
+
+111
+00:04:21,389 --> 00:04:23,470
+a community moderator that cares about
+
+112
+00:04:23,470 --> 00:04:25,919
+the content and behavior of its users?
+
+113
+00:04:25,919 --> 00:04:27,670
+So far Twitter's answer has been:
+
+114
+00:04:27,670 --> 00:04:28,670
+Eeeeeh.
+
+115
+00:04:28,670 --> 00:04:31,150
+On one hand, the company is clearly moving
+away
+
+116
+00:04:31,150 --> 00:04:33,120
+from its radical free speech roots.
+
+117
+00:04:33,120 --> 00:04:34,560
+Twitter has slowly introduced tougher
+
+118
+00:04:34,560 --> 00:04:36,460
+and tougher rules for dealing with harassment,
+
+119
+00:04:36,460 --> 00:04:38,199
+prohibiting things like violent threats
+
+120
+00:04:38,199 --> 00:04:39,780
+and incitements to harass.
+
+121
+00:04:39,780 --> 00:04:41,520
+And in October, Twitter announced new rules
+
+122
+00:04:41,520 --> 00:04:44,120
+to deal with violent groups and hateful images.
+
+123
+00:04:44,120 --> 00:04:46,699
+Those are positive developments for victims
+of abuse,
+
+124
+00:04:46,699 --> 00:04:48,810
+but enforcing those rules is making Twitter
+answer
+
+125
+00:04:48,810 --> 00:04:51,950
+tougher and tougher questions about users’
+content.
+
+126
+00:04:51,950 --> 00:04:53,520
+Is this harassment?
+
+127
+00:04:53,520 --> 00:04:54,919
+What about this?
+
+128
+00:04:54,919 --> 00:04:56,870
+What about now?
+
+129
+00:04:56,870 --> 00:04:58,990
+Is this harassment?
+
+130
+00:04:58,990 --> 00:05:00,770
+What about now?
+
+131
+00:05:00,770 --> 00:05:03,400
+Is this an example of hate speech?
+
+132
+00:05:03,400 --> 00:05:05,580
+What about this?
+
+133
+00:05:05,600 --> 00:05:08,000
+Is this a violent threat?
+
+134
+00:05:08,000 --> 00:05:09,920
+How about now?
+
+135
+00:05:09,920 --> 00:05:12,180
+What about now?
+
+136
+00:05:12,180 --> 00:05:14,520
+Is this a hate image?
+
+137
+00:05:14,520 --> 00:05:16,140
+What about this?
+
+138
+00:05:16,140 --> 00:05:17,820
+How about now?
+
+139
+00:05:17,830 --> 00:05:20,250
+Is this a dangerous group?
+
+140
+00:05:20,250 --> 00:05:23,590
+What about this?
+
+141
+00:05:23,590 --> 00:05:26,310
+There's no neutral way to answer these questions.
+
+142
+00:05:28,330 --> 00:05:29,729
+The amount of accounts they're looking at,
+
+143
+00:05:29,729 --> 00:05:31,800
+the kind of range they're looking at,
+
+144
+00:05:31,800 --> 00:05:33,699
+how they judge what someone's doing,
+
+145
+00:05:33,699 --> 00:05:35,360
+what their intent is, whether they're reading
+
+146
+00:05:35,360 --> 00:05:38,250
+the situation correctly, those are immensely
+difficult things to do.
+
+147
+00:05:38,250 --> 00:05:39,940
+Twitter won't say how it's going to make these
+calls.
+
+148
+00:05:39,940 --> 00:05:42,060
+It's just asking us to trust them.
+
+149
+00:05:42,060 --> 00:05:44,000
+And West worries those decisions might
+
+150
+00:05:44,000 --> 00:05:45,800
+end up making the problem worse.
+
+151
+00:05:45,800 --> 00:05:46,800
+The waters really get muddied.
+
+152
+00:05:46,800 --> 00:05:48,930
+I know black activists whose accounts
+
+153
+00:05:48,930 --> 00:05:51,259
+have been shut down for criticizing white
+people
+
+154
+00:05:51,260 --> 00:05:52,260
+because it's "racist."
+
+155
+00:05:55,720 --> 00:05:58,340
+At the same time, Twitter still wants to be
+treated
+
+156
+00:05:58,340 --> 00:05:59,919
+like a neutral speech platform.
+
+157
+00:05:59,919 --> 00:06:02,590
+In July, a month before the white supremacist
+rally
+
+158
+00:06:02,590 --> 00:06:04,360
+in Charlottesville, Twitter rolled out
+
+159
+00:06:04,360 --> 00:06:06,879
+a "see every side" ad campaign,
+
+160
+00:06:06,879 --> 00:06:09,729
+celebrating its "everything's cool" approach
+to politics.
+
+161
+00:06:09,729 --> 00:06:11,080
+Yep, that's a frat bro,
+
+162
+00:06:11,080 --> 00:06:12,569
+Chadwick I'm assuming,
+
+163
+00:06:12,569 --> 00:06:14,470
+tweeting about climate change being fake.
+
+164
+00:06:14,470 --> 00:06:15,470
+Sweet Chadwick.
+
+165
+00:06:15,470 --> 00:06:17,770
+When current Twitter CEO Jack Dorsey was asked
+
+166
+00:06:17,770 --> 00:06:20,240
+what kind of tool Twitter is, Dorsey responded
+
+167
+00:06:21,680 --> 00:06:22,280
+To what?
+
+168
+00:06:24,900 --> 00:06:26,139
+What does that mean?
+
+169
+00:06:26,140 --> 00:06:27,580
+Closer to neo-Nazis?
+
+170
+00:06:27,580 --> 00:06:29,440
+Closer to the targets of our harassment?
+
+171
+00:06:29,440 --> 00:06:31,740
+Twitter is stuck between these competing visions
+
+172
+00:06:31,740 --> 00:06:33,740
+of its responsibility to its users.
+
+173
+00:06:33,740 --> 00:06:35,629
+Which is how we end up with a website that
+bans
+
+174
+00:06:35,629 --> 00:06:37,780
+white supremacist content but verifies
+
+175
+00:06:37,780 --> 00:06:39,220
+actual white supremacists.
+
+176
+00:06:39,220 --> 00:06:40,940
+I don't envy Twitter.
+
+177
+00:06:40,940 --> 00:06:42,630
+You know, it's a huge problem.
+
+178
+00:06:42,630 --> 00:06:43,830
+It's very, very complicated.
+
+179
+00:06:43,830 --> 00:06:46,020
+I don't know how to fix it.
+
+180
+00:06:49,860 --> 00:06:50,680
+Did you tweet this at me?
+
+181
+00:06:50,680 --> 00:06:51,360
+Wrap it up!
+
+182
+00:06:51,360 --> 00:06:52,020
+Fine, look.
+
+183
+00:06:52,020 --> 00:06:53,980
+Any platform with rules has to have
+
+184
+00:06:53,990 --> 00:06:55,180
+a reason for those rules,
+
+185
+00:06:55,180 --> 00:06:57,930
+a goal those rules are trying to advance.
+
+186
+00:06:57,930 --> 00:06:58,930
+Twitter doesn't right now.
+
+187
+00:06:58,930 --> 00:07:00,939
+But by starting to crack down on abuse,
+
+188
+00:07:00,939 --> 00:07:03,240
+Twitter is kind of opening Pandora's box,
+
+189
+00:07:03,240 --> 00:07:05,909
+opening itself up to more and more responsibility
+
+190
+00:07:05,909 --> 00:07:07,539
+for what happens on its platform.
+
+191
+00:07:07,539 --> 00:07:10,389
+If you take the other view of free speech
+that says,
+
+192
+00:07:10,389 --> 00:07:13,610
+"You have to make a venue where speech works,"
+
+193
+00:07:13,610 --> 00:07:15,380
+that requires having an aspiration.
+
+194
+00:07:17,740 --> 00:07:19,660
+It's not just, "Be more open and connected."
+
+195
+00:07:19,669 --> 00:07:21,650
+It's not just, "Talk to anyone you want to."
+
+196
+00:07:21,650 --> 00:07:23,919
+It's actually, "We're trying to build a conversation
+here,
+
+197
+00:07:23,919 --> 00:07:25,819
+and if you don't look like you're building
+a conversation
+
+198
+00:07:25,819 --> 00:07:26,940
+then you don't belong here."
+
+199
+00:07:26,940 --> 00:07:29,009
+That's a very hard kind of mental shift.
+
+200
+00:07:29,009 --> 00:07:30,680
+That's not necessarily a bad thing,
+
+201
+00:07:30,680 --> 00:07:33,449
+but if we're giving that much power to a private
+company,
+
+202
+00:07:33,449 --> 00:00:00,000
+we better hope it knows what it's doing.
+

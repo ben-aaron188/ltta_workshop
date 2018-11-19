@@ -1,0 +1,90 @@
+Here we are, in a very unusual
+space, with six main windows
+into neighboring cells.
+If you look straight up
+or straight down, everything
+looks about normal.
+The cells above and below us
+are just like the ones we're in.
+Let's move downward and 
+follow this infinite column of cells
+as we watch more cells
+come into view.
+In this direction, space behaves
+the way we're used to in
+everyday life — it's euclidean.
+But what about the cells
+around you to the side?
+You'll notice something
+different going on.
+The four cells directly around you look
+pretty similar to the
+one you're in, but as you look
+towards the horizon, they appear
+to become taller and narrower.
+Let's go towards the horizon and 
+see what shape these cells actually are.
+You could think of this as the
+cells themselves warping
+and changing shape as we move.
+But the way I think of it,
+and the way this model was
+programmed, has all cells as
+being the same, unchanging shape
+to begin with, and it's space itself
+that is warped.
+Along the horizontal plane,
+this space is hyperbolic.
+It's curved in such a way that
+there's more room to fit more
+cells, and that's why they
+appear squished from afar.
+Now let's see what space looks like
+when it's curved hyperbolically 
+in all directions equally.
+As we move towards the horizon,
+every cell is still the same,
+but rather than there being
+just more room horizontally
+for more cells, making them appear
+thinner, there's more room vertically
+as well, making them appear smaller 
+in height than they really are.
+In the euclidean space we're used to, 
+only four cubes can fit around one edge
+or four square cornered rooms.
+But here in hyperbolic space,
+we can fit six cube-shaped rooms
+around a single column.
+Let's go back to the space that's 
+hyperbolic in just two directions
+and euclidean in the third.
+The horizontal beams
+connect four cells as we'd 
+expect from euclidean space.
+The vertical beams, on the other
+hand, connect six cells.
+Let's start in this olive green cell 
+and move around one of the columns.
+First, we move straight into
+a neighboring teal cell.
+At the center, we'll turn left 
+90 degrees and go straight into
+the sky blue cell.
+From the center of this one,
+we'll make another 90 degree left turn 
+to move into the light peach cell.
+From there, 90 degrees brings us
+not to the original olive green cell,
+but this coral orange cell.
+Another 90 degree left, and
+we're heading into the deep red cell.
+And finally, our last turn,
+will bring us back to the 
+olive green cell we started in.
+The path we took around
+that column was a regular
+hexagon with six right angles.
+And that's the kind of thing that
+can happen when your 
+space is curved.

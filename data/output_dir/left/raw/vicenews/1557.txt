@@ -1,0 +1,392 @@
+1
+00:00:00,530 --> 00:00:02,669
+artificial<font color="#CCCCCC"> intelligence is starting to</font>
+
+2
+00:00:02,669 --> 00:00:04,529
+find its first<font color="#E5E5E5"> real-world applications</font>
+
+3
+00:00:04,529 --> 00:00:07,049
+the latest is a robot<font color="#E5E5E5"> lawyer that</font>
+
+4
+00:00:07,049 --> 00:00:09,540
+overturns parking tickets<font color="#E5E5E5"> a hundred and</font>
+
+5
+00:00:09,540 --> 00:00:11,269
+ninety thousand of them at last<font color="#E5E5E5"> count</font>
+
+6
+00:00:11,269 --> 00:00:13,710
+<font color="#E5E5E5">the product was</font><font color="#CCCCCC"> designed</font><font color="#E5E5E5"> not by a tech</font>
+
+7
+00:00:13,710 --> 00:00:16,049
+giant but by a college kid<font color="#E5E5E5"> now one of</font>
+
+8
+00:00:16,049 --> 00:00:17,670
+the<font color="#E5E5E5"> most heavily recruited engineers in</font>
+
+9
+00:00:17,670 --> 00:00:18,650
+America
+
+10
+00:00:18,650 --> 00:00:21,750
+<font color="#CCCCCC">Ravi samaya went to meet him where</font>
+
+11
+00:00:21,750 --> 00:00:23,310
+<font color="#E5E5E5">outside the room of Josh Browder</font><font color="#CCCCCC"> who's</font>
+
+12
+00:00:23,310 --> 00:00:25,109
+19 years old<font color="#E5E5E5"> and studying computer</font>
+
+13
+00:00:25,109 --> 00:00:27,180
+science at Stanford University we're
+
+14
+00:00:27,180 --> 00:00:28,500
+going to go in and find<font color="#E5E5E5"> out why is one</font>
+
+15
+00:00:28,500 --> 00:00:30,269
+of the<font color="#E5E5E5"> most in-demand coders in Silicon</font>
+
+16
+00:00:30,269 --> 00:00:31,920
+Valley<font color="#E5E5E5"> we have to be kind of quiet</font>
+
+17
+00:00:31,920 --> 00:00:34,340
+<font color="#E5E5E5">because his roommates still sleeping</font>
+
+18
+00:00:34,340 --> 00:00:37,350
+despite his modest workspace<font color="#CCCCCC"> josh has</font>
+
+19
+00:00:37,350 --> 00:00:39,329
+received offers<font color="#E5E5E5"> for money jobs and help</font>
+
+20
+00:00:39,329 --> 00:00:41,460
+<font color="#E5E5E5">from virtually every</font><font color="#CCCCCC"> bold-faced name in</font>
+
+21
+00:00:41,460 --> 00:00:43,829
+the tech industry<font color="#CCCCCC"> he has so far</font><font color="#E5E5E5"> refused</font>
+
+22
+00:00:43,829 --> 00:00:45,329
+nearly all of<font color="#E5E5E5"> them</font><font color="#CCCCCC"> talk me through</font><font color="#E5E5E5"> the</font>
+
+23
+00:00:45,329 --> 00:00:46,920
+<font color="#CCCCCC">process a bit</font><font color="#E5E5E5"> so you just you came home</font>
+
+24
+00:00:46,920 --> 00:00:48,360
+you got a<font color="#E5E5E5"> parking ticket and you just</font>
+
+25
+00:00:48,360 --> 00:00:50,219
+<font color="#E5E5E5">thought I can't do this anymore</font>
+
+26
+00:00:50,219 --> 00:00:51,870
+<font color="#CCCCCC">well</font><font color="#E5E5E5"> it turned out to be too many</font>
+
+27
+00:00:51,870 --> 00:00:54,780
+parking<font color="#CCCCCC"> tickets to count but</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> roughly</font>
+
+28
+00:00:54,780 --> 00:00:57,750
+like what more than<font color="#CCCCCC"> a dozen</font><font color="#E5E5E5"> and so I</font>
+
+29
+00:00:57,750 --> 00:01:00,510
+<font color="#E5E5E5">looked online at all these like dodgy</font>
+
+30
+00:01:00,510 --> 00:01:02,760
+laws<font color="#E5E5E5"> to find out exactly how to get out</font>
+
+31
+00:01:02,760 --> 00:01:03,539
+<font color="#E5E5E5">of my tickets</font>
+
+32
+00:01:03,539 --> 00:01:05,700
+I even measured<font color="#E5E5E5"> one of the parking bays</font>
+
+33
+00:01:05,700 --> 00:01:07,380
+<font color="#CCCCCC">and found out</font><font color="#E5E5E5"> I was legally</font><font color="#CCCCCC"> too small</font>
+
+34
+00:01:07,380 --> 00:01:08,700
+and it was it<font color="#E5E5E5"> was such a great</font><font color="#CCCCCC"> feeling</font>
+
+35
+00:01:08,700 --> 00:01:10,650
+<font color="#CCCCCC">when I got out of that to</font><font color="#E5E5E5"> here soon</font>
+
+36
+00:01:10,650 --> 00:01:13,020
+everyone I knew was asking<font color="#CCCCCC"> for help and</font>
+
+37
+00:01:13,020 --> 00:01:14,220
+I<font color="#E5E5E5"> thought I can't help everyone</font>
+
+38
+00:01:14,220 --> 00:01:15,869
+<font color="#E5E5E5">individually but I should create like a</font>
+
+39
+00:01:15,869 --> 00:01:19,080
+<font color="#E5E5E5">website it's more than</font><font color="#CCCCCC"> just a website</font><font color="#E5E5E5"> it</font>
+
+40
+00:01:19,080 --> 00:01:21,119
+uses artificial<font color="#E5E5E5"> intelligence</font><font color="#CCCCCC"> and a huge</font>
+
+41
+00:01:21,119 --> 00:01:23,250
+body of legal documentation<font color="#E5E5E5"> to generate</font>
+
+42
+00:01:23,250 --> 00:01:25,439
+the perfect appeal<font color="#E5E5E5"> by asking you just a</font>
+
+43
+00:01:25,439 --> 00:01:27,479
+handful of questions<font color="#CCCCCC"> and all for free</font>
+
+44
+00:01:27,479 --> 00:01:29,340
+it has huge potential for<font color="#CCCCCC"> expansion</font>
+
+45
+00:01:29,340 --> 00:01:31,229
+which has not<font color="#E5E5E5"> gone unnoticed in</font>
+
+46
+00:01:31,229 --> 00:01:33,810
+<font color="#E5E5E5">hyper-competitive Silicon Valley pop</font>
+
+47
+00:01:33,810 --> 00:01:35,759
+tech<font color="#E5E5E5"> companies tech entrepreneurs</font>
+
+48
+00:01:35,759 --> 00:01:37,619
+wanting<font color="#E5E5E5"> to buy the website</font><font color="#CCCCCC"> but other</font>
+
+49
+00:01:37,619 --> 00:01:40,439
+than<font color="#E5E5E5"> I'm actually offering</font><font color="#CCCCCC"> I can't</font><font color="#E5E5E5"> get</font>
+
+50
+00:01:40,439 --> 00:01:42,979
+into<font color="#E5E5E5"> the specifics</font><font color="#CCCCCC"> at and are we</font><font color="#E5E5E5"> talking</font>
+
+51
+00:01:42,979 --> 00:01:44,970
+thousands hundreds of<font color="#E5E5E5"> thousands millions</font>
+
+52
+00:01:44,970 --> 00:01:48,899
+<font color="#E5E5E5">and I think the top offer has been quite</font>
+
+53
+00:01:48,899 --> 00:01:50,640
+high but I don't really<font color="#E5E5E5"> like</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> talk</font>
+
+54
+00:01:50,640 --> 00:01:52,320
+about it you<font color="#E5E5E5"> know would</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> be tempted</font>
+
+55
+00:01:52,320 --> 00:01:54,390
+to expand and become<font color="#E5E5E5"> a full-service like</font>
+
+56
+00:01:54,390 --> 00:01:56,460
+robot law firm I mean that's why I'm
+
+57
+00:01:56,460 --> 00:01:57,840
+trying<font color="#E5E5E5"> to do for now</font>
+
+58
+00:01:57,840 --> 00:01:59,750
+he remains obsessed with parking tickets
+
+59
+00:01:59,750 --> 00:02:02,159
+<font color="#CCCCCC">which</font><font color="#E5E5E5"> particularly and genuinely make</font>
+
+60
+00:02:02,159 --> 00:02:04,570
+him angry
+
+61
+00:02:04,570 --> 00:02:08,600
+it's it's a true disgrace<font color="#E5E5E5"> this guy paid</font>
+
+62
+00:02:08,600 --> 00:02:10,699
+legitimately for parking and then got a
+
+63
+00:02:10,699 --> 00:02:14,000
+<font color="#E5E5E5">$71 fine it's just a pure question of</font>
+
+64
+00:02:14,000 --> 00:02:17,209
+<font color="#E5E5E5">making money off motorists turn right</font>
+
+65
+00:02:17,209 --> 00:02:19,250
+<font color="#CCCCCC">onto Polk</font><font color="#E5E5E5"> Street</font><font color="#CCCCCC"> then turn right</font><font color="#E5E5E5"> onto</font>
+
+66
+00:02:19,250 --> 00:02:21,890
+Chestnut Street your hit rates like<font color="#CCCCCC"> 60%</font>
+
+67
+00:02:21,890 --> 00:02:24,680
+<font color="#CCCCCC">so</font><font color="#E5E5E5"> far yes and so San Francisco</font><font color="#CCCCCC"> is</font>
+
+68
+00:02:24,680 --> 00:02:27,830
+pulling in<font color="#CCCCCC"> 130 million in parking ticket</font>
+
+69
+00:02:27,830 --> 00:02:30,230
+<font color="#CCCCCC">and citation revenue</font><font color="#E5E5E5"> yes so you got to</font>
+
+70
+00:02:30,230 --> 00:02:32,840
+cut<font color="#CCCCCC"> off a big</font><font color="#E5E5E5"> chunk</font><font color="#CCCCCC"> of that revenue does</font>
+
+71
+00:02:32,840 --> 00:02:34,520
+that worry<font color="#CCCCCC"> you at</font><font color="#E5E5E5"> all in the short term</font>
+
+72
+00:02:34,520 --> 00:02:36,200
+it might<font color="#E5E5E5"> cut off the revenue but</font><font color="#CCCCCC"> I</font>
+
+73
+00:02:36,200 --> 00:02:37,640
+hopefully<font color="#E5E5E5"> in the longer term it will</font>
+
+74
+00:02:37,640 --> 00:02:38,930
+mean that<font color="#E5E5E5"> the</font><font color="#CCCCCC"> government raises</font><font color="#E5E5E5"> the</font>
+
+75
+00:02:38,930 --> 00:02:40,580
+revenue<font color="#E5E5E5"> how they should raise the</font>
+
+76
+00:02:40,580 --> 00:02:43,040
+revenue via taxes it's really stressful
+
+77
+00:02:43,040 --> 00:02:46,130
+<font color="#CCCCCC">I mean I'm not the</font><font color="#E5E5E5"> best at understanding</font>
+
+78
+00:02:46,130 --> 00:02:48,550
+when they're like three<font color="#E5E5E5"> signs saying</font>
+
+79
+00:02:48,550 --> 00:02:52,130
+different<font color="#CCCCCC"> things and so out of</font><font color="#E5E5E5"> necessity</font>
+
+80
+00:02:52,130 --> 00:02:54,230
+I like the<font color="#CCCCCC"> hat to become knowledge</font><font color="#E5E5E5"> born</font>
+
+81
+00:02:54,230 --> 00:02:57,430
+how to fight these tickets
+
+82
+00:03:02,019 --> 00:03:06,409
+getting closer it's<font color="#E5E5E5"> a gradual approach I</font>
+
+83
+00:03:06,409 --> 00:03:08,750
+<font color="#CCCCCC">think it's good</font><font color="#E5E5E5"> Josh Tilly has personal</font>
+
+84
+00:03:08,750 --> 00:03:10,670
+frustrations with parking<font color="#E5E5E5"> but the</font>
+
+85
+00:03:10,670 --> 00:03:12,170
+consensus is that<font color="#E5E5E5"> artificial</font>
+
+86
+00:03:12,170 --> 00:03:13,730
+<font color="#CCCCCC">intelligence is likely to hit the</font><font color="#E5E5E5"> law</font>
+
+87
+00:03:13,730 --> 00:03:17,120
+first<font color="#E5E5E5"> it is as Josh points out just an</font>
+
+88
+00:03:17,120 --> 00:03:19,519
+operating<font color="#E5E5E5"> code for life and computers a</font>
+
+89
+00:03:19,519 --> 00:03:21,439
+<font color="#CCCCCC">gooda code</font><font color="#E5E5E5"> his robot lawyers have</font>
+
+90
+00:03:21,439 --> 00:03:23,390
+expanded<font color="#CCCCCC"> to include getting</font><font color="#E5E5E5"> compensation</font>
+
+91
+00:03:23,390 --> 00:03:25,609
+for delayed flights and will also<font color="#E5E5E5"> soon</font>
+
+92
+00:03:25,609 --> 00:03:27,889
+<font color="#E5E5E5">turned voice-activated</font><font color="#CCCCCC"> to help</font><font color="#E5E5E5"> Arabic</font>
+
+93
+00:03:27,889 --> 00:03:29,720
+<font color="#E5E5E5">speaking refugees claim asylum in</font>
+
+94
+00:03:29,720 --> 00:03:32,870
+Britain<font color="#CCCCCC"> josh has vast ambitions</font><font color="#E5E5E5"> but for</font>
+
+95
+00:03:32,870 --> 00:03:35,030
+now he plans<font color="#CCCCCC"> to roll out the</font><font color="#E5E5E5"> parking</font>
+
+96
+00:03:35,030 --> 00:03:36,889
+<font color="#CCCCCC">ticket spot in cities across America</font>
+
+97
+00:03:36,889 --> 00:03:39,590
+<font color="#E5E5E5">including San Francisco and then I think</font>
+
+98
+00:03:39,590 --> 00:00:00,000
+let's get<font color="#E5E5E5"> out of the car</font>
+

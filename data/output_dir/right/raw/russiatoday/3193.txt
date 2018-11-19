@@ -1,0 +1,28 @@
+1
+00:00:04,990 --> 00:00:10,210
+one<font color="#E5E5E5"> critter</font><font color="#CCCCCC"> give it to me</font><font color="#E5E5E5"> charge three</font>
+
+2
+00:00:10,210 --> 00:00:15,309
+wait I do you know I<font color="#CCCCCC"> gotta do</font><font color="#E5E5E5"> this cup I</font>
+
+3
+00:00:15,309 --> 00:00:27,070
+did get<font color="#E5E5E5"> out of the car now</font><font color="#CCCCCC"> get out of</font>
+
+4
+00:00:27,070 --> 00:00:28,509
+<font color="#E5E5E5">the car</font><font color="#CCCCCC"> you're</font><font color="#E5E5E5"> under arrest</font>
+
+5
+00:00:28,509 --> 00:00:48,190
+get out<font color="#E5E5E5"> of the car stop</font>
+
+6
+00:00:48,190 --> 00:00:54,539
+sorry Nick behind your<font color="#CCCCCC"> back</font>
+
+7
+00:00:57,719 --> 00:00:00,000
+<font color="#CCCCCC">all right I got Nick</font>
+

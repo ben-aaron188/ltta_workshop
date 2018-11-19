@@ -1,0 +1,384 @@
+1
+00:00:04,670 --> 00:00:07,340
+Google Maps is huge and they're in this
+
+2
+00:00:07,340 --> 00:00:09,080
+space now and there are more<font color="#E5E5E5"> and more</font>
+
+3
+00:00:09,080 --> 00:00:10,969
+location-based apps launched all the
+
+4
+00:00:10,969 --> 00:00:13,070
+time how is<font color="#E5E5E5"> hops not fighting these</font>
+
+5
+00:00:13,070 --> 00:00:15,559
+behemoths competitors to tell you the
+
+6
+00:00:15,559 --> 00:00:18,619
+<font color="#CCCCCC">truth in terms of what we do which is</font>
+
+7
+00:00:18,619 --> 00:00:20,690
+get people<font color="#E5E5E5"> from point A to point B</font>
+
+8
+00:00:20,690 --> 00:00:22,190
+through a combination of walking<font color="#CCCCCC"> in mass</font>
+
+9
+00:00:22,190 --> 00:00:23,660
+transit directions there's really only
+
+10
+00:00:23,660 --> 00:00:25,699
+one other company that is doing that and
+
+11
+00:00:25,699 --> 00:00:28,119
+it's google right through google transit
+
+12
+00:00:28,119 --> 00:00:31,150
+no none of the other location-based
+
+13
+00:00:31,150 --> 00:00:33,550
+services or companies that were<font color="#E5E5E5"> aware of</font>
+
+14
+00:00:33,550 --> 00:00:37,159
+<font color="#E5E5E5">are providing that user experience in</font>
+
+15
+00:00:37,159 --> 00:00:40,100
+<font color="#CCCCCC">that service that said you</font><font color="#E5E5E5"> know Google's</font>
+
+16
+00:00:40,100 --> 00:00:42,409
+of the company and we have a challenge
+
+17
+00:00:42,409 --> 00:00:43,790
+<font color="#CCCCCC">out of us in terms</font><font color="#E5E5E5"> of trying to</font>
+
+18
+00:00:43,790 --> 00:00:45,409
+differentiate ourselves versus the
+
+19
+00:00:45,409 --> 00:00:47,000
+behemoth there's one<font color="#CCCCCC"> thing I've always</font>
+
+20
+00:00:47,000 --> 00:00:49,180
+<font color="#E5E5E5">wanted to know how do you keep track of</font>
+
+21
+00:00:49,180 --> 00:00:52,519
+changes in the transit system yeah it's
+
+22
+00:00:52,519 --> 00:00:53,750
+a<font color="#E5E5E5"> great question at the end of the day</font>
+
+23
+00:00:53,750 --> 00:00:55,940
+<font color="#E5E5E5">we're data company we're data aggregator</font>
+
+24
+00:00:55,940 --> 00:00:59,239
+and<font color="#E5E5E5"> data normalizer so we source data</font>
+
+25
+00:00:59,239 --> 00:01:01,220
+from the hundreds of different transit
+
+26
+00:01:01,220 --> 00:01:03,260
+agencies throughout the country we're
+
+27
+00:01:03,260 --> 00:01:06,110
+now actually in 17 cities not just<font color="#E5E5E5"> New</font>
+
+28
+00:01:06,110 --> 00:01:08,420
+York so within any one city there's
+
+29
+00:01:08,420 --> 00:01:10,609
+numerous transit agencies i think in<font color="#E5E5E5"> New</font>
+
+30
+00:01:10,609 --> 00:01:12,170
+<font color="#E5E5E5">York there's over 30 trip different</font>
+
+31
+00:01:12,170 --> 00:01:15,380
+transit agencies not just<font color="#E5E5E5"> MTA so we need</font>
+
+32
+00:01:15,380 --> 00:01:18,079
+to make sure<font color="#E5E5E5"> that we are sourcing the</font>
+
+33
+00:01:18,079 --> 00:01:20,049
+most current<font color="#E5E5E5"> and accurate data from them</font>
+
+34
+00:01:20,049 --> 00:01:23,689
+and are staying<font color="#E5E5E5"> on top of any changes</font>
+
+35
+00:01:23,689 --> 00:01:26,000
+<font color="#E5E5E5">that are happening in real</font><font color="#CCCCCC"> time out on</font>
+
+36
+00:01:26,000 --> 00:01:28,630
+<font color="#E5E5E5">the railways and on the roadways which</font>
+
+37
+00:01:28,630 --> 00:01:34,009
+we do that through both structured data
+
+38
+00:01:34,009 --> 00:01:35,780
+feeds as well as unstructured data fit
+
+39
+00:01:35,780 --> 00:01:38,149
+so you get you get regular updates so we
+
+40
+00:01:38,149 --> 00:01:39,710
+do get regular updates from the transit
+
+41
+00:01:39,710 --> 00:01:41,240
+agencies but then we have<font color="#CCCCCC"> to make sense</font>
+
+42
+00:01:41,240 --> 00:01:43,219
+<font color="#E5E5E5">of those updates and ingest them into</font>
+
+43
+00:01:43,219 --> 00:01:44,899
+our routing engine and make<font color="#CCCCCC"> sure that</font>
+
+44
+00:01:44,899 --> 00:01:47,450
+what's most important the end user sees
+
+45
+00:01:47,450 --> 00:01:49,789
+those updates and gets rerouted in real
+
+46
+00:01:49,789 --> 00:01:51,350
+time based on what's happening out there
+
+47
+00:01:51,350 --> 00:01:52,759
+on the tracks so you make your money
+
+48
+00:01:52,759 --> 00:01:54,890
+<font color="#E5E5E5">from advertising we are largely ad</font>
+
+49
+00:01:54,890 --> 00:01:57,259
+<font color="#E5E5E5">supported but we also have</font><font color="#CCCCCC"> business</font>
+
+50
+00:01:57,259 --> 00:01:59,630
+service revenue as well best way<font color="#E5E5E5"> to</font>
+
+51
+00:01:59,630 --> 00:02:01,990
+<font color="#E5E5E5">think about that is our user experience</font>
+
+52
+00:02:01,990 --> 00:02:04,939
+embedded on other media and publisher
+
+53
+00:02:04,939 --> 00:02:07,880
+sites to help their users get from point
+
+54
+00:02:07,880 --> 00:02:10,280
+A to point B in the same way we help<font color="#E5E5E5"> our</font>
+
+55
+00:02:10,280 --> 00:02:11,340
+users get from pointed
+
+56
+00:02:11,340 --> 00:02:13,500
+<font color="#E5E5E5">they are you profitable we are currently</font>
+
+57
+00:02:13,500 --> 00:02:15,540
+profitable you look at<font color="#E5E5E5"> Foursquare and</font>
+
+58
+00:02:15,540 --> 00:02:18,260
+<font color="#CCCCCC">what Facebook is going to have check-ins</font>
+
+59
+00:02:18,260 --> 00:02:20,430
+what's your take on all this and is it
+
+60
+00:02:20,430 --> 00:02:21,989
+something that hop stops going to look
+
+61
+00:02:21,989 --> 00:02:24,239
+at as well so i<font color="#E5E5E5"> think the growth and</font>
+
+62
+00:02:24,239 --> 00:02:26,400
+local growth in mobile the growth in
+
+63
+00:02:26,400 --> 00:02:29,069
+location-based services is great it's a
+
+64
+00:02:29,069 --> 00:02:31,709
+huge market it's still somewhat untapped
+
+65
+00:02:31,709 --> 00:02:35,370
+it's still somewhat uncracked and<font color="#CCCCCC"> i</font>
+
+66
+00:02:35,370 --> 00:02:36,750
+<font color="#E5E5E5">think companies like foursquare and</font>
+
+67
+00:02:36,750 --> 00:02:39,410
+gowalla and<font color="#CCCCCC"> Hopstop or proving that</font>
+
+68
+00:02:39,410 --> 00:02:42,120
+helping people in their everyday lives
+
+69
+00:02:42,120 --> 00:02:45,930
+in their local communities is very
+
+70
+00:02:45,930 --> 00:02:48,680
+<font color="#E5E5E5">valuable we do what we do well</font>
+
+71
+00:02:48,680 --> 00:02:50,730
+Foursquare does what it does well I
+
+72
+00:02:50,730 --> 00:02:52,709
+could definitely<font color="#E5E5E5"> see</font><font color="#CCCCCC"> a relationship</font>
+
+73
+00:02:52,709 --> 00:02:54,569
+between those two<font color="#E5E5E5"> companies in terms of</font>
+
+74
+00:02:54,569 --> 00:02:57,390
+the services that<font color="#E5E5E5"> we provide being</font>
+
+75
+00:02:57,390 --> 00:02:59,489
+married together but all in good time
+
+76
+00:02:59,489 --> 00:03:01,379
+how do you<font color="#E5E5E5"> compete with Google Maps</font>
+
+77
+00:03:01,379 --> 00:03:03,420
+getting installed on every<font color="#E5E5E5"> iPhone yeah</font>
+
+78
+00:03:03,420 --> 00:03:05,760
+we it's it's challenging I mean google
+
+79
+00:03:05,760 --> 00:03:09,560
+is pervasively distributed on<font color="#CCCCCC"> iPhones</font>
+
+80
+00:03:09,560 --> 00:03:12,629
+that said that's just one form of
+
+81
+00:03:12,629 --> 00:03:17,130
+interfacing with your users from a
+
+82
+00:03:17,130 --> 00:03:19,260
+mobile perspective we not only have an
+
+83
+00:03:19,260 --> 00:03:21,450
+iphone app we obviously have a website
+
+84
+00:03:21,450 --> 00:03:23,790
+to a mobile enabled site and then we
+
+85
+00:03:23,790 --> 00:03:26,670
+also power directions via SMS to any
+
+86
+00:03:26,670 --> 00:03:30,930
+user can send us<font color="#CCCCCC"> two addresses</font><font color="#E5E5E5"> from here</font>
+
+87
+00:03:30,930 --> 00:03:33,569
+to there the text<font color="#E5E5E5"> message and we'll send</font>
+
+88
+00:03:33,569 --> 00:03:35,069
+them<font color="#E5E5E5"> a text message</font><font color="#CCCCCC"> back with the</font>
+
+89
+00:03:35,069 --> 00:03:37,319
+directions within one second so there's
+
+90
+00:03:37,319 --> 00:03:39,090
+multiple ways that you can interface
+
+91
+00:03:39,090 --> 00:03:41,250
+with us and we're not<font color="#CCCCCC"> just looking at</font>
+
+92
+00:03:41,250 --> 00:03:43,440
+mobile and equated it with<font color="#CCCCCC"> iPhone</font>
+
+93
+00:03:43,440 --> 00:03:46,049
+looking at mobile and saying iphone is
+
+94
+00:03:46,049 --> 00:03:47,849
+one of the ways that you can consume
+
+95
+00:03:47,849 --> 00:03:49,590
+information in a mobile environment but
+
+96
+00:03:49,590 --> 00:00:00,000
+<font color="#E5E5E5">there's many other ways as well</font>
+

@@ -1,0 +1,840 @@
+1
+00:00:00,000 --> 00:00:02,790
+this is a<font color="#CCCCCC"> 20 minute VHS tape about</font><font color="#E5E5E5"> a</font>
+
+2
+00:00:02,790 --> 00:00:05,190
+<font color="#CCCCCC">Lego character called Jack stone when it</font>
+
+3
+00:00:05,190 --> 00:00:07,230
+came<font color="#E5E5E5"> out in 2001 it was the first real</font>
+
+4
+00:00:07,230 --> 00:00:10,050
+computer animated lego movie<font color="#E5E5E5"> but it</font>
+
+5
+00:00:10,050 --> 00:00:12,410
+hasn't aged that well<font color="#E5E5E5"> incredible</font>
+
+6
+00:00:12,410 --> 00:00:15,480
+fantastic<font color="#CCCCCC"> 13 years later</font><font color="#E5E5E5"> the lego movie</font>
+
+7
+00:00:15,480 --> 00:00:18,770
+<font color="#CCCCCC">looked like this</font>
+
+8
+00:00:21,780 --> 00:00:26,580
+let's watch that<font color="#CCCCCC"> again this</font><font color="#E5E5E5"> is 2001</font><font color="#CCCCCC"> and</font>
+
+9
+00:00:26,580 --> 00:00:31,860
+this<font color="#E5E5E5"> is 2014</font><font color="#CCCCCC"> yes</font><font color="#E5E5E5"> that's me</font><font color="#CCCCCC"> that is a</font>
+
+10
+00:00:31,860 --> 00:00:33,840
+huge difference<font color="#CCCCCC"> here's how they made it</font>
+
+11
+00:00:33,840 --> 00:00:35,960
+<font color="#E5E5E5">happen</font>
+
+12
+00:00:35,960 --> 00:00:38,879
+my name is Brent freckled I'm a
+
+13
+00:00:38,879 --> 00:00:41,280
+production<font color="#CCCCCC"> designer at Animal Logic</font><font color="#E5E5E5"> he's</font>
+
+14
+00:00:41,280 --> 00:00:43,500
+overseeing the animation style of movies
+
+15
+00:00:43,500 --> 00:00:45,989
+<font color="#CCCCCC">like</font><font color="#E5E5E5"> legend</font><font color="#CCCCCC"> - the Guardians 300 and more</font>
+
+16
+00:00:45,989 --> 00:00:47,280
+recently the lego<font color="#E5E5E5"> movie with</font>
+
+17
+00:00:47,280 --> 00:00:49,110
+<font color="#CCCCCC">co-directors chris miller and phil lord</font>
+
+18
+00:00:49,110 --> 00:00:50,850
+chris and<font color="#CCCCCC"> phil were determined to sort</font>
+
+19
+00:00:50,850 --> 00:00:52,350
+<font color="#E5E5E5">of make sure the audience were confused</font>
+
+20
+00:00:52,350 --> 00:00:54,360
+about<font color="#E5E5E5"> what they were seeing you know is</font>
+
+21
+00:00:54,360 --> 00:00:56,579
+this actually stop motion or is<font color="#E5E5E5"> this a</font>
+
+22
+00:00:56,579 --> 00:00:58,770
+<font color="#E5E5E5">CG film and that became a big debate</font>
+
+23
+00:00:58,770 --> 00:01:00,930
+before<font color="#CCCCCC"> the movie came</font><font color="#E5E5E5"> out there was a</font>
+
+24
+00:01:00,930 --> 00:01:02,520
+lot<font color="#CCCCCC"> of conversation about whether the</font>
+
+25
+00:01:02,520 --> 00:01:04,379
+movie was<font color="#CCCCCC"> stop-motion or computer</font>
+
+26
+00:01:04,379 --> 00:01:09,060
+animation<font color="#E5E5E5"> it is</font><font color="#CCCCCC"> I would say 99%</font><font color="#E5E5E5"> CG</font>
+
+27
+00:01:09,060 --> 00:01:11,660
+animation<font color="#E5E5E5"> but it respects</font><font color="#CCCCCC"> the rules of</font>
+
+28
+00:01:11,660 --> 00:01:13,710
+<font color="#E5E5E5">stop-motion animation that's designed to</font>
+
+29
+00:01:13,710 --> 00:01:15,980
+emulate<font color="#CCCCCC"> that style</font>
+
+30
+00:01:15,980 --> 00:01:18,350
+to understand what made that style so
+
+31
+00:01:18,350 --> 00:01:20,180
+<font color="#E5E5E5">unique you</font><font color="#CCCCCC"> have to look</font><font color="#E5E5E5"> back at what</font>
+
+32
+00:01:20,180 --> 00:01:22,370
+<font color="#E5E5E5">lego movies used to look like</font><font color="#CCCCCC"> early</font>
+
+33
+00:01:22,370 --> 00:01:24,290
+productions for themes like<font color="#CCCCCC"> Bionicle</font>
+
+34
+00:01:24,290 --> 00:01:26,840
+<font color="#E5E5E5">Star Wars and Batman helped establish</font>
+
+35
+00:01:26,840 --> 00:01:29,030
+the<font color="#E5E5E5"> whimsical feel of lego movies but</font>
+
+36
+00:01:29,030 --> 00:01:31,310
+the animation<font color="#CCCCCC"> didn't fit the physics</font><font color="#E5E5E5"> of</font>
+
+37
+00:01:31,310 --> 00:01:33,140
+the toy itself<font color="#CCCCCC"> there was</font><font color="#E5E5E5"> this tendency</font>
+
+38
+00:01:33,140 --> 00:01:35,240
+<font color="#CCCCCC">to sort of treat the plastic as if it</font>
+
+39
+00:01:35,240 --> 00:01:37,310
+was kind of flexible<font color="#E5E5E5"> rubber which mean</font>
+
+40
+00:01:37,310 --> 00:01:39,200
+<font color="#CCCCCC">that the characters could flex</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> move</font>
+
+41
+00:01:39,200 --> 00:01:40,940
+a lot<font color="#E5E5E5"> more than they might be</font><font color="#CCCCCC"> able</font><font color="#E5E5E5"> to in</font>
+
+42
+00:01:40,940 --> 00:01:43,910
+real life<font color="#CCCCCC"> that style is typical of</font><font color="#E5E5E5"> more</font>
+
+43
+00:01:43,910 --> 00:01:45,860
+<font color="#CCCCCC">traditional computer animation like what</font>
+
+44
+00:01:45,860 --> 00:01:47,480
+you'd expect<font color="#E5E5E5"> to</font><font color="#CCCCCC"> see</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> a Pixar</font><font color="#E5E5E5"> movie</font>
+
+45
+00:01:47,480 --> 00:01:50,060
+<font color="#CCCCCC">take a shot like this for example the</font>
+
+46
+00:01:50,060 --> 00:01:51,830
+<font color="#E5E5E5">background isn't made of actual blocks</font>
+
+47
+00:01:51,830 --> 00:01:53,930
+plastic limbs or bending in ways that
+
+48
+00:01:53,930 --> 00:01:55,610
+they couldn't and the faces are a
+
+49
+00:01:55,610 --> 00:01:57,650
+bizarre blend of skin<font color="#E5E5E5"> like texture and</font>
+
+50
+00:01:57,650 --> 00:02:00,110
+<font color="#CCCCCC">Lego geometry</font><font color="#E5E5E5"> it doesn't look like a</font>
+
+51
+00:02:00,110 --> 00:02:01,910
+scene you<font color="#E5E5E5"> could make at</font><font color="#CCCCCC"> home with your</font>
+
+52
+00:02:01,910 --> 00:02:02,640
+<font color="#CCCCCC">own Legos</font>
+
+53
+00:02:02,640 --> 00:02:04,600
+[Music]
+
+54
+00:02:04,600 --> 00:02:06,950
+compare that to scenes from the lego
+
+55
+00:02:06,950 --> 00:02:09,199
+<font color="#E5E5E5">movie where everything gunshots</font><font color="#CCCCCC"> smoke</font>
+
+56
+00:02:09,199 --> 00:02:11,960
+water<font color="#E5E5E5"> fire explosions clouds even mud on</font>
+
+57
+00:02:11,960 --> 00:02:13,670
+the camera<font color="#CCCCCC"> are</font><font color="#E5E5E5"> all made up of LEGO</font>
+
+58
+00:02:13,670 --> 00:02:16,820
+pieces as<font color="#CCCCCC"> they look in real life we</font>
+
+59
+00:02:16,820 --> 00:02:19,070
+respected the<font color="#CCCCCC"> hardness of the plastic by</font>
+
+60
+00:02:19,070 --> 00:02:21,650
+sort of not necessarily<font color="#E5E5E5"> bending on the</font>
+
+61
+00:02:21,650 --> 00:02:23,690
+elbow<font color="#E5E5E5"> which you</font><font color="#CCCCCC"> can't do in a real</font><font color="#E5E5E5"> Lego</font>
+
+62
+00:02:23,690 --> 00:02:26,000
+minifig that means that any movement<font color="#CCCCCC"> you</font>
+
+63
+00:02:26,000 --> 00:02:27,980
+see<font color="#CCCCCC"> on screen simulates the adjustment</font>
+
+64
+00:02:27,980 --> 00:02:29,750
+or replacement of an individual<font color="#CCCCCC"> Lego</font>
+
+65
+00:02:29,750 --> 00:02:32,150
+piece<font color="#E5E5E5"> a joint or facial expression will</font>
+
+66
+00:02:32,150 --> 00:02:34,250
+never<font color="#E5E5E5"> actually bend or stretch</font><font color="#CCCCCC"> it'll</font>
+
+67
+00:02:34,250 --> 00:02:36,350
+either move slightly<font color="#E5E5E5"> or be replaced</font><font color="#CCCCCC"> by</font>
+
+68
+00:02:36,350 --> 00:02:38,420
+another<font color="#E5E5E5"> piece early Lego movies lacked</font>
+
+69
+00:02:38,420 --> 00:02:40,459
+that<font color="#E5E5E5"> level of discipline they struggled</font>
+
+70
+00:02:40,459 --> 00:02:41,870
+because<font color="#E5E5E5"> they fought back against the</font>
+
+71
+00:02:41,870 --> 00:02:43,730
+<font color="#E5E5E5">limitations of the medium instead of</font>
+
+72
+00:02:43,730 --> 00:02:45,440
+<font color="#CCCCCC">embracing them but the creators of the</font>
+
+73
+00:02:45,440 --> 00:02:46,959
+lego movie<font color="#CCCCCC"> saw things differently</font>
+
+74
+00:02:46,959 --> 00:02:49,250
+<font color="#CCCCCC">characters</font><font color="#E5E5E5"> that have you</font><font color="#CCCCCC"> know</font>
+
+75
+00:02:49,250 --> 00:02:53,090
+limitations force you to<font color="#CCCCCC"> find solutions</font>
+
+76
+00:02:53,090 --> 00:02:54,770
+<font color="#E5E5E5">and charming ways of doing things in</font>
+
+77
+00:02:54,770 --> 00:02:57,020
+<font color="#E5E5E5">different</font><font color="#CCCCCC"> ways I</font><font color="#E5E5E5"> mean you know look at</font>
+
+78
+00:02:57,020 --> 00:02:59,090
+r2d2 he's like the ultimate limited
+
+79
+00:02:59,090 --> 00:03:00,620
+character he's<font color="#E5E5E5"> basically have</font><font color="#CCCCCC"> been with</font>
+
+80
+00:03:00,620 --> 00:03:02,720
+wheels<font color="#CCCCCC"> that makes beeping noises and</font>
+
+81
+00:03:02,720 --> 00:03:04,820
+that's all<font color="#CCCCCC"> he's got</font><font color="#E5E5E5"> to work with yet</font>
+
+82
+00:03:04,820 --> 00:03:06,440
+he's a really<font color="#CCCCCC"> charming character and</font>
+
+83
+00:03:06,440 --> 00:03:07,800
+everybody loves him same with<font color="#CCCCCC"> baby</font>
+
+84
+00:03:07,800 --> 00:03:09,750
+and an other character<font color="#CCCCCC"> same</font><font color="#E5E5E5"> with the</font>
+
+85
+00:03:09,750 --> 00:03:10,950
+Muppets<font color="#CCCCCC"> you know they're essentially</font>
+
+86
+00:03:10,950 --> 00:03:13,680
+<font color="#E5E5E5">sock puppets with googly eyes that you</font>
+
+87
+00:03:13,680 --> 00:03:15,540
+don't really have<font color="#CCCCCC"> much control over but</font>
+
+88
+00:03:15,540 --> 00:03:17,820
+it's from<font color="#E5E5E5"> those limitations</font><font color="#CCCCCC"> you actually</font>
+
+89
+00:03:17,820 --> 00:03:19,410
+get a lot of charm<font color="#CCCCCC"> every now and then</font>
+
+90
+00:03:19,410 --> 00:03:20,940
+the lego<font color="#E5E5E5"> movie animators would let some</font>
+
+91
+00:03:20,940 --> 00:03:22,890
+joints overextend slightly to<font color="#CCCCCC"> make room</font>
+
+92
+00:03:22,890 --> 00:03:24,750
+for a nod<font color="#E5E5E5"> or a shrug of</font><font color="#CCCCCC"> the shoulders</font>
+
+93
+00:03:24,750 --> 00:03:26,940
+but overall<font color="#E5E5E5"> sticking to the plastic rule</font>
+
+94
+00:03:26,940 --> 00:03:29,040
+made for a believable movie you can
+
+95
+00:03:29,040 --> 00:03:30,420
+freeze-frame any part<font color="#E5E5E5"> of the lego movie</font>
+
+96
+00:03:30,420 --> 00:03:31,530
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> look at a scene that you could</font>
+
+97
+00:03:31,530 --> 00:03:33,360
+practically make it home<font color="#CCCCCC"> always</font><font color="#E5E5E5"> trying</font>
+
+98
+00:03:33,360 --> 00:03:37,710
+to sort<font color="#CCCCCC"> of echo and</font><font color="#E5E5E5"> talk back to you</font>
+
+99
+00:03:37,710 --> 00:03:39,630
+know how a child might make a film<font color="#E5E5E5"> in</font>
+
+100
+00:03:39,630 --> 00:03:41,940
+this so we would alternate<font color="#CCCCCC"> between you</font>
+
+101
+00:03:41,940 --> 00:03:44,460
+know thinking<font color="#E5E5E5"> like responsible</font>
+
+102
+00:03:44,460 --> 00:03:46,860
+filmmakers<font color="#E5E5E5"> working on a large budget</font>
+
+103
+00:03:46,860 --> 00:03:48,480
+Warner Brothers animated film and<font color="#E5E5E5"> then</font>
+
+104
+00:03:48,480 --> 00:03:50,340
+we would suddenly approach a scene as if
+
+105
+00:03:50,340 --> 00:03:52,350
+we were<font color="#CCCCCC"> like a kid</font><font color="#E5E5E5"> animating in their</font>
+
+106
+00:03:52,350 --> 00:03:54,830
+basement
+
+107
+00:03:55,130 --> 00:03:57,570
+but the history of<font color="#CCCCCC"> lego</font><font color="#E5E5E5"> movies actually</font>
+
+108
+00:03:57,570 --> 00:03:59,580
+<font color="#E5E5E5">does start with kids animating in their</font>
+
+109
+00:03:59,580 --> 00:04:05,400
+basements<font color="#CCCCCC"> in 1973</font><font color="#E5E5E5"> two</font><font color="#CCCCCC"> danish</font><font color="#E5E5E5"> cousins</font>
+
+110
+00:04:05,400 --> 00:04:07,770
+<font color="#E5E5E5">aged</font><font color="#CCCCCC"> 10 and 12</font><font color="#E5E5E5"> shot a short film called</font>
+
+111
+00:04:07,770 --> 00:04:10,140
+journey to the moon<font color="#CCCCCC"> on super 8</font><font color="#E5E5E5"> film they</font>
+
+112
+00:04:10,140 --> 00:04:11,550
+<font color="#E5E5E5">made it for their grandparents 50th</font>
+
+113
+00:04:11,550 --> 00:04:13,260
+wedding anniversary<font color="#E5E5E5"> and it's widely</font>
+
+114
+00:04:13,260 --> 00:04:15,180
+<font color="#E5E5E5">considered</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be</font><font color="#CCCCCC"> the first</font><font color="#E5E5E5"> time anyone</font>
+
+115
+00:04:15,180 --> 00:04:17,399
+made a<font color="#E5E5E5"> motion picture with lego blocks</font>
+
+116
+00:04:17,399 --> 00:04:19,350
+<font color="#E5E5E5">note that the people in this film are</font>
+
+117
+00:04:19,350 --> 00:04:21,360
+just<font color="#E5E5E5"> little cylinder blocks</font><font color="#CCCCCC"> this was</font>
+
+118
+00:04:21,360 --> 00:04:23,100
+before any<font color="#E5E5E5"> version of the minifigure</font>
+
+119
+00:04:23,100 --> 00:04:25,980
+design came out movies like this<font color="#E5E5E5"> came to</font>
+
+120
+00:04:25,980 --> 00:04:28,430
+be<font color="#CCCCCC"> known as brick films</font>
+
+121
+00:04:28,430 --> 00:04:34,210
+[Music]
+
+122
+00:04:34,210 --> 00:04:36,590
+when fans<font color="#E5E5E5"> were making these at home they</font>
+
+123
+00:04:36,590 --> 00:04:38,480
+shot them<font color="#E5E5E5"> in traditional stop-motion</font>
+
+124
+00:04:38,480 --> 00:04:41,150
+footage was usually shot on<font color="#CCCCCC"> tubes which</font>
+
+125
+00:04:41,150 --> 00:04:42,530
+meant<font color="#CCCCCC"> that they would take 12 pictures</font>
+
+126
+00:04:42,530 --> 00:04:44,510
+<font color="#CCCCCC">adjusting the characters every other</font>
+
+127
+00:04:44,510 --> 00:04:46,520
+frame to<font color="#E5E5E5"> make one second of film</font>
+
+128
+00:04:46,520 --> 00:04:49,190
+shooting on<font color="#CCCCCC"> once meant taking 24</font>
+
+129
+00:04:49,190 --> 00:04:51,200
+pictures<font color="#E5E5E5"> per second this was usually</font>
+
+130
+00:04:51,200 --> 00:04:52,970
+reserved for making faster movements
+
+131
+00:04:52,970 --> 00:04:54,950
+like running look smoother<font color="#CCCCCC"> when the</font>
+
+132
+00:04:54,950 --> 00:04:56,660
+<font color="#E5E5E5">Danish cousins sent their movie to the</font>
+
+133
+00:04:56,660 --> 00:04:58,640
+managing director of the LEGO Group<font color="#CCCCCC"> they</font>
+
+134
+00:04:58,640 --> 00:05:00,560
+were<font color="#E5E5E5"> rewarded with</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> tour of the Lego</font>
+
+135
+00:05:00,560 --> 00:05:02,570
+<font color="#CCCCCC">Factory and sent home with large</font><font color="#E5E5E5"> LEGO</font>
+
+136
+00:05:02,570 --> 00:05:05,360
+sets but Lego hasn't always<font color="#E5E5E5"> had the most</font>
+
+137
+00:05:05,360 --> 00:05:07,400
+positive reaction to homemade fan films
+
+138
+00:05:07,400 --> 00:05:11,570
+<font color="#E5E5E5">like this one between 1985</font><font color="#CCCCCC"> and 1989 a</font>
+
+139
+00:05:11,570 --> 00:05:13,250
+teenage animator named<font color="#E5E5E5"> Lindsay Flay</font>
+
+140
+00:05:13,250 --> 00:05:15,140
+worked on a 16 minute<font color="#E5E5E5"> short called the</font>
+
+141
+00:05:15,140 --> 00:05:17,480
+magic portal he used borrowed<font color="#CCCCCC"> equipment</font>
+
+142
+00:05:17,480 --> 00:05:19,060
+to shoot<font color="#CCCCCC"> it in his parents basement</font>
+
+143
+00:05:19,060 --> 00:05:21,110
+<font color="#E5E5E5">before entering festivals and</font>
+
+144
+00:05:21,110 --> 00:05:23,180
+competitions<font color="#CCCCCC"> Flay sent the film</font><font color="#E5E5E5"> to Lego</font>
+
+145
+00:05:23,180 --> 00:05:24,470
+<font color="#CCCCCC">to see if they were interested in doing</font>
+
+146
+00:05:24,470 --> 00:05:26,450
+<font color="#CCCCCC">something</font><font color="#E5E5E5"> with</font><font color="#CCCCCC"> it at</font><font color="#E5E5E5"> first Lego</font>
+
+147
+00:05:26,450 --> 00:05:28,460
+responded with a letter of<font color="#E5E5E5"> approval</font><font color="#CCCCCC"> but</font>
+
+148
+00:05:28,460 --> 00:05:30,260
+soon the company<font color="#E5E5E5"> started expressing</font>
+
+149
+00:05:30,260 --> 00:05:32,000
+legal concerns<font color="#E5E5E5"> and issued a letter</font>
+
+150
+00:05:32,000 --> 00:05:33,950
+demanding<font color="#CCCCCC"> flase surrender all copies of</font>
+
+151
+00:05:33,950 --> 00:05:35,660
+<font color="#CCCCCC">the film</font><font color="#E5E5E5"> within seven days</font>
+
+152
+00:05:35,660 --> 00:05:38,840
+<font color="#E5E5E5">Lego ultimately backs down but</font><font color="#CCCCCC"> Flay had</font>
+
+153
+00:05:38,840 --> 00:05:40,580
+<font color="#E5E5E5">already missed out on most major film</font>
+
+154
+00:05:40,580 --> 00:05:42,890
+festivals by then<font color="#E5E5E5"> play actually went on</font>
+
+155
+00:05:42,890 --> 00:05:45,290
+to work at Animal Logic<font color="#E5E5E5"> he left</font><font color="#CCCCCC"> before</font>
+
+156
+00:05:45,290 --> 00:05:47,510
+production<font color="#E5E5E5"> on lego projects began but</font>
+
+157
+00:05:47,510 --> 00:05:49,760
+his movie<font color="#E5E5E5"> had a huge influence on</font><font color="#CCCCCC"> the</font>
+
+158
+00:05:49,760 --> 00:05:51,740
+<font color="#E5E5E5">world of brick films if you look at the</font>
+
+159
+00:05:51,740 --> 00:05:53,870
+<font color="#CCCCCC">live-action</font><font color="#E5E5E5"> portion of the lego movie</font>
+
+160
+00:05:53,870 --> 00:05:55,880
+<font color="#E5E5E5">you'll see</font><font color="#CCCCCC"> Finn the little kid holds up</font>
+
+161
+00:05:55,880 --> 00:05:57,890
+a sort of cardboard tube and across the
+
+162
+00:05:57,890 --> 00:06:01,290
+side is written magic portal
+
+163
+00:06:01,290 --> 00:06:04,330
+the lego<font color="#E5E5E5"> movie of course</font><font color="#CCCCCC"> was a huge</font>
+
+164
+00:06:04,330 --> 00:06:07,750
+technical<font color="#E5E5E5"> feat there are 15 million</font>
+
+165
+00:06:07,750 --> 00:06:12,100
+<font color="#E5E5E5">80,000</font><font color="#CCCCCC"> 330 animated</font><font color="#E5E5E5"> LEGO pieces and 182</font>
+
+166
+00:06:12,100 --> 00:06:14,380
+unique minifigures in the movie early
+
+167
+00:06:14,380 --> 00:06:16,300
+mock-ups<font color="#E5E5E5"> of buildings and</font><font color="#CCCCCC"> vehicles were</font>
+
+168
+00:06:16,300 --> 00:06:18,040
+drafted out<font color="#E5E5E5"> on a free software called</font>
+
+169
+00:06:18,040 --> 00:06:20,950
+lego Digital Designer<font color="#E5E5E5"> later on in the</font>
+
+170
+00:06:20,950 --> 00:06:23,080
+<font color="#E5E5E5">animation software Maya</font><font color="#CCCCCC"> each brick was</font>
+
+171
+00:06:23,080 --> 00:06:25,240
+given profiles for<font color="#E5E5E5"> fingerprints dents</font>
+
+172
+00:06:25,240 --> 00:06:28,690
+<font color="#CCCCCC">seam lines scratches and dust it's hard</font>
+
+173
+00:06:28,690 --> 00:06:30,460
+<font color="#E5E5E5">to imagine what the lego movie would</font><font color="#CCCCCC"> be</font>
+
+174
+00:06:30,460 --> 00:06:31,750
+if it<font color="#E5E5E5"> weren't for the legacy of these</font>
+
+175
+00:06:31,750 --> 00:06:33,820
+early home experiments where most
+
+176
+00:06:33,820 --> 00:06:36,100
+<font color="#E5E5E5">animated films use soft lighting modeled</font>
+
+177
+00:06:36,100 --> 00:06:37,810
+after paintings the Lego movies lighting
+
+178
+00:06:37,810 --> 00:06:39,820
+was harsh<font color="#CCCCCC"> replicating the actual lamps</font>
+
+179
+00:06:39,820 --> 00:06:41,979
+that animators<font color="#E5E5E5"> like</font><font color="#CCCCCC"> Flay used playful</font>
+
+180
+00:06:41,979 --> 00:06:43,930
+non stop motion interludes<font color="#E5E5E5"> like</font>
+
+181
+00:06:43,930 --> 00:06:46,240
+levitation via fishing line<font color="#E5E5E5"> were part of</font>
+
+182
+00:06:46,240 --> 00:06:47,860
+journey to the moon<font color="#E5E5E5"> long before they</font>
+
+183
+00:06:47,860 --> 00:06:49,840
+appeared in<font color="#CCCCCC"> the lego movie even the</font>
+
+184
+00:06:49,840 --> 00:06:51,610
+final break from the<font color="#E5E5E5"> lego world into the</font>
+
+185
+00:06:51,610 --> 00:06:53,229
+real world<font color="#E5E5E5"> to meet a human creator</font>
+
+186
+00:06:53,229 --> 00:06:55,419
+parallels the magic portal really
+
+187
+00:06:55,419 --> 00:07:02,950
+closely it's easy to miss on screen but
+
+188
+00:07:02,950 --> 00:07:05,169
+the lego<font color="#CCCCCC"> movie pays tribute to fan films</font>
+
+189
+00:07:05,169 --> 00:07:07,300
+in the background of this scene<font color="#E5E5E5"> these</font>
+
+190
+00:07:07,300 --> 00:07:09,669
+<font color="#E5E5E5">four clips are</font><font color="#CCCCCC"> Short's</font><font color="#E5E5E5"> submitted by fans</font>
+
+191
+00:07:09,669 --> 00:07:11,490
+<font color="#E5E5E5">look at all these</font><font color="#CCCCCC"> things</font><font color="#E5E5E5"> that people</font>
+
+192
+00:07:11,490 --> 00:07:12,510
+<font color="#CCCCCC">built</font>
+
+193
+00:07:12,510 --> 00:07:14,340
+[Music]
+
+194
+00:07:14,340 --> 00:07:17,040
+the homage<font color="#E5E5E5"> was a nod to the fans by</font>
+
+195
+00:07:17,040 --> 00:07:18,600
+<font color="#E5E5E5">doing that the movie embraced the</font><font color="#CCCCCC"> idea</font>
+
+196
+00:07:18,600 --> 00:07:20,520
+that amateur creators matter and
+
+197
+00:07:20,520 --> 00:07:22,710
+sometimes the way<font color="#CCCCCC"> they handle source</font>
+
+198
+00:07:22,710 --> 00:07:24,450
+material<font color="#E5E5E5"> is far better</font><font color="#CCCCCC"> than</font><font color="#E5E5E5"> the way</font>
+
+199
+00:07:24,450 --> 00:07:31,620
+major studios are used to doing it if
+
+200
+00:07:31,620 --> 00:07:33,390
+you want to try any of this<font color="#CCCCCC"> at home</font><font color="#E5E5E5"> you</font>
+
+201
+00:07:33,390 --> 00:07:35,280
+can<font color="#CCCCCC"> actually use the</font><font color="#E5E5E5"> same software</font><font color="#CCCCCC"> that</font>
+
+202
+00:07:35,280 --> 00:07:36,750
+the animators of the lego movie<font color="#E5E5E5"> used</font>
+
+203
+00:07:36,750 --> 00:07:39,000
+it's called lego Digital Designer<font color="#CCCCCC"> it's</font>
+
+204
+00:07:39,000 --> 00:07:40,380
+totally free off the<font color="#CCCCCC"> internet when I</font>
+
+205
+00:07:40,380 --> 00:07:41,610
+<font color="#E5E5E5">talked to</font><font color="#CCCCCC"> grant freckles and he</font>
+
+206
+00:07:41,610 --> 00:07:43,980
+challenged<font color="#E5E5E5"> me</font><font color="#CCCCCC"> to make this sort of</font><font color="#E5E5E5"> pig</font>
+
+207
+00:07:43,980 --> 00:07:47,400
+drawn carriage I tried<font color="#CCCCCC"> I got the pigs</font>
+
+208
+00:07:47,400 --> 00:07:50,880
+<font color="#E5E5E5">and I got the wheels but not much else</font>
+
+209
+00:07:50,880 --> 00:07:52,370
+it's very very difficult
+
+210
+00:07:52,370 --> 00:00:00,000
+[Music]
+

@@ -1,0 +1,564 @@
+1
+00:00:00,060 --> 00:00:02,520
+in February the Supreme Court will
+
+2
+00:00:02,520 --> 00:00:04,589
+decide<font color="#E5E5E5"> on a case with major implications</font>
+
+3
+00:00:04,589 --> 00:00:06,660
+for<font color="#E5E5E5"> business</font><font color="#CCCCCC"> whether companies</font><font color="#E5E5E5"> should be</font>
+
+4
+00:00:06,660 --> 00:00:08,220
+<font color="#E5E5E5">allowed</font><font color="#CCCCCC"> to include arbitration</font>
+
+5
+00:00:08,220 --> 00:00:09,870
+agreements<font color="#E5E5E5"> in their employee contracts</font>
+
+6
+00:00:09,870 --> 00:00:12,210
+<font color="#E5E5E5">the clauses protect the companies from</font>
+
+7
+00:00:12,210 --> 00:00:14,670
+class-action lawsuits by making it
+
+8
+00:00:14,670 --> 00:00:16,440
+legally impossible<font color="#E5E5E5"> for their employees</font>
+
+9
+00:00:16,440 --> 00:00:19,020
+to sue but arbitration agreements<font color="#E5E5E5"> aren't</font>
+
+10
+00:00:19,020 --> 00:00:21,420
+only<font color="#E5E5E5"> used in employee contracts they're</font>
+
+11
+00:00:21,420 --> 00:00:23,279
+a central part of most customer
+
+12
+00:00:23,279 --> 00:00:25,619
+contracts<font color="#E5E5E5"> - including those at Wells</font>
+
+13
+00:00:25,619 --> 00:00:28,830
+<font color="#CCCCCC">Fargo which in a wide-ranging scandal</font>
+
+14
+00:00:28,830 --> 00:00:30,660
+last year<font color="#CCCCCC"> opened millions of bank</font>
+
+15
+00:00:30,660 --> 00:00:32,040
+accounts without<font color="#E5E5E5"> its customers</font>
+
+16
+00:00:32,040 --> 00:00:32,790
+permission
+
+17
+00:00:32,790 --> 00:00:35,070
+Roberto<font color="#CCCCCC"> Furman set out to see what</font>
+
+18
+00:00:35,070 --> 00:00:38,820
+<font color="#CCCCCC">options customers have when</font><font color="#E5E5E5"> Lou</font><font color="#CCCCCC"> Garrison</font>
+
+19
+00:00:38,820 --> 00:00:40,379
+started talking<font color="#CCCCCC"> to former Wells Fargo</font>
+
+20
+00:00:40,379 --> 00:00:42,390
+customers<font color="#E5E5E5"> his intention was</font><font color="#CCCCCC"> to help</font><font color="#E5E5E5"> them</font>
+
+21
+00:00:42,390 --> 00:00:44,100
+file a<font color="#E5E5E5"> class-action lawsuit against the</font>
+
+22
+00:00:44,100 --> 00:00:45,750
+bank which should have been<font color="#E5E5E5"> pretty</font>
+
+23
+00:00:45,750 --> 00:00:48,270
+straightforward<font color="#E5E5E5"> garrison is a lawyer and</font>
+
+24
+00:00:48,270 --> 00:00:49,500
+Wells Fargo was recently<font color="#E5E5E5"> found</font>
+
+25
+00:00:49,500 --> 00:00:51,360
+responsible<font color="#E5E5E5"> for opening thousands of</font>
+
+26
+00:00:51,360 --> 00:00:53,489
+unauthorized accounts but suing<font color="#E5E5E5"> those</font>
+
+27
+00:00:53,489 --> 00:00:55,920
+<font color="#CCCCCC">Fargo directly isn't so</font><font color="#E5E5E5"> simple in fact</font>
+
+28
+00:00:55,920 --> 00:00:59,390
+<font color="#E5E5E5">it might not even be</font><font color="#CCCCCC"> possible</font><font color="#E5E5E5"> when a</font>
+
+29
+00:00:59,390 --> 00:01:02,640
+<font color="#E5E5E5">customer opens an</font><font color="#CCCCCC"> account at Wells Fargo</font>
+
+30
+00:01:02,640 --> 00:01:06,510
+they typically sign some forms<font color="#E5E5E5"> when our</font>
+
+31
+00:01:06,510 --> 00:01:09,000
+<font color="#CCCCCC">clients opened the accounts at Wells</font>
+
+32
+00:01:09,000 --> 00:01:11,220
+Fargo they had no idea<font color="#CCCCCC"> they were</font>
+
+33
+00:01:11,220 --> 00:01:14,070
+entering into<font color="#E5E5E5"> a dining arbitration</font>
+
+34
+00:01:14,070 --> 00:01:16,290
+agreement<font color="#E5E5E5"> anyone who agrees</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> open an</font>
+
+35
+00:01:16,290 --> 00:01:18,299
+<font color="#E5E5E5">account with Wells Fargo</font><font color="#CCCCCC"> also agrees to</font>
+
+36
+00:01:18,299 --> 00:01:19,770
+<font color="#E5E5E5">waive their right to sue the bank in a</font>
+
+37
+00:01:19,770 --> 00:01:21,750
+<font color="#E5E5E5">class action</font><font color="#CCCCCC"> it's called an arbitration</font>
+
+38
+00:01:21,750 --> 00:01:23,700
+clause and it's tucked inside long
+
+39
+00:01:23,700 --> 00:01:26,369
+agreements no one<font color="#CCCCCC"> reads</font><font color="#E5E5E5"> Wells Fargo is</font>
+
+40
+00:01:26,369 --> 00:01:28,170
+hardly the<font color="#CCCCCC"> only</font><font color="#E5E5E5"> company that sneaks in</font>
+
+41
+00:01:28,170 --> 00:01:29,909
+these kinds<font color="#CCCCCC"> of</font><font color="#E5E5E5"> agreements</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> almost</font>
+
+42
+00:01:29,909 --> 00:01:31,500
+impossible to set up a bank<font color="#CCCCCC"> account</font>
+
+43
+00:01:31,500 --> 00:01:33,869
+<font color="#E5E5E5">apply for a credit card</font><font color="#CCCCCC"> setup cable or</font>
+
+44
+00:01:33,869 --> 00:01:36,030
+<font color="#E5E5E5">Internet</font><font color="#CCCCCC"> service</font><font color="#E5E5E5"> rent a car</font><font color="#CCCCCC"> or</font><font color="#E5E5E5"> watch</font>
+
+45
+00:01:36,030 --> 00:01:38,280
+Netflix without signing<font color="#E5E5E5"> one when</font>
+
+46
+00:01:38,280 --> 00:01:39,869
+arbitration was first established in
+
+47
+00:01:39,869 --> 00:01:41,850
+1925 it was meant to<font color="#CCCCCC"> help settle</font>
+
+48
+00:01:41,850 --> 00:01:44,430
+<font color="#E5E5E5">disputes between businesses but a series</font>
+
+49
+00:01:44,430 --> 00:01:46,079
+of<font color="#E5E5E5"> Supreme Court</font><font color="#CCCCCC"> decisions</font><font color="#E5E5E5"> starting in</font>
+
+50
+00:01:46,079 --> 00:01:48,840
+the 1980s<font color="#E5E5E5"> changed that now it's used to</font>
+
+51
+00:01:48,840 --> 00:01:50,700
+protect large companies in all sorts of
+
+52
+00:01:50,700 --> 00:01:52,439
+agreements<font color="#E5E5E5"> including consumer and</font>
+
+53
+00:01:52,439 --> 00:01:55,079
+employee contracts advocates<font color="#E5E5E5"> of the law</font>
+
+54
+00:01:55,079 --> 00:01:56,850
+say that arbitration<font color="#E5E5E5"> proceedings between</font>
+
+55
+00:01:56,850 --> 00:01:58,590
+<font color="#E5E5E5">consumers</font><font color="#CCCCCC"> and companies</font><font color="#E5E5E5"> saves both time</font>
+
+56
+00:01:58,590 --> 00:02:01,079
+and money<font color="#CCCCCC"> they also say that</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> only</font>
+
+57
+00:02:01,079 --> 00:02:02,670
+people<font color="#E5E5E5"> to benefit are lawyers who</font><font color="#CCCCCC"> end up</font>
+
+58
+00:02:02,670 --> 00:02:04,350
+<font color="#CCCCCC">making millions after successful</font>
+
+59
+00:02:04,350 --> 00:02:07,259
+class-action lawsuits but a study by the
+
+60
+00:02:07,259 --> 00:02:09,270
+<font color="#E5E5E5">Consumer</font><font color="#CCCCCC"> Financial Protection Bureau of</font>
+
+61
+00:02:09,270 --> 00:02:10,508
+arbitration disputes
+
+62
+00:02:10,508 --> 00:02:12,670
+<font color="#CCCCCC">Financial Industry founded the decision</font>
+
+63
+00:02:12,670 --> 00:02:15,299
+favorite<font color="#E5E5E5"> companies</font><font color="#CCCCCC"> 93% of the</font><font color="#E5E5E5"> time</font>
+
+64
+00:02:15,299 --> 00:02:17,650
+<font color="#E5E5E5">Julia Duncan director</font><font color="#CCCCCC"> of federal</font>
+
+65
+00:02:17,650 --> 00:02:19,239
+programs<font color="#CCCCCC"> at the consumer advocacy</font>
+
+66
+00:02:19,239 --> 00:02:21,159
+organization American Association for
+
+67
+00:02:21,159 --> 00:02:23,110
+<font color="#CCCCCC">justice says that the</font><font color="#E5E5E5"> reason companies</font>
+
+68
+00:02:23,110 --> 00:02:24,700
+force people<font color="#CCCCCC"> to sign arbitration</font>
+
+69
+00:02:24,700 --> 00:02:26,769
+agreements<font color="#E5E5E5"> is because they know it's in</font>
+
+70
+00:02:26,769 --> 00:02:27,879
+<font color="#E5E5E5">their best interest</font>
+
+71
+00:02:27,879 --> 00:02:30,790
+<font color="#CCCCCC">class-action lawsuits</font><font color="#E5E5E5"> are one of the</font>
+
+72
+00:02:30,790 --> 00:02:33,790
+only ways that<font color="#CCCCCC"> consumers can join</font>
+
+73
+00:02:33,790 --> 00:02:36,340
+together with<font color="#E5E5E5"> other consumers who've all</font>
+
+74
+00:02:36,340 --> 00:02:38,590
+been harmed by<font color="#CCCCCC"> the same corporation in</font>
+
+75
+00:02:38,590 --> 00:02:41,019
+the same way<font color="#E5E5E5"> and hold that corporation</font>
+
+76
+00:02:41,019 --> 00:02:42,940
+accountable<font color="#E5E5E5"> and when consumers are</font>
+
+77
+00:02:42,940 --> 00:02:45,250
+forced<font color="#E5E5E5"> to go it alone</font><font color="#CCCCCC"> against a massive</font>
+
+78
+00:02:45,250 --> 00:02:47,829
+bank or a<font color="#E5E5E5"> corporation they</font><font color="#CCCCCC"> almost always</font>
+
+79
+00:02:47,829 --> 00:02:51,310
+lose<font color="#CCCCCC"> I decided to call Wells Fargo see</font>
+
+80
+00:02:51,310 --> 00:02:52,239
+if they were willing<font color="#E5E5E5"> to let a customer</font>
+
+81
+00:02:52,239 --> 00:02:54,129
+<font color="#E5E5E5">opt out of their arbitration</font><font color="#CCCCCC"> agreements</font>
+
+82
+00:02:54,129 --> 00:02:55,989
+<font color="#E5E5E5">welcome to Wells Fargo</font><font color="#CCCCCC"> who does pleasure</font>
+
+83
+00:02:55,989 --> 00:02:57,190
+<font color="#E5E5E5">speaking with today</font>
+
+84
+00:02:57,190 --> 00:02:59,230
+hey this<font color="#E5E5E5"> Roberto</font><font color="#CCCCCC"> Fuhrman how's it going</font>
+
+85
+00:02:59,230 --> 00:03:00,879
+<font color="#E5E5E5">good that</font><font color="#CCCCCC"> you're looking to open</font><font color="#E5E5E5"> up a</font>
+
+86
+00:03:00,879 --> 00:03:02,590
+brand new<font color="#E5E5E5"> checking</font><font color="#CCCCCC"> account is that right</font>
+
+87
+00:03:02,590 --> 00:03:04,420
+yeah I actually<font color="#E5E5E5"> have</font><font color="#CCCCCC"> a specific question</font>
+
+88
+00:03:04,420 --> 00:03:06,579
+<font color="#CCCCCC">I ended</font><font color="#E5E5E5"> up reading through the User</font>
+
+89
+00:03:06,579 --> 00:03:09,730
+Agreement<font color="#E5E5E5"> and I landed</font><font color="#CCCCCC"> on this one</font>
+
+90
+00:03:09,730 --> 00:03:11,139
+section<font color="#E5E5E5"> it's called the arbitration</font>
+
+91
+00:03:11,139 --> 00:03:13,599
+clause<font color="#E5E5E5"> wondering if there's any way</font><font color="#CCCCCC"> to</font>
+
+92
+00:03:13,599 --> 00:03:15,269
+open a<font color="#E5E5E5"> checking account at Wells Fargo</font>
+
+93
+00:03:15,269 --> 00:03:19,060
+<font color="#CCCCCC">without signing</font><font color="#E5E5E5"> that specific</font><font color="#CCCCCC"> clause it</font>
+
+94
+00:03:19,060 --> 00:03:20,530
+just kind of<font color="#E5E5E5"> makes me</font><font color="#CCCCCC"> a little</font>
+
+95
+00:03:20,530 --> 00:03:21,480
+<font color="#E5E5E5">uncomfortable</font>
+
+96
+00:03:21,480 --> 00:03:24,669
+<font color="#E5E5E5">as far</font><font color="#CCCCCC"> as I know to open up an account</font>
+
+97
+00:03:24,669 --> 00:03:26,709
+<font color="#E5E5E5">yet behind each piece for the</font>
+
+98
+00:03:26,709 --> 00:03:28,720
+documentation<font color="#CCCCCC"> so there's no way</font><font color="#E5E5E5"> for me</font>
+
+99
+00:03:28,720 --> 00:03:30,340
+<font color="#CCCCCC">to open a checking account without</font>
+
+100
+00:03:30,340 --> 00:03:32,859
+<font color="#E5E5E5">signing the arbitration clause</font><font color="#CCCCCC"> correct</font>
+
+101
+00:03:32,859 --> 00:03:36,280
+do you have any suggestions for click
+
+102
+00:03:36,280 --> 00:03:38,530
+what I might do or is the answer<font color="#E5E5E5"> just</font>
+
+103
+00:03:38,530 --> 00:03:41,410
+look elsewhere<font color="#E5E5E5"> I'm guessing most other</font>
+
+104
+00:03:41,410 --> 00:03:42,790
+banks<font color="#E5E5E5"> are going to have the same type of</font>
+
+105
+00:03:42,790 --> 00:03:44,889
+arbitration agreement in there when I
+
+106
+00:03:44,889 --> 00:03:46,329
+reached out to the bank to ask why it
+
+107
+00:03:46,329 --> 00:03:48,010
+forces<font color="#E5E5E5"> all</font><font color="#CCCCCC"> of its</font><font color="#E5E5E5"> customers</font><font color="#CCCCCC"> to sign an</font>
+
+108
+00:03:48,010 --> 00:03:49,750
+arbitration<font color="#E5E5E5"> clause it defended the</font>
+
+109
+00:03:49,750 --> 00:03:51,639
+practice<font color="#CCCCCC"> calling it an important way to</font>
+
+110
+00:03:51,639 --> 00:03:53,440
+quickly and fairly make things<font color="#E5E5E5"> right for</font>
+
+111
+00:03:53,440 --> 00:03:55,690
+its customers until something changes
+
+112
+00:03:55,690 --> 00:03:57,849
+<font color="#CCCCCC">big corporations will continue to put</font>
+
+113
+00:03:57,849 --> 00:03:59,949
+these<font color="#CCCCCC"> clauses into their</font><font color="#E5E5E5"> contracts the</font>
+
+114
+00:03:59,949 --> 00:04:01,540
+ongoing Wells Fargo scandal is showing
+
+115
+00:04:01,540 --> 00:04:04,480
+just<font color="#CCCCCC"> how</font><font color="#E5E5E5"> broadly they can be applied Lou</font>
+
+116
+00:04:04,480 --> 00:04:06,400
+the<font color="#E5E5E5"> lawyer is trying to sue Wells Fargo</font>
+
+117
+00:04:06,400 --> 00:04:08,530
+may have<font color="#E5E5E5"> discovered a workaround</font><font color="#CCCCCC"> his</font>
+
+118
+00:04:08,530 --> 00:04:09,879
+clients have signed contracts that
+
+119
+00:04:09,879 --> 00:04:11,680
+forbid them from suing Wells Fargo in a
+
+120
+00:04:11,680 --> 00:04:13,780
+class<font color="#E5E5E5"> action but the contract doesn't</font>
+
+121
+00:04:13,780 --> 00:04:15,310
+mention anything about suing Wells Fargo
+
+122
+00:04:15,310 --> 00:04:17,349
+employees we thought that<font color="#E5E5E5"> our best</font>
+
+123
+00:04:17,349 --> 00:04:20,709
+chance<font color="#CCCCCC"> to get</font><font color="#E5E5E5"> around arbitration would</font>
+
+124
+00:04:20,709 --> 00:04:23,740
+<font color="#E5E5E5">be to go after the employees</font>
+
+125
+00:04:23,740 --> 00:04:26,620
+rather than<font color="#E5E5E5"> Wells Fargo itself we are</font>
+
+126
+00:04:26,620 --> 00:04:28,810
+interested to<font color="#E5E5E5"> see whether or</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> Wells</font>
+
+127
+00:04:28,810 --> 00:04:32,080
+Fargo<font color="#E5E5E5"> is going to just lead these former</font>
+
+128
+00:04:32,080 --> 00:04:34,660
+employees<font color="#E5E5E5"> hanging out to dry or at some</font>
+
+129
+00:04:34,660 --> 00:04:37,509
+point is<font color="#E5E5E5"> will</font><font color="#CCCCCC"> forgo going to take</font>
+
+130
+00:04:37,509 --> 00:04:40,449
+ownership and accountability<font color="#E5E5E5"> for the</font>
+
+131
+00:04:40,449 --> 00:04:43,060
+actions<font color="#CCCCCC"> that these former employees did</font>
+
+132
+00:04:43,060 --> 00:04:48,520
+so that's our plan<font color="#E5E5E5"> 5300 mostly low paid</font>
+
+133
+00:04:48,520 --> 00:04:50,110
+Wells Fargo employees have been<font color="#E5E5E5"> let</font><font color="#CCCCCC"> go</font>
+
+134
+00:04:50,110 --> 00:04:51,910
+because<font color="#E5E5E5"> of</font><font color="#CCCCCC"> the scandal</font><font color="#E5E5E5"> well they may no</font>
+
+135
+00:04:51,910 --> 00:04:53,650
+longer be<font color="#CCCCCC"> working for the company it</font>
+
+136
+00:04:53,650 --> 00:04:54,849
+looks like they could<font color="#E5E5E5"> still</font><font color="#CCCCCC"> be on the</font>
+
+137
+00:04:54,849 --> 00:04:56,800
+<font color="#E5E5E5">hook</font><font color="#CCCCCC"> for its actions</font><font color="#E5E5E5"> which means that</font>
+
+138
+00:04:56,800 --> 00:04:58,449
+both the<font color="#E5E5E5"> people who lost money and the</font>
+
+139
+00:04:58,449 --> 00:05:00,430
+<font color="#E5E5E5">people who lost their</font><font color="#CCCCCC"> jobs might be left</font>
+
+140
+00:05:00,430 --> 00:05:03,419
+to<font color="#E5E5E5"> figure it out on their</font><font color="#CCCCCC"> own</font>
+
+141
+00:05:03,650 --> 00:00:00,000
+[Music]
+

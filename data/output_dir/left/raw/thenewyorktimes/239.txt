@@ -1,0 +1,379 @@
+1
+00:00:00,000 --> 00:00:03,820
+Most people know that Facebook
+has information about them.
+
+2
+00:00:03,820 --> 00:00:07,560
+We submit things like
+our names, our hometowns,
+
+3
+00:00:07,560 --> 00:00:10,890
+our ages, our birthdays
+and our interests,
+
+4
+00:00:10,890 --> 00:00:13,570
+and we assume that Facebook
+is collecting that data.
+
+5
+00:00:13,570 --> 00:00:17,280
+But Facebook has much
+more data on most people
+
+6
+00:00:17,280 --> 00:00:18,900
+than they realize.
+
+7
+00:00:21,900 --> 00:00:23,970
+Facebook can take all
+the data that you submit
+
+8
+00:00:23,970 --> 00:00:26,370
+and combine it with
+data from other users
+
+9
+00:00:26,370 --> 00:00:29,700
+and outside information to
+construct a profile of you.
+
+10
+00:00:29,700 --> 00:00:31,870
+Facebook uses nearly
+100 different data points
+
+11
+00:00:31,870 --> 00:00:35,580
+to classify your
+interests and activities.
+
+12
+00:00:35,580 --> 00:00:38,560
+This would include basic stuff
+like your age and gender,
+
+13
+00:00:38,560 --> 00:00:40,590
+but also more
+complicated information
+
+14
+00:00:40,590 --> 00:00:42,450
+like whether you
+own a motorcycle
+
+15
+00:00:42,450 --> 00:00:44,910
+or you recently went on
+vacation or whether you’re
+
+16
+00:00:44,910 --> 00:00:46,200
+a gadget geek.
+
+17
+00:00:46,200 --> 00:00:48,180
+Researchers have found
+that by using signals
+
+18
+00:00:48,180 --> 00:00:50,310
+such as your likes
+and interactions,
+
+19
+00:00:50,310 --> 00:00:52,620
+Facebook could tell if
+you were in a relationship
+
+20
+00:00:52,620 --> 00:00:54,720
+or going through a breakup.
+
+21
+00:00:56,320 --> 00:00:58,540
+Facebook doesn’t just 
+know who you are.
+
+22
+00:00:58,540 --> 00:01:00,550
+It also knows
+where you are.
+
+23
+00:01:00,550 --> 00:01:03,250
+If you have location tracking
+turned on, Facebook
+
+24
+00:01:03,250 --> 00:01:05,620
+collects an enormous
+amount of location data
+
+25
+00:01:05,620 --> 00:01:08,310
+about where you’re going, 
+where you came from,
+
+26
+00:01:08,310 --> 00:01:09,740
+where you live,
+where you work,
+
+27
+00:01:09,740 --> 00:01:12,970
+what restaurants and
+businesses you tend to go to.
+
+28
+00:01:12,970 --> 00:01:15,970
+And they use this information
+to target ads at you.
+
+29
+00:01:15,970 --> 00:01:18,430
+And location data could
+reveal other people who
+
+30
+00:01:18,430 --> 00:01:20,414
+live in your house,
+even if you’re not
+
+31
+00:01:20,414 --> 00:01:21,663
+connected to them
+on Facebook.
+
+32
+00:01:24,430 --> 00:01:26,710
+Now obviously,
+Facebook knows what
+
+33
+00:01:26,710 --> 00:01:29,944
+its users buy when they
+click on ads from Facebook.
+
+34
+00:01:29,944 --> 00:01:31,470
+But what most
+people don’t realize
+
+35
+00:01:31,470 --> 00:01:33,010
+is that they have
+ways of tracking
+
+36
+00:01:33,010 --> 00:01:35,830
+your offline 
+purchases as well.
+
+37
+00:01:35,830 --> 00:01:37,780
+For many years, Facebook 
+has had partnerships
+
+38
+00:01:37,780 --> 00:01:39,790
+with data brokers that
+collected information
+
+39
+00:01:39,790 --> 00:01:41,350
+about people’s purchases.
+
+40
+00:01:41,350 --> 00:01:44,560
+So for example, if you buy a
+burrito with your credit card,
+
+41
+00:01:44,560 --> 00:01:46,531
+Facebook could know 
+about that transaction,
+
+42
+00:01:46,531 --> 00:01:48,720
+match it with a credit card
+that you’ve added
+
+43
+00:01:48,720 --> 00:01:50,535
+to Facebook or 
+Facebook Messenger,
+
+44
+00:01:50,535 --> 00:01:53,695
+and start showing you ads
+for indigestion medicine.
+
+45
+00:01:57,290 --> 00:02:00,400
+One of the most controversial
+parts of Facebook data collection
+
+46
+00:02:00,400 --> 00:02:03,820
+is a feature called
+“People You May Know.”
+
+47
+00:02:03,820 --> 00:02:07,020
+And this is where Facebook
+uses many different signals
+
+48
+00:02:07,020 --> 00:02:09,070
+of what it knows about you
+to determine who
+
+49
+00:02:09,070 --> 00:02:11,140
+else you might be connected to.
+
+50
+00:02:11,140 --> 00:02:13,740
+And this is not always things
+that you share with Facebook.
+
+51
+00:02:13,740 --> 00:02:15,760
+It might be contacts
+in your phone.
+
+52
+00:02:15,760 --> 00:02:19,240
+It might be people who have
+been in the same room as you.
+
+53
+00:02:19,240 --> 00:02:22,150
+Facebook was using location
+data to recommend friends.
+
+54
+00:02:22,150 --> 00:02:23,620
+So it might have
+been recommending
+
+55
+00:02:23,620 --> 00:02:25,540
+people who share
+a doctor with you
+
+56
+00:02:25,540 --> 00:02:27,395
+or work in the same building.
+
+57
+00:02:29,710 --> 00:02:31,750
+Facebook can also be
+used to compile data
+
+58
+00:02:31,750 --> 00:02:35,570
+about your political activity
+like protests or marches you go to.
+
+59
+00:02:35,570 --> 00:02:39,070
+In one case in 2016,
+the A.C.L.U. found
+
+60
+00:02:39,070 --> 00:02:41,320
+that 500 police organizations
+had signed up
+
+61
+00:02:41,320 --> 00:02:43,570
+for a service called
+Geofeedia, which scraped
+
+62
+00:02:43,570 --> 00:02:46,050
+data from social networks
+like Facebook, Twitter
+
+63
+00:02:46,050 --> 00:02:49,150
+and Instagram to help
+officers look for users who
+
+64
+00:02:49,150 --> 00:02:50,910
+might be in a specific location
+
+65
+00:02:50,910 --> 00:02:52,840
+or attending a specific protest.
+
+66
+00:02:52,840 --> 00:02:54,670
+For example, Geofeedia
+claimed it helped
+
+67
+00:02:54,670 --> 00:02:57,320
+the Baltimore Police Department
+monitor and respond
+
+68
+00:02:57,320 --> 00:03:00,050
+to the protests after
+the death of Freddie Gray.
+
+69
+00:03:02,030 --> 00:03:04,490
+Facebook doesn’t just know
+who you are, where you are
+
+70
+00:03:04,490 --> 00:03:06,020
+and what you buy.
+
+71
+00:03:06,020 --> 00:03:08,330
+It also can be used to figure
+out what kinds of things
+
+72
+00:03:08,330 --> 00:03:09,900
+you might do in the future.
+
+73
+00:03:09,900 --> 00:03:12,240
+To predict life outcomes,
+
+74
+00:03:12,240 --> 00:03:15,590
+like whether you will be
+addicted to substances,
+
+75
+00:03:15,590 --> 00:03:18,030
+whether you will switch
+political parties,
+
+76
+00:03:18,030 --> 00:03:21,050
+whether you’re physically healthy
+or physically unhealthy.
+
+77
+00:03:21,050 --> 00:03:23,900
+These are all part of the
+information that advertisers
+
+78
+00:03:23,900 --> 00:00:00,000
+love to know because it helps
+them better target users.
+

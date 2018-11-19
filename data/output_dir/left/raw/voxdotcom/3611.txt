@@ -1,0 +1,570 @@
+1
+00:00:00,750 --> 00:00:05,060
+“So once I added your RSS feed to our site,
+every single article that is published on
+
+2
+00:00:05,060 --> 00:00:08,020
+Vox.com is getting sent through a feed and
+we’re just like automatically creating a
+
+3
+00:00:08,020 --> 00:00:09,110
+video for it.”
+
+4
+00:00:09,110 --> 00:00:12,150
+“Oh my god that is so crazy.
+
+5
+00:00:12,150 --> 00:00:13,520
+Every single article through our feed.”
+
+6
+00:00:13,520 --> 00:00:15,009
+“Every single article.”
+
+7
+00:00:15,009 --> 00:00:16,009
+This is Wibbitz.
+
+8
+00:00:16,009 --> 00:00:19,640
+It’s one of the companies automating news
+video production.
+
+9
+00:00:19,640 --> 00:00:22,380
+You might call this the robot coming for my
+job.
+
+10
+00:00:30,700 --> 00:00:35,740
+“So this article, our algorithm will just
+intelligently summarize it into just a quick
+
+11
+00:00:35,750 --> 00:00:38,710
+30 second to 1 minute video.
+
+12
+00:00:38,710 --> 00:00:43,690
+And then based on the keywords in the article,
+it’s gonna match relevant media to it.”
+
+13
+00:00:43,690 --> 00:00:46,890
+It’s pretty impressive when you think about
+all the ways it could get confused.
+
+14
+00:00:46,890 --> 00:00:49,820
+“In the beginning it was very rough.
+
+15
+00:00:49,820 --> 00:00:54,320
+People with the same names would confuse it.
+
+16
+00:00:54,320 --> 00:00:59,989
+Turkey the country and turkey the animal would
+be another example.”
+
+17
+00:00:59,989 --> 00:01:04,620
+Their product was built with machine learning
+algorithms, and it became more accurate over time.
+
+18
+00:01:04,640 --> 00:01:08,620
+The result is a video made in a few seconds
+that’s not drastically different from what
+
+19
+00:01:08,620 --> 00:01:11,820
+a human would make in several hours, given
+the same constraints.
+
+20
+00:01:14,250 --> 00:01:19,180
+Wibbitz is part of a rapidly growing industry
+of so-called “AI-powered” products.
+
+21
+00:01:19,180 --> 00:01:23,740
+The number of companies mentioning artificial
+intelligence in their earnings calls has skyrocketed
+
+22
+00:01:23,740 --> 00:01:24,790
+in the past 3 years.
+
+23
+00:01:24,790 --> 00:01:28,869
+But the truth is that the term “artificial
+intelligence” isn’t very well defined.
+
+24
+00:01:28,869 --> 00:01:34,470
+“What happens with AI is that initially
+lots of things are called artificial intelligence.
+
+25
+00:01:34,470 --> 00:01:40,770
+It used to be the expert systems; the kind
+of systems that fly airplanes were called
+
+26
+00:01:40,770 --> 00:01:41,770
+artificial intelligence.
+
+27
+00:01:41,770 --> 00:01:46,149
+Then once they were working and routine and
+everyone takes them for granted, then they
+
+28
+00:01:46,149 --> 00:01:48,150
+are not called AI anymore.”
+
+29
+00:01:48,150 --> 00:01:52,189
+Right now when people talk about AI, they’re
+mostly talking about “machine learning”
+
+30
+00:01:52,189 --> 00:01:55,990
+- a subfield of computer science that dates
+back at least to the 1950s.
+
+31
+00:01:55,990 --> 00:01:59,810
+And the methods that are popular today aren’t
+fundamentally different from algorithms invented
+
+32
+00:01:59,810 --> 00:02:03,660
+decades ago,
+So why all the interest and investment right now?
+
+33
+00:02:03,720 --> 00:02:07,620
+I asked Manuela Veloso, the head of the machine
+learning department at Carnegie Mellon.
+
+34
+00:02:07,630 --> 00:02:11,599
+“You have to understand that there is something
+very important about these past years.
+
+35
+00:02:11,599 --> 00:02:13,170
+It's data.
+
+36
+00:02:13,170 --> 00:02:18,650
+We humans became collectors of data.
+
+37
+00:02:18,650 --> 00:02:25,810
+Fitbits, GPSes, pictures, I mean look how
+much credit card purchases, how much data
+
+38
+00:02:25,810 --> 00:02:27,450
+is around.”
+
+39
+00:02:27,450 --> 00:02:31,370
+Certain machine learning algorithms really
+thrive on big data, as long as computers have
+
+40
+00:02:31,370 --> 00:02:34,580
+the processing power to handle it, which they
+do now.
+
+41
+00:02:34,580 --> 00:02:39,540
+If computers are the cannon and the internet
+is gunpowder, these are the fireworks and
+
+42
+00:02:39,540 --> 00:02:41,700
+they have only just begun.
+
+43
+00:02:51,760 --> 00:02:55,120
+In his book, Pedro Domingos offers a nice
+simple way of understanding
+
+44
+00:02:55,260 --> 00:02:57,100
+supervised machine learning.
+
+45
+00:02:57,110 --> 00:02:59,680
+He says:
+“Every algorithm has an input and an output:
+
+46
+00:02:59,680 --> 00:03:03,670
+the data goes into the computer, the algorithm
+does what it will with it, and out comes the
+
+47
+00:03:03,670 --> 00:03:04,750
+result.
+
+48
+00:03:04,750 --> 00:03:09,330
+Machine learning turns this around: in goes
+the data and the desired result and out comes
+
+49
+00:03:09,330 --> 00:03:11,650
+the algorithm that turns one into the other.”
+
+50
+00:03:11,650 --> 00:03:15,420
+The algorithms are
+trained to find statistical relationships
+
+51
+00:03:15,420 --> 00:03:19,840
+in the data that allow it to make good guesses
+when presented with new examples.
+
+52
+00:03:19,840 --> 00:03:25,010
+That means we no longer have an easy rule
+for what kinds of tasks computers can and
+
+53
+00:03:25,010 --> 00:03:26,000
+cannot do.
+
+54
+00:03:27,200 --> 00:03:31,440
+“Ten years ago, I could have said with confidence,
+we know how this works to computerize something
+
+55
+00:03:31,440 --> 00:03:35,080
+you need to understand all the steps, then
+you script the steps and get a dumb machine
+
+56
+00:03:35,080 --> 00:03:39,690
+to do it and just follow mechanistically the
+process that you would have followed.
+
+57
+00:03:39,690 --> 00:03:43,569
+But now we have machines, I shouldn't say we,
+I don't make them.
+
+58
+00:03:43,569 --> 00:03:45,940
+People have developed machines that learn
+from data.
+
+59
+00:03:45,940 --> 00:03:51,910
+That makes it harder to say what set of jobs
+are going to become substituted, readily substituted
+
+60
+00:03:51,910 --> 00:03:54,400
+by automation, and which will be complemented.”
+
+61
+00:03:55,100 --> 00:03:59,380
+A study by the McKinsey Global Institute gets
+at this question by looking at the many tasks
+
+62
+00:03:59,380 --> 00:04:02,140
+that make up 800 different occupations.
+
+63
+00:04:02,140 --> 00:04:07,360
+And they grouped those tasks into 7 categories:
+3 that are highly susceptible to automation
+
+64
+00:04:07,360 --> 00:04:10,769
+with currently-demonstrated technologies,
+and 4 that are not.
+
+65
+00:04:10,769 --> 00:04:15,519
+“Things like managing people, they include
+things like creativity, they include things
+
+66
+00:04:15,519 --> 00:04:18,269
+like decision-making or judgment.
+
+67
+00:04:18,269 --> 00:04:24,621
+And caring work that requires empathy or human
+interaction, with an emotional content to
+
+68
+00:04:24,621 --> 00:04:26,050
+associate with it.
+
+69
+00:04:26,050 --> 00:04:28,440
+Those are much harder things to automate.”
+
+70
+00:04:28,440 --> 00:04:32,820
+The report concluded that while most jobs
+include some tasks that can be automated,
+
+71
+00:04:32,820 --> 00:04:36,139
+less than 5% of occupations can be fully automated.
+
+72
+00:04:36,139 --> 00:04:41,690
+“So this idea of occupations and jobs changing
+may actually be a bigger effect than the question
+
+73
+00:04:41,690 --> 00:04:46,229
+of jobs disappearing, although of course,
+there are some jobs that will disappear or
+
+74
+00:04:46,229 --> 00:04:47,720
+at least decline.”
+
+75
+00:04:47,780 --> 00:04:51,920
+That’s because most jobs are made up of
+a bunch of different tasks and most of today’s
+
+76
+00:04:51,930 --> 00:04:53,690
+AI can only do one task.
+
+77
+00:04:53,690 --> 00:04:54,690
+Don’t get me wrong.
+
+78
+00:04:54,690 --> 00:04:56,710
+They can be really good at that task.
+
+79
+00:04:56,710 --> 00:05:02,020
+A deep neural network watched 5000 hours of
+BBC news with captions and now it can read
+
+80
+00:05:02,020 --> 00:05:03,780
+lips  better than human professionals.
+
+81
+00:05:03,780 --> 00:05:08,660
+And machine learning algorithms trained on
+images of tumors can predict lung cancer survival
+
+82
+00:05:08,660 --> 00:05:10,520
+better than human pathologists.
+
+83
+00:05:10,520 --> 00:05:15,040
+The mistake is to assume that these focused
+applications can add up to
+
+84
+00:05:15,120 --> 00:05:16,980
+a more general intelligence.
+
+85
+00:05:16,990 --> 00:05:19,479
+Or that they learn like we do, which is simply
+not the case.
+
+86
+00:05:19,479 --> 00:05:23,830
+When they get the right answer it’s tempting
+to assume they understand what they see.
+
+87
+00:05:23,830 --> 00:05:27,160
+Only when they make a mistake do we get a
+glimpse at how different their process is
+
+88
+00:05:27,160 --> 00:05:28,210
+from our own.
+
+89
+00:05:28,210 --> 00:05:31,410
+It’s pattern recognition masquerading as
+understanding.
+
+90
+00:05:31,410 --> 00:05:35,960
+That’s why researchers can easily trick
+a learning algorithm into mislabeling a picture.
+
+91
+00:05:35,960 --> 00:05:40,580
+“A lot of machine learning, at this point,
+is very superficial and very brittle.
+
+92
+00:05:40,580 --> 00:05:46,889
+It's based on immediately observable features,
+which may or may not be essential to what's
+
+93
+00:05:46,889 --> 00:05:47,889
+going on.”
+
+94
+00:05:47,889 --> 00:05:50,960
+Last year the director Oscar Sharp produced
+a short film that was written by a neural
+
+95
+00:05:50,960 --> 00:05:54,070
+network trained on sci-fi movie scripts.
+
+96
+00:05:54,070 --> 00:05:59,250
+“The principle is completely constructed
+of the same time.”
+
+97
+00:05:59,250 --> 00:06:01,090
+“It was all about you to be true.”
+
+98
+00:06:01,090 --> 00:06:03,419
+“You didn’t even see the movie with the
+rest of the base.”
+
+99
+00:06:03,419 --> 00:06:04,419
+“I don’t know.”
+
+100
+00:06:04,419 --> 00:06:05,419
+“I don’t care.”
+
+101
+00:06:05,419 --> 00:06:06,419
+It’s great.
+
+102
+00:06:06,419 --> 00:06:07,419
+It makes no sense.
+
+103
+00:06:07,419 --> 00:06:11,000
+Because it doesn’t have what a 5-year-old
+child has, which is an abstract model of how
+
+104
+00:06:11,000 --> 00:06:15,020
+the world works, why things happen, or what
+a story is.
+
+105
+00:06:15,020 --> 00:06:16,020
+And why should it?
+
+106
+00:06:16,020 --> 00:06:17,960
+We evolved these things over millions of years.
+
+107
+00:06:17,960 --> 00:06:24,970
+“So there's a lot it can do, much more than
+before but I mean, we humans are amazing,
+
+108
+00:06:24,970 --> 00:06:27,870
+I think. We are very broad, see.”
+
+109
+00:06:27,870 --> 00:06:30,290
+AI applications will keep getting better.
+
+110
+00:06:30,290 --> 00:06:35,770
+Robot voices used to sounds like this.
+
+111
+00:06:35,770 --> 00:06:42,190
+Now they can sound like this.
+
+112
+00:06:42,190 --> 00:06:45,940
+Which means Wibbitz will so be able to offer
+natural-sounding narration.
+
+113
+00:06:45,940 --> 00:06:48,259
+Algorithms are also starting to analyze video
+frames.
+
+114
+00:06:48,259 --> 00:06:54,930
+IBM trained a system to select the scenes
+for a movie trailer.
+
+115
+00:06:54,930 --> 00:06:58,810
+So instead of just pulling generic clips,
+Wibbitz might pull specific ones.
+
+116
+00:06:58,810 --> 00:07:03,680
+But there’s no clear path toward a more
+human-like intelligence which includes common
+
+117
+00:07:03,680 --> 00:07:06,199
+sense, curiosity, and abstract reasoning.
+
+118
+00:07:06,199 --> 00:07:10,080
+“I think AI is as good as the content that
+
+119
+00:07:10,080 --> 00:07:11,500
+goes through it.
+
+120
+00:07:11,500 --> 00:07:19,490
+So you can’t really expect AI to do magic
+which some people expect it to do.”
+
+121
+00:07:19,490 --> 00:07:23,400
+Machine learning algorithms can translate
+37 languages but they don’t know what a
+
+122
+00:07:23,400 --> 00:07:24,400
+chair is for.
+
+123
+00:07:24,400 --> 00:07:28,410
+They’re nothing like us, and that’s what
+makes them such a powerful tool.
+
+124
+00:07:28,410 --> 00:00:00,000
+Wibbitz will never make this video, but AI
+could help me make a better one.
+

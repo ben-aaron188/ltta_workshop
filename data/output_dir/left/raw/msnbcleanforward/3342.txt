@@ -1,0 +1,484 @@
+1
+00:00:00,030 --> 00:00:02,159
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+2
+00:00:02,159 --> 00:00:04,350
+<font color="#CCCCCC">Washington with</font><font color="#E5E5E5"> a look at Axios am the</font>
+
+3
+00:00:04,350 --> 00:00:06,390
+co-founder of<font color="#CCCCCC"> Axios and</font><font color="#E5E5E5"> Mike on Mike</font>
+
+4
+00:00:06,390 --> 00:00:08,189
+good<font color="#CCCCCC"> morning to you talk</font><font color="#E5E5E5"> to me about</font>
+
+5
+00:00:08,189 --> 00:00:10,920
+<font color="#CCCCCC">Axios is one big</font><font color="#E5E5E5"> thing this morning well</font>
+
+6
+00:00:10,920 --> 00:00:12,660
+good<font color="#E5E5E5"> morning and the</font><font color="#CCCCCC"> AXI</font><font color="#E5E5E5"> is one big</font>
+
+7
+00:00:12,660 --> 00:00:16,230
+thing<font color="#CCCCCC"> is the rise of the pro</font><font color="#E5E5E5"> Trump media</font>
+
+8
+00:00:16,230 --> 00:00:19,109
+machine<font color="#CCCCCC"> so this is fascinating during</font>
+
+9
+00:00:19,109 --> 00:00:21,420
+the<font color="#E5E5E5"> Clinton era it was</font><font color="#CCCCCC"> right-wing talk</font>
+
+10
+00:00:21,420 --> 00:00:23,789
+radio<font color="#E5E5E5"> the</font><font color="#CCCCCC"> rose a lot</font><font color="#E5E5E5"> of time it's</font><font color="#CCCCCC"> themed</font>
+
+11
+00:00:23,789 --> 00:00:27,119
+<font color="#E5E5E5">out of party</font><font color="#CCCCCC"> that does better in the</font>
+
+12
+00:00:27,119 --> 00:00:28,680
+<font color="#CCCCCC">media during a presidential</font>
+
+13
+00:00:28,680 --> 00:00:31,859
+administration but we see<font color="#E5E5E5"> conservative</font>
+
+14
+00:00:31,859 --> 00:00:35,059
+media thriving under<font color="#CCCCCC"> president frump new</font>
+
+15
+00:00:35,059 --> 00:00:38,160
+salaries new contracts<font color="#E5E5E5"> for</font><font color="#CCCCCC"> right-wing</font>
+
+16
+00:00:38,160 --> 00:00:40,680
+media stars lots of conservative traffic
+
+17
+00:00:40,680 --> 00:00:44,550
+and new conservative outlets<font color="#E5E5E5"> all of</font>
+
+18
+00:00:44,550 --> 00:00:48,000
+which are acting as an amplification<font color="#E5E5E5"> for</font>
+
+19
+00:00:48,000 --> 00:00:49,530
+what's<font color="#E5E5E5"> already the biggest microphone in</font>
+
+20
+00:00:49,530 --> 00:00:51,480
+the world<font color="#CCCCCC"> well and it</font><font color="#E5E5E5"> seems as if from</font>
+
+21
+00:00:51,480 --> 00:00:53,190
+<font color="#CCCCCC">your reporting Mike if this is</font><font color="#E5E5E5"> happening</font>
+
+22
+00:00:53,190 --> 00:00:54,629
+<font color="#CCCCCC">across all mediums it's not just</font>
+
+23
+00:00:54,629 --> 00:00:56,039
+<font color="#E5E5E5">television as as we've heard reporting</font>
+
+24
+00:00:56,039 --> 00:00:57,390
+that<font color="#E5E5E5"> Bill O'Reilly might be returning to</font>
+
+25
+00:00:57,390 --> 00:00:59,879
+<font color="#E5E5E5">news</font><font color="#CCCCCC"> Maxim's in the 8 p.m. timeslot</font><font color="#E5E5E5"> that</font>
+
+26
+00:00:59,879 --> 00:01:01,829
+he had for so long<font color="#E5E5E5"> at Fox News</font><font color="#CCCCCC"> it's</font>
+
+27
+00:01:01,829 --> 00:01:04,019
+across all mediums where else could<font color="#E5E5E5"> we</font>
+
+28
+00:01:04,019 --> 00:01:06,330
+be seeing sort<font color="#E5E5E5"> of this rise now that's a</font>
+
+29
+00:01:06,330 --> 00:01:08,670
+<font color="#E5E5E5">great point so actually Sarah Fisher has</font>
+
+30
+00:01:08,670 --> 00:01:10,500
+a great post up just now pointing out
+
+31
+00:01:10,500 --> 00:01:13,049
+that you see it on local TV so of<font color="#E5E5E5"> course</font>
+
+32
+00:01:13,049 --> 00:01:15,180
+we've<font color="#CCCCCC"> seen here</font><font color="#E5E5E5"> on first look and</font>
+
+33
+00:01:15,180 --> 00:01:18,299
+Morning Joe the<font color="#CCCCCC"> CIM the</font><font color="#E5E5E5"> Sinclair echo</font>
+
+34
+00:01:18,299 --> 00:01:21,049
+effect the largest chain<font color="#CCCCCC"> of local</font>
+
+35
+00:01:21,049 --> 00:01:23,790
+affiliates around<font color="#E5E5E5"> the country running</font>
+
+36
+00:01:23,790 --> 00:01:25,530
+there must run editorials with a
+
+37
+00:01:25,530 --> 00:01:28,710
+<font color="#E5E5E5">conservative Pro White House talking</font>
+
+38
+00:01:28,710 --> 00:01:31,409
+point<font color="#E5E5E5"> embedded in them on digital we see</font>
+
+39
+00:01:31,409 --> 00:01:36,570
+<font color="#E5E5E5">both new outlets</font><font color="#CCCCCC"> often devoted to a</font>
+
+40
+00:01:36,570 --> 00:01:39,060
+particular<font color="#E5E5E5"> state giving a Republican</font>
+
+41
+00:01:39,060 --> 00:01:41,840
+talking points<font color="#CCCCCC"> often looking like</font>
+
+42
+00:01:41,840 --> 00:01:46,259
+legitimate news outlets<font color="#E5E5E5"> and there's also</font>
+
+43
+00:01:46,259 --> 00:01:50,600
+been<font color="#CCCCCC"> a boom on radio</font><font color="#E5E5E5"> and the cable</font><font color="#CCCCCC"> TV</font>
+
+44
+00:01:50,600 --> 00:01:55,020
+across the board<font color="#E5E5E5"> is up as</font><font color="#CCCCCC"> well how do</font>
+
+45
+00:01:55,020 --> 00:01:56,280
+you<font color="#E5E5E5"> think they're able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> get so far</font>
+
+46
+00:01:56,280 --> 00:02:00,469
+ahead<font color="#E5E5E5"> of this</font><font color="#CCCCCC"> yes</font><font color="#E5E5E5"> so what we see is the</font>
+
+47
+00:02:00,469 --> 00:02:03,540
+even though the<font color="#CCCCCC"> president</font><font color="#E5E5E5"> Trump's</font>
+
+48
+00:02:03,540 --> 00:02:06,390
+<font color="#E5E5E5">enthusiast one they still feel like</font>
+
+49
+00:02:06,390 --> 00:02:09,360
+outsiders<font color="#E5E5E5"> and they still feel like the</font>
+
+50
+00:02:09,360 --> 00:02:11,068
+<font color="#CCCCCC">mainstream media isn't giving them a</font>
+
+51
+00:02:11,068 --> 00:02:12,520
+fair<font color="#CCCCCC"> shake</font>
+
+52
+00:02:12,520 --> 00:02:14,260
+the president very cleverly Stokes this
+
+53
+00:02:14,260 --> 00:02:18,670
+with the big media<font color="#E5E5E5"> and his other calls</font>
+
+54
+00:02:18,670 --> 00:02:22,450
+for action<font color="#E5E5E5"> to his people and they're</font>
+
+55
+00:02:22,450 --> 00:02:25,360
+<font color="#CCCCCC">working they want to consume more</font><font color="#E5E5E5"> they</font>
+
+56
+00:02:25,360 --> 00:02:28,600
+want to feel aggrieved<font color="#E5E5E5"> and as</font><font color="#CCCCCC"> President</font>
+
+57
+00:02:28,600 --> 00:02:30,850
+Trump looks ahead<font color="#CCCCCC"> to his 2020</font>
+
+58
+00:02:30,850 --> 00:02:33,340
+re-election campaign<font color="#CCCCCC"> and Axios this week</font>
+
+59
+00:02:33,340 --> 00:02:36,730
+<font color="#CCCCCC">popped</font><font color="#E5E5E5"> up a first look at the beginnings</font>
+
+60
+00:02:36,730 --> 00:02:38,800
+of that campaign which is starting<font color="#E5E5E5"> out</font>
+
+61
+00:02:38,800 --> 00:02:40,990
+in a basement<font color="#E5E5E5"> and the Republican</font>
+
+62
+00:02:40,990 --> 00:02:43,120
+National Committee<font color="#E5E5E5"> on</font><font color="#CCCCCC"> Capitol Hill right</font>
+
+63
+00:02:43,120 --> 00:02:45,370
+behind me<font color="#E5E5E5"> as he looks</font><font color="#CCCCCC"> ahead</font><font color="#E5E5E5"> like this is</font>
+
+64
+00:02:45,370 --> 00:02:47,530
+<font color="#E5E5E5">gonna be an extremely</font><font color="#CCCCCC"> useful tool</font><font color="#E5E5E5"> he has</font>
+
+65
+00:02:47,530 --> 00:02:50,770
+his<font color="#CCCCCC"> own campaign but now</font><font color="#E5E5E5"> this big echo</font>
+
+66
+00:02:50,770 --> 00:02:52,900
+effect<font color="#E5E5E5"> just about anywhere</font><font color="#CCCCCC"> you want to</font>
+
+67
+00:02:52,900 --> 00:02:54,400
+<font color="#E5E5E5">turn in media</font><font color="#CCCCCC"> well and I</font><font color="#E5E5E5"> know that</font>
+
+68
+00:02:54,400 --> 00:02:55,630
+<font color="#CCCCCC">they're</font><font color="#E5E5E5"> looking ahead both of the</font>
+
+69
+00:02:55,630 --> 00:02:57,400
+successes and<font color="#E5E5E5"> the possible issues that</font>
+
+70
+00:02:57,400 --> 00:02:59,410
+<font color="#E5E5E5">could feasibly arise in the run-up to</font>
+
+71
+00:02:59,410 --> 00:03:03,250
+2020<font color="#CCCCCC"> talk to me</font><font color="#E5E5E5"> about the problem that</font>
+
+72
+00:03:03,250 --> 00:03:05,380
+<font color="#CCCCCC">President Trump has with young</font>
+
+73
+00:03:05,380 --> 00:03:07,540
+<font color="#CCCCCC">Republicans that you found</font><font color="#E5E5E5"> yeah I think</font>
+
+74
+00:03:07,540 --> 00:03:09,490
+<font color="#E5E5E5">we're</font><font color="#CCCCCC"> gonna</font><font color="#E5E5E5"> see some</font><font color="#CCCCCC"> numbers right</font><font color="#E5E5E5"> here</font>
+
+75
+00:03:09,490 --> 00:03:13,000
+an enthusiasm<font color="#E5E5E5"> gap between Republicans</font>
+
+76
+00:03:13,000 --> 00:03:15,430
+who<font color="#CCCCCC"> are younger</font><font color="#E5E5E5"> than 45 and those who</font>
+
+77
+00:03:15,430 --> 00:03:18,760
+are older super<font color="#E5E5E5"> SurveyMonkey did an</font>
+
+78
+00:03:18,760 --> 00:03:21,970
+analysis<font color="#E5E5E5"> of a vast swath of Trump</font>
+
+79
+00:03:21,970 --> 00:03:24,750
+polling and found<font color="#E5E5E5"> that younger</font>
+
+80
+00:03:24,750 --> 00:03:27,340
+Republican voters<font color="#CCCCCC"> are less likely</font><font color="#E5E5E5"> to be</font>
+
+81
+00:03:27,340 --> 00:03:30,190
+very excited about Trump than our older
+
+82
+00:03:30,190 --> 00:03:32,020
+voters<font color="#E5E5E5"> and of course this reflects the</font>
+
+83
+00:03:32,020 --> 00:03:34,360
+demographics<font color="#E5E5E5"> of his vote at large</font><font color="#CCCCCC"> when I</font>
+
+84
+00:03:34,360 --> 00:03:37,840
+met<font color="#E5E5E5"> with Trump's new upcoming campaign</font>
+
+85
+00:03:37,840 --> 00:03:40,390
+manager Brad<font color="#CCCCCC"> Parr scale he said a good</font>
+
+86
+00:03:40,390 --> 00:03:42,880
+place that<font color="#CCCCCC"> they go to get names</font><font color="#E5E5E5"> a place</font>
+
+87
+00:03:42,880 --> 00:03:47,110
+for their paid advertising is AOL<font color="#E5E5E5"> Mike I</font>
+
+88
+00:03:47,110 --> 00:03:52,690
+<font color="#CCCCCC">quickly are</font><font color="#E5E5E5"> you good</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> okay Mike</font><font color="#CCCCCC"> you</font>
+
+89
+00:03:52,690 --> 00:03:57,070
+<font color="#E5E5E5">okay okay</font><font color="#CCCCCC"> I quickly</font><font color="#E5E5E5"> want to follow up on</font>
+
+90
+00:03:57,070 --> 00:03:58,930
+the reporting<font color="#CCCCCC"> that you had a couple</font><font color="#E5E5E5"> of</font>
+
+91
+00:03:58,930 --> 00:04:00,220
+days ago with regards to<font color="#E5E5E5"> the leaks</font>
+
+92
+00:04:00,220 --> 00:04:01,420
+coming<font color="#CCCCCC"> out of the White House what more</font>
+
+93
+00:04:01,420 --> 00:04:03,520
+<font color="#E5E5E5">you learning about that</font><font color="#CCCCCC"> yes so what</font>
+
+94
+00:04:03,520 --> 00:04:06,730
+<font color="#E5E5E5">we're seeing is that rather than trying</font>
+
+95
+00:04:06,730 --> 00:04:11,110
+to<font color="#E5E5E5"> crack down on what's being said that</font>
+
+96
+00:04:11,110 --> 00:04:14,010
+there's an<font color="#CCCCCC"> effort to go after</font>
+
+97
+00:04:14,010 --> 00:04:16,560
+<font color="#E5E5E5">particularly</font><font color="#CCCCCC"> kurz to buying them and</font>
+
+98
+00:04:16,560 --> 00:04:19,358
+<font color="#E5E5E5">FCC's Jonathan Swan points out that</font>
+
+99
+00:04:19,358 --> 00:04:21,459
+<font color="#E5E5E5">there's a culture there that's</font>
+
+100
+00:04:21,459 --> 00:04:24,580
+encouraged these weeks we
+
+101
+00:04:24,580 --> 00:04:28,659
+see a lot of internal rivalry<font color="#E5E5E5"> and asked</font>
+
+102
+00:04:28,659 --> 00:04:30,789
+about<font color="#E5E5E5"> why they leak some people</font><font color="#CCCCCC"> even</font>
+
+103
+00:04:30,789 --> 00:04:34,990
+said that they mimic<font color="#CCCCCC"> the idioms</font><font color="#E5E5E5"> of their</font>
+
+104
+00:04:34,990 --> 00:04:37,090
+other<font color="#E5E5E5"> colleagues so that the</font><font color="#CCCCCC"> week's will</font>
+
+105
+00:04:37,090 --> 00:04:40,210
+sound like<font color="#E5E5E5"> someone else</font><font color="#CCCCCC"> alright</font><font color="#E5E5E5"> Mike</font>
+
+106
+00:04:40,210 --> 00:04:41,530
+Allen for us thank<font color="#E5E5E5"> you Mike we're gonna</font>
+
+107
+00:04:41,530 --> 00:04:43,360
+be reading<font color="#CCCCCC"> axis a.m. in just a little</font>
+
+108
+00:04:43,360 --> 00:04:45,009
+<font color="#E5E5E5">bit and to all our</font><font color="#CCCCCC"> viewers out there you</font>
+
+109
+00:04:45,009 --> 00:04:46,569
+<font color="#E5E5E5">too can sign up for the newsletter at</font>
+
+110
+00:04:46,569 --> 00:04:48,639
+<font color="#E5E5E5">Axios</font><font color="#CCCCCC"> com that does it for us on</font><font color="#E5E5E5"> this</font>
+
+111
+00:04:48,639 --> 00:04:50,500
+Wednesday morning I'm<font color="#CCCCCC"> Yasmine Vesuvian</font>
+
+112
+00:04:50,500 --> 00:04:52,659
+alongside<font color="#E5E5E5"> animal</font><font color="#CCCCCC"> Hadean and lewis</font>
+
+113
+00:04:52,659 --> 00:04:54,340
+<font color="#CCCCCC">bergdorf</font><font color="#E5E5E5"> Morning Joe everybody starts</font>
+
+114
+00:04:54,340 --> 00:04:55,180
+right now
+
+115
+00:04:55,180 --> 00:04:56,560
+hey there I'm Chris<font color="#E5E5E5"> Hayes from MSNBC</font>
+
+116
+00:04:56,560 --> 00:04:59,110
+thanks for watching<font color="#CCCCCC"> MSNBC on YouTube if</font>
+
+117
+00:04:59,110 --> 00:05:00,250
+you<font color="#E5E5E5"> want to keep up to</font><font color="#CCCCCC"> date</font><font color="#E5E5E5"> with the</font>
+
+118
+00:05:00,250 --> 00:05:01,449
+videos we're putting out you can click
+
+119
+00:05:01,449 --> 00:05:03,759
+<font color="#CCCCCC">subscribe just</font><font color="#E5E5E5"> below me or click over on</font>
+
+120
+00:05:03,759 --> 00:05:05,590
+<font color="#E5E5E5">this list to see lots of other great</font>
+
+121
+00:05:05,590 --> 00:00:00,000
+videos
+

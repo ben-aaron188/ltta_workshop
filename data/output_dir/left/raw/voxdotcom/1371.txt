@@ -1,0 +1,536 @@
+1
+00:00:00,089 --> 00:00:02,669
+when animals<font color="#CCCCCC"> first of all they did so in</font>
+
+2
+00:00:02,669 --> 00:00:06,779
+a microbial<font color="#CCCCCC"> world</font><font color="#E5E5E5"> they did so on a</font>
+
+3
+00:00:06,779 --> 00:00:09,090
+planet that<font color="#E5E5E5"> had been home to all these</font>
+
+4
+00:00:09,090 --> 00:00:13,259
+organisms<font color="#E5E5E5"> for billions of</font><font color="#CCCCCC"> years</font><font color="#E5E5E5"> this is</font>
+
+5
+00:00:13,259 --> 00:00:15,210
+Ed<font color="#CCCCCC"> young he's written a book</font><font color="#E5E5E5"> about the</font>
+
+6
+00:00:15,210 --> 00:00:17,310
+microorganisms that live<font color="#E5E5E5"> inside us and</font>
+
+7
+00:00:17,310 --> 00:00:20,820
+all<font color="#CCCCCC"> around us and that predate us</font><font color="#E5E5E5"> by a</font>
+
+8
+00:00:20,820 --> 00:00:23,820
+<font color="#E5E5E5">lot if</font><font color="#CCCCCC"> we condense all of Earth's</font>
+
+9
+00:00:23,820 --> 00:00:24,539
+history
+
+10
+00:00:24,539 --> 00:00:26,880
+into a single calendar year then life
+
+11
+00:00:26,880 --> 00:00:30,029
+emerged<font color="#CCCCCC"> round about</font><font color="#E5E5E5"> March</font><font color="#CCCCCC"> and</font>
+
+12
+00:00:30,029 --> 00:00:32,369
+multicellular<font color="#CCCCCC"> life from all the</font>
+
+13
+00:00:32,369 --> 00:00:34,200
+<font color="#E5E5E5">organisms that we familiar with only</font>
+
+14
+00:00:34,200 --> 00:00:36,630
+really<font color="#E5E5E5"> came up in October</font><font color="#CCCCCC"> or so and</font>
+
+15
+00:00:36,630 --> 00:00:40,230
+humans emerged very very recently indeed
+
+16
+00:00:40,230 --> 00:00:42,570
+so we're sort<font color="#E5E5E5"> of</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> icing</font><font color="#E5E5E5"> on on</font>
+
+17
+00:00:42,570 --> 00:00:45,600
+life's cake<font color="#CCCCCC"> from the time humans evolved</font>
+
+18
+00:00:45,600 --> 00:00:47,640
+bacteria<font color="#E5E5E5"> and other microbes would have</font>
+
+19
+00:00:47,640 --> 00:00:49,620
+colonized<font color="#E5E5E5"> every nook and cranny</font><font color="#CCCCCC"> of our</font>
+
+20
+00:00:49,620 --> 00:00:51,960
+<font color="#E5E5E5">bodies just</font><font color="#CCCCCC"> like they had other animals</font>
+
+21
+00:00:51,960 --> 00:00:53,699
+<font color="#E5E5E5">and they lived with us like that for</font>
+
+22
+00:00:53,699 --> 00:00:56,280
+some<font color="#CCCCCC"> 200,000 years</font><font color="#E5E5E5"> until</font><font color="#CCCCCC"> eventually</font>
+
+23
+00:00:56,280 --> 00:01:00,559
+someone looked close enough to notice
+
+24
+00:01:03,350 --> 00:01:07,310
+that person was Antony van Leeuwenhoek
+
+25
+00:01:07,310 --> 00:01:10,619
+<font color="#CCCCCC">so this is the late 17th century</font><font color="#E5E5E5"> in the</font>
+
+26
+00:01:10,619 --> 00:01:12,960
+<font color="#CCCCCC">Netherlands</font><font color="#E5E5E5"> and he's not a trained</font>
+
+27
+00:01:12,960 --> 00:01:15,540
+scientist he's not a scholar<font color="#E5E5E5"> but he has</font>
+
+28
+00:01:15,540 --> 00:01:17,850
+two things that are<font color="#CCCCCC"> really important one</font>
+
+29
+00:01:17,850 --> 00:01:20,340
+is an insatiable curiosity<font color="#E5E5E5"> and the other</font>
+
+30
+00:01:20,340 --> 00:01:22,950
+are really really good lenses which he
+
+31
+00:01:22,950 --> 00:01:25,650
+grinds himself<font color="#CCCCCC"> at that point microscopes</font>
+
+32
+00:01:25,650 --> 00:01:27,750
+had been around for<font color="#CCCCCC"> decades in England</font>
+
+33
+00:01:27,750 --> 00:01:29,340
+Robert Hooke had published a book<font color="#E5E5E5"> of</font>
+
+34
+00:01:29,340 --> 00:01:30,990
+observations that<font color="#E5E5E5"> was a popular success</font>
+
+35
+00:01:30,990 --> 00:01:33,630
+<font color="#E5E5E5">it introduced the term cell for the</font>
+
+36
+00:01:33,630 --> 00:01:35,790
+pores<font color="#E5E5E5"> that he saw in a slice of cork</font>
+
+37
+00:01:35,790 --> 00:01:37,530
+<font color="#CCCCCC">because they reminded him of</font><font color="#E5E5E5"> the cells</font>
+
+38
+00:01:37,530 --> 00:01:38,579
+<font color="#E5E5E5">in a monastery</font>
+
+39
+00:01:38,579 --> 00:01:40,890
+but bacterial cells are much smaller
+
+40
+00:01:40,890 --> 00:01:43,049
+than plant cells while Hooke was<font color="#E5E5E5"> using a</font>
+
+41
+00:01:43,049 --> 00:01:44,670
+compound<font color="#E5E5E5"> microscope that could magnify</font>
+
+42
+00:01:44,670 --> 00:01:46,500
+20 to 30<font color="#CCCCCC"> times</font>
+
+43
+00:01:46,500 --> 00:01:48,930
+Leeuwenhoek used single lens microscopes
+
+44
+00:01:48,930 --> 00:01:51,450
+that<font color="#E5E5E5"> could magnify up to 260 times</font>
+
+45
+00:01:51,450 --> 00:01:53,159
+<font color="#E5E5E5">though you might</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> expect that</font><font color="#CCCCCC"> from</font>
+
+46
+00:01:53,159 --> 00:01:55,619
+<font color="#E5E5E5">looking at them</font><font color="#CCCCCC"> it's really like us -</font>
+
+47
+00:01:55,619 --> 00:01:59,070
+brass rectangles that<font color="#E5E5E5"> sandwich this tiny</font>
+
+48
+00:01:59,070 --> 00:02:02,820
+tiny glass lens<font color="#E5E5E5"> the spherical lens</font>
+
+49
+00:02:02,820 --> 00:02:04,920
+between<font color="#E5E5E5"> them but it basically looks like</font>
+
+50
+00:02:04,920 --> 00:02:06,610
+<font color="#E5E5E5">a door hinge</font>
+
+51
+00:02:06,610 --> 00:02:08,258
+the whole thing was just a few<font color="#E5E5E5"> inches</font>
+
+52
+00:02:08,258 --> 00:02:10,899
+<font color="#E5E5E5">long and the lens was as small as a</font>
+
+53
+00:02:10,899 --> 00:02:13,180
+grain of<font color="#CCCCCC"> rice and he would have</font><font color="#E5E5E5"> held it</font>
+
+54
+00:02:13,180 --> 00:02:14,860
+really close to his eye he would have
+
+55
+00:02:14,860 --> 00:02:16,480
+had to basically press his face up
+
+56
+00:02:16,480 --> 00:02:18,520
+against this<font color="#CCCCCC"> thing and look</font><font color="#E5E5E5"> through the</font>
+
+57
+00:02:18,520 --> 00:02:20,140
+<font color="#E5E5E5">lens it would have been deeply</font>
+
+58
+00:02:20,140 --> 00:02:23,860
+uncomfortable<font color="#E5E5E5"> and very straining to</font>
+
+59
+00:02:23,860 --> 00:02:25,930
+understand why his lens was so small you
+
+60
+00:02:25,930 --> 00:02:27,820
+have<font color="#E5E5E5"> to know how magnifying glasses work</font>
+
+61
+00:02:27,820 --> 00:02:30,220
+like any other<font color="#E5E5E5"> lens they made use of the</font>
+
+62
+00:02:30,220 --> 00:02:31,960
+<font color="#E5E5E5">fact</font><font color="#CCCCCC"> that light bends</font><font color="#E5E5E5"> when it enters</font>
+
+63
+00:02:31,960 --> 00:02:34,210
+glass at an angle that's because light
+
+64
+00:02:34,210 --> 00:02:35,950
+<font color="#CCCCCC">travels more slowly through</font><font color="#E5E5E5"> glass than</font>
+
+65
+00:02:35,950 --> 00:02:37,810
+air<font color="#CCCCCC"> and</font><font color="#E5E5E5"> so the portion of the wavefront</font>
+
+66
+00:02:37,810 --> 00:02:39,550
+that enters the glass first will slow
+
+67
+00:02:39,550 --> 00:02:41,470
+down<font color="#CCCCCC"> while</font><font color="#E5E5E5"> the other part continues at</font>
+
+68
+00:02:41,470 --> 00:02:43,420
+the faster speed<font color="#E5E5E5"> that's what makes the</font>
+
+69
+00:02:43,420 --> 00:02:45,190
+light change direction<font color="#E5E5E5"> both when it</font>
+
+70
+00:02:45,190 --> 00:02:48,130
+<font color="#E5E5E5">enters and exits the lens now if you put</font>
+
+71
+00:02:48,130 --> 00:02:49,930
+an<font color="#CCCCCC"> object close</font><font color="#E5E5E5"> enough to the lens the</font>
+
+72
+00:02:49,930 --> 00:02:51,820
+bending light creates a virtual image
+
+73
+00:02:51,820 --> 00:02:53,830
+<font color="#E5E5E5">that's not the size of</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> real object</font>
+
+74
+00:02:53,830 --> 00:02:55,660
+but the size it would<font color="#CCCCCC"> be if the light</font>
+
+75
+00:02:55,660 --> 00:02:57,490
+from the lens had<font color="#E5E5E5"> traveled in a straight</font>
+
+76
+00:02:57,490 --> 00:03:00,070
+line<font color="#CCCCCC"> all along and if the lens</font><font color="#E5E5E5"> is more</font>
+
+77
+00:03:00,070 --> 00:03:02,260
+curved<font color="#E5E5E5"> those lines get even steeper</font>
+
+78
+00:03:02,260 --> 00:03:04,750
+<font color="#E5E5E5">meaning greater magnification so</font>
+
+79
+00:03:04,750 --> 00:03:06,370
+Leeuwenhoek's lenses weren't just by
+
+80
+00:03:06,370 --> 00:03:08,590
+convex they were spherical<font color="#E5E5E5"> and he knew</font>
+
+81
+00:03:08,590 --> 00:03:10,330
+that<font color="#E5E5E5"> he could make that curve even</font><font color="#CCCCCC"> more</font>
+
+82
+00:03:10,330 --> 00:03:12,310
+drastic by shrinking the<font color="#E5E5E5"> whole lens down</font>
+
+83
+00:03:12,310 --> 00:03:14,500
+as<font color="#E5E5E5"> small as</font><font color="#CCCCCC"> possible</font><font color="#E5E5E5"> even</font><font color="#CCCCCC"> if that</font><font color="#E5E5E5"> meant</font>
+
+84
+00:03:14,500 --> 00:03:16,330
+he had<font color="#CCCCCC"> to</font><font color="#E5E5E5"> get his eye uncomfortably</font>
+
+85
+00:03:16,330 --> 00:03:18,820
+close to<font color="#CCCCCC"> it and with that tiny bead of</font>
+
+86
+00:03:18,820 --> 00:03:21,160
+glass Leeuwenhoek<font color="#E5E5E5"> opened a peephole into</font>
+
+87
+00:03:21,160 --> 00:03:27,190
+<font color="#CCCCCC">a whole new world he looked at his blood</font>
+
+88
+00:03:27,190 --> 00:03:28,959
+and discovered blood cells he looked at
+
+89
+00:03:28,959 --> 00:03:31,420
+his semen and discovered sperm<font color="#E5E5E5"> he looked</font>
+
+90
+00:03:31,420 --> 00:03:33,040
+at different samples of<font color="#E5E5E5"> water and saw</font>
+
+91
+00:03:33,040 --> 00:03:35,769
+algae cells protozoa and bacteria
+
+92
+00:03:35,769 --> 00:03:38,170
+he called<font color="#E5E5E5"> them little animals he went on</font>
+
+93
+00:03:38,170 --> 00:03:40,060
+<font color="#E5E5E5">to peer into his own dental plaque and</font>
+
+94
+00:03:40,060 --> 00:03:42,100
+<font color="#E5E5E5">he found bacteria there too and he</font>
+
+95
+00:03:42,100 --> 00:03:44,110
+described what he saw<font color="#CCCCCC"> in letters to the</font>
+
+96
+00:03:44,110 --> 00:03:46,560
+Royal<font color="#E5E5E5"> Society</font>
+
+97
+00:03:57,959 --> 00:04:00,900
+he's the first<font color="#E5E5E5"> person</font><font color="#CCCCCC"> to see bacteria he</font>
+
+98
+00:04:00,900 --> 00:04:04,739
+is the the<font color="#CCCCCC"> only creature in</font><font color="#E5E5E5"> let</font><font color="#CCCCCC"> alone</font>
+
+99
+00:04:04,739 --> 00:04:06,659
+human he's the only<font color="#E5E5E5"> organism in the</font>
+
+100
+00:04:06,659 --> 00:04:08,219
+entire history of life on<font color="#E5E5E5"> Earth to</font>
+
+101
+00:04:08,219 --> 00:04:11,099
+<font color="#E5E5E5">actually see the things that have been</font>
+
+102
+00:04:11,099 --> 00:04:13,379
+the<font color="#CCCCCC"> dominant players in</font><font color="#E5E5E5"> life's history</font>
+
+103
+00:04:13,379 --> 00:04:16,918
+<font color="#CCCCCC">and I think the great thing is that he</font>
+
+104
+00:04:16,918 --> 00:04:19,168
+wasn't disgusted by<font color="#E5E5E5"> it</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> know he saw</font>
+
+105
+00:04:19,168 --> 00:04:21,959
+tiny<font color="#E5E5E5"> living</font><font color="#CCCCCC"> things</font><font color="#E5E5E5"> living in his own</font>
+
+106
+00:04:21,959 --> 00:04:24,210
+mouth<font color="#E5E5E5"> and you know he he thought they</font>
+
+107
+00:04:24,210 --> 00:04:26,490
+were cool<font color="#E5E5E5"> it would be</font><font color="#CCCCCC"> nearly</font><font color="#E5E5E5"> two more</font>
+
+108
+00:04:26,490 --> 00:04:28,289
+centuries before microbes were linked to
+
+109
+00:04:28,289 --> 00:04:30,270
+<font color="#CCCCCC">disease</font><font color="#E5E5E5"> and even</font><font color="#CCCCCC"> longer</font><font color="#E5E5E5"> before we</font>
+
+110
+00:04:30,270 --> 00:04:32,160
+understood<font color="#CCCCCC"> that our microbes help us</font>
+
+111
+00:04:32,160 --> 00:04:34,349
+digest food that they<font color="#CCCCCC"> train our immune</font>
+
+112
+00:04:34,349 --> 00:04:36,389
+system and help crowd out harmful
+
+113
+00:04:36,389 --> 00:04:37,259
+<font color="#E5E5E5">bacteria</font>
+
+114
+00:04:37,259 --> 00:04:39,030
+now microscopes are<font color="#E5E5E5"> much more powerful</font>
+
+115
+00:04:39,030 --> 00:04:41,220
+<font color="#CCCCCC">than Leeuwenhoek's were but these days</font>
+
+116
+00:04:41,220 --> 00:04:43,199
+it's a different tool<font color="#E5E5E5"> altogether that's</font>
+
+117
+00:04:43,199 --> 00:04:45,150
+<font color="#E5E5E5">enabling researchers to</font><font color="#CCCCCC"> explore how</font>
+
+118
+00:04:45,150 --> 00:04:46,710
+microbes affect human health
+
+119
+00:04:46,710 --> 00:04:50,669
+just like<font color="#CCCCCC"> Levin Hoke found microbes</font>
+
+120
+00:04:50,669 --> 00:04:53,610
+because<font color="#E5E5E5"> he had the right tools now we're</font>
+
+121
+00:04:53,610 --> 00:04:55,590
+seeing that<font color="#CCCCCC"> the microbiome is important</font>
+
+122
+00:04:55,590 --> 00:04:58,979
+<font color="#E5E5E5">because we have the right tools because</font>
+
+123
+00:04:58,979 --> 00:05:03,090
+we have the ability to sequence the DNA
+
+124
+00:05:03,090 --> 00:05:06,419
+of microbes<font color="#E5E5E5"> to identify them by just</font>
+
+125
+00:05:06,419 --> 00:05:07,830
+scooping up a<font color="#E5E5E5"> sample from the</font>
+
+126
+00:05:07,830 --> 00:05:11,330
+environment<font color="#E5E5E5"> and looking at their genes</font>
+
+127
+00:05:12,590 --> 00:05:15,539
+if you were to take<font color="#E5E5E5"> all the water</font><font color="#CCCCCC"> out of</font>
+
+128
+00:05:15,539 --> 00:05:18,060
+your<font color="#CCCCCC"> poop twenty-five</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> fifty percent</font>
+
+129
+00:05:18,060 --> 00:05:20,729
+<font color="#E5E5E5">of what's left is bacteria both dead and</font>
+
+130
+00:05:20,729 --> 00:05:23,190
+alive<font color="#E5E5E5"> so if you were feeling sad that</font>
+
+131
+00:05:23,190 --> 00:05:25,139
+you<font color="#CCCCCC"> can't see the</font><font color="#E5E5E5"> microbes that</font><font color="#CCCCCC"> make a</font>
+
+132
+00:05:25,139 --> 00:05:28,590
+home on your body<font color="#E5E5E5"> well it turns out you</font>
+
+133
+00:05:28,590 --> 00:05:30,500
+<font color="#E5E5E5">kind of can</font>
+
+134
+00:05:30,500 --> 00:00:00,000
+you
+

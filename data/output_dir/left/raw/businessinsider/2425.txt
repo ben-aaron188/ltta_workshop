@@ -1,0 +1,468 @@
+1
+00:00:12,049 --> 00:00:14,340
+in<font color="#E5E5E5"> reading through again some of the</font>
+
+2
+00:00:14,340 --> 00:00:15,809
+<font color="#E5E5E5">criteria that you lay out in terms of</font>
+
+3
+00:00:15,809 --> 00:00:17,789
+investments<font color="#CCCCCC"> lots</font><font color="#E5E5E5"> to talk about the</font>
+
+4
+00:00:17,789 --> 00:00:19,980
+product lots of<font color="#CCCCCC"> to talk</font><font color="#E5E5E5"> about how you</font>
+
+5
+00:00:19,980 --> 00:00:21,840
+prefer technical founders which is
+
+6
+00:00:21,840 --> 00:00:22,890
+<font color="#E5E5E5">interesting I want to talk about</font><font color="#CCCCCC"> it in a</font>
+
+7
+00:00:22,890 --> 00:00:24,900
+second but<font color="#E5E5E5"> very little talk about the</font>
+
+8
+00:00:24,900 --> 00:00:27,599
+<font color="#CCCCCC">business and so again this goes</font><font color="#E5E5E5"> back</font><font color="#CCCCCC"> to</font>
+
+9
+00:00:27,599 --> 00:00:29,369
+<font color="#CCCCCC">this tension of product versus business</font>
+
+10
+00:00:29,369 --> 00:00:31,259
+<font color="#E5E5E5">sounds like you are</font><font color="#CCCCCC"> very focused</font><font color="#E5E5E5"> on</font>
+
+11
+00:00:31,259 --> 00:00:32,580
+product<font color="#E5E5E5"> we don't believe there's a</font>
+
+12
+00:00:32,580 --> 00:00:34,230
+tension<font color="#E5E5E5"> between product</font><font color="#CCCCCC"> and business</font><font color="#E5E5E5"> we</font>
+
+13
+00:00:34,230 --> 00:00:36,060
+believe<font color="#E5E5E5"> there's a staging which is in</font>
+
+14
+00:00:36,060 --> 00:00:37,440
+this<font color="#E5E5E5"> industry you don't have a business</font>
+
+15
+00:00:37,440 --> 00:00:39,090
+<font color="#E5E5E5">until you have a product</font><font color="#CCCCCC"> and in</font>
+
+16
+00:00:39,090 --> 00:00:40,170
+particular you<font color="#CCCCCC"> don't have</font><font color="#E5E5E5"> the business</font>
+
+17
+00:00:40,170 --> 00:00:41,370
+<font color="#CCCCCC">until you have a product that</font><font color="#E5E5E5"> a lot</font><font color="#CCCCCC"> of</font>
+
+18
+00:00:41,370 --> 00:00:43,320
+people want we have this concept<font color="#E5E5E5"> we use</font>
+
+19
+00:00:43,320 --> 00:00:44,940
+a term product market fit<font color="#CCCCCC"> which</font><font color="#E5E5E5"> is</font>
+
+20
+00:00:44,940 --> 00:00:46,230
+<font color="#E5E5E5">basically you have</font><font color="#CCCCCC"> a product that the</font>
+
+21
+00:00:46,230 --> 00:00:47,490
+market wants<font color="#CCCCCC"> and you can tell because</font>
+
+22
+00:00:47,490 --> 00:00:49,110
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> market is pulling the product and</font>
+
+23
+00:00:49,110 --> 00:00:51,810
+until you<font color="#CCCCCC"> have</font><font color="#E5E5E5"> that time spent building</font>
+
+24
+00:00:51,810 --> 00:00:53,430
+<font color="#E5E5E5">the business around the product</font><font color="#CCCCCC"> is</font>
+
+25
+00:00:53,430 --> 00:00:55,470
+pointless<font color="#E5E5E5"> because it's not going to go</font>
+
+26
+00:00:55,470 --> 00:00:57,090
+<font color="#E5E5E5">anywhere like best case is gonna be</font><font color="#CCCCCC"> a</font>
+
+27
+00:00:57,090 --> 00:00:58,950
+zombie<font color="#CCCCCC"> there's a lot</font><font color="#E5E5E5"> of companies are in</font>
+
+28
+00:00:58,950 --> 00:00:59,910
+<font color="#E5E5E5">the valley</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> lot of companies in the</font>
+
+29
+00:00:59,910 --> 00:01:01,050
+<font color="#CCCCCC">valley</font><font color="#E5E5E5"> and elsewhere that are you know</font>
+
+30
+00:01:01,050 --> 00:01:03,330
+25 50 75<font color="#E5E5E5"> people they've</font><font color="#CCCCCC"> got a product</font>
+
+31
+00:01:03,330 --> 00:01:04,860
+<font color="#CCCCCC">nobody really wants</font><font color="#E5E5E5"> it they sell a few</font>
+
+32
+00:01:04,860 --> 00:01:06,630
+<font color="#E5E5E5">every quarter and</font><font color="#CCCCCC"> they kind of eat</font><font color="#E5E5E5"> got a</font>
+
+33
+00:01:06,630 --> 00:01:08,640
+living<font color="#E5E5E5"> and they go on for a year after</font>
+
+34
+00:01:08,640 --> 00:01:10,320
+<font color="#E5E5E5">year after</font><font color="#CCCCCC"> year after year after</font><font color="#E5E5E5"> year</font>
+
+35
+00:01:10,320 --> 00:01:11,940
+<font color="#E5E5E5">and they never get anywhere they never</font>
+
+36
+00:01:11,940 --> 00:01:13,620
+go public<font color="#CCCCCC"> they never</font><font color="#E5E5E5"> get bought</font><font color="#CCCCCC"> and</font>
+
+37
+00:01:13,620 --> 00:01:15,390
+people<font color="#CCCCCC"> just basically collect salaries</font>
+
+38
+00:01:15,390 --> 00:01:17,730
+<font color="#E5E5E5">and that's not that's like not what we</font>
+
+39
+00:01:17,730 --> 00:01:19,560
+want to do and<font color="#E5E5E5"> that's not</font><font color="#CCCCCC"> what's super</font>
+
+40
+00:01:19,560 --> 00:01:20,730
+you know<font color="#E5E5E5"> super high potential</font>
+
+41
+00:01:20,730 --> 00:01:22,590
+entrepreneurs<font color="#E5E5E5"> want to do so what we</font>
+
+42
+00:01:22,590 --> 00:01:23,790
+basically<font color="#E5E5E5"> say is if you want</font><font color="#CCCCCC"> to build</font><font color="#E5E5E5"> a</font>
+
+43
+00:01:23,790 --> 00:01:25,110
+big success<font color="#E5E5E5"> you've got to nail the</font>
+
+44
+00:01:25,110 --> 00:01:26,550
+product you got<font color="#CCCCCC"> it like it's got to be a</font>
+
+45
+00:01:26,550 --> 00:01:27,900
+killer product<font color="#E5E5E5"> it's got to be</font><font color="#CCCCCC"> something</font>
+
+46
+00:01:27,900 --> 00:01:29,550
+that<font color="#E5E5E5"> has product market fit when you</font>
+
+47
+00:01:29,550 --> 00:01:31,650
+have product market<font color="#CCCCCC"> fit</font><font color="#E5E5E5"> then you build a</font>
+
+48
+00:01:31,650 --> 00:01:33,000
+company<font color="#CCCCCC"> around</font><font color="#E5E5E5"> it right so then you</font>
+
+49
+00:01:33,000 --> 00:01:34,620
+<font color="#CCCCCC">build a sales force then you</font><font color="#E5E5E5"> start doing</font>
+
+50
+00:01:34,620 --> 00:01:35,610
+<font color="#E5E5E5">marketing</font><font color="#CCCCCC"> and then you start</font><font color="#E5E5E5"> doing</font>
+
+51
+00:01:35,610 --> 00:01:37,140
+business<font color="#E5E5E5"> deals then you start expanding</font>
+
+52
+00:01:37,140 --> 00:01:38,100
+internationally<font color="#E5E5E5"> and you do all this</font>
+
+53
+00:01:38,100 --> 00:01:39,930
+other<font color="#CCCCCC"> stuff and it's at</font><font color="#E5E5E5"> that point where</font>
+
+54
+00:01:39,930 --> 00:01:41,310
+you start<font color="#E5E5E5"> to apply a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> capital and</font>
+
+55
+00:01:41,310 --> 00:01:42,600
+<font color="#CCCCCC">you build a big board and</font><font color="#E5E5E5"> you start</font>
+
+56
+00:01:42,600 --> 00:01:43,710
+<font color="#CCCCCC">hiring executives</font><font color="#E5E5E5"> and doing all this</font>
+
+57
+00:01:43,710 --> 00:01:45,900
+stuff<font color="#E5E5E5"> but a full executive team with</font><font color="#CCCCCC"> a</font>
+
+58
+00:01:45,900 --> 00:01:47,310
+<font color="#E5E5E5">sales force and all that stuff before</font>
+
+59
+00:01:47,310 --> 00:01:48,270
+<font color="#E5E5E5">you have the killer product is a</font>
+
+60
+00:01:48,270 --> 00:01:49,680
+complete waste<font color="#E5E5E5"> of</font><font color="#CCCCCC"> time and every time</font>
+
+61
+00:01:49,680 --> 00:01:51,900
+<font color="#E5E5E5">technology</font><font color="#CCCCCC"> goes through a downturn it's</font>
+
+62
+00:01:51,900 --> 00:01:53,610
+going through<font color="#E5E5E5"> now you get</font><font color="#CCCCCC"> people the</font>
+
+63
+00:01:53,610 --> 00:01:55,979
+press<font color="#E5E5E5"> they lob is obviously venture</font>
+
+64
+00:01:55,979 --> 00:01:57,570
+<font color="#CCCCCC">capitalist became idiots because</font><font color="#E5E5E5"> they</font>
+
+65
+00:01:57,570 --> 00:01:59,250
+stopped investing in<font color="#E5E5E5"> businesses they're</font>
+
+66
+00:01:59,250 --> 00:02:00,990
+just investing in products now we're
+
+67
+00:02:00,990 --> 00:02:02,729
+back<font color="#E5E5E5"> to serious business</font><font color="#CCCCCC"> again where you</font>
+
+68
+00:02:02,729 --> 00:02:05,070
+start businesses and<font color="#E5E5E5"> again</font><font color="#CCCCCC"> it sounds</font>
+
+69
+00:02:05,070 --> 00:02:06,420
+<font color="#CCCCCC">like you</font><font color="#E5E5E5"> think that's putting the cart</font>
+
+70
+00:02:06,420 --> 00:02:08,310
+<font color="#E5E5E5">ahead of the horse in the technology</font>
+
+71
+00:02:08,310 --> 00:02:10,288
+industry<font color="#E5E5E5"> now I won't good like I don't</font>
+
+72
+00:02:10,288 --> 00:02:11,909
+<font color="#CCCCCC">other industries maybe different retail</font>
+
+73
+00:02:11,909 --> 00:02:13,230
+might be different or consumer packaged
+
+74
+00:02:13,230 --> 00:02:14,609
+goods might be different or sports might
+
+75
+00:02:14,609 --> 00:02:15,810
+be other industries<font color="#CCCCCC"> are different in</font>
+
+76
+00:02:15,810 --> 00:02:18,029
+tech if you don't have an<font color="#E5E5E5"> ax new and</font>
+
+77
+00:02:18,029 --> 00:02:19,200
+compelling<font color="#CCCCCC"> and differentiated</font>
+
+78
+00:02:19,200 --> 00:02:20,910
+product that<font color="#E5E5E5"> HP doesn't have an IBM</font>
+
+79
+00:02:20,910 --> 00:02:22,200
+doesn't<font color="#E5E5E5"> have an Oracle doesn't have</font>
+
+80
+00:02:22,200 --> 00:02:24,720
+<font color="#E5E5E5">Microsoft doesn't have there's no point</font>
+
+81
+00:02:24,720 --> 00:02:26,940
+<font color="#CCCCCC">like there's absolutely no point</font><font color="#E5E5E5"> in</font>
+
+82
+00:02:26,940 --> 00:02:28,080
+doing<font color="#E5E5E5"> it you</font><font color="#CCCCCC"> might as well</font><font color="#E5E5E5"> not even be</font>
+
+83
+00:02:28,080 --> 00:02:30,030
+doing<font color="#E5E5E5"> it and how much at the outset do</font>
+
+84
+00:02:30,030 --> 00:02:31,440
+you have to know<font color="#CCCCCC"> about</font><font color="#E5E5E5"> what the business</font>
+
+85
+00:02:31,440 --> 00:02:33,120
+<font color="#CCCCCC">is going to</font><font color="#E5E5E5"> look like when you found in</font>
+
+86
+00:02:33,120 --> 00:02:35,459
+Netscape<font color="#CCCCCC"> I had very</font><font color="#E5E5E5"> clear ideas of what</font>
+
+87
+00:02:35,459 --> 00:02:37,319
+you<font color="#CCCCCC"> thought it</font><font color="#E5E5E5"> would look</font><font color="#CCCCCC"> like so</font><font color="#E5E5E5"> you</font>
+
+88
+00:02:37,319 --> 00:02:38,640
+don't<font color="#CCCCCC"> always know for sure</font><font color="#E5E5E5"> I think</font>
+
+89
+00:02:38,640 --> 00:02:39,840
+that's actually there's a myth running
+
+90
+00:02:39,840 --> 00:02:41,370
+<font color="#CCCCCC">around it I actually think some</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> this</font>
+
+91
+00:02:41,370 --> 00:02:42,630
+has been<font color="#E5E5E5"> sort of Facebook and Twitter</font>
+
+92
+00:02:42,630 --> 00:02:43,860
+reaction I think<font color="#E5E5E5"> there's a myth running</font>
+
+93
+00:02:43,860 --> 00:02:45,420
+around that there are these<font color="#E5E5E5"> sort of kids</font>
+
+94
+00:02:45,420 --> 00:02:46,830
+running<font color="#CCCCCC"> around out here</font><font color="#E5E5E5"> and they sort of</font>
+
+95
+00:02:46,830 --> 00:02:48,299
+start these companies and<font color="#E5E5E5"> they do this</font>
+
+96
+00:02:48,299 --> 00:02:49,349
+<font color="#CCCCCC">product I don't</font><font color="#E5E5E5"> have the slightest clue</font>
+
+97
+00:02:49,349 --> 00:02:50,580
+<font color="#E5E5E5">how are they</font><font color="#CCCCCC"> gonna they're gonna</font><font color="#E5E5E5"> make</font>
+
+98
+00:02:50,580 --> 00:02:52,560
+<font color="#E5E5E5">money I generally do</font><font color="#CCCCCC"> not find</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> to be</font>
+
+99
+00:02:52,560 --> 00:02:55,080
+<font color="#CCCCCC">true even</font><font color="#E5E5E5"> when people say they don't</font>
+
+100
+00:02:55,080 --> 00:02:56,640
+know how they're<font color="#CCCCCC"> gonna</font><font color="#E5E5E5"> make money</font><font color="#CCCCCC"> like</font>
+
+101
+00:02:56,640 --> 00:02:58,620
+<font color="#E5E5E5">he's don't want to tell anybody okay I</font>
+
+102
+00:02:58,620 --> 00:03:02,489
+won't<font color="#CCCCCC"> tell anybody and you know in</font>
+
+103
+00:03:02,489 --> 00:03:03,840
+<font color="#CCCCCC">practice for a lot of these things like</font>
+
+104
+00:03:03,840 --> 00:03:05,670
+<font color="#CCCCCC">you know</font><font color="#E5E5E5"> in my so I'm I do you have to</font>
+
+105
+00:03:05,670 --> 00:03:06,630
+think<font color="#CCCCCC"> about it you have to know that</font>
+
+106
+00:03:06,630 --> 00:03:08,160
+<font color="#CCCCCC">you're ending</font><font color="#E5E5E5"> up in some destination at</font>
+
+107
+00:03:08,160 --> 00:03:10,950
+some point<font color="#E5E5E5"> and in my</font><font color="#CCCCCC"> experience</font><font color="#E5E5E5"> the</font>
+
+108
+00:03:10,950 --> 00:03:12,930
+great entrepreneurs<font color="#E5E5E5"> who really</font><font color="#CCCCCC"> want to</font>
+
+109
+00:03:12,930 --> 00:03:15,180
+<font color="#CCCCCC">build companies</font><font color="#E5E5E5"> like they're really</font>
+
+110
+00:03:15,180 --> 00:03:16,920
+<font color="#CCCCCC">smarter thinking about that</font><font color="#E5E5E5"> and they you</font>
+
+111
+00:03:16,920 --> 00:03:18,030
+know they<font color="#E5E5E5"> may</font><font color="#CCCCCC"> not know for sure and they</font>
+
+112
+00:03:18,030 --> 00:03:20,250
+may<font color="#E5E5E5"> you know they'll you know they can</font>
+
+113
+00:03:20,250 --> 00:03:21,540
+do or we can do an<font color="#CCCCCC"> Excel model just</font><font color="#E5E5E5"> like</font>
+
+114
+00:03:21,540 --> 00:03:22,829
+<font color="#CCCCCC">anybody can</font><font color="#E5E5E5"> do an Excel model and it</font>
+
+115
+00:03:22,829 --> 00:03:23,910
+almost certainly<font color="#CCCCCC"> won't</font><font color="#E5E5E5"> be true but you</font>
+
+116
+00:03:23,910 --> 00:03:25,889
+generally<font color="#E5E5E5"> have</font><font color="#CCCCCC"> some idea of</font><font color="#E5E5E5"> how it's</font>
+
+117
+00:03:25,889 --> 00:00:00,000
+<font color="#CCCCCC">going to work</font>
+

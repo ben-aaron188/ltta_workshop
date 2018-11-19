@@ -1,0 +1,248 @@
+1
+00:00:00,030 --> 00:00:01,620
+elsewhere virtually<font color="#E5E5E5"> all computers</font>
+
+2
+00:00:01,620 --> 00:00:03,570
+including smartphones<font color="#E5E5E5"> and tablets it</font>
+
+3
+00:00:03,570 --> 00:00:06,089
+seems<font color="#CCCCCC"> to at risk now two major security</font>
+
+4
+00:00:06,089 --> 00:00:08,490
+flaws discovered in processing chips no
+
+5
+00:00:08,490 --> 00:00:10,290
+breaches<font color="#E5E5E5"> have been reported yet but the</font>
+
+6
+00:00:10,290 --> 00:00:12,269
+bugs could potentially<font color="#CCCCCC"> allow hackers</font><font color="#E5E5E5"> to</font>
+
+7
+00:00:12,269 --> 00:00:14,940
+get<font color="#CCCCCC"> hold of users passwords</font><font color="#E5E5E5"> photos and</font>
+
+8
+00:00:14,940 --> 00:00:17,550
+<font color="#CCCCCC">emails</font><font color="#E5E5E5"> both floors apparently work by</font>
+
+9
+00:00:17,550 --> 00:00:19,619
+<font color="#CCCCCC">exploiting</font><font color="#E5E5E5"> the way your device handles</font>
+
+10
+00:00:19,619 --> 00:00:22,140
+your data<font color="#CCCCCC"> it's supposed to</font><font color="#E5E5E5"> be isolated</font>
+
+11
+00:00:22,140 --> 00:00:24,660
+<font color="#E5E5E5">and locked up but this meltdown bug</font>
+
+12
+00:00:24,660 --> 00:00:26,849
+<font color="#E5E5E5">potentially lets hackers grab it while</font>
+
+13
+00:00:26,849 --> 00:00:28,800
+it's<font color="#E5E5E5"> being sent</font><font color="#CCCCCC"> to apps requesting it</font>
+
+14
+00:00:28,800 --> 00:00:31,260
+<font color="#E5E5E5">the problem</font><font color="#CCCCCC"> affects Intel chips used by</font>
+
+15
+00:00:31,260 --> 00:00:34,350
+almost<font color="#E5E5E5"> all Apple devices</font><font color="#CCCCCC"> the specter bug</font>
+
+16
+00:00:34,350 --> 00:00:36,660
+meantime works a bit<font color="#CCCCCC"> differently but</font>
+
+17
+00:00:36,660 --> 00:00:38,520
+<font color="#E5E5E5">affects almost all machines and</font>
+
+18
+00:00:38,520 --> 00:00:40,440
+cloud-based servers<font color="#E5E5E5"> it tricks</font>
+
+19
+00:00:40,440 --> 00:00:42,540
+applications into leaking<font color="#CCCCCC"> your private</font>
+
+20
+00:00:42,540 --> 00:00:45,090
+info scary<font color="#CCCCCC"> makes it harder to fix the</font>
+
+21
+00:00:45,090 --> 00:00:47,309
+floor now in late November it appears
+
+22
+00:00:47,309 --> 00:00:50,219
+Intel's CEO sold off a large<font color="#E5E5E5"> chunk of</font>
+
+23
+00:00:50,219 --> 00:00:52,260
+his shares after<font color="#E5E5E5"> he was apparently made</font>
+
+24
+00:00:52,260 --> 00:00:53,850
+aware of<font color="#E5E5E5"> the problem with the chips</font>
+
+25
+00:00:53,850 --> 00:00:56,520
+<font color="#CCCCCC">Igor's</font><font color="#E5E5E5"> Danoff takes a closer</font><font color="#CCCCCC"> look at the</font>
+
+26
+00:00:56,520 --> 00:00:59,070
+extent<font color="#E5E5E5"> of the threat posed by</font><font color="#CCCCCC"> these new</font>
+
+27
+00:00:59,070 --> 00:01:02,489
+<font color="#CCCCCC">security flaws here's</font><font color="#E5E5E5"> a safe bet if you</font>
+
+28
+00:01:02,489 --> 00:01:04,680
+own a computer<font color="#E5E5E5"> or a smartphone a</font>
+
+29
+00:01:04,680 --> 00:01:06,720
+<font color="#CCCCCC">newfound vulnerability has almost</font>
+
+30
+00:01:06,720 --> 00:01:08,729
+certainly<font color="#E5E5E5"> opened the gates to your most</font>
+
+31
+00:01:08,729 --> 00:01:11,070
+intimate<font color="#CCCCCC"> information whether</font><font color="#E5E5E5"> you have a</font>
+
+32
+00:01:11,070 --> 00:01:14,100
+PC<font color="#CCCCCC"> a Mac a Linux run computer or an</font>
+
+33
+00:01:14,100 --> 00:01:16,409
+Android<font color="#CCCCCC"> phone</font><font color="#E5E5E5"> it doesn't</font><font color="#CCCCCC"> matter this</font>
+
+34
+00:01:16,409 --> 00:01:19,170
+<font color="#CCCCCC">hole could</font><font color="#E5E5E5"> be built in to billions of</font>
+
+35
+00:01:19,170 --> 00:01:21,659
+devices<font color="#E5E5E5"> worldwide have some pictures</font>
+
+36
+00:01:21,659 --> 00:01:24,210
+you're not too<font color="#CCCCCC"> proud of</font><font color="#E5E5E5"> well a hacker</font>
+
+37
+00:01:24,210 --> 00:01:26,430
+can access an awful lot more<font color="#E5E5E5"> your</font>
+
+38
+00:01:26,430 --> 00:01:29,040
+passwords encryption keys emails and
+
+39
+00:01:29,040 --> 00:01:31,650
+cached files<font color="#CCCCCC"> all</font><font color="#E5E5E5"> of the above from the</font>
+
+40
+00:01:31,650 --> 00:01:33,450
+<font color="#E5E5E5">comfort of their</font><font color="#CCCCCC"> living room you</font><font color="#E5E5E5"> can</font>
+
+41
+00:01:33,450 --> 00:01:35,610
+slip<font color="#CCCCCC"> onto a</font><font color="#E5E5E5"> malicious website have your</font>
+
+42
+00:01:35,610 --> 00:01:37,799
+private data exposed<font color="#E5E5E5"> and you won't even</font>
+
+43
+00:01:37,799 --> 00:01:40,979
+know about<font color="#E5E5E5"> it</font><font color="#CCCCCC"> a perfect crime security</font>
+
+44
+00:01:40,979 --> 00:01:43,530
+experts say<font color="#E5E5E5"> the attack leaves no traces</font>
+
+45
+00:01:43,530 --> 00:01:45,720
+behind<font color="#E5E5E5"> what's particularly embarrassing</font>
+
+46
+00:01:45,720 --> 00:01:47,549
+normally companies won't<font color="#E5E5E5"> publish this</font>
+
+47
+00:01:47,549 --> 00:01:49,890
+kind<font color="#E5E5E5"> of information until a fix has been</font>
+
+48
+00:01:49,890 --> 00:01:50,430
+released
+
+49
+00:01:50,430 --> 00:01:52,320
+<font color="#E5E5E5">this time however someone's been</font>
+
+50
+00:01:52,320 --> 00:01:54,659
+trigger-happy with sharing<font color="#E5E5E5"> the problem</font>
+
+51
+00:01:54,659 --> 00:01:57,210
+which<font color="#E5E5E5"> means hack is everywhere now know</font>
+
+52
+00:01:57,210 --> 00:01:59,850
+about<font color="#CCCCCC"> it too</font><font color="#E5E5E5"> while security updates are</font>
+
+53
+00:01:59,850 --> 00:02:02,310
+<font color="#E5E5E5">only beginning to come out</font><font color="#CCCCCC"> and the fix</font>
+
+54
+00:02:02,310 --> 00:02:04,740
+itself is expected to come<font color="#E5E5E5"> for many at a</font>
+
+55
+00:02:04,740 --> 00:02:05,369
+cost
+
+56
+00:02:05,369 --> 00:02:07,590
+researchers say computers<font color="#E5E5E5"> that came out</font>
+
+57
+00:02:07,590 --> 00:02:10,199
+<font color="#E5E5E5">just three years ago could suffer up to</font>
+
+58
+00:02:10,199 --> 00:02:12,990
+a<font color="#CCCCCC"> 30%</font><font color="#E5E5E5"> performance tumble</font>
+
+59
+00:02:12,990 --> 00:02:14,850
+<font color="#E5E5E5">factories of course are downplaying the</font>
+
+60
+00:02:14,850 --> 00:02:17,160
+potential impact<font color="#E5E5E5"> saying the average user</font>
+
+61
+00:02:17,160 --> 00:02:18,600
+won't notice the<font color="#CCCCCC"> difference</font>
+
+62
+00:02:18,600 --> 00:00:00,000
+<font color="#CCCCCC">Igor's done of Artie</font>
+

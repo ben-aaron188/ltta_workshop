@@ -1,0 +1,308 @@
+1
+00:00:00,150 --> 00:00:02,400
+[Music]
+
+2
+00:00:03,319 --> 00:00:06,660
+in July 2015 a New Mexico<font color="#E5E5E5"> nine one one</font>
+
+3
+00:00:06,660 --> 00:00:08,849
+dispatcher<font color="#E5E5E5"> hung up on a panicked caller</font>
+
+4
+00:00:08,849 --> 00:00:10,980
+after becoming annoyed with the caller's
+
+5
+00:00:10,980 --> 00:00:13,380
+tone<font color="#E5E5E5"> the mishandled call was made public</font>
+
+6
+00:00:13,380 --> 00:00:15,839
+<font color="#CCCCCC">and many have been</font><font color="#E5E5E5"> asking how</font><font color="#CCCCCC"> often do</font>
+
+7
+00:00:15,839 --> 00:00:18,510
+9-1-1 calls go wrong and what actually
+
+8
+00:00:18,510 --> 00:00:21,420
+<font color="#E5E5E5">is supposed to happen</font><font color="#CCCCCC"> when</font><font color="#E5E5E5"> you call 911</font>
+
+9
+00:00:21,420 --> 00:00:24,119
+the<font color="#CCCCCC"> us the now ubiquitous 9-1-1</font>
+
+10
+00:00:24,119 --> 00:00:26,070
+emergency number was only<font color="#CCCCCC"> established in</font>
+
+11
+00:00:26,070 --> 00:00:28,439
+the late 1960s<font color="#E5E5E5"> originally you would have</font>
+
+12
+00:00:28,439 --> 00:00:30,150
+to<font color="#E5E5E5"> call different local numbers to reach</font>
+
+13
+00:00:30,150 --> 00:00:32,430
+various<font color="#E5E5E5"> emergency services callers would</font>
+
+14
+00:00:32,430 --> 00:00:33,870
+even have to wait for an operator<font color="#CCCCCC"> to</font>
+
+15
+00:00:33,870 --> 00:00:35,910
+connect them<font color="#E5E5E5"> manually before</font><font color="#CCCCCC"> the</font>
+
+16
+00:00:35,910 --> 00:00:38,010
+<font color="#E5E5E5">widespread usage of rotary and dial</font>
+
+17
+00:00:38,010 --> 00:00:40,980
+phones<font color="#E5E5E5"> in the 50s fire and police</font>
+
+18
+00:00:40,980 --> 00:00:42,750
+<font color="#CCCCCC">departments petitioned the</font><font color="#E5E5E5"> government</font>
+
+19
+00:00:42,750 --> 00:00:44,520
+for<font color="#E5E5E5"> one simple and universal emergency</font>
+
+20
+00:00:44,520 --> 00:00:46,469
+number<font color="#E5E5E5"> to help expedite their services</font>
+
+21
+00:00:46,469 --> 00:00:49,590
+<font color="#E5E5E5">in 1968 such a number was established</font>
+
+22
+00:00:49,590 --> 00:00:52,710
+the digits 9-1-1 were chosen because
+
+23
+00:00:52,710 --> 00:00:54,719
+<font color="#E5E5E5">they</font><font color="#CCCCCC"> were</font><font color="#E5E5E5"> unique and had never before</font>
+
+24
+00:00:54,719 --> 00:00:57,449
+<font color="#E5E5E5">been assigned today nearly all phones</font>
+
+25
+00:00:57,449 --> 00:01:00,210
+have basic 9-1-1 call capability<font color="#E5E5E5"> even if</font>
+
+26
+00:01:00,210 --> 00:01:02,280
+the<font color="#E5E5E5"> phone carrier service is disabled</font>
+
+27
+00:01:02,280 --> 00:01:04,530
+<font color="#E5E5E5">this is because all wireless carriers</font>
+
+28
+00:01:04,530 --> 00:01:06,869
+<font color="#E5E5E5">must transmit all Wireless 911 calls</font>
+
+29
+00:01:06,869 --> 00:01:09,240
+<font color="#E5E5E5">without respect to their call validation</font>
+
+30
+00:01:09,240 --> 00:01:11,700
+process<font color="#E5E5E5"> basic 9-1-1</font><font color="#CCCCCC"> service puts a</font>
+
+31
+00:01:11,700 --> 00:01:13,290
+caller through to the nearest<font color="#CCCCCC"> available</font>
+
+32
+00:01:13,290 --> 00:01:15,420
+public safety answering point where a
+
+33
+00:01:15,420 --> 00:01:17,220
+dispatcher relays information<font color="#CCCCCC"> to the</font>
+
+34
+00:01:17,220 --> 00:01:19,290
+appropriate<font color="#CCCCCC"> emergency department most</font>
+
+35
+00:01:19,290 --> 00:01:21,990
+cities also utilize an enhanced<font color="#CCCCCC"> 911</font>
+
+36
+00:01:21,990 --> 00:01:23,970
+service which will automatically<font color="#E5E5E5"> display</font>
+
+37
+00:01:23,970 --> 00:01:25,590
+the<font color="#CCCCCC"> location of the caller to the</font>
+
+38
+00:01:25,590 --> 00:01:27,840
+dispatcher<font color="#E5E5E5"> dispatchers usually operate</font>
+
+39
+00:01:27,840 --> 00:01:29,520
+out<font color="#CCCCCC"> of police or fire stations and</font><font color="#E5E5E5"> are</font>
+
+40
+00:01:29,520 --> 00:01:32,159
+<font color="#E5E5E5">available 24/7 even during power</font>
+
+41
+00:01:32,159 --> 00:01:34,320
+failures operators stay<font color="#E5E5E5"> online and</font>
+
+42
+00:01:34,320 --> 00:01:36,810
+operational using<font color="#E5E5E5"> backup generators but</font>
+
+43
+00:01:36,810 --> 00:01:38,820
+the 9-1-1 system isn't perfect<font color="#CCCCCC"> for</font>
+
+44
+00:01:38,820 --> 00:01:40,290
+instance<font color="#CCCCCC"> mobile and internet phones</font>
+
+45
+00:01:40,290 --> 00:01:42,390
+present special challenges<font color="#E5E5E5"> because they</font>
+
+46
+00:01:42,390 --> 00:01:44,130
+aren't fixed<font color="#E5E5E5"> to</font><font color="#CCCCCC"> one location like</font>
+
+47
+00:01:44,130 --> 00:01:45,990
+landlines<font color="#E5E5E5"> some cell phones have GPS</font>
+
+48
+00:01:45,990 --> 00:01:48,659
+services but many dispatchers say that
+
+49
+00:01:48,659 --> 00:01:50,939
+location<font color="#E5E5E5"> information</font><font color="#CCCCCC"> is often</font><font color="#E5E5E5"> inaccurate</font>
+
+50
+00:01:50,939 --> 00:01:54,329
+with 70%<font color="#CCCCCC"> of 911</font><font color="#E5E5E5"> calls placed on wireless</font>
+
+51
+00:01:54,329 --> 00:01:56,700
+phones<font color="#E5E5E5"> this becomes a huge</font><font color="#CCCCCC"> problem for</font>
+
+52
+00:01:56,700 --> 00:01:59,670
+dispatchers<font color="#E5E5E5"> prank calling is also a huge</font>
+
+53
+00:01:59,670 --> 00:02:01,710
+issue<font color="#CCCCCC"> for 911 services resulting in a</font>
+
+54
+00:02:01,710 --> 00:02:03,829
+waste<font color="#E5E5E5"> of responders time and effort</font><font color="#CCCCCC"> in</font>
+
+55
+00:02:03,829 --> 00:02:05,969
+California the penalty for calling 9-1-1
+
+56
+00:02:05,969 --> 00:02:09,538
+<font color="#E5E5E5">prank calling is a fine of $10,000</font><font color="#CCCCCC"> an</font>
+
+57
+00:02:09,538 --> 00:02:12,660
+even possible jail time<font color="#CCCCCC"> ultimately the</font>
+
+58
+00:02:12,660 --> 00:02:14,400
+911 system is still evolving<font color="#CCCCCC"> and</font>
+
+59
+00:02:14,400 --> 00:02:15,900
+<font color="#E5E5E5">improving in order to best meet the</font>
+
+60
+00:02:15,900 --> 00:02:18,030
+nation's<font color="#CCCCCC"> growing needs</font><font color="#E5E5E5"> the service</font>
+
+61
+00:02:18,030 --> 00:02:19,890
+prevents untold numbers of<font color="#CCCCCC"> deaths and</font>
+
+62
+00:02:19,890 --> 00:02:22,500
+injury<font color="#E5E5E5"> every year many 911 emergency</font>
+
+63
+00:02:22,500 --> 00:02:25,410
+<font color="#CCCCCC">czar caused by America's prolific</font><font color="#E5E5E5"> use of</font>
+
+64
+00:02:25,410 --> 00:02:28,019
+guns<font color="#CCCCCC"> to find out why America has</font><font color="#E5E5E5"> so many</font>
+
+65
+00:02:28,019 --> 00:02:29,579
+firearms check out our video<font color="#CCCCCC"> on the</font>
+
+66
+00:02:29,579 --> 00:02:31,379
+<font color="#CCCCCC">subject here</font><font color="#E5E5E5"> the founding</font><font color="#CCCCCC"> fathers</font>
+
+67
+00:02:31,379 --> 00:02:33,569
+understood that in<font color="#E5E5E5"> most conflicts the</font>
+
+68
+00:02:33,569 --> 00:02:36,120
+more powerfully armed force<font color="#E5E5E5"> usually wins</font>
+
+69
+00:02:36,120 --> 00:02:38,160
+<font color="#E5E5E5">the Second</font><font color="#CCCCCC"> Amendment was</font><font color="#E5E5E5"> intended</font><font color="#CCCCCC"> to</font>
+
+70
+00:02:38,160 --> 00:02:40,379
+fight tyrannical oppression<font color="#CCCCCC"> defend</font>
+
+71
+00:02:40,379 --> 00:02:42,329
+against invaders<font color="#E5E5E5"> and guarantee</font><font color="#CCCCCC"> the right</font>
+
+72
+00:02:42,329 --> 00:02:44,790
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> self-defense</font><font color="#CCCCCC"> thanks for following</font><font color="#E5E5E5"> our</font>
+
+73
+00:02:44,790 --> 00:02:46,530
+<font color="#E5E5E5">channel we've got so many interesting</font>
+
+74
+00:02:46,530 --> 00:02:48,329
+<font color="#CCCCCC">videos in our library so make sure you</font>
+
+75
+00:02:48,329 --> 00:02:50,069
+browse around<font color="#CCCCCC"> we will</font><font color="#E5E5E5"> see you next</font><font color="#CCCCCC"> time</font>
+
+76
+00:02:50,069 --> 00:02:51,480
+<font color="#CCCCCC">on</font><font color="#E5E5E5"> test-tube news</font>
+
+77
+00:02:51,480 --> 00:00:00,000
+[Music]
+

@@ -1,0 +1,220 @@
+1
+00:00:00,000 --> 00:00:03,179
+I'm J Herman on the epic lead scientist
+
+2
+00:00:03,179 --> 00:00:06,350
+for<font color="#CCCCCC"> the</font><font color="#E5E5E5"> discovery mission on July 6th</font>
+
+3
+00:00:06,350 --> 00:00:10,110
+<font color="#E5E5E5">2015 we released</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> spectacular image</font>
+
+4
+00:00:10,110 --> 00:00:14,160
+of<font color="#E5E5E5"> Earth taken by</font><font color="#CCCCCC"> NASA's epic camera now</font>
+
+5
+00:00:14,160 --> 00:00:16,680
+we assembled more than<font color="#CCCCCC"> 3000 images</font>
+
+6
+00:00:16,680 --> 00:00:18,690
+captured<font color="#CCCCCC"> by epic</font><font color="#E5E5E5"> into a time-lapse</font>
+
+7
+00:00:18,690 --> 00:00:21,420
+sequence that<font color="#E5E5E5"> shows</font><font color="#CCCCCC"> a year in the</font><font color="#E5E5E5"> life</font>
+
+8
+00:00:21,420 --> 00:00:24,289
+of our planet
+
+9
+00:00:25,550 --> 00:00:27,779
+epic is an earth science instrument
+
+10
+00:00:27,779 --> 00:00:30,420
+aboard the<font color="#CCCCCC"> discover satellite which</font>
+
+11
+00:00:30,420 --> 00:00:34,500
+launched in February 2015<font color="#CCCCCC"> the spacecraft</font>
+
+12
+00:00:34,500 --> 00:00:36,630
+always remains between<font color="#CCCCCC"> the Sun and the</font>
+
+13
+00:00:36,630 --> 00:00:39,540
+earth approximately 1<font color="#E5E5E5"> million miles away</font>
+
+14
+00:00:39,540 --> 00:00:42,270
+<font color="#E5E5E5">at a special gravitational balance point</font>
+
+15
+00:00:42,270 --> 00:00:46,800
+known as<font color="#CCCCCC"> lagrangian from this view epic</font>
+
+16
+00:00:46,800 --> 00:00:49,260
+sees the<font color="#CCCCCC"> sunrise in the west</font><font color="#E5E5E5"> and the</font>
+
+17
+00:00:49,260 --> 00:00:52,110
+sunset in<font color="#E5E5E5"> the east at least 13 times a</font>
+
+18
+00:00:52,110 --> 00:00:57,059
+day the haze seen around the edges is
+
+19
+00:00:57,059 --> 00:00:59,399
+due to scattering of light<font color="#CCCCCC"> by molecules</font>
+
+20
+00:00:59,399 --> 00:01:02,460
+in the atmosphere<font color="#E5E5E5"> scattering is also</font>
+
+21
+00:01:02,460 --> 00:01:04,199
+what<font color="#E5E5E5"> makes the sky appear blue during</font>
+
+22
+00:01:04,199 --> 00:01:09,869
+<font color="#E5E5E5">the day and red at sunset the</font><font color="#CCCCCC"> colors</font>
+
+23
+00:01:09,869 --> 00:01:12,810
+shown<font color="#CCCCCC"> are a best estimate</font><font color="#E5E5E5"> of what a</font>
+
+24
+00:01:12,810 --> 00:01:14,700
+human<font color="#CCCCCC"> sitting at the location of</font><font color="#E5E5E5"> epic</font>
+
+25
+00:01:14,700 --> 00:01:18,119
+would see epic takes at least one<font color="#E5E5E5"> set of</font>
+
+26
+00:01:18,119 --> 00:01:21,570
+images about every two<font color="#CCCCCC"> hours the camera</font>
+
+27
+00:01:21,570 --> 00:01:23,759
+<font color="#CCCCCC">records</font><font color="#E5E5E5"> each set in 10 different</font>
+
+28
+00:01:23,759 --> 00:01:26,340
+<font color="#E5E5E5">wavelengths at least three separate</font>
+
+29
+00:01:26,340 --> 00:01:29,220
+wavelengths red green and blue<font color="#CCCCCC"> are</font>
+
+30
+00:01:29,220 --> 00:01:33,140
+combined to produce this color view
+
+31
+00:01:33,360 --> 00:01:36,750
+in March<font color="#E5E5E5"> a moon passed between the Earth</font>
+
+32
+00:01:36,750 --> 00:01:38,880
+and the Sun causing a total solar
+
+33
+00:01:38,880 --> 00:01:41,550
+eclipse<font color="#E5E5E5"> during</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> Eclipse</font>
+
+34
+00:01:41,550 --> 00:01:44,550
+moon cast its shadow over<font color="#CCCCCC"> a</font><font color="#E5E5E5"> portion of</font>
+
+35
+00:01:44,550 --> 00:01:48,000
+<font color="#E5E5E5">the planet</font><font color="#CCCCCC"> if we slow the video down we</font>
+
+36
+00:01:48,000 --> 00:01:49,500
+can see<font color="#E5E5E5"> the moon shadow make an</font>
+
+37
+00:01:49,500 --> 00:01:53,840
+appearance<font color="#E5E5E5"> right about now</font>
+
+38
+00:01:54,650 --> 00:01:57,210
+although the view<font color="#E5E5E5"> from epic is only once</font>
+
+39
+00:01:57,210 --> 00:01:59,640
+<font color="#CCCCCC">every</font><font color="#E5E5E5"> two hours</font><font color="#CCCCCC"> we're able</font><font color="#E5E5E5"> to track</font>
+
+40
+00:01:59,640 --> 00:02:02,820
+features like a motion<font color="#CCCCCC"> of clouds</font><font color="#E5E5E5"> around</font>
+
+41
+00:02:02,820 --> 00:02:04,500
+<font color="#CCCCCC">two-thirds of the earth</font><font color="#E5E5E5"> is covered by</font>
+
+42
+00:02:04,500 --> 00:02:07,440
+<font color="#E5E5E5">clouds clouds reflect light</font><font color="#CCCCCC"> from the Sun</font>
+
+43
+00:02:07,440 --> 00:02:09,570
+helping to<font color="#E5E5E5"> keep the planet cool</font>
+
+44
+00:02:09,570 --> 00:02:12,330
+they<font color="#E5E5E5"> also trap heat rising</font><font color="#CCCCCC"> from the</font>
+
+45
+00:02:12,330 --> 00:02:15,630
+surface keeping<font color="#CCCCCC"> the</font><font color="#E5E5E5"> planet warm changes</font>
+
+46
+00:02:15,630 --> 00:02:17,160
+in cloud cover<font color="#CCCCCC"> affect the heat balance</font>
+
+47
+00:02:17,160 --> 00:02:20,190
+<font color="#E5E5E5">and how warm the earth becomes which is</font>
+
+48
+00:02:20,190 --> 00:02:24,210
+one<font color="#E5E5E5"> of the reasons why we study them the</font>
+
+49
+00:02:24,210 --> 00:02:26,580
+<font color="#E5E5E5">early images of the entire sunlit side</font>
+
+50
+00:02:26,580 --> 00:02:28,860
+of the earth provided<font color="#E5E5E5"> by epic will be</font>
+
+51
+00:02:28,860 --> 00:02:30,720
+used<font color="#E5E5E5"> to study the daily variations of</font>
+
+52
+00:02:30,720 --> 00:02:33,600
+features<font color="#E5E5E5"> over the entire globe</font><font color="#CCCCCC"> helping</font>
+
+53
+00:02:33,600 --> 00:02:36,510
+us<font color="#E5E5E5"> to better understand and</font><font color="#CCCCCC"> protect our</font>
+
+54
+00:02:36,510 --> 00:02:39,170
+home planet
+
+55
+00:02:40,180 --> 00:00:00,000
+you
+

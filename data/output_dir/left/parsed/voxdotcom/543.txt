@@ -1,0 +1,121 @@
+“Tower, look at to the south, there's an aircraft crashing”
+On Veterans’ Day in 2001, an airplane carrying
+260 people dropped out of the sky shortly
+after taking off from JFK.
+“An aircraft just crashed to the south of
+the field”
+The top fin of the plane broke off and fell
+into Jamaica Bay,
+and the rest of the plane crashed into a residential
+neighborhood in Queens. Everyone onboard and
+5 people on the ground were killed.
+This was just 2 months after September 11th,
+and it was reasonable to assume, as many people did,
+that New York was being attacked again.
+But investigators concluded that it wasn’t
+terrorism that took down Flight 587.
+And they knew that because of what they found
+on the airplane’s black box.
+What the press calls the “black box” is
+actually 2 orange flight recorders.
+The idea dates back to the 1950s, when the
+first commercial jet had 5 accidents in its
+first 2 years of passenger service,
+and investigators realized how useful it
+would be to have a record of what was happening
+on the plane before the crash.
+Early generations of flight recorders etched
+the data onto metal foil.
+By the 1970s they’d switched to magnetic
+tape, and by the 90s, solid-state memory chips.
+But overall, the concept has remained basically
+the same, with 2 components:
+The cockpit voice recorder stores the last
+2 hours of sound from cockpit and from the
+pilots’ headset microphones, on 4 different
+channels.
+In some cases, these audio recordings alone
+can reveal what happened, as they did when
+a Germanwings flight crashed into the French
+Alps in 2015.
+NBC report: “The plane begins to descend.
+Air Traffic control calls. No answer.
+The captain begins banging on the door, yelling,
+‘For God's sake, open the door.’
+Passengers scream in the background.”
+In the case of Flight 587, that's the plane that
+crashed into those houses in Queens -- the
+cockpit voice recorder offered some hints
+about what happened.
+The transcript showed that before crashing,
+the plane ran into some wake turbulence from the large 747 that took off just ahead
+of Flight 587.
+But that turbulence alone wouldn’t have
+been enough to take down the flight.
+So investigators needed information from the
+second box: the flight data recorder. It captures
+at least 88 types of data about the plane’s
+position and instruments for the past 25 hours.
+That data feeds into computer animations of
+what happened before the recorder lost power.
+And the black box data revealed that the pilots lost control of the plane
+over the course 
+of about 10 seconds.
+And this line in particular stuck out -- it
+shows what the copilot, who was flying the
+plane, was doing with the rudder pedals in
+response to the turbulence.
+Pilots can maneuver planes along 3 axes, pitch,
+roll, and yaw, which is what the rudder controls.
+But they rarely use the rudder, because as you’ve
+probably noticed, they can change direction by rolling.
+Investigators concluded that the copilot probably
+didn’t realize that his aggressive rudder pedal
+movements were making things worse,
+that they were putting enough pressure on the
+the vertical stabilizer, that it detached
+causing the plane to crash.
+Because of the flight data recorder, authorities
+could rule out both terrorism and mechanical
+failure, and instead, blame pilot error and poor training.
+No two airplane accidents are the same, but
+the flight recorders are useful for every
+case, provided that they survive the crash.
+And they usually do. The recorders are installed
+near the tail of planes where the force of
+the impact is somewhat lessened.
+And the memory boards are kept in steel
+or titanium cases and surrounded by materials
+that protect against high temperatures.
+Often, the rest of the box will be destroyed,
+but that doesn’t matter as long as the memory
+unit is intact.
+Of course, flight recorders that are never
+found are useless.
+They do have a beacon that activates underwater
+and sends an ultrasound signal every second
+for 30 days. That signal can travel through
+14,000 feet of water.
+But as flight MH 370 showed, sometimes investigators
+aren’t even within that range.
+BBC report: "But the batteries from MH 370 black boxes
+are almost certainly starting to fail.
+If they haven't already."
+That’s why some have proposed new systems
+that don’t leave the data on the plane,
+but rather transmit it in real time to
+satellites or ground stations.
+There are privacy and cost concerns to consider,
+but in the future, they might not need to
+find a box, in order to find the answers the that investigators,
+and families need.
+Why does the press call it a black box when it's orange?
+Very good question. The term "black box" is not actually used within the aviation industry.
+I was told when I originally came here  there were a couple of different theories.
+One, that the term black box is often used in engineering for a device where you have a lot of inputs.
+It may go back to the early days of the recorder, where they used light-sensitive paper to record
+traces from the stylus. And that equipment was housed in a light-protected black box.
+There's also the idea that, as a result of the accident, once they've been expose to heat and fire,
+that they turn black or a dark brown.
+Nobody really knows where the term came from. But as I say, they're more appropriately called
+flight recorders or onboard recording devices and they're always painted a very bright orange.

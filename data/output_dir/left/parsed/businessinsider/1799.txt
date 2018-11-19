@@ -1,0 +1,499 @@
+hello everyone thanks for joining us
+we're joined today by two guests from GE
+Linda Boff the chief marketing officer
+and rusty Irving chief engineer we're
+going to talk about the industrial
+internet basically the incorporation of
+digital into all the big machines that
+run our world and the evolution of
+marketing which is in the midst of a
+seismic shift right now so let's start
+with the industrial Internet what is the
+industrial Internet and why should
+normal people care about so I'm going to
+give you the normal people care about it
+and then rusty is going to go a little
+bit deeper if you will so maybe three
+four or five years ago Henry we sort of
+said look you know GE has been about
+making things we have this deep deep
+heritage and manufacturing but the
+future is going to be about making and
+connecting machines big iron meets big
+data if you will and we kind of helped
+coin this term industrial internet the
+Internet of really big things and this
+is the future of the company I mean this
+is a major pivot for us we've got as I
+think you and I have talked about before
+on a big group of people in san ramon
+you know maybe a thousand people in san
+ramon we opened maybe three weeks ago
+sort of mini version of san ramon a
+foundry in Paris will have one in Boston
+in our new headquarters we're hiring
+software engineers and computer
+scientists because we you know for us
+the industrial Internet is new you'll
+hear this from rusty is all about
+driving outcomes for our customers so
+you know rusty all I'll turn to you to
+sort of help dimensionalize this a
+little bit right and you know consumers
+are very familiar with the internet we
+watched through the 90s up through today
+how you went from you know very static
+pages to get information about products
+to being able to purchase products to
+today having proc products recommended
+to you will all interconnected we have
+many channels to interact with each
+other all digital so now all of a sudden
+industrial internet is replace kind of
+the people as the subject matter with
+things or our industrial machines except
+that you need a much more heavyweight
+type of Internet to be able to do this
+because the data is much more enormous
+much greater in size and much more
+complex to understand so with the advent
+of cloud computing is really
+one of the trends that enabled us to
+take advantage of it and build something
+that's heavyweight enough for us to
+build an internet for our assets and
+make them work better for customers so
+let's talk about specifics so you make
+the engines that power the Dreamliner
+the new Boeing plans that everybody
+loves they're all industrial internet
+eyes too they're filled with sensors
+what does that do how does that help
+sure so you know even at the most basic
+level we take three parameters for each
+of those engines and we can take many
+more but just with the basic parameters
+of exhaust gas temperature fuel flow in
+core speed we're able to just take
+measurements throughout the flight look
+at them trend them and understand the
+health of each and every engine just
+like you go to the doctor may take your
+temperature of blood pressure and
+they're a great indicator of how you're
+doing we trend that we learn about the
+engines when we segment them and then
+that allows us to advise our customers
+had it get more out of them how to fly
+them in ways in which they last longer
+and be able to predict how much life
+they have so you can schedule when they
+need to come over wing for me which
+saves them a lot of money and do you get
+advance warning of problems yeah they're
+one of the locomotives is this I get
+where the heavy of weight nature of what
+we're doing really matters taking in
+massive amounts of information and
+looking at maybe the one or two
+anomalies you're seeing you can start
+the postulate is that a trend we should
+be concerned about you know one of the
+things that's actually happened to our
+planet in the last 10 to 15 years is
+something called the dust belt we have
+these particulate matter in the
+atmosphere in certain parts or the
+engines that fly through that don't last
+quite as long as on the ones that don't
+fly through it so we're able to spot
+those trends much earlier and be able to
+treat the engines before any real
+problems are honored one of the concepts
+and rain that we talked about on is the
+the advantage of having no unplanned
+downtime and if you're operating in
+industry unfound unplanned downtime is a
+bad thing that's kind of your animate
+right so a lot of what we're trying to
+drive with the industrial internet you
+know we talked about GE is a digital
+industrial company is to help our
+customers manage their their their
+downtime their assets and the amount of
+time that they're operational in a much
+more efficient way and so is this
+something that
+folks who fly just about all of us can
+look forward to in fewer delays fewer
+surprises fewer notification with the
+cockpit oh we've just discovered that
+the engine is broken and we need the TV
+team to come fix it right we've all
+probably been on playing at least once
+if you fly a lot and all of a sudden
+just about the time you think you're
+leaving the gate the pilot comes on and
+tells you they got a light on or
+something you know this is going to
+reduce the number of times that happens
+tremendously on and you know how it
+affects consumers right um you know it
+will lower their fuel consumption for
+instance right so should be able to
+offer more competitive pricing on on
+tickets and Linda you mentioned it to
+build out this business and incorporated
+in everything that she does you actually
+opened a huge new division in Silicon
+Valley you had an advertisement that
+went along with it that everybody like
+where the engineer announces to his
+friends that he works for GE and it's
+not why would you ever do that while
+it's actually exciting and I work on
+trains and thinks how important is that
+piece of it I mean are we now going to
+expect airlines to know how to interpret
+all this data are you doing that for
+them well i would say in you know rusty
+old jump in here you know I think for GE
+we're 124 years old 124 year old stored
+up if you will and people know us well
+they think of us a certain way I think
+as we have added this whole layer of
+analytics predictive analytics data
+having the public if you will from a
+brand point of view think of us as a
+company that is this hybrid of digital
+and industrial is important talent is a
+big piece of that so the fun campaign
+you referred to this idea of a developer
+sort of telling his perplexed friends
+that he now works for GE well it's light
+and it's marketing there's a there's a
+truth to it which is we are now bringing
+hundreds now thousands of people to work
+for GE in a completely new capacity and
+that leads to a new type of behavior I
+mean rusty you might talk a little bit
+about what you do is in the digital twin
+because that's a piece of this sure but
+you know in to the point to about you
+know our starting up a brand new
+division of GE GE digital based in San
+monona yes we had a ghost somewhere
+and really dip into that ecosystem and
+find the digital talent what makes us so
+powerful in this is that we've married
+it with our legacy industrial know how
+you know the deep physics knowledge that
+we have about these machines and when
+you put these things together it's a
+very powerful thing so one of the work
+on one of our killer apps built on top
+of the industrial internet there's
+something we call the digital twin so
+for every one of these aircraft engines
+or local motors that we make will also
+have its digital torn think of it as the
+you know medical record of that asset so
+we track it as it goes through its
+lifecycle from when it was built and
+commissioned to how it operates and
+again using the data that we get off of
+that and the physics models that we have
+developed about that we can have very
+unique insights nobody else is able to
+calculate again to tell how to get more
+out of the asset and again reduce that
+down time and how is how unusual is what
+you're doing relative everybody else
+because from the outside listening to
+lots of big manufacturing companies so
+that everyone's talking about digital as
+the next thing cloud cloud cloud is what
+you're doing where is it in the
+competitive so you know there are very
+few companies in fact I think we're
+singular in this way that have the
+domain expertise right we know industry
+we have been an industry for over a
+century we're taking that knowledge of
+industry and adding the data component
+and frankly Henry we're trying it on
+ourselves I mean the first several years
+of industrial Internet has been GE
+applying the technology that rusty and I
+are talking about to our own factories
+and our own machines it's kind of rare
+in this world that somebody with our
+type of expertise can add that layer
+sort of practice it on ourselves before
+we introduce it to customers so you know
+we think of it as sort of a you know our
+industrial superpowers meeting data and
+analytics you know you know I really
+look at it as we've been doing lots of
+this for over 30 years we have started
+to build medical monitoring and
+diagnostic centres decades ago where we
+do watch these assets with the data we
+were able to collect
+now we have more sensors more data more
+know how about what to do with it again
+the the capacity though that you get
+from cloud computing allows us to do
+this at a completely different scale so
+we think what really makes us much more
+unique than anybody else doing that is
+the fact that we've built a whole
+platform fall for it called predicts
+right this is GES industrial internet
+platform sometimes we call you know the
+operating system for industry you know
+so when you build industrial apps we
+want people to build them on critics
+we're doing it for ourselves and we're
+offering it to the world in fact
+Microsoft I think this morning is making
+an announcement they'll be using pre X
+so you know we are seeing an uptick in
+adoption to have an operating system and
+operating system of industry is a great
+way to say it that is super strong you
+know we sort of say industrial strength
+strength that can hold literally
+petabytes of data that has you know
+cyber security as sort of a number one
+feature you know we take so seriously I
+mean you talked about jet engines before
+on this is data that has to be ironclad
+secure so we think we've sort of have
+the right to do it we have the knowledge
+and we've been practicing it ourselves
+and you've talked about this being a 10
+year plan to build that change GE and go
+forward we're in year three or four
+where are we in ten years what does it
+look like not just for GE but for the
+machines themselves I mean what's that
+future look like it's an interesting
+landscape to sort of portray a little
+bit right well i think you know we move
+from where we are today we have already
+built 35,000 twins of our assets and i
+imagine you know in that you know the
+times family meeting to full realization
+will be millions and millions of people
+with digital kings built without
+technology to track their assets and
+there'll be a whole you know continuum
+of will build some of them for them
+we'll offer our digital twin and
+predicts a capability as a platform as a
+service so depending on your level of
+sophistication as a developer you can do
+it yourself or we can you can unless the
+for you and as many options of how it's
+hosted but I think just like we saw on
+the web right we never imagined the
+number of cell phones right I think this
+will go way beyond the wildest dreams
+this in the first you know four or so
+years of doing this we've hit every
+metric we set out for ourselves and when
+we started they might have looked a
+little crazy to us but we're doing it
+and I'm confident we'll get all the way
+to the ankle and have you been able to
+do things for customers that you didn't
+foresee in the beginning because if you
+look at the iphone for example when this
+was first introduced everyone made all
+these crazy predictions and it turned
+out they weren't anywhere near crazy
+enough and all these things have been
+created that nobody imagined them well I
+think if I can jump in on this one I
+think what's really interesting is just
+in some ways like iOS and and like the
+Apple phone you know predicts is a
+platform and we expect you know maybe
+ten twenty thousand developers this year
+to be building apps on predicts so you
+know we've got four or five thousand
+already and I think that's where the
+flywheel starts to starts to happen
+right a great platform developers
+industrial developers looking at this
+and saying wow I can apply what i know
+and create industrial solutions so i
+think that's going to start to you know
+make a big difference as the apps come
+online i mean there are predictions that
+the industrial internet will be bigger
+than the consumer internet hard to
+believe just data but in terms of data
+in terms of the size of the market and
+frankly in terms of the impact we talk
+about marketing let's talk about
+marketing the chief marketing all most
+innovative marketing companies so
+stepping back yeah well this 10 year
+period five years ago 25 years in the
+future yeah can you give us a sense of
+what's happening to GES marketing and
+add budget yeah so look I think we try
+Henry and you know you and I have had
+this conversation at various points to
+market in the year we live at we don't
+sort of pine for the good old days when
+there were three networks and it was
+easy to reach people what we try to do
+in marketing is to get the best possible
+content message out where people are
+spending their time and as a result you
+know do people still watch television
+you bet they do however in our opinion
+where we might place advertising is a
+lot different than it used to be because
+of binge watching because of DVR so
+we've shifted most of our television ad
+spent to be during live programming
+sunday night football is a good example
+of that and our digital spend is just
+increasing percentage wise and you know
+when you have something like Facebook
+and I'm not going to make this a
+Facebook commercial but you know
+Facebook is the most efficient place to
+reach people on it's as much a
+performance channel as it is a social
+channel Google's really efficient and
+then you know us we love to experiment
+you know we've experimented as a company
+and as a business all the way back to
+Edison so we continue that spirit of
+experimenting when it comes to our
+marketing and that might be on doing a
+podcast which we did last fall that was
+terrific called the message or VR or
+just being on an emerging platforms so
+as I think about marketing and trends
+those are those are a couple that come
+to my facebooks made no secret of its
+desire to capture a huge percentage of
+television dollars here we are talking
+funnily in our area what's the unit when
+you buy when you replace television and
+on your facebook what's the unit so
+that's a great question on I think of
+the unit as a tension right so we all
+want attention and I think when there
+were three networks for networks you got
+attention simply by being on friends or
+cheers or something like that on as we
+all strive for attention attention I
+think is more and more in people's feeds
+think about the amount of time that
+we're on our phones and think about
+where we are on our phones you know
+research shows fewer and fewer apps are
+being used the apps that are used are
+frequently ones Facebook Linkedin etc
+where you're putting videos hopefully
+people are watching us right now on
+Facebook live in stream but I think
+despite all the metrics available to you
+know cider to GE
+the the most important one is our people
+actually engaging with us that's the
+unit i want to buy what are you
+producing to do that and to be very
+specific sir there's been a lot written
+about basically add tea people are ya
+have especially the younger generations
+don't like ads so one thing that's
+happening is this co-creation Yelp
+content yep you've been at the forefront
+of that you actually created a TV series
+i think with National Geographic dead so
+what did what is the ad unit look like
+of the future is going to be a 30-second
+spot is it going to be a pre-roll which
+a lot of people don't like yes is it
+going to be something in which you are
+featured that is a story created by
+producer how do you like it I kind of
+think any and all of the above or
+possible but it comes back to is the
+quality high enough you know I talked
+off and again you and I have talked
+about this in the past you know you
+don't want to create content that is
+second fiddle you want to create
+something that is a really good story
+that can be six hours which is what we
+did with national geo it can be six
+seconds which we've done on vine it can
+be Instagram it can be a podcast and I
+tend to think the unit and now here
+where you're going on this can be
+integrated so when we did this podcast
+last fall on we were on very loosely
+part of the story very loosely but what
+we surrounded it with was this idea of
+the GE podcast theater and it's funny it
+kind of harkens back to the 50s where
+there was once upon a time the GE
+theater and there were soap operas
+brought to you by consumer packaged
+goods goods companies so sometimes it's
+creating a franchise and in some ways
+what we did with podcasting this one
+podcast what we did with nat geo was
+kind of a franchise position but make no
+mistake there are times when we will
+create something that looks and smells
+and behaves like an ad and if it's
+really good and i'll use what we talked
+about a few minutes ago because you
+brought it up so i don't feel so
+sheepish bringing it up this series we
+did on this young developer oh n was a
+great story it was sell
+deprecating it was funny and recruiting
+went up eight hundred percent so you
+know if you can find that bit of magic
+and it is a bit of magic right on you
+know that can be very powerful so I
+guess my long answer to your smart
+question is that the unit will vary but
+it will not be one single it's pre-roll
+it's not pretty roll on I think it's
+going to come in a lot of forms and
+formats so going back as the last
+question yeah one over the next five
+years yeah how do you see your spending
+shifting does it go to Facebook TV to
+Facebook is that the simple way to think
+about it well I I think that's it's
+that's almost too simple if you will
+more is going to facebook but or spend
+will go where people are spending their
+time and attention look if every single
+person in America was watching ABC we'd
+be on ABC but every single person isn't
+a billion and a half people are on
+Facebook and I think for any marketer
+that ignores where people are spending
+their time they're doing it at their own
+peril so our spend will shift as
+people's behavior shifts and digital is
+only going up so that's a really good
+harbinger for where our spend will go
+Linda rusty thank you very much thank
+you very much for joining us thanks and
+see you it's great there's a lot of fun
+thank you thanks everybody

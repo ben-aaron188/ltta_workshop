@@ -1,0 +1,646 @@
+- okay and you're in the stream today
+all about self-deleting messaging apps
+and encrypted messaging services the
+dark side perhaps of encryption Mallika
+I'm only could be LAN looking out for
+your live comments in our YouTube chat
+and on Twitter as always at AJ stream do
+you use apps like snapchat or perhaps
+signal or telegram share with us how you
+use them and why they're so important to
+you and I'll do my best to bring in as
+many of those conversations into today's
+conversation so many of us want privacy
+and security in our communication and
+there's several ways to achieve that
+here's one of those ways text messaging
+is often the fastest most efficient way
+for employees to exchange important
+information unfortunately traditional
+text messaging is unsecure at any given
+time there are multiple copies of every
+message floating around vulnerable to
+prying eyes the mobile phone companies
+keep a record the sender has one the
+receiver has one you get the idea
+this kind of Achilles heel insecurity
+cost companies millions each year and
+losses regulatory fines and public
+embarrassment
+luckily Tiger text has the solution
+tiger text is a fully encrypted easy to
+use solution for safe and secure
+messaging send confidential company data
+sensitive personal information documents
+and more worryfree with Tiger text end
+to end encryption Tiger text accelerates
+your company's communications by
+allowing critical information to travel
+faster and more securely than ever
+tiger texts can also help you comply
+with communication security regulations
+with one of the strictest security
+platforms available worried your text
+messages last forever tiger text
+messages will self-destruct after a
+designated period of time accidentally
+sent an erroneous message tiger text can
+be recalled with the swipe of a finger
+unsure your boss received your latest
+report confirmations tell you when your
+message has been delivered and read best
+of all it's a snap to get started so
+what could possibly go wrong with that
+well that self-deleting messaging app
+tiger text was adopted by an
+one police department in the United
+States and the police in question in
+Long Beach California may have used it
+to share sensitive and potentially
+incriminating information but they would
+not want to disclose in court since the
+investigation by Al Jazeera was made
+public some changes have happened in
+Long Beach Al Jazeera's Simon Bozeman
+filed this report for us explaining the
+latest the Long Beach Police Department
+announced the suspension of tiger text
+after an al jazeera investigation
+revealed allegations from former and
+serving officers that they had been
+instructed by their superiors to use the
+app that would automatically delete
+potentially discoverable evidence I was
+told that tiger text was to be used to
+have conversations with other officers
+that wouldn't be discoverable we wanted
+to keep our communications private on
+certain issues especially on
+officer-involved shootings or murder
+cases the police department denies those
+allegations the American Civil Liberties
+Union believes that by deleting the text
+messages the Long Beach Police
+Department may have breached the
+California records retention and
+evidence disclosure legislations
+potentially putting thousands of court
+cases at risk in response to the
+investigation the Long Beach Police
+Department issued a statement saying
+that the use of the app would be
+suspended effective immediately pending
+further review of whether the use is
+consistent with the city's record
+retention policy and as part of the
+review of internal communication
+practices the city will be reviewing
+best practices and current case law
+Simon Bozeman joins us now on set he's
+an investigative reporter for al-jazeera
+we're also joined in San Francisco by
+Eva galperin
+the director of cyber security at the
+Electronic Frontier Foundation and in
+Los Angeles by Mohammed as our national
+security staff attorney at the American
+Civil Liberties Union
+that's the ACLU of Southern California
+welcome to the stream everyone now Simon
+as we saw in your piece there your
+investigation has had immediate fallout
+and has led to more investigations which
+we will get into today questioning who
+should use these self-deleting messaging
+apps
+before we get into it though I want to
+go to Eva for a break down some of the
+terminology we're going to get into
+today clarification on self-deleting
+texts apps and into end encryption break
+it down for us Eva all right so
+frequently when people talk about secure
+messaging apps they sort of lump
+everything together they say the this
+messaging app is great because it's
+encrypted
+and sometimes they mix it up with this
+whole notion of self deleting messages
+now an end-to-end encrypted message as
+as we saw in the and the animation
+earlier is a message that cannot be read
+by the the company whose app you're
+using or the ISP it can only be read by
+the sender or the receiver of the
+message now self deleting messages are
+different and they're not necessarily
+encrypted though apparently with tiger
+texts they were both self deleting and
+encrypted messages and a self deleting
+message just disappears from your phone
+this doesn't necessarily mean that it
+has disappeared from the servers being
+run by by the company who's whose app
+you're using or the ISP it doesn't even
+necessarily mean that it's being deleted
+from from the phone of the person that
+you are sending your message to and it
+certainly doesn't mean that it can't be
+a screenshot or saved in some other way
+but it does protect against certain
+types of record retention policies which
+is what the police are particularly
+concerned about ok I'll be asking you
+questions later audience on Eva's
+description thank you Evo really
+appreciate that so back to this police
+department Simon how did you form from
+how do you stumble upon the story that
+they were using an app that meant that
+at some point the messages on it would
+totally disappear we were looking at a
+completely different story we were
+looking at the high number of
+officer-involved shootings in America by
+police forces on young black men and
+looking at that and there was a report
+back in 2015
+called mapping gun violence that had
+long beach very close to the top of that
+list over
+police pumps I had per capita the
+largest number of officer-involved
+shootings a long beach is interesting
+because it's not particularly violent
+place it's not a particularly area of
+high poverty so we started talking to
+officers there and in other police
+forces around the world around the u.s.
+and very quickly when we speaking to
+serving officers and former serving
+officers in Long Beach they pointed out
+there was this app being used between
+the departments that are involved in
+officer-involved shootings primarily the
+homicide department and the internal
+affairs department and they pointed out
+this as that was being used where the
+any information between those two
+departments would just vanish and that
+could be pivotal to any family who wants
+to find out whether their loved one was
+killed by the police
+legally or correctly and so we started
+looking to that and that's where the
+story kind of grew from and some of the
+quotes in and that report that you you
+did the update from of extremely
+incriminating we deliberately use this
+so that other people couldn't track that
+we were using it I feel comfortable
+about saying that to officers we spoke
+to former and serving said that when
+they were given the app their superiors
+told them to use this app for
+information that they wouldn't want to
+be discoverable wow so that was why for
+us that was that was a stunning piece of
+information and from there we unraveled
+the rest of the use and how many people
+were involved and how widespread it had
+become within Long Beach Police
+Department so I mean so I want to share
+a comment we got from a resident of Long
+Beach who is not surprised at what your
+investigation revealed this is Don mode
+can she's the co-founder of black lives
+matter the Long Beach chapter and this
+is what she told the stream we are not
+surprised the Long Beach Police
+Department is hiding and deleting
+evidence Long Beach PD has a notorious
+history of abuse brutality
+militarization profiling of black and
+brown communities predictive policing
+and murder of 1152 people killed by
+police in the u.s. in 2015 Long Beach
+police were the fifth most murderous
+billions of residents tax dollars have
+been spent covering up their systemic
+abuse all of those cases need to be
+reopened
+investigation of their Tiger text used
+to discard evidence is merely
+affirmation
+for why we want our tax dollars better
+spent in Long Beach so Mohammed while
+Don may not have been surprised some of
+our community members are this is one
+person who tweeted in wait why are
+police departments using self deleting
+apps isn't that a violation of the
+Freedom of Information Act and as public
+servants aren't they required to
+preserve any and all communications
+Hamid
+that's exactly right I think the our
+principle problem at the ACLU with what
+the city of Long Beach was doing was
+that the use of these applications
+violates basic records preservation
+rules that ensure that the public has
+access to important records and
+information about how the government's
+function and these rules exist across
+the United States and are designed to
+provide a basic accountability mechanism
+for what the government is doing now in
+this case if the government uses these
+records these applications to
+immediately destroy these very same
+records that prevents the public from
+having access to what could potentially
+be incredibly important information and
+in this case information that it touches
+on the lives of so many people and has
+and concerns the foundational issue
+that's been a subject of a lot of debate
+and controversy in the United States and
+that is the issue of rampant police
+killings and so we effe so you are
+incredibly concerned about the use of
+this technology both by the city of Long
+Beach but also by governments across the
+country Simon a couple of bits of
+evidence here if anybody's dousing that
+this actually took place in your report
+you have an update email and it says
+Tiger Tech's secure messaging app and it
+says please feel free to resume
+communicating why the tiger texts have
+so let's go on to the secret channel no
+one can follow and then another one
+which is basically it's really simple
+it's a purchase order but the purchase
+order it's for a certain price it's for
+up to twenty five thousand and then it
+actually just details here the Tiger
+Tech's subscription license period
+from 2016 to 2017 is there anything
+wrong with the police department having
+this kind of app yes
+I mean I think if you had if you if we
+split the thing into if they had into
+Inc encryption method in apps and then
+they retained all records for the set
+period of time under California law and
+then handed them over during court cases
+as requested at the discovery phase and
+with all compliance legislation you
+could argue that using a system like
+this would be absolutely fine and but
+they chose a system which deletes the
+messages forever it can now no longer go
+back and get those messages and produce
+them in court or produce them in any
+kind of documental phase to say we have
+done nothing wrong you know the Long
+Beach Police Department said to us when
+we first told them we comply with all
+legislation on this we don't break any
+laws two days later they suspended all
+use and now they're doing a review of
+whether they're complying with all the
+laws they told us they were complying
+with its the two days later after your
+reporting that is the red flag that they
+knew that they weren't doing they
+arrived they had had tiger text since
+2000 2014 up until 2018 that's hundreds
+and hundreds of cases that these this
+app was being used to communicate
+evidence around this a hundred and fifty
+odd officers within Long Beach Police
+Department had it out of the 290 phones
+issued to staff in Long Beach over half
+of them had the app to communicate with
+each other you will never know what they
+were talking about to each other that
+the the city's attorney the person who's
+legally responsible to ensure that the
+police are you applying with complying
+with all legislation didn't even know
+they had it he didn't know he had it
+until we told them that they had it the
+district attorney for the County of Los
+Angeles has just launched an inquiry
+through this and the same body that's
+doing the inquiry into Long Beach Police
+Department's the same inquiry group that
+investigate whether police killings
+illegal it's the judiciary and Oversight
+Committee so these are now a serious
+allegations against Long Beach Police
+Department whether they comply with
+their own legislation whether they would
+held em for evidence from any court
+cases and mohammad' all tell you now
+better than some I think it's going to
+be a very brave law that opens up
+hundreds and hundreds of prosecutions in
+Long Beach again because we don't know
+what these police officers were talking
+about
+you know Simon at the risk of echoing
+you here we have a tweet here and it
+really shows just the the gravity of
+this this is James reporter at the Los
+Angeles Times he says less than 12 hours
+after the al-jazeera report detailing
+its use of a self-deleting messaging app
+that could cause record retention
+discovery issues the city of Long Beach
+has suspended the use of Tiger Tech's
+Long Beach police had been using it
+since 2014 so really just echoing what
+you said there but even I want to bring
+you in here on this because secure
+communication seemingly is a good thing
+what's your take on this well privacy
+and security are two different things
+and both private and secure
+communications are good but ordinary
+citizens have different freedoms and
+obligations than the police department
+the police department is made up of
+police these people are public servants
+they have obligations to maintain
+records of the of the things that they
+are doing and their investigations in
+ways that ordinary citizens do not and
+it looks like they were using tiger
+texts specifically for the purpose of
+circumventing those obligations which is
+really disturbing so if we're looking at
+who should be using these apps and who
+should not be using these apps Mamet
+well I mean I think what's interesting
+here is that is that what we need to do
+is be able to sort of think a little bit
+strategically and a little bit sort of
+in a nuanced fashion about the
+technologies that are available to
+members of the public to the corporate
+sector the private sector as well as to
+governments and so what's important is
+to recognize as Abel was saying that
+there are different obligations and
+different requirements that we all share
+in these different spaces and so as
+members of the public or is a lone
+individual I have an interest in making
+sure that my communications with my
+spouse with my family members with my
+friends are private and that individuals
+whether sort of hackers government
+agents or or other sort of intruders
+don't have access to that information
+but I don't have that same obligation
+for the local police department who come
+who patrols my streets or
+or you know the housing authorities that
+I apply to get public housing from or
+from the taxman for who might provide
+all kinds of sense of information I want
+to make sure that their communications
+are recorded and are kept in a secure
+fashion so that they do not leak they
+are not compromised at any fashion so I
+think we really have to be able to
+understand how technology operates in
+this sort of multifaceted
+existence that we all live in so talk
+what's particularly interesting is
+what's particularly interesting is that
+governments and law enforcement
+including the FBI and police departments
+all over the US have insisted that that
+they should be able to backdoor these
+apps because they're being used by
+criminals and so they're perfectly fine
+with using with using these apps to
+circumvent their own obligations but
+they're not into the idea that they
+might be used by the people that they're
+trying to keep an eye on or that they're
+trying to catch we're in Long Beach was
+the amusing scenario now we always talk
+about the arms racing technology of of
+criminals and the law enforcement
+staying one step ahead of each other so
+if the criminals using something the
+real enforcement has to catch up what we
+may be entering in is to new era in
+which the government are trying to stay
+ahead of people like myself activists
+like Muhammad saying what are you doing
+and they're trying to stay ahead of our
+ability to keep an eye on their
+communications now which I think it's
+going to be an interesting challenge for
+the 21st century I'm trying to see what
+you really don't want is is a dynamic in
+which the people in power the people who
+have guns the people who have the power
+to imprison you have privacy and
+security and the ordinary people who
+might be activists or journalists are
+trying to hold them to account don't
+that is in fact the opposite of civil
+liberties this make us in a very mushy
+area where the criminals and the police
+are using the same technology and the
+public is using the same technology and
+they're all trying to keep secrets from
+each other yes and no I mean I guess I'd
+say that the it secrecy by itself is not
+bad right so secrecy deletion
+sort of privacy these are not bad
+concepts these are all really good
+depending on the context of how they
+come up so I'll give you one example so
+the government engages in a whole host
+of different surveillance and
+investigatory operations to keep tabs on
+members of the public even one members
+of the public aren't suspected of
+committing a crime so for instance if
+you drive in an intersection there might
+be a camera that tracks what cars drive
+that past that intersection that camera
+collects all manner of different sort of
+data about you and about members of the
+public would we want that data for
+instance kept in an insecure fashion
+that might leak in a way that would
+result in our movements and our sort of
+public private information disclosed to
+members of the public certainly not and
+indeed what I would suggest is that that
+information about sir about members of
+the public collected through
+surveillance technologies must itself be
+deleted if the government does not
+suspect you of a crime so in that
+context I'm for the deletion of
+government records however I'm against
+the deletion of government records when
+it violates laws that are designed to
+interrogate how government itself
+functions right so you can imagine
+between those two polls a sort of
+nuanced debate about when these records
+should be kept and when they should be
+deleted on the one hand records about
+how government works and on the other
+hand records about you and I and
+everything that we do that happens to be
+scooped out by the government and I
+think the punishments are up completely
+in equal because if the police
+department released my social security
+number or some piece of my personal
+information I can take action against
+that for breach of my personal data so
+when the Long Beach Police Department
+potentially break legislations on
+records retention it's it's almost like
+nothing is going to happen to them
+nothing legally will happen to them for
+that undertaking someone might lose
+their job you never know but nothing
+legally will happen to Long Beach Police
+Department now so I like the point about
+being able to take action if your
+information is leaked when it shouldn't
+be
+here's someone whose glasses perhaps
+have
+they say there can always be a reason
+for breaching your privacy be it a hack
+you're looking for data to sell or a
+government body because your name
+resembles a terrorist at the end I don't
+think anyone has is a privilege of
+privacy which is sad so in keeping that
+in mind I want you to take a look at
+this evil because this is what afros
+tweeted us in he's not the only one
+who's talking about this idea of a
+backdoor
+he says when fake messages are the
+reason for riots and lynching especially
+in India referencing whatsapp chains
+that are not fact checked and are then
+spread afro says backdoor access should
+be given there are no other way to stop
+this agenda but ordinary people should
+not be harassed or their messages should
+not be exposed so take us through the
+idea of a backdoor who should have
+access to that door the company or the
+government well I think that one of the
+biggest problems with with the demand
+for a backdoor is that when you have and
+encrypted messaging backdoor suddenly
+makes your end-to-end encrypted
+messaging no longer and to end encrypted
+it's no longer as secure as it was
+before and there's no way to guarantee
+that only the sender and the receiver
+are able to are able to get the message
+we have had a number of very
+high-profile weeks of government data
+and of of data from apps showing that if
+you if you build a backdoor it's not
+only going to be used by governments or
+law enforcement or whatever you think of
+as as the good guys it will inevitably
+be used by criminals by governments that
+you don't approve of it will be used by
+you know jealous boyfriends stalking
+their their exes there will be all kinds
+of very serious abuse and that is why
+any kind of backdoor is simply
+unacceptable because it destroys the
+entire premise of end-to-end encryption
+Mohammed I'm just wondering should to be
+a front door then the front door is the
+law they just you cannot use this if
+you're a public official well certainly
+what you cannot do is you cannot devise
+and mandate
+back doors and into otherwise secure
+communications we know that government
+the intelligence agencies in the United
+States and in the UK have tried to
+weaken encryption protocols and this is
+a really dangerous sort of push because
+not only for the reasons that every was
+talking about but also because the the
+ends here are pursuit of an agenda to to
+tackle a problem that on its face is
+incredibly rare so if the concerns are
+about terrorism for instance that
+concern the rates of terrorism are
+incredibly miniscule or in it the
+incidents of terrorism are incredibly
+rare in sort of in the Western world and
+yet the threat from weakening encryption
+has a natural consequence of sort of
+impacting literally all walks of life
+that we engage in whether it's
+communications with each other whether
+it's communications with lenders banks
+whether it's sort of data that's
+controlled by members by the government
+or all in all forms of digital life
+encryption is literally the sort of
+backbone of how this of how the digital
+age works and so threatening that in
+pursuit of a frankly a negligible sort
+of chance of an attack I think is a
+dangerous premise and something that we
+should not accept all right now Simon in
+the final seconds of our program lessons
+learned from your reporting and and the
+instant reaction that you got lessons
+learned
+everyone should fire their local police
+force and find out they're using some
+text messaging that is what a fire is go
+and ask them ask them and you know you
+know a result of what we've done they've
+stopped using it the local community now
+are incredibly aware of it and people
+like Mohammed he's keeping on top of
+them to make sure that they don't slip
+it back into how they operate thank you
+so much - Eva - Simon - Mohammed Malika
+what you want to leave us interesting
+conversation I will leave us with this
+suite from bando who says I used
+whatsapp in - in encryption there I live
+in the States I've converted more than a
+few American friends to use
+I love using it to communicate with
+friends overseas as well I believe we
+are entitled to our privacy and
+governments cannot be allowed to take
+that away this will not be the last time
+we have this conversation but for now
+we're wrapping it up Malika and I will
+see you online always a twitter at AJ
+stream until the next time thanks for
+watching
+you

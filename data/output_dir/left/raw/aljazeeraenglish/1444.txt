@@ -1,0 +1,416 @@
+1
+00:00:00,060 --> 00:00:02,399
+from the invention<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the wheel</font><font color="#CCCCCC"> to space</font>
+
+2
+00:00:02,399 --> 00:00:04,650
+exploration<font color="#CCCCCC"> artificial</font><font color="#E5E5E5"> intelligence</font><font color="#CCCCCC"> and</font>
+
+3
+00:00:04,650 --> 00:00:07,230
+<font color="#E5E5E5">the creation of</font><font color="#CCCCCC"> social media innovation</font>
+
+4
+00:00:07,230 --> 00:00:09,510
+is not<font color="#CCCCCC"> a new</font><font color="#E5E5E5"> phenomenon and a good place</font>
+
+5
+00:00:09,510 --> 00:00:11,639
+<font color="#CCCCCC">to start looking</font><font color="#E5E5E5"> at where the next set</font>
+
+6
+00:00:11,639 --> 00:00:13,440
+<font color="#CCCCCC">of inventions</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> can potentially</font>
+
+7
+00:00:13,440 --> 00:00:15,599
+<font color="#CCCCCC">change the world's economy is the</font><font color="#E5E5E5"> global</font>
+
+8
+00:00:15,599 --> 00:00:18,270
+innovation<font color="#CCCCCC"> index now the 2018 report has</font>
+
+9
+00:00:18,270 --> 00:00:20,130
+just<font color="#CCCCCC"> been published</font><font color="#E5E5E5"> by</font><font color="#CCCCCC"> Cornell</font>
+
+10
+00:00:20,130 --> 00:00:22,410
+University in C ed and the World
+
+11
+00:00:22,410 --> 00:00:24,869
+Intellectual Property Organization<font color="#CCCCCC"> its</font>
+
+12
+00:00:24,869 --> 00:00:27,330
+aim is to<font color="#CCCCCC"> provide insight into</font><font color="#E5E5E5"> the state</font>
+
+13
+00:00:27,330 --> 00:00:29,789
+of<font color="#E5E5E5"> innovation</font><font color="#CCCCCC"> around the world and this</font>
+
+14
+00:00:29,789 --> 00:00:32,070
+year's index has<font color="#CCCCCC"> Switzerland</font><font color="#E5E5E5"> in the top</font>
+
+15
+00:00:32,070 --> 00:00:34,620
+spot<font color="#CCCCCC"> followed by the Netherlands</font><font color="#E5E5E5"> Sweden</font>
+
+16
+00:00:34,620 --> 00:00:38,010
+<font color="#E5E5E5">and United</font><font color="#CCCCCC"> Kingdom</font><font color="#E5E5E5"> the US has slid</font><font color="#CCCCCC"> two</font>
+
+17
+00:00:38,010 --> 00:00:39,870
+places<font color="#CCCCCC"> to</font><font color="#E5E5E5"> number six on the</font><font color="#CCCCCC"> list</font><font color="#E5E5E5"> after</font>
+
+18
+00:00:39,870 --> 00:00:43,140
+<font color="#E5E5E5">Singapore innovation was measured</font><font color="#CCCCCC"> by 80</font>
+
+19
+00:00:43,140 --> 00:00:45,510
+factors in total<font color="#E5E5E5"> including mobile</font>
+
+20
+00:00:45,510 --> 00:00:48,539
+<font color="#E5E5E5">application creation and education</font>
+
+21
+00:00:48,539 --> 00:00:51,120
+spending<font color="#E5E5E5"> countries at the bottom of this</font>
+
+22
+00:00:51,120 --> 00:00:53,219
+year's rankings<font color="#E5E5E5"> include Burkina Faso</font>
+
+23
+00:00:53,219 --> 00:00:56,430
+<font color="#E5E5E5">Togo and Yemen and one key takeaway is</font>
+
+24
+00:00:56,430 --> 00:00:58,500
+that<font color="#E5E5E5"> China joined the world's top 20</font>
+
+25
+00:00:58,500 --> 00:01:00,930
+<font color="#CCCCCC">most innovative economies for the first</font>
+
+26
+00:01:00,930 --> 00:01:05,220
+time or<font color="#E5E5E5"> to get more</font><font color="#CCCCCC"> on the 2018</font><font color="#E5E5E5"> global</font>
+
+27
+00:01:05,220 --> 00:01:07,500
+innovation index<font color="#E5E5E5"> I'm joined by Francis</font>
+
+28
+00:01:07,500 --> 00:01:09,420
+Gurry<font color="#E5E5E5"> director-general of the World</font>
+
+29
+00:01:09,420 --> 00:01:12,600
+Intellectual Property<font color="#E5E5E5"> Organization WIPO</font>
+
+30
+00:01:12,600 --> 00:01:15,540
+is a UN agency<font color="#CCCCCC"> which promotes</font><font color="#E5E5E5"> the</font>
+
+31
+00:01:15,540 --> 00:01:16,890
+protection<font color="#CCCCCC"> of intellectual property</font>
+
+32
+00:01:16,890 --> 00:01:18,990
+throughout<font color="#E5E5E5"> the world thanks very much</font>
+
+33
+00:01:18,990 --> 00:01:21,780
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> being</font><font color="#E5E5E5"> with us so how would a high</font>
+
+34
+00:01:21,780 --> 00:01:24,990
+ranking<font color="#E5E5E5"> affect the</font><font color="#CCCCCC"> overall quality of</font>
+
+35
+00:01:24,990 --> 00:01:27,659
+<font color="#E5E5E5">life in a country</font><font color="#CCCCCC"> and it is it</font><font color="#E5E5E5"> possible</font>
+
+36
+00:01:27,659 --> 00:01:29,759
+<font color="#CCCCCC">for example</font><font color="#E5E5E5"> to to innovate yourself out</font>
+
+37
+00:01:29,759 --> 00:01:32,549
+of<font color="#E5E5E5"> poverty yes and well it's</font><font color="#CCCCCC"> not so much</font>
+
+38
+00:01:32,549 --> 00:01:33,960
+their ranking<font color="#E5E5E5"> that affects the quality</font>
+
+39
+00:01:33,960 --> 00:01:36,630
+of<font color="#E5E5E5"> life at the fact</font><font color="#CCCCCC"> that the ranking</font>
+
+40
+00:01:36,630 --> 00:01:40,460
+reflects that the country is a good
+
+41
+00:01:40,460 --> 00:01:44,399
+producer<font color="#E5E5E5"> of innovation that</font><font color="#CCCCCC"> means in</font>
+
+42
+00:01:44,399 --> 00:01:47,009
+turn that<font color="#CCCCCC"> the economy will be and its</font>
+
+43
+00:01:47,009 --> 00:01:48,479
+enterprises will be<font color="#E5E5E5"> extremely</font>
+
+44
+00:01:48,479 --> 00:01:50,040
+<font color="#E5E5E5">competitive because so much competition</font>
+
+45
+00:01:50,040 --> 00:01:53,490
+<font color="#E5E5E5">now</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> based on</font><font color="#CCCCCC"> technology and</font>
+
+46
+00:01:53,490 --> 00:01:56,939
+innovation<font color="#E5E5E5"> and that competitiveness of</font>
+
+47
+00:01:56,939 --> 00:01:58,860
+<font color="#CCCCCC">the economy of</font><font color="#E5E5E5"> course is</font><font color="#CCCCCC"> reflected in</font>
+
+48
+00:01:58,860 --> 00:02:03,479
+terms of average high income associated
+
+49
+00:02:03,479 --> 00:02:05,700
+with the<font color="#E5E5E5"> country and quality of life</font>
+
+50
+00:02:05,700 --> 00:02:07,439
+because<font color="#CCCCCC"> innovation</font><font color="#E5E5E5"> of Hick's of course</font>
+
+51
+00:02:07,439 --> 00:02:09,750
+the quality<font color="#CCCCCC"> of life</font><font color="#E5E5E5"> material</font><font color="#CCCCCC"> life in</font><font color="#E5E5E5"> a</font>
+
+52
+00:02:09,750 --> 00:02:12,060
+in a large variety of<font color="#E5E5E5"> manners</font><font color="#CCCCCC"> I want to</font>
+
+53
+00:02:12,060 --> 00:02:13,500
+ask you as well<font color="#E5E5E5"> about</font>
+
+54
+00:02:13,500 --> 00:02:17,730
+the<font color="#CCCCCC"> lack of</font><font color="#E5E5E5"> digital connectivity in in</font>
+
+55
+00:02:17,730 --> 00:02:19,200
+some countries<font color="#E5E5E5"> and what effect that can</font>
+
+56
+00:02:19,200 --> 00:02:21,180
+have on on innovation because we we
+
+57
+00:02:21,180 --> 00:02:23,150
+reported<font color="#E5E5E5"> on it on a previous</font><font color="#CCCCCC"> program</font>
+
+58
+00:02:23,150 --> 00:02:25,950
+about Mexico's economy and how there are
+
+59
+00:02:25,950 --> 00:02:28,710
+large<font color="#CCCCCC"> root areas mostly rural</font><font color="#E5E5E5"> areas that</font>
+
+60
+00:02:28,710 --> 00:02:31,650
+have no or<font color="#CCCCCC"> very</font><font color="#E5E5E5"> little Internet</font>
+
+61
+00:02:31,650 --> 00:02:33,840
+connectivity at all what implications
+
+62
+00:02:33,840 --> 00:02:36,090
+does that have for the ability<font color="#CCCCCC"> to</font>
+
+63
+00:02:36,090 --> 00:02:38,940
+<font color="#E5E5E5">innovate</font><font color="#CCCCCC"> look I think the innovation or</font>
+
+64
+00:02:38,940 --> 00:02:44,490
+the the lack of<font color="#CCCCCC"> connectivity</font><font color="#E5E5E5"> is a major</font>
+
+65
+00:02:44,490 --> 00:02:47,730
+major obstacle and<font color="#E5E5E5"> something that we all</font>
+
+66
+00:02:47,730 --> 00:02:49,950
+need to pay<font color="#CCCCCC"> attention to it's a bit like</font>
+
+67
+00:02:49,950 --> 00:02:51,780
+<font color="#E5E5E5">saying you have no industrial capacity</font>
+
+68
+00:02:51,780 --> 00:02:54,630
+<font color="#E5E5E5">in the industrial edge in the digital</font>
+
+69
+00:02:54,630 --> 00:02:56,640
+<font color="#E5E5E5">digital age the</font><font color="#CCCCCC"> lack of</font><font color="#E5E5E5"> connectivity</font>
+
+70
+00:02:56,640 --> 00:02:59,730
+<font color="#E5E5E5">means that you are a not a player in the</font>
+
+71
+00:02:59,730 --> 00:03:03,510
+<font color="#E5E5E5">game</font><font color="#CCCCCC"> and so I think it's a very serious</font>
+
+72
+00:03:03,510 --> 00:03:07,230
+phenomenon a lot of work is going<font color="#E5E5E5"> on in</font>
+
+73
+00:03:07,230 --> 00:03:09,360
+the public international public sector
+
+74
+00:03:09,360 --> 00:03:11,750
+and private<font color="#E5E5E5"> sector</font><font color="#CCCCCC"> to improve</font>
+
+75
+00:03:11,750 --> 00:03:14,400
+connectivity<font color="#E5E5E5"> but we need to speed that</font>
+
+76
+00:03:14,400 --> 00:03:16,950
+up to make sure<font color="#E5E5E5"> that we don't have those</font>
+
+77
+00:03:16,950 --> 00:03:20,430
+who miss out<font color="#E5E5E5"> badly on all of the</font>
+
+78
+00:03:20,430 --> 00:03:22,200
+benefits<font color="#E5E5E5"> of the digital revolution which</font>
+
+79
+00:03:22,200 --> 00:03:24,660
+<font color="#E5E5E5">are social and economic so</font><font color="#CCCCCC"> is there a</font>
+
+80
+00:03:24,660 --> 00:03:26,190
+danger<font color="#E5E5E5"> then of the world splitting into</font>
+
+81
+00:03:26,190 --> 00:03:28,470
+into kind<font color="#E5E5E5"> of digital haves and have-nots</font>
+
+82
+00:03:28,470 --> 00:03:32,010
+<font color="#CCCCCC">I think it's a great</font><font color="#E5E5E5"> danger and</font><font color="#CCCCCC"> I think</font>
+
+83
+00:03:32,010 --> 00:03:34,440
+you could go a little bit<font color="#E5E5E5"> more broadly</font>
+
+84
+00:03:34,440 --> 00:03:37,110
+than<font color="#CCCCCC"> digital and say technology in</font>
+
+85
+00:03:37,110 --> 00:03:39,810
+general<font color="#CCCCCC"> because there's a lot</font><font color="#E5E5E5"> of</font>
+
+86
+00:03:39,810 --> 00:03:41,730
+<font color="#E5E5E5">technology in the health area for</font>
+
+87
+00:03:41,730 --> 00:03:44,070
+example<font color="#E5E5E5"> which is not</font><font color="#CCCCCC"> available or a</font>
+
+88
+00:03:44,070 --> 00:03:45,810
+<font color="#E5E5E5">widespread basis throughout the world</font>
+
+89
+00:03:45,810 --> 00:03:48,989
+<font color="#E5E5E5">and this</font><font color="#CCCCCC"> is a big danger</font><font color="#E5E5E5"> that with the</font>
+
+90
+00:03:48,989 --> 00:03:50,790
+speed of<font color="#CCCCCC"> technological development</font><font color="#E5E5E5"> and</font>
+
+91
+00:03:50,790 --> 00:03:52,170
+the sort of resources<font color="#CCCCCC"> that</font><font color="#E5E5E5"> are required</font>
+
+92
+00:03:52,170 --> 00:03:54,900
+<font color="#CCCCCC">for new technologies and the development</font>
+
+93
+00:03:54,900 --> 00:03:56,700
+of<font color="#CCCCCC"> new</font><font color="#E5E5E5"> technology is it's a big danger</font>
+
+94
+00:03:56,700 --> 00:03:59,430
+that we may have as you say<font color="#E5E5E5"> an</font>
+
+95
+00:03:59,430 --> 00:04:04,500
+exacerbation<font color="#CCCCCC"> a</font><font color="#E5E5E5"> worsening</font><font color="#CCCCCC"> of the gaps the</font>
+
+96
+00:04:04,500 --> 00:04:07,200
+very considerable gaps that exist in
+
+97
+00:04:07,200 --> 00:04:09,060
+economic and technological<font color="#CCCCCC"> capacities</font>
+
+98
+00:04:09,060 --> 00:04:11,190
+throughout the world and thus for<font color="#CCCCCC"> the</font>
+
+99
+00:04:11,190 --> 00:04:13,799
+social benefits<font color="#E5E5E5"> that are derived</font><font color="#CCCCCC"> from</font>
+
+100
+00:04:13,799 --> 00:04:16,589
+having rather<font color="#CCCCCC"> high-performing economies</font>
+
+101
+00:04:16,589 --> 00:04:20,250
+and technological capacity good to speak
+
+102
+00:04:20,250 --> 00:04:21,750
+with you Francis Gurry<font color="#E5E5E5"> appreciate your</font>
+
+103
+00:04:21,750 --> 00:04:24,370
+<font color="#E5E5E5">time</font><font color="#CCCCCC"> thank you</font><font color="#E5E5E5"> thank</font><font color="#CCCCCC"> you very</font><font color="#E5E5E5"> much</font>
+
+104
+00:04:24,370 --> 00:00:00,000
+[Music]
+

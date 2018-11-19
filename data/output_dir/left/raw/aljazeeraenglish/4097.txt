@@ -1,0 +1,236 @@
+1
+00:00:00,030 --> 00:00:02,250
+the scientists here at Johns Hopkins
+
+2
+00:00:02,250 --> 00:00:04,950
+<font color="#E5E5E5">University in Baltimore analyzed more</font>
+
+3
+00:00:04,950 --> 00:00:06,839
+<font color="#CCCCCC">than a thousand patients who churned</font>
+
+4
+00:00:06,839 --> 00:00:09,360
+symptoms of cancer<font color="#CCCCCC"> to see whether this</font>
+
+5
+00:00:09,360 --> 00:00:11,460
+new test would accurately confirm the
+
+6
+00:00:11,460 --> 00:00:13,679
+diagnosis and<font color="#E5E5E5"> they were excited to</font>
+
+7
+00:00:13,679 --> 00:00:16,020
+<font color="#E5E5E5">discover that for</font><font color="#CCCCCC"> certain tumors</font><font color="#E5E5E5"> the</font>
+
+8
+00:00:16,020 --> 00:00:19,230
+cancer seek<font color="#E5E5E5"> test was up to 98% accurate</font>
+
+9
+00:00:19,230 --> 00:00:21,539
+and the same test was effective<font color="#CCCCCC"> for</font>
+
+10
+00:00:21,539 --> 00:00:23,460
+eight different<font color="#CCCCCC"> types</font><font color="#E5E5E5"> of cancer</font>
+
+11
+00:00:23,460 --> 00:00:26,039
+<font color="#E5E5E5">including five for which no early</font>
+
+12
+00:00:26,039 --> 00:00:28,800
+screening currently exists<font color="#E5E5E5"> here's how it</font>
+
+13
+00:00:28,800 --> 00:00:29,340
+works
+
+14
+00:00:29,340 --> 00:00:31,590
+as the tumor forms and grows<font color="#E5E5E5"> the</font>
+
+15
+00:00:31,590 --> 00:00:33,360
+cancerous<font color="#CCCCCC"> cells within</font><font color="#E5E5E5"> it change</font>
+
+16
+00:00:33,360 --> 00:00:36,780
+<font color="#E5E5E5">reproduce and die sometimes chewers shed</font>
+
+17
+00:00:36,780 --> 00:00:38,430
+cells that<font color="#E5E5E5"> can get into the bloodstream</font>
+
+18
+00:00:38,430 --> 00:00:41,579
+<font color="#CCCCCC">and when cancer</font><font color="#E5E5E5"> cells die</font><font color="#CCCCCC"> they can also</font>
+
+19
+00:00:41,579 --> 00:00:43,950
+release<font color="#E5E5E5"> DNA and other fragments that</font>
+
+20
+00:00:43,950 --> 00:00:46,739
+<font color="#CCCCCC">also get into the</font><font color="#E5E5E5"> blood cancer seek is</font>
+
+21
+00:00:46,739 --> 00:00:48,750
+described as a liquid biopsy and
+
+22
+00:00:48,750 --> 00:00:51,539
+analyzed as a patient's blood sample<font color="#E5E5E5"> for</font>
+
+23
+00:00:51,539 --> 00:00:53,870
+traces of that cancer DNA<font color="#E5E5E5"> and</font>
+
+24
+00:00:53,870 --> 00:00:55,860
+identifying which genes and mutations
+
+25
+00:00:55,860 --> 00:00:59,070
+are most active can identify the type of
+
+26
+00:00:59,070 --> 00:01:01,949
+<font color="#E5E5E5">cancer</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> the best treatment the</font>
+
+27
+00:01:01,949 --> 00:01:04,080
+importance of early diagnosis of cancer
+
+28
+00:01:04,080 --> 00:01:06,360
+can't be<font color="#E5E5E5"> understated for example in the</font>
+
+29
+00:01:06,360 --> 00:01:09,030
+<font color="#E5E5E5">case</font><font color="#CCCCCC"> of bowel cancer ovarian cancer and</font>
+
+30
+00:01:09,030 --> 00:01:12,689
+breast cancer<font color="#CCCCCC"> 90% of those diagnosed</font>
+
+31
+00:01:12,689 --> 00:01:14,820
+early will continue to live for<font color="#E5E5E5"> more</font>
+
+32
+00:01:14,820 --> 00:01:17,159
+<font color="#CCCCCC">than</font><font color="#E5E5E5"> five years</font><font color="#CCCCCC"> but the</font><font color="#E5E5E5"> survival rate if</font>
+
+33
+00:01:17,159 --> 00:01:19,799
+it's caught<font color="#CCCCCC"> at</font><font color="#E5E5E5"> an advanced stage</font><font color="#CCCCCC"> is much</font>
+
+34
+00:01:19,799 --> 00:01:21,780
+lower<font color="#E5E5E5"> in the case of ovarian cancer</font>
+
+35
+00:01:21,780 --> 00:01:25,140
+it's just<font color="#E5E5E5"> 5% in the UK cancer</font>
+
+36
+00:01:25,140 --> 00:01:26,939
+specialists are giving a cautious
+
+37
+00:01:26,939 --> 00:01:29,960
+welcome to the findings<font color="#E5E5E5"> this is a very</font>
+
+38
+00:01:29,960 --> 00:01:33,720
+exciting<font color="#CCCCCC"> first step</font><font color="#E5E5E5"> along the way to</font>
+
+39
+00:01:33,720 --> 00:01:36,450
+such a blood test<font color="#E5E5E5"> they've shown</font><font color="#CCCCCC"> that you</font>
+
+40
+00:01:36,450 --> 00:01:40,110
+<font color="#CCCCCC">can pick up tiny traces of the cancer in</font>
+
+41
+00:01:40,110 --> 00:01:44,100
+<font color="#CCCCCC">the blood</font><font color="#E5E5E5"> test that potentially has the</font>
+
+42
+00:01:44,100 --> 00:01:48,000
+ability to<font color="#E5E5E5"> pick up cancers early on and</font>
+
+43
+00:01:48,000 --> 00:01:51,240
+identify patients for surgery<font color="#CCCCCC"> but it is</font>
+
+44
+00:01:51,240 --> 00:01:53,430
+a first<font color="#CCCCCC"> step another specialist though</font>
+
+45
+00:01:53,430 --> 00:01:56,149
+wants to see the<font color="#CCCCCC"> test</font><font color="#E5E5E5"> accuracy improved</font>
+
+46
+00:01:56,149 --> 00:01:58,710
+<font color="#E5E5E5">stage</font><font color="#CCCCCC"> one when we want</font><font color="#E5E5E5"> to diagnose these</font>
+
+47
+00:01:58,710 --> 00:02:01,229
+cancers the sensitivity is quite low
+
+48
+00:02:01,229 --> 00:02:03,869
+it's just about<font color="#CCCCCC"> 40 percent</font><font color="#E5E5E5"> so that</font><font color="#CCCCCC"> is</font>
+
+49
+00:02:03,869 --> 00:02:08,669
+something<font color="#E5E5E5"> that might hold this test back</font>
+
+50
+00:02:08,669 --> 00:02:11,430
+when we try to think<font color="#E5E5E5"> about implementing</font>
+
+51
+00:02:11,430 --> 00:02:11,850
+it
+
+52
+00:02:11,850 --> 00:02:14,430
+the Baltimore study worked with<font color="#CCCCCC"> patients</font>
+
+53
+00:02:14,430 --> 00:02:16,590
+<font color="#CCCCCC">who had already shown</font><font color="#E5E5E5"> symptoms of cancer</font>
+
+54
+00:02:16,590 --> 00:02:18,690
+<font color="#CCCCCC">the true breakthrough</font><font color="#E5E5E5"> will happen if</font>
+
+55
+00:02:18,690 --> 00:02:21,390
+this<font color="#E5E5E5"> test</font><font color="#CCCCCC"> can identify</font><font color="#E5E5E5"> cancer</font><font color="#CCCCCC"> before the</font>
+
+56
+00:02:21,390 --> 00:02:24,390
+<font color="#CCCCCC">symptoms emerge</font><font color="#E5E5E5"> that could really make a</font>
+
+57
+00:02:24,390 --> 00:02:27,090
+<font color="#E5E5E5">massive</font><font color="#CCCCCC"> impact on survival rates this</font>
+
+58
+00:02:27,090 --> 00:02:30,510
+<font color="#E5E5E5">test is one step closer to that Paul</font>
+
+59
+00:02:30,510 --> 00:00:00,000
+Brennan<font color="#CCCCCC"> al-jazeera</font><font color="#E5E5E5"> London</font>
+

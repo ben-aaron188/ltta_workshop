@@ -1,0 +1,588 @@
+1
+00:00:11,750 --> 00:00:15,059
+i'm joined with Jim lanzone he's the
+
+2
+00:00:15,059 --> 00:00:18,060
+founder and<font color="#E5E5E5"> CEO of clicker which is a</font>
+
+3
+00:00:18,060 --> 00:00:20,520
+web video site to help you find<font color="#E5E5E5"> what's</font>
+
+4
+00:00:20,520 --> 00:00:22,859
+good online to watch is that a fair
+
+5
+00:00:22,859 --> 00:00:27,539
+description yeah<font color="#E5E5E5"> I mean I think we call</font>
+
+6
+00:00:27,539 --> 00:00:29,910
+ourselves the first complete programming
+
+7
+00:00:29,910 --> 00:00:31,980
+guide for for internet television so
+
+8
+00:00:31,980 --> 00:00:33,480
+<font color="#E5E5E5">it's not just all the video that's out</font>
+
+9
+00:00:33,480 --> 00:00:35,130
+there I<font color="#E5E5E5"> mean you can search on youtube</font>
+
+10
+00:00:35,130 --> 00:00:37,200
+<font color="#E5E5E5">for a clip you want but when you want to</font>
+
+11
+00:00:37,200 --> 00:00:39,809
+find true episodic programming the
+
+12
+00:00:39,809 --> 00:00:40,980
+things that you would normally watch on
+
+13
+00:00:40,980 --> 00:00:42,030
+<font color="#E5E5E5">your television but that are now</font>
+
+14
+00:00:42,030 --> 00:00:44,219
+migrating online we're the<font color="#E5E5E5"> only way to</font>
+
+15
+00:00:44,219 --> 00:00:46,230
+really effectively find what's available
+
+16
+00:00:46,230 --> 00:00:48,000
+<font color="#E5E5E5">to watch and where to watch it so what's</font>
+
+17
+00:00:48,000 --> 00:00:50,280
+on click or is that music videos is<font color="#E5E5E5"> it</font>
+
+18
+00:00:50,280 --> 00:00:52,890
+full episodes of movies<font color="#E5E5E5"> actually all</font>
+
+19
+00:00:52,890 --> 00:00:55,770
+three of those it is 450,000 full
+
+20
+00:00:55,770 --> 00:00:58,289
+episodes and that's<font color="#E5E5E5"> everything from real</font>
+
+21
+00:00:58,289 --> 00:01:00,239
+television shows that are on line two
+
+22
+00:01:00,239 --> 00:01:01,260
+things that<font color="#E5E5E5"> we would deem to be</font>
+
+23
+00:01:01,260 --> 00:01:03,780
+broadcast<font color="#CCCCCC"> quality they're native to the</font>
+
+24
+00:01:03,780 --> 00:01:05,549
+<font color="#E5E5E5">internet you know a cooking video from</font>
+
+25
+00:01:05,549 --> 00:01:07,770
+<font color="#CCCCCC">the New York Times for example that you</font>
+
+26
+00:01:07,770 --> 00:01:09,180
+would watch in your television if it was
+
+27
+00:01:09,180 --> 00:01:11,700
+available so 450,000 episodes of that
+
+28
+00:01:11,700 --> 00:01:14,640
+across 1,200 categories and then also
+
+29
+00:01:14,640 --> 00:01:18,630
+50,000 movies and sorry 30,000 movies in
+
+30
+00:01:18,630 --> 00:01:22,020
+50,000 music videos so one of the kind
+
+31
+00:01:22,020 --> 00:01:24,090
+of descriptions I that I've seen around
+
+32
+00:01:24,090 --> 00:01:26,430
+the<font color="#E5E5E5"> web is sort of a TV Guide for for</font>
+
+33
+00:01:26,430 --> 00:01:28,530
+web video TV Guide<font color="#E5E5E5"> was something people</font>
+
+34
+00:01:28,530 --> 00:01:30,659
+would read in the bathroom whereas web
+
+35
+00:01:30,659 --> 00:01:32,310
+video is something there you know kind
+
+36
+00:01:32,310 --> 00:01:34,470
+<font color="#CCCCCC">of doing more actively how do you make</font>
+
+37
+00:01:34,470 --> 00:01:35,939
+<font color="#CCCCCC">sure that people come to your site</font>
+
+38
+00:01:35,939 --> 00:01:38,040
+before they go to youtube or find a
+
+39
+00:01:38,040 --> 00:01:39,869
+video<font color="#E5E5E5"> on a blog or something like that I</font>
+
+40
+00:01:39,869 --> 00:01:41,520
+30 to say how<font color="#E5E5E5"> can we make</font><font color="#CCCCCC"> sure we're</font>
+
+41
+00:01:41,520 --> 00:01:43,950
+<font color="#CCCCCC">washed in the bathroom</font><font color="#E5E5E5"> oh that was the</font>
+
+42
+00:01:43,950 --> 00:01:46,590
+next<font color="#E5E5E5"> question well I mean I just think</font>
+
+43
+00:01:46,590 --> 00:01:48,659
+things are changing when TV<font color="#E5E5E5"> Guide just</font>
+
+44
+00:01:48,659 --> 00:01:50,909
+started it was<font color="#E5E5E5"> 1953 there were three</font>
+
+45
+00:01:50,909 --> 00:01:53,280
+networks and there were 48 modules on
+
+46
+00:01:53,280 --> 00:01:55,740
+the schedule grid and what we do is if
+
+47
+00:01:55,740 --> 00:01:58,110
+think if you're creating TV got in 2009
+
+48
+00:01:58,110 --> 00:02:00,210
+what would that look like the next 50
+
+49
+00:02:00,210 --> 00:02:02,399
+years<font color="#E5E5E5"> are going to be not a scheduled</font>
+
+50
+00:02:02,399 --> 00:02:04,320
+programming but a world of infinite
+
+51
+00:02:04,320 --> 00:02:06,360
+video on demand which is great it's a
+
+52
+00:02:06,360 --> 00:02:08,310
+great opportunity but it's a huge
+
+53
+00:02:08,310 --> 00:02:10,199
+problem to find anything
+
+54
+00:02:10,199 --> 00:02:13,080
+order so in the future you'll be
+
+55
+00:02:13,080 --> 00:02:15,170
+watching things whether<font color="#CCCCCC"> it's on your</font>
+
+56
+00:02:15,170 --> 00:02:17,910
+<font color="#CCCCCC">iphone</font><font color="#E5E5E5"> or</font><font color="#CCCCCC"> blackberry</font><font color="#E5E5E5"> or on your laptop</font>
+
+57
+00:02:17,910 --> 00:02:20,519
+or<font color="#E5E5E5"> on your plasma off of one corpus one</font>
+
+58
+00:02:20,519 --> 00:02:22,950
+grid of programming and and so that's
+
+59
+00:02:22,950 --> 00:02:25,319
+<font color="#E5E5E5">what we bring some order</font><font color="#CCCCCC"> to so there's</font>
+
+60
+00:02:25,319 --> 00:02:27,599
+kind of a movement<font color="#E5E5E5"> toward hardware and</font>
+
+61
+00:02:27,599 --> 00:02:29,069
+software products that are that are
+
+62
+00:02:29,069 --> 00:02:30,660
+designed to make web video a little<font color="#E5E5E5"> more</font>
+
+63
+00:02:30,660 --> 00:02:33,030
+like TV like there's a<font color="#E5E5E5"> roku box and</font>
+
+64
+00:02:33,030 --> 00:02:35,760
+software from boxy and the<font color="#E5E5E5"> Apple TV and</font>
+
+65
+00:02:35,760 --> 00:02:37,470
+things like that do you have to be
+
+66
+00:02:37,470 --> 00:02:39,750
+installed on those devices as well in
+
+67
+00:02:39,750 --> 00:02:41,370
+order to kind of be in every situation
+
+68
+00:02:41,370 --> 00:02:43,530
+where someone will be watching web video
+
+69
+00:02:43,530 --> 00:02:45,360
+or are you just trying<font color="#E5E5E5"> to stick to the</font>
+
+70
+00:02:45,360 --> 00:02:46,980
+computer and maybe the cell phone know
+
+71
+00:02:46,980 --> 00:02:50,040
+both so we were already in talks with a
+
+72
+00:02:50,040 --> 00:02:51,959
+lot of<font color="#CCCCCC"> those people and last</font><font color="#E5E5E5"> night for</font>
+
+73
+00:02:51,959 --> 00:02:54,480
+example we just demoed our appt at the
+
+74
+00:02:54,480 --> 00:02:56,730
+<font color="#CCCCCC">boxy beta launch here in New York and</font>
+
+75
+00:02:56,730 --> 00:02:58,590
+we're<font color="#E5E5E5"> talking to people at grow to about</font>
+
+76
+00:02:58,590 --> 00:03:00,299
+integration of clicker I mean our goal
+
+77
+00:03:00,299 --> 00:03:02,579
+is is that when you see our logo in our
+
+78
+00:03:02,579 --> 00:03:04,019
+name you know that's the way to navigate
+
+79
+00:03:04,019 --> 00:03:05,760
+programming in this next<font color="#E5E5E5"> generation</font>
+
+80
+00:03:05,760 --> 00:03:07,530
+whether that's on your<font color="#E5E5E5"> iPhone</font><font color="#CCCCCC"> your cat</font>
+
+81
+00:03:07,530 --> 00:03:09,060
+<font color="#E5E5E5">your laptop or on your regular</font>
+
+82
+00:03:09,060 --> 00:03:11,670
+television<font color="#E5E5E5"> yes what we the thing is it's</font>
+
+83
+00:03:11,670 --> 00:03:14,130
+a database of programs and so it can
+
+84
+00:03:14,130 --> 00:03:15,989
+it's really agile it can go anywhere<font color="#E5E5E5"> and</font>
+
+85
+00:03:15,989 --> 00:03:17,790
+<font color="#E5E5E5">we can reflect the landscape of what's</font>
+
+86
+00:03:17,790 --> 00:03:21,170
+available on any device in any situation
+
+87
+00:03:21,170 --> 00:03:25,410
+and you used<font color="#E5E5E5"> to work at ask.com how does</font>
+
+88
+00:03:25,410 --> 00:03:27,180
+video search kind of work into clicker
+
+89
+00:03:27,180 --> 00:03:29,519
+and it you know is that some place where
+
+90
+00:03:29,519 --> 00:03:31,440
+you have to have better technology than
+
+91
+00:03:31,440 --> 00:03:33,090
+<font color="#E5E5E5">Google or is the search kind of in the</font>
+
+92
+00:03:33,090 --> 00:03:34,680
+<font color="#E5E5E5">back end and not something that the</font><font color="#CCCCCC"> user</font>
+
+93
+00:03:34,680 --> 00:03:37,109
+is<font color="#E5E5E5"> working on um well there's two</font>
+
+94
+00:03:37,109 --> 00:03:38,609
+different ways to<font color="#CCCCCC"> really effectively</font>
+
+95
+00:03:38,609 --> 00:03:41,010
+find this stuff one is searching and we
+
+96
+00:03:41,010 --> 00:03:42,569
+do obviously<font color="#E5E5E5"> I</font><font color="#CCCCCC"> think a very good job of</font>
+
+97
+00:03:42,569 --> 00:03:44,790
+<font color="#E5E5E5">that we're search guys but also browsing</font>
+
+98
+00:03:44,790 --> 00:03:46,950
+so we were broken down into<font color="#CCCCCC"> 1,200</font>
+
+99
+00:03:46,950 --> 00:03:49,049
+categories and subcategories you can go
+
+100
+00:03:49,049 --> 00:03:50,250
+into comedy and<font color="#CCCCCC"> then you can navigate</font>
+
+101
+00:03:50,250 --> 00:03:52,590
+down to stand up sketch or even things
+
+102
+00:03:52,590 --> 00:03:54,540
+like African American comedy if you want
+
+103
+00:03:54,540 --> 00:03:56,160
+to get<font color="#E5E5E5"> very very narrow and</font><font color="#CCCCCC"> you can do</font>
+
+104
+00:03:56,160 --> 00:03:57,750
+<font color="#E5E5E5">that all browsing without actually</font>
+
+105
+00:03:57,750 --> 00:03:58,859
+having to use your keyboard you could
+
+106
+00:03:58,859 --> 00:04:00,450
+<font color="#E5E5E5">just use a remote for something like</font>
+
+107
+00:04:00,450 --> 00:04:03,750
+<font color="#CCCCCC">that so we do it both ways but it's very</font>
+
+108
+00:04:03,750 --> 00:04:05,700
+technology driven so we identify<font color="#E5E5E5"> the</font>
+
+109
+00:04:05,700 --> 00:04:07,709
+sources that<font color="#E5E5E5"> we want in our system and</font>
+
+110
+00:04:07,709 --> 00:04:09,510
+then everything<font color="#E5E5E5"> from their own is all</font>
+
+111
+00:04:09,510 --> 00:04:11,579
+<font color="#E5E5E5">technology-based it's all automated to</font>
+
+112
+00:04:11,579 --> 00:04:13,829
+maintain an understanding of what's
+
+113
+00:04:13,829 --> 00:04:16,079
+available what's changing for example
+
+114
+00:04:16,079 --> 00:04:18,709
+<font color="#CCCCCC">right now it's very</font><font color="#E5E5E5"> unpredictable and</font>
+
+115
+00:04:18,709 --> 00:04:21,478
+seinfeld is a great example it's not an
+
+116
+00:04:21,478 --> 00:04:22,889
+NBC it's actually hosted on
+
+117
+00:04:22,889 --> 00:04:25,830
+TBS and they have six to<font color="#CCCCCC"> ten episodes</font><font color="#E5E5E5"> at</font>
+
+118
+00:04:25,830 --> 00:04:27,509
+a time they come up<font color="#E5E5E5"> and down off the web</font>
+
+119
+00:04:27,509 --> 00:04:30,210
+and very random fashion and so clicker
+
+120
+00:04:30,210 --> 00:04:31,740
+stays on top of that<font color="#E5E5E5"> all automated</font>
+
+121
+00:04:31,740 --> 00:04:33,870
+without people having to kind of do that
+
+122
+00:04:33,870 --> 00:04:35,969
+and we do that across thousands<font color="#E5E5E5"> of shows</font>
+
+123
+00:04:35,969 --> 00:04:37,680
+across thousands of<font color="#E5E5E5"> different websites</font>
+
+124
+00:04:37,680 --> 00:04:39,210
+so the<font color="#CCCCCC"> way it's fragmented</font><font color="#E5E5E5"> right now</font>
+
+125
+00:04:39,210 --> 00:04:41,219
+that's one way for<font color="#E5E5E5"> the user to</font><font color="#CCCCCC"> not have</font>
+
+126
+00:04:41,219 --> 00:04:43,469
+to<font color="#E5E5E5"> worry about what you know of these 50</font>
+
+127
+00:04:43,469 --> 00:04:45,120
+websites I need to go to to find where
+
+128
+00:04:45,120 --> 00:04:46,919
+signs old is playing your kind of
+
+129
+00:04:46,919 --> 00:04:48,240
+pulling it all into<font color="#CCCCCC"> one place we're</font>
+
+130
+00:04:48,240 --> 00:04:49,620
+talking<font color="#E5E5E5"> thousands of places where</font>
+
+131
+00:04:49,620 --> 00:04:51,029
+programming is scattered and then you
+
+132
+00:04:51,029 --> 00:04:52,949
+have the situation<font color="#CCCCCC"> where some things are</font>
+
+133
+00:04:52,949 --> 00:04:55,830
+free and some things are paid and we've
+
+134
+00:04:55,830 --> 00:04:57,539
+now integrated netflix and amazon VOD
+
+135
+00:04:57,539 --> 00:04:59,849
+<font color="#CCCCCC">will be</font><font color="#E5E5E5"> adding itunes and others in the</font>
+
+136
+00:04:59,849 --> 00:05:01,439
+future<font color="#E5E5E5"> but you know you might want to</font>
+
+137
+00:05:01,439 --> 00:05:02,879
+know<font color="#E5E5E5"> if it's not available</font><font color="#CCCCCC"> on the web</font>
+
+138
+00:05:02,879 --> 00:05:05,639
+<font color="#E5E5E5">that is</font><font color="#CCCCCC"> available if it were if you were</font>
+
+139
+00:05:05,639 --> 00:05:08,129
+to join<font color="#CCCCCC"> netflix or something and and so</font>
+
+140
+00:05:08,129 --> 00:05:10,379
+we you know we view our job is telling
+
+141
+00:05:10,379 --> 00:05:13,229
+you what's available online and whether
+
+142
+00:05:13,229 --> 00:05:14,849
+that's free or paid that's online<font color="#E5E5E5"> and</font>
+
+143
+00:05:14,849 --> 00:05:16,319
+you make the decision of where you want
+
+144
+00:05:16,319 --> 00:05:17,939
+to go<font color="#CCCCCC"> or how you want</font><font color="#E5E5E5"> to you know access</font>
+
+145
+00:05:17,939 --> 00:05:20,460
+it great thanks for<font color="#E5E5E5"> joining me Jim that</font>
+
+146
+00:05:20,460 --> 00:05:22,080
+<font color="#CCCCCC">was Jim lands owned from clicker check</font>
+
+147
+00:05:22,080 --> 00:00:00,000
+it out
+

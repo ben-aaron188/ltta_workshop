@@ -1,0 +1,532 @@
+1
+00:00:00,380 --> 00:00:03,689
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> Congress today a House subcommittee</font>
+
+2
+00:00:03,689 --> 00:00:05,609
+approved draft legislation that would
+
+3
+00:00:05,609 --> 00:00:07,529
+allow<font color="#E5E5E5"> manufacturers</font><font color="#CCCCCC"> to put up to a</font>
+
+4
+00:00:07,529 --> 00:00:09,660
+hundred thousand driverless vehicles per
+
+5
+00:00:09,660 --> 00:00:12,269
+year<font color="#CCCCCC"> on</font><font color="#E5E5E5"> the road it's a step</font><font color="#CCCCCC"> towards</font>
+
+6
+00:00:12,269 --> 00:00:14,490
+robots replacing<font color="#E5E5E5"> us behind the wheel and</font>
+
+7
+00:00:14,490 --> 00:00:16,789
+phasing out taxi and truck drivers
+
+8
+00:00:16,789 --> 00:00:19,890
+<font color="#E5E5E5">that's a ways off but there's one robot</font>
+
+9
+00:00:19,890 --> 00:00:21,990
+<font color="#E5E5E5">named Sam who doesn't need anyone's</font>
+
+10
+00:00:21,990 --> 00:00:23,369
+permission<font color="#E5E5E5"> to operate</font>
+
+11
+00:00:23,369 --> 00:00:26,580
+Sam's a bricklayer and is<font color="#E5E5E5"> very good at</font>
+
+12
+00:00:26,580 --> 00:00:34,710
+its job this<font color="#E5E5E5"> is Sam it's a robot put</font>
+
+13
+00:00:34,710 --> 00:00:36,630
+together<font color="#E5E5E5"> with off-the-shelf parts by a</font>
+
+14
+00:00:36,630 --> 00:00:39,480
+company called construction<font color="#E5E5E5"> robotics it</font>
+
+15
+00:00:39,480 --> 00:00:41,190
+looks more<font color="#E5E5E5"> like a chest freezer than</font>
+
+16
+00:00:41,190 --> 00:00:44,160
+<font color="#E5E5E5">c-3po but it can lay more than</font><font color="#CCCCCC"> 3,000</font>
+
+17
+00:00:44,160 --> 00:00:46,829
+bricks a day<font color="#E5E5E5"> once it gets going the best</font>
+
+18
+00:00:46,829 --> 00:00:50,160
+human<font color="#CCCCCC"> Masons</font><font color="#E5E5E5"> can do about 1,000 and Sam</font>
+
+19
+00:00:50,160 --> 00:00:52,079
+<font color="#E5E5E5">never makes</font><font color="#CCCCCC"> mistakes</font><font color="#E5E5E5"> or gets tired</font>
+
+20
+00:00:52,079 --> 00:00:55,050
+the company has six of them building
+
+21
+00:00:55,050 --> 00:00:57,660
+walls<font color="#E5E5E5"> across America the efficiency on</font>
+
+22
+00:00:57,660 --> 00:00:59,100
+<font color="#E5E5E5">construction</font><font color="#CCCCCC"> sites has been very</font>
+
+23
+00:00:59,100 --> 00:01:01,829
+stagnant<font color="#CCCCCC"> or declined in the</font><font color="#E5E5E5"> last</font><font color="#CCCCCC"> 20 30</font>
+
+24
+00:01:01,829 --> 00:01:04,229
+<font color="#E5E5E5">years whereas manufacturing efficiency</font>
+
+25
+00:01:04,229 --> 00:01:06,540
+has<font color="#CCCCCC"> increased significantly a lot of</font>
+
+26
+00:01:06,540 --> 00:01:08,220
+that is due to robotics and<font color="#E5E5E5"> technologies</font>
+
+27
+00:01:08,220 --> 00:01:09,750
+<font color="#CCCCCC">we looked at a</font><font color="#E5E5E5"> lot of different</font>
+
+28
+00:01:09,750 --> 00:01:11,610
+<font color="#CCCCCC">applications</font><font color="#E5E5E5"> and tried</font><font color="#CCCCCC"> to hone in on</font>
+
+29
+00:01:11,610 --> 00:01:13,920
+areas<font color="#E5E5E5"> where you had repetitive motion a</font>
+
+30
+00:01:13,920 --> 00:01:16,049
+lot<font color="#E5E5E5"> of physical activity</font><font color="#CCCCCC"> what are the</font>
+
+31
+00:01:16,049 --> 00:01:17,430
+pieces<font color="#E5E5E5"> that</font><font color="#CCCCCC"> make it up and how do they</font>
+
+32
+00:01:17,430 --> 00:01:19,650
+<font color="#E5E5E5">work together to</font><font color="#CCCCCC"> help it lay a wall we</font>
+
+33
+00:01:19,650 --> 00:01:21,720
+have some<font color="#CCCCCC"> fencing technology that</font><font color="#E5E5E5"> looks</font>
+
+34
+00:01:21,720 --> 00:01:23,490
+at<font color="#CCCCCC"> the</font><font color="#E5E5E5"> laser that's mounted to the</font><font color="#CCCCCC"> wall</font>
+
+35
+00:01:23,490 --> 00:01:25,380
+on the story pole system<font color="#E5E5E5"> corrects</font><font color="#CCCCCC"> for</font>
+
+36
+00:01:25,380 --> 00:01:26,580
+the movement on the scaffold puts the
+
+37
+00:01:26,580 --> 00:01:28,170
+brick right where it's<font color="#E5E5E5"> supposed to go we</font>
+
+38
+00:01:28,170 --> 00:01:29,880
+have a mortar system<font color="#E5E5E5"> that tempers</font><font color="#CCCCCC"> the</font>
+
+39
+00:01:29,880 --> 00:01:31,500
+mortar<font color="#E5E5E5"> measures the mortar and applies</font>
+
+40
+00:01:31,500 --> 00:01:33,420
+the mortar to<font color="#E5E5E5"> the brick we have a bunch</font>
+
+41
+00:01:33,420 --> 00:01:35,460
+of electronics<font color="#CCCCCC"> a bunch of</font><font color="#E5E5E5"> sensors and</font>
+
+42
+00:01:35,460 --> 00:01:37,110
+then<font color="#CCCCCC"> onboard</font><font color="#E5E5E5"> power that's all there is</font>
+
+43
+00:01:37,110 --> 00:01:39,960
+<font color="#E5E5E5">to it the day I was there Sam</font><font color="#CCCCCC"> made a</font>
+
+44
+00:01:39,960 --> 00:01:41,579
+record<font color="#CCCCCC"> three thousand two hundred and</font>
+
+45
+00:01:41,579 --> 00:01:44,009
+<font color="#CCCCCC">sixty-seven bricks in eight hours</font><font color="#E5E5E5"> so the</font>
+
+46
+00:01:44,009 --> 00:01:45,869
+<font color="#E5E5E5">robot still requires at least two human</font>
+
+47
+00:01:45,869 --> 00:01:48,000
+beings<font color="#E5E5E5"> to do finishing work and feed</font><font color="#CCCCCC"> at</font>
+
+48
+00:01:48,000 --> 00:01:49,710
+bricks and mortar as it moves along<font color="#E5E5E5"> this</font>
+
+49
+00:01:49,710 --> 00:01:53,070
+<font color="#CCCCCC">castle overall</font><font color="#E5E5E5"> the robot has laid 50,000</font>
+
+50
+00:01:53,070 --> 00:01:55,920
+bricks on the<font color="#E5E5E5"> site since June first so</font>
+
+51
+00:01:55,920 --> 00:01:57,149
+if we're looking<font color="#CCCCCC"> at a construction</font><font color="#E5E5E5"> site</font>
+
+52
+00:01:57,149 --> 00:01:59,939
+and<font color="#CCCCCC"> 15 20 years how does</font><font color="#E5E5E5"> it look</font>
+
+53
+00:01:59,939 --> 00:02:01,439
+different<font color="#E5E5E5"> today they'll probably be</font>
+
+54
+00:02:01,439 --> 00:02:03,630
+maybe<font color="#CCCCCC"> a</font><font color="#E5E5E5"> little bit less</font><font color="#CCCCCC"> workers but</font>
+
+55
+00:02:03,630 --> 00:02:05,759
+really it's about<font color="#E5E5E5"> smarter and more</font>
+
+56
+00:02:05,759 --> 00:02:07,020
+efficient<font color="#CCCCCC"> equipment does that give you</font>
+
+57
+00:02:07,020 --> 00:02:09,598
+<font color="#E5E5E5">any</font><font color="#CCCCCC"> poles when</font><font color="#E5E5E5"> you develop Robo we look</font>
+
+58
+00:02:09,598 --> 00:02:11,610
+at<font color="#E5E5E5"> jobsite robots in particular as</font>
+
+59
+00:02:11,610 --> 00:02:13,840
+really a way to augment the work
+
+60
+00:02:13,840 --> 00:02:16,360
+but I mean with respect<font color="#CCCCCC"> every industry</font>
+
+61
+00:02:16,360 --> 00:02:18,459
+<font color="#E5E5E5">that starts to automate has that same</font>
+
+62
+00:02:18,459 --> 00:02:20,110
+line<font color="#CCCCCC"> they say it's going</font><font color="#E5E5E5"> to augment the</font>
+
+63
+00:02:20,110 --> 00:02:21,459
+worker and of course for a little while
+
+64
+00:02:21,459 --> 00:02:23,200
+it does or meant the<font color="#CCCCCC"> work that sure but</font>
+
+65
+00:02:23,200 --> 00:02:24,940
+in five years time if you have your way
+
+66
+00:02:24,940 --> 00:02:26,620
+if<font color="#CCCCCC"> you're robotic so much more efficient</font>
+
+67
+00:02:26,620 --> 00:02:29,830
+and so much more<font color="#E5E5E5"> cost-efficient maybe</font>
+
+68
+00:02:29,830 --> 00:02:31,690
+that augmentation slips into something<font color="#CCCCCC"> a</font>
+
+69
+00:02:31,690 --> 00:02:32,680
+<font color="#E5E5E5">little different</font>
+
+70
+00:02:32,680 --> 00:02:34,060
+there's a huge amount<font color="#CCCCCC"> of variation on a</font>
+
+71
+00:02:34,060 --> 00:02:36,849
+<font color="#CCCCCC">jobsite</font><font color="#E5E5E5"> and I see humans continuing to</font>
+
+72
+00:02:36,849 --> 00:02:39,370
+be part of the loop for<font color="#CCCCCC"> a long time the</font>
+
+73
+00:02:39,370 --> 00:02:41,140
+truth about robots is<font color="#E5E5E5"> that nobody</font>
+
+74
+00:02:41,140 --> 00:02:43,629
+completely knows when or<font color="#CCCCCC"> even how they</font>
+
+75
+00:02:43,629 --> 00:02:45,480
+will start to<font color="#E5E5E5"> truly affect</font><font color="#CCCCCC"> the economy</font>
+
+76
+00:02:45,480 --> 00:02:48,160
+the consulting company McKinsey said
+
+77
+00:02:48,160 --> 00:02:49,930
+earlier this year<font color="#E5E5E5"> that more than</font><font color="#CCCCCC"> half of</font>
+
+78
+00:02:49,930 --> 00:02:51,640
+the<font color="#E5E5E5"> US economy could be automated by</font>
+
+79
+00:02:51,640 --> 00:02:52,690
+2055
+
+80
+00:02:52,690 --> 00:02:55,030
+but that prediction<font color="#E5E5E5"> McKinsey warned</font>
+
+81
+00:02:55,030 --> 00:02:56,920
+<font color="#E5E5E5">might be out by 20 years in either</font>
+
+82
+00:02:56,920 --> 00:02:59,349
+direction<font color="#CCCCCC"> those on</font><font color="#E5E5E5"> the front lines</font>
+
+83
+00:02:59,349 --> 00:03:01,599
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> Masons on the site had</font><font color="#E5E5E5"> very</font>
+
+84
+00:03:01,599 --> 00:03:02,950
+different views<font color="#CCCCCC"> about</font><font color="#E5E5E5"> Sam</font>
+
+85
+00:03:02,950 --> 00:03:05,470
+how many brick can you lay in a day fire
+
+86
+00:03:05,470 --> 00:03:07,180
+<font color="#E5E5E5">girl IRA awfully right here we're</font>
+
+87
+00:03:07,180 --> 00:03:10,140
+<font color="#CCCCCC">talking</font><font color="#E5E5E5"> about my</font><font color="#CCCCCC"> Condor have you seen</font>
+
+88
+00:03:10,140 --> 00:03:13,599
+robot up<font color="#E5E5E5"> there machine is good for a</font>
+
+89
+00:03:13,599 --> 00:03:16,540
+long war but I don't see<font color="#CCCCCC"> going worth any</font>
+
+90
+00:03:16,540 --> 00:03:19,510
+<font color="#CCCCCC">more right now</font><font color="#E5E5E5"> architects and everybody</font>
+
+91
+00:03:19,510 --> 00:03:22,440
+is concentrate to have difficulty<font color="#CCCCCC"> of</font>
+
+92
+00:03:22,440 --> 00:03:26,139
+more pieces<font color="#E5E5E5"> does it worry you not really</font>
+
+93
+00:03:26,139 --> 00:03:30,250
+<font color="#CCCCCC">I think that Robert is not</font><font color="#E5E5E5"> super fast</font>
+
+94
+00:03:30,250 --> 00:03:33,519
+<font color="#CCCCCC">too many men to take care of the machine</font>
+
+95
+00:03:33,519 --> 00:03:36,040
+<font color="#E5E5E5">by the time you said all the lasers and</font>
+
+96
+00:03:36,040 --> 00:03:39,090
+<font color="#CCCCCC">all this stuff take too much time I</font>
+
+97
+00:03:39,090 --> 00:03:41,200
+don't<font color="#CCCCCC"> know how many</font><font color="#E5E5E5"> years is going</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be</font>
+
+98
+00:03:41,200 --> 00:03:44,980
+<font color="#CCCCCC">taking too before we</font><font color="#E5E5E5"> lose yeah</font><font color="#CCCCCC"> it's</font>
+
+99
+00:03:44,980 --> 00:03:48,489
+<font color="#E5E5E5">going to</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> long time are you worried</font>
+
+100
+00:03:48,489 --> 00:03:50,500
+about your<font color="#CCCCCC"> job</font><font color="#E5E5E5"> in the future</font>
+
+101
+00:03:50,500 --> 00:03:53,410
+si como invent our own aura estimate
+
+102
+00:03:53,410 --> 00:03:55,620
+<font color="#E5E5E5">inna petrol</font><font color="#CCCCCC"> harlequin el futuro</font>
+
+103
+00:03:55,620 --> 00:03:59,410
+<font color="#E5E5E5">inventing algo trabajo so traumatic inna</font>
+
+104
+00:03:59,410 --> 00:04:02,739
+que que que ayuda<font color="#CCCCCC"> a la misma machina</font>
+
+105
+00:04:02,739 --> 00:04:05,739
+<font color="#E5E5E5">element</font><font color="#CCCCCC"> RL in theatres told me that Sam</font>
+
+106
+00:04:05,739 --> 00:04:07,480
+has doubled in speed in the few<font color="#CCCCCC"> years of</font>
+
+107
+00:04:07,480 --> 00:04:09,220
+construction robotics<font color="#E5E5E5"> been working on it</font>
+
+108
+00:04:09,220 --> 00:04:10,930
+and<font color="#E5E5E5"> that the company is</font><font color="#CCCCCC"> currently</font>
+
+109
+00:04:10,930 --> 00:04:12,819
+building other robots to augment
+
+110
+00:04:12,819 --> 00:04:15,010
+repetitive construction jobs there will
+
+111
+00:04:15,010 --> 00:04:16,209
+be a tipping point<font color="#E5E5E5"> where you</font><font color="#CCCCCC"> almost</font>
+
+112
+00:04:16,209 --> 00:04:18,099
+can't compete with the robots I think
+
+113
+00:04:18,099 --> 00:04:19,639
+from an efficiency standpoint and<font color="#E5E5E5"> in</font>
+
+114
+00:04:19,639 --> 00:04:22,280
+do a job to any level<font color="#E5E5E5"> of efficiency of</font>
+
+115
+00:04:22,280 --> 00:04:25,099
+<font color="#CCCCCC">any scale or size you will need the</font>
+
+116
+00:04:25,099 --> 00:04:27,979
+robots to<font color="#E5E5E5"> be able</font><font color="#CCCCCC"> to achieve</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> do you</font>
+
+117
+00:04:27,979 --> 00:04:29,150
+understand what that<font color="#E5E5E5"> might be a</font><font color="#CCCCCC"> little</font>
+
+118
+00:04:29,150 --> 00:04:31,879
+<font color="#CCCCCC">unsettling so</font><font color="#E5E5E5"> it makes it absolutely</font><font color="#CCCCCC"> a</font>
+
+119
+00:04:31,879 --> 00:04:34,129
+<font color="#E5E5E5">bottom line is that young</font><font color="#CCCCCC"> people don't</font>
+
+120
+00:04:34,129 --> 00:04:35,479
+want<font color="#E5E5E5"> to go into mainstream they don't</font>
+
+121
+00:04:35,479 --> 00:04:37,400
+want to go<font color="#CCCCCC"> into these hard difficult</font>
+
+122
+00:04:37,400 --> 00:04:39,740
+<font color="#E5E5E5">dangerous tasks it's that people you</font>
+
+123
+00:04:39,740 --> 00:04:42,349
+know<font color="#CCCCCC"> 50</font><font color="#E5E5E5"> years ago would absolutely love</font>
+
+124
+00:04:42,349 --> 00:04:44,749
+to<font color="#CCCCCC"> go into do you think</font><font color="#E5E5E5"> robots can</font><font color="#CCCCCC"> still</font>
+
+125
+00:04:44,749 --> 00:04:46,490
+<font color="#CCCCCC">die</font><font color="#E5E5E5"> again</font><font color="#CCCCCC"> in some cases they may</font>
+
+126
+00:04:46,490 --> 00:04:48,349
+completely fill it but<font color="#CCCCCC"> I think there'll</font>
+
+127
+00:04:48,349 --> 00:04:49,669
+be other<font color="#CCCCCC"> opportunities for</font><font color="#E5E5E5"> different</font>
+
+128
+00:04:49,669 --> 00:04:51,979
+<font color="#E5E5E5">style careers in construction as time</font>
+
+129
+00:04:51,979 --> 00:04:53,539
+goes on<font color="#E5E5E5"> it's just the job looks a little</font>
+
+130
+00:04:53,539 --> 00:04:55,009
+bit different<font color="#CCCCCC"> going down</font><font color="#E5E5E5"> the road</font>
+
+131
+00:04:55,009 --> 00:04:56,840
+<font color="#E5E5E5">because it's interacting with</font><font color="#CCCCCC"> a robot</font>
+
+132
+00:04:56,840 --> 00:05:00,470
+[Music]
+
+133
+00:05:06,030 --> 00:00:00,000
+you
+

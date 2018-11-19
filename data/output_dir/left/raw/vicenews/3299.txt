@@ -1,0 +1,472 @@
+1
+00:00:00,230 --> 00:00:02,659
+artificial<font color="#E5E5E5"> intelligence is flourishing</font>
+
+2
+00:00:02,659 --> 00:00:05,609
+<font color="#CCCCCC">with the robots we speak to like Siri</font>
+
+3
+00:00:05,609 --> 00:00:07,799
+and Alexa were all built for a specific
+
+4
+00:00:07,799 --> 00:00:08,970
+<font color="#E5E5E5">task</font>
+
+5
+00:00:08,970 --> 00:00:10,800
+like playing<font color="#E5E5E5"> music</font><font color="#CCCCCC"> or telling you about</font>
+
+6
+00:00:10,800 --> 00:00:14,160
+traffic conditions but<font color="#E5E5E5"> the holy grail of</font>
+
+7
+00:00:14,160 --> 00:00:16,740
+artificial intelligence<font color="#CCCCCC"> research is to</font>
+
+8
+00:00:16,740 --> 00:00:18,150
+create what's called a general
+
+9
+00:00:18,150 --> 00:00:20,970
+<font color="#E5E5E5">intelligence an AI with general</font>
+
+10
+00:00:20,970 --> 00:00:23,010
+intelligence could learn and perform<font color="#E5E5E5"> any</font>
+
+11
+00:00:23,010 --> 00:00:26,689
+new<font color="#CCCCCC"> task just</font><font color="#E5E5E5"> like a human</font>
+
+12
+00:00:32,000 --> 00:00:34,410
+researchers at open<font color="#E5E5E5"> AI believe there's</font>
+
+13
+00:00:34,410 --> 00:00:36,329
+an unconventional path to general
+
+14
+00:00:36,329 --> 00:00:39,840
+intelligence<font color="#E5E5E5"> video games</font><font color="#CCCCCC"> specifically a</font>
+
+15
+00:00:39,840 --> 00:00:42,480
+game called dota 2 what do we have here
+
+16
+00:00:42,480 --> 00:00:46,410
+<font color="#CCCCCC">five of our</font><font color="#E5E5E5"> internal employees playing</font>
+
+17
+00:00:46,410 --> 00:00:49,020
+against<font color="#E5E5E5"> the same opening</font><font color="#CCCCCC"> a five version</font>
+
+18
+00:00:49,020 --> 00:00:55,320
+that we just play it they're celebrating
+
+19
+00:00:55,320 --> 00:00:56,969
+<font color="#E5E5E5">because they just got a kill but it's</font>
+
+20
+00:00:56,969 --> 00:00:58,739
+<font color="#CCCCCC">ten minutes</font><font color="#E5E5E5"> in and</font><font color="#CCCCCC"> those surfer girls</font>
+
+21
+00:00:58,739 --> 00:01:00,690
+<font color="#E5E5E5">their first kill the bots have 23 kills</font>
+
+22
+00:01:00,690 --> 00:01:04,520
+and the humans<font color="#CCCCCC"> just got</font><font color="#E5E5E5"> there</font>
+
+23
+00:01:09,940 --> 00:01:12,950
+so the system<font color="#CCCCCC"> starts</font><font color="#E5E5E5"> with no knowledge</font>
+
+24
+00:01:12,950 --> 00:01:14,780
+of<font color="#E5E5E5"> the game and</font><font color="#CCCCCC"> so it first starts</font><font color="#E5E5E5"> out</font>
+
+25
+00:01:14,780 --> 00:01:16,640
+doing completely random things<font color="#E5E5E5"> and</font><font color="#CCCCCC"> just</font>
+
+26
+00:01:16,640 --> 00:01:18,020
+<font color="#CCCCCC">wandering around the map</font><font color="#E5E5E5"> and some of</font>
+
+27
+00:01:18,020 --> 00:01:19,910
+<font color="#E5E5E5">it'll do something it turns out to have</font>
+
+28
+00:01:19,910 --> 00:01:21,170
+<font color="#E5E5E5">been a good idea</font><font color="#CCCCCC"> sure and I'll get a</font>
+
+29
+00:01:21,170 --> 00:01:22,850
+<font color="#CCCCCC">little</font><font color="#E5E5E5"> bit of reward and it what the</font>
+
+30
+00:01:22,850 --> 00:01:24,830
+algorithm<font color="#CCCCCC"> does is</font><font color="#E5E5E5"> it learns</font><font color="#CCCCCC"> whatever it</font>
+
+31
+00:01:24,830 --> 00:01:26,060
+<font color="#E5E5E5">was I don't know exactly what it was</font>
+
+32
+00:01:26,060 --> 00:01:27,200
+<font color="#CCCCCC">that caused the good thing to</font><font color="#E5E5E5"> happen but</font>
+
+33
+00:01:27,200 --> 00:01:28,430
+<font color="#E5E5E5">those actions that I took around</font><font color="#CCCCCC"> that</font>
+
+34
+00:01:28,430 --> 00:01:29,930
+time<font color="#E5E5E5"> let's make a little bit more likely</font>
+
+35
+00:01:29,930 --> 00:01:32,150
+<font color="#E5E5E5">and if you just keep doing this you get</font>
+
+36
+00:01:32,150 --> 00:01:33,400
+better and<font color="#E5E5E5"> better and better</font>
+
+37
+00:01:33,400 --> 00:01:35,690
+open AI has spent the past<font color="#E5E5E5"> two years</font>
+
+38
+00:01:35,690 --> 00:01:38,930
+<font color="#E5E5E5">teaching</font><font color="#CCCCCC"> it's AI to play</font><font color="#E5E5E5"> dota2</font><font color="#CCCCCC"> and by</font>
+
+39
+00:01:38,930 --> 00:01:41,450
+using a simulator<font color="#E5E5E5"> the bot has now played</font>
+
+40
+00:01:41,450 --> 00:01:44,060
+more than<font color="#CCCCCC"> 17 thousand years of</font><font color="#E5E5E5"> practice</font>
+
+41
+00:01:44,060 --> 00:01:57,320
+games gaming<font color="#CCCCCC"> now it's going up against</font>
+
+42
+00:01:57,320 --> 00:01:59,150
+the game's best<font color="#E5E5E5"> players in</font><font color="#CCCCCC"> the biggest</font>
+
+43
+00:01:59,150 --> 00:02:01,880
+<font color="#CCCCCC">eSports tournament in the world</font><font color="#E5E5E5"> this is</font>
+
+44
+00:02:01,880 --> 00:02:04,520
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> International it's a huge eSports</font>
+
+45
+00:02:04,520 --> 00:02:06,080
+<font color="#CCCCCC">tournament with a twenty five million</font>
+
+46
+00:02:06,080 --> 00:02:09,229
+<font color="#E5E5E5">dollar prize</font><font color="#CCCCCC"> pool how I think I'll be a</font>
+
+47
+00:02:09,229 --> 00:02:10,729
+big milestone<font color="#CCCCCC"> right I</font><font color="#E5E5E5"> think that that is</font>
+
+48
+00:02:10,729 --> 00:02:12,709
+that<font color="#E5E5E5"> is</font><font color="#CCCCCC"> the moment where you can</font><font color="#E5E5E5"> really</font>
+
+49
+00:02:12,709 --> 00:02:15,160
+say that<font color="#E5E5E5"> our system is a world-class</font>
+
+50
+00:02:15,160 --> 00:02:18,160
+<font color="#E5E5E5">eSports</font>
+
+51
+00:02:18,420 --> 00:02:23,110
+in 1996<font color="#E5E5E5"> IBM tested</font><font color="#CCCCCC"> deep-blue begins</font>
+
+52
+00:02:23,110 --> 00:02:25,540
+garry kasparov<font color="#E5E5E5"> and what now seems like</font>
+
+53
+00:02:25,540 --> 00:02:28,720
+<font color="#CCCCCC">the dark ages</font><font color="#E5E5E5"> of AI but deep blue was</font>
+
+54
+00:02:28,720 --> 00:02:31,240
+barely<font color="#E5E5E5"> even artificial intelligence it</font>
+
+55
+00:02:31,240 --> 00:02:33,310
+wasn't so much<font color="#E5E5E5"> teaching a</font><font color="#CCCCCC"> computer to</font>
+
+56
+00:02:33,310 --> 00:02:35,260
+think about the game<font color="#CCCCCC"> of chess</font><font color="#E5E5E5"> or to</font>
+
+57
+00:02:35,260 --> 00:02:37,870
+anticipate<font color="#E5E5E5"> Kasparov moves but relied on</font>
+
+58
+00:02:37,870 --> 00:02:40,660
+<font color="#E5E5E5">brute force computing power to</font><font color="#CCCCCC"> pick the</font>
+
+59
+00:02:40,660 --> 00:02:42,850
+<font color="#E5E5E5">best move in the moment and showed what</font>
+
+60
+00:02:42,850 --> 00:02:45,390
+<font color="#CCCCCC">AI might be able</font><font color="#E5E5E5"> to do in the future</font>
+
+61
+00:02:45,390 --> 00:02:48,250
+open a I on the other hand<font color="#E5E5E5"> hopes to</font>
+
+62
+00:02:48,250 --> 00:02:49,840
+leverage what's known as deep learning
+
+63
+00:02:49,840 --> 00:02:51,820
+<font color="#CCCCCC">to find out</font><font color="#E5E5E5"> more efficient ways to</font>
+
+64
+00:02:51,820 --> 00:02:53,710
+<font color="#CCCCCC">actually train</font><font color="#E5E5E5"> an artificial</font>
+
+65
+00:02:53,710 --> 00:02:55,570
+intelligence in the huge amount of
+
+66
+00:02:55,570 --> 00:02:57,730
+<font color="#E5E5E5">servers that power it to do whatever its</font>
+
+67
+00:02:57,730 --> 00:03:00,910
+designers choose faster than ever<font color="#E5E5E5"> when</font>
+
+68
+00:03:00,910 --> 00:03:03,100
+<font color="#E5E5E5">it's bought plays dota the computer is</font>
+
+69
+00:03:03,100 --> 00:03:05,530
+leaning<font color="#CCCCCC"> on a well-trained brain instead</font>
+
+70
+00:03:05,530 --> 00:03:08,490
+of massive<font color="#CCCCCC"> amounts</font><font color="#E5E5E5"> of computing power</font>
+
+71
+00:03:08,490 --> 00:03:11,590
+<font color="#E5E5E5">this is gonna be the best team that</font><font color="#CCCCCC"> we</font>
+
+72
+00:03:11,590 --> 00:03:14,970
+have played in<font color="#CCCCCC"> public</font><font color="#E5E5E5"> by far all</font><font color="#CCCCCC"> right</font>
+
+73
+00:03:14,970 --> 00:03:20,809
+[Music]
+
+74
+00:03:20,920 --> 00:03:23,780
+they have a chance<font color="#E5E5E5"> to represent you and</font>
+
+75
+00:03:23,780 --> 00:03:26,660
+kind<font color="#CCCCCC"> overall in this</font><font color="#E5E5E5"> next matchup</font><font color="#CCCCCC"> and</font>
+
+76
+00:03:26,660 --> 00:03:28,460
+their opponents will be<font color="#E5E5E5"> none other than</font>
+
+77
+00:03:28,460 --> 00:03:31,720
+<font color="#E5E5E5">open</font><font color="#CCCCCC"> a i-5</font>
+
+78
+00:03:35,760 --> 00:03:38,800
+humans against opening<font color="#CCCCCC"> I five the game</font>
+
+79
+00:03:38,800 --> 00:03:41,170
+started off<font color="#E5E5E5"> well enough for open</font><font color="#CCCCCC"> area as</font>
+
+80
+00:03:41,170 --> 00:03:43,450
+it was<font color="#CCCCCC"> able to</font><font color="#E5E5E5"> hold its own versus pro</font>
+
+81
+00:03:43,450 --> 00:03:44,019
+player
+
+82
+00:03:44,019 --> 00:03:46,510
+there you see<font color="#E5E5E5"> opening a five perfect</font>
+
+83
+00:03:46,510 --> 00:03:49,120
+calculations<font color="#E5E5E5"> tag on</font><font color="#CCCCCC"> each of dogs that</font>
+
+84
+00:03:49,120 --> 00:03:55,480
+<font color="#CCCCCC">evens and opening</font><font color="#E5E5E5"> a five</font><font color="#CCCCCC"> width</font><font color="#E5E5E5"> of fights</font>
+
+85
+00:03:55,480 --> 00:03:57,760
+<font color="#CCCCCC">underneath the tier 1 tower</font><font color="#E5E5E5"> this is</font>
+
+86
+00:03:57,760 --> 00:03:59,470
+where we<font color="#E5E5E5"> can really turn the game right</font>
+
+87
+00:03:59,470 --> 00:04:00,700
+<font color="#E5E5E5">it's like when you really start to</font><font color="#CCCCCC"> do a</font>
+
+88
+00:04:00,700 --> 00:04:02,290
+<font color="#CCCCCC">teamfight</font><font color="#E5E5E5"> that's where we really excel</font>
+
+89
+00:04:02,290 --> 00:04:03,819
+<font color="#E5E5E5">so I know just a minute ago said we're</font>
+
+90
+00:04:03,819 --> 00:04:08,290
+gonna<font color="#E5E5E5"> lose so we still</font><font color="#CCCCCC"> might seems like</font>
+
+91
+00:04:08,290 --> 00:04:09,849
+opening on<font color="#E5E5E5"> five once they're losing they</font>
+
+92
+00:04:09,849 --> 00:04:11,440
+struggle<font color="#CCCCCC"> to build find ways back</font><font color="#E5E5E5"> it's</font>
+
+93
+00:04:11,440 --> 00:04:12,069
+<font color="#E5E5E5">the game</font>
+
+94
+00:04:12,069 --> 00:04:16,089
+we<font color="#E5E5E5"> saw but then it got crushed whoa is</font>
+
+95
+00:04:16,089 --> 00:04:17,829
+to open a<font color="#E5E5E5"> I should talking that we used</font>
+
+96
+00:04:17,829 --> 00:04:20,649
+to see<font color="#E5E5E5"> the AI</font><font color="#CCCCCC"> made some really bizarre</font>
+
+97
+00:04:20,649 --> 00:04:23,350
+decisions that the developers could have
+
+98
+00:04:23,350 --> 00:04:25,900
+programmed it and not to do but if they
+
+99
+00:04:25,900 --> 00:04:29,020
+did that it wouldn't really be<font color="#CCCCCC"> AI since</font>
+
+100
+00:04:29,020 --> 00:04:31,389
+<font color="#E5E5E5">this AI teaches itself to play the game</font>
+
+101
+00:04:31,389 --> 00:04:33,280
+<font color="#E5E5E5">through trial and error</font><font color="#CCCCCC"> it's five dead</font>
+
+102
+00:04:33,280 --> 00:04:36,810
+<font color="#CCCCCC">and pain gaming</font><font color="#E5E5E5"> have won the first game</font>
+
+103
+00:04:36,810 --> 00:04:41,190
+against<font color="#E5E5E5"> open AI</font><font color="#CCCCCC"> five</font>
+
+104
+00:04:42,850 --> 00:04:44,999
+[Applause]
+
+105
+00:04:44,999 --> 00:04:46,649
+most<font color="#E5E5E5"> to Sheldon at least there are some</font>
+
+106
+00:04:46,649 --> 00:04:48,509
+humans<font color="#E5E5E5"> confident up to beat the open</font><font color="#CCCCCC"> AI</font>
+
+107
+00:04:48,509 --> 00:04:52,860
+<font color="#CCCCCC">five open AI ultimately lost all of its</font>
+
+108
+00:04:52,860 --> 00:04:55,679
+matches against professional teams<font color="#E5E5E5"> but</font>
+
+109
+00:04:55,679 --> 00:04:57,869
+five<font color="#E5E5E5"> months ago</font><font color="#CCCCCC"> the bots couldn't beat</font>
+
+110
+00:04:57,869 --> 00:04:59,849
+the team of five random people pulled
+
+111
+00:04:59,849 --> 00:05:02,759
+off the street<font color="#E5E5E5"> now</font><font color="#CCCCCC"> their bot beats</font>
+
+112
+00:05:02,759 --> 00:05:05,189
+players rang through the<font color="#CCCCCC"> 99</font><font color="#E5E5E5"> foot 95th</font>
+
+113
+00:05:05,189 --> 00:05:08,309
+percentile<font color="#CCCCCC"> so you're able to</font><font color="#E5E5E5"> play a 5 to</font>
+
+114
+00:05:08,309 --> 00:05:09,809
+<font color="#E5E5E5">5 game</font><font color="#CCCCCC"> that's right at the World</font>
+
+115
+00:05:09,809 --> 00:05:12,179
+<font color="#CCCCCC">Championship</font><font color="#E5E5E5"> yes what's after that we're</font>
+
+116
+00:05:12,179 --> 00:05:14,129
+still<font color="#CCCCCC"> not the world champion</font><font color="#E5E5E5"> and I think</font>
+
+117
+00:05:14,129 --> 00:05:17,269
+that's a really important next<font color="#E5E5E5"> step</font>
+
+118
+00:05:28,230 --> 00:00:00,000
+you
+

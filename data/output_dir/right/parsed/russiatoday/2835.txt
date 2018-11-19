@@ -1,0 +1,62 @@
+elsewhere virtually all computers
+including smartphones and tablets it
+seems to at risk now two major security
+flaws discovered in processing chips no
+breaches have been reported yet but the
+bugs could potentially allow hackers to
+get hold of users passwords photos and
+emails both floors apparently work by
+exploiting the way your device handles
+your data it's supposed to be isolated
+and locked up but this meltdown bug
+potentially lets hackers grab it while
+it's being sent to apps requesting it
+the problem affects Intel chips used by
+almost all Apple devices the specter bug
+meantime works a bit differently but
+affects almost all machines and
+cloud-based servers it tricks
+applications into leaking your private
+info scary makes it harder to fix the
+floor now in late November it appears
+Intel's CEO sold off a large chunk of
+his shares after he was apparently made
+aware of the problem with the chips
+Igor's Danoff takes a closer look at the
+extent of the threat posed by these new
+security flaws here's a safe bet if you
+own a computer or a smartphone a
+newfound vulnerability has almost
+certainly opened the gates to your most
+intimate information whether you have a
+PC a Mac a Linux run computer or an
+Android phone it doesn't matter this
+hole could be built in to billions of
+devices worldwide have some pictures
+you're not too proud of well a hacker
+can access an awful lot more your
+passwords encryption keys emails and
+cached files all of the above from the
+comfort of their living room you can
+slip onto a malicious website have your
+private data exposed and you won't even
+know about it a perfect crime security
+experts say the attack leaves no traces
+behind what's particularly embarrassing
+normally companies won't publish this
+kind of information until a fix has been
+released
+this time however someone's been
+trigger-happy with sharing the problem
+which means hack is everywhere now know
+about it too while security updates are
+only beginning to come out and the fix
+itself is expected to come for many at a
+cost
+researchers say computers that came out
+just three years ago could suffer up to
+a 30% performance tumble
+factories of course are downplaying the
+potential impact saying the average user
+won't notice the difference
+Igor's done of Artie

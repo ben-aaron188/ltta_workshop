@@ -1,0 +1,812 @@
+1
+00:00:00,089 --> 00:00:01,949
+which means that the<font color="#E5E5E5"> Rockets internal</font>
+
+2
+00:00:01,949 --> 00:00:03,600
+flight computers have taken over<font color="#E5E5E5"> the</font>
+
+3
+00:00:03,600 --> 00:00:07,170
+countdown<font color="#E5E5E5"> one more interesting change</font>
+
+4
+00:00:07,170 --> 00:00:09,570
+<font color="#E5E5E5">for this mission</font><font color="#CCCCCC"> in particular relates</font>
+
+5
+00:00:09,570 --> 00:00:11,429
+to how we're using<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Merlin engines</font><font color="#E5E5E5"> in</font>
+
+6
+00:00:11,429 --> 00:00:13,799
+block 4<font color="#E5E5E5"> the engines were used with a</font>
+
+7
+00:00:13,799 --> 00:00:16,350
+<font color="#E5E5E5">constant chamber pressure and because</font>
+
+8
+00:00:16,350 --> 00:00:18,570
+<font color="#E5E5E5">engine thrust depends on both chamber</font>
+
+9
+00:00:18,570 --> 00:00:20,730
+pressure<font color="#E5E5E5"> and external atmospheric</font>
+
+10
+00:00:20,730 --> 00:00:22,680
+pressure<font color="#E5E5E5"> the engine thrust would slowly</font>
+
+11
+00:00:22,680 --> 00:00:24,900
+<font color="#E5E5E5">increase by up</font><font color="#CCCCCC"> to ten or fifteen</font>
+
+12
+00:00:24,900 --> 00:00:27,590
+<font color="#CCCCCC">thousand pounds per</font><font color="#E5E5E5"> engine during ascent</font>
+
+13
+00:00:27,590 --> 00:00:30,750
+<font color="#E5E5E5">so the difference is here is that</font><font color="#CCCCCC"> for</font>
+
+14
+00:00:30,750 --> 00:00:32,219
+block five we'll be maintaining<font color="#CCCCCC"> a</font>
+
+15
+00:00:32,219 --> 00:00:34,260
+constant<font color="#E5E5E5"> thrust of a</font><font color="#CCCCCC"> hundred</font><font color="#E5E5E5"> and ninety</font>
+
+16
+00:00:34,260 --> 00:00:37,079
+thousand pound force until<font color="#CCCCCC"> cutoff which</font>
+
+17
+00:00:37,079 --> 00:00:39,000
+<font color="#E5E5E5">means that</font><font color="#CCCCCC"> we'll be</font><font color="#E5E5E5"> slowly decreasing</font>
+
+18
+00:00:39,000 --> 00:00:40,739
+the<font color="#CCCCCC"> engines chamber pressures over time</font>
+
+19
+00:00:40,739 --> 00:00:42,390
+in order<font color="#E5E5E5"> to compensate for the</font>
+
+20
+00:00:42,390 --> 00:00:44,550
+<font color="#E5E5E5">decreasing atmospheric pressure during</font>
+
+21
+00:00:44,550 --> 00:00:45,240
+that ascent
+
+22
+00:00:45,240 --> 00:00:54,710
+[Applause]
+
+23
+00:00:54,710 --> 00:00:57,950
+again for today's mission<font color="#CCCCCC"> we</font><font color="#E5E5E5"> are looking</font>
+
+24
+00:00:57,950 --> 00:01:00,580
+to recover the first stage<font color="#E5E5E5"> this</font><font color="#CCCCCC"> is the</font>
+
+25
+00:01:00,580 --> 00:01:03,680
+fully reusable version of the block<font color="#CCCCCC"> 5</font>
+
+26
+00:01:03,680 --> 00:01:07,130
+rocket<font color="#CCCCCC"> at least 10 times</font><font color="#E5E5E5"> reuse and</font>
+
+27
+00:01:07,130 --> 00:01:09,740
+potentially up to<font color="#CCCCCC"> a hundred the drone</font>
+
+28
+00:01:09,740 --> 00:01:11,360
+ship<font color="#CCCCCC"> of</font><font color="#E5E5E5"> course I still</font><font color="#CCCCCC"> love you is</font>
+
+29
+00:01:11,360 --> 00:01:13,700
+<font color="#E5E5E5">currently on standby in the Atlantic</font>
+
+30
+00:01:13,700 --> 00:01:16,729
+Ocean<font color="#CCCCCC"> ready to catch the first stage</font>
+
+31
+00:01:16,729 --> 00:01:20,150
+<font color="#E5E5E5">during its descent</font><font color="#CCCCCC"> Banga Banga</font><font color="#E5E5E5"> satellite</font>
+
+32
+00:01:20,150 --> 00:01:23,650
+<font color="#E5E5E5">one is currently looking pretty</font><font color="#CCCCCC"> healthy</font>
+
+33
+00:01:23,650 --> 00:01:27,110
+<font color="#E5E5E5">entirely healthy and we're excited to</font>
+
+34
+00:01:27,110 --> 00:01:28,670
+get that into its geostationary transfer
+
+35
+00:01:28,670 --> 00:01:36,950
+orbit the range is currently go<font color="#E5E5E5"> and the</font>
+
+36
+00:01:36,950 --> 00:01:38,960
+weather is also still<font color="#CCCCCC"> looking good</font>
+
+37
+00:01:38,960 --> 00:01:41,479
+<font color="#E5E5E5">enough for us</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> launch today at this</font>
+
+38
+00:01:41,479 --> 00:01:43,850
+point we're just<font color="#CCCCCC"> outside of t-minus</font>
+
+39
+00:01:43,850 --> 00:01:46,790
+three minutes<font color="#E5E5E5"> so let's</font><font color="#CCCCCC"> listen in to the</font>
+
+40
+00:01:46,790 --> 00:01:51,160
+last few<font color="#CCCCCC"> minutes</font><font color="#E5E5E5"> of terminal</font><font color="#CCCCCC"> count</font>
+
+41
+00:01:56,079 --> 00:01:59,880
+stage<font color="#CCCCCC"> wildlife so complete</font>
+
+42
+00:02:04,910 --> 00:02:08,758
+<font color="#CCCCCC">leave everything</font><font color="#E5E5E5"> stronger more complete</font>
+
+43
+00:02:08,758 --> 00:02:11,720
+degrees
+
+44
+00:02:29,870 --> 00:02:33,849
+since you don't<font color="#E5E5E5"> kind of old scared</font>
+
+45
+00:02:48,670 --> 00:02:52,290
+Steve<font color="#CCCCCC"> locks drama</font>
+
+46
+00:02:59,420 --> 00:03:03,319
+<font color="#CCCCCC">Stacy</font><font color="#E5E5E5"> like Oh bleep</font>
+
+47
+00:03:08,000 --> 00:03:11,740
+<font color="#CCCCCC">belly 9 is on</font><font color="#E5E5E5"> internal air</font>
+
+48
+00:03:28,370 --> 00:03:30,980
+guess<font color="#CCCCCC"> closed houses</font><font color="#E5E5E5"> running</font>
+
+49
+00:03:30,980 --> 00:03:34,260
+[Applause]
+
+50
+00:03:46,670 --> 00:03:50,290
+and one D if you Lee and Lee
+
+51
+00:04:00,310 --> 00:04:01,630
+[Applause]
+
+52
+00:04:01,630 --> 00:04:02,290
+[Music]
+
+53
+00:04:02,290 --> 00:04:06,449
+[Applause]
+
+54
+00:04:10,450 --> 00:04:12,280
+I'll be a<font color="#E5E5E5"> countdown we've had a launch</font>
+
+55
+00:04:12,280 --> 00:04:15,120
+abort sequence start
+
+56
+00:04:48,470 --> 00:04:51,050
+it looks like<font color="#E5E5E5"> just after Falcon 9</font>
+
+57
+00:04:51,050 --> 00:04:54,940
+entered startup mode<font color="#E5E5E5"> it</font><font color="#CCCCCC"> threw an abort</font>
+
+58
+00:04:54,940 --> 00:04:58,220
+<font color="#CCCCCC">we're currently</font><font color="#E5E5E5"> looking into a little</font>
+
+59
+00:04:58,220 --> 00:04:59,750
+more details to see if we're able to
+
+60
+00:04:59,750 --> 00:05:02,090
+continue<font color="#CCCCCC"> today's</font><font color="#E5E5E5"> mission</font>
+
+61
+00:05:02,090 --> 00:05:06,320
+if not we'll be using<font color="#E5E5E5"> our backup</font><font color="#CCCCCC"> date</font>
+
+62
+00:05:06,320 --> 00:05:10,030
+tomorrow<font color="#CCCCCC"> at about</font><font color="#E5E5E5"> the same time</font>
+
+63
+00:06:01,360 --> 00:06:03,790
+if you're just<font color="#CCCCCC"> joining us it appears</font><font color="#E5E5E5"> we</font>
+
+64
+00:06:03,790 --> 00:06:06,430
+have<font color="#E5E5E5"> an abort thrown by the vehicle just</font>
+
+65
+00:06:06,430 --> 00:06:08,860
+<font color="#CCCCCC">after it</font><font color="#E5E5E5"> entered</font><font color="#CCCCCC"> startup mode</font><font color="#E5E5E5"> those</font>
+
+66
+00:06:08,860 --> 00:06:10,540
+abort sequences are important to make
+
+67
+00:06:10,540 --> 00:06:12,760
+sure<font color="#CCCCCC"> that the Falcon 9 is in its best</font>
+
+68
+00:06:12,760 --> 00:06:18,970
+<font color="#E5E5E5">shape in time for any launch and so</font>
+
+69
+00:06:18,970 --> 00:06:21,010
+we're<font color="#CCCCCC"> we're much happier to</font><font color="#E5E5E5"> take those</font>
+
+70
+00:06:21,010 --> 00:06:23,770
+aborts beforehand<font color="#E5E5E5"> rather than continue</font>
+
+71
+00:06:23,770 --> 00:06:29,740
+when there's any<font color="#E5E5E5"> risk to the vehicle</font><font color="#CCCCCC"> if</font>
+
+72
+00:06:29,740 --> 00:06:31,870
+we have to go<font color="#CCCCCC"> tomorrow we'll be checking</font>
+
+73
+00:06:31,870 --> 00:06:34,810
+to<font color="#E5E5E5"> see exactly what was</font><font color="#CCCCCC"> happening that</font>
+
+74
+00:06:34,810 --> 00:06:37,000
+<font color="#E5E5E5">through the abort today</font><font color="#CCCCCC"> the backup</font>
+
+75
+00:06:37,000 --> 00:06:39,880
+launch window opens tomorrow<font color="#E5E5E5"> at 4:14</font>
+
+76
+00:06:39,880 --> 00:06:43,090
+p.m.<font color="#CCCCCC"> Eastern Time over 814 universal</font>
+
+77
+00:06:43,090 --> 00:06:45,990
+coordinated time<font color="#E5E5E5"> and closes at 6:21</font><font color="#CCCCCC"> p.m.</font>
+
+78
+00:06:45,990 --> 00:06:48,970
+Eastern Standard Time<font color="#CCCCCC"> or Eastern</font>
+
+79
+00:06:48,970 --> 00:06:51,460
+Daylight Time or<font color="#CCCCCC"> 1021</font><font color="#E5E5E5"> the universal</font>
+
+80
+00:06:51,460 --> 00:06:54,060
+coordinated time
+
+81
+00:07:01,830 --> 00:07:04,050
+<font color="#CCCCCC">I hang on for a</font><font color="#E5E5E5"> few more moments we're</font>
+
+82
+00:07:04,050 --> 00:07:05,760
+waiting for<font color="#CCCCCC"> official word from the</font>
+
+83
+00:07:05,760 --> 00:07:07,200
+<font color="#E5E5E5">countdown net and we'll get back to</font><font color="#CCCCCC"> you</font>
+
+84
+00:07:07,200 --> 00:07:09,380
+<font color="#CCCCCC">shortly</font>
+
+85
+00:08:33,630 --> 00:08:36,120
+again if you're just<font color="#CCCCCC"> joining us</font><font color="#E5E5E5"> we had</font>
+
+86
+00:08:36,120 --> 00:08:38,159
+an abort just before<font color="#CCCCCC"> our predicted</font>
+
+87
+00:08:38,159 --> 00:08:41,818
+launch time of<font color="#E5E5E5"> 547 p.m. Eastern Time</font>
+
+88
+00:08:41,818 --> 00:08:43,620
+these are an important part of making
+
+89
+00:08:43,620 --> 00:08:44,970
+sure<font color="#CCCCCC"> that</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> vehicle is healthy</font><font color="#E5E5E5"> for</font>
+
+90
+00:08:44,970 --> 00:08:47,480
+launch<font color="#CCCCCC"> at this time we are currently</font>
+
+91
+00:08:47,480 --> 00:08:50,370
+looking<font color="#CCCCCC"> to</font><font color="#E5E5E5"> discover the cause of the</font>
+
+92
+00:08:50,370 --> 00:08:52,759
+abort
+
+93
+00:08:58,700 --> 00:09:01,809
+[Applause]
+
+94
+00:11:16,449 --> 00:11:17,889
+we're still looking<font color="#CCCCCC"> to</font><font color="#E5E5E5"> discover the</font>
+
+95
+00:11:17,889 --> 00:11:20,139
+cause of the abort that<font color="#E5E5E5"> Falcon 9 through</font>
+
+96
+00:11:20,139 --> 00:11:22,479
+just after<font color="#CCCCCC"> our</font><font color="#E5E5E5"> just inside t-minus one</font>
+
+97
+00:11:22,479 --> 00:11:23,409
+minute
+
+98
+00:11:23,409 --> 00:11:26,409
+because so many<font color="#E5E5E5"> systems respond in abort</font>
+
+99
+00:11:26,409 --> 00:11:28,179
+they they<font color="#E5E5E5"> change to a safe</font><font color="#CCCCCC"> state</font><font color="#E5E5E5"> it</font>
+
+100
+00:11:28,179 --> 00:11:29,769
+takes<font color="#CCCCCC"> us several minutes to understand</font>
+
+101
+00:11:29,769 --> 00:11:32,979
+the generally single cause of that abort
+
+102
+00:11:32,979 --> 00:11:34,959
+<font color="#E5E5E5">the team is actively scrubbing the</font>
+
+103
+00:11:34,959 --> 00:11:38,879
+<font color="#E5E5E5">telemetry log as we speak</font>
+
+104
+00:11:48,149 --> 00:11:51,660
+seal the<font color="#CCCCCC"> encounter one vehicle is saved</font>
+
+105
+00:11:51,660 --> 00:11:55,220
+<font color="#CCCCCC">mr. Palmore being dead</font>
+
+106
+00:12:08,140 --> 00:12:11,350
+<font color="#E5E5E5">I'd you just heard the on the countdown</font>
+
+107
+00:12:11,350 --> 00:12:13,210
+<font color="#CCCCCC">that we're still reviewing the</font><font color="#E5E5E5"> data to</font>
+
+108
+00:12:13,210 --> 00:12:15,370
+see if<font color="#E5E5E5"> we're able to determine the cause</font>
+
+109
+00:12:15,370 --> 00:12:18,300
+<font color="#CCCCCC">of that</font><font color="#E5E5E5"> abort</font>
+
+110
+00:12:36,770 --> 00:12:38,820
+and you heard<font color="#E5E5E5"> the launch director</font>
+
+111
+00:12:38,820 --> 00:12:41,340
+<font color="#E5E5E5">announce that the vehicle is safe</font><font color="#CCCCCC"> and I</font>
+
+112
+00:12:41,340 --> 00:12:43,470
+gave the okay for payload to go back to
+
+113
+00:12:43,470 --> 00:12:46,490
+external power
+
+114
+00:12:58,750 --> 00:13:02,110
+[Applause]
+
+115
+00:13:07,580 --> 00:13:10,769
+[Applause]
+
+116
+00:13:21,410 --> 00:13:23,359
+so we're still reviewing<font color="#E5E5E5"> those telemetry</font>
+
+117
+00:13:23,359 --> 00:13:25,869
+logs<font color="#CCCCCC"> we're not yet scrubbed for</font><font color="#E5E5E5"> the day</font>
+
+118
+00:13:25,869 --> 00:13:28,699
+we're working to<font color="#E5E5E5"> bring you back as</font>
+
+119
+00:13:28,699 --> 00:13:34,899
+<font color="#E5E5E5">possible if we're able to launch</font><font color="#CCCCCC"> today</font>
+
+120
+00:13:34,899 --> 00:13:37,039
+<font color="#E5E5E5">or if we are not able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> launch today</font>
+
+121
+00:13:37,039 --> 00:13:40,339
+excuse me then our backup window<font color="#E5E5E5"> is at</font>
+
+122
+00:13:40,339 --> 00:13:45,649
+about<font color="#CCCCCC"> this same time tomorrow at 4:14</font>
+
+123
+00:13:45,649 --> 00:13:49,399
+p.m.<font color="#E5E5E5"> Eastern Time closing</font><font color="#CCCCCC"> at 6:21 p.m.</font>
+
+124
+00:13:49,399 --> 00:13:52,329
+<font color="#E5E5E5">Eastern Time</font>
+
+125
+00:15:57,029 --> 00:15:59,100
+we are still<font color="#CCCCCC"> continuing to</font><font color="#E5E5E5"> look at the</font>
+
+126
+00:15:59,100 --> 00:16:01,380
+<font color="#E5E5E5">data</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> determine if we</font><font color="#CCCCCC"> can understand</font>
+
+127
+00:16:01,380 --> 00:16:04,640
+the cause of this afternoon's<font color="#E5E5E5"> abort</font>
+
+128
+00:16:04,640 --> 00:16:06,959
+<font color="#CCCCCC">Edwards are part</font><font color="#E5E5E5"> of the standard process</font>
+
+129
+00:16:06,959 --> 00:16:09,620
+<font color="#E5E5E5">again it's</font><font color="#CCCCCC"> good to make sure</font><font color="#E5E5E5"> that the</font>
+
+130
+00:16:09,620 --> 00:16:12,690
+Falcon<font color="#CCCCCC"> 9 is completely ready to</font><font color="#E5E5E5"> go both</font>
+
+131
+00:16:12,690 --> 00:16:14,670
+the ground systems and the vehicle
+
+132
+00:16:14,670 --> 00:16:18,330
+systems as well and<font color="#E5E5E5"> double-checking</font>
+
+133
+00:16:18,330 --> 00:16:21,690
+those is vastly preferable to having any
+
+134
+00:16:21,690 --> 00:16:24,420
+sort<font color="#CCCCCC"> of a</font><font color="#E5E5E5"> problem during flight</font><font color="#CCCCCC"> there's</font>
+
+135
+00:16:24,420 --> 00:16:25,860
+<font color="#E5E5E5">still a chance that we</font><font color="#CCCCCC"> may be able</font><font color="#E5E5E5"> to</font>
+
+136
+00:16:25,860 --> 00:16:29,040
+<font color="#E5E5E5">launch today</font><font color="#CCCCCC"> and we're working</font><font color="#E5E5E5"> to see if</font>
+
+137
+00:16:29,040 --> 00:16:33,420
+<font color="#CCCCCC">that's going</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> be possible otherwise</font>
+
+138
+00:16:33,420 --> 00:16:36,080
+<font color="#CCCCCC">our will aim for a</font><font color="#E5E5E5"> backup launch window</font>
+
+139
+00:16:36,080 --> 00:16:39,709
+<font color="#CCCCCC">tomorrow</font><font color="#E5E5E5"> afternoon</font>
+
+140
+00:17:21,608 --> 00:17:24,728
+[Music]
+
+141
+00:17:54,080 --> 00:17:57,049
+if you're just<font color="#CCCCCC"> joining</font><font color="#E5E5E5"> us we had an</font>
+
+142
+00:17:57,049 --> 00:17:59,059
+<font color="#E5E5E5">abort at the very final stages of</font>
+
+143
+00:17:59,059 --> 00:18:01,700
+<font color="#E5E5E5">countdown within one minute for a launch</font>
+
+144
+00:18:01,700 --> 00:18:06,320
+time of<font color="#E5E5E5"> 547 p.m. Eastern Time</font>
+
+145
+00:18:06,320 --> 00:18:08,360
+Falcon<font color="#E5E5E5"> 9 through the abort and they're a</font>
+
+146
+00:18:08,360 --> 00:18:12,590
+part of the standard<font color="#E5E5E5"> process we're still</font>
+
+147
+00:18:12,590 --> 00:18:13,760
+continuing<font color="#CCCCCC"> to look at</font><font color="#E5E5E5"> the data to</font>
+
+148
+00:18:13,760 --> 00:18:16,159
+conclude<font color="#E5E5E5"> even if it was a ground problem</font>
+
+149
+00:18:16,159 --> 00:18:21,260
+or a vehicle problem because at<font color="#E5E5E5"> t</font><font color="#CCCCCC"> minus</font>
+
+150
+00:18:21,260 --> 00:18:23,269
+<font color="#E5E5E5">1 minutes the flight computers go into</font>
+
+151
+00:18:23,269 --> 00:18:24,860
+<font color="#E5E5E5">start-up mode the process of</font>
+
+152
+00:18:24,860 --> 00:18:27,889
+<font color="#E5E5E5">understanding that abort is a little</font>
+
+153
+00:18:27,889 --> 00:18:29,269
+<font color="#E5E5E5">more difficult than at other times in</font>
+
+154
+00:18:29,269 --> 00:18:30,649
+the countdown so we're reviewing those
+
+155
+00:18:30,649 --> 00:18:34,159
+telemetry logs to<font color="#E5E5E5"> make sure that we're</font>
+
+156
+00:18:34,159 --> 00:18:36,320
+understanding<font color="#E5E5E5"> it there is still a chance</font>
+
+157
+00:18:36,320 --> 00:18:37,940
+that<font color="#E5E5E5"> we can make it work</font>
+
+158
+00:18:37,940 --> 00:18:41,419
+<font color="#E5E5E5">for two days</font><font color="#CCCCCC"> window</font><font color="#E5E5E5"> and we're currently</font>
+
+159
+00:18:41,419 --> 00:18:42,980
+exploring if that's a<font color="#E5E5E5"> possibility</font>
+
+160
+00:18:42,980 --> 00:18:46,089
+[Applause]
+
+161
+00:21:21,650 --> 00:21:23,419
+and if you're just<font color="#CCCCCC"> joining</font><font color="#E5E5E5"> us you can</font>
+
+162
+00:21:23,419 --> 00:21:27,830
+see that it's a t-minus 15 minute<font color="#CCCCCC"> clock</font>
+
+163
+00:21:27,830 --> 00:21:30,740
+at the<font color="#E5E5E5"> moment in a yellow state which</font>
+
+164
+00:21:30,740 --> 00:21:33,260
+means<font color="#E5E5E5"> we're in a hold state we</font><font color="#CCCCCC"> threw an</font>
+
+165
+00:21:33,260 --> 00:21:35,900
+abort<font color="#E5E5E5"> at just inside of t-minus one</font>
+
+166
+00:21:35,900 --> 00:21:38,330
+minute as Falcon 9 had taken<font color="#E5E5E5"> control of</font>
+
+167
+00:21:38,330 --> 00:21:40,850
+the<font color="#E5E5E5"> countdown those</font><font color="#CCCCCC"> Abbar aborts</font><font color="#E5E5E5"> are</font>
+
+168
+00:21:40,850 --> 00:21:42,440
+part<font color="#E5E5E5"> of the standard process to make</font>
+
+169
+00:21:42,440 --> 00:21:44,720
+<font color="#CCCCCC">sure</font><font color="#E5E5E5"> that everything is working just as</font>
+
+170
+00:21:44,720 --> 00:21:46,669
+we're expecting much better to have
+
+171
+00:21:46,669 --> 00:21:49,159
+<font color="#E5E5E5">those sorts of signals on the ground</font>
+
+172
+00:21:49,159 --> 00:21:50,690
+rather<font color="#E5E5E5"> than any time during ascent</font>
+
+173
+00:21:50,690 --> 00:21:54,509
+[Applause]
+
+174
+00:22:23,040 --> 00:22:29,220
+[Applause]
+
+175
+00:25:09,330 --> 00:25:12,100
+<font color="#CCCCCC">SEL Dion counted officially scar for the</font>
+
+176
+00:25:12,100 --> 00:25:15,690
+<font color="#E5E5E5">day preparing for a 24-hour recycle</font>
+
+177
+00:25:44,970 --> 00:25:48,050
+[Music]
+
+178
+00:25:48,050 --> 00:25:50,300
+and we've just<font color="#E5E5E5"> received a final</font>
+
+179
+00:25:50,300 --> 00:25:51,980
+confirmation that we<font color="#CCCCCC"> are standing down</font>
+
+180
+00:25:51,980 --> 00:25:54,290
+today<font color="#E5E5E5"> due to a violation of</font><font color="#CCCCCC"> abort</font>
+
+181
+00:25:54,290 --> 00:25:57,470
+criteria<font color="#E5E5E5"> the vehicle and payload are</font>
+
+182
+00:25:57,470 --> 00:25:59,360
+good in good health<font color="#CCCCCC"> the next launch</font>
+
+183
+00:25:59,360 --> 00:26:03,350
+<font color="#E5E5E5">opportunity is tomorrow</font><font color="#CCCCCC"> May 11th</font><font color="#E5E5E5"> again</font>
+
+184
+00:26:03,350 --> 00:26:06,290
+if you're<font color="#CCCCCC"> just joining us we had a</font>
+
+185
+00:26:06,290 --> 00:26:10,790
+launch attempt at 5:47 p.m. Eastern Time
+
+186
+00:26:10,790 --> 00:26:13,040
+Falcon 9<font color="#CCCCCC"> threw an abort in the final</font>
+
+187
+00:26:13,040 --> 00:26:16,670
+minute of<font color="#E5E5E5"> countdown</font><font color="#CCCCCC"> and it seems like we</font>
+
+188
+00:26:16,670 --> 00:26:20,900
+<font color="#CCCCCC">are unable</font><font color="#E5E5E5"> to reach</font><font color="#CCCCCC"> the launch or to</font>
+
+189
+00:26:20,900 --> 00:26:22,430
+<font color="#E5E5E5">launch within the launch window for</font>
+
+190
+00:26:22,430 --> 00:26:25,220
+today at this time<font color="#E5E5E5"> we have concluded a</font>
+
+191
+00:26:25,220 --> 00:26:27,890
+preliminary<font color="#E5E5E5"> review however and have</font>
+
+192
+00:26:27,890 --> 00:26:29,360
+<font color="#E5E5E5">determined that the vehicle and payload</font>
+
+193
+00:26:29,360 --> 00:26:31,700
+are in good health<font color="#E5E5E5"> and</font><font color="#CCCCCC"> we'll be aiming</font>
+
+194
+00:26:31,700 --> 00:26:35,210
+<font color="#CCCCCC">to launch tomorrow</font><font color="#E5E5E5"> during our backup</font>
+
+195
+00:26:35,210 --> 00:26:38,000
+launch window at 4:14 p.m.<font color="#E5E5E5"> Eastern Time</font>
+
+196
+00:26:38,000 --> 00:26:43,450
+closing<font color="#CCCCCC"> at 6:21 p.m.</font><font color="#E5E5E5"> Eastern Time</font>
+
+197
+00:26:49,270 --> 00:26:51,340
+at this point<font color="#CCCCCC"> we'll</font><font color="#E5E5E5"> conclude the webcast</font>
+
+198
+00:26:51,340 --> 00:26:53,770
+thank you again for<font color="#CCCCCC"> joining us and we</font>
+
+199
+00:26:53,770 --> 00:26:55,780
+hope to<font color="#E5E5E5"> see you</font><font color="#CCCCCC"> for tomorrow's launch</font>
+
+200
+00:26:55,780 --> 00:26:59,080
+attempt at again<font color="#E5E5E5"> for 14 p.m. Eastern</font>
+
+201
+00:26:59,080 --> 00:26:59,620
+Time
+
+202
+00:26:59,620 --> 00:27:02,520
+thank you<font color="#CCCCCC"> again</font>
+
+203
+00:27:08,160 --> 00:00:00,000
+[Music]
+

@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:02,280
+the<font color="#CCCCCC"> US Democratic Party's uncovered an</font>
+
+2
+00:00:02,280 --> 00:00:04,170
+attempt to<font color="#E5E5E5"> hack its voter database</font>
+
+3
+00:00:04,170 --> 00:00:05,970
+<font color="#E5E5E5">that's just months of course from the</font>
+
+4
+00:00:05,970 --> 00:00:09,120
+<font color="#E5E5E5">midterm elections but all it's not what</font>
+
+5
+00:00:09,120 --> 00:00:12,809
+it<font color="#CCCCCC"> appears</font><font color="#E5E5E5"> this attempt is further proof</font>
+
+6
+00:00:12,809 --> 00:00:14,670
+that<font color="#E5E5E5"> there are constant threats as we</font>
+
+7
+00:00:14,670 --> 00:00:17,160
+head into<font color="#E5E5E5"> the midterm elections and we</font>
+
+8
+00:00:17,160 --> 00:00:19,410
+must remain vigilant<font color="#CCCCCC"> in order</font><font color="#E5E5E5"> to prevent</font>
+
+9
+00:00:19,410 --> 00:00:22,230
+future attacks<font color="#CCCCCC"> first it looked like just</font>
+
+10
+00:00:22,230 --> 00:00:24,210
+<font color="#CCCCCC">another meddling story in the</font><font color="#E5E5E5"> endless</font>
+
+11
+00:00:24,210 --> 00:00:26,220
+<font color="#E5E5E5">stream of meddling reports that we've</font>
+
+12
+00:00:26,220 --> 00:00:28,320
+come across lately and the Democratic
+
+13
+00:00:28,320 --> 00:00:30,869
+Party<font color="#CCCCCC"> said that it had detected an</font>
+
+14
+00:00:30,869 --> 00:00:33,420
+attempt<font color="#CCCCCC"> to hack its voter base and of</font>
+
+15
+00:00:33,420 --> 00:00:35,969
+course<font color="#E5E5E5"> total panic ensued in the media</font>
+
+16
+00:00:35,969 --> 00:00:39,329
+<font color="#CCCCCC">check it out</font><font color="#E5E5E5"> DNC just confirmed NBC News</font>
+
+17
+00:00:39,329 --> 00:00:41,430
+it has alerted authorities to an
+
+18
+00:00:41,430 --> 00:00:44,489
+attempted hack<font color="#E5E5E5"> of their voter file the</font>
+
+19
+00:00:44,489 --> 00:00:46,739
+<font color="#E5E5E5">take</font><font color="#CCCCCC"> away really</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> is this</font><font color="#E5E5E5"> continues to</font>
+
+20
+00:00:46,739 --> 00:00:48,960
+<font color="#E5E5E5">be a major issues Democratic Party's</font>
+
+21
+00:00:48,960 --> 00:00:50,730
+voter database<font color="#E5E5E5"> targeted with a</font>
+
+22
+00:00:50,730 --> 00:00:53,160
+sophisticated<font color="#CCCCCC"> hacking attempt</font><font color="#E5E5E5"> the target</font>
+
+23
+00:00:53,160 --> 00:00:55,590
+really<font color="#E5E5E5"> was the voter database</font><font color="#CCCCCC"> any attack</font>
+
+24
+00:00:55,590 --> 00:00:57,600
+on<font color="#CCCCCC"> a political party or campaign is</font>
+
+25
+00:00:57,600 --> 00:00:59,370
+important<font color="#E5E5E5"> for us all</font><font color="#CCCCCC"> to take seriously</font>
+
+26
+00:00:59,370 --> 00:01:01,770
+but there's a twist<font color="#E5E5E5"> here it wasn't</font>
+
+27
+00:01:01,770 --> 00:01:04,290
+<font color="#CCCCCC">meddling or hacking</font><font color="#E5E5E5"> it was just a test</font>
+
+28
+00:01:04,290 --> 00:01:06,930
+<font color="#E5E5E5">according</font><font color="#CCCCCC"> to a source</font><font color="#E5E5E5"> the Democratic</font>
+
+29
+00:01:06,930 --> 00:01:08,850
+Party<font color="#CCCCCC"> or the Democratic Party of</font>
+
+30
+00:01:08,850 --> 00:01:11,850
+Michigan<font color="#E5E5E5"> used volunteer hackers to test</font>
+
+31
+00:01:11,850 --> 00:01:14,549
+its systems security<font color="#E5E5E5"> while this was</font>
+
+32
+00:01:14,549 --> 00:01:16,979
+confirmed<font color="#E5E5E5"> by</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> National Committee the</font>
+
+33
+00:01:16,979 --> 00:01:18,509
+source also<font color="#E5E5E5"> said that the State</font>
+
+34
+00:01:18,509 --> 00:01:21,030
+<font color="#CCCCCC">Department did not</font><font color="#E5E5E5"> notify the DNC the</font>
+
+35
+00:01:21,030 --> 00:01:23,670
+National Committee beforehand<font color="#E5E5E5"> let's take</font>
+
+36
+00:01:23,670 --> 00:01:26,549
+a look at what was said<font color="#E5E5E5"> we along with</font>
+
+37
+00:01:26,549 --> 00:01:29,070
+<font color="#E5E5E5">the partners who reported the site now</font>
+
+38
+00:01:29,070 --> 00:01:31,290
+<font color="#E5E5E5">believe it was built by a third party</font><font color="#CCCCCC"> as</font>
+
+39
+00:01:31,290 --> 00:01:34,229
+part of a simulated phishing test the
+
+40
+00:01:34,229 --> 00:01:36,180
+test which<font color="#CCCCCC"> mimics several attributes of</font>
+
+41
+00:01:36,180 --> 00:01:38,189
+actual attacks on the Democratic Party's
+
+42
+00:01:38,189 --> 00:01:41,250
+voter file was<font color="#E5E5E5"> not authorized by the DNC</font>
+
+43
+00:01:41,250 --> 00:01:43,950
+vote builder nor any other<font color="#E5E5E5"> of our</font>
+
+44
+00:01:43,950 --> 00:01:47,100
+vendors<font color="#E5E5E5"> now the timing</font><font color="#CCCCCC"> of all of this is</font>
+
+45
+00:01:47,100 --> 00:01:50,130
+worth noting it's coming<font color="#E5E5E5"> just</font><font color="#CCCCCC"> as we're</font>
+
+46
+00:01:50,130 --> 00:01:51,840
+<font color="#CCCCCC">getting closer and closer to midterm</font>
+
+47
+00:01:51,840 --> 00:01:53,869
+elections<font color="#E5E5E5"> and the media is going crazy</font>
+
+48
+00:01:53,869 --> 00:01:55,920
+frantically searching for external
+
+49
+00:01:55,920 --> 00:01:58,469
+factors but they've turned a blind eye
+
+50
+00:01:58,469 --> 00:02:01,290
+<font color="#CCCCCC">to domestic factors which could be where</font>
+
+51
+00:02:01,290 --> 00:02:03,960
+their answers<font color="#E5E5E5"> are investigative reporter</font>
+
+52
+00:02:03,960 --> 00:02:05,640
+Dave Lindell says election tampering
+
+53
+00:02:05,640 --> 00:02:09,209
+claims are<font color="#E5E5E5"> being exaggerated the</font>
+
+54
+00:02:09,209 --> 00:02:12,629
+meddling issue is<font color="#E5E5E5"> first of all I think</font>
+
+55
+00:02:12,629 --> 00:02:13,500
+<font color="#E5E5E5">has</font>
+
+56
+00:02:13,500 --> 00:02:15,930
+being overblown in<font color="#E5E5E5"> the first case the</font>
+
+57
+00:02:15,930 --> 00:02:20,760
+you know when they found evidence of you
+
+58
+00:02:20,760 --> 00:02:24,690
+<font color="#E5E5E5">know Russian based organizations that</font>
+
+59
+00:02:24,690 --> 00:02:26,820
+were buying ads and things<font color="#E5E5E5"> on Facebook</font>
+
+60
+00:02:26,820 --> 00:02:28,500
+it<font color="#E5E5E5"> was such a tiny amount</font><font color="#CCCCCC"> during the</font>
+
+61
+00:02:28,500 --> 00:02:31,760
+2016 election that<font color="#E5E5E5"> it was laughable</font><font color="#CCCCCC"> so</font>
+
+62
+00:02:31,760 --> 00:02:34,980
+you know<font color="#E5E5E5"> I think most people most</font>
+
+63
+00:02:34,980 --> 00:02:38,370
+sensible<font color="#E5E5E5"> people realized that the</font>
+
+64
+00:02:38,370 --> 00:02:42,480
+election in 2016<font color="#E5E5E5"> was not significantly</font>
+
+65
+00:02:42,480 --> 00:02:44,940
+impacted by meddling<font color="#E5E5E5"> it was affected</font>
+
+66
+00:02:44,940 --> 00:02:47,430
+<font color="#E5E5E5">dramatically by a really bad candidate</font>
+
+67
+00:02:47,430 --> 00:02:51,140
+<font color="#E5E5E5">running a really bad campaign</font>
+
+68
+00:02:57,230 --> 00:00:00,000
+you
+

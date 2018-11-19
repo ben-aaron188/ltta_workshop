@@ -1,0 +1,352 @@
+1
+00:00:00,000 --> 00:00:01,979
+US lawmakers and the American Civil
+
+2
+00:00:01,979 --> 00:00:03,929
+<font color="#CCCCCC">Liberties Union are raising the</font><font color="#E5E5E5"> alarm</font>
+
+3
+00:00:03,929 --> 00:00:07,020
+over<font color="#E5E5E5"> Amazon's facial recognition tool</font>
+
+4
+00:00:07,020 --> 00:00:09,389
+<font color="#E5E5E5">that's after it falsely matched photos</font>
+
+5
+00:00:09,389 --> 00:00:11,429
+of members of Congress with criminal mug
+
+6
+00:00:11,429 --> 00:00:13,380
+shots prompting<font color="#E5E5E5"> calls for a moratorium</font>
+
+7
+00:00:13,380 --> 00:00:16,800
+on its use<font color="#E5E5E5"> by law enforcement an</font>
+
+8
+00:00:16,800 --> 00:00:18,960
+identification<font color="#CCCCCC"> whether accurate or not</font>
+
+9
+00:00:18,960 --> 00:00:21,300
+<font color="#CCCCCC">could cost people their</font><font color="#E5E5E5"> freedom</font><font color="#CCCCCC"> or</font><font color="#E5E5E5"> even</font>
+
+10
+00:00:21,300 --> 00:00:23,400
+their<font color="#E5E5E5"> lives Congress must take these</font>
+
+11
+00:00:23,400 --> 00:00:25,560
+threats<font color="#CCCCCC"> seriously hit the brakes</font><font color="#E5E5E5"> and</font>
+
+12
+00:00:25,560 --> 00:00:28,019
+enact a moratorium on law<font color="#CCCCCC"> enforcement</font>
+
+13
+00:00:28,019 --> 00:00:30,660
+use of face recognition<font color="#CCCCCC"> the American</font>
+
+14
+00:00:30,660 --> 00:00:32,790
+<font color="#E5E5E5">Civil Liberties Union compared photos of</font>
+
+15
+00:00:32,790 --> 00:00:35,100
+all<font color="#E5E5E5"> the members</font><font color="#CCCCCC"> of the US Congress with</font>
+
+16
+00:00:35,100 --> 00:00:38,190
+a large<font color="#E5E5E5"> database of criminal mug shots</font>
+
+17
+00:00:38,190 --> 00:00:41,489
+Amazon's<font color="#E5E5E5"> facial recognition tool made 28</font>
+
+18
+00:00:41,489 --> 00:00:45,390
+<font color="#CCCCCC">matches all</font><font color="#E5E5E5"> of them were false now 11 of</font>
+
+19
+00:00:45,390 --> 00:00:47,340
+<font color="#E5E5E5">the mismatches involved people of color</font>
+
+20
+00:00:47,340 --> 00:00:50,190
+<font color="#E5E5E5">prompting additional concern now the</font>
+
+21
+00:00:50,190 --> 00:00:52,800
+union claims<font color="#CCCCCC"> the tool has an in-built</font>
+
+22
+00:00:52,800 --> 00:00:55,680
+racial bias<font color="#E5E5E5"> saying the false matches</font>
+
+23
+00:00:55,680 --> 00:00:58,020
+were disproportionately<font color="#E5E5E5"> people of color</font>
+
+24
+00:00:58,020 --> 00:01:01,020
+<font color="#E5E5E5">a 40% of the mismatches involved</font><font color="#CCCCCC"> people</font>
+
+25
+00:01:01,020 --> 00:01:03,210
+of color who also<font color="#E5E5E5"> make up 20% of the</font>
+
+26
+00:01:03,210 --> 00:01:05,459
+<font color="#E5E5E5">people in</font><font color="#CCCCCC"> Congress</font><font color="#E5E5E5"> we spoke to</font>
+
+27
+00:01:05,459 --> 00:01:07,740
+technology<font color="#CCCCCC"> analyst Roger Kay about the</font>
+
+28
+00:01:07,740 --> 00:01:12,030
+issue<font color="#E5E5E5"> when the software</font><font color="#CCCCCC"> is trained to</font>
+
+29
+00:01:12,030 --> 00:01:15,840
+<font color="#CCCCCC">recognize faces it has to train on a</font>
+
+30
+00:01:15,840 --> 00:01:17,970
+corpus and the<font color="#E5E5E5"> corpus is made up of lots</font>
+
+31
+00:01:17,970 --> 00:01:20,610
+of images<font color="#E5E5E5"> of people and if for whatever</font>
+
+32
+00:01:20,610 --> 00:01:24,930
+reason<font color="#E5E5E5"> the images are mainly Caucasian</font>
+
+33
+00:01:24,930 --> 00:01:28,439
+people then<font color="#E5E5E5"> it will be better at</font>
+
+34
+00:01:28,439 --> 00:01:30,600
+recognizing them and at some<font color="#CCCCCC"> of the</font>
+
+35
+00:01:30,600 --> 00:01:32,250
+minorities if they weren't<font color="#E5E5E5"> well</font>
+
+36
+00:01:32,250 --> 00:01:34,320
+represented in the<font color="#E5E5E5"> training sample so I</font>
+
+37
+00:01:34,320 --> 00:01:37,229
+think<font color="#E5E5E5"> that's the technical side</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> it in</font>
+
+38
+00:01:37,229 --> 00:01:39,630
+May the ACLU revealed that Amazon<font color="#CCCCCC"> is</font>
+
+39
+00:01:39,630 --> 00:01:41,759
+trying<font color="#CCCCCC"> to sell its facial recognition</font>
+
+40
+00:01:41,759 --> 00:01:44,189
+<font color="#CCCCCC">technology to government and police</font>
+
+41
+00:01:44,189 --> 00:01:47,280
+<font color="#CCCCCC">agencies and that led to</font><font color="#E5E5E5"> more</font><font color="#CCCCCC"> than a</font><font color="#E5E5E5"> 40</font>
+
+42
+00:01:47,280 --> 00:01:48,930
+civil liberties<font color="#CCCCCC"> groups to join together</font>
+
+43
+00:01:48,930 --> 00:01:51,060
+in calling<font color="#CCCCCC"> for that not to happen</font><font color="#E5E5E5"> even</font>
+
+44
+00:01:51,060 --> 00:01:53,759
+<font color="#E5E5E5">Amazon workers joined the</font><font color="#CCCCCC"> protest</font>
+
+45
+00:01:53,759 --> 00:01:56,130
+however the technology has already been
+
+46
+00:01:56,130 --> 00:02:00,060
+tested<font color="#E5E5E5"> in some</font><font color="#CCCCCC"> US</font><font color="#E5E5E5"> police departments the</font>
+
+47
+00:02:00,060 --> 00:02:01,799
+next of<font color="#E5E5E5"> course common use case as you</font>
+
+48
+00:02:01,799 --> 00:02:05,759
+could expect<font color="#CCCCCC"> is Public Safety</font><font color="#E5E5E5"> Hamazon is</font>
+
+49
+00:02:05,759 --> 00:02:07,320
+already<font color="#E5E5E5"> working with government</font><font color="#CCCCCC"> agencies</font>
+
+50
+00:02:07,320 --> 00:02:10,229
+to<font color="#E5E5E5"> deploy this</font><font color="#CCCCCC"> technology at the</font><font color="#E5E5E5"> ACLU we</font>
+
+51
+00:02:10,229 --> 00:02:10,580
+<font color="#E5E5E5">obtained</font>
+
+52
+00:02:10,580 --> 00:02:12,200
+records that<font color="#E5E5E5"> show that</font><font color="#CCCCCC"> Amazon signed a</font>
+
+53
+00:02:12,200 --> 00:02:14,000
+secrecy agreement<font color="#CCCCCC"> with one</font><font color="#E5E5E5"> County to</font>
+
+54
+00:02:14,000 --> 00:02:15,680
+keep details about the technology out<font color="#CCCCCC"> of</font>
+
+55
+00:02:15,680 --> 00:02:16,490
+<font color="#CCCCCC">public</font><font color="#E5E5E5"> view</font>
+
+56
+00:02:16,490 --> 00:02:18,500
+they've also invited law enforcement to
+
+57
+00:02:18,500 --> 00:02:20,750
+suggest new<font color="#E5E5E5"> features and they offered</font>
+
+58
+00:02:20,750 --> 00:02:22,430
+free consulting<font color="#E5E5E5"> to</font><font color="#CCCCCC"> help the City</font><font color="#E5E5E5"> of</font>
+
+59
+00:02:22,430 --> 00:02:25,460
+Orlando build its own system<font color="#CCCCCC"> amazon</font><font color="#E5E5E5"> has</font>
+
+60
+00:02:25,460 --> 00:02:27,950
+hit back<font color="#CCCCCC"> of the ACL</font><font color="#E5E5E5"> u--'s</font><font color="#CCCCCC"> test though</font>
+
+61
+00:02:27,950 --> 00:02:29,690
+saying that it<font color="#CCCCCC"> should have employed a</font>
+
+62
+00:02:29,690 --> 00:02:31,970
+higher confidence<font color="#E5E5E5"> threshold setting</font>
+
+63
+00:02:31,970 --> 00:02:33,830
+which<font color="#CCCCCC"> motors the probability of an</font>
+
+64
+00:02:33,830 --> 00:02:37,040
+<font color="#CCCCCC">accurate match</font><font color="#E5E5E5"> Amazon recommends a</font><font color="#CCCCCC"> 95</font>
+
+65
+00:02:37,040 --> 00:02:40,100
+<font color="#E5E5E5">percent but the ACLU claims Amazon used</font>
+
+66
+00:02:40,100 --> 00:02:43,580
+only 80 percent while<font color="#CCCCCC"> 80 percent</font>
+
+67
+00:02:43,580 --> 00:02:45,980
+<font color="#E5E5E5">confidence is an acceptable</font><font color="#CCCCCC"> threshold</font>
+
+68
+00:02:45,980 --> 00:02:48,560
+for<font color="#E5E5E5"> photos of hot dogs chairs animals</font>
+
+69
+00:02:48,560 --> 00:02:51,110
+<font color="#CCCCCC">for other</font><font color="#E5E5E5"> social media use cases</font><font color="#CCCCCC"> it</font>
+
+70
+00:02:51,110 --> 00:02:53,030
+wouldn't be appropriate<font color="#E5E5E5"> for identifying</font>
+
+71
+00:02:53,030 --> 00:02:55,100
+<font color="#E5E5E5">individuals with a reasonable level of</font>
+
+72
+00:02:55,100 --> 00:02:57,290
+certainty when<font color="#E5E5E5"> using facial</font><font color="#CCCCCC"> recognition</font>
+
+73
+00:02:57,290 --> 00:03:00,080
+for law enforcement<font color="#CCCCCC"> activities</font><font color="#E5E5E5"> we guide</font>
+
+74
+00:03:00,080 --> 00:03:02,540
+customers to set a<font color="#E5E5E5"> threshold of at least</font>
+
+75
+00:03:02,540 --> 00:03:05,930
+95<font color="#CCCCCC"> percent or higher from Amazon's point</font>
+
+76
+00:03:05,930 --> 00:03:09,230
+of view what they said<font color="#E5E5E5"> was it they</font><font color="#CCCCCC"> train</font>
+
+77
+00:03:09,230 --> 00:03:13,310
+their<font color="#E5E5E5"> law</font><font color="#CCCCCC"> enforcement clients not</font><font color="#E5E5E5"> to use</font>
+
+78
+00:03:13,310 --> 00:03:16,550
+the<font color="#E5E5E5"> software for making</font><font color="#CCCCCC"> decisions but</font>
+
+79
+00:03:16,550 --> 00:03:20,000
+<font color="#E5E5E5">rather to narrow down the pool to where</font>
+
+80
+00:03:20,000 --> 00:03:22,430
+the human can look at the final results
+
+81
+00:03:22,430 --> 00:03:24,709
+and verify yes these do make<font color="#E5E5E5"> sense these</font>
+
+82
+00:03:24,709 --> 00:03:26,450
+<font color="#E5E5E5">are</font><font color="#CCCCCC"> the same people or they're not the</font>
+
+83
+00:03:26,450 --> 00:03:28,459
+same people<font color="#CCCCCC"> so they're saying that</font><font color="#E5E5E5"> a</font>
+
+84
+00:03:28,459 --> 00:03:30,320
+human<font color="#CCCCCC"> being should still be</font><font color="#E5E5E5"> involved</font>
+
+85
+00:03:30,320 --> 00:03:32,660
+<font color="#CCCCCC">even with a very high</font><font color="#E5E5E5"> confidence level</font>
+
+86
+00:03:32,660 --> 00:03:36,680
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> the images match so I think that's</font>
+
+87
+00:03:36,680 --> 00:03:39,519
+another piece of<font color="#E5E5E5"> it</font>
+
+88
+00:03:45,520 --> 00:00:00,000
+you
+

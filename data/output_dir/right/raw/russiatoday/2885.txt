@@ -1,0 +1,632 @@
+1
+00:00:00,000 --> 00:00:01,319
+if you thought that an installing the
+
+2
+00:00:01,319 --> 00:00:03,360
+<font color="#E5E5E5">latest antivirus software would protect</font>
+
+3
+00:00:03,360 --> 00:00:05,160
+<font color="#E5E5E5">you from being</font><font color="#CCCCCC"> hacks</font><font color="#E5E5E5"> well think again</font>
+
+4
+00:00:05,160 --> 00:00:07,859
+<font color="#E5E5E5">even the leading cybersecurity guru John</font>
+
+5
+00:00:07,859 --> 00:00:09,780
+McAfee<font color="#E5E5E5"> has been hacked</font><font color="#CCCCCC"> here's what</font>
+
+6
+00:00:09,780 --> 00:00:34,980
+happened my account was<font color="#E5E5E5"> hacked</font><font color="#CCCCCC"> twitter</font>
+
+7
+00:00:34,980 --> 00:00:37,559
+<font color="#E5E5E5">has been</font><font color="#CCCCCC"> notified</font><font color="#E5E5E5"> the coin of the dates</font>
+
+8
+00:00:37,559 --> 00:01:02,190
+width<font color="#E5E5E5"> was not me well we can now hear</font>
+
+9
+00:01:02,190 --> 00:01:04,019
+<font color="#CCCCCC">from</font><font color="#E5E5E5"> the man himself John McAfee who</font>
+
+10
+00:01:04,019 --> 00:01:06,180
+founded the McAfee software company<font color="#CCCCCC"> good</font>
+
+11
+00:01:06,180 --> 00:01:08,369
+to have<font color="#CCCCCC"> you on the program and now</font><font color="#E5E5E5"> I</font>
+
+12
+00:01:08,369 --> 00:01:10,950
+guess you've<font color="#CCCCCC"> had this a lot but some</font>
+
+13
+00:01:10,950 --> 00:01:12,990
+people might find<font color="#CCCCCC"> it slightly ironic</font>
+
+14
+00:01:12,990 --> 00:01:15,540
+that's a renowned cybersecurity expert
+
+15
+00:01:15,540 --> 00:01:17,520
+like yourself has been the victim<font color="#CCCCCC"> of</font>
+
+16
+00:01:17,520 --> 00:01:19,530
+hacking can you tell<font color="#E5E5E5"> us exactly how</font><font color="#CCCCCC"> that</font>
+
+17
+00:01:19,530 --> 00:01:24,659
+<font color="#CCCCCC">could happen well you know we rely on a</font>
+
+18
+00:01:24,659 --> 00:01:27,150
+<font color="#E5E5E5">number</font><font color="#CCCCCC"> of people</font><font color="#E5E5E5"> we will rely on our</font>
+
+19
+00:01:27,150 --> 00:01:29,130
+carriers<font color="#CCCCCC"> the telephone carriers rely on</font>
+
+20
+00:01:29,130 --> 00:01:31,920
+Twitter<font color="#CCCCCC"> so no</font><font color="#E5E5E5"> matter what</font><font color="#CCCCCC"> I have</font><font color="#E5E5E5"> done</font>
+
+21
+00:01:31,920 --> 00:01:35,240
+which<font color="#E5E5E5"> is which is superb because I am a</font>
+
+22
+00:01:35,240 --> 00:01:38,579
+specialist in<font color="#CCCCCC"> cyber security</font><font color="#E5E5E5"> my phone</font>
+
+23
+00:01:38,579 --> 00:01:42,000
+was hacked<font color="#CCCCCC"> through my carrier AT&T</font>
+
+24
+00:01:42,000 --> 00:01:45,420
+<font color="#CCCCCC">American</font><font color="#E5E5E5"> it's the largest carrier in</font>
+
+25
+00:01:45,420 --> 00:01:47,850
+<font color="#E5E5E5">America and what happened is this is</font>
+
+26
+00:01:47,850 --> 00:01:48,630
+<font color="#E5E5E5">brand</font><font color="#CCCCCC"> new to me</font>
+
+27
+00:01:48,630 --> 00:01:53,280
+they<font color="#E5E5E5"> managed to hack into AT&T to move</font>
+
+28
+00:01:53,280 --> 00:01:56,310
+my phone number to<font color="#E5E5E5"> another phone prior</font>
+
+29
+00:01:56,310 --> 00:01:58,530
+<font color="#E5E5E5">to being hacked my phone was totally</font>
+
+30
+00:01:58,530 --> 00:02:00,360
+disabled you couldn't call into it I
+
+31
+00:02:00,360 --> 00:02:02,850
+could<font color="#CCCCCC"> not call out from</font><font color="#E5E5E5"> it so everything</font>
+
+32
+00:02:02,850 --> 00:02:04,920
+coming in<font color="#E5E5E5"> including my text messages</font>
+
+33
+00:02:04,920 --> 00:02:08,220
+went to<font color="#E5E5E5"> another phone number so what</font>
+
+34
+00:02:08,220 --> 00:02:11,220
+they had done is a lot ride to log<font color="#CCCCCC"> onto</font>
+
+35
+00:02:11,220 --> 00:02:13,440
+<font color="#E5E5E5">Twitter so I've lost my password</font>
+
+36
+00:02:13,440 --> 00:02:16,380
+<font color="#CCCCCC">I used</font><font color="#E5E5E5"> two factor authentication</font><font color="#CCCCCC"> meaning</font>
+
+37
+00:02:16,380 --> 00:02:18,180
+I have to give Twitter<font color="#E5E5E5"> my phone number</font>
+
+38
+00:02:18,180 --> 00:02:21,180
+<font color="#E5E5E5">they sent to my</font><font color="#CCCCCC"> phone number a special</font>
+
+39
+00:02:21,180 --> 00:02:23,580
+code<font color="#E5E5E5"> so that</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> could get in but it</font>
+
+40
+00:02:23,580 --> 00:02:26,700
+<font color="#CCCCCC">wasn't me it was the hacker this is</font>
+
+41
+00:02:26,700 --> 00:02:27,900
+something<font color="#E5E5E5"> totally out of my control</font>
+
+42
+00:02:27,900 --> 00:02:30,870
+<font color="#CCCCCC">totally out of</font><font color="#E5E5E5"> everyone's control</font><font color="#CCCCCC"> ecers</font>
+
+43
+00:02:30,870 --> 00:02:33,210
+are<font color="#E5E5E5"> becoming more and more proficient</font>
+
+44
+00:02:33,210 --> 00:02:35,580
+and more<font color="#CCCCCC"> sophisticated in their hacking</font>
+
+45
+00:02:35,580 --> 00:02:38,010
+techniques<font color="#E5E5E5"> if this can happen to me I</font>
+
+46
+00:02:38,010 --> 00:02:40,650
+promise<font color="#E5E5E5"> you it can happen to anyone</font>
+
+47
+00:02:40,650 --> 00:02:42,930
+I was quite worrying<font color="#E5E5E5"> is that Twitter is</font>
+
+48
+00:02:42,930 --> 00:02:45,870
+<font color="#E5E5E5">a massive company as is AT&T and they</font>
+
+49
+00:02:45,870 --> 00:02:48,090
+presumably<font color="#E5E5E5"> spend millions on security so</font>
+
+50
+00:02:48,090 --> 00:02:49,920
+if the<font color="#E5E5E5"> Twitter app isn't safe how</font>
+
+51
+00:02:49,920 --> 00:02:52,050
+concerned should we be about the other
+
+52
+00:02:52,050 --> 00:02:53,700
+apps we install on<font color="#E5E5E5"> our phones on a daily</font>
+
+53
+00:02:53,700 --> 00:02:57,480
+basis well it's not<font color="#CCCCCC"> just all the apps</font>
+
+54
+00:02:57,480 --> 00:02:59,070
+reviews it's not just Twitter<font color="#E5E5E5"> a</font>
+
+55
+00:02:59,070 --> 00:03:02,460
+recommendation<font color="#E5E5E5"> these for</font><font color="#CCCCCC"> them for</font><font color="#E5E5E5"> the</font>
+
+56
+00:03:02,460 --> 00:03:04,740
+new alternative coins alternatives of
+
+57
+00:03:04,740 --> 00:03:07,560
+bitcoins<font color="#E5E5E5"> crypto currencies people would</font>
+
+58
+00:03:07,560 --> 00:03:09,510
+invest hundreds of millions of<font color="#E5E5E5"> dollars</font>
+
+59
+00:03:09,510 --> 00:03:12,630
+<font color="#E5E5E5">into these coins what the hacker did was</font>
+
+60
+00:03:12,630 --> 00:03:14,460
+he recommended six<font color="#CCCCCC"> different coins</font>
+
+61
+00:03:14,460 --> 00:03:18,030
+<font color="#E5E5E5">within six minutes and invested I'm sure</font>
+
+62
+00:03:18,030 --> 00:03:20,550
+much money beforehand<font color="#E5E5E5"> into those coins</font>
+
+63
+00:03:20,550 --> 00:03:23,459
+<font color="#E5E5E5">as the coins rose the hackers sold his</font>
+
+64
+00:03:23,459 --> 00:03:25,650
+money<font color="#CCCCCC"> he may have made tens of millions</font>
+
+65
+00:03:25,650 --> 00:03:28,380
+of<font color="#E5E5E5"> dollars it was worthwhile to</font><font color="#CCCCCC"> spend</font>
+
+66
+00:03:28,380 --> 00:03:30,840
+whatever<font color="#E5E5E5"> it would take</font><font color="#CCCCCC"> to get my hack</font>
+
+67
+00:03:30,840 --> 00:03:34,170
+<font color="#E5E5E5">know if they can do it for me again they</font>
+
+68
+00:03:34,170 --> 00:03:36,360
+can do it for<font color="#E5E5E5"> anyone again</font><font color="#CCCCCC"> I don't know</font>
+
+69
+00:03:36,360 --> 00:03:38,459
+whether<font color="#E5E5E5"> they bribed someone at AT&T</font><font color="#CCCCCC"> it</font>
+
+70
+00:03:38,459 --> 00:03:40,590
+happens frequently<font color="#CCCCCC"> I don't know whether</font>
+
+71
+00:03:40,590 --> 00:03:42,780
+they have some secret method of hacking
+
+72
+00:03:42,780 --> 00:03:46,530
+into<font color="#E5E5E5"> the AT&T wireless system I'm still</font>
+
+73
+00:03:46,530 --> 00:03:48,120
+<font color="#E5E5E5">working on trying to find that out I</font>
+
+74
+00:03:48,120 --> 00:03:50,610
+went to AT&T<font color="#E5E5E5"> this morning finally</font><font color="#CCCCCC"> got my</font>
+
+75
+00:03:50,610 --> 00:03:52,680
+phone number back<font color="#CCCCCC"> to my phone it took</font>
+
+76
+00:03:52,680 --> 00:03:54,840
+three days<font color="#CCCCCC"> to do that or two-and-a-half</font>
+
+77
+00:03:54,840 --> 00:03:57,989
+<font color="#E5E5E5">days</font><font color="#CCCCCC"> to do that and even</font><font color="#E5E5E5"> when I was</font>
+
+78
+00:03:57,989 --> 00:03:59,430
+<font color="#E5E5E5">talking to the agent said that the</font>
+
+79
+00:03:59,430 --> 00:04:00,720
+account<font color="#E5E5E5"> has been hacked</font>
+
+80
+00:04:00,720 --> 00:04:03,959
+<font color="#CCCCCC">I got personally no response the chances</font>
+
+81
+00:04:03,959 --> 00:04:08,580
+of AT&T admitting that they were
+
+82
+00:04:08,580 --> 00:04:11,190
+<font color="#E5E5E5">responsible is less than the chance of a</font>
+
+83
+00:04:11,190 --> 00:04:13,350
+spouse admitting<font color="#CCCCCC"> to their spouse that</font>
+
+84
+00:04:13,350 --> 00:04:15,209
+they've<font color="#E5E5E5"> been unfaithful</font><font color="#CCCCCC"> it's just not</font>
+
+85
+00:04:15,209 --> 00:04:16,798
+<font color="#E5E5E5">going to happen</font><font color="#CCCCCC"> until it</font><font color="#E5E5E5"> happens</font><font color="#CCCCCC"> many</font>
+
+86
+00:04:16,798 --> 00:04:19,290
+<font color="#CCCCCC">times over</font><font color="#E5E5E5"> we're living in the new world</font>
+
+87
+00:04:19,290 --> 00:04:22,200
+<font color="#E5E5E5">of hacking and the new world</font><font color="#CCCCCC"> of risks</font>
+
+88
+00:04:22,200 --> 00:04:26,090
+<font color="#E5E5E5">for all of us using the</font><font color="#CCCCCC"> internet</font><font color="#E5E5E5"> hmm</font>
+
+89
+00:04:26,090 --> 00:04:27,800
+on that<font color="#E5E5E5"> you recently unveiled plans for</font>
+
+90
+00:04:27,800 --> 00:04:29,660
+a<font color="#CCCCCC"> hack proof smartphone apparently due</font>
+
+91
+00:04:29,660 --> 00:04:31,190
+to<font color="#CCCCCC"> be released in</font><font color="#E5E5E5"> just a few</font><font color="#CCCCCC"> months from</font>
+
+92
+00:04:31,190 --> 00:04:32,870
+<font color="#E5E5E5">now could details more about that and</font>
+
+93
+00:04:32,870 --> 00:04:34,820
+<font color="#CCCCCC">also this whole incident could prove to</font>
+
+94
+00:04:34,820 --> 00:04:36,740
+<font color="#E5E5E5">be quite a good</font><font color="#CCCCCC"> bit of promotion for</font>
+
+95
+00:04:36,740 --> 00:04:40,190
+<font color="#CCCCCC">your new release I'm sorry can you</font>
+
+96
+00:04:40,190 --> 00:04:43,430
+repeat the<font color="#CCCCCC"> question</font><font color="#E5E5E5"> you recently</font>
+
+97
+00:04:43,430 --> 00:04:45,530
+<font color="#E5E5E5">unveiled plans for a hack proof</font>
+
+98
+00:04:45,530 --> 00:04:48,020
+smartphone<font color="#CCCCCC"> which apparently is due to be</font>
+
+99
+00:04:48,020 --> 00:04:49,790
+<font color="#E5E5E5">released in just a few months from now</font>
+
+100
+00:04:49,790 --> 00:04:51,530
+could you<font color="#CCCCCC"> tell us</font><font color="#E5E5E5"> more</font><font color="#CCCCCC"> about that</font><font color="#E5E5E5"> and</font>
+
+101
+00:04:51,530 --> 00:04:55,280
+possibly<font color="#CCCCCC"> confirmed that this whole this</font>
+
+102
+00:04:55,280 --> 00:04:58,460
+whole hacking situation has it's
+
+103
+00:04:58,460 --> 00:05:00,169
+probably<font color="#CCCCCC"> gonna be</font><font color="#E5E5E5"> good promotion for</font>
+
+104
+00:05:00,169 --> 00:05:04,100
+<font color="#CCCCCC">your hog proof phone</font><font color="#E5E5E5"> no I don't think so</font>
+
+105
+00:05:04,100 --> 00:05:06,110
+<font color="#CCCCCC">at all</font><font color="#E5E5E5"> because my smartphone could not</font>
+
+106
+00:05:06,110 --> 00:05:07,280
+<font color="#E5E5E5">help in this</font><font color="#CCCCCC"> hack</font>
+
+107
+00:05:07,280 --> 00:05:10,160
+nothing nothing could be done<font color="#E5E5E5"> if the if</font>
+
+108
+00:05:10,160 --> 00:05:11,930
+your<font color="#E5E5E5"> carrier is</font><font color="#CCCCCC"> the one who's being</font>
+
+109
+00:05:11,930 --> 00:05:14,360
+<font color="#E5E5E5">hacked I don't care how foolproof your</font>
+
+110
+00:05:14,360 --> 00:05:17,180
+smartphone is it's not going to<font color="#E5E5E5"> work so</font>
+
+111
+00:05:17,180 --> 00:05:18,800
+my<font color="#E5E5E5"> smartphone would not help in this</font>
+
+112
+00:05:18,800 --> 00:05:20,840
+case<font color="#E5E5E5"> it wouldn't do anything if your</font>
+
+113
+00:05:20,840 --> 00:05:23,510
+<font color="#E5E5E5">carry if you if someone has intercepted</font>
+
+114
+00:05:23,510 --> 00:05:25,970
+the signal to your phone and they put it
+
+115
+00:05:25,970 --> 00:05:28,520
+by shunt it to some<font color="#CCCCCC"> other phone there's</font>
+
+116
+00:05:28,520 --> 00:05:31,039
+nothing<font color="#E5E5E5"> that my phone can do my phone</font>
+
+117
+00:05:31,039 --> 00:05:33,800
+can<font color="#E5E5E5"> help you from applications that get</font>
+
+118
+00:05:33,800 --> 00:05:35,810
+<font color="#E5E5E5">on your phone but no it could not have</font>
+
+119
+00:05:35,810 --> 00:05:39,440
+prevented<font color="#E5E5E5"> this</font><font color="#CCCCCC"> I mean</font><font color="#E5E5E5"> that's nonsense no</font>
+
+120
+00:05:39,440 --> 00:05:41,750
+like<font color="#E5E5E5"> you said just</font><font color="#CCCCCC"> now hackers used your</font>
+
+121
+00:05:41,750 --> 00:05:43,910
+phone to your<font color="#E5E5E5"> account to promote</font>
+
+122
+00:05:43,910 --> 00:05:46,610
+altcoins your<font color="#E5E5E5"> Twitter</font><font color="#CCCCCC"> accounts how much</font>
+
+123
+00:05:46,610 --> 00:05:48,320
+of a<font color="#CCCCCC"> threat is this kind</font><font color="#E5E5E5"> of activity we</font>
+
+124
+00:05:48,320 --> 00:05:49,970
+understand there's like an ongoing craze
+
+125
+00:05:49,970 --> 00:05:51,889
+right<font color="#CCCCCC"> now of crypto</font><font color="#E5E5E5"> jacking where</font>
+
+126
+00:05:51,889 --> 00:05:54,139
+hackers<font color="#E5E5E5"> use people's computers to mine</font>
+
+127
+00:05:54,139 --> 00:05:59,180
+Bitcoin is that a huge threat well it's
+
+128
+00:05:59,180 --> 00:06:01,370
+not what happened to<font color="#CCCCCC"> me is not</font><font color="#E5E5E5"> a threat</font>
+
+129
+00:06:01,370 --> 00:06:03,440
+<font color="#E5E5E5">but there's a great threat to all - is a</font>
+
+130
+00:06:03,440 --> 00:06:05,300
+great<font color="#E5E5E5"> threat</font><font color="#CCCCCC"> to all people who have old</font>
+
+131
+00:06:05,300 --> 00:06:08,419
+<font color="#E5E5E5">crypto currencies most people do not</font>
+
+132
+00:06:08,419 --> 00:06:10,310
+<font color="#E5E5E5">keep their currencies on their own</font>
+
+133
+00:06:10,310 --> 00:06:13,400
+wallet<font color="#E5E5E5"> they use wallets on the exchanges</font>
+
+134
+00:06:13,400 --> 00:06:15,650
+now if I were a hacker trying to hack
+
+135
+00:06:15,650 --> 00:06:18,740
+<font color="#E5E5E5">into wallets and get money I wouldn't</font>
+
+136
+00:06:18,740 --> 00:06:20,599
+search<font color="#CCCCCC"> around the world for individuals</font>
+
+137
+00:06:20,599 --> 00:06:22,610
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> had their</font><font color="#CCCCCC"> wallets no</font><font color="#E5E5E5"> I would go to</font>
+
+138
+00:06:22,610 --> 00:06:25,510
+an exchange<font color="#CCCCCC"> and these changes have</font>
+
+139
+00:06:25,510 --> 00:06:28,520
+billions of dollars in<font color="#CCCCCC"> crypto currency</font>
+
+140
+00:06:28,520 --> 00:06:30,470
+<font color="#CCCCCC">so yes they're all at risk everybody</font>
+
+141
+00:06:30,470 --> 00:06:32,900
+says no<font color="#E5E5E5"> we are secure that has been</font>
+
+142
+00:06:32,900 --> 00:06:36,200
+<font color="#E5E5E5">proven over and over</font><font color="#CCCCCC"> and over again</font><font color="#E5E5E5"> to</font>
+
+143
+00:06:36,200 --> 00:06:37,440
+<font color="#CCCCCC">be absolutely not</font>
+
+144
+00:06:37,440 --> 00:06:39,600
+since<font color="#E5E5E5"> beginning with</font><font color="#CCCCCC"> mouth GOx a couple</font>
+
+145
+00:06:39,600 --> 00:06:41,640
+of years ago were hundreds<font color="#E5E5E5"> of millions</font>
+
+146
+00:06:41,640 --> 00:06:43,770
+of<font color="#E5E5E5"> dollars were lost</font><font color="#CCCCCC"> this will continue</font>
+
+147
+00:06:43,770 --> 00:06:46,530
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> happen until people that the owners</font>
+
+148
+00:06:46,530 --> 00:06:49,440
+<font color="#CCCCCC">of the exchanges understand that the</font>
+
+149
+00:06:49,440 --> 00:06:51,150
+world they are<font color="#E5E5E5"> in is far more</font>
+
+150
+00:06:51,150 --> 00:06:53,490
+sophisticated<font color="#E5E5E5"> in terms</font><font color="#CCCCCC"> of hacking</font><font color="#E5E5E5"> than</font>
+
+151
+00:06:53,490 --> 00:06:56,370
+they<font color="#E5E5E5"> believe</font><font color="#CCCCCC"> and I promise you every</font>
+
+152
+00:06:56,370 --> 00:06:58,440
+<font color="#CCCCCC">exchange will at some point in the near</font>
+
+153
+00:06:58,440 --> 00:07:01,230
+future<font color="#E5E5E5"> we can get hacked and if you have</font>
+
+154
+00:07:01,230 --> 00:07:03,630
+your<font color="#CCCCCC"> wallet on those exchanges</font><font color="#E5E5E5"> you will</font>
+
+155
+00:07:03,630 --> 00:07:05,580
+<font color="#E5E5E5">lose your money because they do not have</font>
+
+156
+00:07:05,580 --> 00:07:08,850
+the<font color="#CCCCCC"> resources to reimburse you John</font>
+
+157
+00:07:08,850 --> 00:07:10,830
+<font color="#CCCCCC">McAfee cybersecurity pioneer thank you</font>
+
+158
+00:07:10,830 --> 00:00:00,000
+for your time
+

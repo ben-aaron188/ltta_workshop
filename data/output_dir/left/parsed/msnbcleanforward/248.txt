@@ -1,0 +1,564 @@
+all right June 2016 so summer before the
+presidential election that's when we
+first learned that the Democratic
+National Committee Democratic Party had
+been hacked this was the first story
+that ran about it in the Washington Post
+which also hopefully made clear based on
+a forensic analysis that was done by a
+computer security firm that it appeared
+that that hack of the Democratic Party
+was carried out by Russian government
+hackers that was the first inkling we
+got about Russia being all up in our
+election that was June 2016 by the time
+the Democratic convention started in
+late July 2016 Russia had started their
+first document dumps of stolen material
+that they'd taken from Democratic Party
+servers and those document dumps caused
+the intended havoc at their National
+Convention to nominate the Democratic
+Party's presidential candidate the
+Democratic Party also fired the chair of
+the National Party right chaos in the
+party those leaks were specifically
+designed and curated to stoke maximum
+discontent and dissension among
+different factions of Democrats so that
+convention wouldn't unify them wouldn't
+bring them together to mount a single
+energized effort for the general
+election desired effect achieved
+Republicans of course were ecstatic
+about it they loved it and soon
+Republican candidate Donald Trump was
+calling on national television for
+Russian hackers to please hack and steal
+Hillary Clinton's personal emails as
+well we found out later in an indictment
+from Robert Miller in the special
+counsel's office that in fact Russian
+military intelligence offers officers
+tried to do just that the very day that
+Donald Trump asked them to do it by the
+following month by August August 15th we
+now know the FBI was investigating not
+only what Russia was trying to do to
+intrude in our election but also whether
+the Russians might have any American
+Confederates who were trying to help
+them by August 15th the Homeland
+Security Secretary jeh Johnson convened
+a conference call with all the top
+elections officials all over the country
+to give them all an in-person warning
+from the Secretary of Homeland Security
+about security risks to state election
+systems
+he got on the phone with all the
+secretaries of state in the country to
+talk to them about Russia's aggression
+and apparent willingness to meddle in
+that particular election and what
+appeared to be their designs
+specifically on our election
+infrastructure in the States now that
+call jeh Johnson will later explain
+didn't go all that well but then three
+days later August 18th 2016 the FBI sent
+out a secret flash alert from its cyber
+division again warning state election
+officials warning secretaries of state
+that they needed to take steps now to
+beef up their firewalls beef up their
+other security measures because it
+wasn't just some vague sense of Russian
+hostile intentions toward our elections
+no by that point the FBI cyber division
+had observed Russian state hackers
+specifically targeting multiple US
+states and succeeding in breaching
+security and getting into election
+systems so conceivably they could mess
+with the vote or mess with voter
+registrations in at least two states so
+the FBI sent out that flash alert August
+18 2016 sent it from the FBI cyber
+division that was supposed to be a
+secret alert to all the states of course
+it immediately leaked to the press but
+at least at this point you know the call
+from the Homeland Security Secretary
+with the public reporting that it was
+Russian state actors who hacked the
+Democratic Party with this flashed
+secret alert from FBI cyber hey this is
+happening they're really doing it
+they're going after the states and
+they're successfully breaching security
+in the States I mean at least at this
+point it is clear right that this is a
+serious thing this is a serious threat
+serious measures need to be taken in
+response everybody at least gets it by
+this point right no one Secretary of
+State in particular came out immediately
+and said I'm refusing any offer of
+assistance to beefed up security around
+the election in my state my election
+systems are fine I don't want any help
+from the FBI I don't want any help from
+the Homeland Security Department no I
+also refused to accept these warnings he
+said basically said this is all a
+liberal plot this this one Republican
+Secretary of State told the publication
+next gov at the time quote
+the question remains whether the federal
+government will subvert the Constitution
+to achieve the goal of federalizing
+elections under this guise of security
+he then told politico.com quote it seems
+like it is just the DC media and the
+bureaucrats because of the DNC getting
+hacked they now think our whole system
+is on the verge of disaster because some
+Russians gonna tap into the voting
+system and that is just not I mean
+anything is possible but it is not
+probable at all Politico published that
+on the morning of August 28th 2016 by
+lunchtime on August 28th 2016 literally
+that same day within hours of that
+Politico piece being published a
+researcher at an American computer
+security firm called up the election
+officials in that guy's state to let
+officials know just as a courtesy that
+in case they weren't aware their entire
+election system was completely open to
+the public and available without any
+hacking at all to any interested person
+who wanted to look at it or mess with it
+this is a state where all of the voting
+is on one type of electronic voting
+machine with no paper record created at
+any point in the process and all of
+those election systems excuse me all of
+those elections machines the whole
+system is all run out of a centralized
+election server and what this computer
+security firm was calling to let them
+know on the day that that States
+Secretary of State was like 'no this is
+ridiculous we don't need your help on
+the day he said that this computer
+security firm calls to say hey basically
+it's a little weird
+that you're the one secretary of state
+in the whole country who's saying no i
+refuse any federal help i don't need it
+and it's ridiculous to think we'd ever
+be vulnerable to any hacking in my state
+when his state literally had left its
+voting software and the voter
+registration information for millions of
+voters in that state wide open and
+available for anybody to take it on
+publicly facing computers and if he
+didn't feel like just stealing the
+information you could always leave it
+there and change it mess with it a
+little right that'd make for a fun
+I'd be leading it's just a remarkable
+piece of that moment in modern American
+history that we have all lived through
+now all right this is the one state
+where the Secretary of State says he
+doesn't need no stinking help from no
+federales right and his state appears to
+be possibly the worst protected State in
+the whole country
+in terms of its voting system just a few
+weeks later not long after that this guy
+you know talks to political and says I
+don't need any help we're fine
+computer security researchers like dude
+publicly facing I can access all of it
+few weeks later the elections happen
+the Clinton campaign had actually
+thought they might win in that state
+they didn't win and in fact they lost by
+more than they had thought possible in
+that state they lost by more than five
+points but Trump wins the election
+overall Trump gets sworn in in January
+and in February about a month after
+Trump's inauguration February 2017
+another computer security firm takes
+another poke at that one state's
+election systems online and it turns out
+in that one state nothing's any better
+again this was a computer security firm
+calling up the state with kind of a
+friendly heads-up hey I mean you no harm
+I'm not doing this to hurt you but you
+should know that you can still get all
+of the voter registration information
+for voters in your state off your
+website it's still just sitting out
+there for anybody to take or change or
+mess with that was February 2017 the
+following month in March 2017 a
+professor at a local college in the
+state actually the college where the
+election servers are held for the whole
+state he called up the state as well and
+said hey not only is all our voter
+registration information available
+online thanks to how we set up our
+system we've also got people's social
+security numbers out there and exposed
+for anybody to grab this doesn't seem
+good so a local good government group
+sues the state in the summer of 2017
+they're basically like wow given the
+ongoing and unusually severe problems
+here we a want the state to fix this and
+B we'd like there to be a look at these
+centralized servers that run our state's
+elections somebody should take a look at
+these things so we can make sure
+that there hasn't already been a hostile
+infiltration you know hostile actors
+either foreign or domestic stealing or
+manipulating information about any
+voters or any voting data given how
+poorly protected all of this information
+is and all of this infrastructure is in
+our state given the fact that our
+Secretary of State rejected all expert
+federal help to come in and shore up
+security well the state responded to
+that lawsuit a few months later by
+admitting that actually it wouldn't do
+anybody any help to look at the servers
+to see if anybody had hacked them or
+done anything bad because the state had
+just wiped them they just wiped the
+servers they erased everything there's
+nothing to look at now that was this
+time last year this time last year
+despite what by then was pretty
+considerable concern in the state about
+what's going on with their election
+system with their Secretary of State in
+particular who stood alone in the
+country and saying no this isn't a
+problem I don't want help we're fine
+Russians are you kidding election
+security ours is perfect we don't need
+any help with that
+I mean the state kept officially
+insisting there was definitely nothing
+to worry about this is all being
+overblown everything was fine but stuff
+was obviously weird I mean we're
+primaries were held in that state in May
+of this year that good government group
+they react they're lawsuit because a
+whole bunch of weird stuff happened on
+primary day this year including my
+favorite one from Mud Creek on primary
+day in a County up in the northeastern
+part of that state a precinct called Mud
+Creek the Secretary of State's website
+said on primary day in May that there
+were 276 registered voters in that Mud
+Creek precinct on primary day though
+those 276 voters cast 670 votes they're
+there they're very high output voters I
+mean that's a remarkably good voter
+turnout right
+that means 243 percent of the registered
+voters in that precinct turned out and
+voted that day Mazel Tov I mean so said
+the Secretary of State with his handy
+centralized voting system that he
+insists he needs to know help with
+whatsoever because it is perfect and
+anybody who tells them otherwise is a
+liberal who's just trying to steal stuff
+so the primaries were May
+this summer rolls around mid-july this
+past summer July 2018
+Robert Mulder in the special counsel's
+office indict a whole bunch of Russian
+military intelligence officers remember
+for their role in attacking the United
+States during the 2016 presidential
+election to try and elect Donald Trump
+and on page 26 of that indictment of all
+those GRU officers this one somewhat
+troubled US state I mean it's a it's a
+great state it's a growing state it's a
+vibrant state but it does have this
+problem when it comes to election
+security and the people who are in
+charge of it in their state who seem to
+be neglecting that very badly on page 26
+of this indictment from Muller in the
+special counsel's office this one state
+with all of this trouble in terms of its
+election security and its election
+systems they get an unexpected little
+turn in the spotlight
+well when Robert Muller and his
+prosecutors spell out new news we hadn't
+had before about what exactly Russian
+military intelligence officers were
+doing in the immediate lead-up to voting
+day 2016 quoting from the indictment
+honor about October 28th 2016
+Kovalev and his co-conspirators visited
+the websites of certain counties in
+Georgia Iowa and Florida to identify
+vulnerabilities
+Kovalev in this context is Anatoly
+Sergey avec kovalev an officer in the
+Russian military assigned to unit 7 for
+455 who worked at 22 Korova Street in
+Moscow for Russian military intelligence
+for the GRU from his cubicle in Moscow
+we learned in that indictment that that
+Russian military officer personally
+targeted election infrastructure in
+Florida in Iowa and in Georgia and
+Georgia is the state where the Secretary
+of State alone among all other states in
+the country
+he alone refused any help when it came
+to shoring up the security of his
+state's elections even after he was
+directly warned by homeland security and
+subsequently by the FBI Georgia is the
+state where the Secretary of State said
+these warnings were ridiculous
+ridiculous warnings
+chants Russia whatever target his state
+are you kidding turns out his state is
+one of the states that Russia targeted
+on October 28th 2016 and we can name the
+guy who did it and the office he was
+sitting in and when he did it once those
+Russian military officers started we're
+targeting Georgia's election system
+starting on October 28th 2016 I wonder
+what they did with Georgia's water
+systems well we don't know because under
+that Secretary of State rather than let
+anybody investigate if anything untoward
+might have happened instead they wiped
+the servers they erased the servers so
+nothing can ever be checked that
+Secretary of State in Georgia is now the
+Republican candidate for governor of
+Georgia he's presumably running for
+governor on the basis of his performance
+as Secretary of State which honestly is
+a performance for which anybody might
+rightfully expect to be famous well
+before the disaster of Georgia election
+security in the 2016 election in his
+first full year as Secretary of State in
+2010 he sent armed agents door-to-door
+in black neighborhoods in Brooks County
+Georgia this is after a big
+get-out-the-vote effort there among
+black residents that big
+get-out-the-vote effort led to the
+first-ever majority African American
+School Board in their town local
+residents said they'd been motivated
+that year by teacher layoffs in their
+school district teacher layoffs that
+were really unpopular and according to
+one local leader of the voter
+registration effort quote we've been bit
+by the Obama bug this is 2010 we've been
+bit by the Obama bug and we knew it was
+time for a change in Brooks County as
+well
+they brought criminal charges against 12
+local black residents who had helped in
+the get-out-the-vote effort they brought
+charges against those 12 residents for
+things like bringing envelopes
+containing completed absentee ballots to
+a mailbox
+they criminally charged this group of
+local residents with more than 100
+election law violations including dozens
+of felonies they put them on trial to
+face more than a thousand combined years
+in prison
+and you know what not a single one of
+those charges held up on every single
+one of those charges local resident was
+either acquitted or the charge had to be
+dropped by the prosecutors not only were
+there no convictions there weren't even
+any plea deals acquitted or dropped in
+every single one and the Attorney
+General of the state subsequently had to
+issue a statement clarifying that
+actually none of the actions those
+african-american local residents in
+Brooks County had been charged with none
+of the things they were charged with
+were actually illegal mailing in
+absentee ballots is not a crime
+registering your neighbors to vote is
+not a crime but tell that to the people
+who Brian Kemp sent his armed agents
+door-to-door after in 2010 that's Brian
+Kemp Georgia Secretary of State he also
+instituted what's called an exact match
+program designed honestly to kill voter
+registration applications if there is
+even one single digital character
+difference between your voter
+registration application and any other
+record the state has on file for you so
+if like there's an extra space added by
+the Registrar when she types in your
+name or your address literally an extra
+space or if you live on something
+something Road and the Registrar types
+in our D period to abbreviate Road
+instead of our D which is the way it's
+abbreviated without the period in some
+other database than forget it you're not
+registered your voter registration will
+be held until these irregularities can
+be sorted if they can be sorted Brian
+Kemp invented that he got sued over that
+effort in part because that unique
+program he designed and pursued out of
+his office seems to have had what
+everybody understood to be its desired
+effect in the initial iteration of that
+program which he came up with 76% of the
+voter registration applications that got
+snagged by that new program Brian Kemp
+invented 76 percent of them were from
+Georgia voters who were black Latino or
+Asian so civil rights groups sued him
+over that policy in 2016 in the end he
+agreed to end the policy and settle
+them they thought that it was over and
+that would lead to reforms nope
+instead Brian Kemp got the
+republican-controlled Georgia
+Legislature to pass a new law which
+codified that policy that he had just
+been sued over so he could put the new
+policy into effect under a different
+statutory framework and under the new
+iteration of that policy it appears to
+be even more racially targeted under the
+old version of the law the registration
+C was snagging with this policy again
+we're 76 percent black Latino or Asian
+under the newer iteration of the law
+it's 80 percent black Latino or Asian
+see he's getting better at this
+meanwhile The Associated Press this week
+revealed under the new iteration of this
+policy for Brian Kemp his office is
+sitting on over five over fifty thousand
+applications for rotor registrations
+that he has set aside because of the new
+iteration of this exact match program
+that he invented where you don't count
+as registered if there's an extra space
+somewhere or there's a period missing or
+- missing or somebody misspelled your
+name by one letter more than 50,000 as
+we reported at this time last night the
+same civil rights group that sued Brian
+Kemp over the last iteration of this
+policy have now filed another lawsuit
+against him to try to basically free
+those voter registrations and get him to
+stop doing this but here's the question
+in the state of Georgia election systems
+are not like a normal level of screwed
+up Georgia elections under Brian Kemp
+specifically have become special they're
+special in their big problems that would
+be a big enough problem for the state if
+Brian Kemp was just running this year to
+stay on for another glorious term as
+Secretary of State in Georgia running
+the state's election infrastructure but
+instead he is both running the state's
+election infrastructure administering
+this year's elections running this
+year's voter registration process as
+Secretary of State and simultaneously he
+is running as the Republican Party's
+candidate for governor in the same
+election
+imagine you're Stacey Abrams how do you
+run against a guy who's holding that
+kind of power in this process
+how do you run to win right how do you
+run against a guy when he is serving
+both as your competitor at the top of
+the ticket in the election and he is
+serving as the umpire who has very
+specific very aggressive very apparently
+racially inflected ideas about who gets
+to vote in his state and how the votes
+are handled and counted and who takes
+care to make sure the system is secure
+his competitor in the governor's race
+this year is the former Democratic
+leader in the Georgia State Legislature
+very effective Georgia leader named
+Stacey Abrams
+she's graduate of the great Spellman
+college she's an incredibly effective
+speaker and organizer she's the founder
+of a voting rights organization that
+made it its mission to register minority
+voters all over the state of Georgia and
+you know what you need powerful
+organizations to try to do that work in
+Georgia because boy are the headwinds
+strong Stacey Abrams is now calling for
+Brian Kemp to step down from his job as
+Secretary of State the head of next
+month's election in which he himself is
+at the top of the ticket that demand
+from Abrams comes as we're waiting to
+find out if Kemp's office will be
+subject subject to a restraining order
+on the basis of this new federal lawsuit
+that's just been filed against what he
+is doing with these tens of thousands of
+mostly black voter registrations that he
+is not letting go how do you fight in
+that sort of a context and more
+importantly how do you fight to win in
+that kind of a context Stacey Abrams
+joins us live for the interview next hey
+there I'm Chris Hayes from MSNBC thanks
+for watching MSNBC on YouTube if you
+want to keep up to date with the videos
+we're putting out you can click
+subscribe just below me or click over on
+this list to see lots of other great
+videos

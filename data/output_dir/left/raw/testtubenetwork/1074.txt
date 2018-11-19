@@ -1,0 +1,376 @@
+1
+00:00:00,030 --> 00:00:01,709
+net neutrality has been a hot button
+
+2
+00:00:01,709 --> 00:00:03,290
+<font color="#E5E5E5">issue</font><font color="#CCCCCC"> in the past few years</font>
+
+3
+00:00:03,290 --> 00:00:05,700
+recently the FCC voted<font color="#E5E5E5"> to keep the</font>
+
+4
+00:00:05,700 --> 00:00:06,779
+<font color="#E5E5E5">internet open</font>
+
+5
+00:00:06,779 --> 00:00:09,000
+first of all in simple terms<font color="#CCCCCC"> net</font>
+
+6
+00:00:09,000 --> 00:00:10,830
+<font color="#E5E5E5">neutrality is the idea that</font><font color="#CCCCCC"> Internet</font>
+
+7
+00:00:10,830 --> 00:00:13,049
+service<font color="#CCCCCC"> providers or ISPs should allow</font>
+
+8
+00:00:13,049 --> 00:00:15,299
+unrestricted access<font color="#E5E5E5"> to all Internet</font>
+
+9
+00:00:15,299 --> 00:00:17,250
+content<font color="#E5E5E5"> no</font><font color="#CCCCCC"> matter where it comes from as</font>
+
+10
+00:00:17,250 --> 00:00:19,560
+long<font color="#E5E5E5"> as it is legal this is opposed to</font>
+
+11
+00:00:19,560 --> 00:00:21,810
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> idea of paying extra for certain</font>
+
+12
+00:00:21,810 --> 00:00:24,180
+types of<font color="#CCCCCC"> content over</font><font color="#E5E5E5"> others or slowing</font>
+
+13
+00:00:24,180 --> 00:00:25,890
+<font color="#E5E5E5">down access to competitive or</font>
+
+14
+00:00:25,890 --> 00:00:28,529
+unfavorable content<font color="#E5E5E5"> it's been a tough</font>
+
+15
+00:00:28,529 --> 00:00:30,510
+<font color="#CCCCCC">journey so far</font><font color="#E5E5E5"> for both sides of the</font>
+
+16
+00:00:30,510 --> 00:00:31,740
+debate<font color="#CCCCCC"> but let's look</font><font color="#E5E5E5"> at the</font>
+
+17
+00:00:31,740 --> 00:00:34,040
+controversial battle<font color="#E5E5E5"> for net</font><font color="#CCCCCC"> neutrality</font>
+
+18
+00:00:34,040 --> 00:00:36,450
+<font color="#CCCCCC">the basis</font><font color="#E5E5E5"> for the whole net neutrality</font>
+
+19
+00:00:36,450 --> 00:00:38,820
+debate<font color="#E5E5E5"> stems from the Telecommunications</font>
+
+20
+00:00:38,820 --> 00:00:41,700
+Act of 1996<font color="#CCCCCC"> it gives the FCC the</font>
+
+21
+00:00:41,700 --> 00:00:44,040
+<font color="#E5E5E5">authority to classify internet providers</font>
+
+22
+00:00:44,040 --> 00:00:46,350
+one of two ways<font color="#CCCCCC"> has telecommunication</font>
+
+23
+00:00:46,350 --> 00:00:48,870
+services or<font color="#E5E5E5"> information services the</font>
+
+24
+00:00:48,870 --> 00:00:50,610
+first can be<font color="#CCCCCC"> regulated by title</font><font color="#E5E5E5"> 2</font>
+
+25
+00:00:50,610 --> 00:00:52,530
+regulations are basically the<font color="#CCCCCC"> same ones</font>
+
+26
+00:00:52,530 --> 00:00:54,420
+<font color="#E5E5E5">we use for phone companies while the</font>
+
+27
+00:00:54,420 --> 00:00:57,210
+other is<font color="#E5E5E5"> not subject</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> those</font><font color="#CCCCCC"> same FCC</font>
+
+28
+00:00:57,210 --> 00:00:59,730
+regulations<font color="#E5E5E5"> in response to an ISPs</font>
+
+29
+00:00:59,730 --> 00:01:01,590
+attempts to limit<font color="#CCCCCC"> competition by</font>
+
+30
+00:01:01,590 --> 00:01:03,300
+<font color="#CCCCCC">restricting access to</font><font color="#E5E5E5"> certain types</font><font color="#CCCCCC"> of</font>
+
+31
+00:01:03,300 --> 00:01:03,719
+data
+
+32
+00:01:03,719 --> 00:01:05,850
+the FCC releases the first<font color="#E5E5E5"> rules</font>
+
+33
+00:01:05,850 --> 00:01:07,979
+defining<font color="#E5E5E5"> an early concept for net</font>
+
+34
+00:01:07,979 --> 00:01:11,010
+neutrality<font color="#CCCCCC"> August 2008 the</font><font color="#E5E5E5"> FCC finds</font>
+
+35
+00:01:11,010 --> 00:01:12,840
+that Comcast was interfering with
+
+36
+00:01:12,840 --> 00:01:16,110
+BitTorrent traffic<font color="#E5E5E5"> and censures them two</font>
+
+37
+00:01:16,110 --> 00:01:18,720
+<font color="#E5E5E5">years</font><font color="#CCCCCC"> later in April 2010</font><font color="#E5E5E5"> Comcast</font><font color="#CCCCCC"> sues</font>
+
+38
+00:01:18,720 --> 00:01:21,030
+the<font color="#E5E5E5"> FCC saying they do not have the</font>
+
+39
+00:01:21,030 --> 00:01:23,729
+authority<font color="#E5E5E5"> to regulate ISPs the DC</font>
+
+40
+00:01:23,729 --> 00:01:25,530
+<font color="#E5E5E5">Circuit Court</font><font color="#CCCCCC"> of Appeals agrees with</font>
+
+41
+00:01:25,530 --> 00:01:28,710
+Comcast in December<font color="#E5E5E5"> of that same</font><font color="#CCCCCC"> year</font>
+
+42
+00:01:28,710 --> 00:01:30,900
+the FCC approves new<font color="#E5E5E5"> net neutrality</font>
+
+43
+00:01:30,900 --> 00:01:33,570
+rules<font color="#E5E5E5"> preventing ISPs from blocking or</font>
+
+44
+00:01:33,570 --> 00:01:35,820
+slowing the flow<font color="#CCCCCC"> of information sparking</font>
+
+45
+00:01:35,820 --> 00:01:37,590
+an immediate backlash<font color="#CCCCCC"> from cable</font>
+
+46
+00:01:37,590 --> 00:01:40,770
+companies<font color="#E5E5E5"> in January 2014 the DC Court</font>
+
+47
+00:01:40,770 --> 00:01:43,020
+rules<font color="#E5E5E5"> that most of the FCC's new rules</font>
+
+48
+00:01:43,020 --> 00:01:44,850
+about<font color="#E5E5E5"> blocking access to data and</font>
+
+49
+00:01:44,850 --> 00:01:47,009
+unreasonable discrimination<font color="#CCCCCC"> are not</font>
+
+50
+00:01:47,009 --> 00:01:49,049
+enforceable<font color="#CCCCCC"> a huge glow for net</font>
+
+51
+00:01:49,049 --> 00:01:51,600
+neutrality<font color="#E5E5E5"> Netflix quietly begins paying</font>
+
+52
+00:01:51,600 --> 00:01:53,790
+Comcast and Verizon<font color="#CCCCCC"> to serve customers</font>
+
+53
+00:01:53,790 --> 00:01:55,470
+better bandwidth<font color="#E5E5E5"> after being throttled</font>
+
+54
+00:01:55,470 --> 00:01:58,229
+<font color="#CCCCCC">the internet explodes an</font><font color="#E5E5E5"> outrage over</font>
+
+55
+00:01:58,229 --> 00:02:00,360
+slow and fast<font color="#E5E5E5"> data lanes based on paid</font>
+
+56
+00:02:00,360 --> 00:02:03,030
+prioritization<font color="#CCCCCC"> June 1st</font><font color="#E5E5E5"> John Oliver's</font>
+
+57
+00:02:03,030 --> 00:02:04,740
+last week tonight raises the issue<font color="#E5E5E5"> of</font>
+
+58
+00:02:04,740 --> 00:02:06,390
+net neutrality<font color="#E5E5E5"> and it gets so</font><font color="#CCCCCC"> much</font>
+
+59
+00:02:06,390 --> 00:02:08,848
+attention<font color="#CCCCCC"> that the FCC comment system</font>
+
+60
+00:02:08,848 --> 00:02:11,068
+crashes<font color="#E5E5E5"> within</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> following weeks the</font>
+
+61
+00:02:11,068 --> 00:02:13,310
+FCC comment system<font color="#E5E5E5"> receives over 1</font>
+
+62
+00:02:13,310 --> 00:02:16,370
+in comments<font color="#CCCCCC"> of which 99% are pro net</font>
+
+63
+00:02:16,370 --> 00:02:18,920
+neutrality<font color="#CCCCCC"> internet</font><font color="#E5E5E5"> slowdown day a</font>
+
+64
+00:02:18,920 --> 00:02:20,989
+number<font color="#E5E5E5"> of websites self throttle their</font>
+
+65
+00:02:20,989 --> 00:02:22,790
+traffic to demonstrate what life would
+
+66
+00:02:22,790 --> 00:02:25,819
+be<font color="#E5E5E5"> like without net neutrality</font><font color="#CCCCCC"> the FCC</font>
+
+67
+00:02:25,819 --> 00:02:27,800
+comment system<font color="#E5E5E5"> approaches</font><font color="#CCCCCC"> 4 million and</font>
+
+68
+00:02:27,800 --> 00:02:30,290
+crashes again<font color="#E5E5E5"> November 10th</font><font color="#CCCCCC"> President</font>
+
+69
+00:02:30,290 --> 00:02:32,830
+<font color="#E5E5E5">Barack Obama endorses net neutrality and</font>
+
+70
+00:02:32,830 --> 00:02:36,769
+reclassification<font color="#E5E5E5"> of ISPs January 2015</font>
+
+71
+00:02:36,769 --> 00:02:38,750
+Senate Republicans<font color="#CCCCCC"> propose a weak net</font>
+
+72
+00:02:38,750 --> 00:02:42,080
+neutrality bill<font color="#E5E5E5"> with few protections FCC</font>
+
+73
+00:02:42,080 --> 00:02:44,150
+Chairman Tom<font color="#E5E5E5"> wheeler endorses net</font>
+
+74
+00:02:44,150 --> 00:02:46,190
+neutrality in a<font color="#CCCCCC"> Wired op-ed piece a few</font>
+
+75
+00:02:46,190 --> 00:02:47,900
+<font color="#CCCCCC">weeks before</font><font color="#E5E5E5"> the major vote to</font>
+
+76
+00:02:47,900 --> 00:02:51,590
+reclassify ISPs<font color="#E5E5E5"> February 26th the FCC</font>
+
+77
+00:02:51,590 --> 00:02:53,540
+reclassify broadband companies as
+
+78
+00:02:53,540 --> 00:02:55,880
+telecommunication services officially
+
+79
+00:02:55,880 --> 00:02:57,290
+putting an end to data blocking
+
+80
+00:02:57,290 --> 00:02:59,870
+throttling and paid prioritization<font color="#E5E5E5"> after</font>
+
+81
+00:02:59,870 --> 00:03:01,730
+losing so<font color="#E5E5E5"> many battles it looks like net</font>
+
+82
+00:03:01,730 --> 00:03:03,739
+<font color="#CCCCCC">neutrality advocates have finally won</font>
+
+83
+00:03:03,739 --> 00:03:05,480
+the<font color="#E5E5E5"> war for</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> Internet at least for</font>
+
+84
+00:03:05,480 --> 00:03:08,299
+now no doubt ISPs will<font color="#E5E5E5"> go to court to</font>
+
+85
+00:03:08,299 --> 00:03:11,120
+challenge<font color="#E5E5E5"> the new rules the</font><font color="#CCCCCC"> internet</font><font color="#E5E5E5"> is</font>
+
+86
+00:03:11,120 --> 00:03:12,799
+a pretty complicated thing<font color="#CCCCCC"> that most</font><font color="#E5E5E5"> of</font>
+
+87
+00:03:12,799 --> 00:03:14,780
+us<font color="#E5E5E5"> take for granted</font><font color="#CCCCCC"> if you want to</font><font color="#E5E5E5"> learn</font>
+
+88
+00:03:14,780 --> 00:03:16,670
+how the internet works<font color="#CCCCCC"> take a look at</font>
+
+89
+00:03:16,670 --> 00:03:19,160
+this<font color="#CCCCCC"> video I made with</font><font color="#E5E5E5"> dnews and if you</font>
+
+90
+00:03:19,160 --> 00:03:20,180
+want to<font color="#E5E5E5"> learn more about net neutrality</font>
+
+91
+00:03:20,180 --> 00:03:22,730
+<font color="#CCCCCC">there's a nice animated</font><font color="#E5E5E5"> explainer right</font>
+
+92
+00:03:22,730 --> 00:03:24,410
+here thank<font color="#E5E5E5"> you</font><font color="#CCCCCC"> for watching</font><font color="#E5E5E5"> test-tube</font>
+
+93
+00:03:24,410 --> 00:03:26,180
+<font color="#CCCCCC">don't forget to subscribe</font>
+
+94
+00:03:26,180 --> 00:00:00,000
+[Music]
+

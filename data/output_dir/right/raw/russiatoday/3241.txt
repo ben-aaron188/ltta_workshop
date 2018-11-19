@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:02,100
+<font color="#E5E5E5">Google has confirmed that it's been</font>
+
+2
+00:00:02,100 --> 00:00:04,680
+collecting location data from<font color="#CCCCCC"> Android</font>
+
+3
+00:00:04,680 --> 00:00:06,930
+phones<font color="#E5E5E5"> even</font><font color="#CCCCCC"> when users have disabled</font>
+
+4
+00:00:06,930 --> 00:00:09,179
+location services<font color="#E5E5E5"> and removed the SIM</font>
+
+5
+00:00:09,179 --> 00:00:11,429
+<font color="#E5E5E5">card</font><font color="#CCCCCC"> the practice was discovered by the</font>
+
+6
+00:00:11,429 --> 00:00:14,219
+<font color="#E5E5E5">news website quartz</font><font color="#CCCCCC"> Google insists it</font>
+
+7
+00:00:14,219 --> 00:00:16,079
+neither stored nor<font color="#CCCCCC"> used the information</font>
+
+8
+00:00:16,079 --> 00:00:17,940
+<font color="#CCCCCC">but has agreed to</font><font color="#E5E5E5"> stop</font>
+
+9
+00:00:17,940 --> 00:00:19,890
+Caleb Marvin explains how the tracking
+
+10
+00:00:19,890 --> 00:00:23,220
+<font color="#E5E5E5">works now your cell phone will often ask</font>
+
+11
+00:00:23,220 --> 00:00:25,439
+<font color="#E5E5E5">you annoying questions like would you</font>
+
+12
+00:00:25,439 --> 00:00:28,560
+<font color="#CCCCCC">like to share your geolocation data well</font>
+
+13
+00:00:28,560 --> 00:00:30,660
+if you answer the question no<font color="#E5E5E5"> you would</font>
+
+14
+00:00:30,660 --> 00:00:33,059
+assume that<font color="#E5E5E5"> your geo data is safe</font><font color="#CCCCCC"> well</font>
+
+15
+00:00:33,059 --> 00:00:35,340
+it turns out you're wrong cell<font color="#E5E5E5"> phone's</font>
+
+16
+00:00:35,340 --> 00:00:37,800
+<font color="#E5E5E5">operating on Android are sharing</font>
+
+17
+00:00:37,800 --> 00:00:40,079
+<font color="#E5E5E5">information with</font><font color="#CCCCCC"> Google even</font><font color="#E5E5E5"> if you take</font>
+
+18
+00:00:40,079 --> 00:00:42,629
+<font color="#E5E5E5">the SIM card out the Android phone will</font>
+
+19
+00:00:42,629 --> 00:00:44,910
+start<font color="#E5E5E5"> gathering the addresses at any</font>
+
+20
+00:00:44,910 --> 00:00:47,370
+<font color="#E5E5E5">nearby cell phone towers I'm standing</font>
+
+21
+00:00:47,370 --> 00:00:56,250
+<font color="#E5E5E5">not</font><font color="#CCCCCC"> far from one right now essentially</font>
+
+22
+00:00:56,250 --> 00:00:58,050
+what you<font color="#CCCCCC"> need is a few pieces of</font>
+
+23
+00:00:58,050 --> 00:01:00,930
+information<font color="#E5E5E5"> you need the unique identity</font>
+
+24
+00:01:00,930 --> 00:01:03,149
+of the phone itself<font color="#CCCCCC"> which every phone</font>
+
+25
+00:01:03,149 --> 00:01:06,479
+has and in this case they're using cell
+
+26
+00:01:06,479 --> 00:01:09,689
+tower locations<font color="#E5E5E5"> and so if you have a</font>
+
+27
+00:01:09,689 --> 00:01:13,170
+single<font color="#CCCCCC"> cell tower</font><font color="#E5E5E5"> then that will only</font>
+
+28
+00:01:13,170 --> 00:01:16,040
+tell you something about<font color="#E5E5E5"> a radius around</font>
+
+29
+00:01:16,040 --> 00:01:20,369
+which the phone is<font color="#E5E5E5"> somewhere but if you</font>
+
+30
+00:01:20,369 --> 00:01:23,850
+have let's say<font color="#E5E5E5"> three cell towers that</font>
+
+31
+00:01:23,850 --> 00:01:26,400
+all have different distance locations
+
+32
+00:01:26,400 --> 00:01:29,130
+then you can triangulate<font color="#CCCCCC"> pretty closely</font>
+
+33
+00:01:29,130 --> 00:01:31,409
+to where the actual phone is<font color="#E5E5E5"> so you're</font>
+
+34
+00:01:31,409 --> 00:01:34,200
+<font color="#E5E5E5">only referring to the</font><font color="#CCCCCC"> phones identity</font>
+
+35
+00:01:34,200 --> 00:01:37,829
+<font color="#E5E5E5">and the fact that it is on the</font><font color="#CCCCCC"> native</font>
+
+36
+00:01:37,829 --> 00:01:39,780
+telephone network so what it's<font color="#CCCCCC"> doing is</font>
+
+37
+00:01:39,780 --> 00:01:44,430
+it's pinging cell towers nearby and by
+
+38
+00:01:44,430 --> 00:01:47,939
+the way all phones<font color="#E5E5E5"> do that</font><font color="#CCCCCC"> Google admits</font>
+
+39
+00:01:47,939 --> 00:01:49,470
+that<font color="#E5E5E5"> they've been keeping track</font><font color="#CCCCCC"> of</font>
+
+40
+00:01:49,470 --> 00:01:52,439
+mobile phone IDs<font color="#E5E5E5"> and their location for</font>
+
+41
+00:01:52,439 --> 00:01:54,360
+<font color="#E5E5E5">over a year</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> but they insist their</font>
+
+42
+00:01:54,360 --> 00:01:57,210
+intentions<font color="#E5E5E5"> are good in January of this</font>
+
+43
+00:01:57,210 --> 00:02:00,030
+<font color="#E5E5E5">year</font><font color="#CCCCCC"> we began looking</font><font color="#E5E5E5"> into using cell ID</font>
+
+44
+00:02:00,030 --> 00:02:02,340
+codes as an additional signal to further
+
+45
+00:02:02,340 --> 00:02:04,259
+<font color="#E5E5E5">improve the speed and performance of</font>
+
+46
+00:02:04,259 --> 00:02:06,600
+message delivery<font color="#CCCCCC"> Google claims that it</font>
+
+47
+00:02:06,600 --> 00:02:08,459
+hasn't<font color="#E5E5E5"> done anything particularly with</font>
+
+48
+00:02:08,459 --> 00:02:09,030
+this day
+
+49
+00:02:09,030 --> 00:02:12,420
+and now is<font color="#CCCCCC"> gonna turn it off I</font><font color="#E5E5E5"> don't</font>
+
+50
+00:02:12,420 --> 00:02:14,520
+find that entirely credible<font color="#CCCCCC"> because some</font>
+
+51
+00:02:14,520 --> 00:02:16,980
+<font color="#E5E5E5">engineer or group of engineers had to</font>
+
+52
+00:02:16,980 --> 00:02:19,170
+<font color="#E5E5E5">spend time putting together this</font>
+
+53
+00:02:19,170 --> 00:02:21,120
+<font color="#CCCCCC">capability and they had to do it for a</font>
+
+54
+00:02:21,120 --> 00:02:23,100
+<font color="#CCCCCC">reason because someone told him</font><font color="#E5E5E5"> to do it</font>
+
+55
+00:02:23,100 --> 00:02:24,690
+now<font color="#CCCCCC"> Google</font><font color="#E5E5E5"> assures us</font><font color="#CCCCCC"> that we have</font>
+
+56
+00:02:24,690 --> 00:02:26,760
+<font color="#CCCCCC">nothing to</font><font color="#E5E5E5"> worry about</font><font color="#CCCCCC"> that they never</font>
+
+57
+00:02:26,760 --> 00:02:29,280
+store or share<font color="#CCCCCC"> our data with anyone</font><font color="#E5E5E5"> well</font>
+
+58
+00:02:29,280 --> 00:02:32,720
+we've heard that song<font color="#CCCCCC"> and dance before</font>
+
+59
+00:02:32,720 --> 00:02:37,140
+does the NSA collect<font color="#CCCCCC"> any type of data</font><font color="#E5E5E5"> at</font>
+
+60
+00:02:37,140 --> 00:02:39,840
+all on millions or hundreds of<font color="#E5E5E5"> millions</font>
+
+61
+00:02:39,840 --> 00:02:46,980
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> Americans no sir it does</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> not</font>
+
+62
+00:02:46,980 --> 00:02:50,340
+wittingly<font color="#E5E5E5"> the technology really</font><font color="#CCCCCC"> is</font>
+
+63
+00:02:50,340 --> 00:02:52,290
+<font color="#E5E5E5">moving faster than the regulatory</font>
+
+64
+00:02:52,290 --> 00:02:55,830
+<font color="#E5E5E5">apparatus so there's not</font><font color="#CCCCCC"> any easy way to</font>
+
+65
+00:02:55,830 --> 00:02:57,570
+suddenly come<font color="#CCCCCC"> up with new rules that</font>
+
+66
+00:02:57,570 --> 00:02:59,160
+<font color="#E5E5E5">will take care of</font><font color="#CCCCCC"> these things most</font><font color="#E5E5E5"> of</font>
+
+67
+00:02:59,160 --> 00:03:03,739
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> time</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> political</font><font color="#E5E5E5"> bodies aren't as</font>
+
+68
+00:03:03,739 --> 00:03:07,140
+technologically savvy<font color="#CCCCCC"> as Silicon Valley</font>
+
+69
+00:03:07,140 --> 00:03:09,470
+so they don't even<font color="#E5E5E5"> really understand</font>
+
+70
+00:03:09,470 --> 00:03:12,239
+what<font color="#E5E5E5"> this stuff is doing</font><font color="#CCCCCC"> Google</font><font color="#E5E5E5"> says</font>
+
+71
+00:03:12,239 --> 00:03:14,280
+that Android phones will stop<font color="#CCCCCC"> tracking</font>
+
+72
+00:03:14,280 --> 00:03:15,870
+the locations<font color="#E5E5E5"> of users without their</font>
+
+73
+00:03:15,870 --> 00:03:18,120
+consent<font color="#CCCCCC"> by the end of November that</font>
+
+74
+00:03:18,120 --> 00:03:20,370
+sounds like<font color="#E5E5E5"> good</font><font color="#CCCCCC"> news unlike the fact</font>
+
+75
+00:03:20,370 --> 00:03:21,750
+<font color="#CCCCCC">that they have</font><font color="#E5E5E5"> been doing it without</font>
+
+76
+00:03:21,750 --> 00:03:25,760
+consent for many months<font color="#CCCCCC"> caleb</font><font color="#E5E5E5"> Maupin RT</font>
+
+77
+00:03:25,760 --> 00:00:00,000
+washington<font color="#CCCCCC"> DC</font>
+

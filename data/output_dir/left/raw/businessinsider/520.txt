@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:01,380
+quantitative investing is an
+
+2
+00:00:01,380 --> 00:00:03,090
+<font color="#CCCCCC">implementation methodology more than a</font>
+
+3
+00:00:03,090 --> 00:00:05,250
+<font color="#E5E5E5">strategy itself and so I would consider</font>
+
+4
+00:00:05,250 --> 00:00:06,509
+<font color="#E5E5E5">the two different implementation</font>
+
+5
+00:00:06,509 --> 00:00:08,400
+methodologies discretionary investing or
+
+6
+00:00:08,400 --> 00:00:09,900
+quantitative investing and<font color="#E5E5E5"> within</font>
+
+7
+00:00:09,900 --> 00:00:11,700
+quantitative investing there's multiple
+
+8
+00:00:11,700 --> 00:00:13,139
+<font color="#CCCCCC">different strategies that people can</font>
+
+9
+00:00:13,139 --> 00:00:16,109
+actually<font color="#E5E5E5"> deploy</font><font color="#CCCCCC"> one of them being risk</font>
+
+10
+00:00:16,109 --> 00:00:18,090
+parity one of them being CTA and another
+
+11
+00:00:18,090 --> 00:00:20,160
+being statistical arbitrage but when we
+
+12
+00:00:20,160 --> 00:00:21,779
+talk<font color="#CCCCCC"> about quantitative investing we're</font>
+
+13
+00:00:21,779 --> 00:00:25,380
+using systematic processes to ultimately
+
+14
+00:00:25,380 --> 00:00:28,140
+take<font color="#CCCCCC"> the</font><font color="#E5E5E5"> decision-making or emotion</font><font color="#CCCCCC"> out</font>
+
+15
+00:00:28,140 --> 00:00:30,000
+<font color="#E5E5E5">of the process and</font><font color="#CCCCCC"> so rather</font><font color="#E5E5E5"> than</font>
+
+16
+00:00:30,000 --> 00:00:31,590
+relying on human decision-making<font color="#E5E5E5"> or</font>
+
+17
+00:00:31,590 --> 00:00:33,630
+human emotions to dictate the process
+
+18
+00:00:33,630 --> 00:00:37,290
+we're allowing<font color="#E5E5E5"> the science to actually</font>
+
+19
+00:00:37,290 --> 00:00:40,050
+make decisions<font color="#E5E5E5"> for us and so oftentimes</font>
+
+20
+00:00:40,050 --> 00:00:42,420
+we hear<font color="#CCCCCC"> about people who are running</font>
+
+21
+00:00:42,420 --> 00:00:45,690
+discretionary strategies who make<font color="#E5E5E5"> not</font>
+
+22
+00:00:45,690 --> 00:00:47,160
+necessarily always<font color="#E5E5E5"> the best decisions</font>
+
+23
+00:00:47,160 --> 00:00:49,530
+because they've allowed<font color="#E5E5E5"> their emotion to</font>
+
+24
+00:00:49,530 --> 00:00:51,570
+get to them<font color="#E5E5E5"> and so by deploying</font>
+
+25
+00:00:51,570 --> 00:00:53,399
+quantitative strategies we've taken that
+
+26
+00:00:53,399 --> 00:00:00,000
+element out of the<font color="#E5E5E5"> equation</font>
+

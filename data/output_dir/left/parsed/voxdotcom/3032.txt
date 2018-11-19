@@ -1,0 +1,88 @@
+between 1940 and 1960 the amount of mail
+doubled in the United States that's
+largely because companies begin using
+computers to send automated mailings
+soon the flood of mails sent by banks
+advertisers and other businesses was
+overwhelming postal workers the Postal
+Service needed a solution in 1963 the
+zone improvement plan divided the
+country into ten regions and assigned
+five digits increasing in specificity
+from region two large sorting centers to
+smaller post offices where previously
+male workers had to figure out which
+post office went with which address now
+the zip code provided that information
+for them the government promoted the new
+system with the cartoon character mr.
+zip and a new song from the zip code
+lovin band called the swinging six
+and it worked by 1969 83% of Americans
+were using zip codes in between 1971 and
+1980 the number of pieces of mail that
+were processed per year increased by 17
+billion but the system was limited zip
+codes are made from digits unlike the
+alphanumeric Canadian system which can
+encode more information per character as
+America grew zip codes got longer in
+1983 a four digit suffix was added to
+denote specific addresses like city
+blocks or large buildings while this
+update improved delivery
+it requires zip codes to be continually
+managed to reflect changing destinations
+and delivery routes instead of a system
+dependent on structures a geo coded zip
+code would be dependent on place this
+gives every point on earth a unique
+permanent address and geo coded
+deliveries can be sent to specific
+pickup points at an address more
+specificity would also benefit
+industries that use zip codes for
+purposes other than sending them like
+analyzing data in Britain the Postal
+Service has already geo coded their
+system and blended Realtors have used
+that data to make more detailed maps of
+housing prices without Geo codes
+American addressing is limited to zip
+codes and building numbers any further
+detail has to be written with the Geo
+code sending mail directly to the Oval
+Office is as easy as remembering three
+eight point eight nine seven three six
+zero three minus seven seven point zero
+three seven four one six two or not that
+easy complex numbers are hard to
+remember so systems have been created to
+simplify Geo codes one system called
+natural area code converts latitudes and
+longitudes into an alphanumeric Nakba
+which is better but still not great a
+different system uses words which we
+tend to remember more easily than
+characters a company called what three
+words has divided the world into 57
+trillion squares and given each square a
+unique string of 3 words each
+combination of words goes with a
+specific latitude and longitude if our
+postal service used what 3 words you
+could send your letter directly to rich
+soup noble and the president could pick
+it up at the window of the
+office while language makes geocodes
+easier for humans machines prefer to
+process numbers so the zip code probably
+will evolve in ways we won't notice
+right now computers add delivery
+instructions by converting zip codes
+into a barcode that is printed on a
+shipment in the future a similar process
+might incorporate geocoding which would
+probably leave us with one question if
+we don't need to learn a new system do
+we still get a new song

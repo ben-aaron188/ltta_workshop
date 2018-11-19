@@ -1,0 +1,132 @@
+Trevor Paglen is an artist based in
+Berlin his work has made headlines for
+exploring CIA black sites drone warfare
+and America's secret security apparatus
+his latest project tackles computer
+vision on any given day or any given
+minute more machines are analyzing
+images and seeing them and making sense
+of them than humans are entitled the
+Atlas of invisible images the word
+provides a window into a world of
+surveillance and computer analysis that
+most of us just don't think about I
+cannot collectively call them invisible
+images because they're images that are
+not for us they're images for computers
+we don't see them in many cases we don't
+have access to them and so I've been
+doing this kind of huge exploration of
+that trying to understand what the
+mechanics of computer vision are what
+its implications are not only for image
+making but you know sociological and
+political implications and that sort of
+thing as well
+computer vision training computers to
+recognize objects and people is already
+used for advertising security and social
+media and will likely become even more
+widespread Patton has trained his own AI
+much like those that are being quietly
+deployed elsewhere by feeding it
+thousands upon thousands of RAW images
+where do you get all these images from
+when you're doing this kind of research
+in general you're using standardized
+training sets so there's training sets
+for recognize emotions recognizing faces
+recognizing different kinds of objects
+and there's even weirder ones like
+recognizing different kinds of fast food
+you know or different kinds of like
+kittens or whatever most of these
+training sets were compiled by
+universities doing computer science
+research in the 1990s nobody expected
+they'd be the basis for nearly all image
+recognition 25 years later so when I'm
+looking into this this webcam what was
+it interpreting me as it says you are a
+band-aid or you might be an oxygen mask
+where you're probably a band-aid
+really really brutal it was not
+necessary it's being a little bit racist
+it's telling you that you're probably a
+monkey now I think this this this one
+has not really trained on humans while
+it's awkward to be categorized with the
+proboscis monkey by a computer what's
+more unsettling is how artificial
+intelligence arrived with such
+conclusions for example if you are
+putting an image on Facebook what your
+experience of that is is similar to a
+photo album what a typical facial
+recognition algorithm would be would
+take all of those images of your face
+but it knows are you and combine them
+into a kind of meta image of your face
+they'll take your face and subtract from
+you what you have in common with
+everybody else to arrive at what is a
+unique fingerprint as it were of your
+face what is different about your face
+so that's an example of a kind of
+invisible image that a computer
+algorithm invented for itself but you
+don't have to you don't there's nothing
+in the world that says you have to train
+a eye on like common sense objects to
+show that what computers see is a
+surreal version of the world based on
+what they've been fed by their
+programmers tagged and trained his
+computers on images themes around
+Freud's dream symbols American predators
+and historic metaphors for capitalism
+among other things I guess when you do
+more sort of abstract or surrealist
+datasets or ask me different questions
+and vision you're asking how they think
+exactly one of the wonderful things
+about humans is that we are constantly
+able to redefine the ways that that we
+make meaning this is kind of one of the
+philosophical dangers of using
+widespread automation which is that it
+fixes meaning that's kind of one of the
+things I'm trying to get out with this
+quality of artwork is try to like point
+out that vision is always culturally
+constructed and constructed through
+politics and constructed through history
+even in Berlin a city which is
+suspicious of surveillance after years
+of Soviet eavesdropping trevor's atlas
+seemed far from an academic exercise
+all around us people were uploading
+selfies which are often used by social
+media and search companies to build
+their own computer vision databases
+really that's the point of my project
+I'm calling these invisible
+images because it really are
+technologies and forms of seeing that
+surround us literally all the time but
+that our eyes which are made out of
+flesh are not you know are not capable
+of seeing what would you say to all
+these people who are happily making
+selfies I presume reasonably oblivious
+of the interests that lie behind the
+companies that I would love to live in a
+world where all of us could make all the
+selfies that we wanted but I guess the
+guiding assumption that I always make
+with this sort of thing is that who
+stands to benefit big companies benefit
+police benefit military benefit and
+oftentimes that benefit comes at the
+expense of individual people
+you

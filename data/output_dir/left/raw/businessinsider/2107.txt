@@ -1,0 +1,168 @@
+1
+00:00:02,170 --> 00:00:04,819
+Excel has<font color="#CCCCCC"> a great tool called</font><font color="#E5E5E5"> text to</font>
+
+2
+00:00:04,819 --> 00:00:06,590
+columns<font color="#E5E5E5"> which allows you to clean</font><font color="#CCCCCC"> up all</font>
+
+3
+00:00:06,590 --> 00:00:08,900
+sorts<font color="#E5E5E5"> of different types</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> data</font><font color="#CCCCCC"> sets</font><font color="#E5E5E5"> so</font>
+
+4
+00:00:08,900 --> 00:00:10,370
+here I<font color="#E5E5E5"> have a list of names and I want</font>
+
+5
+00:00:10,370 --> 00:00:12,320
+<font color="#CCCCCC">to break them up into two</font><font color="#E5E5E5"> columns</font><font color="#CCCCCC"> first</font>
+
+6
+00:00:12,320 --> 00:00:14,330
+name and last name<font color="#E5E5E5"> I'm just going to</font>
+
+7
+00:00:14,330 --> 00:00:17,510
+select<font color="#CCCCCC"> this data</font><font color="#E5E5E5"> click data text to</font>
+
+8
+00:00:17,510 --> 00:00:19,940
+columns<font color="#CCCCCC"> I'm going to select you limited</font>
+
+9
+00:00:19,940 --> 00:00:21,890
+<font color="#E5E5E5">because I want to use the space in</font>
+
+10
+00:00:21,890 --> 00:00:24,050
+<font color="#E5E5E5">between</font><font color="#CCCCCC"> each name to separate and even</font>
+
+11
+00:00:24,050 --> 00:00:26,420
+see here<font color="#E5E5E5"> that each name is separated</font>
+
+12
+00:00:26,420 --> 00:00:28,910
+<font color="#CCCCCC">where there's a space</font><font color="#E5E5E5"> click finish</font>
+
+13
+00:00:28,910 --> 00:00:32,780
+and now I have a first<font color="#CCCCCC"> name column</font><font color="#E5E5E5"> and I</font>
+
+14
+00:00:32,780 --> 00:00:35,440
+<font color="#E5E5E5">at</font><font color="#CCCCCC"> last name</font>
+
+15
+00:00:35,740 --> 00:00:37,760
+sometimes when you download data it<font color="#E5E5E5"> will</font>
+
+16
+00:00:37,760 --> 00:00:40,670
+be in CSV format<font color="#CCCCCC"> comma separated values</font>
+
+17
+00:00:40,670 --> 00:00:42,590
+<font color="#E5E5E5">where the data for each column is</font>
+
+18
+00:00:42,590 --> 00:00:44,570
+separated by a comma<font color="#CCCCCC"> so if I highlight</font>
+
+19
+00:00:44,570 --> 00:00:47,239
+this data click text to column<font color="#E5E5E5"> again</font>
+
+20
+00:00:47,239 --> 00:00:48,680
+this will be delimited<font color="#CCCCCC"> because I'm going</font>
+
+21
+00:00:48,680 --> 00:00:50,960
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> separate the data wherever</font><font color="#CCCCCC"> there</font><font color="#E5E5E5"> the</font>
+
+22
+00:00:50,960 --> 00:00:51,350
+comma
+
+23
+00:00:51,350 --> 00:00:53,989
+click the next switch this<font color="#CCCCCC"> to comma</font>
+
+24
+00:00:53,989 --> 00:00:56,660
+<font color="#E5E5E5">instead of space if you scroll down you</font>
+
+25
+00:00:56,660 --> 00:00:59,120
+can<font color="#E5E5E5"> preview looks good looks</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> it's</font>
+
+26
+00:00:59,120 --> 00:01:00,649
+separating the data<font color="#E5E5E5"> correctly click</font>
+
+27
+00:01:00,649 --> 00:01:01,390
+<font color="#E5E5E5">finish</font>
+
+28
+00:01:01,390 --> 00:01:03,010
+and there you have<font color="#E5E5E5"> it your data is</font>
+
+29
+00:01:03,010 --> 00:01:05,140
+exactly how you want it<font color="#E5E5E5"> this</font><font color="#CCCCCC"> is data I</font>
+
+30
+00:01:05,140 --> 00:01:07,150
+pulled from a Bureau<font color="#E5E5E5"> of Labor Statistics</font>
+
+31
+00:01:07,150 --> 00:01:09,820
+<font color="#CCCCCC">press release and even though the data</font>
+
+32
+00:01:09,820 --> 00:01:11,500
+looks<font color="#E5E5E5"> like it's in perfectly aligned</font>
+
+33
+00:01:11,500 --> 00:01:14,740
+<font color="#E5E5E5">columns each row is all compressed in</font>
+
+34
+00:01:14,740 --> 00:01:16,600
+<font color="#E5E5E5">the first cell so I want to break these</font>
+
+35
+00:01:16,600 --> 00:01:19,930
+<font color="#E5E5E5">out into actual columns so I'm going to</font>
+
+36
+00:01:19,930 --> 00:01:22,900
+<font color="#E5E5E5">highlight the first column where all my</font>
+
+37
+00:01:22,900 --> 00:01:26,170
+data is click text to columns<font color="#CCCCCC"> now this</font>
+
+38
+00:01:26,170 --> 00:01:28,630
+is going<font color="#E5E5E5"> to be fixed</font><font color="#CCCCCC"> width so I click</font>
+
+39
+00:01:28,630 --> 00:01:31,690
+<font color="#CCCCCC">next</font><font color="#E5E5E5"> cell</font><font color="#CCCCCC"> will guess where the column</font>
+
+40
+00:01:31,690 --> 00:01:33,610
+<font color="#CCCCCC">separator should go</font><font color="#E5E5E5"> and this looks</font>
+
+41
+00:01:33,610 --> 00:01:37,600
+absolutely<font color="#E5E5E5"> correct so click finish and</font>
+
+42
+00:01:37,600 --> 00:00:00,000
+now<font color="#CCCCCC"> I have</font><font color="#E5E5E5"> a perfectly workable data set</font>
+

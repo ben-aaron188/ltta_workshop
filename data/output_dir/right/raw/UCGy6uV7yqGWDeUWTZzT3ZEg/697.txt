@@ -1,0 +1,4552 @@
+1
+00:00:02,959 --> 00:00:06,450
+from so<font color="#E5E5E5"> that's a new equipment in here</font>
+
+2
+00:00:06,450 --> 00:00:09,240
+<font color="#E5E5E5">and good to see if it</font><font color="#CCCCCC"> solves the problem</font>
+
+3
+00:00:09,240 --> 00:00:13,530
+for you<font color="#E5E5E5"> now we might still we might</font>
+
+4
+00:00:13,530 --> 00:00:15,990
+<font color="#E5E5E5">still have</font><font color="#CCCCCC"> a couple</font><font color="#E5E5E5"> of issues possibly</font>
+
+5
+00:00:15,990 --> 00:00:17,940
+<font color="#CCCCCC">because we're</font><font color="#E5E5E5"> trying</font><font color="#CCCCCC"> to tweak some new</font>
+
+6
+00:00:17,940 --> 00:00:20,609
+settings but we had<font color="#CCCCCC"> our web provider</font>
+
+7
+00:00:20,609 --> 00:00:23,400
+come in do a<font color="#E5E5E5"> top-to-bottom analysis</font>
+
+8
+00:00:23,400 --> 00:00:25,140
+<font color="#E5E5E5">really trying to get to the</font><font color="#CCCCCC"> bottom of</font>
+
+9
+00:00:25,140 --> 00:00:26,670
+these<font color="#CCCCCC"> trading</font><font color="#E5E5E5"> issues we</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> we've</font>
+
+10
+00:00:26,670 --> 00:00:31,080
+figured out<font color="#E5E5E5"> we think we have and again</font>
+
+11
+00:00:31,080 --> 00:00:32,940
+<font color="#CCCCCC">what I'm</font><font color="#E5E5E5"> not gonna do is put you through</font>
+
+12
+00:00:32,940 --> 00:00:35,160
+a bad stream<font color="#CCCCCC"> so if we start to buffer a</font>
+
+13
+00:00:35,160 --> 00:00:37,770
+little too much<font color="#E5E5E5"> like</font><font color="#CCCCCC"> crazy</font><font color="#E5E5E5"> I'll end</font>
+
+14
+00:00:37,770 --> 00:00:40,140
+early<font color="#CCCCCC"> we'll perfect the stream and</font><font color="#E5E5E5"> then</font>
+
+15
+00:00:40,140 --> 00:00:41,520
+<font color="#E5E5E5">we'll come back to you</font><font color="#CCCCCC"> tomorrow or</font>
+
+16
+00:00:41,520 --> 00:00:43,050
+Monday or<font color="#CCCCCC"> whenever we have it perfected</font>
+
+17
+00:00:43,050 --> 00:00:45,180
+<font color="#E5E5E5">but really wanted to run this test today</font>
+
+18
+00:00:45,180 --> 00:00:47,489
+and<font color="#E5E5E5"> miss being</font><font color="#CCCCCC"> with you guys</font>
+
+19
+00:00:47,489 --> 00:00:50,610
+each<font color="#E5E5E5"> morning it's a lot going on the</font>
+
+20
+00:00:50,610 --> 00:00:52,710
+last<font color="#E5E5E5"> couple</font><font color="#CCCCCC"> of days</font><font color="#E5E5E5"> really big story one</font>
+
+21
+00:00:52,710 --> 00:00:54,239
+of<font color="#E5E5E5"> interest to me well there are two or</font>
+
+22
+00:00:54,239 --> 00:00:56,100
+<font color="#E5E5E5">talking about today the</font><font color="#CCCCCC"> first is this</font>
+
+23
+00:00:56,100 --> 00:00:58,230
+escalating war of words between<font color="#E5E5E5"> Donald</font>
+
+24
+00:00:58,230 --> 00:01:00,390
+<font color="#E5E5E5">Trump and robert muller and remember you</font>
+
+25
+00:01:00,390 --> 00:01:02,010
+can<font color="#E5E5E5"> always chat with us here and this</font>
+
+26
+00:01:02,010 --> 00:01:03,750
+<font color="#E5E5E5">little icon down there you can super</font>
+
+27
+00:01:03,750 --> 00:01:06,990
+chat<font color="#E5E5E5"> and super chat means you donate a</font>
+
+28
+00:01:06,990 --> 00:01:09,750
+couple<font color="#CCCCCC"> of bucks then your chat pops up</font>
+
+29
+00:01:09,750 --> 00:01:11,909
+and you<font color="#E5E5E5"> don't get lost in the</font><font color="#CCCCCC"> shuffle so</font>
+
+30
+00:01:11,909 --> 00:01:13,560
+the two big<font color="#CCCCCC"> stories that</font><font color="#E5E5E5"> i want to talk</font>
+
+31
+00:01:13,560 --> 00:01:15,600
+<font color="#E5E5E5">about well two big ones of</font><font color="#CCCCCC"> interest to</font>
+
+32
+00:01:15,600 --> 00:01:17,729
+me or<font color="#E5E5E5"> donald trump's escalating war</font>
+
+33
+00:01:17,729 --> 00:01:19,860
+words<font color="#E5E5E5"> at robert muller that's number one</font>
+
+34
+00:01:19,860 --> 00:01:22,080
+steel anvil hey brother how<font color="#CCCCCC"> are you</font><font color="#E5E5E5"> and</font>
+
+35
+00:01:22,080 --> 00:01:25,619
+number<font color="#E5E5E5"> two</font><font color="#CCCCCC"> Trump's Tampa rally</font><font color="#E5E5E5"> but most</font>
+
+36
+00:01:25,619 --> 00:01:29,189
+importantly how the crowd at Trump's
+
+37
+00:01:29,189 --> 00:01:32,090
+Tampa rally<font color="#E5E5E5"> attacked CNN Jim Acosta</font>
+
+38
+00:01:32,090 --> 00:01:34,259
+<font color="#CCCCCC">mm-hmm</font><font color="#E5E5E5"> and how it caused</font><font color="#CCCCCC"> two acted like</font>
+
+39
+00:01:34,259 --> 00:01:37,890
+a<font color="#E5E5E5"> little baby afterward it's simply</font>
+
+40
+00:01:37,890 --> 00:01:41,240
+ridiculous<font color="#CCCCCC"> now if you haven't</font><font color="#E5E5E5"> seen the</font>
+
+41
+00:01:41,240 --> 00:01:43,740
+<font color="#CCCCCC">Trump</font><font color="#E5E5E5"> war words this new war of words</font>
+
+42
+00:01:43,740 --> 00:01:46,500
+it's pretty epic<font color="#CCCCCC"> and I want to</font><font color="#E5E5E5"> analyze</font>
+
+43
+00:01:46,500 --> 00:01:50,240
+this<font color="#E5E5E5"> a little bit so Trump tweeted about</font>
+
+44
+00:01:50,240 --> 00:01:53,399
+the<font color="#E5E5E5"> Muller investigation now Trump has</font>
+
+45
+00:01:53,399 --> 00:01:55,829
+been forceful about<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Moller</font>
+
+46
+00:01:55,829 --> 00:01:58,140
+investigations at<font color="#CCCCCC"> 13 angry Democrats 17</font>
+
+47
+00:01:58,140 --> 00:02:00,240
+angry Democrats all that stuff<font color="#E5E5E5"> but Troy</font>
+
+48
+00:02:00,240 --> 00:02:01,290
+tweeted it was<font color="#E5E5E5"> yesterday the day before</font>
+
+49
+00:02:01,290 --> 00:02:04,649
+quote this<font color="#CCCCCC"> is a terrible situation</font><font color="#E5E5E5"> and</font>
+
+50
+00:02:04,649 --> 00:02:06,600
+<font color="#E5E5E5">Attorney</font><font color="#CCCCCC"> General Jeff Sessions</font><font color="#E5E5E5"> should</font>
+
+51
+00:02:06,600 --> 00:02:08,788
+stop this rigged witch-hunt<font color="#E5E5E5"> right now</font>
+
+52
+00:02:08,788 --> 00:02:11,879
+before it continues<font color="#E5E5E5"> to stay in our</font>
+
+53
+00:02:11,879 --> 00:02:13,500
+country any further
+
+54
+00:02:13,500 --> 00:02:17,010
+Muller is totally<font color="#CCCCCC"> conflicted</font><font color="#E5E5E5"> and his 17</font>
+
+55
+00:02:17,010 --> 00:02:18,930
+<font color="#CCCCCC">angry Democrats that are</font><font color="#E5E5E5"> doing his dirty</font>
+
+56
+00:02:18,930 --> 00:02:23,280
+work<font color="#CCCCCC"> are a</font><font color="#E5E5E5"> disgrace</font><font color="#CCCCCC"> to the USA</font><font color="#E5E5E5"> now that</font>
+
+57
+00:02:23,280 --> 00:02:26,460
+comes on the<font color="#E5E5E5"> heels of</font><font color="#CCCCCC"> last week</font><font color="#E5E5E5"> Trump</font>
+
+58
+00:02:26,460 --> 00:02:29,340
+<font color="#E5E5E5">saying that</font><font color="#CCCCCC"> Muller's investigation was</font>
+
+59
+00:02:29,340 --> 00:02:32,280
+illegal<font color="#E5E5E5"> in another tweet saying that</font>
+
+60
+00:02:32,280 --> 00:02:34,980
+Muller had outside<font color="#E5E5E5"> private sector</font>
+
+61
+00:02:34,980 --> 00:02:38,670
+conflicts<font color="#E5E5E5"> of interest</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> comes with</font>
+
+62
+00:02:38,670 --> 00:02:40,050
+all<font color="#E5E5E5"> that Sam stone</font>
+
+63
+00:02:40,050 --> 00:02:42,000
+asked I'm<font color="#CCCCCC"> gonna</font><font color="#E5E5E5"> just address this once</font>
+
+64
+00:02:42,000 --> 00:02:44,100
+<font color="#CCCCCC">Tommy Robinson is free he's out on</font><font color="#E5E5E5"> bail</font>
+
+65
+00:02:44,100 --> 00:02:46,230
+he's<font color="#CCCCCC"> gonna go</font><font color="#E5E5E5"> back to</font><font color="#CCCCCC"> court to face</font>
+
+66
+00:02:46,230 --> 00:02:46,980
+<font color="#CCCCCC">charges</font>
+
+67
+00:02:46,980 --> 00:02:49,650
+that's<font color="#E5E5E5"> is restore</font><font color="#CCCCCC"> II</font><font color="#E5E5E5"> you guys are gonna</font>
+
+68
+00:02:49,650 --> 00:02:52,709
+get far better coverage of the top story
+
+69
+00:02:52,709 --> 00:02:54,900
+with Ezra<font color="#CCCCCC"> it doesn't make sense</font><font color="#E5E5E5"> for me</font>
+
+70
+00:02:54,900 --> 00:02:58,500
+<font color="#CCCCCC">to spend an entire hour</font><font color="#E5E5E5"> reiterating the</font>
+
+71
+00:02:58,500 --> 00:03:00,209
+phrase<font color="#E5E5E5"> Tommy Robinson was freed from</font>
+
+72
+00:03:00,209 --> 00:03:02,520
+<font color="#CCCCCC">jail he doesn't make</font><font color="#E5E5E5"> any sense to do as</font>
+
+73
+00:03:02,520 --> 00:03:05,370
+the rebels<font color="#CCCCCC"> u.s. guy I'm</font><font color="#E5E5E5"> gonna focus on</font>
+
+74
+00:03:05,370 --> 00:03:08,459
+you us-based stories Ezra's done an
+
+75
+00:03:08,459 --> 00:03:10,800
+amazing job<font color="#E5E5E5"> probably</font><font color="#CCCCCC"> the best job in</font><font color="#E5E5E5"> the</font>
+
+76
+00:03:10,800 --> 00:03:12,989
+<font color="#CCCCCC">world</font><font color="#E5E5E5"> right now</font><font color="#CCCCCC"> of covering the Tommy</font>
+
+77
+00:03:12,989 --> 00:03:15,570
+Robinson situation would<font color="#E5E5E5"> be actually</font>
+
+78
+00:03:15,570 --> 00:03:18,690
+silly for me<font color="#CCCCCC"> to touch on</font><font color="#E5E5E5"> this when Ezra</font>
+
+79
+00:03:18,690 --> 00:03:21,690
+was literally standing<font color="#CCCCCC"> outside the</font>
+
+80
+00:03:21,690 --> 00:03:24,269
+courtroom<font color="#E5E5E5"> in</font><font color="#CCCCCC"> the jail</font><font color="#E5E5E5"> when the hearing</font>
+
+81
+00:03:24,269 --> 00:03:25,769
+<font color="#E5E5E5">was going on the judges were rendering</font>
+
+82
+00:03:25,769 --> 00:03:27,840
+<font color="#CCCCCC">their decision and then</font><font color="#E5E5E5"> Tommy was being</font>
+
+83
+00:03:27,840 --> 00:03:30,299
+free<font color="#E5E5E5"> makes no sense for me to talk</font><font color="#CCCCCC"> about</font>
+
+84
+00:03:30,299 --> 00:03:32,160
+it<font color="#CCCCCC"> not</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> I don't want</font><font color="#E5E5E5"> to wear a</font>
+
+85
+00:03:32,160 --> 00:03:34,080
+static that he's out it's a big win<font color="#CCCCCC"> for</font>
+
+86
+00:03:34,080 --> 00:03:36,630
+free<font color="#E5E5E5"> speech worldwide but</font><font color="#CCCCCC"> I want you to</font>
+
+87
+00:03:36,630 --> 00:03:38,310
+get the best<font color="#E5E5E5"> coverage of that would be</font>
+
+88
+00:03:38,310 --> 00:03:39,660
+silly for<font color="#E5E5E5"> me to do it when Ezra was</font>
+
+89
+00:03:39,660 --> 00:03:42,209
+literally on<font color="#CCCCCC"> the ground</font><font color="#E5E5E5"> so tune in to</font>
+
+90
+00:03:42,209 --> 00:03:44,280
+<font color="#E5E5E5">Ezra show for all that back to</font><font color="#CCCCCC"> Mahler</font>
+
+91
+00:03:44,280 --> 00:03:47,700
+<font color="#E5E5E5">so with Muller now</font><font color="#CCCCCC"> so last</font><font color="#E5E5E5"> week we see</font>
+
+92
+00:03:47,700 --> 00:03:49,820
+these reports<font color="#E5E5E5"> that Robert Muller is is</font>
+
+93
+00:03:49,820 --> 00:03:53,870
+threatening<font color="#CCCCCC"> to view Trump's tweets</font><font color="#E5E5E5"> as</font>
+
+94
+00:03:53,870 --> 00:03:57,390
+some<font color="#E5E5E5"> sort of potential obstruction of</font>
+
+95
+00:03:57,390 --> 00:03:58,530
+justice investigation
+
+96
+00:03:58,530 --> 00:04:05,220
+<font color="#E5E5E5">moronic silly dumb idiotic</font><font color="#CCCCCC"> I don't</font><font color="#E5E5E5"> think</font>
+
+97
+00:04:05,220 --> 00:04:07,920
+<font color="#CCCCCC">they're enough adjectives to describe it</font>
+
+98
+00:04:07,920 --> 00:04:11,430
+<font color="#E5E5E5">that all</font><font color="#CCCCCC"> being said</font><font color="#E5E5E5"> why would Trump</font>
+
+99
+00:04:11,430 --> 00:04:14,250
+<font color="#E5E5E5">tweet anything</font><font color="#CCCCCC"> why would he treat</font>
+
+100
+00:04:14,250 --> 00:04:17,728
+anything<font color="#CCCCCC"> if he was told that Muller is</font>
+
+101
+00:04:17,728 --> 00:04:20,579
+going to investigate tweets probably
+
+102
+00:04:20,579 --> 00:04:23,340
+because probably because he knows he
+
+103
+00:04:23,340 --> 00:04:26,310
+didn't do anything wrong he knows he
+
+104
+00:04:26,310 --> 00:04:27,340
+didn't do anything wrong
+
+105
+00:04:27,340 --> 00:04:31,210
+and he's now prodding Muller<font color="#E5E5E5"> now Trump</font>
+
+106
+00:04:31,210 --> 00:04:32,950
+is 100 I'm right about Jeff Sessions<font color="#E5E5E5"> and</font>
+
+107
+00:04:32,950 --> 00:04:34,680
+<font color="#E5E5E5">I tell you this every day</font><font color="#CCCCCC"> but hopefully</font>
+
+108
+00:04:34,680 --> 00:04:38,760
+<font color="#E5E5E5">this treat</font><font color="#CCCCCC"> from Donald Trump</font><font color="#E5E5E5"> will uh</font>
+
+109
+00:04:38,760 --> 00:04:41,770
+will will solidify that<font color="#E5E5E5"> in him laughing</font>
+
+110
+00:04:41,770 --> 00:04:44,560
+<font color="#CCCCCC">Gary</font><font color="#E5E5E5"> Morley</font><font color="#CCCCCC"> asks</font><font color="#E5E5E5"> why am i drinking from</font>
+
+111
+00:04:44,560 --> 00:04:46,419
+a jam jar it's an<font color="#CCCCCC"> old school ball jar</font>
+
+112
+00:04:46,419 --> 00:04:48,190
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> holds a</font><font color="#E5E5E5"> lot of water</font><font color="#CCCCCC"> I like drinking</font>
+
+113
+00:04:48,190 --> 00:04:50,080
+from<font color="#E5E5E5"> these and how do you</font><font color="#CCCCCC"> know it's</font><font color="#E5E5E5"> not</font>
+
+114
+00:04:50,080 --> 00:04:52,389
+moonshine<font color="#E5E5E5"> got to start the show right</font>
+
+115
+00:04:52,389 --> 00:04:57,580
+now<font color="#CCCCCC"> its water</font><font color="#E5E5E5"> but I like drinking</font><font color="#CCCCCC"> out of</font>
+
+116
+00:04:57,580 --> 00:04:59,320
+<font color="#E5E5E5">these things</font><font color="#CCCCCC"> they</font><font color="#E5E5E5"> hold a lot</font><font color="#CCCCCC"> of water</font>
+
+117
+00:04:59,320 --> 00:05:02,020
+<font color="#E5E5E5">and steel anvil says every</font><font color="#CCCCCC"> prosecutor is</font>
+
+118
+00:05:02,020 --> 00:05:04,630
+laughing their ass off exactly<font color="#E5E5E5"> exactly</font>
+
+119
+00:05:04,630 --> 00:05:07,060
+Muller is coming up<font color="#CCCCCC"> mother's now</font><font color="#E5E5E5"> pretty</font>
+
+120
+00:05:07,060 --> 00:05:09,090
+<font color="#E5E5E5">much inventing stuff</font><font color="#CCCCCC"> as he goes along</font>
+
+121
+00:05:09,090 --> 00:05:11,139
+<font color="#E5E5E5">well I don't like</font><font color="#CCCCCC"> how Donald Trump</font>
+
+122
+00:05:11,139 --> 00:05:12,130
+tweets that's obstruction<font color="#CCCCCC"> of justice</font>
+
+123
+00:05:12,130 --> 00:05:15,160
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> is the stupidest</font><font color="#E5E5E5"> the stupidest</font>
+
+124
+00:05:15,160 --> 00:05:17,139
+thing<font color="#CCCCCC"> I've ever heard that would be the</font>
+
+125
+00:05:17,139 --> 00:05:20,950
+equivalent of I'm an on-air guy I've got
+
+126
+00:05:20,950 --> 00:05:22,419
+this digital show in the<font color="#E5E5E5"> morning I do a</font>
+
+127
+00:05:22,419 --> 00:05:25,090
+<font color="#E5E5E5">three-hour national cable television</font>
+
+128
+00:05:25,090 --> 00:05:27,729
+show here in the US and the afternoon if
+
+129
+00:05:27,729 --> 00:05:34,300
+I decided to<font color="#E5E5E5"> say hmm I prefer Ford</font>
+
+130
+00:05:34,300 --> 00:05:36,700
+trucks over<font color="#E5E5E5"> Dodge trucks actually</font><font color="#CCCCCC"> like</font>
+
+131
+00:05:36,700 --> 00:05:39,100
+the styling<font color="#E5E5E5"> a boat but it hypothetically</font>
+
+132
+00:05:39,100 --> 00:05:40,690
+I really don't<font color="#CCCCCC"> pay each one of them as I</font>
+
+133
+00:05:40,690 --> 00:05:42,820
+like that<font color="#CCCCCC"> dodge rebel pickups go</font><font color="#E5E5E5"> but my</font>
+
+134
+00:05:42,820 --> 00:05:44,020
+<font color="#E5E5E5">but if I just said that I'd be then I</font>
+
+135
+00:05:44,020 --> 00:05:45,789
+like Ford trucks over<font color="#CCCCCC"> Dodge</font><font color="#E5E5E5"> trucks or I</font>
+
+136
+00:05:45,789 --> 00:05:48,600
+like<font color="#E5E5E5"> coke over Pepsi that would be like</font>
+
+137
+00:05:48,600 --> 00:05:53,410
+<font color="#CCCCCC">dodge and Pepsi suing me for slandering</font>
+
+138
+00:05:53,410 --> 00:05:56,680
+<font color="#E5E5E5">their product because on my personal</font>
+
+139
+00:05:56,680 --> 00:06:00,430
+social<font color="#CCCCCC"> media I tweeted out a personal</font>
+
+140
+00:06:00,430 --> 00:06:02,410
+opinion<font color="#E5E5E5"> which is</font><font color="#CCCCCC"> with Donald Trump's</font>
+
+141
+00:06:02,410 --> 00:06:03,880
+doing and they want<font color="#CCCCCC"> to criminally charge</font>
+
+142
+00:06:03,880 --> 00:06:05,650
+<font color="#E5E5E5">it is the dumbest thing</font><font color="#CCCCCC"> I've ever heard</font>
+
+143
+00:06:05,650 --> 00:06:07,930
+<font color="#E5E5E5">of so steel anvil</font><font color="#CCCCCC"> law</font><font color="#E5E5E5"> enforcement guy is</font>
+
+144
+00:06:07,930 --> 00:06:08,500
+right
+
+145
+00:06:08,500 --> 00:06:10,320
+prosecutors are laughing at this
+
+146
+00:06:10,320 --> 00:06:13,300
+<font color="#E5E5E5">attorneys are laughing at this so you've</font>
+
+147
+00:06:13,300 --> 00:06:16,570
+got<font color="#E5E5E5"> Jonathan Turley you've got Alan</font>
+
+148
+00:06:16,570 --> 00:06:20,610
+Dershowitz<font color="#CCCCCC"> these are not conservatives</font>
+
+149
+00:06:20,610 --> 00:06:23,889
+all right these<font color="#CCCCCC"> are not conservatives</font>
+
+150
+00:06:23,889 --> 00:06:26,350
+Alan Dershowitz<font color="#CCCCCC"> got into essentially</font><font color="#E5E5E5"> he</font>
+
+151
+00:06:26,350 --> 00:06:32,560
+<font color="#CCCCCC">was in a war was in a war</font><font color="#E5E5E5"> on MSNBC</font>
+
+152
+00:06:32,560 --> 00:06:34,690
+people accused them the<font color="#CCCCCC"> leftists accused</font>
+
+153
+00:06:34,690 --> 00:06:36,970
+of a<font color="#CCCCCC"> shelling for</font><font color="#E5E5E5"> trumpet Alan</font>
+
+154
+00:06:36,970 --> 00:06:40,060
+Dershowitz<font color="#CCCCCC"> a committed liberal because</font>
+
+155
+00:06:40,060 --> 00:06:41,190
+<font color="#E5E5E5">Alan Dershowitz</font>
+
+156
+00:06:41,190 --> 00:06:43,410
+is is committing the mortal sin<font color="#E5E5E5"> of</font>
+
+157
+00:06:43,410 --> 00:06:46,140
+caring about<font color="#E5E5E5"> the Constitution not</font>
+
+158
+00:06:46,140 --> 00:06:47,610
+ripping<font color="#E5E5E5"> it up and throwing it in the</font>
+
+159
+00:06:47,610 --> 00:06:49,830
+<font color="#CCCCCC">garbage to impeach Donald Trump</font><font color="#E5E5E5"> Jonathan</font>
+
+160
+00:06:49,830 --> 00:06:52,890
+<font color="#E5E5E5">Turley were to</font><font color="#CCCCCC"> peace</font><font color="#E5E5E5"> in USA</font><font color="#CCCCCC"> today</font><font color="#E5E5E5"> Donald</font>
+
+161
+00:06:52,890 --> 00:06:55,920
+Trump's tweets<font color="#E5E5E5"> yesterday actually I'm</font>
+
+162
+00:06:55,920 --> 00:06:58,020
+<font color="#E5E5E5">sorry it's entitled Donald Trump's right</font>
+
+163
+00:06:58,020 --> 00:06:59,250
+in front of<font color="#E5E5E5"> me reckless tweets may be</font>
+
+164
+00:06:59,250 --> 00:07:01,910
+<font color="#E5E5E5">foolish but not obstruction of justice</font>
+
+165
+00:07:01,910 --> 00:07:04,680
+<font color="#E5E5E5">he says president wants a president</font>
+
+166
+00:07:04,680 --> 00:07:07,470
+Trump<font color="#E5E5E5"> president Trump's inflammatory</font>
+
+167
+00:07:07,470 --> 00:07:09,870
+tweets a costly<font color="#E5E5E5"> pers administration but</font>
+
+168
+00:07:09,870 --> 00:07:12,720
+they shouldn't be<font color="#CCCCCC"> used as</font><font color="#E5E5E5"> the basis for</font>
+
+169
+00:07:12,720 --> 00:07:16,110
+<font color="#E5E5E5">a criminal allegation</font><font color="#CCCCCC"> so these are all I</font>
+
+170
+00:07:16,110 --> 00:07:19,100
+<font color="#E5E5E5">don't have to agree with them I don't</font>
+
+171
+00:07:19,100 --> 00:07:21,420
+always agree<font color="#E5E5E5"> with their truth always</font>
+
+172
+00:07:21,420 --> 00:07:23,040
+agree with<font color="#E5E5E5"> Jonathan Turley</font><font color="#CCCCCC"> but there's</font>
+
+173
+00:07:23,040 --> 00:07:25,200
+no doubt that<font color="#CCCCCC"> these men are brilliant</font>
+
+174
+00:07:25,200 --> 00:07:28,530
+<font color="#E5E5E5">legal</font><font color="#CCCCCC"> minds legendary legal minds not</font>
+
+175
+00:07:28,530 --> 00:07:30,680
+conservatives<font color="#E5E5E5"> left to their own devices</font>
+
+176
+00:07:30,680 --> 00:07:33,510
+<font color="#E5E5E5">probably not fans of Donald Trump's</font>
+
+177
+00:07:33,510 --> 00:07:36,960
+policies and<font color="#E5E5E5"> even they even</font><font color="#CCCCCC"> Turley even</font>
+
+178
+00:07:36,960 --> 00:07:41,820
+Dershowitz<font color="#E5E5E5"> say this is moronic</font><font color="#CCCCCC"> this is</font>
+
+179
+00:07:41,820 --> 00:07:46,020
+not criminal<font color="#E5E5E5"> leave it alone leave</font><font color="#CCCCCC"> it</font>
+
+180
+00:07:46,020 --> 00:07:48,900
+<font color="#CCCCCC">alone it's so stupid</font>
+
+181
+00:07:48,900 --> 00:07:52,020
+so this Turley um<font color="#E5E5E5"> piece is very very</font>
+
+182
+00:07:52,020 --> 00:07:57,240
+interesting<font color="#E5E5E5"> the he specifically talks in</font>
+
+183
+00:07:57,240 --> 00:07:59,520
+<font color="#CCCCCC">his USA</font><font color="#E5E5E5"> Today piece from yesterday</font><font color="#CCCCCC"> about</font>
+
+184
+00:07:59,520 --> 00:08:02,220
+Trump's tweet against Jeff Sessions<font color="#E5E5E5"> let</font>
+
+185
+00:08:02,220 --> 00:08:04,050
+me read<font color="#E5E5E5"> you parts this he says Turley</font>
+
+186
+00:08:04,050 --> 00:08:05,669
+<font color="#E5E5E5">even for a morning</font><font color="#CCCCCC"> Trump</font><font color="#E5E5E5"> tweet the</font>
+
+187
+00:08:05,669 --> 00:08:07,380
+blasts on Wednesday had the feel of a
+
+188
+00:08:07,380 --> 00:08:09,540
+command rather than a comment quote
+
+189
+00:08:09,540 --> 00:08:11,160
+<font color="#E5E5E5">Attorney General Jeff</font><font color="#CCCCCC"> Sessions</font><font color="#E5E5E5"> should</font>
+
+190
+00:08:11,160 --> 00:08:13,770
+stop<font color="#E5E5E5"> this rig which right now now this</font>
+
+191
+00:08:13,770 --> 00:08:15,180
+<font color="#E5E5E5">is where I disagree</font><font color="#CCCCCC"> with Professor</font>
+
+192
+00:08:15,180 --> 00:08:18,870
+Turley<font color="#CCCCCC"> a command is a command</font><font color="#E5E5E5"> Jeff</font>
+
+193
+00:08:18,870 --> 00:08:21,210
+Sessions<font color="#E5E5E5"> end the witch-hunt now this is</font>
+
+194
+00:08:21,210 --> 00:08:25,440
+an order<font color="#E5E5E5"> not should stop what I'm</font>
+
+195
+00:08:25,440 --> 00:08:28,080
+<font color="#E5E5E5">reading is a very strong suggestion not</font>
+
+196
+00:08:28,080 --> 00:08:32,010
+<font color="#CCCCCC">a command not</font><font color="#E5E5E5"> a demand</font><font color="#CCCCCC"> if the right now</font>
+
+197
+00:08:32,010 --> 00:08:33,990
+<font color="#CCCCCC">but he games with</font><font color="#E5E5E5"> Charlie's writing it</font>
+
+198
+00:08:33,990 --> 00:08:36,210
+is<font color="#E5E5E5"> the right now</font><font color="#CCCCCC"> that gave the</font>
+
+199
+00:08:36,210 --> 00:08:37,799
+presidential tweet a sense of urgency
+
+200
+00:08:37,799 --> 00:08:41,130
+<font color="#E5E5E5">for some in desperation for others maybe</font>
+
+201
+00:08:41,130 --> 00:08:43,380
+he goes on to<font color="#E5E5E5"> talk about the tweet being</font>
+
+202
+00:08:43,380 --> 00:08:45,420
+ill-advised he says<font color="#E5E5E5"> it is indeed in</font>
+
+203
+00:08:45,420 --> 00:08:50,790
+plain sight<font color="#E5E5E5"> now the the Adams chef</font>
+
+204
+00:08:50,790 --> 00:08:52,260
+representative Adam<font color="#E5E5E5"> Schiff that moron</font>
+
+205
+00:08:52,260 --> 00:08:53,550
+tweeted quote
+
+206
+00:08:53,550 --> 00:08:55,370
+the<font color="#E5E5E5"> President of the United States</font>
+
+207
+00:08:55,370 --> 00:08:57,750
+just cold on his<font color="#CCCCCC"> Attorney General to put</font>
+
+208
+00:08:57,750 --> 00:08:59,160
+an end to an investigation<font color="#CCCCCC"> in which the</font>
+
+209
+00:08:59,160 --> 00:09:01,260
+president<font color="#E5E5E5"> his family and campaign may be</font>
+
+210
+00:09:01,260 --> 00:09:03,270
+implicated<font color="#CCCCCC"> this is an attempt</font><font color="#E5E5E5"> to</font>
+
+211
+00:09:03,270 --> 00:09:05,430
+<font color="#E5E5E5">obstruct justice hiding in plain sight</font>
+
+212
+00:09:05,430 --> 00:09:08,490
+well<font color="#E5E5E5"> Turley jump on</font><font color="#CCCCCC"> Adams</font><font color="#E5E5E5"> chef Charlie</font>
+
+213
+00:09:08,490 --> 00:09:11,400
+said it is indeed in plain sight<font color="#CCCCCC"> but</font><font color="#E5E5E5"> it</font>
+
+214
+00:09:11,400 --> 00:09:14,010
+is also plainly not a crime
+
+215
+00:09:14,010 --> 00:09:16,110
+if<font color="#CCCCCC"> Trump streets were used as a basis</font>
+
+216
+00:09:16,110 --> 00:09:17,880
+for<font color="#CCCCCC"> a criminal allegation</font><font color="#E5E5E5"> it would</font>
+
+217
+00:09:17,880 --> 00:09:19,410
+reduce Muller from<font color="#E5E5E5"> hunting Russian</font>
+
+218
+00:09:19,410 --> 00:09:21,030
+collaborators in our<font color="#E5E5E5"> presidential</font>
+
+219
+00:09:21,030 --> 00:09:23,520
+election to punishing presidential
+
+220
+00:09:23,520 --> 00:09:26,490
+trolling<font color="#E5E5E5"> on social media many of us have</font>
+
+221
+00:09:26,490 --> 00:09:28,770
+criticized Trump's<font color="#E5E5E5"> tweets but those who</font>
+
+222
+00:09:28,770 --> 00:09:30,630
+<font color="#E5E5E5">are arguing for arguing for a tweet</font>
+
+223
+00:09:30,630 --> 00:09:33,570
+based in Bateman<font color="#E5E5E5"> should consider the</font>
+
+224
+00:09:33,570 --> 00:09:36,060
+implications<font color="#E5E5E5"> of such a prosecution and</font>
+
+225
+00:09:36,060 --> 00:09:41,960
+that is<font color="#E5E5E5"> exactly correct</font><font color="#CCCCCC"> exactly correct</font>
+
+226
+00:09:41,960 --> 00:09:45,000
+<font color="#E5E5E5">tweeting might not be politically</font>
+
+227
+00:09:45,000 --> 00:09:47,910
+expedient<font color="#CCCCCC"> it might not be politically</font>
+
+228
+00:09:47,910 --> 00:09:49,890
+savvy<font color="#CCCCCC"> I think it is in Trump's case I</font>
+
+229
+00:09:49,890 --> 00:09:51,960
+<font color="#E5E5E5">think it's brilliant</font><font color="#CCCCCC"> I think it serves</font>
+
+230
+00:09:51,960 --> 00:09:54,000
+<font color="#E5E5E5">them very well but there are others that</font>
+
+231
+00:09:54,000 --> 00:09:56,070
+disagree<font color="#E5E5E5"> I think</font><font color="#CCCCCC"> they're wrong however</font>
+
+232
+00:09:56,070 --> 00:09:58,860
+that can be<font color="#CCCCCC"> debated</font><font color="#E5E5E5"> mm-hmm that is a</font>
+
+233
+00:09:58,860 --> 00:10:03,660
+very subjective opinion it looks<font color="#E5E5E5"> to be</font>
+
+234
+00:10:03,660 --> 00:10:04,620
+successful
+
+235
+00:10:04,620 --> 00:10:05,910
+his<font color="#E5E5E5"> tweeting appears to be very</font>
+
+236
+00:10:05,910 --> 00:10:08,700
+<font color="#CCCCCC">successful but my opinion</font><font color="#E5E5E5"> is subjective</font>
+
+237
+00:10:08,700 --> 00:10:11,820
+on that but what is object is<font color="#E5E5E5"> that</font>
+
+238
+00:10:11,820 --> 00:10:14,430
+tweeting<font color="#CCCCCC"> is kind of</font><font color="#E5E5E5"> crime all right</font><font color="#CCCCCC"> a</font>
+
+239
+00:10:14,430 --> 00:10:17,090
+tweet is not a<font color="#E5E5E5"> presidential directive</font>
+
+240
+00:10:17,090 --> 00:10:19,320
+<font color="#CCCCCC">not an executive order it's not a letter</font>
+
+241
+00:10:19,320 --> 00:10:20,310
+<font color="#E5E5E5">to the Attorney</font><font color="#CCCCCC"> General</font>
+
+242
+00:10:20,310 --> 00:10:23,630
+it's a<font color="#CCCCCC"> freaking tweet</font><font color="#E5E5E5"> that's</font><font color="#CCCCCC"> all it is</font>
+
+243
+00:10:23,630 --> 00:10:26,850
+<font color="#CCCCCC">that's all</font><font color="#E5E5E5"> it is</font>
+
+244
+00:10:26,850 --> 00:10:29,340
+so we're gonna we've got a troll<font color="#CCCCCC"> on here</font>
+
+245
+00:10:29,340 --> 00:10:30,720
+today<font color="#CCCCCC"> I always call out the trolls a</font>
+
+246
+00:10:30,720 --> 00:10:33,180
+trolling star that<font color="#CCCCCC"> Stardust will now be</font>
+
+247
+00:10:33,180 --> 00:10:39,540
+removed from the conversation<font color="#CCCCCC"> bye-bye</font>
+
+248
+00:10:39,540 --> 00:10:40,380
+<font color="#E5E5E5">Stardust</font>
+
+249
+00:10:40,380 --> 00:10:43,950
+<font color="#E5E5E5">you're gone and if you come back well</font>
+
+250
+00:10:43,950 --> 00:10:45,360
+they already<font color="#E5E5E5"> we're gonna remove you</font>
+
+251
+00:10:45,360 --> 00:10:49,260
+permanently you are now<font color="#E5E5E5"> unable</font><font color="#CCCCCC"> to make</font>
+
+252
+00:10:49,260 --> 00:10:53,640
+your<font color="#CCCCCC"> dumb comments and that's how we</font>
+
+253
+00:10:53,640 --> 00:10:56,070
+treat<font color="#E5E5E5"> well that's how we treat trolls</font>
+
+254
+00:10:56,070 --> 00:10:59,280
+here<font color="#E5E5E5"> we don't engage them we don't deal</font>
+
+255
+00:10:59,280 --> 00:11:00,270
+<font color="#E5E5E5">with them we don't go back and forth</font>
+
+256
+00:11:00,270 --> 00:11:01,470
+<font color="#CCCCCC">with</font><font color="#E5E5E5"> them</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> a lot of them ruin the</font>
+
+257
+00:11:01,470 --> 00:11:05,220
+show<font color="#E5E5E5"> we just</font><font color="#CCCCCC"> get</font><font color="#E5E5E5"> rid of them we get rid</font>
+
+258
+00:11:05,220 --> 00:11:07,660
+of them<font color="#E5E5E5"> no time for nonsense hang</font>
+
+259
+00:11:07,660 --> 00:11:09,580
+and John Ruth good morning<font color="#CCCCCC"> shadi says he</font>
+
+260
+00:11:09,580 --> 00:11:12,700
+<font color="#E5E5E5">starred us yep</font><font color="#CCCCCC"> and that's how we knew as</font>
+
+261
+00:11:12,700 --> 00:11:15,460
+they<font color="#E5E5E5"> say that is how we do all right</font>
+
+262
+00:11:15,460 --> 00:11:17,550
+<font color="#CCCCCC">back to</font><font color="#E5E5E5"> mullet</font><font color="#CCCCCC"> so we've got this this</font>
+
+263
+00:11:17,550 --> 00:11:21,580
+<font color="#E5E5E5">moronic moronic investigation still</font>
+
+264
+00:11:21,580 --> 00:11:23,140
+going on<font color="#E5E5E5"> Jeff Sessions doing nothing</font><font color="#CCCCCC"> Rob</font>
+
+265
+00:11:23,140 --> 00:11:26,260
+Rosenstein over there I will
+
+266
+00:11:26,260 --> 00:11:27,970
+periodically<font color="#E5E5E5"> say yes Tommy Robinson's</font>
+
+267
+00:11:27,970 --> 00:11:30,430
+released<font color="#E5E5E5"> check out Ezra's feed</font>
+
+268
+00:11:30,430 --> 00:11:32,620
+Ezra's<font color="#E5E5E5"> Twitter go to Ezra's Twitter</font>
+
+269
+00:11:32,620 --> 00:11:34,960
+<font color="#E5E5E5">excellent info</font><font color="#CCCCCC"> I'm not gonna</font><font color="#E5E5E5"> report on</font>
+
+270
+00:11:34,960 --> 00:11:36,790
+Tommy because<font color="#E5E5E5"> Ezra's on the ground there</font>
+
+271
+00:11:36,790 --> 00:11:39,040
+I'm not<font color="#E5E5E5"> gonna dilute the story getting</font>
+
+272
+00:11:39,040 --> 00:11:41,620
+second and<font color="#CCCCCC"> third-hand</font><font color="#E5E5E5"> info Ezra is doing</font>
+
+273
+00:11:41,620 --> 00:11:43,840
+<font color="#E5E5E5">a more comprehensive and far better</font><font color="#CCCCCC"> job</font>
+
+274
+00:11:43,840 --> 00:11:47,980
+<font color="#E5E5E5">than any other reporter out there he's</font>
+
+275
+00:11:47,980 --> 00:11:49,690
+got the best<font color="#E5E5E5"> information on</font><font color="#CCCCCC"> Tommy</font>
+
+276
+00:11:49,690 --> 00:11:52,780
+<font color="#E5E5E5">Robinson watch Ezra show we had a full</font>
+
+277
+00:11:52,780 --> 00:11:54,700
+diagnosis done yesterday<font color="#CCCCCC"> our speed is</font>
+
+278
+00:11:54,700 --> 00:11:56,020
+great we<font color="#E5E5E5"> got some new equipment</font>
+
+279
+00:11:56,020 --> 00:11:58,050
+<font color="#E5E5E5">we're just perfecting it so</font>
+
+280
+00:11:58,050 --> 00:11:59,680
+unfortunately we're still having a
+
+281
+00:11:59,680 --> 00:12:01,810
+couple of small<font color="#E5E5E5"> issues today but</font>
+
+282
+00:12:01,810 --> 00:12:03,730
+<font color="#E5E5E5">hopefully by tomorrow Monday we'll</font><font color="#CCCCCC"> have</font>
+
+283
+00:12:03,730 --> 00:12:07,150
+this perfected for<font color="#E5E5E5"> you back to the</font>
+
+284
+00:12:07,150 --> 00:12:09,220
+<font color="#CCCCCC">subject at hand that</font><font color="#E5E5E5"> MD says don't feed</font>
+
+285
+00:12:09,220 --> 00:12:12,520
+the trolls yeah<font color="#CCCCCC"> I</font><font color="#E5E5E5"> never do I never never</font>
+
+286
+00:12:12,520 --> 00:12:16,830
+do they waste my time<font color="#E5E5E5"> and nobody nobody</font>
+
+287
+00:12:16,830 --> 00:12:24,370
+wants their time wasted nobody so what
+
+288
+00:12:24,370 --> 00:12:25,990
+are we<font color="#E5E5E5"> gonna do with a smaller case</font><font color="#CCCCCC"> what</font>
+
+289
+00:12:25,990 --> 00:12:27,370
+we're gonna do with this<font color="#CCCCCC"> investigation I</font>
+
+290
+00:12:27,370 --> 00:12:29,110
+don't know<font color="#E5E5E5"> but I do know it's tearing</font>
+
+291
+00:12:29,110 --> 00:12:31,600
+the country apart<font color="#CCCCCC"> I know it is tearing</font>
+
+292
+00:12:31,600 --> 00:12:32,350
+the<font color="#E5E5E5"> country</font>
+
+293
+00:12:32,350 --> 00:12:36,310
+to shreds not bad<font color="#E5E5E5"> not bad</font>
+
+294
+00:12:36,310 --> 00:12:40,840
+terrible devastating<font color="#E5E5E5"> unconstitutional</font>
+
+295
+00:12:40,840 --> 00:12:44,260
+<font color="#E5E5E5">all right now we've got</font><font color="#CCCCCC"> more stories and</font>
+
+296
+00:12:44,260 --> 00:12:45,610
+<font color="#E5E5E5">so everybody's got an opinion on this</font>
+
+297
+00:12:45,610 --> 00:12:47,800
+<font color="#E5E5E5">and a couple of good stories this</font>
+
+298
+00:12:47,800 --> 00:12:52,630
+<font color="#CCCCCC">morning on it the</font><font color="#E5E5E5"> Rudy Giuliani</font><font color="#CCCCCC"> it's</font>
+
+299
+00:12:52,630 --> 00:12:54,880
+saying<font color="#E5E5E5"> he was speaking at an event</font>
+
+300
+00:12:54,880 --> 00:12:57,280
+<font color="#E5E5E5">endorsing a guy in</font><font color="#CCCCCC"> New Hampshire guy</font>
+
+301
+00:12:57,280 --> 00:12:59,320
+<font color="#CCCCCC">named</font><font color="#E5E5E5"> Eddie Edwards yeah Eddie Edwards</font>
+
+302
+00:12:59,320 --> 00:13:00,970
+<font color="#CCCCCC">guys running for Congress</font><font color="#E5E5E5"> in New</font>
+
+303
+00:13:00,970 --> 00:13:02,740
+Hampshire Giuliani<font color="#E5E5E5"> was up there let me</font>
+
+304
+00:13:02,740 --> 00:13:04,120
+<font color="#E5E5E5">tell</font><font color="#CCCCCC"> you what Giuliani told the crowd</font>
+
+305
+00:13:04,120 --> 00:13:06,310
+<font color="#E5E5E5">about the midterm elections he said</font>
+
+306
+00:13:06,310 --> 00:13:08,710
+quote<font color="#E5E5E5"> I</font><font color="#CCCCCC"> say this not</font><font color="#E5E5E5"> in my role as a</font>
+
+307
+00:13:08,710 --> 00:13:10,360
+lawyer<font color="#E5E5E5"> but as a concerned citizen and</font>
+
+308
+00:13:10,360 --> 00:13:12,490
+<font color="#E5E5E5">Republican this election is going to be</font>
+
+309
+00:13:12,490 --> 00:13:14,860
+<font color="#CCCCCC">about impeachment or no impeachment if</font>
+
+310
+00:13:14,860 --> 00:13:16,630
+Democrats get control of<font color="#E5E5E5"> the house do</font>
+
+311
+00:13:16,630 --> 00:13:17,830
+you<font color="#CCCCCC"> think they're</font><font color="#E5E5E5"> going to treat treat</font>
+
+312
+00:13:17,830 --> 00:13:19,030
+<font color="#CCCCCC">President Trump</font>
+
+313
+00:13:19,030 --> 00:13:21,640
+fairly and the<font color="#CCCCCC"> crowd scream no</font>
+
+314
+00:13:21,640 --> 00:13:25,240
+they're not they<font color="#E5E5E5"> are not it's all about</font>
+
+315
+00:13:25,240 --> 00:13:26,589
+impeachments about ripping<font color="#E5E5E5"> up the</font>
+
+316
+00:13:26,589 --> 00:13:28,300
+<font color="#CCCCCC">Constitution throwing in the garbage and</font>
+
+317
+00:13:28,300 --> 00:13:33,579
+taking out<font color="#E5E5E5"> Donald Trump the wrong guy</font>
+
+318
+00:13:33,579 --> 00:13:37,420
+<font color="#CCCCCC">won the wrong guy won Richard Driscoll</font>
+
+319
+00:13:37,420 --> 00:13:38,769
+it's got to be your bandwidth it's not
+
+320
+00:13:38,769 --> 00:13:41,050
+the bandwidth<font color="#E5E5E5"> nothing to do that</font><font color="#CCCCCC"> we had</font>
+
+321
+00:13:41,050 --> 00:13:42,130
+a full it done
+
+322
+00:13:42,130 --> 00:13:46,390
+we ran speed tests not<font color="#E5E5E5"> the bandwidth we</font>
+
+323
+00:13:46,390 --> 00:13:47,709
+know we know<font color="#E5E5E5"> what the problem is I'm not</font>
+
+324
+00:13:47,709 --> 00:13:49,660
+<font color="#E5E5E5">going to bore you with it</font><font color="#CCCCCC"> we needed</font><font color="#E5E5E5"> some</font>
+
+325
+00:13:49,660 --> 00:13:51,970
+new equipment<font color="#E5E5E5"> we've we now just have</font><font color="#CCCCCC"> to</font>
+
+326
+00:13:51,970 --> 00:13:55,029
+tweak<font color="#E5E5E5"> all the settings for the way we're</font>
+
+327
+00:13:55,029 --> 00:13:56,740
+streaming<font color="#E5E5E5"> in the camera the</font><font color="#CCCCCC"> whole bit</font>
+
+328
+00:13:56,740 --> 00:14:00,730
+<font color="#E5E5E5">but I wanted</font><font color="#CCCCCC"> to bring</font><font color="#E5E5E5"> your show</font><font color="#CCCCCC"> I wanted</font>
+
+329
+00:14:00,730 --> 00:14:03,310
+<font color="#E5E5E5">to bring you</font><font color="#CCCCCC"> a show</font><font color="#E5E5E5"> today so we made a</font>
+
+330
+00:14:03,310 --> 00:14:05,079
+decision<font color="#CCCCCC"> me and my producer we said</font>
+
+331
+00:14:05,079 --> 00:14:06,610
+should<font color="#CCCCCC"> we wait another day or another</font>
+
+332
+00:14:06,610 --> 00:14:08,230
+<font color="#E5E5E5">two days or should we see what</font><font color="#CCCCCC"> we got</font>
+
+333
+00:14:08,230 --> 00:14:10,240
+bringing the audience<font color="#E5E5E5"> a show we really</font>
+
+334
+00:14:10,240 --> 00:14:13,930
+<font color="#CCCCCC">didn't</font><font color="#E5E5E5"> want</font><font color="#CCCCCC"> to be</font><font color="#E5E5E5"> off air another day we</font>
+
+335
+00:14:13,930 --> 00:14:16,649
+wanted<font color="#E5E5E5"> to be with you guys so it's</font><font color="#CCCCCC"> um</font>
+
+336
+00:14:16,649 --> 00:14:19,269
+it's important in<font color="#E5E5E5"> wiki snow so the</font>
+
+337
+00:14:19,269 --> 00:14:20,709
+stream<font color="#E5E5E5"> isnt that bad go on with the show</font>
+
+338
+00:14:20,709 --> 00:14:22,360
+no I<font color="#CCCCCC"> agree with</font><font color="#E5E5E5"> you but I do want to let</font>
+
+339
+00:14:22,360 --> 00:14:24,399
+<font color="#E5E5E5">you guys know that we are</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> top of</font><font color="#CCCCCC"> this</font>
+
+340
+00:14:24,399 --> 00:14:27,820
+and<font color="#CCCCCC"> we are</font><font color="#E5E5E5"> fixing it mmm let's see what</font>
+
+341
+00:14:27,820 --> 00:14:29,890
+else<font color="#E5E5E5"> we got</font><font color="#CCCCCC"> going on</font><font color="#E5E5E5"> here so uh we've</font>
+
+342
+00:14:29,890 --> 00:14:31,420
+<font color="#E5E5E5">got all these these comments we've got</font>
+
+343
+00:14:31,420 --> 00:14:34,180
+<font color="#E5E5E5">Adam</font><font color="#CCCCCC"> ships</font><font color="#E5E5E5"> this has</font><font color="#CCCCCC"> become this has</font>
+
+344
+00:14:34,180 --> 00:14:36,640
+<font color="#CCCCCC">become a real disgrace and the</font><font color="#E5E5E5"> disgrace</font>
+
+345
+00:14:36,640 --> 00:14:40,240
+is that Democrats<font color="#CCCCCC"> are no</font><font color="#E5E5E5"> longer</font>
+
+346
+00:14:40,240 --> 00:14:45,760
+<font color="#E5E5E5">interested</font><font color="#CCCCCC"> in being Americans</font><font color="#E5E5E5"> they want</font>
+
+347
+00:14:45,760 --> 00:14:47,199
+to take<font color="#CCCCCC"> down the president United States</font>
+
+348
+00:14:47,199 --> 00:14:51,579
+at<font color="#E5E5E5"> all costs at all costs it doesn't</font>
+
+349
+00:14:51,579 --> 00:14:54,040
+matter<font color="#E5E5E5"> if Robert</font><font color="#CCCCCC"> Muller's investigation</font>
+
+350
+00:14:54,040 --> 00:14:57,820
+is now they want to see that they want
+
+351
+00:14:57,820 --> 00:14:59,800
+<font color="#E5E5E5">to see that and they're enabling that</font>
+
+352
+00:14:59,800 --> 00:15:03,779
+they were protecting Peter struck<font color="#CCCCCC"> it's</font>
+
+353
+00:15:03,779 --> 00:15:07,930
+disgusting disgusting<font color="#E5E5E5"> that Democrats are</font>
+
+354
+00:15:07,930 --> 00:15:10,449
+in<font color="#E5E5E5"> plain sight the coin Adam shifts</font>
+
+355
+00:15:10,449 --> 00:15:14,290
+phrase disgusting<font color="#E5E5E5"> that they're basically</font>
+
+356
+00:15:14,290 --> 00:15:17,430
+<font color="#CCCCCC">saying screw</font><font color="#E5E5E5"> the Constitution</font>
+
+357
+00:15:17,430 --> 00:15:21,490
+to hell with due<font color="#CCCCCC"> process we want Donald</font>
+
+358
+00:15:21,490 --> 00:15:23,500
+Trump<font color="#E5E5E5"> to</font><font color="#CCCCCC"> be considered guilty</font><font color="#E5E5E5"> until</font>
+
+359
+00:15:23,500 --> 00:15:26,550
+proven innocent<font color="#CCCCCC"> it's terrible it is</font>
+
+360
+00:15:26,550 --> 00:15:30,370
+absolutely terrible<font color="#E5E5E5"> we are going to talk</font>
+
+361
+00:15:30,370 --> 00:15:32,470
+<font color="#CCCCCC">about Jim Acosta we're going to talk</font>
+
+362
+00:15:32,470 --> 00:15:34,390
+<font color="#CCCCCC">about Jim Acosta I spoke to Eric Bolling</font>
+
+363
+00:15:34,390 --> 00:15:35,410
+yesterday
+
+364
+00:15:35,410 --> 00:15:37,869
+got his take<font color="#E5E5E5"> on it was</font><font color="#CCCCCC"> very</font><font color="#E5E5E5"> interesting</font>
+
+365
+00:15:37,869 --> 00:15:40,149
+<font color="#E5E5E5">actually</font><font color="#CCCCCC"> but a little</font><font color="#E5E5E5"> bit more on Mulder</font>
+
+366
+00:15:40,149 --> 00:15:42,220
+<font color="#E5E5E5">we're going to go to Acosta then we're</font>
+
+367
+00:15:42,220 --> 00:15:45,879
+<font color="#CCCCCC">going to</font><font color="#E5E5E5"> take all your comments hoax</font>
+
+368
+00:15:45,879 --> 00:15:47,410
+<font color="#E5E5E5">Phoebe said I must say I don't</font><font color="#CCCCCC"> care for</font>
+
+369
+00:15:47,410 --> 00:15:49,689
+<font color="#CCCCCC">the Masonic ritual picture or the</font>
+
+370
+00:15:49,689 --> 00:15:52,359
+<font color="#E5E5E5">Egyptian obelisk or the fake globe earth</font>
+
+371
+00:15:52,359 --> 00:15:55,479
+behind<font color="#E5E5E5"> this guy are you kidding me right</font>
+
+372
+00:15:55,479 --> 00:15:59,649
+<font color="#CCCCCC">now do</font><font color="#E5E5E5"> you really think that this these</font>
+
+373
+00:15:59,649 --> 00:16:03,849
+are symbols<font color="#E5E5E5"> of</font><font color="#CCCCCC"> something</font><font color="#E5E5E5"> really dude</font>
+
+374
+00:16:03,849 --> 00:16:07,269
+<font color="#CCCCCC">it's the forgotten man</font><font color="#E5E5E5"> photo they'll be</font>
+
+375
+00:16:07,269 --> 00:16:09,519
+saying Obama gave up on the<font color="#E5E5E5"> United</font>
+
+376
+00:16:09,519 --> 00:16:14,039
+<font color="#E5E5E5">States</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> the Washington Monument in</font>
+
+377
+00:16:14,039 --> 00:16:19,809
+stone<font color="#E5E5E5"> and it's a globe</font><font color="#CCCCCC"> a globe</font><font color="#E5E5E5"> the earth</font>
+
+378
+00:16:19,809 --> 00:16:23,259
+is round<font color="#CCCCCC"> please don't tell me you're</font><font color="#E5E5E5"> one</font>
+
+379
+00:16:23,259 --> 00:16:26,109
+of those<font color="#E5E5E5"> flat earthers coolies don't</font>
+
+380
+00:16:26,109 --> 00:16:30,069
+tell me please but uh I<font color="#E5E5E5"> got a lot of</font>
+
+381
+00:16:30,069 --> 00:16:33,129
+comments<font color="#E5E5E5"> here today saving up for a</font>
+
+382
+00:16:33,129 --> 00:16:34,749
+<font color="#E5E5E5">Christmas donation of the rebel can't</font>
+
+383
+00:16:34,749 --> 00:16:35,949
+wait said<font color="#E5E5E5"> it because that guys did a</font>
+
+384
+00:16:35,949 --> 00:16:38,549
+<font color="#E5E5E5">great job in 2018 well thank you Boris</font><font color="#CCCCCC"> I</font>
+
+385
+00:16:38,549 --> 00:16:40,319
+appreciate<font color="#E5E5E5"> it</font>
+
+386
+00:16:40,319 --> 00:16:45,249
+thank<font color="#E5E5E5"> you let's see</font><font color="#CCCCCC"> all right so let's</font>
+
+387
+00:16:45,249 --> 00:16:49,269
+talk<font color="#CCCCCC"> about</font><font color="#E5E5E5"> let's talk about Jim Acosta</font>
+
+388
+00:16:49,269 --> 00:16:50,439
+<font color="#CCCCCC">all right</font>
+
+389
+00:16:50,439 --> 00:16:53,289
+so Trump has this rally in Tampa and<font color="#CCCCCC"> a</font>
+
+390
+00:16:53,289 --> 00:16:55,419
+couple of good<font color="#CCCCCC"> friends of</font><font color="#E5E5E5"> mine at</font><font color="#CCCCCC"> the</font>
+
+391
+00:16:55,419 --> 00:16:59,139
+rally<font color="#E5E5E5"> it was packed packed crowd</font>
+
+392
+00:16:59,139 --> 00:17:01,269
+estimates<font color="#CCCCCC"> eight to</font><font color="#E5E5E5"> ten thousand I spoke</font>
+
+393
+00:17:01,269 --> 00:17:02,529
+to some<font color="#CCCCCC"> people up in the sheriff's</font>
+
+394
+00:17:02,529 --> 00:17:05,138
+office<font color="#E5E5E5"> up in that part of Florida it's</font>
+
+395
+00:17:05,138 --> 00:17:06,398
+<font color="#CCCCCC">about a</font><font color="#E5E5E5"> four hour</font><font color="#CCCCCC"> drive from where I'm</font>
+
+396
+00:17:06,398 --> 00:17:08,378
+sitting right now<font color="#E5E5E5"> they said those eight</font>
+
+397
+00:17:08,378 --> 00:17:10,269
+to ten thousand estimates were accurate
+
+398
+00:17:10,269 --> 00:17:13,539
+<font color="#E5E5E5">as did the fire marshal and there were</font>
+
+399
+00:17:13,539 --> 00:17:14,699
+about<font color="#E5E5E5"> four to</font><font color="#CCCCCC"> five thousand people</font>
+
+400
+00:17:14,699 --> 00:17:19,779
+outside of the<font color="#E5E5E5"> rally Democrats were</font>
+
+401
+00:17:19,779 --> 00:17:21,509
+tweeting they were losing<font color="#E5E5E5"> their minds</font>
+
+402
+00:17:21,509 --> 00:17:24,279
+what goes on at a trump rally is a dark
+
+403
+00:17:24,279 --> 00:17:26,259
+carnival we see<font color="#E5E5E5"> nothing like this on the</font>
+
+404
+00:17:26,259 --> 00:17:27,459
+Democrat side exactly
+
+405
+00:17:27,459 --> 00:17:29,559
+there is no candidate on<font color="#CCCCCC"> the Democrat</font>
+
+406
+00:17:29,559 --> 00:17:31,779
+side<font color="#E5E5E5"> exciting enough to</font><font color="#CCCCCC"> put 10,000</font>
+
+407
+00:17:31,779 --> 00:17:33,940
+people in<font color="#E5E5E5"> an arena and have</font><font color="#CCCCCC"> 45,000</font>
+
+408
+00:17:33,940 --> 00:17:38,500
+outside none so I agree I agree Wow
+
+409
+00:17:38,500 --> 00:17:41,919
+steel anvil<font color="#E5E5E5"> that</font><font color="#CCCCCC"> was very generous $20</font>
+
+410
+00:17:41,919 --> 00:17:45,639
+donation<font color="#E5E5E5"> you're a patriot steel thank</font>
+
+411
+00:17:45,639 --> 00:17:48,309
+you for your good work<font color="#CCCCCC"> steel anvil if</font>
+
+412
+00:17:48,309 --> 00:17:49,360
+you guys don't<font color="#E5E5E5"> know is in</font>
+
+413
+00:17:49,360 --> 00:17:52,179
+forcement<font color="#E5E5E5"> give them your support out</font>
+
+414
+00:17:52,179 --> 00:17:54,309
+<font color="#E5E5E5">there every</font><font color="#CCCCCC"> day protecting you and</font>
+
+415
+00:17:54,309 --> 00:17:57,820
+getting<font color="#E5E5E5"> very</font><font color="#CCCCCC"> little Thanks and not a</font>
+
+416
+00:17:57,820 --> 00:17:59,380
+whole hell of a<font color="#CCCCCC"> lot of</font><font color="#E5E5E5"> money to do it</font>
+
+417
+00:17:59,380 --> 00:18:01,179
+<font color="#E5E5E5">steel brother thanks very much for that</font>
+
+418
+00:18:01,179 --> 00:18:04,409
+that<font color="#E5E5E5"> was</font><font color="#CCCCCC"> very generous very</font><font color="#E5E5E5"> nice of you</font>
+
+419
+00:18:05,700 --> 00:18:08,409
+David<font color="#CCCCCC"> Badgley says I have Illuminati</font>
+
+420
+00:18:08,409 --> 00:18:12,669
+symbolism and satanic<font color="#CCCCCC"> Masonic oh yeah</font>
+
+421
+00:18:12,669 --> 00:18:15,460
+<font color="#E5E5E5">I'm the Illuminati</font><font color="#CCCCCC"> well I get invited to</font>
+
+422
+00:18:15,460 --> 00:18:17,590
+Bilderberg every year oh yeah they want
+
+423
+00:18:17,590 --> 00:18:20,440
+me to<font color="#E5E5E5"> go and plot with them</font><font color="#CCCCCC"> in fact I'm</font>
+
+424
+00:18:20,440 --> 00:18:21,730
+going<font color="#E5E5E5"> to end</font><font color="#CCCCCC"> early because</font><font color="#E5E5E5"> we'll have</font><font color="#CCCCCC"> a</font>
+
+425
+00:18:21,730 --> 00:18:23,049
+<font color="#E5E5E5">late breakfast with Obama and</font><font color="#CCCCCC"> George</font>
+
+426
+00:18:23,049 --> 00:18:25,570
+Soros<font color="#E5E5E5"> we're gonna talk about</font><font color="#CCCCCC"> what we're</font>
+
+427
+00:18:25,570 --> 00:18:27,010
+<font color="#E5E5E5">done we're gonna color coordinate our</font>
+
+428
+00:18:27,010 --> 00:18:30,070
+outfits<font color="#CCCCCC"> ID</font><font color="#E5E5E5"> Bilderberg this year and then</font>
+
+429
+00:18:30,070 --> 00:18:31,149
+the<font color="#CCCCCC"> bushes might come in we're gonna</font>
+
+430
+00:18:31,149 --> 00:18:32,649
+talk about<font color="#E5E5E5"> the next Skull and Bones</font>
+
+431
+00:18:32,649 --> 00:18:35,679
+meeting<font color="#E5E5E5"> we're gonna chain me change the</font>
+
+432
+00:18:35,679 --> 00:18:38,230
+color of our<font color="#E5E5E5"> hoods and get a new stone</font>
+
+433
+00:18:38,230 --> 00:18:40,269
+slab for the sacrifices<font color="#CCCCCC"> when they get</font>
+
+434
+00:18:40,269 --> 00:18:42,460
+<font color="#E5E5E5">about that</font><font color="#CCCCCC"> oh no I don't know what do we</font>
+
+435
+00:18:42,460 --> 00:18:43,720
+<font color="#E5E5E5">need one it is stone it's been around</font>
+
+436
+00:18:43,720 --> 00:18:44,950
+for a couple<font color="#CCCCCC"> of hundred years it works</font>
+
+437
+00:18:44,950 --> 00:18:47,769
+pretty well<font color="#CCCCCC"> all this</font><font color="#E5E5E5"> things and then the</font>
+
+438
+00:18:47,769 --> 00:18:48,820
+middle of all<font color="#CCCCCC"> that I got</font><font color="#E5E5E5"> to turn out</font>
+
+439
+00:18:48,820 --> 00:18:54,820
+these shows yeah you know so uh let's
+
+440
+00:18:54,820 --> 00:18:58,539
+see let's say Trump rally so you got all
+
+441
+00:18:58,539 --> 00:19:00,340
+these<font color="#E5E5E5"> people there they're going</font><font color="#CCCCCC"> nuts</font>
+
+442
+00:19:00,340 --> 00:19:03,190
+<font color="#CCCCCC">Trump's touting the economy</font><font color="#E5E5E5"> you know</font>
+
+443
+00:19:03,190 --> 00:19:04,570
+what the<font color="#E5E5E5"> takeaway for me</font><font color="#CCCCCC"> was I didn't I</font>
+
+444
+00:19:04,570 --> 00:19:06,130
+didn't go<font color="#E5E5E5"> had a lot</font><font color="#CCCCCC"> of friends</font><font color="#E5E5E5"> in the</font>
+
+445
+00:19:06,130 --> 00:19:09,330
+<font color="#E5E5E5">room they were sending me video and</font>
+
+446
+00:19:09,330 --> 00:19:14,350
+David<font color="#CCCCCC"> Badgley was only kidding about the</font>
+
+447
+00:19:14,350 --> 00:19:16,600
+imagery<font color="#CCCCCC"> behind me it's a</font><font color="#E5E5E5"> joke he's been</font>
+
+448
+00:19:16,600 --> 00:19:18,220
+<font color="#E5E5E5">running on</font><font color="#CCCCCC"> the stream for</font><font color="#E5E5E5"> a couple of</font>
+
+449
+00:19:18,220 --> 00:19:23,230
+<font color="#E5E5E5">days we're all</font><font color="#CCCCCC"> kiddin</font><font color="#E5E5E5"> guys David was</font>
+
+450
+00:19:23,230 --> 00:19:26,710
+just<font color="#E5E5E5"> joking around and I was playing</font>
+
+451
+00:19:26,710 --> 00:19:29,370
+into<font color="#E5E5E5"> the joke that's it</font>
+
+452
+00:19:29,370 --> 00:19:34,720
+that's it<font color="#CCCCCC"> oh</font><font color="#E5E5E5"> so we're in this Trump law</font>
+
+453
+00:19:34,720 --> 00:19:36,159
+I wasn't there
+
+454
+00:19:36,159 --> 00:19:40,090
+Trump was uh<font color="#E5E5E5"> firing the crowd up nobody</font>
+
+455
+00:19:40,090 --> 00:19:42,429
+talked<font color="#E5E5E5"> about Muller</font><font color="#CCCCCC"> but if you look</font>
+
+456
+00:19:42,429 --> 00:19:44,320
+<font color="#CCCCCC">around these Trump rallies right</font><font color="#E5E5E5"> one of</font>
+
+457
+00:19:44,320 --> 00:19:47,380
+the one of<font color="#E5E5E5"> the things that is</font><font color="#CCCCCC"> the left</font>
+
+458
+00:19:47,380 --> 00:19:51,760
+really really terrified is that at these
+
+459
+00:19:51,760 --> 00:19:53,679
+rallies<font color="#E5E5E5"> when you speak</font><font color="#CCCCCC"> to the crowd</font><font color="#E5E5E5"> and</font>
+
+460
+00:19:53,679 --> 00:19:56,320
+<font color="#E5E5E5">I've covered many as media and I speak</font>
+
+461
+00:19:56,320 --> 00:19:57,970
+to a<font color="#E5E5E5"> lot of people that are coming in</font>
+
+462
+00:19:57,970 --> 00:19:59,710
+<font color="#E5E5E5">and leaving I try to even get out</font><font color="#CCCCCC"> of the</font>
+
+463
+00:19:59,710 --> 00:20:03,100
+media area<font color="#E5E5E5"> it would always surprise</font>
+
+464
+00:20:03,100 --> 00:20:07,410
+me<font color="#E5E5E5"> it encourages me how many crossover</font>
+
+465
+00:20:07,410 --> 00:20:10,600
+<font color="#E5E5E5">Democrats and dark Sandman said the</font>
+
+466
+00:20:10,600 --> 00:20:13,480
+number of<font color="#CCCCCC"> youth kids</font><font color="#E5E5E5"> younger people yes</font>
+
+467
+00:20:13,480 --> 00:20:15,580
+yes<font color="#E5E5E5"> took the words out of my mouth</font><font color="#CCCCCC"> so</font>
+
+468
+00:20:15,580 --> 00:20:17,850
+<font color="#CCCCCC">you've got the</font><font color="#E5E5E5"> crossover Democrats</font>
+
+469
+00:20:17,850 --> 00:20:20,289
+<font color="#E5E5E5">crossover independents Millennials and</font>
+
+470
+00:20:20,289 --> 00:20:22,900
+<font color="#E5E5E5">high school students you haven't seen</font>
+
+471
+00:20:22,900 --> 00:20:25,179
+that<font color="#E5E5E5"> kind of enthusiasm among younger</font>
+
+472
+00:20:25,179 --> 00:20:29,140
+<font color="#CCCCCC">voters</font><font color="#E5E5E5"> since Barack Obama</font><font color="#CCCCCC"> Callum Jackson</font>
+
+473
+00:20:29,140 --> 00:20:30,970
+hello<font color="#E5E5E5"> from Scotland my friend thanks for</font>
+
+474
+00:20:30,970 --> 00:20:35,409
+tuning in so cranium says I really<font color="#E5E5E5"> liked</font>
+
+475
+00:20:35,409 --> 00:20:37,840
+<font color="#E5E5E5">when trunk tried to be presidential</font><font color="#CCCCCC"> it</font>
+
+476
+00:20:37,840 --> 00:20:39,150
+was hilarious actually
+
+477
+00:20:39,150 --> 00:20:42,429
+and he was right if he tried<font color="#E5E5E5"> to be</font>
+
+478
+00:20:42,429 --> 00:20:44,409
+proper<font color="#E5E5E5"> and presidential</font><font color="#CCCCCC"> it doesn't work</font>
+
+479
+00:20:44,409 --> 00:20:48,730
+for<font color="#CCCCCC"> him</font><font color="#E5E5E5"> he's</font><font color="#CCCCCC"> got to be himself</font><font color="#E5E5E5"> he's got</font>
+
+480
+00:20:48,730 --> 00:20:51,039
+to be the guy he is<font color="#E5E5E5"> that's the guy that</font>
+
+481
+00:20:51,039 --> 00:20:54,909
+best works<font color="#E5E5E5"> for Donald Trump the</font><font color="#CCCCCC"> law of</font>
+
+482
+00:20:54,909 --> 00:20:57,400
+<font color="#CCCCCC">one's his life without sarcasm nah I</font>
+
+483
+00:20:57,400 --> 00:21:03,850
+agree man<font color="#E5E5E5"> no way no way preservationist</font>
+
+484
+00:21:03,850 --> 00:21:05,049
+says<font color="#E5E5E5"> Trump need to say that white people</font>
+
+485
+00:21:05,049 --> 00:21:06,549
+are losing their homelands<font color="#CCCCCC"> he's talking</font>
+
+486
+00:21:06,549 --> 00:21:10,659
+about<font color="#E5E5E5"> South South Africa maybe right now</font>
+
+487
+00:21:10,659 --> 00:21:12,490
+Trump needs to focus<font color="#E5E5E5"> on an economic</font>
+
+488
+00:21:12,490 --> 00:21:15,760
+message in America there<font color="#CCCCCC"> is</font><font color="#E5E5E5"> no political</font>
+
+489
+00:21:15,760 --> 00:21:17,830
+<font color="#CCCCCC">ups we are in a midterm here in America</font>
+
+490
+00:21:17,830 --> 00:21:20,620
+<font color="#E5E5E5">that's the fight of our lives if the</font>
+
+491
+00:21:20,620 --> 00:21:21,789
+<font color="#CCCCCC">Democrats take the house they're going</font>
+
+492
+00:21:21,789 --> 00:21:23,710
+<font color="#E5E5E5">to move</font><font color="#CCCCCC"> to impeach Trump</font><font color="#E5E5E5"> and instruct</font>
+
+493
+00:21:23,710 --> 00:21:26,400
+the next two<font color="#CCCCCC"> years of his first term</font>
+
+494
+00:21:26,400 --> 00:21:29,590
+right now<font color="#E5E5E5"> there is no political reason</font>
+
+495
+00:21:29,590 --> 00:21:31,659
+whatsoever<font color="#E5E5E5"> for Donald Trump to talk</font>
+
+496
+00:21:31,659 --> 00:21:34,690
+about white genocide<font color="#E5E5E5"> and and and</font><font color="#CCCCCC"> why</font>
+
+497
+00:21:34,690 --> 00:21:36,850
+losing their<font color="#E5E5E5"> land in South Africa help</font>
+
+498
+00:21:36,850 --> 00:21:38,530
+with it speak about it when he's
+
+499
+00:21:38,530 --> 00:21:42,460
+overseas lend intelligence<font color="#E5E5E5"> financial</font>
+
+500
+00:21:42,460 --> 00:21:45,760
+<font color="#CCCCCC">military assistance</font><font color="#E5E5E5"> yes but there's no</font>
+
+501
+00:21:45,760 --> 00:21:47,380
+<font color="#E5E5E5">reason for</font><font color="#CCCCCC"> him to be</font><font color="#E5E5E5"> speaking about that</font>
+
+502
+00:21:47,380 --> 00:21:48,970
+at his rallies and<font color="#E5E5E5"> on the campaign trail</font>
+
+503
+00:21:48,970 --> 00:21:50,890
+<font color="#E5E5E5">it would be wasted time</font><font color="#CCCCCC"> and a missed</font>
+
+504
+00:21:50,890 --> 00:21:53,620
+opportunity<font color="#CCCCCC"> his job right now is</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> get</font>
+
+505
+00:21:53,620 --> 00:21:55,659
+Republicans elected<font color="#E5E5E5"> in the midterms</font>
+
+506
+00:21:55,659 --> 00:21:57,880
+they're coming resonates with the
+
+507
+00:21:57,880 --> 00:22:01,240
+American voter<font color="#E5E5E5"> now I'm not saying there</font>
+
+508
+00:22:01,240 --> 00:22:03,419
+aren't<font color="#E5E5E5"> problems out</font><font color="#CCCCCC"> there</font><font color="#E5E5E5"> in the world</font>
+
+509
+00:22:03,419 --> 00:22:06,340
+<font color="#E5E5E5">but those are not what</font><font color="#CCCCCC"> are affecting the</font>
+
+510
+00:22:06,340 --> 00:22:09,570
+<font color="#E5E5E5">American voter let me segue back into</font>
+
+511
+00:22:09,570 --> 00:22:13,120
+the rally<font color="#CCCCCC"> what I was going to</font><font color="#E5E5E5"> say so my</font>
+
+512
+00:22:13,120 --> 00:22:15,520
+pick away was that you've got all these
+
+513
+00:22:15,520 --> 00:22:16,610
+crossover Dems
+
+514
+00:22:16,610 --> 00:22:18,500
+and you've got these<font color="#E5E5E5"> independents and</font>
+
+515
+00:22:18,500 --> 00:22:19,820
+you've got these young<font color="#E5E5E5"> voters who are</font>
+
+516
+00:22:19,820 --> 00:22:22,450
+all historically<font color="#E5E5E5"> Democratic voters</font>
+
+517
+00:22:22,450 --> 00:22:25,100
+they're<font color="#E5E5E5"> voting</font><font color="#CCCCCC"> for Trump the supporting</font>
+
+518
+00:22:25,100 --> 00:22:27,860
+Trump<font color="#E5E5E5"> and the number one issue to these</font>
+
+519
+00:22:27,860 --> 00:22:29,929
+people with immigration being a second
+
+520
+00:22:29,929 --> 00:22:33,200
+<font color="#CCCCCC">blow second</font><font color="#E5E5E5"> the number one issue is the</font>
+
+521
+00:22:33,200 --> 00:22:33,880
+economy
+
+522
+00:22:33,880 --> 00:22:39,410
+number one cheap oil<font color="#E5E5E5"> cheap gasoline at</font>
+
+523
+00:22:39,410 --> 00:22:40,040
+the pumps
+
+524
+00:22:40,040 --> 00:22:42,620
+a soaring stock market so their
+
+525
+00:22:42,620 --> 00:22:45,350
+investments their retirement<font color="#E5E5E5"> are doing</font>
+
+526
+00:22:45,350 --> 00:22:48,710
+better low interest rates<font color="#E5E5E5"> that's what</font>
+
+527
+00:22:48,710 --> 00:22:51,770
+Americans care about<font color="#CCCCCC"> actually care about</font>
+
+528
+00:22:51,770 --> 00:22:54,350
+<font color="#E5E5E5">they don't care about racial identity</font>
+
+529
+00:22:54,350 --> 00:22:56,809
+politics<font color="#E5E5E5"> around</font><font color="#CCCCCC"> the world don't</font><font color="#E5E5E5"> care</font>
+
+530
+00:22:56,809 --> 00:22:58,760
+about<font color="#E5E5E5"> that don't care about the gun</font>
+
+531
+00:22:58,760 --> 00:23:01,250
+issues<font color="#E5E5E5"> even in Florida pro-second</font>
+
+532
+00:23:01,250 --> 00:23:02,390
+amendment Florida on<font color="#CCCCCC"> vehement</font><font color="#E5E5E5"> I'm</font>
+
+533
+00:23:02,390 --> 00:23:04,190
+<font color="#CCCCCC">passionate about the second amendment</font>
+
+534
+00:23:04,190 --> 00:23:06,790
+would voters on<font color="#CCCCCC"> the ground care about</font>
+
+535
+00:23:06,790 --> 00:23:10,940
+what voters<font color="#E5E5E5"> on</font><font color="#CCCCCC"> the ground care about</font><font color="#E5E5E5"> mmm</font>
+
+536
+00:23:10,940 --> 00:23:13,400
+<font color="#E5E5E5">or the economy and to an extent</font>
+
+537
+00:23:13,400 --> 00:23:16,520
+<font color="#E5E5E5">immigration and crime all that comes</font>
+
+538
+00:23:16,520 --> 00:23:22,190
+with<font color="#E5E5E5"> the immigration problems they don't</font>
+
+539
+00:23:22,190 --> 00:23:24,350
+<font color="#CCCCCC">care about</font><font color="#E5E5E5"> these</font><font color="#CCCCCC"> nuanced conservative</font>
+
+540
+00:23:24,350 --> 00:23:28,880
+issues<font color="#CCCCCC"> pal West I don't he watched</font><font color="#E5E5E5"> Joe</font>
+
+541
+00:23:28,880 --> 00:23:30,140
+<font color="#CCCCCC">Rogan used to have</font><font color="#E5E5E5"> respect from he's</font>
+
+542
+00:23:30,140 --> 00:23:32,780
+going further and<font color="#CCCCCC"> further</font><font color="#E5E5E5"> left</font><font color="#CCCCCC"> last</font>
+
+543
+00:23:32,780 --> 00:23:33,799
+night<font color="#CCCCCC"> his</font><font color="#E5E5E5"> comment about Trump and</font>
+
+544
+00:23:33,799 --> 00:23:35,330
+<font color="#E5E5E5">supporters were unfair at all I've never</font>
+
+545
+00:23:35,330 --> 00:23:37,370
+really watched him he does a good job
+
+546
+00:23:37,370 --> 00:23:40,820
+he's<font color="#CCCCCC"> a</font><font color="#E5E5E5"> talented guy but I just</font><font color="#CCCCCC"> never did</font>
+
+547
+00:23:40,820 --> 00:23:44,750
+<font color="#E5E5E5">and and part of the reason is I do about</font>
+
+548
+00:23:44,750 --> 00:23:48,790
+<font color="#E5E5E5">four</font><font color="#CCCCCC"> hours a day on it where two shows</font>
+
+549
+00:23:48,790 --> 00:23:53,090
+<font color="#E5E5E5">um just burnt out from this content the</font>
+
+550
+00:23:53,090 --> 00:23:55,190
+last thing I want<font color="#CCCCCC"> to do when I'm not on</font>
+
+551
+00:23:55,190 --> 00:23:59,990
+<font color="#E5E5E5">air is watch other people</font><font color="#CCCCCC"> broadcast</font><font color="#E5E5E5"> in</font>
+
+552
+00:23:59,990 --> 00:24:02,960
+<font color="#E5E5E5">the commentary</font><font color="#CCCCCC"> that I do</font><font color="#E5E5E5"> no offense to</font>
+
+553
+00:24:02,960 --> 00:24:05,179
+<font color="#E5E5E5">them no upfront</font><font color="#CCCCCC"> Dan I just want to watch</font>
+
+554
+00:24:05,179 --> 00:24:06,710
+something<font color="#E5E5E5"> mindless like the History</font>
+
+555
+00:24:06,710 --> 00:24:09,590
+Channel or Shark Week after that<font color="#CCCCCC"> that's</font>
+
+556
+00:24:09,590 --> 00:24:13,910
+<font color="#E5E5E5">all I want to do so steel anvil says</font>
+
+557
+00:24:13,910 --> 00:24:14,960
+they never<font color="#CCCCCC"> gave the real numbers at the</font>
+
+558
+00:24:14,960 --> 00:24:16,429
+rallies even the campaign rallies no
+
+559
+00:24:16,429 --> 00:24:17,809
+they didn't you<font color="#CCCCCC"> know I was at a rally</font>
+
+560
+00:24:17,809 --> 00:24:20,630
+during<font color="#E5E5E5"> the campaign and steeled down</font>
+
+561
+00:24:20,630 --> 00:24:26,150
+here in Miami and the room<font color="#E5E5E5"> either</font><font color="#CCCCCC"> uh the</font>
+
+562
+00:24:26,150 --> 00:24:28,220
+night<font color="#E5E5E5"> center in Miami or the BBT Center</font>
+
+563
+00:24:28,220 --> 00:24:29,929
+in Broward County<font color="#CCCCCC"> west</font><font color="#E5E5E5"> of Fort</font>
+
+564
+00:24:29,929 --> 00:24:30,440
+<font color="#CCCCCC">Lauderdale</font>
+
+565
+00:24:30,440 --> 00:24:32,390
+and there was a reporter<font color="#E5E5E5"> from Reuters</font>
+
+566
+00:24:32,390 --> 00:24:35,990
+<font color="#CCCCCC">the room the</font><font color="#E5E5E5"> room on the arena he's a</font>
+
+567
+00:24:35,990 --> 00:24:40,100
+big venues were packed<font color="#E5E5E5"> the Secret</font>
+
+568
+00:24:40,100 --> 00:24:42,640
+<font color="#CCCCCC">Service had closed one section</font>
+
+569
+00:24:42,640 --> 00:24:45,920
+they were staging behind it<font color="#CCCCCC"> I assume</font>
+
+570
+00:24:45,920 --> 00:24:47,540
+they<font color="#CCCCCC"> had their snipers up</font><font color="#E5E5E5"> in the rafters</font>
+
+571
+00:24:47,540 --> 00:24:50,180
+<font color="#CCCCCC">so for security</font><font color="#E5E5E5"> they staged one section</font>
+
+572
+00:24:50,180 --> 00:24:52,580
+<font color="#E5E5E5">they closed it and there was only staff</font>
+
+573
+00:24:52,580 --> 00:24:55,790
+<font color="#E5E5E5">sitting in that section people that had</font>
+
+574
+00:24:55,790 --> 00:24:57,740
+already<font color="#E5E5E5"> been pre vetted by</font><font color="#CCCCCC"> the Secret</font>
+
+575
+00:24:57,740 --> 00:25:00,590
+Service<font color="#E5E5E5"> and I'm guessing</font><font color="#CCCCCC"> that was also</font>
+
+576
+00:25:00,590 --> 00:25:03,530
+<font color="#CCCCCC">the section</font><font color="#E5E5E5"> where it had the corridor to</font>
+
+577
+00:25:03,530 --> 00:25:05,210
+<font color="#E5E5E5">the presidential limo or the motorcade</font>
+
+578
+00:25:05,210 --> 00:25:06,560
+it wasn't presidential<font color="#CCCCCC"> limit they get to</font>
+
+579
+00:25:06,560 --> 00:25:08,060
+get you know<font color="#E5E5E5"> the candidate out of there</font>
+
+580
+00:25:08,060 --> 00:25:11,690
+and it<font color="#E5E5E5"> needed me the Reuters reporter</font>
+
+581
+00:25:11,690 --> 00:25:14,510
+ignored<font color="#E5E5E5"> the packed house</font><font color="#CCCCCC"> everywhere</font><font color="#E5E5E5"> else</font>
+
+582
+00:25:14,510 --> 00:25:16,280
+she only<font color="#E5E5E5"> took a photo of that section</font>
+
+583
+00:25:16,280 --> 00:25:18,650
+and basically put out on Twitter<font color="#CCCCCC"> you</font>
+
+584
+00:25:18,650 --> 00:25:20,420
+know<font color="#E5E5E5"> basically pathetic crowd at this</font>
+
+585
+00:25:20,420 --> 00:25:24,140
+Trump rally<font color="#CCCCCC"> I caught that I then took a</font>
+
+586
+00:25:24,140 --> 00:25:27,380
+panoramic<font color="#CCCCCC"> shot of the rest of it called</font>
+
+587
+00:25:27,380 --> 00:25:29,930
+her out on<font color="#E5E5E5"> Twitter and she was</font>
+
+588
+00:25:29,930 --> 00:25:32,960
+thoroughly embarrassed<font color="#E5E5E5"> so</font><font color="#CCCCCC"> steal</font><font color="#E5E5E5"> they</font>
+
+589
+00:25:32,960 --> 00:25:35,990
+don't only not give you the numbers they
+
+590
+00:25:35,990 --> 00:25:38,750
+will<font color="#E5E5E5"> sit in a packed room a packed arena</font>
+
+591
+00:25:38,750 --> 00:25:42,950
+<font color="#E5E5E5">and they will lie about</font><font color="#CCCCCC"> it until</font><font color="#E5E5E5"> they're</font>
+
+592
+00:25:42,950 --> 00:25:46,340
+called out they will flat-out lie<font color="#E5E5E5"> mm to</font>
+
+593
+00:25:46,340 --> 00:25:48,710
+readers to viewers until they're called
+
+594
+00:25:48,710 --> 00:25:52,160
+out<font color="#CCCCCC"> law of one says</font><font color="#E5E5E5"> nothing like</font>
+
+595
+00:25:52,160 --> 00:25:53,510
+watching three-headed sharks from<font color="#E5E5E5"> outer</font>
+
+596
+00:25:53,510 --> 00:25:56,060
+space<font color="#CCCCCC"> to unwind</font><font color="#E5E5E5"> no that's not Shark Week</font>
+
+597
+00:25:56,060 --> 00:25:59,080
+<font color="#CCCCCC">I think you're thinking of sharknado 12</font>
+
+598
+00:25:59,080 --> 00:26:01,970
+<font color="#E5E5E5">three-headed sharks from outer space all</font>
+
+599
+00:26:01,970 --> 00:26:04,100
+<font color="#E5E5E5">right let's see I'm gonna go to some of</font>
+
+600
+00:26:04,100 --> 00:26:06,230
+your<font color="#E5E5E5"> comments now got a lot here today</font>
+
+601
+00:26:06,230 --> 00:26:13,970
+<font color="#E5E5E5">guys let's see what we got Nigel you are</font>
+
+602
+00:26:13,970 --> 00:26:16,850
+donating again you're asking<font color="#CCCCCC"> us to look</font>
+
+603
+00:26:16,850 --> 00:26:19,760
+at<font color="#E5E5E5"> this Jeremy Bamber case</font><font color="#CCCCCC"> I told you</font>
+
+604
+00:26:19,760 --> 00:26:21,020
+I'm taking<font color="#E5E5E5"> a look at it I'm interested</font>
+
+605
+00:26:21,020 --> 00:26:24,950
+<font color="#CCCCCC">in any criminal</font><font color="#E5E5E5"> case</font><font color="#CCCCCC"> but a lot happening</font>
+
+606
+00:26:24,950 --> 00:26:25,760
+<font color="#CCCCCC">here in the States</font>
+
+607
+00:26:25,760 --> 00:26:28,250
+Ezra's very focused<font color="#E5E5E5"> on Tommy Robinson we</font>
+
+608
+00:26:28,250 --> 00:26:30,050
+will take a look<font color="#E5E5E5"> at it though</font><font color="#CCCCCC"> dad I</font>
+
+609
+00:26:30,050 --> 00:26:31,610
+promise<font color="#CCCCCC"> you I'll dig into</font><font color="#E5E5E5"> the case when</font>
+
+610
+00:26:31,610 --> 00:26:36,740
+I<font color="#CCCCCC"> have</font><font color="#E5E5E5"> time I will do that let's see mmm</font>
+
+611
+00:26:36,740 --> 00:26:39,110
+<font color="#E5E5E5">MD says they won't move to impeach</font>
+
+612
+00:26:39,110 --> 00:26:41,450
+<font color="#E5E5E5">they'll do it not hard to impeach</font>
+
+613
+00:26:41,450 --> 00:26:42,860
+<font color="#CCCCCC">convict in</font><font color="#E5E5E5"> the Senate though but the</font>
+
+614
+00:26:42,860 --> 00:26:44,330
+point is that<font color="#CCCCCC"> the</font><font color="#E5E5E5"> whole agenda get</font>
+
+615
+00:26:44,330 --> 00:26:50,140
+down exactly<font color="#E5E5E5"> exactly now they will need</font>
+
+616
+00:26:50,140 --> 00:26:53,630
+60 votes<font color="#E5E5E5"> to him they will need</font><font color="#CCCCCC"> 2/3</font><font color="#E5E5E5"> in</font>
+
+617
+00:26:53,630 --> 00:26:55,070
+the<font color="#CCCCCC"> Senate to impeach they'll never get</font>
+
+618
+00:26:55,070 --> 00:26:57,080
+that but<font color="#CCCCCC"> only a simple majority in</font><font color="#E5E5E5"> the</font>
+
+619
+00:26:57,080 --> 00:26:58,850
+<font color="#E5E5E5">house so the way impeachment works in</font>
+
+620
+00:26:58,850 --> 00:27:01,490
+the house is goes to<font color="#CCCCCC"> the Judiciary</font>
+
+621
+00:27:01,490 --> 00:27:02,740
+Committee<font color="#CCCCCC"> they need a simple majority</font>
+
+622
+00:27:02,740 --> 00:27:05,240
+<font color="#E5E5E5">then a simple majority on the floor MD</font>
+
+623
+00:27:05,240 --> 00:27:07,580
+you're 100% right if Dems take the house
+
+624
+00:27:07,580 --> 00:27:10,340
+<font color="#E5E5E5">mmm take the house Donald Trump gets</font>
+
+625
+00:27:10,340 --> 00:27:13,340
+impeached<font color="#E5E5E5"> he stays in office he becomes</font>
+
+626
+00:27:13,340 --> 00:27:14,600
+the bill Quinn he doesn't get tried in
+
+627
+00:27:14,600 --> 00:27:16,460
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> Senate but he's impeached in the</font>
+
+628
+00:27:16,460 --> 00:27:23,450
+<font color="#E5E5E5">house Charlie Brown</font><font color="#CCCCCC"> House says why</font>
+
+629
+00:27:23,450 --> 00:27:24,799
+doesn't Trump<font color="#E5E5E5"> outright ban political</font>
+
+630
+00:27:24,799 --> 00:27:26,630
+<font color="#E5E5E5">correctness and identity politics and</font>
+
+631
+00:27:26,630 --> 00:27:27,740
+<font color="#CCCCCC">education and government and media</font>
+
+632
+00:27:27,740 --> 00:27:29,360
+<font color="#E5E5E5">because we don't live</font><font color="#CCCCCC"> in a dictatorship</font>
+
+633
+00:27:29,360 --> 00:27:32,419
+<font color="#CCCCCC">we have the First Amendment an identity</font>
+
+634
+00:27:32,419 --> 00:27:33,679
+politics are for the most<font color="#E5E5E5"> part</font><font color="#CCCCCC"> in</font>
+
+635
+00:27:33,679 --> 00:27:35,840
+opinion and in<font color="#E5E5E5"> America</font><font color="#CCCCCC"> we don't</font><font color="#E5E5E5"> ban</font>
+
+636
+00:27:35,840 --> 00:27:39,909
+opinions let's see what<font color="#E5E5E5"> else we got</font>
+
+637
+00:27:39,909 --> 00:27:42,019
+<font color="#E5E5E5">Politico</font><font color="#CCCCCC"> is starting to run fake polls</font>
+
+638
+00:27:42,019 --> 00:27:44,120
+<font color="#CCCCCC">olt left idiots Uncle Joe by 7</font><font color="#E5E5E5"> points I</font>
+
+639
+00:27:44,120 --> 00:27:46,190
+<font color="#E5E5E5">saw</font><font color="#CCCCCC"> that but if you go to my Twitter and</font>
+
+640
+00:27:46,190 --> 00:27:48,529
+<font color="#CCCCCC">you go to the media</font><font color="#E5E5E5"> tab at John Cardillo</font>
+
+641
+00:27:48,529 --> 00:27:50,360
+<font color="#E5E5E5">you'll see that I called the political</font>
+
+642
+00:27:50,360 --> 00:27:52,909
+<font color="#CCCCCC">out on that</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> that same poll the</font>
+
+643
+00:27:52,909 --> 00:27:54,620
+<font color="#E5E5E5">Politico morning I believe</font><font color="#CCCCCC"> is political</font>
+
+644
+00:27:54,620 --> 00:27:56,840
+<font color="#E5E5E5">morning call poll they also had Hillary</font>
+
+645
+00:27:56,840 --> 00:27:57,980
+up by six
+
+646
+00:27:57,980 --> 00:28:01,820
+in October of 2016<font color="#CCCCCC"> so</font><font color="#E5E5E5"> take the political</font>
+
+647
+00:28:01,820 --> 00:28:04,100
+polls with a grain of salt<font color="#CCCCCC"> they</font><font color="#E5E5E5"> ain't</font>
+
+648
+00:28:04,100 --> 00:28:08,870
+got the best<font color="#E5E5E5"> history</font><font color="#CCCCCC"> of accuracy</font><font color="#E5E5E5"> dark</font>
+
+649
+00:28:08,870 --> 00:28:10,850
+<font color="#E5E5E5">sandman says Trump has become the party</font>
+
+650
+00:28:10,850 --> 00:28:12,559
+of<font color="#CCCCCC"> the people not</font><font color="#E5E5E5"> Dems not Republicans</font>
+
+651
+00:28:12,559 --> 00:28:13,730
+we have a three-party system you're
+
+652
+00:28:13,730 --> 00:28:15,500
+right you're right<font color="#CCCCCC"> I said</font><font color="#E5E5E5"> yesterday</font>
+
+653
+00:28:15,500 --> 00:28:18,730
+<font color="#E5E5E5">somebody Donald Trump is</font><font color="#CCCCCC"> not</font>
+
+654
+00:28:18,730 --> 00:28:21,740
+ideologically<font color="#E5E5E5"> Republican Republican or</font>
+
+655
+00:28:21,740 --> 00:28:22,370
+conservative
+
+656
+00:28:22,370 --> 00:28:24,740
+<font color="#E5E5E5">he's not ideologically Democrat or</font>
+
+657
+00:28:24,740 --> 00:28:28,039
+liberal he's a guy that solutions<font color="#CCCCCC"> base</font>
+
+658
+00:28:28,039 --> 00:28:31,789
+now<font color="#E5E5E5"> when he goes from a the salute the</font>
+
+659
+00:28:31,789 --> 00:28:34,429
+problem to be the<font color="#E5E5E5"> solution typically the</font>
+
+660
+00:28:34,429 --> 00:28:36,950
+end result is<font color="#CCCCCC"> a conservative policy</font><font color="#E5E5E5"> so</font>
+
+661
+00:28:36,950 --> 00:28:39,010
+he comes off looking conservative
+
+662
+00:28:39,010 --> 00:28:41,510
+<font color="#E5E5E5">somebody just asked me let's say I'll</font>
+
+663
+00:28:41,510 --> 00:28:46,250
+entertain this because I just will<font color="#E5E5E5"> at</font><font color="#CCCCCC"> uh</font>
+
+664
+00:28:46,250 --> 00:28:48,529
+leave a why is<font color="#E5E5E5"> rebel media not covering</font>
+
+665
+00:28:48,529 --> 00:28:50,240
+<font color="#CCCCCC">queueing on because we don't cover</font>
+
+666
+00:28:50,240 --> 00:28:54,049
+fiction<font color="#E5E5E5"> we don't cover made-up fantasy</font>
+
+667
+00:28:54,049 --> 00:28:56,659
+things<font color="#E5E5E5"> and that's all that</font><font color="#CCCCCC"> qa9</font><font color="#E5E5E5"> nonsense</font>
+
+668
+00:28:56,659 --> 00:28:57,760
+is made
+
+669
+00:28:57,760 --> 00:28:59,950
+<font color="#CCCCCC">fantasy's</font><font color="#E5E5E5"> to throw you off track of</font>
+
+670
+00:28:59,950 --> 00:29:04,500
+what's really<font color="#E5E5E5"> going</font><font color="#CCCCCC"> on let's see oh</font>
+
+671
+00:29:04,500 --> 00:29:06,790
+let's<font color="#E5E5E5"> take a look at what else you guys</font>
+
+672
+00:29:06,790 --> 00:29:11,230
+got for me it rebel<font color="#CCCCCC"> meaty ever take down</font>
+
+673
+00:29:11,230 --> 00:29:13,030
+a<font color="#E5E5E5"> video about Tommy or was</font><font color="#CCCCCC"> it YouTube I</font>
+
+674
+00:29:13,030 --> 00:29:17,460
+have no idea<font color="#CCCCCC"> on either question</font>
+
+675
+00:29:17,460 --> 00:29:20,320
+Tommy<font color="#E5E5E5"> shell</font><font color="#CCCCCC"> uh uh</font><font color="#E5E5E5"> love this comment</font>
+
+676
+00:29:20,320 --> 00:29:21,400
+couldn't agree more wish we could go
+
+677
+00:29:21,400 --> 00:29:22,660
+<font color="#E5E5E5">back to the days where people</font><font color="#CCCCCC"> wouldn't</font>
+
+678
+00:29:22,660 --> 00:29:24,610
+<font color="#E5E5E5">get so offended</font><font color="#CCCCCC"> over nothing especially</font>
+
+679
+00:29:24,610 --> 00:29:27,550
+jokes about<font color="#CCCCCC"> anything thank you thank you</font>
+
+680
+00:29:27,550 --> 00:29:32,710
+we live in a<font color="#E5E5E5"> society of whiney babies we</font>
+
+681
+00:29:32,710 --> 00:29:36,930
+live in a<font color="#E5E5E5"> society of</font><font color="#CCCCCC"> whiney babies</font>
+
+682
+00:29:37,140 --> 00:29:39,460
+<font color="#CCCCCC">cranium says the</font><font color="#E5E5E5"> Trump gets impeached in</font>
+
+683
+00:29:39,460 --> 00:29:40,630
+the<font color="#E5E5E5"> house what effect would it have on</font>
+
+684
+00:29:40,630 --> 00:29:42,820
+him in 2020 none<font color="#E5E5E5"> it would</font><font color="#CCCCCC"> actually</font>
+
+685
+00:29:42,820 --> 00:29:44,410
+<font color="#CCCCCC">energize Republican voters it would also</font>
+
+686
+00:29:44,410 --> 00:29:47,860
+devastate the Democrats in those<font color="#CCCCCC"> 2020</font>
+
+687
+00:29:47,860 --> 00:29:51,310
+midterms<font color="#E5E5E5"> happen to Bill</font><font color="#CCCCCC"> Clinton</font><font color="#E5E5E5"> he won a</font>
+
+688
+00:29:51,310 --> 00:29:53,020
+second term<font color="#E5E5E5"> in a landslide</font>
+
+689
+00:29:53,020 --> 00:29:54,700
+it was<font color="#E5E5E5"> also running against Bob Dole</font>
+
+690
+00:29:54,700 --> 00:29:57,720
+that's a whole nother<font color="#E5E5E5"> story but won a</font>
+
+691
+00:29:57,720 --> 00:30:02,020
+second<font color="#CCCCCC"> term in a landslide John Doe says</font>
+
+692
+00:30:02,020 --> 00:30:03,430
+why is<font color="#E5E5E5"> Paul Ryan stepping down he's</font>
+
+693
+00:30:03,430 --> 00:30:04,930
+third<font color="#CCCCCC"> in line well he knows</font><font color="#E5E5E5"> he's gonna</font>
+
+694
+00:30:04,930 --> 00:30:06,520
+face tough<font color="#CCCCCC"> primary challenge</font><font color="#E5E5E5"> but more</font>
+
+695
+00:30:06,520 --> 00:30:08,170
+importantly<font color="#E5E5E5"> Paul Ryan's</font><font color="#CCCCCC"> a guy in his</font>
+
+696
+00:30:08,170 --> 00:30:09,420
+late forties he wants to go make money
+
+697
+00:30:09,420 --> 00:30:12,100
+<font color="#E5E5E5">thank</font><font color="#CCCCCC"> god he's stepping down but if I</font>
+
+698
+00:30:12,100 --> 00:30:13,390
+were Paul Ryan I would as well Paul
+
+699
+00:30:13,390 --> 00:30:15,160
+Ryan's<font color="#CCCCCC"> gonna step into</font><font color="#E5E5E5"> millions upon</font>
+
+700
+00:30:15,160 --> 00:30:17,820
+millions of<font color="#E5E5E5"> dollars his first year out a</font>
+
+701
+00:30:17,820 --> 00:30:21,460
+lot<font color="#E5E5E5"> of politicians do that they won't</font>
+
+702
+00:30:21,460 --> 00:30:23,740
+impeach<font color="#CCCCCC"> B pluribus unum says they won't</font>
+
+703
+00:30:23,740 --> 00:30:26,530
+impeach Rosenstein and they won't
+
+704
+00:30:26,530 --> 00:30:27,960
+protect the president
+
+705
+00:30:27,960 --> 00:30:35,140
+exactly<font color="#E5E5E5"> the fix is in the fix is</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> what</font>
+
+706
+00:30:35,140 --> 00:30:36,730
+do I think about Trudeau<font color="#CCCCCC"> and Canada not</font>
+
+707
+00:30:36,730 --> 00:30:39,070
+attending<font color="#E5E5E5"> the shooting show respect</font><font color="#CCCCCC"> well</font>
+
+708
+00:30:39,070 --> 00:30:42,460
+I think the issue is<font color="#E5E5E5"> that Trudeau went</font>
+
+709
+00:30:42,460 --> 00:30:45,250
+to a photo op by Alec<font color="#E5E5E5"> Trudeau is your</font>
+
+710
+00:30:45,250 --> 00:30:50,320
+<font color="#E5E5E5">Obama</font><font color="#CCCCCC"> god help you he's horrible he's</font>
+
+711
+00:30:50,320 --> 00:30:51,010
+horrible
+
+712
+00:30:51,010 --> 00:30:53,710
+<font color="#CCCCCC">Michelle</font><font color="#E5E5E5"> de</font><font color="#CCCCCC"> Ruyter says if communism is</font>
+
+713
+00:30:53,710 --> 00:30:55,510
+taking<font color="#E5E5E5"> over the US because of our school</font>
+
+714
+00:30:55,510 --> 00:30:58,120
+<font color="#CCCCCC">system it's ok because</font><font color="#E5E5E5"> democracy</font><font color="#CCCCCC"> well</font>
+
+715
+00:30:58,120 --> 00:30:59,940
+that doesn't<font color="#E5E5E5"> really make any</font><font color="#CCCCCC"> sense</font>
+
+716
+00:30:59,940 --> 00:31:03,100
+we don't ban opinions in the United
+
+717
+00:31:03,100 --> 00:31:07,750
+States now<font color="#E5E5E5"> if you're asking</font><font color="#CCCCCC"> me</font><font color="#E5E5E5"> if we</font>
+
+718
+00:31:07,750 --> 00:31:11,760
+<font color="#E5E5E5">should step in to public schools yes</font>
+
+719
+00:31:11,760 --> 00:31:13,530
+<font color="#E5E5E5">but not the federal government that</font>
+
+720
+00:31:13,530 --> 00:31:14,550
+<font color="#CCCCCC">should be</font><font color="#E5E5E5"> done on a state and</font><font color="#CCCCCC"> local</font>
+
+721
+00:31:14,550 --> 00:31:16,980
+<font color="#CCCCCC">level also remember the</font><font color="#E5E5E5"> United States is</font>
+
+722
+00:31:16,980 --> 00:31:18,750
+not a democracy
+
+723
+00:31:18,750 --> 00:31:21,470
+that's a<font color="#E5E5E5"> popular misconception</font><font color="#CCCCCC"> we're a</font>
+
+724
+00:31:21,470 --> 00:31:24,960
+constitutional republic<font color="#CCCCCC"> very</font><font color="#E5E5E5"> different</font>
+
+725
+00:31:24,960 --> 00:31:26,940
+<font color="#E5E5E5">we're not a pure democracy here were a</font>
+
+726
+00:31:26,940 --> 00:31:30,900
+constitutional republic<font color="#E5E5E5"> Trump is a</font>
+
+727
+00:31:30,900 --> 00:31:34,950
+populist conservative yes yes<font color="#E5E5E5"> deccan</font>
+
+728
+00:31:34,950 --> 00:31:36,660
+says that but that's what he's turned
+
+729
+00:31:36,660 --> 00:31:39,660
+out to be he didn't go into office<font color="#CCCCCC"> as a</font>
+
+730
+00:31:39,660 --> 00:31:41,700
+populist conservative but when he saw
+
+731
+00:31:41,700 --> 00:31:43,950
+<font color="#E5E5E5">the problems facing America and he</font>
+
+732
+00:31:43,950 --> 00:31:47,790
+solved them his policies the solutions
+
+733
+00:31:47,790 --> 00:31:50,900
+all turned out to be conservative
+
+734
+00:31:50,900 --> 00:31:54,420
+<font color="#E5E5E5">populist</font><font color="#CCCCCC"> policy so in the final</font><font color="#E5E5E5"> analysis</font>
+
+735
+00:31:54,420 --> 00:31:59,940
+you're 100% right<font color="#E5E5E5"> let's see you can</font>
+
+736
+00:31:59,940 --> 00:32:01,110
+<font color="#CCCCCC">defend some of the people</font><font color="#E5E5E5"> some of the</font>
+
+737
+00:32:01,110 --> 00:32:02,400
+<font color="#CCCCCC">time</font><font color="#E5E5E5"> but not all</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> people all the</font><font color="#CCCCCC"> time</font>
+
+738
+00:32:02,400 --> 00:32:04,140
+<font color="#CCCCCC">I'm someone else agree with you what</font>
+
+739
+00:32:04,140 --> 00:32:07,830
+does<font color="#E5E5E5"> being offended do wastes time that</font>
+
+740
+00:32:07,830 --> 00:32:11,910
+was from<font color="#E5E5E5"> Busey Chino</font><font color="#CCCCCC"> it wastes time</font><font color="#E5E5E5"> law</font>
+
+741
+00:32:11,910 --> 00:32:17,510
+of one says<font color="#E5E5E5"> whiny</font><font color="#CCCCCC"> betta</font><font color="#E5E5E5"> Cox a grade</font><font color="#CCCCCC"> hmm</font>
+
+742
+00:32:17,510 --> 00:32:19,920
+Bruce<font color="#E5E5E5"> young</font><font color="#CCCCCC"> bar says</font><font color="#E5E5E5"> talk about</font><font color="#CCCCCC"> Second</font>
+
+743
+00:32:19,920 --> 00:32:21,210
+<font color="#CCCCCC">Amendment</font><font color="#E5E5E5"> really doesn't exist they</font><font color="#CCCCCC"> can</font>
+
+744
+00:32:21,210 --> 00:32:22,470
+<font color="#CCCCCC">sit come</font><font color="#E5E5E5"> and take your guns anytime they</font>
+
+745
+00:32:22,470 --> 00:32:24,510
+want just<font color="#E5E5E5"> like Florida civil forfeiture</font>
+
+746
+00:32:24,510 --> 00:32:25,800
+look what they're doing<font color="#CCCCCC"> down in</font><font color="#E5E5E5"> Florida</font>
+
+747
+00:32:25,800 --> 00:32:27,210
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> really what's happening in Florida</font>
+
+748
+00:32:27,210 --> 00:32:29,940
+<font color="#E5E5E5">we have a new law in Florida</font>
+
+749
+00:32:29,940 --> 00:32:32,700
+look standard here typically is got to
+
+750
+00:32:32,700 --> 00:32:34,400
+<font color="#CCCCCC">be a criminal</font><font color="#E5E5E5"> charge leveled against you</font>
+
+751
+00:32:34,400 --> 00:32:36,480
+police can seize your<font color="#E5E5E5"> guns until a</font>
+
+752
+00:32:36,480 --> 00:32:39,540
+<font color="#E5E5E5">hearing</font><font color="#CCCCCC"> yada-yada-yada the new law in</font>
+
+753
+00:32:39,540 --> 00:32:42,240
+<font color="#CCCCCC">Florida is a bit too arbitrary I don't</font>
+
+754
+00:32:42,240 --> 00:32:44,040
+like it I expect it'll be challenged
+
+755
+00:32:44,040 --> 00:32:45,780
+steel anvil thanks man
+
+756
+00:32:45,780 --> 00:32:47,160
+<font color="#CCCCCC">you'll be safe out there thanks for the</font>
+
+757
+00:32:47,160 --> 00:32:50,220
+donation<font color="#CCCCCC"> what a</font><font color="#E5E5E5"> civil forfeiture look</font>
+
+758
+00:32:50,220 --> 00:32:51,450
+you know it's not really civil
+
+759
+00:32:51,450 --> 00:32:53,700
+forfeitures<font color="#E5E5E5"> that's not what it is it's</font>
+
+760
+00:32:53,700 --> 00:32:55,920
+law enforcement<font color="#CCCCCC"> coming in and</font>
+
+761
+00:32:55,920 --> 00:32:57,600
+safeguarding the weapons if<font color="#CCCCCC"> they</font><font color="#E5E5E5"> give</font><font color="#CCCCCC"> me</font>
+
+762
+00:32:57,600 --> 00:33:00,830
+to be a threat<font color="#E5E5E5"> Florida's new statute</font>
+
+763
+00:33:00,830 --> 00:33:03,480
+broadens that<font color="#E5E5E5"> too much for my comfort</font>
+
+764
+00:33:03,480 --> 00:33:05,880
+<font color="#CCCCCC">level so I'm going to</font><font color="#E5E5E5"> be doing now that</font>
+
+765
+00:33:05,880 --> 00:33:07,350
+<font color="#CCCCCC">we</font><font color="#E5E5E5"> look like we've got our stream issues</font>
+
+766
+00:33:07,350 --> 00:33:10,200
+99% worked out<font color="#E5E5E5"> I'm gonna</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> going</font><font color="#CCCCCC"> back</font>
+
+767
+00:33:10,200 --> 00:33:11,970
+to<font color="#CCCCCC"> a different software bringing guests</font>
+
+768
+00:33:11,970 --> 00:33:14,130
+on so you<font color="#E5E5E5"> could chat with them one</font><font color="#CCCCCC"> of</font>
+
+769
+00:33:14,130 --> 00:33:16,230
+them<font color="#E5E5E5"> is a really really talented</font>
+
+770
+00:33:16,230 --> 00:33:19,080
+firearms lawyer I know who has major
+
+771
+00:33:19,080 --> 00:33:23,280
+problems the Florida law Micheel<font color="#CCCCCC"> de</font>
+
+772
+00:33:23,280 --> 00:33:25,200
+<font color="#CCCCCC">Ruyter says</font><font color="#E5E5E5"> I'm</font><font color="#CCCCCC"> okay the commies are</font>
+
+773
+00:33:25,200 --> 00:33:25,740
+taking over
+
+774
+00:33:25,740 --> 00:33:27,059
+the<font color="#CCCCCC"> u.s.</font><font color="#E5E5E5"> school system that's a dumb</font>
+
+775
+00:33:27,059 --> 00:33:31,770
+<font color="#CCCCCC">question no</font><font color="#E5E5E5"> no but you also can't fire</font>
+
+776
+00:33:31,770 --> 00:33:35,640
+people for<font color="#E5E5E5"> their opinion and let's not</font>
+
+777
+00:33:35,640 --> 00:33:38,790
+engage in<font color="#E5E5E5"> hyperbole</font><font color="#CCCCCC"> there is no</font><font color="#E5E5E5"> evidence</font>
+
+778
+00:33:38,790 --> 00:33:42,960
+that communists are taking over<font color="#E5E5E5"> the</font><font color="#CCCCCC"> US</font>
+
+779
+00:33:42,960 --> 00:33:46,500
+education<font color="#CCCCCC"> system there is a socialist</font>
+
+780
+00:33:46,500 --> 00:33:49,980
+liberal bent<font color="#CCCCCC"> connected Inc roles</font><font color="#E5E5E5"> there</font>
+
+781
+00:33:49,980 --> 00:33:52,520
+we need more conservatives in academia
+
+782
+00:33:52,520 --> 00:33:55,920
+<font color="#CCCCCC">that's what we need</font><font color="#E5E5E5"> but you know let's</font>
+
+783
+00:33:55,920 --> 00:33:58,490
+not<font color="#CCCCCC"> have a</font><font color="#E5E5E5"> Red Scare about schools like</font>
+
+784
+00:33:58,490 --> 00:34:01,950
+Russian<font color="#E5E5E5"> North Korean paratroopers aren't</font>
+
+785
+00:34:01,950 --> 00:34:04,050
+descending on public schools<font color="#E5E5E5"> Chinese</font>
+
+786
+00:34:04,050 --> 00:34:06,179
+troops aren't descending on high schools
+
+787
+00:34:06,179 --> 00:34:11,668
+<font color="#E5E5E5">now</font><font color="#CCCCCC"> dork Sandman said colleges are</font>
+
+788
+00:34:11,668 --> 00:34:15,090
+<font color="#E5E5E5">communist hot beds yes in terms of</font><font color="#CCCCCC"> the</font>
+
+789
+00:34:15,090 --> 00:34:18,600
+<font color="#E5E5E5">ideologies</font><font color="#CCCCCC"> of the</font><font color="#E5E5E5"> professor's so how do</font>
+
+790
+00:34:18,600 --> 00:34:20,219
+you<font color="#E5E5E5"> solve that</font><font color="#CCCCCC"> free-market</font>
+
+791
+00:34:20,219 --> 00:34:25,100
+those paying tuition<font color="#E5E5E5"> need to complain</font>
+
+792
+00:34:25,100 --> 00:34:27,780
+but does a<font color="#CCCCCC"> communist</font><font color="#E5E5E5"> are taking</font><font color="#CCCCCC"> over</font>
+
+793
+00:34:27,780 --> 00:34:31,109
+schools implies no Chinese paratroopers
+
+794
+00:34:31,109 --> 00:34:34,050
+descending on Harvard<font color="#E5E5E5"> that's not the</font>
+
+795
+00:34:34,050 --> 00:34:37,050
+case Americans need to speak up those
+
+796
+00:34:37,050 --> 00:34:38,790
+paying<font color="#CCCCCC"> 100 grand a year in tuition need</font>
+
+797
+00:34:38,790 --> 00:34:41,489
+to say enough<font color="#CCCCCC"> Sanath here's a list of 50</font>
+
+798
+00:34:41,489 --> 00:34:43,020
+conservative professors<font color="#CCCCCC"> we want you to</font>
+
+799
+00:34:43,020 --> 00:34:46,469
+hire Walter<font color="#CCCCCC"> Connor says so no</font><font color="#E5E5E5"> Red Dawn</font>
+
+800
+00:34:46,469 --> 00:34:51,389
+<font color="#E5E5E5">nope cranium says the Republican</font>
+
+801
+00:34:51,389 --> 00:34:52,590
+candidate for<font color="#E5E5E5"> governor</font><font color="#CCCCCC"> and Florida is</font>
+
+802
+00:34:52,590 --> 00:34:55,230
+gonna<font color="#E5E5E5"> win hmm I'm in Florida I spent a</font>
+
+803
+00:34:55,230 --> 00:34:57,510
+lot<font color="#CCCCCC"> of time in Florida politics yes</font><font color="#E5E5E5"> Ron</font>
+
+804
+00:34:57,510 --> 00:34:58,770
+<font color="#CCCCCC">de santis will most likely be</font><font color="#E5E5E5"> the</font>
+
+805
+00:34:58,770 --> 00:35:01,470
+<font color="#CCCCCC">gubernatorial candidate if Trump comes</font>
+
+806
+00:35:01,470 --> 00:35:04,410
+out to<font color="#CCCCCC"> help</font><font color="#E5E5E5"> them he can win he should</font>
+
+807
+00:35:04,410 --> 00:35:08,070
+win he's not the<font color="#E5E5E5"> strongest campaigner so</font>
+
+808
+00:35:08,070 --> 00:35:09,480
+he's gonna need<font color="#CCCCCC"> a lot of help from</font><font color="#E5E5E5"> the</font>
+
+809
+00:35:09,480 --> 00:35:11,100
+president<font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of help from the</font>
+
+810
+00:35:11,100 --> 00:35:13,500
+president Walter<font color="#E5E5E5"> Connor</font><font color="#CCCCCC"> asks how about</font>
+
+811
+00:35:13,500 --> 00:35:15,630
+3d plastic<font color="#E5E5E5"> guns gonna go very deep into</font>
+
+812
+00:35:15,630 --> 00:35:18,210
+<font color="#E5E5E5">that tomorrow a lot to talk about with</font>
+
+813
+00:35:18,210 --> 00:35:20,250
+<font color="#CCCCCC">that a lot</font><font color="#E5E5E5"> to talk about</font>
+
+814
+00:35:20,250 --> 00:35:22,109
+I'm gonna go deep into<font color="#CCCCCC"> it</font><font color="#E5E5E5"> tomorrow</font>
+
+815
+00:35:22,109 --> 00:35:24,930
+needless to say I'm a supporter of being
+
+816
+00:35:24,930 --> 00:35:27,090
+able to disseminate<font color="#CCCCCC"> the information on</font>
+
+817
+00:35:27,090 --> 00:35:29,040
+how to<font color="#E5E5E5"> make these guns its First</font>
+
+818
+00:35:29,040 --> 00:35:30,869
+Amendment protected educational material
+
+819
+00:35:30,869 --> 00:35:32,850
+in my opinion and I'm<font color="#E5E5E5"> going to give you</font>
+
+820
+00:35:32,850 --> 00:35:35,700
+some examples of liberal hypocrisy<font color="#E5E5E5"> on</font>
+
+821
+00:35:35,700 --> 00:35:37,980
+that but I want to do a whole show<font color="#CCCCCC"> on</font>
+
+822
+00:35:37,980 --> 00:35:39,780
+that<font color="#E5E5E5"> tomorrow</font>
+
+823
+00:35:39,780 --> 00:35:42,150
+a whole show<font color="#E5E5E5"> David Badgley said you're</font>
+
+824
+00:35:42,150 --> 00:35:43,620
+<font color="#E5E5E5">sharp John got a hold on what's real</font>
+
+825
+00:35:43,620 --> 00:35:45,470
+keep it<font color="#E5E5E5"> up and good luck thank you David</font>
+
+826
+00:35:45,470 --> 00:35:49,860
+you too you<font color="#CCCCCC"> too we need the audience you</font>
+
+827
+00:35:49,860 --> 00:35:51,180
+<font color="#E5E5E5">guys are the ones out there spreading</font>
+
+828
+00:35:51,180 --> 00:35:57,180
+the message when I'm not<font color="#E5E5E5"> I do it a few</font>
+
+829
+00:35:57,180 --> 00:35:58,940
+<font color="#CCCCCC">hours</font><font color="#E5E5E5"> a day you do it all day every</font><font color="#CCCCCC"> day</font>
+
+830
+00:35:58,940 --> 00:36:01,530
+<font color="#E5E5E5">MD</font><font color="#CCCCCC"> says</font><font color="#E5E5E5"> what let's talk about</font><font color="#CCCCCC"> Florida</font>
+
+831
+00:36:01,530 --> 00:36:03,030
+governor's race for a second MD says<font color="#CCCCCC"> for</font>
+
+832
+00:36:03,030 --> 00:36:05,220
+for Rhonda Santos over Adam Putnam<font color="#E5E5E5"> would</font>
+
+833
+00:36:05,220 --> 00:36:06,480
+accept<font color="#E5E5E5"> button though</font><font color="#CCCCCC"> especially to keep</font>
+
+834
+00:36:06,480 --> 00:36:09,120
+<font color="#E5E5E5">Santos in Congress where is pretty</font>
+
+835
+00:36:09,120 --> 00:36:11,730
+desperately needed yeah<font color="#E5E5E5"> all right so</font>
+
+836
+00:36:11,730 --> 00:36:13,710
+here's the<font color="#CCCCCC"> deal so Rhonda said this</font>
+
+837
+00:36:13,710 --> 00:36:16,830
+conservative<font color="#E5E5E5"> guys done a great job Adam</font>
+
+838
+00:36:16,830 --> 00:36:17,790
+Putnam I know him
+
+839
+00:36:17,790 --> 00:36:20,520
+who was more<font color="#CCCCCC"> liberal in Congress buttons</font>
+
+840
+00:36:20,520 --> 00:36:21,450
+a really nice guy
+
+841
+00:36:21,450 --> 00:36:22,950
+he's<font color="#CCCCCC"> our current agriculture</font>
+
+842
+00:36:22,950 --> 00:36:24,450
+commissioner<font color="#E5E5E5"> he's been very conservative</font>
+
+843
+00:36:24,450 --> 00:36:27,090
+<font color="#E5E5E5">so as governor of Florida either one</font>
+
+844
+00:36:27,090 --> 00:36:29,250
+would<font color="#CCCCCC"> be</font><font color="#E5E5E5"> great for the economy</font><font color="#CCCCCC"> of</font>
+
+845
+00:36:29,250 --> 00:36:31,440
+<font color="#E5E5E5">Florida which is booming</font><font color="#CCCCCC"> for gun rights</font>
+
+846
+00:36:31,440 --> 00:36:37,670
+for all those<font color="#CCCCCC"> issues but I will is that</font>
+
+847
+00:36:37,670 --> 00:36:41,850
+<font color="#CCCCCC">one-on-one detail campaigning</font><font color="#E5E5E5"> Putnam is</font>
+
+848
+00:36:41,850 --> 00:36:45,060
+better than the<font color="#CCCCCC"> Santis however with the</font>
+
+849
+00:36:45,060 --> 00:36:47,250
+president by his<font color="#E5E5E5"> side</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> Santis is more</font>
+
+850
+00:36:47,250 --> 00:36:49,710
+powerful than Putnam<font color="#E5E5E5"> and can raise a lot</font>
+
+851
+00:36:49,710 --> 00:36:51,780
+more money<font color="#E5E5E5"> either way though</font>
+
+852
+00:36:51,780 --> 00:36:54,630
+either way<font color="#E5E5E5"> Florida would be in good</font>
+
+853
+00:36:54,630 --> 00:36:56,220
+<font color="#E5E5E5">hands with either one</font><font color="#CCCCCC"> in the governor's</font>
+
+854
+00:36:56,220 --> 00:36:58,910
+<font color="#E5E5E5">mansion</font><font color="#CCCCCC"> because as gubernatorial</font>
+
+855
+00:36:58,910 --> 00:37:01,050
+candidates and his<font color="#CCCCCC"> governors</font><font color="#E5E5E5"> they're</font>
+
+856
+00:37:01,050 --> 00:37:04,410
+<font color="#E5E5E5">both pretty conservative guys</font><font color="#CCCCCC"> so either</font>
+
+857
+00:37:04,410 --> 00:37:06,990
+way<font color="#E5E5E5"> we're lucky John</font><font color="#CCCCCC"> Zeeland says Kirk</font>
+
+858
+00:37:06,990 --> 00:37:08,790
+and Owen are doing a great job and
+
+859
+00:37:08,790 --> 00:37:09,600
+swinging<font color="#E5E5E5"> over the Young Conservatives</font>
+
+860
+00:37:09,600 --> 00:37:11,610
+<font color="#CCCCCC">he's talking about</font><font color="#E5E5E5"> Charlie Kirk and</font>
+
+861
+00:37:11,610 --> 00:37:13,050
+<font color="#CCCCCC">Candace Owens were working a turning</font>
+
+862
+00:37:13,050 --> 00:37:15,180
+point both friends of mine know them
+
+863
+00:37:15,180 --> 00:37:19,260
+both<font color="#CCCCCC"> very well doing an outstanding</font>
+
+864
+00:37:19,260 --> 00:37:23,310
+outstanding job they are<font color="#E5E5E5"> ground breaking</font>
+
+865
+00:37:23,310 --> 00:37:25,890
+in what they're able to do<font color="#CCCCCC"> ground</font>
+
+866
+00:37:25,890 --> 00:37:32,310
+<font color="#CCCCCC">breaking</font><font color="#E5E5E5"> great great job the pluribus</font>
+
+867
+00:37:32,310 --> 00:37:34,530
+unum<font color="#E5E5E5"> Alexandria</font><font color="#CCCCCC"> Acacio Cortes says she's</font>
+
+868
+00:37:34,530 --> 00:37:36,750
+making<font color="#E5E5E5"> America red what a dingbat</font><font color="#CCCCCC"> well I</font>
+
+869
+00:37:36,750 --> 00:37:39,120
+think<font color="#CCCCCC"> she'd be a communist red but she</font>
+
+870
+00:37:39,120 --> 00:37:42,000
+is the gift that keeps<font color="#CCCCCC"> on giving</font>
+
+871
+00:37:42,000 --> 00:37:47,940
+<font color="#CCCCCC">I love</font><font color="#E5E5E5"> Alexandria</font><font color="#CCCCCC"> kasnia Cortese</font><font color="#E5E5E5"> it with</font>
+
+872
+00:37:47,940 --> 00:37:51,900
+<font color="#E5E5E5">more</font><font color="#CCCCCC"> politicians</font><font color="#E5E5E5"> but you like her let's</font>
+
+873
+00:37:51,900 --> 00:37:53,080
+say no
+
+874
+00:37:53,080 --> 00:37:55,930
+to get liberal support for guns are done
+
+875
+00:37:55,930 --> 00:37:58,810
+<font color="#CCCCCC">that secret compartment B he</font><font color="#E5E5E5"> lives will</font>
+
+876
+00:37:58,810 --> 00:38:02,850
+do anything for weed<font color="#E5E5E5"> Michael</font><font color="#CCCCCC"> Horrigan</font>
+
+877
+00:38:03,300 --> 00:38:06,220
+<font color="#E5E5E5">Michael Corrigan</font><font color="#CCCCCC"> Nigel thanks for</font><font color="#E5E5E5"> the</font>
+
+878
+00:38:06,220 --> 00:38:10,390
+donation<font color="#E5E5E5"> you'd love to see me</font><font color="#CCCCCC"> of Canada</font>
+
+879
+00:38:10,390 --> 00:38:12,280
+<font color="#CCCCCC">so ins the</font><font color="#E5E5E5"> guest sometime dark</font><font color="#CCCCCC"> Sandman</font>
+
+880
+00:38:12,280 --> 00:38:14,170
+she and I talked about<font color="#E5E5E5"> that</font><font color="#CCCCCC"> quite a bit</font>
+
+881
+00:38:14,170 --> 00:38:17,170
+<font color="#CCCCCC">her schedules packed and so it's</font>
+
+882
+00:38:17,170 --> 00:38:20,440
+something<font color="#CCCCCC"> we'll work out just got a</font>
+
+883
+00:38:20,440 --> 00:38:22,780
+turning point is really<font color="#E5E5E5"> doing a blitz</font>
+
+884
+00:38:22,780 --> 00:38:24,460
+now<font color="#CCCCCC"> and she's speaking</font><font color="#E5E5E5"> at every</font>
+
+885
+00:38:24,460 --> 00:38:26,290
+<font color="#E5E5E5">conference these these guys are</font><font color="#CCCCCC"> on the</font>
+
+886
+00:38:26,290 --> 00:38:29,620
+road<font color="#E5E5E5"> daily they are</font><font color="#CCCCCC"> on the road</font><font color="#E5E5E5"> daily</font>
+
+887
+00:38:29,620 --> 00:38:33,570
+they travel like nobody I've ever<font color="#E5E5E5"> seen</font>
+
+888
+00:38:34,210 --> 00:38:37,090
+Osvaldo<font color="#E5E5E5"> maisonette says the Chinese have</font>
+
+889
+00:38:37,090 --> 00:38:38,620
+been<font color="#E5E5E5"> sending pregnant women now for</font>
+
+890
+00:38:38,620 --> 00:38:40,590
+years they have american-born kids
+
+891
+00:38:40,590 --> 00:38:42,460
+Chinese<font color="#E5E5E5"> Allegiant people in the going</font>
+
+892
+00:38:42,460 --> 00:38:44,440
+<font color="#CCCCCC">back home</font><font color="#E5E5E5"> for indoctrination</font><font color="#CCCCCC"> China has a</font>
+
+893
+00:38:44,440 --> 00:38:48,610
+dirty<font color="#CCCCCC"> long-term plan</font><font color="#E5E5E5"> uh you know I don't</font>
+
+894
+00:38:48,610 --> 00:38:51,310
+know yeah well there's a billion<font color="#E5E5E5"> and a</font>
+
+895
+00:38:51,310 --> 00:38:52,720
+half Chinese I<font color="#E5E5E5"> don't</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> sentient a</font>
+
+896
+00:38:52,720 --> 00:38:54,910
+<font color="#E5E5E5">few thousand</font><font color="#CCCCCC"> people here</font><font color="#E5E5E5"> is gonna really</font>
+
+897
+00:38:54,910 --> 00:38:57,550
+matter<font color="#CCCCCC"> John Doe says the percentage Don</font>
+
+898
+00:38:57,550 --> 00:39:00,580
+<font color="#CCCCCC">jr. gets indicted in my opinion</font><font color="#E5E5E5"> zero</font><font color="#CCCCCC"> he</font>
+
+899
+00:39:00,580 --> 00:39:04,480
+did nothing<font color="#CCCCCC"> wrong</font><font color="#E5E5E5"> nothing wrong MD says</font>
+
+900
+00:39:04,480 --> 00:39:05,770
+hate to distract<font color="#E5E5E5"> from the national</font>
+
+901
+00:39:05,770 --> 00:39:06,970
+<font color="#CCCCCC">stories anything more on the Scott</font>
+
+902
+00:39:06,970 --> 00:39:08,680
+<font color="#CCCCCC">Israel the Broward County Sheriff</font><font color="#E5E5E5"> who</font>
+
+903
+00:39:08,680 --> 00:39:10,530
+was complicit<font color="#E5E5E5"> in the Parkland massacre</font>
+
+904
+00:39:10,530 --> 00:39:12,760
+really the case seems to<font color="#E5E5E5"> be</font><font color="#CCCCCC"> dragging out</font>
+
+905
+00:39:12,760 --> 00:39:14,290
+he does I was talking to somebody about
+
+906
+00:39:14,290 --> 00:39:15,870
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> yesterday all of us are wondering</font>
+
+907
+00:39:15,870 --> 00:39:19,240
+what the hell's going on<font color="#E5E5E5"> person I talked</font>
+
+908
+00:39:19,240 --> 00:39:21,220
+<font color="#CCCCCC">to was a Democratic strategist who</font>
+
+909
+00:39:21,220 --> 00:39:22,810
+helped get<font color="#CCCCCC"> Israel elected hates him now</font>
+
+910
+00:39:22,810 --> 00:39:25,390
+wants him gone<font color="#E5E5E5"> even she's very</font>
+
+911
+00:39:25,390 --> 00:39:28,150
+<font color="#CCCCCC">frustrated she's</font><font color="#E5E5E5"> very frustrated about</font>
+
+912
+00:39:28,150 --> 00:39:35,200
+<font color="#E5E5E5">it we all are we all are let's see what</font>
+
+913
+00:39:35,200 --> 00:39:38,740
+<font color="#E5E5E5">else we got here why isn't Trump</font>
+
+914
+00:39:38,740 --> 00:39:40,810
+<font color="#E5E5E5">speaking out</font><font color="#CCCCCC"> Michele</font><font color="#E5E5E5"> de</font><font color="#CCCCCC"> ruyter says why</font>
+
+915
+00:39:40,810 --> 00:39:41,980
+isn't Trump speaking out about the
+
+916
+00:39:41,980 --> 00:39:43,720
+<font color="#E5E5E5">vicious attacks against his supporters</font>
+
+917
+00:39:43,720 --> 00:39:45,250
+in<font color="#E5E5E5"> the US find that very disappointing</font>
+
+918
+00:39:45,250 --> 00:39:48,190
+<font color="#E5E5E5">no he is he is he's been Don jr. is</font>
+
+919
+00:39:48,190 --> 00:39:50,110
+members of administration are you know
+
+920
+00:39:50,110 --> 00:39:53,440
+the president is is busy<font color="#CCCCCC"> is</font><font color="#E5E5E5"> busy</font><font color="#CCCCCC"> but his</font>
+
+921
+00:39:53,440 --> 00:39:54,910
+surrogates are being<font color="#E5E5E5"> very loud about it</font>
+
+922
+00:39:54,910 --> 00:39:56,530
+<font color="#E5E5E5">and when</font><font color="#CCCCCC"> given the opportunity</font><font color="#E5E5E5"> the</font>
+
+923
+00:39:56,530 --> 00:39:57,970
+president is<font color="#E5E5E5"> speaking out about</font><font color="#CCCCCC"> it as</font>
+
+924
+00:39:57,970 --> 00:39:58,480
+well
+
+925
+00:39:58,480 --> 00:40:00,490
+Emilio's in the<font color="#E5E5E5"> house from Sao Paulo</font>
+
+926
+00:40:00,490 --> 00:40:03,430
+<font color="#E5E5E5">Brazil great to be</font><font color="#CCCCCC"> here well great to</font>
+
+927
+00:40:03,430 --> 00:40:06,930
+<font color="#E5E5E5">have you thanks for</font><font color="#CCCCCC"> being</font><font color="#E5E5E5"> here</font>
+
+928
+00:40:06,930 --> 00:40:09,359
+what is my take on the media thing left
+
+929
+00:40:09,359 --> 00:40:10,740
+is it<font color="#E5E5E5"> leaning heavy in the mid term</font>
+
+930
+00:40:10,740 --> 00:40:12,270
+polls that say<font color="#E5E5E5"> media that said Hillary</font>
+
+931
+00:40:12,270 --> 00:40:13,920
+<font color="#E5E5E5">Clinton at a 92 percent chance of</font>
+
+932
+00:40:13,920 --> 00:40:16,980
+<font color="#E5E5E5">winning on</font><font color="#CCCCCC"> Election Day in 2016</font><font color="#E5E5E5"> that's</font>
+
+933
+00:40:16,980 --> 00:40:19,680
+<font color="#E5E5E5">what I think of them mark Hagler</font><font color="#CCCCCC"> pn says</font>
+
+934
+00:40:19,680 --> 00:40:21,300
+flint water gonna hurt republican party
+
+935
+00:40:21,300 --> 00:40:23,730
+in<font color="#E5E5E5"> michigan no it's not</font><font color="#CCCCCC"> was a</font><font color="#E5E5E5"> democrat</font>
+
+936
+00:40:23,730 --> 00:40:26,880
+run<font color="#CCCCCC"> city's Jim Acosta is bad</font><font color="#E5E5E5"> news yeah</font>
+
+937
+00:40:26,880 --> 00:40:28,619
+<font color="#CCCCCC">alright</font><font color="#E5E5E5"> so real quick so</font><font color="#CCCCCC"> we can really</font>
+
+938
+00:40:28,619 --> 00:40:30,359
+get<font color="#CCCCCC"> to that so Jim Acosta goes that we</font>
+
+939
+00:40:30,359 --> 00:40:32,190
+<font color="#CCCCCC">actually got sidetracked on</font><font color="#E5E5E5"> the rally so</font>
+
+940
+00:40:32,190 --> 00:40:33,750
+Jim Acosta goes to the Trump rally<font color="#CCCCCC"> in</font>
+
+941
+00:40:33,750 --> 00:40:37,380
+Tampa and he gets<font color="#E5E5E5"> harassed the crowd</font>
+
+942
+00:40:37,380 --> 00:40:39,839
+<font color="#E5E5E5">screaming CNN sucks CNN sucks</font>
+
+943
+00:40:39,839 --> 00:40:42,270
+<font color="#E5E5E5">Acosta's being a whiny baby goes on</font>
+
+944
+00:40:42,270 --> 00:40:44,130
+<font color="#E5E5E5">Twitter but a constant did this to</font>
+
+945
+00:40:44,130 --> 00:40:46,920
+himself<font color="#CCCCCC"> and let me</font><font color="#E5E5E5"> tell you why let me</font>
+
+946
+00:40:46,920 --> 00:40:50,910
+tell you why Acosta is not a hard news
+
+947
+00:40:50,910 --> 00:40:53,550
+reporter the guy is an<font color="#E5E5E5"> opinion</font>
+
+948
+00:40:53,550 --> 00:40:56,849
+<font color="#E5E5E5">commentator if he said he was he'd</font>
+
+949
+00:40:56,849 --> 00:40:59,790
+receive less<font color="#CCCCCC"> flack from</font><font color="#E5E5E5"> the audience so</font>
+
+950
+00:40:59,790 --> 00:41:03,270
+would CNN I am an opinion coming here<font color="#E5E5E5"> I</font>
+
+951
+00:41:03,270 --> 00:41:05,970
+am NOT a hard news reporter<font color="#E5E5E5"> I'm a</font>
+
+952
+00:41:05,970 --> 00:41:09,030
+conservative opinion guy right I don't
+
+953
+00:41:09,030 --> 00:41:11,369
+<font color="#E5E5E5">claim to be</font><font color="#CCCCCC"> a hard news reporter so</font>
+
+954
+00:41:11,369 --> 00:41:15,599
+because I'm not now<font color="#E5E5E5"> I'm fair but I would</font>
+
+955
+00:41:15,599 --> 00:41:18,059
+be<font color="#E5E5E5"> questioning them on policies of</font>
+
+956
+00:41:18,059 --> 00:41:20,369
+<font color="#E5E5E5">theirs I think that are bad that are</font>
+
+957
+00:41:20,369 --> 00:41:22,940
+terrible so Acosta goes to this rally
+
+958
+00:41:22,940 --> 00:41:25,109
+<font color="#E5E5E5">knowing the crowd hates of knowing the</font>
+
+959
+00:41:25,109 --> 00:41:28,349
+crowd hates CNN then he cried<font color="#E5E5E5"> about what</font>
+
+960
+00:41:28,349 --> 00:41:30,480
+was inevitable he<font color="#E5E5E5"> became combative in</font>
+
+961
+00:41:30,480 --> 00:41:30,960
+rude
+
+962
+00:41:30,960 --> 00:41:33,359
+so yesterday<font color="#E5E5E5"> I spoke to Eric Bolling and</font>
+
+963
+00:41:33,359 --> 00:41:38,150
+<font color="#E5E5E5">Eric Bolling said well CNN doesn't suck</font>
+
+964
+00:41:38,150 --> 00:41:43,940
+Jim Acosta sucks<font color="#CCCCCC"> I like Eric a lot</font>
+
+965
+00:41:43,940 --> 00:41:46,530
+fundamentally disagree with him Acosta
+
+966
+00:41:46,530 --> 00:41:49,890
+works for CNN CNN allows Acosta to do
+
+967
+00:41:49,890 --> 00:41:53,460
+this allows the<font color="#CCCCCC"> Casta to do this</font><font color="#E5E5E5"> so</font>
+
+968
+00:41:53,460 --> 00:41:57,170
+they're both complicit<font color="#E5E5E5"> in a Const</font>
+
+969
+00:42:01,190 --> 00:42:03,170
+<font color="#CCCCCC">I'm</font><font color="#E5E5E5"> a blunt that says I used to live</font><font color="#CCCCCC"> in</font>
+
+970
+00:42:03,170 --> 00:42:05,240
+Tampa<font color="#E5E5E5"> I love it</font><font color="#CCCCCC"> Kevin's a great city</font>
+
+971
+00:42:05,240 --> 00:42:08,000
+<font color="#E5E5E5">doing great with Tampa a lot going on</font>
+
+972
+00:42:08,000 --> 00:42:12,020
+Verne<font color="#E5E5E5"> Steakhouse is amazing</font><font color="#CCCCCC"> I look down</font>
+
+973
+00:42:12,020 --> 00:42:13,339
+in<font color="#E5E5E5"> Southeast Florida</font><font color="#CCCCCC"> but I get up there</font>
+
+974
+00:42:13,339 --> 00:42:15,970
+as often<font color="#E5E5E5"> as I can</font>
+
+975
+00:42:16,839 --> 00:42:19,819
+<font color="#E5E5E5">Tommy shell is out of here Tommy thanks</font>
+
+976
+00:42:19,819 --> 00:42:22,780
+for being here<font color="#CCCCCC"> with us great to see ya</font>
+
+977
+00:42:22,780 --> 00:42:26,300
+<font color="#E5E5E5">what</font><font color="#CCCCCC"> about the ISIS people</font><font color="#E5E5E5"> running in</font>
+
+978
+00:42:26,300 --> 00:42:30,890
+<font color="#CCCCCC">Meighan</font><font color="#E5E5E5"> wouldn't the ISIS wouldn't be</font>
+
+979
+00:42:30,890 --> 00:42:36,829
+<font color="#E5E5E5">Isis direct but look it's America Muslim</font>
+
+980
+00:42:36,829 --> 00:42:40,220
+<font color="#CCCCCC">Americans can run for</font><font color="#E5E5E5"> office there's a</font>
+
+981
+00:42:40,220 --> 00:42:42,290
+guy named Omar kudrat running in
+
+982
+00:42:42,290 --> 00:42:44,390
+California who's a<font color="#E5E5E5"> Muslim conservative</font>
+
+983
+00:42:44,390 --> 00:42:46,250
+Republican<font color="#E5E5E5"> who served in our military</font>
+
+984
+00:42:46,250 --> 00:42:47,780
+and was a lawyer for the Department of
+
+985
+00:42:47,780 --> 00:42:50,599
+Defense<font color="#E5E5E5"> guy comes awfully a great</font>
+
+986
+00:42:50,599 --> 00:42:51,800
+American to me I've interviewed<font color="#E5E5E5"> him</font>
+
+987
+00:42:51,800 --> 00:42:56,510
+twice<font color="#E5E5E5"> and this sharp guy so I don't have</font>
+
+988
+00:42:56,510 --> 00:43:00,849
+a problem<font color="#CCCCCC"> most</font><font color="#E5E5E5"> three Isis ban Islam</font>
+
+989
+00:43:00,849 --> 00:43:02,960
+nobody has<font color="#E5E5E5"> been more credit critical of</font>
+
+990
+00:43:02,960 --> 00:43:04,910
+radical Islam than me but<font color="#E5E5E5"> our First</font>
+
+991
+00:43:04,910 --> 00:43:06,440
+<font color="#CCCCCC">Amendment protects religion here in the</font>
+
+992
+00:43:06,440 --> 00:43:12,020
+United<font color="#E5E5E5"> States McAllister says CNN</font><font color="#CCCCCC"> is</font>
+
+993
+00:43:12,020 --> 00:43:13,550
+real news definitely not fake<font color="#E5E5E5"> note</font>
+
+994
+00:43:13,550 --> 00:43:15,520
+they'd never lie
+
+995
+00:43:15,520 --> 00:43:19,630
+you're a good man Craig your ideological
+
+996
+00:43:19,630 --> 00:43:25,030
+<font color="#E5E5E5">your idealistic</font><font color="#CCCCCC"> no they would never</font><font color="#E5E5E5"> lie</font>
+
+997
+00:43:25,540 --> 00:43:28,400
+boldness tanki X is when I<font color="#CCCCCC"> supported nor</font>
+
+998
+00:43:28,400 --> 00:43:30,440
+<font color="#E5E5E5">McDonald Jordan Peterson presidential</font>
+
+999
+00:43:30,440 --> 00:43:36,670
+ticket<font color="#E5E5E5"> 2024 after Trump yep</font>
+
+1000
+00:43:38,109 --> 00:43:42,010
+just oh god no
+
+1001
+00:43:46,570 --> 00:43:48,630
+you
+
+1002
+00:43:49,110 --> 00:43:52,640
+plan<font color="#CCCCCC"> Jeff Sessions is</font><font color="#E5E5E5"> weak and paralyzed</font>
+
+1003
+00:43:52,640 --> 00:43:56,310
+<font color="#E5E5E5">no plan ain't nothin to happen telling</font>
+
+1004
+00:43:56,310 --> 00:43:58,460
+you
+
+1005
+00:44:00,360 --> 00:44:02,730
+there ain't<font color="#E5E5E5"> nothing happening behind the</font>
+
+1006
+00:44:02,730 --> 00:44:09,960
+scenes nothing nothing<font color="#E5E5E5"> 20:24</font><font color="#CCCCCC"> Ivanka is</font>
+
+1007
+00:44:09,960 --> 00:44:11,190
+gonna run that's why<font color="#CCCCCC"> the president's</font>
+
+1008
+00:44:11,190 --> 00:44:12,450
+pushing her forward more<font color="#E5E5E5"> and more and</font>
+
+1009
+00:44:12,450 --> 00:44:13,620
+letting her take<font color="#E5E5E5"> the spotlight a bit</font>
+
+1010
+00:44:13,620 --> 00:44:16,830
+maybe but I<font color="#E5E5E5"> don't think she'd win and I</font>
+
+1011
+00:44:16,830 --> 00:44:17,790
+<font color="#CCCCCC">don't</font><font color="#E5E5E5"> think</font><font color="#CCCCCC"> I banca would run as a</font>
+
+1012
+00:44:17,790 --> 00:44:20,190
+Republican<font color="#CCCCCC"> I just don't think she would</font>
+
+1013
+00:44:20,190 --> 00:44:22,280
+do it
+
+1014
+00:44:22,280 --> 00:44:27,750
+let's see people love Trump<font color="#E5E5E5"> turbo Jones</font>
+
+1015
+00:44:27,750 --> 00:44:29,400
+<font color="#E5E5E5">says</font><font color="#CCCCCC"> Islam is a political affiliation</font>
+
+1016
+00:44:29,400 --> 00:44:32,220
+stronger than party maybe but it's a
+
+1017
+00:44:32,220 --> 00:44:34,440
+very slippery slope<font color="#CCCCCC"> here in the US we</font>
+
+1018
+00:44:34,440 --> 00:44:37,170
+can't start banning religions or telling
+
+1019
+00:44:37,170 --> 00:44:39,210
+<font color="#CCCCCC">people born in his nation they can't</font><font color="#E5E5E5"> run</font>
+
+1020
+00:44:39,210 --> 00:44:41,340
+or even legally in the<font color="#E5E5E5"> station for</font>
+
+1021
+00:44:41,340 --> 00:44:44,310
+lesser offices than the presidency<font color="#E5E5E5"> but</font>
+
+1022
+00:44:44,310 --> 00:44:45,420
+they're not allowed<font color="#CCCCCC"> to</font><font color="#E5E5E5"> run for</font><font color="#CCCCCC"> office</font>
+
+1023
+00:44:45,420 --> 00:44:47,340
+because<font color="#E5E5E5"> they adhere to a particular</font>
+
+1024
+00:44:47,340 --> 00:44:50,970
+religion<font color="#CCCCCC"> prestige Australia says do I</font>
+
+1025
+00:44:50,970 --> 00:44:52,950
+like<font color="#CCCCCC"> Tucker Carlson yeah I do I think he</font>
+
+1026
+00:44:52,950 --> 00:44:54,690
+<font color="#E5E5E5">gives a good interview Tucker and he</font>
+
+1027
+00:44:54,690 --> 00:44:56,130
+turns out<font color="#E5E5E5"> a good show I don't watch</font>
+
+1028
+00:44:56,130 --> 00:44:58,530
+because I'm just burnt from<font color="#E5E5E5"> doing my own</font>
+
+1029
+00:44:58,530 --> 00:45:00,660
+shows every day so I typically don't
+
+1030
+00:45:00,660 --> 00:45:04,520
+watch news I get my headlines and and my
+
+1031
+00:45:04,520 --> 00:45:06,900
+breaking news<font color="#E5E5E5"> from the web from</font><font color="#CCCCCC"> my phone</font>
+
+1032
+00:45:06,900 --> 00:45:09,660
+<font color="#CCCCCC">after I do this</font><font color="#E5E5E5"> for hours and hours a</font>
+
+1033
+00:45:09,660 --> 00:45:13,140
+day I just<font color="#CCCCCC"> don't want to</font><font color="#E5E5E5"> sit down and</font>
+
+1034
+00:45:13,140 --> 00:45:16,200
+<font color="#CCCCCC">watch more</font><font color="#E5E5E5"> news are my buddy John</font>
+
+1035
+00:45:16,200 --> 00:45:18,180
+<font color="#CCCCCC">Zeeland says how about</font><font color="#E5E5E5"> Don jr. running</font>
+
+1036
+00:45:18,180 --> 00:45:21,000
+in 2024<font color="#CCCCCC"> I don't think he wants to run</font>
+
+1037
+00:45:21,000 --> 00:45:24,750
+<font color="#E5E5E5">for office</font><font color="#CCCCCC"> is it a</font><font color="#E5E5E5"> possibility yes but</font>
+
+1038
+00:45:24,750 --> 00:45:26,280
+we don't<font color="#E5E5E5"> like political dynasties in</font><font color="#CCCCCC"> the</font>
+
+1039
+00:45:26,280 --> 00:45:30,750
+<font color="#CCCCCC">US so I don't</font><font color="#E5E5E5"> think he'd run to be</font>
+
+1040
+00:45:30,750 --> 00:45:32,820
+honest<font color="#E5E5E5"> with you</font><font color="#CCCCCC"> Michele DeRuyter says</font>
+
+1041
+00:45:32,820 --> 00:45:34,050
+Trump is great we needed Trump in
+
+1042
+00:45:34,050 --> 00:45:36,720
+Netherlands<font color="#E5E5E5"> very fast or we're lost</font><font color="#CCCCCC"> I</font>
+
+1043
+00:45:36,720 --> 00:45:42,780
+agree with you I agree<font color="#CCCCCC"> with you catfish</font>
+
+1044
+00:45:42,780 --> 00:45:46,170
+<font color="#CCCCCC">jenkum Sen set</font><font color="#E5E5E5"> Smith send Shepard Smith</font>
+
+1045
+00:45:46,170 --> 00:45:48,780
+to CNN<font color="#E5E5E5"> well you understand that</font>
+
+1046
+00:45:48,780 --> 00:45:52,020
+editorially<font color="#CCCCCC"> Fox is moving left the</font>
+
+1047
+00:45:52,020 --> 00:45:54,090
+Murdock's<font color="#E5E5E5"> sons</font><font color="#CCCCCC"> Jamie and Lachlan Murdoch</font>
+
+1048
+00:45:54,090 --> 00:45:56,970
+<font color="#CCCCCC">are left of their dad Rupert Murdoch</font>
+
+1049
+00:45:56,970 --> 00:45:58,980
+Rupert understood the business<font color="#E5E5E5"> reasons</font>
+
+1050
+00:45:58,980 --> 00:46:01,860
+to have<font color="#E5E5E5"> a conservative</font><font color="#CCCCCC"> Network</font><font color="#E5E5E5"> they are</font>
+
+1051
+00:46:01,860 --> 00:46:05,490
+moving left the pluribus unum I believe
+
+1052
+00:46:05,490 --> 00:46:06,930
+FDR made<font color="#E5E5E5"> it illegal for Islam</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> America</font>
+
+1053
+00:46:06,930 --> 00:46:10,080
+<font color="#CCCCCC">no Islam is not outlawed in the</font><font color="#E5E5E5"> United</font>
+
+1054
+00:46:10,080 --> 00:46:12,360
+States it's<font color="#E5E5E5"> not we have a First</font>
+
+1055
+00:46:12,360 --> 00:46:15,710
+<font color="#E5E5E5">Amendment protects freedom of religion</font>
+
+1056
+00:46:15,710 --> 00:46:18,210
+it's not banned it's not outlawed here
+
+1057
+00:46:18,210 --> 00:46:18,900
+<font color="#E5E5E5">in the US</font>
+
+1058
+00:46:18,900 --> 00:46:23,130
+nope<font color="#CCCCCC"> hmmm do I have my own</font><font color="#E5E5E5"> channel</font>
+
+1059
+00:46:23,130 --> 00:46:24,990
+separate from the rebel no<font color="#E5E5E5"> I also host</font>
+
+1060
+00:46:24,990 --> 00:46:27,690
+an afternoon show on cable television a
+
+1061
+00:46:27,690 --> 00:46:32,300
+tional cable TV network here in<font color="#E5E5E5"> the US</font>
+
+1062
+00:46:32,870 --> 00:46:35,190
+<font color="#E5E5E5">kirbo</font><font color="#CCCCCC"> Jones ask could I vote for</font><font color="#E5E5E5"> a</font>
+
+1063
+00:46:35,190 --> 00:46:37,590
+conservative Satanist<font color="#CCCCCC"> it's an</font>
+
+1064
+00:46:37,590 --> 00:46:38,850
+interesting question
+
+1065
+00:46:38,850 --> 00:46:47,130
+I don't think personally I could however
+
+1066
+00:46:47,130 --> 00:46:50,550
+<font color="#CCCCCC">as a constitutionalist I would not want</font>
+
+1067
+00:46:50,550 --> 00:46:53,060
+them<font color="#E5E5E5"> removed from the ticket</font>
+
+1068
+00:46:53,060 --> 00:46:55,230
+they're running<font color="#E5E5E5"> they meet the criteria</font>
+
+1069
+00:46:55,230 --> 00:47:01,280
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> run let him run let the people decide</font>
+
+1070
+00:47:01,970 --> 00:47:04,290
+<font color="#E5E5E5">who's a Chino on the</font><font color="#CCCCCC"> Britain most of us</font>
+
+1071
+00:47:04,290 --> 00:47:06,450
+love<font color="#E5E5E5"> sarcasm</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> I do it justice your</font>
+
+1072
+00:47:06,450 --> 00:47:11,070
+groovy dude<font color="#E5E5E5"> well thanks man I appreciate</font>
+
+1073
+00:47:11,070 --> 00:47:12,110
+<font color="#CCCCCC">it</font>
+
+1074
+00:47:12,110 --> 00:47:14,220
+Tucker<font color="#E5E5E5"> will be interviewing Tom Robinson</font>
+
+1075
+00:47:14,220 --> 00:47:16,290
+<font color="#E5E5E5">on Friday oh good good yeah Tucker's</font>
+
+1076
+00:47:16,290 --> 00:47:18,210
+doing some good interviews<font color="#CCCCCC"> he's got some</font>
+
+1077
+00:47:18,210 --> 00:47:20,400
+good<font color="#CCCCCC"> things</font><font color="#E5E5E5"> going on</font><font color="#CCCCCC"> he</font><font color="#E5E5E5"> has Katie</font>
+
+1078
+00:47:20,400 --> 00:47:22,260
+Hopkins our Katie Hopkins on all the
+
+1079
+00:47:22,260 --> 00:47:24,510
+time he's<font color="#E5E5E5"> got a very</font><font color="#CCCCCC"> good</font><font color="#E5E5E5"> relationship</font>
+
+1080
+00:47:24,510 --> 00:47:27,110
+with<font color="#CCCCCC"> some of the rebel people and</font>
+
+1081
+00:47:27,110 --> 00:47:29,130
+Tucker's<font color="#E5E5E5"> been turning out a really</font><font color="#CCCCCC"> good</font>
+
+1082
+00:47:29,130 --> 00:47:30,540
+show<font color="#CCCCCC"> and I don't predict they're gonna</font>
+
+1083
+00:47:30,540 --> 00:47:31,950
+fire Tucker Carlson because he has good
+
+1084
+00:47:31,950 --> 00:47:34,290
+ratings he makes a<font color="#E5E5E5"> lot of money for the</font>
+
+1085
+00:47:34,290 --> 00:47:38,250
+network so I predict<font color="#E5E5E5"> they'll be just</font>
+
+1086
+00:47:38,250 --> 00:47:40,550
+fine
+
+1087
+00:47:41,540 --> 00:47:44,040
+<font color="#CCCCCC">Richard Driscoll says</font><font color="#E5E5E5"> accept Islam is</font>
+
+1088
+00:47:44,040 --> 00:47:45,600
+not a religion it's a cult ideology
+
+1089
+00:47:45,600 --> 00:47:49,590
+that's your opinion<font color="#CCCCCC"> and in many respects</font>
+
+1090
+00:47:49,590 --> 00:47:51,990
+my opinion<font color="#CCCCCC"> III don't</font><font color="#E5E5E5"> disagree with</font><font color="#CCCCCC"> you</font>
+
+1091
+00:47:51,990 --> 00:47:54,060
+fully but in the United States of
+
+1092
+00:47:54,060 --> 00:47:55,530
+America it's still considered<font color="#CCCCCC"> a religion</font>
+
+1093
+00:47:55,530 --> 00:47:58,290
+<font color="#CCCCCC">see well</font><font color="#E5E5E5"> we would never</font><font color="#CCCCCC"> have that here</font>
+
+1094
+00:47:58,290 --> 00:48:00,990
+<font color="#CCCCCC">and we wouldn't have political parties</font>
+
+1095
+00:48:00,990 --> 00:48:03,600
+based on religion and<font color="#E5E5E5"> if we did they</font>
+
+1096
+00:48:03,600 --> 00:48:08,040
+wouldn't<font color="#E5E5E5"> make it very far when board</font>
+
+1097
+00:48:08,040 --> 00:48:09,690
+<font color="#E5E5E5">says is</font><font color="#CCCCCC"> from</font><font color="#E5E5E5"> Islam preachers and</font>
+
+1098
+00:48:09,690 --> 00:48:11,340
+<font color="#CCCCCC">practices</font><font color="#E5E5E5"> slavery</font><font color="#CCCCCC"> is in slavery outlawed</font>
+
+1099
+00:48:11,340 --> 00:48:15,330
+<font color="#E5E5E5">yes the Christian Bible also preaches</font>
+
+1100
+00:48:15,330 --> 00:48:18,930
+stoning that's outlawed it doesn't mean
+
+1101
+00:48:18,930 --> 00:48:20,880
+so there are elements<font color="#E5E5E5"> within every</font>
+
+1102
+00:48:20,880 --> 00:48:23,250
+religion<font color="#CCCCCC"> that would constitute a crime</font>
+
+1103
+00:48:23,250 --> 00:48:25,740
+today that<font color="#E5E5E5"> doesn't mean the entire</font>
+
+1104
+00:48:25,740 --> 00:48:29,060
+religion is outlawed
+
+1105
+00:48:29,060 --> 00:48:31,080
+Darkman says we try to get<font color="#E5E5E5"> rid of the</font>
+
+1106
+00:48:31,080 --> 00:48:32,460
+things we don't like
+
+1107
+00:48:32,460 --> 00:48:34,650
+then we sink to the level<font color="#CCCCCC"> of the Dems we</font>
+
+1108
+00:48:34,650 --> 00:48:36,030
+have to uphold the law<font color="#CCCCCC"> in</font><font color="#E5E5E5"> our public</font>
+
+1109
+00:48:36,030 --> 00:48:43,530
+opinion thank you exactly exactly<font color="#CCCCCC"> let me</font>
+
+1110
+00:48:43,530 --> 00:48:47,070
+see<font color="#CCCCCC"> uh there was a good comment here</font>
+
+1111
+00:48:47,070 --> 00:48:50,670
+Oh<font color="#CCCCCC"> Trump is waiting</font><font color="#E5E5E5"> dan Payne says Trump</font>
+
+1112
+00:48:50,670 --> 00:48:52,140
+is awaiting<font color="#E5E5E5"> the chant charge fired the</font>
+
+1113
+00:48:52,140 --> 00:48:54,720
+swamp after<font color="#E5E5E5"> the 2020 election baby</font><font color="#CCCCCC"> maybe</font>
+
+1114
+00:48:54,720 --> 00:48:55,800
+<font color="#E5E5E5">but he needs to get rid</font><font color="#CCCCCC"> of some of them</font>
+
+1115
+00:48:55,800 --> 00:48:58,710
+now he needs to<font color="#CCCCCC"> get</font><font color="#E5E5E5"> rid of some of them</font>
+
+1116
+00:48:58,710 --> 00:49:00,780
+now<font color="#CCCCCC"> because what they're doing to him</font>
+
+1117
+00:49:00,780 --> 00:49:04,890
+now<font color="#CCCCCC"> is disgraceful and he is not going</font>
+
+1118
+00:49:04,890 --> 00:49:09,560
+<font color="#CCCCCC">to fare very well</font><font color="#E5E5E5"> unless he cleans house</font>
+
+1119
+00:49:09,560 --> 00:49:12,720
+<font color="#CCCCCC">gotta start cleaning house</font><font color="#E5E5E5"> he really</font>
+
+1120
+00:49:12,720 --> 00:49:17,730
+does he really really does<font color="#E5E5E5"> and guys as</font>
+
+1121
+00:49:17,730 --> 00:49:20,190
+you can<font color="#CCCCCC"> see we're starting</font><font color="#E5E5E5"> to have some</font>
+
+1122
+00:49:20,190 --> 00:49:21,480
+stream problems what I'm gonna do<font color="#CCCCCC"> may</font>
+
+1123
+00:49:21,480 --> 00:49:24,270
+cut<font color="#E5E5E5"> about nine ten minutes early I want</font>
+
+1124
+00:49:24,270 --> 00:49:25,710
+to diagnose this I really want to be
+
+1125
+00:49:25,710 --> 00:49:29,070
+<font color="#CCCCCC">able to bring you the top quality</font><font color="#E5E5E5"> the</font>
+
+1126
+00:49:29,070 --> 00:49:31,380
+most<font color="#E5E5E5"> top quality show I can so thanks</font>
+
+1127
+00:49:31,380 --> 00:49:33,270
+for<font color="#E5E5E5"> being here I will definitely be back</font>
+
+1128
+00:49:33,270 --> 00:49:35,700
+even if I've got them<font color="#CCCCCC"> 99%</font><font color="#E5E5E5"> more worked</font>
+
+1129
+00:49:35,700 --> 00:49:37,850
+out with you<font color="#CCCCCC"> tomorrow</font><font color="#E5E5E5"> morning 7:30 a.m.</font>
+
+1130
+00:49:37,850 --> 00:49:40,140
+<font color="#CCCCCC">been</font><font color="#E5E5E5"> awesome we're going to be talking</font>
+
+1131
+00:49:40,140 --> 00:49:41,520
+<font color="#E5E5E5">about those 3d printers</font><font color="#CCCCCC"> and guns</font>
+
+1132
+00:49:41,520 --> 00:49:43,020
+<font color="#E5E5E5">probably going to be chatting a little</font>
+
+1133
+00:49:43,020 --> 00:49:44,820
+<font color="#CCCCCC">bit more about sessions Muller Rosen</font>
+
+1134
+00:49:44,820 --> 00:49:47,010
+Stein that<font color="#CCCCCC"> whole</font><font color="#E5E5E5"> crew thanks for</font>
+
+1135
+00:49:47,010 --> 00:49:48,690
+watching guys I'll be<font color="#E5E5E5"> back with you</font>
+
+1136
+00:49:48,690 --> 00:49:51,480
+<font color="#CCCCCC">tomorrow</font><font color="#E5E5E5"> morning 7:30</font><font color="#CCCCCC"> love</font><font color="#E5E5E5"> being with</font>
+
+1137
+00:49:51,480 --> 00:49:51,660
+you
+
+1138
+00:49:51,660 --> 00:00:00,000
+have a great one
+

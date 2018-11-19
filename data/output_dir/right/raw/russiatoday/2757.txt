@@ -1,0 +1,448 @@
+1
+00:00:00,000 --> 00:00:01,740
+the US Army is planning to boost its
+
+2
+00:00:01,740 --> 00:00:04,230
+<font color="#CCCCCC">online activities it's now on a hunt for</font>
+
+3
+00:00:04,230 --> 00:00:07,020
+a software<font color="#E5E5E5"> tool which can understand and</font>
+
+4
+00:00:07,020 --> 00:00:10,260
+respond to posts<font color="#CCCCCC"> on foreign social media</font>
+
+5
+00:00:10,260 --> 00:00:13,290
+sites<font color="#E5E5E5"> and potentially sway opinion but</font>
+
+6
+00:00:13,290 --> 00:00:15,210
+isn't it something the US has been
+
+7
+00:00:15,210 --> 00:00:17,760
+advocating against<font color="#CCCCCC"> Lilliput shrinker</font>
+
+8
+00:00:17,760 --> 00:00:20,939
+explains the classic bars have<font color="#CCCCCC"> been out</font>
+
+9
+00:00:20,939 --> 00:00:23,039
+there for<font color="#CCCCCC"> ages and we know what they're</font>
+
+10
+00:00:23,039 --> 00:00:25,410
+usually<font color="#E5E5E5"> used</font><font color="#CCCCCC"> for that</font><font color="#E5E5E5"> is sending out</font>
+
+11
+00:00:25,410 --> 00:00:27,869
+spam messages in some cases performing
+
+12
+00:00:27,869 --> 00:00:30,359
+hacking attacks but<font color="#E5E5E5"> it seems that Uncle</font>
+
+13
+00:00:30,359 --> 00:00:32,308
+Sam<font color="#E5E5E5"> is after something much more</font>
+
+14
+00:00:32,308 --> 00:00:34,500
+sophisticated here<font color="#E5E5E5"> if you go online</font><font color="#CCCCCC"> and</font>
+
+15
+00:00:34,500 --> 00:00:37,200
+<font color="#CCCCCC">check out the US</font><font color="#E5E5E5"> Federal Business</font>
+
+16
+00:00:37,200 --> 00:00:39,180
+<font color="#E5E5E5">Opportunities website you will come</font>
+
+17
+00:00:39,180 --> 00:00:42,059
+across<font color="#E5E5E5"> a</font><font color="#CCCCCC"> Pentagon request</font><font color="#E5E5E5"> from earlier</font>
+
+18
+00:00:42,059 --> 00:00:44,489
+this<font color="#CCCCCC"> week</font><font color="#E5E5E5"> and this was something that</font>
+
+19
+00:00:44,489 --> 00:00:46,559
+really caught<font color="#E5E5E5"> our attention</font><font color="#CCCCCC"> well the</font><font color="#E5E5E5"> US</font>
+
+20
+00:00:46,559 --> 00:00:48,719
+<font color="#E5E5E5">Army</font><font color="#CCCCCC"> once right now</font><font color="#E5E5E5"> is a software system</font>
+
+21
+00:00:48,719 --> 00:00:51,629
+<font color="#E5E5E5">that will be able to translate between</font>
+
+22
+00:00:51,629 --> 00:00:54,600
+languages most<font color="#CCCCCC"> notably Russian Korean</font>
+
+23
+00:00:54,600 --> 00:00:57,390
+Farsi and Arabic and<font color="#E5E5E5"> we all know which</font>
+
+24
+00:00:57,390 --> 00:00:59,760
+countries these languages<font color="#CCCCCC"> are spoken</font><font color="#E5E5E5"> in</font>
+
+25
+00:00:59,760 --> 00:01:01,289
+this kind of<font color="#CCCCCC"> technology this kind of</font>
+
+26
+00:01:01,289 --> 00:01:02,730
+translation<font color="#CCCCCC"> technology is</font><font color="#E5E5E5"> already out</font>
+
+27
+00:01:02,730 --> 00:01:04,019
+there<font color="#CCCCCC"> though isn't</font><font color="#E5E5E5"> it hold on keV</font>
+
+28
+00:01:04,019 --> 00:01:05,729
+because for now I'm far from<font color="#CCCCCC"> giving you</font>
+
+29
+00:01:05,729 --> 00:01:08,189
+<font color="#E5E5E5">the full list of requirements</font><font color="#CCCCCC"> the tool</font>
+
+30
+00:01:08,189 --> 00:01:11,010
+is meant to understand and know how to
+
+31
+00:01:11,010 --> 00:01:14,189
+<font color="#E5E5E5">use correctly dialects slang and even</font>
+
+32
+00:01:14,189 --> 00:01:17,189
+emojis<font color="#E5E5E5"> plus it must be a tool that is</font>
+
+33
+00:01:17,189 --> 00:01:20,189
+capable<font color="#CCCCCC"> of analysis all these</font><font color="#E5E5E5"> millions</font>
+
+34
+00:01:20,189 --> 00:01:23,040
+of posts comments<font color="#E5E5E5"> and replies and we all</font>
+
+35
+00:01:23,040 --> 00:01:25,710
+that these things can<font color="#CCCCCC"> be really dodgy</font>
+
+36
+00:01:25,710 --> 00:01:28,770
+<font color="#CCCCCC">are to be analyzed for</font><font color="#E5E5E5"> emotion and</font>
+
+37
+00:01:28,770 --> 00:01:31,229
+sentiment that's how complicated it gets
+
+38
+00:01:31,229 --> 00:01:33,240
+key question is I guess<font color="#E5E5E5"> it's</font><font color="#CCCCCC"> probably</font>
+
+39
+00:01:33,240 --> 00:01:34,950
+obvious but what's it<font color="#E5E5E5"> gonna be used for</font>
+
+40
+00:01:34,950 --> 00:01:37,200
+potentially they want the software<font color="#CCCCCC"> to be</font>
+
+41
+00:01:37,200 --> 00:01:39,540
+able<font color="#CCCCCC"> to</font><font color="#E5E5E5"> communicate with users online</font>
+
+42
+00:01:39,540 --> 00:01:42,360
+<font color="#E5E5E5">maybe not 100%</font><font color="#CCCCCC"> like a human</font><font color="#E5E5E5"> being but</font>
+
+43
+00:01:42,360 --> 00:01:45,210
+somewhat close<font color="#CCCCCC"> to</font><font color="#E5E5E5"> that just take this</font>
+
+44
+00:01:45,210 --> 00:01:47,040
+requirement<font color="#E5E5E5"> that I have printed out</font>
+
+45
+00:01:47,040 --> 00:01:49,560
+right here<font color="#E5E5E5"> it is the ability to generate</font>
+
+46
+00:01:49,560 --> 00:01:53,009
+at least<font color="#CCCCCC"> 3 or up to 10 unique statements</font>
+
+47
+00:01:53,009 --> 00:01:55,290
+derived from the<font color="#E5E5E5"> original social media</font>
+
+48
+00:01:55,290 --> 00:01:57,840
+statement while retaining the meaning
+
+49
+00:01:57,840 --> 00:02:00,869
+and the tone of the original<font color="#E5E5E5"> again the</font>
+
+50
+00:02:00,869 --> 00:02:03,960
+<font color="#E5E5E5">software will monitor and analyze its</font>
+
+51
+00:02:03,960 --> 00:02:06,600
+own impact from the messages that<font color="#E5E5E5"> it</font>
+
+52
+00:02:06,600 --> 00:02:10,080
+sends<font color="#E5E5E5"> then adjust plus it also needs to</font>
+
+53
+00:02:10,080 --> 00:02:12,209
+be<font color="#CCCCCC"> self-taught in a</font><font color="#E5E5E5"> way that it can</font>
+
+54
+00:02:12,209 --> 00:02:12,819
+learn<font color="#E5E5E5"> from it</font>
+
+55
+00:02:12,819 --> 00:02:15,400
+mistakes<font color="#E5E5E5"> and then improve and upgrade</font>
+
+56
+00:02:15,400 --> 00:02:19,120
+which provides potentially<font color="#CCCCCC"> unprecedented</font>
+
+57
+00:02:19,120 --> 00:02:21,099
+opportunities for influencing opinion
+
+58
+00:02:21,099 --> 00:02:23,379
+online<font color="#E5E5E5"> course can't be going without</font>
+
+59
+00:02:23,379 --> 00:02:25,060
+notice they are<font color="#E5E5E5"> any of this big plan</font><font color="#CCCCCC"> is</font>
+
+60
+00:02:25,060 --> 00:02:26,890
+the salt and<font color="#E5E5E5"> the hills of</font><font color="#CCCCCC"> us leaders</font>
+
+61
+00:02:26,890 --> 00:02:29,200
+complaining about all<font color="#E5E5E5"> the potential fuss</font>
+
+62
+00:02:29,200 --> 00:02:30,760
+about<font color="#E5E5E5"> online interference from other</font>
+
+63
+00:02:30,760 --> 00:02:32,739
+parties other countries<font color="#E5E5E5"> really</font><font color="#CCCCCC"> yes Kevin</font>
+
+64
+00:02:32,739 --> 00:02:37,060
+<font color="#E5E5E5">in the</font><font color="#CCCCCC"> case when Russian troll farms and</font>
+
+65
+00:02:37,060 --> 00:02:39,790
+<font color="#E5E5E5">baths there are all over the</font><font color="#CCCCCC"> media news</font>
+
+66
+00:02:39,790 --> 00:02:41,680
+<font color="#E5E5E5">about</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> the first question that I'd</font>
+
+67
+00:02:41,680 --> 00:02:44,349
+<font color="#E5E5E5">ask the Pentagon</font><font color="#CCCCCC"> what is your intention</font>
+
+68
+00:02:44,349 --> 00:02:48,159
+guys for this particular new projects we
+
+69
+00:02:48,159 --> 00:02:50,680
+sent them out<font color="#CCCCCC"> a</font><font color="#E5E5E5"> request to comment they</font>
+
+70
+00:02:50,680 --> 00:02:53,200
+didn't<font color="#E5E5E5"> get</font><font color="#CCCCCC"> back to us</font><font color="#E5E5E5"> for now but the</font>
+
+71
+00:02:53,200 --> 00:02:55,840
+<font color="#E5E5E5">languages I either regions will give you</font>
+
+72
+00:02:55,840 --> 00:02:58,090
+a hint<font color="#E5E5E5"> and also some experts have</font>
+
+73
+00:02:58,090 --> 00:03:01,030
+already<font color="#E5E5E5"> told us that it's part of a</font><font color="#CCCCCC"> US</font>
+
+74
+00:03:01,030 --> 00:03:04,810
+campaign could<font color="#E5E5E5"> be to expand their online</font>
+
+75
+00:03:04,810 --> 00:03:06,970
+influencing<font color="#E5E5E5"> capability something that</font>
+
+76
+00:03:06,970 --> 00:03:09,459
+they have been up<font color="#E5E5E5"> to for years but</font>
+
+77
+00:03:09,459 --> 00:03:12,099
+really the sophistication of<font color="#E5E5E5"> this new</font>
+
+78
+00:03:12,099 --> 00:03:15,030
+project<font color="#E5E5E5"> machines</font><font color="#CCCCCC"> being able to analyze</font>
+
+79
+00:03:15,030 --> 00:03:17,739
+<font color="#CCCCCC">the emotions and</font><font color="#E5E5E5"> the sentiment of</font>
+
+80
+00:03:17,739 --> 00:03:18,639
+comments online
+
+81
+00:03:18,639 --> 00:03:21,489
+that is<font color="#E5E5E5"> something alarming it's kind of</font>
+
+82
+00:03:21,489 --> 00:03:23,229
+scary we discussed the<font color="#E5E5E5"> issue with NSA</font>
+
+83
+00:03:23,229 --> 00:03:25,030
+whistleblower William Binney and for<font color="#CCCCCC"> mi5</font>
+
+84
+00:03:25,030 --> 00:03:27,069
+agent<font color="#CCCCCC"> Donnie</font><font color="#E5E5E5"> mash on they outlined some</font>
+
+85
+00:03:27,069 --> 00:03:29,190
+<font color="#CCCCCC">of the</font><font color="#E5E5E5"> implications of using these bots</font>
+
+86
+00:03:29,190 --> 00:03:31,930
+<font color="#CCCCCC">what they really want to do is be able</font>
+
+87
+00:03:31,930 --> 00:03:36,280
+<font color="#E5E5E5">to monitor</font><font color="#CCCCCC"> voice communications or any</font>
+
+88
+00:03:36,280 --> 00:03:39,459
+kind<font color="#E5E5E5"> of communications</font><font color="#CCCCCC"> text</font><font color="#E5E5E5"> and be able</font>
+
+89
+00:03:39,459 --> 00:03:42,699
+<font color="#CCCCCC">to assess it</font><font color="#E5E5E5"> and and check it for</font>
+
+90
+00:03:42,699 --> 00:03:44,620
+<font color="#E5E5E5">threats or things like that</font>
+
+91
+00:03:44,620 --> 00:03:48,099
+or<font color="#CCCCCC"> even from some of the manipulation</font>
+
+92
+00:03:48,099 --> 00:03:51,040
+<font color="#E5E5E5">programs even respond in kind and and</font>
+
+93
+00:03:51,040 --> 00:03:53,169
+try to manipulate<font color="#E5E5E5"> the other person at</font>
+
+94
+00:03:53,169 --> 00:03:56,560
+the other<font color="#E5E5E5"> end</font><font color="#CCCCCC"> so I mean all intelligence</font>
+
+95
+00:03:56,560 --> 00:03:58,900
+agencies have<font color="#E5E5E5"> had this as one</font><font color="#CCCCCC"> of their</font>
+
+96
+00:03:58,900 --> 00:04:00,970
+objectives<font color="#CCCCCC"> white papers are generally</font>
+
+97
+00:04:00,970 --> 00:04:03,340
+circulated among contractors<font color="#CCCCCC"> who do</font>
+
+98
+00:04:03,340 --> 00:04:05,530
+<font color="#CCCCCC">business with</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> government</font><font color="#E5E5E5"> so it is a</font>
+
+99
+00:04:05,530 --> 00:04:07,090
+little<font color="#E5E5E5"> unusual to see these things out</font>
+
+100
+00:04:07,090 --> 00:04:09,159
+<font color="#CCCCCC">in the public</font><font color="#E5E5E5"> as far as I know the most</font>
+
+101
+00:04:09,159 --> 00:04:10,449
+obvious interpretation<font color="#CCCCCC"> would be</font><font color="#E5E5E5"> that</font>
+
+102
+00:04:10,449 --> 00:04:12,340
+<font color="#CCCCCC">this is a pushback against the</font>
+
+103
+00:04:12,340 --> 00:04:13,449
+<font color="#CCCCCC">allegations that have been made</font>
+
+104
+00:04:13,449 --> 00:04:15,389
+<font color="#E5E5E5">consistently for the</font><font color="#CCCCCC"> last 18 months</font>
+
+105
+00:04:15,389 --> 00:04:18,870
+<font color="#E5E5E5">about so-called Russian troll</font><font color="#CCCCCC"> farms</font>
+
+106
+00:04:18,870 --> 00:04:21,219
+<font color="#CCCCCC">influencing elections across the west</font>
+
+107
+00:04:21,219 --> 00:04:23,250
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> it's interesting to see</font><font color="#CCCCCC"> that the</font>
+
+108
+00:04:23,250 --> 00:04:25,940
+languages that they're advertising for
+
+109
+00:04:25,940 --> 00:04:28,640
+the language of<font color="#E5E5E5"> Iran and of course North</font>
+
+110
+00:04:28,640 --> 00:04:30,770
+Korea and Russia<font color="#CCCCCC"> so that would</font><font color="#E5E5E5"> be a bit</font>
+
+111
+00:04:30,770 --> 00:04:31,880
+<font color="#E5E5E5">of a sort of giveaway about which</font>
+
+112
+00:04:31,880 --> 00:00:00,000
+countries they want to be targeting
+

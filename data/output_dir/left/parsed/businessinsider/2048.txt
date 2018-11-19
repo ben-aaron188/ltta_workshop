@@ -1,0 +1,54 @@
+we've discovered an annoying problem
+with Facebook's app for the iPhone it's
+clogging up your memory here's what's
+happening if you're like most Facebook
+users you probably use its mobile app
+and click on links and other content
+your friends share when you do that the
+link opens up in Facebook's own built-in
+browser this is where the problem starts
+anytime you open a web page in the
+Facebook app the app goes ahead and
+stores that entire webpage in the app so
+the more you click on links the bigger
+the app size gets which can make the app
+grow to a much bigger size than the 70
+megabytes it is when you download it
+this phone just had Facebook a
+pre-installed at the end of October in
+just three weeks
+it already has almost 200 megabytes of
+web pages stored in it that's a lot for
+a phone with only 16 gigs of total
+storage before the app was reinstalled
+it had ballooned to 900 megabytes
+the worst part is that other than
+deleting and reinstalling Facebook
+offers no solution for the problem
+unlike Twitter it doesn't allow you to
+open links directly in Safari instead
+you have to first open it in the
+Facebook browser where it's stored at
+this point the only solution to clearing
+out the data is to delete the Facebook
+app and reinstall it we reached out to
+Facebook and asked about the app problem
+here's what they told us we try to
+balance how much data we catch on the
+phone and how much data we fetch over
+the network the more we can catch on the
+phone the less data we need to fetch
+over the network when we save posts
+profile pictures and photos on the
+device we don't need to redownload them
+when you look at that same photo or post
+a day later which both saves data on
+your network plan and makes the app much
+faster we're working hard to get better
+at this balance with ever
+release the company's made it clear they
+plan on partnering with publishers to
+get even more content into viewers hands
+if they really plan on doing that they
+better make sure their users have the
+room to load it first

@@ -1,0 +1,424 @@
+1
+00:00:00,030 --> 00:00:07,309
+if self-driving cars are pervasive<font color="#CCCCCC"> a</font>
+
+2
+00:00:07,309 --> 00:00:10,440
+huge<font color="#E5E5E5"> percentage of the American</font>
+
+3
+00:00:10,440 --> 00:00:12,030
+<font color="#E5E5E5">population right</font><font color="#CCCCCC"> now makes its living</font>
+
+4
+00:00:12,030 --> 00:00:14,219
+<font color="#E5E5E5">and oftentimes</font><font color="#CCCCCC"> a pretty good living</font>
+
+5
+00:00:14,219 --> 00:00:17,970
+<font color="#E5E5E5">driving</font><font color="#CCCCCC"> and so understandably people</font><font color="#E5E5E5"> are</font>
+
+6
+00:00:17,970 --> 00:00:19,740
+<font color="#E5E5E5">going to be concerned about what does</font>
+
+7
+00:00:19,740 --> 00:00:23,400
+this mean about<font color="#E5E5E5"> three and a half</font><font color="#CCCCCC"> million</font>
+
+8
+00:00:23,400 --> 00:00:25,680
+Americans work in trucking<font color="#E5E5E5"> it's one of</font>
+
+9
+00:00:25,680 --> 00:00:27,750
+the last well-paying job markets still
+
+10
+00:00:27,750 --> 00:00:29,310
+<font color="#E5E5E5">available to</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> without a college</font>
+
+11
+00:00:29,310 --> 00:00:31,470
+<font color="#E5E5E5">education but</font><font color="#CCCCCC"> self-driving technology</font>
+
+12
+00:00:31,470 --> 00:00:33,540
+<font color="#CCCCCC">could replace some</font><font color="#E5E5E5"> of those workers</font><font color="#CCCCCC"> and</font>
+
+13
+00:00:33,540 --> 00:00:35,760
+<font color="#CCCCCC">it could happen soon the ride-sharing</font>
+
+14
+00:00:35,760 --> 00:00:37,950
+giant uber<font color="#E5E5E5"> just bought a company called</font>
+
+15
+00:00:37,950 --> 00:00:40,980
+<font color="#CCCCCC">Auto its product</font><font color="#E5E5E5"> trucks that drive</font>
+
+16
+00:00:40,980 --> 00:00:42,920
+<font color="#E5E5E5">themselves</font>
+
+17
+00:00:42,920 --> 00:00:50,129
+<font color="#CCCCCC">Raavi samaya went for a ride</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> one we</font>
+
+18
+00:00:50,129 --> 00:00:52,469
+hear a lot about<font color="#E5E5E5"> self-driving cars but</font>
+
+19
+00:00:52,469 --> 00:00:54,090
+many<font color="#E5E5E5"> people think self-driving trucks</font>
+
+20
+00:00:54,090 --> 00:00:56,610
+like this one from<font color="#E5E5E5"> auto will hit harder</font>
+
+21
+00:00:56,610 --> 00:01:00,120
+and sooner they never speed or change
+
+22
+00:01:00,120 --> 00:01:01,800
+<font color="#E5E5E5">lanes suddenly and they can drive</font>
+
+23
+00:01:01,800 --> 00:01:03,600
+forever without getting<font color="#E5E5E5"> tired so</font><font color="#CCCCCC"> they</font>
+
+24
+00:01:03,600 --> 00:01:04,860
+<font color="#CCCCCC">promised to be cheaper and more</font>
+
+25
+00:01:04,860 --> 00:01:07,860
+efficient<font color="#E5E5E5"> and the company just made its</font>
+
+26
+00:01:07,860 --> 00:01:10,710
+first actual delivery<font color="#E5E5E5"> 120 miles with</font>
+
+27
+00:01:10,710 --> 00:01:13,070
+nobody driving here in Denver
+
+28
+00:01:13,070 --> 00:01:16,350
+first and foremost<font color="#CCCCCC"> talk so almost</font><font color="#E5E5E5"> sort</font>
+
+29
+00:01:16,350 --> 00:01:17,790
+<font color="#CCCCCC">of the</font><font color="#E5E5E5"> backbone of the US</font><font color="#CCCCCC"> economies</font>
+
+30
+00:01:17,790 --> 00:01:20,790
+every around us<font color="#E5E5E5"> maybe beside us was on a</font>
+
+31
+00:01:20,790 --> 00:01:22,920
+truck<font color="#E5E5E5"> at some point</font><font color="#CCCCCC"> a just the magnitude</font>
+
+32
+00:01:22,920 --> 00:01:25,470
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> that traffic</font><font color="#E5E5E5"> is immense we have</font>
+
+33
+00:01:25,470 --> 00:01:27,900
+millions<font color="#E5E5E5"> of those trucks on the road as</font>
+
+34
+00:01:27,900 --> 00:01:29,549
+a complete amateur<font color="#CCCCCC"> in these things this</font>
+
+35
+00:01:29,549 --> 00:01:32,040
+seems very<font color="#E5E5E5"> hard is</font><font color="#CCCCCC"> it hard to make</font><font color="#E5E5E5"> a</font>
+
+36
+00:01:32,040 --> 00:01:34,890
+truck drive itself it's<font color="#E5E5E5"> hard but it's</font>
+
+37
+00:01:34,890 --> 00:01:37,829
+totally<font color="#E5E5E5"> doable highways by</font><font color="#CCCCCC"> nature</font><font color="#E5E5E5"> is a</font>
+
+38
+00:01:37,829 --> 00:01:40,409
+simple problem<font color="#CCCCCC"> to</font><font color="#E5E5E5"> solve those no</font>
+
+39
+00:01:40,409 --> 00:01:42,180
+hopefully<font color="#CCCCCC"> no pedestrians</font>
+
+40
+00:01:42,180 --> 00:01:45,030
+there's no stoplights<font color="#CCCCCC"> it's easier to</font>
+
+41
+00:01:45,030 --> 00:01:47,490
+basically a automate or have a
+
+42
+00:01:47,490 --> 00:01:50,009
+self-driving vehicle on the highway<font color="#CCCCCC"> most</font>
+
+43
+00:01:50,009 --> 00:01:52,439
+of the day the truck uses a<font color="#CCCCCC"> variety of</font>
+
+44
+00:01:52,439 --> 00:01:54,000
+sensors<font color="#E5E5E5"> which</font><font color="#CCCCCC"> feed</font><font color="#E5E5E5"> the stack of</font>
+
+45
+00:01:54,000 --> 00:01:55,400
+computers in the cab
+
+46
+00:01:55,400 --> 00:01:57,290
+it reads the road to decide when to
+
+47
+00:01:57,290 --> 00:02:00,380
+accelerate steer or hit the brakes<font color="#E5E5E5"> the</font>
+
+48
+00:02:00,380 --> 00:02:02,090
+company says it's<font color="#E5E5E5"> likely much safer than</font>
+
+49
+00:02:02,090 --> 00:02:11,210
+a human driver we<font color="#CCCCCC"> went out a</font><font color="#E5E5E5"> test run</font>
+
+50
+00:02:11,210 --> 00:02:14,210
+<font color="#E5E5E5">with a veteran test driver</font><font color="#CCCCCC"> Walt to see</font>
+
+51
+00:02:14,210 --> 00:02:17,810
+how it worked<font color="#CCCCCC"> so well</font><font color="#E5E5E5"> tell me what's</font>
+
+52
+00:02:17,810 --> 00:02:19,520
+going to happen when<font color="#E5E5E5"> you go autonomous</font>
+
+53
+00:02:19,520 --> 00:02:21,710
+<font color="#CCCCCC">so what's the process the</font><font color="#E5E5E5"> process is</font>
+
+54
+00:02:21,710 --> 00:02:23,570
+<font color="#CCCCCC">right now Jake is</font><font color="#E5E5E5"> getting the software</font>
+
+55
+00:02:23,570 --> 00:02:26,210
+<font color="#E5E5E5">ready to make sure everything's good</font><font color="#CCCCCC"> to</font>
+
+56
+00:02:26,210 --> 00:02:28,730
+<font color="#CCCCCC">go and it's operating appropriately and</font>
+
+57
+00:02:28,730 --> 00:02:30,920
+then essentially<font color="#E5E5E5"> I'm checking the</font>
+
+58
+00:02:30,920 --> 00:02:32,060
+traffic<font color="#E5E5E5"> to make sure that there's</font>
+
+59
+00:02:32,060 --> 00:02:34,700
+<font color="#CCCCCC">nothing crazy going on behind</font><font color="#E5E5E5"> her to the</font>
+
+60
+00:02:34,700 --> 00:02:37,280
+side<font color="#E5E5E5"> I mean just just</font><font color="#CCCCCC"> a kiss</font>
+
+61
+00:02:37,280 --> 00:02:40,010
+this<font color="#E5E5E5"> of course</font><font color="#CCCCCC"> pressing the</font><font color="#E5E5E5"> button and</font>
+
+62
+00:02:40,010 --> 00:02:42,530
+once you've engaged that the sensors on
+
+63
+00:02:42,530 --> 00:02:43,730
+the front<font color="#CCCCCC"> of the truck</font><font color="#E5E5E5"> are doing the</font>
+
+64
+00:02:43,730 --> 00:02:45,020
+<font color="#E5E5E5">same job that you would</font><font color="#CCCCCC"> ordinarily be</font>
+
+65
+00:02:45,020 --> 00:02:46,220
+<font color="#E5E5E5">doing they're keeping an eye on the road</font>
+
+66
+00:02:46,220 --> 00:02:47,630
+they're making<font color="#CCCCCC"> sure the truck is going</font>
+
+67
+00:02:47,630 --> 00:02:49,940
+the<font color="#CCCCCC"> right speed they're</font><font color="#E5E5E5"> breaking for any</font>
+
+68
+00:02:49,940 --> 00:02:52,280
+obstacles<font color="#CCCCCC"> or like that's correct so</font>
+
+69
+00:02:52,280 --> 00:02:54,080
+you've<font color="#E5E5E5"> been replaced by you know three</font>
+
+70
+00:02:54,080 --> 00:02:54,860
+<font color="#CCCCCC">lidar</font>
+
+71
+00:02:54,860 --> 00:02:58,420
+<font color="#E5E5E5">GPS the camera and a radar correct</font>
+
+72
+00:02:58,420 --> 00:03:00,860
+<font color="#E5E5E5">that's something you feel</font><font color="#CCCCCC"> screwed</font>
+
+73
+00:03:00,860 --> 00:03:02,209
+because then I'll be<font color="#CCCCCC"> able to</font><font color="#E5E5E5"> go on a</font>
+
+74
+00:03:02,209 --> 00:03:04,819
+hike later<font color="#CCCCCC"> how are</font><font color="#E5E5E5"> we doing Jake ready</font>
+
+75
+00:03:04,819 --> 00:03:09,250
+to go there we<font color="#CCCCCC"> go</font>
+
+76
+00:03:09,440 --> 00:03:11,590
+<font color="#E5E5E5">yes</font>
+
+77
+00:03:12,620 --> 00:03:15,470
+and you can get<font color="#E5E5E5"> out to</font><font color="#CCCCCC"> the Sina I can</font>
+
+78
+00:03:15,470 --> 00:03:17,330
+get<font color="#E5E5E5"> out of the seat right</font><font color="#CCCCCC"> now</font>
+
+79
+00:03:17,330 --> 00:03:19,870
+right
+
+80
+00:03:22,090 --> 00:03:25,279
+[Music]
+
+81
+00:03:28,540 --> 00:03:29,920
+tighten down
+
+82
+00:03:29,920 --> 00:03:33,110
+[Music]
+
+83
+00:03:35,330 --> 00:03:37,310
+<font color="#E5E5E5">all right so we're now in</font><font color="#CCCCCC"> a truck</font><font color="#E5E5E5"> with</font>
+
+84
+00:03:37,310 --> 00:03:39,020
+<font color="#E5E5E5">no driver whatsoever</font>
+
+85
+00:03:39,020 --> 00:03:40,790
+the truck seems<font color="#E5E5E5"> pretty comfortable</font>
+
+86
+00:03:40,790 --> 00:03:42,320
+except I don't<font color="#E5E5E5"> think</font><font color="#CCCCCC"> it understands that</font>
+
+87
+00:03:42,320 --> 00:03:44,330
+the<font color="#E5E5E5"> seat belt is off because no one's in</font>
+
+88
+00:03:44,330 --> 00:03:46,630
+the seat
+
+89
+00:03:47,550 --> 00:03:52,690
+[Music]
+
+90
+00:03:52,690 --> 00:03:54,550
+<font color="#E5E5E5">our</font><font color="#CCCCCC"> town says it's still testing the</font>
+
+91
+00:03:54,550 --> 00:03:56,800
+<font color="#E5E5E5">trucks but eventually</font><font color="#CCCCCC"> we'll sell a kit</font>
+
+92
+00:03:56,800 --> 00:03:59,230
+for tens<font color="#E5E5E5"> of thousands of dollars to</font><font color="#CCCCCC"> make</font>
+
+93
+00:03:59,230 --> 00:04:01,390
+nearly any<font color="#CCCCCC"> truck self-driving</font><font color="#E5E5E5"> virtually</font>
+
+94
+00:04:01,390 --> 00:04:03,430
+every truck manufacturer is also<font color="#CCCCCC"> testing</font>
+
+95
+00:04:03,430 --> 00:04:07,960
+self-driving technology<font color="#CCCCCC"> Morgan Stanley</font>
+
+96
+00:04:07,960 --> 00:04:09,820
+estimates that self-driving trucks could
+
+97
+00:04:09,820 --> 00:04:12,220
+save the industry<font color="#CCCCCC"> 168 billion dollars a</font>
+
+98
+00:04:12,220 --> 00:04:14,410
+year<font color="#CCCCCC"> seventy billion</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> that would come</font>
+
+99
+00:04:14,410 --> 00:04:17,140
+from labor savings if you presume<font color="#E5E5E5"> this</font>
+
+100
+00:04:17,140 --> 00:04:18,250
+<font color="#CCCCCC">is going to work the way you</font><font color="#E5E5E5"> think it's</font>
+
+101
+00:04:18,250 --> 00:04:19,269
+good
+
+102
+00:04:19,269 --> 00:04:20,769
+what<font color="#E5E5E5"> does the industry start to look</font>
+
+103
+00:04:20,769 --> 00:04:23,560
+<font color="#E5E5E5">like I'm pretty bullish on on the</font>
+
+104
+00:04:23,560 --> 00:04:26,530
+technology<font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> I mean in 20 years I</font>
+
+105
+00:04:26,530 --> 00:04:29,210
+could see<font color="#E5E5E5"> just the trailer</font>
+
+106
+00:04:29,210 --> 00:00:00,000
+[Music]
+

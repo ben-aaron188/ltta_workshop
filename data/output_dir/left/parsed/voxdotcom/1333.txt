@@ -1,0 +1,228 @@
+For some of you, the book that I’m holding may invoke some feelings of nostalgia.
+But, for others, maybe some feelings of inadequacy.
+These are Magic Eye stereograms.
+They created a sensation when they came out in the 90s, and it’s easy to see why —
+a 2D picture that creates a 3D image, if you do a certain thing with your eyeballs!?
+ELAINE: Look there’s a space ship.
+That is so cool!
+MR. PITTS: WHERE IS IT!?
+I feel like I didn’t realize back then how neat these are.
+But I do now,
+so let’s talk about it.
+Stereograms can be designed to be viewed cross-eyed
+but all the ones in this video are for
+divergent viewing.
+That means that rather than having your eyes
+pointed at the image itself, you’re supposed
+to over diverge your eyes, as if you’re
+looking through the image at something beyond it.
+It’s tricky because normally the lens in
+our eyes focuses on the thing our eyes are
+pointed at, but for these, you need to focus
+on the image while pointing your eyes at a
+spot beyond it.
+Some stereogram books come with a handy guide — these two dots at the top should help position
+your eyes.
+You want to relax your eyes until you see
+double vision, so 4 dots, but then pull it
+back so that they overlap and you get 3 dots.
+Then glance down and you should see the cathedral
+of Saint Basil in Moscow.
+If you still can’t see them, there’s a
+trick you can do in Photoshop.
+Duplicate the image and use the “difference”
+blending mode — which highlights where the
+two images are the same — in black.
+Then if you pull the top copy across...
+A silhouette of the hidden image appears.
+I’ll explain how all this works, but first,
+it helps to understand how Magic Eye emerged
+from a long history of research on visual
+perception
+So, our pupils are about 60mm apart — that
+means each eye gets a slightly different picture
+projected onto its retina.
+WAYNE: Camera 1.
+Camera 2.
+Camera 1.
+Camera 2.
+The reason we don’t have constant double
+vision from these two different pictures is
+that the brain immediately combines them into one.
+And in doing so, it uses the differences in
+the 2 pictures to add depth to
+our visual perception.
+This is stereopsis, or 3D vision,
+and it was first described by an English inventor
+in the 1830s, Charles Wheatstone.
+It took scientists a while to realize that
+having two eyes gives us depth information,
+because it’s not the only depth cue that we have.
+Shut one eye and it’s probably tough to
+thread a needle but the world doesn’t become
+completely flat.
+Wheatstone revealed stereopsis with a device
+that could display a slightly different image
+to each eye, simulating how each eye would
+take in a real life 3D object,
+but with flat images.
+And it successfully tricked the brain into
+perceiving depth.
+This was the first stereoscope.
+After the invention of photography, a Scottish
+physicist named David Brewster developed a
+handheld stereoscope and a version of it was
+displayed at the Great Exhibition in London
+in 1851.
+Queen Victoria was reportedly delighted by
+it and before long it was a super common household
+item through the last half of the 19th century.
+The dual photos were made with stereo cameras,
+which have two lenses spaced eye-distance
+apart, and they were used to document all
+sorts of historical events.
+Stereo cameras eventually went out of style
+but you might recognize this more modern version
+of a stereoscope.
+And that same principle of creating a 3D image
+by showing each eye a slightly different picture
+continues with 3D glasses and virtual reality
+headsets.
+But it’s not all for amusement.
+Stereoscopy has also been used for all sorts of aerial imaging applications.
+British photo interpreters in World War 2
+used overlapping images taken from airplanes
+to detect Nazi military assets.
+This ability of stereoscopes to thwart camouflage
+by making objects pop out of seemingly flat
+aerial images inspired the development of
+the random dot stereogram — that’s the kind
+with a hidden 3D image.
+In 1960, a leading vision researcher named Bela Julesz
+created a computer-generated random-dot stereogram.
+He started with a grid of random dots and
+duplicated it, but in the copy, he shifted
+a square patch of the dots slightly to the left,
+filling in the leftover space with
+other random dots.
+If you look at these images through a stereoscope, or if you’ve trained your eyes enough to
+free-fuse the images by pointing one eye
+at each one, you’ll see the square pop out
+from the random dots.
+With this experiment, Julesz showed that the
+brain could detect depth even without any
+recognizable objects in the images.
+What’s different about the Magic Eye-type
+of pictures, also known as “autostereograms”
+is that you don’t need any special device
+to view them because
+it’s one image instead of two.
+Instead of two different pictures, autostereograms
+repeat the images within one picture.
+To understand how these work, let’s first
+look at a simpler type of autostereogram.
+This is a so-called “wallpaper stereogram.”
+It doesn’t have a hidden image.
+Instead, it just has repeating patterns that
+appear at different levels of depth when you
+diverge your eyes.
+So relax your eyes as though you’re looking
+through the screen and you should see the
+airplanes fall back with the rest of the grid.
+The dinosaurs, which are repeated at slightly closer intervals, should appear in a plane
+nearer to you and the cakes, repeated at even shorter intervals, should be even nearer.
+You should also see one more of each icon
+than there really is — there are only 6 cakes
+in the image but you’re seeing 7.
+And all of the icons should appear to be slightly bigger than they really are.
+So why is this happening?
+This diagram shows the view from above your
+head and these dots represent icons on a simple
+autostereogram like the one i just showed
+you.
+When you let your eyes diverge, instead of
+fixing them on one of the icons, each eye
+is seeing its own icon.
+Because your brain is used to turning two
+similar pictures into one — it assumes the
+two icons are actually one icon that’s further back and larger, rather than
+two that are closer.
+This illusion happens across the image, with
+every pair of repeated icons being wrongly
+interpreted as one.
+The right-most and left-most icons don't have pairs on their other side so you end up with 7 —
+5 illusory icons plus the edge ones.
+Pairs that are repeated at closer intervals,
+like the cakes were in the previous image,
+appear nearer to you.
+So it’s the interval of repetition that
+can be manipulated to adjust depth.
+And if we go from icons to something smaller,
+you can start to see how they build a 3D image
+that can be easily camouflaged with noise.
+You can see that in this stereogram we made
+using letters instead of icons.
+If you diverge your eyes, you should see some
+of these words pop out to reveal a message.
+The two asterisks are there as a guide — you should see 3 of them, and then slowly bring
+your eyes down.
+What’s happening is that the regular repetition interval in this image is 16 characters, including spaces.
+But in this interval, we removed a letter,
+bringing this pair slightly closer together
+than all the other pairs.
+So as your brain fuses that pair, the
+resulting image appears closer to you than
+the rest.
+Autosterograms start with a base pattern that repeats across the image but with select dots
+or pixels shifted to vary the depth and compose the 3D figure.
+The first random-dot autostereograms were
+made by hand in the 1970s.
+This one by a Japanese graphic designer shows
+an array of hidden squares and this one by
+a Swiss painter has overlapping rectangles.
+But by the 1980s, vision researcher Christopher
+Tyler and programmer Maureen Clark had come
+up with an algorithm that could embed more
+complicated depth images into a random-dot
+autostereogram.
+Using the red dots as a guide, you should
+see a 3D surface pop out that’s much more
+complicated than a wallpaper or a simple rectangle.
+The algorithms that produce these images work from a depth map — that's a black and white image
+that tells the program to make the repetition interval shorter for the dots that make
+up the lighter, and nearer, parts of the image.
+In the final product you can’t tell which
+dots have been shifted or how much,
+but if you go back to that Photoshop trick
+and scan through the image — you can see how
+the nearest parts of the shark repeat at closer intervals
+than the most distant parts of the shark.
+Everything in the base image repeats at the
+same interval,
+except the dots that make up the shark.
+In the 90s, artist Cheri Smith and engineer
+Tom Baccei developed their own method,
+using bright colorful patterns as their base.
+They branded them as “Magic Eye” and published
+the first of many books in 1993.
+After that, they were everywhere.
+“Hey can you see it?
+You gotta see it.
+You really gotta see it, come on give it a
+try”
+Magic Eye put out VHS tapes that included
+animated stereograms; they sold posters;
+they were printed in newspapers.
+And some people...got left behind.
+“I’ve been staring at this thing for a
+week now, from opening to closing,
+and I can't see a gooddamn thing!”
+If you can’t see them, it may be that you
+have some visual impairment that affects your
+stereo vision.
+But for most of us, learning to diverge your
+eyes just takes a little bit of practice.
+“Today’s my day.
+I brought a lunch and a soda...
+and I’m not going to leave until I see this
+sailboat everyone keeps talking about.”

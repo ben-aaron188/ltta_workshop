@@ -1,0 +1,259 @@
+1
+00:00:00,000 --> 00:00:01,290
+There’s Bitcoin.
+
+2
+00:00:01,290 --> 00:00:02,430
+There’s Litecoin.
+
+3
+00:00:02,430 --> 00:00:03,810
+There’s Ethereum.
+
+4
+00:00:03,810 --> 00:00:07,260
+So just what is cryptocurrency,
+and how does it work?
+
+5
+00:00:07,260 --> 00:00:11,370
+Essentially, it’s digital money
+that’s bought and sold online.
+
+6
+00:00:11,370 --> 00:00:13,080
+There’s no bills or coins.
+
+7
+00:00:13,080 --> 00:00:15,712
+It’s not based on
+another asset like gold.
+
+8
+00:00:15,712 --> 00:00:17,500
+And it doesn’t go
+through traditional
+
+9
+00:00:17,500 --> 00:00:19,860
+financial institutions
+like banks.
+
+10
+00:00:19,860 --> 00:00:22,270
+Instead, these
+currencies operate
+
+11
+00:00:22,270 --> 00:00:24,210
+in a completely
+decentralized system
+
+12
+00:00:24,210 --> 00:00:27,000
+that uses so-called
+blockchain technology
+
+13
+00:00:27,000 --> 00:00:28,670
+to track transactions.
+
+14
+00:00:28,670 --> 00:00:30,820
+To see how this works,
+let’s look at how
+
+15
+00:00:30,820 --> 00:00:32,980
+you’d buy something
+with cryptocurrency.
+
+16
+00:00:33,690 --> 00:00:35,810
+Say that Alice wants
+to buy a bike from Dan
+
+17
+00:00:35,810 --> 00:00:38,590
+using Bitcoin, her
+cryptocurrency of choice.
+
+18
+00:00:39,010 --> 00:00:41,680
+Alice begins by logging
+into her Bitcoin wallet
+
+19
+00:00:41,680 --> 00:00:44,180
+with a private key,
+a unique combination
+
+20
+00:00:44,180 --> 00:00:46,140
+of letters and numbers.
+
+21
+00:00:46,140 --> 00:00:48,440
+With a traditional
+financial transaction,
+
+22
+00:00:48,440 --> 00:00:51,050
+the exchanges get sent
+to banks on each side
+
+23
+00:00:51,050 --> 00:00:53,430
+who record the money being
+subtracted from one account
+
+24
+00:00:53,430 --> 00:00:54,840
+and added to another.
+
+25
+00:00:55,530 --> 00:00:57,350
+But remember,
+in this scenario,
+
+26
+00:00:57,350 --> 00:00:59,100
+there are no banks
+or middlemen.
+
+27
+00:00:59,670 --> 00:01:01,580
+Instead, Alice’s transaction
+
+28
+00:01:01,580 --> 00:01:04,660
+is shared with everyone
+in the Bitcoin network.
+
+29
+00:01:04,660 --> 00:01:07,270
+These networked computers
+add Alice’s transaction
+
+30
+00:01:07,270 --> 00:01:10,940
+to a shared list of recent
+transactions, known as a block.
+
+31
+00:01:10,940 --> 00:01:12,200
+Every 10 minutes,
+
+32
+00:01:12,200 --> 00:01:13,880
+the newest block
+of transactions is
+
+33
+00:01:13,880 --> 00:01:17,440
+added on, or chained,
+to all the previous blocks.
+
+34
+00:01:17,440 --> 00:01:19,760
+That’s how you get
+a blockchain.
+
+35
+00:01:20,240 --> 00:01:22,370
+To ensure that each
+block of transactions
+
+36
+00:01:22,370 --> 00:01:24,100
+on the chain is verified,
+
+37
+00:01:24,100 --> 00:01:26,370
+a subset of Bitcoin’s
+network joins a race
+
+38
+00:01:26,370 --> 00:01:28,720
+to solve a difficult
+math puzzle.
+
+39
+00:01:28,720 --> 00:01:30,950
+And if they solve
+it first, their record
+
+40
+00:01:30,950 --> 00:01:34,350
+of the block of transactions
+becomes the official record.
+
+41
+00:01:34,350 --> 00:01:36,760
+They’re rewarded with
+Bitcoins of their own,
+
+42
+00:01:36,760 --> 00:01:39,560
+and the network gets a
+new block on the chain.
+
+43
+00:01:40,180 --> 00:01:42,490
+This entire process
+is known as mining.
+
+44
+00:01:42,490 --> 00:01:44,130
+But instead of
+chipping away at rock,
+
+45
+00:01:44,130 --> 00:01:46,670
+you’re solving
+complex puzzles.
+
+46
+00:01:46,670 --> 00:01:48,720
+The fact that many
+computers are competing
+
+47
+00:01:48,720 --> 00:01:51,880
+to verify a block ensures
+that no single computer
+
+48
+00:01:51,880 --> 00:01:54,310
+can monopolize
+the Bitcoin market.
+
+49
+00:01:54,310 --> 00:01:57,330
+To ensure the competition
+stays fair and evenly timed,
+
+50
+00:01:57,330 --> 00:02:01,410
+the puzzle becomes harder
+when more computers join in.
+
+51
+00:02:01,410 --> 00:02:03,890
+The Bitcoin protocol says
+mining will continue
+
+52
+00:02:03,890 --> 00:02:07,130
+until there are 21 million
+Bitcoins in existence.
+
+53
+00:02:07,130 --> 00:02:09,960
+That’s set to happen
+around 2140 —
+
+54
+00:02:09,960 --> 00:00:00,000
+if Bitcoin lasts that long.
+

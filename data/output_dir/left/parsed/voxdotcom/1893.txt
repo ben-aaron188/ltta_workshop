@@ -1,0 +1,198 @@
+“So once I added your RSS feed to our site,
+every single article that is published on
+Vox.com is getting sent through a feed and
+we’re just like automatically creating a
+video for it.”
+“Oh my god that is so crazy.
+Every single article through our feed.”
+“Every single article.”
+This is Wibbitz.
+It’s one of the companies automating news
+video production.
+You might call this the robot coming for my
+job.
+“So this article, our algorithm will just
+intelligently summarize it into just a quick
+30 second to 1 minute video.
+And then based on the keywords in the article,
+it’s gonna match relevant media to it.”
+It’s pretty impressive when you think about
+all the ways it could get confused.
+“In the beginning it was very rough.
+People with the same names would confuse it.
+Turkey the country and turkey the animal would
+be another example.”
+Their product was built with machine learning
+algorithms, and it became more accurate over time.
+The result is a video made in a few seconds
+that’s not drastically different from what
+a human would make in several hours, given
+the same constraints.
+Wibbitz is part of a rapidly growing industry
+of so-called “AI-powered” products.
+The number of companies mentioning artificial
+intelligence in their earnings calls has skyrocketed
+in the past 3 years.
+But the truth is that the term “artificial
+intelligence” isn’t very well defined.
+“What happens with AI is that initially
+lots of things are called artificial intelligence.
+It used to be the expert systems; the kind
+of systems that fly airplanes were called
+artificial intelligence.
+Then once they were working and routine and
+everyone takes them for granted, then they
+are not called AI anymore.”
+Right now when people talk about AI, they’re
+mostly talking about “machine learning”
+- a subfield of computer science that dates
+back at least to the 1950s.
+And the methods that are popular today aren’t
+fundamentally different from algorithms invented
+decades ago,
+So why all the interest and investment right now?
+I asked Manuela Veloso, the head of the machine
+learning department at Carnegie Mellon.
+“You have to understand that there is something
+very important about these past years.
+It's data.
+We humans became collectors of data.
+Fitbits, GPSes, pictures, I mean look how
+much credit card purchases, how much data
+is around.”
+Certain machine learning algorithms really
+thrive on big data, as long as computers have
+the processing power to handle it, which they
+do now.
+If computers are the cannon and the internet
+is gunpowder, these are the fireworks and
+they have only just begun.
+In his book, Pedro Domingos offers a nice
+simple way of understanding
+supervised machine learning.
+He says:
+“Every algorithm has an input and an output:
+the data goes into the computer, the algorithm
+does what it will with it, and out comes the
+result.
+Machine learning turns this around: in goes
+the data and the desired result and out comes
+the algorithm that turns one into the other.”
+The algorithms are
+trained to find statistical relationships
+in the data that allow it to make good guesses
+when presented with new examples.
+That means we no longer have an easy rule
+for what kinds of tasks computers can and
+cannot do.
+“Ten years ago, I could have said with confidence,
+we know how this works to computerize something
+you need to understand all the steps, then
+you script the steps and get a dumb machine
+to do it and just follow mechanistically the
+process that you would have followed.
+But now we have machines, I shouldn't say we,
+I don't make them.
+People have developed machines that learn
+from data.
+That makes it harder to say what set of jobs
+are going to become substituted, readily substituted
+by automation, and which will be complemented.”
+A study by the McKinsey Global Institute gets
+at this question by looking at the many tasks
+that make up 800 different occupations.
+And they grouped those tasks into 7 categories:
+3 that are highly susceptible to automation
+with currently-demonstrated technologies,
+and 4 that are not.
+“Things like managing people, they include
+things like creativity, they include things
+like decision-making or judgment.
+And caring work that requires empathy or human
+interaction, with an emotional content to
+associate with it.
+Those are much harder things to automate.”
+The report concluded that while most jobs
+include some tasks that can be automated,
+less than 5% of occupations can be fully automated.
+“So this idea of occupations and jobs changing
+may actually be a bigger effect than the question
+of jobs disappearing, although of course,
+there are some jobs that will disappear or
+at least decline.”
+That’s because most jobs are made up of
+a bunch of different tasks and most of today’s
+AI can only do one task.
+Don’t get me wrong.
+They can be really good at that task.
+A deep neural network watched 5000 hours of
+BBC news with captions and now it can read
+lips  better than human professionals.
+And machine learning algorithms trained on
+images of tumors can predict lung cancer survival
+better than human pathologists.
+The mistake is to assume that these focused
+applications can add up to
+a more general intelligence.
+Or that they learn like we do, which is simply
+not the case.
+When they get the right answer it’s tempting
+to assume they understand what they see.
+Only when they make a mistake do we get a
+glimpse at how different their process is
+from our own.
+It’s pattern recognition masquerading as
+understanding.
+That’s why researchers can easily trick
+a learning algorithm into mislabeling a picture.
+“A lot of machine learning, at this point,
+is very superficial and very brittle.
+It's based on immediately observable features,
+which may or may not be essential to what's
+going on.”
+Last year the director Oscar Sharp produced
+a short film that was written by a neural
+network trained on sci-fi movie scripts.
+“The principle is completely constructed
+of the same time.”
+“It was all about you to be true.”
+“You didn’t even see the movie with the
+rest of the base.”
+“I don’t know.”
+“I don’t care.”
+It’s great.
+It makes no sense.
+Because it doesn’t have what a 5-year-old
+child has, which is an abstract model of how
+the world works, why things happen, or what
+a story is.
+And why should it?
+We evolved these things over millions of years.
+“So there's a lot it can do, much more than
+before but I mean, we humans are amazing,
+I think. We are very broad, see.”
+AI applications will keep getting better.
+Robot voices used to sounds like this.
+Now they can sound like this.
+Which means Wibbitz will so be able to offer
+natural-sounding narration.
+Algorithms are also starting to analyze video
+frames.
+IBM trained a system to select the scenes
+for a movie trailer.
+So instead of just pulling generic clips,
+Wibbitz might pull specific ones.
+But there’s no clear path toward a more
+human-like intelligence which includes common
+sense, curiosity, and abstract reasoning.
+“I think AI is as good as the content that
+goes through it.
+So you can’t really expect AI to do magic
+which some people expect it to do.”
+Machine learning algorithms can translate
+37 languages but they don’t know what a
+chair is for.
+They’re nothing like us, and that’s what
+makes them such a powerful tool.
+Wibbitz will never make this video, but AI
+could help me make a better one.

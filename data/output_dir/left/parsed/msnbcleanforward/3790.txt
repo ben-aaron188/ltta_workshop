@@ -1,0 +1,283 @@
+if a developer who people gave their
+information to in this case Alexander
+Cogan then goes and in violation of his
+agreement with us sells the data at
+Cambridge analytic ah that's a big issue
+I think people have a right to be very
+upset I'm upset that that happened that
+was Facebook CEO Mark Zuckerberg
+pointing the finger at where he believes
+the blame lies when it comes to apps
+that sir surreptitiously gained access
+to personal data mined from nearly 87
+million Facebook users and the developer
+who is singling out on this his
+Cambridge University researcher dr.
+Alexander Cogan who joins us now and
+Alexander will start there what's your
+response when you hear Mark Zuckerberg
+essentially laying the blame for this
+entire scandal at your feet I think
+that's pretty powerful PR spin but it's
+exactly that I think what folks need to
+understand is this was business as usual
+as far as Facebook developers went and
+I'm a Facebook family I had a long
+relationship with them and I had a lot
+to lose by trying to anger them so when
+I did this project we don't think we
+were doing anything wrong
+we didn't think Facebook was ever gonna
+be upset and I was even doing it for
+really money I was doing it because they
+thought I'd get a good research data set
+but there are so many commercial
+entities out there company is collecting
+vastly more data that don't care about
+the relationship with Facebook and
+things because no accounting for that
+data whatsoever so you know trying to
+say like hey Alex is this outlier is
+stunning a little bit until you realize
+it's PR so have their response in just a
+second Nick has that but explain exactly
+what you did so people get the
+background here yeah so when we say
+Facebook app all we're talking about is
+facebook login button then you see
+everywhere and what we did was we
+recruited about 200,000 people to do a
+survey where they were paid and they
+filled out the survey about their
+personality and then they clicked this
+login button to authorize the app and
+then fees books sent us their data so
+Alex I just just kind of pull back a bit
+so there are thousands or tens of
+thousands of people like you who built
+apps to pull data off of Facebook
+correct
+yeah absolutely so it's a very common
+practice now Facebook says that you had
+a brief consulting contract with them
+that they weren't aware of us with us CA
+and that you had broken their Terms of
+Service but in fact if a user was
+looking at the agreement that you had
+with Facebook users it discloses that
+you planned or had the option I'm using
+the information that they gave you for
+commercial purposes correct absolutely I
+mean the Facebook saying had a brief
+consulting contract completely avoids
+the fact that I also was working closely
+with them for years and years and
+research I mean I started with them in
+2013 and in fact when I built the app in
+the first place it was to collaborate
+with their researchers on papers so you
+know the I was very much a friendly for
+them and as far as look the Terms of
+Service it's exactly like he said you
+know we said we could transference all
+the data and that policy was up in the
+facebook platform for a year and a half
+nothing was ever sad and what's amazing
+is like if you go and look at Facebook
+apps right now many of them have
+language let's say we could transfer and
+sell your data and talk about some of
+the biggest companies in the world and
+Facebook does nothing to police this so
+for them just say this is their policy
+and really feel upset it's highly
+duplicity us in my mind and so your
+knowledge Alex did Facebook ever look at
+your contract with their users ever
+inspect your app or audit or ever take
+any direct interest in looking at what
+you're doing with the data to decide if
+they were okay with it yeah
+so the honest answer is I have no idea
+all I do is I go on the platform that
+they've created and I put in my name I
+put in my Terms of Service and then they
+say in their policy that hey well we can
+monitor this we can audit this well can
+make sure everything's compliant and
+they just clearly don't or if they are
+doing it they don't care and they're not
+reaching out to anybody to corrupt
+anything because this was up there for a
+year and a half not a word like I said
+it felt very much like business as usual
+as we've already said there's tens of
+thousands of apps that are doing this
+and from our perspective we're doing
+something really normal Joe so so
+Alexander we Joe Scarborough here we saw
+more
+Zuckerberg testify before Congress he
+said that you were an outlier he said
+that that you violated their policies
+and he was shocked and stunned by your
+behavior was Mark Zuckerberg lying to
+Congress when he said that I think lying
+is a strong word he's working out what
+his staff has prepared I assume but look
+I mean we've had many instances well
+before me where they have to deal with
+data being used in many different ways
+he didn't expect so the fact that they
+were unaware that companies were
+collecting this data are using it for a
+variety of purposes outside of Facebook
+just feels incredibly inaccurate and not
+reflective of their experience and
+what's more I think try to argue that
+the issue here is that I sold the data
+to Cambridge analytical completely
+misses the points in that part if
+Cambridge and leather gonna have gathers
+data themselves I think people are still
+upset and they just missed that entirely
+so so lying is a strong word how about
+his testimony was not consistent with
+the truth my personal feeling would be
+yes that is a correct way to describe it
+okay very good
+Mike Barnicle so the two companies at
+the center of the scandal issued the
+following statements in October 2015
+Cogan had a brief consulting contract
+with Facebook at no point during these
+two years was Facebook aware of Cogan's
+activities with Cambridge analytic ah it
+was not until December of 2015 that we
+first learned Cogan had broken
+Facebook's Terms of Service by selling
+to Cambridge analytic a facebook
+information collected via an app he
+built Cambridge analytic I issued a
+statement in part saying this dr. Cogan
+made contractual commitments to
+Cambridge analytic a that GSR was
+responsible for compliance with data
+protection legislation and we took these
+assurances in good faith
+Cambridge analytic as research showed
+that the
+personality types licensed by GSR Cogan
+underperformed compared to more
+traditional ways of grouping people by
+demographics Mike Barnicle Alex a few
+minutes ago you were talking about a
+group that was put together to gather
+that you gathered the data from and this
+group was paid were they told
+specifically what the data was going to
+be used for so I would say no I mean
+where they were told in the Terms of
+Service that could be used for a variety
+of purposes but we didn't get into the
+specifics because legitimately there
+were a lot of use cases were thinking
+about one was obviously came in to
+Atletico the other one was research and
+was interested in doing and it's pretty
+standard practice to keep these things
+open-ended so you allow yourselves for a
+variety of these cases so what does that
+mean do you think in the cosmic sense
+for the issue of privacy in this world
+people don't no longer care about it as
+long as again heap aid yeah so I think
+the privacy is the real conversation
+here you know we've seen a lot of
+sideshows with the story of people
+providing a lot of misinformation but if
+you cut through all of that and get down
+to the facts I think the real
+conversation that is really important is
+about privacy fundamentally I think what
+Silicon Valley was doing and still often
+believes is that everybody knows as far
+as the general public but nobody cares
+and the folks that do care and there's
+few of them will read the Terms of
+Service and decide and the other few
+folks that care will go on the settings
+and find the privacy tools and use them
+but I think that's just wrong we see
+that folks really do care about how
+their data is used even if they weren't
+doing those things I mean there's a now
+big responsibility for tech companies to
+turn around and do something about it
+but it's difficult when you've built
+your business models fundamentally on
+the idea that we're gonna grab as much
+data as we can and use it for whatever
+purpose we want because that's the way
+we sell ads and so I think they've got a
+really big challenge had ahead of
+themselves all right dr. Alexander Cogan
+thank you so much for joining us want to
+bring into the reservation below
+political columnist and host of the
+podcast with friends like these on Amory
+Cox
+what's your take on this I still think
+that you know once Facebook actually
+tells the people whose information was
+harvested that their information was
+harvested that's gonna be a challenge
+and that there's some things that have
+to happen before they can do that well I
+think dr. Cogan actually really hit the
+nail on the head when I said the real
+conversation here is a larger
+conversation about privacy and whether
+or not the norms that Silicon Valley has
+been expecting to be true are really
+true do people are people just basically
+okay with giving away their information
+do they realize that's what they're
+doing do they realize that all of these
+industries are actually built on
+harvesting data they're not built on you
+getting connecting yeah they're not
+built on community this whole idea that
+Facebook as a community is kind of
+literally laughable to me and that it
+turns out people when they see the ends
+to which the status it's been put are
+uneasy with it
+right but that doesn't mean we may have
+to change the model for how we interact
+with all these apps I mean where we just
+strayed it away like everything there is
+to know about ourselves you know for
+farmville and I think that people
+starting to realize that wasn't a good
+trade are you willing to pay for
+farmville though but that's nice
+question right yeah it is worth a lot of
+money
+one argument that libertarians make is
+that way this all this is just make sure
+that the people who have that debt
+people who have given that data away get
+some cut of what Cambridge analytic is
+getting gosh you know all right stay
+with us a lot more ahead up next a
+first-hand account of the moment Hillary
+Clinton learned that she would not
+succeed Barack Obama as president we're
+back in just a moment thanks for
+checking out MSNBC on YouTube and make
+sure you subscribe to stay up-to-date on
+the day's biggest stories and you can
+click on any of the videos around us to
+watch more four Morning Joe and MSNBC
+thanks so much for watching

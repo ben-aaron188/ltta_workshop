@@ -1,0 +1,89 @@
+I think one of the most interesting
+ideas the blockchain is surfacing is the
+idea of computational contracts you know
+normally when one sets up a contract
+it's something that's written in well
+almost English but actually it's
+legalese because it has to be a bit more
+precise than English and it says you
+know this part is gonna do this that
+part is gonna do that what if we could
+write that contract in code what if we
+could write a computational contract
+that isn't written in legalese but it's
+written in some computational
+intelligence language which could
+actually be just executed by a computer
+if we chose to as well as understood by
+humans well our Wolfram language that
+I've been developing for the last 32
+years is sort of the ideal language in
+which to describe things about the world
+of the kind that you want to talk about
+in contracts this idea of writing
+computational contracts this is not a
+new idea I mean for example gottfried
+leibniz back in the late 1600s he very
+definitely had this idea in fact it was
+his reason to try to invent a bunch of
+what are now our computational concepts
+was he wanted to turn all legal
+arguments into matters of pure logic
+that could potentially be resolved by a
+machine well he happened to be 300 years
+too early now I think it's kind of the
+right time to actually execute things
+like that and so and we are very well
+positioned with our technology to
+actually set up computational contracts
+which can describe how things should
+happen in the world in a way that
+computers can execute and so some of
+those things will be pure sort of
+symbolic logic like things some of those
+things are more like automated human
+judgment they're more like the kinds of
+things that one can do with machine
+learning where one says you know we'll
+consider it a grade-a peach if it has
+this characteristic with respect to this
+machine vision classifier so so that's
+one thing that to me we've been
+interested in another thing that's in a
+sense more direct is whenever you're
+going to set up a smart contract
+a computational contract I've used sort
+of computational contract is kind of a
+generalization of the traditional let's
+put something on the blockchain smart
+contract idea but as soon as those
+contracts are going to be about real
+things in the world they have to know
+something about what actually happened
+in the world and so there's this idea of
+well we needed some kind of smart Oracle
+that can be connected to the contract
+that can be not just something that says
+well this piece of cryptocurrency was
+transferred from the suggester thus
+address but you know it rained yesterday
+and so we in terms of sort of knowledge
+about the world without malphur
+technology stack we have simply the
+unique system that has kind of across
+thousands of domains kind of computable
+knowledge about the world for quite
+other reasons we've kind of built this
+thing that allows you to just ask a
+computer some fact about the world and
+have it returned in computable form and
+that's exactly what one needs if one
+wants to know whether this smart
+contract that referred to something in
+the world should be executed should go
+this way or that way and so we've been
+we've been involved with rather a wide
+spectrum of the cryptocurrency
+folk in in providing sort of the
+connection to the real world so to speak
+for things like smart contracts

@@ -1,0 +1,195 @@
+1
+00:00:01,240 --> 00:00:04,780
+Every ten years, states have to redraw their
+voting districts.
+
+2
+00:00:06,620 --> 00:00:10,540
+In most cases, politicians get to control
+that process.
+
+3
+00:00:11,440 --> 00:00:15,530
+And if they're clever about how the districts
+are drawn, they can make it easier for their
+
+4
+00:00:15,530 --> 00:00:17,280
+own party to win more of them.
+
+5
+00:00:17,860 --> 00:00:21,240
+It's called "Partisan Gerrymandering".
+
+6
+00:00:21,240 --> 00:00:24,380
+And Pennsylvania is the latest state to get
+busted for it.
+
+7
+00:00:25,830 --> 00:00:29,420
+So when you redistrict, there's a phenomenal
+degree of possible manipulation.
+
+8
+00:00:29,430 --> 00:00:32,659
+Almost any shape you want to make is possible.
+
+9
+00:00:32,659 --> 00:00:37,830
+Professor Cho is a political scientist who
+developed an algorithm that can spot unfair
+
+10
+00:00:37,830 --> 00:00:38,830
+maps.
+
+11
+00:00:38,830 --> 00:00:42,559
+The Court wants to be able to determine the
+intent behind the district maps.
+
+12
+00:00:42,560 --> 00:00:44,320
+Basically they want to read the mind of the
+map drawer.
+
+13
+00:00:45,100 --> 00:00:46,400
+It doesn't have any way to do this.
+
+14
+00:00:47,280 --> 00:00:51,060
+Politicians have to follow a certain criteria
+when they're making a new map.
+
+15
+00:00:51,660 --> 00:00:55,850
+Some criteria are required by law, for instance
+we have to have about the same number of people
+
+16
+00:00:55,850 --> 00:00:58,840
+in every district and all districts have to
+be contiguous.
+
+17
+00:00:59,500 --> 00:01:03,180
+In Pennsylvania, these districts also have
+to be compact.
+
+18
+00:01:03,880 --> 00:01:08,280
+Then, there's other criteria that the Supreme
+Court has emphasized when they make decisions
+
+19
+00:01:08,280 --> 00:01:09,830
+about redistricting.
+
+20
+00:01:09,830 --> 00:01:14,100
+The Court wants districts that preserve political
+subdivisions like cities, counties, municipal
+
+21
+00:01:14,100 --> 00:01:15,100
+boundaries.
+
+22
+00:01:15,100 --> 00:01:19,150
+So whenever you find an identifiable community
+of likeminded individuals, Court likes it
+
+23
+00:01:19,150 --> 00:01:23,850
+when those people are kept together in the
+same district.
+
+24
+00:01:23,850 --> 00:01:27,620
+Pennsylvania's districts were deemed partisan
+because of that last guideline.
+
+25
+00:01:28,160 --> 00:01:34,320
+If you look at the 2011 map, the lines are
+all contiguous and each district has a roughly
+
+26
+00:01:34,320 --> 00:01:36,000
+equal population.
+
+27
+00:01:36,860 --> 00:01:42,600
+But the map also divides up several counties,
+which violates traditional districting principles.
+
+28
+00:01:42,600 --> 00:01:47,659
+And that made it easier for Republicans to
+win congressional seats in the state.
+
+29
+00:01:47,659 --> 00:01:53,549
+The popular vote in the House race was basically
+equal in both elections that used this map,
+
+30
+00:01:53,549 --> 00:01:57,380
+but the Republicans won more than twice the
+number of seats in Congress.
+
+31
+00:01:58,760 --> 00:02:00,640
+Then a group of voters sued.
+
+32
+00:02:01,180 --> 00:02:04,760
+And the Pennsylvania Supreme Court ruled that
+the map had to change.
+
+33
+00:02:05,920 --> 00:02:07,300
+This is the new map.
+
+34
+00:02:07,600 --> 00:02:12,239
+The lines are still contiguous and the population
+is still proportionate.
+
+35
+00:02:12,540 --> 00:02:16,800
+But now, only 13 counties are split up instead
+of 28.
+
+36
+00:02:17,400 --> 00:02:20,120
+That protects the traditional districting
+principles.
+
+37
+00:02:21,080 --> 00:02:26,260
+The Republican party plans to countersue,
+arguing that the new map will favor Democrats.
+
+38
+00:02:26,270 --> 00:02:30,709
+They hope to win as many as five more congressional
+seats in Pennsylvania because of it.
+
+39
+00:02:30,709 --> 00:02:35,920
+And those seats could be a part of a larger
+shift in power in the House of Representatives.
+
+40
+00:02:35,920 --> 00:02:39,050
+Which is why the fight over these two maps
+is so heated.
+
+41
+00:02:39,050 --> 00:00:00,000
+And it's also why Pennsylvania probably won't
+be the last state to get called out for gerrymandering.
+

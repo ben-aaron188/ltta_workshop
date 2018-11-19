@@ -1,0 +1,20 @@
+1
+00:00:02,629 --> 00:00:05,199
+<font color="#E5E5E5">después</font>
+
+2
+00:00:08,809 --> 00:00:11,809
+<font color="#CCCCCC">champagne</font>
+
+3
+00:00:15,630 --> 00:00:18,000
+<font color="#CCCCCC">la opción está aquí</font>
+
+4
+00:00:18,000 --> 00:00:21,000
+<font color="#CCCCCC">ah</font>
+
+5
+00:00:23,750 --> 00:00:00,000
+<font color="#CCCCCC">h</font>
+

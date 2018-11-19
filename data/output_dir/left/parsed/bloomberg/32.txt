@@ -1,0 +1,128 @@
+We all make poor life choices
+take these two guys for example
+They're the founders of a self driving car company called Zoox
+and they've decided it makes sense to try and compete against this
+Waymo the Google self driving car project, Cruise Automation, Daimler, Baidu, Uber, and Lyft
+But Zoox is different. its rivals are adding self driving technology to existing cars
+Meanwhile Zoox is making a new type of vehicle
+for the self driving age
+basically Zoox is making a robot
+and its early incarnation. Looks like the love child of the Matrix, Mad Max, and Transformers franchises
+This is Tim Kentley-Klay
+He hails from Australia and Down Under he was a well-known designer and ad guy
+One day he had an epiphany. A vision of the future full of robotic vehicles and came here to build them
+I sort of saw the future of how the whole system could work
+I said ok I need to find a brilliant computer scientist
+so that led me on a journey for six months actually where I ended up finding Jesse
+That brilliant computer scientist is Dr. Jesse Levinson
+A Stanford grad who was sought after by none other than Google itself
+I actually visited a Google X in 2013 to come and speak on my vision for autonomy
+In talking a fellow he there's one guy and he's really good and we can't get him
+that was my signal to go and get him
+a lot of your colleagues have run off to companies like Google or or Uber to retrofit their cars
+What drew you to this particular task
+and this approach
+I've been working on some driving cars since 2005 and
+it's pretty clear even back then that there's going to be one of the more transformative technologies for society
+It wasn't enough to just solve the technology
+You need a product and you need a business that makes sense
+And I hadn't seen that in any other company until I met Tim and he shared his high level vision
+For what Zoox could be
+And that vision is a system of completely autonomous robotic vehicles
+that can be summoned just like a Lyft, or dare I saw it, an Uber
+We have a very clear vision at Zoox
+which is that AI and mobility will take us out of the age of the automobile
+and into the next mobility age which for us is robotics autonomous transportation
+Tim and Jesse take me to the Alameda Naval Air Station
+where I'm about to get a test drive and see how a Zooks robot handles
+these are very unique vehicles. They're designed in a way that would only make sense
+if they're going to be fully autonomous
+The power trains are designed for full autonomy they are fully redundant and they have joule high voltage
+batteries they have joule low voltage architectures
+you can see that rigged with computer sensors. They can drive without any human intervention
+This is VH4. This is VH5
+You want to go for a ride?. Yeah I do. All right. Jump in
+Zoox has placed cones on the tarmac. The robot is going to drive out and try to dodge them
+And I get to do the whole test sitting backwards because Tim thought it would be funny
+time to meet my robot maker
+and with one swift keystroke I give complete control of my life over to an ai
+That really doesn't get old.
+It's like being at a ride at Disney.
+These AI robots crank through the course at forty five miles per hour.
+And the VH5 is set to rip through it at a delightful seventy five miles per hour
+We can choose all wheel steering, two wheel steering, crab steering,
+dual Motors
+and then we have direction
+I like the crab Steering.
+Zoox got its start here in this abandoned firehouse back in 2015 with only six employees
+They've since raised an astonishing eight hundred million dollars
+and have expanded their operations into a one stop robot making shop
+With the help of 400 employees.
+Zoox now on their way to turning these prototypes into full fledged vehicles by 2020
+For the moment though Zoox does most of its software testing in these
+Modified versions of Toyota Highlander's which have the decided advantage of being street legal.
+We’re actually going to get you to drive autonomously from this facility to our new headquarters in Foster City
+And then Jesse is going to jump in and you can travel to downtown San Francisco
+We don't know any company in the world that is driving that multi-dimensional degree of difficulty
+from urban to freeway to dense downtown
+So that's a that's a bicycle?
+That was a cyclist yeah and that’s the car behind us
+Is something like the speed limit, does that get taken by the cameras seeing the signs
+or is that something that has to get entered in as you map the world?
+If there's a sign that’s been vandalized or it’s missing, or you know, it’s got growth on it
+The vehicle wouldn't know what the speed limit is and that could cause an incident right
+or a fine
+So speed limits are really well understood on the road networks. So we put that in as a primer on the map
+Ok
+So coming up right here we have to do a left turn yield
+So you got to see this other car
+Yes so were we would be concerned about this car that’s coming towards us from a prediction level
+So we just want to make sure that they do the right thing
+And now we’re yielding so if you look on this screen see this yellow here
+That means we're yielding for that vehicle
+Ok
+And now we're off
+We’re about to drive onto the freeway so this will be interesting
+you can see there’s quite a bit of traffic on our left
+and the vehicles indicating at the moment
+it's going to break a little bit harder because we've got this vehicle right on our 6
+and we're running out of runway. And now we merge in.
+So that would have been a hard situation even for a human driver.
+We needed to merge and that person on the left was not letting us in
+We tried to go in front. They stayed with us and then we had to break,
+let them go past, and then we pulled in. That was, that was all autonomous
+and you could see how smooth that was
+Good robot
+So one of the hardest things to do with autonomous driving is actually prediction
+because you not only need to understand whats the state of the world is,
+you have to say well what's the state of the world in the near future
+If I do this what will that person do.
+And so that creates very quickly a large search tree and if the vehicle is going to drive with good performance
+you need to be able to predict well what the state of the world is in the near future
+Here’s our new headquarters
+20 minutes suburban driving, freeways merging, 100 percent autonomous
+That was incredible
+That was amazing
+Alright guy, let’s go two for two.
+No pressure
+Whats’ like in each box it looks like there’s like a Y an L
+Yeah there's a V an R and an L. So V means vision, R means radar, and L means LIDAR
+So we use cameras. We use radar and we use LIDAR
+Cameras are really good at seeing what things are
+Radar is really good at seeing where things are in terms of how far away they are
+And then LIDAR is really good at telling you where things are in 3-D
+at pretty high resolution and pretty high accuracy
+And so what we do is we fuse those three sensors together in real time
+to form one coherent view of the world which is actually what you're looking at on the screen
+Definitely crowded
+I mean that must make it harder
+Oh yeah it's a lot to keep track of
+We have made it autonomously to San Francisco
+As far as the public knows Zoox along with Waymo, and GM cruise,
+are the only companies capable of doing this kind of drive
+and this is the first time they’ve ever shown the cars in action to the public
+Is it madness to take on many of the world's leading automotive and tech companies at the same time?
+Yes, Of course it is
+But I say go fourth Tim and Jessie. We all await our lux robotic ride share of the future
+ 
+ 

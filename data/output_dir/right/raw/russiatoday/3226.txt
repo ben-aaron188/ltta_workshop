@@ -1,0 +1,444 @@
+1
+00:00:00,060 --> 00:00:02,100
+tech<font color="#E5E5E5"> giants in the</font><font color="#CCCCCC"> US are reportedly on</font>
+
+2
+00:00:02,100 --> 00:00:03,510
+board with helping to widen the
+
+3
+00:00:03,510 --> 00:00:04,859
+<font color="#E5E5E5">surveillance net for the country's</font>
+
+4
+00:00:04,859 --> 00:00:06,660
+immigration<font color="#CCCCCC"> authorities who is said to</font>
+
+5
+00:00:06,660 --> 00:00:08,580
+<font color="#E5E5E5">be planning even tighter vetting of visa</font>
+
+6
+00:00:08,580 --> 00:00:10,800
+applicants<font color="#E5E5E5"> social media accounts</font><font color="#CCCCCC"> our</font>
+
+7
+00:00:10,800 --> 00:00:12,540
+details of that emerged after<font color="#E5E5E5"> a tech</font>
+
+8
+00:00:12,540 --> 00:00:13,740
+conference where government officials
+
+9
+00:00:13,740 --> 00:00:15,210
+said<font color="#CCCCCC"> that they're searching for</font>
+
+10
+00:00:15,210 --> 00:00:17,160
+<font color="#CCCCCC">algorithms which could</font><font color="#E5E5E5"> help them assess</font>
+
+11
+00:00:17,160 --> 00:00:19,279
+<font color="#E5E5E5">potential dangers</font><font color="#CCCCCC"> here's kind of mopin</font>
+
+12
+00:00:19,279 --> 00:00:22,350
+the information revolution<font color="#E5E5E5"> and the boom</font>
+
+13
+00:00:22,350 --> 00:00:24,630
+of social media have put the world at
+
+14
+00:00:24,630 --> 00:00:26,880
+our fingertips<font color="#E5E5E5"> but they've also created</font>
+
+15
+00:00:26,880 --> 00:00:28,949
+<font color="#E5E5E5">some very convenient tools for the</font>
+
+16
+00:00:28,949 --> 00:00:31,590
+government<font color="#E5E5E5"> so is the IT sector still</font>
+
+17
+00:00:31,590 --> 00:00:34,140
+what the users want<font color="#CCCCCC"> US Immigration and</font>
+
+18
+00:00:34,140 --> 00:00:36,300
+Customs Enforcement<font color="#CCCCCC"> has asked tech</font>
+
+19
+00:00:36,300 --> 00:00:38,460
+companies Microsoft<font color="#CCCCCC"> included to help</font>
+
+20
+00:00:38,460 --> 00:00:40,860
+<font color="#CCCCCC">them screen the social media</font><font color="#E5E5E5"> of people</font>
+
+21
+00:00:40,860 --> 00:00:42,989
+<font color="#E5E5E5">holding or applying for American visas</font>
+
+22
+00:00:42,989 --> 00:00:45,030
+in order<font color="#E5E5E5"> to make that happen</font><font color="#CCCCCC"> the</font>
+
+23
+00:00:45,030 --> 00:00:46,410
+government is asking<font color="#E5E5E5"> them</font><font color="#CCCCCC"> to develop</font>
+
+24
+00:00:46,410 --> 00:00:49,590
+<font color="#E5E5E5">special algorithms we</font><font color="#CCCCCC"> have millions</font><font color="#E5E5E5"> and</font>
+
+25
+00:00:49,590 --> 00:00:51,329
+millions and<font color="#E5E5E5"> millions</font><font color="#CCCCCC"> of people</font><font color="#E5E5E5"> coming</font>
+
+26
+00:00:51,329 --> 00:00:54,149
+<font color="#CCCCCC">every year and subsequently departing</font><font color="#E5E5E5"> so</font>
+
+27
+00:00:54,149 --> 00:00:55,860
+we have to be smart<font color="#CCCCCC"> about it</font><font color="#E5E5E5"> and I'm</font>
+
+28
+00:00:55,860 --> 00:00:57,420
+sure<font color="#CCCCCC"> there are tools out there that can</font>
+
+29
+00:00:57,420 --> 00:00:59,309
+help<font color="#E5E5E5"> from Microsoft</font><font color="#CCCCCC"> this won't be the</font>
+
+30
+00:00:59,309 --> 00:01:00,960
+<font color="#CCCCCC">first</font><font color="#E5E5E5"> experience they've had working</font>
+
+31
+00:01:00,960 --> 00:01:03,600
+<font color="#CCCCCC">with US authorities</font><font color="#E5E5E5"> last month Microsoft</font>
+
+32
+00:01:03,600 --> 00:01:05,369
+released a program called as your
+
+33
+00:01:05,369 --> 00:01:08,100
+<font color="#E5E5E5">government</font><font color="#CCCCCC"> a cloud service of classified</font>
+
+34
+00:01:08,100 --> 00:01:10,080
+information<font color="#CCCCCC"> customers with secret</font>
+
+35
+00:01:10,080 --> 00:01:11,909
+requirements<font color="#E5E5E5"> can expect to gain access</font>
+
+36
+00:01:11,909 --> 00:01:14,700
+<font color="#CCCCCC">to new technologies at scale</font><font color="#E5E5E5"> including</font>
+
+37
+00:01:14,700 --> 00:01:17,060
+services such as<font color="#CCCCCC"> cognitive capabilities</font>
+
+38
+00:01:17,060 --> 00:01:19,560
+<font color="#E5E5E5">artificial</font><font color="#CCCCCC"> intelligence and predictive</font>
+
+39
+00:01:19,560 --> 00:01:22,320
+<font color="#CCCCCC">analytics</font><font color="#E5E5E5"> Amazon will also be helping</font><font color="#CCCCCC"> to</font>
+
+40
+00:01:22,320 --> 00:01:24,780
+stock the government's<font color="#E5E5E5"> toolbox last week</font>
+
+41
+00:01:24,780 --> 00:01:26,909
+they released<font color="#E5E5E5"> a</font><font color="#CCCCCC"> cloud computing</font><font color="#E5E5E5"> region</font>
+
+42
+00:01:26,909 --> 00:01:28,829
+that will<font color="#CCCCCC"> be</font><font color="#E5E5E5"> helping</font><font color="#CCCCCC"> the CIA and other</font>
+
+43
+00:01:28,829 --> 00:01:32,250
+intelligence<font color="#E5E5E5"> agencies the</font><font color="#CCCCCC"> AWS secret</font>
+
+44
+00:01:32,250 --> 00:01:34,590
+region is the key component<font color="#CCCCCC"> of the Intel</font>
+
+45
+00:01:34,590 --> 00:01:36,990
+community's multi fabric cloud strategy
+
+46
+00:01:36,990 --> 00:01:39,509
+<font color="#CCCCCC">u.s.</font><font color="#E5E5E5"> senator Mitch McConnell has</font>
+
+47
+00:01:39,509 --> 00:01:41,729
+blatantly stated that the IT sector
+
+48
+00:01:41,729 --> 00:01:44,280
+<font color="#E5E5E5">should be working to serve</font><font color="#CCCCCC"> u.s. foreign</font>
+
+49
+00:01:44,280 --> 00:01:46,979
+policy<font color="#CCCCCC"> goals</font><font color="#E5E5E5"> and of course he mentioned</font>
+
+50
+00:01:46,979 --> 00:01:49,229
+the Russians<font color="#E5E5E5"> we ought to do with regard</font>
+
+51
+00:01:49,229 --> 00:01:52,320
+<font color="#CCCCCC">to the Russians is retaliate seriously</font>
+
+52
+00:01:52,320 --> 00:01:55,729
+retaliate against the Russians and the
+
+53
+00:01:55,729 --> 00:01:59,210
+these tech firms<font color="#CCCCCC"> could</font><font color="#E5E5E5"> be helpful in</font>
+
+54
+00:01:59,210 --> 00:02:02,909
+having<font color="#CCCCCC"> us</font><font color="#E5E5E5"> given us a way to</font><font color="#CCCCCC"> to do that a</font>
+
+55
+00:02:02,909 --> 00:02:05,219
+tech sector is private<font color="#E5E5E5"> it's supposed to</font>
+
+56
+00:02:05,219 --> 00:02:06,810
+only serve its users and<font color="#CCCCCC"> its</font>
+
+57
+00:02:06,810 --> 00:02:09,389
+<font color="#E5E5E5">shareholders but recently more and more</font>
+
+58
+00:02:09,389 --> 00:02:11,370
+<font color="#E5E5E5">it's starting</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> look like Silicon</font>
+
+59
+00:02:11,370 --> 00:02:12,580
+Valley is a
+
+60
+00:02:12,580 --> 00:02:15,070
+wing of the US government<font color="#CCCCCC"> caleb</font><font color="#E5E5E5"> Maupin</font>
+
+61
+00:02:15,070 --> 00:02:18,340
+<font color="#CCCCCC">RT new york</font><font color="#E5E5E5"> well on the back of</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> the</font>
+
+62
+00:02:18,340 --> 00:02:20,110
+u.s. journalist<font color="#CCCCCC"> derrick bros warns</font><font color="#E5E5E5"> the</font>
+
+63
+00:02:20,110 --> 00:02:21,370
+<font color="#CCCCCC">people should be</font><font color="#E5E5E5"> careful</font><font color="#CCCCCC"> with their</font>
+
+64
+00:02:21,370 --> 00:02:23,230
+<font color="#E5E5E5">private information online when it comes</font>
+
+65
+00:02:23,230 --> 00:02:24,880
+to using<font color="#E5E5E5"> the services</font><font color="#CCCCCC"> of those tech</font>
+
+66
+00:02:24,880 --> 00:02:27,400
+<font color="#CCCCCC">giant's it's worth noting and</font>
+
+67
+00:02:27,400 --> 00:02:29,080
+understanding<font color="#E5E5E5"> that when you search and</font>
+
+68
+00:02:29,080 --> 00:02:31,060
+you use<font color="#CCCCCC"> google</font><font color="#E5E5E5"> when you use social</font><font color="#CCCCCC"> media</font>
+
+69
+00:02:31,060 --> 00:02:32,820
+<font color="#E5E5E5">tools like</font><font color="#CCCCCC"> facebook</font><font color="#E5E5E5"> and these other</font>
+
+70
+00:02:32,820 --> 00:02:35,740
+<font color="#E5E5E5">softwares</font><font color="#CCCCCC"> and these other types of apps</font>
+
+71
+00:02:35,740 --> 00:02:39,160
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> they often</font><font color="#E5E5E5"> are very forthcoming</font>
+
+72
+00:02:39,160 --> 00:02:40,690
+with your<font color="#E5E5E5"> information they</font><font color="#CCCCCC"> are</font><font color="#E5E5E5"> willing</font>
+
+73
+00:02:40,690 --> 00:02:42,040
+<font color="#E5E5E5">to give your information</font><font color="#CCCCCC"> over</font><font color="#E5E5E5"> to the US</font>
+
+74
+00:02:42,040 --> 00:02:43,900
+<font color="#CCCCCC">government without</font><font color="#E5E5E5"> much</font><font color="#CCCCCC"> of a fight some</font>
+
+75
+00:02:43,900 --> 00:02:44,950
+of<font color="#E5E5E5"> them do put up a fight occasionally</font>
+
+76
+00:02:44,950 --> 00:02:46,390
+<font color="#E5E5E5">but for the most part</font><font color="#CCCCCC"> they work with</font>
+
+77
+00:02:46,390 --> 00:02:48,310
+them very<font color="#E5E5E5"> regularly</font><font color="#CCCCCC"> and that's something</font>
+
+78
+00:02:48,310 --> 00:02:49,750
+you<font color="#CCCCCC"> should take</font><font color="#E5E5E5"> into consideration and</font>
+
+79
+00:02:49,750 --> 00:02:52,060
+perhaps pursue alternatives<font color="#CCCCCC"> google is</font>
+
+80
+00:02:52,060 --> 00:02:53,590
+not<font color="#CCCCCC"> the</font><font color="#E5E5E5"> only search engine that exists</font>
+
+81
+00:02:53,590 --> 00:02:54,910
+<font color="#E5E5E5">there's better alternatives there's</font>
+
+82
+00:02:54,910 --> 00:02:56,260
+better alternatives to<font color="#CCCCCC"> Facebook there's</font>
+
+83
+00:02:56,260 --> 00:02:58,000
+better alternatives to all these
+
+84
+00:02:58,000 --> 00:02:59,320
+<font color="#E5E5E5">different companies and</font><font color="#CCCCCC"> at some point</font>
+
+85
+00:02:59,320 --> 00:03:01,090
+the people<font color="#E5E5E5"> should say if you want to</font>
+
+86
+00:03:01,090 --> 00:03:03,880
+support<font color="#CCCCCC"> the US government's</font><font color="#E5E5E5"> surveillance</font>
+
+87
+00:03:03,880 --> 00:03:05,800
+and the US government's<font color="#CCCCCC"> push towards a</font>
+
+88
+00:03:05,800 --> 00:03:07,360
+police state<font color="#E5E5E5"> then I'm not going to buy</font>
+
+89
+00:03:07,360 --> 00:03:08,590
+your<font color="#E5E5E5"> product anymore I'm</font><font color="#CCCCCC"> not going to</font>
+
+90
+00:03:08,590 --> 00:03:09,610
+use your product<font color="#E5E5E5"> anymore</font>
+
+91
+00:03:09,610 --> 00:03:11,410
+it<font color="#E5E5E5"> really will and could be problematic</font>
+
+92
+00:03:11,410 --> 00:03:13,030
+<font color="#CCCCCC">especially with the social media</font>
+
+93
+00:03:13,030 --> 00:03:15,580
+monitoring of immigrants<font color="#E5E5E5"> and really the</font>
+
+94
+00:03:15,580 --> 00:03:17,410
+social<font color="#E5E5E5"> media monitoring of all Americans</font>
+
+95
+00:03:17,410 --> 00:03:19,930
+and<font color="#E5E5E5"> in foreigners and people abroad</font><font color="#CCCCCC"> it</font>
+
+96
+00:03:19,930 --> 00:03:22,750
+has implications<font color="#CCCCCC"> beyond you know</font><font color="#E5E5E5"> just</font>
+
+97
+00:03:22,750 --> 00:03:24,520
+whether<font color="#E5E5E5"> or not the</font><font color="#CCCCCC"> US and these</font><font color="#E5E5E5"> private</font>
+
+98
+00:03:24,520 --> 00:03:25,750
+industries are working together they're
+
+99
+00:03:25,750 --> 00:03:27,400
+<font color="#CCCCCC">definitely</font><font color="#E5E5E5"> working together whether it's</font>
+
+100
+00:03:27,400 --> 00:03:28,690
+for<font color="#CCCCCC"> profit or for</font><font color="#E5E5E5"> something</font><font color="#CCCCCC"> more</font>
+
+101
+00:03:28,690 --> 00:03:30,520
+nefarious<font color="#CCCCCC"> we don't know at this point</font>
+
+102
+00:03:30,520 --> 00:03:32,470
+<font color="#CCCCCC">but I</font><font color="#E5E5E5"> would say this is</font><font color="#CCCCCC"> something more</font>
+
+103
+00:03:32,470 --> 00:03:33,610
+people should<font color="#E5E5E5"> be paying attention to</font>
+
+104
+00:03:33,610 --> 00:03:35,320
+<font color="#E5E5E5">there's always been private industry</font>
+
+105
+00:03:35,320 --> 00:03:37,450
+<font color="#CCCCCC">working for governments that's kind of a</font>
+
+106
+00:03:37,450 --> 00:03:39,850
+standard practice<font color="#CCCCCC"> but I do think that</font>
+
+107
+00:03:39,850 --> 00:03:41,830
+<font color="#E5E5E5">what we're seeing</font><font color="#CCCCCC"> is this</font><font color="#E5E5E5"> relationship</font>
+
+108
+00:03:41,830 --> 00:03:44,709
+<font color="#E5E5E5">between big business corporate America</font>
+
+109
+00:03:44,709 --> 00:03:48,130
+<font color="#E5E5E5">and the US government</font><font color="#CCCCCC"> it's getting</font>
+
+110
+00:03:48,130 --> 00:03:49,840
+further and<font color="#E5E5E5"> further and meshed until</font>
+
+111
+00:03:49,840 --> 00:00:00,000
+they're becoming just<font color="#E5E5E5"> one single</font><font color="#CCCCCC"> entity</font>
+

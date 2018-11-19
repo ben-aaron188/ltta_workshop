@@ -1,0 +1,404 @@
+1
+00:00:00,530 --> 00:00:04,500
+in 1999<font color="#CCCCCC"> a tiny little independent film</font>
+
+2
+00:00:04,500 --> 00:00:06,390
+called<font color="#CCCCCC"> The Blair</font><font color="#E5E5E5"> Witch Project</font><font color="#CCCCCC"> was</font>
+
+3
+00:00:06,390 --> 00:00:08,910
+<font color="#E5E5E5">released and it went on</font><font color="#CCCCCC"> to be that this</font>
+
+4
+00:00:08,910 --> 00:00:11,490
+smash<font color="#CCCCCC"> hit made 250 million dollars</font>
+
+5
+00:00:11,490 --> 00:00:14,820
+worldwide<font color="#CCCCCC"> it also got rave reviews even</font>
+
+6
+00:00:14,820 --> 00:00:16,170
+<font color="#E5E5E5">from Roger Ebert he called an</font>
+
+7
+00:00:16,170 --> 00:00:18,240
+extraordinarily<font color="#E5E5E5"> effective horror film</font><font color="#CCCCCC"> it</font>
+
+8
+00:00:18,240 --> 00:00:19,350
+was<font color="#E5E5E5"> actually one of the most successful</font>
+
+9
+00:00:19,350 --> 00:00:21,600
+<font color="#E5E5E5">independent films ever made</font>
+
+10
+00:00:21,600 --> 00:00:24,029
+<font color="#E5E5E5">writing on the success its sequel Book</font>
+
+11
+00:00:24,029 --> 00:00:26,369
+of Shadows Blair<font color="#E5E5E5"> Witch 2 was released</font>
+
+12
+00:00:26,369 --> 00:00:29,539
+<font color="#E5E5E5">just a year later it was like</font>
+
+13
+00:00:29,539 --> 00:00:32,308
+universally hated by every<font color="#E5E5E5"> single critic</font>
+
+14
+00:00:32,308 --> 00:00:34,649
+<font color="#E5E5E5">someone called it a club-footed vomit</font>
+
+15
+00:00:34,649 --> 00:00:37,579
+launch of teen horror cliches<font color="#CCCCCC"> it was bad</font>
+
+16
+00:00:37,579 --> 00:00:41,940
+really<font color="#E5E5E5"> bad</font><font color="#CCCCCC"> and it got us wondering</font><font color="#E5E5E5"> what</font>
+
+17
+00:00:41,940 --> 00:00:44,219
+are the best<font color="#CCCCCC"> and worst sequels</font><font color="#E5E5E5"> of the</font>
+
+18
+00:00:44,219 --> 00:00:52,170
+last 20<font color="#CCCCCC"> years so anytime</font><font color="#E5E5E5"> you google</font>
+
+19
+00:00:52,170 --> 00:00:53,879
+search<font color="#CCCCCC"> a film you'll immediately</font><font color="#E5E5E5"> be</font>
+
+20
+00:00:53,879 --> 00:00:57,300
+presented with<font color="#E5E5E5"> its Metacritic rating you</font>
+
+21
+00:00:57,300 --> 00:00:59,100
+have<font color="#E5E5E5"> all these movie critics all around</font>
+
+22
+00:00:59,100 --> 00:01:00,989
+the United States<font color="#E5E5E5"> and they all use these</font>
+
+23
+00:01:00,989 --> 00:01:04,040
+<font color="#E5E5E5">different systems</font><font color="#CCCCCC"> to review</font><font color="#E5E5E5"> movies</font>
+
+24
+00:01:04,040 --> 00:01:06,570
+<font color="#E5E5E5">Metacritic normalizes these rankings on</font>
+
+25
+00:01:06,570 --> 00:01:09,060
+a 1<font color="#E5E5E5"> to 100 scale putting more weight on</font>
+
+26
+00:01:09,060 --> 00:01:11,790
+critics with more clout<font color="#CCCCCC"> Zachary my</font>
+
+27
+00:01:11,790 --> 00:01:13,970
+colleague here<font color="#E5E5E5"> was given</font><font color="#CCCCCC"> a dataset of</font>
+
+28
+00:01:13,970 --> 00:01:16,470
+<font color="#E5E5E5">13,000 films</font><font color="#CCCCCC"> for Metacritic and found</font>
+
+29
+00:01:16,470 --> 00:01:19,619
+every movie with a sequel since 1996
+
+30
+00:01:19,619 --> 00:01:23,100
+that's 532 films total we wanted to know
+
+31
+00:01:23,100 --> 00:01:25,650
+like<font color="#CCCCCC"> what are the movies that did really</font>
+
+32
+00:01:25,650 --> 00:01:27,630
+really really<font color="#E5E5E5"> well the first time around</font>
+
+33
+00:01:27,630 --> 00:01:30,180
+<font color="#E5E5E5">and then just totally tanked</font><font color="#CCCCCC"> the second</font>
+
+34
+00:01:30,180 --> 00:01:32,130
+time around<font color="#CCCCCC"> in other words the biggest</font>
+
+35
+00:01:32,130 --> 00:01:35,310
+disappointments that's where films like
+
+36
+00:01:35,310 --> 00:01:37,320
+Book of Shadows Blair Witch<font color="#E5E5E5"> 2 comes in</font>
+
+37
+00:01:37,320 --> 00:01:41,900
+so the original got a score<font color="#CCCCCC"> of 81 points</font>
+
+38
+00:01:45,570 --> 00:01:48,149
+the sequel got a score 15 points<font color="#CCCCCC"> that's</font>
+
+39
+00:01:48,149 --> 00:01:51,420
+66 points<font color="#E5E5E5"> less or take Crouching Tiger</font>
+
+40
+00:01:51,420 --> 00:01:52,350
+Hidden<font color="#E5E5E5"> Dragon</font>
+
+41
+00:01:52,350 --> 00:01:54,060
+the first Mandarin language<font color="#E5E5E5"> film</font>
+
+42
+00:01:54,060 --> 00:01:56,670
+nominated<font color="#E5E5E5"> for Best Picture it went on</font><font color="#CCCCCC"> to</font>
+
+43
+00:01:56,670 --> 00:01:59,520
+win Best Foreign<font color="#CCCCCC"> Language Film</font><font color="#E5E5E5"> well</font><font color="#CCCCCC"> 16</font>
+
+44
+00:01:59,520 --> 00:02:01,619
+years later<font color="#CCCCCC"> Netflix released a sequel</font><font color="#E5E5E5"> in</font>
+
+45
+00:02:01,619 --> 00:02:05,509
+English<font color="#E5E5E5"> the original got a score</font><font color="#CCCCCC"> of 93</font>
+
+46
+00:02:05,509 --> 00:02:08,068
+<font color="#CCCCCC">the sequel</font><font color="#E5E5E5"> so unfortunately it fared</font>
+
+47
+00:02:08,068 --> 00:02:09,788
+<font color="#E5E5E5">much worse</font>
+
+48
+00:02:09,788 --> 00:02:13,540
+<font color="#E5E5E5">too much blazing flame</font><font color="#CCCCCC"> it got 47</font><font color="#E5E5E5"> so on</font>
+
+49
+00:02:13,540 --> 00:02:16,390
+the flip side you have films that did
+
+50
+00:02:16,390 --> 00:02:18,760
+really poorly the first time around<font color="#E5E5E5"> and</font>
+
+51
+00:02:18,760 --> 00:02:21,519
+<font color="#E5E5E5">somehow miraculously</font><font color="#CCCCCC"> did better</font><font color="#E5E5E5"> when</font>
+
+52
+00:02:21,519 --> 00:02:23,140
+<font color="#E5E5E5">they were made into a sequel</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> is</font>
+
+53
+00:02:23,140 --> 00:02:25,480
+like a really<font color="#CCCCCC"> small contingent of all</font>
+
+54
+00:02:25,480 --> 00:02:28,299
+the sequels we looked at less than<font color="#E5E5E5"> 25 of</font>
+
+55
+00:02:28,299 --> 00:02:32,470
+the<font color="#CCCCCC"> 532 films were improvements outside</font>
+
+56
+00:02:32,470 --> 00:02:34,510
+of movies<font color="#CCCCCC"> like The</font><font color="#E5E5E5"> Dark Knight in Kill</font>
+
+57
+00:02:34,510 --> 00:02:36,310
+Bill Vol<font color="#CCCCCC"> - most of</font><font color="#E5E5E5"> these movies were</font>
+
+58
+00:02:36,310 --> 00:02:38,109
+tremendously bad to<font color="#E5E5E5"> begin with</font>
+
+59
+00:02:38,109 --> 00:02:40,659
+like for instance<font color="#CCCCCC"> Garfield's Part 1 got</font>
+
+60
+00:02:40,659 --> 00:02:46,180
+a score of<font color="#E5E5E5"> 27 your mind to it</font><font color="#CCCCCC"> it's not</font>
+
+61
+00:02:46,180 --> 00:02:47,950
+<font color="#CCCCCC">that hard</font><font color="#E5E5E5"> to improve on</font><font color="#CCCCCC"> that like</font>
+
+62
+00:02:47,950 --> 00:02:50,409
+Garfield<font color="#E5E5E5"> part</font><font color="#CCCCCC"> 2</font><font color="#E5E5E5"> got 37 which is still</font>
+
+63
+00:02:50,409 --> 00:02:52,900
+pretty<font color="#E5E5E5"> bad</font><font color="#CCCCCC"> yeah not</font><font color="#E5E5E5"> bad on short notice</font>
+
+64
+00:02:52,900 --> 00:02:55,090
+the worst ones fall<font color="#E5E5E5"> into like one of</font>
+
+65
+00:02:55,090 --> 00:02:57,220
+three categories<font color="#E5E5E5"> it's either a horror</font>
+
+66
+00:02:57,220 --> 00:02:59,889
+film<font color="#CCCCCC"> a comedy film or an action film so</font>
+
+67
+00:02:59,889 --> 00:03:02,470
+I wanted<font color="#E5E5E5"> to see is that just a bigger</font>
+
+68
+00:03:02,470 --> 00:03:04,720
+indication of what how critics<font color="#CCCCCC"> raid</font>
+
+69
+00:03:04,720 --> 00:03:06,819
+those<font color="#E5E5E5"> movies what I did is like I looked</font>
+
+70
+00:03:06,819 --> 00:03:10,329
+at a randomized<font color="#E5E5E5"> selection of 200 films</font>
+
+71
+00:03:10,329 --> 00:03:12,400
+<font color="#E5E5E5">from every single genre</font><font color="#CCCCCC"> on Metacritic</font>
+
+72
+00:03:12,400 --> 00:03:14,709
+<font color="#CCCCCC">and then averaged out</font><font color="#E5E5E5"> the score for each</font>
+
+73
+00:03:14,709 --> 00:03:17,409
+genre<font color="#CCCCCC"> this chart reveals that the genres</font>
+
+74
+00:03:17,409 --> 00:03:19,090
+with the worst sequels also fare pretty
+
+75
+00:03:19,090 --> 00:03:21,760
+<font color="#E5E5E5">badly amongst critics in general despite</font>
+
+76
+00:03:21,760 --> 00:03:24,400
+all of<font color="#E5E5E5"> this Hollywood loves making them</font>
+
+77
+00:03:24,400 --> 00:03:26,919
+so much<font color="#CCCCCC"> so that</font><font color="#E5E5E5"> this year alone an</font>
+
+78
+00:03:26,919 --> 00:03:29,229
+unprecedented 37 sequels will be
+
+79
+00:03:29,229 --> 00:03:29,859
+released
+
+80
+00:03:29,859 --> 00:03:33,340
+the reason money the<font color="#E5E5E5"> average sequel</font>
+
+81
+00:03:33,340 --> 00:03:36,010
+makes eight times the average original
+
+82
+00:03:36,010 --> 00:03:38,199
+release that's a hundred<font color="#CCCCCC"> and sixty</font>
+
+83
+00:03:38,199 --> 00:03:40,209
+million dollars over<font color="#CCCCCC"> the twenty million</font>
+
+84
+00:03:40,209 --> 00:03:43,000
+dollar original<font color="#CCCCCC"> grown-up's</font><font color="#E5E5E5"> the Adam</font>
+
+85
+00:03:43,000 --> 00:03:45,220
+<font color="#E5E5E5">Sandler movie which was rated an abysmal</font>
+
+86
+00:03:45,220 --> 00:03:49,030
+<font color="#E5E5E5">30 points on Metacritic received</font><font color="#CCCCCC"> 270</font>
+
+87
+00:03:49,030 --> 00:03:51,549
+million dollars worldwide<font color="#CCCCCC"> its sequel</font>
+
+88
+00:03:51,549 --> 00:03:53,799
+which somehow<font color="#E5E5E5"> dropped 11 points still</font>
+
+89
+00:03:53,799 --> 00:03:57,489
+managed<font color="#CCCCCC"> 247 million dollars worldwide it</font>
+
+90
+00:03:57,489 --> 00:03:58,810
+was a box-office hit
+
+91
+00:03:58,810 --> 00:04:00,970
+audiences literally had no reason<font color="#E5E5E5"> to</font>
+
+92
+00:04:00,970 --> 00:04:03,370
+give<font color="#CCCCCC"> grownups too a chance</font><font color="#E5E5E5"> and yet they</font>
+
+93
+00:04:03,370 --> 00:04:06,909
+did<font color="#E5E5E5"> Roger Ebert famously said no movie</font>
+
+94
+00:04:06,909 --> 00:04:08,799
+executive was fired because he greenlit
+
+95
+00:04:08,799 --> 00:04:11,109
+a sequel but movie critics despair of
+
+96
+00:04:11,109 --> 00:04:12,729
+sequels as betraying a lack of
+
+97
+00:04:12,729 --> 00:04:15,790
+<font color="#CCCCCC">imagination</font><font color="#E5E5E5"> in originality</font><font color="#CCCCCC"> if you have</font>
+
+98
+00:04:15,790 --> 00:04:17,769
+any doubt about how true that is
+
+99
+00:04:17,769 --> 00:04:20,320
+give grownups to a world
+
+100
+00:04:20,320 --> 00:04:27,360
+Oh<font color="#CCCCCC"> bonus</font>
+
+101
+00:04:29,280 --> 00:00:00,000
+<font color="#E5E5E5">you</font>
+

@@ -1,0 +1,364 @@
+1
+00:00:00,000 --> 00:00:01,829
+<font color="#E5E5E5">Google has been criticized for being</font>
+
+2
+00:00:01,829 --> 00:00:04,140
+overzealous<font color="#CCCCCC"> and intrusive after it</font>
+
+3
+00:00:04,140 --> 00:00:06,210
+clamped down<font color="#CCCCCC"> on personal accounts</font>
+
+4
+00:00:06,210 --> 00:00:08,250
+clients<font color="#E5E5E5"> using its word processor app</font>
+
+5
+00:00:08,250 --> 00:00:10,200
+were locked<font color="#E5E5E5"> out of their documents after</font>
+
+6
+00:00:10,200 --> 00:00:12,870
+<font color="#E5E5E5">their files were deemed to be abusive</font>
+
+7
+00:00:12,870 --> 00:00:15,450
+<font color="#CCCCCC">the media giant has blamed a glitch for</font>
+
+8
+00:00:15,450 --> 00:00:17,160
+the problem but as Daniel Hawkins now
+
+9
+00:00:17,160 --> 00:00:19,380
+reports it<font color="#CCCCCC"> has sparked another</font><font color="#E5E5E5"> debate</font>
+
+10
+00:00:19,380 --> 00:00:23,189
+over<font color="#CCCCCC"> online privacy</font><font color="#E5E5E5"> have you ever used</font>
+
+11
+00:00:23,189 --> 00:00:26,130
+<font color="#CCCCCC">Google Docs to</font><font color="#E5E5E5"> write an</font><font color="#CCCCCC"> article a letter</font>
+
+12
+00:00:26,130 --> 00:00:29,160
+<font color="#E5E5E5">a poem perhaps if you think the files</font>
+
+13
+00:00:29,160 --> 00:00:31,890
+are<font color="#E5E5E5"> for your eyes only</font><font color="#CCCCCC"> you might be</font><font color="#E5E5E5"> very</font>
+
+14
+00:00:31,890 --> 00:00:34,920
+wrong<font color="#E5E5E5"> you're being monitored</font><font color="#CCCCCC"> and just</font>
+
+15
+00:00:34,920 --> 00:00:36,800
+while you're writing<font color="#E5E5E5"> you're suddenly</font>
+
+16
+00:00:36,800 --> 00:00:39,870
+<font color="#E5E5E5">locked out of</font><font color="#CCCCCC"> your own documents well</font>
+
+17
+00:00:39,870 --> 00:00:41,309
+that's exactly<font color="#E5E5E5"> what happened to one</font>
+
+18
+00:00:41,309 --> 00:00:42,620
+reporter with National Geographic
+
+19
+00:00:42,620 --> 00:00:47,760
+<font color="#CCCCCC">writing a story on wildlife crime has</font>
+
+20
+00:00:47,760 --> 00:00:50,010
+anyone had Google Docs lock you out<font color="#CCCCCC"> of a</font>
+
+21
+00:00:50,010 --> 00:00:52,230
+<font color="#E5E5E5">document before my draft of the story</font>
+
+22
+00:00:52,230 --> 00:00:54,660
+about<font color="#E5E5E5"> wildlife crime was just frozen for</font>
+
+23
+00:00:54,660 --> 00:00:57,239
+violating their Terms of Service well
+
+24
+00:00:57,239 --> 00:00:58,500
+she's a journalist
+
+25
+00:00:58,500 --> 00:01:00,300
+<font color="#E5E5E5">maybe</font><font color="#CCCCCC"> we're all considered political</font>
+
+26
+00:01:00,300 --> 00:01:02,600
+actors by<font color="#E5E5E5"> Google now but why a</font>
+
+27
+00:01:02,600 --> 00:01:05,040
+computational<font color="#CCCCCC"> biologists in Plant</font>
+
+28
+00:01:05,040 --> 00:01:08,340
+<font color="#CCCCCC">Pathology</font><font color="#E5E5E5"> specializing in potato disease</font>
+
+29
+00:01:08,340 --> 00:01:11,220
+another<font color="#E5E5E5"> unwitting victim was the founder</font>
+
+30
+00:01:11,220 --> 00:01:13,320
+<font color="#E5E5E5">of new york-based socialist magazine the</font>
+
+31
+00:01:13,320 --> 00:01:15,450
+<font color="#E5E5E5">Jacobin locked</font><font color="#CCCCCC"> up while editing</font><font color="#E5E5E5"> an</font>
+
+32
+00:01:15,450 --> 00:01:18,119
+<font color="#CCCCCC">article on European</font><font color="#E5E5E5"> post socialist</font>
+
+33
+00:01:18,119 --> 00:01:20,130
+parties<font color="#E5E5E5"> Google thought that was</font>
+
+34
+00:01:20,130 --> 00:01:22,080
+inappropriate<font color="#CCCCCC"> but have no fear</font>
+
+35
+00:01:22,080 --> 00:01:24,659
+<font color="#CCCCCC">Google is here the company of</font><font color="#E5E5E5"> course</font>
+
+36
+00:01:24,659 --> 00:01:26,970
+<font color="#E5E5E5">issued a rapid apology and explained</font>
+
+37
+00:01:26,970 --> 00:01:31,409
+what happened<font color="#CCCCCC"> it was all a</font><font color="#E5E5E5"> mistake</font><font color="#CCCCCC"> will</font>
+
+38
+00:01:31,409 --> 00:01:33,630
+<font color="#E5E5E5">mistakenly blocked</font><font color="#CCCCCC"> access to some of our</font>
+
+39
+00:01:33,630 --> 00:01:36,420
+users<font color="#E5E5E5"> files including Google Docs this</font>
+
+40
+00:01:36,420 --> 00:01:38,189
+was due to<font color="#E5E5E5"> short-lived bug that</font>
+
+41
+00:01:38,189 --> 00:01:39,960
+incorrectly flagged some files as
+
+42
+00:01:39,960 --> 00:01:43,020
+violating our Terms of Service<font color="#E5E5E5"> the</font>
+
+43
+00:01:43,020 --> 00:01:44,939
+process apparently doesn't involve any
+
+44
+00:01:44,939 --> 00:01:47,369
+real human intervention<font color="#E5E5E5"> so don't worry</font>
+
+45
+00:01:47,369 --> 00:01:49,590
+<font color="#E5E5E5">robots will decide what's appropriate</font>
+
+46
+00:01:49,590 --> 00:01:54,570
+<font color="#E5E5E5">and what's</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> I like to use Google Docs</font>
+
+47
+00:01:54,570 --> 00:01:56,549
+for<font color="#E5E5E5"> drafts because</font><font color="#CCCCCC"> my editor and</font><font color="#E5E5E5"> I can</font>
+
+48
+00:01:56,549 --> 00:01:58,890
+work<font color="#E5E5E5"> together in</font><font color="#CCCCCC"> real-time but this</font><font color="#E5E5E5"> kind</font>
+
+49
+00:01:58,890 --> 00:02:01,439
+of monitoring<font color="#E5E5E5"> is creepy but if all that</font>
+
+50
+00:02:01,439 --> 00:02:03,899
+worries you don't make a fuss<font color="#E5E5E5"> after all</font>
+
+51
+00:02:03,899 --> 00:02:06,479
+you carefully read<font color="#E5E5E5"> and agreed to</font><font color="#CCCCCC"> those</font>
+
+52
+00:02:06,479 --> 00:02:08,910
+terms<font color="#CCCCCC"> and</font><font color="#E5E5E5"> conditions which say your work</font>
+
+53
+00:02:08,910 --> 00:02:13,290
+will<font color="#E5E5E5"> be monitored didn't you that was</font>
+
+54
+00:02:13,290 --> 00:02:13,940
+that<font color="#E5E5E5"> Daniel</font>
+
+55
+00:02:13,940 --> 00:02:15,680
+<font color="#CCCCCC">walking's reporting well our company has</font>
+
+56
+00:02:15,680 --> 00:02:17,510
+also experienced problems with Google
+
+57
+00:02:17,510 --> 00:02:20,270
+<font color="#E5E5E5">Docs we have asked Google to comment on</font>
+
+58
+00:02:20,270 --> 00:02:21,950
+this<font color="#CCCCCC"> story and as yet we're still</font>
+
+59
+00:02:21,950 --> 00:02:24,110
+waiting for a reply<font color="#E5E5E5"> meanwhile</font><font color="#CCCCCC"> Mario</font>
+
+60
+00:02:24,110 --> 00:02:26,330
+<font color="#CCCCCC">bergamini from the shoutout UK news</font>
+
+61
+00:02:26,330 --> 00:02:27,950
+website says that<font color="#CCCCCC"> people</font><font color="#E5E5E5"> should</font><font color="#CCCCCC"> be</font>
+
+62
+00:02:27,950 --> 00:02:29,930
+<font color="#E5E5E5">concerned</font><font color="#CCCCCC"> by how much their online</font>
+
+63
+00:02:29,930 --> 00:02:34,190
+<font color="#E5E5E5">content is being monitored companies</font>
+
+64
+00:02:34,190 --> 00:02:35,660
+have always turned<font color="#CCCCCC"> around and said that</font>
+
+65
+00:02:35,660 --> 00:02:37,340
+that<font color="#CCCCCC"> you know it's your</font><font color="#E5E5E5"> fault as the</font>
+
+66
+00:02:37,340 --> 00:02:39,050
+consumer<font color="#CCCCCC"> you know we offered your</font>
+
+67
+00:02:39,050 --> 00:02:40,640
+product<font color="#E5E5E5"> these</font><font color="#CCCCCC"> are the terms and</font>
+
+68
+00:02:40,640 --> 00:02:42,710
+conditions and and to one extent I<font color="#CCCCCC"> guess</font>
+
+69
+00:02:42,710 --> 00:02:45,470
+<font color="#E5E5E5">yes we should be more wary</font><font color="#CCCCCC"> we should be</font>
+
+70
+00:02:45,470 --> 00:02:48,530
+more aware<font color="#E5E5E5"> of of what we're signing up</font>
+
+71
+00:02:48,530 --> 00:02:50,450
+to however<font color="#E5E5E5"> I would say that</font><font color="#CCCCCC"> that's</font><font color="#E5E5E5"> a</font>
+
+72
+00:02:50,450 --> 00:02:52,670
+that's a<font color="#CCCCCC"> cement Alec that we need to</font>
+
+73
+00:02:52,670 --> 00:02:54,050
+change because<font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of these companies</font>
+
+74
+00:02:54,050 --> 00:02:55,580
+<font color="#CCCCCC">make their terms and conditions so</font>
+
+75
+00:02:55,580 --> 00:02:57,380
+ridiculously long that<font color="#E5E5E5"> most people won't</font>
+
+76
+00:02:57,380 --> 00:02:59,810
+sit there and read them and<font color="#CCCCCC"> I think</font>
+
+77
+00:02:59,810 --> 00:03:01,310
+that's something<font color="#E5E5E5"> that they do on</font><font color="#CCCCCC"> purpose</font>
+
+78
+00:03:01,310 --> 00:03:03,230
+and<font color="#E5E5E5"> companies need</font><font color="#CCCCCC"> to be clear about</font>
+
+79
+00:03:03,230 --> 00:03:05,480
+<font color="#E5E5E5">what we wore they're actually offering</font>
+
+80
+00:03:05,480 --> 00:03:07,280
+people<font color="#E5E5E5"> I</font><font color="#CCCCCC"> think that's something that</font><font color="#E5E5E5"> has</font>
+
+81
+00:03:07,280 --> 00:03:09,140
+been<font color="#E5E5E5"> skirted around for way too</font><font color="#CCCCCC"> long we</font>
+
+82
+00:03:09,140 --> 00:03:10,340
+<font color="#E5E5E5">need to be clear as to what we're</font>
+
+83
+00:03:10,340 --> 00:03:11,660
+<font color="#E5E5E5">signing up and that's where governments</font>
+
+84
+00:03:11,660 --> 00:03:13,760
+<font color="#E5E5E5">need to step in and say you need to</font><font color="#CCCCCC"> make</font>
+
+85
+00:03:13,760 --> 00:03:15,110
+your terms<font color="#E5E5E5"> and conditions a lot clearer</font>
+
+86
+00:03:15,110 --> 00:03:16,670
+and<font color="#E5E5E5"> you</font><font color="#CCCCCC"> could tell people</font><font color="#E5E5E5"> what they're</font>
+
+87
+00:03:16,670 --> 00:03:17,930
+actually<font color="#E5E5E5"> signing up to because at the</font>
+
+88
+00:03:17,930 --> 00:03:19,400
+moment<font color="#E5E5E5"> a lot of people I think</font><font color="#CCCCCC"> don't</font>
+
+89
+00:03:19,400 --> 00:03:21,470
+actually know and don't realize how much
+
+90
+00:03:21,470 --> 00:03:22,910
+<font color="#CCCCCC">of their</font><font color="#E5E5E5"> privacy they're actually giving</font>
+
+91
+00:03:22,910 --> 00:00:00,000
+<font color="#E5E5E5">away</font>
+

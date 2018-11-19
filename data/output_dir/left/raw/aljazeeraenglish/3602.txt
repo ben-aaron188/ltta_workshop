@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:03,389
+it is the stuff of<font color="#CCCCCC"> science fiction or at</font>
+
+2
+00:00:03,389 --> 00:00:06,569
+least it used to be a computer<font color="#CCCCCC"> able</font><font color="#E5E5E5"> to</font>
+
+3
+00:00:06,569 --> 00:00:08,880
+master<font color="#CCCCCC"> an</font><font color="#E5E5E5"> ancient Chinese board game</font>
+
+4
+00:00:08,880 --> 00:00:11,700
+without human help<font color="#E5E5E5"> to win every time and</font>
+
+5
+00:00:11,700 --> 00:00:15,389
+a truck<font color="#E5E5E5"> that drives</font><font color="#CCCCCC"> itself</font><font color="#E5E5E5"> computers and</font>
+
+6
+00:00:15,389 --> 00:00:17,430
+vehicles powered by artificial
+
+7
+00:00:17,430 --> 00:00:20,310
+<font color="#E5E5E5">intelligence</font><font color="#CCCCCC"> now leading</font><font color="#E5E5E5"> academics are</font>
+
+8
+00:00:20,310 --> 00:00:22,949
+warning not<font color="#E5E5E5"> to</font><font color="#CCCCCC"> put the brakes on AI</font><font color="#E5E5E5"> but</font>
+
+9
+00:00:22,949 --> 00:00:25,260
+that the technology is increasingly
+
+10
+00:00:25,260 --> 00:00:27,660
+being used<font color="#E5E5E5"> for</font><font color="#CCCCCC"> malicious purposes</font><font color="#E5E5E5"> for</font>
+
+11
+00:00:27,660 --> 00:00:30,539
+<font color="#E5E5E5">political or financial gain to</font><font color="#CCCCCC"> extort</font>
+
+12
+00:00:30,539 --> 00:00:34,340
+<font color="#CCCCCC">and to gain influence</font><font color="#E5E5E5"> cyberattacks</font><font color="#CCCCCC"> our</font>
+
+13
+00:00:34,340 --> 00:00:37,170
+infrastructure<font color="#E5E5E5"> as we've seen in Ukraine</font>
+
+14
+00:00:37,170 --> 00:00:39,930
+<font color="#E5E5E5">and on attacks on computers</font><font color="#CCCCCC"> and</font>
+
+15
+00:00:39,930 --> 00:00:41,940
+hospitals<font color="#E5E5E5"> manipulating people for</font>
+
+16
+00:00:41,940 --> 00:00:45,030
+example<font color="#CCCCCC"> we've seen</font><font color="#E5E5E5"> some attempts to</font>
+
+17
+00:00:45,030 --> 00:00:47,430
+manipulate<font color="#E5E5E5"> and political elections in</font>
+
+18
+00:00:47,430 --> 00:00:50,010
+the US<font color="#CCCCCC"> and in Europe recently</font><font color="#E5E5E5"> now those</font>
+
+19
+00:00:50,010 --> 00:00:52,550
+<font color="#E5E5E5">have been varying degrees of</font>
+
+20
+00:00:52,550 --> 00:00:54,780
+<font color="#E5E5E5">effectiveness with the techniques we</font>
+
+21
+00:00:54,780 --> 00:00:57,059
+<font color="#CCCCCC">have to date but artificial</font><font color="#E5E5E5"> intelligence</font>
+
+22
+00:00:57,059 --> 00:00:59,129
+will allow new types of<font color="#CCCCCC"> cyber</font><font color="#E5E5E5"> attacks</font>
+
+23
+00:00:59,129 --> 00:01:01,440
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> might be more capable than what</font>
+
+24
+00:01:01,440 --> 00:01:07,229
+<font color="#E5E5E5">we've</font><font color="#CCCCCC"> had before from health care to</font>
+
+25
+00:01:07,229 --> 00:01:09,720
+<font color="#E5E5E5">warfare machine based thinking is</font>
+
+26
+00:01:09,720 --> 00:01:13,049
+revolutionizing the way we<font color="#E5E5E5"> live exposing</font>
+
+27
+00:01:13,049 --> 00:01:15,810
+us<font color="#CCCCCC"> to the benefits and the risks the</font>
+
+28
+00:01:15,810 --> 00:01:17,610
+robot here has been designed<font color="#CCCCCC"> to</font><font color="#E5E5E5"> pick up</font>
+
+29
+00:01:17,610 --> 00:01:19,560
+<font color="#CCCCCC">these little bricks and put them back on</font>
+
+30
+00:01:19,560 --> 00:01:21,360
+<font color="#E5E5E5">the green mat now this is just a</font>
+
+31
+00:01:21,360 --> 00:01:23,880
+laboratory<font color="#E5E5E5"> setting</font><font color="#CCCCCC"> but in five or ten</font>
+
+32
+00:01:23,880 --> 00:01:25,860
+years<font color="#CCCCCC"> time it could</font><font color="#E5E5E5"> be developed to work</font>
+
+33
+00:01:25,860 --> 00:01:28,380
+on a<font color="#CCCCCC"> construction site</font><font color="#E5E5E5"> or at a port and</font>
+
+34
+00:01:28,380 --> 00:01:29,729
+the designer<font color="#CCCCCC"> wouldn't want the</font>
+
+35
+00:01:29,729 --> 00:01:32,939
+technology<font color="#E5E5E5"> hijacked the report's authors</font>
+
+36
+00:01:32,939 --> 00:01:34,740
+are calling on governments<font color="#E5E5E5"> and the</font>
+
+37
+00:01:34,740 --> 00:01:37,590
+industry itself to do more to<font color="#CCCCCC"> protect us</font>
+
+38
+00:01:37,590 --> 00:01:38,960
+<font color="#E5E5E5">from all</font><font color="#CCCCCC"> the pitfalls</font>
+
+39
+00:01:38,960 --> 00:01:41,750
+experts<font color="#CCCCCC"> warn of the</font><font color="#E5E5E5"> serious consequences</font>
+
+40
+00:01:41,750 --> 00:01:44,340
+<font color="#CCCCCC">it's absolutely right</font><font color="#E5E5E5"> that we issue</font>
+
+41
+00:01:44,340 --> 00:01:46,020
+warnings<font color="#E5E5E5"> with AI because</font><font color="#CCCCCC"> the</font>
+
+42
+00:01:46,020 --> 00:01:47,549
+capabilities<font color="#CCCCCC"> and</font><font color="#E5E5E5"> the possibilities for</font>
+
+43
+00:01:47,549 --> 00:01:50,490
+<font color="#E5E5E5">it going wrong are absolutely</font><font color="#CCCCCC"> they could</font>
+
+44
+00:01:50,490 --> 00:01:52,530
+be absolutely<font color="#E5E5E5"> tragic</font><font color="#CCCCCC"> we need to be able</font>
+
+45
+00:01:52,530 --> 00:01:55,259
+<font color="#E5E5E5">to get to</font><font color="#CCCCCC"> grips with</font><font color="#E5E5E5"> this now</font><font color="#CCCCCC"> ai</font><font color="#E5E5E5"> is</font>
+
+46
+00:01:55,259 --> 00:01:58,799
+clearly here to stay<font color="#CCCCCC"> and staying one</font>
+
+47
+00:01:58,799 --> 00:02:00,960
+step ahead<font color="#E5E5E5"> of those</font><font color="#CCCCCC"> who want to abuse</font><font color="#E5E5E5"> it</font>
+
+48
+00:02:00,960 --> 00:02:03,329
+<font color="#E5E5E5">will be</font><font color="#CCCCCC"> a constant challenge</font>
+
+49
+00:02:03,329 --> 00:00:00,000
+<font color="#CCCCCC">Emma Heywood</font><font color="#E5E5E5"> al-jazeera Cambridge</font>
+

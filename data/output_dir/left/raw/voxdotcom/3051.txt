@@ -1,0 +1,702 @@
+1
+00:00:00,000 --> 00:00:04,380
+For some of you, the book that I’m holding may invoke some feelings of nostalgia.
+
+2
+00:00:04,380 --> 00:00:07,800
+But, for others, maybe some feelings of inadequacy.
+
+3
+00:00:07,800 --> 00:00:09,840
+These are Magic Eye stereograms.
+
+4
+00:00:09,840 --> 00:00:14,520
+They created a sensation when they came out in the 90s, and it’s easy to see why —
+
+5
+00:00:14,520 --> 00:00:19,220
+a 2D picture that creates a 3D image, if you do a certain thing with your eyeballs!?
+
+6
+00:00:19,220 --> 00:00:20,620
+ELAINE: Look there’s a space ship.
+
+7
+00:00:20,630 --> 00:00:22,830
+That is so cool!
+
+8
+00:00:22,830 --> 00:00:23,830
+MR. PITTS: WHERE IS IT!?
+
+9
+00:00:23,830 --> 00:00:27,220
+I feel like I didn’t realize back then how neat these are.
+
+10
+00:00:27,220 --> 00:00:28,220
+But I do now,
+
+11
+00:00:28,220 --> 00:00:29,420
+so let’s talk about it.
+
+12
+00:00:35,100 --> 00:00:39,039
+Stereograms can be designed to be viewed cross-eyed
+but all the ones in this video are for
+
+13
+00:00:39,039 --> 00:00:40,479
+divergent viewing.
+
+14
+00:00:40,480 --> 00:00:43,980
+That means that rather than having your eyes
+pointed at the image itself, you’re supposed
+
+15
+00:00:43,980 --> 00:00:48,660
+to over diverge your eyes, as if you’re
+looking through the image at something beyond it.
+
+16
+00:00:48,660 --> 00:00:52,539
+It’s tricky because normally the lens in
+our eyes focuses on the thing our eyes are
+
+17
+00:00:52,539 --> 00:00:56,819
+pointed at, but for these, you need to focus
+on the image while pointing your eyes at a
+
+18
+00:00:56,819 --> 00:00:58,279
+spot beyond it.
+
+19
+00:00:58,280 --> 00:01:02,820
+Some stereogram books come with a handy guide — these two dots at the top should help position
+
+20
+00:01:02,829 --> 00:01:04,170
+your eyes.
+
+21
+00:01:04,170 --> 00:01:09,039
+You want to relax your eyes until you see
+double vision, so 4 dots, but then pull it
+
+22
+00:01:09,040 --> 00:01:12,460
+back so that they overlap and you get 3 dots.
+
+23
+00:01:12,460 --> 00:01:16,360
+Then glance down and you should see the cathedral
+of Saint Basil in Moscow.
+
+24
+00:01:19,420 --> 00:01:22,960
+If you still can’t see them, there’s a
+trick you can do in Photoshop.
+
+25
+00:01:22,960 --> 00:01:26,780
+Duplicate the image and use the “difference”
+blending mode — which highlights where the
+
+26
+00:01:26,780 --> 00:01:29,430
+two images are the same — in black.
+
+27
+00:01:29,430 --> 00:01:31,810
+Then if you pull the top copy across...
+
+28
+00:01:31,810 --> 00:01:34,270
+A silhouette of the hidden image appears.
+
+29
+00:01:35,760 --> 00:01:40,740
+I’ll explain how all this works, but first,
+it helps to understand how Magic Eye emerged
+
+30
+00:01:40,740 --> 00:01:44,040
+from a long history of research on visual
+perception
+
+31
+00:01:44,040 --> 00:01:49,220
+So, our pupils are about 60mm apart — that
+means each eye gets a slightly different picture
+
+32
+00:01:49,220 --> 00:01:51,300
+projected onto its retina.
+
+33
+00:01:51,310 --> 00:01:52,659
+WAYNE: Camera 1.
+
+34
+00:01:52,660 --> 00:01:53,320
+Camera 2.
+
+35
+00:01:53,320 --> 00:01:54,320
+Camera 1.
+
+36
+00:01:54,320 --> 00:01:55,080
+Camera 2.
+
+37
+00:01:55,080 --> 00:01:58,979
+The reason we don’t have constant double
+vision from these two different pictures is
+
+38
+00:01:58,979 --> 00:02:01,919
+that the brain immediately combines them into one.
+
+39
+00:02:01,920 --> 00:02:06,340
+And in doing so, it uses the differences in
+the 2 pictures to add depth to
+
+40
+00:02:06,340 --> 00:02:08,160
+our visual perception.
+
+41
+00:02:08,160 --> 00:02:12,690
+This is stereopsis, or 3D vision,
+and it was first described by an English inventor
+
+42
+00:02:12,690 --> 00:02:15,800
+in the 1830s, Charles Wheatstone.
+
+43
+00:02:15,800 --> 00:02:20,400
+It took scientists a while to realize that
+having two eyes gives us depth information,
+
+44
+00:02:20,400 --> 00:02:23,460
+because it’s not the only depth cue that we have.
+
+45
+00:02:23,470 --> 00:02:27,370
+Shut one eye and it’s probably tough to
+thread a needle but the world doesn’t become
+
+46
+00:02:27,370 --> 00:02:29,230
+completely flat.
+
+47
+00:02:29,230 --> 00:02:33,620
+Wheatstone revealed stereopsis with a device
+that could display a slightly different image
+
+48
+00:02:33,620 --> 00:02:38,620
+to each eye, simulating how each eye would
+take in a real life 3D object,
+
+49
+00:02:38,620 --> 00:02:40,360
+but with flat images.
+
+50
+00:02:40,360 --> 00:02:43,700
+And it successfully tricked the brain into
+perceiving depth.
+
+51
+00:02:43,700 --> 00:02:45,760
+This was the first stereoscope.
+
+52
+00:02:45,760 --> 00:02:49,940
+After the invention of photography, a Scottish
+physicist named David Brewster developed a
+
+53
+00:02:49,940 --> 00:02:54,780
+handheld stereoscope and a version of it was
+displayed at the Great Exhibition in London
+
+54
+00:02:54,780 --> 00:02:56,180
+in 1851.
+
+55
+00:02:56,180 --> 00:03:01,380
+Queen Victoria was reportedly delighted by
+it and before long it was a super common household
+
+56
+00:03:01,380 --> 00:03:04,090
+item through the last half of the 19th century.
+
+57
+00:03:04,090 --> 00:03:08,860
+The dual photos were made with stereo cameras,
+which have two lenses spaced eye-distance
+
+58
+00:03:08,860 --> 00:03:12,940
+apart, and they were used to document all
+sorts of historical events.
+
+59
+00:03:12,940 --> 00:03:17,000
+Stereo cameras eventually went out of style
+but you might recognize this more modern version
+
+60
+00:03:17,010 --> 00:03:18,700
+of a stereoscope.
+
+61
+00:03:18,700 --> 00:03:24,120
+And that same principle of creating a 3D image
+by showing each eye a slightly different picture
+
+62
+00:03:24,120 --> 00:03:28,690
+continues with 3D glasses and virtual reality
+headsets.
+
+63
+00:03:28,690 --> 00:03:30,530
+But it’s not all for amusement.
+
+64
+00:03:30,530 --> 00:03:35,260
+Stereoscopy has also been used for all sorts of aerial imaging applications.
+
+65
+00:03:35,270 --> 00:03:39,620
+British photo interpreters in World War 2
+used overlapping images taken from airplanes
+
+66
+00:03:39,620 --> 00:03:42,340
+to detect Nazi military assets.
+
+67
+00:03:42,340 --> 00:03:48,030
+This ability of stereoscopes to thwart camouflage
+by making objects pop out of seemingly flat
+
+68
+00:03:48,030 --> 00:03:53,280
+aerial images inspired the development of
+the random dot stereogram — that’s the kind
+
+69
+00:03:53,280 --> 00:03:55,010
+with a hidden 3D image.
+
+70
+00:03:55,010 --> 00:03:59,330
+In 1960, a leading vision researcher named Bela Julesz
+
+71
+00:03:59,330 --> 00:04:02,840
+created a computer-generated random-dot stereogram.
+
+72
+00:04:02,840 --> 00:04:05,140
+He started with a grid of random dots and
+
+73
+00:04:05,140 --> 00:04:11,080
+duplicated it, but in the copy, he shifted
+a square patch of the dots slightly to the left,
+
+74
+00:04:11,080 --> 00:04:14,180
+filling in the leftover space with
+other random dots.
+
+75
+00:04:14,180 --> 00:04:18,560
+If you look at these images through a stereoscope, or if you’ve trained your eyes enough to
+
+76
+00:04:18,560 --> 00:04:23,920
+free-fuse the images by pointing one eye
+at each one, you’ll see the square pop out
+
+77
+00:04:23,930 --> 00:04:25,710
+from the random dots.
+
+78
+00:04:25,710 --> 00:04:30,310
+With this experiment, Julesz showed that the
+brain could detect depth even without any
+
+79
+00:04:30,310 --> 00:04:33,260
+recognizable objects in the images.
+
+80
+00:04:33,260 --> 00:04:38,380
+What’s different about the Magic Eye-type
+of pictures, also known as “autostereograms”
+
+81
+00:04:38,380 --> 00:04:41,040
+is that you don’t need any special device
+to view them because
+
+82
+00:04:41,040 --> 00:04:43,200
+it’s one image instead of two.
+
+83
+00:04:43,200 --> 00:04:48,820
+Instead of two different pictures, autostereograms
+repeat the images within one picture.
+
+84
+00:04:48,840 --> 00:04:53,230
+To understand how these work, let’s first
+look at a simpler type of autostereogram.
+
+85
+00:04:53,230 --> 00:04:55,500
+This is a so-called “wallpaper stereogram.”
+
+86
+00:04:55,500 --> 00:04:57,080
+It doesn’t have a hidden image.
+
+87
+00:04:57,090 --> 00:05:00,980
+Instead, it just has repeating patterns that
+appear at different levels of depth when you
+
+88
+00:05:00,980 --> 00:05:02,840
+diverge your eyes.
+
+89
+00:05:02,840 --> 00:05:05,860
+So relax your eyes as though you’re looking
+through the screen and you should see the
+
+90
+00:05:05,860 --> 00:05:08,510
+airplanes fall back with the rest of the grid.
+
+91
+00:05:08,510 --> 00:05:14,020
+The dinosaurs, which are repeated at slightly closer intervals, should appear in a plane
+
+92
+00:05:14,020 --> 00:05:19,780
+nearer to you and the cakes, repeated at even shorter intervals, should be even nearer.
+
+93
+00:05:19,780 --> 00:05:23,960
+You should also see one more of each icon
+than there really is — there are only 6 cakes
+
+94
+00:05:23,960 --> 00:05:26,460
+in the image but you’re seeing 7.
+
+95
+00:05:26,460 --> 00:05:30,940
+And all of the icons should appear to be slightly bigger than they really are.
+
+96
+00:05:30,940 --> 00:05:32,480
+So why is this happening?
+
+97
+00:05:32,480 --> 00:05:37,380
+This diagram shows the view from above your
+head and these dots represent icons on a simple
+
+98
+00:05:37,389 --> 00:05:40,170
+autostereogram like the one i just showed
+you.
+
+99
+00:05:40,170 --> 00:05:44,620
+When you let your eyes diverge, instead of
+fixing them on one of the icons, each eye
+
+100
+00:05:44,620 --> 00:05:46,660
+is seeing its own icon.
+
+101
+00:05:46,660 --> 00:05:50,220
+Because your brain is used to turning two
+similar pictures into one — it assumes the
+
+102
+00:05:50,220 --> 00:05:55,260
+two icons are actually one icon that’s further back and larger, rather than
+
+103
+00:05:55,260 --> 00:05:57,260
+two that are closer.
+
+104
+00:05:57,260 --> 00:06:01,780
+This illusion happens across the image, with
+every pair of repeated icons being wrongly
+
+105
+00:06:01,780 --> 00:06:03,750
+interpreted as one.
+
+106
+00:06:03,750 --> 00:06:09,640
+The right-most and left-most icons don't have pairs on their other side so you end up with 7 —
+
+107
+00:06:09,640 --> 00:06:13,280
+5 illusory icons plus the edge ones.
+
+108
+00:06:13,280 --> 00:06:17,480
+Pairs that are repeated at closer intervals,
+like the cakes were in the previous image,
+
+109
+00:06:17,480 --> 00:06:19,160
+appear nearer to you.
+
+110
+00:06:19,170 --> 00:06:23,330
+So it’s the interval of repetition that
+can be manipulated to adjust depth.
+
+111
+00:06:23,330 --> 00:06:28,061
+And if we go from icons to something smaller,
+you can start to see how they build a 3D image
+
+112
+00:06:28,061 --> 00:06:30,900
+that can be easily camouflaged with noise.
+
+113
+00:06:30,900 --> 00:06:34,930
+You can see that in this stereogram we made
+using letters instead of icons.
+
+114
+00:06:34,930 --> 00:06:40,370
+If you diverge your eyes, you should see some
+of these words pop out to reveal a message.
+
+115
+00:06:40,370 --> 00:06:44,770
+The two asterisks are there as a guide — you should see 3 of them, and then slowly bring
+
+116
+00:06:44,770 --> 00:06:46,400
+your eyes down.
+
+117
+00:06:46,400 --> 00:06:52,320
+What’s happening is that the regular repetition interval in this image is 16 characters, including spaces.
+
+118
+00:06:52,320 --> 00:06:56,860
+But in this interval, we removed a letter,
+bringing this pair slightly closer together
+
+119
+00:06:56,860 --> 00:06:58,389
+than all the other pairs.
+
+120
+00:06:58,389 --> 00:07:03,330
+So as your brain fuses that pair, the
+resulting image appears closer to you than
+
+121
+00:07:03,330 --> 00:07:04,460
+the rest.
+
+122
+00:07:04,460 --> 00:07:09,199
+Autosterograms start with a base pattern that repeats across the image but with select dots
+
+123
+00:07:09,199 --> 00:07:14,150
+or pixels shifted to vary the depth and compose the 3D figure.
+
+124
+00:07:14,150 --> 00:07:18,550
+The first random-dot autostereograms were
+made by hand in the 1970s.
+
+125
+00:07:18,550 --> 00:07:23,800
+This one by a Japanese graphic designer shows
+an array of hidden squares and this one by
+
+126
+00:07:23,800 --> 00:07:26,510
+a Swiss painter has overlapping rectangles.
+
+127
+00:07:26,510 --> 00:07:31,419
+But by the 1980s, vision researcher Christopher
+Tyler and programmer Maureen Clark had come
+
+128
+00:07:31,419 --> 00:07:36,710
+up with an algorithm that could embed more
+complicated depth images into a random-dot
+
+129
+00:07:36,710 --> 00:07:38,570
+autostereogram.
+
+130
+00:07:38,570 --> 00:07:42,640
+Using the red dots as a guide, you should
+see a 3D surface pop out that’s much more
+
+131
+00:07:42,640 --> 00:07:45,920
+complicated than a wallpaper or a simple rectangle.
+
+132
+00:07:45,920 --> 00:07:50,670
+The algorithms that produce these images work from a depth map — that's a black and white image
+
+133
+00:07:50,670 --> 00:07:55,070
+that tells the program to make the repetition interval shorter for the dots that make
+
+134
+00:07:55,070 --> 00:07:58,370
+up the lighter, and nearer, parts of the image.
+
+135
+00:07:58,370 --> 00:08:02,300
+In the final product you can’t tell which
+dots have been shifted or how much,
+
+136
+00:08:02,300 --> 00:08:06,440
+but if you go back to that Photoshop trick
+and scan through the image — you can see how
+
+137
+00:08:06,440 --> 00:08:09,700
+the nearest parts of the shark repeat at closer intervals
+
+138
+00:08:09,720 --> 00:08:12,140
+than the most distant parts of the shark.
+
+139
+00:08:12,140 --> 00:08:14,760
+Everything in the base image repeats at the
+same interval,
+
+140
+00:08:14,760 --> 00:08:16,940
+except the dots that make up the shark.
+
+141
+00:08:16,940 --> 00:08:21,460
+In the 90s, artist Cheri Smith and engineer
+Tom Baccei developed their own method,
+
+142
+00:08:21,460 --> 00:08:24,660
+using bright colorful patterns as their base.
+
+143
+00:08:24,669 --> 00:08:29,569
+They branded them as “Magic Eye” and published
+the first of many books in 1993.
+
+144
+00:08:29,569 --> 00:08:31,320
+After that, they were everywhere.
+
+145
+00:08:31,320 --> 00:08:33,000
+“Hey can you see it?
+
+146
+00:08:33,000 --> 00:08:34,360
+You gotta see it.
+
+147
+00:08:34,360 --> 00:08:37,380
+You really gotta see it, come on give it a
+try”
+
+148
+00:08:37,380 --> 00:08:42,520
+Magic Eye put out VHS tapes that included
+animated stereograms; they sold posters;
+
+149
+00:08:42,520 --> 00:08:44,740
+they were printed in newspapers.
+
+150
+00:08:44,740 --> 00:08:46,960
+And some people...got left behind.
+
+151
+00:08:46,960 --> 00:08:50,020
+“I’ve been staring at this thing for a
+week now, from opening to closing,
+
+152
+00:08:50,020 --> 00:08:51,740
+and I can't see a gooddamn thing!”
+
+153
+00:08:51,740 --> 00:08:54,040
+If you can’t see them, it may be that you
+
+154
+00:08:54,050 --> 00:08:57,110
+have some visual impairment that affects your
+stereo vision.
+
+155
+00:08:57,110 --> 00:09:02,080
+But for most of us, learning to diverge your
+eyes just takes a little bit of practice.
+
+156
+00:09:02,080 --> 00:09:02,940
+“Today’s my day.
+
+157
+00:09:02,940 --> 00:09:05,820
+I brought a lunch and a soda...
+and I’m not going to leave until I see this
+
+158
+00:09:05,830 --> 00:00:00,000
+sailboat everyone keeps talking about.”
+

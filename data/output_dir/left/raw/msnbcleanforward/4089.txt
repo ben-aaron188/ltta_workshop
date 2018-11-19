@@ -1,0 +1,648 @@
+1
+00:00:00,030 --> 00:00:01,979
+chief<font color="#E5E5E5"> operating officer of</font><font color="#CCCCCC"> facebook</font>
+
+2
+00:00:01,979 --> 00:00:04,200
+<font color="#E5E5E5">Sandberg speaking out this morning to</font>
+
+3
+00:00:04,200 --> 00:00:06,899
+<font color="#E5E5E5">NBC</font><font color="#CCCCCC"> News she sat down</font><font color="#E5E5E5"> with our</font><font color="#CCCCCC"> colleague</font>
+
+4
+00:00:06,899 --> 00:00:08,460
+Savannah Guthrie at the Today Show and
+
+5
+00:00:08,460 --> 00:00:11,099
+tried to<font color="#E5E5E5"> explain why exactly it took the</font>
+
+6
+00:00:11,099 --> 00:00:13,110
+<font color="#E5E5E5">company more than two</font><font color="#CCCCCC"> years to address</font>
+
+7
+00:00:13,110 --> 00:00:15,059
+the data<font color="#E5E5E5"> breach by Cambridge analytic</font>
+
+8
+00:00:15,059 --> 00:00:16,379
+<font color="#CCCCCC">and I want him before we go to it I want</font>
+
+9
+00:00:16,379 --> 00:00:19,020
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> remind</font><font color="#CCCCCC"> you it was</font><font color="#E5E5E5"> not Facebook that</font>
+
+10
+00:00:19,020 --> 00:00:19,680
+came<font color="#CCCCCC"> forward</font>
+
+11
+00:00:19,680 --> 00:00:22,170
+it was whistleblowers and journalists
+
+12
+00:00:22,170 --> 00:00:24,630
+<font color="#E5E5E5">that alerted the</font><font color="#CCCCCC"> world to a problem that</font>
+
+13
+00:00:24,630 --> 00:00:27,900
+is<font color="#E5E5E5"> several years old</font><font color="#CCCCCC"> listen let's talk</font>
+
+14
+00:00:27,900 --> 00:00:30,300
+<font color="#CCCCCC">about Cambridge analytic oh this first</font>
+
+15
+00:00:30,300 --> 00:00:32,308
+came to<font color="#E5E5E5"> Facebook's attention in December</font>
+
+16
+00:00:32,308 --> 00:00:35,550
+2015<font color="#CCCCCC"> that's two and a half years ago</font><font color="#E5E5E5"> and</font>
+
+17
+00:00:35,550 --> 00:00:38,460
+<font color="#E5E5E5">only now it's Facebook taking these</font>
+
+18
+00:00:38,460 --> 00:00:40,230
+serious steps that you've<font color="#E5E5E5"> announced this</font>
+
+19
+00:00:40,230 --> 00:00:43,170
+week what is the<font color="#E5E5E5"> reason it took so</font><font color="#CCCCCC"> long</font>
+
+20
+00:00:43,170 --> 00:00:45,510
+you you could<font color="#E5E5E5"> have done all of this two</font>
+
+21
+00:00:45,510 --> 00:00:47,129
+and<font color="#CCCCCC"> a half years ago you were right that</font>
+
+22
+00:00:47,129 --> 00:00:48,270
+we could have<font color="#E5E5E5"> done this two and a half</font>
+
+23
+00:00:48,270 --> 00:00:50,640
+years oh why didn't<font color="#E5E5E5"> you because we</font>
+
+24
+00:00:50,640 --> 00:00:52,110
+thought<font color="#E5E5E5"> that</font><font color="#CCCCCC"> the data had been</font><font color="#E5E5E5"> deleted</font>
+
+25
+00:00:52,110 --> 00:00:54,120
+<font color="#E5E5E5">and we should have checked</font><font color="#CCCCCC"> you are right</font>
+
+26
+00:00:54,120 --> 00:00:57,750
+about<font color="#E5E5E5"> that</font><font color="#CCCCCC"> what we're doing now we</font>
+
+27
+00:00:57,750 --> 00:00:59,190
+thought it had<font color="#CCCCCC"> been deleted because</font><font color="#E5E5E5"> they</font>
+
+28
+00:00:59,190 --> 00:01:00,750
+gave us assurances and<font color="#E5E5E5"> it wasn't until</font>
+
+29
+00:01:00,750 --> 00:01:02,609
+other<font color="#CCCCCC"> people told us it wasn't</font><font color="#E5E5E5"> true but</font>
+
+30
+00:01:02,609 --> 00:01:04,619
+but why go on<font color="#E5E5E5"> but</font><font color="#CCCCCC"> you're already</font>
+
+31
+00:01:04,619 --> 00:01:07,080
+<font color="#CCCCCC">violated</font><font color="#E5E5E5"> you know in spirit if not in</font>
+
+32
+00:01:07,080 --> 00:01:09,060
+the letter<font color="#CCCCCC"> one of Facebook's</font><font color="#E5E5E5"> principles</font>
+
+33
+00:01:09,060 --> 00:01:10,920
+we had legal assurances from<font color="#E5E5E5"> them that</font>
+
+34
+00:01:10,920 --> 00:01:12,360
+they deleted what we didn't do was<font color="#CCCCCC"> the</font>
+
+35
+00:01:12,360 --> 00:01:13,860
+next step of an audit<font color="#E5E5E5"> and we're trying</font>
+
+36
+00:01:13,860 --> 00:01:15,840
+to do<font color="#E5E5E5"> that now but many have asked why</font>
+
+37
+00:01:15,840 --> 00:01:18,000
+Facebook<font color="#E5E5E5"> didn't tell users</font><font color="#CCCCCC"> their data</font>
+
+38
+00:01:18,000 --> 00:01:20,310
+was taken<font color="#E5E5E5"> since they found out back in</font>
+
+39
+00:01:20,310 --> 00:01:22,590
+<font color="#E5E5E5">2015 we thought the data had been</font>
+
+40
+00:01:22,590 --> 00:01:25,590
+<font color="#CCCCCC">deleted</font><font color="#E5E5E5"> that's why but that doesn't mean</font>
+
+41
+00:01:25,590 --> 00:01:27,630
+you don't<font color="#E5E5E5"> tell the users hey this was</font>
+
+42
+00:01:27,630 --> 00:01:29,460
+<font color="#CCCCCC">stolen</font><font color="#E5E5E5"> from</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> yes you're right and we</font>
+
+43
+00:01:29,460 --> 00:01:30,630
+<font color="#CCCCCC">should have</font><font color="#E5E5E5"> done that we should have</font>
+
+44
+00:01:30,630 --> 00:01:32,100
+<font color="#E5E5E5">done that as well</font><font color="#CCCCCC"> because it feels like</font>
+
+45
+00:01:32,100 --> 00:01:34,290
+<font color="#E5E5E5">Facebook was trying to get away with it</font>
+
+46
+00:01:34,290 --> 00:01:37,860
+<font color="#CCCCCC">I don't think</font><font color="#E5E5E5"> that's true but of course</font>
+
+47
+00:01:37,860 --> 00:01:39,030
+you're<font color="#CCCCCC"> right and we should have</font><font color="#E5E5E5"> done it</font>
+
+48
+00:01:39,030 --> 00:01:41,159
+so let's<font color="#CCCCCC"> fast-forward</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> I don't</font>
+
+49
+00:01:41,159 --> 00:01:42,990
+<font color="#E5E5E5">really understand the sentence of course</font>
+
+50
+00:01:42,990 --> 00:01:44,909
+that's<font color="#E5E5E5"> true and I don't think you're</font>
+
+51
+00:01:44,909 --> 00:01:46,680
+right<font color="#CCCCCC"> because that really doesn't make a</font>
+
+52
+00:01:46,680 --> 00:01:47,790
+lot<font color="#E5E5E5"> of sense to me but what do I know</font>
+
+53
+00:01:47,790 --> 00:01:50,369
+<font color="#E5E5E5">Brendan</font><font color="#CCCCCC"> Dan</font><font color="#E5E5E5"> Ron what's your reaction</font><font color="#CCCCCC"> Dan</font>
+
+54
+00:01:50,369 --> 00:01:52,350
+<font color="#E5E5E5">well listen they're gonna get browbeat I</font>
+
+55
+00:01:52,350 --> 00:01:54,210
+mean<font color="#E5E5E5"> Mark Zuckerberg is going in front</font>
+
+56
+00:01:54,210 --> 00:01:56,579
+<font color="#E5E5E5">of Congress next week</font><font color="#CCCCCC"> you know this is</font>
+
+57
+00:01:56,579 --> 00:01:58,439
+they just<font color="#E5E5E5"> have</font><font color="#CCCCCC"> to grin and</font><font color="#E5E5E5"> take it and</font>
+
+58
+00:01:58,439 --> 00:01:59,549
+and<font color="#E5E5E5"> that's</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> and you know there's</font><font color="#CCCCCC"> been</font>
+
+59
+00:01:59,549 --> 00:02:01,740
+<font color="#E5E5E5">a lot of debate whether Cheryl and</font>
+
+60
+00:02:01,740 --> 00:02:03,780
+marker the right people for<font color="#E5E5E5"> the jobs and</font>
+
+61
+00:02:03,780 --> 00:02:05,490
+and let's be frank this is<font color="#CCCCCC"> a behemoth</font>
+
+62
+00:02:05,490 --> 00:02:07,740
+<font color="#CCCCCC">this is a company that's going to do</font><font color="#E5E5E5"> 60</font>
+
+63
+00:02:07,740 --> 00:02:09,479
+billion dollars<font color="#CCCCCC"> in sales</font><font color="#E5E5E5"> over the next</font>
+
+64
+00:02:09,479 --> 00:02:10,060
+year's
+
+65
+00:02:10,060 --> 00:02:12,400
+something like that<font color="#E5E5E5"> there's no turning</font>
+
+66
+00:02:12,400 --> 00:02:14,709
+this ship<font color="#CCCCCC"> at this point you know</font><font color="#E5E5E5"> so</font>
+
+67
+00:02:14,709 --> 00:02:16,030
+these are the right people to<font color="#E5E5E5"> run it</font>
+
+68
+00:02:16,030 --> 00:02:18,610
+<font color="#E5E5E5">they have to just</font><font color="#CCCCCC"> really kind of</font><font color="#E5E5E5"> have</font>
+
+69
+00:02:18,610 --> 00:02:20,140
+this moment<font color="#E5E5E5"> where they have to grin and</font>
+
+70
+00:02:20,140 --> 00:02:20,650
+<font color="#E5E5E5">bear</font><font color="#CCCCCC"> it</font>
+
+71
+00:02:20,650 --> 00:02:22,990
+<font color="#E5E5E5">but ultimately but if it's going to take</font>
+
+72
+00:02:22,990 --> 00:02:24,640
+years<font color="#CCCCCC"> to get</font><font color="#E5E5E5"> out from under this which</font>
+
+73
+00:02:24,640 --> 00:02:27,160
+mark says why<font color="#CCCCCC"> not shut</font><font color="#E5E5E5"> it down until</font>
+
+74
+00:02:27,160 --> 00:02:30,310
+then well you've got<font color="#E5E5E5"> two billion users</font>
+
+75
+00:02:30,310 --> 00:02:32,230
+on<font color="#E5E5E5"> Facebook that would be you know to</font>
+
+76
+00:02:32,230 --> 00:02:33,700
+the extent<font color="#CCCCCC"> that you know people use it</font>
+
+77
+00:02:33,700 --> 00:02:35,290
+<font color="#E5E5E5">for a variety</font><font color="#CCCCCC"> of different things one is</font>
+
+78
+00:02:35,290 --> 00:02:36,910
+communicating with<font color="#E5E5E5"> family and</font><font color="#CCCCCC"> friends</font>
+
+79
+00:02:36,910 --> 00:02:38,650
+and<font color="#CCCCCC"> even during</font><font color="#E5E5E5"> times of turmoil in</font>
+
+80
+00:02:38,650 --> 00:02:39,850
+certain parts of<font color="#E5E5E5"> the country</font><font color="#CCCCCC"> you want to</font>
+
+81
+00:02:39,850 --> 00:02:41,620
+mark yourself<font color="#E5E5E5"> safe or</font><font color="#CCCCCC"> what have you</font>
+
+82
+00:02:41,620 --> 00:02:43,660
+shutting it down it would first of all
+
+83
+00:02:43,660 --> 00:02:45,820
+kill their business you simply can't but
+
+84
+00:02:45,820 --> 00:02:47,140
+<font color="#E5E5E5">you can't take any large business and</font>
+
+85
+00:02:47,140 --> 00:02:49,390
+shut it down<font color="#CCCCCC"> a period of</font><font color="#E5E5E5"> time best</font>
+
+86
+00:02:49,390 --> 00:02:51,040
+business practices<font color="#CCCCCC"> and safety comes</font>
+
+87
+00:02:51,040 --> 00:02:53,530
+first<font color="#CCCCCC"> certainly</font><font color="#E5E5E5"> I think what's happening</font>
+
+88
+00:02:53,530 --> 00:02:54,670
+<font color="#E5E5E5">to Facebook right</font><font color="#CCCCCC"> now has been happening</font>
+
+89
+00:02:54,670 --> 00:02:55,959
+for<font color="#CCCCCC"> a while all over Silicon Valley</font>
+
+90
+00:02:55,959 --> 00:02:57,700
+which<font color="#CCCCCC"> is yes they genuinely bought their</font>
+
+91
+00:02:57,700 --> 00:02:59,500
+own<font color="#E5E5E5"> line that they were</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> movement not a</font>
+
+92
+00:02:59,500 --> 00:03:00,970
+company<font color="#E5E5E5"> they didn't think that</font><font color="#CCCCCC"> they were</font>
+
+93
+00:03:00,970 --> 00:03:04,319
+Washington of course<font color="#E5E5E5"> right they exist</font>
+
+94
+00:03:04,319 --> 00:03:08,170
+<font color="#E5E5E5">absolutely I saw Sheryl Sandberg give a</font>
+
+95
+00:03:08,170 --> 00:03:09,940
+speech at<font color="#E5E5E5"> the Naval Academy four</font><font color="#CCCCCC"> years</font>
+
+96
+00:03:09,940 --> 00:03:12,730
+<font color="#E5E5E5">ago it was</font><font color="#CCCCCC"> Peak</font><font color="#E5E5E5"> Sandberg right</font><font color="#CCCCCC"> yeah</font>
+
+97
+00:03:12,730 --> 00:03:14,410
+right<font color="#CCCCCC"> exactly The New Yorker</font><font color="#E5E5E5"> was there</font>
+
+98
+00:03:14,410 --> 00:03:16,540
+they were<font color="#CCCCCC"> doing a profile on</font><font color="#E5E5E5"> her right</font>
+
+99
+00:03:16,540 --> 00:03:19,030
+<font color="#E5E5E5">and she exuded this confidence of</font>
+
+100
+00:03:19,030 --> 00:03:20,920
+someone who wasn't just an executive but
+
+101
+00:03:20,920 --> 00:03:23,560
+<font color="#E5E5E5">was a movement leader and right what</font>
+
+102
+00:03:23,560 --> 00:03:25,150
+they're finding<font color="#E5E5E5"> out is they got to do</font>
+
+103
+00:03:25,150 --> 00:03:26,769
+all the boring<font color="#CCCCCC"> stupid stuff the</font>
+
+104
+00:03:26,769 --> 00:03:28,329
+<font color="#E5E5E5">company's got to do they got to pay they</font>
+
+105
+00:03:28,329 --> 00:03:30,040
+got to protect people's data<font color="#E5E5E5"> they got to</font>
+
+106
+00:03:30,040 --> 00:03:32,230
+go<font color="#E5E5E5"> to Washington</font><font color="#CCCCCC"> and so that cultural</font>
+
+107
+00:03:32,230 --> 00:03:34,540
+<font color="#E5E5E5">shift is fascinating</font><font color="#CCCCCC"> to watch and a</font>
+
+108
+00:03:34,540 --> 00:03:36,489
+little annoying because<font color="#E5E5E5"> Mark Zuckerberg</font>
+
+109
+00:03:36,489 --> 00:03:38,709
+<font color="#E5E5E5">always says when you know we can't</font>
+
+110
+00:03:38,709 --> 00:03:40,299
+possibly vet truth because<font color="#E5E5E5"> we can't do</font>
+
+111
+00:03:40,299 --> 00:03:46,180
+it at scale well yeah<font color="#E5E5E5"> but you don't have</font>
+
+112
+00:03:46,180 --> 00:03:48,190
+a right to<font color="#E5E5E5"> scale right if if you being</font>
+
+113
+00:03:48,190 --> 00:03:49,959
+<font color="#E5E5E5">its scale means you don't pay for people</font>
+
+114
+00:03:49,959 --> 00:03:51,190
+to<font color="#E5E5E5"> help you figure out the truth</font><font color="#CCCCCC"> that</font>
+
+115
+00:03:51,190 --> 00:03:53,470
+<font color="#CCCCCC">there's no constitutional right</font><font color="#E5E5E5"> to scale</font>
+
+116
+00:03:53,470 --> 00:03:54,940
+scale is<font color="#E5E5E5"> just a different</font><font color="#CCCCCC"> way of saying</font>
+
+117
+00:03:54,940 --> 00:03:56,170
+we're not<font color="#E5E5E5"> going</font><font color="#CCCCCC"> to pay for</font><font color="#E5E5E5"> some stuff</font>
+
+118
+00:03:56,170 --> 00:03:58,030
+like<font color="#E5E5E5"> fat checkers and they've failed</font>
+
+119
+00:03:58,030 --> 00:04:01,600
+<font color="#CCCCCC">horribly at some of the basic blocking</font>
+
+120
+00:04:01,600 --> 00:04:03,250
+and<font color="#CCCCCC"> tackling in this</font><font color="#E5E5E5"> business which is</font>
+
+121
+00:04:03,250 --> 00:04:05,170
+maybe<font color="#E5E5E5"> to trust someone who has use your</font>
+
+122
+00:04:05,170 --> 00:04:06,700
+data<font color="#E5E5E5"> but also verify the fact that</font>
+
+123
+00:04:06,700 --> 00:04:10,750
+they've deleted it it's do we hold no
+
+124
+00:04:10,750 --> 00:04:14,620
+culpability<font color="#CCCCCC"> we don't list</font><font color="#E5E5E5"> ours and put</font>
+
+125
+00:04:14,620 --> 00:04:16,478
+all of our stuff<font color="#E5E5E5"> out there and we pay</font>
+
+126
+00:04:16,478 --> 00:04:18,279
+nothing<font color="#CCCCCC"> for it do we really think</font><font color="#E5E5E5"> that</font>
+
+127
+00:04:18,279 --> 00:04:19,870
+<font color="#CCCCCC">Facebook</font><font color="#E5E5E5"> was just a community service</font>
+
+128
+00:04:19,870 --> 00:04:21,820
+for me to look up my<font color="#CCCCCC"> ex boyfriends so</font>
+
+129
+00:04:21,820 --> 00:04:23,560
+<font color="#CCCCCC">what'd you</font><font color="#E5E5E5"> do totally</font>
+
+130
+00:04:23,560 --> 00:04:26,080
+yeah<font color="#CCCCCC"> listen</font><font color="#E5E5E5"> you know we're</font><font color="#CCCCCC"> talking</font><font color="#E5E5E5"> about</font>
+
+131
+00:04:26,080 --> 00:04:27,520
+the things<font color="#E5E5E5"> that they actually monetize</font>
+
+132
+00:04:27,520 --> 00:04:29,680
+you know they have a<font color="#CCCCCC"> prior data</font><font color="#E5E5E5"> whatsapp</font>
+
+133
+00:04:29,680 --> 00:04:31,870
+that I paid<font color="#E5E5E5"> 19 billion dollars for that</font>
+
+134
+00:04:31,870 --> 00:04:33,190
+they don't<font color="#E5E5E5"> charge</font><font color="#CCCCCC"> for that they've never</font>
+
+135
+00:04:33,190 --> 00:04:35,080
+actually so<font color="#CCCCCC"> there's they have so many</font>
+
+136
+00:04:35,080 --> 00:04:36,700
+<font color="#E5E5E5">levers to pull you know they paid a</font>
+
+137
+00:04:36,700 --> 00:04:38,200
+billion<font color="#E5E5E5"> dollars for</font><font color="#CCCCCC"> Instagram some</font>
+
+138
+00:04:38,200 --> 00:04:39,580
+people think it's worth<font color="#E5E5E5"> 50 billion</font>
+
+139
+00:04:39,580 --> 00:04:41,500
+inside of<font color="#E5E5E5"> that sort of thing listen this</font>
+
+140
+00:04:41,500 --> 00:04:42,760
+is gonna<font color="#E5E5E5"> pass they're gonna they're</font>
+
+141
+00:04:42,760 --> 00:04:44,169
+<font color="#E5E5E5">gonna have to</font><font color="#CCCCCC"> move</font><font color="#E5E5E5"> towards some</font><font color="#CCCCCC"> sort</font><font color="#E5E5E5"> of</font>
+
+142
+00:04:44,169 --> 00:04:46,240
+self<font color="#E5E5E5"> regulation there's no shutdown</font><font color="#CCCCCC"> okay</font>
+
+143
+00:04:46,240 --> 00:04:47,590
+<font color="#E5E5E5">then there's gonna be some sort of</font>
+
+144
+00:04:47,590 --> 00:04:49,419
+regulation as a utility<font color="#E5E5E5"> when you're</font>
+
+145
+00:04:49,419 --> 00:04:51,310
+talking about<font color="#CCCCCC"> a platform that</font><font color="#E5E5E5"> has</font><font color="#CCCCCC"> two</font>
+
+146
+00:04:51,310 --> 00:04:53,650
+billion<font color="#E5E5E5"> monthly active users</font><font color="#CCCCCC"> there's</font>
+
+147
+00:04:53,650 --> 00:04:55,300
+gonna<font color="#E5E5E5"> be some regulation and they're</font>
+
+148
+00:04:55,300 --> 00:04:56,590
+gonna<font color="#E5E5E5"> get by</font><font color="#CCCCCC"> this I'm not talking about</font>
+
+149
+00:04:56,590 --> 00:04:57,850
+<font color="#E5E5E5">the stock or this is that I would ever</font>
+
+150
+00:04:57,850 --> 00:04:59,800
+<font color="#CCCCCC">shell Sandberg and Mark Zuckerberg Ernie</font>
+
+151
+00:04:59,800 --> 00:05:01,270
+<font color="#E5E5E5">in these</font><font color="#CCCCCC"> seats two years from</font><font color="#E5E5E5"> now and</font>
+
+152
+00:05:01,270 --> 00:05:02,530
+<font color="#E5E5E5">they're gonna be running</font><font color="#CCCCCC"> a company</font><font color="#E5E5E5"> that</font>
+
+153
+00:05:02,530 --> 00:05:04,900
+better suited<font color="#E5E5E5"> in serving their two</font>
+
+154
+00:05:04,900 --> 00:05:06,790
+billion users that it was two years<font color="#E5E5E5"> ago</font>
+
+155
+00:05:06,790 --> 00:05:07,720
+<font color="#CCCCCC">all right we got to</font><font color="#E5E5E5"> leave it</font><font color="#CCCCCC"> there</font>
+
+156
+00:05:07,720 --> 00:05:09,100
+gentlemen hey there I'm Chris Hayes from
+
+157
+00:05:09,100 --> 00:05:11,290
+MSNBC thanks for watching MSNBC on
+
+158
+00:05:11,290 --> 00:05:12,850
+<font color="#CCCCCC">YouTube if you want to keep up to date</font>
+
+159
+00:05:12,850 --> 00:05:14,080
+<font color="#E5E5E5">with the videos we're putting out you</font>
+
+160
+00:05:14,080 --> 00:05:16,090
+can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> subscribe just below me</font><font color="#E5E5E5"> or</font>
+
+161
+00:05:16,090 --> 00:05:17,800
+click over on<font color="#E5E5E5"> this list to see lots of</font>
+
+162
+00:05:17,800 --> 00:00:00,000
+other<font color="#E5E5E5"> great</font><font color="#CCCCCC"> videos</font>
+

@@ -1,0 +1,521 @@
+so we have Tony Reed here she is in
+charge of all the Alexa and echo
+ecosystem of devices and I want to do
+this real quick raise your hand if you
+have something with Alexa in it an echo
+something that's about half 60% so
+that's you have told me to thank for
+that I'm so I want to talk a little bit
+about your background for us before we
+dive into other stuff you come from an
+anthropology background you have an
+anthropology degree and you've been at
+Amazon for how many years almost 20
+almost 20 and now you're with this
+interesting background you're now
+running the dominant AI voice-controlled
+platform talk a little bit about how
+those two your background meshes with
+what you're doing now yeah I sort of
+called my career working on Alexa and AI
+a little bit accidental I graduated with
+a degree in anthropology with plans to
+get my PhD and I ended up working and
+Technology at Microsoft and then moved
+over to Amazon and 1998 back when it was
+mostly a bookstore looks at the time we
+hadn't launched music yet and so I still
+very small company it was possible the
+company being public but it was still
+very small and you know I'll say a lot
+of the kind of attributes and the way
+Amazon are operated then is very similar
+to help me operate now and I will say
+that this degree in anthropology has
+actually given me aligns well with a lot
+of the values at Amazon so we're very
+customer obsessed and you'll hear that a
+lot from employees and and the press but
+it is something we kind of live day in
+and day out and this is jeff jesus's
+thing it is this thing and it's it's
+something that really level sets and
+grounds people into the company around
+really working on the behalf of our
+customers and so we do that very much
+for the Alexa we take you know our goal
+there is around improving the lives of
+customers adding more convenience in
+their lives and so if you take that you
+think about anthropology around this
+idea of what our customer needs what are
+the differences and customers and sort
+of being able to look out on the horizon
+and understand these differences I think
+it's actually been an attribute for
+having this degree in this background
+versus the technology agree right and
+those needs are so what are those things
+what are you finding people you kind of
+put this thing out there no one
+especially in my industry we didn't
+really what is this thing what and then
+it just took off like a rocket ship what
+have you guys learned what are the needs
+that people are getting I know music is
+huge but what else yeah music is a
+really large use case for us people love
+the convenience of being able to play
+music to multiple providers via their
+voice but what you know we found two
+other pieces that were really popular
+smart home when we first launched we
+knew we wanted to launch smart home
+capabilities but we we we launched with
+it about four months later and customers
+we thought well this is just an early
+adopter thing right and and we found
+that yes that was true but it was really
+much more it became much more mainstream
+with Alexa and I think that's because
+voice made smart home technology even
+simpler it's now voice enabled you can
+say turn on my lights turn off my lights
+and you don't have to go into an app and
+and that surprised us and then actually
+surprised us at the usage of smart home
+and then the number of people buying
+into smart home devices as well and then
+you know a third piece that we've been
+surprised by is the personality people
+love
+Alexa's personality and they they love
+to tell her to hear jokes they say I
+love you will you marry me what does
+alexa say when i say will you marry me
+she's a few different responses one of
+them I think is thank you I'm flattered
+but you know and customers asked her
+opinion about things and so this it was
+surprising to us that there was really
+this companionship kind of
+conversational nature that was going on
+from very early days and now it makes
+sense because people have really taken
+Alexa and it's a part of the family it's
+really becomes something more its
+human-like and it kind of fits into the
+home I really I could tell you my 18
+month old nephew he talks to our echo
+and and he just knows that music comes
+from that and it's really adorable that
+he's gonna grow up with that and just
+know that's happening I mean we actually
+say that it's interesting to think about
+we're in a generation where children
+today will probably not know a home in
+which they can
+speak to write and so that that's very
+new right and it's very natural we saw
+that with cell phones and kids learning
+that now it's this whole idea so smart
+home music today you had an
+announcements we are going into the
+office what does that mean yeah so today
+I think maybe right as we speak at
+reinvent we've announced Alexa for
+business and so this is an opportunity
+for companies of all sizes to take the
+Alexa experience and integrate it into
+their workplace and you know we found
+that customers have loved the experience
+at home and this is a way to extend that
+into their workplace so we're really
+excited about what is what does that
+look like this that I mean our people so
+people can play penned or in their
+office or I mean what's the practical
+use yeah you imagine kind of two
+scenarios the the office workplace
+scenarios that were launching with our
+communications feature so you can start
+a meeting I've been testing this and
+it's it's super delightful so when you
+go in to start a meeting out you're
+conferencing system and you can and
+we've we're working with Polycom and
+chime or AWS service as well and so when
+I start a meeting I just say Alexis
+start the meeting you can end it Alexa
+end the meeting you can pre-order
+supplies we've had partners who can
+build on the Alexa skills kit and they
+can build their own custom private
+skills and so they're just internally in
+there yeah so for example Capital One
+has taken and built their own skill to
+get updates on high severity events and
+so if they have a sub 1 or step to going
+they can say Alexa what's the update on
+this and so it's really making it's
+building the Alexa for business kind of
+set of api's and then allowing
+developers in this case some companies
+to build on top of them and then so
+speaking of skills that's that's another
+I think strength of this platform is how
+many skills are there now third party
+skills so probably over 25 not over
+25,000 so that's that's huge and we see
+a broad range obviously music and smart
+home stuff
+what have you learned from all these
+third party skills like what works the
+best on this part
+we're still learning and it's I will say
+that they're sort of there's a lot of
+breath so you will obviously have your
+top skills where people love them so
+games trivia games jeopardy jeopardy is
+one of our most popular really
+and so people love that kind of
+family-oriented those are really fun
+then you have your brand's such as
+Starbucks uber Domino's Pizza those are
+delightful skills you can order
+Starbucks pick it up on your way out
+order an uber and then you have what
+I'll call this set of skills that you
+kind of have to have for everyone and so
+it's the the tale of skills and we find
+a lot of people smart home as one news
+providers or another but we find
+hobbyist and like niche stuff niche
+stuff and you know you've and you've got
+companies such as financial services
+built you know Capital One what is my
+bank account status etc so it's the
+breath is is significant for the usage
+so to me Alexis seems kind of nebulous
+it's kind of you have your own devices
+there's this but there's also this
+broader ecosystem now we're starting to
+see it and third-party devices even
+devices that kind of mimic what you
+already have with the echo there's this
+oness one for example how do you guys
+think about that people kind of glomming
+onto the platform and just creating
+these similar devices to you are you
+okay with that or would you see a future
+where you guys kind of put a tighter
+reins around it no we're thrilled with
+it and why you know our vision is for
+Alexa to be everywhere customers want
+her to be and so that will end up in
+places that we will never build those
+devices we wouldn't be able to keep up
+and so for us it's important that the
+Alexa voice service itself has that
+distribution and we think these
+providers can build very delightful
+experiences and you know the it's sort
+of whether it's a different use case a
+completely different segment they will
+just help build out the experience for
+Alexa they also can build custom skills
+to further so like for automotive as an
+example there's a good example we're not
+in the automotive right yeah there's no
+Amazon car yet right okay and so but
+then they'll you know will start to
+build new navigation domains etc for
+those use cases and so not only is the
+Alexa voice service extended and
+available to more customers they're more
+devices but the the developers
+themselves are building more skills and
+that makes Alexa even smarter and even
+more useful for all customers do you
+think that puts you guys at a greater
+advantage and say I know Apple kind of
+delayed their version of their follow up
+to you their home pod but it seems
+they're much more restricted what do you
+what do you think of their position
+versus your take on just like let's put
+it in everything yeah I mean I can't
+speak to sort of their decision-making
+criteria and why they choose to be more
+closed I will say that we believe having
+this be open and having API is available
+for developers will actually just better
+serve customers globally so this year
+you guys had tons of announcements but I
+think a month or two ago you had your
+big debut of is there tons of devices I
+think there was a doorbell thing a
+camera a answering sir or a phone so the
+connect to your landline just it seems
+like everything you can put Alexa and
+you guys are doing is there anything
+that you won't put Alexa inside of
+that's a good question sure yeah I don't
+know it likes a toilet or something but
+not yet yeah you know for us there's
+definitely a prioritization of sort of
+where we like to spend our time and
+effort and and some of those you know we
+look at areas where we think we can
+improve the experience create
+convenience simplify the lives of
+customers we'll look at the size of that
+usage or a segment size and so that's
+really what goes into our prioritization
+but sure there are also things that I'd
+love to do that just you know not quite
+above the line right for us so and so
+this the slew of products I think the
+last one that was called the spot is
+coming out in a couple weeks and I think
+that's it for the end of the year
+you have so many is the idea like let's
+get all these out there and see what
+works and like maybe some of these drop
+off a year from now or are you guys
+confident that this suite of products
+you've made will actually they will all
+take off I
+I mean I'm confident they're all going
+to do really well and so that doesn't
+mean that we know for sure that every
+product we bill will be a four-star
+product and and be successful for the
+echo device line that's actually we've
+seen success repeatedly with the
+products that we've launched I think
+echo spot is an spot from people who
+don't know what is that it's a it says
+so the I'll start with the echo show is
+a larger device with a screen that we
+launched the summer
+echo spot is the second device with the
+screen that's a circular two and a half
+inch diameter screen and the I'm I'm
+very excited about this product because
+it's this great compact form factor that
+you can sprinkle throughout your home I
+have one at my at work on my desk and
+it's super delightful I have one in my
+bedroom and and so you know the screen
+is actually a way to supplement and kind
+of augment the experience from a voice
+perspective and so we can add
+supplementary information on this screen
+and so I think customers are really
+going to enjoy echo spot so this year we
+saw an expansion it we are familiar with
+the echo speakers no screen no cameras
+now we're getting into that there's even
+a version of Amazon camera that checks
+your fashion choices in your bedroom so
+we have Amazon microphones Amazon
+cameras Amazon screens you can tell
+where I'm going with this why should we
+feel safe having these devices in our
+house I could talk about it in two ways
+one we start very much from the customer
+work backwards and we keep privacy in
+mind from the beginning of the build
+when we think about this and echo is a
+great example of that where we built in
+a lot of customer controls and
+transparencies so you can mute the
+device
+we when you speak to echo it has a blue
+LED it shows you that it's streaming
+audio to the cloud you can actually turn
+on an audible noise and your comms are a
+time that allows you to hear when it's
+dreamy when you meet the device it's
+disconnected electronically so there's
+no software that can override that we
+have customers control and the app where
+you can go through it like at your voice
+history you can see what has been said
+to Alexa which is fun by the way if you
+go and see what your family members are
+saying - every time I do it when I'm
+traveling yeah you can delete those
+recordings you can delete all of the
+recordings and so for us it's very
+important to give customers transparency
+and control and help them understand why
+we're collecting this information and
+and and you know why you have a camera
+it will always have a customer benefit
+so talk about that so that's the voice
+of the thing aspect of it what the
+camera aspect of it similar in the case
+that in the case of the camera it is
+there today to detect presence and so
+when you walk into a room it can detect
+that you're there and the screen will
+come on when you're not there the screen
+goes off and it's also there for
+communication features so we have video
+call right video chatting and video
+chatting and so it has a use case you
+can also disable that with a click of a
+button as well ok so you've built this
+massive platform already and it's been
+how many years since the first echo 3 3
+and we had Scott Galloway here from NYU
+talking about thinking by his estimate
+you have about 70% of this market which
+it's relatively a small market but
+you've left ahead of Google you're ahead
+of Google you're head of Apple how do
+you think about the responsibilities
+that go with that platform we've seen
+Google struggle with this with their
+search platform favouring Google
+services over other stuff how do you
+make sure when someone is let's say
+shopping through the app or through
+Alexa that's they're not only getting
+like Amazon branded products if I say I
+want batteries I'm getting maybe
+Duracell instead of the Amazon version
+of
+batteries how do you guys play around
+with that and the responsibility that
+comes with this platform this growing
+platform yeah I I'm in the case of the
+shopping example we will return
+something similar to what you would get
+on Amazon search results and there that
+will be bestseller so whether it's an
+Amazon basics brand which in the case of
+batteries I think is a great product
+great reviews and very low prices but it
+can also be any other brand it also is
+weighed with your past purchase history
+and so something that you've purchased
+before and you know the reason why this
+is actually really hard with voice and
+shopping is that when you're trying to
+order or shop via voice you don't
+necessarily customers don't want to hear
+a long list of products that come back
+you really want to give them one choice
+maybe two you want to get it right that
+first time and so you know we it's it's
+a very much based on sort of amazon's
+customer first first approach if i am
+building a shopping app am i allowed to
+have a shopping skill as a third party
+outside of amazon on alexa meaning if
+you're maybe your reiative if i'm let's
+say Target or Walmart so we have Best
+Buy
+yeah Best Buy has a skill that with you
+guys absolutely you know take look at
+the music experience and so it was on
+yeah so Amazon has prime music and
+Amazon music unlimited but we also have
+Pandora Spotify and others and so for us
+it's important to bring customers choice
+and selection with with the services
+that we offer so we have a lot of
+marketers in the audience can you talk a
+little bit about how people might want
+to market or make money through the
+Alexa platform whether it's through ad
+sells or maybe native advertising and a
+and a new segment or something like that
+is that on the out on the platform and
+what are you seeing there so advertising
+today what we what you have today is in
+content that's streamed on the device so
+music video news providers their
+advertising has included just which is
+consistent
+with what you would experience when
+you're listening to that content on a
+mobile device or or somewhere else
+beyond that from a pure advertising
+perspective it's something that we want
+to think really hard about because it's
+it can be distracting from a customer
+experience perspective and it's
+something that we want to be very
+thoughtful about creating a new
+experience from an advertising
+perspective and a primary in this case
+in a primarily voice based experience
+but then we also have ways for
+developers and companies to make money
+through the you know we have a paid
+subscription an upsell program so we
+just launched about a month ago with
+jeopardy the ability to upsell to double
+jeopardy so it's a Content pack and and
+you can add up for $0.99 or free with
+Prime and so we're starting to get kind
+of that I actually don't know and so for
+us it's a brown driving monetization
+that drives a direct customer benefit as
+well and that will also teach us how
+customers will use us and what will be
+acceptable and what is a good user
+experience and you know we have other
+ways that developers can make money as
+well where we pay them from a paid
+engagement perspective if they have a
+skill that drives high engagement we
+have AWS credits etc and so we've got a
+bunch of pieces that were experimenting
+with and that we've been rolling now so
+last thing Alexa's going global I think
+how many countries know about Australia
+yeah so we just announced Australia last
+night we're in India Japan Canada which
+is releasing soon UK Germany US and how
+does that work how does besides a
+language obviously and how is the Alexus
+experience different in those countries
+versus what we're seeing right now in
+the US yeah I so it's fully localized so
+we take the Alexa core experience and
+personality and a lot of those things
+stay true and we localize and so we have
+a local voice that has a local accent we
+localize skills we have a
+robust set of data and knowledge that we
+have to start understanding this
+personality go into that to you talk it
+does it does and so you know her
+personality doesn't radically change is
+really the same everywhere but you know
+there's a localized piece to it so if
+you ask her favorite you know an opinion
+or her favorites it will change you know
+in different countries and so we do
+spend a lot of time on fine-tuning what
+that localized experience would be you
+know part of is we have to understand
+the language and then we have to be able
+to respond back in that language for the
+proper accents and so each of these are
+fully localized so when is Alexa fully
+global how long oh I don't know that's a
+tough question
+years months years I mean this is
+something we'd love to go faster but we
+want to do it the right way we want
+customers in each of these countries to
+love the experience and so for us it's a
+you know you have to balance the the
+speed at which you can do that with
+really having a delightful experience

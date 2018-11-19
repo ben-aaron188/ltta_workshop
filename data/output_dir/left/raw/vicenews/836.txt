@@ -1,0 +1,316 @@
+1
+00:00:01,580 --> 00:00:03,890
+[Music]
+
+2
+00:00:03,890 --> 00:00:06,839
+the value<font color="#E5E5E5"> of Bitcoin has risen this year</font>
+
+3
+00:00:06,839 --> 00:00:10,469
+<font color="#E5E5E5">from $1,000 to 7700</font><font color="#CCCCCC"> on Wednesday</font>
+
+4
+00:00:10,469 --> 00:00:13,230
+those are absurd returns<font color="#CCCCCC"> but</font><font color="#E5E5E5"> the</font>
+
+5
+00:00:13,230 --> 00:00:15,299
+<font color="#E5E5E5">underlying technology called blockchain</font>
+
+6
+00:00:15,299 --> 00:00:17,220
+<font color="#E5E5E5">could revolutionize global industries</font>
+
+7
+00:00:17,220 --> 00:00:20,510
+and even<font color="#CCCCCC"> pose a threat to government's</font>
+
+8
+00:00:20,510 --> 00:00:23,279
+<font color="#E5E5E5">at the end of September the</font><font color="#CCCCCC"> government</font>
+
+9
+00:00:23,279 --> 00:00:25,080
+of South<font color="#CCCCCC"> Korea made a big regulatory</font>
+
+10
+00:00:25,080 --> 00:00:27,720
+move it banned all new digital
+
+11
+00:00:27,720 --> 00:00:31,529
+<font color="#E5E5E5">currencies just weeks before China also</font>
+
+12
+00:00:31,529 --> 00:00:33,059
+<font color="#E5E5E5">outlawed trading of new virtual</font>
+
+13
+00:00:33,059 --> 00:00:35,820
+currencies and more<font color="#E5E5E5"> established ones</font>
+
+14
+00:00:35,820 --> 00:00:39,660
+like Bitcoin these crypto currencies are
+
+15
+00:00:39,660 --> 00:00:41,340
+the product of<font color="#E5E5E5"> a new technology</font><font color="#CCCCCC"> that's</font>
+
+16
+00:00:41,340 --> 00:00:42,930
+<font color="#E5E5E5">moving faster than the government's</font>
+
+17
+00:00:42,930 --> 00:00:46,820
+trying<font color="#E5E5E5"> to control it blockchain</font>
+
+18
+00:00:46,820 --> 00:00:48,989
+blockchain is<font color="#CCCCCC"> an information</font><font color="#E5E5E5"> sharing</font>
+
+19
+00:00:48,989 --> 00:00:51,050
+technology popularized on the dark web
+
+20
+00:00:51,050 --> 00:00:53,640
+<font color="#CCCCCC">it was first used</font><font color="#E5E5E5"> mainly by</font><font color="#CCCCCC"> people</font>
+
+21
+00:00:53,640 --> 00:00:55,280
+buying<font color="#E5E5E5"> drugs and weapons online</font>
+
+22
+00:00:55,280 --> 00:00:57,690
+libertarians<font color="#E5E5E5"> and secretive coders trying</font>
+
+23
+00:00:57,690 --> 00:01:00,270
+to avoid detection<font color="#CCCCCC"> but</font><font color="#E5E5E5"> now it's having</font>
+
+24
+00:01:00,270 --> 00:01:03,390
+<font color="#CCCCCC">its breakout moment blockchain works</font>
+
+25
+00:01:03,390 --> 00:01:05,820
+like this<font color="#E5E5E5"> digital records are stored</font>
+
+26
+00:01:05,820 --> 00:01:07,409
+across<font color="#E5E5E5"> a distributed network and</font>
+
+27
+00:01:07,409 --> 00:01:09,390
+constantly reconciled<font color="#E5E5E5"> because each</font>
+
+28
+00:01:09,390 --> 00:01:11,549
+computer verifies the<font color="#CCCCCC"> information on all</font>
+
+29
+00:01:11,549 --> 00:01:13,619
+the others<font color="#E5E5E5"> there's no central server</font>
+
+30
+00:01:13,619 --> 00:01:16,740
+that can<font color="#CCCCCC"> malfunction or be erased these</font>
+
+31
+00:01:16,740 --> 00:01:18,840
+<font color="#E5E5E5">records are public</font><font color="#CCCCCC"> since the data are</font>
+
+32
+00:01:18,840 --> 00:01:20,430
+hosted by millions of computers
+
+33
+00:01:20,430 --> 00:01:23,220
+simultaneous and once information is
+
+34
+00:01:23,220 --> 00:01:25,200
+entered<font color="#CCCCCC"> into the</font><font color="#E5E5E5"> blockchain it can't</font>
+
+35
+00:01:25,200 --> 00:01:27,869
+ever be deleted blockchain allows
+
+36
+00:01:27,869 --> 00:01:29,490
+strangers to trust each other
+
+37
+00:01:29,490 --> 00:01:31,350
+because every operation is constantly
+
+38
+00:01:31,350 --> 00:01:33,210
+<font color="#E5E5E5">checked by every other computer on the</font>
+
+39
+00:01:33,210 --> 00:01:35,549
+network<font color="#E5E5E5"> to hack a blockchain would</font>
+
+40
+00:01:35,549 --> 00:01:37,350
+require so much computing<font color="#CCCCCC"> power that</font>
+
+41
+00:01:37,350 --> 00:01:39,990
+<font color="#E5E5E5">it's basically</font><font color="#CCCCCC"> impossible and that will</font>
+
+42
+00:01:39,990 --> 00:01:41,700
+be even<font color="#CCCCCC"> more important in a massively</font>
+
+43
+00:01:41,700 --> 00:01:44,369
+connected<font color="#CCCCCC"> future</font>
+
+44
+00:01:44,369 --> 00:01:46,530
+imagine votes being<font color="#E5E5E5"> cast in a blockchain</font>
+
+45
+00:01:46,530 --> 00:01:48,899
+<font color="#CCCCCC">knowing</font><font color="#E5E5E5"> the information relies on</font>
+
+46
+00:01:48,899 --> 00:01:51,509
+cryptography<font color="#CCCCCC"> and code</font><font color="#E5E5E5"> it can't be</font>
+
+47
+00:01:51,509 --> 00:01:54,049
+changed<font color="#CCCCCC"> so the election</font><font color="#E5E5E5"> would</font><font color="#CCCCCC"> be secure</font>
+
+48
+00:01:54,049 --> 00:01:56,640
+it's easy to imagine applying<font color="#E5E5E5"> the same</font>
+
+49
+00:01:56,640 --> 00:01:58,649
+<font color="#CCCCCC">principles to digitally stored private</font>
+
+50
+00:01:58,649 --> 00:02:01,380
+data<font color="#E5E5E5"> like medical records or use to</font>
+
+51
+00:02:01,380 --> 00:02:03,420
+streamline the wildly inefficient global
+
+52
+00:02:03,420 --> 00:02:05,700
+shipping industry<font color="#CCCCCC"> which loses countless</font>
+
+53
+00:02:05,700 --> 00:02:07,229
+hours and billions of<font color="#E5E5E5"> dollars in</font>
+
+54
+00:02:07,229 --> 00:02:09,090
+overhead costs<font color="#E5E5E5"> to bureaucratic red tape</font>
+
+55
+00:02:09,090 --> 00:02:12,420
+<font color="#E5E5E5">and human error some major banks and</font>
+
+56
+00:02:12,420 --> 00:02:14,459
+consulting firms are already using block
+
+57
+00:02:14,459 --> 00:02:15,989
+chains to streamline financial
+
+58
+00:02:15,989 --> 00:02:20,010
+transactions there may be more immediate
+
+59
+00:02:20,010 --> 00:02:21,810
+opportunity for<font color="#CCCCCC"> blocks and innovations</font>
+
+60
+00:02:21,810 --> 00:02:24,420
+in<font color="#E5E5E5"> places of serious corruption where</font>
+
+61
+00:02:24,420 --> 00:02:25,709
+people are less<font color="#CCCCCC"> likely</font><font color="#E5E5E5"> to trust</font>
+
+62
+00:02:25,709 --> 00:02:28,950
+government<font color="#E5E5E5"> systems to state governments</font>
+
+63
+00:02:28,950 --> 00:02:30,540
+in India are experimenting<font color="#CCCCCC"> with the</font>
+
+64
+00:02:30,540 --> 00:02:32,519
+technology<font color="#E5E5E5"> to handle and</font><font color="#CCCCCC"> deep</font><font color="#E5E5E5"> a</font>
+
+65
+00:02:32,519 --> 00:02:34,650
+notorious source of fraud and dispute
+
+66
+00:02:34,650 --> 00:02:37,200
+<font color="#E5E5E5">but in the mean time developers are</font>
+
+67
+00:02:37,200 --> 00:02:38,610
+<font color="#CCCCCC">using blockchain for something more</font>
+
+68
+00:02:38,610 --> 00:02:41,750
+<font color="#E5E5E5">exciting making themselves</font><font color="#CCCCCC"> rich</font>
+
+69
+00:02:41,750 --> 00:02:44,160
+companies offering blockchain services
+
+70
+00:02:44,160 --> 00:02:45,959
+are creating their own crypto currencies
+
+71
+00:02:45,959 --> 00:02:47,400
+as a way to raise capital
+
+72
+00:02:47,400 --> 00:02:49,590
+but whether any given<font color="#CCCCCC"> start-up is real</font>
+
+73
+00:02:49,590 --> 00:02:54,269
+<font color="#E5E5E5">or a scam</font><font color="#CCCCCC"> is anyone's guess regulators</font>
+
+74
+00:02:54,269 --> 00:02:55,889
+haven't figured<font color="#E5E5E5"> out how to handle this</font>
+
+75
+00:02:55,889 --> 00:02:57,959
+new kind<font color="#CCCCCC"> of</font><font color="#E5E5E5"> a player but the fact that</font>
+
+76
+00:02:57,959 --> 00:02:59,549
+they're paying<font color="#CCCCCC"> attention</font><font color="#E5E5E5"> means the</font>
+
+77
+00:02:59,549 --> 00:03:03,170
+blockchain<font color="#CCCCCC"> is officially gone</font><font color="#E5E5E5"> mainstream</font>
+
+78
+00:03:03,840 --> 00:03:05,900
+you
+
+79
+00:03:12,110 --> 00:00:00,000
+<font color="#E5E5E5">you</font>
+

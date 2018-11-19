@@ -1,0 +1,296 @@
+1
+00:00:00,000 --> 00:00:02,760
+in 2016<font color="#E5E5E5"> hackers made around a billion</font>
+
+2
+00:00:02,760 --> 00:00:05,130
+<font color="#E5E5E5">dollars by holding computer data hostage</font>
+
+3
+00:00:05,130 --> 00:00:07,379
+<font color="#E5E5E5">but this year ransomware attacks are</font>
+
+4
+00:00:07,379 --> 00:00:10,080
+expected to be twice<font color="#E5E5E5"> as frequent</font><font color="#CCCCCC"> spread</font>
+
+5
+00:00:10,080 --> 00:00:11,820
+through spam emails<font color="#E5E5E5"> or by exploiting</font>
+
+6
+00:00:11,820 --> 00:00:14,160
+<font color="#E5E5E5">software vulnerabilities</font><font color="#CCCCCC"> ransomware is</font><font color="#E5E5E5"> a</font>
+
+7
+00:00:14,160 --> 00:00:15,750
+buyer<font color="#E5E5E5"> studying</font><font color="#CCCCCC"> crips data on a computer</font>
+
+8
+00:00:15,750 --> 00:00:18,359
+<font color="#CCCCCC">locking you out</font><font color="#E5E5E5"> of your</font><font color="#CCCCCC"> own files</font><font color="#E5E5E5"> to</font>
+
+9
+00:00:18,359 --> 00:00:20,010
+have your data restored<font color="#CCCCCC"> the virus</font>
+
+10
+00:00:20,010 --> 00:00:21,600
+demands you send the hackers a payment
+
+11
+00:00:21,600 --> 00:00:24,000
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> bitcoin</font><font color="#E5E5E5"> if you don't pay up your</font>
+
+12
+00:00:24,000 --> 00:00:25,859
+files will be<font color="#CCCCCC"> lost forever</font><font color="#E5E5E5"> which is why</font>
+
+13
+00:00:25,859 --> 00:00:28,400
+<font color="#E5E5E5">most businesses</font><font color="#CCCCCC"> end up paying the</font><font color="#E5E5E5"> ransom</font>
+
+14
+00:00:28,400 --> 00:00:31,019
+<font color="#E5E5E5">according to</font><font color="#CCCCCC"> cybersecurity</font><font color="#E5E5E5"> expert</font><font color="#CCCCCC"> miko</font>
+
+15
+00:00:31,019 --> 00:00:32,790
+<font color="#CCCCCC">hi ponen</font><font color="#E5E5E5"> the encryption is almost</font>
+
+16
+00:00:32,790 --> 00:00:34,680
+impossible<font color="#CCCCCC"> to break</font><font color="#E5E5E5"> even</font><font color="#CCCCCC"> if you would</font>
+
+17
+00:00:34,680 --> 00:00:36,899
+have all<font color="#E5E5E5"> the computers on the planet</font>
+
+18
+00:00:36,899 --> 00:00:40,170
+trying<font color="#E5E5E5"> to decrypt one file</font><font color="#CCCCCC"> the Sun</font><font color="#E5E5E5"> would</font>
+
+19
+00:00:40,170 --> 00:00:42,390
+<font color="#CCCCCC">go out before they'd find</font><font color="#E5E5E5"> the key in the</font>
+
+20
+00:00:42,390 --> 00:00:44,250
+past<font color="#E5E5E5"> hackers made the</font><font color="#CCCCCC"> majority of their</font>
+
+21
+00:00:44,250 --> 00:00:46,140
+money<font color="#E5E5E5"> finding ways to sell stolen data</font>
+
+22
+00:00:46,140 --> 00:00:47,969
+such<font color="#CCCCCC"> as a victim's credit card number</font>
+
+23
+00:00:47,969 --> 00:00:50,070
+but<font color="#E5E5E5"> with companies getting better at</font>
+
+24
+00:00:50,070 --> 00:00:52,110
+fraud detection<font color="#CCCCCC"> the price</font><font color="#E5E5E5"> for stolen</font>
+
+25
+00:00:52,110 --> 00:00:53,850
+data<font color="#E5E5E5"> has dropped in recent</font><font color="#CCCCCC"> years</font>
+
+26
+00:00:53,850 --> 00:00:56,219
+meanwhile the average ransomware demand
+
+27
+00:00:56,219 --> 00:00:58,590
+has skyrocketed<font color="#CCCCCC"> which means the payoff</font>
+
+28
+00:00:58,590 --> 00:01:01,410
+these attacks can be massive one virus
+
+29
+00:01:01,410 --> 00:01:04,860
+<font color="#E5E5E5">made as much as 325 million dollars</font>
+
+30
+00:01:04,860 --> 00:01:07,049
+businesses are especially vulnerable to
+
+31
+00:01:07,049 --> 00:01:08,760
+ransomware<font color="#E5E5E5"> because the cost of losing</font>
+
+32
+00:01:08,760 --> 00:01:10,580
+<font color="#E5E5E5">corporate data can be devastating</font>
+
+33
+00:01:10,580 --> 00:01:13,920
+<font color="#CCCCCC">according to IBM 70% of businesses hit</font>
+
+34
+00:01:13,920 --> 00:01:15,960
+with ransomware<font color="#CCCCCC"> paid their attackers</font><font color="#E5E5E5"> on</font>
+
+35
+00:01:15,960 --> 00:01:18,150
+top<font color="#E5E5E5"> of that half of those companies paid</font>
+
+36
+00:01:18,150 --> 00:01:21,090
+over<font color="#E5E5E5"> $10,000 and</font><font color="#CCCCCC"> 20%</font><font color="#E5E5E5"> paid more than</font>
+
+37
+00:01:21,090 --> 00:01:24,420
+<font color="#CCCCCC">40,000</font><font color="#E5E5E5"> oftentimes companies get hit more</font>
+
+38
+00:01:24,420 --> 00:01:27,210
+<font color="#CCCCCC">than once</font><font color="#E5E5E5"> as</font><font color="#CCCCCC"> 85%</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> companies hit by</font>
+
+39
+00:01:27,210 --> 00:01:29,159
+ransomware in the last year<font color="#E5E5E5"> were hit by</font>
+
+40
+00:01:29,159 --> 00:01:31,740
+three<font color="#E5E5E5"> or more attacks one Hospital in</font>
+
+41
+00:01:31,740 --> 00:01:33,990
+London<font color="#CCCCCC"> was infected by ransomware 19</font>
+
+42
+00:01:33,990 --> 00:01:35,810
+times over the<font color="#CCCCCC"> course of 12 months</font>
+
+43
+00:01:35,810 --> 00:01:37,950
+ransomware has become such a frequent
+
+44
+00:01:37,950 --> 00:01:39,900
+occurrence<font color="#CCCCCC"> 40</font><font color="#E5E5E5"> percent of companies in</font>
+
+45
+00:01:39,900 --> 00:01:42,810
+<font color="#E5E5E5">the UK with over 250</font><font color="#CCCCCC"> employees are now</font>
+
+46
+00:01:42,810 --> 00:01:45,060
+stockpiling<font color="#E5E5E5"> Bitcoin in the event of an</font>
+
+47
+00:01:45,060 --> 00:01:47,759
+attack<font color="#E5E5E5"> officially the FBI recommends</font>
+
+48
+00:01:47,759 --> 00:01:49,710
+victims contact<font color="#CCCCCC"> authorities and never</font>
+
+49
+00:01:49,710 --> 00:01:50,490
+pay<font color="#CCCCCC"> the ransom</font>
+
+50
+00:01:50,490 --> 00:01:52,500
+but even police stations have had to pay
+
+51
+00:01:52,500 --> 00:01:54,270
+to have<font color="#E5E5E5"> their files decrypted the best</font>
+
+52
+00:01:54,270 --> 00:01:55,920
+option for<font color="#E5E5E5"> us</font><font color="#CCCCCC"> even</font><font color="#E5E5E5"> though it was</font><font color="#CCCCCC"> the</font>
+
+53
+00:01:55,920 --> 00:01:59,040
+last<font color="#E5E5E5"> and worst option for us was to pay</font>
+
+54
+00:01:59,040 --> 00:02:01,500
+the ransom<font color="#E5E5E5"> today almost anyone can get</font>
+
+55
+00:02:01,500 --> 00:02:03,180
+their hands<font color="#E5E5E5"> on ransomware technology</font>
+
+56
+00:02:03,180 --> 00:02:05,460
+<font color="#CCCCCC">free packaged</font><font color="#E5E5E5"> shark ransomware</font>
+
+57
+00:02:05,460 --> 00:02:07,170
+can be<font color="#E5E5E5"> purchased on the Deep Web for as</font>
+
+58
+00:02:07,170 --> 00:02:09,959
+little as $39 and with the<font color="#E5E5E5"> advent of</font>
+
+59
+00:02:09,959 --> 00:02:11,190
+anonymous<font color="#E5E5E5"> crypto curve</font>
+
+60
+00:02:11,190 --> 00:02:13,560
+like<font color="#E5E5E5"> Bitcoin hackers are extremely hard</font>
+
+61
+00:02:13,560 --> 00:02:16,170
+<font color="#CCCCCC">to catch</font><font color="#E5E5E5"> experts warn that ransomware</font>
+
+62
+00:02:16,170 --> 00:02:18,870
+hackers could turn<font color="#CCCCCC"> to other</font><font color="#E5E5E5"> targets for</font>
+
+63
+00:02:18,870 --> 00:02:20,610
+instance<font color="#E5E5E5"> last year's</font><font color="#CCCCCC"> cybersecurity</font>
+
+64
+00:02:20,610 --> 00:02:22,650
+<font color="#E5E5E5">experts were</font><font color="#CCCCCC"> able to</font><font color="#E5E5E5"> infect a smart</font>
+
+65
+00:02:22,650 --> 00:02:24,900
+thermostat<font color="#CCCCCC"> locking</font><font color="#E5E5E5"> the temperature at 99</font>
+
+66
+00:02:24,900 --> 00:02:27,420
+degrees unless the owner paid up<font color="#E5E5E5"> the</font>
+
+67
+00:02:27,420 --> 00:02:29,430
+most dangerous potential target<font color="#E5E5E5"> could be</font>
+
+68
+00:02:29,430 --> 00:02:31,920
+our industrial control systems<font color="#E5E5E5"> entire</font>
+
+69
+00:02:31,920 --> 00:02:33,990
+power grids could be held ransom<font color="#CCCCCC"> to</font>
+
+70
+00:02:33,990 --> 00:02:36,780
+hackers<font color="#E5E5E5"> there's no immediate solution to</font>
+
+71
+00:02:36,780 --> 00:02:38,970
+the ransomware problem the only<font color="#CCCCCC"> real way</font>
+
+72
+00:02:38,970 --> 00:02:41,370
+hackers will slow down attacks<font color="#CCCCCC"> is if</font>
+
+73
+00:02:41,370 --> 00:02:44,140
+people<font color="#CCCCCC"> stop paying the ransoms</font>
+
+74
+00:02:44,140 --> 00:00:00,000
+[Music]
+

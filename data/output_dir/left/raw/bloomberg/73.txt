@@ -1,0 +1,210 @@
+1
+00:00:01,540 --> 00:00:09,080
+when it debuted, the 4G wireless we have today allowed people for the first time  to hit the road
+
+2
+00:00:09,080 --> 00:00:10,080
+and explore unknown places with only a smartphone for directions.
+
+3
+00:00:10,080 --> 00:00:14,580
+When 5G arrives, it could enable driverless
+cars to take us there as well.
+
+4
+00:00:14,580 --> 00:00:18,280
+5G stands for fifth-generation mobile networks
+or wireless systems.
+
+5
+00:00:18,280 --> 00:00:22,890
+It’s insanely fast and can accommodate a
+lot more connected devices.
+
+6
+00:00:22,890 --> 00:00:26,910
+But the reason it's being called revolutionary
+is because 5G will allow connected devices
+
+7
+00:00:26,910 --> 00:00:29,010
+to speak to each other, as well as people.
+
+8
+00:00:29,010 --> 00:00:34,390
+Ian King: Right now, we're living in a world
+where, really, it's a one-way experience.
+
+9
+00:00:34,390 --> 00:00:36,340
+That’s Bloomberg Tech Reporter Ian King
+
+10
+00:00:36,340 --> 00:00:38,704
+The network talks to your phone,
+you look at your phone and access data, then
+
+11
+00:00:38,704 --> 00:00:42,860
+you send something back to the network.
+
+12
+00:00:42,860 --> 00:00:46,950
+What we're being told about 5G is that, really,
+for the first time, we're going to see machines
+
+13
+00:00:46,950 --> 00:00:51,220
+communicating with each other over mobile
+networks in a meaningful way.
+
+14
+00:00:51,220 --> 00:00:55,680
+5G could end up being 100 times faster than
+what we have now with speeds that could reach
+
+15
+00:00:55,680 --> 00:00:57,690
+10 gigabits per second.
+
+16
+00:00:57,690 --> 00:01:01,850
+In plain English, that means downloading a
+full-length HD movie in seconds.
+
+17
+00:01:01,850 --> 00:01:06,760
+5G will also increase total bandwidth, which
+we will need in order to accommodate the growing
+
+18
+00:01:06,760 --> 00:01:07,990
+“internet of things”.
+
+19
+00:01:07,990 --> 00:01:14,280
+We’re talking about internet-connected refrigerators,
+thermostats, dog collars, but...5G will enable
+
+20
+00:01:14,280 --> 00:01:15,280
+so many more.
+
+21
+00:01:15,280 --> 00:01:20,990
+things like your utility network
+factories, where machines just sat there,
+
+22
+00:01:20,990 --> 00:01:22,640
+not connected at all.
+
+23
+00:01:22,640 --> 00:01:26,420
+Suddenly, they're all going to be connected…
+
+24
+00:01:26,420 --> 00:01:31,840
+Other things like cars, like utility poles,
+like The light poles on the street, like traffic
+
+25
+00:01:31,840 --> 00:01:32,840
+lights.
+
+26
+00:01:32,840 --> 00:01:36,000
+But perhaps the biggest advance will be a
+huge reduction in communication lag time,
+
+27
+00:01:36,000 --> 00:01:37,000
+known as latency.
+
+28
+00:01:37,000 --> 00:01:41,070
+A network of driverless cars will need the
+speed of 5G to ping each other multiple times
+
+29
+00:01:41,070 --> 00:01:43,270
+per second to avoid collisions.
+
+30
+00:01:43,270 --> 00:01:47,440
+Near-instantaneous data transfers could allow
+doctors to perform surgery remotely with a
+
+31
+00:01:47,440 --> 00:01:48,870
+robotic scalpel.
+
+32
+00:01:48,870 --> 00:01:50,310
+So how will it work?
+
+33
+00:01:50,310 --> 00:01:52,090
+First, you need to improve "network density"
+
+34
+00:01:52,090 --> 00:01:56,049
+and that's just a fancy word for
+saying you put more towers out there.
+
+35
+00:01:56,049 --> 00:01:58,860
+What we're being told is that's not actually
+the case with 5G. // what we're talking about
+
+36
+00:01:58,860 --> 00:01:59,860
+here is a different way to send the information,
+a broader spectrum of airwaves that we're
+
+37
+00:01:59,860 --> 00:02:00,860
+going to use.”
+
+38
+00:02:00,860 --> 00:02:04,299
+The idea is 5G will not only use the existing
+mobile spectrum but also tap into higher frequencies,
+
+39
+00:02:04,299 --> 00:02:06,060
+called millimeter waves.
+
+40
+00:02:06,060 --> 00:02:09,258
+Millimeter waves can carry more data, but
+only travel short distances.
+
+41
+00:02:09,258 --> 00:02:12,590
+This may mean you’ll see a lot more of these
+so called base stations around town.
+
+42
+00:02:12,590 --> 00:02:17,499
+And the new towers may have as many as 100
+antennae ports, compared to about a dozen
+
+43
+00:02:17,499 --> 00:02:19,650
+on 4G cell towers.
+
+44
+00:02:19,650 --> 00:02:20,650
+When will we get 5G?
+
+45
+00:02:20,650 --> 00:02:26,930
+Providers in the U.S. are expected to spend
+$275 billion over seven years to upgrade.
+
+46
+00:02:26,930 --> 00:00:00,000
+Expect to see the first 5G service pop up
+in big cities sometime in 2019.
+

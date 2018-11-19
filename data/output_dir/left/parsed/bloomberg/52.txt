@@ -1,0 +1,1349 @@
+(leaves rustling)
+As fall breaks out in Canada,
+I'm reminded of all the beauty,
+innocence and gun-free fun
+available from our neighbors to the North.
+(majestic music)
+There's the majesty of Toronto,
+vast hockey rinks,
+spectacular batches of poutine,
+and gallons of maple syrup
+that you can chug openly
+and guilt-free for this maple
+syrup is pure and nourishing.
+The changing of the
+seasons also happens to be
+the perfect time to
+encounter one of Canada's
+most prized creatures,
+the artificial intelligence nerd.
+(resolute music)
+Not too long ago, these beings were rare
+and hidden away in university dungeons.
+But today they flourish.
+They primp with instinctual grace.
+They wave their hands impressively
+to assert their intellectual dominance.
+They carb-load like overpaid
+professional athletes.
+And this makes some sense
+because they're among
+the best paid professionals in the world.
+Together these creatures did
+something truly remarkable.
+Without anyone paying much notice,
+they gave birth to an AI revolution.
+They turned Canada, yes, Canada,
+into one of the great AI superpowers.
+This is the story of
+how all this came to be.
+It's the story of one nation's quest
+to teach computers to think like humans.
+It's the story of what this
+science experiment will mean
+for all our lives and for the
+future of the human species.
+So if you're a human, or
+something trying to imitate one,
+you'll wanna pay attention.
+Ever since people first came
+up with the idea of computers,
+they've dreamed of imbuing them
+with artificial intelligence.
+I am a smart fellow
+as I have a very fine brain.
+That's the most remarkable
+thing I've ever seen.
+AI is just a computer
+that is able to mimic
+or simulate human thought
+or human behavior.
+Within that there's a subset
+called machine learning
+that it's now the underpinning
+of what is most exciting about AI.
+By allowing computers to learn
+how to solve problems on their own,
+machine learning has made
+a series of breakthroughs
+that once seemed nearly impossible.
+It's the reason computers
+can understand your voice,
+spot a friend's face in
+a photo, and steer a car.
+And it's the reason people
+are actively talking
+about the arrival of human-like AI.
+And whether that would be a good thing
+or a horrific end of days thing.
+Many people made this moment possible,
+but one figure towers above the rest.
+I've come to the University of Toronto
+to see the man they call the godfather
+of Modern Artificial Intelligence.
+Geoff Hinton.
+(calm music)
+Because of a back condition,
+Geoff Hinton hasn't been able
+to sit down for more than 12 years.
+I hate standing.
+I much rather sit down, but if I sit down
+I have a disc that comes out.
+Well at least now standing
+desks are fashionable.
+Yeah, but I was ahead.
+(laughter)
+I was standing when they
+weren't fashionable.
+Since he can't sit in a car or on a bus,
+Hinton walks everywhere.
+The walk says a lot about
+Hinton and his resolve.
+For nearly 40 years, Hinton has
+been trying to get computers
+to learn like people do,
+a quest almost everyone
+thought was crazy or at least hopeless,
+right up until the moment
+it revolutionized the field.
+Google thinks this is the
+future of the company,
+Amazon thinks this is the
+future of the company,
+Apple thinks this is the
+future of the company,
+my own department thinks
+it's just probably nonsense
+and we shouldn't be doing any more of it.
+(laughter)
+So I talked everybody into
+it except my own department.
+You obviously grew up in the UK
+and you had this very prestigious family
+full of famous
+mathematicians and economist,
+and I was curious what
+it was like for you.
+Yeah, there was a lot of pressure.
+I think by the time I was about seven
+I realized I was gonna have to get a PhD.
+Did you rebel against that or you--
+I dropped out every so often.
+I became a carpenter for a while.
+Geoff Hinton, pretty
+early on, became obsessed
+with this idea of figuring
+out how the mind works.
+He started off getting into physiology,
+the anatomy of how the brain works,
+then he got into psychology,
+and then finally he settled
+on more of a computer science approach
+to modeling the brain and got
+in to artificial intelligence.
+My feeling is if you wanna understand
+a really complicated device, like a brain,
+you should build one.
+I mean you could look at
+cars and you could think
+you could understand cars.
+When you try and build a
+car you suddenly discover
+this is stuff that has
+to go under the hood,
+otherwise it doesn't work.
+Yeah.
+As Geoff was starting to
+think about these ideas,
+he got inspired by some AI
+researchers across the pond.
+Specifically this guy, Frank Rosenblatt.
+Rosenblatt, in the late 1950s,
+developed what he called a Perceptron,
+and it was a neural
+network, a computing system
+that would mimic the brain.
+The basic idea is a
+collection of small units
+called neurons, these are
+little computing units
+but they're actually modeled on the way
+that the human brain does its computation.
+They take incoming data
+like we do from our senses
+and they actually learn so
+the neural net can learn
+to make decisions over time.
+Rosenblatt's hope was that you
+could feed a neural network
+a bunch of data like
+pictures of men and women
+and it would eventually
+learn how to tell them apart,
+just like humans do.
+There was just one problem.
+It didn't work very well.
+Rosenblatt, his neural network
+was a single layer of neurons
+and it was limiting what it
+could do, extremely limited.
+And a colleague of his wrote
+a book in the late '60s
+that show these limitations.
+And it kinda put the
+whole area of research
+into a deep freeze for a good 10 years.
+No one wanted to work in this area.
+They were sure it would never work.
+Well, almost no one.
+It was just obvious to me that
+it was the right way to go.
+The brain's a big neural network
+and so it has to be that
+stuff like this can work
+'cause it works in our brains.
+There's just never any doubt about that.
+What do you think it was inside of you
+that kept you wanting to pursue this
+when everyone else was giving up,
+just that you thought it was
+the right direction to go?
+I know that everyone else was wrong.
+Okay.
+Hinton decides he's got an idea
+of how these neural nets might work,
+and he's gonna pursue it no matter what.
+For a little while, he's bouncing around
+research institutions in the US.
+He kinda gets fed up that
+most of them are funded
+by the defense departments
+and he starts looking
+for somewhere else he can go.
+I didn't wanna take
+defense department money.
+I sort of didn't like the idea
+that this stuff was gonna be used
+for purposes that I
+didn't think were good.
+He suddenly hears that
+Canada might be interested
+in funding artificial intelligence.
+And that was very attractive,
+that I could go off to this civilized town
+and just get on with it.
+So I came to the University of Toronto.
+And then in the mid '80s, we discovered
+I had to make more complicated neural nets
+so they could solve those problems
+that the simple ones couldn't solve.
+He and his collaborators developed
+a multi-layered neural
+network, a deep neural network.
+And this started to work in a lot of ways.
+Using a neural network, a
+guy named Dean Pomerleau
+built a self-driving car in the late '80s,
+and it drove on public roads.
+Yann LeCun, in the '90s, built a system
+that could recognize handwritten digits
+and this ended up being used commercially.
+But again they hit a ceiling.
+They didn't work quite well enough
+because we didn't have enough data,
+we didn't have enough compute power.
+And people in AI, in computer science,
+decided neural networks was
+wishful thinking basically.
+So it was a big disappointment.
+Through the '90s into the 2000s,
+Geoff was one of only a
+handful of people on the planet
+who are still pursuing this technology.
+He would show up at academic conferences
+and being banished to the back rooms.
+He was treated as really like a pariah.
+Was there like a time when you thought,
+this just wasn't gonna work?
+No.
+And you did have some self-doubt?
+I mean there were many
+times when I thought,
+I'm not gonna make this work.
+But Geoff was consumed by
+this and couldn't stop.
+He just kept pursuing the idea
+that computers could learn.
+Until about 2006, when
+the world catches up
+to Hinton's ideas.
+Computers were now a lot faster.
+And now it's behaving like I thought
+it would behave in the mid '80s.
+It's solving everything.
+The arrival of superfast chips
+and the massive amounts of
+data produced on the internet
+gave Hinton's algorithms a magical boost.
+Suddenly computers could
+identify what was in an image,
+then they could recognize speech
+and translate from one
+language to another.
+By 2012, words like neural
+nets and machine learning
+were popping up on the front
+page of The New York Times.
+You have to go all these years
+and then all of a sudden,
+in the span of a few months,
+it just takes off and it
+finally feel like, aha,
+the world has finally come to my vision.
+It's sort of a relief that people
+finally came to their senses.
+(laughter)
+Next up, we have Professor Geoffrey Hinton
+of the University of Toronto.
+(applause)
+Thank you.
+(calm music)
+For Hinton, this is obviously
+a really redemptive moment.
+Now he's basically a technology celebrity.
+And for Canada, it's the
+country's moment as well.
+They have more AI researchers
+than just about any
+other place on the planet
+and the quest now is to
+see what these guys can do,
+starting companies and pushing
+the technology forward.
+I'm gonna set out on a
+journey across Canada
+to see the best in Canadian AI technology
+and to get a feel for how
+far the technology has come
+and how far it still has to go.
+Here is a city that gets
+right at the central tension
+of modern life and the
+unfolding AI revolution.
+(church bell ringing)
+It's Montreal, a place filled with beauty
+and old world charms that ask you to move
+slowly through its streets
+and to chill for a while,
+reflect, and think deep thoughts.
+(calm music)
+At the same time, it's one of the world's
+top AI research centers.
+Students flock here
+from all over the globe
+to get deep with machine learning
+and to take Geoff Hinton's
+ideas and figure out
+how to turn them into products we all use.
+To see just how successful they've been,
+look no further than your pocket.
+All this stuff started out
+as hardcore computer science,
+but over the last five
+years AI has invaded
+our everyday lives.
+Your smartphone is packed
+full of AI-powered apps
+including something like Google Translate
+that lets you point
+your phone at a magazine
+that's written in French and
+read it as if you're a local.
+Engineers have been
+trying to get computers
+to translate text like this for decades,
+but it was Geoff's neural nets
+that finally made it possible.
+Thanks, Geoff.
+And it's not just your smartphone,
+neural networks are
+heading for the open road.
+Off we go.
+Meet my friend Stephane, the head
+of Montreal's Tesla Fan Club.
+I'm driving a Tesla for a little bit
+more than four years and a half.
+So do you have people asking
+you for rides all the time?
+Yes, all the time.
+Maybe that's because of his
+fancy pants autopilot,
+Tesla's semi-autonomous driving system
+that kicks in when road
+conditions are right.
+So that's it, autopilot's on.
+Yes, and it's driving by itself.
+So we need to pay attention
+but we don't have to drive.
+That's crazy.
+(laughter)
+Self-driving cars are
+packed full of camera,
+sensors and radar.
+When teamed with computer
+vision neural nets,
+it's this technology that lets the cars
+build a picture of the world.
+The technology has a long way to go,
+but this Tesla can monitor
+all the cars around it,
+switch lanes and park all by itself.
+Thanks, Geoff.
+So you're living in the future.
+Yeah.
+You know, when you try it once
+it's very difficult to do without it
+because I just can be relaxed
+and we can drive like this.
+Oops.
+There's a stop sign.
+That's why we still need to pay attention.
+(laughter)
+Back on the sidewalk, I tap
+those neural nets again.
+This time in the form
+of speech recognition.
+Find me some poutine, eh.
+I found a few places
+within 8.4 kilometers.
+Speech recognition used to suck,
+but now it's pretty darn good.
+Why?
+A neural net of course.
+Thanks, Geoff.
+The Google brain sent me here.
+For an artery hardening
+affair with poutine.
+Once a simple Quebec dish of cheese curds,
+French fries and gravy,
+it's been disrupted.
+The dandan, pepperoni, bacon and onions.
+Here we go.
+It's gooey, glorious and
+blessedly algorithm-free.
+Well now the humans are toast
+when they could make stuff like this.
+(calm music)
+A big part of Hinton's legacy lies beyond
+these examples of AI in the world.
+He's also inspired a legion of disciples
+spreading the good word of neural nets.
+Yoshua Bengio is a professor
+at the University of Montreal,
+he's one of the researchers who
+gloomed on to Hinton's ideas
+when it seemed to make
+little sense to do so.
+Over the years, he's formed
+a mind meld with Hinton,
+and together they've come up
+with many of the key concepts
+behind modern AI.
+You guys worked on this
+stuff through the '80s,
+the '90s, to 2000s and
+then it just seemed like
+this totally went from
+computer science and research
+to we see it everywhere in our lives.
+Are even you surprised what's happened
+in the last five years that it really is
+like sitting on all our phones and--
+The rate at which the progress
+and the industrial products
+have been coming up is totally
+something we didn't expect.
+Even now it's hard to predict,
+where are we going, is it gonna slow down,
+or are we gonna continue with
+this exponential increase.
+It's thanks to Yoshua
+that Montreal is full
+of top notch AI graduate talent.
+This in turn has brought tech giants
+like Google and Facebook to town,
+along with their ample checkbooks.
+To me, it seems like if you're good at AI
+you can make $200,000, $300,000 a year.
+It is crazy to see how much
+these guys get paid now.
+A million dollars is something
+quite common as a salary.
+Have you ever had a country offer you
+an incredible money to
+come set up a lab there?
+Not a country but, yeah, companies, yeah.
+But Yoshua has rejected
+the lucrative offers
+of big neural net.
+He remains committed to the
+ivory towers of academia,
+which is a better fit for his
+philosophical approach to AI.
+You've got guys like Elon
+Musk and Stephen Hawking
+that sometimes paint this technology
+in a very, very dark light
+that it could run amok
+and start doing things on its own.
+What do you feel when you hear
+people say things like that?
+I'm not concerned about
+technology running amok.
+The Terminator scenario I
+think is not very credible.
+And I also believe that if
+we're able to build machines
+that are as smart as us,
+they're also smart enough
+to understand our values and
+to understand our moral system
+and so act in a way that's good for us.
+Now I think there are real concerns
+which is essentially misuse of AI
+to influence people's minds.
+It's already happening
+with political advertising.
+Yeah, we've already seen
+like the stuff from Facebook.
+So I think we should
+be careful about this.
+And try to regulate the use of AI
+in places where it's morally
+wrong or ethically wrong,
+I think we just, we should just
+ban it and make it illegal.
+It's comforting that
+Yoshua has these concerns.
+But hop down the road from the university,
+in reality, or what's left
+of it, becomes messier.
+This tiny room is the home
+to a startup called Lyrebird.
+It was founded by Yoshua's former students
+and has built an app that
+can clone your voice.
+We were speaking about this new algorithm
+to copy voices.
+This is huge.
+It can make or say
+anything, really anything.
+One of its founders is this guy,
+Mexican expat Jose.
+He taught me the art of the clone.
+So you'll need to record yourself
+for a few minutes of audio.
+Thousands of letters danced across
+the amateur author screen.
+When you start to eat like
+this, something is the matter.
+You guys better quit
+politics and take in washing.
+I don't know where that
+one came from (laughs).
+Okay, so create my digital voice now.
+Creating your digital voice.
+Takes at least one minute.
+One minute, my God.
+Yeah, so before to create some
+artificial voice of someone
+you would need to record yourself
+for at least eight hours.
+Test your voice.
+All right, so now I get to type something.
+Yeah, so the moment of the truth.
+Okay.
+Once Lyrebird's AI has worked its magic,
+after I'm done typing.
+Better spell that out.
+Any words I put into the
+app can be played back
+in my digital voice.
+And here's the crazy thing.
+Even words I never actually
+said in the first place.
+Artificial intelligence technology
+seems to be advancing very quickly.
+Should we be afraid?
+I mean I can definitely
+hear my voice in there.
+That's really interesting.
+I just picked those words at random
+and I definitely did not say some of them
+and it's like flawless and
+being able to sort of pick
+from just about any
+word and manufacture it.
+Hello, world.
+This is the best show I have ever seen.
+This technology seems sweet,
+but lends itself to
+all manner of trickery.
+I've popped back to my hotel to test out
+the Lyrebird technology a little bit.
+And you could see some really obvious ways
+that this could be abused.
+This is fake Donald Trump talking.
+The United States is considering,
+in addition to other options,
+stopping all trade with any country
+doing business with North Korea.
+And then you could picture
+somebody taking over your voice
+and creating some mayhem
+in your personal life.
+Now to really put my
+computer voice to the test,
+I'm going to call my dear, sweet mother
+and see if she recognizes me.
+(phone ringing)
+Hey, mom.
+Hi.
+What are you guys up to today?
+I'm just finishing up work and waiting
+for the boys to get home.
+Okay.
+I think I'm coming down with a virus.
+(laughter)
+I was messing around with you.
+You were talking to the computer.
+(laughs) Is that scary or good?
+I don't know.
+(laughter)
+Is it?
+(calm music)
+After realizing that anyone with the time
+and inclination could mess with my life,
+there was only one thing left to do.
+I joined Jose and a few other Lyrebirds
+to chat more about the evils of AI
+while dulling my fear with booze.
+Obviously some people are
+freaked out by this technology
+because we're already
+like blurring the line
+about truth and reality.
+Of course there is some risk in people
+using this kind of technology
+for bad applications.
+Unfortunately, technologies
+it's not possible to stop it.
+So the ethical path that we have decided
+is to show these to
+people, to make them know
+that this kind of technology is available
+and to make them more cautious
+from this kind of subject.
+We really believe that right now
+that the technology is not perfect
+is the right time to let
+people kind of play with it,
+get used to it slowly.
+So you guys think that the
+idea is just sort of new
+and that's why it scares people,
+but if you get used to it it's just,
+that's just the way it is.
+We want our technology to
+be used for positive things.
+It's not something that we
+should be really afraid of,
+it's something that we
+should be careful about
+but I feel enthusiastic about.
+(calm music)
+It's nice to be enthusiastic.
+It's also nice to meditate
+on the consequences
+of your inventions, instead
+of turning our souls
+over to chance and blind luck.
+But it is kinda cool
+to be a cynical bastard
+in my new artisanal computer voice.
+Welcome Russian friends to our huge,
+wonderful and very pure elections.
+The real artificial intelligence weirdos
+in Canada live here in Edmonton.
+This is a large but very, very cold
+and very, very flat city.
+It is more or less in
+the middle of nowhere.
+It's the kind of place that
+has a giant butter vault
+to help people survive
+the lean winter months.
+Canadians like to put
+the best possible spin
+on how these conditions bring out
+interesting traits in people.
+Ask anyone.
+Like this guy from the
+Edmonton Tourist Center.
+Well Edmonton's one of those cities
+that isn't automatically listed
+in the top cities in Canada
+in terms of size or scale or notice even.
+But it's always had a
+really neat quality to it
+of that Western independent spirit
+that you see very much
+in Alberta in general,
+combined with a conscience
+and thoughtfulness.
+Over at the University of Alberta,
+some of the most far
+out AI research in world
+is taking place.
+The man I'm here to see is
+the university's very own
+AI godfather, Rich Sutton.
+Rich is considered one of the great
+revolutionary thinkers in AI.
+You are not Canadian.
+I am Canadian.
+You are (laughs), but not by birth.
+No, I was born in the US.
+But now I'm just Canadian.
+Okay.
+And what brought you to Canada?
+The politics.
+I wanted to get away from difficult times
+in the United States.
+United States was invading
+other countries in 2003
+when I came here and I
+didn't care for all that.
+Sutton entered the field
+of AI in the mid '80s.
+And like Geoff Hinton and Yoshua Bengio,
+he was a big believer in neural networks.
+But Sutton has a different idea
+about how to further the technology.
+Unlike Hinton's method of
+feeding neural networks
+reams and reams of data and
+telling them what to do.
+Sutton wants them to learn
+more naturally from experience,
+an approach called reinforcement learning.
+Reinforcement learning,
+it's like what animals do
+and what people do, try several things,
+the things that work
+best you keep doing those
+and things that don't work out
+so well you stop doing them.
+And how do you teach a computer that idea?
+The computer has to have a sense
+of what's good and what's bad.
+And so you give a special
+signal called a reward.
+If the reward is high
+that means it's good,
+if the reward is low that means it's bad.
+To see reinforcement learning in action,
+I found Marlos] an
+industrious young Brazilian
+whose created an AI to play
+his video games for him.
+His algorithm plays the
+game thousands of times
+and gradually learns from
+experience how to do better.
+So the goal of this game is
+that you are this yellow block
+and what you have to do
+is that you have to get
+as many potions as you can
+while avoiding harpies.
+And this is like the AI going
+at this for the first time.
+It's the AI running for the first time.
+So it just bumps into things.
+If it gets points it's happy,
+if it dies it's unhappy.
+Yes.
+And the AI starts to figure
+out that maybe what I wanna do
+is to collect the potions
+and avoid the harpies.
+And now we can look at AI
+that has ran for 5,000 games.
+Okay.
+And this is what it looks like.
+You can tell that it's smarter
+about its strategy.
+Yes.
+And then what happens if
+you run it 500,000 times?
+Oh, we got you this
+superhuman performance level.
+Though notching a high score
+is the noblest of pursuits,
+reinforcement learning
+has turned out to have
+all kinds of other applications.
+It's behind the algorithm
+that recommends movies
+and TV shows on Netflix and Amazon.
+It beat the world champion Go player,
+a feat previously thought
+impossible for a computer.
+Soon, it could read your brain waves
+and determine whether you
+have a mental disorder.
+But for Sutton, all that
+is just the beginning.
+We are trying to make real intelligence.
+We're trying to recreate
+human intelligence.
+Humans are our examples.
+He sees reinforcement learning as the path
+to what futurists call the singularity.
+The moment when our AI creations light up
+and surge past human level intelligence.
+Do you have dates for the singularity or?
+It's a quite broad
+probability distribution
+and the median is at 2040.
+So that means equal chance
+being before or after 2040.
+The rationale goes like this.
+By 2030, we'll have the hardware.
+So give guys like me another
+10 years to figure out
+the algorithms,
+the software to go with
+the hardware to do it
+and it's gonna be exciting
+where we're going.
+If 2040 seems like a long time
+to wait to meet a smart
+robot, do not fret.
+Over in the experimental
+wing of the university,
+there are coeds hard at
+work learning the line
+between humans and machines.
+Are you human?
+Of course not,
+but that shouldn't keep us from chatting.
+Case in point, homegrown
+Edmontonian genius,
+Kory Mathewson.
+Tell me about this guy a little bit or--
+Yeah, sure.
+Sure.
+So this is Blueberry.
+On Blueberry, I've
+deployed the Improv System
+so there's an artificial Improv System
+running on Blueberry right now.
+Yes, that's right, Kory does
+Improv comedy with a robot.
+I've been doing Improv longer
+than I've been doing computing science.
+I've been doing it for
+12 years and I thought
+there's no more natural convergence
+than taking some of these
+state-of-the-art systems
+and putting them up on stage.
+One day, we'll take it to
+the moon if this planet
+is not to be our last.
+(laughter)
+The sky, the moon, and the universe.
+The sun, the sun.
+The sky, the moon, and the universe.
+I keep thinking it's like ventriloquist
+or it is like a new edge.
+That's really good way to put it, yeah.
+Strange too as I thought it.
+The piece that's different is that
+I don't know what it will say.
+Anything that comes from the system,
+it's generating live in the moment.
+Blueberry, I created you.
+I downloaded a voice into your brain
+so that you could perform
+in front of these people.
+But I do not know what I'm going to say.
+I don't know what you're gonna say either.
+To give Blueberry the power of surreal
+Canadian Improv, Kory
+made use of some tech
+that should be familiar
+by now, a neural network.
+Step one, he feeds the
+network the dialogue
+from a bunch of movies.
+102,000 movies to be exact.
+All the movies.
+Every movie for 100 years.
+And that's just so it can learn language
+to see how somebody
+responds to somebody else.
+That's exactly right.
+Yeah, it builds kind of language model.
+Step two, he uses reinforcement learning
+to train the network.
+Rewarding it when it makes sense
+and the punishing it when
+it spits out gibberish.
+Time to put this wannabe
+kid in the hall to the test.
+There we go.
+Start improvising.
+Okay, campers, we're gonna get ready
+for a real baseball game.
+Grab your gloves and
+grab your baseball bats,
+let's get out there,
+especially you, Franklin.
+Okay, okay.
+Well, why aren't you ready for the match?
+Okay.
+Come on, Franklin, you
+know how I feel about you,
+but you gotta keep your
+head in the game right now.
+It's threatening you?
+I know.
+Oh, Jesus, put down the bat, Franklin.
+What are you doing?
+I've got nothing to hide.
+Look, this is all I am.
+Okay, I'll end it there.
+That's what how it work.
+That's great.
+Obviously, some of the responses
+are a little bit weird,
+but that it's really funny
+'cause then as you go along,
+it did hid a couple of things perfectly
+and then it's like, I
+mean, it's extra hilarious
+because, yeah, that's going.
+Blueberry may not be ready
+for its second city audition just yet,
+but Kory has a higher
+purpose: making AI relatable.
+Oh, it's gonna move.
+It's gonna move.
+It's gonna move.
+Holy crap.
+(laughter)
+There is fear in society of AI.
+So we are kind of humanizing this AI
+where we're taking it down a peg.
+We're saying don't be afraid of this tech.
+Look at how cute it is.
+Look at how kind of naive it is.
+Yeah, yeah, yeah that sounds cool.
+You've done it again, Blueberry.
+Isn't there a flip side to that though
+that you make it cute and
+then people start to accept it
+then we wake up?
+I mean, I don't think that
+will happen in my time.
+The singularity may be
+near or maybe not so near.
+But if the inhabitants of
+this oddly beautiful place
+keep pushing the technology,
+they just might create
+something alarmingly human-like one day.
+For Rich Sutton,
+it's not a question of
+whether we'll get there,
+but whether we'll be able to
+accept our mechanized brethren.
+Our society will be challenged.
+It's just like every time
+are lack people people,
+are women people,
+we will do the same thing
+with robots eventually.
+Are they allowed to own property?
+Are they allowed to earn an income
+or do they have to be owned by somebody?
+But a robot is obviously not a person.
+Right?
+No.
+(calm music)
+(upbeat music)
+For my last stop, I returned to Toronto.
+Home to 2.8 million people,
+one very tall tower,
+and of course, the godfather himself.
+Inside the system, there's
+also little processes
+which are a little bit like brain cells.
+He may be an import,
+but Geoff Hinton has done something
+truly exceptional for Toronto.
+He's turned this city into an AI Mecca
+where AI conferences like this
+one seem to take place daily
+(applauding)
+and where young minds come
+to show off their ideas.
+Canada, if we're being honest,
+doesn't usually seem that intimidating,
+but thanks to Geoff, it's got nothing
+less than world domination in mind.
+We are enormously thankful to Canadians
+for inventing all these
+stuff 'cause we now use it
+throughout our entire business--
+And we have it on record that he owns
+that Google owns Canada.
+We absolutely own Canada,
+so that was a mistake.
+The tech industry is full
+of people who adore AI.
+And then also some famous
+types like Elon Musk
+and Stephen Hawking who said,
+well, that AI might be the end of us.
+To consider such dystopia
+in the proper light,
+I've come to Toronto's geekiest bar
+to encase myself in this steel container
+with George Dvorsky.
+He's a writer for Gizmodo
+and an AI philosopher.
+Since we're in a Apocalyptic bar,
+what is the con case around AI?
+What's the nastiest scenario
+that everybody is worried about?
+Unfortunately, there is no
+shortage of nasty scenarios
+and I think this is what
+makes artificial intelligence
+such a scary thing is
+all the different ways
+that it can go wrong.
+It can be everything from an accident
+where we just didn't think it through.
+We gave a very powerful
+computer instructions
+to do something.
+We thought we explained it articulately,
+we thought we gave it a concrete goal
+and it completely took a different path
+than we thought it would in such a way
+that it actually caused some great damage.
+And I'm sure you've heard
+the old paper clip example
+where you're a paper clip
+manufacturer and you say, hey,
+we need lots of paper clips,
+and because the artificial intelligence
+has so much reach and so much power,
+it actually starts to go about
+converting all the matter
+and all the molecules on
+the planet into paper clips.
+Before you know it, we've now
+converted the entire cosmos
+into paper clips.
+It's a crazy scenario, but
+it's an illustrative scenario.
+We can't be dismissive of the perils.
+I think that's exceptionally dangerous
+and I don't think it's too early
+to start raising alarm bells about it.
+Being turned into clippie sounds awful.
+But fear not, we'll have years
+to ease into that sort of suffering
+as AI steadily plucks off
+one job after another.
+The first to go, of course, will likely be
+the always screwed factory workers
+which brings us to Suzanne Gilbert,
+a budding AI overlord
+and founder of robotic
+startup, Kindred AI.
+(calm music)
+Tell me about these guys.
+So these are research prototypes.
+So they're some of the first
+robots we've built at Kindred.
+We tend to work with small robots.
+It's a bit like if you
+imagine a child growing up
+and it breaks a lot of things.
+Now, imagine if the
+child was six feet tall
+when it have the brain of a six-month-old,
+it would be terribly dangerous.
+How many of these robots
+have ever slapped you?
+I have been hit in the face
+by robots a couple of times.
+Suzanne seems nice enough.
+She makes exotic digital art.
+And she loves cats to the
+point where she has built
+a robotic fleet of them for the office.
+This one, I usually call pink foot.
+It's a quadruped robot
+loosely based on cat anatomy,
+although it's not a very highly
+faithful representation yet.
+And then when you were growing up,
+you would build things as well?
+Yeah, that's correct, yeah.
+So I was really enthralled by
+electronics at an early age.
+I guess most little
+girls will be looking at
+trays of beads and things
+and I was looking at trays
+of like resistors and capacitors
+and little components,
+but having the same kind
+of reaction to them.
+But don't be fooled by
+the hobby electronics
+and the cute cat bots.
+Suzanne is a keen business woman.
+And Kindred has recently embarked
+on its first commercial venture.
+What's going on here is that
+we have a bank of robots
+that are learning,
+so they are continuously
+running picking up objects.
+These would run all day?
+All day, all night.
+Powered by a neural network,
+these arms can do something
+that's very easy for a human,
+but very hard for a bot.
+Pick up objects of different
+shapes and put them down.
+Most factories still use people
+to do that sort of thing,
+lots and lots of people.
+Today, everyone's shopping on ecommerce.
+Thousands and thousands of
+different types of objects,
+shapes, textures, weights,
+how do you pick that up?
+Right now as humans, we
+have millions of humans
+in warehouses just like picking up things
+and putting it into another location,
+so we're teaching our
+robots how to do that.
+What's the hard part is figuring out
+what's a belt, what's a shirt
+or it's just how to grasp it.
+Yeah, exactly.
+It's very hard to pick it up, right?
+So things will show up in any shape
+and you gotta figure out how
+to pick up without dropping it,
+put in the location.
+So it takes a lot of training.
+Part of the training involves,
+of all things, humans.
+Robot pilots who manually control the arms
+while the AI watches
+and learns the finer points of grabbing.
+All right, man, teach me
+how to use this thing.
+Have a seat.
+So you see a 3D mouse here,
+this lets you navigate the
+arm through dimensional space.
+So imagine you're holding
+the arm in that left hand
+and you're just moving around.
+Move it slowly and gently.
+There you go.
+I'm trying to get the Oreos.
+I gotta go up.
+Oh, shoot, I went too far up.
+I want these Oreos.
+(grunts)
+You killed the can.
+You lose.
+Come back to me arm.
+There, success.
+It's like being in an arcade.
+Basically.
+It's like you actually
+get to win something.
+Just down the hall, Kindred keeps a room
+full of pilots doing the same thing as me.
+Only these guys are actually competent.
+They're remotely overseeing
+some arms in a Gap factory,
+a thousand miles away in Tennessee.
+How long have you been a robot pilot?
+Just over a month actually.
+I've only been here five weeks.
+What was the training process like?
+Almost like playing a video game.
+It's a like shirt, done.
+That's a backpack.
+That's a backpack, okay.
+Somebody's undies.
+Oh, there it goes.
+One shirt at a time.
+(calm music)
+As the arms observed their human guides,
+they gradually learn how to do better
+at picking up T-shirts and shoe boxes.
+Eventually, they'll be fully autonomous
+and size services will
+no longer be required.
+One day, this is just gonna light up
+and it's gonna be picking the objects--
+Pretty much.
+Pretty much that's the ultimate
+end goal at least for these
+to have it just constantly
+wearing and going.
+And the people will be free.
+The people will be free to do
+other more important things.
+So he seemed kind of
+happy about the prospect
+of unemployment, but I was
+concerned for his future.
+Isn't there something grim
+about the human training there?
+Yeah, it's not good to
+take people's jobs away,
+but this kind of technology
+coming into the workforce
+should make us stop thinking
+about how we're going to
+pay people in the future
+because AI is not just going
+to automate manual labor jobs,
+it's gonna automate things
+like doctors, and lawyers,
+and accountants very soon,
+so I think there's gonna be issues,
+there's gonna be a lot of disruption
+when these things come online.
+Suzanne is a realist, but
+she's also an optimist.
+In her vision of the future,
+robots won't be mindless
+competitors to humanity.
+They'll be full-fledged
+citizens like the rest of us.
+One of the crazy ideas
+that you talked about was
+you've got a robot and
+it's working at a factory
+and then it's gotta go,
+maybe it gets paid a wage
+and it goes to buy lithium-ion
+batteries to keep it going.
+Why would that have to happen?
+I mean, if you're having a physical body
+then you will have a lot of physical needs
+just like we have.
+You might have to go to the repair shop
+to get like motor looked
+at or something like that
+and they'll have to
+pay someone to do that.
+I think they'll just be
+contributing to our economy
+in the same way we do.
+And if they have brains
+like us, they'll want to
+explore new things
+they've never seen before,
+they'll want to learn things,
+they'll want to perhaps rest
+so that their mind has time to consolidate
+all this new information.
+I'm trying to picture it in my head
+this little robot worker.
+Does he go home and sit on the
+couch, watch TV after work?
+I don't see why not.
+They probably watch cat
+videos like the rest of us.
+It's hard to tell sometimes if Suzanne
+is laughing with us or at us.
+But she's not alone in her
+cautious optimism for the future.
+I think there's always a
+sense that technology can be
+either used for good or
+used for bad unreassured
+that Canada is part of it
+in terms of trying to
+set us on the right path.
+On the whole being
+responsible and thoughtful
+about the power we're gaining
+by research and learning
+is the right trend line,
+and I don't think AI
+is automatically doomed
+to some dystopian outcome.
+We're told that politicians will come up
+with policies that
+address massive job loss
+and prevent horrific
+inequality between the classes.
+And we're told that these
+guys will take so long
+to become human-like that we
+need not be afraid for a while.
+The truth though is that
+we're turning ourselves
+over to the unknown here.
+So, you know, fingers crossed.
+Eventually, I think we
+will become the AIs.
+We will become the intelligent machines.
+We will understand how things can be smart
+and we can deliberately create them.
+So it's you might think of it
+as making a new generation,
+new kinds of people.
+Humanity is continuing to evolve,
+and why wouldn't enhanced
+people or even design people
+be the next step in humanity?
+It's really hard to predict the future.
+I think there's gonna be all
+sorts of things happening
+we didn't expect, but there's
+one thing that we can predict.
+This technology is
+gonna change everything.
+Good bye.
+Good bye.
+Good bye.
+Good bye.
+Once I power you down, that's it.
+Yeah, that's right.
+We'll end it right there.
+That was getting deep.
+That was getting really deep.

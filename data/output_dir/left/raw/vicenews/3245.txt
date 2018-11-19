@@ -1,0 +1,532 @@
+1
+00:00:01,970 --> 00:00:06,120
+<font color="#CCCCCC">as</font><font color="#E5E5E5"> a controller that</font><font color="#CCCCCC"> moves it up and</font>
+
+2
+00:00:06,120 --> 00:00:07,710
+then you could also<font color="#E5E5E5"> tilt</font><font color="#CCCCCC"> in a different</font>
+
+3
+00:00:07,710 --> 00:00:11,400
+direction<font color="#CCCCCC"> this</font><font color="#E5E5E5"> is like a like a guard</font>
+
+4
+00:00:11,400 --> 00:00:13,380
+dog<font color="#E5E5E5"> like it's like in front of you and</font>
+
+5
+00:00:13,380 --> 00:00:14,610
+like<font color="#CCCCCC"> you have your</font><font color="#E5E5E5"> gun and you're</font>
+
+6
+00:00:14,610 --> 00:00:17,010
+<font color="#CCCCCC">shooting in this</font><font color="#E5E5E5"> is good or it could be</font>
+
+7
+00:00:17,010 --> 00:00:18,960
+for<font color="#CCCCCC"> a crowd control situation you</font><font color="#E5E5E5"> may</font>
+
+8
+00:00:18,960 --> 00:00:22,740
+not have the idea<font color="#CCCCCC"> of</font><font color="#E5E5E5"> military technology</font>
+
+9
+00:00:22,740 --> 00:00:25,920
+is scary<font color="#E5E5E5"> because</font><font color="#CCCCCC"> it seems like</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> most</font>
+
+10
+00:00:25,920 --> 00:00:28,349
+brilliant scientific minds are inventing
+
+11
+00:00:28,349 --> 00:00:30,720
+the most creative ways to tear human
+
+12
+00:00:30,720 --> 00:00:33,180
+bodies into little pieces<font color="#CCCCCC"> but</font><font color="#E5E5E5"> the</font>
+
+13
+00:00:33,180 --> 00:00:35,340
+reality of<font color="#CCCCCC"> thar deck the armies tank</font>
+
+14
+00:00:35,340 --> 00:00:37,200
+automotive<font color="#CCCCCC"> research development and</font>
+
+15
+00:00:37,200 --> 00:00:39,420
+Engineering Center<font color="#E5E5E5"> is a little more fun</font>
+
+16
+00:00:39,420 --> 00:00:40,950
+on this is fun
+
+17
+00:00:40,950 --> 00:00:43,710
+these machines<font color="#E5E5E5"> are not killer just</font>
+
+18
+00:00:43,710 --> 00:00:46,440
+<font color="#E5E5E5">killing adjacent</font><font color="#CCCCCC"> we actually work from</font>
+
+19
+00:00:46,440 --> 00:00:48,870
+<font color="#E5E5E5">these small</font><font color="#CCCCCC"> sized robots here all the</font>
+
+20
+00:00:48,870 --> 00:00:51,020
+way up to the<font color="#E5E5E5"> very large trucks</font>
+
+21
+00:00:51,020 --> 00:00:53,699
+<font color="#E5E5E5">developing robots isn't a new interest</font>
+
+22
+00:00:53,699 --> 00:00:55,500
+for the army<font color="#CCCCCC"> their first was built back</font>
+
+23
+00:00:55,500 --> 00:00:58,289
+<font color="#E5E5E5">in the 1950s a remote-controlled roving</font>
+
+24
+00:00:58,289 --> 00:01:00,449
+platform<font color="#E5E5E5"> called little David made in</font>
+
+25
+00:01:00,449 --> 00:01:02,280
+response<font color="#E5E5E5"> to a German one called Goliath</font>
+
+26
+00:01:02,280 --> 00:01:04,110
+<font color="#CCCCCC">troops in this area I call it the</font>
+
+27
+00:01:04,110 --> 00:01:06,840
+Doodlebug<font color="#E5E5E5"> since then the lab has come up</font>
+
+28
+00:01:06,840 --> 00:01:09,090
+with all<font color="#CCCCCC"> sorts of gear and gadgets</font><font color="#E5E5E5"> the</font>
+
+29
+00:01:09,090 --> 00:01:12,530
+most never<font color="#E5E5E5"> make it into</font><font color="#CCCCCC"> the field</font>
+
+30
+00:01:14,560 --> 00:01:17,390
+but one<font color="#CCCCCC"> technology that is expected</font><font color="#E5E5E5"> to</font>
+
+31
+00:01:17,390 --> 00:01:19,430
+<font color="#CCCCCC">be used</font><font color="#E5E5E5"> by troops next fall is called</font>
+
+32
+00:01:19,430 --> 00:01:21,829
+<font color="#E5E5E5">leader follower</font><font color="#CCCCCC"> it's a system in which a</font>
+
+33
+00:01:21,829 --> 00:01:23,479
+manned<font color="#E5E5E5"> Chuck can have any number</font><font color="#CCCCCC"> of</font>
+
+34
+00:01:23,479 --> 00:01:25,880
+driverless trucks follow it in a convoy
+
+35
+00:01:25,880 --> 00:01:27,799
+<font color="#E5E5E5">about half of the Army's</font><font color="#CCCCCC"> war-related</font>
+
+36
+00:01:27,799 --> 00:01:30,860
+fatalities come from IEDs and later
+
+37
+00:01:30,860 --> 00:01:32,899
+follower means fewer humans are<font color="#E5E5E5"> exposed</font>
+
+38
+00:01:32,899 --> 00:01:33,530
+to them
+
+39
+00:01:33,530 --> 00:01:35,840
+how does leader follower work<font color="#E5E5E5"> so leader</font>
+
+40
+00:01:35,840 --> 00:01:38,329
+follower is a combination of a<font color="#CCCCCC"> bunch</font><font color="#E5E5E5"> of</font>
+
+41
+00:01:38,329 --> 00:01:40,909
+sensors that<font color="#CCCCCC"> are fused</font><font color="#E5E5E5"> together</font><font color="#CCCCCC"> to</font>
+
+42
+00:01:40,909 --> 00:01:43,009
+follow<font color="#E5E5E5"> something in front of it</font><font color="#CCCCCC"> so we</font>
+
+43
+00:01:43,009 --> 00:01:45,530
+have<font color="#E5E5E5"> cameras that work like your eyes we</font>
+
+44
+00:01:45,530 --> 00:01:47,390
+<font color="#E5E5E5">have radar sends out a radio signal it</font>
+
+45
+00:01:47,390 --> 00:01:49,640
+bounces back<font color="#E5E5E5"> calculates the time we have</font>
+
+46
+00:01:49,640 --> 00:01:51,709
+lidar<font color="#E5E5E5"> which</font><font color="#CCCCCC"> basically works just like a</font>
+
+47
+00:01:51,709 --> 00:01:53,720
+radar<font color="#CCCCCC"> but sends out a light</font><font color="#E5E5E5"> signal</font><font color="#CCCCCC"> so</font>
+
+48
+00:01:53,720 --> 00:01:55,880
+all<font color="#E5E5E5"> these things allow us to track and</font>
+
+49
+00:01:55,880 --> 00:01:58,729
+build the world around us so one vehicle
+
+50
+00:01:58,729 --> 00:02:00,530
+can tell the one<font color="#CCCCCC"> behind it like okay I</font>
+
+51
+00:02:00,530 --> 00:02:02,720
+just<font color="#E5E5E5"> went</font><font color="#CCCCCC"> over</font><font color="#E5E5E5"> a pothole</font><font color="#CCCCCC"> it's not so</font>
+
+52
+00:02:02,720 --> 00:02:04,489
+deep so you can drive<font color="#CCCCCC"> over it or</font><font color="#E5E5E5"> maybe</font>
+
+53
+00:02:04,489 --> 00:02:05,869
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> should go around</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> it's that kind</font>
+
+54
+00:02:05,869 --> 00:02:06,319
+of thing
+
+55
+00:02:06,319 --> 00:02:08,360
+correct<font color="#CCCCCC"> but we actually use a cheat the</font>
+
+56
+00:02:08,360 --> 00:02:10,549
+really<font color="#E5E5E5"> hard problem of perceiving the</font>
+
+57
+00:02:10,549 --> 00:02:12,079
+world<font color="#E5E5E5"> and knowing where</font><font color="#CCCCCC"> to navigate on</font>
+
+58
+00:02:12,079 --> 00:02:14,239
+it we're still<font color="#E5E5E5"> letting a man in the loop</font>
+
+59
+00:02:14,239 --> 00:02:16,549
+do that<font color="#E5E5E5"> do you</font><font color="#CCCCCC"> feel like Alfred in</font>
+
+60
+00:02:16,549 --> 00:02:21,170
+Batman<font color="#CCCCCC"> sometimes sometimes I</font><font color="#E5E5E5"> go more for</font>
+
+61
+00:02:21,170 --> 00:02:24,620
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> Ironman analogy but like</font><font color="#E5E5E5"> most</font><font color="#CCCCCC"> people</font>
+
+62
+00:02:24,620 --> 00:02:25,670
+who<font color="#E5E5E5"> work at tar deck</font>
+
+63
+00:02:25,670 --> 00:02:28,459
+<font color="#E5E5E5">Tyson is</font><font color="#CCCCCC"> a civilian</font><font color="#E5E5E5"> so two or three</font>
+
+64
+00:02:28,459 --> 00:02:30,079
+<font color="#E5E5E5">times a year they host soldier</font>
+
+65
+00:02:30,079 --> 00:02:32,630
+innovation workshops where soldiers<font color="#E5E5E5"> work</font>
+
+66
+00:02:32,630 --> 00:02:34,790
+with<font color="#E5E5E5"> designers to draft new ideas to</font>
+
+67
+00:02:34,790 --> 00:02:36,019
+figure out how to<font color="#E5E5E5"> make the next</font>
+
+68
+00:02:36,019 --> 00:02:38,989
+<font color="#E5E5E5">generation</font><font color="#CCCCCC"> of war bugs so I think the</font>
+
+69
+00:02:38,989 --> 00:02:40,579
+number<font color="#E5E5E5"> one request we get from soldiers</font>
+
+70
+00:02:40,579 --> 00:02:42,109
+and Marines is when are we gonna get<font color="#E5E5E5"> a</font>
+
+71
+00:02:42,109 --> 00:02:44,389
+gun on this<font color="#E5E5E5"> yeah so everybody wants to</font>
+
+72
+00:02:44,389 --> 00:02:46,100
+<font color="#E5E5E5">be able to put a weapon on the robot to</font>
+
+73
+00:02:46,100 --> 00:02:49,310
+get<font color="#E5E5E5"> out to be</font><font color="#CCCCCC"> able</font><font color="#E5E5E5"> to fight we are not</font>
+
+74
+00:02:49,310 --> 00:02:53,750
+building terminators<font color="#E5E5E5"> slaughter BOTS</font><font color="#CCCCCC"> you</font>
+
+75
+00:02:53,750 --> 00:02:56,329
+pick your version the army has an
+
+76
+00:02:56,329 --> 00:02:58,880
+explicit rule that humans decide when<font color="#CCCCCC"> to</font>
+
+77
+00:02:58,880 --> 00:03:01,400
+kill that's why the persistent killer
+
+78
+00:03:01,400 --> 00:03:03,950
+robots question annoys<font color="#E5E5E5"> Robert Sadowski</font>
+
+79
+00:03:03,950 --> 00:03:07,400
+the Army's chief roboticist<font color="#CCCCCC"> we are</font>
+
+80
+00:03:07,400 --> 00:03:09,650
+<font color="#E5E5E5">looking at how I remote the lethality</font>
+
+81
+00:03:09,650 --> 00:03:12,319
+it's not the same<font color="#E5E5E5"> thing as making a</font>
+
+82
+00:03:12,319 --> 00:03:14,120
+robot that I'm just going<font color="#CCCCCC"> to</font><font color="#E5E5E5"> throw out</font>
+
+83
+00:03:14,120 --> 00:03:16,609
+<font color="#E5E5E5">there all by itself and say go out hunt</font>
+
+84
+00:03:16,609 --> 00:03:19,790
+and destroy<font color="#CCCCCC"> ok remoting the lethality</font>
+
+85
+00:03:19,790 --> 00:03:22,730
+that means making soldiers better at
+
+86
+00:03:22,730 --> 00:03:23,830
+killing<font color="#CCCCCC"> the enemy</font>
+
+87
+00:03:23,830 --> 00:03:26,440
+greater distance yes<font color="#E5E5E5"> and it's not from</font>
+
+88
+00:03:26,440 --> 00:03:28,360
+thousands<font color="#E5E5E5"> of miles away I keep trying to</font>
+
+89
+00:03:28,360 --> 00:03:29,980
+<font color="#E5E5E5">tell folks that maybe half a terrain</font>
+
+90
+00:03:29,980 --> 00:03:31,900
+feature away I have<font color="#E5E5E5"> to maintain</font><font color="#CCCCCC"> positive</font>
+
+91
+00:03:31,900 --> 00:03:33,400
+control of the system<font color="#CCCCCC"> do you think</font>
+
+92
+00:03:33,400 --> 00:03:36,120
+robots will make it easier to<font color="#E5E5E5"> win wars</font>
+
+93
+00:03:36,120 --> 00:03:40,300
+one would hope so again<font color="#CCCCCC"> I want us to be</font>
+
+94
+00:03:40,300 --> 00:03:41,800
+the ones<font color="#CCCCCC"> who make it</font><font color="#E5E5E5"> easier to win the</font>
+
+95
+00:03:41,800 --> 00:03:44,950
+war<font color="#E5E5E5"> do you ever like lie awake and I</font>
+
+96
+00:03:44,950 --> 00:03:46,890
+didn't think I go what if I'm making
+
+97
+00:03:46,890 --> 00:03:51,640
+<font color="#E5E5E5">terrible</font><font color="#CCCCCC"> machines or does</font><font color="#E5E5E5"> a tank itself</font>
+
+98
+00:03:51,640 --> 00:03:54,580
+is a terrible<font color="#E5E5E5"> machine of death</font><font color="#CCCCCC"> I don't</font>
+
+99
+00:03:54,580 --> 00:03:56,590
+look at it<font color="#E5E5E5"> that way I'm not like naive</font>
+
+100
+00:03:56,590 --> 00:03:58,150
+<font color="#E5E5E5">enough</font><font color="#CCCCCC"> to say oh yeah I'm building</font>
+
+101
+00:03:58,150 --> 00:03:59,470
+killer robots<font color="#E5E5E5"> and I'm not worried about</font>
+
+102
+00:03:59,470 --> 00:04:01,660
+the potential implications<font color="#CCCCCC"> I'm very</font>
+
+103
+00:04:01,660 --> 00:04:03,160
+worried<font color="#E5E5E5"> about making</font><font color="#CCCCCC"> sure that</font><font color="#E5E5E5"> we build</font>
+
+104
+00:04:03,160 --> 00:04:05,230
+<font color="#E5E5E5">systems in such a way that we understand</font>
+
+105
+00:04:05,230 --> 00:04:07,240
+what they do we understand how they
+
+106
+00:04:07,240 --> 00:04:08,860
+continue<font color="#CCCCCC"> in soldiers and how they</font><font color="#E5E5E5"> can</font>
+
+107
+00:04:08,860 --> 00:04:10,600
+provide them an advantage<font color="#E5E5E5"> does making</font>
+
+108
+00:04:10,600 --> 00:04:13,060
+<font color="#E5E5E5">these kinds of missions less</font><font color="#CCCCCC"> lethal for</font>
+
+109
+00:04:13,060 --> 00:04:15,010
+the American side mean<font color="#E5E5E5"> politicians are</font>
+
+110
+00:04:15,010 --> 00:04:18,459
+more likely to one-up engage<font color="#E5E5E5"> this is a</font>
+
+111
+00:04:18,459 --> 00:04:20,260
+hybrid formation I keep trying<font color="#E5E5E5"> to tell</font>
+
+112
+00:04:20,260 --> 00:04:25,270
+<font color="#CCCCCC">there are</font><font color="#E5E5E5"> people there sadowski's point</font>
+
+113
+00:04:25,270 --> 00:04:27,250
+is that we're a long way<font color="#E5E5E5"> from the fully</font>
+
+114
+00:04:27,250 --> 00:04:29,050
+autonomous<font color="#E5E5E5"> Energizer Bunny</font>
+
+115
+00:04:29,050 --> 00:04:31,720
+<font color="#E5E5E5">esque</font><font color="#CCCCCC"> robot dogs in</font><font color="#E5E5E5"> black mirror not</font>
+
+116
+00:04:31,720 --> 00:04:33,550
+necessarily because<font color="#CCCCCC"> it's creepy or</font>
+
+117
+00:04:33,550 --> 00:04:35,740
+unethical<font color="#CCCCCC"> but because we</font><font color="#E5E5E5"> don't have the</font>
+
+118
+00:04:35,740 --> 00:04:37,540
+<font color="#CCCCCC">battery technology to power</font><font color="#E5E5E5"> it and</font>
+
+119
+00:04:37,540 --> 00:04:39,370
+they're not<font color="#E5E5E5"> smart enough</font><font color="#CCCCCC"> to operate</font>
+
+120
+00:04:39,370 --> 00:04:42,040
+<font color="#CCCCCC">without humans oh ok so like</font><font color="#E5E5E5"> if I was</font>
+
+121
+00:04:42,040 --> 00:04:45,970
+tied up shooting<font color="#E5E5E5"> that bad guys yeah for</font>
+
+122
+00:04:45,970 --> 00:04:48,190
+now<font color="#CCCCCC"> war robots will do more mundane</font>
+
+123
+00:04:48,190 --> 00:04:51,190
+tasks like follow a truck while carrying
+
+124
+00:04:51,190 --> 00:04:53,230
+a lot of<font color="#E5E5E5"> stuff</font><font color="#CCCCCC"> over</font><font color="#E5E5E5"> a smooth</font><font color="#CCCCCC"> terrain</font>
+
+125
+00:04:53,230 --> 00:04:56,100
+<font color="#E5E5E5">with few</font><font color="#CCCCCC"> trees you could hand over</font><font color="#E5E5E5"> your</font>
+
+126
+00:04:56,100 --> 00:04:58,630
+vehicle<font color="#CCCCCC"> to a robotic motor now your</font>
+
+127
+00:04:58,630 --> 00:05:00,220
+commander<font color="#E5E5E5"> could be controlling it so you</font>
+
+128
+00:05:00,220 --> 00:05:01,960
+could either do training or maybe<font color="#E5E5E5"> return</font>
+
+129
+00:05:01,960 --> 00:05:04,240
+fire on an enemy<font color="#E5E5E5"> or you could like check</font>
+
+130
+00:05:04,240 --> 00:05:07,860
+<font color="#E5E5E5">Instagram or check Instagram</font>
+
+131
+00:05:07,860 --> 00:05:10,410
+oh the world ended
+
+132
+00:05:10,410 --> 00:05:13,529
+[Music]
+
+133
+00:05:20,169 --> 00:00:00,000
+you
+

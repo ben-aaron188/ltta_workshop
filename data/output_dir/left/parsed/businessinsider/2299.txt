@@ -1,0 +1,206 @@
+so NCAA vault what is it the NCAA vault
+is basically attached ncaa.com which the
+NCAA's web primary website for
+championships and the vault essentially
+is a video platform in which we've taken
+150 games from the last decade from the
+NCAA division women's basketball
+tournament and open them up to the
+public you can access those games free
+of charge you can jump into the games at
+any point in time and those games are
+from the sweet 16 of the tournament
+through the championship game so it's a
+really interesting piece in which we've
+enabled consumers to come in and look at
+the archive and open it up to there to
+there like and they can they can work
+with it and it's not just a raw you know
+several hours of live games it's every
+moment is indexed and there's metadata
+so you could look for a specific shot a
+specific moment and then link directly
+to that yes it's really a new publishing
+model when it comes to video in
+broadband so effectively we've indexed
+every play every stat every player for
+the sweet 16 championship game or sweet
+16 games all the way to the championship
+for the last decade so we've enabled it
+to where every moment is already pre
+identified but we've also made it into
+our players so that if the consumer
+can't find didn't see what they were
+looking for they can instantly hit you
+know and create their own moment and
+post it into facebook twitter and other
+social mediums as well and what's the
+point of breaking the game into moments
+like this as opposed to just chunking it
+up into plays the way youtube might what
+we found over time is that people
+consume video online not so much on a on
+a full game basis but on a moment basis
+people want to be able to instantly jump
+into a full game and they instantly want
+to be able to go across any given moment
+that's relevant to them if they just
+want to come in and get a dunk they can
+actually look at each individual gunk
+from each individual player and they'll
+spend time breaking the game down and
+consuming what they want rather than
+having to watch a two-hour make a
+two-hour commitment into a game so it's
+all about just more viewership more
+dwell time and getting consumers
+specific relevance based on their so
+they can spend their time more
+effectively so obviously a lot of
+college students would watch something
+like this a huge endemic audience there
+but who else is a site like this for I
+think not only the college audience but
+also the media can use it as
+well I mean if you go back and if the
+media is writing a story and they're
+comparing a game from 2003 to a game in
+this year's tournament and they want to
+talk to a moment they can easily go in
+and link right into the vault that the
+exact moment that they're describing in
+the story they can post a link boom
+takes the consumer right into the vault
+and the media thing can show the example
+of exactly what they're trying to
+describe in the written article so if
+you're a sports blogger you don't have
+to hope that an old game is archived on
+YouTube and then tell someone go to
+minute five second three it's something
+you could send a specific link to that
+moment directly from your site to theirs
+absolutely i think we already seeing
+that there's some that's already out
+there this was out in the soft launch
+last week and it's just kind of virally
+taking off and bloggers are already
+starting to do that it's great so one
+thing you're going to hear a lot of
+complaints about is you can't right now
+embed videos what's what's kind of in
+the future of the platform what are some
+things you're going to add to it so
+we'll add the full screen capability
+right now it's it's designed for
+actually the consumption putting more
+metadata around it so we'll add the
+fullscreen player and we'll also make it
+to her eventually we'll add the the
+embeddable side of it right now though
+people the consumer web people are
+really excited about is that they
+actually don't have to come in and
+search and wait anymore so the speed of
+the player is actually extremely fast
+the consumers are very happy because it
+connects directly into their facebook
+and twitter you know commenting sections
+so because a lot of its connected to the
+social medium player embeds aren't
+necessarily is relevant for this first
+phase but as it gets more into the
+blogger space and to the publishing
+space that's something that will do for
+phase two so some sports leagues have
+done a nice job with mobile and the ipad
+is coming out and these are both
+platforms where flash is not part of
+them and your site right now is built in
+flash can you going forward serve more
+platforms yeah so everything in our
+particular system today it is
+flash-based however every given moment
+is actually broken down and is that
+addressable so it is an indexable kind
+of URL if you will so even though
+there's a consumer front in this flash
+base the entire back end of our platform
+allows for the push to all the other
+platforms as well literally all the way
+to the live broad
+asked if we want so it's a very flexible
+dynamic system and will support those
+particular pieces again our focus was
+simply on getting the social context out
+because that's really where social
+context meets the archive is how the
+rights and the value is starting to
+really develop out of these collections
+so Greg you are not a TV network you're
+not even a for-profit company what's the
+whole point of the NCAA taking all this
+footage turning into a site and hoping
+that people would go there sure a couple
+things number one is we're trying to
+provide value back to the site of
+ncaa.com and the rights holder in that
+case which is CBS CBS has the
+opportunity but working with them
+they're the ones that are physically
+going out and selling the NCA bolt so in
+conjunction with thought equity what
+we're providing is a unique asset for
+NCAA com to hopefully help CBS and
+continue to drive the value of the site
+the same time also trying to open up the
+NCAA basketball and help promote the
+NCAA brand through the vault I mean to
+have all those games available and
+people can easily access them it's not a
+closed where people can't find it now
+let's it's open to anybody and it's just
+it's a great way to promote the game so
+you talk of this is kind of a pilot
+project what makes you happy what's a
+successful pilot for you in terms of
+readers or viewers or video streamed or
+something like that sure last March NCAA
+com had about 15 million unique visitors
+and that takes into account March
+Madness on the man which is the live
+component of where all 63 games from the
+first round on or streamed live from the
+tournament we for success for this would
+look to have somewhere between the
+million and the million five range for
+the NCAA of all along so about ten to
+fifteen percent of that traffic for just
+the in cville we had that I think it
+would be a huge looks each student
+looked at one video if you look at one
+video for ten minutes we need we need to
+make sure they're looking at it for a
+while that would be great with the
+ability to do a lot of stuff on the web
+now and and run your own ship is this is
+this a future beyond CBS or is that
+taking it too far that may be taking a
+24 I think what we're trying to do is
+open up and be on the forefront in terms
+of people accessing content and
+eventually we would love to open up our
+entire archive and includes 23 sports 88
+championships and to have any
+student-athlete whether it be the
+student athletes that competed in the
+division three volleyball championship
+go in and see their content and their
+name linked into their stats and be able
+to find their place that's like a dream
+there's a long way to get there and this
+is just kind of the beginning of it we
+hope that this month will prove that
+this content does have value and we
+continue to build it out and include
+those other sports

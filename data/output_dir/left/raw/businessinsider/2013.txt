@@ -1,0 +1,176 @@
+1
+00:00:04,879 --> 00:00:08,309
+we<font color="#CCCCCC"> analyzed</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> data</font><font color="#E5E5E5"> to find the names</font>
+
+2
+00:00:08,309 --> 00:00:10,559
+that were disproportionately<font color="#E5E5E5"> popular in</font>
+
+3
+00:00:10,559 --> 00:00:16,470
+each state<font color="#CCCCCC"> for men born in 1984 these</font>
+
+4
+00:00:16,470 --> 00:00:18,390
+<font color="#E5E5E5">names are the most popular in each state</font>
+
+5
+00:00:18,390 --> 00:00:20,970
+<font color="#CCCCCC">relative to the rest of</font><font color="#E5E5E5"> the nation to be</font>
+
+6
+00:00:20,970 --> 00:00:22,740
+clear these are<font color="#E5E5E5"> not</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> most popular</font>
+
+7
+00:00:22,740 --> 00:00:24,779
+names in<font color="#E5E5E5"> each state but the name used at</font>
+
+8
+00:00:24,779 --> 00:00:27,980
+the most unusually high rate for example
+
+9
+00:00:27,980 --> 00:00:30,840
+<font color="#CCCCCC">1% of all boys in New</font><font color="#E5E5E5"> Mexico were named</font>
+
+10
+00:00:30,840 --> 00:00:34,620
+Gabriel in 1984<font color="#E5E5E5"> compared to only 0.2% in</font>
+
+11
+00:00:34,620 --> 00:00:36,110
+the rest of the country
+
+12
+00:00:36,110 --> 00:00:38,489
+Gabriel's were over-represented in this
+
+13
+00:00:38,489 --> 00:00:41,190
+state<font color="#E5E5E5"> Matthew was favored in Ohio and</font>
+
+14
+00:00:41,190 --> 00:00:42,120
+Pennsylvania
+
+15
+00:00:42,120 --> 00:00:44,730
+James is more popular among men born in
+
+16
+00:00:44,730 --> 00:00:48,890
+Alabama Arkansas<font color="#CCCCCC"> Georgia and Mississippi</font>
+
+17
+00:00:49,039 --> 00:00:51,180
+<font color="#CCCCCC">Hosea was more popular in California</font>
+
+18
+00:00:51,180 --> 00:00:55,469
+<font color="#CCCCCC">Arizona</font><font color="#E5E5E5"> and Texas</font><font color="#CCCCCC"> 27% of Jose's born in</font>
+
+19
+00:00:55,469 --> 00:00:59,129
+1984 were in Texas<font color="#CCCCCC"> 36% were</font><font color="#E5E5E5"> in</font>
+
+20
+00:00:59,129 --> 00:01:04,049
+California<font color="#E5E5E5"> Michael was the most popular</font>
+
+21
+00:01:04,049 --> 00:01:06,330
+<font color="#CCCCCC">name in 1984</font><font color="#E5E5E5"> but it was even</font><font color="#CCCCCC"> more</font>
+
+22
+00:01:06,330 --> 00:01:09,780
+<font color="#CCCCCC">popular on the</font><font color="#E5E5E5"> East Coast while Tyler</font>
+
+23
+00:01:09,780 --> 00:01:13,369
+<font color="#E5E5E5">was dominant in the West</font>
+
+24
+00:01:14,680 --> 00:01:17,050
+Vanessa was exceedingly<font color="#CCCCCC"> popular in</font>
+
+25
+00:01:17,050 --> 00:01:19,270
+California<font color="#CCCCCC"> Arizona</font><font color="#E5E5E5"> and New Mexico</font><font color="#CCCCCC"> in</font>
+
+26
+00:01:19,270 --> 00:01:23,200
+1984<font color="#CCCCCC"> 12% thirty-year-old crystals were</font>
+
+27
+00:01:23,200 --> 00:01:27,370
+born in<font color="#CCCCCC"> Texas</font><font color="#E5E5E5"> the name Lauren was given</font>
+
+28
+00:01:27,370 --> 00:01:28,860
+more<font color="#E5E5E5"> to women born in New Jersey</font>
+
+29
+00:01:28,860 --> 00:01:32,220
+<font color="#E5E5E5">Delaware and Maryland</font>
+
+30
+00:01:32,220 --> 00:01:34,810
+<font color="#E5E5E5">Jennifer's were more likely in Idaho and</font>
+
+31
+00:01:34,810 --> 00:01:36,360
+Nevada
+
+32
+00:01:36,360 --> 00:01:39,369
+<font color="#CCCCCC">Ashley was popular everywhere in 1984</font>
+
+33
+00:01:39,369 --> 00:01:42,040
+<font color="#E5E5E5">given to 2.6 percent of women born in</font>
+
+34
+00:01:42,040 --> 00:01:44,680
+the US<font color="#E5E5E5"> but in these southern states</font><font color="#CCCCCC"> the</font>
+
+35
+00:01:44,680 --> 00:01:46,210
+rate was three to four and<font color="#E5E5E5"> a</font><font color="#CCCCCC"> half</font>
+
+36
+00:01:46,210 --> 00:01:49,000
+percent<font color="#CCCCCC"> amanda</font><font color="#E5E5E5"> was more</font><font color="#CCCCCC"> popular in</font>
+
+37
+00:01:49,000 --> 00:01:52,890
+<font color="#CCCCCC">Wyoming</font><font color="#E5E5E5"> South Dakota and Maine</font>
+
+38
+00:01:53,020 --> 00:01:55,840
+amber was twice<font color="#CCCCCC"> as popular</font><font color="#E5E5E5"> in Oklahoma</font>
+
+39
+00:01:55,840 --> 00:01:58,210
+Arkansas<font color="#E5E5E5"> and Montana as anywhere</font><font color="#CCCCCC"> else in</font>
+
+40
+00:01:58,210 --> 00:02:00,310
+the country<font color="#CCCCCC"> Kimberly was favored in</font>
+
+41
+00:02:00,310 --> 00:02:02,860
+Mississippi Megan was more dominant<font color="#CCCCCC"> in</font>
+
+42
+00:02:02,860 --> 00:02:05,979
+Nebraska<font color="#E5E5E5"> in Utah</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> Kayla was 10 times</font>
+
+43
+00:02:05,979 --> 00:02:08,410
+more popular in North Dakota<font color="#CCCCCC"> than the</font>
+
+44
+00:02:08,410 --> 00:00:00,000
+<font color="#E5E5E5">rest of the country</font>
+

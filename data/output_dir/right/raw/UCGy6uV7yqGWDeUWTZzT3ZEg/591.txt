@@ -1,0 +1,724 @@
+1
+00:00:02,330 --> 00:00:05,549
+today we're taking a deeper dive<font color="#CCCCCC"> into a</font>
+
+2
+00:00:05,549 --> 00:00:08,039
+Canadian Border Services Agency internal
+
+3
+00:00:08,039 --> 00:00:10,710
+audit and our own<font color="#CCCCCC"> exclusive access</font><font color="#E5E5E5"> to</font>
+
+4
+00:00:10,710 --> 00:00:13,259
+information documents that detailed gaps
+
+5
+00:00:13,259 --> 00:00:15,000
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> security screening of Syrian refugees</font>
+
+6
+00:00:15,000 --> 00:00:18,270
+<font color="#CCCCCC">both before and after they came</font><font color="#E5E5E5"> to</font>
+
+7
+00:00:18,270 --> 00:00:20,520
+Canada<font color="#E5E5E5"> now today's</font><font color="#CCCCCC"> the second part in a</font>
+
+8
+00:00:20,520 --> 00:00:23,220
+four-part expose<font color="#E5E5E5"> we're looking into the</font>
+
+9
+00:00:23,220 --> 00:00:24,900
+systemic<font color="#E5E5E5"> failures of government</font>
+
+10
+00:00:24,900 --> 00:00:27,960
+protocols<font color="#CCCCCC"> designed to weed out national</font>
+
+11
+00:00:27,960 --> 00:00:35,130
+<font color="#E5E5E5">security threats late last year a full</font>
+
+12
+00:00:35,130 --> 00:00:37,710
+version<font color="#CCCCCC"> of</font><font color="#E5E5E5"> a heavily redacted Canadian</font>
+
+13
+00:00:37,710 --> 00:00:40,230
+Border Services Agency internal audit
+
+14
+00:00:40,230 --> 00:00:43,649
+was leaked<font color="#E5E5E5"> to the</font><font color="#CCCCCC"> mainstream media the</font>
+
+15
+00:00:43,649 --> 00:00:46,440
+audit detailed<font color="#E5E5E5"> security gaps in what</font>
+
+16
+00:00:46,440 --> 00:00:48,899
+<font color="#E5E5E5">they called</font><font color="#CCCCCC"> Operation Syrian refugee or</font>
+
+17
+00:00:48,899 --> 00:00:50,550
+the mission to meet Justin Trudeau's
+
+18
+00:00:50,550 --> 00:00:53,760
+electoral promise of<font color="#E5E5E5"> 50,000 Syrian</font>
+
+19
+00:00:53,760 --> 00:00:55,559
+refugees brought into Canada<font color="#CCCCCC"> before the</font>
+
+20
+00:00:55,559 --> 00:00:56,550
+end of 2015
+
+21
+00:00:56,550 --> 00:00:59,070
+<font color="#E5E5E5">now the mainstream media devoted a story</font>
+
+22
+00:00:59,070 --> 00:01:01,890
+or two to this report at the time<font color="#E5E5E5"> but</font>
+
+23
+00:01:01,890 --> 00:01:05,069
+given<font color="#CCCCCC"> that it revealed at least 150</font>
+
+24
+00:01:05,069 --> 00:01:07,229
+cases<font color="#E5E5E5"> that didn't receive proper</font>
+
+25
+00:01:07,229 --> 00:01:10,320
+security<font color="#E5E5E5"> screening we decided to do a</font>
+
+26
+00:01:10,320 --> 00:01:12,960
+more intense investigation we got the
+
+27
+00:01:12,960 --> 00:01:15,600
+full audit and now<font color="#E5E5E5"> finally our own</font>
+
+28
+00:01:15,600 --> 00:01:17,189
+exclusive<font color="#CCCCCC"> access</font><font color="#E5E5E5"> to information</font>
+
+29
+00:01:17,189 --> 00:01:20,009
+documents to go along with<font color="#CCCCCC"> it so we can</font>
+
+30
+00:01:20,009 --> 00:01:22,380
+tell you<font color="#CCCCCC"> the full</font><font color="#E5E5E5"> story</font><font color="#CCCCCC"> the whole truth</font>
+
+31
+00:01:22,380 --> 00:01:24,060
+the government didn't<font color="#CCCCCC"> want you to know</font>
+
+32
+00:01:24,060 --> 00:01:26,820
+now<font color="#CCCCCC"> yesterday I told you about</font><font color="#E5E5E5"> specific</font>
+
+33
+00:01:26,820 --> 00:01:29,250
+numbers<font color="#CCCCCC"> of refugees that had not been</font>
+
+34
+00:01:29,250 --> 00:01:31,500
+<font color="#E5E5E5">screened effectively by the government</font>
+
+35
+00:01:31,500 --> 00:01:35,130
+some 135 of<font color="#E5E5E5"> them weren't even subject</font><font color="#CCCCCC"> to</font>
+
+36
+00:01:35,130 --> 00:01:38,280
+the most<font color="#CCCCCC"> basic open-source</font><font color="#E5E5E5"> Google and</font>
+
+37
+00:01:38,280 --> 00:01:40,770
+<font color="#E5E5E5">Facebook searches before admittance to</font>
+
+38
+00:01:40,770 --> 00:01:43,470
+Canada and I have<font color="#CCCCCC"> even more</font><font color="#E5E5E5"> to show you</font>
+
+39
+00:01:43,470 --> 00:01:46,860
+today it was<font color="#E5E5E5"> just too much for one story</font>
+
+40
+00:01:46,860 --> 00:01:49,020
+so let's get right back<font color="#CCCCCC"> into these</font>
+
+41
+00:01:49,020 --> 00:01:52,170
+documents this document here lays out
+
+42
+00:01:52,170 --> 00:01:54,899
+some<font color="#CCCCCC"> key findings of the internal audit</font>
+
+43
+00:01:54,899 --> 00:01:58,860
+<font color="#E5E5E5">under number 21 these gaps became</font>
+
+44
+00:01:58,860 --> 00:02:01,320
+apparent<font color="#E5E5E5"> during a compliance review</font><font color="#CCCCCC"> of a</font>
+
+45
+00:02:01,320 --> 00:02:04,439
+sample of 54 Syrian refugee applicant
+
+46
+00:02:04,439 --> 00:02:07,049
+<font color="#E5E5E5">case files the review found that in six</font>
+
+47
+00:02:07,049 --> 00:02:09,270
+cases not all mandatory<font color="#E5E5E5"> security</font>
+
+48
+00:02:09,270 --> 00:02:11,450
+<font color="#E5E5E5">screening system checks were completed</font>
+
+49
+00:02:11,450 --> 00:02:13,800
+<font color="#E5E5E5">and/or had the result</font>
+
+50
+00:02:13,800 --> 00:02:16,150
+documented in the agency's case
+
+51
+00:02:16,150 --> 00:02:19,180
+management system<font color="#CCCCCC"> okay let's</font><font color="#E5E5E5"> just stop</font>
+
+52
+00:02:19,180 --> 00:02:21,790
+right<font color="#CCCCCC"> there</font><font color="#E5E5E5"> six cases out</font><font color="#CCCCCC"> of a</font><font color="#E5E5E5"> random</font>
+
+53
+00:02:21,790 --> 00:02:24,430
+sampling<font color="#E5E5E5"> of 54 that means if we expand</font>
+
+54
+00:02:24,430 --> 00:02:27,070
+<font color="#E5E5E5">one in nine Syrian refugee</font><font color="#CCCCCC"> Case Files</font>
+
+55
+00:02:27,070 --> 00:02:28,960
+isn't really<font color="#E5E5E5"> receiving the scrutiny that</font>
+
+56
+00:02:28,960 --> 00:02:31,240
+<font color="#E5E5E5">is required those are pretty good odds</font>
+
+57
+00:02:31,240 --> 00:02:33,700
+<font color="#E5E5E5">if</font><font color="#CCCCCC"> you're bad guy trying to get into</font><font color="#E5E5E5"> the</font>
+
+58
+00:02:33,700 --> 00:02:35,590
+country<font color="#E5E5E5"> by pretending to</font><font color="#CCCCCC"> be a desperate</font>
+
+59
+00:02:35,590 --> 00:02:39,430
+Syrian refugee and of those six<font color="#E5E5E5"> cases</font>
+
+60
+00:02:39,430 --> 00:02:42,100
+from that sampling<font color="#E5E5E5"> of 54 in one there</font>
+
+61
+00:02:42,100 --> 00:02:44,350
+was no<font color="#CCCCCC"> evidence whatsoever</font><font color="#E5E5E5"> that the</font>
+
+62
+00:02:44,350 --> 00:02:46,030
+mandatory checks were performed at all
+
+63
+00:02:46,030 --> 00:02:48,580
+<font color="#E5E5E5">in four cases</font><font color="#CCCCCC"> there was</font><font color="#E5E5E5"> no evidence</font><font color="#CCCCCC"> of</font>
+
+64
+00:02:48,580 --> 00:02:51,040
+an integrated query check and in the
+
+65
+00:02:51,040 --> 00:02:53,650
+last case<font color="#E5E5E5"> they discovered</font><font color="#CCCCCC"> that not even</font>
+
+66
+00:02:53,650 --> 00:02:56,140
+<font color="#E5E5E5">an open</font><font color="#CCCCCC"> source check was performed so</font>
+
+67
+00:02:56,140 --> 00:02:58,780
+they didn't even do a<font color="#E5E5E5"> basic Google</font>
+
+68
+00:02:58,780 --> 00:03:01,239
+<font color="#CCCCCC">search of the guy or his family</font><font color="#E5E5E5"> or go to</font>
+
+69
+00:03:01,239 --> 00:03:03,730
+their<font color="#CCCCCC"> social media the report found that</font>
+
+70
+00:03:03,730 --> 00:03:06,790
+criminality assessment procedures were
+
+71
+00:03:06,790 --> 00:03:08,920
+completed<font color="#E5E5E5"> on all but one of their</font>
+
+72
+00:03:08,920 --> 00:03:12,190
+samplings of refugees<font color="#E5E5E5"> that sounds great</font>
+
+73
+00:03:12,190 --> 00:03:14,800
+on<font color="#E5E5E5"> paper but what is a criminality test</font>
+
+74
+00:03:14,800 --> 00:03:17,739
+<font color="#E5E5E5">well it sounds</font><font color="#CCCCCC"> like they're just asking</font>
+
+75
+00:03:17,739 --> 00:03:19,780
+somebody<font color="#CCCCCC"> if they're a</font><font color="#E5E5E5"> criminal because</font>
+
+76
+00:03:19,780 --> 00:03:21,610
+<font color="#CCCCCC">if you look</font><font color="#E5E5E5"> at the top paragraph of this</font>
+
+77
+00:03:21,610 --> 00:03:24,820
+document here it<font color="#E5E5E5"> reads police checks or</font>
+
+78
+00:03:24,820 --> 00:03:27,430
+certificates of no criminal conviction
+
+79
+00:03:27,430 --> 00:03:29,650
+<font color="#E5E5E5">from the refugees home country were not</font>
+
+80
+00:03:29,650 --> 00:03:32,560
+<font color="#E5E5E5">required and police checks were not</font>
+
+81
+00:03:32,560 --> 00:03:35,340
+requested from the<font color="#E5E5E5"> refugees countries of</font>
+
+82
+00:03:35,340 --> 00:03:37,000
+temporary asylum
+
+83
+00:03:37,000 --> 00:03:39,459
+so these migrants may have<font color="#E5E5E5"> committed</font>
+
+84
+00:03:39,459 --> 00:03:42,370
+crimes<font color="#CCCCCC"> even war crimes in the countries</font>
+
+85
+00:03:42,370 --> 00:03:44,350
+that<font color="#E5E5E5"> they're coming from</font><font color="#CCCCCC"> and may have</font>
+
+86
+00:03:44,350 --> 00:03:46,660
+continued to<font color="#E5E5E5"> commit crimes</font><font color="#CCCCCC"> in the</font>
+
+87
+00:03:46,660 --> 00:03:49,329
+countries where they went<font color="#CCCCCC"> to apply to</font>
+
+88
+00:03:49,329 --> 00:03:51,730
+come<font color="#E5E5E5"> to Canada safe countries like</font>
+
+89
+00:03:51,730 --> 00:03:54,370
+Turkey<font color="#E5E5E5"> and they may have continued their</font>
+
+90
+00:03:54,370 --> 00:03:57,250
+criminality there<font color="#E5E5E5"> but we'll never know</font>
+
+91
+00:03:57,250 --> 00:03:59,079
+because<font color="#E5E5E5"> those questions were</font><font color="#CCCCCC"> not</font>
+
+92
+00:03:59,079 --> 00:04:01,959
+required to be asked<font color="#E5E5E5"> of refugees and</font>
+
+93
+00:04:01,959 --> 00:04:04,870
+even if they were required<font color="#E5E5E5"> there's not</font>
+
+94
+00:04:04,870 --> 00:04:07,060
+adequate<font color="#E5E5E5"> record-keeping in the countries</font>
+
+95
+00:04:07,060 --> 00:04:09,940
+<font color="#CCCCCC">of origin</font><font color="#E5E5E5"> or through which they've</font>
+
+96
+00:04:09,940 --> 00:04:12,070
+migrated to prove that they're<font color="#CCCCCC"> not</font>
+
+97
+00:04:12,070 --> 00:04:14,260
+criminals<font color="#CCCCCC"> now this is one of the</font>
+
+98
+00:04:14,260 --> 00:04:17,048
+<font color="#CCCCCC">original documents here from immigration</font>
+
+99
+00:04:17,048 --> 00:04:19,959
+refugee<font color="#CCCCCC"> and Citizenship Canada that was</font>
+
+100
+00:04:19,959 --> 00:04:22,240
+<font color="#E5E5E5">heavily redacted they've removed a lot</font>
+
+101
+00:04:22,240 --> 00:04:24,460
+of<font color="#CCCCCC"> the numbers</font><font color="#E5E5E5"> now that I've already</font>
+
+102
+00:04:24,460 --> 00:04:25,650
+<font color="#CCCCCC">reported on so</font>
+
+103
+00:04:25,650 --> 00:04:27,540
+yes their attempt to<font color="#E5E5E5"> hide things from</font>
+
+104
+00:04:27,540 --> 00:04:29,729
+<font color="#E5E5E5">the public didn't quite work out the</font><font color="#CCCCCC"> way</font>
+
+105
+00:04:29,729 --> 00:04:32,699
+<font color="#E5E5E5">they thought it would but they left</font>
+
+106
+00:04:32,699 --> 00:04:35,729
+something<font color="#E5E5E5"> unhidden at the bottom of this</font>
+
+107
+00:04:35,729 --> 00:04:39,389
+document<font color="#CCCCCC"> that is very very damning</font><font color="#E5E5E5"> 305</font>
+
+108
+00:04:39,389 --> 00:04:41,880
+files that had<font color="#E5E5E5"> past security assessments</font>
+
+109
+00:04:41,880 --> 00:04:45,030
+and were<font color="#E5E5E5"> approved final assessment</font><font color="#CCCCCC"> but</font>
+
+110
+00:04:45,030 --> 00:04:47,790
+that had also<font color="#CCCCCC"> an</font><font color="#E5E5E5"> inconclusive result</font>
+
+111
+00:04:47,790 --> 00:04:50,460
+under security screening status<font color="#E5E5E5"> it was</font>
+
+112
+00:04:50,460 --> 00:04:52,590
+unclear why inconclusive and especially
+
+113
+00:04:52,590 --> 00:04:54,720
+non favorable security screening
+
+114
+00:04:54,720 --> 00:04:57,810
+outcomes<font color="#E5E5E5"> could result in approved</font>
+
+115
+00:04:57,810 --> 00:05:00,510
+security assessment and ultimately an
+
+116
+00:05:00,510 --> 00:05:02,610
+approved application<font color="#CCCCCC"> so on the</font>
+
+117
+00:05:02,610 --> 00:05:04,889
+<font color="#CCCCCC">immigration</font><font color="#E5E5E5"> files themselves</font><font color="#CCCCCC"> the workers</font>
+
+118
+00:05:04,889 --> 00:05:06,750
+could<font color="#E5E5E5"> see that the security screening</font>
+
+119
+00:05:06,750 --> 00:05:08,820
+status<font color="#CCCCCC"> information was marked as</font>
+
+120
+00:05:08,820 --> 00:05:11,760
+<font color="#CCCCCC">inconclusive or non favorable but nobody</font>
+
+121
+00:05:11,760 --> 00:05:13,530
+<font color="#CCCCCC">asked</font><font color="#E5E5E5"> any</font><font color="#CCCCCC"> questions and approved the</font>
+
+122
+00:05:13,530 --> 00:05:16,800
+refugees files anyways<font color="#E5E5E5"> and here in these</font>
+
+123
+00:05:16,800 --> 00:05:18,870
+government<font color="#E5E5E5"> documents we obtained through</font>
+
+124
+00:05:18,870 --> 00:05:21,419
+access to information the bureaucrats
+
+125
+00:05:21,419 --> 00:05:24,060
+actually<font color="#E5E5E5"> seemed surprised that 200</font>
+
+126
+00:05:24,060 --> 00:05:26,850
+refugee case files had been<font color="#E5E5E5"> refused</font>
+
+127
+00:05:26,850 --> 00:05:29,340
+for security reasons including serious
+
+128
+00:05:29,340 --> 00:05:31,740
+criminality<font color="#E5E5E5"> and non-compliance with the</font>
+
+129
+00:05:31,740 --> 00:05:34,800
+<font color="#CCCCCC">act</font><font color="#E5E5E5"> or having an inadmissible family</font>
+
+130
+00:05:34,800 --> 00:05:37,110
+member<font color="#E5E5E5"> and we</font><font color="#CCCCCC"> can see bureaucrats</font>
+
+131
+00:05:37,110 --> 00:05:39,570
+thought that number was just<font color="#CCCCCC"> a little</font>
+
+132
+00:05:39,570 --> 00:05:42,599
+<font color="#E5E5E5">too high</font><font color="#CCCCCC"> for their liking</font><font color="#E5E5E5"> now this final</font>
+
+133
+00:05:42,599 --> 00:05:45,210
+access to information document from IRC
+
+134
+00:05:45,210 --> 00:05:47,700
+see details the process<font color="#E5E5E5"> changes that</font>
+
+135
+00:05:47,700 --> 00:05:50,130
+were made<font color="#E5E5E5"> for</font><font color="#CCCCCC"> operation Syrian refugee</font>
+
+136
+00:05:50,130 --> 00:05:52,950
+<font color="#CCCCCC">that may have weakened controls designed</font>
+
+137
+00:05:52,950 --> 00:05:54,990
+to ensure that all<font color="#E5E5E5"> required security</font>
+
+138
+00:05:54,990 --> 00:05:57,990
+<font color="#E5E5E5">checks were finally completed positive</font>
+
+139
+00:05:57,990 --> 00:06:00,150
+reporting was used for<font color="#E5E5E5"> open source and</font>
+
+140
+00:06:00,150 --> 00:06:02,940
+integrated query checks<font color="#E5E5E5"> and as a result</font>
+
+141
+00:06:02,940 --> 00:06:05,220
+<font color="#E5E5E5">analysts were required to follow up on</font>
+
+142
+00:06:05,220 --> 00:06:07,560
+only<font color="#CCCCCC"> four cases where there was a</font>
+
+143
+00:06:07,560 --> 00:06:09,960
+concern or hit an<font color="#CCCCCC"> analysts were not</font>
+
+144
+00:06:09,960 --> 00:06:12,180
+otherwise required to validate<font color="#E5E5E5"> that</font>
+
+145
+00:06:12,180 --> 00:06:15,630
+these checks<font color="#E5E5E5"> had even been completed and</font>
+
+146
+00:06:15,630 --> 00:06:17,610
+secondly the template used<font color="#E5E5E5"> during</font>
+
+147
+00:06:17,610 --> 00:06:20,760
+<font color="#E5E5E5">Operation Syrian refugee was modified</font>
+
+148
+00:06:20,760 --> 00:06:22,590
+such that the requirement to<font color="#E5E5E5"> document</font>
+
+149
+00:06:22,590 --> 00:06:25,590
+<font color="#CCCCCC">open source and integrated query checks</font>
+
+150
+00:06:25,590 --> 00:06:28,889
+was excluded let's just stop right<font color="#E5E5E5"> there</font>
+
+151
+00:06:28,889 --> 00:06:31,770
+<font color="#CCCCCC">for a second so there were mechanisms in</font>
+
+152
+00:06:31,770 --> 00:06:34,680
+place to<font color="#E5E5E5"> make sure these Google searches</font>
+
+153
+00:06:34,680 --> 00:06:37,260
+and<font color="#E5E5E5"> integrated query checks were</font>
+
+154
+00:06:37,260 --> 00:06:38,969
+actually being done but
+
+155
+00:06:38,969 --> 00:06:41,669
+requirement was removed<font color="#E5E5E5"> for the Syrian</font>
+
+156
+00:06:41,669 --> 00:06:44,879
+refugees the document goes on to say had
+
+157
+00:06:44,879 --> 00:06:46,559
+the<font color="#E5E5E5"> requirement</font><font color="#CCCCCC"> to document</font><font color="#E5E5E5"> all</font>
+
+158
+00:06:46,559 --> 00:06:49,169
+<font color="#CCCCCC">open-source and integrated query checks</font>
+
+159
+00:06:49,169 --> 00:06:53,009
+<font color="#E5E5E5">remained in place</font><font color="#CCCCCC"> the 150 cases noted</font>
+
+160
+00:06:53,009 --> 00:06:55,469
+above would most likely<font color="#E5E5E5"> have been</font>
+
+161
+00:06:55,469 --> 00:06:58,949
+<font color="#E5E5E5">identified</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> the checks completed and</font>
+
+162
+00:06:58,949 --> 00:07:03,089
+we know these changes to procedures were
+
+163
+00:07:03,089 --> 00:07:04,769
+made to meet Justin Trudeau's
+
+164
+00:07:04,769 --> 00:07:08,219
+unrealistic quota of<font color="#CCCCCC"> 50,000</font><font color="#E5E5E5"> refugees</font>
+
+165
+00:07:08,219 --> 00:07:10,369
+admitted<font color="#E5E5E5"> before the end of 2015</font>
+
+166
+00:07:10,369 --> 00:07:13,499
+Justin Trudeau's haste<font color="#CCCCCC"> an arbitrary</font>
+
+167
+00:07:13,499 --> 00:07:16,439
+targets<font color="#E5E5E5"> put us all in danger</font><font color="#CCCCCC"> tomorrow</font>
+
+168
+00:07:16,439 --> 00:07:17,759
+I'm going to<font color="#E5E5E5"> show you some specific</font>
+
+169
+00:07:17,759 --> 00:07:21,179
+<font color="#E5E5E5">cases of fraudulent refugees and people</font>
+
+170
+00:07:21,179 --> 00:07:24,809
+<font color="#CCCCCC">who claimed inconvenience as the reason</font>
+
+171
+00:07:24,809 --> 00:07:26,879
+they<font color="#E5E5E5"> needed to come to</font><font color="#CCCCCC"> Canada</font><font color="#E5E5E5"> for the</font>
+
+172
+00:07:26,879 --> 00:07:31,409
+rebel media<font color="#E5E5E5"> I'm Shiela gun</font><font color="#CCCCCC"> Reid</font><font color="#E5E5E5"> Silicon</font>
+
+173
+00:07:31,409 --> 00:07:33,659
+<font color="#CCCCCC">Valley and big tech has a thing for</font>
+
+174
+00:07:33,659 --> 00:07:36,239
+censoring conservatives but we've got a
+
+175
+00:07:36,239 --> 00:07:38,699
+way around that we have our<font color="#E5E5E5"> own rebel</font>
+
+176
+00:07:38,699 --> 00:07:40,709
+media mobile<font color="#E5E5E5"> app you can get it on</font><font color="#CCCCCC"> the</font>
+
+177
+00:07:40,709 --> 00:07:43,499
+<font color="#E5E5E5">Google Play Store</font><font color="#CCCCCC"> or the Apple App Store</font>
+
+178
+00:07:43,499 --> 00:07:46,469
+download<font color="#E5E5E5"> it give it</font><font color="#CCCCCC"> a whirl and take the</font>
+
+179
+00:07:46,469 --> 00:07:48,389
+other<font color="#E5E5E5"> side of the story with you</font>
+
+180
+00:07:48,389 --> 00:07:51,169
+wherever<font color="#E5E5E5"> you go</font>
+
+181
+00:07:57,310 --> 00:00:00,000
+you
+

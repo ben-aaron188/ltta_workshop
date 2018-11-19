@@ -1,0 +1,224 @@
+1
+00:00:00,079 --> 00:00:03,000
+one<font color="#E5E5E5"> British intelligence analyst told us</font>
+
+2
+00:00:03,000 --> 00:00:05,600
+the Russian firm<font color="#E5E5E5"> is being discredited</font>
+
+3
+00:00:05,600 --> 00:00:09,660
+what this is quite frankly<font color="#CCCCCC"> it's</font><font color="#E5E5E5"> an old</font>
+
+4
+00:00:09,660 --> 00:00:12,420
+Russian<font color="#E5E5E5"> term</font><font color="#CCCCCC"> compliment if it were</font>
+
+5
+00:00:12,420 --> 00:00:15,269
+<font color="#E5E5E5">gaining information gaining</font><font color="#CCCCCC"> information</font>
+
+6
+00:00:15,269 --> 00:00:20,279
+about new<font color="#CCCCCC"> hi-tech anti-missile systems</font>
+
+7
+00:00:20,279 --> 00:00:22,680
+there would be more<font color="#E5E5E5"> of the traditional</font>
+
+8
+00:00:22,680 --> 00:00:26,220
+rail<font color="#E5E5E5"> of intelligence agencies seeking</font>
+
+9
+00:00:26,220 --> 00:00:30,050
+<font color="#E5E5E5">information</font><font color="#CCCCCC"> but as I say this</font><font color="#E5E5E5"> is</font>
+
+10
+00:00:30,050 --> 00:00:32,189
+compromising the alternate the
+
+11
+00:00:32,189 --> 00:00:35,850
+opposition<font color="#CCCCCC"> compromise and it's a hugely</font>
+
+12
+00:00:35,850 --> 00:00:38,840
+expensive program but it<font color="#E5E5E5"> is one that</font><font color="#CCCCCC"> the</font>
+
+13
+00:00:38,840 --> 00:00:41,309
+<font color="#E5E5E5">Americans and</font><font color="#CCCCCC"> the American</font><font color="#E5E5E5"> code writers</font>
+
+14
+00:00:41,309 --> 00:00:45,149
+are extremely<font color="#E5E5E5"> effective at doing it was</font>
+
+15
+00:00:45,149 --> 00:00:47,219
+revealed by a previous<font color="#E5E5E5"> WikiLeaks</font>
+
+16
+00:00:47,219 --> 00:00:49,950
+publication<font color="#E5E5E5"> of CIA files that the agency</font>
+
+17
+00:00:49,950 --> 00:00:52,469
+has its own malware which exploits a
+
+18
+00:00:52,469 --> 00:00:55,410
+vulnerability<font color="#CCCCCC"> zin phones and TVs</font><font color="#E5E5E5"> and can</font>
+
+19
+00:00:55,410 --> 00:00:59,250
+bypass encryption on messaging apps<font color="#E5E5E5"> the</font>
+
+20
+00:00:59,250 --> 00:01:01,079
+previous<font color="#CCCCCC"> leaked mentions a CIA</font><font color="#E5E5E5"> group</font>
+
+21
+00:01:01,079 --> 00:01:03,300
+that's created a<font color="#CCCCCC"> library of hacking</font>
+
+22
+00:01:03,300 --> 00:01:05,339
+techniques<font color="#E5E5E5"> stolen from other countries</font>
+
+23
+00:01:05,339 --> 00:01:08,130
+<font color="#E5E5E5">the agency</font><font color="#CCCCCC"> also has a tool to disguise</font>
+
+24
+00:01:08,130 --> 00:01:09,930
+its malware and make it look<font color="#CCCCCC"> like it's</font>
+
+25
+00:01:09,930 --> 00:01:12,000
+<font color="#CCCCCC">being created by somebody</font><font color="#E5E5E5"> else using</font>
+
+26
+00:01:12,000 --> 00:01:14,549
+languages such as Arabic<font color="#E5E5E5"> Russian Chinese</font>
+
+27
+00:01:14,549 --> 00:01:17,909
+Farsi Korean<font color="#E5E5E5"> thereby making it harder to</font>
+
+28
+00:01:17,909 --> 00:01:21,090
+<font color="#E5E5E5">attribute a cyberattack</font><font color="#CCCCCC"> to the CIA</font><font color="#E5E5E5"> and</font>
+
+29
+00:01:21,090 --> 00:01:23,430
+<font color="#CCCCCC">we spoke to a</font><font color="#E5E5E5"> former CIA officer</font><font color="#CCCCCC"> who is</font>
+
+30
+00:01:23,430 --> 00:01:25,979
+amazed that nobody<font color="#CCCCCC"> has</font><font color="#E5E5E5"> spotted a</font>
+
+31
+00:01:25,979 --> 00:01:28,590
+connection between the<font color="#E5E5E5"> Russian hacking</font>
+
+32
+00:01:28,590 --> 00:01:32,390
+allegations<font color="#CCCCCC"> and the CIA's hacking tools</font>
+
+33
+00:01:32,390 --> 00:01:35,400
+CIA has<font color="#E5E5E5"> notice about the fact that they</font>
+
+34
+00:01:35,400 --> 00:01:38,009
+are original<font color="#CCCCCC"> pristine pure documents as</font>
+
+35
+00:01:38,009 --> 00:01:40,799
+usual with WikiLeaks<font color="#E5E5E5"> and</font><font color="#CCCCCC"> the supreme</font>
+
+36
+00:01:40,799 --> 00:01:43,350
+irony of course is that<font color="#E5E5E5"> Kaspersky Labs</font>
+
+37
+00:01:43,350 --> 00:01:46,200
+has been disclaiming<font color="#CCCCCC"> any involvement in</font>
+
+38
+00:01:46,200 --> 00:01:48,720
+<font color="#CCCCCC">any of this Russian</font><font color="#E5E5E5"> hacking and the</font>
+
+39
+00:01:48,720 --> 00:01:52,829
+evidence such<font color="#CCCCCC"> as it is</font><font color="#E5E5E5"> suggests to me as</font>
+
+40
+00:01:52,829 --> 00:01:55,729
+an intelligence analyst connecting dots
+
+41
+00:01:55,729 --> 00:01:59,130
+<font color="#CCCCCC">the conspiracy may not even</font><font color="#E5E5E5"> know that it</font>
+
+42
+00:01:59,130 --> 00:02:02,250
+was<font color="#E5E5E5"> the CIA that has put in the damaging</font>
+
+43
+00:02:02,250 --> 00:02:06,149
+information<font color="#E5E5E5"> which indicated supposedly</font>
+
+44
+00:02:06,149 --> 00:02:08,429
+that Kaspersky was doing<font color="#E5E5E5"> something</font>
+
+45
+00:02:08,429 --> 00:02:11,700
+untoward it's it's an<font color="#E5E5E5"> amazing story</font><font color="#CCCCCC"> for</font>
+
+46
+00:02:11,700 --> 00:02:13,530
+an intelligence<font color="#CCCCCC"> analyst</font><font color="#E5E5E5"> you</font>
+
+47
+00:02:13,530 --> 00:02:16,650
+we're taught to<font color="#E5E5E5"> connect dots but even</font>
+
+48
+00:02:16,650 --> 00:02:20,220
+when this<font color="#E5E5E5"> marble framework tool was</font>
+
+49
+00:02:20,220 --> 00:02:23,430
+announced by<font color="#E5E5E5"> Julian Assange</font><font color="#CCCCCC"> even though</font>
+
+50
+00:02:23,430 --> 00:02:25,800
+<font color="#E5E5E5">the Soviets or the Russians now have</font>
+
+51
+00:02:25,800 --> 00:02:27,750
+been accused of hacking<font color="#CCCCCC"> into various</font>
+
+52
+00:02:27,750 --> 00:02:31,080
+systems no one no one has<font color="#CCCCCC"> ever put</font><font color="#E5E5E5"> that</font>
+
+53
+00:02:31,080 --> 00:02:34,050
+revelation<font color="#E5E5E5"> together with the so-called</font>
+
+54
+00:02:34,050 --> 00:02:37,500
+Russian hack of the<font color="#E5E5E5"> DNC emails and say</font>
+
+55
+00:02:37,500 --> 00:02:39,860
+<font color="#E5E5E5">oh wow it might be the Russians now</font>
+
+56
+00:02:39,860 --> 00:00:00,000
+<font color="#E5E5E5">Kaspersky Labs is in the same situation</font>
+

@@ -1,0 +1,1148 @@
+1
+00:00:00,089 --> 00:00:01,650
+let's<font color="#E5E5E5"> get to your charts let's look at</font>
+
+2
+00:00:01,650 --> 00:00:03,179
+the big<font color="#CCCCCC"> picture</font><font color="#E5E5E5"> here</font><font color="#CCCCCC"> Steve Rattner what</font>
+
+3
+00:00:03,179 --> 00:00:04,620
+are you<font color="#CCCCCC"> leading off with well let's go</font>
+
+4
+00:00:04,620 --> 00:00:06,299
+back<font color="#CCCCCC"> to the house and it was obviously</font>
+
+5
+00:00:06,299 --> 00:00:07,919
+<font color="#E5E5E5">not a good night</font><font color="#CCCCCC"> last night for</font><font color="#E5E5E5"> the</font>
+
+6
+00:00:07,919 --> 00:00:09,630
+Republicans and<font color="#E5E5E5"> I'm going to show you</font>
+
+7
+00:00:09,630 --> 00:00:12,150
+some data from<font color="#E5E5E5"> other midterm elections</font>
+
+8
+00:00:12,150 --> 00:00:13,650
+<font color="#E5E5E5">that won't look any better for the</font>
+
+9
+00:00:13,650 --> 00:00:15,480
+Republicans than what we saw last<font color="#E5E5E5"> night</font>
+
+10
+00:00:15,480 --> 00:00:17,789
+<font color="#E5E5E5">so let's start by looking</font><font color="#CCCCCC"> at the</font><font color="#E5E5E5"> last 13</font>
+
+11
+00:00:17,789 --> 00:00:19,859
+or<font color="#CCCCCC"> so midterm elections</font><font color="#E5E5E5"> and what we did</font>
+
+12
+00:00:19,859 --> 00:00:22,080
+was plot the presidential approval<font color="#E5E5E5"> on</font>
+
+13
+00:00:22,080 --> 00:00:24,420
+the vertical axis<font color="#CCCCCC"> here against the</font>
+
+14
+00:00:24,420 --> 00:00:26,070
+number of<font color="#CCCCCC"> House seats won or lost on</font><font color="#E5E5E5"> the</font>
+
+15
+00:00:26,070 --> 00:00:28,320
+horizontal axis<font color="#CCCCCC"> and then</font><font color="#E5E5E5"> we drew a line</font>
+
+16
+00:00:28,320 --> 00:00:29,490
+<font color="#CCCCCC">using something</font><font color="#E5E5E5"> called</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> regression</font>
+
+17
+00:00:29,490 --> 00:00:32,488
+analysis across them to basically<font color="#E5E5E5"> find</font>
+
+18
+00:00:32,488 --> 00:00:34,410
+what is statistically most accurate and
+
+19
+00:00:34,410 --> 00:00:36,420
+what<font color="#E5E5E5"> you do find is about a</font><font color="#CCCCCC"> 70%</font>
+
+20
+00:00:36,420 --> 00:00:38,250
+<font color="#E5E5E5">correlation between a president's</font>
+
+21
+00:00:38,250 --> 00:00:40,110
+approval rating and the number of<font color="#E5E5E5"> House</font>
+
+22
+00:00:40,110 --> 00:00:41,910
+seats won or lost in a<font color="#CCCCCC"> midterms so if</font>
+
+23
+00:00:41,910 --> 00:00:43,800
+you were at say<font color="#E5E5E5"> 50 percent</font><font color="#CCCCCC"> that would</font>
+
+24
+00:00:43,800 --> 00:00:45,360
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> would lead you to</font><font color="#E5E5E5"> expect something</font>
+
+25
+00:00:45,360 --> 00:00:47,700
+<font color="#CCCCCC">like</font><font color="#E5E5E5"> a 30 seat loss in the midterms</font>
+
+26
+00:00:47,700 --> 00:00:49,350
+however we have a president<font color="#CCCCCC"> who is</font><font color="#E5E5E5"> and</font>
+
+27
+00:00:49,350 --> 00:00:51,719
+we know is<font color="#CCCCCC"> at 41</font><font color="#E5E5E5"> percent</font><font color="#CCCCCC"> and so if we</font>
+
+28
+00:00:51,719 --> 00:00:53,520
+were to start at 41 percent and draw a
+
+29
+00:00:53,520 --> 00:00:55,379
+line<font color="#E5E5E5"> across</font><font color="#CCCCCC"> you would find that it</font><font color="#E5E5E5"> comes</font>
+
+30
+00:00:55,379 --> 00:00:56,460
+out around here
+
+31
+00:00:56,460 --> 00:00:59,250
+in the about the<font color="#E5E5E5"> 60 vote lost category</font>
+
+32
+00:00:59,250 --> 00:01:01,079
+you'll note<font color="#CCCCCC"> that two red dots right</font>
+
+33
+00:01:01,079 --> 00:01:03,329
+<font color="#E5E5E5">above here represent our two most</font><font color="#CCCCCC"> recent</font>
+
+34
+00:01:03,329 --> 00:01:04,409
+I guess what you<font color="#E5E5E5"> would call wave</font>
+
+35
+00:01:04,409 --> 00:01:08,880
+elections in 1994<font color="#E5E5E5"> and 2010 both with</font>
+
+36
+00:01:08,880 --> 00:01:10,979
+presidents who had not<font color="#E5E5E5"> even as low</font>
+
+37
+00:01:10,979 --> 00:01:12,840
+<font color="#E5E5E5">popularity as Donald Trump</font><font color="#CCCCCC"> but somewhat</font>
+
+38
+00:01:12,840 --> 00:01:14,939
+low<font color="#E5E5E5"> popularity and you could see that</font>
+
+39
+00:01:14,939 --> 00:01:16,710
+there were massive<font color="#CCCCCC"> losses from</font><font color="#E5E5E5"> both</font><font color="#CCCCCC"> of</font>
+
+40
+00:01:16,710 --> 00:01:19,170
+those both those folks in<font color="#E5E5E5"> the midterm</font>
+
+41
+00:01:19,170 --> 00:01:21,180
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> reminder Democrats only need 23</font>
+
+42
+00:01:21,180 --> 00:01:23,340
+seats to flip the house<font color="#E5E5E5"> exactly exactly</font>
+
+43
+00:01:23,340 --> 00:01:25,740
+<font color="#E5E5E5">so if you look at another another</font>
+
+44
+00:01:25,740 --> 00:01:27,540
+indicator of<font color="#E5E5E5"> where the Republicans sit</font>
+
+45
+00:01:27,540 --> 00:01:29,520
+which is incumbents deciding not<font color="#CCCCCC"> to run</font>
+
+46
+00:01:29,520 --> 00:01:31,530
+as you know there's something<font color="#E5E5E5"> like an 85</font>
+
+47
+00:01:31,530 --> 00:01:33,329
+percent reelect rate for incumbents so
+
+48
+00:01:33,329 --> 00:01:35,310
+having<font color="#E5E5E5"> an open seat certainly as an</font>
+
+49
+00:01:35,310 --> 00:01:37,409
+advantage<font color="#E5E5E5"> for whichever party is</font>
+
+50
+00:01:37,409 --> 00:01:39,240
+contesting that<font color="#E5E5E5"> seat and you can see</font>
+
+51
+00:01:39,240 --> 00:01:41,939
+again going back<font color="#CCCCCC"> to 1976 the number of</font>
+
+52
+00:01:41,939 --> 00:01:44,009
+retirements<font color="#E5E5E5"> both Democratic and</font>
+
+53
+00:01:44,009 --> 00:01:46,290
+Republican over that<font color="#E5E5E5"> period of time</font><font color="#CCCCCC"> you</font>
+
+54
+00:01:46,290 --> 00:01:49,409
+can see for example<font color="#E5E5E5"> in</font><font color="#CCCCCC"> the 1994 period</font>
+
+55
+00:01:49,409 --> 00:01:51,329
+there were a huge number<font color="#E5E5E5"> of Democratic</font>
+
+56
+00:01:51,329 --> 00:01:52,920
+retirements<font color="#E5E5E5"> and that presumably</font>
+
+57
+00:01:52,920 --> 00:01:54,990
+anticipated the wave election<font color="#E5E5E5"> of that</font>
+
+58
+00:01:54,990 --> 00:01:57,210
+year<font color="#E5E5E5"> but you can also see this year</font>
+
+59
+00:01:57,210 --> 00:01:59,070
+you're up to I think<font color="#E5E5E5"> it's 41 at the</font>
+
+60
+00:01:59,070 --> 00:02:01,409
+moment Republican retirements and that
+
+61
+00:02:01,409 --> 00:02:03,090
+is a historically high number for<font color="#CCCCCC"> the</font>
+
+62
+00:02:03,090 --> 00:02:04,590
+Republicans historically<font color="#CCCCCC"> number from</font>
+
+63
+00:02:04,590 --> 00:02:06,899
+<font color="#E5E5E5">both parties and a much lower</font><font color="#CCCCCC"> number of</font>
+
+64
+00:02:06,899 --> 00:02:09,538
+<font color="#E5E5E5">Democratic retirements and so that also</font>
+
+65
+00:02:09,538 --> 00:02:11,940
+augurs well for Democrats trying<font color="#E5E5E5"> to</font>
+
+66
+00:02:11,940 --> 00:02:13,500
+contest<font color="#CCCCCC"> open seats</font><font color="#E5E5E5"> in</font>
+
+67
+00:02:13,500 --> 00:02:15,660
+house that tends<font color="#E5E5E5"> to go with the</font>
+
+68
+00:02:15,660 --> 00:02:18,300
+incumbent<font color="#CCCCCC"> and then lastly there have</font>
+
+69
+00:02:18,300 --> 00:02:20,580
+<font color="#E5E5E5">been a thousand of prognosticators who</font>
+
+70
+00:02:20,580 --> 00:02:22,830
+<font color="#CCCCCC">tried</font><font color="#E5E5E5"> to run</font><font color="#CCCCCC"> simulations of what they</font>
+
+71
+00:02:22,830 --> 00:02:24,210
+<font color="#CCCCCC">think is going</font><font color="#E5E5E5"> to happen</font><font color="#CCCCCC"> this fall</font>
+
+72
+00:02:24,210 --> 00:02:25,920
+here's one by<font color="#E5E5E5"> the</font><font color="#CCCCCC"> economist which ran</font>
+
+73
+00:02:25,920 --> 00:02:28,290
+<font color="#CCCCCC">10,000 simulations</font><font color="#E5E5E5"> of various outcomes</font>
+
+74
+00:02:28,290 --> 00:02:30,840
+<font color="#E5E5E5">using both national variables and local</font>
+
+75
+00:02:30,840 --> 00:02:32,880
+variables and what they found was that
+
+76
+00:02:32,880 --> 00:02:35,370
+<font color="#E5E5E5">by their math there's about a</font><font color="#CCCCCC"> 71 percent</font>
+
+77
+00:02:35,370 --> 00:02:37,890
+<font color="#CCCCCC">chance of the house</font><font color="#E5E5E5"> flipping to</font>
+
+78
+00:02:37,890 --> 00:02:40,440
+<font color="#E5E5E5">democratic by at least one vote they</font>
+
+79
+00:02:40,440 --> 00:02:43,800
+found that if you<font color="#E5E5E5"> that there's a 50/50</font>
+
+80
+00:02:43,800 --> 00:02:46,500
+<font color="#CCCCCC">proposition of about</font><font color="#E5E5E5"> 40 of about a 14</font>
+
+81
+00:02:46,500 --> 00:02:49,260
+seat majority<font color="#CCCCCC"> for</font><font color="#E5E5E5"> Democrats in the house</font>
+
+82
+00:02:49,260 --> 00:02:52,170
+which would be a swing of about<font color="#E5E5E5"> 37 votes</font>
+
+83
+00:02:52,170 --> 00:02:55,890
+<font color="#E5E5E5">and so by their math there's</font><font color="#CCCCCC"> almost say</font>
+
+84
+00:02:55,890 --> 00:02:57,570
+there's a<font color="#E5E5E5"> 70% probability the house</font>
+
+85
+00:02:57,570 --> 00:02:59,220
+flipping<font color="#E5E5E5"> there's close</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> 100 percent</font>
+
+86
+00:02:59,220 --> 00:03:01,739
+<font color="#E5E5E5">chance of Democrats getting more votes</font>
+
+87
+00:03:01,739 --> 00:03:03,690
+<font color="#E5E5E5">and a lot of this of course comes down</font>
+
+88
+00:03:03,690 --> 00:03:06,660
+to the built in edge for Republicans<font color="#E5E5E5"> the</font>
+
+89
+00:03:06,660 --> 00:03:08,730
+<font color="#CCCCCC">way the gerrymandering</font><font color="#E5E5E5"> has worked the</font>
+
+90
+00:03:08,730 --> 00:03:10,320
+way the districts<font color="#E5E5E5"> are set up</font><font color="#CCCCCC"> the</font>
+
+91
+00:03:10,320 --> 00:03:11,430
+<font color="#CCCCCC">economist thinks that there's about</font><font color="#E5E5E5"> a</font>
+
+92
+00:03:11,430 --> 00:03:13,709
+<font color="#E5E5E5">three and a half percent</font><font color="#CCCCCC"> edge for</font>
+
+93
+00:03:13,709 --> 00:03:15,390
+Republicans other numbers are as high as
+
+94
+00:03:15,390 --> 00:03:18,000
+<font color="#E5E5E5">seven I've even seen 10 but all of this</font>
+
+95
+00:03:18,000 --> 00:03:20,000
+does not augur well for the Republicans
+
+96
+00:03:20,000 --> 00:03:22,769
+<font color="#E5E5E5">yeah and no Robin you never know</font><font color="#CCCCCC"> exactly</font>
+
+97
+00:03:22,769 --> 00:03:24,750
+what's<font color="#CCCCCC"> going to happen in these</font><font color="#E5E5E5"> races I</font>
+
+98
+00:03:24,750 --> 00:03:27,780
+remember 1998 while Bill Clinton was<font color="#E5E5E5"> in</font>
+
+99
+00:03:27,780 --> 00:03:30,360
+<font color="#E5E5E5">the middle of impeachment</font><font color="#CCCCCC"> many Democrats</font>
+
+100
+00:03:30,360 --> 00:03:32,940
+and Republicans were expecting a massive
+
+101
+00:03:32,940 --> 00:03:35,070
+wave for the GOP they ended<font color="#E5E5E5"> up I think</font>
+
+102
+00:03:35,070 --> 00:03:37,590
+picking up four seats<font color="#E5E5E5"> and that led</font>
+
+103
+00:03:37,590 --> 00:03:38,910
+<font color="#CCCCCC">affected lead to the end of Newt</font>
+
+104
+00:03:38,910 --> 00:03:41,700
+<font color="#CCCCCC">Gingrich's</font><font color="#E5E5E5"> speakership 2002 leading up</font>
+
+105
+00:03:41,700 --> 00:03:44,700
+to<font color="#E5E5E5"> the Iraq war many were surprised that</font>
+
+106
+00:03:44,700 --> 00:03:46,739
+<font color="#CCCCCC">the Republicans actually</font><font color="#E5E5E5"> picked up some</font>
+
+107
+00:03:46,739 --> 00:03:49,010
+seats in<font color="#E5E5E5"> that off year election so</font>
+
+108
+00:03:49,010 --> 00:03:53,010
+sometimes<font color="#CCCCCC"> their surprises it</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> it we</font>
+
+109
+00:03:53,010 --> 00:03:54,720
+could all be surprised this<font color="#CCCCCC"> fall</font><font color="#E5E5E5"> maybe</font>
+
+110
+00:03:54,720 --> 00:03:57,180
+the Republicans<font color="#CCCCCC"> come out in massive</font>
+
+111
+00:03:57,180 --> 00:03:59,519
+<font color="#CCCCCC">numbers you're smiling</font><font color="#E5E5E5"> I'm just I'm just</font>
+
+112
+00:03:59,519 --> 00:04:02,340
+<font color="#CCCCCC">saying</font><font color="#E5E5E5"> anything is possible</font><font color="#CCCCCC"> I'm not</font>
+
+113
+00:04:02,340 --> 00:04:04,200
+<font color="#CCCCCC">exactly sure what</font><font color="#E5E5E5"> would do that and I</font>
+
+114
+00:04:04,200 --> 00:04:05,910
+was<font color="#E5E5E5"> looking at a</font><font color="#CCCCCC"> frank luntz tweet last</font>
+
+115
+00:04:05,910 --> 00:04:09,420
+night and he<font color="#E5E5E5"> said a one-point victory in</font>
+
+116
+00:04:09,420 --> 00:04:11,310
+<font color="#E5E5E5">that district is nothing to celebrate</font>
+
+117
+00:04:11,310 --> 00:04:14,579
+<font color="#CCCCCC">talking</font><font color="#E5E5E5"> about in Ohio</font><font color="#CCCCCC"> 12 and he said the</font>
+
+118
+00:04:14,579 --> 00:04:16,168
+GOP<font color="#E5E5E5"> will have to do something</font><font color="#CCCCCC"> really</font>
+
+119
+00:04:16,168 --> 00:04:19,529
+significant in September<font color="#E5E5E5"> if they want to</font>
+
+120
+00:04:19,529 --> 00:04:22,500
+keep the house<font color="#E5E5E5"> what could that be</font>
+
+121
+00:04:22,500 --> 00:04:24,539
+what could<font color="#E5E5E5"> Republicans do in September</font>
+
+122
+00:04:24,539 --> 00:04:27,270
+for the<font color="#E5E5E5"> three days or however long</font>
+
+123
+00:04:27,270 --> 00:04:29,490
+back from their August<font color="#E5E5E5"> recess before</font>
+
+124
+00:04:29,490 --> 00:04:32,280
+<font color="#E5E5E5">they leave for</font><font color="#CCCCCC"> their September recess</font><font color="#E5E5E5"> to</font>
+
+125
+00:04:32,280 --> 00:04:35,430
+<font color="#E5E5E5">actually hold on to the house it's tough</font>
+
+126
+00:04:35,430 --> 00:04:38,460
+<font color="#E5E5E5">to envision and nobody seems to have any</font>
+
+127
+00:04:38,460 --> 00:04:40,470
+interest<font color="#CCCCCC"> in</font><font color="#E5E5E5"> doing very</font><font color="#CCCCCC"> much of</font><font color="#E5E5E5"> anything</font>
+
+128
+00:04:40,470 --> 00:04:43,110
+<font color="#E5E5E5">in Congress it seems like the</font>
+
+129
+00:04:43,110 --> 00:04:45,030
+conservative movement<font color="#CCCCCC"> to say</font><font color="#E5E5E5"> nothing of</font>
+
+130
+00:04:45,030 --> 00:04:46,050
+the Republican Party
+
+131
+00:04:46,050 --> 00:04:48,030
+it is<font color="#E5E5E5"> pretty deflated</font><font color="#CCCCCC"> I don't remember</font>
+
+132
+00:04:48,030 --> 00:04:49,319
+the last<font color="#CCCCCC"> time I heard a conservative</font>
+
+133
+00:04:49,319 --> 00:04:50,970
+talk about a conservative idea<font color="#CCCCCC"> they</font>
+
+134
+00:04:50,970 --> 00:04:52,949
+<font color="#CCCCCC">talked</font><font color="#E5E5E5"> about how awful the the liberal</font>
+
+135
+00:04:52,949 --> 00:04:54,720
+ideas are how awful the<font color="#CCCCCC"> social</font>
+
+136
+00:04:54,720 --> 00:04:57,509
+<font color="#CCCCCC">democratic policy platform is</font><font color="#E5E5E5"> but I</font>
+
+137
+00:04:57,509 --> 00:04:59,669
+<font color="#E5E5E5">don't hear very much</font><font color="#CCCCCC"> of alternatives and</font>
+
+138
+00:04:59,669 --> 00:05:01,889
+you would<font color="#CCCCCC"> think that</font><font color="#E5E5E5"> people would</font><font color="#CCCCCC"> be</font>
+
+139
+00:05:01,889 --> 00:05:04,380
+defending for example<font color="#E5E5E5"> the extent to</font>
+
+140
+00:05:04,380 --> 00:05:05,849
+which right-to-work legislation as we
+
+141
+00:05:05,849 --> 00:05:07,409
+were<font color="#E5E5E5"> talking</font><font color="#CCCCCC"> about in the last break has</font>
+
+142
+00:05:07,409 --> 00:05:09,090
+spread across the<font color="#E5E5E5"> Union and has</font>
+
+143
+00:05:09,090 --> 00:05:11,460
+demonstrated a capacity<font color="#CCCCCC"> to liberate</font>
+
+144
+00:05:11,460 --> 00:05:14,580
+people<font color="#CCCCCC"> from their</font><font color="#E5E5E5"> from the the confines</font>
+
+145
+00:05:14,580 --> 00:05:16,139
+of a<font color="#CCCCCC"> union to which they do</font><font color="#E5E5E5"> not belong</font>
+
+146
+00:05:16,139 --> 00:05:17,099
+you would think<font color="#E5E5E5"> you</font><font color="#CCCCCC"> would hear</font><font color="#E5E5E5"> people</font>
+
+147
+00:05:17,099 --> 00:05:20,039
+<font color="#CCCCCC">talking about</font><font color="#E5E5E5"> the economy the extent to</font>
+
+148
+00:05:20,039 --> 00:05:21,900
+<font color="#E5E5E5">which</font><font color="#CCCCCC"> that has demonstrated some</font>
+
+149
+00:05:21,900 --> 00:05:23,849
+capacity for<font color="#CCCCCC"> growth for percent GDP</font>
+
+150
+00:05:23,849 --> 00:05:24,930
+growth is a pretty<font color="#E5E5E5"> good number</font>
+
+151
+00:05:24,930 --> 00:05:26,729
+<font color="#E5E5E5">unemployment where it is at four percent</font>
+
+152
+00:05:26,729 --> 00:05:28,889
+<font color="#CCCCCC">is a pretty good number</font><font color="#E5E5E5"> record low</font>
+
+153
+00:05:28,889 --> 00:05:30,960
+unemployment<font color="#E5E5E5"> among minorities etc but</font>
+
+154
+00:05:30,960 --> 00:05:32,039
+<font color="#E5E5E5">you don't really hear that you hear</font><font color="#CCCCCC"> a</font>
+
+155
+00:05:32,039 --> 00:05:34,409
+negative message<font color="#E5E5E5"> the idea is that</font><font color="#CCCCCC"> this</font>
+
+156
+00:05:34,409 --> 00:05:35,969
+will register register<font color="#E5E5E5"> more with</font>
+
+157
+00:05:35,969 --> 00:05:37,710
+Republican<font color="#CCCCCC"> voters</font><font color="#E5E5E5"> fear is a better</font>
+
+158
+00:05:37,710 --> 00:05:41,039
+motivator<font color="#E5E5E5"> than enthusiasm then then you</font>
+
+159
+00:05:41,039 --> 00:05:43,380
+know thankfulness towards the Republican
+
+160
+00:05:43,380 --> 00:05:45,449
+Party<font color="#E5E5E5"> but I just don't see it</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> don't</font>
+
+161
+00:05:45,449 --> 00:05:47,190
+<font color="#CCCCCC">see any of that manifesting in some sort</font>
+
+162
+00:05:47,190 --> 00:05:49,770
+of a victory<font color="#E5E5E5"> in Donald Trump by leaning</font>
+
+163
+00:05:49,770 --> 00:05:52,289
+<font color="#E5E5E5">into</font><font color="#CCCCCC"> these these primary victories</font>
+
+164
+00:05:52,289 --> 00:05:54,270
+demonstrating he's saying that he is
+
+165
+00:05:54,270 --> 00:05:55,889
+<font color="#CCCCCC">responsible for</font><font color="#E5E5E5"> these victories is</font>
+
+166
+00:05:55,889 --> 00:05:58,139
+politically tone-deaf it's silly<font color="#CCCCCC"> he's</font>
+
+167
+00:05:58,139 --> 00:05:59,819
+gonna have<font color="#E5E5E5"> to</font><font color="#CCCCCC"> run away from a loss in</font>
+
+168
+00:05:59,819 --> 00:06:01,500
+November if they if Republicans do
+
+169
+00:06:01,500 --> 00:06:03,330
+suffer and so he's<font color="#CCCCCC"> just setting himself</font>
+
+170
+00:06:03,330 --> 00:06:08,090
+up as<font color="#CCCCCC"> the key architect of the voters</font>
+
+171
+00:06:08,090 --> 00:06:09,930
+whatever the voters want<font color="#E5E5E5"> to do in</font>
+
+172
+00:06:09,930 --> 00:06:11,190
+November whether they go to<font color="#E5E5E5"> the polls</font>
+
+173
+00:06:11,190 --> 00:06:12,240
+for<font color="#E5E5E5"> him there go to</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> polls for</font>
+
+174
+00:06:12,240 --> 00:06:13,770
+<font color="#E5E5E5">against him he's supposed to be</font>
+
+175
+00:06:13,770 --> 00:06:15,120
+preserving<font color="#E5E5E5"> his mandate and he's not</font>
+
+176
+00:06:15,120 --> 00:06:16,440
+doing<font color="#CCCCCC"> that</font><font color="#E5E5E5"> he's running out right in</font>
+
+177
+00:06:16,440 --> 00:06:17,490
+front<font color="#CCCCCC"> of this thing and</font><font color="#E5E5E5"> saying this is</font>
+
+178
+00:06:17,490 --> 00:06:18,599
+all<font color="#CCCCCC"> about me and that's gonna that's</font>
+
+179
+00:06:18,599 --> 00:06:21,750
+<font color="#CCCCCC">gonna backfire in November well in and</font>
+
+180
+00:06:21,750 --> 00:06:23,550
+know if there were any conservatives
+
+181
+00:06:23,550 --> 00:06:25,229
+left in the Republican Party and I'm
+
+182
+00:06:25,229 --> 00:06:26,580
+sure they're<font color="#CCCCCC"> there but they</font><font color="#E5E5E5"> don't seem</font>
+
+183
+00:06:26,580 --> 00:06:28,560
+to<font color="#CCCCCC"> be answering</font><font color="#E5E5E5"> polls when people ask</font>
+
+184
+00:06:28,560 --> 00:06:30,800
+about<font color="#E5E5E5"> Vladimir Putin or they ask</font><font color="#CCCCCC"> about</font>
+
+185
+00:06:30,800 --> 00:06:33,960
+you know protectionism<font color="#E5E5E5"> but what</font>
+
+186
+00:06:33,960 --> 00:06:36,180
+conservatives left and the party<font color="#E5E5E5"> would</font>
+
+187
+00:06:36,180 --> 00:06:38,310
+be energized to go out for the sort of
+
+188
+00:06:38,310 --> 00:06:39,689
+things that<font color="#E5E5E5"> got me</font>
+
+189
+00:06:39,689 --> 00:06:42,629
+and<font color="#E5E5E5"> I'm sure you</font><font color="#CCCCCC"> voted for candidates</font><font color="#E5E5E5"> in</font>
+
+190
+00:06:42,629 --> 00:06:44,489
+<font color="#E5E5E5">the past or they small government</font>
+
+191
+00:06:44,489 --> 00:06:46,349
+conservatives I mean here you<font color="#CCCCCC"> have</font>
+
+192
+00:06:46,349 --> 00:06:49,379
+Donald Trump running<font color="#CCCCCC"> up the</font><font color="#E5E5E5"> largest</font>
+
+193
+00:06:49,379 --> 00:06:51,179
+federal<font color="#E5E5E5"> debt ever</font>
+
+194
+00:06:51,179 --> 00:06:53,699
+you've got Donald Trump promising the
+
+195
+00:06:53,699 --> 00:06:57,269
+most<font color="#CCCCCC"> tariffs taxes on middle-class and</font>
+
+196
+00:06:57,269 --> 00:06:59,489
+working-class Americans and ever before
+
+197
+00:06:59,489 --> 00:07:01,679
+<font color="#CCCCCC">you have Donald Trump and the</font>
+
+198
+00:07:01,679 --> 00:07:03,569
+Republicans in Congress passing the
+
+199
+00:07:03,569 --> 00:07:06,179
+largest spending<font color="#E5E5E5"> bill ever let me say</font>
+
+200
+00:07:06,179 --> 00:07:09,389
+that<font color="#E5E5E5"> again Donald Trump and Republicans</font>
+
+201
+00:07:09,389 --> 00:07:12,360
+that<font color="#E5E5E5"> dominate Congress pass the largest</font>
+
+202
+00:07:12,360 --> 00:07:16,289
+spending bill ever<font color="#E5E5E5"> and the deficits</font>
+
+203
+00:07:16,289 --> 00:07:18,300
+exploding<font color="#E5E5E5"> to over a</font><font color="#CCCCCC"> trillion dollars a</font>
+
+204
+00:07:18,300 --> 00:07:21,869
+year<font color="#CCCCCC"> and no those aren't Barack Obama's</font>
+
+205
+00:07:21,869 --> 00:07:25,199
+deficits<font color="#E5E5E5"> you can look and see</font><font color="#CCCCCC"> what</font>
+
+206
+00:07:25,199 --> 00:07:27,439
+<font color="#CCCCCC">donald trump's</font><font color="#E5E5E5"> own government saying and</font>
+
+207
+00:07:27,439 --> 00:07:30,209
+<font color="#CCCCCC">trump's actions over</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> past</font><font color="#E5E5E5"> year the</font>
+
+208
+00:07:30,209 --> 00:07:33,179
+past<font color="#E5E5E5"> year and a half</font><font color="#CCCCCC"> have added</font><font color="#E5E5E5"> hundreds</font>
+
+209
+00:07:33,179 --> 00:07:36,629
+of billions of dollars<font color="#E5E5E5"> to his deficits</font>
+
+210
+00:07:36,629 --> 00:07:38,789
+what small government<font color="#CCCCCC"> conservatives</font>
+
+211
+00:07:38,789 --> 00:07:40,499
+<font color="#E5E5E5">going to get excited and say hey</font><font color="#CCCCCC"> i'm</font>
+
+212
+00:07:40,499 --> 00:07:42,479
+<font color="#E5E5E5">gonna call all my</font><font color="#CCCCCC"> friends at</font><font color="#E5E5E5"> church and</font>
+
+213
+00:07:42,479 --> 00:07:44,129
+tell them to go<font color="#E5E5E5"> with me to the voting</font>
+
+214
+00:07:44,129 --> 00:07:47,099
+booth<font color="#E5E5E5"> and entitlement reform as we</font>
+
+215
+00:07:47,099 --> 00:07:48,599
+understand it<font color="#CCCCCC"> the necessity of</font>
+
+216
+00:07:48,599 --> 00:07:50,039
+entitlement reform is<font color="#E5E5E5"> just not</font><font color="#CCCCCC"> on the</font>
+
+217
+00:07:50,039 --> 00:07:51,689
+table<font color="#E5E5E5"> nobody seems</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> want to talk about</font>
+
+218
+00:07:51,689 --> 00:07:52,979
+it<font color="#CCCCCC"> i understand it's an election year</font>
+
+219
+00:07:52,979 --> 00:07:54,599
+issue that's like<font color="#E5E5E5"> you know putting</font><font color="#CCCCCC"> your</font>
+
+220
+00:07:54,599 --> 00:07:56,759
+<font color="#CCCCCC">peas first</font><font color="#E5E5E5"> on the table and saying eat</font>
+
+221
+00:07:56,759 --> 00:07:57,749
+up and<font color="#E5E5E5"> then we'll get the ice cream</font>
+
+222
+00:07:57,749 --> 00:08:00,119
+<font color="#CCCCCC">later but nobody nobody's making this</font>
+
+223
+00:08:00,119 --> 00:08:01,860
+case and conservatives still care<font color="#CCCCCC"> about</font>
+
+224
+00:08:01,860 --> 00:08:03,689
+that sort of<font color="#E5E5E5"> thing</font><font color="#CCCCCC"> I know there's</font><font color="#E5E5E5"> mixed</font>
+
+225
+00:08:03,689 --> 00:08:06,169
+feelings about the tax bill here and<font color="#CCCCCC"> I</font>
+
+226
+00:08:06,169 --> 00:08:08,669
+have as many mixed feelings about<font color="#CCCCCC"> it as</font>
+
+227
+00:08:08,669 --> 00:08:10,769
+you do<font color="#E5E5E5"> because of</font><font color="#CCCCCC"> its</font><font color="#E5E5E5"> the extent</font><font color="#CCCCCC"> to</font>
+
+228
+00:08:10,769 --> 00:08:13,139
+<font color="#CCCCCC">which it just</font><font color="#E5E5E5"> balloons the deficit but</font>
+
+229
+00:08:13,139 --> 00:08:15,479
+there is some value<font color="#CCCCCC"> to</font><font color="#E5E5E5"> it in the sense</font>
+
+230
+00:08:15,479 --> 00:08:17,729
+that it has<font color="#E5E5E5"> put so much it's so much</font>
+
+231
+00:08:17,729 --> 00:08:19,079
+<font color="#E5E5E5">money into the economy so much liquidity</font>
+
+232
+00:08:19,079 --> 00:08:20,909
+<font color="#E5E5E5">into the economy that</font><font color="#CCCCCC"> you can't have</font>
+
+233
+00:08:20,909 --> 00:08:22,259
+this<font color="#E5E5E5"> kind of business activity that</font>
+
+234
+00:08:22,259 --> 00:08:24,179
+we've seen<font color="#E5E5E5"> without that kind of boost</font>
+
+235
+00:08:24,179 --> 00:08:27,629
+<font color="#E5E5E5">that comes from anticipation</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> the</font>
+
+236
+00:08:27,629 --> 00:08:29,249
+corporate tax<font color="#E5E5E5"> code for example</font><font color="#CCCCCC"> is going</font>
+
+237
+00:08:29,249 --> 00:08:30,899
+<font color="#E5E5E5">to generate</font><font color="#CCCCCC"> a lot of capital investment</font>
+
+238
+00:08:30,899 --> 00:08:34,919
+<font color="#E5E5E5">so make</font><font color="#CCCCCC"> that case</font><font color="#E5E5E5"> say that you know be</font>
+
+239
+00:08:34,919 --> 00:08:36,448
+less afraid<font color="#CCCCCC"> of this</font><font color="#E5E5E5"> tax bill this only</font>
+
+240
+00:08:36,448 --> 00:08:37,828
+<font color="#E5E5E5">major reform that this Congress has</font>
+
+241
+00:08:37,828 --> 00:08:39,240
+passed make that case
+
+242
+00:08:39,240 --> 00:08:41,549
+well I and I understand that<font color="#CCCCCC"> but mica</font>
+
+243
+00:08:41,549 --> 00:08:43,860
+the tax bill is deeply<font color="#E5E5E5"> unpopular with</font>
+
+244
+00:08:43,860 --> 00:08:45,959
+the<font color="#CCCCCC"> American people most Americans</font>
+
+245
+00:08:45,959 --> 00:08:49,860
+believe that<font color="#E5E5E5"> that the benefits went to</font>
+
+246
+00:08:49,860 --> 00:08:51,689
+well actually<font color="#CCCCCC"> there who Donald Trump</font>
+
+247
+00:08:51,689 --> 00:08:52,620
+said the<font color="#CCCCCC"> benefits</font>
+
+248
+00:08:52,620 --> 00:08:54,779
+went to their friends<font color="#CCCCCC"> the night after it</font>
+
+249
+00:08:54,779 --> 00:08:56,820
+<font color="#E5E5E5">passed he went to</font><font color="#CCCCCC"> Mara Lago he sat</font>
+
+250
+00:08:56,820 --> 00:08:58,620
+around with his billionaire<font color="#CCCCCC"> friends and</font>
+
+251
+00:08:58,620 --> 00:09:01,110
+he said<font color="#E5E5E5"> I just made you all a lot of</font>
+
+252
+00:09:01,110 --> 00:09:04,110
+<font color="#CCCCCC">money with the tax cut</font><font color="#E5E5E5"> that I passed so</font>
+
+253
+00:09:04,110 --> 00:09:06,510
+you've got that side of it it hurts
+
+254
+00:09:06,510 --> 00:09:08,730
+Donald Trump the populist it hurts
+
+255
+00:09:08,730 --> 00:09:11,580
+populist Republicans<font color="#E5E5E5"> it looks like it's</font>
+
+256
+00:09:11,580 --> 00:09:15,170
+<font color="#CCCCCC">going to</font><font color="#E5E5E5"> billionaires into CEOs and</font>
+
+257
+00:09:15,170 --> 00:09:18,360
+multinational<font color="#E5E5E5"> corporations for stock</font>
+
+258
+00:09:18,360 --> 00:09:20,430
+buybacks<font color="#E5E5E5"> and then on the other side</font><font color="#CCCCCC"> of</font>
+
+259
+00:09:20,430 --> 00:09:22,290
+<font color="#CCCCCC">it</font><font color="#E5E5E5"> you've got conservative thinking well</font>
+
+260
+00:09:22,290 --> 00:09:24,540
+gee it wasn't really targeted<font color="#CCCCCC"> to</font>
+
+261
+00:09:24,540 --> 00:09:27,060
+stimulate the<font color="#CCCCCC"> economy and it's just</font>
+
+262
+00:09:27,060 --> 00:09:29,520
+driven<font color="#E5E5E5"> us deeper in debt</font><font color="#CCCCCC"> so that's why</font>
+
+263
+00:09:29,520 --> 00:09:31,470
+and we could go over<font color="#CCCCCC"> the numbers later</font>
+
+264
+00:09:31,470 --> 00:09:33,779
+with Steve<font color="#CCCCCC"> Ratner but that's why</font><font color="#E5E5E5"> even</font>
+
+265
+00:09:33,779 --> 00:09:37,940
+the one thing they did cutting taxes
+
+266
+00:09:37,940 --> 00:09:40,589
+<font color="#E5E5E5">deeply unpopular with</font><font color="#CCCCCC"> many</font><font color="#E5E5E5"> Americans</font>
+
+267
+00:09:40,589 --> 00:09:43,050
+<font color="#E5E5E5">well on taxes and</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> immigration</font>
+
+268
+00:09:43,050 --> 00:09:45,480
+the president has has<font color="#CCCCCC"> done things</font><font color="#E5E5E5"> that I</font>
+
+269
+00:09:45,480 --> 00:09:48,540
+think hurt his positive<font color="#E5E5E5"> brand with the</font>
+
+270
+00:09:48,540 --> 00:09:50,460
+<font color="#CCCCCC">people who were blindly following him I</font>
+
+271
+00:09:50,460 --> 00:09:52,500
+<font color="#E5E5E5">think those those two</font><font color="#CCCCCC"> issues have</font>
+
+272
+00:09:52,500 --> 00:09:54,630
+problems that<font color="#CCCCCC"> will stick with him</font><font color="#E5E5E5"> still</font>
+
+273
+00:09:54,630 --> 00:09:57,000
+ahead<font color="#CCCCCC"> we're learning new details about</font>
+
+274
+00:09:57,000 --> 00:09:59,610
+last<font color="#E5E5E5"> month's summit between President</font>
+
+275
+00:09:59,610 --> 00:10:02,040
+Trump<font color="#E5E5E5"> and Vladimir Putin but it's coming</font>
+
+276
+00:10:02,040 --> 00:10:04,800
+<font color="#CCCCCC">from Moscow course it</font><font color="#E5E5E5"> is of course</font><font color="#CCCCCC"> plus</font>
+
+277
+00:10:04,800 --> 00:10:06,779
+Trump has been<font color="#E5E5E5"> tweeting a lot about</font><font color="#CCCCCC"> the</font>
+
+278
+00:10:06,779 --> 00:10:08,910
+Muller probe lately Senator<font color="#E5E5E5"> Lindsey</font>
+
+279
+00:10:08,910 --> 00:10:11,130
+Graham says he's talking about<font color="#CCCCCC"> it a lot</font>
+
+280
+00:10:11,130 --> 00:10:14,070
+<font color="#CCCCCC">too on the golf course</font><font color="#E5E5E5"> we'll have that</font>
+
+281
+00:10:14,070 --> 00:10:18,660
+coming<font color="#CCCCCC"> up next</font><font color="#E5E5E5"> thanks for checking out</font>
+
+282
+00:10:18,660 --> 00:10:20,880
+MSNBC<font color="#CCCCCC"> on YouTube and make</font><font color="#E5E5E5"> sure you</font>
+
+283
+00:10:20,880 --> 00:10:22,470
+subscribe<font color="#E5E5E5"> to stay</font><font color="#CCCCCC"> up-to-date on the</font>
+
+284
+00:10:22,470 --> 00:10:24,060
+<font color="#E5E5E5">day's biggest stories and you can click</font>
+
+285
+00:10:24,060 --> 00:10:26,400
+on any<font color="#E5E5E5"> of the videos around us to watch</font>
+
+286
+00:10:26,400 --> 00:10:29,100
+more<font color="#CCCCCC"> four Morning Joe</font><font color="#E5E5E5"> and MSNBC thanks</font>
+
+287
+00:10:29,100 --> 00:00:00,000
+so much for watching
+

@@ -1,0 +1,260 @@
+1
+00:00:00,000 --> 00:00:01,800
+<font color="#CCCCCC">a review of</font><font color="#E5E5E5"> US government agencies using</font>
+
+2
+00:00:01,800 --> 00:00:04,110
+<font color="#E5E5E5">Russian antivirus software has found no</font>
+
+3
+00:00:04,110 --> 00:00:06,120
+conclusive<font color="#E5E5E5"> evidence that the developer</font>
+
+4
+00:00:06,120 --> 00:00:08,309
+<font color="#CCCCCC">Kaspersky Lab was involved in cyber</font>
+
+5
+00:00:08,309 --> 00:00:12,240
+spying<font color="#CCCCCC"> are you aware</font><font color="#E5E5E5"> of any breaches</font><font color="#CCCCCC"> to</font>
+
+6
+00:00:12,240 --> 00:00:14,460
+<font color="#CCCCCC">our national security</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> have been</font>
+
+7
+00:00:14,460 --> 00:00:17,970
+facilitated by the Kaspersky products<font color="#E5E5E5"> so</font>
+
+8
+00:00:17,970 --> 00:00:19,710
+we're still working<font color="#CCCCCC"> through</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> process</font>
+
+9
+00:00:19,710 --> 00:00:21,660
+<font color="#E5E5E5">to identify</font><font color="#CCCCCC"> we've heard that</font><font color="#E5E5E5"> phrase</font>
+
+10
+00:00:21,660 --> 00:00:23,070
+several times a day working<font color="#E5E5E5"> through the</font>
+
+11
+00:00:23,070 --> 00:00:25,230
+process<font color="#CCCCCC"> just</font><font color="#E5E5E5"> that's</font><font color="#CCCCCC"> just not sufficient</font>
+
+12
+00:00:25,230 --> 00:00:28,170
+of an answer<font color="#E5E5E5"> sir it's not conclusive at</font>
+
+13
+00:00:28,170 --> 00:00:31,260
+this time you<font color="#E5E5E5"> don't know whether or</font><font color="#CCCCCC"> not</font>
+
+14
+00:00:31,260 --> 00:00:33,390
+systems have been<font color="#E5E5E5"> breached by Kaspersky</font>
+
+15
+00:00:33,390 --> 00:00:36,510
+Lab products yet<font color="#E5E5E5"> we do not currently</font>
+
+16
+00:00:36,510 --> 00:00:38,910
+have<font color="#E5E5E5"> evidence that</font><font color="#CCCCCC"> conclusive evidence</font>
+
+17
+00:00:38,910 --> 00:00:42,840
+that<font color="#E5E5E5"> they have been breached two months</font>
+
+18
+00:00:42,840 --> 00:00:44,610
+<font color="#E5E5E5">earlier Homeland Security ordered</font>
+
+19
+00:00:44,610 --> 00:00:47,190
+agencies under its umbrella to identify
+
+20
+00:00:47,190 --> 00:00:49,770
+Kaspersky software on their computers
+
+21
+00:00:49,770 --> 00:00:51,210
+<font color="#E5E5E5">and remove it on the grounds of an</font>
+
+22
+00:00:51,210 --> 00:00:52,890
+alleged espionage threat now that's
+
+23
+00:00:52,890 --> 00:00:54,510
+after<font color="#E5E5E5"> the Moscow based company was</font>
+
+24
+00:00:54,510 --> 00:00:55,590
+accused<font color="#E5E5E5"> of leaking classified</font>
+
+25
+00:00:55,590 --> 00:00:57,629
+information<font color="#E5E5E5"> to the</font><font color="#CCCCCC"> Russians</font><font color="#E5E5E5"> Secret</font>
+
+26
+00:00:57,629 --> 00:01:00,840
+<font color="#E5E5E5">Service's the risk that the Russian</font>
+
+27
+00:01:00,840 --> 00:01:03,239
+government<font color="#E5E5E5"> whether acting on its own or</font>
+
+28
+00:01:03,239 --> 00:01:05,459
+in<font color="#CCCCCC"> collaboration with Kaspersky</font><font color="#E5E5E5"> could</font>
+
+29
+00:01:05,459 --> 00:01:07,290
+capitalize on access<font color="#E5E5E5"> provided by</font>
+
+30
+00:01:07,290 --> 00:01:09,150
+Kaspersky products to<font color="#E5E5E5"> compromised</font>
+
+31
+00:01:09,150 --> 00:01:11,130
+federal information and<font color="#CCCCCC"> information</font>
+
+32
+00:01:11,130 --> 00:01:13,619
+<font color="#CCCCCC">systems directly implicates US national</font>
+
+33
+00:01:13,619 --> 00:01:16,500
+security<font color="#CCCCCC"> Kaspersky Lab denies the</font>
+
+34
+00:01:16,500 --> 00:01:18,210
+allegations stressing<font color="#CCCCCC"> that it's never</font>
+
+35
+00:01:18,210 --> 00:01:20,700
+assisted<font color="#E5E5E5"> any government with cyber</font>
+
+36
+00:01:20,700 --> 00:01:23,700
+espionage efforts and in<font color="#CCCCCC"> another twist</font>
+
+37
+00:01:23,700 --> 00:01:24,810
+<font color="#E5E5E5">of the claims against the computer</font>
+
+38
+00:01:24,810 --> 00:01:26,700
+<font color="#E5E5E5">security giant WikiLeaks</font>
+
+39
+00:01:26,700 --> 00:01:28,590
+has revealed in the last week that<font color="#CCCCCC"> the</font>
+
+40
+00:01:28,590 --> 00:01:31,020
+CIA has created a hostile program that
+
+41
+00:01:31,020 --> 00:01:33,780
+imitates<font color="#E5E5E5"> Kaspersky software according to</font>
+
+42
+00:01:33,780 --> 00:01:35,250
+the whistleblowing<font color="#E5E5E5"> group it uses</font>
+
+43
+00:01:35,250 --> 00:01:36,930
+computer viruses to send back
+
+44
+00:01:36,930 --> 00:01:39,450
+information<font color="#E5E5E5"> to the CIA</font><font color="#CCCCCC"> defense and</font>
+
+45
+00:01:39,450 --> 00:01:41,220
+foreign affairs analyst Gregory Copley
+
+46
+00:01:41,220 --> 00:01:42,630
+told us the allegations against
+
+47
+00:01:42,630 --> 00:01:45,210
+Kaspersky<font color="#E5E5E5"> here likely had no grounds to</font>
+
+48
+00:01:45,210 --> 00:01:48,060
+<font color="#E5E5E5">start with they're making these</font>
+
+49
+00:01:48,060 --> 00:01:50,430
+judgments<font color="#CCCCCC"> and taking these actions based</font>
+
+50
+00:01:50,430 --> 00:01:53,250
+<font color="#E5E5E5">on more or less hysteria</font><font color="#CCCCCC"> rather than on</font>
+
+51
+00:01:53,250 --> 00:01:55,470
+detailed evidence<font color="#E5E5E5"> there is</font><font color="#CCCCCC"> no</font><font color="#E5E5E5"> question</font>
+
+52
+00:01:55,470 --> 00:01:58,140
+that<font color="#E5E5E5"> the allegations were prompted by an</font>
+
+53
+00:01:58,140 --> 00:02:00,899
+anti-russian hysteria in<font color="#E5E5E5"> the US media</font>
+
+54
+00:02:00,899 --> 00:02:04,439
+and in the<font color="#E5E5E5"> left-wing circles of the</font><font color="#CCCCCC"> u.s.</font>
+
+55
+00:02:04,439 --> 00:02:10,360
+political machinery there's almost<font color="#E5E5E5"> a</font>
+
+56
+00:02:10,360 --> 00:02:15,850
+<font color="#E5E5E5">rabid pathological view within meteor</font>
+
+57
+00:02:15,850 --> 00:02:17,500
+and leftist circles in the<font color="#E5E5E5"> United States</font>
+
+58
+00:02:17,500 --> 00:02:19,270
+<font color="#E5E5E5">that Russia must be to blame for</font>
+
+59
+00:02:19,270 --> 00:02:21,610
+<font color="#E5E5E5">something so they will keep making</font><font color="#CCCCCC"> these</font>
+
+60
+00:02:21,610 --> 00:02:22,420
+allegations
+
+61
+00:02:22,420 --> 00:02:23,800
+so they'll<font color="#CCCCCC"> bill keep making this because</font>
+
+62
+00:02:23,800 --> 00:02:27,430
+it does<font color="#E5E5E5"> distract from other issues which</font>
+
+63
+00:02:27,430 --> 00:02:29,500
+which they should perhaps be paying more
+
+64
+00:02:29,500 --> 00:02:30,940
+<font color="#CCCCCC">attention</font><font color="#E5E5E5"> to in the</font><font color="#CCCCCC"> United States</font>
+
+65
+00:02:30,940 --> 00:00:00,000
+<font color="#E5E5E5">political</font><font color="#CCCCCC"> scene</font>
+

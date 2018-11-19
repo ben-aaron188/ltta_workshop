@@ -1,0 +1,4657 @@
+committees the judiciary and Commerce
+science and transportation will come to
+order
+we welcome everyone today's hearing on
+Facebook's social meet social media
+privacy and the use and disk and abuse
+of data although not unprecedented
+this is a unique hearing the issues we
+will consider range from data privacy
+and security to consumer protection and
+the Federal Trade Commission enforcement
+touching on jurisdictions of these two
+committees we have 44 members between
+our two committees that may not seem
+like a large group by Facebook standards
+but it is significant here for a hearing
+in the United States Senate we will do
+our best to keep things moving
+efficiently given our circumstances we
+will begin with opening statements from
+the Chairman and ranking members of each
+committee starting with chairman tun and
+then proceed with mr. Zuckerberg
+opening statement we will then move on
+to questioning each member will have
+five minutes to question witnesses I'd
+like to remind the members of both
+committees that time limits will be and
+must be strictly enforced given the
+numbers that we have here today if
+you're over your time Chairman Thune and
+I will make sure to let you know there
+will not be a second round as well of
+course there will be the usual follow-up
+written questions for the record
+questioning will alternate between
+majority and minority and between
+committees we will proceed in order
+based on respective committee seniority
+we will anticipate a couple short breaks
+later in the afternoon and so it's my
+pleasure to recognize the chairman of
+the comm
+Committee Chairman Thune for his opening
+statement
+Thank You chairman Grassley today's
+hearing is extraordinary it's
+extraordinary to hold a joint committee
+hearing it's even more extraordinary to
+have a single CEO testify before nearly
+half of the United States Senate but
+then Facebook is pretty extraordinary
+more than 2 billion people use Facebook
+every month 1.4 billion people use it
+every day more than the population of
+any country on earth except China in
+more than four times the population of
+the United States it's also more than
+1,500 times the population of my home
+state of South Dakota plus roughly 45
+percent of American adults report
+getting at least some of their news from
+Facebook in many respects Facebook's
+incredible reach is why we're here today
+we're here because of what you mr.
+Zuckerberg have described as a breach of
+trust a quiz app used by approximately
+300,000 people led to information about
+87 million Facebook users being obtained
+by the company Cambridge analytical
+there are plenty of questions about the
+behavior of Cambridge analytic and we
+expect to hold a future hearing on Kay
+branch and symbol and similar firms but
+as you said this is not likely to be an
+isolated incident a fact demonstrated by
+Facebook suspension of another firm just
+this past weekend you've promised that
+when Facebook discovers other apps that
+had access to large amounts of user data
+you will be banned them and tell those
+affected and that's appropriate but it's
+unlikely to be enough for the two
+billion Facebook users one reason that
+so many people are worried about this
+incident is what it says about how
+Facebook works the idea that for every
+person who decided to try an app
+information about nearly 300 other
+people was straight from your services
+to put it mildly disturbing and the fact
+that those 87 million people may have
+technically consented to making their
+data available does
+make most people feel any better the
+recent revelation that malicious actors
+were able to utilize Facebook's default
+privacy settings to match email
+addresses and phone numbers found on the
+so-called dark web to public Facebook
+profiles potentially affecting all
+Facebook users only adds fuel to the
+fire what binds these two incidents is
+that they don't appear to be caused
+intends to take and intends to take the
+actions Facebook is taking to ensure
+that third parties don't obtain data
+from unsuspecting users while necessary
+will actually serve to enhance
+Facebook's own ability to market such
+data exclusively most of us understand
+that whether you're using Facebook or
+Google or some other online services we
+are trading certain information about
+ourselves for free or low-cost services
+but for this model to persist both sides
+of the bargain need to know the stakes
+that are involved right now I'm not
+convinced that Facebook's users have the
+information that they need to make
+meaningful choices in the past many of
+my colleagues on both sides the aisle
+have been willing to defer to tech
+company's efforts to regulate themselves
+but this may be changing just last month
+in overwhelming bipartisan fashion
+Congress voted to make it easier for
+prosecutors and victims to go after
+websites that knowingly facilitate sex
+trafficking there should be a wake-up
+call for the tech community we want to
+hear more without delay about what
+Facebook and other company planned to do
+to take greater responsibility for what
+happens on their platforms how will you
+protect users data
+how will you inform users about the
+changes that you are making and how do
+you intend to proactively stop harmful
+conduct instead of being forced to
+respond to at months or years later mr.
+Zuckerberg in many ways you and the
+company that you've created the story
+that you created represent the American
+dream many are incredibly inspired by
+what you've done
+at the same time you have an upland it's
+up to you to ensure that that dream
+doesn't become a privacy nightmare for
+the scores of people who use Facebook
+this hearing is an opportunity to speak
+to those who believe in Facebook and to
+those who are deeply skeptical about it
+we are listening America is listening
+and quite possibly the world is
+listening to thank you now ranking
+member Feinstein thank you very much mr.
+chairman chairman Grassley chairman
+Thune thank you both for holding this
+hearing mr. Zuckerberg thank you for
+being here
+you have a real opportunity to hit this
+afternoon to lead the industry and
+demonstrate a meaningful commitment to
+protecting individual privacy we have
+learned over the past few months and
+we've learned a great deal that's learnt
+that's alarming we've seen how foreign
+actors are abusing social media
+platforms like Facebook to interfere in
+elections and take millions of Americans
+personal information without their
+knowledge in order to manipulate public
+opinion and target individual voters
+specifically on February the 16th
+special counsel Muller issued an
+indictment against the Russia based
+internet internet research agency and 13
+of its employees for interfering
+operations targeting targeting the
+United States through this 37 page
+indictment we learn that the IRA ran a
+coordinated campaign through 470
+Facebook accounts and pages the campaign
+included ads and false information to
+create discord and harm secretary
+Clinton's campaign and the content was
+seen by an estimated 157 million
+Americans a month later on March 17th
+news bro
+that Cambridge analytic exploited the
+personal information of approximately 50
+million Facebook users without their
+knowledge or permission and last week we
+learned that number was even higher 87
+million Facebook users who had their
+private information taken without their
+consent specifically using a personality
+quiz he created professor Cogan
+collected the personal information of
+three hundred thousand Facebook users
+and then collected data on millions of
+their friends
+it appears the information collected
+included everything these individuals
+had on their Facebook pages and
+according to some reports even included
+private direct messages between users
+professor Cogan is said to have taken
+data from over 70 million Americans it
+has also been reported that he sold this
+data to Cambridge analytic for eight
+hundred thousand dollars Cambridge
+analytical then took this data and
+created a psychological welfare tool to
+influence United States elections in
+fact the CEO Alexander Knicks declared
+that Cambridge analytic I ran all the
+digital campaign the television campaign
+and it's data informed all the strategy
+for the Trump campaign the reporting has
+also speculated that Cambridge analytic
+worked with the internet research agency
+to help Russia identify which American
+voters to target which it's profit with
+its propaganda I'm concerned that press
+reports indicate Facebook learned about
+this breach in 2015 but appears not to
+have taken significant steps to address
+it until this year so this hearing is
+important and I appreciate the
+conversation we had yesterday and I
+believe
+that Facebook through your presence here
+today and the words you're about to tell
+us will indicate how strongly your
+industry will regulate and/or reform the
+platforms that they control I believe
+this is extraordinarily important you
+lead a big company with 27,000 employees
+and we very much look forward to your
+comments Thank You mr. chairman
+Thank You senator Feinstein the history
+and growth of Facebook mirrors that of
+many of our technological giants founded
+by a mr. Zuckerberg in 2004 Facebook has
+exploded over the past 14 years
+Facebook currently has over 2 billion
+monthly active users across the world
+over 25,000 employees and offices in 13
+US cities and various other countries
+like their expanding user base the data
+collected on Facebook users has also
+skyrocketed they have moved on from
+schools likes and relationship statuses
+today Facebook has access to dozens of
+data points ranging from heads that
+you've clicked on event you've attended
+and your location based upon your mobile
+device it is no secret that Facebook
+makes money off this data through
+advertising revenue although many seem
+confused by or all I get altogether
+unaware of this fact Facebook generates
+generated 40 billion in revenue in 2017
+with about 98% coming from advertising
+across Facebook and Instagram
+significant data collection is also
+occurring at Google Twitter Apple and
+Amazon and even an ever-expanding
+portfolio of products and services
+offered by these
+please grant endless opportunities to
+collect increasing amounts of
+information on their customers as we get
+more free or extremely low-cost services
+the trade off for the American consumer
+is to provide more personal data the
+potential for further growth and
+innovation based on collection of data
+is unlimited less however the potential
+for abuse is also significant while the
+Condors of the Cambridge analytic
+situation are still coming to light
+there was clearly a breach of consumer
+trust and a likely improper transfer of
+data the Judiciary Committee will hold a
+separate hearing exploring Cambridge and
+other data privacy issues more
+importantly though these events have
+ignited a larger discussion on consumers
+expectations and the future of data
+privacy in our society it is exposed
+that consumers may not fully understand
+or appreciate the extent to which their
+data is collected protected transferred
+used and misused data has been used in
+advertising and political campaigns for
+decades the amount and type of data
+obtained however has seen a very
+dramatic change campaigns including
+Presidents Bush Obama and Trump or use
+these increasing amounts of data to
+focus on micro targeting and
+personalization over numerous social
+media platforms and especially Facebook
+in fact President Obama's campaign
+developed an apt utilizing the same
+Facebook feature as Cambridge and
+Lathika to capture the information of
+not just the apps users but millions of
+their friends the digital director for
+that campaign for to 2012 described
+the data is scraping apt as something
+that would quote wind up being the most
+groundbreaking piece of technology
+developed for this campaign and the hope
+so the effectiveness of these social
+media tactics can be debated but their
+use over the past years across the
+political spectrum and their increased
+significance cannot be ignored our
+policy towards data privacy and security
+must keep pace with these changes data
+privacy should be tethered to consumer
+needs and expectations now at a minimum
+consumers must have the transparency
+necessary to make an informed decision
+about whether to share their data and
+how it can be used consumers ought to
+have clearer information not opaque
+policies and complex clicked through
+consent pages the tech industry has an
+obligation to respond to widespread and
+growing concerns over data privacy and
+security and to restore the public's
+trust the status quo no longer works
+moreover Congress must determine if and
+how we need to strengthen privacy
+standards to ensure transparency and
+understanding for the billions of
+consumers who utilize these products
+Senator Nelson
+Thank You mr. chairman mr. Zuckerberg
+good afternoon let me just cut to the
+chase if you and other social media
+companies do not get your act in order
+none of us are going to have any privacy
+anymore that's what we're facing we're
+talking about personally identifiable
+information that if not kept by the
+social media companies from theft a
+value that we have in America being our
+personal privacy we won't have it
+anymore
+it's the advent of technology and of
+course all of us are part of it from the
+moment that we wake up in the morning
+until we go to bed we're on those
+handheld tablets and online companies
+like Facebook are tracking our
+activities and collecting information
+Facebook has a responsibility to protect
+this personal information we had a good
+discussion yesterday we went over all of
+this you told me that the company had
+failed to do so it's not the first time
+that Facebook has mishandled its users
+information
+the FTC found that Facebook's privacy
+policies had deceived users in the past
+and in the present case we recognize
+that Cambridge analytic and an app
+developer lied to consumers and lied to
+you lied to Facebook but did Facebook
+watch over the operations we want to
+know that and why didn't Facebook notify
+87 million users that their
+personally-identifiable information had
+been taken and it was being also used
+why were they not informed for
+unauthorized political purposes so only
+now and I appreciate our conversation
+only now Facebook has pledged to inform
+those consumers whose accounts were
+compromised I think you're genuine I got
+that sense in kind of conversing with
+you you want to do the right thing you
+want to enact reforms we want to know if
+it's going to be enough
+and I hope that will be in the answers
+today now since we still don't know what
+Cambridge analytic I has done with this
+data
+you heard chairman foon say as we have
+discussed we want to Hall Cambridge
+analytic in to answer these questions at
+a separate hearing I want to thank
+chairman foon for working with all of us
+on scheduling a hearing there's
+obviously a great deal of interest in
+this subject I hope we can get to the
+bottom of this and if Facebook and other
+online companies will not or cannot fix
+the privacy invasions then we are going
+to have to we the Congress how can
+American consumers trust folks like your
+company to be caretakers of their most
+personal and identifiable information
+and that's the question thank you thank
+you my colleagues and Senator Nelson our
+witness today is Mark Zuckerberg founder
+chairman chief executive officer of
+Facebook
+mr. Zuckerberg launched Facebook
+February 4th 2004 at the age of 19 and
+at that time he was a student at Harvard
+University as I mentioned previously his
+company now has over 40 billion of
+annual revenue and over 2 billion
+monthly active users mr. Zuckerberg
+along with his wife also established the
+Chan Zuckerberg initiative to further
+philanthropic off causes I now turn to
+you welcome to the committee and
+whatever your statement is orly if you
+have a longer one it'll be included in
+the record so proceed sir chairman
+Grassley chairman Thune
+ranking member Feinstein and ranking
+member Nelson and members of the
+committee we face a number of important
+issues around privacy safety and
+democracy and you will rightfully have
+some hard questions for me to answer
+before I talk about the steps we're
+taking to address them I want to talk
+about how we got here
+Facebook is an idealistic and optimistic
+company for most of our existence we
+focused on all the good that connecting
+people can do and as Facebook has grown
+people everywhere have gotten a powerful
+new tool for staying connected to the
+people they love for making their voices
+heard and for building communities and
+businesses just recently we've seen the
+me2 movement and the March for our lives
+organized at least in part on facebook
+after hurricane Harvey people came
+together to raise more than 20 million
+dollars for relief and more than 70
+million biz small businesses use
+Facebook to create jobs and grow but
+it's clear now that we didn't do enough
+to prevent these tools from being used
+for harm as well and that goes for fake
+news for foreign interference and
+elections and hate speech as well as
+developers and data privacy we didn't
+take a broad enough view of our
+responsibility and that was a big
+mistake and it was my mistake and I'm
+sorry I started Facebook I run it and
+I'm responsible for what happens here so
+now we have to go through our all of our
+relationship with people and make sure
+that we're taking a broad enough view of
+our responsibilities it's not enough to
+just connect people we have to make sure
+that those connections are positive it's
+not enough to just give people a voice
+we need to make sure that people aren't
+using it to harm other people or to
+spread misinformation and it's not
+enough to just give people control over
+their information we need to make sure
+that the developers they share it with
+protect their information - across the
+board we have a responsibility to not
+just build tools but to make sure that
+they're used for good it will take some
+time to work through all the changes we
+need to make across the company
+but I'm committed to getting this right
+this includes the basic responsibility
+of protecting people's information which
+we failed to do with Cambridge analytic
+so here are a few things that we are
+doing to address this and to prevent it
+from happening again first we're getting
+to the bottom of exactly what Cambridge
+analodjica did and telling everyone
+affected what we know now is that
+Cambridge analodjica improperly accessed
+some information about millions of
+Facebook members by buying it from an
+app developer that information this was
+information that people generally share
+publicly on their Facebook pages like
+names and their profile picture and the
+pages they follow when we first
+contacted Cambridge analytic they told
+us that they had deleted the data about
+a month ago we heard new reports that
+suggested that wasn't true and now we're
+working with governments in the u.s. the
+UK and around the world to do a full
+audit of what they've done and to make
+sure they get rid of any data they may
+still have second to make sure no other
+app developers out there are misusing
+data we're now investigating every
+single app that had access to a large
+amount of information in the past and if
+we find that someone improperly used
+data we're gonna ban them from Facebook
+and tell everyone affected third to
+prevent this from ever happening again
+going forward we're making sure that
+developers can access as much
+information now the good news here is
+that we already made big changes to our
+platform in 2014 that would have
+prevented this specific situation from
+came with Cambridge analytic from
+occurring again today but there's more
+to do and you can find more details on
+the steps we're taking in my written
+statement my top priority has always
+been our social mission of connecting
+people building community and bringing
+the world closer together advertisers
+and developers will never take priority
+over that as long as I am running
+Facebook I've started Facebook when I
+was in college we've come a long way
+since then we now serve more than 2
+billion people around the
+world and everyday people use our
+services to stay connected with the
+people that matter to them most I
+believe deeply in what we're doing and I
+know that when we address these
+challenges we'll look back and view
+helping people connect and giving more
+people a voice as a positive force in
+the world I realized the issues we're
+talking about today aren't just issues
+for Facebook in our community they're
+issues and challenges for all of us as
+Americans thank you for having me here
+today and I'm ready to take your
+questions I'll remind members that maybe
+you weren't here when I had my opening
+comments that we are operating under the
+five year the five minute rule and that
+applies to the five minute rule and that
+applies to those of us who are chairing
+the committee as well I start with you
+Facebook handles extensive amounts of
+personal data for billions of users a
+signal significant amount of that data
+is shared with third-party developers
+who eautiful utilize your platform as of
+this early this year you did not
+actively monitor whether that data was
+transferred by such developers to other
+parties moreover your policies only
+prohibit transfers by developers to
+parties seeking to profit from such data
+number one
+besides professor Cogan's transfer and
+now potentially cube you do you know of
+any instances where user data was
+improperly transferred to third party in
+breach of Facebook's terms if so how
+many times does that happen and was
+Facebook only made aware of that
+transfer by some third party mr.
+chairman thank you as I mentioned we're
+now conducting a full investigation into
+every single app that had a access to a
+large amount of information before we
+lock down platform to prevent developers
+from accessing this information around
+2014 we believe that we're going to be
+investigating many apps tens of
+thousands of apps and if we find any
+suspicious activity we're going to
+conduct a full audit of those apps to
+understand how they're using their data
+and if they're doing anything improper
+if we find that they're doing anything
+improper we'll ban them from Facebook
+and we will tell everyone affected as
+for past activity I don't have all the
+examples of apps that we've banned here
+but if you'd like I can have my team
+follow up with you after this hmm have
+you ever required an audit to ensure the
+deletion of improperly transferred data
+and if so how many times mr. chairman
+yes we have I don't have the exact
+figure on how many times we have but
+overall the way we've enforced our
+platform policies in the past is we have
+looked at patterns of how apps have have
+used our api's and accessed information
+as well as looked into reports that
+people have made tests about apps that
+might be doing sketchy things going
+forward we're going to take a more
+proactive position on this and and do
+much more regular spot checks and other
+reviews of apps as well as increasing
+the amount of audits that we do and
+again I can make sure that our team
+follows up with you on anything about
+the specific past stats that would be
+interesting I was going to assume that
+sitting here today you have no idea and
+if I'm wrong on that you're able you're
+telling me I think that you're able to
+supply those figures to us as Lee says
+of this point mr. chairman I will have
+my team follow up with you on what
+information we have okay but right now
+you have no certainty of whether or not
+how much of that's going on right okay
+Facebook collects massive amounts of
+data from consumers including content
+networks contact lists device
+information location and information
+from third parties yet your data policy
+is only a few pages long and provides
+consumers with only a few examples of
+what is collected and how it might be
+used the examples given emphasize benign
+uses such as connecting with friends but
+your policy does not give any indication
+for more controversial issues of such
+data my question why doesn't facebook
+disclosed to a choosers all the ways the
+data might be used by Facebook and other
+third parties and what is Facebook's
+responsibility to inform users about
+that information mr. chairman I believe
+it's important to tell people exactly
+how the information that they share on
+Facebook is going to be used that's why
+every single time you go to share
+something on Facebook whether it's a
+photo and Facebook or a message and a
+messenger or whatsapp every single time
+there's a control right there about who
+you're gonna be sharing it with whether
+it's your friends or public or a
+specific group and you can you can
+change that and control that in line to
+your broader point about the privacy
+policy this gets into an issue that I
+think we and others in the tech industry
+have found challenging which is that
+long privacy policies are very confusing
+and if you make it long and spell out
+all the detail then you're probably
+going to reduce the percent of people
+who read it and make it accessible to
+them so one of the things that that
+we've struggled with over time is to
+make something that is as simple as
+possible so people can understand it as
+well as giving them controls in line in
+the product in the context of when
+they're trying to actually use them
+taking into account that we don't expect
+that most people will want to go through
+and read a full legal document
+senator Nelson Thank You mr. chairman
+yesterday when we talked I gave the
+relatively harmless example that I'm
+communicating with my friends on
+Facebook and indicate that I loved a
+certain kind of chocolate and all of a
+sudden I start receiving advertisements
+for chocolate what if I don't want to
+receive those commercial advertisements
+so you're chief operating officer Ms
+Sandberg suggested on the
+NBC Today Show that Facebook users who
+do not want their personal information
+used for advertising might have to pay
+for that protection pay for are you
+actually considering having facebook
+users pay for you not to use that
+information
+senator people have a control over how
+their information is used in ads in the
+product today so if you want to have an
+experience where your ads aren't you
+aren't targeted using all the
+information that we have available you
+can turn off third-party information
+what we found is that even though some
+people don't like ads people really
+don't like ads that aren't relevant and
+while there is some discomfort for sure
+with using information and making ads
+more relevant the overwhelming feedback
+that we get from our community is that
+people would rather have us show
+relevant content there than not so we
+offer this control that they are
+referencing some people use it it's not
+the majority of people on Facebook and
+and I think that that's that's a good
+level of control to offer I think what
+Cheryl was saying was that in order to
+not run ads at all we would still need
+some sort of business model and that is
+your business model so I take it that
+and I use the harmless example of
+chocolate but if it got into more
+personal thing communicating with
+friends and I want to cut it off I'm
+gonna have to pay you in order not to
+send me using my personal information
+something that I don't want that in
+essence is what I understood Ms Sandberg
+to say is that correct yes senator
+although to be clear we don't offer an
+option today for people to pay to not
+show ads we think offering an
+ad-supported service is the most aligned
+with our mission of trying to help
+connect everyone in the world
+because we want to offer a free service
+that everyone can afford okay that's the
+only way that we can reach billions of
+people so therefore you consider my
+personally identifiable data the
+company's data not my data is that it no
+senator
+actually at the first line of our Terms
+of Service say that you control and
+owned the information and content that
+you put on Facebook well the recent
+scandal is obviously frustrating not
+only because it affected 87 million but
+because it seems to be part of a pattern
+of lacks data practices by the company
+going back years so back in 2011 it was
+a settlement with the FTC and now we
+discover yet another incidence where the
+data was failed to be protected when you
+discovered the Cambridge analytical that
+had fraud insane Dahl of this
+information why didn't you inform those
+87 million when we learned in 2015 that
+Cambridge analytic I had bought data
+from an app developer on Facebook that
+people had shared it with we did take
+action we took down the app and we
+demanded that both the app developer and
+Cambridge analytic a delete and stop
+using any data that they had they told
+us that they did this in retrospect it
+was clearly a mistake to believe them
+and you should have followed up and done
+a full audit then and that is not a
+mistake that we will make yes you did
+that and you apologize for but you
+didn't notify them and do you think that
+you have an ethical obligation to notify
+87 million Facebook users senator when
+we heard back from Cambridge analytical
+that they had told us that they weren't
+using the data and had deleted it we
+considered it a closed case in
+retrospect that was clearly a mistake we
+shouldn't have taken their word
+for it and we've updated our policies
+and how we're going to operate the
+company to make sure that we don't make
+that mistake again
+did anybody notify the FTC no senator
+for the same reason that we'd considered
+it a closed closed case senator Thune
+and mr. Zuckerberg would you that do
+that differently today presumably in
+response to Senator Nelson's question
+yes having to do it over this may be
+your first appearance before Congress
+but it's not the first time that
+Facebook has faced tough questions about
+its privacy policies Wired magazine
+recently noted that you have a 14 year
+history of apologizing for ill-advised
+decisions regarding user privacy not
+unlike the one that you've made just now
+in your opening statement after more
+than a decade of promises to do better
+how is today's apology different and why
+should we trust Facebook to make the
+necessary changes to ensure user privacy
+and give people a clearer picture of
+your privacy policies Thank You mr.
+chairman so we have made a lot of
+mistakes in running the company I think
+it's it's pretty much impossible I
+believe to start a company in your dorm
+room and then grow it to be at the scale
+that we're at now without making some
+mistakes and because our service is
+about helping people connect and
+information those mistakes have been
+different and and how they we try not to
+make the same mistake multiple times but
+in general a lot of the mistakes are
+around how people connect to each other
+just because of the nature of the
+service overall I would say that we're
+going through a broader philosophical
+shift in how we approach our
+responsibility as a company for the
+first 10 or 12 years of the company I
+viewed our responsibility as primarily
+building tools that if we could put
+those tools in people's hands then that
+would empower people to do good things
+what I think we've learned now across a
+number of issues not just data privacy
+but also fake news and foreign
+interference and elections is that we
+need to take a more proactive role and a
+broader view of our responsibility it's
+not enough to just build tools we need
+to make sure that they're used for good
+and that means that we need to now take
+a more active
+view in policing the ecosystem and in
+watching and kind of looking out and
+making sure that all of the members in
+our community are using these tools in a
+way that's gonna be good and healthy so
+at the end of the day this is going to
+be something where people will measure
+us by our results on this it's not that
+I expect that anything I say here today
+to to necessarily change people's view
+but I'm committed to getting this right
+and I believe that over the coming years
+once we fully work all these solutions
+through people will see real real
+differences yeah well and I'm glad that
+you all have gotten that message as we
+discussed in my office yesterday the
+line between legitimate political
+discourse and hate speech can sometimes
+be hard to identify and especially when
+you're relying on artificial
+intelligence and other technologies for
+the initial discovery can you discuss
+what steps that Facebook currently takes
+when making these evaluations the
+challenges that you face and any
+examples of where you may draw the line
+between what is and what is not
+hate speech yes mr. chairman I'll speak
+to hate speech and then I'll talk about
+enforcing our content policies more
+broadly so actually maybe if you're okay
+with it I'll go in the other order so
+from the beginning of the company in
+2004 I started in my dorm room it was me
+and my roommate we didn't have AI
+technology that could look at the
+content that people were sharing so so
+we basically had to enforce our content
+policies reactively people could share
+what they wanted and and then if someone
+in the community found it to be
+offensive or against our policies they'd
+flag it for us and we'd look at it
+reactively now increasingly we are
+developing AI tools that can identify
+certain classes of bad activity
+proactively and flag it for our team at
+Facebook by the end of this year by the
+way we're gonna have more than 20,000
+people working on security and content
+review working across all these things
+so when when content gets flagged to us
+we have those those people look at it
+and if it violates our policies then we
+take it down some
+problems lend themselves more easily to
+AI solutions than others so hate speech
+is one of the hardest because
+determining if something is hate speech
+is very linguistically nuanced right
+it's you need to understand you know
+what is a slur and what whether
+something is hateful and not just in
+English but the majority of people on
+Facebook use it in languages that are
+different across the world can trust
+that for example with an area like
+finding terrorist propaganda which we've
+actually been very successful at
+deploying AI tools on already today as
+we sit here 99% of the Isis and al-qaeda
+content that we take down on Facebook
+are AI systems flagged before any human
+sees it so that's a success in terms of
+rolling out AI tools that can that can
+proactively police and enforce safety
+across the community hate speech I am
+optimistic that over a five to ten year
+period we will have AI tools that can
+get into some of the nuances the
+linguistic nuances of different types of
+content to be more accurate and flagging
+things for our systems but today we're
+just not there on that so a lot of this
+is still reactive people flag it to us
+we we have people look at it we have
+policies to try to make it as not
+subjective as possible but until we get
+it more automated there's a higher error
+rate than I'm happy with thank you
+senator Feinstein thanks mr. chairman
+mr. Zuckerberg what is Facebook doing to
+prevent foreign actors from interfering
+in US elections Thank You senator this
+is one of my top priorities in 2018 I
+was to get this right I one of my
+greatest regrets in running the company
+is that we were slow in identifying the
+Russian information operations in 2016
+we expected them to do a number of more
+traditional cyber attacks which we did
+identify and notify the campaign's that
+they were trying to hack into them but
+we were slowed identifying the type of
+new information operations when did you
+identify new operations it was right
+around the time of the 2016 election
+itself so since then we
+20:18 is an incredibly important year
+for elections not just in with the u.s.
+midterms but around the world there are
+important elections in India in Brazil
+and Mexico and Pakistan and and Hungary
+that we want to make sure that we do
+everything we can to protect the
+integrity of those elections now I have
+more confidence that we're gonna get
+this right because since the 2016
+election there have been several
+important elections around the world
+where we've had a better record there's
+the French presidential election
+there's the German election there was
+the US Senate Alabama special election
+last year explain what is better about
+the record so we've deployed new AI
+tools that do a better job of
+identifying fake accounts that may be
+trying to interfere in elections or
+spread misinformation and between those
+three elections we were able to
+proactively remove tens of thousands of
+accounts that before they they could
+contribute significant harm and the
+nature of these attacks though is that
+you know there are people in Russia
+whose job it is is to try to exploit our
+systems and other internet systems and
+other systems as well so this is an arms
+race I mean they're gonna keep on
+getting better at this and we need to
+invest in keeping on getting better at
+this too which is why one of the things
+I mentioned before is we're gonna have
+more than 20,000 people by the end of
+this year working on security and
+content review across the company speak
+for a moment about automated bot that
+spread disinformation what are you doing
+to punish those who exploit your
+platform in that regard well you're not
+allowed to have a fake account on
+Facebook your content has to be
+authentic so we build technical tools to
+try to identify when people are creating
+fake accounts especially large networks
+that fake accounts like the Russians
+have in order to remove all of that
+content after the 2016 election our top
+priority was protecting the integrity of
+other elections around the world but at
+the same time we had a parallel effort
+to trace back to Russia the IRA activity
+the internet research agency activity
+that was the part of the Russian
+government that that did this activity
+in 2016 and just last week we were able
+to
+determine that a number of Russian media
+organizations that were sanctioned by
+the Russian regulator were operated and
+controlled by this internet research
+agency so we took the step last week
+there was a pretty big step for us of
+taking down sanctioned news
+organizations in Russia as part of an
+operation to remove 270 fake accounts
+and pages part of their broader network
+in Russia that was that was actually not
+targeting international interference as
+much as I'm sorry let me correct that it
+was primarily targeting spreading
+misinformation in Russia itself as well
+as certain russian-speaking neighboring
+countries how many accounts of this type
+have you taken down across in the IRA
+specifically the ones that we've pegged
+back to the IRA we can identify the 470
+in the American elections and the 270
+that we specifically went after in
+Russia last week there are many others
+that our systems catch which are more
+difficult to attribute specifically to
+Russian intelligence but the number
+would be in the tens of thousands of
+fake accounts that we remove and I'm
+happy to have my team follow up with you
+on more information if that would be
+helpful would you please I think this is
+very important if you knew in 2015 that
+Cambridge analytic was using the
+information of Professor Kogan's why
+didn't Facebook ban Cambridge in 2015
+why'd you wait senator that's a great
+question
+Cambridge analytical wasn't using our
+services in 2015 as far as we can tell
+so this is this is clearly one of the
+questions that I asked our team as soon
+as I learned about this is why did we
+wait until we found out about the
+reports last month to to ban them um
+it's because as of the time that we
+learned about their activity in 2015
+they weren't an advertiser they weren't
+running pages so we actually had nothing
+to ban thank you thank you mr. chairman
+thank you senator Feinstein now senator
+hatch
+this is the most intense public scrutiny
+I've seen for a tech related hearing
+since the Microsoft hearing that that
+I'd shared back in the late 1990s the
+recent stories about Cambridge analytic
+and data mining on social media have
+raised serious concerns about consumer
+privacy and naturally I know you
+understand that at the same time these
+stories touch on the very foundation of
+the Internet economy and the way the
+websites that drive our internet economy
+make money some would profess themselves
+shocked shocked that companies like
+Facebook and Google share you user data
+with advertisers did any of these
+individuals ever stop to ask themselves
+why Facebook and Google did don't change
+a don't charge for access nothing in
+life is free everything involves
+trade-offs if you want something without
+having to pay money for it you're gonna
+have to pay for it in some other way it
+seems to me and that's where what we're
+seeing here and these great websites
+that don't charge for access they
+extract value in some other way and
+there's nothing wrong with that as long
+as they're upfront about what they're
+doing in my mind the issue here is
+transparency its consumer choice do
+users understand what they're doing to
+to when they access a website or agree
+to Terms of Service our websites upfront
+about how they extract value from users
+or do they hide the ball the consumers
+have the information they need to make
+an informed choice regarding whether or
+not to visit a particular website to
+mine to my mind these are questions that
+we should ask or be focusing on now mr.
+Zuckerberg I remember well your first
+visit to Capitol Hill back in 2010 you
+spoke to the Senate Republican high tech
+taskforce which I chair you said back
+then that Facebook would always be free
+is that still your objective senator yes
+there will always be a version of
+Facebook that is free it is our mission
+to try to help connect everyone around
+the world and to bring the world closer
+together in order to do that we believe
+that we need to offer a service that
+everyone can
+Ford and we're committed to doing that
+well if so how do you sustain a business
+model in which users don't pay for your
+service senator we run ads I see that's
+great whenever a controversy like this
+arises there's always a danger that
+Congress's response will be to step in
+and over regulate now that's been the
+experience that I've had in my 42 years
+here in your view what sorts of
+legislative changes would help to solve
+the problems the Cambridge analytical
+story has revealed and what sorts of
+legislative changes would not help to
+solve this issue senator I think that
+there are a few categories of
+legislation that that makes sense to
+consider around privacy specifically
+there are a few principles that I think
+it would be useful to discuss and and
+potentially codify into law one is
+around having a simple and practical set
+of ways that you explain what you're
+doing with data and we talked a little
+bit earlier around the complexity of
+laying out these this long privacy
+policy it's hard to say that people you
+know fully understand something when
+it's only written out in the long legal
+document this need the stuff needs to be
+implemented in a way where people can
+actually understand it where consumers
+can can understand it
+but that can also capture all the
+nuances of how these services work in a
+way that does it that's not overly
+restrictive on on providing the services
+that's one the second is around giving
+people complete control this is the most
+important principle for facebook every
+piece of content that you share on
+Facebook you own and you have complete
+control over who sees it and and how you
+share it and you can remove it at any
+time that's why every day about a
+hundred billion times a day people come
+to one of our services and either post a
+photo or send a message to someone
+because they know that they have that
+control and that who they say it's going
+to go to is going to be who sees the
+content and I think that that control is
+something that's important that I think
+should apply to to every service and
+go ahead the third point is is just
+around enabling innovation because some
+of these use cases that that are very
+sensitive like face recognition for
+example and I think there's a balance
+that's extremely important to strike
+here where you obtain special consent
+for sensitive features like face
+recognition but don't but we still need
+to make it so that American companies
+can innovate in those areas or else
+we're going to fall behind Chinese
+competitors and others around the world
+who have different regimes for for
+different new features like that senator
+Cantwell Thank You mr. chairman welcome
+mr. Zuckerberg do you know who Palantir
+is I do some people have referred to
+them as a Stanford analytic I do you
+agree senator I have not heard that okay
+do you think Palantir taught Cambridge
+analytic as press reports are saying how
+to do these tactics senator I don't know
+do you think that Palantir has ever
+scraped data from facebook senator I'm
+not aware of that okay do you think that
+during the 2016 campaign as Cambridge
+analytical was providing support to the
+Trump campaign under project Alamo were
+there any Facebook people involved in
+that sharing of technique and
+information senator we provided support
+to the Trump campaign similar to what we
+provide to any advertiser or campaign
+who who asked for it so that was a yes
+is that a yes senator can you repeat the
+specific question I just want to make
+sure I I guess specifically we were
+asking during the 2016 campaign
+Cambridge analytic I worked with the
+Trump campaign to refine tactics and
+were Facebook employees involved in that
+senator I don't know that our employees
+were involved with Cambridge
+although I know that we did help out
+with the Trump campaign overall and
+sales support in the same way that we do
+with other campaigns so they may have
+been involved in all working together
+during that time period maybe that's
+something your investigation will find
+out Senator Mike I can certainly have my
+team get back to you on any specifics
+there that I don't know sitting here
+today have you heard of Total
+Information Awareness you know I'm
+talking about no I do not okay
+Total Information Awareness was 2003
+John Ashcroft and others trying to do
+similar things to what I think is behind
+all of this
+geopolitical forces trying to get data
+and information to influence a process
+so when I look at Palantir and what
+they're doing and I look at whatsapp
+which is another acquisition and I look
+at where you are from the 2011 consent
+decree and where you are today I'm
+thinking is this guy out foxing the
+Foxes or is he going along with what is
+a major trend in an Information Age to
+try to harvest information for political
+forces and so my question to you is do
+you see that those applications that
+those companies Palantir and even
+whatsapp are going to fall into the same
+situation that you've just fallen into
+over the last several years senator I'm
+not I'm not sure specifically overall I
+do think that these issues around
+information access are challenging to
+the specifics about those apps I'm not
+really that familiar with what Pollan
+tier does whatsapp collects very little
+information and I think is less likely
+to have the kind of issues because of
+the way that the service is architected
+but certainly I think that these are
+broad issues across the tech industry
+well I guess given the track record of
+where Facebook is and why you're here
+today
+I guess people would say that they
+didn't act boldly enough and the fact
+that
+people like John Bolton basically was an
+investor and New York Times article
+earlier I guess it was actually last
+month that the Bolton pack was obsessed
+with how America was becoming limp
+wristed and spineless and it wanted
+research and messaging for national
+security issues so the fact that you
+know there are a lot of people who are
+interested in this larger effort and
+what I think my constituents want to
+know is was this discussed at your board
+meetings and what are the applications
+and interests that are being discussed
+without putting real teeth into this we
+don't want to come back to this
+situation again I believe you have all
+the talent my question is whether you
+have all the will to help us solve this
+problem yes senator so data privacy and
+foreign interference and elections are
+certainly topics that we have discussed
+at the board meeting these are some of
+the biggest issues that the company has
+faced and we feel a huge responsibility
+to get these right do you believe the
+European regulations should be applied
+here in the US senator I think everyone
+in the world deserves good privacy
+protection and regardless of whether we
+implement the exact same regulation I
+would guess that it would be somewhat
+different because we have somewhat
+different sensibilities in the US as
+other countries we're committed to
+rolling out the controls and the
+affirmative consent and the special
+controls around sensitive types of
+technology like face recognition that
+are required in GDP are we're doing that
+around the world so I think it's
+certainly worth discussing whether we
+should have something similar in the US
+but what I would like to say today is
+that we're going to go forward and
+implement that regardless of what the
+regulatory outcome is senator wicker
+senator Thune will chair next Thank You
+mr. chairman and mr. Zuckerberg thank
+you for being with us Mike
+is going to be sort of a follow up on
+what senator Hatch was talking about and
+let me agree with basically his his
+advice that we don't want to over
+regulate to the point to the point where
+we're stifling innovation and investment
+I understand with regard to suggested
+rules or suggested legislation there are
+at least two schools of thought out
+there one would be the ISPs the inner
+Internet service providers who were
+advocating for privacy protections for
+consumers that apply to all online
+entities equally across the entire
+internet ecosystem now Facebook is an
+edge provider on the other hand it's my
+understanding that many edge providers
+such as Facebook may not support that
+effort because edge providers have
+different business models than the ISPs
+and should not be considered like
+services so do you think we need
+consistent privacy protections for
+consumers across the entire internet
+ecosystem that are based on the type of
+consumer information being collected
+used or shared regardless of the entity
+doing the collecting or using or sharing
+senator this is an important question I
+would differentiate between ISPs which I
+consider to be the pipes of the Internet
+and the platforms like Facebook or
+Google or Twitter YouTube that are the
+apps or platforms on top of that I think
+in general the expectations that people
+have of the pipes are somewhat different
+from the platforms so there might be
+areas where there needs to be more
+regulation and one and less than the
+other but I think that it's there gonna
+be other places where there needs to be
+more regulation of the other type
+specifically though on the pipes one of
+the important issues that that I think
+we face and have debated is when you say
+pipes you mean ISPs the ISPs yeah when a
+new net neutrality has been a hotly
+debated topic
+and one of the reasons why I have been
+out there saying that I think that that
+should be the case is because I look at
+my own story of when I was getting
+started building facebook at Harvard you
+know I only had one option for an ISP to
+use and if I had to pay extra in order
+to make it so that my app could
+potentially be seen or used by other
+people then then we probably won't be
+here today okay well will I'm but we're
+talking about privacy concerns and and
+let me just say we'll have to follow up
+on this but I think you and I agree this
+is going to be one of the major items of
+debate if we have to go forward and do
+this from a governmental standpoint let
+me just move on to another couple of
+items is it true that as was recently
+publicized that Facebook collects the
+call and text histories of its users
+that use Android phones senator we have
+an app called messenger for sending
+messages to your Facebook friends and
+that app offers people an option to sync
+their their text messages into the
+messaging app and to make it so that
+absent basically so you could have one
+app where it has both your texts and and
+your Facebook messages in one place we
+also allow people the option you've got
+opt in or out of that yes it is opt out
+it is opt-in you you have to affirmative
+ly say that you want to sync that
+information before we get accident less
+unless you opt in they you don't collect
+that call and text history that is
+correct and is that true for is this
+practice done at all with minors or do
+you make an exception there for persons
+aged 13 to 17 I do not know we can
+follow up okay do that let's do that one
+other thing there have been reports that
+Facebook can track a user's internet
+browsing activity even after that user
+has logged off of the Facebook platform
+can you confirm whether or not this is
+true senator I want to make sure I get
+this accurate so it would probably be
+better to have my team
+follow up it you don't know it's I know
+that people use cookies on the internet
+and that you can probably correlate
+activity between between sessions we do
+that for a number of reasons including
+security and including measuring ads to
+make sure the ad experiences are the
+most effective which of course people
+can opt out of but I want to make sure
+that I'm precise in my answer so when
+you get back to me sir would you also
+let us know how Facebook's discloses to
+its users that engaging in this type of
+tracking gives us that result yes and
+thank you very much thank you senator
+wicker senator Leahy's up next thank you
+I assume Facebook's been served with
+subpoenas for the special counselor's
+office is that correct yes have you or
+anyone at Facebook been interviewed by
+the special counsel's office yes have
+you been interviewed I have not I have
+not
+others have I believe so and I want to
+be careful here because that our work
+with the special counsel is confidential
+and I want to make sure that in an open
+session I'm not revealing something
+confidential who's that that's what made
+clear that you have been contacted you
+have Peters actually let me clarify that
+I I actually am not aware of a subpoena
+I believe that there may be but I know
+we're working with them thank you
+six months ago your general counsel
+promises you're taking steps to prevent
+Facebook for serving we're out it's
+called unwitting co-conspirator and
+Russian interference but these these
+unverified divisive pages are on
+Facebook today they look a lot like the
+Anonymous group to Russian agencies use
+the spread propaganda during the 2016
+election
+are you able to confirm whether they're
+Russian creative groups yes or no
+senator are you asking about those
+specifically yes a senator last week we
+actually announced a major change to our
+ads and pages policies that we will be
+verifying the identity of every single
+advertiser Pacific ones you know whether
+they are I am not familiar with those
+pieces of content specifically but if
+you tried this policy of a week ago
+you'd be able to verify them we are
+working on that now
+what we're doing is we're going to
+verify the identity of any advertiser
+who's running a political or issue
+related ad this is basically what the
+honest ads Act is proposing and we're
+following that and we're also going to
+do that for pages but you can open
+throwing these I'm not familiar with
+those specific pieces will you find out
+the history and get back to me I'll have
+my team get back to you I do think it's
+worth adding though that we're going to
+do the same verification of the identity
+and location of admins who are running
+large pages so that way even if they
+aren't going to be buying ads in our
+system that will make it significantly
+harder for Russian interference efforts
+or other inauthentic efforts somehow to
+try to spread misinformation through the
+network I'm surprised it's been going on
+for some time some might say that's
+about time you know six months ago I
+asked you general counsel about
+Facebook's role as a breeding ground for
+hate speech against Rohingya refugees
+recently UN investigators blamed
+Facebook for playing a role in citing
+possible genocide MMR and has been
+genocide there now you say use a I to
+find this this is the type of content
+referring to it calls for the death of a
+Muslim journalist and that threat went
+straight through your detection systems
+it spread very quickly and then it took
+attempt after attempt after attempt
+and the involvement of civil society
+groups to get you to remove it
+why couldn't be removed within 24 hours
+senator what's happening in Myanmar is a
+terrible tragedy and we need to do more
+we all agree with that
+okay but you and investigators have
+blamed you blame Facebook for playing a
+role their genocide we're all great
+terrible
+how can you dedicate him will you
+dedicate the resources makes her sure
+such hate speech is taken down within 24
+hours yes we're working on this and
+there are three specific things that
+we're doing one is we're hiring dozens
+of more Burmese language content
+reviewers because hate speech is very
+language specific it's hard to do it
+without people who speak the local
+language and we need to ramp up our
+effort there dramatically second is
+we're working with civil society in
+Myanmar to identify specific hate
+figures so we can take down their
+accounts rather than specific pieces of
+content and third is we're standing up a
+product team to do specific product
+changes in Myanmar and other countries
+that may have similar issues in the
+future to prevent this from from
+happening senator Cruz and I sent a
+letter to Apple what they're gonna do
+about Chinese censorship great question
+our place that'd be great thank you
+Sarah ladies for the record I want to
+know what you will do about Chinese
+censorship when they come to you since
+centigrams up next thank you are you
+familiar with Andrew Bosworth yes
+senator I am he said and so we connect
+more people maybe someone dies in a
+terrorist attack coordinated on our
+tools the ugly truth is that we believe
+in connecting people so deeply that
+anything that allows us connect more
+people more often is de facto good do
+you agree with that no senator I do not
+as context baz wrote that baz is what we
+call him internally he wrote that as an
+internal note we have a lot of
+discussion internally I disagreed with
+it at the time that he wrote it if you
+looked at the comments on the internal
+discussion that yes or do people
+internally did too that you did a poor
+job as a CEO communicating your
+displeasure with such thoughts because
+if he had understood were you where you
+were at he would never said it to begin
+with
+well senator we try to run our company
+in a way where people can express
+different opinions internally well this
+is an opinion that really disturbs me
+and if somebody worked for me that said
+this I'd fire who's your biggest
+competitor senator we have a lot of
+competitors who's your biggest hmm I
+think the categories of could you want
+just one I'm not sure I can give one but
+can I give a bunch mm-hmm so there are
+three categories that I would focus on
+one are the other tech platforms so
+Google Apple Amazon Microsoft we overlap
+with them in different ways they do do
+they provide the same service you
+provide in different ways differently
+this way if I buy a Ford and it doesn't
+work well and I don't like it I can buy
+a Chevy if I'm upset with Facebook
+what's the equivalent product that I can
+go sign up for well there's the second
+category that I was going to talk about
+or some that categories I'm talking
+about is a real competition you face
+because car companies face a lot of
+competition if they make a defective car
+it gets out in the world people stop
+buying that car there buy another one is
+it an alternative to Facebook in the
+private sector yes senator the average
+American uses 8 different apps ok
+communicate with their friends and stay
+in touch with people I'm training from
+texting apps to email service you
+provide well we do provide a number of
+differences clitter the same as what you
+did it overlaps with a Porsche you don't
+think you have a monopoly all right
+certainly doesn't feel like that to me
+ok
+so it doesn't so Instagram you bought
+Instagram party Dubai Instagram because
+they were very talented app developers
+who are making good use of our platform
+and understood our values is a good fist
+decision that point is that one way to
+regulate a company is through
+competition through government
+regulation here's the question that all
+of us got an answer what do we tell our
+constituents given what's happened here
+while we should let you self-regulate
+what would you tell people in South
+Carolina that given all the things we've
+just discovered here it's a good idea
+for us to rely upon you to regulate your
+own business practices
+well senator my position is not that
+there should be no regulation I think
+the internet is increasing in embrace
+regulation I think the real question as
+the Internet becomes more important in
+people's lives is what is the right
+regulation not whether there should be
+you as a company
+welcome regulation I think if it's the
+right regulation that you think the
+Europeans had it right I think that they
+get things right have you ever submitted
+that's true so would you work with us in
+terms of what regulations you think are
+necessary in your industry absolutely ok
+would you submit this and proposed
+regulations yes and I'll have my team
+follow up with you so that way we can
+have this discussion across the
+different categories where I think that
+this discussion needs to a look forward
+to when you sign up for Facebook you
+sign up for Terms of Service or you
+familiar with that yes okay it says the
+terms govern your use of Facebook and
+the products features app services
+technologies software we offer
+Facebook's products or products except
+where we expressly state that separate
+terms and not these apply I'm a lawyer I
+have no idea what that means
+but when you look at Terms of Service
+this is what you get
+do you think the average consumer
+understands what they're signing up for
+I don't think that the average person
+likely reads that whole document
+there are different ways that we can
+communicate that and have a
+responsibility to do so you do you agree
+with me that you better come up with
+different ways because this ain't
+working uh well senator I think in
+certain areas that is true and I think
+in other areas like the core part of
+what we do or if you if you think about
+just at the most basic level people come
+to Facebook Instagram whatsapp messenger
+about a hundred billion times a day to
+share a piece of content or a message
+with a specific set of people and I
+think that that basic functionality
+people understand because we have the
+controls in line every time and given
+the volume of the activity and the value
+that people tell us that they're getting
+from that I think that that control in
+line does seem to be working fairly well
+now we can always do better and there
+are other services or complex and there
+is more to it than just you know you go
+and you post a photo so I I agree that
+that in many places we could do better
+but I think for the core of the service
+it actually is quite clear Thank You
+senator Graham senator Klobuchar Thank
+You mr. chairman mr. Zuckerberg I think
+we all agree that what happened here was
+bad you acknowledged it was a breach of
+trust and the way I explain it to my
+constituents is that if someone breaks
+into my apartment with the crowbar and
+they take my stuff is just like if the
+manager gave them the keys or if they
+didn't have any locks on the doors it's
+still a breach I'd still a break-in and
+I believe we need to have laws and rules
+that are sophisticated as the bill
+brilliant products that you've developed
+here and we just haven't done that yet
+and one of the areas that I've focused
+on is the election and I appreciate the
+support that you and Facebook and now
+Twitter actually have given to the
+honest ads act a bill that you mentioned
+that I'm leading with Senator McCain and
+Senator Warner and I just want to be
+clear as we work to pass this law so
+that we have the same rules in place to
+disclose political ads and issue ads as
+we do for TV and radio as well as
+disclaimers that you're going to take
+early action as soon as June I heard
+before this election so that people can
+view these ads including issue ads is
+that correct that is correct senator and
+I just want to take a moment before I go
+into this in more detail to thank you
+for your leadership on this this I think
+is an important area for the whole
+industry to move on the two specific
+things that we're doing are one is
+around transparency so now you're going
+to be able to go and click on any
+advertiser or any page on Facebook and
+see all of the ads that they're running
+so that actually brings advertising
+online on Facebook to an even higher
+standard than what you would have on TV
+or print media because there's nowhere
+where you can see all of the TV ads that
+someone is running for example whereas
+you will be able to see now on Facebook
+whether this campaign or third party is
+saying different messages to different
+types of people I know that's a really
+important element of transparency and
+the other really important piece is
+around verifying every single advertiser
+who's gonna be running political or
+issue ads I appreciate that in Center
+Warner and I have also called on Google
+and the other platforms to do the same
+so memo to the rest of you we have to
+get this done or we're going to have a
+patchwork of ads and I hope that you'll
+be working with us to pass this belt is
+that right we will okay thank you now on
+the subject of Cambridge analytic were
+these people the 87 million people users
+concentrated in certain states are you
+able to figure out where they're from I
+do not have that information with me but
+we can follow up with your office okay
+because as we know that election was
+close and it was only thousands of votes
+in certain states you've also estimated
+that roughly 126 people million people
+may have been shown content from a
+Facebook page associated with the
+Internet research agency have you
+determined when he whether any of those
+people were the same Facebook users
+whose data was shared with Cambridge
+analytic ah are you able to make that
+determination senator we're
+investigating that now we believe that
+it is entirely possible that there will
+be a connection there okay that seems
+like a big deal as we look back at that
+last election former Cambridge analytic
+I employee Christopher Wylie has said
+that the data
+that improperly obtained that Cambridge
+analytic improperly obtained from
+Facebook users could be stored in Russia
+I do you agree that that's a possibility
+sorry are you asking if Cambridge
+general de cos dad data could be stored
+in Russia that's what he said this
+weekend on a Sunday show senator I don't
+have any specific knowledge that would
+suggest that but one of those steps that
+we need to take now is go do a full
+audit of all of Cambridge analytical
+systems to understand what they're doing
+whether they still have any data to make
+sure they remove all the data if they
+don't we're gonna take legal action
+against them to do so that audit we have
+temporarily seeded that in order to let
+the UK government complete their
+government investigation first because
+of course the government investigation
+takes precedence over a company doing
+that but we are committed to completing
+this full audit and getting to the
+bottom of what's going on here so that
+way we can have more answers to this
+okay you earlier stated publicly and
+here that you would support some privacy
+rules so that everyone's playing by the
+same rules here and you also said here
+that you should have notified customers
+earlier would you support a rule that
+would require you to notify your users
+of a breach within 72 hours
+senator that makes sense to me and I
+think we should have our team follow up
+with with yours to discuss the details
+around that more thank you I just think
+part of this was when people don't even
+know that their dad has been breached
+that's a huge problem and I also think
+we get to solutions faster when we get
+that information out there
+thank you and we look forward to passing
+this bill we'd love to pass it before
+the election on the Honest ads and
+looking forward to better disclosure of
+this election thank you thank you
+senator Kohl Bashara senator blunt
+something next I thank mr. chairman
+mr. Berg nice to see you when I saw you
+not too long after I entered the Senate
+in 2011 I told you when I sent my
+business cards down to be printed they
+came back from the Senate print shop
+with the message that was the first
+business card they'd ever printed a
+Facebook
+address on there are days when I've
+regretted that but more days when we get
+lots of information that we need to get
+there are days when I wonder if Facebook
+friends is a little misstated that
+doesn't seem like I have those every
+single day but you know the the platform
+you've created is really important on my
+son Charlie who's 13 is dedicated to
+Instagram so he'd want to be sure I
+mentioned him while I was here with with
+you
+I haven't printed that on my card yet I
+will will say that but I think we have
+that account as well lots of ways to
+connect people and the the information
+obviously is an important commodity and
+it's what makes your business work I get
+that however I wonder about some of the
+collection efforts and maybe we can go
+through largely just even yes and no and
+then we'll get back to more expense
+expansive discussion of this but do you
+collect user data through cross device
+tracking senator I believe we do link
+people's accounts between devices in
+order to make sure that their Facebook
+and Instagram and their other
+experiences can be synced between their
+devices and that would also include
+offline data data that's tracking that's
+not necessarily linked to Facebook but
+linked one some device they went through
+Facebook on is that right senator I want
+to make sure we get this right so I want
+to have my team follow up with you on
+that afterwards well not that doesn't
+seem that complicated to me now you
+understand this better than I do but
+maybe maybe you can explain to me why
+that's that why that's complicated do
+you track devices that an individual who
+uses Facebook has that is connected to
+the device that they use for their
+Facebook connection but not necessarily
+connected to Facebook I'm not I'm not
+sure the answer to that question really
+yes there there may be some data that is
+necessary to provide the service that we
+do but I don't I don't have that on
+sitting here today so that's something
+that I would want to fall
+the FTC last year flagged cross-device
+tracking as one of their concerns
+generally that people are tracking
+devices that the users of something like
+Facebook don't know they're being
+tracked how do you disclose your
+collected collection methods is that all
+in this document that I would see and
+agree to before I entered into Facebook
+yes senator so there there were two ways
+that we do this one is we try to be
+exhaustive in the legal documents around
+the terms of service and privacy
+policies but more importantly we try to
+provide inline controls so that people
+that are in plain English that people
+can understand they can either go to
+settings where we can show them at the
+top of the app periodically is that
+people understand all the controls and
+settings they have and can can configure
+their experience the way that they want
+so the people people now give you
+permission to track specific devices in
+their contract and if they do is that a
+relatively new addition to what you do
+senator
+sorry I don't have a my able to opt out
+am i will say it's okay for you to track
+what I'm saying on Facebook but I don't
+want you to track what I'm texting to
+somebody else off Facebook on an Android
+oh okay
+yes senator in in general Facebook is
+not collecting data from other apps that
+you use there are maybe some specific
+things about the device that you're
+using that Facebook needs to understand
+in order to offer the service but if
+you're using Google or you're using some
+texting app unless you specifically
+opted in that you want to share the
+texting app information Facebook
+wouldn't see that it has it always been
+that way or that a recent addition to
+how you deal with those other ways that
+I might communicate senator my
+understanding is that that is how the
+mobile operating systems are architected
+the so do you you don't have bundled
+permissions for how I can agree to what
+devices I may use that you may have
+contact with did you have you bundle
+that permission or am i able to wanted
+it individually say of what I'm willing
+for you to con to watch and what I don't
+want you to watch and I think we may
+have to take that for the record based
+on everybody else this time Thank You
+Senator blunt
+next up Senator Durbin thank you very
+much mr. chairman mr. Zuckerberg would
+you be comfortable sharing with us the
+name of the hotel you stayed in last
+night know if you've messaged anybody
+this week would you share with us the
+names of the people you've messaged a
+senator no I would probably not choose
+to do that publicly here I think that
+may be what this is all about your right
+to privacy the limits of your right to
+privacy and how much you give away in
+modern America in the name of quote
+connecting people around the world
+question basically of what information
+Facebook's collecting who they're
+sending it to and whether they were
+asked me in advance my permission to do
+that is that a fair thing for a user of
+Facebook to expect yes senator I think
+everyone should have control over how
+their information is used and as we've
+talked about in some of the other
+questions I think that that is laid out
+in in some of the documents but more
+importantly you want to give people
+control in the product itself so the
+most important way that this happens
+across our services is that every day
+you people come to our services to
+choose to share photos or send messages
+and every single time they choose to
+share something there they have a
+control right there about who they want
+to share it with but that level of
+control is extremely important they
+certainly know within the Facebook pages
+who their friends are but they may not
+know as has happened and you've conceded
+this point in the past that sometimes
+that information is going way beyond
+their friends and sometimes people have
+made money off of sharing that
+information correct senator you're
+referring I think to our developer
+platform and it may be useful for me to
+give some background on how we set that
+up if that's useful I have three minutes
+left so maybe you can do that for the
+record because I have a couple of the
+questions I'd like to ask come from you
+have recently announced something that
+is called messenger kids Facebook
+created an app allowing kids between the
+ages of 6 and 12 to send video and text
+messages through Facebook as an
+extension of their parents account you
+have cartoon-like stickers and other
+features designed to appeal to
+kids first graders kindergartners on
+January 30th the campaign for
+commercial-free childhood and lots of
+other child development organizations
+warned Facebook they pointed to a wealth
+of research demonstrating that excessive
+use of digital devices and social media
+is harmful to kids and argued that young
+children simply are not ready to handle
+social media accounts at age six in
+addition there are concerns about data
+that's being gathered about these kids
+now there are certain limits in the law
+we know there's a Children's Online
+Privacy Protection Act what guarantees
+can you give us that no data for
+messenger kids is or will be collected
+or shared with those that might violate
+that law all right senator so a number
+of things I think are important here the
+background on messenger kids is we heard
+feedback from thousands of parents that
+they want to be able to stay in touch
+with their kids and call them use apps
+like FaceTime when they're working late
+or not around and want to communicate
+with their kids but they want to have
+complete control over that so I think we
+can all agree that if you're when your
+kid is six or seven even if they have
+access to a phone you want to be able to
+control everyone who they can contact
+and there wasn't an app out there that
+did that so we built this service to do
+that the app collects a minimum amount
+of information that is necessary to
+operate the service so for example the
+messages that people send is something
+that we collect in order to operate the
+service but in general that data is not
+going to be shared with third parties it
+is not connected to the broader Facebook
+excuse me as a lawyer I picked up on
+that word in general the phrase in
+general it seems to suggest that in some
+circumstances will be shared with third
+parties no it will not all right would
+you be open to the idea that someone
+having reached adult age having grown up
+with messenger kids should be allowed to
+delete the data that you've collected
+senator yes as a matter of fact when you
+become 13 which is our legal limit or
+limited we don't allow people under the
+age of 13 to use Facebook you don't
+automatically go from having a messenger
+kids that account to a Facebook account
+you have to start
+and get a Facebook account so so I think
+it's a good idea to consider making sure
+that all that information is deleted and
+in general people are gonna be starting
+over when they get there their Facebook
+or other accounts I'll close because
+they just have a few seconds Illinois
+has a biometric information Privacy Act
+our state does which is to regulate the
+commercial use of facial voice finger
+and iris scans and the like we're now in
+a fulsome debate on that and I'm afraid
+Facebook has come down with a position
+trying to carve out exceptions to that I
+hope you'll fill me in on how that is
+consistent with protecting privacy
+thank you thank you Senator Durbin
+senator Cornyn Thank You mr. Zuckerberg
+for being here I know didn't up until
+2014 the mantra or motto of Facebook was
+move fast and break things is that
+correct I don't know when we changed it
+but the mantra is currently move fast
+with stable infrastructure which is a
+much less sexy mantra sounds much more
+boring but my question is during the
+time it was Facebook's mantra or motto
+to move fast and break things do you
+think some of them misjudgments perhaps
+mistakes that you've admitted to here
+were as a result of that culture or that
+attitude particularly as regards to
+personal privacy of information of your
+subscribers senator I do think that we
+made mistakes because of that but the
+broadest mistakes that we made here are
+not taking a broad enough view of our
+responsibility and Millau wasn't a
+matter the the move fast cultural value
+is more tactical around weather
+engineers can ship things and and and
+different ways that we operate but I
+think the big mistake that we've made
+looking back on this is viewing our
+responsibility as just building tools
+rather than viewing our whole
+responsibilities as making sure that
+those tools are used for good well and I
+appreciate that because previously or
+earlier in the past we've been told that
+platforms like Facebook Twitter
+Instagram and the like or neutral
+platforms and the people who owned and
+run those for-profit and I'm not
+criticizing doing something for profit
+in this country but they more no
+responsibility for the content you agree
+now that Facebook and other social media
+platforms are not neutral platforms but
+bear some responsibility for the content
+I agree that we're responsible for the
+content and I think that there's one of
+the big societal questions that I think
+we're going to need to answer is the
+current framework that we have is based
+on this reactive model that assumed that
+there weren't AI tools that could
+proactively tell whether something was
+terrorist content or something bad so it
+naturally relied on requiring people to
+flag for a company and then the company
+deemed to take reasonable action in the
+future we're gonna have tools that are
+going to be able to identify more types
+of bad content and I think that there's
+there are moral and legal obligation
+questions that I think we'll have to
+wrestle with as a society about when we
+want to require companies to take action
+proactively on certain of those things I
+plan that gets in the way I appreciate
+that I have two minutes left
+all right to ask you questions so you
+you interestingly the terms of the what
+do you call it the Terms of Service is a
+legal document which discloses to your
+subscribers how their information is
+going to be used how Facebook is going
+to operate and but you concede that you
+doubt everybody reads or understands
+that legalese those Terms of Service so
+are is that to suggest that the consent
+that people give subject to that Terms
+of Service is not informed consent in
+other words they may not read it and
+even if they read it they may not
+understand it I just think we have a
+broader responsibility than what the law
+requires so I'm I'm talking about
+I appreciate that what I'm asking about
+in terms of what your
+treiber's understand in terms of how
+their data is going to be used but let
+me go to the Terms of Service under
+paragraph number two you say you own all
+of the content and information you post
+on Facebook that's what you've told us
+here today a number of times so if I
+choose to terminate my Facebook account
+can i bar Facebook or any third parties
+from using the data that had previously
+supplied for any purpose whatsoever yes
+senator if you delete your account we
+should get rid of all of your
+information you should or we do you if
+we do how about third parties that you
+have contracted with to use some of that
+underlying information perhaps to target
+advertising for themselves you can you
+you with do you call back that
+information as well or does that remain
+in there senator this is actually a very
+important question I'm glad you brought
+this up because there's a very common
+misperception about Facebook that we
+sell data to advertisers and we do not
+sell data to advertisers well due to
+early rented um what we allow is for
+advertisers to tell us who they want to
+reach and then we do the placement so if
+an advertiser comes to us and says
+alright I'm a ski shop and I want to
+sell skis to women then we might have
+some sense because people shared skiing
+related content or said they were
+interested in that they shared whether
+they're a woman and then we can show the
+ads to the right people without that
+data ever changing hands and going to
+the advertiser that's a very fundamental
+part of how our model works and
+something that is often misunderstood so
+I appreciate that you brought that up
+thank you senator Cornyn we had
+indicated earlier on that we would take
+a couple of breaks give our witness an
+opportunity and I think we've been going
+now for just under two hours so I think
+we'll do is do a few more Roberta are
+you
+you you you want to keep going I've been
+maybe maybe 15 minutes okay we're all
+right we'll keep going senator
+Blumenthal is up next and we will
+commence Thank You mr. chairman thank
+you for being here today mr. Zuckerberg
+you have told us today and you've told
+the world that Facebook was deceived by
+Alexander Cogan when he sold user
+information to Cambridge analytic occur
+echt yes I want to show you the Terms of
+Service that Alexander Cogan provided to
+Facebook and note for you that in fact
+Facebook was on notice that he could
+sell that user information have you seen
+these Terms of Service before I have not
+who in facebook was responsible for
+seeing those Terms of Service that put
+you on notice that that information
+could be sold senator our app review
+team would be responsible for that has
+anyone been fired on that app we review
+team senator not because of this doesn't
+that term of service conflict with the
+FTC order that Facebook was under at
+that very time that this term of service
+was in fact provided to Facebook and
+you'll note that the face the FTC order
+specifically requires Facebook to
+protect privacy isn't there a conflict
+there senator it certainly appears that
+we should have been aware that this app
+developer submitted a term that was in
+conflict with the rules of the platform
+well what happened here was in effect
+willful blindness
+it was heedless and reckless which in
+Act amounted to a violation of the FTC
+consent decree would you agree no
+senator my understanding is that is is
+not that this was a violation of the
+consent decree but as I've said a number
+of times today I think we need to take a
+broader view of our responsibilities
+around privacy than just what is
+mandated in the current law here is my
+reservation mr. Zuckerberg and I
+apologize for interrupting you but my
+time is limited we've seen the apology
+tours before you have refused to
+acknowledge even an ethical obligation
+to have reported this violation of the
+FTC consent decree and we have letters
+we've had contacts with Facebook
+employees and I'm going to submit a
+letter for the record from Sandeep Eric
+Ellis with your permission that
+indicates not only a lack of resources
+but lack of attention to privacy and so
+my reservation about your testimony
+today is that I don't see how you can
+change your business model unless there
+are specific rules of the road your
+business model is to monetize user
+information to maximize profit over
+privacy and unless there are specific
+rules and requirements enforced by an
+outside agency
+I have no assurance that these kinds of
+vague commitments are going to produce
+action so I want to ask you a couple of
+very specific questions and they are
+based on legislation that I've offered
+the my data Act legislation that Senator
+Markey is introducing today the consent
+Act which I'm joining don't you agree
+that companies ought to be required to
+provide users with clear plain
+information about how their data will be
+used and specific ability
+to consent to the use of that
+information senator I do generally agree
+with with what you're saying and I laid
+that out earlier when I talked about
+what would you agree to an opt-in as
+opposed to an opt-out senator I think
+that that certainly makes sense to
+discuss and I think the details around
+this matter a lot which I agree that
+users should be able to access all of
+their information senator yes of course
+all the information that you collect as
+a result of purchases from data brokers
+as well as tracking them senator we have
+already a download your information tool
+that allows people to see and to take
+out all of the information that Facebook
+that they've put into Facebook or that
+Facebook knows about them so yes I agree
+with that we already have that I have a
+number of other specific requests that
+you agree to support as part of
+legislation I think legislation is
+necessary the rules of the road have to
+be the result of congressional action we
+have facebook has participated recently
+in the fight against scourge the scourge
+of sex trafficking and the bill that
+we've just passed it will be signed into
+law tomorrow festa the stop exploiting
+sex trafficking act was the result of
+our cooperation I hope that we can
+cooperate on this kind of measure as
+well senator I look forward to having my
+team work with you on this Thank You
+senator Blumenthal senator Cruz Thank
+You mr. chairman mr. Zuckerberg welcome
+thank you for being here mr. Zuckerberg
+does Facebook consider itself a neutral
+public forum senator we consider
+ourselves to be a platform for all ideas
+let me ask the question again the
+Facebook consider itself to be a neutral
+public forum and representatives of your
+company of giving conflicting answers on
+this are you a first limit speaker
+expressing your views or are you a
+neutral public forum allowing everyone
+to speak senator here's how we think
+about this I don't believe that
+there's certain content that clearly we
+do not allow right hate speech terrorist
+content nudity anything that makes
+people feel unsafe in in the community
+from that perspective that's why we
+generally try to refer to what we do as
+a pro I just because the time is
+constraint it's just a simple question
+the predicate for section 230 immunity
+under the CB CDA is that you are a
+neutral public forum do you consider
+yourself a neutral public forum are you
+engaged in political speech which is
+your right under the First Amendment
+well senator our goal is certainly not
+to engage in political speech I'm not
+that familiar with a specific legal
+language of the law that you that you
+speak to so I would need to follow up
+with you on that I'm just trying to lay
+out how broadly I think about this well
+mr. Zuckerberg I will say there are
+great many Americans who I think are
+deeply concerned that that Facebook and
+other tech companies are engaged in a
+pervasive pattern of bias and political
+censorship there had been numerous
+instances with Facebook in May of 2016
+Gizmodo reported that Facebook had
+purposely and routinely suppressed
+conservative stories from trending news
+including stories about CPAC including
+stories about Mitt Romney including
+stories about the Lois Lerner IRS
+scandal including stories about Glenn
+Beck in addition to that Facebook has
+initially shut down the chick-fil-a
+Appreciation Day page has blocked a post
+of Fox News reporter has blocked over
+two dozen Catholic pages and most
+recently blocked Trump supporters
+diamond and silks page with 1.2 million
+Facebook followers after determining
+their content and brand were quote
+unsafe to the community to a great many
+Americans that appears to be a pervasive
+pattern of political bias do you agree
+with that assessment senator let me say
+a few things about this first I
+understand where that concern is coming
+from because Facebook in the tech
+industry or located in Silicon Valley
+which is an extremely left-leaning place
+and
+this is actually a concern that I have
+and that I try to root out in the
+company is making sure that we don't
+have any bias in the work that we do and
+I think it is a fair concern that that
+people would would let me wonder about
+let me ask this now should are you aware
+of any ad or page that has been taken
+down from Planned Parenthood senator I'm
+not but let me just talk about I move on
+another org sorry
+how about move on org I'm not
+specifically aware of this about any
+Democratic candidate for office I'm not
+specifically aware I mean I've I'm not
+I'm not sure in your testimony you say
+that you have fifteen to twenty thousand
+people working on security and content
+review do you know the political
+orientation of those fifteen to twenty
+thousand people engage in content review
+no senator we do not generally ask
+people about their political orientation
+when they're joining the company so a
+CEO have you ever made hiring or firing
+decisions based on political positions
+or what candidates they supported know
+what was Palmer Luckey fired that is a
+specific personnel matter that seems
+like it would be inappropriate he just
+made a specific representation that you
+didn't make decisions based on political
+views well I can commit that it was not
+because of a political view do you know
+of those fifteen to twenty thousand
+people engaged in content review how
+many if any have ever supported
+financially a Republican candidate for
+office senator I do not know that your
+testimony says it is not enough that we
+just connect people we have to make sure
+those connections are positive it says
+we have to make sure people aren't using
+their voice to hurt people or spread
+misinformation we have a responsibility
+not just to build tools to make sure
+those tools are used for good mr.
+Zuckerberg do you feel that your
+responsibility to assess users whether
+they are good and positive connections
+or ones that those fifteen to twenty
+thousand people deem unacceptable or
+deplorable senator you're asking me
+personally Facebook senator I think that
+there are a number of things that we
+would all agree are clearly bad foreign
+interference in our elections terrorism
+self
+armed censorship well I think that you
+would probably agree that we should
+remove terrorist propaganda from the
+service so that I I agree I think is
+clearly bad activity we want to get down
+and we're generally proud of how well we
+we do it that now what I can say and I
+and I do want to get this in before the
+end here is that I am I'm very committed
+to making sure that facebook is a
+platform for all ideas that is a very
+important founding principle of what we
+do we're proud of the discourse and the
+different ideas that people can share on
+the service and that is something that
+as long as I'm running the company I'm
+going to be committed to making sure is
+the case thank you thank you senator
+Cruz you want a break now we want to
+keep going sure those pretty good all
+right all right we have senator
+Whitehouse's up next but if you want to
+take a five-minute break right now we
+have now been going a good two hours so
+thank you will be will recess for five
+minutes and reconvene
+well come to order yeah yeah okay I'm
+gonna read this further
+before I call on senator Whitehouse of
+senator Feinstein ask permission to put
+letters and statements in the record and
+without objection they will be put in
+from the ACLU the Electronic Privacy
+Information Center the Association for
+computing Computing Machinery Public
+Policy Council and public knowledge
+senator Whitehouse Thank You chairman
+Thank You mr. chairman I want to correct
+one thing that I said earlier in a
+response to a question from Senator
+Leahy he had asked if why we didn't ban
+Cambridge analytic at the time when we
+learned about them in 2015 and I
+answered that what might what my
+understanding was was that they were not
+on the platform were not a app developer
+or advertiser when I went back and met
+with my team afterwards they let me know
+that kimra general decay actually did
+start as an advertiser later in 2015 so
+we could have in theory banned them then
+we made a mistake by not doing so but I
+just wanted to make sure that I updated
+that and because I misspoke or got that
+wrong earlier Whitehouse Thank You
+chairman welcome back mr. Zuckerberg on
+the subject of bans I just wanted to
+explore a little bit what these bans
+mean obviously Facebook has been done
+considerable reputation 'old Amegy its
+association with alexander Cogan and
+with Cambridge analytic Oh which is one
+of the reasons you're having this
+enjoyable afternoon with us your
+testimony says that Alexander Cogan's
+app has been banned has he also been
+banned yes my understanding is yes so if
+he were to open up another
+account under a name and you were able
+to find it out that would be taken that
+would be closed down senator I believe
+we are preventing him from building any
+more apps does he have a Facebook
+account still senator I believe the
+answer to that is no but I can follow up
+with you afterwards okay and with
+respect to Cambridge analytic a your
+testimony is that first you required
+them to formally certify that they had
+deleted all improperly acquired data
+where did that formal certification take
+place that sounds kind of like a quasi
+official thing to formally certify what
+did that entail senator first they sent
+us an email notice from their chief data
+officer telling us that they didn't have
+any of the data anymore that they
+deleted it and weren't using it and then
+later we followed up with I believe a
+full legal contract were they certified
+that they had deleted the data in a
+legal contract yes I believe so okay and
+then you ultimately said that you have
+banned Cambridge analytic who exactly is
+banned what if they opened up Cranston
+Rhode Island analytic ah different
+corporate form same enterprise would
+that enterprise also be banned senator
+that is certainly the intent Cambridge
+analytic actually has a parent company
+and we banned the parent company and
+recently we also banned a firm called
+aiq which i think is also associated
+with them and if we find other firms
+that are associated with them we will
+block them from the platform as well our
+individual principals PA LS principals
+of the firm also banned senator
+my understanding is we're blocking them
+from doing business on the platform but
+I do not believe that we were blocking
+people's personal accounts okay
+can any customer amend your Terms of
+Service or the Terms of Service a
+take-it-or-leave-it proposition for the
+average customer senator I think the
+Terms of Service are what they are but
+the service is really defined by people
+because you get to choose what
+information you share and the whole
+service is about which friends you
+connect to which cannot used to connect
+to my question would relate to Senator
+Gramm held up that big fat document it's
+easy to put a lot of things buried in a
+document that then later turn out to be
+of consequence and all I wanted to
+establish with you is that that document
+that Senator Gramm held up that is not a
+negotiable thing with individual
+customers that is a take-it-or-leave-it
+proposition for your customers to sign
+up to or not use the service senator
+that's right on the Terms of Service
+although we offer a lot of controls so
+people can configure the experience how
+they want so last question on a
+different subject having to do with the
+authorization process that you are
+undertaking for entities that are
+putting up political content or is
+so-called issue add content you've said
+that they all have to go through an
+authorization process before they do it
+you said here we will be verifying the
+identity how do you look behind a shell
+corporation and find who's really behind
+it through your authorization process
+with step back do you need to look
+behind shell corporations in order to
+find out who is really behind the
+content that's being posted and if you
+may need to look behind a shell
+corporation how will you go about doing
+that how will you get back to the true
+what lawyers would call beneficial owner
+of the site that is putting out the
+political material senator are you
+referring to the verification of
+political and issue ads yes and before
+that political ads yes yes so what we're
+going to do is require a
+valid government identity and we're
+going to verify the location so we're
+going to do that so that way someone
+sitting in Russia for example couldn't
+say that they're in America and
+therefore able to run an election ad but
+if they were running through a
+corporation domiciled in Delaware you
+wouldn't know that they were actually a
+Russian owner senator that's that's
+correct okay thank you my time is
+expired and I appreciate the courtesy
+that share for the extra seconds Thank
+You mr. Zuckerberg Thank You mr.
+chairman
+mr. Zuckerberg I wanted to follow up on
+a statement that you made shortly before
+the break just a few minutes ago you
+said that there are some categories of
+speech some types of content that
+Facebook would never want to have any
+part of and it takes active steps to
+avoid disseminating and including hate
+speech nudity racist speech I assume you
+also meant terrorist acts
+threats of physical violence things like
+that beyond that would you agree that
+Facebook ought not be putting its thumb
+on the scale with regard to the content
+of speech assuming it fits out of one of
+those categories that that's prohibited
+senator yes there are generally two
+categories of content that that we're
+very worried about one are things that
+could cause real-world harm so terrorism
+certainly fits into that self harm fits
+into that I would consider election
+interference to fit into that and those
+are the types of things that we don't
+really consider there to be much
+discussion around whether those are good
+or bad Julianna and I'm not disputing
+that what I'm asking is once you get
+beyond those categories of things that
+are prohibited and should be is it
+Facebook's position that it should not
+be putting its thumb on the scale it
+should not be favoring or disfavoring
+speech based on its content based on the
+viewpoint of that speech senator in
+general that's our position what we one
+of the things that is really important
+though is that in order to create a
+service where everyone has a voice we
+also need to make sure that people
+aren't bullied or or basically
+intimidated or the environment feels
+unsafe for them okay so when you say in
+general that's the
+the the exception that you were
+referring to the exception being that if
+someone feels bullied even if it's not a
+terrorist act nudity terrorist threats
+racist speech or something like that you
+might step in there beyond that would
+you step in and put your thumb on the
+scale as far as the viewpoint of the
+content being posted senator no I mean
+in general our our goal is to allow
+people to have as much expression as
+possible okay so subject to the
+exceptions we've discussed you would
+stay out of that let me ask you this
+isn't there a significant free-market
+incentive that a social media company
+including yours has in order to
+safeguard the data of your users don't
+you have free market incentives and
+every senator yes does it don't your
+interests align with what those of us
+here who want to see data safeguarded
+absolutely do you have the technological
+means available at your disposal to make
+sure that that doesn't happen and to
+protect say an app developer from
+transferring Facebook data to a third
+party senator a lot of that we do and
+some of that happens outside of our
+systems and will require new measures so
+for example what we saw here was people
+chose to share information with an app
+developer that worked according to how
+the system was designed that information
+was then transferred out of our system
+to servers that this developer alexander
+Cogan had and then that person chose to
+then go sell the data to Cambridge
+analytic ah that is going to require
+much more active intervention and
+auditing from us to prevent going
+forward because once it's out of our
+system it is a lot harder for us to have
+a full understanding of what's happening
+from what you've said today and from
+previous statements made by you and and
+other officials at your company data is
+at the center of your business model
+it's it's how you make money your
+ability to run your business effectively
+given that you don't charge your users
+is based on monitor
+data and so the real issue it seems to
+me really comes down to what you tell
+the public what you tell users of
+Facebook about what you're going to do
+with the data about how you're going to
+use it can you can you give me a couple
+of examples maybe two examples of ways
+in which data is collected by Facebook
+in a way that people are not aware of
+two examples of types of data that
+Facebook collects that might be
+surprising to Facebook users well
+senator I would hope that what we do
+with data is not surprising to people
+and has it been at times well senator I
+think in this case people certainly
+didn't expect this developer to sell the
+data to Cambridge analytic in general
+there were two types of data that that
+Facebook has the vast majority and then
+the first category is content that
+people chose to share on the service
+themselves so that's all the photos that
+you share the posts that you make what
+you think of is the Facebook service
+right that's everyone has control every
+single time if they go to share that
+they can delete that data anytime they
+want full control the majority of the
+data the second category is around
+specific data that we collect in order
+to make the advertising experiences
+better and more relevant and work for
+businesses and those often revolve
+around measuring okay if you if we
+showed you an ad and then you click
+through and you go somewhere else we can
+measure that you actually that that the
+the ad worked that helps make the
+experience more relevant and better for
+for people who are getting more relevant
+ads and better for the businesses
+because they perform better you also
+have control completely of that second
+type of data you can turn off the
+ability for Facebook to collect that
+your ads will get worse so a lot of
+people don't want to do that but you
+have complete control over what you do
+there as well senator schatz Thank You
+mr. chairman I want to follow up on the
+questions around the Terms of Service
+your Terms of Service are about 3200
+words with 30 links one of the links is
+to your data policy which is about 27
+hundred words with 22 links and I think
+the point has been well made that people
+really have no earthly idea what they're
+signing up for and I understand that at
+the present time that's legally binding
+but I'm wondering if you can explain to
+the billions of users in plain language
+what are they signing up for senator
+that's a good and important question
+here in general yeah you sign up for the
+Facebook you get the ability to share
+the information that you want with with
+people that's what the service is right
+is that you can connect with the people
+that you want and you can share whatever
+content matters to you whether that's
+photos or links or posts and you get
+control over who you share it with and
+you can take it down if you want and you
+don't need to put anything up in the
+first place if you don't want out about
+the part that people are worried about
+not the fun part well what's that the
+part that people are worried about is
+that the data is going to be improperly
+used so people are trying to figure out
+are your DMS informing the ads are your
+browsing habits being collected
+everybody kind of understands that when
+you click like on something or if you
+say you like a certain movie or have a
+particular political proclivity that I
+think that's fair game everybody
+understands that what we don't
+understand exactly because both as a
+matter of practice and as a matter of
+not being able to decipher those Terms
+of Service and the privacy policy is
+what exactly are you doing with the data
+and do you draw a distinction between
+data collected in the process of
+utilizing the platform and that which we
+clearly volunteer to the public to
+present ourselves to other Facebook
+users senator I'm not sure I fully
+understand this in general people come
+to Facebook to share content with other
+people we use that in order to also
+inform how we rank services like
+newsfeed and ads to provide more
+relevant experience let me let me try a
+couple of specific examples if I mean if
+I'm mailing emailing within what
+does that ever inform your advertisers
+no we don't see any of the content in
+whatsapp it's fully encrypted right but
+the is there some algorithm that spits
+out some information to your ad platform
+and then let's say I'm emailing about
+black panther within whatsapp do I get a
+what's that do I get a Black Panther
+banner ad senator we don't Facebook
+systems do not see the content of
+messages being transferred over what's
+yeah I know but that's that's not what
+I'm asking I'm asking about whether
+these systems talk to each other without
+a human being touching it senator I
+think the answer to your specific
+question is if you message someone about
+Black Panther and what's that it would
+not inform any ads okay
+I want to follow up on senator Nelson's
+original question which is the question
+of ownership of the data and I
+understand as a sort of matter of
+principle you're saying you know we want
+our customers to have more rather than
+less control over the data but I can't
+imagine that it's true as a legal matter
+that I actually own my facebook data
+because you're the one monetizing it do
+you want to modify that to sort of
+express that as a statement of principle
+a sort of aspirational goal but it
+doesn't seem to me that we own our own
+data otherwise we'd be getting a cut
+well senator you own it in the sense
+that you choose to put it there you
+could take it down any time and you
+completely control the terms under which
+it's used when you put it on Facebook
+you are granting us a license to be able
+to show it to other people and that's a
+necessary in order for the service to
+operate right but the so the the so your
+definition of ownership is I sign up I
+voluntarily and I may delete my account
+if I wish but that's basically it well
+senator I think that the control is much
+more granular than that you can choose
+each photo that you want to put up or
+each message and you can delete those
+and you don't need to delete your whole
+account you have specific control you
+can share different posts with eminent
+people in the time I have left I want to
+I want to propose something to you and
+take it for the record I read an
+interesting article this week by
+professor Jack Balkan at Yale that
+proposes a concept of an information
+fiduciary people think of fiduciaries as
+responsible
+primarily in the economic sense but this
+is really about a trust relationship
+like doctors and lawyers tech companies
+should hold in trust our personal data
+are you open to the idea of information
+fiduciary enshrined in statute senator I
+think it's certainly an interesting idea
+and Jack is very thoughtful in this
+space so I do think it deserves
+consideration thank you
+throughout Fisher Thank You mr. chairman
+thank you mr. Zuckerberg for being here
+today I appreciate your testimony the
+full scope of Facebook users activity
+can print very personal picture I think
+and additionally you have those two
+billion users that are out there every
+month and so we all know that's larger
+than the population in most countries
+so how many data categories do you store
+does Facebook store on the categories
+that you collect senator can you clarify
+what you mean by date there are some
+past reports that have been out there
+that indicate that it that Facebook
+collects about 96 data categories for
+those 2 billion active users that's 192
+billion data points that are being
+generated I think at any time from
+consumers globally so how many do does
+Facebook store out of that do you store
+any senator I'm not actually sure what
+that is referring to on the points that
+you collect information if we call those
+categories how many do you store of
+information that you are collecting
+senator the way I think about this is
+there were two broad categories
+I report that you were seeing is and I
+can make sure that we follow up with you
+afterwards to get you the information
+you need on that the two broad
+categories that I think about are con
+that a person has chosen to share and
+that they have complete control over
+they get to control when they put it
+into the service when they take it down
+who sees it and then the other category
+are data that are connected to making
+the ads relevant you have complete
+control over both you could turn off the
+data related to add you can choose not
+to share any content or control exactly
+who sees it or take down the content in
+the former category and does Facebook
+store any of that yes
+how much do you store of that all of it
+all of it everything we click on is that
+in storage somewhere senator we store
+data about what people share on the
+service and information that's required
+to do ranking better to show you what
+you care about a newsfeed do you do you
+store a tax history User Content
+activity device location senator some of
+that content with people's permission
+we do store do you disclose any of that
+yes senator in order to for people to
+share that information with Facebook I
+believe that almost everything that you
+just said would be opt-in right and the
+privacy settings it's my understanding
+that they limit the sharing of that data
+with other Facebook users is that
+correct senator yes every person gets to
+control who gets to see their content
+and does that also limit the ability for
+Facebook to collect and use it senator
+yes there are other there are controls
+that determine what Facebook can do as
+well so for example people have a
+control about face recognition if people
+don't want us to be able to help
+identify when they're in photos that
+their friends upload they can turn that
+off and then we won't store that kind of
+template for them and and there was some
+action taken by the eff
+see in 2011 and do you wrote a Facebook
+post at the time on a public page on the
+internet that it used to seem scary to
+people but as long as they could make
+their page private they felt safe
+sharing with their friends online
+control was key and you just mentioned
+control senator Hatch asked you a
+question and you responded there about
+complete control so you and your company
+have used that term repeatedly and I
+believe you use it to reassure users is
+that correct but you do have control and
+complete control over this information
+well senator this is how the service
+works is I mean the core thing that
+Facebook is and all of our services
+what's that Instagram messenger so is
+this a is this then a question of
+Facebook is about feeling safe or our
+users actually safe this Facebook is
+Facebook
+I think Facebook is safe I use it and my
+family use it and all the people I love
+and care about use it all the time these
+controls are not just to make people
+feel safe it's actually what people want
+in the product the reality is is that
+when you I mean just think about how you
+use this yourself you don't want to
+share you take a photo you're not gonna
+always send that to the same people
+sometimes you're gonna want to text it
+to one person sometimes you might send
+it to a group I bet you have a page
+you'll probably want to put some stuff
+out there publicly so you can
+communicate with your constituents there
+are all these different groups of people
+that someone might want to connect with
+and those controls are very important in
+practice for the operation of the
+service not just to build trust although
+I think that they providing people with
+control also does that but actually in
+order to make its that people can
+fulfill their goals or the service
+sooner cool thank you thank you chairman
+Grassley Thank You mr. Zuckerberg for
+joining us today I think the whole
+reason we're having this hearing is
+because of a tension between two basic
+principles you've laid out first you've
+said about the data that users post on
+Facebook you control and own the data
+that you put
+on Facebook you said some very positive
+optimistic things about privacy and data
+ownership but it's also the reality that
+Facebook is a for-profit entity that
+generated 40 billion dollars in ad
+revenue last year by targeting ads in
+fact Facebook claims that advertising
+makes it easy to find the right people
+capture their attention and get results
+and you recognize that an ad-supported
+service is as you said earlier today
+best aligned with your mission and
+values but the reality is there's a lot
+of examples where ad targeting has led
+to results that I think we would all
+disagree with or dislike or would
+concern us you've already admitted that
+Facebook's own ad tools allowed Russians
+to target users voters based on racist
+or anti Muslim or anti-immigrant views
+and that that may have played a
+significant role in an election here in
+the United States
+just today Time magazine posted a story
+saying that wildlife traffickers are
+continuing to use Facebook tools to
+advertise the illegal sales of protected
+animal parts and I am left questioning
+whether your ad targeting tools would
+allow other concerning practices like
+diet pill manufacturers targeting
+teenagers who are struggling with their
+weight or allowing a liquor distributor
+to target alcoholics or a gambling
+organization to target those with
+gambling problems I'll give you one
+concrete example I'm sure you're
+familiar with Pro Publica back in 2016
+highlighted that Facebook lets
+advertisers exclude users by race in
+real estate advertising there was a way
+that you could say that this particular
+ad I only want to be seen by white folks
+not by people of color and that clearly
+violates fair housing laws and our basic
+sense of fairness in the United States
+and you promptly announced that that was
+a bad idea you were gonna change the
+tools and that you would build a new
+system to spot and reject discriminatory
+ads that violate our commitment to fair
+housing and yet a year later a follow up
+story of AI Pro Publica said that those
+changes hadn't fully been made and it
+was still possible to target housing
+advertisement in a way that was racially
+discriminatory and my concern is that
+this practice of making bold and
+engaging promises about changes in
+practices and then the reality of how
+Facebook has operated in the real
+are in persistent tension several
+different senators have asked earlier
+today about the 2011 FTC consent decree
+that required Facebook to better protect
+users privacy and there are a whole
+series of examples where they've been
+things brought to your attention where
+Facebook has apologized and has said
+we're going to change our practices and
+our policies and yet there doesn't seem
+to have been as much follow-up as would
+be called for the end of the day
+policies aren't worth the paper they're
+written on if Facebook doesn't enforce
+them and I'll close with a question
+that's really rooted in an experience I
+had today as an avid Facebook user I
+woke up this morning and was notified by
+a whole group of friends across the
+country asking if I had a new family or
+if there was a fake Facebook post of
+Chris Coons I went to the one they
+suggested it had a different middle
+initial than mine and there's my picture
+with senator Dan Sullivan's family same
+schools I went to but a whole lot of
+Russian friends Dan Sullivan's got a
+very attractive family by the way and
+keep that for the record there the
+friends who brought this to my attention
+included people I went to law school
+with in Hawaii and our own Attorney
+General in the state of Delaware and
+fortunately I've got you know great
+folks who work in my office I brought it
+to their attention they pushed Facebook
+and it was taken down by midday but I'm
+left worried about what happens to
+Delawareans who don't have these
+resources it's still possible to find
+Russian trolls operating in the platform
+hate groups thrive in some areas of
+Facebook even though your policies
+prohibit hate speech and you've taken
+strong steps against extremism and
+terrorists but is it Delaware Ian who's
+not in the Senate I'm gonna get the same
+sort of quick response I've already
+gotten input from other friends who say
+they've had trouble getting a positive
+response when they've brought to
+Facebook's attention a page that's
+frankly clearly violated their basic
+principles my core question is isn't it
+Facebook's job to better protect its
+users and why do you shift the burden to
+users to flag inappropriate content and
+make sure it's taken down senator there
+are a number of important points in
+there and I think it's clear that this
+is an area
+content policy enforcement that we need
+to do a lot better on overtime the
+history of how we got here is we started
+off in my dorm room we've not a lot of
+resources and not having the AI
+technology to be able to proactively
+identify a lot of this stuff so just
+because of the sheer volume of content
+the main way that this works today is
+that people report things to us and then
+we have our team review that and as I
+said before by the end of this year
+we're gonna have more than 20,000 people
+at the company working on security and
+content review because this is important
+over time we're gonna shift increasingly
+to a method where more of this content
+is flagged upfront by AI tools that we
+develop we've prioritized the most
+important types of content that we can
+build AI tools for today like terror
+related content where I mentioned
+earlier that our systems that we deploy
+when you're taking down 99% of the Isis
+and al-qaida related content that we
+take down before a person even Flags
+them to us if we fast forward 5 or 10
+years I think we're gonna have more AI
+technology that can do that in more
+areas and I think we need to get there
+as soon as possible which is why we're
+investing in that degree more I just
+think we can't wait five years to the
+housing discrimination and personally
+offensive material out of Facebook that
+I agree Thank You mr. chairman mr.
+Zuckerberg thanks for being here at
+current pace you're due to be done with
+first round of questioning by about 1
+a.m. so congratulations I like Chris
+Coons a lot with his own family or with
+Dan Sullivan's family both are great
+photos but I want to ask a similar set
+of questions from the other side maybe I
+think the the line the conceptual line
+between mere tech company mere tools and
+an actual content company I think it's
+really hard I think you guys have a hard
+challenge I think regulation over time
+will have a hard challenge and you're a
+private company so you can make policies
+that may be less than First Amendment
+full spirit embracing in my view but I
+worry about that I worry about a world
+where
+when you go from violent groups to hate
+speech in a hurry in one of your
+responses to one of the opening
+questions you may decide our Facebook
+may decide it needs to police a whole
+bunch of speech that I think America
+might be better off not having policed
+by one company that has a really big and
+powerful platform
+can you define hate speech senator I
+think that this is a really hard
+question and I think it's one of the
+reasons why we struggle with it there
+are certain definitions that that we
+that we have around you know calling for
+for violence or let's just agree on that
+if somebody's gone for violence we that
+shouldn't be there I'm worried about the
+psychological categories around speech
+you use language of safety and
+protection earlier we see this happening
+on college campuses all across the
+country it's dangerous forty percent of
+Americans under age 35 tell pollsters
+they think the First Amendment is
+dangerous because you might use your
+freedom to say something that hurts
+somebody else's feelings guess what
+there are some really passionately held
+views about the abortion issue on this
+panel today can you imagine a world
+where you might decide that pro lifers
+are prohibited from speaking about their
+abortion views on your content on your
+platform I certainly would not want that
+to be the case but it might really be
+unsettling to people who've had an
+abortion to have an open debate about
+that wouldn't it it might be but I don't
+think that that would would fit any of
+the definitions of what we have but I do
+generally agree with the point that
+you're making which is as we as we were
+able to technologically shift towards
+especially having AI proactively look at
+content I think that that's gonna create
+massive questions for society about what
+obligations we want to require companies
+to to fulfill and and I do think that
+that's a question that we need to
+struggle with as a country because I
+know other countries are and they're
+putting laws in place and I think that
+America needs to figure out and create
+the set of principles that we want
+American companies to operate under
+thanks I wouldn't want you to leave here
+today and think there's sort of a
+unified view in the Khan
+that you should be moving toward
+policing more and more and more speech
+I think violence has no place on your
+platform sex traffickers and human
+traffickers have no place on your
+platform but vigorous debates adults
+need to engage in vigorous debates I
+have only a little less than two minutes
+left so and shift gears a little bit but
+that was about adults you're a dad I'd
+like to talk a little bit about social
+media addiction you started your
+comments today by talking about how
+Facebook is and was founded as an
+optimistic company you and I have had
+conversations separate from here I don't
+want to put words in your mouth but I
+think as you've aged you might be a
+little bit less idealistic and
+optimistic than you were when you when
+you started Facebook as a dad do you
+worry about social media addiction as a
+problem for America's teens well my hope
+is is that we can be idealistic but have
+a broad view of our responsibility to
+your point about teens this is certainly
+something that I think any parent thinks
+about is how much do you want your kids
+using technology in it at Facebook
+specifically I view our responsibility
+as not just building services that
+people like but building services that
+are good for people and good for society
+as well so we study a lot of effects of
+well-being of our of our tools and
+broader technology and you know like any
+tool they're good and bad uses of it
+what we find in general is that if
+you're using social media in order to
+build relationships right so you're
+sharing content with friends you're
+interacting then that is associated with
+all of the long-term measures of
+well-being that you would intuitively
+think of long-term health long-term
+happiness long-term feeling connected
+feeling less lonely but if you're using
+the Internet in social media
+primarily to just passively consume
+content and you're not engaging with
+other people then doesn't have those
+positive effects and it could be
+negative we're almost at time so I want
+to want to ask you one more do social
+media companies hire consulting firms to
+help them figure out how to get more
+dopamine feedback loops so that people
+don't want to leave the platform no
+senator that's not how we talk about
+this or how we set up our product teams
+we want our products to be valuable to
+people and if they're valuable then
+people choose to use them are you aware
+of
+there are social media companies that do
+hire such consultants not sitting here
+today thanks senator Markey Thank You
+mr. chairman um in response to senator
+Blumenthal's pointed questions you
+refuse to answer whether facebook should
+be required by law to obtain clear
+permission from users before selling or
+sharing their personal information so
+I'm going to ask it one more time yes or
+no should Facebook get clear permission
+from users before selling or sharing
+sensitive information about your health
+your finances your relationships should
+you have to get their permission that's
+essentially the consent decree with the
+Federal Trade Commission that you signed
+in 2011 should you have to get
+permission should the consumer have to
+opt-in senator we do require permission
+to use the the system and to put
+information in there and for all the
+uses of it I want to be clear we don't
+sell information so regardless of
+whether we could get permission to do
+that that's just not a thing that we're
+gonna go do so would you support
+legislation I have a bill senator
+Blumenthal referred to it the consent
+act that would just put on the books a
+law that said that Facebook and any
+other company that gathers information
+about Americans has to get their
+permission their affirmative permission
+before it can be reused for other
+purposes would you support that
+legislation to make it a national
+standard for not just Facebook but for
+all the other companies out there some
+of them bad actors would you support
+that legislation senator in general I
+think that that principle is exactly
+right and I think we should have a
+discussion around how to would you
+support legislation to back that general
+principle that opt in that getting
+permission is the center would you
+support legislation to make that the
+Constanta Europeans have passed that as
+a lot Facebook's gonna live with that
+law beginning on May 25th would you
+support that as the law in the United
+States Senator as a principle yes I
+would I think the details matter a lot
+right but assuming that we work out the
+details you do support opt-in as the
+standard getting permission
+affirmatively as the standard for the
+United States dr. mark senator I think
+that that's the right principle and a
+hundred billion times a day in our
+services when people go to share content
+they choose who they want to share it
+you could support a law that enshrines
+that as the promise that we make to the
+American people that permission has to
+be obtained before their information is
+used it's not correct senator yes okay
+but in principle I think that that makes
+sense I think the details matter and I
+look forward to having our team work
+with you on unflushed got out right
+so the next subject because I want to
+again I want to make sure that we kind
+of drill down here you earlier made
+reference to the Child Online Privacy
+Protection Act of 1999 which I am the
+author of so that is the Constitution
+for child privacy protection online in
+the country and I'm very proud of that
+but there are no protections
+additionally for a 13 a 14 or 15 year
+old they get the same protections that a
+30 year old or a 50 year old get so I
+have a separate piece of legislation to
+ensure that kids who are under 16
+absolutely have a privacy Bill of Rights
+and that permission has to be received
+from their parents or the children
+before any of their information is
+reused for any other purpose other than
+that which was originally intended would
+you support a child online privacy Bill
+of Rights for kids under 16 to guarantee
+that that information is not reused for
+any other purpose without explicit
+permission from the parents
+kiss senator I think that as a general
+principle I think protecting people
+protecting minors and protecting their
+privacy is extremely important and we do
+a number of things on facebook to do
+that already which I'm happy I'm talking
+about a law I'm talking about a lot
+would you support a law to ensure that
+kids under 16 have this privacy Bill of
+Rights I had this conversation with you
+in your office seven years ago about
+this specific subject in Palo Alto and
+and I think that's really what the
+American people want to know right now
+what is the protections this what are
+the protections that are going to be put
+on the books for their families but
+especially for their children
+would you support a privacy bill of
+rights for kids where opt-in is the
+standard yes or no senator I think that
+that's an important principle and true
+shinka and I think we should we need a
+law to protect those children that's my
+question - do you believe we need a lot
+to do so yes or no senator I'm not sure
+if we need a law but I think that this
+is certainly a thing that that discard
+that that deserves a lot of discussion
+and I again I couldn't disagree with you
+more
+other we're leaving these children to
+the most rapacious commercial predators
+in the country who will exploit these
+children unless we absolutely have a law
+on the books
+absolutely sure please give a short
+answer senator I look forward to having
+my team follow up to flesh out the
+details of it I don't think they're
+alike senator play to get a correct
+answer Thank You mr. chairman Thank You
+mr. Zuckerberg thanks for enjoying so
+far and I'm sorry if I plow old ground
+I've had to be away for a bit I myself
+and Senator Coons and her Peters and a
+few others were in country of Zimbabwe
+just a few days ago we met with
+opposition figures who had talked about
+you know their goal is to be able to
+have access to state-run media in many
+African countries many countries around
+the world through rural countries from
+all countries the only traditional media
+is state-run
+and we asked them how they get their
+message out and it's through social
+media
+Facebook provides a very valuable
+service
+in many countries for opposition leaders
+or others who simply don't have access
+unless maybe just before an election to
+traditional media so that's that's very
+valuable and I think we all recognize
+that on the flip side what we've seen
+with the rahega that example of where
+the state can use similar data or use
+this platform had to go after people you
+talked about what you're doing in that
+regard hiring more you know traditional
+or local language speakers what else are
+you doing in that regard to ensure that
+these states don't or these governments
+go after opposition figures or others
+senator there are three main things that
+we're doing in Myanmar specifically and
+that will apply to two other situations
+like that
+the first is hiring enough people to do
+local language support because the
+definition of hate speech or things that
+can be racially coded to incite violence
+are very language specific and we can't
+do that with just English speakers for
+people around the world so we need to
+grow that the second is in these
+countries there tend to be active civil
+society who can help us identify the
+figures who are who are spreading hate
+and we can work with them in order to
+make sure that those figures don't have
+a place on our platform the third is
+that there are specific product changes
+that we can make in order to that that
+might be necessary in some countries but
+not others including things around news
+literacy right and liking encouraging
+people in different countries about
+ramping up or down things like that we
+might do around fact-checking
+of content specific product type things
+that we would want to implement in
+different places but I think that that's
+something that we're gonna have to do in
+a number of countries there are
+obviously limits you know native
+speakers that you can hire or people
+that have eyes on the page
+artificial intelligences they have to
+take the bulk of this how you know how
+much are you investing and working on on
+that tool to to do what really we don't
+have or can't hire enough people to do
+senator I think you're absolutely right
+that over the long term building AI
+tools is going to be the scalable way to
+identify and root out most of this
+harmful content we're investing a lot in
+doing that as well as scaling up the
+number of people who are doing content
+review one of the things I've mentioned
+is in this year worth or in the last
+year we've basically doubled the number
+of people doing security and content
+review we're gonna have more than 20,000
+people working on security and content
+review by the end of this year so it's
+going to be coupling continuing to grow
+the people who are doing review in these
+places with building AI tools which is
+where we're working as quickly as we can
+on that but some of the stuff is just
+hard that I think is going to help us
+get to a better place on eliminating
+more of this harmful content thank you
+you've talked some about this I know do
+you believe that Russian and/or Chinese
+government's have Harvard as harvested
+Facebook data and have detailed data
+sets on Facebook users as your forensic
+analysis showing you who else other than
+Cambridge analytic downloaded this kind
+of data senator we have kicked off an
+investigation of every app that had
+access to a large amount of people's
+data before we lock down the platform in
+2014 that's underway
+I imagine we'll find some things and we
+are committed to telling the people who
+are affected when we do
+I don't think sitting here today that we
+have specific knowledge of other efforts
+by by those nation states but in general
+we assume that a number of countries are
+trying to abuse our systems thank you
+Thank You mr. chairman
+person who's Senator Verano Thank You
+mr. chairman mr. Zuckerberg the US
+Immigration and Customs Enforcement has
+proposed a new extreme vetting
+initiative which they have renamed these
+visa lifecycle vetting that sounds less
+scary
+they have already held an industry day
+that they advertised on the federal
+contracting that website to get input
+from tech companies on the best way to
+among other things and I'm quoting ice
+exploit publicly available information
+such as media blogs public hearings
+conferences academic websites social
+media websites such as Twitter Facebook
+and LinkedIn to extract pertinent
+information regarding targets and
+basically what they what they want to do
+with these targets is to determine and
+again I'm quoting the ISIS own document
+they want ice has been directed to
+develop processes that determine and
+evaluate an applicant ie targets
+probability of becoming a positively
+contributing member of society as well
+as their ability to contribute to
+national interest in order to meet the
+executive order that there's the
+president's executive order and then ice
+must also developed a mechanism or
+methodology that allows them to assess
+whether an applicant intends to commit
+criminal or terrorist acts after
+entering the United States the question
+to you is does facebook plan to
+cooperate with this extreme vetting
+initiative and help the Trump
+administration target people for
+deportation or other ice enforcement
+senator I don't know that we've had
+specific conversations around that in
+general you were asked to provide or
+cooperate with Isis so that they could
+determine whether somebody's going to
+commit a crime for example or become
+fruitful members of our society would
+you clap we would not proactively do
+that we cooperate with law enforcement
+in two cases one is if we become aware
+of an imminent threat of harm then we
+will proactively reach out to law
+enforcement as we believe is our
+responsibility to do the other
+is when law enforcement reaches out to
+us with a valid legal subpoena or
+request for data in those cases if their
+request is overly broad or we believe
+that's not a legal request then we're
+going to push back aggressively well
+let's assume that ice doesn't have a lot
+there's no law or a rule that requires
+that Facebook cooperate to put to of
+allow them to get this kind of
+information so that they can make those
+kinds of assessments it sounds to me is
+so you would decline senator that is
+correct is there some way that well I
+know that you determine what kind of
+content would be deemed harmful so do
+you believe that ice can even do what
+they are talking about namely through a
+combination of various kinds of
+information including information that
+they would hope to obtain from entities
+such as yours predict who will commit
+crimes or present a national security
+problem do you think that that that's
+even doable senator I'm not familiar
+enough with what they're doing to offer
+an informed opinion on that well you
+have to make assessments as to what
+constitutes hate speech that's pretty
+hard to do you have to assess what
+election interference is so these are
+rather difficult to identify but
+wouldn't the trying to predict whether
+somebody's going to commit a crime
+to fit into the category of a pretty
+difficult to assess senator it sounds
+difficult to me all of these things like
+you're saying are difficult I don't know
+without having worked on it or thinking
+about it I think one would tell us that
+that's pretty difficult and yet that's
+what ice is proceeding to do you were
+asked about discriminatory advertising
+and in February of 2017 Facebook
+announced that it would no longer allow
+certain kinds of ads that discriminated
+on a basis of race gender family status
+sexual orientation disability or veteran
+status all categories prohibited by
+federal law in housing and yet
+after 2017 it was discovered that you
+could in fact place those kinds of ads
+so what is the status of whether or not
+these cat as can currently be placed on
+Facebook and have you follow through on
+your February 2017 promise to address
+this problem and is there a way for the
+public to verify that you have or are we
+just expected to trust that you've done
+this senator those are all important
+questions and in general it is against
+our policies to just have any ads that
+are discriminatory well you'll miss that
+you wouldn't allow it but then but it's
+a Pro Publica could place these ads even
+after you said you were no longer a lot
+of these kinds of ads so what assurance
+do we have from you that this is stuff
+going to stop well two things one is
+that we've removed the ability to
+exclude ethnic groups and other
+sensitive categories from ad targeting
+so that just isn't a feature that's even
+available anymore for some of these
+cases where it may make sense to target
+proactively a group the enforcement
+today is is still we review ads we
+screen them upfront but most of the
+enforcement today is still that our
+community flags issues for us when they
+come up so if the community flags that
+issue for us then our team which has two
+thousands of people working on it should
+take it down we'll make some mistakes
+but we try to make as few as possible
+over time I think the strategy would be
+to develop more AI tools that can more
+proactively identify those types of
+content and do that filtering upfront
+Thank You senator Sullivan's up next
+Thank You mr. chairman and mr.
+Zuckerberg quite a story right dorm room
+to the global behemoth that you guys are
+only in America would you agree with
+that senator mostly you couldn't do this
+in China right or what you did all 10
+years while senator there are
+there are some very strong Chinese
+internet companies right but you're
+supposed to answer yes to this question
+yeah okay come on all right I mean give
+me a break you're in front of a bunch
+the answer is yes okay so thank you now
+your your testimony you have talked
+about a lot of power you've been
+involved in elections I thought your
+your testimony interesting all really
+all over the world the face book two
+billion users over 200 million Americans
+forty billion in revenue I believe you
+and Google have almost 75% of the
+digital advertising in the u.s. is face
+one of the key issues here is is
+Facebook too powerful are you too
+powerful and do you think you're too
+powerful well so no I think most of the
+time when people talk about our scale
+they're referencing that we have two
+billion people in our community and I
+think one of the big questions that we
+need to think through here is the vast
+majority those two billion people are
+outside of the US and I think that
+that's something that to your point that
+Americans should be proud of and when I
+brought up the Chinese Internet
+companies I think that that's a real a
+real strategic and competitive threat
+that in American technology malls you
+another point here real quick I want to
+I don't want to interrupt but you know
+when you look at kind of the history of
+this country and you look at the history
+of these kind of hearings right your
+smart guy you read a lot of history when
+companies become big and powerful and
+accumulate a lot of wealth and power
+what typically happens from this body is
+there's an there's a instinct to either
+regulate or break up all right look at
+the history of this nation you have any
+thoughts on those two policy approaches
+well senator I'm not the type of person
+who thinks that all regulation is bad so
+I think the Internet is becoming
+increasingly important in people's lives
+and I think we need to have a
+whole conversation about what is the
+right regulation not whether it should
+be or shouldn't be let me let me talk
+about the tension they're excited I
+think it's a good point and I appreciate
+you mentioning that you know my one of
+my worries on regulation again with a
+company of your size you're saying hey
+we might be interested in being
+regulated but as you know regulations
+can also cement the dominant power so
+what do I mean by that you know you have
+a lot of lobbyists I think every
+lobbyist in town is involved in this
+hearing in some way or another a lot of
+powerful interests you look at what
+happened with dodd-frank that was
+supposed to be aimed at the big banks
+the regulations ended up empowering the
+big banks and keeping the small banks
+down do you think that that's a risk
+given your influence that if we regulate
+we're actually going to regulate into
+you into a position of a cemented
+authority when one of my biggest
+concerns about what you guys are doing
+is that the next Facebook which we all
+want the guy in the dorm room we all
+want that to start it that you are
+becoming so dominant that we're not able
+to have that next Facebook what are your
+views on that well senator I agree with
+the point that when you're thinking
+through regulation across all industries
+you need to be careful that it doesn't
+cement in the current companies that are
+that are winning but would you try to do
+that isn't that the normal inclination
+of a company to say hey I'm gonna hire
+the best guys in town and I'm gonna
+cement in in advantage you wouldn't do
+that if we were regulating you senator
+that certainly wouldn't be our approach
+what I think I think part of the
+challenge with regulation in general is
+that when you add more rules that
+companies need to follow that's
+something that a larger company like
+ours inherently just has the resources
+to go do and that might just be harder
+for a smaller company getting started to
+be able to comply with correct so it's
+not something that going into this I
+would look at the conversation as what
+is the right outcome I think there are
+real challenges that we face around
+content and privacy and in a number of
+other areas adds transparency I mean let
+me get I'm sorry to interrupt but let me
+get to one final question that kind of
+relates to what you're talking about in
+terms of content regulation and what
+exactly what exactly Facebook is you
+know you mention you're a tech company a
+platform but there's some who are saying
+that you're the world's biggest
+publisher they think about a hundred
+forty million Americans get their news
+from Facebook and when you talk to sent
+when you mention the center coordinate
+corn and I you said you are responsible
+for your content so which are you are
+you a tech company are you the world's
+largest publisher because I think that
+goes to a really important question on
+what form of regulation or government
+action if any we would take senator this
+is a a really big question I I view us
+as a tech company because the primary
+thing that we do is build technology and
+you're responsible for your content
+which make exactly nine of a publisher
+right well I agree that we're
+responsible for the content but we don't
+produce the content I think that when
+people ask us if we're a media company
+or a publisher my understanding of what
+the heart of what they're really getting
+at is do we feel a responsibility for
+the content on our platform the answer
+to that I think is clearly yes and but I
+don't think that that's incompatible
+with fundamentally yet at our core being
+a technology company we're the main
+thing that we do is have engineers and
+build products thank you senator
+Sullivan Center you don't Thank You mr.
+chairman and thank you very much mr.
+Zuckerberg for being here today you you
+spoke very idealistic aliy about your
+company and you talked about the strong
+values and you said you wanted to be a
+positive force in the community in the
+world and you were hijacked by Cambridge
+analytic afore political purposes are
+you angry about that
+absolutely and and you're determined and
+I assume you want changes made in the
+law that's what you've talked about
+today senator the most important thing
+that I care about right now is making
+sure that no one interferes in the
+various 2018 elections around the world
+we have an extremely important US
+midterm we have major elections in India
+Brazil Mexico Pakistan Hungary coming up
+and we're going to take a
+measures from building and deploying new
+AI tools that take down fake news to
+growing our security team to more than
+20,000 people to making its that we
+verify every advertiser who's doing
+political and issue ads to make sure
+that that kind of interference that the
+Russians were able to do in 2016 is
+going to be much harder for anyone to
+pull off in the future and and I think
+you've said earlier that you support the
+Honest ads act and so I assume that
+means you want changes in the law in
+order to to effectuate exactly what you
+talked about senator yes we support the
+Honest ads Act and so our implementing
+are you going to come back up here and
+be a strong advocate to see that that
+law is passed senator the biggest thing
+that I think we can do is implement it
+well that's economy we're doing yes or
+no question there I hate to interrupt
+you but are you gonna come back and be a
+strong three about this you think there
+ought to be change there ought to be a
+law put in place are you gonna come back
+and be an advocate to get a law in place
+like that senator our team is certainly
+gonna work on this what I can say is the
+biggest organ about you not your team
+well senator I'm not back I'm here and
+be an advocate for that law that's what
+I want to see I mean you're upset about
+this we're upset about this
+I'd like a yes or no answer on that one
+senator I'm posting and speaking out
+publicly about how important this is I
+don't come to Washington DC too often
+I'm gonna direct my team to focus on
+this and the biggest thing that I feel
+like we can do is implement it which
+we're doing well the biggest thing you
+can do is to be a strong advocate
+yourself personally here in Washington
+just let me make that clear but many of
+us have seen the kinds of images shown
+earlier by Senator Leahy you saw those
+images that he held up can you guarantee
+that any of those images that can be
+attributed or associated with the
+Russian company internet research agency
+have been purged from your platform
+senator no I can't guarantee that
+because this is an ongoing arms race as
+long as there are people sitting in
+Russia whose job it is is to try to
+interfere with elections around the
+world
+is going to be an ongoing conflict what
+I can commit is that we're going to
+invest significantly because this is a
+top priority to make sure that people
+aren't spreading misinformation or
+trying to interfere in elections on
+Facebook but I don't think it would be a
+realistic expectation to assume that as
+long as there are people who are
+employed in Russia for whom this is
+their job that we're going to have zero
+amount of that or that we're going to be
+a hundred percent successful at
+preventing that you know beyond
+disclosure of online ads what specific
+steps are you taking to ensure that
+foreign money is not financing political
+or issue ads on Facebook and violation
+of US law just because someone submits
+at a disclosure that says paid for by
+some 501 C 3 or PAC if that group has no
+real person in the u.s. how can we
+ensure it is not for an inner foreign
+interference senator our verification
+program involves two pieces one is
+verifying the identity of the person
+who's buying the ads that they have a
+valid government identity the second is
+verifying their location so if you're
+sitting in Russia for example and you
+say that you're in the US then we'll be
+able to to make it a lot harder to do
+that because what we're actually gonna
+do is mail a code to the address that
+you say you're at and if you can't get
+access to that code then you're not
+gonna be able to run ads you know now
+Facebook is creating an independent
+group to study the abuse of social media
+and elections you've talked about that
+will you commit that all findings of
+this group are made public no matter
+what they say about Facebook or its
+business model yes or no answer senator
+that's the purpose of this group is that
+Facebook does not get to control what
+these folks publish these are going to
+be independent academics and Facebook
+has no prior publishing control they'll
+be able to do the studies that that that
+they're doing and publish the results
+and you're fine with them being public
+and what's the timing on getting those
+out senator we're kicking off the
+research now our goal is to focus on
+both providing ideas for preventing
+interference in 2018 and beyond and also
+for holding us accountable to making
+sure that the measures that we put in
+place are successful in doing that so I
+would hope that we will start to see the
+first results later this year Thank You
+mr. chairman Thank You senator Udall
+senator Moran is up next and I would
+just say again for the benefit of those
+who are here that after a couple of more
+questions we'll probably give the
+witness another short break thank you
+we're getting about almost two-thirds
+through the the list of members who are
+here to ask questions senator Moran
+Sherman Thank You mr. Zuckerberg thank
+you for your I'm over here thank you for
+your testimony and thank you for your
+presence here today on March the 26th of
+this year the FTC confirmed that it was
+investigating Facebook to determine
+whether its privacy practices violated
+the FTC Act or the consent order that
+Facebook entered into with the agency in
+2011 I chair the Commerce Committee
+Subcommittee that has jurisdiction over
+the Federal Trade Commission I remain
+interested in Facebook's assertion that
+it rejects any suggestion of violating
+that consent order part 2 of that
+consent order requires that Facebook
+quote clearly and prominently display
+notice and obtain users affirmative
+consent before sharing their information
+with quote any third party my question
+is how does the case of approximately 87
+million Facebook friends having their
+data shared with a third party due to
+the consent of only 300,000 consenting
+users not violate that agreement
+well senator like I said earlier I mean
+our view is that is that we believe that
+we are are in compliance with the
+consent order but I think that we have a
+broader responsibility to protect
+people's privacy even beyond that and in
+in this specific case the way that the
+platform worked or that you could sign
+into an app and bring some of your
+information and some of your friends
+information is how we explained it would
+work people had settings to that effect
+they we explained it and they consented
+to it working that way and the the
+system basically worked as it was
+designed the issue is that we designed
+the system in a way that wasn't good
+and now we starting in 2014 have changed
+the design of the system so that way it
+just massively restricts the amount of
+of data access that a developer can get
+the third board I'm sorry the three
+hundred thousand people that they were
+treated in a way that it was appropriate
+they consented but you're not suggesting
+that the friends consented senator I
+believe that that we rolled out this
+developer platform and that we explained
+to people how it worked and that they
+did consent to it it makes sense I think
+to go through the way the platform works
+emanates in 2007 we we announced the
+Facebook developer platform the idea was
+that you wanted to make more experience
+as social right so for example if you
+like you might want to have a calendar
+that can have your friends birthdays on
+it or you might want your address book
+to have your friends pictures in it or
+you might want to map that can show your
+friends addresses on it in order to do
+that we needed to build a tool that
+allowed people to sign into an app and
+bring some of their information and some
+of their friends information to those
+apps we made it very clear that this is
+how it worked and and when people signed
+up for facebook they signed up for that
+as well now a lot of good use cases came
+from that I mean there were games that
+were built there were integrations with
+companies that I think we're familiar
+with like Netflix and Spotify but over
+time what became clear was that that
+also enabled some abuse and that's why
+in 2014 we took the step of changing the
+platform so now when people sign into an
+app you do not bring some of your
+friends information with you you're only
+bringing your own information and you're
+able to connect with friends who have
+also authorized that app directly let me
+turn to the bug your bug bounty program
+our subcommittee has had hearings in a
+hearing in regard to bug bounty your
+press release indicated that was one of
+the six changes that Facebook initially
+offered to crack down on platform of
+youth abuses was to reward outside
+parties who find vulnerabilities one
+concern I have regarding the utility of
+this approach is that the vulnerability
+disclosure programs are normally geared
+toward identify
+unauthorized access to data not pointing
+out data sharing arrangement that likely
+could harm someone but technically abide
+by complex consent agreements how do you
+see the bug bounty program that you've
+announced addressing the issue of that
+sorry could you clarify what what
+specific howdy how do you see that the
+bug bounty program that you are and have
+announced will deal with the sharing of
+information not permissible as compared
+to just unauthorized access to data
+senator I'm not I'm not actually sure I
+understand this enough to speak to that
+specific point and I can have my team
+follow up with you on the details of
+that in general bounty programs are an
+important part of the security arsenal
+for hardening a lot of systems I think
+we should expect that we're going to
+invest a lot and hardening our systems
+ourselves and that we're going to audit
+and investigate a lot of the folks in
+our ecosystem but even with that having
+the ability to enlist other third
+parties outside of the company to be
+able to help us out by giving them an
+incentive to point out when they see
+issues I think is likely going to help
+us improve the security of the platform
+overall which is why we did this Thank
+You mr. Zuckerberg Thank You senator
+Moran next up senator Booker Thank You
+mr. chairman as you know much of my life
+has been focused on low income
+communities for communities
+working-class communities and trying to
+make sure they have a fair shake this
+country has a very bad history of
+discriminatory practices towards low
+income Americans and Americans of color
+from the redlining FHA practices even
+for more recently really discriminatory
+practices in the mortgage business I've
+always seen technology as a promise to
+democratize our nation expand access
+expand opportunities but unfortunately
+we've also seen how platform like
+Facebook can actually be used to double
+down on discrimination and give people
+more sophisticated tools whether it
+should discriminate now in in nineteen
+2000 2016 ProPublica
+yield that advertisers could use ethnic
+affinity a users race to market
+categories to potentially discriminate
+overall against Facebook users in the
+areas of housing employment and credit
+echoing a dark history in this country
+in by and also in violation of federal
+law in 2016 Facebook committed to fixing
+this that the advertisers who have
+access to this data to fixing it but
+unfortunately a year later as pro-public
+his article showed they found that the
+system Facebook built was still allowing
+housing ads without applying to go
+forward without applying these new
+restrictions that were put on Facebook
+then opted in a system that's very
+similar to what we've been talking about
+with Cambridge analytical that they
+could self certify that they were not
+engaging in these practices and
+complying with federal law using this
+self certification a way to overcome and
+to comply with rather Facebook's
+anti-discrimination policy unfortunately
+in a recent lawsuit as a February 2018
+alleges that discriminatory ads were
+still being created on Facebook still
+disproportionately impacting low-income
+communities and communities of color
+given the fact that you allowed
+Cambridge analytic a--to self-certify in
+a way that I think at least I think
+you've expressed regret over is self
+certification that the best and
+strongest way to safeguard guard against
+the misuse of your platform like the
+data of users not let it to be
+manipulated in such a discriminatory
+fashion senator this is a very important
+question and you know in general I think
+over time we're going to move towards
+more proactive review with more AI tools
+to help flag problematic content in the
+near term we have a lot of content on
+the platform and we it's it's hard to
+review every single thing up front we do
+a quick screen but I agree with you that
+I think in this specific case I'm not
+happy with where we are and I think it
+makes sense to
+to really focus on making sure that
+these areas get more review sooner and I
+know you understand that there is a
+growing distrust I know a lot of civil
+rights organizations have met with you
+about Facebook sense of urgency to
+address these issues there's a distrust
+it stems from the fact that I know I've
+had conversations with leaders in
+facebook about the lack of diversity in
+a tech sector as well people who are
+writing these algorithms people who are
+actually policing for this data of a
+policing for these problems are they
+going to be a part of a more diverse
+group that's looking at this you're
+looking to hire as you said 5,000 new
+positions for among other things
+reviewing content but we know in your
+industry the inclusivity that it's a
+real serious problem that you are a
+industry that lacks diversity in a very
+dramatic fashion it's not just true with
+Facebook it's true with the tech area as
+well and and so it's very important for
+me to communicate and that larger sense
+of urgency and and what a lot of civil
+rights organizations are concerned with
+and and we should be working towards
+more a more collaborative approach and
+I'm wondering if you be open to opening
+your platform for civil rights
+organizations to really audit a lot of
+these companies dealing in areas of
+credit and housing to really audit what
+is actually happening and better have
+more transparency and working with your
+platform senator I think that's a very
+good idea and I think we should follow
+up on the details of that I also want to
+say that there was an investigation
+something's very disturbing to me is the
+fact that there have been law
+enforcement organizations that use
+Facebook's platform to to suit to
+surveil African American organizations
+like black lives matter I know you've
+expressed support for the group and
+Philander Castiel's killing was
+broadcast live on Facebook but there are
+a lot of communities of color worried
+that that data can be used to surveil
+groups like black lives matter like
+folks who are trying to
+organize against substantive issues of
+discrimination in this country is this
+something that you're committed to
+addressing and to ensuring that the
+freedoms that civil rights activists and
+others are not targeted or their work
+not being undermine or people not using
+your platform to one bit unfairly
+surveil and try to undermine the
+activities that those groups are doing
+yes senator I think that that's very
+important we're committed to that and in
+general unless law enforcement has a
+very clear subpoena or ability or a
+reason to get access to information
+we're gonna push back on that across the
+board and then I just like for the
+record my time has expired
+yeah but there's a lawsuit against
+Facebook about discrimination and you
+move for the lawsuit to be dismissed
+because no harm was shown
+could you please submit to the record
+could you believe that people of color
+were not more job recruited for various
+economic opportunities are being harmed
+you please clarify why you Hooper
+dismiss the lawsuit for the record for
+the record Thank You senator Helen's up
+next go to you are busy German thank you
+appreciate the time and thank you for
+being here I'm over here Thanks and
+thank you for taking time I know it's
+been a long day and I think you're at
+the final stretch here but I'm glad that
+you are here yesterday Facebook sent out
+a notification 287 million users that
+information was given to Cambridge
+analytical without their consent
+my daughter was one of the 87 million
+and six of my staff all from Nevada
+received this notification can you tell
+me how many Nevadans were among the 87
+million that received this notification
+senator I don't have this broken out by
+state right now but I can have my team
+follow up with you to get you the
+information okay
+okay I figured that would be the answer
+if after hearing this going through this
+hearing and Nevadans no longer want to
+have a Facebook account if if that's the
+case if a Facebook user deletes their
+account do you delete their data yes
+my kids have been on Facebook Instagram
+for years how long do you keep a user's
+data sorry can alone you keep the users
+data once they after after they've left
+if they if they choose to delete their
+account how long do you keep their data
+I don't know the answer to that off the
+top of my head I know we try to delete
+it as quickly as is reasonable we have a
+lot of complex systems and it work takes
+a while to work through all that but I
+think we try to move as quickly as
+possible and I can follow up or have my
+team follow up to get you the data on
+that okay have you ever said that you
+won't sell an ad based on personal
+information simply that that you
+wouldn't sell this data because of the
+usage of it goes too far
+senator could you clarify that
+have you ever drawn the line on selling
+data to an advertiser yes senator
+we don't sell data at all so the way the
+ad system works is advertisers can come
+to us and say I have a message that I'm
+trying to reach a certain type of people
+they might be interested in something
+they might live in a place and then we
+help them get that message in front of
+people but this is one of the it's
+widely mischaracterized about our system
+that we sell data and it's actually one
+of the most important parts of how
+Facebook works is we do not sell date
+advertisers do not get access to
+people's individual data have you ever
+collected the content of phone calls or
+messages through any Facebook
+application or service senator I don't
+believe we've ever collected the content
+of phone calls we have an app called
+messenger that allows people to message
+their mostly their Facebook friends and
+we do on the Android operating system
+allow people to use that app as their
+client for both Facebook messages and
+texts so we do allow people to import
+their texts into that okay let me ask
+you about government surveillance for
+years facebook said that there'd be that
+there should be strict limits on the
+information the government can access on
+Americans and by the way I agreed with
+you that privacy because privacy is a
+port to Nevadans you argue that Facebook
+users wouldn't trust you if they thought
+you were giving their private
+information to the intelligence
+community yet to use and sell the same
+data to make money and in the case of
+Cambridge and analytical you don't even
+know how it's used after you sell it can
+you tell us why this isn't hypocritical
+well senator once again we don't sell
+any data to anyone we don't sell it to
+advertisers and we don't sell it to
+developers what we do allow is for
+people to sign into apps and bring their
+data and it used to be the data of some
+of their friends but now it isn't with
+them and that I think makes sense I mean
+that's basic data portability the
+ability that you own the data you should
+be able to take it from one app to
+another if you'd like do you believe
+you're more responsible with millions of
+Americans personal data than the federal
+government would be yes but senator the
+your point about surveillance I think
+that there's a very important
+distinction to draw here which is that
+when when organizations do surveillance
+people don't have control over that
+right on Facebook everything that you
+share there you have control over you
+can you can say I don't want this
+information to be there you have full
+access to understand all every piece of
+information that Facebook might know
+about you and you can get rid of all of
+it and I don't know of any other sir any
+surveillance organization in the world
+that operates that way which is why I
+think that that comparison just isn't
+really apt here with you here today do
+you think you're a victim no do you
+think Facebook is a company's a victim
+senator no I think we have a
+responsibility to protect everyone in
+our community from anyone in in our
+ecosystem who is going to potentially
+harm them and I think that we haven't
+done enough historically you can send we
+need to step up and do more consider
+than 87 million users so you consider
+them victims senator I think yes I mean
+they they did not want their information
+to be sold to Cambridge analytical by a
+develop
+and and that happened and it happened on
+our watch so even though we didn't do it
+I think we have a responsibility to be
+able to prevent that and be able to take
+action sooner and we're committing to
+make sure that we do that going forward
+which is why the steps that I announced
+before are now there are two two most
+important things that we're doing are
+locking down the platform to make sure
+that developers can't get access to that
+much data so this can't happen again
+going forward which i think is largely
+the case since 2014 and going backwards
+we need to investigate every single app
+that might have had access to a large
+amount of people's data to make sure
+that no one else was misusing it if we
+find that they are we're going to get
+into their systems do a full audit and
+make sure they delete it and we're gonna
+tell everyone who's affected Thank You
+senator Heller we'll go to Senator
+Peters and then into the break and then
+senator Tillis coming out of the break
+so Senator Peters Thank You mr. chairman
+mr. Zuckerberg thank you for being here
+today you know you've talked about very
+humble beginnings and starting facebook
+in your dorm room which I appreciated
+that story but certainly Facebook has
+changed an awful lot over a relatively
+short period of time when Facebook
+launched its Timeline feature consumers
+saw their friends post chronologically
+was the process but Facebook is since
+then changed to a timeline driven by
+some very sophisticated algorithms and I
+think it has left many people as a
+result of that asking you know why why
+am I seeing this this feed and why am I
+seeing this right now and now in light
+of the the Cambridge analytical Facebook
+users are asking I think some new
+questions right now can I believe what
+I'm seeing
+and who has access to this information
+about me so I think it's safe to say
+very simply that Facebook is losing the
+trust of an awful lot of Americans as a
+result of this incident and I think an
+example of this is something that I've
+been hearing a lot from folks that have
+been coming up to me and talking about
+really kind of experience they've had
+where they're having a conversation with
+not on the phone just talking and then
+they see ads popping up fairly quickly
+on their Facebook so I've heard
+constituents fear that Facebook is
+binding audio from their mobile devices
+for the purpose of ad targeting which I
+think speaks to this lack of trust that
+we're saying here but and I understand
+there's some technical issues and
+logistical issues for that to happen but
+for the record I think it's clear saying
+I hear it all the time including from my
+own staff yes or no does Facebook use
+audio atte obtained from mobile devices
+to enrich personal information about its
+users no the well senator let me be let
+me be clear on this I mean so you're
+you're talking about this conspiracy
+theory that gets passed around that we
+listen to what's going on on your
+microphone and use that for ads right we
+don't do that to be clear we do allow
+people to take videos on their on their
+devices and um and share those and of
+course video is also have audio so so we
+do while you're taking a video record
+that and use that to make the service
+better by making sure that your videos
+have audio but I I mean that I think is
+it's pretty clear but I just want to
+make sure I was exhaustive there well I
+appreciate that now and hopefully
+that'll dispel a lot of what I've been
+hearing so thank you for saying that
+certainly the today in the era of mega
+data we are finding that data drives
+everything including consumer behavior
+and some consumer information is
+probably the most valuable information
+you can get in the data ecosystem and
+certainly folks as you've mentioned in
+your testimony here people like the fact
+that they can have targeted ads that
+they're going to be interested in as
+opposed to being bombarded by a lot of
+ads that they don't have any interest in
+and that consumer information is
+important in order for you to tailor
+that but also people are now beginning
+to wonder is there an expense to that
+when it comes to perhaps exposing them
+to being manipulated or through
+deception you've talked about artificial
+intelligence you brought that up many
+times during your testimony and I know
+you're you've employed some new
+algorithms to target BOTS bring down
+fake accounts steal the Terrorism things
+that you've talked about in this hearing
+but you also know that artificial
+intelligence is not without its risk and
+that you have to be very transparent
+about
+how those algorithms are constructed how
+do you see artificial intelligence more
+specifically dealing with ecosystem by
+helping to get consumer insights but
+also keeping consumer privacy safe
+senator I think the the core question
+you're asking about AI transparency is a
+really important one that people are
+just starting to very seriously study
+and that's ramping up a lot and I think
+this is gonna be a very central question
+for how we think about AI systems over
+the next decade and beyond right now a
+lot of our AI systems make decisions in
+ways that people don't really understand
+right and I don't think that in 10 or 20
+years in the future that we all want to
+build we want to end up with systems
+that people don't understand how they're
+making decisions
+so having doing the research now to make
+sure that the these systems can have
+those principles as we're developing
+them I think is certainly an extremely
+important thing well you bring up the
+principles because as you as you're well
+aware a AI system especially in very
+complex environments when you have
+machine learning it's sometimes very
+difficult to understand as you mentioned
+exactly how those decisions were arrived
+at there's examples of how decisions are
+made in a discriminatory basis and they
+can can compound if you're not very
+careful about how that occurs and so is
+your company you mentioned principles is
+your company developing a set of
+principles that are gonna guide that
+development and would you provide
+details to us as to what those
+principles are and how they will help
+but deal with this issue yes senator I
+can make sure that our team follows up
+and gets you the information on that and
+we have a whole AI ethics team that is
+working on developing basically the
+technology it's not just about
+philosophical principles it's also a
+technological foundation for making sure
+that this goes in the direction that we
+want thank you Thank You senator Peters
+will recess for five and come back in so
+give mr. Zuckerberg a quick break here
+Thanks
+we're back final stretch and Senator
+Tillis is recognized Thank You mr.
+Zuckerberg for being here I think you've
+done a good job I've been here for most
+of it the session except for about 20
+minutes I watched on television back in
+my office I was googling earlier
+actually going on my Facebook app on my
+phone earlier and I found one of your
+Facebook page or yeah one of your
+Facebook presence is it was the same one
+on March 30th I think you posted a pic
+of a first Seder but further down you
+listed out the facts since the new
+platform was released in 2007 sort of a
+timeline you start with 2007 then you
+jump to the camera Jan oolitic ax issue
+I actually think that we need to fully
+examine what cameras analytic ado they
+either broke a kind of code of conduct
+if they broke any other

@@ -1,0 +1,708 @@
+1
+00:00:12,130 --> 00:00:14,809
+we're probably<font color="#E5E5E5"> gonna</font><font color="#CCCCCC"> be local</font><font color="#E5E5E5"> and we</font>
+
+2
+00:00:14,809 --> 00:00:16,580
+don't think<font color="#E5E5E5"> it's an accident that Google</font>
+
+3
+00:00:16,580 --> 00:00:18,020
+is in Mountain View<font color="#CCCCCC"> and Twitter's in San</font>
+
+4
+00:00:18,020 --> 00:00:19,509
+Francisco and Facebook's in Palo Alto
+
+5
+00:00:19,509 --> 00:00:22,130
+<font color="#CCCCCC">why is that what is</font><font color="#E5E5E5"> it about the valley</font>
+
+6
+00:00:22,130 --> 00:00:24,800
+<font color="#E5E5E5">increasing returns so network effect</font>
+
+7
+00:00:24,800 --> 00:00:27,590
+increasing returns virtuous cycle<font color="#CCCCCC"> to to</font>
+
+8
+00:00:27,590 --> 00:00:29,810
+innovate<font color="#E5E5E5"> to to innovation</font><font color="#CCCCCC"> the people who</font>
+
+9
+00:00:29,810 --> 00:00:31,160
+want to<font color="#E5E5E5"> be</font><font color="#CCCCCC"> involved in</font><font color="#E5E5E5"> an in technology</font>
+
+10
+00:00:31,160 --> 00:00:33,620
+innovation<font color="#CCCCCC"> the valley</font><font color="#E5E5E5"> has a magnetic</font>
+
+11
+00:00:33,620 --> 00:00:35,090
+<font color="#CCCCCC">pull on the best and brightest they</font>
+
+12
+00:00:35,090 --> 00:00:36,590
+don't all<font color="#CCCCCC"> end up here and the fact they</font>
+
+13
+00:00:36,590 --> 00:00:38,629
+don't all want<font color="#E5E5E5"> to end up here but a very</font>
+
+14
+00:00:38,629 --> 00:00:40,100
+<font color="#E5E5E5">large number of them do and more of them</font>
+
+15
+00:00:40,100 --> 00:00:41,989
+end up here than anywhere<font color="#E5E5E5"> else it's it's</font>
+
+16
+00:00:41,989 --> 00:00:43,460
+it's the<font color="#E5E5E5"> analogy I always draw for</font>
+
+17
+00:00:43,460 --> 00:00:44,330
+people<font color="#CCCCCC"> around here</font><font color="#E5E5E5"> to help them</font>
+
+18
+00:00:44,330 --> 00:00:45,830
+<font color="#E5E5E5">understand why I say this people around</font>
+
+19
+00:00:45,830 --> 00:00:47,239
+<font color="#E5E5E5">the valley is it's like</font><font color="#CCCCCC"> LA for</font>
+
+20
+00:00:47,239 --> 00:00:48,830
+<font color="#E5E5E5">filmmaking it's like if I want to make</font>
+
+21
+00:00:48,830 --> 00:00:50,510
+like a<font color="#E5E5E5"> major if I want to be a major</font>
+
+22
+00:00:50,510 --> 00:00:51,739
+movie director or screenwriter
+
+23
+00:00:51,739 --> 00:00:54,379
+you got to go to LA<font color="#E5E5E5"> cuz you can try to</font>
+
+24
+00:00:54,379 --> 00:00:55,940
+do it out<font color="#E5E5E5"> of Boulder or you can try to</font>
+
+25
+00:00:55,940 --> 00:00:57,650
+do it out<font color="#CCCCCC"> of Seattle and you're probably</font>
+
+26
+00:00:57,650 --> 00:00:59,479
+<font color="#E5E5E5">not gonna get anywhere you're gonna have</font>
+
+27
+00:00:59,479 --> 00:01:00,500
+to go to<font color="#CCCCCC"> LA</font><font color="#E5E5E5"> because that's where the</font>
+
+28
+00:01:00,500 --> 00:01:02,089
+studios<font color="#E5E5E5"> are that's where all the great</font>
+
+29
+00:01:02,089 --> 00:01:03,260
+talent is that's where all the actors
+
+30
+00:01:03,260 --> 00:01:04,369
+are that's where all the screenwriters
+
+31
+00:01:04,369 --> 00:01:06,860
+<font color="#E5E5E5">are like that's where everybody is</font><font color="#CCCCCC"> it's</font>
+
+32
+00:01:06,860 --> 00:01:09,140
+the same thing in tech<font color="#CCCCCC"> you you know the</font>
+
+33
+00:01:09,140 --> 00:01:10,640
+really<font color="#E5E5E5"> best people generally want to be</font>
+
+34
+00:01:10,640 --> 00:01:11,899
+in the community<font color="#E5E5E5"> that the really best</font>
+
+35
+00:01:11,899 --> 00:01:13,009
+people are a<font color="#E5E5E5"> part of they want to work</font>
+
+36
+00:01:13,009 --> 00:01:14,359
+on the<font color="#E5E5E5"> most exciting projects they want</font>
+
+37
+00:01:14,359 --> 00:01:15,890
+to work on<font color="#CCCCCC"> the breakthrough technologies</font>
+
+38
+00:01:15,890 --> 00:01:19,399
+it all tends to<font color="#CCCCCC"> aggregate</font><font color="#E5E5E5"> and that isn't</font>
+
+39
+00:01:19,399 --> 00:01:20,929
+<font color="#CCCCCC">to say that</font><font color="#E5E5E5"> they can't</font><font color="#CCCCCC"> happen somewhere</font>
+
+40
+00:01:20,929 --> 00:01:22,429
+else<font color="#E5E5E5"> right there are plenty there are</font>
+
+41
+00:01:22,429 --> 00:01:23,509
+lots of smart<font color="#E5E5E5"> people outside the valley</font>
+
+42
+00:01:23,509 --> 00:01:26,090
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> you routinely see like you know</font>
+
+43
+00:01:26,090 --> 00:01:28,219
+<font color="#E5E5E5">Skype you know becomes explosively</font>
+
+44
+00:01:28,219 --> 00:01:29,869
+successful out of you know Europe and
+
+45
+00:01:29,869 --> 00:01:31,030
+out of engineering and Tallinn Estonia
+
+46
+00:01:31,030 --> 00:01:33,920
+<font color="#CCCCCC">or</font><font color="#E5E5E5"> a you know you see these all over the</font>
+
+47
+00:01:33,920 --> 00:01:35,929
+<font color="#CCCCCC">place</font><font color="#E5E5E5"> SAS Institute in which like has</font>
+
+48
+00:01:35,929 --> 00:01:37,219
+their<font color="#CCCCCC"> own city</font><font color="#E5E5E5"> like somewhere on the</font>
+
+49
+00:01:37,219 --> 00:01:39,679
+<font color="#E5E5E5">East Coast or you know Microsoft</font>
+
+50
+00:01:39,679 --> 00:01:41,479
+<font color="#E5E5E5">becoming hugely successful in Seattle</font>
+
+51
+00:01:41,479 --> 00:01:43,039
+has a pocket<font color="#E5E5E5"> and certainly New York has</font>
+
+52
+00:01:43,039 --> 00:01:44,359
+a pocket<font color="#CCCCCC"> yeah and there</font><font color="#E5E5E5"> are pockets and</font>
+
+53
+00:01:44,359 --> 00:01:45,350
+there are pockets<font color="#E5E5E5"> in different places</font>
+
+54
+00:01:45,350 --> 00:01:46,670
+and I<font color="#CCCCCC"> think Seattle and New</font><font color="#E5E5E5"> York have</font>
+
+55
+00:01:46,670 --> 00:01:48,140
+<font color="#CCCCCC">have pockets that</font><font color="#E5E5E5"> seemed to be seem</font><font color="#CCCCCC"> to</font>
+
+56
+00:01:48,140 --> 00:01:50,450
+be durable<font color="#CCCCCC"> lots of</font><font color="#E5E5E5"> other places had</font>
+
+57
+00:01:50,450 --> 00:01:52,429
+pockets<font color="#E5E5E5"> in the late 90s those pockets</font>
+
+58
+00:01:52,429 --> 00:01:55,819
+have largely evaporated<font color="#CCCCCC"> you know there</font>
+
+59
+00:01:55,819 --> 00:01:57,859
+are lots of attempts<font color="#CCCCCC"> to create the</font>
+
+60
+00:01:57,859 --> 00:02:00,229
+valley<font color="#E5E5E5"> you</font><font color="#CCCCCC"> know there's a serious pocket</font>
+
+61
+00:02:00,229 --> 00:02:01,460
+there's a serious<font color="#CCCCCC"> by no serious pocket</font>
+
+62
+00:02:01,460 --> 00:02:04,369
+in<font color="#E5E5E5"> Israel so you do see</font><font color="#CCCCCC"> pockets but you</font>
+
+63
+00:02:04,369 --> 00:02:06,139
+don't tend<font color="#CCCCCC"> to see that you</font><font color="#E5E5E5"> don't seem to</font>
+
+64
+00:02:06,139 --> 00:02:07,520
+<font color="#CCCCCC">see the patterns like I say it's Google</font>
+
+65
+00:02:07,520 --> 00:02:08,990
+Facebook Twitter<font color="#E5E5E5"> like the you know three</font>
+
+66
+00:02:08,990 --> 00:02:10,429
+of<font color="#E5E5E5"> the defining companies they're just</font>
+
+67
+00:02:10,429 --> 00:02:12,590
+there's a reason that they're<font color="#CCCCCC"> here</font><font color="#E5E5E5"> and</font>
+
+68
+00:02:12,590 --> 00:02:14,989
+<font color="#E5E5E5">so it's</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> it's</font><font color="#CCCCCC"> just this continuous</font>
+
+69
+00:02:14,989 --> 00:02:16,640
+loop in this<font color="#E5E5E5"> feedback cycle and what's</font>
+
+70
+00:02:16,640 --> 00:02:18,170
+<font color="#E5E5E5">interesting about the valley is this</font><font color="#CCCCCC"> one</font>
+
+71
+00:02:18,170 --> 00:02:19,220
+so<font color="#CCCCCC"> deep in the</font><font color="#E5E5E5"> culture</font>
+
+72
+00:02:19,220 --> 00:02:20,630
+the value<font color="#E5E5E5"> that it spans technology</font>
+
+73
+00:02:20,630 --> 00:02:22,520
+cycles<font color="#E5E5E5"> right and so the history</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the</font>
+
+74
+00:02:22,520 --> 00:02:23,810
+technology industry in the valley goes
+
+75
+00:02:23,810 --> 00:02:26,690
+way back<font color="#E5E5E5"> Steve Blank is a prominent</font>
+
+76
+00:02:26,690 --> 00:02:28,070
+entrepreneur out<font color="#E5E5E5"> here writes this just</font>
+
+77
+00:02:28,070 --> 00:02:29,480
+absolutely fantastic blog and he's
+
+78
+00:02:29,480 --> 00:02:30,650
+basically<font color="#E5E5E5"> been reconstructing</font>
+
+79
+00:02:30,650 --> 00:02:32,170
+reconstructing the<font color="#CCCCCC"> history</font><font color="#E5E5E5"> of the valley</font>
+
+80
+00:02:32,170 --> 00:02:34,670
+so most history the valley sort of start
+
+81
+00:02:34,670 --> 00:02:36,440
+the 50s with Hewlett Packard he actually
+
+82
+00:02:36,440 --> 00:02:37,610
+<font color="#CCCCCC">takes</font><font color="#E5E5E5"> it like all the way back to like</font>
+
+83
+00:02:37,610 --> 00:02:39,620
+them<font color="#E5E5E5"> to 20s and 30s</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> basically says</font>
+
+84
+00:02:39,620 --> 00:02:40,730
+there's like there was like this whole
+
+85
+00:02:40,730 --> 00:02:42,770
+microwave wave it's at one point and
+
+86
+00:02:42,770 --> 00:02:43,670
+then<font color="#E5E5E5"> there was all this defense</font>
+
+87
+00:02:43,670 --> 00:02:45,020
+contracting that<font color="#E5E5E5"> was happening and like</font>
+
+88
+00:02:45,020 --> 00:02:47,690
+and so it's and then obviously<font color="#CCCCCC"> through</font>
+
+89
+00:02:47,690 --> 00:02:49,370
+semiconductors and through software and
+
+90
+00:02:49,370 --> 00:02:50,480
+through biotech and<font color="#CCCCCC"> through the internet</font>
+
+91
+00:02:50,480 --> 00:02:52,010
+<font color="#CCCCCC">and all these other things</font><font color="#E5E5E5"> are happening</font>
+
+92
+00:02:52,010 --> 00:02:55,490
+<font color="#CCCCCC">now</font><font color="#E5E5E5"> mobile happening now</font><font color="#CCCCCC"> so it's it's</font>
+
+93
+00:02:55,490 --> 00:02:56,660
+very<font color="#CCCCCC"> deep in ingrained in the culture</font>
+
+94
+00:02:56,660 --> 00:02:59,120
+<font color="#CCCCCC">and if you go</font><font color="#E5E5E5"> anyplace else you you just</font>
+
+95
+00:02:59,120 --> 00:03:01,010
+as a professional really dedicated<font color="#E5E5E5"> to</font>
+
+96
+00:03:01,010 --> 00:03:03,400
+the field<font color="#CCCCCC"> it's just a drop-off</font><font color="#E5E5E5"> and</font>
+
+97
+00:03:03,400 --> 00:03:05,780
+people<font color="#CCCCCC"> it sound prejudicial I sound</font>
+
+98
+00:03:05,780 --> 00:03:07,430
+<font color="#E5E5E5">provincial when I say that but it's</font><font color="#CCCCCC"> just</font>
+
+99
+00:03:07,430 --> 00:03:09,170
+<font color="#E5E5E5">true well and what I hear</font><font color="#CCCCCC"> saying what</font>
+
+100
+00:03:09,170 --> 00:03:10,190
+I've heard<font color="#CCCCCC"> on a lot of other people</font>
+
+101
+00:03:10,190 --> 00:03:11,420
+saying just seems obvious is that
+
+102
+00:03:11,420 --> 00:03:13,400
+<font color="#E5E5E5">culture is so much a piece of it because</font>
+
+103
+00:03:13,400 --> 00:03:15,530
+<font color="#E5E5E5">you've got people</font><font color="#CCCCCC"> are used to taking</font><font color="#E5E5E5"> the</font>
+
+104
+00:03:15,530 --> 00:03:17,420
+leap that<font color="#CCCCCC"> you took there's this</font>
+
+105
+00:03:17,420 --> 00:03:19,250
+understanding<font color="#CCCCCC"> that you can start a</font>
+
+106
+00:03:19,250 --> 00:03:21,290
+<font color="#E5E5E5">company and</font><font color="#CCCCCC"> it can bomb and you can get</font>
+
+107
+00:03:21,290 --> 00:03:22,610
+right<font color="#E5E5E5"> up and go do</font><font color="#CCCCCC"> another one and</font>
+
+108
+00:03:22,610 --> 00:03:24,350
+that's<font color="#CCCCCC"> okay</font><font color="#E5E5E5"> your par for the course</font>
+
+109
+00:03:24,350 --> 00:03:26,180
+<font color="#E5E5E5">that I think certainly is missing in New</font>
+
+110
+00:03:26,180 --> 00:03:28,880
+York you spend you<font color="#E5E5E5"> leave an investment</font>
+
+111
+00:03:28,880 --> 00:03:30,410
+bank<font color="#CCCCCC"> to go start a software</font><font color="#E5E5E5"> company or</font>
+
+112
+00:03:30,410 --> 00:03:32,540
+<font color="#E5E5E5">start an</font><font color="#CCCCCC"> internet</font><font color="#E5E5E5"> media company you want</font>
+
+113
+00:03:32,540 --> 00:03:33,470
+<font color="#E5E5E5">to go back to Wall</font><font color="#CCCCCC"> Street you're</font><font color="#E5E5E5"> gonna</font>
+
+114
+00:03:33,470 --> 00:03:35,120
+spend<font color="#E5E5E5"> the next year explaining how</font><font color="#CCCCCC"> you</font>
+
+115
+00:03:35,120 --> 00:03:37,100
+ever could have<font color="#E5E5E5"> been so stupid to do it</font>
+
+116
+00:03:37,100 --> 00:03:38,180
+in the<font color="#E5E5E5"> first place where people</font>
+
+117
+00:03:38,180 --> 00:03:39,920
+understand that the one question<font color="#CCCCCC"> that I</font>
+
+118
+00:03:39,920 --> 00:03:41,269
+have<font color="#E5E5E5"> is do you</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> it's at all</font>
+
+119
+00:03:41,269 --> 00:03:43,190
+generational though<font color="#CCCCCC"> do</font><font color="#E5E5E5"> you think it now</font>
+
+120
+00:03:43,190 --> 00:03:45,350
+<font color="#E5E5E5">that New York for example</font><font color="#CCCCCC"> has double</font>
+
+121
+00:03:45,350 --> 00:03:47,330
+<font color="#CCCCCC">click they have Google spinning off</font>
+
+122
+00:03:47,330 --> 00:03:48,830
+people who are all starting<font color="#CCCCCC"> their own</font>
+
+123
+00:03:48,830 --> 00:03:51,260
+companies there's a<font color="#E5E5E5"> start-up venture</font>
+
+124
+00:03:51,260 --> 00:03:53,390
+<font color="#E5E5E5">capital community there now do you think</font>
+
+125
+00:03:53,390 --> 00:03:55,250
+<font color="#CCCCCC">it just takes time or do you think</font>
+
+126
+00:03:55,250 --> 00:03:56,660
+ultimately it's always gonna be the
+
+127
+00:03:56,660 --> 00:03:57,950
+valley and everybody else is<font color="#CCCCCC"> just</font><font color="#E5E5E5"> gonna</font>
+
+128
+00:03:57,950 --> 00:04:01,070
+<font color="#E5E5E5">be a</font><font color="#CCCCCC"> little satellite</font><font color="#E5E5E5"> so it's much</font>
+
+129
+00:04:01,070 --> 00:04:02,540
+better<font color="#E5E5E5"> than it was</font><font color="#CCCCCC"> so the prospects have</font>
+
+130
+00:04:02,540 --> 00:04:04,519
+never been better<font color="#CCCCCC"> and by the way that</font>
+
+131
+00:04:04,519 --> 00:04:06,080
+<font color="#CCCCCC">there actually i believe is a formula</font>
+
+132
+00:04:06,080 --> 00:04:08,209
+<font color="#E5E5E5">not that it's</font><font color="#CCCCCC"> easy to recreate but you</font>
+
+133
+00:04:08,209 --> 00:04:09,860
+need research universities you need
+
+134
+00:04:09,860 --> 00:04:11,090
+venture capital you need institutional
+
+135
+00:04:11,090 --> 00:04:12,260
+<font color="#E5E5E5">support in the form</font><font color="#CCCCCC"> of law firms</font>
+
+136
+00:04:12,260 --> 00:04:13,850
+<font color="#E5E5E5">accounting for most</font><font color="#CCCCCC"> things</font><font color="#E5E5E5"> investment</font>
+
+137
+00:04:13,850 --> 00:04:16,010
+banks things like that<font color="#CCCCCC"> you need</font>
+
+138
+00:04:16,010 --> 00:04:17,959
+<font color="#E5E5E5">entrepreneurs you need engineers you</font>
+
+139
+00:04:17,959 --> 00:04:19,130
+need executives you need marketing<font color="#E5E5E5"> a</font>
+
+140
+00:04:19,130 --> 00:04:21,410
+sales talent like there is an ecosystem
+
+141
+00:04:21,410 --> 00:04:23,419
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> you know</font><font color="#E5E5E5"> but certainly</font><font color="#CCCCCC"> New York has</font>
+
+142
+00:04:23,419 --> 00:04:24,560
+<font color="#CCCCCC">this version</font><font color="#E5E5E5"> of that Seattle has this</font>
+
+143
+00:04:24,560 --> 00:04:27,470
+version<font color="#E5E5E5"> of that but the</font><font color="#CCCCCC"> draw</font><font color="#E5E5E5"> is really</font>
+
+144
+00:04:27,470 --> 00:04:28,220
+<font color="#E5E5E5">really powerful</font>
+
+145
+00:04:28,220 --> 00:04:29,780
+I<font color="#E5E5E5"> mean Mark Zuckerberg</font><font color="#CCCCCC"> right you know</font>
+
+146
+00:04:29,780 --> 00:04:32,270
+<font color="#E5E5E5">drops out of Harvard you know even if</font>
+
+147
+00:04:32,270 --> 00:04:32,600
+<font color="#E5E5E5">you look</font>
+
+148
+00:04:32,600 --> 00:04:33,770
+what's<font color="#CCCCCC"> happening Boston in the last 20</font>
+
+149
+00:04:33,770 --> 00:04:35,600
+years<font color="#CCCCCC"> like</font><font color="#E5E5E5"> the valley the valley has</font>
+
+150
+00:04:35,600 --> 00:04:36,890
+absorbed a huge<font color="#E5E5E5"> amount of what Boston</font>
+
+151
+00:04:36,890 --> 00:04:38,480
+used to have<font color="#CCCCCC"> Marshall occur</font><font color="#E5E5E5"> Berg drops</font>
+
+152
+00:04:38,480 --> 00:04:40,250
+out<font color="#CCCCCC"> of Harvard in already lives in</font>
+
+153
+00:04:40,250 --> 00:04:40,730
+Boston
+
+154
+00:04:40,730 --> 00:04:42,980
+MOOCs<font color="#E5E5E5"> to Palo Alto</font><font color="#CCCCCC"> which was I mean</font><font color="#E5E5E5"> and</font>
+
+155
+00:04:42,980 --> 00:04:44,390
+<font color="#E5E5E5">like that was like the right thing</font><font color="#CCCCCC"> for</font>
+
+156
+00:04:44,390 --> 00:04:46,850
+him to<font color="#E5E5E5"> do</font><font color="#CCCCCC"> and so I always</font><font color="#E5E5E5"> try to put the</font>
+
+157
+00:04:46,850 --> 00:04:48,530
+shoe put put<font color="#CCCCCC"> the shoe</font><font color="#E5E5E5"> i do we just do</font>
+
+158
+00:04:48,530 --> 00:04:49,580
+this all the<font color="#E5E5E5"> time</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> entrepreneurs it</font>
+
+159
+00:04:49,580 --> 00:04:51,410
+drives me<font color="#E5E5E5"> crazy</font><font color="#CCCCCC"> because I'm like we know</font>
+
+160
+00:04:51,410 --> 00:04:52,760
+why are<font color="#E5E5E5"> you in Denver and they'll say</font>
+
+161
+00:04:52,760 --> 00:04:54,470
+well you<font color="#CCCCCC"> know blah blah this</font><font color="#E5E5E5"> new climate</font>
+
+162
+00:04:54,470 --> 00:04:55,970
+and people and there's not<font color="#E5E5E5"> so</font><font color="#CCCCCC"> much by</font>
+
+163
+00:04:55,970 --> 00:04:57,170
+<font color="#E5E5E5">the way that's much competition for</font>
+
+164
+00:04:57,170 --> 00:04:58,340
+people in<font color="#CCCCCC"> Denver right</font><font color="#E5E5E5"> cuz there's fewer</font>
+
+165
+00:04:58,340 --> 00:05:00,680
+startups<font color="#E5E5E5"> and I'm like well like do you</font>
+
+166
+00:05:00,680 --> 00:05:02,720
+want<font color="#E5E5E5"> to be best in the world right and</font>
+
+167
+00:05:02,720 --> 00:05:04,070
+they say yeah and say well then why
+
+168
+00:05:04,070 --> 00:05:05,840
+<font color="#CCCCCC">wouldn't you be where all</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> best</font><font color="#E5E5E5"> in</font>
+
+169
+00:05:05,840 --> 00:05:07,070
+the world companies are and<font color="#E5E5E5"> all the</font><font color="#CCCCCC"> best</font>
+
+170
+00:05:07,070 --> 00:05:08,450
+<font color="#E5E5E5">in the world</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> are and all the</font><font color="#CCCCCC"> best</font>
+
+171
+00:05:08,450 --> 00:05:09,830
+in the world sources<font color="#CCCCCC"> the capital are all</font>
+
+172
+00:05:09,830 --> 00:05:11,000
+the best of<font color="#E5E5E5"> the world lawyers are and</font>
+
+173
+00:05:11,000 --> 00:05:12,110
+all<font color="#E5E5E5"> the best in the world sales people</font>
+
+174
+00:05:12,110 --> 00:05:15,230
+are like why<font color="#E5E5E5"> why would you ever select</font>
+
+175
+00:05:15,230 --> 00:05:17,030
+<font color="#E5E5E5">anywhere else and you know</font><font color="#CCCCCC"> they'd that</font>
+
+176
+00:05:17,030 --> 00:05:19,610
+point they get frustrated<font color="#E5E5E5"> but I do it</font>
+
+177
+00:05:19,610 --> 00:00:00,000
+anyway
+

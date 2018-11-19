@@ -1,0 +1,888 @@
+1
+00:00:00,030 --> 00:00:03,000
+ice has been given permission<font color="#CCCCCC"> to utilize</font>
+
+2
+00:00:03,000 --> 00:00:05,520
+data that has been<font color="#E5E5E5"> collected by a</font>
+
+3
+00:00:05,520 --> 00:00:07,620
+company known as vigilant<font color="#E5E5E5"> solutions</font>
+
+4
+00:00:07,620 --> 00:00:10,860
+<font color="#E5E5E5">vigilant solutions is a company</font><font color="#CCCCCC"> that has</font>
+
+5
+00:00:10,860 --> 00:00:14,040
+collected<font color="#E5E5E5"> data on our license plates and</font>
+
+6
+00:00:14,040 --> 00:00:16,650
+they<font color="#CCCCCC"> have been tracking</font><font color="#E5E5E5"> each and every</font>
+
+7
+00:00:16,650 --> 00:00:19,140
+one of us and<font color="#CCCCCC"> that data is very valuable</font>
+
+8
+00:00:19,140 --> 00:00:21,960
+to<font color="#E5E5E5"> ice agents who want to really ramp up</font>
+
+9
+00:00:21,960 --> 00:00:25,680
+their efforts<font color="#CCCCCC"> in deporting</font><font color="#E5E5E5"> undocumented</font>
+
+10
+00:00:25,680 --> 00:00:27,449
+immigrants<font color="#E5E5E5"> now ice has officially gained</font>
+
+11
+00:00:27,449 --> 00:00:29,869
+<font color="#CCCCCC">agency-wide</font><font color="#E5E5E5"> access to a nationwide</font>
+
+12
+00:00:29,869 --> 00:00:32,969
+<font color="#CCCCCC">license-plate recognition</font><font color="#E5E5E5"> database so</font>
+
+13
+00:00:32,969 --> 00:00:35,610
+this impacts every single<font color="#E5E5E5"> one of us and</font>
+
+14
+00:00:35,610 --> 00:00:37,829
+the amount of information<font color="#E5E5E5"> they have</font><font color="#CCCCCC"> on</font>
+
+15
+00:00:37,829 --> 00:00:39,570
+us<font color="#E5E5E5"> because</font><font color="#CCCCCC"> of this</font><font color="#E5E5E5"> license plate</font>
+
+16
+00:00:39,570 --> 00:00:41,370
+tracking is really something<font color="#E5E5E5"> that</font>
+
+17
+00:00:41,370 --> 00:00:43,620
+concerns me<font color="#CCCCCC"> it gives the agency access</font>
+
+18
+00:00:43,620 --> 00:00:46,079
+to billions of license plate records and
+
+19
+00:00:46,079 --> 00:00:49,050
+new powers of real-time<font color="#E5E5E5"> location</font>
+
+20
+00:00:49,050 --> 00:00:51,690
+tracking<font color="#CCCCCC"> so to give you</font><font color="#E5E5E5"> an idea</font><font color="#CCCCCC"> of how</font>
+
+21
+00:00:51,690 --> 00:00:54,510
+<font color="#E5E5E5">much data there is on our whereabouts</font>
+
+22
+00:00:54,510 --> 00:00:56,910
+and on these license plates<font color="#CCCCCC"> vigilant</font>
+
+23
+00:00:56,910 --> 00:00:59,039
+solutions has amassed a<font color="#E5E5E5"> database</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> more</font>
+
+24
+00:00:59,039 --> 00:01:02,010
+than 2 billion<font color="#CCCCCC"> license-plate</font><font color="#E5E5E5"> photos by</font>
+
+25
+00:01:02,010 --> 00:01:04,470
+<font color="#E5E5E5">ingesting data</font><font color="#CCCCCC"> from partners like</font>
+
+26
+00:01:04,470 --> 00:01:06,869
+vehicle repossession agencies and other
+
+27
+00:01:06,869 --> 00:01:09,600
+private groups they've<font color="#CCCCCC"> also partnered up</font>
+
+28
+00:01:09,600 --> 00:01:11,580
+with<font color="#CCCCCC"> local law enforcement agencies</font>
+
+29
+00:01:11,580 --> 00:01:13,860
+often collecting even more data from
+
+30
+00:01:13,860 --> 00:01:17,580
+<font color="#CCCCCC">camera-equipped police cars</font><font color="#E5E5E5"> so to give</font>
+
+31
+00:01:17,580 --> 00:01:20,040
+<font color="#CCCCCC">you a sense</font><font color="#E5E5E5"> of how they would track us</font>
+
+32
+00:01:20,040 --> 00:01:21,930
+and how easily they could do so as a
+
+33
+00:01:21,930 --> 00:01:23,790
+result<font color="#E5E5E5"> of this new power that they've</font>
+
+34
+00:01:23,790 --> 00:01:25,920
+been given a historical search would
+
+35
+00:01:25,920 --> 00:01:28,320
+turn up<font color="#E5E5E5"> every place a given license</font>
+
+36
+00:01:28,320 --> 00:01:30,780
+plate has<font color="#E5E5E5"> been spotted in the last five</font>
+
+37
+00:01:30,780 --> 00:01:33,270
+years<font color="#CCCCCC"> a detailed record</font><font color="#E5E5E5"> of the</font><font color="#CCCCCC"> targets</font>
+
+38
+00:01:33,270 --> 00:01:35,970
+movements the data could<font color="#CCCCCC"> be used to</font><font color="#E5E5E5"> find</font>
+
+39
+00:01:35,970 --> 00:01:38,130
+a given subjects<font color="#E5E5E5"> residence or even</font>
+
+40
+00:01:38,130 --> 00:01:41,280
+identify associates<font color="#E5E5E5"> if a given car is</font>
+
+41
+00:01:41,280 --> 00:01:44,159
+regularly spotted in a specific parking
+
+42
+00:01:44,159 --> 00:01:44,640
+lot
+
+43
+00:01:44,640 --> 00:01:46,850
+also ice agents can receive
+
+44
+00:01:46,850 --> 00:01:48,930
+instantaneous email alerts<font color="#E5E5E5"> whenever a</font>
+
+45
+00:01:48,930 --> 00:01:50,549
+new<font color="#E5E5E5"> record of a particular plate is</font>
+
+46
+00:01:50,549 --> 00:01:53,729
+found a system known internally as a<font color="#CCCCCC"> hot</font>
+
+47
+00:01:53,729 --> 00:01:57,420
+<font color="#CCCCCC">list</font><font color="#E5E5E5"> mmm clever name yeah just two</font>
+
+48
+00:01:57,420 --> 00:01:59,250
+<font color="#E5E5E5">things jump out about this one I always</font>
+
+49
+00:01:59,250 --> 00:02:01,770
+<font color="#CCCCCC">like to focus</font><font color="#E5E5E5"> on the whole like amazing</font>
+
+50
+00:02:01,770 --> 00:02:03,240
+infrastructure<font color="#E5E5E5"> going back to the</font><font color="#CCCCCC"> Bush</font>
+
+51
+00:02:03,240 --> 00:02:04,590
+<font color="#E5E5E5">administration of all the private</font>
+
+52
+00:02:04,590 --> 00:02:06,960
+companies<font color="#E5E5E5"> that it's like a self licking</font>
+
+53
+00:02:06,960 --> 00:02:09,209
+ice cream cone that's<font color="#E5E5E5"> another reason why</font>
+
+54
+00:02:09,209 --> 00:02:11,008
+certain tech types actually<font color="#E5E5E5"> we're</font>
+
+55
+00:02:11,008 --> 00:02:12,210
+interested in Trump there's a
+
+56
+00:02:12,210 --> 00:02:14,040
+ton of money to<font color="#CCCCCC"> be made in contracts</font>
+
+57
+00:02:14,040 --> 00:02:15,900
+<font color="#CCCCCC">really distracting people</font><font color="#E5E5E5"> but I mean</font>
+
+58
+00:02:15,900 --> 00:02:18,870
+<font color="#E5E5E5">beyond escalating this sort of vicious</font>
+
+59
+00:02:18,870 --> 00:02:20,970
+<font color="#E5E5E5">attack on immigrants you've had</font>
+
+60
+00:02:20,970 --> 00:02:23,700
+administration officials float even<font color="#E5E5E5"> you</font>
+
+61
+00:02:23,700 --> 00:02:25,560
+know looking at politicians<font color="#E5E5E5"> and</font>
+
+62
+00:02:25,560 --> 00:02:27,420
+sanctuary cities that aren't enforcing
+
+63
+00:02:27,420 --> 00:02:30,300
+these laws supposedly church groups are
+
+64
+00:02:30,300 --> 00:02:32,400
+being<font color="#E5E5E5"> monitored so when you talk</font><font color="#CCCCCC"> about</font>
+
+65
+00:02:32,400 --> 00:02:35,270
+the jump from how can this type of
+
+66
+00:02:35,270 --> 00:02:37,620
+massive invasion<font color="#E5E5E5"> of all of our civil</font>
+
+67
+00:02:37,620 --> 00:02:39,180
+liberties<font color="#CCCCCC"> we'll start to translate</font>
+
+68
+00:02:39,180 --> 00:02:41,340
+beyond the abuse of immigrants<font color="#E5E5E5"> it's</font>
+
+69
+00:02:41,340 --> 00:02:43,890
+going to go<font color="#E5E5E5"> to civil society that's</font>
+
+70
+00:02:43,890 --> 00:02:45,600
+trying to<font color="#E5E5E5"> protect people's rights and</font>
+
+71
+00:02:45,600 --> 00:02:47,520
+you're gonna see that<font color="#CCCCCC"> bridge immediately</font>
+
+72
+00:02:47,520 --> 00:02:49,320
+and it will<font color="#E5E5E5"> also be</font><font color="#CCCCCC"> a self</font><font color="#E5E5E5"> licking ice</font>
+
+73
+00:02:49,320 --> 00:02:51,090
+cream cone<font color="#E5E5E5"> so that even if these things</font>
+
+74
+00:02:51,090 --> 00:02:53,340
+are reformed<font color="#E5E5E5"> these companies are gonna</font>
+
+75
+00:02:53,340 --> 00:02:54,750
+<font color="#CCCCCC">have a whole new</font><font color="#E5E5E5"> gravy train of</font>
+
+76
+00:02:54,750 --> 00:02:55,980
+contracts<font color="#E5E5E5"> that came out of</font><font color="#CCCCCC"> the bush</font>
+
+77
+00:02:55,980 --> 00:02:57,810
+administration<font color="#CCCCCC"> with private contractors</font>
+
+78
+00:02:57,810 --> 00:03:01,650
+and forces in Afghanistan and<font color="#E5E5E5"> Iraq</font><font color="#CCCCCC"> so</font>
+
+79
+00:03:01,650 --> 00:03:04,590
+here's a fun prediction<font color="#CCCCCC"> almost guarantee</font>
+
+80
+00:03:04,590 --> 00:03:06,060
+that<font color="#E5E5E5"> they will track people go into</font>
+
+81
+00:03:06,060 --> 00:03:07,590
+<font color="#CCCCCC">certain churches</font><font color="#E5E5E5"> because certain</font>
+
+82
+00:03:07,590 --> 00:03:09,600
+<font color="#CCCCCC">churches will be</font><font color="#E5E5E5"> hiding undocumented</font>
+
+83
+00:03:09,600 --> 00:03:12,120
+immigrants because Joel<font color="#E5E5E5"> Osteen's</font>
+
+84
+00:03:12,120 --> 00:03:14,610
+probably<font color="#E5E5E5"> okay</font><font color="#CCCCCC"> yeah because the immigrant</font>
+
+85
+00:03:14,610 --> 00:03:16,920
+hunters are<font color="#CCCCCC"> coming but</font><font color="#E5E5E5"> no that goes</font>
+
+86
+00:03:16,920 --> 00:03:19,140
+exactly to<font color="#E5E5E5"> my point and my</font><font color="#CCCCCC"> prediction is</font>
+
+87
+00:03:19,140 --> 00:03:21,360
+<font color="#E5E5E5">that the right wing won't even care that</font>
+
+88
+00:03:21,360 --> 00:03:23,880
+<font color="#CCCCCC">they're tracking churches nope that you</font>
+
+89
+00:03:23,880 --> 00:03:25,590
+know for like<font color="#E5E5E5"> hey it was one thing when</font>
+
+90
+00:03:25,590 --> 00:03:27,090
+<font color="#E5E5E5">they were trying</font><font color="#CCCCCC"> mosques and their</font>
+
+91
+00:03:27,090 --> 00:03:28,650
+people<font color="#E5E5E5"> were</font><font color="#CCCCCC"> right-wing</font><font color="#E5E5E5"> was ecstatic</font>
+
+92
+00:03:28,650 --> 00:03:31,050
+<font color="#CCCCCC">about those are terrorists yeah now when</font>
+
+93
+00:03:31,050 --> 00:03:32,520
+it<font color="#E5E5E5"> comes</font><font color="#CCCCCC"> to churches they're they're</font>
+
+94
+00:03:32,520 --> 00:03:34,590
+<font color="#E5E5E5">tracking which churches you've got to</font>
+
+95
+00:03:34,590 --> 00:03:36,390
+they still won't care<font color="#CCCCCC"> because they'll</font>
+
+96
+00:03:36,390 --> 00:03:38,700
+<font color="#CCCCCC">think those are Latino churches or</font>
+
+97
+00:03:38,700 --> 00:03:41,490
+churches<font color="#E5E5E5"> that support Latinos right it's</font>
+
+98
+00:03:41,490 --> 00:03:43,020
+not<font color="#E5E5E5"> gonna</font><font color="#CCCCCC"> go I'm going</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> Joel Osteen</font>
+
+99
+00:03:43,020 --> 00:03:44,790
+<font color="#E5E5E5">there nobody's tracking that I'm I'm</font>
+
+100
+00:03:44,790 --> 00:03:47,880
+going<font color="#E5E5E5"> to</font><font color="#CCCCCC"> Copeland I'm going to people</font>
+
+101
+00:03:47,880 --> 00:03:49,830
+who I'm<font color="#E5E5E5"> giving money to so they can buy</font>
+
+102
+00:03:49,830 --> 00:03:51,510
+<font color="#E5E5E5">jets I'm going to the prosperity</font><font color="#CCCCCC"> gospel</font>
+
+103
+00:03:51,510 --> 00:03:53,760
+guys<font color="#E5E5E5"> I'm an idiot nobody needs to track</font>
+
+104
+00:03:53,760 --> 00:03:58,200
+this is the<font color="#CCCCCC"> federal government this is</font>
+
+105
+00:03:58,200 --> 00:04:00,330
+<font color="#E5E5E5">the federal government not just tracking</font>
+
+106
+00:04:00,330 --> 00:04:02,160
+undocumented immigrant<font color="#CCCCCC"> they're</font><font color="#E5E5E5"> tracking</font>
+
+107
+00:04:02,160 --> 00:04:05,250
+all<font color="#CCCCCC"> of us</font><font color="#E5E5E5"> they have all this data on</font>
+
+108
+00:04:05,250 --> 00:04:08,850
+where we<font color="#E5E5E5"> are who we associate with where</font>
+
+109
+00:04:08,850 --> 00:04:12,150
+we work where<font color="#CCCCCC"> we hang out</font><font color="#E5E5E5"> they have all</font>
+
+110
+00:04:12,150 --> 00:04:14,280
+this data<font color="#E5E5E5"> on us this is the</font><font color="#CCCCCC"> definition</font>
+
+111
+00:04:14,280 --> 00:04:16,649
+of big<font color="#CCCCCC"> government big brother is</font>
+
+112
+00:04:16,649 --> 00:04:18,988
+watching<font color="#CCCCCC"> us</font><font color="#E5E5E5"> and this is I mean this is</font>
+
+113
+00:04:18,988 --> 00:04:20,399
+part and<font color="#E5E5E5"> parcel</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> what</font><font color="#CCCCCC"> this country has</font>
+
+114
+00:04:20,399 --> 00:04:22,650
+become right you have politicians who
+
+115
+00:04:22,650 --> 00:04:25,140
+<font color="#E5E5E5">fear monger about disenfranchised groups</font>
+
+116
+00:04:25,140 --> 00:04:25,570
+or
+
+117
+00:04:25,570 --> 00:04:27,580
+politicians who<font color="#E5E5E5"> fear monger about the</font>
+
+118
+00:04:27,580 --> 00:04:29,770
+others those big scary others<font color="#E5E5E5"> so then</font>
+
+119
+00:04:29,770 --> 00:04:32,110
+everybody<font color="#E5E5E5"> is so scared</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> they give</font>
+
+120
+00:04:32,110 --> 00:04:34,570
+away any and all privacy<font color="#E5E5E5"> any and all</font>
+
+121
+00:04:34,570 --> 00:04:36,370
+<font color="#E5E5E5">freedom that they have because they're</font>
+
+122
+00:04:36,370 --> 00:04:38,650
+you know<font color="#E5E5E5"> peeing in their pants</font><font color="#CCCCCC"> over</font>
+
+123
+00:04:38,650 --> 00:04:41,830
+<font color="#E5E5E5">honestly non threats and yeah and and</font>
+
+124
+00:04:41,830 --> 00:04:43,600
+and and and<font color="#CCCCCC"> to</font><font color="#E5E5E5"> this point is where the</font>
+
+125
+00:04:43,600 --> 00:04:46,900
+<font color="#CCCCCC">Obama critics are dead on</font><font color="#E5E5E5"> because of</font>
+
+126
+00:04:46,900 --> 00:04:48,580
+course right he<font color="#E5E5E5"> expanded the</font>
+
+127
+00:04:48,580 --> 00:04:50,500
+<font color="#E5E5E5">surveillance</font><font color="#CCCCCC"> they</font><font color="#E5E5E5"> expanded the George W</font>
+
+128
+00:04:50,500 --> 00:04:53,020
+<font color="#E5E5E5">Bush survey highlighted and codified it</font>
+
+129
+00:04:53,020 --> 00:04:55,870
+and yeah<font color="#CCCCCC"> I it's okay I</font><font color="#E5E5E5"> can I would</font><font color="#CCCCCC"> be</font>
+
+130
+00:04:55,870 --> 00:04:57,610
+<font color="#CCCCCC">able to live with</font><font color="#E5E5E5"> it maybe I'm a</font>
+
+131
+00:04:57,610 --> 00:04:59,080
+hypocrite<font color="#CCCCCC"> well I'm definitely ever</font><font color="#E5E5E5"> crypt</font>
+
+132
+00:04:59,080 --> 00:05:00,880
+but I would be<font color="#CCCCCC"> able</font><font color="#E5E5E5"> to live with it</font><font color="#CCCCCC"> if I</font>
+
+133
+00:05:00,880 --> 00:05:03,010
+knew<font color="#E5E5E5"> that for the rest of time the Obama</font>
+
+134
+00:05:03,010 --> 00:05:04,780
+<font color="#CCCCCC">guys were gonna run it</font><font color="#E5E5E5"> but that of</font>
+
+135
+00:05:04,780 --> 00:05:06,340
+course<font color="#E5E5E5"> will never happen and of course</font>
+
+136
+00:05:06,340 --> 00:05:08,230
+then look what<font color="#E5E5E5"> happened look who gets in</font>
+
+137
+00:05:08,230 --> 00:05:10,510
+charge of it<font color="#E5E5E5"> and that's why hopefully if</font>
+
+138
+00:05:10,510 --> 00:05:12,430
+there ever is a vaguely progressive
+
+139
+00:05:12,430 --> 00:05:14,110
+person<font color="#CCCCCC"> running for office</font><font color="#E5E5E5"> they'll say</font>
+
+140
+00:05:14,110 --> 00:05:16,180
+the words<font color="#E5E5E5"> one</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the things I'm gonna do</font>
+
+141
+00:05:16,180 --> 00:05:17,860
+in my<font color="#E5E5E5"> first hundred days is massively</font>
+
+142
+00:05:17,860 --> 00:05:19,660
+<font color="#E5E5E5">rollback</font><font color="#CCCCCC"> the surveillance then</font><font color="#E5E5E5"> just and</font>
+
+143
+00:05:19,660 --> 00:05:21,550
+it's big government<font color="#CCCCCC"> a</font><font color="#E5E5E5"> big corporate it's</font>
+
+144
+00:05:21,550 --> 00:05:23,920
+a hybridization yeah and it's a<font color="#CCCCCC"> really</font>
+
+145
+00:05:23,920 --> 00:05:25,420
+into<font color="#E5E5E5"> jet point they'll come after the</font>
+
+146
+00:05:25,420 --> 00:05:28,000
+politician who<font color="#E5E5E5"> says that</font><font color="#CCCCCC"> absolutely will</font>
+
+147
+00:05:28,000 --> 00:05:29,770
+<font color="#E5E5E5">and I</font><font color="#CCCCCC"> think that when I was debating</font>
+
+148
+00:05:29,770 --> 00:05:32,020
+<font color="#E5E5E5">people like a couple years</font><font color="#CCCCCC"> ago</font><font color="#E5E5E5"> saying</font>
+
+149
+00:05:32,020 --> 00:05:34,270
+Obama does all<font color="#CCCCCC"> of these programs so it's</font>
+
+150
+00:05:34,270 --> 00:05:34,780
+fine
+
+151
+00:05:34,780 --> 00:05:36,610
+I would say<font color="#E5E5E5"> okay I don't agree with that</font>
+
+152
+00:05:36,610 --> 00:05:38,440
+<font color="#E5E5E5">but let's take your premise and I would</font>
+
+153
+00:05:38,440 --> 00:05:39,910
+try to think<font color="#E5E5E5"> of the most insane person</font>
+
+154
+00:05:39,910 --> 00:05:41,110
+that could<font color="#E5E5E5"> be elected president</font><font color="#CCCCCC"> and I</font>
+
+155
+00:05:41,110 --> 00:05:42,880
+<font color="#CCCCCC">didn't quite</font><font color="#E5E5E5"> quite you didn't come close</font>
+
+156
+00:05:42,880 --> 00:05:46,570
+enough<font color="#E5E5E5"> so well let's expand about first</font>
+
+157
+00:05:46,570 --> 00:05:47,740
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> all just so you know the reason</font>
+
+158
+00:05:47,740 --> 00:05:49,360
+<font color="#E5E5E5">they're saying it's</font><font color="#CCCCCC"> agency wide is</font>
+
+159
+00:05:49,360 --> 00:05:51,730
+because the<font color="#CCCCCC"> Obama administration had</font>
+
+160
+00:05:51,730 --> 00:05:53,650
+some portions<font color="#E5E5E5"> of ice already apply this</font>
+
+161
+00:05:53,650 --> 00:05:55,600
+<font color="#E5E5E5">yeah so they were already doing this to</font>
+
+162
+00:05:55,600 --> 00:05:57,790
+some degree<font color="#CCCCCC"> and real progressives like</font>
+
+163
+00:05:57,790 --> 00:06:00,640
+us<font color="#E5E5E5"> hated</font><font color="#CCCCCC"> it back then and and now</font>
+
+164
+00:06:00,640 --> 00:06:02,910
+they've made it for the entirety<font color="#CCCCCC"> of ice</font>
+
+165
+00:06:02,910 --> 00:06:05,860
+<font color="#E5E5E5">and and by the way Obama thought about</font>
+
+166
+00:06:05,860 --> 00:06:07,750
+making<font color="#CCCCCC"> it for the</font><font color="#E5E5E5"> entirety of ice but he</font>
+
+167
+00:06:07,750 --> 00:06:09,820
+got a ton of pushback<font color="#E5E5E5"> so he's like okay</font>
+
+168
+00:06:09,820 --> 00:06:12,280
+some parts<font color="#CCCCCC"> value of who you have at the</font>
+
+169
+00:06:12,280 --> 00:06:13,660
+table<font color="#CCCCCC"> like it turns out of course</font><font color="#E5E5E5"> that</font>
+
+170
+00:06:13,660 --> 00:06:14,830
+<font color="#E5E5E5">matters but again we're never gonna</font>
+
+171
+00:06:14,830 --> 00:06:17,590
+we're not<font color="#E5E5E5"> gonna have</font><font color="#CCCCCC"> 48 straight</font><font color="#E5E5E5"> years</font>
+
+172
+00:06:17,590 --> 00:06:20,800
+of responsible<font color="#E5E5E5"> people</font><font color="#CCCCCC"> at least</font><font color="#E5E5E5"> getting a</font>
+
+173
+00:06:20,800 --> 00:06:22,540
+seat at<font color="#E5E5E5"> the table value if we could push</font>
+
+174
+00:06:22,540 --> 00:06:25,840
+<font color="#E5E5E5">yeah and this is</font><font color="#CCCCCC"> the main warning we had</font>
+
+175
+00:06:25,840 --> 00:06:27,520
+when Obama was doing<font color="#E5E5E5"> all this stuff</font>
+
+176
+00:06:27,520 --> 00:06:29,290
+don't open<font color="#E5E5E5"> the door</font><font color="#CCCCCC"> you don't</font><font color="#E5E5E5"> know who</font>
+
+177
+00:06:29,290 --> 00:06:31,390
+comes next but he kept opening<font color="#E5E5E5"> one door</font>
+
+178
+00:06:31,390 --> 00:06:33,490
+after another<font color="#CCCCCC"> after another</font><font color="#E5E5E5"> that was</font><font color="#CCCCCC"> a</font>
+
+179
+00:06:33,490 --> 00:06:35,860
+terrible idea<font color="#CCCCCC"> and including invasions of</font>
+
+180
+00:06:35,860 --> 00:06:37,729
+privacy drone strikes etc
+
+181
+00:06:37,729 --> 00:06:40,699
+so now to the Republicans are<font color="#CCCCCC"> right-wing</font>
+
+182
+00:06:40,699 --> 00:06:43,249
+<font color="#E5E5E5">out there you don't want</font><font color="#CCCCCC"> them</font><font color="#E5E5E5"> tracking</font>
+
+183
+00:06:43,249 --> 00:06:46,639
+your guns<font color="#CCCCCC"> you go nuts over that</font><font color="#E5E5E5"> by the</font>
+
+184
+00:06:46,639 --> 00:06:48,979
+way<font color="#E5E5E5"> if they're tracking your cars</font><font color="#CCCCCC"> and</font>
+
+185
+00:06:48,979 --> 00:06:50,719
+<font color="#E5E5E5">that means they know where your</font>
+
+186
+00:06:50,719 --> 00:06:52,550
+residences<font color="#CCCCCC"> that means they know where</font>
+
+187
+00:06:52,550 --> 00:06:56,839
+your guns are<font color="#E5E5E5"> sometimes you have your</font>
+
+188
+00:06:56,839 --> 00:06:58,669
+<font color="#E5E5E5">guns in</font><font color="#CCCCCC"> your car they know where they</font>
+
+189
+00:06:58,669 --> 00:07:00,589
+are<font color="#E5E5E5"> apparently you don't care about</font>
+
+190
+00:07:00,589 --> 00:07:03,020
+<font color="#E5E5E5">yourself or your family so I'm trying to</font>
+
+191
+00:07:03,020 --> 00:07:03,439
+get<font color="#E5E5E5"> it</font>
+
+192
+00:07:03,439 --> 00:07:04,909
+you to care<font color="#CCCCCC"> about the one thing</font><font color="#E5E5E5"> you care</font>
+
+193
+00:07:04,909 --> 00:07:06,979
+<font color="#E5E5E5">about guns</font><font color="#CCCCCC"> so they</font><font color="#E5E5E5"> could also track</font><font color="#CCCCCC"> your</font>
+
+194
+00:07:06,979 --> 00:07:09,469
+guns<font color="#E5E5E5"> this way in a sense and then what</font>
+
+195
+00:07:09,469 --> 00:07:10,879
+happened to the lunatic right wing which
+
+196
+00:07:10,879 --> 00:07:12,229
+<font color="#CCCCCC">is a significant percentage of the right</font>
+
+197
+00:07:12,229 --> 00:07:14,029
+wing<font color="#CCCCCC"> you thought there was gonna</font><font color="#E5E5E5"> be FEMA</font>
+
+198
+00:07:14,029 --> 00:07:16,759
+camps<font color="#E5E5E5"> under Obama hey oh my</font><font color="#CCCCCC"> god they're</font>
+
+199
+00:07:16,759 --> 00:07:19,490
+gonna put us<font color="#CCCCCC"> in FEMA camps</font><font color="#E5E5E5"> so let's not</font>
+
+200
+00:07:19,490 --> 00:07:21,050
+reverse<font color="#E5E5E5"> the argument we've been</font><font color="#CCCCCC"> making</font>
+
+201
+00:07:21,050 --> 00:07:22,789
+you think<font color="#E5E5E5"> Trump is a benign dictator I</font>
+
+202
+00:07:22,789 --> 00:07:25,129
+mean<font color="#CCCCCC"> president</font><font color="#E5E5E5"> and so you think no him</font>
+
+203
+00:07:25,129 --> 00:07:26,809
+spying on all of us not<font color="#CCCCCC"> just the</font>
+
+204
+00:07:26,809 --> 00:07:28,399
+immigrants<font color="#E5E5E5"> they're collecting all</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> our</font>
+
+205
+00:07:28,399 --> 00:07:30,620
+license plates right<font color="#E5E5E5"> and they know which</font>
+
+206
+00:07:30,620 --> 00:07:32,539
+parking lot you're going<font color="#E5E5E5"> to think about</font>
+
+207
+00:07:32,539 --> 00:07:34,460
+the<font color="#E5E5E5"> part we have our next Muslim</font>
+
+208
+00:07:34,460 --> 00:07:35,930
+president<font color="#E5E5E5"> right no that's where I'm</font>
+
+209
+00:07:35,930 --> 00:07:37,370
+<font color="#E5E5E5">going this thing</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> the parking lots</font>
+
+210
+00:07:37,370 --> 00:07:40,039
+you've been in right wing guys think
+
+211
+00:07:40,039 --> 00:07:41,749
+about<font color="#E5E5E5"> the</font><font color="#CCCCCC"> places that</font><font color="#E5E5E5"> you have</font><font color="#CCCCCC"> gone to</font>
+
+212
+00:07:41,749 --> 00:07:44,209
+so what happens when a progressive
+
+213
+00:07:44,209 --> 00:07:45,649
+president<font color="#E5E5E5"> comes in and you and your</font>
+
+214
+00:07:45,649 --> 00:07:46,849
+lunatic might think that<font color="#E5E5E5"> they're gonna</font>
+
+215
+00:07:46,849 --> 00:07:48,889
+set up FEMA camps right<font color="#E5E5E5"> it will have all</font>
+
+216
+00:07:48,889 --> 00:07:51,560
+of<font color="#E5E5E5"> your information</font><font color="#CCCCCC"> right then they</font>
+
+217
+00:07:51,560 --> 00:07:53,479
+could use<font color="#CCCCCC"> it against you</font><font color="#E5E5E5"> if you become a</font>
+
+218
+00:07:53,479 --> 00:07:55,099
+member<font color="#CCCCCC"> of the</font><font color="#E5E5E5"> Young</font><font color="#CCCCCC"> Turks</font><font color="#E5E5E5"> you'll be</font>
+
+219
+00:07:55,099 --> 00:07:56,539
+saying you know I'm like a smart<font color="#E5E5E5"> person</font>
+
+220
+00:07:56,539 --> 00:07:59,029
+so do it right now ey tea network.com
+
+221
+00:07:59,029 --> 00:08:02,149
+slash join get the whole<font color="#CCCCCC"> younger so</font>
+
+222
+00:08:02,149 --> 00:00:00,000
+<font color="#E5E5E5">every day</font>
+

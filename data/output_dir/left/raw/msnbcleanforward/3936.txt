@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:01,920
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+2
+00:00:01,920 --> 00:00:03,870
+Washington<font color="#CCCCCC"> with a look at</font><font color="#E5E5E5"> Axios am the</font>
+
+3
+00:00:03,870 --> 00:00:06,000
+co-founder of<font color="#CCCCCC"> Axios</font><font color="#E5E5E5"> Mike Allen Mike good</font>
+
+4
+00:00:06,000 --> 00:00:07,350
+<font color="#CCCCCC">morning to you</font><font color="#E5E5E5"> good to talk</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> you</font>
+
+5
+00:00:07,350 --> 00:00:09,719
+<font color="#E5E5E5">talking about what</font><font color="#CCCCCC"> axis is a one big</font>
+
+6
+00:00:09,719 --> 00:00:11,940
+thing is<font color="#E5E5E5"> this morning yeah well good</font>
+
+7
+00:00:11,940 --> 00:00:14,370
+Monday<font color="#E5E5E5"> morning</font><font color="#CCCCCC"> as we start Earth Week</font>
+
+8
+00:00:14,370 --> 00:00:17,119
+and<font color="#CCCCCC"> access</font><font color="#E5E5E5"> is one big thing is</font>
+
+9
+00:00:17,119 --> 00:00:19,890
+<font color="#CCCCCC">counter-programming</font><font color="#E5E5E5"> the Trump show so</font>
+
+10
+00:00:19,890 --> 00:00:22,350
+the Trump show finally has<font color="#E5E5E5"> competition</font>
+
+11
+00:00:22,350 --> 00:00:24,449
+for<font color="#CCCCCC"> airtime</font><font color="#E5E5E5"> this is of course from James</font>
+
+12
+00:00:24,449 --> 00:00:28,349
+Comey who has<font color="#E5E5E5"> begun his</font><font color="#CCCCCC"> five-week book</font>
+
+13
+00:00:28,349 --> 00:00:30,570
+an interview tour<font color="#CCCCCC"> as he goes</font>
+
+14
+00:00:30,570 --> 00:00:31,439
+<font color="#CCCCCC">coast-to-coast</font>
+
+15
+00:00:31,439 --> 00:00:33,600
+to talk about<font color="#E5E5E5"> his</font><font color="#CCCCCC"> book which is finally</font>
+
+16
+00:00:33,600 --> 00:00:35,430
+<font color="#E5E5E5">out tomorrow even though it's driven</font>
+
+17
+00:00:35,430 --> 00:00:38,670
+news<font color="#E5E5E5"> for days and two of the interviews</font>
+
+18
+00:00:38,670 --> 00:00:41,820
+that<font color="#CCCCCC"> are out with the fired FBI director</font>
+
+19
+00:00:41,820 --> 00:00:43,440
+they show what's coming in almost
+
+20
+00:00:43,440 --> 00:00:46,200
+<font color="#E5E5E5">identical words in the two interviews he</font>
+
+21
+00:00:46,200 --> 00:00:48,120
+talks about<font color="#E5E5E5"> why the president is morally</font>
+
+22
+00:00:48,120 --> 00:00:50,280
+unfit<font color="#E5E5E5"> for president so why is that</font>
+
+23
+00:00:50,280 --> 00:00:54,000
+important why that<font color="#CCCCCC"> matters is that</font><font color="#E5E5E5"> James</font>
+
+24
+00:00:54,000 --> 00:00:56,129
+Comey is gonna have the discipline<font color="#E5E5E5"> of a</font>
+
+25
+00:00:56,129 --> 00:00:58,079
+political candidate<font color="#E5E5E5"> as he goes off</font><font color="#CCCCCC"> on</font>
+
+26
+00:00:58,079 --> 00:01:00,840
+<font color="#E5E5E5">this trip he's owned a message and he's</font>
+
+27
+00:01:00,840 --> 00:01:03,090
+gonna repeat it again and<font color="#CCCCCC"> again</font><font color="#E5E5E5"> so what</font>
+
+28
+00:01:03,090 --> 00:01:05,369
+kind of<font color="#E5E5E5"> what</font><font color="#CCCCCC"> kind of reaction like</font><font color="#E5E5E5"> are</font>
+
+29
+00:01:05,369 --> 00:01:07,049
+you and<font color="#E5E5E5"> your</font><font color="#CCCCCC"> Axios colleagues hearing</font>
+
+30
+00:01:07,049 --> 00:01:09,479
+about<font color="#CCCCCC"> Kobe's interview last</font><font color="#E5E5E5"> night and</font>
+
+31
+00:01:09,479 --> 00:01:11,250
+more people thinking<font color="#E5E5E5"> is more believable</font>
+
+32
+00:01:11,250 --> 00:01:13,890
+here<font color="#E5E5E5"> president Trump or Jim Comey well</font>
+
+33
+00:01:13,890 --> 00:01:16,470
+as your viewers saw the president
+
+34
+00:01:16,470 --> 00:01:19,860
+yesterday<font color="#E5E5E5"> we did five times about James</font>
+
+35
+00:01:19,860 --> 00:01:22,140
+Comey<font color="#E5E5E5"> one for each</font><font color="#CCCCCC"> of the</font><font color="#E5E5E5"> weeks</font><font color="#CCCCCC"> that</font>
+
+36
+00:01:22,140 --> 00:01:23,909
+he's going<font color="#E5E5E5"> to be out on his book</font><font color="#CCCCCC"> tour at</font>
+
+37
+00:01:23,909 --> 00:01:26,340
+<font color="#E5E5E5">the top of it Axios this morning we have</font>
+
+38
+00:01:26,340 --> 00:01:30,750
+a great drawing of cranium of President
+
+39
+00:01:30,750 --> 00:01:32,340
+Trump and in<font color="#E5E5E5"> it our lots of little</font>
+
+40
+00:01:32,340 --> 00:01:34,740
+<font color="#CCCCCC">commis because kobe definitely is living</font>
+
+41
+00:01:34,740 --> 00:01:36,180
+in the<font color="#CCCCCC"> president's head at the moment</font>
+
+42
+00:01:36,180 --> 00:01:39,509
+<font color="#CCCCCC">but keep</font><font color="#E5E5E5"> your eye on the ball and</font><font color="#CCCCCC"> what</font>
+
+43
+00:01:39,509 --> 00:01:41,369
+matters<font color="#E5E5E5"> much</font><font color="#CCCCCC"> more than what James Comey</font>
+
+44
+00:01:41,369 --> 00:01:44,250
+<font color="#E5E5E5">is saying is what Robert</font><font color="#CCCCCC"> Muller's up to</font>
+
+45
+00:01:44,250 --> 00:01:46,860
+and perhaps<font color="#E5E5E5"> even more what the New York</font>
+
+46
+00:01:46,860 --> 00:01:49,320
+feds are up<font color="#CCCCCC"> to</font><font color="#E5E5E5"> White House officials</font>
+
+47
+00:01:49,320 --> 00:01:51,149
+tell<font color="#CCCCCC"> us that that</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> what President</font>
+
+48
+00:01:51,149 --> 00:01:54,210
+<font color="#E5E5E5">Trump is worried</font><font color="#CCCCCC"> about he may vent</font><font color="#E5E5E5"> about</font>
+
+49
+00:01:54,210 --> 00:01:56,700
+James Comey<font color="#E5E5E5"> but what really has umbral</font>
+
+50
+00:01:56,700 --> 00:01:58,920
+is these twin investigations are we
+
+51
+00:01:58,920 --> 00:02:00,299
+hearing<font color="#E5E5E5"> it all the fact</font><font color="#CCCCCC"> that the Comey</font>
+
+52
+00:02:00,299 --> 00:02:01,920
+interview in the<font color="#CCCCCC"> coming book could could</font>
+
+53
+00:02:01,920 --> 00:02:03,950
+it<font color="#E5E5E5"> all affect the</font><font color="#CCCCCC"> Malheur investigation</font>
+
+54
+00:02:03,950 --> 00:02:07,950
+so<font color="#E5E5E5"> Comey already has affected the</font><font color="#CCCCCC"> Moller</font>
+
+55
+00:02:07,950 --> 00:02:10,619
+investigation that is the memo<font color="#CCCCCC"> that he</font>
+
+56
+00:02:10,619 --> 00:02:12,750
+wrote after<font color="#E5E5E5"> his</font>
+
+57
+00:02:12,750 --> 00:02:14,130
+important meeting with<font color="#CCCCCC"> the</font><font color="#E5E5E5"> president</font>
+
+58
+00:02:14,130 --> 00:02:15,660
+where the president asked him for
+
+59
+00:02:15,660 --> 00:02:18,690
+<font color="#E5E5E5">loyalty that very vivid right almost a</font>
+
+60
+00:02:18,690 --> 00:02:21,690
+novel<font color="#CCCCCC"> ask memo that gave us</font><font color="#E5E5E5"> into the</font>
+
+61
+00:02:21,690 --> 00:02:23,520
+book to come that's important<font color="#E5E5E5"> his</font>
+
+62
+00:02:23,520 --> 00:02:25,560
+testimony is important<font color="#CCCCCC"> robert muller</font>
+
+63
+00:02:25,560 --> 00:02:27,900
+doesn't have the flair<font color="#CCCCCC"> for the dramatic</font>
+
+64
+00:02:27,900 --> 00:02:30,030
+that James Comey<font color="#CCCCCC"> has and he'll stick to</font>
+
+65
+00:02:30,030 --> 00:02:32,520
+facts<font color="#E5E5E5"> so what's more important than</font>
+
+66
+00:02:32,520 --> 00:02:35,070
+what's James Comey saying now<font color="#E5E5E5"> is what he</font>
+
+67
+00:02:35,070 --> 00:02:37,200
+left behind<font color="#CCCCCC"> in the form of</font><font color="#E5E5E5"> that memo and</font>
+
+68
+00:02:37,200 --> 00:02:38,610
+<font color="#CCCCCC">those</font><font color="#E5E5E5"> records yeah and he walks us</font>
+
+69
+00:02:38,610 --> 00:02:39,870
+through that<font color="#E5E5E5"> interaction in his book</font>
+
+70
+00:02:39,870 --> 00:02:41,190
+when<font color="#CCCCCC"> the</font><font color="#E5E5E5"> President does ask him for</font>
+
+71
+00:02:41,190 --> 00:02:43,650
+<font color="#E5E5E5">loyalty and that in that</font><font color="#CCCCCC"> meeting at</font><font color="#E5E5E5"> the</font>
+
+72
+00:02:43,650 --> 00:02:45,660
+White House<font color="#CCCCCC"> I know that</font><font color="#E5E5E5"> actually this is</font>
+
+73
+00:02:45,660 --> 00:02:47,280
+<font color="#E5E5E5">looking at how the Comey interview is</font>
+
+74
+00:02:47,280 --> 00:02:50,610
+sort of<font color="#E5E5E5"> part of FBI's revenge following</font>
+
+75
+00:02:50,610 --> 00:02:53,130
+Trump's previous attacks on the<font color="#E5E5E5"> bureau</font>
+
+76
+00:02:53,130 --> 00:02:56,160
+<font color="#E5E5E5">why could this be bad for the president</font>
+
+77
+00:02:56,160 --> 00:02:59,280
+yeah so they used to say<font color="#E5E5E5"> you know don't</font>
+
+78
+00:02:59,280 --> 00:03:01,770
+pick a<font color="#E5E5E5"> fight with someone</font><font color="#CCCCCC"> who buys ink</font>
+
+79
+00:03:01,770 --> 00:03:04,350
+by a barrel<font color="#E5E5E5"> will also don't pick a fight</font>
+
+80
+00:03:04,350 --> 00:03:07,230
+<font color="#CCCCCC">with</font><font color="#E5E5E5"> someone</font><font color="#CCCCCC"> whose job it is to find</font>
+
+81
+00:03:07,230 --> 00:03:09,750
+damaging information<font color="#CCCCCC"> on</font><font color="#E5E5E5"> people and the</font>
+
+82
+00:03:09,750 --> 00:03:12,000
+<font color="#E5E5E5">president has</font><font color="#CCCCCC"> been trolling</font><font color="#E5E5E5"> the FBI</font>
+
+83
+00:03:12,000 --> 00:03:14,250
+criticizing the FBI<font color="#CCCCCC"> throughout this</font>
+
+84
+00:03:14,250 --> 00:03:16,500
+investigation<font color="#CCCCCC"> and now we see on three</font>
+
+85
+00:03:16,500 --> 00:03:20,850
+fronts<font color="#E5E5E5"> the FBI really taking its toll on</font>
+
+86
+00:03:20,850 --> 00:03:24,030
+<font color="#E5E5E5">him you have James Comey out there the</font>
+
+87
+00:03:24,030 --> 00:03:26,780
+FBI<font color="#CCCCCC"> director that he</font><font color="#E5E5E5"> fired touching off</font>
+
+88
+00:03:26,780 --> 00:03:29,340
+<font color="#E5E5E5">these other two and</font><font color="#CCCCCC"> that is Robert</font>
+
+89
+00:03:29,340 --> 00:03:32,670
+<font color="#CCCCCC">Muller</font><font color="#E5E5E5"> former FBI director running the</font>
+
+90
+00:03:32,670 --> 00:03:34,590
+special counsels<font color="#CCCCCC"> investigation</font><font color="#E5E5E5"> and of</font>
+
+91
+00:03:34,590 --> 00:03:36,239
+course up<font color="#E5E5E5"> and</font><font color="#CCCCCC"> there in New York</font>
+
+92
+00:03:36,239 --> 00:03:39,450
+it<font color="#E5E5E5"> was FBI agents who raided the office</font>
+
+93
+00:03:39,450 --> 00:03:42,090
+of his lawyer Michael Cohen<font color="#CCCCCC"> I called</font>
+
+94
+00:03:42,090 --> 00:03:42,750
+Michael Cohen
+
+95
+00:03:42,750 --> 00:03:45,420
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> rosetta stone</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> trump business</font>
+
+96
+00:03:45,420 --> 00:03:48,209
+dealings<font color="#CCCCCC"> aboard</font><font color="#E5E5E5"> a decade he</font><font color="#CCCCCC"> has been the</font>
+
+97
+00:03:48,209 --> 00:03:50,370
+<font color="#E5E5E5">person that</font><font color="#CCCCCC"> knows what's happening and</font>
+
+98
+00:03:50,370 --> 00:03:52,320
+as the Washington Post<font color="#E5E5E5"> tells us he's</font>
+
+99
+00:03:52,320 --> 00:03:53,940
+even been taping<font color="#E5E5E5"> some of it well</font>
+
+100
+00:03:53,940 --> 00:03:55,470
+certainly I<font color="#CCCCCC"> want to look for this week</font>
+
+101
+00:03:55,470 --> 00:03:56,970
+that's<font color="#CCCCCC"> for sure Mike Allen thank you</font>
+
+102
+00:03:56,970 --> 00:03:58,799
+we're gonna be<font color="#E5E5E5"> reading</font><font color="#CCCCCC"> Axios a.m. in</font>
+
+103
+00:03:58,799 --> 00:04:00,269
+just a<font color="#CCCCCC"> little</font><font color="#E5E5E5"> bit and to all of our</font>
+
+104
+00:04:00,269 --> 00:04:02,100
+viewers<font color="#E5E5E5"> out there you too can sign up</font>
+
+105
+00:04:02,100 --> 00:04:02,730
+<font color="#E5E5E5">for the newsletter</font>
+
+106
+00:04:02,730 --> 00:04:05,070
+Axios<font color="#CCCCCC"> comm that does it for</font><font color="#E5E5E5"> us</font><font color="#CCCCCC"> on this</font>
+
+107
+00:04:05,070 --> 00:04:05,760
+Monday<font color="#E5E5E5"> morning</font>
+
+108
+00:04:05,760 --> 00:04:07,079
+hey there I'm<font color="#E5E5E5"> Chris Hayes from MSNBC</font>
+
+109
+00:04:07,079 --> 00:04:09,630
+thanks for watching MSNBC on<font color="#CCCCCC"> YouTube if</font>
+
+110
+00:04:09,630 --> 00:04:10,769
+you<font color="#CCCCCC"> want to</font><font color="#E5E5E5"> keep up</font><font color="#CCCCCC"> to date with the</font>
+
+111
+00:04:10,769 --> 00:04:12,030
+videos we're putting out you can<font color="#E5E5E5"> click</font>
+
+112
+00:04:12,030 --> 00:04:13,470
+<font color="#CCCCCC">Subscribe</font><font color="#E5E5E5"> just below me</font>
+
+113
+00:04:13,470 --> 00:04:15,239
+or click over on<font color="#E5E5E5"> this list to see lots</font>
+
+114
+00:04:15,239 --> 00:00:00,000
+of other<font color="#E5E5E5"> great videos</font>
+

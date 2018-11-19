@@ -1,0 +1,456 @@
+this segment is presented in partnership
+with down-ticket TYT and down-ticket
+want to remind you that every years in
+election year and with down-ticket you
+could help even the playing field
+against big-money and special interests
+by contributing directly to your
+favorite candidate just open up the
+browser on your mobile phone and go to
+down-ticket calm now I told you about a
+very peculiar case of the server in
+Pennsylvania the Donald Trump was using
+to communicate with a seemingly with the
+Russians I told you about that a long
+time ago
+and it was not based on our reporting it
+was frankly a four it's late who had
+done some great reporting on it Eric
+Lichtblau at new york times tried to do
+some great reporting on it but was
+blocked by his executive editor they
+thought that it might be too political
+right before an election to reveal the
+donald trump might be receiving
+communication from the russians no it's
+political to hold a story like that as a
+political decision you're making when
+you have a story they eventually ran the
+story but with a completely misleading
+title saying that the FBI basically had
+concluded that there Trump is not
+working with the Russians now they were
+of course to reverse that and it was
+never true in the first place I'm about
+to show you what is true now there's
+some new details
+it was great reporting from Dexter
+Filkins at The New Yorker and and if
+you've never heard the story before it
+is amazing and in my opinion conclusive
+proof that at least someone on the Trump
+campaign very very clearly communicated
+with the Russians yeah if you don't
+believe it
+I I think after you look at the evidence
+there might be something wrong with you
+so we'll get to that in a second and so
+first I'm just asking everybody keep an
+open mind here and look at the evidence
+okay and obviously we'll put a link to
+the actual article down below if you're
+watching on YouTube or Facebook later in
+the description box where all the links
+always are so you can read it for
+yourself it's a long one here let me
+summarize first of all they talk to a
+group of computer scientists who are
+prominent and apparently monitor the
+internet in ways that we were not aware
+of before I told you about this in the
+last story and and Filkins explains its
+members sometimes work with law
+enforcement or for private clients but
+mostly they
+acted as self-appointed guardians of the
+internet trying to thwart hackers and to
+keep the system clean of malware a
+guardians of the galaxy if you will now
+there's a guy named max that's a
+pseudonym that he's using because he
+doesn't want to be outed and he is among
+these computer scientists but again the
+reporters have confirmed that he is in
+fact a prominent computer scientist the
+guy who worked on this and asked many
+other computer scientists dozens
+including professors who are experts in
+this area to also look at the evidence
+to see if if he was getting anything
+wrong and they all concluded no it is
+exactly right and and max it turns out
+was a John mate McCain Republican so not
+only was he not biased against
+Republicans initially what he saw was oh
+the Russia's hacked into the Democratic
+servers so they're probably trying to do
+the same thing to the Republicans so he
+thought to himself quote we were trying
+to protect them by them he means the
+Republicans he initially took on this
+task of looking around to see if the
+Russians were trying to tap into
+anything else hacking anything else to
+protect the Republicans hey they don't
+get hacked didn't you like the Democrats
+did but he found something else
+completely so here's what he found out
+in the small town of Lititz Pennsylvania
+domain late the Trump Organization
+seemed to be behaving in a peculiar way
+hmm
+while they looked into it a little
+further why does Trump even have a
+server there and and why is it receiving
+these bizarre messages from specific
+folks well examining records for the
+Trump domain Max's group discovered DNS
+lookups from a pair of servers owned by
+alpha bank one of the largest banks in
+Russia alpha bank's computers were
+looking at the address of the Trump
+server nearly every day boy that's
+really weird and here's what max had to
+say about it we were watching this
+happen in real time and we thought why
+the hell is a Russian bank communicating
+with a server that belongs to the Trump
+Organization and at such a rate now
+there was a lot of different
+explanations after he came out with that
+story initially or or slate
+but things like spamming and spoofing
+they're all absolute nonsense I'll get
+to that in a minute as well but
+certainly when you first look at it it
+raises they're almost a literal red flag
+but not a red scare this is actually
+based on evidence and it goes okay
+that's weird let's look into it more and
+see if there is a logical explanation
+but the part that to me last time I
+explained was the clincher was the
+second largest entity looking and
+communicating with that trump server in
+Pennsylvania and so he found the same
+thing so here it is only what other
+entities seem to be reaching out for the
+Trump Organization is domain with any
+frequency spectrum health of Grand
+Rapids Michigan spectrum health is
+closely linked to the DeVos family at
+Richard DeVos jr. is the chairman of the
+board and one of its hospitals is named
+after his mother his wife Betsy DeVos
+was appointed Secretary of Education by
+Donald Trump now you're telling me that
+there's a server of Pennsylvania
+belonging to Donald Trump and the two
+major groups communicating with it are a
+Russian bank and the DeVos family later
+Betsy DeVos is named education secretary
+and that's a coincidence
+hold we're not done with the
+coincidences how about divorces brother
+her brother Eric Prince is a trump
+associated who has attracted the
+scrutiny of robert muller the special
+counsel of SE ating Trump's ties to
+Russia Muller has been looking into
+prince's meeting following the election
+with a Russian official in the seashells
+at which he reportedly discussed setting
+up a back-channel between Trump and the
+Russian President Vladimir Putin Prince
+maintains that the meeting was
+incidental attend oh okay so the Russian
+bank at the DeVos family communicating
+with a trump server during the campaign
+critical parts of the campaign form a on
+after the election Betsy DeVos
+incidentally becomes education secretary
+that her brother incidentally goes to
+seashell Islands to meet with the
+Russians to set up a back-channel with
+Vladimir Putin
+what a bunch of incidents and
+coincidence spamming spoofing are you
+crazy okay you think that accidentally
+the server happened to look up a Russian
+bank and the DeVos family and then one
+of the divorced family members wound up
+in an island what the rush is
+communicating after Trump won oh that
+was a coincidence no person in the right
+mind could believe that but I got more
+so what look maybe these are two things
+that are communicating with a trump
+server but there's a million others and
+you're picking a needle in a haystack
+and trying to make connections no twenty
+five hundred lookups nearly all of them
+from alpha bank and Spectrum Health it's
+not too out of a million it's two out of
+two almost every lookup I believe it's
+over 99% of the communications with the
+Trump server was alpha bank spectrum
+health the Russian Bank the DeVos family
+there ain't no coincidence that large
+anyone who doesn't understand that is
+completely irrational okay okay you say
+well no I don't know maybe spectrum
+house was this is some of the absurd
+absurd theories maybe spectrum House was
+spending sending a marketing emails and
+the Trump server was accidentally
+responding to it a lot okay how about
+this it would require for that theory to
+hold it would require the service of
+Spectrum Health to be as well as here's
+was a glitch a computer glitch hilarious
+it would require the service of Spectrum
+Health to be simultaneously experiencing
+the same glitch yeah Oh golly gee there
+was a glitch that with the Trump talking
+to the Russian bank and then another
+glitch from the Russian Bank Bank of
+them there's a lost family another
+glitch oh my God look at all these
+coincidental glitches there ain't no
+glitch there obviously obviously
+communicating to one another
+now what's inside those messages that's
+super important we're gonna get to that
+because we don't yet have all that
+information but is there a way we can
+find out hold so max is some other
+scientists I spoke to according to
+Dexter Filkins here theorized that they
+may be using
+system says signal one another about
+events or tasks that had to be performed
+money to be transferred for instance or
+data to be copied ding-ding-ding-ding I
+believe we have a winner
+now it might not be the case we've got
+to see what's in the communications and
+can we do that again I'll get to that in
+a second
+so are those hypotheses far more likely
+saying there are a million times more
+likely actually literally scientifically
+statistically under place it it is way
+then way more than a million times more
+likely that they were actually
+communicating or perhaps saying when
+money would be transferred then there
+was a computer glitch or a spam and it
+happened to miraculously happen from
+only those two things and both going in
+both directions okay so max concluded we
+decided this was a covert communication
+channel to which I say of course of
+course it is okay so we're not done on
+September 21st he wrote The Times had
+delivered potential evidence of
+communications to BGR okay now this is a
+really important part of the story
+that's a Washington lobbying firm that
+worked for Alpha Bank two days later the
+Trump domain vanished from the Internet
+now this was not part of the earlier
+story and so as I looked at that I
+thought I mean if it wasn't over already
+it's definitely over now you understand
+what happened so the New York Times in
+the story that I mentioned in the
+beginning reaches out to alpha Bank and
+says look we're gonna do a story on you
+what's your explanation on this very
+peculiar fact pattern right at that
+point alpha Bank doesn't shut it down
+Trump shuts it down but wait a minute
+they never contacted Trump oops
+Max's group was surprised the Trump
+domain had been shut down after The
+Times contacted alpha bank's
+representatives but before the newspaper
+contacted Trump so the obvious
+conclusion is the one that max reached
+that shows a human interaction certain
+actions leave fingerprints he explained
+now he
+you were just communicating and there
+was just spam going back and forth
+investigators would tell alpha bank how
+would alpha bank send a spam to the
+trick or snot no someone actually had to
+pick up a phone and say they're onto us
+and so the Trump server cuts off how in
+the world would they have known unless
+they were already communicating to alpha
+bank okay for four days the service at
+Alpha bank kept trying to look up the
+Trump domain then ten minutes after the
+last attempt one of them looked up
+another domain which had been configured
+to lead to the same Trump Organization
+server well if it was spam or a glitch
+why would the server continue to try to
+look up the Alpha bank guys try to look
+for a trump server and then find a
+second one they miraculously in there
+random sending of marketing emails found
+a second Trump server no one in their
+right mind could believe that no one in
+fact here's Paul vixie from far right
+security saying why did alpha look up
+either name and especially the second
+name well there is no logical
+explanation for that unless they knew
+what the second name was and they were
+told to look that up and they did so
+they could reestablish the line of
+communication now here is what the
+latest is in terms of whether we are
+ever going to find out what was in those
+communications those communications
+happen absolutely were they a sign that
+the Russians and someone in the Trump
+administration were communicating and
+hence colluding absolutely absolutely
+you'd be crazy to think otherwise and if
+you are I don't know I know maybe you
+got a dog of the fight
+I don't maybe your have already been in
+a certain position you maintain it for
+so long you don't want to see straight
+but this is overwhelming now will we
+find out what was in those
+communications now here's really bad
+news before I get to the good news in
+June 2017 Trump nominated Brian bents
+Kowski
+a lawyer who had overseen the straws
+Friedberg report for alpha bank to lead
+the criminal division of the Justice
+Department Oh No
+so here's what happened first of all the
+law firm representing the Russian
+oligarchs and this Bank was law firm
+that were that don McGann worked at you
+remember who down me honest
+he's the White House Counsel so he gets
+hired to be White House Counsel after
+his firm works on this case now the guy
+who was in charge of the so-called
+investigation that alpha bank did once
+they were exposed was this guy Brian
+Benz Kowski and he concluded oh yeah I
+talked to alpha bank and they say it was
+a coincidence and we're done with it
+that's that guy appears to be a complete
+and utter fraud now I get it he's a
+lawyer he gets paid to to lie basically
+on behalf of his clients really you
+looked at an investigation well
+poisonous yeah let's wrap this up oh who
+did the investigation of Apple Bank Oh
+Alpha Bank oh wow okay Jay hired two
+straws Friedberg to do it destroys
+Freiburg after being paid by alpha bank
+included alpha bank was awesome now the
+guy who let all that at the law firm is
+now the guy who is at the head of the
+criminal division of the Justice
+Department so if something is rigged it
+is rigged in favor of Donald Trump the
+Democrats objected of course the
+Republicans steamrolled him and he was
+confirmed this is the corruption that is
+happening and New Yorker explains he and
+a referring to Richard Durbin
+and other Democratic senators were
+especially troubled that Ben's Kowski
+would not commit to recusing himself
+from dealing with Muller's investigation
+even though he had worked for two of
+Russia's leading oligarchs you worked at
+the law firm that led the investigation
+so-called investigation into clearing
+Alpha Bank you work for two of the
+Russian oligarchs that's at the center
+of the Muller investigation will you
+recuse yourself
+he's like of course not
+remember why Trump is so mad at Jeff
+Sessions because he recused himself this
+guy was not hired to recuse himself he
+was hired not to recuse himself he was
+hired with this it peers with this
+specific intent make sure you get in
+there and you're our guy on the inside
+he's not a small little guy he's the
+head of the Criminal Division at the
+Justice Department that oversees the FBI
+so that's the corruption that's going on
+so where's the hope well the Democrats
+have asked for this in the past but if
+they win the house in about three weeks
+they can stop politely asking and they
+could subpoena so what are they asking
+for the Democrats implored the majority
+and again they won't have to implore
+much longer potentially depending on how
+the elections go to for Senden who is
+that that's the company that dealt with
+the server to turn over computer data
+that would help determine what had
+happened those records could show who in
+the Trump Organization used the server
+they would probably also be a record of
+who shut down the Trump domain after The
+Times contacted Alpha Bank Senden might
+have records of any outgoing
+communications sent by the Trump
+Organization now I don't know that they
+do I don't know what information they
+have I don't know if mullahs already got
+that information I do know that
+Democrats if they win the majority in
+the house will be looking for that
+information and my god if they save the
+communications inside those messages
+that went back and forth game over now
+until you have those communications
+could you prove all this in a court of
+law
+well maybe they were talking about
+tennis maybe they were trading food
+recipes now you and I know if you're
+anywhere within the universe of rational
+but that's not what was happening but we
+don't know for certain with specificity
+enough to prove in a criminal case what
+happened but those messages they know so
+will they be able to get the messages
+will Trump's lackeys that the Justice
+Department blocked the investigation
+will the Democrats be able to subpoena
+the records do they exist and to what
+degree do they exist will they show
+actually what was in the communications
+it is possible that that will determine
+everything so there's the collusion
+right there the question is what's
+inside we might find out in just a
+couple of weeks so I conclude this
+report with tick tick tick tick tick
+tick tick tick he definitely did it the
+question is well exactly what and will
+they get him to find out soon on the go
+don't worry we got you covered
+you still listen to T YT at our new
+podcast network find us on Apple podcast
+the Google Play Store or at TYT comm
+slash podcast

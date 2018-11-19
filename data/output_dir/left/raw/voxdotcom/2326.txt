@@ -1,0 +1,311 @@
+1
+00:00:00,160 --> 00:00:04,890
+Er is een deur op de tiende verdieping die ik enorm haat.
+
+2
+00:00:04,890 --> 00:00:05,799
+Verdomme.
+
+3
+00:00:05,799 --> 00:00:11,629
+Heb je weleens problemen met deze deur? "Geregeld".
+
+4
+00:00:11,629 --> 00:00:12,000
+Hoe vaak? "1 op de 3 keer."
+
+5
+00:00:12,000 --> 00:00:14,290
+Gebruiken mensen het verkeerd?
+
+6
+00:00:14,290 --> 00:00:16,869
+Aldoor.
+
+7
+00:00:16,869 --> 00:00:17,500
+Ik haat deze deur.
+
+8
+00:00:17,500 --> 00:00:18,350
+Ik ook, Kelsey.
+
+9
+00:00:18,350 --> 00:00:26,320
+Zodra je zoekt naar verwarrende deuren vind je ze. Overal.
+
+10
+00:00:26,320 --> 00:00:27,390
+Waarom?
+
+11
+00:00:27,390 --> 00:00:30,789
+Ik denk dat Roman Mars wel weet waarom.
+
+12
+00:00:30,789 --> 00:00:36,879
+Roman: Dit is 99% Invisible en die deuren die je haat, worden Normanse deuren genoemd.
+
+13
+00:00:36,879 --> 00:00:38,940
+Wat is een normanse deur?
+
+14
+00:00:38,940 --> 00:00:44,469
+Roman: Don Norman schreef HET beste boek over ontwerp. Hij is de 'Norman' van de
+
+15
+00:00:44,469 --> 00:00:44,809
+'normanse deur'.
+
+16
+00:00:44,809 --> 00:00:46,100
+Okee - en waar is die kerel?
+
+17
+00:00:46,100 --> 00:00:49,219
+Roman: "Je moet naar San Diego"
+
+18
+00:00:49,219 --> 00:00:50,649
+OK!
+
+19
+00:00:50,649 --> 00:00:54,930
+Don: Hoi Joe!
+
+20
+00:00:54,930 --> 00:01:00,969
+Ik ben Don Norman. Tja, het valt niet mee om te beschrijven wat ik ben.
+
+21
+00:01:00,969 --> 00:01:04,800
+Roman: Nou, hij was professor in de psychologie, cognitieve wetenschap, professor
+
+22
+00:01:04,800 --> 00:01:10,220
+in computerwetenschap, een vicepresident van geavanceerde technologie bij Apple.
+
+23
+00:01:10,720 --> 00:01:15,250
+Don: Ik woonde een jaar in Cambridge in Engeland, en ik werd zo gefrustreerd door mijn onkunde
+
+24
+00:01:15,250 --> 00:01:22,970
+om lichtschakelaars, waterkranen en zelfs deuren te gebruiken, dat ik dit boek schreef.
+
+25
+00:01:22,970 --> 00:01:35,030
+Als ik steeds een deur verkeerd aanpak, is dat mijn schuld?
+
+26
+00:01:35,030 --> 00:01:38,050
+Don: Nee.
+
+27
+00:01:38,050 --> 00:01:43,470
+Roman: Een normanse deur is als het ontwerp je het tegenovergestelde
+
+28
+00:01:43,470 --> 00:01:47,730
+laat doen, of je het verkeerde signaal geeft en een teken nodig heeft om het te corrigeren.
+
+29
+00:01:47,730 --> 00:01:51,930
+Don: Waarom heeft zoiets simpels een
+handleiding nodig? Waarom
+
+30
+00:01:51,930 --> 00:01:55,950
+is het nodig een bord met Duwen of Trekken te hebben? Waarom is het niet duidelijk?
+
+31
+00:01:55,950 --> 00:01:58,820
+Roman: Het kan duidelijk zijn als het juist ontworpen is.
+
+32
+00:01:58,820 --> 00:02:05,470
+Don: Er zijn een aantal fundamentele ontwerpbeginselen en een daarvan noem ik ontdekbaarheid.
+
+33
+00:02:05,470 --> 00:02:10,840
+Wanneer ik ergens naar kijk zou ik moeten kunnen ontdekken welke handelingen ik kan uitvoeren.
+
+34
+00:02:10,840 --> 00:02:14,330
+Roman: Het principe beslaat veel meer dan alleen deuren.
+
+35
+00:02:14,330 --> 00:02:19,000
+Don: "En het is ongelofelijk met veel moderne computersystemen, je kunt ernaar kijken
+
+36
+00:02:19,000 --> 00:02:24,000
+en je hebt geen idee wat er mogelijk is. Moet ik iets een, twee of zelfs drie keer
+
+37
+00:02:24,000 --> 00:02:30,060
+aantikken? Zonder ontdekbaarheid weet je niet hoe iets te gebruiken."
+
+38
+00:02:30,060 --> 00:02:32,530
+Roman: Een ander voorbeeld is feedback.
+
+39
+00:02:32,530 --> 00:02:37,920
+Don: Er is zo vaak geen feedback
+- je weet niet wat er gebeurde, of waarom
+
+40
+00:02:37,920 --> 00:02:38,310
+het gebeurde.
+
+41
+00:02:38,310 --> 00:02:42,870
+Roman: En deze principes vormen de basis van hoe ontwerpers en ingenieurs tegenwoordig werken:
+
+42
+00:02:42,870 --> 00:02:46,100
+doorgaans Gebruiker- of mens-centraal ontwerp genoemd.
+
+43
+00:02:46,100 --> 00:02:51,970
+Don: Ik vond gebruiker een beetje neerbuigend, waarom noemen we mensen niet mensen?
+
+44
+00:02:51,970 --> 00:02:56,630
+Het is zo simpel en wordt zo zelden uitgevoerd." We noemen het iteratief omdat
+
+45
+00:02:56,630 --> 00:03:03,750
+het rondgaat in een cirkel. We kijken wat er gebeurt als mensen een taak uitvoeren.
+
+46
+00:03:03,750 --> 00:03:09,560
+En daaruit trekken we conclusies. We bedenken een plan.
+
+47
+00:03:09,560 --> 00:03:15,890
+Joe: Daarna maak je een prototype van de oplossing en test je het.
+
+48
+00:03:15,890 --> 00:03:27,950
+En dit proces heeft zich over de hele wereld verspreid, en
+verbetert levens - van alledaagse
+
+49
+00:03:27,950 --> 00:03:33,069
+dingen die Don beschrijft tot enorme problemen
+
+50
+00:03:33,069 --> 00:03:38,030
+in gezondsheidzorg voor derdewereldlanden - water, sanitaire voorzieningen, landbouw en nog veel meer.
+
+51
+00:03:38,030 --> 00:03:40,940
+Hoe ziet een betere, mens-centrale deur eruit?
+
+52
+00:03:40,940 --> 00:03:47,390
+Don: Een ideale deur is er een waarbij wanneer ik ernaar toe en -door loop. Dat ik niet
+
+53
+00:03:47,390 --> 00:03:50,340
+eens besef dat ik een deur opende en sloot. En dat hoeft ook niet, omdat
+
+54
+00:03:50,340 --> 00:03:50,660
+het zo goed ontworpen is dat het automatisch gaat.
+
+55
+00:03:50,660 --> 00:03:55,340
+Dus als je een deur hebt met een platte plaat,
+wat kun je dan doen? Niets. Het enige
+
+56
+00:03:55,340 --> 00:04:00,670
+dat je kunt doen, is duwen. Zie je? Geen bord nodig.
+Platte voorkant - je duwt.
+
+57
+00:04:00,670 --> 00:04:04,849
+Roman: Dit type duwstang dat aan de zijkant uitsteekt, werkt ook goed, dus
+
+58
+00:04:04,849 --> 00:04:06,950
+je kunt zien aan welke kant je
+moet duwen.
+
+59
+00:04:06,950 --> 00:04:12,340
+Don: Verticale handels kunnen beide kanten op. Een
+simpele kleine hand suggereert min of meer
+
+60
+00:04:12,340 --> 00:04:12,840
+dat je moet trekken.
+
+61
+00:04:12,840 --> 00:04:18,540
+Roman: Maar we hebben nog steeds teveel vreselijke deuren in de wereld.
+
+62
+00:04:18,540 --> 00:04:24,020
+Don: Veel dingen in het leven zijn vrij gestandaardiseerd.
+Of ik dit huis koop
+
+63
+00:04:24,020 --> 00:04:30,510
+of niet hangt niet af van de vraag of het goede deuren heeft. Behalve om veiligheidsredenen,
+
+64
+00:04:30,510 --> 00:04:31,950
+worden deuren meestal niet verbeterd.
+
+65
+00:04:31,950 --> 00:04:34,990
+Roman: Maar de terreur van slechte deuren moet stoppen.
+
+66
+00:04:34,990 --> 00:04:39,919
+Ik vind dat een rotontwerp. Het feit dat je moet trekken terwijl het een
+
+67
+00:04:39,919 --> 00:04:44,350
+duwstang is. Het zou dus een plat paneel moeten hebben hier. En geen verrekte trekstang. Zo
+
+68
+00:04:44,350 --> 00:04:48,680
+denk ik over deze deur. Het is erg misleidend.
+(Ik ben het er mee eens)
+
+69
+00:04:48,680 --> 00:04:54,150
+Roman: Je hebt gelijk Becky. Je hebt verdorie gelijk.
+En als iedereen als jou dacht
+
+70
+00:04:54,150 --> 00:04:56,220
+dan konden we misschien een betere wereld ontwerpen.
+
+71
+00:04:56,220 --> 00:05:07,750
+"Het gaat niet open omdat het een veiligheidsdeur is!"
+"Wat doen julle twee daar?"
+
+72
+00:05:07,750 --> 00:05:12,540
+Zoals je kunt zien, hebben ze  inmiddels de deur wat veranderd sinds ik begon met filmen.
+
+73
+00:05:12,540 --> 00:05:16,570
+Een stap in de goede richting, denk ik maar. Bedankt dat jullie keken
+
+74
+00:05:16,570 --> 00:05:21,550
+en dank aan 99% invisible, een van mijn favoriete podcasts. Het was leuk om samen te werken
+
+75
+00:05:21,550 --> 00:00:00,000
+met hen. Zoek ze op via een podcast app naar keuze of op 99pi.org.
+

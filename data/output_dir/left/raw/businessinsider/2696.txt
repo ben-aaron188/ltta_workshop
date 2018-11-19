@@ -1,0 +1,184 @@
+1
+00:00:06,410 --> 00:00:08,429
+my name is Garrett<font color="#E5E5E5"> fileman I'm a</font>
+
+2
+00:00:08,429 --> 00:00:09,599
+research<font color="#CCCCCC"> fellow at the University of</font>
+
+3
+00:00:09,599 --> 00:00:11,880
+Cambridge<font color="#E5E5E5"> and my claim</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> fame</font><font color="#CCCCCC"> is that I</font>
+
+4
+00:00:11,880 --> 00:00:13,200
+was one of<font color="#CCCCCC"> the first academically</font>
+
+5
+00:00:13,200 --> 00:00:15,599
+trained<font color="#CCCCCC"> economists</font><font color="#E5E5E5"> to take an interest</font>
+
+6
+00:00:15,599 --> 00:00:17,640
+in Bitcoin<font color="#CCCCCC"> and blockchain technology</font><font color="#E5E5E5"> so</font>
+
+7
+00:00:17,640 --> 00:00:20,279
+as we look<font color="#E5E5E5"> into the</font><font color="#CCCCCC"> future</font><font color="#E5E5E5"> and in</font><font color="#CCCCCC"> the</font>
+
+8
+00:00:20,279 --> 00:00:22,830
+you know reward of new<font color="#CCCCCC"> bitcoins is</font>
+
+9
+00:00:22,830 --> 00:00:24,869
+reduced<font color="#E5E5E5"> from</font><font color="#CCCCCC"> the current</font><font color="#E5E5E5"> 12 and a half</font>
+
+10
+00:00:24,869 --> 00:00:27,150
+<font color="#E5E5E5">down to about six point two five new</font>
+
+11
+00:00:27,150 --> 00:00:30,330
+bitcoins every<font color="#E5E5E5"> ten</font><font color="#CCCCCC"> minutes</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> which</font>
+
+12
+00:00:30,330 --> 00:00:32,940
+will occur around<font color="#E5E5E5"> July 2020 every four</font>
+
+13
+00:00:32,940 --> 00:00:35,059
+<font color="#E5E5E5">years that reward gets cut in half</font>
+
+14
+00:00:35,059 --> 00:00:37,170
+<font color="#E5E5E5">eventually get to a point where the</font>
+
+15
+00:00:37,170 --> 00:00:39,120
+nominal number<font color="#E5E5E5"> of new bitcoins you were</font>
+
+16
+00:00:39,120 --> 00:00:42,059
+<font color="#E5E5E5">earning for mining Bitcoin becomes quite</font>
+
+17
+00:00:42,059 --> 00:00:44,040
+small now if the price<font color="#CCCCCC"> of Bitcoin</font>
+
+18
+00:00:44,040 --> 00:00:47,370
+continues to climb<font color="#E5E5E5"> above a hundred</font>
+
+19
+00:00:47,370 --> 00:00:48,870
+thousand per Bitcoin then you know
+
+20
+00:00:48,870 --> 00:00:52,230
+mining a tiny fraction<font color="#E5E5E5"> of Bitcoin still</font>
+
+21
+00:00:52,230 --> 00:00:54,930
+is quite lucrative<font color="#E5E5E5"> but ultimately the</font>
+
+22
+00:00:54,930 --> 00:00:57,149
+number<font color="#E5E5E5"> of new bitcoins</font><font color="#CCCCCC"> come</font><font color="#E5E5E5"> into</font>
+
+23
+00:00:57,149 --> 00:00:58,800
+<font color="#CCCCCC">existence through mining will be cut to</font>
+
+24
+00:00:58,800 --> 00:01:00,660
+zero<font color="#CCCCCC"> we'll hit</font><font color="#E5E5E5"> the 21 million limit and</font>
+
+25
+00:01:00,660 --> 00:01:03,090
+the only<font color="#CCCCCC"> direct financial</font><font color="#E5E5E5"> incentive left</font>
+
+26
+00:01:03,090 --> 00:01:05,309
+<font color="#CCCCCC">my Bitcoin will be transaction fees and</font>
+
+27
+00:01:05,309 --> 00:01:07,290
+there's an open question<font color="#E5E5E5"> as to whether</font>
+
+28
+00:01:07,290 --> 00:01:10,170
+or<font color="#CCCCCC"> not</font><font color="#E5E5E5"> the transaction fees will provide</font>
+
+29
+00:01:10,170 --> 00:01:12,180
+<font color="#E5E5E5">a sufficient financial incentive to</font>
+
+30
+00:01:12,180 --> 00:01:14,820
+<font color="#E5E5E5">maintain the kind of computing power the</font>
+
+31
+00:01:14,820 --> 00:01:16,740
+Bitcoin enjoys today<font color="#E5E5E5"> which</font><font color="#CCCCCC"> is essential</font>
+
+32
+00:01:16,740 --> 00:01:19,860
+to<font color="#CCCCCC"> its security if the you</font><font color="#E5E5E5"> know</font>
+
+33
+00:01:19,860 --> 00:01:22,259
+computational power applied<font color="#CCCCCC"> to the</font>
+
+34
+00:01:22,259 --> 00:01:23,580
+<font color="#E5E5E5">Bitcoin</font><font color="#CCCCCC"> network is reduced sufficiently</font>
+
+35
+00:01:23,580 --> 00:01:26,430
+<font color="#CCCCCC">it makes it arguably easier to mount</font><font color="#E5E5E5"> a</font>
+
+36
+00:01:26,430 --> 00:01:30,420
+<font color="#E5E5E5">51%</font><font color="#CCCCCC"> attack to disrupt the network and so</font>
+
+37
+00:01:30,420 --> 00:01:33,000
+there could<font color="#CCCCCC"> be some issues down the road</font>
+
+38
+00:01:33,000 --> 00:01:36,810
+<font color="#E5E5E5">if you know the rewards are</font><font color="#CCCCCC"> not</font>
+
+39
+00:01:36,810 --> 00:01:39,119
+sufficient<font color="#CCCCCC"> however there could be</font>
+
+40
+00:01:39,119 --> 00:01:42,390
+<font color="#E5E5E5">reasons</font><font color="#CCCCCC"> for people to want</font><font color="#E5E5E5"> to subsidize</font>
+
+41
+00:01:42,390 --> 00:01:44,130
+the cost of mining<font color="#CCCCCC"> if bitcoin continues</font>
+
+42
+00:01:44,130 --> 00:01:45,899
+to be a valuable asset because simply
+
+43
+00:01:45,899 --> 00:01:47,850
+they own a lot<font color="#CCCCCC"> of bitcoins so they're</font>
+
+44
+00:01:47,850 --> 00:01:49,979
+willing<font color="#CCCCCC"> to lose money on mining to</font>
+
+45
+00:01:49,979 --> 00:01:50,650
+maintain<font color="#E5E5E5"> this</font>
+
+46
+00:01:50,650 --> 00:00:00,000
+your<font color="#E5E5E5"> network</font>
+

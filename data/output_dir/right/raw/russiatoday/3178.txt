@@ -1,0 +1,2640 @@
+1
+00:00:00,300 --> 00:00:18,609
+[Music]
+
+2
+00:00:19,349 --> 00:00:21,820
+hello and welcome<font color="#E5E5E5"> to crosstalk where all</font>
+
+3
+00:00:21,820 --> 00:00:23,759
+<font color="#E5E5E5">things are considered I'm Peter</font><font color="#CCCCCC"> labelled</font>
+
+4
+00:00:23,759 --> 00:00:25,989
+<font color="#E5E5E5">Bitcoin for some it's the perfect</font>
+
+5
+00:00:25,989 --> 00:00:28,509
+<font color="#CCCCCC">marriage of technology and</font><font color="#E5E5E5"> finance</font><font color="#CCCCCC"> for</font>
+
+6
+00:00:28,509 --> 00:00:31,329
+<font color="#E5E5E5">others it's a get rich</font><font color="#CCCCCC"> scheme</font><font color="#E5E5E5"> though no</font>
+
+7
+00:00:31,329 --> 00:00:33,190
+one can deny its market value with
+
+8
+00:00:33,190 --> 00:00:35,079
+soaring and becoming an<font color="#CCCCCC"> attractive</font>
+
+9
+00:00:35,079 --> 00:00:36,730
+alternative<font color="#E5E5E5"> to</font><font color="#CCCCCC"> the current global</font>
+
+10
+00:00:36,730 --> 00:00:38,650
+<font color="#E5E5E5">banking system</font><font color="#CCCCCC"> is Bitcoin</font>
+
+11
+00:00:38,650 --> 00:00:42,410
+<font color="#E5E5E5">revolutionizing the world</font>
+
+12
+00:00:42,410 --> 00:00:45,500
+[Music]
+
+13
+00:00:50,609 --> 00:00:52,930
+crosstalking<font color="#CCCCCC"> bitcoin</font><font color="#E5E5E5"> I'm joined by my</font>
+
+14
+00:00:52,930 --> 00:00:53,350
+<font color="#E5E5E5">guest</font>
+
+15
+00:00:53,350 --> 00:00:55,420
+Mitch<font color="#E5E5E5"> Firestein in New York</font><font color="#CCCCCC"> he is a fund</font>
+
+16
+00:00:55,420 --> 00:00:57,129
+<font color="#CCCCCC">manager and</font><font color="#E5E5E5"> author of the book</font><font color="#CCCCCC"> planet</font>
+
+17
+00:00:57,129 --> 00:00:59,199
+Ponzi in Atlantic we have Jeffrey<font color="#E5E5E5"> Tucker</font>
+
+18
+00:00:59,199 --> 00:01:01,210
+<font color="#CCCCCC">he is</font><font color="#E5E5E5"> director of</font><font color="#CCCCCC"> content</font><font color="#E5E5E5"> for the</font>
+
+19
+00:01:01,210 --> 00:01:03,969
+foundation for<font color="#E5E5E5"> economic education and in</font>
+
+20
+00:01:03,969 --> 00:01:06,130
+Cambridge we cross<font color="#E5E5E5"> to</font><font color="#CCCCCC"> Garrick High omen</font>
+
+21
+00:01:06,130 --> 00:01:07,690
+<font color="#CCCCCC">he is a research fellow at the</font>
+
+22
+00:01:07,690 --> 00:01:09,640
+<font color="#E5E5E5">University</font><font color="#CCCCCC"> of Cambridge or a</font><font color="#E5E5E5"> gentleman</font>
+
+23
+00:01:09,640 --> 00:01:11,080
+<font color="#CCCCCC">crosstalk whirls in</font><font color="#E5E5E5"> effect that means he</font>
+
+24
+00:01:11,080 --> 00:01:12,280
+can jump<font color="#E5E5E5"> in</font><font color="#CCCCCC"> anytime you want I always</font>
+
+25
+00:01:12,280 --> 00:01:14,170
+<font color="#E5E5E5">appreciate it Gary</font><font color="#CCCCCC"> let me go to you</font>
+
+26
+00:01:14,170 --> 00:01:17,530
+first<font color="#CCCCCC"> in Cambridge explain what is going</font>
+
+27
+00:01:17,530 --> 00:01:20,860
+<font color="#CCCCCC">on with Bitcoin I mean</font><font color="#E5E5E5"> I'm of the</font><font color="#CCCCCC"> age</font>
+
+28
+00:01:20,860 --> 00:01:23,319
+and<font color="#E5E5E5"> I used to work in finance</font><font color="#CCCCCC"> I can</font>
+
+29
+00:01:23,319 --> 00:01:26,740
+remember the dot-com bubble and then<font color="#CCCCCC"> its</font>
+
+30
+00:01:26,740 --> 00:01:31,149
+<font color="#E5E5E5">meltdown here not being very</font><font color="#CCCCCC"> well-versed</font>
+
+31
+00:01:31,149 --> 00:01:33,909
+in Bitcoin<font color="#E5E5E5"> what is going on here is this</font>
+
+32
+00:01:33,909 --> 00:01:36,310
+just speculation or is this the<font color="#E5E5E5"> new</font>
+
+33
+00:01:36,310 --> 00:01:39,039
+shiny<font color="#E5E5E5"> radiant future</font><font color="#CCCCCC"> go ahead in</font>
+
+34
+00:01:39,039 --> 00:01:42,880
+Cambridge right well I think<font color="#E5E5E5"> I think a</font>
+
+35
+00:01:42,880 --> 00:01:44,860
+<font color="#E5E5E5">little bit of both</font><font color="#CCCCCC"> to be honest</font><font color="#E5E5E5"> and</font>
+
+36
+00:01:44,860 --> 00:01:46,569
+<font color="#E5E5E5">certainly we've seen</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> know some</font>
+
+37
+00:01:46,569 --> 00:01:48,130
+aspects<font color="#E5E5E5"> of this story before as</font><font color="#CCCCCC"> you</font>
+
+38
+00:01:48,130 --> 00:01:49,659
+mentioned you<font color="#E5E5E5"> know after the dot-com</font>
+
+39
+00:01:49,659 --> 00:01:53,320
+<font color="#E5E5E5">bubble exploded in 2000 2001 there were</font>
+
+40
+00:01:53,320 --> 00:01:54,549
+a<font color="#CCCCCC"> number of</font><font color="#E5E5E5"> winners that emerged from</font>
+
+41
+00:01:54,549 --> 00:01:56,110
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> area</font><font color="#E5E5E5"> and a number of</font><font color="#CCCCCC"> new</font><font color="#E5E5E5"> companies</font>
+
+42
+00:01:56,110 --> 00:01:57,520
+that<font color="#E5E5E5"> were born after that have done</font>
+
+43
+00:01:57,520 --> 00:01:59,920
+quite<font color="#CCCCCC"> well you know Bitcoin</font><font color="#E5E5E5"> has already</font>
+
+44
+00:01:59,920 --> 00:02:02,350
+been<font color="#CCCCCC"> declared dead several</font><font color="#E5E5E5"> times in 2011</font>
+
+45
+00:02:02,350 --> 00:02:04,780
+<font color="#E5E5E5">Wired wrote a an article saying the rise</font>
+
+46
+00:02:04,780 --> 00:02:06,520
+and<font color="#CCCCCC"> fall of Bitcoin we saw the crash in</font>
+
+47
+00:02:06,520 --> 00:02:08,410
+2014 yet it keeps<font color="#E5E5E5"> coming</font><font color="#CCCCCC"> back</font>
+
+48
+00:02:08,410 --> 00:02:10,269
+so<font color="#E5E5E5"> wouldn't surprise me if</font><font color="#CCCCCC"> we have</font>
+
+49
+00:02:10,269 --> 00:02:12,010
+another crash maybe<font color="#E5E5E5"> a few more in front</font>
+
+50
+00:02:12,010 --> 00:02:13,690
+<font color="#CCCCCC">of us but</font><font color="#E5E5E5"> it does seem that there's</font>
+
+51
+00:02:13,690 --> 00:02:15,040
+<font color="#CCCCCC">something important happening here with</font>
+
+52
+00:02:15,040 --> 00:02:16,480
+regards to the<font color="#E5E5E5"> future of</font><font color="#CCCCCC"> finance the</font>
+
+53
+00:02:16,480 --> 00:02:18,880
+future of money<font color="#E5E5E5"> yeah well at least for</font><font color="#CCCCCC"> a</font>
+
+54
+00:02:18,880 --> 00:02:20,799
+small<font color="#CCCCCC"> number of people they</font><font color="#E5E5E5"> become at</font>
+
+55
+00:02:20,799 --> 00:02:22,480
+least<font color="#E5E5E5"> I guess technically in</font><font color="#CCCCCC"> the cloud</font>
+
+56
+00:02:22,480 --> 00:02:25,030
+somewhere fabulously rich it's really an
+
+57
+00:02:25,030 --> 00:02:27,609
+amazing<font color="#CCCCCC"> story Jeffrey I mean</font><font color="#E5E5E5"> Garrett</font>
+
+58
+00:02:27,609 --> 00:02:29,350
+<font color="#E5E5E5">called this I think in an article a</font>
+
+59
+00:02:29,350 --> 00:02:32,200
+minor miracle<font color="#E5E5E5"> is that it would you use</font>
+
+60
+00:02:32,200 --> 00:02:33,549
+the word miracle<font color="#E5E5E5"> here let me go to</font>
+
+61
+00:02:33,549 --> 00:02:36,220
+<font color="#E5E5E5">Jeffrey in Atlantic yeah I read that</font>
+
+62
+00:02:36,220 --> 00:02:38,170
+article<font color="#CCCCCC"> and I</font><font color="#E5E5E5"> I appreciate that term</font>
+
+63
+00:02:38,170 --> 00:02:40,060
+<font color="#E5E5E5">actually it kind of is nobody ever</font>
+
+64
+00:02:40,060 --> 00:02:41,680
+thought<font color="#E5E5E5"> anything</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> this was possible</font>
+
+65
+00:02:41,680 --> 00:02:44,950
+before 2008<font color="#CCCCCC"> before the white paper of 2</font>
+
+66
+00:02:44,950 --> 00:02:47,230
+of October 2008<font color="#E5E5E5"> we didn't really have</font>
+
+67
+00:02:47,230 --> 00:02:49,390
+<font color="#E5E5E5">the means</font><font color="#CCCCCC"> to do what</font><font color="#E5E5E5"> the blockchain does</font>
+
+68
+00:02:49,390 --> 00:02:52,180
+today<font color="#E5E5E5"> just for background</font><font color="#CCCCCC"> and blockchain</font>
+
+69
+00:02:52,180 --> 00:02:54,190
+<font color="#CCCCCC">is the real underlying technology of</font>
+
+70
+00:02:54,190 --> 00:02:56,560
+Bitcoin<font color="#CCCCCC"> and the real</font><font color="#E5E5E5"> reason for its</font>
+
+71
+00:02:56,560 --> 00:02:59,109
+value<font color="#CCCCCC"> bitcoin</font><font color="#E5E5E5"> is just an</font><font color="#CCCCCC"> expression of</font>
+
+72
+00:02:59,109 --> 00:03:01,930
+<font color="#E5E5E5">that technological value and blockchain</font>
+
+73
+00:03:01,930 --> 00:03:02,620
+allows
+
+74
+00:03:02,620 --> 00:03:04,090
+to do something we've always wanted<font color="#CCCCCC"> to</font>
+
+75
+00:03:04,090 --> 00:03:05,680
+<font color="#E5E5E5">do since the ancient</font><font color="#CCCCCC"> world but never</font><font color="#E5E5E5"> had</font>
+
+76
+00:03:05,680 --> 00:03:06,549
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> ability to do it</font>
+
+77
+00:03:06,549 --> 00:03:08,500
+thanks to<font color="#E5E5E5"> these distributed networks and</font>
+
+78
+00:03:08,500 --> 00:03:10,269
+cryptography<font color="#E5E5E5"> we can do it now you</font><font color="#CCCCCC"> know</font>
+
+79
+00:03:10,269 --> 00:03:11,950
+<font color="#E5E5E5">Mitch I guess I guess</font><font color="#CCCCCC"> Geoffrey kind of</font>
+
+80
+00:03:11,950 --> 00:03:15,519
+put it in succinctly for me because you
+
+81
+00:03:15,519 --> 00:03:17,799
+know I was in<font color="#E5E5E5"> finance for a number of</font>
+
+82
+00:03:17,799 --> 00:03:19,360
+<font color="#E5E5E5">years and there's always you know what's</font>
+
+83
+00:03:19,360 --> 00:03:21,370
+it backed up by you know<font color="#CCCCCC"> you know</font><font color="#E5E5E5"> what</font>
+
+84
+00:03:21,370 --> 00:03:22,780
+what<font color="#CCCCCC"> are</font><font color="#E5E5E5"> the assets</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> know you know</font>
+
+85
+00:03:22,780 --> 00:03:24,700
+you always<font color="#E5E5E5"> look at that and then but</font>
+
+86
+00:03:24,700 --> 00:03:25,900
+what<font color="#E5E5E5"> Geoffrey just said there kind of</font>
+
+87
+00:03:25,900 --> 00:03:28,120
+explains<font color="#E5E5E5"> it it's the technology</font><font color="#CCCCCC"> is the</font>
+
+88
+00:03:28,120 --> 00:03:30,220
+<font color="#E5E5E5">safety that's what's it backing it up</font>
+
+89
+00:03:30,220 --> 00:03:32,019
+here do you buy that because<font color="#E5E5E5"> you know</font>
+
+90
+00:03:32,019 --> 00:03:34,750
+<font color="#E5E5E5">you can say this is a scheme it's a get</font>
+
+91
+00:03:34,750 --> 00:03:37,239
+rich but I mean there's<font color="#CCCCCC"> something to it</font>
+
+92
+00:03:37,239 --> 00:03:39,790
+<font color="#E5E5E5">and people are making money here</font><font color="#CCCCCC"> Anna</font>
+
+93
+00:03:39,790 --> 00:03:41,140
+makes<font color="#E5E5E5"> everyone</font><font color="#CCCCCC"> interested to get</font>
+
+94
+00:03:41,140 --> 00:03:42,609
+involved in it if you<font color="#CCCCCC"> have the means go</font>
+
+95
+00:03:42,609 --> 00:03:44,140
+go<font color="#CCCCCC"> ahead and Mitch how do you explain it</font>
+
+96
+00:03:44,140 --> 00:03:47,440
+all well I mean we need perspective<font color="#CCCCCC"> I</font>
+
+97
+00:03:47,440 --> 00:03:50,409
+think<font color="#CCCCCC"> bitcoin has</font><font color="#E5E5E5"> come about in a time</font>
+
+98
+00:03:50,409 --> 00:03:52,090
+where the central<font color="#E5E5E5"> bank's</font><font color="#CCCCCC"> wreckless</font>
+
+99
+00:03:52,090 --> 00:03:54,069
+central bank<font color="#CCCCCC"> policy around</font><font color="#E5E5E5"> the world has</font>
+
+100
+00:03:54,069 --> 00:03:57,519
+distorted every market<font color="#E5E5E5"> and too much</font>
+
+101
+00:03:57,519 --> 00:03:59,200
+credit<font color="#CCCCCC"> too much debt</font><font color="#E5E5E5"> and too much</font>
+
+102
+00:03:59,200 --> 00:04:01,629
+leverage<font color="#E5E5E5"> have created instability in the</font>
+
+103
+00:04:01,629 --> 00:04:03,760
+<font color="#E5E5E5">financial markets so we need to add</font>
+
+104
+00:04:03,760 --> 00:04:05,440
+perspective so we<font color="#E5E5E5"> need to look at risk</font>
+
+105
+00:04:05,440 --> 00:04:07,989
+versus reward with Bitcoin and<font color="#CCCCCC"> the</font>
+
+106
+00:04:07,989 --> 00:04:10,810
+<font color="#E5E5E5">Bitcoin trade so</font><font color="#CCCCCC"> Bitcoin</font><font color="#E5E5E5"> has gigantic</font>
+
+107
+00:04:10,810 --> 00:04:13,090
+volatility you're seeing<font color="#E5E5E5"> 30% moves</font>
+
+108
+00:04:13,090 --> 00:04:15,700
+either way in a day or<font color="#CCCCCC"> 40%</font><font color="#E5E5E5"> moves for so</font>
+
+109
+00:04:15,700 --> 00:04:18,099
+it's not<font color="#E5E5E5"> for the faint of heart so you</font>
+
+110
+00:04:18,099 --> 00:04:20,798
+know my perspective from an investor and
+
+111
+00:04:20,798 --> 00:04:22,180
+being in the banking community
+
+112
+00:04:22,180 --> 00:04:24,610
+internationally for<font color="#CCCCCC"> 38</font><font color="#E5E5E5"> years you look at</font>
+
+113
+00:04:24,610 --> 00:04:25,960
+the iconic
+
+114
+00:04:25,960 --> 00:04:28,000
+figures like Jamie Dimon who said it's a
+
+115
+00:04:28,000 --> 00:04:30,099
+<font color="#CCCCCC">Ponzi scheme and it's going to zero he's</font>
+
+116
+00:04:30,099 --> 00:04:31,479
+totally wrong but<font color="#E5E5E5"> the establishment</font>
+
+117
+00:04:31,479 --> 00:04:34,060
+banks and the way that the fractional
+
+118
+00:04:34,060 --> 00:04:36,220
+banking system works<font color="#E5E5E5"> people want to</font>
+
+119
+00:04:36,220 --> 00:04:37,660
+<font color="#E5E5E5">escape from</font><font color="#CCCCCC"> that people</font><font color="#E5E5E5"> want to escape</font>
+
+120
+00:04:37,660 --> 00:04:39,880
+<font color="#CCCCCC">from the</font><font color="#E5E5E5"> establishment but what we've</font>
+
+121
+00:04:39,880 --> 00:04:42,160
+got going<font color="#E5E5E5"> on here</font><font color="#CCCCCC"> just to be clear is</font>
+
+122
+00:04:42,160 --> 00:04:44,970
+we've got inflation<font color="#CCCCCC"> in every asset</font><font color="#E5E5E5"> class</font>
+
+123
+00:04:44,970 --> 00:04:47,680
+<font color="#CCCCCC">stocks are trading at stratospheric</font>
+
+124
+00:04:47,680 --> 00:04:50,349
+valuations<font color="#E5E5E5"> Apple has a market cap</font>
+
+125
+00:04:50,349 --> 00:04:52,510
+approaching eclipsing one trillion
+
+126
+00:04:52,510 --> 00:04:55,840
+dollars<font color="#CCCCCC"> Facebook at</font><font color="#E5E5E5"> 600 billion so if</font>
+
+127
+00:04:55,840 --> 00:04:58,990
+you look yesterday<font color="#E5E5E5"> a couple sorry if you</font>
+
+128
+00:04:58,990 --> 00:05:02,380
+look<font color="#E5E5E5"> recently you saw a pullback</font><font color="#CCCCCC"> in the</font>
+
+129
+00:05:02,380 --> 00:05:05,320
+Nasdaq the<font color="#CCCCCC"> Fang stocks Facebook</font><font color="#E5E5E5"> Apple</font>
+
+130
+00:05:05,320 --> 00:05:07,240
+and all the technology issues they lost
+
+131
+00:05:07,240 --> 00:05:10,210
+<font color="#E5E5E5">60 billion dollars in market cap in a</font>
+
+132
+00:05:10,210 --> 00:05:13,210
+day where the market cap of<font color="#E5E5E5"> Bitcoin is</font>
+
+133
+00:05:13,210 --> 00:05:15,640
+what around 160 million<font color="#CCCCCC"> dollars so on</font>
+
+134
+00:05:15,640 --> 00:05:16,210
+Arella
+
+135
+00:05:16,210 --> 00:05:18,910
+of<font color="#E5E5E5"> basis it's a much smaller move and</font>
+
+136
+00:05:18,910 --> 00:05:21,729
+it's a very emerging market<font color="#E5E5E5"> so I</font><font color="#CCCCCC"> think</font>
+
+137
+00:05:21,729 --> 00:05:23,169
+we've<font color="#E5E5E5"> got to look</font><font color="#CCCCCC"> at where</font><font color="#E5E5E5"> we are</font><font color="#CCCCCC"> and</font>
+
+138
+00:05:23,169 --> 00:05:25,479
+it's an<font color="#E5E5E5"> alternative asset class I mean</font>
+
+139
+00:05:25,479 --> 00:05:27,880
+<font color="#E5E5E5">you're looking at art a Leonardo da</font>
+
+140
+00:05:27,880 --> 00:05:29,470
+Vinci painting traded<font color="#CCCCCC"> at four hundred</font>
+
+141
+00:05:29,470 --> 00:05:31,840
+<font color="#E5E5E5">and fifty million</font><font color="#CCCCCC"> dollars right</font><font color="#E5E5E5"> so I</font>
+
+142
+00:05:31,840 --> 00:05:33,849
+<font color="#E5E5E5">mean we need to put it into the proper</font>
+
+143
+00:05:33,849 --> 00:05:36,220
+historical<font color="#E5E5E5"> perspective now stocks are</font>
+
+144
+00:05:36,220 --> 00:05:38,020
+way overvalued<font color="#E5E5E5"> so</font><font color="#CCCCCC"> are bonds and so is</font>
+
+145
+00:05:38,020 --> 00:05:40,000
+property so people are<font color="#CCCCCC"> looking to</font><font color="#E5E5E5"> get</font>
+
+146
+00:05:40,000 --> 00:05:41,680
+out<font color="#E5E5E5"> of the dollar system and I happen to</font>
+
+147
+00:05:41,680 --> 00:05:44,319
+agree<font color="#E5E5E5"> you need to diversify but I think</font>
+
+148
+00:05:44,319 --> 00:05:46,240
+you<font color="#E5E5E5"> should also get some precious metals</font>
+
+149
+00:05:46,240 --> 00:05:47,710
+gold<font color="#E5E5E5"> and silver which have been</font>
+
+150
+00:05:47,710 --> 00:05:50,050
+currencies for<font color="#E5E5E5"> 6,000</font><font color="#CCCCCC"> years let me dollar</font>
+
+151
+00:05:50,050 --> 00:05:52,000
+is backed by fundamentally not nothing
+
+152
+00:05:52,000 --> 00:05:53,560
+<font color="#E5E5E5">okay let me go back</font><font color="#CCCCCC"> to Cambridge care</font>
+
+153
+00:05:53,560 --> 00:05:55,030
+<font color="#E5E5E5">really</font><font color="#CCCCCC"> I mean</font><font color="#E5E5E5"> there's a lot of people</font>
+
+154
+00:05:55,030 --> 00:05:58,330
+are<font color="#E5E5E5"> saying that large investors are</font>
+
+155
+00:05:58,330 --> 00:05:59,949
+getting<font color="#E5E5E5"> involved interested in Bitcoin</font>
+
+156
+00:05:59,949 --> 00:06:01,930
+<font color="#CCCCCC">is that distorting the price because</font>
+
+157
+00:06:01,930 --> 00:06:04,060
+they have the deep pockets<font color="#E5E5E5"> at this price</font>
+
+158
+00:06:04,060 --> 00:06:07,120
+level<font color="#E5E5E5"> to get into the market is there</font>
+
+159
+00:06:07,120 --> 00:06:09,520
+something behind<font color="#E5E5E5"> that there that</font><font color="#CCCCCC"> you</font>
+
+160
+00:06:09,520 --> 00:06:12,699
+know it because I having been<font color="#E5E5E5"> in finance</font>
+
+161
+00:06:12,699 --> 00:06:14,169
+I mean that this<font color="#E5E5E5"> is something</font><font color="#CCCCCC"> this is</font>
+
+162
+00:06:14,169 --> 00:06:16,300
+<font color="#CCCCCC">speculation okay I mean</font><font color="#E5E5E5"> that people are</font>
+
+163
+00:06:16,300 --> 00:06:17,710
+<font color="#CCCCCC">not</font><font color="#E5E5E5"> buying on facts are buying on</font>
+
+164
+00:06:17,710 --> 00:06:20,380
+speculation<font color="#E5E5E5"> right now go ahead</font><font color="#CCCCCC"> in</font>
+
+165
+00:06:20,380 --> 00:06:24,699
+Cambridge right I think<font color="#E5E5E5"> certainly the</font>
+
+166
+00:06:24,699 --> 00:06:26,860
+hedge funds<font color="#E5E5E5"> the the big whales that</font><font color="#CCCCCC"> are</font>
+
+167
+00:06:26,860 --> 00:06:28,509
+coming in the billion the<font color="#E5E5E5"> billionaires</font>
+
+168
+00:06:28,509 --> 00:06:30,669
+we read about you know are certainly
+
+169
+00:06:30,669 --> 00:06:32,889
+influencing the price direction<font color="#CCCCCC"> but I</font>
+
+170
+00:06:32,889 --> 00:06:34,120
+think there's still<font color="#E5E5E5"> a lot of money on</font>
+
+171
+00:06:34,120 --> 00:06:35,320
+the sidelines I was at a hedge fund
+
+172
+00:06:35,320 --> 00:06:38,229
+conference recently and less than<font color="#CCCCCC"> 20% of</font>
+
+173
+00:06:38,229 --> 00:06:40,449
+<font color="#E5E5E5">of the funds in the room and there are</font>
+
+174
+00:06:40,449 --> 00:06:42,009
+some pretty big funds in the room have
+
+175
+00:06:42,009 --> 00:06:44,650
+taken a step into<font color="#E5E5E5"> this space</font><font color="#CCCCCC"> and I think</font>
+
+176
+00:06:44,650 --> 00:06:46,210
+<font color="#CCCCCC">the ones</font><font color="#E5E5E5"> that have a lot</font><font color="#CCCCCC"> of them have</font>
+
+177
+00:06:46,210 --> 00:06:47,530
+done so<font color="#E5E5E5"> as</font><font color="#CCCCCC"> individuals rather than</font>
+
+178
+00:06:47,530 --> 00:06:49,419
+<font color="#CCCCCC">putting their funds</font><font color="#E5E5E5"> in because you know</font>
+
+179
+00:06:49,419 --> 00:06:50,919
+it's still very<font color="#E5E5E5"> difficult</font><font color="#CCCCCC"> to short</font>
+
+180
+00:06:50,919 --> 00:06:53,440
+<font color="#E5E5E5">Bitcoin</font><font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> there's major counterparty</font>
+
+181
+00:06:53,440 --> 00:06:55,900
+risk<font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of the exchanges crypto</font>
+
+182
+00:06:55,900 --> 00:06:57,509
+currency exchanges won't do things like
+
+183
+00:06:57,509 --> 00:06:59,740
+reveal their their financials are
+
+184
+00:06:59,740 --> 00:07:02,409
+audited financials to<font color="#E5E5E5"> fund so things</font>
+
+185
+00:07:02,409 --> 00:07:03,820
+that<font color="#CCCCCC"> you know hedge funds</font><font color="#E5E5E5"> are used to</font>
+
+186
+00:07:03,820 --> 00:07:06,310
+having<font color="#E5E5E5"> in typical markets they trade in</font>
+
+187
+00:07:06,310 --> 00:07:08,289
+or not in place<font color="#CCCCCC"> yet here but they're</font>
+
+188
+00:07:08,289 --> 00:07:09,039
+<font color="#CCCCCC">coming</font>
+
+189
+00:07:09,039 --> 00:07:12,099
+if CME Nasdaq<font color="#E5E5E5"> do come into the market</font>
+
+190
+00:07:12,099 --> 00:07:14,199
+with futures platforms<font color="#CCCCCC"> you know if</font>
+
+191
+00:07:14,199 --> 00:07:15,789
+things like ETFs<font color="#E5E5E5"> and you know other</font>
+
+192
+00:07:15,789 --> 00:07:18,520
+things<font color="#E5E5E5"> roll out bring more regulation to</font>
+
+193
+00:07:18,520 --> 00:07:20,080
+the space<font color="#E5E5E5"> then I think you will see</font><font color="#CCCCCC"> even</font>
+
+194
+00:07:20,080 --> 00:07:21,340
+<font color="#CCCCCC">more hedge funds come in in the price</font>
+
+195
+00:07:21,340 --> 00:07:23,229
+<font color="#E5E5E5">you know couldn't go either way frankly</font>
+
+196
+00:07:23,229 --> 00:07:24,760
+I think<font color="#CCCCCC"> that the</font><font color="#E5E5E5"> the investment</font><font color="#CCCCCC"> playing</font>
+
+197
+00:07:24,760 --> 00:07:27,219
+field has<font color="#E5E5E5"> been</font><font color="#CCCCCC"> a bit lopsided in</font><font color="#E5E5E5"> favor</font>
+
+198
+00:07:27,219 --> 00:07:28,800
+of the<font color="#CCCCCC"> Bowles</font><font color="#E5E5E5"> and</font>
+
+199
+00:07:28,800 --> 00:07:30,990
+<font color="#E5E5E5">that could level and a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the hedge</font>
+
+200
+00:07:30,990 --> 00:07:32,930
+fund guys aren't passionate<font color="#CCCCCC"> about crypto</font>
+
+201
+00:07:32,930 --> 00:07:35,970
+<font color="#CCCCCC">and frankly they would</font><font color="#E5E5E5"> probably I</font><font color="#CCCCCC"> think</font>
+
+202
+00:07:35,970 --> 00:07:37,530
+from a<font color="#CCCCCC"> psychological perspective prefer</font>
+
+203
+00:07:37,530 --> 00:07:40,050
+to make money<font color="#E5E5E5"> if Bitcoin crashes on the</font>
+
+204
+00:07:40,050 --> 00:07:41,460
+<font color="#CCCCCC">way down</font><font color="#E5E5E5"> then going up that would</font>
+
+205
+00:07:41,460 --> 00:07:43,080
+certainly<font color="#E5E5E5"> help them rationalize their</font>
+
+206
+00:07:43,080 --> 00:07:44,909
+lateness to the<font color="#E5E5E5"> marnik you know market</font>
+
+207
+00:07:44,909 --> 00:07:46,259
+you know<font color="#CCCCCC"> Jeffrey it's very interesting</font>
+
+208
+00:07:46,259 --> 00:07:48,449
+<font color="#CCCCCC">is that it's I think one of the</font>
+
+209
+00:07:48,449 --> 00:07:50,159
+interesting<font color="#CCCCCC"> phenomenons about Bitcoin is</font>
+
+210
+00:07:50,159 --> 00:07:52,740
+its lack<font color="#CCCCCC"> of regulation</font><font color="#E5E5E5"> and going back</font>
+
+211
+00:07:52,740 --> 00:07:54,270
+what<font color="#E5E5E5"> Mitch had to say here and we have</font>
+
+212
+00:07:54,270 --> 00:07:56,340
+to remember<font color="#CCCCCC"> this</font><font color="#E5E5E5"> phenomena came into</font>
+
+213
+00:07:56,340 --> 00:07:59,370
+being after the<font color="#CCCCCC"> financial crisis of 2008</font>
+
+214
+00:07:59,370 --> 00:08:02,310
+which the banks were responsible for and
+
+215
+00:08:02,310 --> 00:08:05,940
+<font color="#E5E5E5">so it's is is is this an element of that</font>
+
+216
+00:08:05,940 --> 00:08:08,669
+here because<font color="#E5E5E5"> that the freedom of here</font>
+
+217
+00:08:08,669 --> 00:08:12,690
+but<font color="#E5E5E5"> go ahead jump in go ahead yeah you</font>
+
+218
+00:08:12,690 --> 00:08:15,180
+know<font color="#E5E5E5"> this certainly is the the the I</font>
+
+219
+00:08:15,180 --> 00:08:17,789
+<font color="#E5E5E5">think of the</font><font color="#CCCCCC"> success of Bitcoin is in</font>
+
+220
+00:08:17,789 --> 00:08:19,800
+part attributable to the<font color="#CCCCCC"> fact that it</font>
+
+221
+00:08:19,800 --> 00:08:21,509
+has<font color="#E5E5E5"> not been managed from the center</font>
+
+222
+00:08:21,509 --> 00:08:23,250
+it's not been<font color="#E5E5E5"> regulated and</font><font color="#CCCCCC"> that allows</font>
+
+223
+00:08:23,250 --> 00:08:25,349
+a lot<font color="#CCCCCC"> of innovation or people to try out</font>
+
+224
+00:08:25,349 --> 00:08:27,030
+things<font color="#CCCCCC"> you know</font><font color="#E5E5E5"> you want to talk</font><font color="#CCCCCC"> about</font>
+
+225
+00:08:27,030 --> 00:08:29,490
+market caps<font color="#E5E5E5"> you</font><font color="#CCCCCC"> can talk about 150</font>
+
+226
+00:08:29,490 --> 00:08:31,469
+billion for Bitcoin but really you have
+
+227
+00:08:31,469 --> 00:08:33,750
+<font color="#CCCCCC">to look at the whole class of crypto</font>
+
+228
+00:08:33,750 --> 00:08:36,169
+assets right now<font color="#E5E5E5"> and you're looking at</font>
+
+229
+00:08:36,169 --> 00:08:40,349
+last I checked<font color="#CCCCCC"> about 350 billion once</font>
+
+230
+00:08:40,349 --> 00:08:42,929
+you include<font color="#E5E5E5"> all the various tokenized</font>
+
+231
+00:08:42,929 --> 00:08:44,550
+block chains that<font color="#E5E5E5"> are out there all</font><font color="#CCCCCC"> the</font>
+
+232
+00:08:44,550 --> 00:08:46,470
+various ethereum applications their
+
+233
+00:08:46,470 --> 00:08:49,860
+various<font color="#CCCCCC"> alt coins and and we're</font><font color="#E5E5E5"> just</font>
+
+234
+00:08:49,860 --> 00:08:51,839
+beginning to see<font color="#CCCCCC"> these we're gonna see</font>
+
+235
+00:08:51,839 --> 00:08:54,089
+things<font color="#E5E5E5"> coming up within the next year</font>
+
+236
+00:08:54,089 --> 00:08:56,250
+like<font color="#E5E5E5"> these lightning networks that</font><font color="#CCCCCC"> are</font>
+
+237
+00:08:56,250 --> 00:08:58,220
+<font color="#E5E5E5">going to be used for</font><font color="#CCCCCC"> small transactions</font>
+
+238
+00:08:58,220 --> 00:09:00,660
+that<font color="#CCCCCC"> are going</font><font color="#E5E5E5"> to fix the prevailing</font>
+
+239
+00:09:00,660 --> 00:09:02,370
+problems that exist in Bitcoin which is
+
+240
+00:09:02,370 --> 00:09:04,529
+that the networks are vastly clogged
+
+241
+00:09:04,529 --> 00:09:07,440
+right now it's<font color="#E5E5E5"> very expensive to send</font>
+
+242
+00:09:07,440 --> 00:09:11,279
+and receive Bitcoin<font color="#E5E5E5"> it's it's growing</font><font color="#CCCCCC"> so</font>
+
+243
+00:09:11,279 --> 00:09:14,190
+hard so<font color="#E5E5E5"> fast</font><font color="#CCCCCC"> it's almost become unusable</font>
+
+244
+00:09:14,190 --> 00:09:17,360
+just by itself<font color="#CCCCCC"> for</font><font color="#E5E5E5"> regular small</font>
+
+245
+00:09:17,360 --> 00:09:19,970
+transactions<font color="#E5E5E5"> that's disasters are</font>
+
+246
+00:09:19,970 --> 00:09:21,959
+looking for things<font color="#CCCCCC"> like</font><font color="#E5E5E5"> a yeah that's</font>
+
+247
+00:09:21,959 --> 00:09:23,370
+the<font color="#E5E5E5"> reason why I never really</font><font color="#CCCCCC"> got into</font>
+
+248
+00:09:23,370 --> 00:09:25,050
+<font color="#CCCCCC">it</font><font color="#E5E5E5"> because it's it's</font><font color="#CCCCCC"> not easy to move</font>
+
+249
+00:09:25,050 --> 00:09:26,519
+around<font color="#E5E5E5"> at least I'm not adept at doing</font>
+
+250
+00:09:26,519 --> 00:09:28,079
+<font color="#E5E5E5">those kind of things</font><font color="#CCCCCC"> you know</font><font color="#E5E5E5"> Mitch and</font>
+
+251
+00:09:28,079 --> 00:09:30,029
+other people are saying<font color="#CCCCCC"> that'll</font><font color="#E5E5E5"> this</font>
+
+252
+00:09:30,029 --> 00:09:31,949
+whole thing with a Bitcoin<font color="#E5E5E5"> it's really</font>
+
+253
+00:09:31,949 --> 00:09:34,579
+just an investment<font color="#E5E5E5"> and it's not really a</font>
+
+254
+00:09:34,579 --> 00:09:37,380
+<font color="#E5E5E5">mechanism to buy and sell it is to park</font>
+
+255
+00:09:37,380 --> 00:09:39,779
+your money somewhere and leave it<font color="#CCCCCC"> there</font>
+
+256
+00:09:39,779 --> 00:09:41,399
+because<font color="#E5E5E5"> you don't trust the</font><font color="#CCCCCC"> banks I mean</font>
+
+257
+00:09:41,399 --> 00:09:42,190
+it
+
+258
+00:09:42,190 --> 00:09:45,010
+for it<font color="#E5E5E5"> to be</font><font color="#CCCCCC"> really Universal you have</font>
+
+259
+00:09:45,010 --> 00:09:47,140
+to be able<font color="#CCCCCC"> to be able</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> use your wallet</font>
+
+260
+00:09:47,140 --> 00:09:48,640
+as they call<font color="#CCCCCC"> it in just you know</font><font color="#E5E5E5"> and buy</font>
+
+261
+00:09:48,640 --> 00:09:50,050
+<font color="#CCCCCC">things and sell things</font><font color="#E5E5E5"> it's not that</font>
+
+262
+00:09:50,050 --> 00:09:52,450
+easy<font color="#CCCCCC"> to do it's</font><font color="#E5E5E5"> not widely accepted</font><font color="#CCCCCC"> you</font>
+
+263
+00:09:52,450 --> 00:09:54,760
+know many a more innovative people<font color="#E5E5E5"> do</font>
+
+264
+00:09:54,760 --> 00:09:58,570
+say<font color="#CCCCCC"> they accept they go</font><font color="#E5E5E5"> ahead Mitch it's</font>
+
+265
+00:09:58,570 --> 00:09:59,920
+part<font color="#E5E5E5"> of it you know it's part of a</font>
+
+266
+00:09:59,920 --> 00:10:01,900
+diversification<font color="#E5E5E5"> strategy where you'd</font>
+
+267
+00:10:01,900 --> 00:10:03,520
+have<font color="#E5E5E5"> some Bitcoin and just sit</font><font color="#CCCCCC"> on it and</font>
+
+268
+00:10:03,520 --> 00:10:05,380
+<font color="#E5E5E5">not worry</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> what your basis was and</font>
+
+269
+00:10:05,380 --> 00:10:06,790
+whatever the losses are you're going<font color="#E5E5E5"> to</font>
+
+270
+00:10:06,790 --> 00:10:08,740
+eat the losses and if you get a<font color="#CCCCCC"> profit</font>
+
+271
+00:10:08,740 --> 00:10:10,840
+<font color="#E5E5E5">out of it fine but</font><font color="#CCCCCC"> you know it when you</font>
+
+272
+00:10:10,840 --> 00:10:13,240
+have<font color="#E5E5E5"> that much volatility</font><font color="#CCCCCC"> you know I</font>
+
+273
+00:10:13,240 --> 00:10:15,010
+disagree<font color="#CCCCCC"> that the big hedge funds</font><font color="#E5E5E5"> will</font>
+
+274
+00:10:15,010 --> 00:10:16,690
+get involved<font color="#CCCCCC"> in</font><font color="#E5E5E5"> this when you have a 30</font>
+
+275
+00:10:16,690 --> 00:10:19,390
+percent volatility swing each<font color="#CCCCCC"> direction</font>
+
+276
+00:10:19,390 --> 00:10:21,580
+so from peak<font color="#CCCCCC"> to trough and back up</font><font color="#E5E5E5"> again</font>
+
+277
+00:10:21,580 --> 00:10:24,160
+<font color="#CCCCCC">down and up again I mean</font><font color="#E5E5E5"> no investor</font>
+
+278
+00:10:24,160 --> 00:10:25,540
+wants<font color="#E5E5E5"> to tolerate that</font><font color="#CCCCCC"> kind</font><font color="#E5E5E5"> of</font>
+
+279
+00:10:25,540 --> 00:10:27,400
+volatility and<font color="#CCCCCC"> how can</font><font color="#E5E5E5"> you manage</font><font color="#CCCCCC"> that</font>
+
+280
+00:10:27,400 --> 00:10:28,960
+<font color="#E5E5E5">kind of volatility becomes very</font>
+
+281
+00:10:28,960 --> 00:10:32,320
+difficult<font color="#E5E5E5"> so are the hedge funds and the</font>
+
+282
+00:10:32,320 --> 00:10:34,510
+<font color="#E5E5E5">banks going to jump in</font><font color="#CCCCCC"> headfirst</font><font color="#E5E5E5"> up at</font>
+
+283
+00:10:34,510 --> 00:10:36,220
+<font color="#E5E5E5">these levels probably not if we get a</font>
+
+284
+00:10:36,220 --> 00:10:38,590
+more bit a bit<font color="#E5E5E5"> more stability</font><font color="#CCCCCC"> into</font><font color="#E5E5E5"> these</font>
+
+285
+00:10:38,590 --> 00:10:40,660
+<font color="#E5E5E5">markets you'll see more</font><font color="#CCCCCC"> investment but</font>
+
+286
+00:10:40,660 --> 00:10:43,750
+also from that<font color="#E5E5E5"> risk reward perspective</font>
+
+287
+00:10:43,750 --> 00:10:45,130
+you've also got<font color="#CCCCCC"> to keep in mind</font><font color="#E5E5E5"> that</font>
+
+288
+00:10:45,130 --> 00:10:46,780
+<font color="#E5E5E5">this is a non regulated market that's</font>
+
+289
+00:10:46,780 --> 00:10:48,310
+the attractiveness from people but
+
+290
+00:10:48,310 --> 00:10:50,320
+governments have<font color="#E5E5E5"> overreached like we're</font>
+
+291
+00:10:50,320 --> 00:10:52,390
+seeing<font color="#E5E5E5"> in the media right now</font><font color="#CCCCCC"> the deep</font>
+
+292
+00:10:52,390 --> 00:10:54,580
+state runs America they're trying to
+
+293
+00:10:54,580 --> 00:10:56,380
+<font color="#E5E5E5">rewrite history here</font><font color="#CCCCCC"> with these</font><font color="#E5E5E5"> statue</font>
+
+294
+00:10:56,380 --> 00:10:58,720
+<font color="#CCCCCC">wars</font><font color="#E5E5E5"> and that's always a dangerous time</font>
+
+295
+00:10:58,720 --> 00:11:00,910
+so if too many<font color="#E5E5E5"> people</font><font color="#CCCCCC"> get on the Bitcoin</font>
+
+296
+00:11:00,910 --> 00:11:03,460
+<font color="#E5E5E5">train and get on the crypto train the</font>
+
+297
+00:11:03,460 --> 00:11:04,990
+government could come<font color="#E5E5E5"> in one</font><font color="#CCCCCC"> day</font><font color="#E5E5E5"> and say</font>
+
+298
+00:11:04,990 --> 00:11:06,460
+it's<font color="#E5E5E5"> illegal in this</font><font color="#CCCCCC"> country we're</font>
+
+299
+00:11:06,460 --> 00:11:08,440
+cracking<font color="#E5E5E5"> down</font><font color="#CCCCCC"> on everybody because right</font>
+
+300
+00:11:08,440 --> 00:11:09,940
+now when you open<font color="#CCCCCC"> up an account they</font>
+
+301
+00:11:09,940 --> 00:11:11,440
+demand the KYC
+
+302
+00:11:11,440 --> 00:11:13,510
+<font color="#E5E5E5">know your customer information and they</font>
+
+303
+00:11:13,510 --> 00:11:15,670
+they will when it becomes bigger they
+
+304
+00:11:15,670 --> 00:11:17,500
+will try<font color="#CCCCCC"> to regulate</font><font color="#E5E5E5"> it and they will</font>
+
+305
+00:11:17,500 --> 00:11:19,900
+try to control it<font color="#E5E5E5"> it's difficult for the</font>
+
+306
+00:11:19,900 --> 00:11:21,520
+government to let anything come out<font color="#E5E5E5"> of</font>
+
+307
+00:11:21,520 --> 00:11:23,950
+its you<font color="#E5E5E5"> know come out of its grasp</font><font color="#CCCCCC"> the</font>
+
+308
+00:11:23,950 --> 00:11:25,540
+Federal<font color="#E5E5E5"> Reserve prints willy-nilly</font>
+
+309
+00:11:25,540 --> 00:11:27,310
+<font color="#CCCCCC">through</font><font color="#E5E5E5"> trillions and trillions of</font>
+
+310
+00:11:27,310 --> 00:11:28,660
+<font color="#E5E5E5">dollars since we went off</font><font color="#CCCCCC"> the gold</font>
+
+311
+00:11:28,660 --> 00:11:30,070
+<font color="#E5E5E5">standard backed by nothing</font>
+
+312
+00:11:30,070 --> 00:11:32,320
+now that's this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> a Ponzi scheme the</font>
+
+313
+00:11:32,320 --> 00:11:33,640
+government<font color="#CCCCCC"> then that's what my book is</font>
+
+314
+00:11:33,640 --> 00:11:36,250
+<font color="#E5E5E5">about the government debt globally is a</font>
+
+315
+00:11:36,250 --> 00:11:38,140
+Ponzi<font color="#CCCCCC"> scheme the government's can never</font>
+
+316
+00:11:38,140 --> 00:11:40,210
+repay this debt<font color="#E5E5E5"> and we're about</font><font color="#CCCCCC"> to hit a</font>
+
+317
+00:11:40,210 --> 00:11:42,130
+wall<font color="#CCCCCC"> so should</font><font color="#E5E5E5"> people invest in</font>
+
+318
+00:11:42,130 --> 00:11:44,680
+alternative asset classes<font color="#E5E5E5"> absolutely</font><font color="#CCCCCC"> is</font>
+
+319
+00:11:44,680 --> 00:11:46,690
+a Leonardo da Vinci<font color="#E5E5E5"> painting</font><font color="#CCCCCC"> were</font>
+
+320
+00:11:46,690 --> 00:11:48,700
+painting worth half a billion dollars is
+
+321
+00:11:48,700 --> 00:11:50,650
+an apartment<font color="#CCCCCC"> in Midtown</font><font color="#E5E5E5"> midtown</font>
+
+322
+00:11:50,650 --> 00:11:52,150
+Manhattan worth six hundred million
+
+323
+00:11:52,150 --> 00:11:54,750
+<font color="#E5E5E5">dollars</font><font color="#CCCCCC"> I would argue no it's not</font>
+
+324
+00:11:54,750 --> 00:11:56,100
+<font color="#CCCCCC">Wishon prices from when I went to</font>
+
+325
+00:11:56,100 --> 00:11:58,350
+university<font color="#CCCCCC"> have gone up</font><font color="#E5E5E5"> two thousand</font>
+
+326
+00:11:58,350 --> 00:12:00,210
+percent<font color="#E5E5E5"> yep</font><font color="#CCCCCC"> where real wages</font>
+
+327
+00:12:00,210 --> 00:12:03,000
+<font color="#E5E5E5">since the 1980s</font><font color="#CCCCCC"> are flat</font><font color="#E5E5E5"> so how does</font>
+
+328
+00:12:03,000 --> 00:12:04,980
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> work out when I got out of school I</font>
+
+329
+00:12:04,980 --> 00:12:06,600
+could have bought<font color="#CCCCCC"> it my two bedroom and</font>
+
+330
+00:12:06,600 --> 00:12:08,700
+<font color="#E5E5E5">they let</font><font color="#CCCCCC"> me let me jump in here fifty</font>
+
+331
+00:12:08,700 --> 00:12:10,470
+<font color="#E5E5E5">thousand the</font><font color="#CCCCCC"> gentleman I</font><font color="#E5E5E5"> have to go to a</font>
+
+332
+00:12:10,470 --> 00:12:11,940
+break<font color="#CCCCCC"> and after that short break we'll</font>
+
+333
+00:12:11,940 --> 00:12:13,410
+continue<font color="#E5E5E5"> our</font><font color="#CCCCCC"> discussion on</font><font color="#E5E5E5"> Bitcoin</font>
+
+334
+00:12:13,410 --> 00:12:23,400
+<font color="#E5E5E5">staying with</font><font color="#CCCCCC"> Archie welcome back to</font>
+
+335
+00:12:23,400 --> 00:12:24,450
+<font color="#CCCCCC">crosstalk</font><font color="#E5E5E5"> where all things are</font>
+
+336
+00:12:24,450 --> 00:12:25,710
+<font color="#E5E5E5">considered on Peter</font><font color="#CCCCCC"> labelled</font><font color="#E5E5E5"> to remind</font>
+
+337
+00:12:25,710 --> 00:12:28,330
+you were<font color="#E5E5E5"> discussing Bitcoin</font>
+
+338
+00:12:28,330 --> 00:12:31,419
+[Music]
+
+339
+00:12:35,610 --> 00:12:38,320
+let me go<font color="#E5E5E5"> back to you in in Cambridge</font>
+
+340
+00:12:38,320 --> 00:12:41,170
+<font color="#CCCCCC">while it</font><font color="#E5E5E5"> is a fascinating concept these</font>
+
+341
+00:12:41,170 --> 00:12:43,230
+<font color="#E5E5E5">crypto currencies there is the concern</font>
+
+342
+00:12:43,230 --> 00:12:46,960
+<font color="#CCCCCC">of accountability in illegal drugs</font><font color="#E5E5E5"> arms</font>
+
+343
+00:12:46,960 --> 00:12:49,780
+<font color="#E5E5E5">and other kinds of illegal activity can</font>
+
+344
+00:12:49,780 --> 00:12:52,690
+stay under the radar<font color="#CCCCCC"> of the authorities</font>
+
+345
+00:12:52,690 --> 00:12:53,920
+I mean I think<font color="#E5E5E5"> that's the kind of a</font>
+
+346
+00:12:53,920 --> 00:12:56,770
+<font color="#CCCCCC">downside also you know when people talk</font>
+
+347
+00:12:56,770 --> 00:13:00,100
+about<font color="#E5E5E5"> it</font><font color="#CCCCCC"> as being a new fiat currency</font>
+
+348
+00:13:00,100 --> 00:13:01,930
+one day I mean you know<font color="#CCCCCC"> people are</font>
+
+349
+00:13:01,930 --> 00:13:04,480
+<font color="#E5E5E5">buying big-ticket items because they</font><font color="#CCCCCC"> are</font>
+
+350
+00:13:04,480 --> 00:13:07,030
+avoiding<font color="#E5E5E5"> taxation and things like that</font>
+
+351
+00:13:07,030 --> 00:13:09,970
+<font color="#E5E5E5">so I mean it kind of cuts both ways here</font>
+
+352
+00:13:09,970 --> 00:13:12,130
+<font color="#CCCCCC">I guess</font><font color="#E5E5E5"> really</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> most important</font>
+
+353
+00:13:12,130 --> 00:13:14,200
+question will be if this kinds<font color="#E5E5E5"> of</font>
+
+354
+00:13:14,200 --> 00:13:16,360
+<font color="#CCCCCC">cryptocurrencies are successful what</font><font color="#E5E5E5"> is</font>
+
+355
+00:13:16,360 --> 00:13:18,580
+the temptation<font color="#CCCCCC"> of governments to</font><font color="#E5E5E5"> step in</font>
+
+356
+00:13:18,580 --> 00:13:21,040
+<font color="#E5E5E5">to regulate it and would regulation kill</font>
+
+357
+00:13:21,040 --> 00:13:23,830
+<font color="#E5E5E5">it go ahead right now</font><font color="#CCCCCC"> it's been very</font>
+
+358
+00:13:23,830 --> 00:13:26,590
+<font color="#E5E5E5">interesting</font><font color="#CCCCCC"> to watch the the migration</font>
+
+359
+00:13:26,590 --> 00:13:29,050
+of<font color="#E5E5E5"> regulatory interest across</font><font color="#CCCCCC"> the space</font>
+
+360
+00:13:29,050 --> 00:13:31,240
+<font color="#CCCCCC">me first we had law enforcement with the</font>
+
+361
+00:13:31,240 --> 00:13:32,800
+rise of the<font color="#E5E5E5"> Silk Road and</font><font color="#CCCCCC"> the online</font>
+
+362
+00:13:32,800 --> 00:13:35,770
+dark web<font color="#E5E5E5"> its use</font><font color="#CCCCCC"> of Bitcoin</font><font color="#E5E5E5"> taken</font>
+
+363
+00:13:35,770 --> 00:13:37,690
+<font color="#E5E5E5">interest in the sector more recently</font>
+
+364
+00:13:37,690 --> 00:13:40,150
+securities regulators and and with the
+
+365
+00:13:40,150 --> 00:13:42,880
+up swinging<font color="#E5E5E5"> in prices I'm sure tax</font>
+
+366
+00:13:42,880 --> 00:13:44,560
+authorities are kind of<font color="#E5E5E5"> next in line to</font>
+
+367
+00:13:44,560 --> 00:13:47,500
+to start getting<font color="#E5E5E5"> involved</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> regards</font>
+
+368
+00:13:47,500 --> 00:13:49,300
+<font color="#CCCCCC">the law</font><font color="#E5E5E5"> enforcement question</font><font color="#CCCCCC"> you know</font>
+
+369
+00:13:49,300 --> 00:13:51,070
+it's<font color="#E5E5E5"> a it's a it's a double-edged</font><font color="#CCCCCC"> sword</font>
+
+370
+00:13:51,070 --> 00:13:53,020
+for<font color="#E5E5E5"> law</font><font color="#CCCCCC"> enforcement because on the one</font>
+
+371
+00:13:53,020 --> 00:13:55,870
+<font color="#E5E5E5">hand you know you know these these</font>
+
+372
+00:13:55,870 --> 00:13:58,360
+currencies do enable privacy on dark web
+
+373
+00:13:58,360 --> 00:14:00,370
+transactions but<font color="#E5E5E5"> on the other hand law</font>
+
+374
+00:14:00,370 --> 00:14:01,810
+enforcement when they catch a criminal
+
+375
+00:14:01,810 --> 00:14:04,030
+<font color="#E5E5E5">who's been using Bitcoin and they get a</font>
+
+376
+00:14:04,030 --> 00:14:06,250
+<font color="#E5E5E5">hold of their wallet software</font><font color="#CCCCCC"> they get</font>
+
+377
+00:14:06,250 --> 00:14:08,380
+effectively their books<font color="#CCCCCC"> and they may</font>
+
+378
+00:14:08,380 --> 00:14:09,760
+have<font color="#CCCCCC"> a good chance of recovering</font><font color="#E5E5E5"> some</font><font color="#CCCCCC"> of</font>
+
+379
+00:14:09,760 --> 00:14:11,020
+<font color="#E5E5E5">the funds and</font><font color="#CCCCCC"> that's</font><font color="#E5E5E5"> not something</font><font color="#CCCCCC"> you</font>
+
+380
+00:14:11,020 --> 00:14:13,000
+<font color="#E5E5E5">get with a cash criminal where there</font>
+
+381
+00:14:13,000 --> 00:14:14,860
+isn't record-keeping so you can use the
+
+382
+00:14:14,860 --> 00:14:17,740
+blockchain<font color="#E5E5E5"> to prosecute cases and that</font>
+
+383
+00:14:17,740 --> 00:14:19,660
+has been<font color="#E5E5E5"> done and law</font><font color="#CCCCCC"> enforcement I</font>
+
+384
+00:14:19,660 --> 00:14:21,400
+think at least in<font color="#E5E5E5"> some jurisdictions</font><font color="#CCCCCC"> is</font>
+
+385
+00:14:21,400 --> 00:14:24,520
+steadily<font color="#E5E5E5"> becoming more open to seeing</font>
+
+386
+00:14:24,520 --> 00:14:26,800
+crime committed<font color="#E5E5E5"> with with blockchain</font>
+
+387
+00:14:26,800 --> 00:14:27,970
+technology it does give them<font color="#E5E5E5"> an</font>
+
+388
+00:14:27,970 --> 00:14:30,190
+advantage<font color="#CCCCCC"> over cash crime okay it's a</font>
+
+389
+00:14:30,190 --> 00:14:32,140
+<font color="#E5E5E5">very transparent technology that's an</font>
+
+390
+00:14:32,140 --> 00:14:35,500
+amazing plus<font color="#CCCCCC"> for</font><font color="#E5E5E5"> Jeffrey earlier this</font>
+
+391
+00:14:35,500 --> 00:14:37,240
+<font color="#E5E5E5">week there was a San Francisco judge</font>
+
+392
+00:14:37,240 --> 00:14:39,250
+putting pressure<font color="#CCCCCC"> on a company that</font>
+
+393
+00:14:39,250 --> 00:14:41,020
+trades in these commodities<font color="#CCCCCC"> in these</font>
+
+394
+00:14:41,020 --> 00:14:43,390
+currencies here<font color="#CCCCCC"> they want</font><font color="#E5E5E5"> to see their</font>
+
+395
+00:14:43,390 --> 00:14:45,070
+books they want to see names they want
+
+396
+00:14:45,070 --> 00:14:47,200
+to see transactions here<font color="#E5E5E5"> what</font>
+
+397
+00:14:47,200 --> 00:14:49,780
+kind of threat is that<font color="#CCCCCC"> to Bitcoin or can</font>
+
+398
+00:14:49,780 --> 00:14:52,270
+Bitcoin<font color="#E5E5E5"> evolve with this kind of</font>
+
+399
+00:14:52,270 --> 00:14:54,160
+supervision<font color="#E5E5E5"> in regulation from</font><font color="#CCCCCC"> the</font>
+
+400
+00:14:54,160 --> 00:14:56,440
+outside<font color="#E5E5E5"> because my sense is</font><font color="#CCCCCC"> maybe you</font>
+
+401
+00:14:56,440 --> 00:14:57,940
+can correct me<font color="#E5E5E5"> of our own the</font><font color="#CCCCCC"> people</font>
+
+402
+00:14:57,940 --> 00:15:00,310
+<font color="#E5E5E5">that started</font><font color="#CCCCCC"> this whole thing don't</font><font color="#E5E5E5"> like</font>
+
+403
+00:15:00,310 --> 00:15:02,740
+the state they don't like<font color="#CCCCCC"> Authority they</font>
+
+404
+00:15:02,740 --> 00:15:05,080
+they<font color="#CCCCCC"> really want to</font><font color="#E5E5E5"> be on their</font><font color="#CCCCCC"> own here</font>
+
+405
+00:15:05,080 --> 00:15:07,810
+<font color="#E5E5E5">we got to see an encroachment on this on</font>
+
+406
+00:15:07,810 --> 00:15:10,810
+<font color="#E5E5E5">these kinds of of currencies and and you</font>
+
+407
+00:15:10,810 --> 00:15:13,540
+know alternative<font color="#E5E5E5"> financial mechanisms go</font>
+
+408
+00:15:13,540 --> 00:15:13,960
+ahead
+
+409
+00:15:13,960 --> 00:15:16,930
+you know the<font color="#E5E5E5"> regulation of the exchanges</font>
+
+410
+00:15:16,930 --> 00:15:20,080
+began in the spring<font color="#E5E5E5"> of 2013 so far as</font>
+
+411
+00:15:20,080 --> 00:15:23,230
+I'm concerned it was a disaster<font color="#CCCCCC"> we would</font>
+
+412
+00:15:23,230 --> 00:15:24,670
+have been much further along<font color="#E5E5E5"> without</font>
+
+413
+00:15:24,670 --> 00:15:26,950
+<font color="#E5E5E5">these regulations</font><font color="#CCCCCC"> this is the main way</font>
+
+414
+00:15:26,950 --> 00:15:29,380
+the government<font color="#CCCCCC"> can control Bitcoin it's</font>
+
+415
+00:15:29,380 --> 00:15:31,330
+not actually controlling Bitcoin<font color="#CCCCCC"> what</font>
+
+416
+00:15:31,330 --> 00:15:33,190
+they're<font color="#E5E5E5"> doing is controlling the</font><font color="#CCCCCC"> traffic</font>
+
+417
+00:15:33,190 --> 00:15:36,070
+between<font color="#E5E5E5"> national monies and and crypto</font>
+
+418
+00:15:36,070 --> 00:15:38,770
+assets<font color="#E5E5E5"> coming and going they can control</font>
+
+419
+00:15:38,770 --> 00:15:40,800
+that<font color="#E5E5E5"> and the US has some of the worst</font>
+
+420
+00:15:40,800 --> 00:15:44,890
+regulations in the<font color="#CCCCCC"> world on on crypto</font>
+
+421
+00:15:44,890 --> 00:15:47,800
+assets right now on<font color="#E5E5E5"> these</font><font color="#CCCCCC"> exchanges</font><font color="#E5E5E5"> why</font>
+
+422
+00:15:47,800 --> 00:15:50,110
+is that<font color="#E5E5E5"> Jeffrey why is these markets are</font>
+
+423
+00:15:50,110 --> 00:15:53,140
+global<font color="#CCCCCC"> why is that why</font><font color="#E5E5E5"> is that situation</font>
+
+424
+00:15:53,140 --> 00:15:54,880
+exists<font color="#E5E5E5"> in the</font><font color="#CCCCCC"> US well because the</font>
+
+425
+00:15:54,880 --> 00:15:58,600
+regulators are trying to force a modern
+
+426
+00:15:58,600 --> 00:16:01,350
+<font color="#E5E5E5">digital technology into an analog</font>
+
+427
+00:16:01,350 --> 00:16:04,150
+<font color="#CCCCCC">old-world style regulatory framework and</font>
+
+428
+00:16:04,150 --> 00:16:06,580
+it's not<font color="#E5E5E5"> working and all it's doing is</font>
+
+429
+00:16:06,580 --> 00:16:08,620
+driving the innovation<font color="#CCCCCC"> out of this</font>
+
+430
+00:16:08,620 --> 00:16:10,810
+country<font color="#CCCCCC"> and to other</font><font color="#E5E5E5"> places you know</font><font color="#CCCCCC"> you</font>
+
+431
+00:16:10,810 --> 00:16:13,630
+<font color="#E5E5E5">can buy Bitcoin much easier in a place</font>
+
+432
+00:16:13,630 --> 00:16:16,450
+like Israel<font color="#E5E5E5"> then you can in the United</font>
+
+433
+00:16:16,450 --> 00:16:19,360
+States or in Brazil you know<font color="#E5E5E5"> I've I've</font>
+
+434
+00:16:19,360 --> 00:16:21,610
+I've<font color="#E5E5E5"> been to exchanges all over the</font>
+
+435
+00:16:21,610 --> 00:16:23,890
+world<font color="#E5E5E5"> most of</font><font color="#CCCCCC"> them are</font><font color="#E5E5E5"> very free and</font>
+
+436
+00:16:23,890 --> 00:16:25,330
+<font color="#CCCCCC">easy and there's a lot</font><font color="#E5E5E5"> of</font>
+
+437
+00:16:25,330 --> 00:16:27,250
+entrepreneurship<font color="#E5E5E5"> there in the US it's</font>
+
+438
+00:16:27,250 --> 00:16:29,710
+all about command and control<font color="#E5E5E5"> it's a</font>
+
+439
+00:16:29,710 --> 00:16:32,230
+huge mistake<font color="#CCCCCC"> for American regulators to</font>
+
+440
+00:16:32,230 --> 00:16:33,820
+<font color="#E5E5E5">be taking this direction because they're</font>
+
+441
+00:16:33,820 --> 00:16:35,470
+<font color="#E5E5E5">just gonna drive the innovation and the</font>
+
+442
+00:16:35,470 --> 00:16:38,440
+capital<font color="#E5E5E5"> outside the borders</font><font color="#CCCCCC"> anyone and</font>
+
+443
+00:16:38,440 --> 00:16:40,870
+crypto assets in general our global
+
+444
+00:16:40,870 --> 00:16:42,310
+technology they<font color="#E5E5E5"> don't care about the</font>
+
+445
+00:16:42,310 --> 00:16:44,710
+nation-state<font color="#E5E5E5"> okay Mitch you know address</font>
+
+446
+00:16:44,710 --> 00:16:46,780
+that issue there<font color="#E5E5E5"> because I mean the all</font>
+
+447
+00:16:46,780 --> 00:16:48,190
+mighty dollar
+
+448
+00:16:48,190 --> 00:16:50,230
+<font color="#E5E5E5">it's a threat you know Bitcoin and all</font>
+
+449
+00:16:50,230 --> 00:16:52,740
+these<font color="#E5E5E5"> other</font><font color="#CCCCCC"> things</font><font color="#E5E5E5"> are a threat</font><font color="#CCCCCC"> to the</font>
+
+450
+00:16:52,740 --> 00:16:55,360
+global domination of the dollar they
+
+451
+00:16:55,360 --> 00:16:57,940
+<font color="#CCCCCC">says</font><font color="#E5E5E5"> I'm obviously something the US</font>
+
+452
+00:16:57,940 --> 00:16:59,209
+doesn't<font color="#E5E5E5"> want to have happen</font>
+
+453
+00:16:59,209 --> 00:17:02,329
+right I mean<font color="#CCCCCC"> you're right we're talking</font>
+
+454
+00:17:02,329 --> 00:17:05,000
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> US dollar hegemony and you know my</font>
+
+455
+00:17:05,000 --> 00:17:06,709
+view is us the days of u.s. dollar
+
+456
+00:17:06,709 --> 00:17:10,159
+hegemony are<font color="#E5E5E5"> very limited look before</font>
+
+457
+00:17:10,159 --> 00:17:12,079
+the United<font color="#E5E5E5"> States became</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> reserve</font>
+
+458
+00:17:12,079 --> 00:17:14,260
+currency I think in 1913 when they
+
+459
+00:17:14,260 --> 00:17:16,490
+created the Federal Reserve which<font color="#CCCCCC"> is a</font>
+
+460
+00:17:16,490 --> 00:17:19,819
+<font color="#E5E5E5">disaster</font><font color="#CCCCCC"> that should be</font><font color="#E5E5E5"> shuttered</font><font color="#CCCCCC"> we the</font>
+
+461
+00:17:19,819 --> 00:17:22,099
+British<font color="#CCCCCC"> Sterling was the reserve</font>
+
+462
+00:17:22,099 --> 00:17:24,970
+currency<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> world for 300</font><font color="#E5E5E5"> years now</font>
+
+463
+00:17:24,970 --> 00:17:27,679
+<font color="#E5E5E5">was the United</font><font color="#CCCCCC"> States responsible with</font>
+
+464
+00:17:27,679 --> 00:17:29,510
+the petro dollar and going off the gold
+
+465
+00:17:29,510 --> 00:17:31,370
+<font color="#CCCCCC">standard in the Nixon era I would argue</font>
+
+466
+00:17:31,370 --> 00:17:33,860
+no<font color="#E5E5E5"> I would argue</font><font color="#CCCCCC"> that this has caused</font>
+
+467
+00:17:33,860 --> 00:17:35,899
+market distortion<font color="#E5E5E5"> I would argue</font><font color="#CCCCCC"> that the</font>
+
+468
+00:17:35,899 --> 00:17:37,580
+central bank policies in the last<font color="#CCCCCC"> 10</font>
+
+469
+00:17:37,580 --> 00:17:39,770
+years have been<font color="#E5E5E5"> more destructive than</font>
+
+470
+00:17:39,770 --> 00:17:41,929
+<font color="#E5E5E5">the good that they've provided because I</font>
+
+471
+00:17:41,929 --> 00:17:43,669
+don't see that we've created growth for
+
+472
+00:17:43,669 --> 00:17:45,799
+the trillions of<font color="#E5E5E5"> dollars in debt</font><font color="#CCCCCC"> that</font>
+
+473
+00:17:45,799 --> 00:17:49,190
+we've created<font color="#E5E5E5"> now the as we saw in the</font>
+
+474
+00:17:49,190 --> 00:17:51,470
+<font color="#E5E5E5">last administration in Washington big</font>
+
+475
+00:17:51,470 --> 00:17:54,620
+<font color="#E5E5E5">government is in right now</font><font color="#CCCCCC"> so our our</font>
+
+476
+00:17:54,620 --> 00:17:56,570
+government is gargantuan<font color="#E5E5E5"> and they want</font>
+
+477
+00:17:56,570 --> 00:17:58,580
+overreach with<font color="#E5E5E5"> everything</font><font color="#CCCCCC"> and every part</font>
+
+478
+00:17:58,580 --> 00:18:00,169
+<font color="#E5E5E5">of people's</font><font color="#CCCCCC"> live is</font><font color="#E5E5E5"> in America</font>
+
+479
+00:18:00,169 --> 00:18:02,299
+and to do that<font color="#CCCCCC"> if you get an iron fist</font>
+
+480
+00:18:02,299 --> 00:18:04,940
+<font color="#CCCCCC">on the banking system and make people</font>
+
+481
+00:18:04,940 --> 00:18:06,649
+take<font color="#CCCCCC"> away cash</font><font color="#E5E5E5"> like one of the</font>
+
+482
+00:18:06,649 --> 00:18:08,299
+professors at Harvard wrote a book to
+
+483
+00:18:08,299 --> 00:18:10,130
+<font color="#E5E5E5">get rid of all cash make people put</font>
+
+484
+00:18:10,130 --> 00:18:12,140
+their<font color="#CCCCCC"> money into</font><font color="#E5E5E5"> the bank</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> is this</font>
+
+485
+00:18:12,140 --> 00:18:13,880
+is a very<font color="#E5E5E5"> dangerous</font><font color="#CCCCCC"> thing that's why</font>
+
+486
+00:18:13,880 --> 00:18:15,980
+people<font color="#E5E5E5"> are</font><font color="#CCCCCC"> migrating to</font><font color="#E5E5E5"> other</font><font color="#CCCCCC"> platforms</font>
+
+487
+00:18:15,980 --> 00:18:18,320
+so we're at a point<font color="#CCCCCC"> in time in history</font>
+
+488
+00:18:18,320 --> 00:18:20,720
+that<font color="#E5E5E5"> could be very pivotable pivotal as</font>
+
+489
+00:18:20,720 --> 00:18:23,000
+to how we move<font color="#E5E5E5"> forward with this but you</font>
+
+490
+00:18:23,000 --> 00:18:25,190
+know<font color="#E5E5E5"> the</font><font color="#CCCCCC"> media is controlled</font><font color="#E5E5E5"> and if you</font>
+
+491
+00:18:25,190 --> 00:18:26,870
+look at regulation they don't regulate
+
+492
+00:18:26,870 --> 00:18:28,940
+<font color="#E5E5E5">companies</font><font color="#CCCCCC"> like Amazon that</font><font color="#E5E5E5"> dips their</font>
+
+493
+00:18:28,940 --> 00:18:30,799
+fingers into<font color="#CCCCCC"> everything in every</font>
+
+494
+00:18:30,799 --> 00:18:33,649
+<font color="#CCCCCC">different business</font><font color="#E5E5E5"> or Facebook or Google</font>
+
+495
+00:18:33,649 --> 00:18:36,230
+<font color="#E5E5E5">that have become oligarchy Oleg our keys</font>
+
+496
+00:18:36,230 --> 00:18:37,940
+and basically these are<font color="#CCCCCC"> they're</font>
+
+497
+00:18:37,940 --> 00:18:39,919
+controlling the content<font color="#CCCCCC"> that everybody</font>
+
+498
+00:18:39,919 --> 00:18:42,020
+sees and<font color="#E5E5E5"> this is where the regulatory</font>
+
+499
+00:18:42,020 --> 00:18:44,450
+<font color="#E5E5E5">agencies should be looking</font><font color="#CCCCCC"> not to</font>
+
+500
+00:18:44,450 --> 00:18:46,220
+control people's<font color="#E5E5E5"> currency movements or</font>
+
+501
+00:18:46,220 --> 00:18:47,840
+whether they want<font color="#E5E5E5"> to buy gold or invest</font>
+
+502
+00:18:47,840 --> 00:18:49,850
+a bit in Bitcoin<font color="#E5E5E5"> they should look at</font>
+
+503
+00:18:49,850 --> 00:18:52,279
+<font color="#E5E5E5">controlling the Facebook's the googles</font>
+
+504
+00:18:52,279 --> 00:18:54,649
+and looking at news the news entities
+
+505
+00:18:54,649 --> 00:18:56,179
+<font color="#CCCCCC">because news in this country has become</font>
+
+506
+00:18:56,179 --> 00:18:59,059
+opinion and<font color="#CCCCCC"> political advocacy</font><font color="#E5E5E5"> and this</font>
+
+507
+00:18:59,059 --> 00:19:01,520
+is a way for<font color="#CCCCCC"> the liberal left to</font><font color="#E5E5E5"> rewrite</font>
+
+508
+00:19:01,520 --> 00:19:03,590
+history which is extremely<font color="#E5E5E5"> dangerous if</font>
+
+509
+00:19:03,590 --> 00:19:07,130
+we<font color="#CCCCCC"> look mark Thompson who ran BBC during</font>
+
+510
+00:19:07,130 --> 00:19:09,409
+<font color="#E5E5E5">the Jimmy</font><font color="#CCCCCC"> Saville pedophile scandal</font>
+
+511
+00:19:09,409 --> 00:19:11,779
+snuck out<font color="#CCCCCC"> of London and</font><font color="#E5E5E5"> came to run the</font>
+
+512
+00:19:11,779 --> 00:19:12,600
+New<font color="#CCCCCC"> York Times</font>
+
+513
+00:19:12,600 --> 00:19:15,060
+and people have forget about<font color="#E5E5E5"> history and</font>
+
+514
+00:19:15,060 --> 00:19:16,740
+<font color="#E5E5E5">where people are and</font><font color="#CCCCCC"> how they move</font>
+
+515
+00:19:16,740 --> 00:19:18,780
+<font color="#E5E5E5">around but the same</font><font color="#CCCCCC"> establishment</font>
+
+516
+00:19:18,780 --> 00:19:20,090
+figures are running<font color="#E5E5E5"> things</font>
+
+517
+00:19:20,090 --> 00:19:22,710
+<font color="#E5E5E5">160 companies used to control the media</font>
+
+518
+00:19:22,710 --> 00:19:24,900
+now it's down to<font color="#CCCCCC"> 6 yeah one of the</font>
+
+519
+00:19:24,900 --> 00:19:26,340
+<font color="#E5E5E5">things I can Cambridge one of the things</font>
+
+520
+00:19:26,340 --> 00:19:29,250
+I find<font color="#E5E5E5"> appealing about Bitcoin and</font><font color="#CCCCCC"> I</font>
+
+521
+00:19:29,250 --> 00:19:31,380
+can't say<font color="#E5E5E5"> that I'm an</font><font color="#CCCCCC"> expert on it by a</font>
+
+522
+00:19:31,380 --> 00:19:32,040
+<font color="#CCCCCC">longshot</font>
+
+523
+00:19:32,040 --> 00:19:34,080
+it seems to<font color="#E5E5E5"> promote entrepreneurship</font>
+
+524
+00:19:34,080 --> 00:19:35,990
+which<font color="#CCCCCC"> i think is a really</font><font color="#E5E5E5"> good</font><font color="#CCCCCC"> thing</font>
+
+525
+00:19:35,990 --> 00:19:38,010
+<font color="#CCCCCC">again you know people that want</font><font color="#E5E5E5"> to get</font>
+
+526
+00:19:38,010 --> 00:19:39,570
+<font color="#E5E5E5">out of the system away</font><font color="#CCCCCC"> from the system</font>
+
+527
+00:19:39,570 --> 00:19:41,760
+<font color="#CCCCCC">away</font><font color="#E5E5E5"> from regulation is it fair to say</font>
+
+528
+00:19:41,760 --> 00:19:43,710
+<font color="#E5E5E5">that this these</font><font color="#CCCCCC"> cryptocurrencies would</font>
+
+529
+00:19:43,710 --> 00:19:47,100
+be good for innovation<font color="#CCCCCC"> III think</font>
+
+530
+00:19:47,100 --> 00:19:49,230
+<font color="#E5E5E5">absolutely</font><font color="#CCCCCC"> I don't think anyone</font><font color="#E5E5E5"> doubts</font>
+
+531
+00:19:49,230 --> 00:19:51,000
+that<font color="#E5E5E5"> and I think actually you know is</font>
+
+532
+00:19:51,000 --> 00:19:52,950
+you<font color="#E5E5E5"> know I think</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> can argue about</font>
+
+533
+00:19:52,950 --> 00:19:55,560
+how<font color="#E5E5E5"> bad the regulation is but but in</font>
+
+534
+00:19:55,560 --> 00:19:57,330
+certain<font color="#CCCCCC"> markets there's been a very pro</font>
+
+535
+00:19:57,330 --> 00:20:00,330
+<font color="#E5E5E5">cryptocurrency attitude because of the</font>
+
+536
+00:20:00,330 --> 00:20:02,850
+innovative<font color="#E5E5E5"> aspects of it and and people</font>
+
+537
+00:20:02,850 --> 00:20:05,010
+<font color="#E5E5E5">are taking a much lighter touch</font><font color="#CCCCCC"> in</font>
+
+538
+00:20:05,010 --> 00:20:07,380
+<font color="#E5E5E5">Switzerland and in the UK even and and</font>
+
+539
+00:20:07,380 --> 00:20:09,270
+and<font color="#E5E5E5"> elsewhere because</font><font color="#CCCCCC"> of the</font><font color="#E5E5E5"> amount of</font>
+
+540
+00:20:09,270 --> 00:20:11,820
+investment<font color="#CCCCCC"> that's coming in</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> of</font>
+
+541
+00:20:11,820 --> 00:20:13,950
+the you<font color="#CCCCCC"> know faster cheaper</font><font color="#E5E5E5"> better ways</font>
+
+542
+00:20:13,950 --> 00:20:15,240
+we can do things with<font color="#E5E5E5"> this technology</font>
+
+543
+00:20:15,240 --> 00:20:17,760
+<font color="#E5E5E5">and not just the technology itself but</font>
+
+544
+00:20:17,760 --> 00:20:19,170
+also<font color="#E5E5E5"> the new funding channels that are</font>
+
+545
+00:20:19,170 --> 00:20:21,000
+<font color="#E5E5E5">opening up I mean the</font><font color="#CCCCCC"> ico phenomenon</font>
+
+546
+00:20:21,000 --> 00:20:22,950
+which we<font color="#CCCCCC"> havein really talked about</font><font color="#E5E5E5"> is</font>
+
+547
+00:20:22,950 --> 00:20:24,900
+is on the<font color="#CCCCCC"> one hand</font><font color="#E5E5E5"> scary because there</font>
+
+548
+00:20:24,900 --> 00:20:26,520
+are some projects<font color="#E5E5E5"> out there that</font><font color="#CCCCCC"> you</font>
+
+549
+00:20:26,520 --> 00:20:28,710
+know clearly are<font color="#CCCCCC"> fraudulent</font><font color="#E5E5E5"> but at the</font>
+
+550
+00:20:28,710 --> 00:20:30,570
+<font color="#E5E5E5">same time you're also opening up</font><font color="#CCCCCC"> access</font>
+
+551
+00:20:30,570 --> 00:20:32,730
+to<font color="#CCCCCC"> early-stage</font><font color="#E5E5E5"> technology to seed stage</font>
+
+552
+00:20:32,730 --> 00:20:34,800
+<font color="#E5E5E5">technology to anyone around</font><font color="#CCCCCC"> the world</font>
+
+553
+00:20:34,800 --> 00:20:36,450
+<font color="#CCCCCC">with an internet connection this used to</font>
+
+554
+00:20:36,450 --> 00:20:38,040
+be<font color="#E5E5E5"> something you had to be a rich VC</font>
+
+555
+00:20:38,040 --> 00:20:40,290
+right be able to do now if you have a
+
+556
+00:20:40,290 --> 00:20:41,850
+computer<font color="#E5E5E5"> have a little cryptocurrency</font>
+
+557
+00:20:41,850 --> 00:20:43,800
+you can invest in<font color="#CCCCCC"> early-stage</font><font color="#E5E5E5"> technology</font>
+
+558
+00:20:43,800 --> 00:20:46,290
+<font color="#E5E5E5">that has a lot of risks and it also has</font>
+
+559
+00:20:46,290 --> 00:20:47,700
+a lot of opportunities it's personally
+
+560
+00:20:47,700 --> 00:20:49,110
+for me I<font color="#E5E5E5"> take an exciting part of this</font>
+
+561
+00:20:49,110 --> 00:20:52,020
+story<font color="#CCCCCC"> yeah you know Mitch you know</font><font color="#E5E5E5"> I'm</font>
+
+562
+00:20:52,020 --> 00:20:54,270
+glad<font color="#E5E5E5"> you</font><font color="#CCCCCC"> brought that up oh okay</font><font color="#E5E5E5"> yeah</font>
+
+563
+00:20:54,270 --> 00:20:56,220
+<font color="#E5E5E5">Geoffrey go ahead jump in yeah no I just</font>
+
+564
+00:20:56,220 --> 00:20:57,420
+<font color="#E5E5E5">well I'm glad you brought</font><font color="#CCCCCC"> up this point</font>
+
+565
+00:20:57,420 --> 00:20:59,100
+<font color="#CCCCCC">about the ICO because they've been</font><font color="#E5E5E5"> kind</font>
+
+566
+00:20:59,100 --> 00:21:01,350
+of smeared<font color="#E5E5E5"> and the financial press is</font>
+
+567
+00:21:01,350 --> 00:21:03,630
+being you<font color="#E5E5E5"> know just just scams and it's</font>
+
+568
+00:21:03,630 --> 00:21:05,310
+true there are<font color="#CCCCCC"> some there's some</font><font color="#E5E5E5"> rackets</font>
+
+569
+00:21:05,310 --> 00:21:07,620
+<font color="#E5E5E5">out there but the truth is</font><font color="#CCCCCC"> that this is</font>
+
+570
+00:21:07,620 --> 00:21:10,260
+an amazing<font color="#CCCCCC"> innovation yeah that allows</font>
+
+571
+00:21:10,260 --> 00:21:12,000
+people to<font color="#CCCCCC"> rate any business to raise</font>
+
+572
+00:21:12,000 --> 00:21:15,390
+<font color="#E5E5E5">raise money from anybody without using</font>
+
+573
+00:21:15,390 --> 00:21:17,520
+any financial intermediaries I mean<font color="#CCCCCC"> they</font>
+
+574
+00:21:17,520 --> 00:21:19,590
+<font color="#E5E5E5">the amount of innovation a capital</font>
+
+575
+00:21:19,590 --> 00:21:21,960
+that's going to<font color="#E5E5E5"> unleash on the planet</font>
+
+576
+00:21:21,960 --> 00:21:24,160
+<font color="#CCCCCC">earth is beyond</font>
+
+577
+00:21:24,160 --> 00:21:27,160
+<font color="#CCCCCC">leaf I mean</font><font color="#E5E5E5"> it's inconceivable what the</font>
+
+578
+00:21:27,160 --> 00:21:29,500
+ICL market could do to<font color="#CCCCCC"> transform the</font>
+
+579
+00:21:29,500 --> 00:21:30,940
+nature<font color="#CCCCCC"> of capital</font><font color="#E5E5E5"> markets themselves</font>
+
+580
+00:21:30,940 --> 00:21:33,070
+<font color="#E5E5E5">over the next</font><font color="#CCCCCC"> 10 years</font><font color="#E5E5E5"> yeah Mitch go</font>
+
+581
+00:21:33,070 --> 00:21:36,610
+ahead jump in yeah the issue the<font color="#E5E5E5"> issue</font>
+
+582
+00:21:36,610 --> 00:21:38,830
+with the<font color="#E5E5E5"> ICO market as I see it it's an</font>
+
+583
+00:21:38,830 --> 00:21:40,420
+exciting<font color="#E5E5E5"> market but it's the wild wild</font>
+
+584
+00:21:40,420 --> 00:21:43,150
+<font color="#E5E5E5">west in early days and what's going to</font>
+
+585
+00:21:43,150 --> 00:21:45,820
+happen<font color="#CCCCCC"> is there the the propaganda</font>
+
+586
+00:21:45,820 --> 00:21:48,010
+bullhorns of the media and advocates for
+
+587
+00:21:48,010 --> 00:21:50,320
+<font color="#CCCCCC">the JPMorgan's and the Goldmans</font><font color="#E5E5E5"> who are</font>
+
+588
+00:21:50,320 --> 00:21:51,550
+<font color="#E5E5E5">being infringed upon</font>
+
+589
+00:21:51,550 --> 00:21:53,620
+when these offerings come out and
+
+590
+00:21:53,620 --> 00:21:55,660
+they're<font color="#CCCCCC"> not going to get</font><font color="#E5E5E5"> their fees</font><font color="#CCCCCC"> so</font>
+
+591
+00:21:55,660 --> 00:21:57,490
+what will happen<font color="#CCCCCC"> is it'll make an</font>
+
+592
+00:21:57,490 --> 00:21:59,230
+<font color="#CCCCCC">example</font><font color="#E5E5E5"> out of one that fails like the</font>
+
+593
+00:21:59,230 --> 00:22:01,420
+media does they'll have<font color="#E5E5E5"> you know blow it</font>
+
+594
+00:22:01,420 --> 00:22:03,790
+up into<font color="#E5E5E5"> a epic proportion this is bad</font>
+
+595
+00:22:03,790 --> 00:22:05,410
+you're going<font color="#CCCCCC"> to get ripped</font><font color="#E5E5E5"> off don't do</font>
+
+596
+00:22:05,410 --> 00:22:07,360
+this<font color="#E5E5E5"> give us your money</font><font color="#CCCCCC"> only invest</font>
+
+597
+00:22:07,360 --> 00:22:09,880
+through something that<font color="#E5E5E5"> we vet for you so</font>
+
+598
+00:22:09,880 --> 00:22:11,620
+yeah there will<font color="#E5E5E5"> be winners</font><font color="#CCCCCC"> and losers</font>
+
+599
+00:22:11,620 --> 00:22:13,750
+and<font color="#E5E5E5"> you have to keep the perspective</font>
+
+600
+00:22:13,750 --> 00:22:14,950
+like I said at the beginning<font color="#E5E5E5"> there's</font>
+
+601
+00:22:14,950 --> 00:22:16,780
+perspective and risk and reward<font color="#E5E5E5"> and</font>
+
+602
+00:22:16,780 --> 00:22:18,820
+don't you know<font color="#E5E5E5"> don't go out and mortgage</font>
+
+603
+00:22:18,820 --> 00:22:20,290
+your house<font color="#E5E5E5"> and put everything into</font>
+
+604
+00:22:20,290 --> 00:22:23,230
+Bitcoin or<font color="#CCCCCC"> an</font><font color="#E5E5E5"> ICO but look you look at</font>
+
+605
+00:22:23,230 --> 00:22:25,720
+this as a portion<font color="#E5E5E5"> of your portfolio</font><font color="#CCCCCC"> and</font>
+
+606
+00:22:25,720 --> 00:22:27,940
+have<font color="#CCCCCC"> a diversification in your portfolio</font>
+
+607
+00:22:27,940 --> 00:22:29,620
+<font color="#E5E5E5">and when you when you go into a</font>
+
+608
+00:22:29,620 --> 00:22:32,170
+<font color="#CCCCCC">high-risk thing like an ICO</font><font color="#E5E5E5"> do your due</font>
+
+609
+00:22:32,170 --> 00:22:33,820
+<font color="#CCCCCC">diligence do your own homework and like</font>
+
+610
+00:22:33,820 --> 00:22:35,590
+I say in my book don't ever invest in
+
+611
+00:22:35,590 --> 00:22:37,690
+<font color="#CCCCCC">anything</font><font color="#E5E5E5"> that you don't</font><font color="#CCCCCC"> fully understand</font>
+
+612
+00:22:37,690 --> 00:22:39,670
+<font color="#E5E5E5">if you don't fully understand it and you</font>
+
+613
+00:22:39,670 --> 00:22:41,230
+invest<font color="#E5E5E5"> in it then you deserve to lose</font>
+
+614
+00:22:41,230 --> 00:22:43,060
+what you lose<font color="#CCCCCC"> but you know if you give</font>
+
+615
+00:22:43,060 --> 00:22:44,800
+it your best<font color="#E5E5E5"> don't put all your money</font>
+
+616
+00:22:44,800 --> 00:22:46,150
+into<font color="#E5E5E5"> it don't put all your eggs in one</font>
+
+617
+00:22:46,150 --> 00:22:48,430
+<font color="#CCCCCC">basket</font><font color="#E5E5E5"> diversify put a little bit into</font>
+
+618
+00:22:48,430 --> 00:22:50,440
+<font color="#CCCCCC">it and</font><font color="#E5E5E5"> if you take a loss on</font><font color="#CCCCCC"> that and</font>
+
+619
+00:22:50,440 --> 00:22:51,820
+you make a<font color="#E5E5E5"> profit somewhere else then</font>
+
+620
+00:22:51,820 --> 00:22:53,980
+you can balance out but<font color="#E5E5E5"> your payout with</font>
+
+621
+00:22:53,980 --> 00:22:55,630
+some of<font color="#E5E5E5"> these is going to</font><font color="#CCCCCC"> be exponential</font>
+
+622
+00:22:55,630 --> 00:22:58,030
+as<font color="#E5E5E5"> we've witnessed before</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> problem</font>
+
+623
+00:22:58,030 --> 00:22:59,320
+comes in when you try to<font color="#E5E5E5"> harness the</font>
+
+624
+00:22:59,320 --> 00:23:01,930
+volatility<font color="#E5E5E5"> okay</font><font color="#CCCCCC"> Gary</font><font color="#E5E5E5"> let me go back</font><font color="#CCCCCC"> to</font>
+
+625
+00:23:01,930 --> 00:23:03,490
+UK<font color="#E5E5E5"> which give you the last word here</font>
+
+626
+00:23:03,490 --> 00:23:06,670
+what does Bitcoin<font color="#CCCCCC"> in</font><font color="#E5E5E5"> similar currencies</font>
+
+627
+00:23:06,670 --> 00:23:08,170
+what do they have to do to<font color="#CCCCCC"> create</font>
+
+628
+00:23:08,170 --> 00:23:10,630
+confidence<font color="#E5E5E5"> in people</font><font color="#CCCCCC"> that just see it</font><font color="#E5E5E5"> as</font>
+
+629
+00:23:10,630 --> 00:23:12,550
+too<font color="#CCCCCC"> risky what maybe</font><font color="#E5E5E5"> one or</font><font color="#CCCCCC"> two steps</font>
+
+630
+00:23:12,550 --> 00:23:16,120
+they need<font color="#E5E5E5"> to install well I think you</font>
+
+631
+00:23:16,120 --> 00:23:18,040
+know similar<font color="#E5E5E5"> to</font><font color="#CCCCCC"> the mid to late 90s</font>
+
+632
+00:23:18,040 --> 00:23:20,380
+<font color="#E5E5E5">during the the dot-com kind of run-up</font>
+
+633
+00:23:20,380 --> 00:23:21,940
+<font color="#E5E5E5">we're in the infrastructure building</font>
+
+634
+00:23:21,940 --> 00:23:23,830
+phase for<font color="#CCCCCC"> cryptocurrency and crypto</font>
+
+635
+00:23:23,830 --> 00:23:25,540
+assets<font color="#E5E5E5"> I mean yesterday we had three</font>
+
+636
+00:23:25,540 --> 00:23:27,520
+major exchanges<font color="#E5E5E5"> experienced significant</font>
+
+637
+00:23:27,520 --> 00:23:30,250
+problems<font color="#CCCCCC"> two of those exchanges are</font>
+
+638
+00:23:30,250 --> 00:23:32,200
+<font color="#CCCCCC">gonna</font><font color="#E5E5E5"> be relied</font><font color="#CCCCCC"> upon by CM II for their</font>
+
+639
+00:23:32,200 --> 00:23:35,010
+futures market<font color="#E5E5E5"> that simply can't happen</font>
+
+640
+00:23:35,010 --> 00:23:37,300
+<font color="#CCCCCC">you know on a regular basis like it does</font>
+
+641
+00:23:37,300 --> 00:23:37,870
+<font color="#E5E5E5">for this</font>
+
+642
+00:23:37,870 --> 00:23:40,270
+to be taken<font color="#E5E5E5"> seriously by institutions to</font>
+
+643
+00:23:40,270 --> 00:23:42,880
+be trusted by<font color="#CCCCCC"> a broader class of</font>
+
+644
+00:23:42,880 --> 00:23:45,130
+<font color="#CCCCCC">individual so more capital markets</font>
+
+645
+00:23:45,130 --> 00:23:47,110
+infrastructure is needed<font color="#CCCCCC"> the right</font>
+
+646
+00:23:47,110 --> 00:23:49,390
+balance<font color="#CCCCCC"> the regulation is needed and I</font>
+
+647
+00:23:49,390 --> 00:23:50,559
+think<font color="#CCCCCC"> people</font><font color="#E5E5E5"> absolutely need</font><font color="#CCCCCC"> to</font>
+
+648
+00:23:50,559 --> 00:23:52,510
+understand<font color="#E5E5E5"> that this is you know still</font>
+
+649
+00:23:52,510 --> 00:23:54,790
+<font color="#CCCCCC">very early stage very volatile I agree</font>
+
+650
+00:23:54,790 --> 00:23:56,110
+with the you know<font color="#E5E5E5"> the comments that have</font>
+
+651
+00:23:56,110 --> 00:23:57,640
+<font color="#CCCCCC">been</font><font color="#E5E5E5"> made</font><font color="#CCCCCC"> about only</font><font color="#E5E5E5"> put into this what</font>
+
+652
+00:23:57,640 --> 00:23:59,020
+you can afford<font color="#CCCCCC"> to lose because</font><font color="#E5E5E5"> it is</font>
+
+653
+00:23:59,020 --> 00:24:00,970
+still<font color="#CCCCCC"> very high risk ok well it's it's</font>
+
+654
+00:24:00,970 --> 00:24:02,440
+<font color="#E5E5E5">been an interesting ride I'm sure we're</font>
+
+655
+00:24:02,440 --> 00:24:03,790
+gonna see a lot more<font color="#E5E5E5"> ahead that's all</font>
+
+656
+00:24:03,790 --> 00:24:05,890
+<font color="#E5E5E5">the time we have gentlemen many thanks</font>
+
+657
+00:24:05,890 --> 00:24:07,660
+<font color="#CCCCCC">um</font><font color="#E5E5E5"> I guess in New York Atlanta</font><font color="#CCCCCC"> and in</font>
+
+658
+00:24:07,660 --> 00:24:09,370
+Cambridge<font color="#E5E5E5"> and thanks to our viewers</font><font color="#CCCCCC"> for</font>
+
+659
+00:24:09,370 --> 00:24:11,080
+<font color="#CCCCCC">watching us</font><font color="#E5E5E5"> here at</font><font color="#CCCCCC"> RT see you next time</font>
+
+660
+00:24:11,080 --> 00:00:00,000
+<font color="#E5E5E5">and remember</font><font color="#CCCCCC"> Rostock</font><font color="#E5E5E5"> rules</font>
+

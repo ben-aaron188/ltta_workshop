@@ -1,0 +1,109 @@
+do you recognize this face most people
+probably do but try describing it from
+memory kind of like a taller head
+does he have brown eyes they're not
+exactly deep-set green eyes
+bland futures I don't remember like any
+dimples or Mole Ben Affleck's nose not
+flat but not super pointy either so this
+is the challenge faced by police sketch
+artists they interview victims and
+witnesses about a criminal space and
+their drawings go out to the public with
+the goal of soliciting tips take a good
+look at that schedule if that man looks
+familiar if you have any information
+you're asked to call Metro Crime
+Stoppers we wanted to know how accurate
+these sketches are and if there might be
+a better way to put those memories onto
+paper
+there really isn't any good data on how
+often a sketch helps police catch a
+criminal on the loose but by the looks
+of it more often than not they don't
+achieve a very strong likeness there are
+certainly some notable exceptions like
+this sketch made of Oklahoma City bomber
+Timothy McVeigh or cases where the
+suspect has a really distinctive look
+but mostly they're kind of a shot in the
+dark
+in academic experiment sketches were
+identified correctly only around 8% of
+the time now that's arguably better than
+nothing but there are also risks to
+putting out a bad sketch this man served
+12 years in prison for a crime he didn't
+commit after someone said he looked like
+the sketch of a rapist and then the
+victim wrongly chose him from a lineup
+here's why this is so hard
+psychologists have long known that we
+process human faces holistically rather
+than on the level of individual features
+here's an example take a look at this
+photo now which of these is the mouth
+that you saw generally people are worse
+at getting this right then if the mouths
+are shown in the original facial context
+or try this are the top halves of these
+faces the same how about these we're
+generally quicker to answer when the
+halves are misaligned than when they're
+aligned and that suggests that it's
+difficult for us to focus on just one
+part of the face the rest of the face
+tends to interfere so our brains aren't
+well-suited to describe individual
+facial features but that's typically
+what victims and witnesses are asked to
+do and that's been the fatal flaw for
+many of the attempts to improve upon the
+hand-drawn sketch dating back to the
+1960s when police tried using these
+mechanical kits of interchangeable
+features picture puzzles to put mugs in
+the jug
+then came computer programs that were
+slightly more customizable but they
+still relied on feature by feature
+reconstruction just like mr. Potato Head
+in laboratory tests these systems
+perform pretty badly but the latest
+generation of computer program seems
+more promising this system was developed
+by psychologists at the University of
+Winchester in the UK and it makes use of
+the fact that were good at recognizing
+faces but bad at recalling their parts
+after the victim or witness specifies
+the gender age and race it presents
+randomly generated faces instead of
+individual features and all the person
+has to do is choose a few faces that
+most resemble the suspect using what's
+called a genetic algorithm those faces
+then get bred together and a new set of
+faces appears they can also adjust
+holistic variables like attractiveness
+when they tested this program in the lab
+participants were able to generate these
+celebrity faces from memory and when
+they tried it in five real police
+departments it led to arrests around 40%
+of the time on average and up to 60
+percent in the most recent trial for
+example this composite helped police
+catch a man who raped two women in
+Manchester someone called in after they
+recognized the image as a local
+fast-food worker nearly half of violent
+crimes go unsolved in the US and that
+includes around 60 percent of rapes
+sketches are easy to poke fun at but
+they've been one of the only tools
+detectives have in the absence of other
+evidence so it's good news that in the
+future they might be slightly less of an
+art in more of a science

@@ -1,0 +1,273 @@
+following a damning report indicating
+that that Cambridge analytical which was
+a firm hired by Trump's campaign had
+accessed the private information of more
+than 50 million Facebook users Mark
+Zuckerberg obviously was asked to
+comment on it and it took him a while to
+release a statement but at first he
+apologized on Twitter and then granted
+an interview to CNN's Laurie Segall now
+in that interview here's what he had to
+say and how he believes Facebook will be
+better moving forward this was a major
+breach of trust and and I'm really sorry
+that this happened and we have a basic
+responsibility to protect people's data
+and if we can't do that then we don't
+deserve to have the opportunity to serve
+people so our responsibility now is to
+make sure that this doesn't happen again
+and there are a few basic things that I
+think we need to do to ensure that one
+is making sure that developers like
+Alexander Cogan who got access to a lot
+of information and then I'm improperly
+used to just don't get access to as much
+information going forward so we are
+doing a set of things to to restrict the
+amount of access that that that
+developers can get going forward but the
+other is we need to make sure that there
+aren't any other Cambridge analytical's
+out there right or folks who have been
+properly accessed data so we're gonna go
+now and investigate every app that has
+access to a large amount of information
+from before we lock down our platform
+and if we detect any suspicious activity
+we're going to do a full forensic audit
+and and make sure that no one out there
+is improperly using data and that's I
+think the responsibility that we have to
+people in our community okay that was
+his statement and just to fill you in on
+this story it was discovered that
+Cambridge analytic had access to about
+50 million users profiles and that
+included information that they had kept
+private meaning only their friends were
+able to see it it wasn't a public
+profile now Alexander Cogan the person
+that Zuckerberg mentioned in that state
+it built an app known as this is your
+digital life okay at about 270,000
+people downloaded it and the people who
+downloaded that app essentially allowed
+for Cambridge analytic to access their
+information in addition to all of their
+friends information right which is why
+the number went up to as much as 50
+million Facebook users being affected
+Alexandre Cogan's sold that data to
+Cambridge analytical so that's the
+connection there I just want to clarify
+two things about that number one they
+got that information with misleading
+information that they gave to the people
+downloading that they said that it was
+being used for university research it
+wasn't it was used for a private profit
+and it was used to then eventually
+manipulate our elections but that was
+for the profit of Cambridge analytic ah
+so that was a lie and so that's a huge
+problem right there and so number two is
+the Friends of the people who downloaded
+that did not consent to anything let
+alone being able to data mined all of
+their private information so those are
+two giant problems that Facebook now has
+to figure out did more people do that
+did more people a lie to us and then be
+data mined in a way that we should not
+have allowed them to and right and so
+Facebook had apparently contacted people
+at Cambridge analytical and said you
+obtained that information against our
+guidelines you need to delete it and
+then they just kind of left it there and
+there's no reason to believe that
+Cambridge analytic Edyta
+seemed to apologize for that but I like
+that you mentioned the consent issue
+there because this is a thing I mean
+sure an argument can be made that
+there's some portion of Facebook users
+who immediately fall victim to the click
+Beatty quizzes and apps and it drives me
+crazy they're usually moms but so they
+download it and then everyone on their
+friends list is now you know a victim of
+this right and and they don't know about
+it they don't know who downloaded that
+app they don't know who's accessing
+their private information so anyone who
+makes the argument that a I mean this is
+stuff that you willy-nilly share about
+yourself on Facebook and too bad that's
+how the world
+works no no there are people out there
+who take extreme measures to keep their
+information friends-only they don't
+download these shady apps and they still
+unfortunately got their data taken by
+this firm it's a little bit more context
+on to the the claim that Cambridge
+analytical got rid of the information
+two years ago Facebook goes hey you guys
+seem shady we know you got that
+information by the way Facebook does not
+reveal that publicly for a long long a
+long time and analytical says oh don't
+worry brother we got it we deleted it
+just trust us and Facebook goes ok
+problem solved and we found out through
+the recent investigations no they hadn't
+deleted it there's people inside
+Cambridge analytic oh that talked to
+reporters anonymously and said no I saw
+it on a drive the other day it's still
+there so you can and part of the reason
+why Facebook doesn't go through a lot of
+trouble of trying to make sure that it's
+a later one to be fair to them it's
+awfully hard to know whether someone
+else a third party has deleted
+information off their servers or not I
+don't know how you know that right one
+thing you could do though is you could
+ban them back then not now right that
+could have made a huge difference for
+violating a massive violation of your
+protocol and your rules right and then
+but they also want to make money
+Facebook does so they don't want to be
+too harsh on the people that are using
+them to buy ads and lots and lots of ads
+millions of dollars in ads so they're
+like oh slap on the wrist for that
+violation oh look at this what a
+wonderful coincidence it turns out
+you're buying tens of millions of
+dollars of ads on us okay yeah I mean
+nothing in life is free nothing so
+social media is not free you're paying
+some price to use that platform and the
+price is your personal information which
+is you know insanely valuable to a lot
+of different companies they want to know
+about you your habits your likes your
+dislikes your behavior online and so yes
+this information is going to be sold the
+question is how much of that information
+and how much of it are you consenting to
+so final two things on that number one
+people will now use this to make sure
+that Facebook discriminates against all
+independent media now that's a story
+that that is not told in any of these
+articles by the way the articles and all
+the press that are covering it are old
+media so what does old media doing now
+okay you did something wrong with
+Cambridge analytic ah so make sure that
+you don't have any independent voices
+anymore and you should only do quote
+unquote legitimate news from oh what a
+lucky break us right so wait
+Cambridge analytical has to do with an
+app that went into people's privacy what
+do you what does that have to do with
+you should only do CNN and Washington
+Post stories but right now there is a
+world or pressure on facebook to hey you
+better clean up that fake news stuff and
+this story seems related to that story
+right so that's it from now on only old
+media on Facebook so and there by the
+way it appears on the surface that they
+are now since they're backpedaling and
+in a world of trouble and doing PR
+damage control looks like they're
+agreeing to that well yeah I mean look I
+think that overall you're right
+especially when it comes to the stories
+that have surfaced regarding the fake
+news of course more of the traditional
+news outlets want to get rid of the
+competition and so they'll over report
+it and make it seem as though anything
+that isn't you know a longtime brand of
+American news is is illegitimate we
+should get rid of it with this story
+though make no mistake this has nothing
+to do with fake news may be
+establishment corporate media wants to
+utilize it for their own purposes but
+this is really about third parties who
+go against Facebook's own guidelines
+don't get anyone's consent and data mine
+you know personal information of
+millions of people tens of millions of
+people so again I don't know if they're
+gonna twist this story as a way of doing
+away with independent media I wouldn't
+be surprised but this story has nothing
+to do with news it has everything to do
+with your privacy and how much of the
+information you know you're consenting
+to are not consenting to getting used by
+a third party
+yeah and secondly look a lot of people
+have a B
+with Facebook as I explained on the show
+yesterday and let me also explain our
+conflicts of interest as I do every time
+Facebook is a partner of ours but as you
+can tell I've been awfully harsh to them
+in some respects and also fair to them
+in other respects right so we're trying
+to ignore that issue and we're also
+independent media so it affects us so
+I'm letting you know about that conflict
+of interest now when ever CNN reports
+the story or Washington Post reports a
+story they don't go by the way we're old
+media and when we yell at Facebook that
+they should only use old media and all
+independent not just fake news not just
+crazy conspiracy theories but you should
+get rid of all non credible in other
+words non us old media they never admit
+it they never admit that conflict of
+interest and if you tell them they go Oh
+golly gee this thing helping us it's
+just a total coincidence well it isn't a
+coincidence so you can do both things at
+the same time you can clean up facebook
+and and I know that tackling face fake
+news and conspiracy theories is not easy
+a lot of people believe in conspiracy
+theories so what are you gonna do with
+all of your users admissions of them
+that believe in conspiracy theories we
+don't but they do I don't know what
+Facebook is supposed to do about that so
+there's a number of different issues
+here there's the fake news there's a
+conspiracy theories there's the invasion
+of privacy but it's not too much to ask
+for them to handle those as best as they
+can in an intelligent way issue by issue
+instead of just throwing up their hands
+and going okay old media it is let's
+just drown out all the independent
+voices that made the internet great so
+that we can be quote-unquote credible if
+you liked this video bless your heart we
+got a lot more where that came from we
+do a full show every day Monday through
+Friday come enjoy ad-free
+by becoming a member TYT Network comm
+slash join

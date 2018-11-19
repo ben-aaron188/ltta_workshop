@@ -1,0 +1,436 @@
+1
+00:00:00,380 --> 00:00:03,000
+<font color="#E5E5E5">CloudFlare a San Francisco tech firm</font>
+
+2
+00:00:03,000 --> 00:00:05,069
+isn't<font color="#CCCCCC"> as well-known as</font><font color="#E5E5E5"> Google or Amazon</font>
+
+3
+00:00:05,069 --> 00:00:08,370
+<font color="#CCCCCC">but it handles 10% of all internet</font>
+
+4
+00:00:08,370 --> 00:00:10,440
+requests for clients ranging from the
+
+5
+00:00:10,440 --> 00:00:13,410
+Trump<font color="#E5E5E5"> pence campaign to OkCupid it also</font>
+
+6
+00:00:13,410 --> 00:00:15,299
+handled traffic for the neo-nazi site
+
+7
+00:00:15,299 --> 00:00:17,910
+daily stormer at least<font color="#E5E5E5"> until last week</font>
+
+8
+00:00:17,910 --> 00:00:20,130
+when<font color="#E5E5E5"> CloudFlare CEO</font><font color="#CCCCCC"> Matthew Prince</font>
+
+9
+00:00:20,130 --> 00:00:22,080
+decided<font color="#CCCCCC"> to make the</font><font color="#E5E5E5"> stormer the first</font>
+
+10
+00:00:22,080 --> 00:00:24,140
+site ever to be kicked off<font color="#E5E5E5"> his platform</font>
+
+11
+00:00:24,140 --> 00:00:26,640
+<font color="#CCCCCC">prince spoke with</font><font color="#E5E5E5"> Michael Moynihan about</font>
+
+12
+00:00:26,640 --> 00:00:28,740
+opening the Pandora's<font color="#E5E5E5"> box of policing</font>
+
+13
+00:00:28,740 --> 00:00:32,399
+speech on the<font color="#CCCCCC"> internet I</font><font color="#E5E5E5"> found the daily</font>
+
+14
+00:00:32,399 --> 00:00:37,350
+<font color="#CCCCCC">Strummer repugnant I did not shedding</font><font color="#E5E5E5"> a</font>
+
+15
+00:00:37,350 --> 00:00:39,450
+tear that that content<font color="#CCCCCC"> isn't online</font>
+
+16
+00:00:39,450 --> 00:00:44,210
+<font color="#E5E5E5">anymore</font><font color="#CCCCCC"> but one of my fellow employees</font>
+
+17
+00:00:44,210 --> 00:00:47,070
+<font color="#CCCCCC">came up</font><font color="#E5E5E5"> to me the day</font><font color="#CCCCCC"> that we we talked</font>
+
+18
+00:00:47,070 --> 00:00:49,230
+took it offline and<font color="#E5E5E5"> said hey is this</font><font color="#CCCCCC"> the</font>
+
+19
+00:00:49,230 --> 00:00:50,820
+day<font color="#CCCCCC"> the Internet dies</font><font color="#E5E5E5"> there was no due</font>
+
+20
+00:00:50,820 --> 00:00:52,440
+process you woke up one<font color="#CCCCCC"> morning and</font><font color="#E5E5E5"> you</font>
+
+21
+00:00:52,440 --> 00:00:53,969
+said<font color="#E5E5E5"> this</font><font color="#CCCCCC"> is bad and I'm gonna do</font>
+
+22
+00:00:53,969 --> 00:00:55,559
+something<font color="#CCCCCC"> about</font><font color="#E5E5E5"> it the thing</font><font color="#CCCCCC"> that was</font>
+
+23
+00:00:55,559 --> 00:00:58,230
+the<font color="#E5E5E5"> tipping point for us was I woke up</font>
+
+24
+00:00:58,230 --> 00:01:02,550
+one day<font color="#E5E5E5"> and and opened Twitter and there</font>
+
+25
+00:01:02,550 --> 00:01:04,559
+were a whole<font color="#CCCCCC"> bunch</font><font color="#E5E5E5"> of screenshots of</font>
+
+26
+00:01:04,559 --> 00:01:07,350
+some<font color="#CCCCCC"> of the people behind</font><font color="#E5E5E5"> the site</font>
+
+27
+00:01:07,350 --> 00:01:09,750
+saying<font color="#E5E5E5"> CloudFlare actually supports us</font>
+
+28
+00:01:09,750 --> 00:01:12,420
+and<font color="#E5E5E5"> upper-echelon</font><font color="#CCCCCC"> zuv their leadership</font>
+
+29
+00:01:12,420 --> 00:01:16,350
+<font color="#CCCCCC">our white</font><font color="#E5E5E5"> nationalists but</font><font color="#CCCCCC"> that's</font><font color="#E5E5E5"> easily</font>
+
+30
+00:01:16,350 --> 00:01:17,670
+dismissed<font color="#E5E5E5"> though isn't it</font><font color="#CCCCCC"> you're</font>
+
+31
+00:01:17,670 --> 00:01:19,860
+<font color="#E5E5E5">absolutely right</font><font color="#CCCCCC"> but what it had become</font>
+
+32
+00:01:19,860 --> 00:01:23,159
+was such a distraction<font color="#CCCCCC"> that we</font><font color="#E5E5E5"> couldn't</font>
+
+33
+00:01:23,159 --> 00:01:25,890
+have the really important conversation
+
+34
+00:01:25,890 --> 00:01:28,380
+about<font color="#E5E5E5"> what role should CloudFlare be</font>
+
+35
+00:01:28,380 --> 00:01:30,509
+playing in regulating<font color="#E5E5E5"> the internet and</font>
+
+36
+00:01:30,509 --> 00:01:34,560
+so I am deeply concerned<font color="#CCCCCC"> that I had the</font>
+
+37
+00:01:34,560 --> 00:01:37,829
+<font color="#CCCCCC">authority and the power</font><font color="#E5E5E5"> to wake up one</font>
+
+38
+00:01:37,829 --> 00:01:40,250
+morning<font color="#E5E5E5"> and say you know what I'm done</font>
+
+39
+00:01:40,250 --> 00:01:45,930
+<font color="#E5E5E5">these guys I'm sick of this so them</font>
+
+40
+00:01:45,930 --> 00:01:47,880
+they're off the internet<font color="#E5E5E5"> think about</font>
+
+41
+00:01:47,880 --> 00:01:50,700
+what you just<font color="#E5E5E5"> said though</font><font color="#CCCCCC"> oh they're off</font>
+
+42
+00:01:50,700 --> 00:01:52,290
+the inner<font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> you woke up in your</font>
+
+43
+00:01:52,290 --> 00:01:53,909
+apartment that's exactly right here and
+
+44
+00:01:53,909 --> 00:01:55,950
+said who<font color="#CCCCCC"> they're off United</font>
+
+45
+00:01:55,950 --> 00:01:57,659
+Society<font color="#E5E5E5"> has that power you have that</font>
+
+46
+00:01:57,659 --> 00:01:59,360
+<font color="#CCCCCC">patch but</font><font color="#E5E5E5"> does that make you feel</font><font color="#CCCCCC"> I</font>
+
+47
+00:01:59,360 --> 00:02:04,290
+think<font color="#CCCCCC"> we made the right decision</font><font color="#E5E5E5"> in the</font>
+
+48
+00:02:04,290 --> 00:02:06,570
+short term to<font color="#E5E5E5"> allow us to have this</font>
+
+49
+00:02:06,570 --> 00:02:07,950
+<font color="#CCCCCC">conversation but the conversation</font>
+
+50
+00:02:07,950 --> 00:02:10,110
+started<font color="#E5E5E5"> would you allow the</font><font color="#CCCCCC"> daily</font>
+
+51
+00:02:10,110 --> 00:02:11,879
+<font color="#CCCCCC">stormer to come back I think they're</font>
+
+52
+00:02:11,879 --> 00:02:12,800
+just such
+
+53
+00:02:12,800 --> 00:02:14,240
+jerks<font color="#CCCCCC"> and I don't</font><font color="#E5E5E5"> want to do business</font>
+
+54
+00:02:14,240 --> 00:02:16,190
+<font color="#CCCCCC">with them anymore</font><font color="#E5E5E5"> a lot of jerks out</font>
+
+55
+00:02:16,190 --> 00:02:17,840
+there<font color="#E5E5E5"> that there are there's some people</font>
+
+56
+00:02:17,840 --> 00:02:19,760
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> might put up Isis beheading videos</font>
+
+57
+00:02:19,760 --> 00:02:22,940
+that<font color="#CCCCCC"> to host and watch is not illegal</font>
+
+58
+00:02:22,940 --> 00:02:25,340
+<font color="#CCCCCC">but it's really</font><font color="#E5E5E5"> really repugnant content</font>
+
+59
+00:02:25,340 --> 00:02:27,410
+yeah if that<font color="#E5E5E5"> was</font><font color="#CCCCCC"> on your network after</font>
+
+60
+00:02:27,410 --> 00:02:29,930
+this example<font color="#CCCCCC"> we</font><font color="#E5E5E5"> should take it down the</font>
+
+61
+00:02:29,930 --> 00:02:32,000
+short<font color="#E5E5E5"> answer is no</font><font color="#CCCCCC"> so if we</font><font color="#E5E5E5"> went to</font>
+
+62
+00:02:32,000 --> 00:02:33,860
+regulators<font color="#E5E5E5"> and we said here's this thing</font>
+
+63
+00:02:33,860 --> 00:02:35,360
+<font color="#E5E5E5">which we're deeply troubled by it and</font>
+
+64
+00:02:35,360 --> 00:02:37,100
+they said no<font color="#E5E5E5"> no did you know there's no</font>
+
+65
+00:02:37,100 --> 00:02:38,180
+it's<font color="#E5E5E5"> not against the</font><font color="#CCCCCC"> law</font>
+
+66
+00:02:38,180 --> 00:02:41,990
+don't take it<font color="#E5E5E5"> down</font><font color="#CCCCCC"> then right now our</font>
+
+67
+00:02:41,990 --> 00:02:43,490
+policy would<font color="#CCCCCC"> be we're</font><font color="#E5E5E5"> gonna leave that</font>
+
+68
+00:02:43,490 --> 00:02:46,430
+up<font color="#CCCCCC"> so in the short term Nazis</font><font color="#E5E5E5"> are bad</font>
+
+69
+00:02:46,430 --> 00:02:48,920
+but Isis videos are<font color="#CCCCCC"> okay</font><font color="#E5E5E5"> with the daily</font>
+
+70
+00:02:48,920 --> 00:02:50,900
+stormer are assholes<font color="#E5E5E5"> Isis are kind of</font>
+
+71
+00:02:50,900 --> 00:02:54,770
+assholes<font color="#CCCCCC"> - absolutely</font><font color="#E5E5E5"> again the question</font>
+
+72
+00:02:54,770 --> 00:02:57,920
+is is this hypocritical<font color="#E5E5E5"> yes absolutely</font>
+
+73
+00:02:57,920 --> 00:03:00,950
+<font color="#CCCCCC">hypocrite</font><font color="#E5E5E5"> of course that again was a</font>
+
+74
+00:03:00,950 --> 00:03:02,360
+<font color="#E5E5E5">conversation we've been trying to have</font>
+
+75
+00:03:02,360 --> 00:03:04,610
+for the<font color="#E5E5E5"> last two months and</font><font color="#CCCCCC"> we couldn't</font>
+
+76
+00:03:04,610 --> 00:03:06,620
+because<font color="#E5E5E5"> everyone was just turning</font><font color="#CCCCCC"> to us</font>
+
+77
+00:03:06,620 --> 00:03:09,640
+and saying why do you support the Nazis
+
+78
+00:03:09,640 --> 00:03:12,230
+realities we don't support<font color="#E5E5E5"> anyone who</font>
+
+79
+00:03:12,230 --> 00:03:14,630
+uses<font color="#E5E5E5"> our network</font><font color="#CCCCCC"> so in the daily stormer</font>
+
+80
+00:03:14,630 --> 00:03:16,580
+issue<font color="#E5E5E5"> you got</font><font color="#CCCCCC"> on the top of that</font>
+
+81
+00:03:16,580 --> 00:03:19,489
+<font color="#E5E5E5">slippery slope</font><font color="#CCCCCC"> went a</font><font color="#E5E5E5"> little bit down it</font>
+
+82
+00:03:19,489 --> 00:03:21,920
+right did<font color="#E5E5E5"> you worry about that slippery</font>
+
+83
+00:03:21,920 --> 00:03:24,920
+slope<font color="#CCCCCC"> enormous ly</font><font color="#E5E5E5"> we used to be able to</font>
+
+84
+00:03:24,920 --> 00:03:28,970
+say we have never taken<font color="#E5E5E5"> a site offline</font>
+
+85
+00:03:28,970 --> 00:03:32,180
+due to political pressure<font color="#CCCCCC"> now we're</font>
+
+86
+00:03:32,180 --> 00:03:34,640
+having<font color="#E5E5E5"> debate right now about</font><font color="#CCCCCC"> whether we</font>
+
+87
+00:03:34,640 --> 00:03:36,680
+can still say that<font color="#CCCCCC"> usually take it</font>
+
+88
+00:03:36,680 --> 00:03:39,080
+<font color="#E5E5E5">offline from political pressure you took</font>
+
+89
+00:03:39,080 --> 00:03:41,060
+it offline<font color="#E5E5E5"> from the moral quandary</font><font color="#CCCCCC"> that</font>
+
+90
+00:03:41,060 --> 00:03:43,280
+you woke up with<font color="#CCCCCC"> one day maybe I mean</font>
+
+91
+00:03:43,280 --> 00:03:46,010
+again maybe but as you said would<font color="#CCCCCC"> it</font>
+
+92
+00:03:46,010 --> 00:03:49,310
+have been<font color="#CCCCCC"> a different outcome if</font><font color="#E5E5E5"> the if</font>
+
+93
+00:03:49,310 --> 00:03:52,130
+the young woman hadn't been killed in
+
+94
+00:03:52,130 --> 00:03:54,920
+<font color="#E5E5E5">Charlottesville again I can I can</font>
+
+95
+00:03:54,920 --> 00:03:58,910
+pretend the answer is yes<font color="#E5E5E5"> that</font><font color="#CCCCCC"> it we</font>
+
+96
+00:03:58,910 --> 00:04:00,410
+would<font color="#CCCCCC"> have done exactly</font><font color="#E5E5E5"> the same thing</font><font color="#CCCCCC"> I</font>
+
+97
+00:04:00,410 --> 00:04:03,140
+don't<font color="#E5E5E5"> think</font><font color="#CCCCCC"> that's probably reality</font><font color="#E5E5E5"> do</font>
+
+98
+00:04:03,140 --> 00:04:05,300
+you have too much power<font color="#CCCCCC"> what we need to</font>
+
+99
+00:04:05,300 --> 00:04:08,120
+have is a<font color="#CCCCCC"> conversation</font><font color="#E5E5E5"> about where is it</font>
+
+100
+00:04:08,120 --> 00:04:11,930
+the right<font color="#CCCCCC"> place for</font><font color="#E5E5E5"> tech</font><font color="#CCCCCC"> companies to</font><font color="#E5E5E5"> be</font>
+
+101
+00:04:11,930 --> 00:04:13,940
+to be regulating the<font color="#CCCCCC"> internet and what I</font>
+
+102
+00:04:13,940 --> 00:04:16,430
+know is not<font color="#CCCCCC"> the</font><font color="#E5E5E5"> right answer is that</font><font color="#CCCCCC"> a</font>
+
+103
+00:04:16,430 --> 00:04:18,260
+cabal<font color="#CCCCCC"> of</font>
+
+104
+00:04:18,260 --> 00:04:21,680
+<font color="#CCCCCC">ten</font><font color="#E5E5E5"> you know tech executives with names</font>
+
+105
+00:04:21,680 --> 00:04:27,470
+like Matthew Mark Jack<font color="#CCCCCC"> you know Jeff are</font>
+
+106
+00:04:27,470 --> 00:04:30,110
+the ones choosing what content goes
+
+107
+00:04:30,110 --> 00:04:31,940
+online and<font color="#E5E5E5"> what content doesn't go</font>
+
+108
+00:04:31,940 --> 00:04:34,120
+online
+
+109
+00:04:43,790 --> 00:00:00,000
+you
+

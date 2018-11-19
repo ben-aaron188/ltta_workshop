@@ -1,0 +1,356 @@
+1
+00:00:12,469 --> 00:00:15,059
+Jeremy Stoppelman with us<font color="#CCCCCC"> eeo of yelp</font>
+
+2
+00:00:15,059 --> 00:00:17,340
+Jeremy you've got great distribution
+
+3
+00:00:17,340 --> 00:00:19,590
+channels great content how do you know
+
+4
+00:00:19,590 --> 00:00:21,449
+how much live foot traffic you're
+
+5
+00:00:21,449 --> 00:00:23,550
+driving to say your local partners or
+
+6
+00:00:23,550 --> 00:00:25,320
+local businesses is there a metric that
+
+7
+00:00:25,320 --> 00:00:27,000
+you follow is there a way that you<font color="#CCCCCC"> can</font>
+
+8
+00:00:27,000 --> 00:00:31,199
+audit that trail certainly there<font color="#CCCCCC"> is</font>
+
+9
+00:00:31,199 --> 00:00:33,059
+information<font color="#E5E5E5"> that we capture on the</font>
+
+10
+00:00:33,059 --> 00:00:34,620
+<font color="#E5E5E5">website</font><font color="#CCCCCC"> so for instance any local</font>
+
+11
+00:00:34,620 --> 00:00:36,930
+business can claim and unlock their page
+
+12
+00:00:36,930 --> 00:00:39,600
+on Yelp and in doing so you get access
+
+13
+00:00:39,600 --> 00:00:42,030
+<font color="#E5E5E5">to how many views your business page has</font>
+
+14
+00:00:42,030 --> 00:00:44,100
+<font color="#CCCCCC">been seen if you're an advertiser we</font>
+
+15
+00:00:44,100 --> 00:00:46,170
+also give you click information and then
+
+16
+00:00:46,170 --> 00:00:47,489
+for a lot of businesses they're actually
+
+17
+00:00:47,489 --> 00:00:49,440
+used to asking customers hey how did<font color="#E5E5E5"> you</font>
+
+18
+00:00:49,440 --> 00:00:50,940
+find me so when you go to that<font color="#E5E5E5"> doctor's</font>
+
+19
+00:00:50,940 --> 00:00:52,350
+office they have that<font color="#E5E5E5"> little line on the</font>
+
+20
+00:00:52,350 --> 00:00:54,149
+<font color="#E5E5E5">forms that says you know who referred</font>
+
+21
+00:00:54,149 --> 00:00:55,739
+you and so people put down yelps<font color="#E5E5E5"> that's</font>
+
+22
+00:00:55,739 --> 00:00:57,840
+another mechanism out there there's<font color="#E5E5E5"> some</font>
+
+23
+00:00:57,840 --> 00:01:00,239
+newer channels or newer mechanisms that
+
+24
+00:01:00,239 --> 00:01:02,340
+people have been experimenting<font color="#CCCCCC"> with for</font>
+
+25
+00:01:02,340 --> 00:01:03,570
+instance changing the phone number to a
+
+26
+00:01:03,570 --> 00:01:05,700
+tracking phone number and we've been
+
+27
+00:01:05,700 --> 00:01:07,290
+doing some experimentation with that we
+
+28
+00:01:07,290 --> 00:01:09,720
+have<font color="#E5E5E5"> in the past but that's less common</font>
+
+29
+00:01:09,720 --> 00:01:11,130
+than sort of the<font color="#CCCCCC"> old-fashioned way of</font>
+
+30
+00:01:11,130 --> 00:01:13,260
+asking your customers so is there a way
+
+31
+00:01:13,260 --> 00:01:15,000
+for them to get more information about
+
+32
+00:01:15,000 --> 00:01:16,049
+their customers in terms of
+
+33
+00:01:16,049 --> 00:01:17,759
+profitability or how<font color="#CCCCCC"> many times a</font><font color="#E5E5E5"> year</font>
+
+34
+00:01:17,759 --> 00:01:19,560
+<font color="#CCCCCC">they come any sort of metric like that</font>
+
+35
+00:01:19,560 --> 00:01:22,409
+<font color="#CCCCCC">outside of what you just</font><font color="#E5E5E5"> talked about</font>
+
+36
+00:01:22,409 --> 00:01:24,930
+<font color="#E5E5E5">yeah for right now the main way to</font>
+
+37
+00:01:24,930 --> 00:01:27,210
+analyze your customer bases is doing it
+
+38
+00:01:27,210 --> 00:01:28,680
+the old-fashioned way so if<font color="#E5E5E5"> you have a</font>
+
+39
+00:01:28,680 --> 00:01:30,810
+customer<font color="#E5E5E5"> list you know certainly that</font>
+
+40
+00:01:30,810 --> 00:01:32,729
+person comes in they make purchases you
+
+41
+00:01:32,729 --> 00:01:34,229
+know you can keep track<font color="#E5E5E5"> of that on your</font>
+
+42
+00:01:34,229 --> 00:01:35,840
+<font color="#CCCCCC">own but it's very</font><font color="#E5E5E5"> much a manual process</font>
+
+43
+00:01:35,840 --> 00:01:38,189
+<font color="#E5E5E5">okay so are you thinking about recording</font>
+
+44
+00:01:38,189 --> 00:01:39,720
+or capturing that data in terms of
+
+45
+00:01:39,720 --> 00:01:41,610
+monetizing that network effect I know
+
+46
+00:01:41,610 --> 00:01:43,020
+that there are companies out there like
+
+47
+00:01:43,020 --> 00:01:44,850
+gowalla and Foursquare that are sort of
+
+48
+00:01:44,850 --> 00:01:47,369
+<font color="#E5E5E5">doing that are you thinking about that</font>
+
+49
+00:01:47,369 --> 00:01:49,170
+in terms of the evolving business model
+
+50
+00:01:49,170 --> 00:01:51,149
+and offering that to your partners I
+
+51
+00:01:51,149 --> 00:01:53,430
+mean I think it's a it's an interesting
+
+52
+00:01:53,430 --> 00:01:56,040
+concept how many people<font color="#CCCCCC"> come</font><font color="#E5E5E5"> in the door</font>
+
+53
+00:01:56,040 --> 00:01:58,350
+and say<font color="#CCCCCC"> check-in but I</font><font color="#E5E5E5"> think what you're</font>
+
+54
+00:01:58,350 --> 00:02:00,270
+seeing out there is that a minority of
+
+55
+00:02:00,270 --> 00:02:01,890
+people are going to be<font color="#E5E5E5"> willing to walk</font>
+
+56
+00:02:01,890 --> 00:02:02,870
+in the door<font color="#CCCCCC"> and</font>
+
+57
+00:02:02,870 --> 00:02:05,030
+check in every time and so while it's
+
+58
+00:02:05,030 --> 00:02:06,800
+useful information to that<font color="#CCCCCC"> business is</font>
+
+59
+00:02:06,800 --> 00:02:08,810
+not necessarily all customers that have
+
+60
+00:02:08,810 --> 00:02:11,150
+ever walked in so you know it's another
+
+61
+00:02:11,150 --> 00:02:12,410
+data point and I think<font color="#CCCCCC"> that'll</font><font color="#E5E5E5"> be</font>
+
+62
+00:02:12,410 --> 00:02:14,240
+<font color="#E5E5E5">valuable and it's an interesting</font>
+
+63
+00:02:14,240 --> 00:02:15,890
+innovation but<font color="#E5E5E5"> it doesn't necessarily</font>
+
+64
+00:02:15,890 --> 00:02:18,350
+you know track every single person in in
+
+65
+00:02:18,350 --> 00:02:20,330
+the door okay I know you're working with
+
+66
+00:02:20,330 --> 00:02:22,010
+flixster in terms of updating movie
+
+67
+00:02:22,010 --> 00:02:24,200
+times and<font color="#CCCCCC"> whatnot is there an open table</font>
+
+68
+00:02:24,200 --> 00:02:26,090
+partnership in the<font color="#E5E5E5"> works being able to</font>
+
+69
+00:02:26,090 --> 00:02:29,960
+just go online and you know through your
+
+70
+00:02:29,960 --> 00:02:33,020
+mobile app on<font color="#E5E5E5"> Yelp you know also get</font>
+
+71
+00:02:33,020 --> 00:02:36,200
+reservations at restaurants yeah I think
+
+72
+00:02:36,200 --> 00:02:38,150
+<font color="#E5E5E5">that's a natural integration point for</font>
+
+73
+00:02:38,150 --> 00:02:39,800
+<font color="#E5E5E5">us you</font><font color="#CCCCCC"> know whether</font><font color="#E5E5E5"> it's open table or</font>
+
+74
+00:02:39,800 --> 00:02:41,570
+whether it's another reservation
+
+75
+00:02:41,570 --> 00:02:43,370
+provider a ticket provider we've been
+
+76
+00:02:43,370 --> 00:02:44,990
+looking at<font color="#CCCCCC"> a lot of those potential</font>
+
+77
+00:02:44,990 --> 00:02:46,940
+partnerships and so I think in the
+
+78
+00:02:46,940 --> 00:02:48,530
+coming years will certainly see some<font color="#E5E5E5"> of</font>
+
+79
+00:02:48,530 --> 00:02:50,630
+those come together great so finally
+
+80
+00:02:50,630 --> 00:02:54,520
+thoughts on citysearch haha is it dead I
+
+81
+00:02:54,520 --> 00:02:57,440
+think you know it's a huge market out
+
+82
+00:02:57,440 --> 00:02:59,270
+there we've<font color="#CCCCCC"> got a great position we're</font>
+
+83
+00:02:59,270 --> 00:03:01,070
+really excited about what yelps been
+
+84
+00:03:01,070 --> 00:03:03,680
+doing is the traction that we have and
+
+85
+00:03:03,680 --> 00:03:06,170
+<font color="#CCCCCC">we really I think I pulled away is the</font>
+
+86
+00:03:06,170 --> 00:03:07,640
+content leaders and local and so that's
+
+87
+00:03:07,640 --> 00:03:09,590
+given us a<font color="#CCCCCC"> lot of strength but</font><font color="#E5E5E5"> it's not</font>
+
+88
+00:03:09,590 --> 00:03:11,420
+to say that other models are not<font color="#E5E5E5"> going</font>
+
+89
+00:03:11,420 --> 00:00:00,000
+to be successful<font color="#E5E5E5"> of course thank you</font>
+

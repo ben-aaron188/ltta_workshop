@@ -1,0 +1,192 @@
+1
+00:00:00,140 --> 00:00:04,490
+[Music]
+
+2
+00:00:04,899 --> 00:00:09,289
+<font color="#E5E5E5">Genesis 1:1 describes God is</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> creator</font>
+
+3
+00:00:09,289 --> 00:00:13,730
+<font color="#CCCCCC">of all things in the universe</font><font color="#E5E5E5"> not</font><font color="#CCCCCC"> just</font>
+
+4
+00:00:13,730 --> 00:00:19,220
+earth if<font color="#E5E5E5"> we make</font><font color="#CCCCCC"> contact with</font>
+
+5
+00:00:19,220 --> 00:00:20,980
+<font color="#CCCCCC">intelligent aliens</font>
+
+6
+00:00:20,980 --> 00:00:24,910
+how will religion respond
+
+7
+00:00:24,910 --> 00:00:32,009
+<font color="#CCCCCC">I performed about 124 Quint Willian</font>
+
+8
+00:00:32,009 --> 00:00:37,410
+quintillion floating-point operations
+
+9
+00:00:37,410 --> 00:00:39,850
+analyzing signals from the Arecibo radio
+
+10
+00:00:39,850 --> 00:00:42,600
+telescope in Puerto Rico
+
+11
+00:00:42,600 --> 00:00:44,920
+Reverend John flute is a member of
+
+12
+00:00:44,920 --> 00:00:47,290
+settied home<font color="#E5E5E5"> a distributed computing</font>
+
+13
+00:00:47,290 --> 00:00:49,480
+network that processes transmissions
+
+14
+00:00:49,480 --> 00:00:51,190
+from<font color="#CCCCCC"> the world's largest</font><font color="#E5E5E5"> radio</font>
+
+15
+00:00:51,190 --> 00:00:53,890
+telescopes<font color="#E5E5E5"> these signals are relayed to</font>
+
+16
+00:00:53,890 --> 00:00:56,260
+the<font color="#E5E5E5"> group's hundred</font><font color="#CCCCCC"> thousand-plus</font><font color="#E5E5E5"> users</font>
+
+17
+00:00:56,260 --> 00:00:58,390
+and analyzed on their personal computers
+
+18
+00:00:58,390 --> 00:01:01,690
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> flute</font><font color="#E5E5E5"> SETI</font><font color="#CCCCCC"> or the search for</font>
+
+19
+00:01:01,690 --> 00:01:03,430
+extraterrestrial intelligence is
+
+20
+00:01:03,430 --> 00:01:06,240
+happening in the back of his church
+
+21
+00:01:06,240 --> 00:01:09,009
+really the whole maintenance I have is
+
+22
+00:01:09,009 --> 00:01:12,009
+<font color="#CCCCCC">just</font><font color="#E5E5E5"> making</font><font color="#CCCCCC"> sure</font><font color="#E5E5E5"> it's online and using</font>
+
+23
+00:01:12,009 --> 00:01:15,490
+<font color="#CCCCCC">Dustoff</font><font color="#E5E5E5"> okay so I've got two here I've</font>
+
+24
+00:01:15,490 --> 00:01:18,759
+got<font color="#E5E5E5"> three at home</font><font color="#CCCCCC"> I really enjoy</font><font color="#E5E5E5"> working</font>
+
+25
+00:01:18,759 --> 00:01:21,390
+on computers
+
+26
+00:01:21,650 --> 00:01:23,970
+how did they<font color="#E5E5E5"> actually distribute the</font>
+
+27
+00:01:23,970 --> 00:01:26,670
+data<font color="#E5E5E5"> the information comes cut up into</font>
+
+28
+00:01:26,670 --> 00:01:29,100
+<font color="#E5E5E5">little</font><font color="#CCCCCC"> sections each little section goes</font>
+
+29
+00:01:29,100 --> 00:01:30,330
+to<font color="#E5E5E5"> three computers</font>
+
+30
+00:01:30,330 --> 00:01:34,290
+if all three computers have the same
+
+31
+00:01:34,290 --> 00:01:37,800
+results<font color="#E5E5E5"> it's accepted study at home is</font>
+
+32
+00:01:37,800 --> 00:01:39,690
+listening<font color="#CCCCCC"> for the unique transmissions</font>
+
+33
+00:01:39,690 --> 00:01:42,420
+of life so when data separately analyzed
+
+34
+00:01:42,420 --> 00:01:45,270
+by<font color="#E5E5E5"> four users confirms the location of a</font>
+
+35
+00:01:45,270 --> 00:01:47,610
+distinct signal<font color="#E5E5E5"> scientists can better</font>
+
+36
+00:01:47,610 --> 00:01:49,590
+pinpoint<font color="#E5E5E5"> where there might be signs of</font>
+
+37
+00:01:49,590 --> 00:01:50,570
+intelligence
+
+38
+00:01:50,570 --> 00:01:54,770
+why did SETI<font color="#E5E5E5"> choose to go this route of</font>
+
+39
+00:01:54,770 --> 00:01:57,750
+<font color="#CCCCCC">crowdsourcing citizen scientists to</font>
+
+40
+00:01:57,750 --> 00:01:59,100
+<font color="#CCCCCC">analyze the data</font>
+
+41
+00:01:59,100 --> 00:02:01,470
+Taman<font color="#E5E5E5"> Tasik supercomputer is very</font>
+
+42
+00:02:01,470 --> 00:02:03,750
+expensive<font color="#CCCCCC"> with the</font><font color="#E5E5E5"> distributed</font><font color="#CCCCCC"> computing</font>
+
+43
+00:02:03,750 --> 00:02:06,300
+<font color="#CCCCCC">it's free</font><font color="#E5E5E5"> what do you think the odds of</font>
+
+44
+00:02:06,300 --> 00:02:08,699
+us discovering extraterrestrial
+
+45
+00:02:08,699 --> 00:02:11,009
+intelligence are it seems very high<font color="#CCCCCC"> and</font>
+
+46
+00:02:11,009 --> 00:02:14,100
+it's<font color="#E5E5E5"> the more and more we look we're</font>
+
+47
+00:02:14,100 --> 00:02:15,930
+finding more and more<font color="#E5E5E5"> planets that could</font>
+
+48
+00:02:15,930 --> 00:00:00,000
+support life
+

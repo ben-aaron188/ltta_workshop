@@ -1,0 +1,584 @@
+1
+00:00:00,000 --> 00:00:02,580
+Russia is denying a new accusation that
+
+2
+00:00:02,580 --> 00:00:04,259
+<font color="#CCCCCC">it's trying</font><font color="#E5E5E5"> to hack the upcoming midterm</font>
+
+3
+00:00:04,259 --> 00:00:06,170
+elections in<font color="#E5E5E5"> a report out this morning</font>
+
+4
+00:00:06,170 --> 00:00:08,910
+microsoft says<font color="#E5E5E5"> it shut down six fake</font>
+
+5
+00:00:08,910 --> 00:00:11,010
+websites created<font color="#E5E5E5"> by russian hackers</font>
+
+6
+00:00:11,010 --> 00:00:13,110
+<font color="#E5E5E5">designed to trick users into giving up</font>
+
+7
+00:00:13,110 --> 00:00:14,570
+personal<font color="#E5E5E5"> and sensitive</font><font color="#CCCCCC"> information</font>
+
+8
+00:00:14,570 --> 00:00:16,800
+<font color="#CCCCCC">microsoft says the attack mirrors the</font>
+
+9
+00:00:16,800 --> 00:00:19,199
+ones ahead<font color="#CCCCCC"> of the</font><font color="#E5E5E5"> 2016 election but this</font>
+
+10
+00:00:19,199 --> 00:00:21,000
+time hackers are targeting conservative
+
+11
+00:00:21,000 --> 00:00:22,920
+groups which disagree with<font color="#CCCCCC"> President</font>
+
+12
+00:00:22,920 --> 00:00:24,840
+<font color="#CCCCCC">Trump on Russia</font><font color="#E5E5E5"> and are seeking</font>
+
+13
+00:00:24,840 --> 00:00:27,029
+sanctions or pushing for<font color="#E5E5E5"> human rights</font>
+
+14
+00:00:27,029 --> 00:00:28,650
+improvements in Russia the targets
+
+15
+00:00:28,650 --> 00:00:30,510
+include the Hudson Institute of
+
+16
+00:00:30,510 --> 00:00:32,130
+Washington conservative think-tank<font color="#CCCCCC"> and</font>
+
+17
+00:00:32,130 --> 00:00:34,590
+the International<font color="#CCCCCC"> Republican Institute a</font>
+
+18
+00:00:34,590 --> 00:00:36,750
+<font color="#CCCCCC">non-profit pro-democracy group whose</font>
+
+19
+00:00:36,750 --> 00:00:38,820
+board includes Senator John McCain a
+
+20
+00:00:38,820 --> 00:00:40,739
+short time ago<font color="#E5E5E5"> testimony from State</font>
+
+21
+00:00:40,739 --> 00:00:41,940
+Department officials at the Senate
+
+22
+00:00:41,940 --> 00:00:43,649
+Foreign Relations Committee hearing just
+
+23
+00:00:43,649 --> 00:00:45,149
+punctuated where the attacks are coming
+
+24
+00:00:45,149 --> 00:00:49,230
+<font color="#CCCCCC">from and who they</font><font color="#E5E5E5"> support the threat</font>
+
+25
+00:00:49,230 --> 00:00:52,140
+from Russia has evolved beyond being
+
+26
+00:00:52,140 --> 00:00:55,020
+simply an external or military one it
+
+27
+00:00:55,020 --> 00:00:57,050
+includes influence operations in
+
+28
+00:00:57,050 --> 00:00:59,370
+orchestrated by the Kremlin in the very
+
+29
+00:00:59,370 --> 00:01:01,199
+heart of the Western<font color="#E5E5E5"> world</font><font color="#CCCCCC"> as the recent</font>
+
+30
+00:01:01,199 --> 00:01:03,359
+<font color="#CCCCCC">facebook purges reveal the Russian state</font>
+
+31
+00:01:03,359 --> 00:01:05,339
+has promoted fringe voices on the
+
+32
+00:01:05,339 --> 00:01:07,260
+political<font color="#E5E5E5"> left and right including</font>
+
+33
+00:01:07,260 --> 00:01:09,060
+<font color="#E5E5E5">groups who advocate violence</font><font color="#CCCCCC"> the</font>
+
+34
+00:01:09,060 --> 00:01:10,650
+storming<font color="#E5E5E5"> of federal buildings and the</font>
+
+35
+00:01:10,650 --> 00:01:13,740
+<font color="#E5E5E5">overthrow of</font><font color="#CCCCCC"> the US government Johnny</font>
+
+36
+00:01:13,740 --> 00:01:15,420
+now is sheera Frenkel the<font color="#E5E5E5"> New York Times</font>
+
+37
+00:01:15,420 --> 00:01:17,159
+reporter who has<font color="#E5E5E5"> been covering</font><font color="#CCCCCC"> this</font>
+
+38
+00:01:17,159 --> 00:01:18,540
+story<font color="#CCCCCC"> Shira good to see you thank you</font>
+
+39
+00:01:18,540 --> 00:01:20,460
+<font color="#E5E5E5">for being with us first of all how did</font>
+
+40
+00:01:20,460 --> 00:01:23,130
+Microsoft detect the hack and you have
+
+41
+00:01:23,130 --> 00:01:24,330
+some<font color="#CCCCCC"> confidence</font><font color="#E5E5E5"> that they're good at</font>
+
+42
+00:01:24,330 --> 00:01:25,920
+this<font color="#E5E5E5"> sort of thing that these types of</font>
+
+43
+00:01:25,920 --> 00:01:29,000
+hacks can be relatively easily detected
+
+44
+00:01:29,000 --> 00:01:31,920
+so Microsoft detected the hack on their
+
+45
+00:01:31,920 --> 00:01:34,079
+side<font color="#CCCCCC"> of things just as it</font><font color="#E5E5E5"> happened they</font>
+
+46
+00:01:34,079 --> 00:01:35,909
+basically caught these fake websites<font color="#E5E5E5"> as</font>
+
+47
+00:01:35,909 --> 00:01:37,740
+they were<font color="#E5E5E5"> created and they're very good</font>
+
+48
+00:01:37,740 --> 00:01:38,939
+<font color="#E5E5E5">at this sort of thing they've</font><font color="#CCCCCC"> been doing</font>
+
+49
+00:01:38,939 --> 00:01:40,740
+it<font color="#E5E5E5"> for a</font><font color="#CCCCCC"> few years now</font><font color="#E5E5E5"> they know what to</font>
+
+50
+00:01:40,740 --> 00:01:42,540
+<font color="#CCCCCC">look for and they've used the</font><font color="#E5E5E5"> legal</font>
+
+51
+00:01:42,540 --> 00:01:44,130
+system to<font color="#E5E5E5"> their advantage to take down</font>
+
+52
+00:01:44,130 --> 00:01:45,780
+those websites as soon as they've put up
+
+53
+00:01:45,780 --> 00:01:47,310
+so they can say with a pretty high
+
+54
+00:01:47,310 --> 00:01:48,720
+<font color="#CCCCCC">degree</font><font color="#E5E5E5"> of certainty here what they've</font>
+
+55
+00:01:48,720 --> 00:01:51,119
+found<font color="#E5E5E5"> and why it needs</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> come down and</font>
+
+56
+00:01:51,119 --> 00:01:52,399
+actually<font color="#E5E5E5"> read in your article</font><font color="#CCCCCC"> that</font>
+
+57
+00:01:52,399 --> 00:01:54,420
+Microsoft<font color="#E5E5E5"> I don't know whether they've</font>
+
+58
+00:01:54,420 --> 00:01:56,100
+<font color="#CCCCCC">been given some authority by</font><font color="#E5E5E5"> the Justice</font>
+
+59
+00:01:56,100 --> 00:01:57,810
+<font color="#CCCCCC">Department or what it is but they have</font>
+
+60
+00:01:57,810 --> 00:02:00,090
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> ability to</font><font color="#E5E5E5"> act on this faster than</font>
+
+61
+00:02:00,090 --> 00:02:02,159
+traditionally they<font color="#CCCCCC"> would have by getting</font>
+
+62
+00:02:02,159 --> 00:02:05,340
+the court orders right they have and
+
+63
+00:02:05,340 --> 00:02:07,020
+they've gone through<font color="#CCCCCC"> a special judge in</font>
+
+64
+00:02:07,020 --> 00:02:09,449
+<font color="#CCCCCC">Virginia in order to do so what happens</font>
+
+65
+00:02:09,449 --> 00:02:10,830
+here<font color="#CCCCCC"> is that</font><font color="#E5E5E5"> these</font><font color="#CCCCCC"> websites</font><font color="#E5E5E5"> are being</font>
+
+66
+00:02:10,830 --> 00:02:12,390
+set up<font color="#E5E5E5"> by malicious actors they're</font>
+
+67
+00:02:12,390 --> 00:02:13,800
+setting up a<font color="#E5E5E5"> website that looks</font>
+
+68
+00:02:13,800 --> 00:02:15,630
+was identical to<font color="#E5E5E5"> real</font><font color="#CCCCCC"> ones</font><font color="#E5E5E5"> so instead of</font>
+
+69
+00:02:15,630 --> 00:02:18,240
+Hudson Institute<font color="#E5E5E5"> with with a capital I</font>
+
+70
+00:02:18,240 --> 00:02:20,070
+<font color="#CCCCCC">there'll</font><font color="#E5E5E5"> be the letter</font><font color="#CCCCCC"> one and it'll</font>
+
+71
+00:02:20,070 --> 00:02:21,960
+<font color="#CCCCCC">look identical</font><font color="#E5E5E5"> to the you know average</font>
+
+72
+00:02:21,960 --> 00:02:24,240
+person<font color="#CCCCCC"> reading</font><font color="#E5E5E5"> it but on</font><font color="#CCCCCC"> their and</font>
+
+73
+00:02:24,240 --> 00:02:25,710
+they're using<font color="#E5E5E5"> that</font><font color="#CCCCCC"> to hack and to get</font>
+
+74
+00:02:25,710 --> 00:02:27,450
+into your computers and<font color="#CCCCCC"> so they pointed</font>
+
+75
+00:02:27,450 --> 00:02:28,740
+that out to<font color="#E5E5E5"> the judge</font><font color="#CCCCCC"> they said we need</font>
+
+76
+00:02:28,740 --> 00:02:30,210
+to<font color="#E5E5E5"> be able to take these down as soon as</font>
+
+77
+00:02:30,210 --> 00:02:31,980
+they go up<font color="#E5E5E5"> because one person being</font>
+
+78
+00:02:31,980 --> 00:02:33,420
+tricked<font color="#CCCCCC"> by</font><font color="#E5E5E5"> them is one person too many</font>
+
+79
+00:02:33,420 --> 00:02:35,250
+this<font color="#CCCCCC"> is a spear phishing attack where</font>
+
+80
+00:02:35,250 --> 00:02:36,870
+maybe somebody gets an email<font color="#E5E5E5"> with a link</font>
+
+81
+00:02:36,870 --> 00:02:38,460
+you<font color="#CCCCCC"> click to</font><font color="#E5E5E5"> it you think you're going</font>
+
+82
+00:02:38,460 --> 00:02:39,450
+to the<font color="#E5E5E5"> Hudson Institute or the</font>
+
+83
+00:02:39,450 --> 00:02:43,710
+Republican site or in<font color="#E5E5E5"> the past</font><font color="#CCCCCC"> the</font>
+
+84
+00:02:43,710 --> 00:02:46,320
+Council on<font color="#CCCCCC"> Foreign Relations or</font><font color="#E5E5E5"> the</font>
+
+85
+00:02:46,320 --> 00:02:48,510
+Eurasia<font color="#E5E5E5"> group and now you're on their</font>
+
+86
+00:02:48,510 --> 00:02:50,970
+site<font color="#CCCCCC"> and they're asking you to to submit</font>
+
+87
+00:02:50,970 --> 00:02:52,290
+<font color="#CCCCCC">some information is</font><font color="#E5E5E5"> that sort</font><font color="#CCCCCC"> of how</font>
+
+88
+00:02:52,290 --> 00:02:55,230
+this works exactly<font color="#CCCCCC"> so it's a spear</font>
+
+89
+00:02:55,230 --> 00:02:56,340
+phishing email which is an email<font color="#E5E5E5"> that</font>
+
+90
+00:02:56,340 --> 00:02:57,600
+looks innocent but actually has
+
+91
+00:02:57,600 --> 00:02:59,580
+malicious content or malicious link or
+
+92
+00:02:59,580 --> 00:03:01,470
+you know<font color="#E5E5E5"> that PDF file attached to it</font>
+
+93
+00:03:01,470 --> 00:03:03,450
+sometimes it'll<font color="#E5E5E5"> be</font><font color="#CCCCCC"> as simple</font><font color="#E5E5E5"> as</font><font color="#CCCCCC"> getting</font>
+
+94
+00:03:03,450 --> 00:03:04,980
+you to go to a website<font color="#CCCCCC"> and</font><font color="#E5E5E5"> then open up</font>
+
+95
+00:03:04,980 --> 00:03:06,510
+<font color="#E5E5E5">a report</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> you think you're on the</font>
+
+96
+00:03:06,510 --> 00:03:08,070
+Hudson<font color="#E5E5E5"> Institute's page you're opening</font>
+
+97
+00:03:08,070 --> 00:03:09,630
+up the<font color="#E5E5E5"> average kind of report that</font><font color="#CCCCCC"> they</font>
+
+98
+00:03:09,630 --> 00:03:10,860
+would<font color="#CCCCCC"> publish month by month</font><font color="#E5E5E5"> and</font>
+
+99
+00:03:10,860 --> 00:03:12,150
+<font color="#E5E5E5">actually what you're doing is</font>
+
+100
+00:03:12,150 --> 00:03:13,920
+downloading<font color="#E5E5E5"> malware or it might ask you</font>
+
+101
+00:03:13,920 --> 00:03:15,540
+<font color="#CCCCCC">for your</font><font color="#E5E5E5"> password your login information</font>
+
+102
+00:03:15,540 --> 00:03:16,890
+and then they'll turn around<font color="#E5E5E5"> and use</font>
+
+103
+00:03:16,890 --> 00:03:18,239
+<font color="#CCCCCC">that and go into your</font><font color="#E5E5E5"> own systems and</font>
+
+104
+00:03:18,239 --> 00:03:20,160
+<font color="#E5E5E5">find what they want so they really do</font>
+
+105
+00:03:20,160 --> 00:03:21,840
+they really do use these<font color="#E5E5E5"> websites</font><font color="#CCCCCC"> to</font>
+
+106
+00:03:21,840 --> 00:03:23,400
+their<font color="#E5E5E5"> advantage and they</font><font color="#CCCCCC"> manage to trick</font>
+
+107
+00:03:23,400 --> 00:03:24,750
+<font color="#CCCCCC">a lot of people it's a it's a</font>
+
+108
+00:03:24,750 --> 00:03:25,980
+<font color="#E5E5E5">tried-and-true method</font>
+
+109
+00:03:25,980 --> 00:03:27,690
+what's the news in here given<font color="#E5E5E5"> that</font>
+
+110
+00:03:27,690 --> 00:03:29,280
+they're<font color="#E5E5E5"> doing things that are like what</font>
+
+111
+00:03:29,280 --> 00:03:31,770
+was done in<font color="#E5E5E5"> 2016 given that it could be</font>
+
+112
+00:03:31,770 --> 00:03:34,770
+groups like fancy<font color="#E5E5E5"> bear behind it the</font>
+
+113
+00:03:34,770 --> 00:03:36,840
+news here is that<font color="#E5E5E5"> these</font><font color="#CCCCCC"> are conservative</font>
+
+114
+00:03:36,840 --> 00:03:39,030
+<font color="#E5E5E5">groups that are typically</font><font color="#CCCCCC"> not what we</font>
+
+115
+00:03:39,030 --> 00:03:39,870
+<font color="#E5E5E5">think we're being hacked the</font>
+
+116
+00:03:39,870 --> 00:03:41,700
+conservative groups who have broken<font color="#E5E5E5"> with</font>
+
+117
+00:03:41,700 --> 00:03:42,870
+<font color="#CCCCCC">President</font><font color="#E5E5E5"> Trump or who are not</font>
+
+118
+00:03:42,870 --> 00:03:44,160
+supporting a<font color="#CCCCCC"> President Trump in a</font>
+
+119
+00:03:44,160 --> 00:03:46,880
+supportive of sanctions against Russia
+
+120
+00:03:46,880 --> 00:03:49,050
+yeah<font color="#E5E5E5"> exactly what we're seeing is that</font>
+
+121
+00:03:49,050 --> 00:03:50,520
+they're shifting the tactics<font color="#E5E5E5"> of who they</font>
+
+122
+00:03:50,520 --> 00:03:52,200
+target and really what<font color="#E5E5E5"> this tells us</font>
+
+123
+00:03:52,200 --> 00:03:53,489
+about<font color="#E5E5E5"> the people</font><font color="#CCCCCC"> behind this is that</font>
+
+124
+00:03:53,489 --> 00:03:55,530
+they<font color="#CCCCCC"> think quickly</font><font color="#E5E5E5"> on their feet we've</font>
+
+125
+00:03:55,530 --> 00:03:56,820
+seen it<font color="#CCCCCC"> again with move sino with</font>
+
+126
+00:03:56,820 --> 00:03:58,020
+Facebook we've seen it<font color="#CCCCCC"> with Twitter</font>
+
+127
+00:03:58,020 --> 00:03:59,459
+we've seen it with these you<font color="#E5E5E5"> know these</font>
+
+128
+00:03:59,459 --> 00:04:01,380
+<font color="#E5E5E5">websites</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> have been set up they look</font>
+
+129
+00:04:01,380 --> 00:04:03,120
+and they<font color="#CCCCCC"> survey American</font><font color="#E5E5E5"> society and</font>
+
+130
+00:04:03,120 --> 00:04:04,350
+<font color="#E5E5E5">they say where are the weak points</font>
+
+131
+00:04:04,350 --> 00:04:06,239
+where's our in who are<font color="#E5E5E5"> there who are</font><font color="#CCCCCC"> the</font>
+
+132
+00:04:06,239 --> 00:04:07,920
+<font color="#CCCCCC">people and what</font><font color="#E5E5E5"> are the institutions</font>
+
+133
+00:04:07,920 --> 00:04:09,300
+that we<font color="#E5E5E5"> need to target and then they go</font>
+
+134
+00:04:09,300 --> 00:04:10,890
+after<font color="#E5E5E5"> them so in this case it was</font>
+
+135
+00:04:10,890 --> 00:04:13,590
+<font color="#E5E5E5">conservative think-tanks those that have</font>
+
+136
+00:04:13,590 --> 00:04:15,930
+broken with Trump on<font color="#E5E5E5"> Russia policy and</font>
+
+137
+00:04:15,930 --> 00:04:18,089
+they went after<font color="#E5E5E5"> them aggressively hey</font>
+
+138
+00:04:18,089 --> 00:04:20,250
+MSNBC fans thanks for<font color="#CCCCCC"> checking out our</font>
+
+139
+00:04:20,250 --> 00:04:23,100
+<font color="#CCCCCC">YouTube channel</font><font color="#E5E5E5"> subscribe by clicking on</font>
+
+140
+00:04:23,100 --> 00:04:23,670
+<font color="#E5E5E5">that</font>
+
+141
+00:04:23,670 --> 00:04:25,890
+and down there<font color="#CCCCCC"> and click</font><font color="#E5E5E5"> on any of the</font>
+
+142
+00:04:25,890 --> 00:04:28,140
+videos<font color="#E5E5E5"> here to watch the latest</font>
+
+143
+00:04:28,140 --> 00:04:29,880
+interviews and highlights you<font color="#CCCCCC"> can get</font>
+
+144
+00:04:29,880 --> 00:04:32,430
+more<font color="#CCCCCC"> MSNBC for free every day with</font><font color="#E5E5E5"> our</font>
+
+145
+00:04:32,430 --> 00:04:35,880
+newsletters just visit msnbc.com<font color="#E5E5E5"> slash</font>
+
+146
+00:04:35,880 --> 00:00:00,000
+newsletters<font color="#E5E5E5"> to sign up now</font>
+

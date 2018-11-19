@@ -1,0 +1,134 @@
+the singularity is the theoretical day
+that artificial intelligence advances
+beyond human understanding and begins to
+change the villa's ation in ways we
+can't conceive of many fears of
+singularity needs one try the grip not
+pinned Arvin Armen he's doing his small
+part to make it happen by teaching
+robots to make art he's writing code
+that nobody's seen before and thinks his
+machines are on the precipice of
+creative autonomy here's a de Kooning in
+this one the Styles like just as
+interesting Wow
+I'd like that looks cool and here is
+gonna come a little darker but transfer
+gear and salaries like human suffering
+on my face Pindar is a computer security
+contractor in Northern Virginia but for
+the last 12 years he's been making robot
+artists on the side these portraits are
+made by sending the computer to images
+and running an algorithm called style
+transfer it takes content and style from
+one and applies it to the other here's
+us Marilyn Monroe so it doesn't quite
+capture what Andy Warhol is doing though
+right because like instead of just
+making my hair blonde it gives me like
+Marilyn hair so how would it have to
+progress to make it more in the style of
+Warhol yeah it doesn't it doesn't really
+kept your context right now so style
+transfer does amazing things a lot of
+data scientists are trying to make this
+even better including myself we're
+trying to find a way to add the context
+we just don't know how yet the hardware
+is pretty basic the robots can be built
+for just a few hundred dollars is the a
+I work in the special sauce is his
+software program a decade in the making
+called cloud painter like a human
+artists cloud painter remember this past
+work and can try to improve it and it's
+style evolved over time and the robots
+can see what they're doing because they
+use cameras to watch their work in
+progress and make adjustments I want
+them to always watch what they're
+painting is that's when they make the
+really good decision to do the robots
+ever create something that falls in the
+uncanny valley where it's kind of creepy
+I've been at eggs
+we're fellow artists has come is like I
+don't know whether to be really
+impressed with this or really disgusted
+with it and so it's an the uncanny value
+that I am trying to replicate human
+creativity it does make some people
+uneasy
+Pindar can tell the robot to paint
+whoever walks in front of the robots
+camera or it can program it to paint
+something based on what's turning in
+Google moon
+but that still essentially means
+Pindar's the artist and the robot is his
+medium can a robot be creative yeah it
+definitely can be creative but it's like
+a question of like what level of
+creativity like I think my robots and
+they make portraits they make all the
+same creative decisions I make it's
+actually making decisions about what to
+do yeah I have some paintings that I
+don't make a single decision all I do is
+turn the robot on and say paint the next
+person that walks in front of the camera
+so there is a way a robot can use an
+evolutionary approach to develop an
+algorithm it can randomly select all
+these algorithms paint a bunch of Brunch
+strokes randomly on ten different
+canvases throw them up for sale on eBay
+whichever one sells the highest it tries
+to paint a little more like that do you
+think your robot has started making more
+beautiful paintings over time beauty is
+measured by how interesting is
+definitely much more beautiful but
+aesthetically the aesthetics are going
+in an unsure direction because I just
+wanted to make a beautiful painting I
+could I could use a printer and print it
+out and be perfect and so I'm going away
+from that I'm trying to get more
+interpretation more serendipity Kim
+Goldberg is an artist and professor of
+engineering who runs the robotics lab at
+UC Berkeley we showed them how Pindar's
+robots work world lights will do
+unexpected things all the time the fact
+that it does something a little bit
+surprising doesn't mean and it's
+creative it's saying it's the nature of
+most machines I that bill don't do
+things you don't expect as soon as you
+inject any kind of randomness into a
+program you get behavior that you may
+not predict and this is essential to a
+lot of the deep learning or AI methods
+being able to show where this
+uncertainty is arising is very
+interesting conceptually but I want to
+make a distinction between that and
+saying well the robot is now being
+creative I think when people see a great
+work of art one reason they relate to it
+is because you think all this great
+artists have the same emotion as me so
+how could a robot create that yeah I
+don't know obviously a robot won't be
+able to make emotional artwork until it
+is emotional but that doesn't mean that
+when we look at a piece of artwork we
+can't get emotions from it so you know
+every so often my robot I'll paint a
+picture that looks like a sad person
+that might make me feel sad through what
+was obviously not sad when I made it but
+it didn't stop me from having that
+emotional reaction

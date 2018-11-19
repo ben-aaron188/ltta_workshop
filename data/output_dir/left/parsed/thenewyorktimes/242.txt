@@ -1,0 +1,84 @@
+In 2014, you may have
+taken a quiz online,
+something that looked
+like this.
+And if you did, you probably
+shared your personal data,
+and your friends’ personal data,
+with the company
+that worked for President
+Trump’s 2016 campaign.
+Here’s how it happened.
+It begins with a research firm,
+Cambridge Analytica.
+C.A. partnered with a U.K.-based
+academic, Aleksandr Kogan,
+who was using Facebook data
+for research purposes.
+Quizzes were sent to
+around 300,000 Americans.
+They looked innocuous —
+over 100 personality traits
+to agree or disagree with.
+And you got paid less than $5.
+But there was a catch.
+To take the survey,
+you had to log
+into Facebook,
+which gave Kogan
+access to your profile,
+including your
+birth date, location
+and, most importantly,
+your Facebook likes.
+Kogan combined the quiz results
+with your Facebook data
+to develop a psychometric model,
+a sort of personality profile.
+He then combined this
+with voter records
+and sent them to
+Cambridge Analytica.
+C.A. claims that these
+models were the heart
+of how they profiled you —
+your neuroses and
+other exploitable traits.
+But Kogan and C.A.
+didn’t stop there.
+His app also grabbed the personal
+data of your Facebook friends
+and compiled similar
+profiles of them.
+In just months,
+270,000 people
+took Kogan’s survey,
+and the data of up to 87 million
+friends was also harvested —
+close to one-quarter
+of all U.S. Facebook users.
+C.A. then used that data
+to target people,
+maybe you,
+with political messaging.
+C.A. said this targeting helped
+the Trump campaign’s strategy,
+but the campaign
+disputes this.
+Kogan’s work claimed to be
+for academic research,
+but he also shared your information
+with Cambridge Analytica —
+a violation of
+Facebook’s policies.
+So, was it a data breach?
+Facebook says no — that
+no passwords were stolen
+and no systems
+were infiltrated.
+But Mark Zuckerberg has said
+it was a breach of trust
+between Facebook and its users.
+The U.S. Federal Trade
+Commission
+is investigating the case.

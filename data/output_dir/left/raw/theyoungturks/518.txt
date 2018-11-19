@@ -1,0 +1,3084 @@
+1
+00:00:00,060 --> 00:00:01,530
+you're about<font color="#E5E5E5"> to watch a free clip of old</font>
+
+2
+00:00:01,530 --> 00:00:03,449
+school<font color="#CCCCCC"> if you</font><font color="#E5E5E5"> like it wait till you see</font>
+
+3
+00:00:03,449 --> 00:00:06,299
+the whole<font color="#CCCCCC"> episode</font><font color="#E5E5E5"> all the</font><font color="#CCCCCC"> episodes in</font>
+
+4
+00:00:06,299 --> 00:00:08,250
+their entirety are available for<font color="#CCCCCC"> members</font>
+
+5
+00:00:08,250 --> 00:00:10,740
+become a member by going to<font color="#CCCCCC"> TYT</font><font color="#E5E5E5"> calm</font>
+
+6
+00:00:10,740 --> 00:00:13,590
+<font color="#CCCCCC">/join jankura ben mankiewicz old school</font>
+
+7
+00:00:13,590 --> 00:00:16,260
+old school<font color="#CCCCCC"> so lots of discuss tonight</font>
+
+8
+00:00:16,260 --> 00:00:19,320
+<font color="#CCCCCC">and there's something new</font><font color="#E5E5E5"> on old school</font>
+
+9
+00:00:19,320 --> 00:00:22,140
+<font color="#CCCCCC">that I have to explain</font><font color="#E5E5E5"> right now</font>
+
+10
+00:00:22,140 --> 00:00:24,029
+programming notes are always<font color="#E5E5E5"> super fun</font>
+
+11
+00:00:24,029 --> 00:00:26,310
+<font color="#CCCCCC">so first of all</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> course</font><font color="#E5E5E5"> we're</font>
+
+12
+00:00:26,310 --> 00:00:28,949
+sponsored by shop<font color="#CCCCCC"> TYT dot-com where you</font>
+
+13
+00:00:28,949 --> 00:00:30,480
+will not<font color="#E5E5E5"> be able to find this t-shirt</font>
+
+14
+00:00:30,480 --> 00:00:32,880
+<font color="#CCCCCC">okay because</font><font color="#E5E5E5"> this happening on that</font>
+
+15
+00:00:32,880 --> 00:00:34,770
+<font color="#E5E5E5">t-shirt that t-shirt is if you remember</font>
+
+16
+00:00:34,770 --> 00:00:36,059
+the sword in<font color="#E5E5E5"> the darkness the Watchers</font>
+
+17
+00:00:36,059 --> 00:00:38,610
+<font color="#E5E5E5">on the wall okay</font><font color="#CCCCCC"> so that's from</font><font color="#E5E5E5"> the last</font>
+
+18
+00:00:38,610 --> 00:00:39,960
+<font color="#CCCCCC">drive we did well we have a new</font>
+
+19
+00:00:39,960 --> 00:00:44,100
+<font color="#E5E5E5">membership drive mmm-hmm so people who</font>
+
+20
+00:00:44,100 --> 00:00:46,289
+gave in the<font color="#E5E5E5"> last Drive got this t-shirt</font>
+
+21
+00:00:46,289 --> 00:00:48,570
+<font color="#E5E5E5">and we said they'd</font><font color="#CCCCCC"> never come back and</font>
+
+22
+00:00:48,570 --> 00:00:50,879
+it didn't come back<font color="#CCCCCC"> okay so we're not</font>
+
+23
+00:00:50,879 --> 00:00:52,079
+playing around you understand what I'm
+
+24
+00:00:52,079 --> 00:00:52,410
+saying
+
+25
+00:00:52,410 --> 00:00:54,600
+so if we do<font color="#E5E5E5"> shirt in this</font><font color="#CCCCCC"> Drive</font>
+
+26
+00:00:54,600 --> 00:00:57,510
+<font color="#E5E5E5">understand that it would be a different</font>
+
+27
+00:00:57,510 --> 00:00:59,129
+t-shirt<font color="#E5E5E5"> it'll be different and you will</font>
+
+28
+00:00:59,129 --> 00:01:00,930
+never get a<font color="#CCCCCC"> chance</font><font color="#E5E5E5"> to buy</font><font color="#CCCCCC"> it again</font><font color="#E5E5E5"> now</font>
+
+29
+00:01:00,930 --> 00:01:02,820
+it<font color="#E5E5E5"> doesn't even exist</font><font color="#CCCCCC"> yet so and</font>
+
+30
+00:01:02,820 --> 00:01:04,979
+probably<font color="#E5E5E5"> one</font><font color="#CCCCCC"> of you guys will draw it as</font>
+
+31
+00:01:04,979 --> 00:01:08,610
+as was the case<font color="#CCCCCC"> with this one</font><font color="#E5E5E5"> of your</font>
+
+32
+00:01:08,610 --> 00:01:12,180
+<font color="#CCCCCC">drug and and so I'm gonna tell you about</font>
+
+33
+00:01:12,180 --> 00:01:14,750
+the<font color="#E5E5E5"> membership drive in a second but</font>
+
+34
+00:01:14,750 --> 00:01:17,220
+whenever<font color="#E5E5E5"> I see anybody</font><font color="#CCCCCC"> in this shirt I</font>
+
+35
+00:01:17,220 --> 00:01:20,310
+know that they in a sense<font color="#CCCCCC"> help build a</font>
+
+36
+00:01:20,310 --> 00:01:22,650
+<font color="#E5E5E5">company</font><font color="#CCCCCC"> so one of</font><font color="#E5E5E5"> the drives</font><font color="#CCCCCC"> we build</font>
+
+37
+00:01:22,650 --> 00:01:23,729
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> studio another one we hired</font>
+
+38
+00:01:23,729 --> 00:01:26,909
+reporters and this one is to try<font color="#CCCCCC"> to</font><font color="#E5E5E5"> get</font>
+
+39
+00:01:26,909 --> 00:01:29,220
+to a hundred<font color="#E5E5E5"> thousand members so that</font><font color="#CCCCCC"> we</font>
+
+40
+00:01:29,220 --> 00:01:32,970
+<font color="#E5E5E5">are an immovable</font><font color="#CCCCCC"> Rock and that we fight</font>
+
+41
+00:01:32,970 --> 00:01:35,579
+for progressives<font color="#E5E5E5"> and especially because</font>
+
+42
+00:01:35,579 --> 00:01:39,090
+<font color="#E5E5E5">2020 is coming I think we</font><font color="#CCCCCC"> disagree it's</font>
+
+43
+00:01:39,090 --> 00:01:41,610
+<font color="#CCCCCC">working 2018 it's been pushed back it</font>
+
+44
+00:01:41,610 --> 00:01:43,860
+<font color="#E5E5E5">has went well okay</font><font color="#CCCCCC"> I had the three eyed</font>
+
+45
+00:01:43,860 --> 00:01:45,540
+Raven<font color="#CCCCCC"> did not tell me that yeah it's</font>
+
+46
+00:01:45,540 --> 00:01:49,140
+like I think<font color="#E5E5E5"> 2023 is it yeah yeah well</font>
+
+47
+00:01:49,140 --> 00:01:50,909
+what was 2023 well you know what they
+
+48
+00:01:50,909 --> 00:01:52,890
+say<font color="#E5E5E5"> that</font><font color="#CCCCCC"> will now</font><font color="#E5E5E5"> be 20 2006</font>
+
+49
+00:01:52,890 --> 00:01:55,590
+<font color="#E5E5E5">right well what they say hindsight</font><font color="#CCCCCC"> is</font>
+
+50
+00:01:55,590 --> 00:01:57,450
+<font color="#CCCCCC">20/20 three</font><font color="#E5E5E5"> that's right they say that</font>
+
+51
+00:01:57,450 --> 00:01:59,939
+they didn't say<font color="#E5E5E5"> that yeah uh so I have</font>
+
+52
+00:01:59,939 --> 00:02:01,110
+really<font color="#CCCCCC"> understood</font><font color="#E5E5E5"> the head expression</font>
+
+53
+00:02:01,110 --> 00:02:02,610
+didn't tell<font color="#E5E5E5"> man</font><font color="#CCCCCC"> oh yeah that's right it</font>
+
+54
+00:02:02,610 --> 00:02:06,360
+seemed a little weird<font color="#E5E5E5"> until now okay so</font>
+
+55
+00:02:06,360 --> 00:02:08,560
+we have a lot of<font color="#E5E5E5"> fun things on the show</font>
+
+56
+00:02:08,560 --> 00:02:10,389
+we're gonna in a minute discuss of
+
+57
+00:02:10,389 --> 00:02:13,930
+course<font color="#E5E5E5"> what is</font><font color="#CCCCCC"> the least American season</font>
+
+58
+00:02:13,930 --> 00:02:16,750
+of the four<font color="#E5E5E5"> seasons which one is the</font>
+
+59
+00:02:16,750 --> 00:02:19,320
+least<font color="#E5E5E5"> American it actually</font><font color="#CCCCCC"> hides it</font><font color="#E5E5E5"> well</font>
+
+60
+00:02:19,320 --> 00:02:21,520
+<font color="#E5E5E5">that's a good</font><font color="#CCCCCC"> answer for a different</font>
+
+61
+00:02:21,520 --> 00:02:23,440
+question<font color="#CCCCCC"> but it turns</font><font color="#E5E5E5"> out there is</font>
+
+62
+00:02:23,440 --> 00:02:25,600
+<font color="#E5E5E5">actually</font><font color="#CCCCCC"> a clear answer and we'll see if</font>
+
+63
+00:02:25,600 --> 00:02:27,940
+<font color="#CCCCCC">banking it that clear answer we might</font>
+
+64
+00:02:27,940 --> 00:02:29,740
+have to dip into<font color="#E5E5E5"> Trump because see again</font>
+
+65
+00:02:29,740 --> 00:02:32,290
+is added in maniacal ways just<font color="#E5E5E5"> before</font>
+
+66
+00:02:32,290 --> 00:02:34,450
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> show began but before I get into</font>
+
+67
+00:02:34,450 --> 00:02:38,560
+<font color="#E5E5E5">any of</font><font color="#CCCCCC"> that so I want to explain</font><font color="#E5E5E5"> we have</font>
+
+68
+00:02:38,560 --> 00:02:41,110
+gone public<font color="#E5E5E5"> and private a piece of tape</font>
+
+69
+00:02:41,110 --> 00:02:43,150
+<font color="#E5E5E5">before we yeah okay this is the kind of</font>
+
+70
+00:02:43,150 --> 00:02:45,190
+stuff that<font color="#CCCCCC"> happens</font><font color="#E5E5E5"> on old</font><font color="#CCCCCC"> school so we</font>
+
+71
+00:02:45,190 --> 00:02:46,750
+have<font color="#E5E5E5"> changed</font><font color="#CCCCCC"> our</font><font color="#E5E5E5"> minds approximately</font>
+
+72
+00:02:46,750 --> 00:02:48,220
+seventy eight times on whether any
+
+73
+00:02:48,220 --> 00:02:49,540
+portion<font color="#E5E5E5"> of this show is going</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be</font>
+
+74
+00:02:49,540 --> 00:02:51,610
+public it's usually<font color="#CCCCCC"> four members</font><font color="#E5E5E5"> that</font>
+
+75
+00:02:51,610 --> 00:02:53,230
+<font color="#CCCCCC">members get</font><font color="#E5E5E5"> it live and</font><font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of you are</font>
+
+76
+00:02:53,230 --> 00:02:54,820
+watching<font color="#E5E5E5"> now</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> notice that we started</font>
+
+77
+00:02:54,820 --> 00:02:58,209
+late as usual<font color="#E5E5E5"> so that's also</font><font color="#CCCCCC"> old-school</font>
+
+78
+00:02:58,209 --> 00:03:01,420
+tradition<font color="#CCCCCC"> but we're now putting</font><font color="#E5E5E5"> up</font>
+
+79
+00:03:01,420 --> 00:03:05,380
+basically<font color="#E5E5E5"> the first</font><font color="#CCCCCC"> half</font><font color="#E5E5E5"> hour for free</font>
+
+80
+00:03:05,380 --> 00:03:09,640
+on YouTube it's not just a half an hour
+
+81
+00:03:09,640 --> 00:03:10,930
+show it's about<font color="#E5E5E5"> an hour and a half show</font>
+
+82
+00:03:10,930 --> 00:03:14,049
+and members get<font color="#CCCCCC"> the whole show and</font>
+
+83
+00:03:14,049 --> 00:03:16,540
+you'll already<font color="#E5E5E5"> have seen that in the</font>
+
+84
+00:03:16,540 --> 00:03:18,310
+pre-roll<font color="#E5E5E5"> to this where I'm wearing a</font>
+
+85
+00:03:18,310 --> 00:03:19,840
+suit<font color="#CCCCCC"> and all that</font><font color="#E5E5E5"> stuff but I just</font>
+
+86
+00:03:19,840 --> 00:03:22,390
+<font color="#CCCCCC">wanted</font><font color="#E5E5E5"> you guys to know both</font><font color="#CCCCCC"> the folks</font>
+
+87
+00:03:22,390 --> 00:03:23,440
+that<font color="#E5E5E5"> are</font><font color="#CCCCCC"> watching and</font><font color="#E5E5E5"> that are not</font>
+
+88
+00:03:23,440 --> 00:03:25,840
+members<font color="#E5E5E5"> and the members that from now on</font>
+
+89
+00:03:25,840 --> 00:03:27,370
+<font color="#CCCCCC">we'll be putting up</font><font color="#E5E5E5"> the first half an</font>
+
+90
+00:03:27,370 --> 00:03:29,950
+hour or so<font color="#CCCCCC"> on YouTube on the weekends ok</font>
+
+91
+00:03:29,950 --> 00:03:31,630
+so a lot<font color="#CCCCCC"> of you are</font><font color="#E5E5E5"> watching now that</font>
+
+92
+00:03:31,630 --> 00:03:33,220
+are<font color="#E5E5E5"> not members so the first half hour</font>
+
+93
+00:03:33,220 --> 00:03:34,930
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> old school</font><font color="#E5E5E5"> we've had so many</font>
+
+94
+00:03:34,930 --> 00:03:36,760
+conversations<font color="#E5E5E5"> about what to do with</font><font color="#CCCCCC"> old</font>
+
+95
+00:03:36,760 --> 00:03:38,350
+school<font color="#E5E5E5"> I'm sorry actually I haven't had</font>
+
+96
+00:03:38,350 --> 00:03:42,760
+any<font color="#E5E5E5"> I like</font><font color="#CCCCCC"> finding out with the rest</font><font color="#E5E5E5"> of</font>
+
+97
+00:03:42,760 --> 00:03:46,900
+you so the<font color="#E5E5E5"> first half hour which is</font>
+
+98
+00:03:46,900 --> 00:03:50,620
+seldom<font color="#E5E5E5"> the best half hour will be made</font>
+
+99
+00:03:50,620 --> 00:03:53,049
+free<font color="#E5E5E5"> it is</font><font color="#CCCCCC"> what it is for example</font><font color="#E5E5E5"> the</font>
+
+100
+00:03:53,049 --> 00:03:54,459
+<font color="#E5E5E5">first couple of minutes here useless</font>
+
+101
+00:03:54,459 --> 00:03:57,220
+<font color="#CCCCCC">good pretty</font><font color="#E5E5E5"> much pretty much a waste of</font>
+
+102
+00:03:57,220 --> 00:04:00,070
+time requests<font color="#E5E5E5"> for tape chewing some food</font>
+
+103
+00:04:00,070 --> 00:04:01,930
+<font color="#CCCCCC">yeah and over some membership</font><font color="#E5E5E5"> rules we</font>
+
+104
+00:04:01,930 --> 00:04:05,650
+eat between<font color="#E5E5E5"> the shows</font><font color="#CCCCCC"> ok</font><font color="#E5E5E5"> anyways</font><font color="#CCCCCC"> lastly</font>
+
+105
+00:04:05,650 --> 00:04:08,140
+on this<font color="#E5E5E5"> we're gonna put</font><font color="#CCCCCC"> up a number here</font>
+
+106
+00:04:08,140 --> 00:04:10,030
+<font color="#CCCCCC">that is relevant to</font><font color="#E5E5E5"> the members</font><font color="#CCCCCC"> cuz</font>
+
+107
+00:04:10,030 --> 00:04:11,290
+they're the<font color="#E5E5E5"> only ones watching live</font>
+
+108
+00:04:11,290 --> 00:04:13,120
+<font color="#E5E5E5">because</font><font color="#CCCCCC"> we've</font><font color="#E5E5E5"> been trying to get to</font>
+
+109
+00:04:13,120 --> 00:04:15,870
+29,000 today 29,000 our membership drive
+
+110
+00:04:15,870 --> 00:04:18,190
+<font color="#E5E5E5">those of you are not members will be</font>
+
+111
+00:04:18,190 --> 00:04:20,680
+seeing this days later but this<font color="#E5E5E5"> will be</font>
+
+112
+00:04:20,680 --> 00:04:22,230
+a fun<font color="#CCCCCC"> for oh no it's</font><font color="#E5E5E5"> not public</font>
+
+113
+00:04:22,230 --> 00:04:24,940
+anyway there won't be any fun part<font color="#CCCCCC"> for</font>
+
+114
+00:04:24,940 --> 00:04:28,660
+you guys we do keep<font color="#E5E5E5"> it real on</font>
+
+115
+00:04:28,660 --> 00:04:31,540
+<font color="#CCCCCC">old-school</font><font color="#E5E5E5"> and are we going to talk</font>
+
+116
+00:04:31,540 --> 00:04:33,280
+<font color="#E5E5E5">about the thing on my lip yes that's</font>
+
+117
+00:04:33,280 --> 00:04:34,480
+another thing we're gonna discuss in a
+
+118
+00:04:34,480 --> 00:04:35,560
+<font color="#CCCCCC">little it was</font><font color="#E5E5E5"> only a few weeks ago that</font>
+
+119
+00:04:35,560 --> 00:04:36,700
+<font color="#CCCCCC">we talked</font><font color="#E5E5E5"> about the thing on my lip</font>
+
+120
+00:04:36,700 --> 00:04:38,980
+<font color="#E5E5E5">that's right man there's a lot of lip</font>
+
+121
+00:04:38,980 --> 00:04:41,560
+<font color="#E5E5E5">talk a lot of loose lips summer</font>
+
+122
+00:04:41,560 --> 00:04:44,320
+oh no<font color="#E5E5E5"> 17</font><font color="#CCCCCC"> heart ship is sinking</font>
+
+123
+00:04:44,320 --> 00:04:48,970
+<font color="#E5E5E5">all right so membership drive update for</font>
+
+124
+00:04:48,970 --> 00:04:50,680
+the day we're trying<font color="#E5E5E5"> to get the</font><font color="#CCCCCC"> 29,000</font>
+
+125
+00:04:50,680 --> 00:04:52,090
+did we get there
+
+126
+00:04:52,090 --> 00:04:55,990
+can I see the number<font color="#E5E5E5"> but that wait a</font>
+
+127
+00:04:55,990 --> 00:05:02,830
+minute<font color="#CCCCCC"> I think</font><font color="#E5E5E5"> I actually have it not</font>
+
+128
+00:05:02,830 --> 00:05:14,830
+what I<font color="#CCCCCC"> intended</font><font color="#E5E5E5"> all right so 29,000</font><font color="#CCCCCC"> 47</font>
+
+129
+00:05:14,830 --> 00:05:18,400
+<font color="#E5E5E5">we did reach 29,000</font><font color="#CCCCCC"> Anna's is</font><font color="#E5E5E5"> 30,000 she</font>
+
+130
+00:05:18,400 --> 00:05:20,740
+says we<font color="#CCCCCC"> had either</font><font color="#E5E5E5"> 30,000 she said it by</font>
+
+131
+00:05:20,740 --> 00:05:22,390
+the first thing which is impossible<font color="#E5E5E5"> this</font>
+
+132
+00:05:22,390 --> 00:05:25,000
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> the second day and 29,000 was</font>
+
+133
+00:05:25,000 --> 00:05:26,830
+impossible<font color="#CCCCCC"> but we got it's a good start</font>
+
+134
+00:05:26,830 --> 00:05:30,040
+<font color="#CCCCCC">oh it's an amazing start</font><font color="#E5E5E5"> yeah so thank</font>
+
+135
+00:05:30,040 --> 00:05:31,480
+you to<font color="#CCCCCC"> all who are like of 1,000</font>
+
+136
+00:05:31,480 --> 00:05:35,440
+yesterday<font color="#E5E5E5"> right yeah with</font><font color="#CCCCCC"> 1,500 no no</font>
+
+137
+00:05:35,440 --> 00:05:38,590
+it's it's<font color="#E5E5E5"> been an amazing</font><font color="#CCCCCC"> couple</font><font color="#E5E5E5"> thank</font>
+
+138
+00:05:38,590 --> 00:05:40,330
+you to all of<font color="#E5E5E5"> you</font><font color="#CCCCCC"> guys and if you if</font>
+
+139
+00:05:40,330 --> 00:05:42,340
+you're not already member make progress
+
+140
+00:05:42,340 --> 00:05:43,990
+of media possible and get this fun show
+
+141
+00:05:43,990 --> 00:05:46,120
+<font color="#E5E5E5">and by the way the archives for the old</font>
+
+142
+00:05:46,120 --> 00:05:47,710
+school goes back years
+
+143
+00:05:47,710 --> 00:05:49,210
+you're gonna love those archives we're
+
+144
+00:05:49,210 --> 00:05:50,919
+now wait
+
+145
+00:05:50,919 --> 00:05:54,160
+I can<font color="#E5E5E5"> I can curse</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> will have to be</font>
+
+146
+00:05:54,160 --> 00:05:57,160
+bleeped out<font color="#E5E5E5"> later we're not</font>
+
+147
+00:05:57,160 --> 00:05:59,500
+around<font color="#E5E5E5"> okay what does that</font><font color="#CCCCCC"> bleed out on</font>
+
+148
+00:05:59,500 --> 00:06:02,020
+<font color="#CCCCCC">a version that do you reverse your three</font>
+
+149
+00:06:02,020 --> 00:06:04,510
+<font color="#E5E5E5">half-hour</font><font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> pluses in other</font><font color="#E5E5E5"> words</font>
+
+150
+00:06:04,510 --> 00:06:07,990
+<font color="#CCCCCC">who cares super boring</font><font color="#E5E5E5"> anyway</font><font color="#CCCCCC"> for the</font>
+
+151
+00:06:07,990 --> 00:06:09,790
+members you<font color="#CCCCCC"> get all the curses too so</font>
+
+152
+00:06:09,790 --> 00:06:11,710
+<font color="#E5E5E5">that's fun</font><font color="#CCCCCC"> tea</font><font color="#E5E5E5"> y-t-dot-com</font><font color="#CCCCCC"> /join alright</font>
+
+153
+00:06:11,710 --> 00:06:13,930
+let's<font color="#E5E5E5"> move on let's move on so we</font><font color="#CCCCCC"> got</font>
+
+154
+00:06:13,930 --> 00:06:16,600
+<font color="#CCCCCC">Trump</font><font color="#E5E5E5"> I got a</font><font color="#CCCCCC"> I have there's so many</font>
+
+155
+00:06:16,600 --> 00:06:19,900
+<font color="#E5E5E5">wonderful things today</font><font color="#CCCCCC"> also a secret</font>
+
+156
+00:06:19,900 --> 00:06:23,650
+<font color="#E5E5E5">state among the 50 states that were</font>
+
+157
+00:06:23,650 --> 00:06:25,780
+you're gonna go no nobody wants<font color="#CCCCCC"> to live</font>
+
+158
+00:06:25,780 --> 00:06:27,610
+there wait a<font color="#E5E5E5"> minute</font>
+
+159
+00:06:27,610 --> 00:06:30,490
+<font color="#CCCCCC">should people live there</font><font color="#E5E5E5"> so that's</font>
+
+160
+00:06:30,490 --> 00:06:32,349
+coming<font color="#E5E5E5"> up in a little bit as well</font><font color="#CCCCCC"> okay</font>
+
+161
+00:06:32,349 --> 00:06:34,960
+<font color="#E5E5E5">so by the way in old school</font><font color="#CCCCCC"> we measure</font>
+
+162
+00:06:34,960 --> 00:06:35,560
+time and
+
+163
+00:06:35,560 --> 00:06:37,840
+different metrics<font color="#CCCCCC"> so when I say a</font><font color="#E5E5E5"> little</font>
+
+164
+00:06:37,840 --> 00:06:40,180
+bit<font color="#E5E5E5"> I probably mean an hour and 15</font>
+
+165
+00:06:40,180 --> 00:06:40,930
+minutes from<font color="#CCCCCC"> now</font>
+
+166
+00:06:40,930 --> 00:06:42,910
+<font color="#E5E5E5">okay</font><font color="#CCCCCC"> just giving everybody a</font><font color="#E5E5E5"> heads up</font>
+
+167
+00:06:42,910 --> 00:06:44,260
+since we're starting<font color="#CCCCCC"> something new</font><font color="#E5E5E5"> today</font>
+
+168
+00:06:44,260 --> 00:06:46,120
+<font color="#E5E5E5">all right so without further ado let's</font>
+
+169
+00:06:46,120 --> 00:06:48,370
+see if you can guess<font color="#E5E5E5"> the</font><font color="#CCCCCC"> most most</font>
+
+170
+00:06:48,370 --> 00:06:51,460
+<font color="#CCCCCC">unamerican</font><font color="#E5E5E5"> season well to be fair it's</font>
+
+171
+00:06:51,460 --> 00:06:53,110
+by<font color="#CCCCCC"> default</font><font color="#E5E5E5"> there's nothing particularly</font>
+
+172
+00:06:53,110 --> 00:06:55,510
+unamerican about it<font color="#E5E5E5"> it just loses to the</font>
+
+173
+00:06:55,510 --> 00:06:59,800
+other<font color="#E5E5E5"> seasons is this this is in your</font>
+
+174
+00:06:59,800 --> 00:07:01,030
+<font color="#E5E5E5">opinion and I don't mean</font><font color="#CCCCCC"> to say</font>
+
+175
+00:07:01,030 --> 00:07:02,919
+obviously<font color="#E5E5E5"> there's no</font><font color="#CCCCCC"> conversation that I</font>
+
+176
+00:07:02,919 --> 00:07:04,960
+like less I had wanted<font color="#E5E5E5"> to Telluride Film</font>
+
+177
+00:07:04,960 --> 00:07:07,750
+Festival<font color="#E5E5E5"> then when you say an opinion as</font>
+
+178
+00:07:07,750 --> 00:07:11,500
+fact<font color="#E5E5E5"> and someone joins it retorts that</font>
+
+179
+00:07:11,500 --> 00:07:12,940
+<font color="#E5E5E5">hey man it's</font><font color="#CCCCCC"> just opinion everyone's</font>
+
+180
+00:07:12,940 --> 00:07:14,830
+entitled to<font color="#E5E5E5"> an opinion I'm like hey</font><font color="#CCCCCC"> man</font>
+
+181
+00:07:14,830 --> 00:07:17,169
+<font color="#CCCCCC">you just</font><font color="#E5E5E5"> made this a very uninteresting</font>
+
+182
+00:07:17,169 --> 00:07:19,810
+conversation<font color="#E5E5E5"> I got it everyone's</font>
+
+183
+00:07:19,810 --> 00:07:21,700
+entitled<font color="#CCCCCC"> an opinion that's</font><font color="#E5E5E5"> not news</font><font color="#CCCCCC"> it's</font>
+
+184
+00:07:21,700 --> 00:07:23,380
+<font color="#CCCCCC">only interesting</font><font color="#E5E5E5"> if you state your</font>
+
+185
+00:07:23,380 --> 00:07:25,780
+<font color="#E5E5E5">opinion as fact</font><font color="#CCCCCC"> as if it's a bold</font>
+
+186
+00:07:25,780 --> 00:07:27,490
+declaration<font color="#CCCCCC"> look if we get to hundreds</font>
+
+187
+00:07:27,490 --> 00:07:29,380
+<font color="#CCCCCC">of members</font><font color="#E5E5E5"> I should make my first</font>
+
+188
+00:07:29,380 --> 00:07:31,660
+promise now we will start a show called
+
+189
+00:07:31,660 --> 00:07:34,330
+strong<font color="#E5E5E5"> opinions</font><font color="#CCCCCC"> JQ wrong opinion but</font><font color="#E5E5E5"> it</font>
+
+190
+00:07:34,330 --> 00:07:37,830
+would fill the blank<font color="#E5E5E5"> by</font><font color="#CCCCCC"> rachel handled</font>
+
+191
+00:07:37,830 --> 00:07:40,960
+so so is this your<font color="#E5E5E5"> this is your take</font>
+
+192
+00:07:40,960 --> 00:07:44,229
+<font color="#CCCCCC">your declaration essentially yeah I mean</font>
+
+193
+00:07:44,229 --> 00:07:46,030
+but you're stating<font color="#E5E5E5"> the</font><font color="#CCCCCC"> most obvious</font>
+
+194
+00:07:46,030 --> 00:07:47,410
+things in the world<font color="#CCCCCC"> I just wondered if</font>
+
+195
+00:07:47,410 --> 00:07:49,780
+like it was read somewhere or<font color="#CCCCCC"> was sort</font>
+
+196
+00:07:49,780 --> 00:07:52,600
+<font color="#CCCCCC">of a group think like did people know no</font>
+
+197
+00:07:52,600 --> 00:07:55,030
+one outside<font color="#E5E5E5"> of me but but it is obvious</font>
+
+198
+00:07:55,030 --> 00:07:56,350
+<font color="#CCCCCC">yeah</font><font color="#E5E5E5"> I think it is</font><font color="#CCCCCC"> obvious I'm not</font><font color="#E5E5E5"> quite</font>
+
+199
+00:07:56,350 --> 00:07:57,970
+there yet although<font color="#E5E5E5"> I am certainly</font>
+
+200
+00:07:57,970 --> 00:08:00,310
+influenced by<font color="#E5E5E5"> whether you use the term</font>
+
+201
+00:08:00,310 --> 00:08:02,860
+fall or autumn<font color="#CCCCCC"> because I think we use</font>
+
+202
+00:08:02,860 --> 00:08:05,020
+the term autumn<font color="#E5E5E5"> then that is in the</font>
+
+203
+00:08:05,020 --> 00:08:09,010
+running<font color="#E5E5E5"> but let's go with fall okay and</font>
+
+204
+00:08:09,010 --> 00:08:10,240
+so I don't<font color="#E5E5E5"> think it could</font><font color="#CCCCCC"> be fall</font>
+
+205
+00:08:10,240 --> 00:08:12,580
+because<font color="#E5E5E5"> fall</font><font color="#CCCCCC"> is a I think a time that</font>
+
+206
+00:08:12,580 --> 00:08:14,590
+you would think it's just yes I do<font color="#CCCCCC"> the</font>
+
+207
+00:08:14,590 --> 00:08:17,229
+most<font color="#CCCCCC"> glorious time</font><font color="#E5E5E5"> football begins</font><font color="#CCCCCC"> it's</font>
+
+208
+00:08:17,229 --> 00:08:19,570
+a it's a new beginning<font color="#E5E5E5"> they you can tell</font>
+
+209
+00:08:19,570 --> 00:08:21,460
+me<font color="#E5E5E5"> the year starts in January that's</font>
+
+210
+00:08:21,460 --> 00:08:22,210
+<font color="#E5E5E5">nonsense</font>
+
+211
+00:08:22,210 --> 00:08:26,350
+the year starts in<font color="#E5E5E5"> the fall</font><font color="#CCCCCC"> okay</font><font color="#E5E5E5"> so far</font>
+
+212
+00:08:26,350 --> 00:08:28,479
+<font color="#E5E5E5">Dana</font><font color="#CCCCCC"> named a</font><font color="#E5E5E5"> hundred percent correct</font><font color="#CCCCCC"> I</font>
+
+213
+00:08:28,479 --> 00:08:32,380
+<font color="#CCCCCC">feel</font><font color="#E5E5E5"> like in a</font><font color="#CCCCCC"> old school episode three</font>
+
+214
+00:08:32,380 --> 00:08:33,549
+and a half years ago we already had this
+
+215
+00:08:33,549 --> 00:08:35,110
+conversation that one's easy that's a
+
+216
+00:08:35,110 --> 00:08:38,260
+layup<font color="#E5E5E5"> fall is the</font><font color="#CCCCCC"> most</font><font color="#E5E5E5"> American season</font>
+
+217
+00:08:38,260 --> 00:08:39,940
+unless you call it autumn in which case
+
+218
+00:08:39,940 --> 00:08:41,589
+and then we<font color="#CCCCCC"> got to read it order every</font>
+
+219
+00:08:41,589 --> 00:08:43,780
+yeah in case you said welcome<font color="#CCCCCC"> to America</font>
+
+220
+00:08:43,780 --> 00:08:46,900
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> you're gonna call it fall and we</font>
+
+221
+00:08:46,900 --> 00:08:47,769
+call
+
+222
+00:08:47,769 --> 00:08:49,480
+football the<font color="#CCCCCC"> sport where we actually</font><font color="#E5E5E5"> hit</font>
+
+223
+00:08:49,480 --> 00:08:51,160
+each<font color="#E5E5E5"> other that's right and not kick</font><font color="#CCCCCC"> the</font>
+
+224
+00:08:51,160 --> 00:08:53,499
+ball around<font color="#E5E5E5"> until we get to a one-nil</font>
+
+225
+00:08:53,499 --> 00:08:56,079
+result on the pitch<font color="#E5E5E5"> that's right okay um</font>
+
+226
+00:08:56,079 --> 00:09:00,009
+okay<font color="#CCCCCC"> so</font><font color="#E5E5E5"> fall is not the most unamerican</font>
+
+227
+00:09:00,009 --> 00:09:02,199
+<font color="#CCCCCC">right</font><font color="#E5E5E5"> that's not I don't</font><font color="#CCCCCC"> think you could</font>
+
+228
+00:09:02,199 --> 00:09:03,819
+<font color="#CCCCCC">argue that summer</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> a non American</font>
+
+229
+00:09:03,819 --> 00:09:06,459
+season because<font color="#E5E5E5"> it's F in summer summer</font>
+
+230
+00:09:06,459 --> 00:09:07,779
+get out in summer<font color="#E5E5E5"> you look for it you</font>
+
+231
+00:09:07,779 --> 00:09:09,249
+<font color="#CCCCCC">have some great new</font><font color="#E5E5E5"> greatest experience</font>
+
+232
+00:09:09,249 --> 00:09:10,449
+in summer<font color="#CCCCCC"> either</font><font color="#E5E5E5"> travel with your family</font>
+
+233
+00:09:10,449 --> 00:09:11,799
+<font color="#CCCCCC">traveling</font><font color="#E5E5E5"> with your friends</font>
+
+234
+00:09:11,799 --> 00:09:13,959
+some<font color="#E5E5E5"> are loved there's just something</font>
+
+235
+00:09:13,959 --> 00:09:15,730
+about summer that even now at our
+
+236
+00:09:15,730 --> 00:09:18,160
+advanced age like my daughter went to
+
+237
+00:09:18,160 --> 00:09:20,499
+started kindergarten<font color="#CCCCCC"> today</font><font color="#E5E5E5"> today is her</font>
+
+238
+00:09:20,499 --> 00:09:22,119
+first day at real school when it was an
+
+239
+00:09:22,119 --> 00:09:25,779
+experience<font color="#CCCCCC"> it was the end of</font><font color="#E5E5E5"> summer so</font>
+
+240
+00:09:25,779 --> 00:09:28,299
+even her summer which<font color="#E5E5E5"> is not the same</font><font color="#CCCCCC"> as</font>
+
+241
+00:09:28,299 --> 00:09:29,379
+my summer<font color="#E5E5E5"> because she doesn't have</font>
+
+242
+00:09:29,379 --> 00:09:31,749
+anything<font color="#E5E5E5"> to do and still manages to</font>
+
+243
+00:09:31,749 --> 00:09:36,670
+complain and because you<font color="#E5E5E5"> just said how</font>
+
+244
+00:09:36,670 --> 00:09:38,199
+<font color="#E5E5E5">great were those summers</font><font color="#CCCCCC"> I don't</font><font color="#E5E5E5"> think</font>
+
+245
+00:09:38,199 --> 00:09:39,879
+you can call summer<font color="#CCCCCC"> unamerican</font>
+
+246
+00:09:39,879 --> 00:09:43,089
+<font color="#CCCCCC">ding-ding-ding continue to be 100</font>
+
+247
+00:09:43,089 --> 00:09:44,679
+<font color="#CCCCCC">percent</font><font color="#E5E5E5"> right I</font><font color="#CCCCCC"> believe the last</font><font color="#E5E5E5"> time we</font>
+
+248
+00:09:44,679 --> 00:09:48,489
+<font color="#E5E5E5">played this game summer came in 2nd not</font>
+
+249
+00:09:48,489 --> 00:09:50,290
+really a<font color="#E5E5E5"> closed closed site but there</font>
+
+250
+00:09:50,290 --> 00:09:52,089
+was a discussion that's a discussion
+
+251
+00:09:52,089 --> 00:09:54,549
+<font color="#E5E5E5">because 4th of July is in the summer</font><font color="#CCCCCC"> I</font>
+
+252
+00:09:54,549 --> 00:09:55,839
+mean it doesn't get more American than
+
+253
+00:09:55,839 --> 00:09:57,730
+that<font color="#CCCCCC"> right there's a lot</font><font color="#E5E5E5"> of flags around</font>
+
+254
+00:09:57,730 --> 00:10:00,759
+<font color="#E5E5E5">here day summer Memorial Day technically</font>
+
+255
+00:10:00,759 --> 00:10:02,049
+not summer but summer
+
+256
+00:10:02,049 --> 00:10:04,389
+yeah Labor Day technically summer but
+
+257
+00:10:04,389 --> 00:10:06,069
+not<font color="#E5E5E5"> summer so it's kind</font><font color="#CCCCCC"> of balances it</font>
+
+258
+00:10:06,069 --> 00:10:07,660
+that's true that's Labor Day technically
+
+259
+00:10:07,660 --> 00:10:09,819
+fall Memorial<font color="#E5E5E5"> Day</font><font color="#CCCCCC"> I mean Labor Day</font>
+
+260
+00:10:09,819 --> 00:10:12,429
+essentially fall<font color="#E5E5E5"> Memorial Day</font>
+
+261
+00:10:12,429 --> 00:10:15,939
+essentially so right<font color="#CCCCCC"> also in in the camp</font>
+
+262
+00:10:15,939 --> 00:10:17,799
+for<font color="#CCCCCC"> summer coming</font><font color="#E5E5E5"> in number two hot dogs</font>
+
+263
+00:10:17,799 --> 00:10:20,980
+<font color="#CCCCCC">I'll touch your barbecues a barbecues no</font>
+
+264
+00:10:20,980 --> 00:10:23,199
+<font color="#E5E5E5">clearly the second most American</font><font color="#CCCCCC"> sees</font>
+
+265
+00:10:23,199 --> 00:10:27,459
+vacation<font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> no nobody look if you</font>
+
+266
+00:10:27,459 --> 00:10:29,019
+<font color="#E5E5E5">haven't agreed so</font><font color="#CCCCCC"> far</font><font color="#E5E5E5"> there's something</font>
+
+267
+00:10:29,019 --> 00:10:32,949
+wrong<font color="#CCCCCC"> with you well you might think</font>
+
+268
+00:10:32,949 --> 00:10:35,049
+<font color="#CCCCCC">you're American</font><font color="#E5E5E5"> but you're not so that</font>
+
+269
+00:10:35,049 --> 00:10:37,839
+we're down to a winter and spring yes we
+
+270
+00:10:37,839 --> 00:10:40,119
+<font color="#E5E5E5">are see now and if you see how it's</font>
+
+271
+00:10:40,119 --> 00:10:41,949
+gonna become<font color="#CCCCCC"> ok</font><font color="#E5E5E5"> uh-huh it's tricky</font>
+
+272
+00:10:41,949 --> 00:10:44,319
+because winter has a Christmas or
+
+273
+00:10:44,319 --> 00:10:46,269
+Hanukkah or whatever else thing you want
+
+274
+00:10:46,269 --> 00:10:48,040
+to<font color="#CCCCCC"> sell</font><font color="#E5E5E5"> that's family company elves are</font>
+
+275
+00:10:48,040 --> 00:10:50,019
+great<font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> saying that anything</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> these</font>
+
+276
+00:10:50,019 --> 00:10:52,629
+other times<font color="#CCCCCC"> there</font><font color="#E5E5E5"> aren't American</font>
+
+277
+00:10:52,629 --> 00:10:54,399
+moments in whatever is the<font color="#E5E5E5"> most</font>
+
+278
+00:10:54,399 --> 00:10:57,639
+unamerican season absolutely is the boss
+
+279
+00:10:57,639 --> 00:10:59,049
+by default<font color="#E5E5E5"> that's right that's right</font>
+
+280
+00:10:59,049 --> 00:11:01,180
+<font color="#E5E5E5">that's what you did say that so</font><font color="#CCCCCC"> uh I</font>
+
+281
+00:11:01,180 --> 00:11:04,690
+<font color="#E5E5E5">because especially for</font><font color="#CCCCCC"> those</font><font color="#E5E5E5"> of us who</font>
+
+282
+00:11:04,690 --> 00:11:05,850
+grew<font color="#CCCCCC"> up back east</font>
+
+283
+00:11:05,850 --> 00:11:11,470
+when<font color="#E5E5E5"> spring comes you</font><font color="#CCCCCC"> sense</font><font color="#E5E5E5"> dare I say</font>
+
+284
+00:11:11,470 --> 00:11:17,680
+<font color="#CCCCCC">it some</font><font color="#E5E5E5"> degree</font><font color="#CCCCCC"> of hope so</font><font color="#E5E5E5"> that we've</font>
+
+285
+00:11:17,680 --> 00:11:19,930
+come out<font color="#E5E5E5"> of</font><font color="#CCCCCC"> a winter of</font><font color="#E5E5E5"> shirt days and</font>
+
+286
+00:11:19,930 --> 00:11:22,660
+short days<font color="#CCCCCC"> blow right yeah went</font>
+
+287
+00:11:22,660 --> 00:11:25,330
+night-night time at 4:42 that doesn't
+
+288
+00:11:25,330 --> 00:11:27,820
+interest<font color="#E5E5E5"> anybody and it's just too cold</font>
+
+289
+00:11:27,820 --> 00:11:29,890
+<font color="#E5E5E5">in the morning and so when spring comes</font>
+
+290
+00:11:29,890 --> 00:11:31,990
+and<font color="#E5E5E5"> you get those first day out it's 52</font>
+
+291
+00:11:31,990 --> 00:11:33,730
+<font color="#E5E5E5">degrees today</font><font color="#CCCCCC"> and sunny</font><font color="#E5E5E5"> something's</font>
+
+292
+00:11:33,730 --> 00:11:34,270
+happening
+
+293
+00:11:34,270 --> 00:11:36,280
+something is<font color="#E5E5E5"> happening and</font><font color="#CCCCCC"> for me the</font>
+
+294
+00:11:36,280 --> 00:11:37,720
+baseball they go to spring<font color="#CCCCCC"> training you</font>
+
+295
+00:11:37,720 --> 00:11:41,590
+<font color="#E5E5E5">sense there's a so I but then there are</font>
+
+296
+00:11:41,590 --> 00:11:48,340
+<font color="#E5E5E5">allergies because I like it</font><font color="#CCCCCC"> could be the</font>
+
+297
+00:11:48,340 --> 00:11:51,280
+cup in<font color="#CCCCCC"> front of you I like winter</font><font color="#E5E5E5"> I like</font>
+
+298
+00:11:51,280 --> 00:11:53,830
+<font color="#CCCCCC">the snow I like the cold</font>
+
+299
+00:11:53,830 --> 00:11:59,140
+I<font color="#E5E5E5"> don't but I like the cold but I don't</font>
+
+300
+00:11:59,140 --> 00:12:01,390
+see how the emergence of<font color="#E5E5E5"> Sun and the</font>
+
+301
+00:12:01,390 --> 00:12:03,940
+emergence of<font color="#CCCCCC"> a of a possibility of a</font>
+
+302
+00:12:03,940 --> 00:12:07,230
+<font color="#CCCCCC">nine</font><font color="#E5E5E5"> month run of American greatness</font>
+
+303
+00:12:07,230 --> 00:12:11,080
+I think spring is<font color="#E5E5E5"> more American than</font>
+
+304
+00:12:11,080 --> 00:12:12,580
+winter<font color="#E5E5E5"> and I will say that winter is the</font>
+
+305
+00:12:12,580 --> 00:12:14,980
+<font color="#E5E5E5">most American by default of all the</font>
+
+306
+00:12:14,980 --> 00:12:18,700
+seasons<font color="#E5E5E5"> yeah see this is where the</font><font color="#CCCCCC"> great</font>
+
+307
+00:12:18,700 --> 00:12:21,280
+American controversy<font color="#E5E5E5"> begins</font><font color="#CCCCCC"> uh-huh okay</font>
+
+308
+00:12:21,280 --> 00:12:22,840
+for those<font color="#E5E5E5"> of</font><font color="#CCCCCC"> you who use the word autumn</font>
+
+309
+00:12:22,840 --> 00:12:25,600
+<font color="#CCCCCC">it is a controversy because</font><font color="#E5E5E5"> I had an</font>
+
+310
+00:12:25,600 --> 00:12:27,490
+<font color="#CCCCCC">attack and neck between</font><font color="#E5E5E5"> winter is</font><font color="#CCCCCC"> red</font>
+
+311
+00:12:27,490 --> 00:12:30,460
+<font color="#E5E5E5">clearly</font><font color="#CCCCCC"> it sa okay yeah but I kept</font>
+
+312
+00:12:30,460 --> 00:12:32,590
+<font color="#CCCCCC">thinking</font><font color="#E5E5E5"> of what is American about</font>
+
+313
+00:12:32,590 --> 00:12:35,920
+spring and I was<font color="#E5E5E5"> like cherry blossoms in</font>
+
+314
+00:12:35,920 --> 00:12:38,380
+in now that<font color="#CCCCCC"> in</font><font color="#E5E5E5"> Washington's Japanese</font>
+
+315
+00:12:38,380 --> 00:12:40,960
+yeah it's almost<font color="#E5E5E5"> literally Japanese so</font>
+
+316
+00:12:40,960 --> 00:12:42,670
+no no not really
+
+317
+00:12:42,670 --> 00:12:44,560
+<font color="#CCCCCC">Spring Training I hadn't thought</font><font color="#E5E5E5"> of a</font>
+
+318
+00:12:44,560 --> 00:12:48,160
+baseball<font color="#E5E5E5"> and</font><font color="#CCCCCC"> again and the again the it</font>
+
+319
+00:12:48,160 --> 00:12:50,770
+<font color="#E5E5E5">took closure</font><font color="#CCCCCC"> but I mean the promise of</font>
+
+320
+00:12:50,770 --> 00:12:52,930
+summer the promise of something<font color="#E5E5E5"> better</font>
+
+321
+00:12:52,930 --> 00:12:56,230
+<font color="#E5E5E5">and and</font><font color="#CCCCCC"> an America is about hope I mean</font>
+
+322
+00:12:56,230 --> 00:12:57,490
+that's you know<font color="#E5E5E5"> well it's morning in</font>
+
+323
+00:12:57,490 --> 00:12:59,110
+America<font color="#CCCCCC"> I get it yeah I totally</font><font color="#E5E5E5"> get</font><font color="#CCCCCC"> it</font>
+
+324
+00:12:59,110 --> 00:13:00,370
+<font color="#CCCCCC">and I</font><font color="#E5E5E5"> think</font><font color="#CCCCCC"> there's a fair case to be</font>
+
+325
+00:13:00,370 --> 00:13:02,230
+made<font color="#E5E5E5"> but I just thought Christmas was</font>
+
+326
+00:13:02,230 --> 00:13:05,140
+<font color="#E5E5E5">too overwhelmingly American I voted</font>
+
+327
+00:13:05,140 --> 00:13:08,500
+winter third season spring white horses
+
+328
+00:13:08,500 --> 00:13:10,180
+<font color="#E5E5E5">mention I mean let's</font><font color="#CCCCCC"> just talk but</font><font color="#E5E5E5"> it's</font>
+
+329
+00:13:10,180 --> 00:13:12,580
+just focus on<font color="#E5E5E5"> Christmas for a second</font>
+
+330
+00:13:12,580 --> 00:13:14,779
+because is there<font color="#E5E5E5"> any</font>
+
+331
+00:13:14,779 --> 00:13:17,959
+more American than<font color="#E5E5E5"> Christmas because</font>
+
+332
+00:13:17,959 --> 00:13:19,759
+like you could say Thanksgiving<font color="#CCCCCC"> because</font>
+
+333
+00:13:19,759 --> 00:13:21,170
+<font color="#E5E5E5">that's just literally an American</font>
+
+334
+00:13:21,170 --> 00:13:22,850
+holiday you can<font color="#E5E5E5"> say for this I know but</font>
+
+335
+00:13:22,850 --> 00:13:24,170
+you can't say for<font color="#E5E5E5"> the job because</font><font color="#CCCCCC"> 4th of</font>
+
+336
+00:13:24,170 --> 00:13:26,360
+July<font color="#E5E5E5"> everybody has a</font><font color="#CCCCCC"> 4th of July for</font>
+
+337
+00:13:26,360 --> 00:13:28,490
+<font color="#E5E5E5">them like you</font><font color="#CCCCCC"> would think</font><font color="#E5E5E5"> it's Cinco</font><font color="#CCCCCC"> de</font>
+
+338
+00:13:28,490 --> 00:13:29,990
+<font color="#CCCCCC">Meyer for the Mexicans</font><font color="#E5E5E5"> it's not that's a</font>
+
+339
+00:13:29,990 --> 00:13:31,250
+<font color="#CCCCCC">head-fake</font><font color="#E5E5E5"> but it's not their</font>
+
+340
+00:13:31,250 --> 00:13:34,220
+Independence Day<font color="#CCCCCC"> ok</font><font color="#E5E5E5"> but everybody has an</font>
+
+341
+00:13:34,220 --> 00:13:36,230
+Independence Day<font color="#E5E5E5"> right nobody has a</font>
+
+342
+00:13:36,230 --> 00:13:37,790
+Thanksgiving so that's a<font color="#E5E5E5"> good</font><font color="#CCCCCC"> argument</font>
+
+343
+00:13:37,790 --> 00:13:40,180
+for Thanksgiving but Christmas<font color="#E5E5E5"> with it's</font>
+
+344
+00:13:40,180 --> 00:13:44,629
+absurd<font color="#E5E5E5"> wonderful capitalism yes I tell</font>
+
+345
+00:13:44,629 --> 00:13:47,689
+you why<font color="#E5E5E5"> I it's absurd and I no longer</font>
+
+346
+00:13:47,689 --> 00:13:49,939
+find it wonderful<font color="#CCCCCC"> because I find it a</font>
+
+347
+00:13:49,939 --> 00:13:53,329
+crash<font color="#E5E5E5"> commercial</font><font color="#CCCCCC"> at crass commercialism</font>
+
+348
+00:13:53,329 --> 00:13:55,360
+<font color="#CCCCCC">yeah and the and and the commercialism</font>
+
+349
+00:13:55,360 --> 00:13:57,949
+<font color="#E5E5E5">bugs me</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> yeah I</font><font color="#CCCCCC"> suppose that's</font>
+
+350
+00:13:57,949 --> 00:14:00,079
+American but it is<font color="#CCCCCC"> over-the-top American</font>
+
+351
+00:14:00,079 --> 00:14:02,449
+it well<font color="#CCCCCC"> it's consumerism</font><font color="#E5E5E5"> but but it's</font>
+
+352
+00:14:02,449 --> 00:14:07,250
+unpleasant<font color="#E5E5E5"> and and it's not us at our</font>
+
+353
+00:14:07,250 --> 00:14:10,220
+best<font color="#CCCCCC"> so it</font><font color="#E5E5E5"> really depends on what the or</font>
+
+354
+00:14:10,220 --> 00:14:14,870
+<font color="#CCCCCC">hotdogs really us at our best but</font><font color="#E5E5E5"> I</font>
+
+355
+00:14:14,870 --> 00:14:17,300
+<font color="#CCCCCC">would spring because I think</font><font color="#E5E5E5"> hope and</font>
+
+356
+00:14:17,300 --> 00:14:19,850
+the emerging possibility of what's to
+
+357
+00:14:19,850 --> 00:14:21,589
+come<font color="#CCCCCC"> by the way there would always be a</font>
+
+358
+00:14:21,589 --> 00:14:23,720
+<font color="#CCCCCC">nine-month run away from</font><font color="#E5E5E5"> the whatever</font>
+
+359
+00:14:23,720 --> 00:14:25,100
+<font color="#E5E5E5">the worst thing is sue</font><font color="#CCCCCC"> it doesn't really</font>
+
+360
+00:14:25,100 --> 00:14:27,290
+hold but I liked it<font color="#E5E5E5"> but warmth and</font>
+
+361
+00:14:27,290 --> 00:14:30,949
+possibility come in the spring and<font color="#E5E5E5"> you</font>
+
+362
+00:14:30,949 --> 00:14:32,750
+and I<font color="#E5E5E5"> both agree</font><font color="#CCCCCC"> that I think</font>
+
+363
+00:14:32,750 --> 00:14:35,089
+Thanksgiving<font color="#E5E5E5"> is more</font><font color="#CCCCCC"> American than</font>
+
+364
+00:14:35,089 --> 00:14:38,029
+Christmas<font color="#CCCCCC"> and they're in that same</font><font color="#E5E5E5"> block</font>
+
+365
+00:14:38,029 --> 00:14:40,939
+of<font color="#E5E5E5"> time but as we know Thanksgiving is</font>
+
+366
+00:14:40,939 --> 00:14:43,279
+the fall Christmas is the<font color="#E5E5E5"> winter that's</font>
+
+367
+00:14:43,279 --> 00:14:45,519
+<font color="#E5E5E5">right so</font><font color="#CCCCCC"> here's you we're gonna have a</font>
+
+368
+00:14:45,519 --> 00:14:47,959
+super<font color="#CCCCCC"> fun at this point not just regular</font>
+
+369
+00:14:47,959 --> 00:14:50,209
+fun<font color="#CCCCCC"> because I'm going to direct you</font><font color="#E5E5E5"> to a</font>
+
+370
+00:14:50,209 --> 00:14:53,180
+<font color="#CCCCCC">pole that doesn't</font><font color="#E5E5E5"> exist and might never</font>
+
+371
+00:14:53,180 --> 00:14:58,579
+exist<font color="#E5E5E5"> later we might or might not put up</font>
+
+372
+00:14:58,579 --> 00:15:03,139
+a<font color="#E5E5E5"> pole on tmz.com</font><font color="#CCCCCC"> slash season where you</font>
+
+373
+00:15:03,139 --> 00:15:05,779
+<font color="#CCCCCC">will get</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> vote on the least american</font>
+
+374
+00:15:05,779 --> 00:15:09,259
+season we will not even<font color="#CCCCCC"> put no summer</font>
+
+375
+00:15:09,259 --> 00:15:10,899
+and fall<font color="#CCCCCC"> out in the</font><font color="#E5E5E5"> running</font><font color="#CCCCCC"> because</font>
+
+376
+00:15:10,899 --> 00:15:13,040
+<font color="#CCCCCC">they're</font><font color="#E5E5E5"> too American</font><font color="#CCCCCC"> because</font><font color="#E5E5E5"> if you</font>
+
+377
+00:15:13,040 --> 00:15:14,509
+<font color="#E5E5E5">think it's one</font><font color="#CCCCCC"> of those seasons I'm not</font>
+
+378
+00:15:14,509 --> 00:15:18,199
+interested in<font color="#E5E5E5"> your vote</font><font color="#CCCCCC"> ok so the only</font>
+
+379
+00:15:18,199 --> 00:15:21,470
+<font color="#E5E5E5">two</font><font color="#CCCCCC"> choices will be</font><font color="#E5E5E5"> the spring and</font>
+
+380
+00:15:21,470 --> 00:15:24,320
+winter and you
+
+381
+00:15:24,320 --> 00:15:26,660
+people will get to decide<font color="#E5E5E5"> what is the</font>
+
+382
+00:15:26,660 --> 00:15:29,420
+<font color="#CCCCCC">lease if you think either that summer or</font>
+
+383
+00:15:29,420 --> 00:15:31,610
+fall is<font color="#CCCCCC"> the least American season you</font>
+
+384
+00:15:31,610 --> 00:15:34,870
+<font color="#CCCCCC">should consider yourself</font><font color="#E5E5E5"> I don't know a</font>
+
+385
+00:15:34,870 --> 00:15:37,100
+disenfranchised voter in North Carolina
+
+386
+00:15:37,100 --> 00:15:39,050
+or Ohio or<font color="#CCCCCC"> Wisconsin we're</font><font color="#E5E5E5"> not</font>
+
+387
+00:15:39,050 --> 00:15:41,560
+interested in<font color="#E5E5E5"> your vote</font><font color="#CCCCCC"> yes that's right</font>
+
+388
+00:15:41,560 --> 00:15:45,470
+<font color="#CCCCCC">just as Scott Walker heavily</font><font color="#E5E5E5"> boba and</font>
+
+389
+00:15:45,470 --> 00:15:47,390
+<font color="#CCCCCC">Crisco but</font><font color="#E5E5E5"> we don't want you to</font><font color="#CCCCCC"> vote and</font>
+
+390
+00:15:47,390 --> 00:15:48,950
+<font color="#E5E5E5">your vote doesn't count</font><font color="#CCCCCC"> you know you</font>
+
+391
+00:15:48,950 --> 00:15:50,810
+want to<font color="#CCCCCC"> vote for</font><font color="#E5E5E5"> fall being the least</font>
+
+392
+00:15:50,810 --> 00:15:52,460
+<font color="#E5E5E5">American season sorry I'm gonna need to</font>
+
+393
+00:15:52,460 --> 00:15:56,570
+see some voter ID somebody you might<font color="#E5E5E5"> as</font>
+
+394
+00:15:56,570 --> 00:15:58,070
+<font color="#CCCCCC">well have been convicted of</font><font color="#E5E5E5"> a</font>
+
+395
+00:15:58,070 --> 00:16:01,220
+misdemeanor in Florida in 1974<font color="#CCCCCC"> you're</font>
+
+396
+00:16:01,220 --> 00:16:10,610
+not voting music okay<font color="#E5E5E5"> so</font><font color="#CCCCCC"> I tuned</font><font color="#E5E5E5"> this</font>
+
+397
+00:16:10,610 --> 00:16:12,920
+later<font color="#CCCCCC"> on Sunday I guess when we</font><font color="#E5E5E5"> put up</font>
+
+398
+00:16:12,920 --> 00:16:14,900
+<font color="#CCCCCC">their free version by then the poll</font>
+
+399
+00:16:14,900 --> 00:16:17,000
+might exist<font color="#E5E5E5"> yeah so</font><font color="#CCCCCC"> you're</font><font color="#E5E5E5"> dirty</font><font color="#CCCCCC"> I like</font>
+
+400
+00:16:17,000 --> 00:16:18,470
+my<font color="#E5E5E5"> existing</font><font color="#CCCCCC"> the voting might have been</font>
+
+401
+00:16:18,470 --> 00:16:21,530
+closed off yeah guess we<font color="#E5E5E5"> will not let</font>
+
+402
+00:16:21,530 --> 00:16:25,640
+<font color="#CCCCCC">you vote</font><font color="#E5E5E5"> do you idealize</font><font color="#CCCCCC"> timeslice</font>
+
+403
+00:16:25,640 --> 00:16:31,550
+season<font color="#E5E5E5"> if we get to but I have</font><font color="#CCCCCC"> circled</font>
+
+404
+00:16:31,550 --> 00:16:32,870
+it<font color="#E5E5E5"> on my piece of paper which had which</font>
+
+405
+00:16:32,870 --> 00:16:34,820
+has<font color="#E5E5E5"> increased the chances of it coming</font>
+
+406
+00:16:34,820 --> 00:16:36,680
+<font color="#CCCCCC">to fruition okay</font><font color="#E5E5E5"> well that was obviously</font>
+
+407
+00:16:36,680 --> 00:16:38,060
+<font color="#CCCCCC">the most</font><font color="#E5E5E5"> important topic the rest is</font>
+
+408
+00:16:38,060 --> 00:16:41,960
+<font color="#CCCCCC">just fluff right so did</font><font color="#E5E5E5"> you have a fight</font>
+
+409
+00:16:41,960 --> 00:16:43,940
+<font color="#E5E5E5">or a wrestling match or</font><font color="#CCCCCC"> something or</font>
+
+410
+00:16:43,940 --> 00:16:47,420
+with Michael Smerconish<font color="#CCCCCC"> no but I</font>
+
+411
+00:16:47,420 --> 00:16:49,220
+<font color="#E5E5E5">challenged them to</font><font color="#CCCCCC"> won a wrestling match</font>
+
+412
+00:16:49,220 --> 00:16:51,020
+<font color="#CCCCCC">right no so that would</font><font color="#E5E5E5"> have been</font>
+
+413
+00:16:51,020 --> 00:16:53,240
+hilarious<font color="#CCCCCC"> or just a fight</font><font color="#E5E5E5"> just</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> I got</font>
+
+414
+00:16:53,240 --> 00:16:55,040
+bad so I'll tell you<font color="#CCCCCC"> what it</font><font color="#E5E5E5"> was so you</font>
+
+415
+00:16:55,040 --> 00:16:57,770
+<font color="#CCCCCC">guys know Smerconish she's</font><font color="#E5E5E5"> he's he's on</font>
+
+416
+00:16:57,770 --> 00:16:59,930
+CNN these days right he's on<font color="#E5E5E5"> no he hops</font>
+
+417
+00:16:59,930 --> 00:17:03,110
+around<font color="#CCCCCC"> yeah but he has a nightly show on</font>
+
+418
+00:17:03,110 --> 00:17:06,109
+<font color="#E5E5E5">POTUS radio on</font><font color="#CCCCCC"> yeah</font>
+
+419
+00:17:06,109 --> 00:17:08,959
+which<font color="#E5E5E5"> is politics radio on the unserious</font>
+
+420
+00:17:08,959 --> 00:17:11,030
+I<font color="#E5E5E5"> didn't mention</font><font color="#CCCCCC"> meet wrassling him or</font>
+
+421
+00:17:11,030 --> 00:17:12,290
+did it<font color="#CCCCCC"> just</font><font color="#E5E5E5"> pop</font><font color="#CCCCCC"> into</font><font color="#E5E5E5"> your head no I just</font>
+
+422
+00:17:12,290 --> 00:17:16,069
+<font color="#CCCCCC">I listen</font><font color="#E5E5E5"> to POTUS serious</font><font color="#CCCCCC"> 124</font><font color="#E5E5E5"> I mean I</font>
+
+423
+00:17:16,069 --> 00:17:18,920
+<font color="#CCCCCC">listen</font><font color="#E5E5E5"> to a Springsteen</font><font color="#CCCCCC"> Howard</font><font color="#E5E5E5"> Stern</font>
+
+424
+00:17:18,920 --> 00:17:21,290
+baseball and POTUS radio those are like
+
+425
+00:17:21,290 --> 00:17:23,810
+<font color="#CCCCCC">my yeah things I ever go you know what</font>
+
+426
+00:17:23,810 --> 00:17:25,760
+yeah it could be<font color="#E5E5E5"> a good</font><font color="#CCCCCC"> poll in that one</font>
+
+427
+00:17:25,760 --> 00:17:28,189
+what's most American out<font color="#E5E5E5"> of those no</font><font color="#CCCCCC"> one</font>
+
+428
+00:17:28,189 --> 00:17:30,800
+listens to POTUS radio<font color="#CCCCCC"> I mean</font><font color="#E5E5E5"> new one</font>
+
+429
+00:17:30,800 --> 00:17:32,870
+like<font color="#CCCCCC"> I mean everything out serious gets</font>
+
+430
+00:17:32,870 --> 00:17:35,150
+like no ratings except I imagine<font color="#E5E5E5"> Howard</font>
+
+431
+00:17:35,150 --> 00:17:37,180
+and and music any<font color="#E5E5E5"> people listen to</font><font color="#CCCCCC"> music</font>
+
+432
+00:17:37,180 --> 00:17:39,550
+and the<font color="#CCCCCC"> Young Turks right but we're not</font>
+
+433
+00:17:39,550 --> 00:17:41,200
+<font color="#CCCCCC">are we on it now anymore no we're</font><font color="#E5E5E5"> not</font>
+
+434
+00:17:41,200 --> 00:17:43,630
+<font color="#E5E5E5">okay</font><font color="#CCCCCC"> so so you can say whatever yeah so</font>
+
+435
+00:17:43,630 --> 00:17:46,390
+I just<font color="#E5E5E5"> mean like I can't</font><font color="#CCCCCC"> just kidding I</font>
+
+436
+00:17:46,390 --> 00:17:48,070
+<font color="#CCCCCC">love my brothers and sister I think that</font>
+
+437
+00:17:48,070 --> 00:17:51,550
+<font color="#E5E5E5">POTUS radio I was trying this I wouldn't</font>
+
+438
+00:17:51,550 --> 00:17:53,260
+<font color="#E5E5E5">try</font><font color="#CCCCCC"> to explain</font><font color="#E5E5E5"> my wife totally agreed we</font>
+
+439
+00:17:53,260 --> 00:17:55,870
+were drove back from from<font color="#CCCCCC"> Film Festival</font>
+
+440
+00:17:55,870 --> 00:17:57,670
+back home made a seven-hour car trip and
+
+441
+00:17:57,670 --> 00:18:00,430
+we and<font color="#CCCCCC"> and I was explaining</font><font color="#E5E5E5"> that that</font>
+
+442
+00:18:00,430 --> 00:18:04,570
+post radio is the definition<font color="#E5E5E5"> of the</font>
+
+443
+00:18:04,570 --> 00:18:07,000
+establishment<font color="#E5E5E5"> there is nothing more</font>
+
+444
+00:18:07,000 --> 00:18:09,700
+establishment<font color="#E5E5E5"> than POTUS radio you get</font>
+
+445
+00:18:09,700 --> 00:18:12,130
+some<font color="#E5E5E5"> reliable information sometimes</font><font color="#CCCCCC"> but</font>
+
+446
+00:18:12,130 --> 00:18:14,080
+if you and and<font color="#E5E5E5"> don't get me wrong it</font>
+
+447
+00:18:14,080 --> 00:18:15,880
+isn't<font color="#E5E5E5"> a powerful part of the</font>
+
+448
+00:18:15,880 --> 00:18:17,830
+establishment<font color="#E5E5E5"> it's just if you want to</font>
+
+449
+00:18:17,830 --> 00:18:19,360
+know what the establishment<font color="#E5E5E5"> singing join</font>
+
+450
+00:18:19,360 --> 00:18:21,700
+the<font color="#E5E5E5"> 38 people listening to POTUS radio</font>
+
+451
+00:18:21,700 --> 00:18:22,960
+and you'll realize<font color="#E5E5E5"> that they are getting</font>
+
+452
+00:18:22,960 --> 00:18:28,210
+<font color="#E5E5E5">that a hundred percent plus there is one</font>
+
+453
+00:18:28,210 --> 00:18:29,770
+person<font color="#CCCCCC"> that</font><font color="#E5E5E5"> was since the POTUS outside</font>
+
+454
+00:18:29,770 --> 00:18:32,100
+of you<font color="#E5E5E5"> Michael</font><font color="#CCCCCC"> sure of course</font><font color="#E5E5E5"> of course</font>
+
+455
+00:18:32,100 --> 00:18:34,360
+<font color="#E5E5E5">it's good it's worth listening to</font><font color="#CCCCCC"> I mean</font>
+
+456
+00:18:34,360 --> 00:18:35,950
+it's engaging they have some<font color="#CCCCCC"> differences</font>
+
+457
+00:18:35,950 --> 00:18:37,690
+<font color="#E5E5E5">I particularly enjoy the press pool with</font>
+
+458
+00:18:37,690 --> 00:18:38,800
+Julie Mason she couldn't be more
+
+459
+00:18:38,800 --> 00:18:41,110
+<font color="#E5E5E5">establishment but I but</font><font color="#CCCCCC"> Smerconish is on</font>
+
+460
+00:18:41,110 --> 00:18:43,810
+and he is unbelievably is down so I like
+
+461
+00:18:43,810 --> 00:18:44,950
+<font color="#CCCCCC">listening to her because I really you</font>
+
+462
+00:18:44,950 --> 00:18:46,720
+get<font color="#E5E5E5"> a sense but I</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> even for the</font>
+
+463
+00:18:46,720 --> 00:18:48,070
+<font color="#E5E5E5">establishment he got something very</font>
+
+464
+00:18:48,070 --> 00:18:51,550
+wrong<font color="#E5E5E5"> today related</font><font color="#CCCCCC"> to the president he</font>
+
+465
+00:18:51,550 --> 00:18:53,050
+<font color="#E5E5E5">was he pretty he put out of pulse it was</font>
+
+466
+00:18:53,050 --> 00:18:54,070
+truth is you're trying to<font color="#CCCCCC"> mentioned the</font>
+
+467
+00:18:54,070 --> 00:18:55,390
+<font color="#CCCCCC">president</font><font color="#E5E5E5"> and he had a poll</font><font color="#CCCCCC"> he was a</font>
+
+468
+00:18:55,390 --> 00:18:58,960
+poll every day and his poll was will the
+
+469
+00:18:58,960 --> 00:19:01,300
+Woodward book fear right so it's called
+
+470
+00:19:01,300 --> 00:19:04,690
+yep<font color="#CCCCCC"> move the needle and he made and</font><font color="#E5E5E5"> are</font>
+
+471
+00:19:04,690 --> 00:19:06,550
+significantly I think<font color="#CCCCCC"> yeah which is a</font>
+
+472
+00:19:06,550 --> 00:19:08,560
+relevant<font color="#E5E5E5"> adverb because yeah I think</font><font color="#CCCCCC"> it</font>
+
+473
+00:19:08,560 --> 00:19:10,980
+will<font color="#E5E5E5"> move</font><font color="#CCCCCC"> the needle a little</font><font color="#E5E5E5"> right but</font>
+
+474
+00:19:10,980 --> 00:19:13,810
+<font color="#CCCCCC">his</font><font color="#E5E5E5"> own opinion on his argument was no</font>
+
+475
+00:19:13,810 --> 00:19:14,710
+it will not
+
+476
+00:19:14,710 --> 00:19:18,940
+and I I<font color="#E5E5E5"> don't</font><font color="#CCCCCC"> know no one knows but I</font>
+
+477
+00:19:18,940 --> 00:19:20,590
+thought<font color="#E5E5E5"> your he compared it to the other</font>
+
+478
+00:19:20,590 --> 00:19:23,350
+<font color="#CCCCCC">guy's book was there's no</font><font color="#E5E5E5"> Wolf Wolf</font>
+
+479
+00:19:23,350 --> 00:19:25,680
+Michael<font color="#CCCCCC"> Wolf Michael wolf dash pack.com</font>
+
+480
+00:19:25,680 --> 00:19:28,300
+<font color="#CCCCCC">right totally and he read some clips</font>
+
+481
+00:19:28,300 --> 00:19:30,970
+pretending that they were this is<font color="#E5E5E5"> the</font>
+
+482
+00:19:30,970 --> 00:19:32,860
+most promotion it's pretentious<font color="#E5E5E5"> it's</font>
+
+483
+00:19:32,860 --> 00:19:35,020
+ever<font color="#E5E5E5"> done no no and I also love smirk</font>
+
+484
+00:19:35,020 --> 00:19:37,330
+<font color="#CCCCCC">okay</font><font color="#E5E5E5"> there's a bizarre Smerconish love</font>
+
+485
+00:19:37,330 --> 00:19:39,940
+in the building<font color="#E5E5E5"> which makes no</font><font color="#CCCCCC"> sense</font><font color="#E5E5E5"> no</font>
+
+486
+00:19:39,940 --> 00:19:41,380
+later I will<font color="#CCCCCC"> tell you about how I</font>
+
+487
+00:19:41,380 --> 00:19:44,530
+threatened to<font color="#CCCCCC"> wrastlin</font><font color="#E5E5E5"> so he said that</font>
+
+488
+00:19:44,530 --> 00:19:47,470
+he read some allegations in the book and
+
+489
+00:19:47,470 --> 00:19:48,760
+then was<font color="#E5E5E5"> like</font><font color="#CCCCCC"> haha</font>
+
+490
+00:19:48,760 --> 00:19:50,980
+those are from<font color="#E5E5E5"> Michael Wolf's book</font><font color="#CCCCCC"> mmm</font>
+
+491
+00:19:50,980 --> 00:19:57,549
+<font color="#E5E5E5">did i trick</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> it was like good one the</font>
+
+492
+00:19:57,549 --> 00:19:58,990
+entertainment value<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Smerconish</font>
+
+493
+00:19:58,990 --> 00:20:01,299
+<font color="#E5E5E5">brings to the world</font><font color="#CCCCCC"> so like it's the</font>
+
+494
+00:20:01,299 --> 00:20:07,330
+most uninteresting game ever played<font color="#CCCCCC"> I</font>
+
+495
+00:20:07,330 --> 00:20:10,330
+was<font color="#CCCCCC"> surprised that that</font><font color="#E5E5E5"> in Woodward's</font>
+
+496
+00:20:10,330 --> 00:20:12,580
+book he'd that because he was saying it
+
+497
+00:20:12,580 --> 00:20:14,440
+was Woodward's book that the Trump
+
+498
+00:20:14,440 --> 00:20:17,470
+called Sally Yates<font color="#E5E5E5"> the c-word and I was</font>
+
+499
+00:20:17,470 --> 00:20:19,000
+like I'm surprised<font color="#CCCCCC"> bobble</font><font color="#E5E5E5"> to a reported</font>
+
+500
+00:20:19,000 --> 00:20:20,470
+that turned out he didn't it was in
+
+501
+00:20:20,470 --> 00:20:24,669
+<font color="#CCCCCC">Michael walls mom so he suggested that</font>
+
+502
+00:20:24,669 --> 00:20:26,169
+it will not move the needle at all we
+
+503
+00:20:26,169 --> 00:20:27,760
+<font color="#E5E5E5">already know these allegations Michael</font>
+
+504
+00:20:27,760 --> 00:20:30,309
+<font color="#E5E5E5">Wolfe reported them and similar just</font>
+
+505
+00:20:30,309 --> 00:20:33,070
+confirms the the crazy nature of the
+
+506
+00:20:33,070 --> 00:20:34,900
+Trump White House which was showed up<font color="#CCCCCC"> at</font>
+
+507
+00:20:34,900 --> 00:20:37,360
+<font color="#CCCCCC">Michael's</font><font color="#E5E5E5"> book and I thought I don't</font>
+
+508
+00:20:37,360 --> 00:20:39,280
+<font color="#E5E5E5">know but you're missing the point</font><font color="#CCCCCC"> and</font>
+
+509
+00:20:39,280 --> 00:20:41,919
+for<font color="#E5E5E5"> the establishment</font><font color="#CCCCCC"> radio to miss the</font>
+
+510
+00:20:41,919 --> 00:20:42,690
+point
+
+511
+00:20:42,690 --> 00:20:45,400
+the they were sort of eager in the
+
+512
+00:20:45,400 --> 00:20:47,110
+establishment once they<font color="#E5E5E5"> got</font><font color="#CCCCCC"> a hold of</font>
+
+513
+00:20:47,110 --> 00:20:50,250
+<font color="#CCCCCC">that little that</font><font color="#E5E5E5"> little yarn to pull oh</font>
+
+514
+00:20:50,250 --> 00:20:53,620
+<font color="#E5E5E5">look he's he even admitted right wolf</font>
+
+515
+00:20:53,620 --> 00:20:55,990
+did that he didn't have some stuff<font color="#E5E5E5"> that</font>
+
+516
+00:20:55,990 --> 00:20:57,280
+he didn't write<font color="#E5E5E5"> it</font><font color="#CCCCCC"> down I</font><font color="#E5E5E5"> remember what</font>
+
+517
+00:20:57,280 --> 00:20:58,960
+<font color="#E5E5E5">it was but</font><font color="#CCCCCC"> he</font><font color="#E5E5E5"> was easy to discredit</font>
+
+518
+00:20:58,960 --> 00:21:01,390
+<font color="#E5E5E5">right he and that argument that</font><font color="#CCCCCC"> ben</font>
+
+519
+00:21:01,390 --> 00:21:03,640
+<font color="#CCCCCC">shapiro is using now well once you once</font>
+
+520
+00:21:03,640 --> 00:21:04,660
+<font color="#E5E5E5">you find one thing</font><font color="#CCCCCC"> that can be</font>
+
+521
+00:21:04,660 --> 00:21:06,250
+discredited in<font color="#E5E5E5"> the</font><font color="#CCCCCC"> whole</font><font color="#E5E5E5"> every and all</font>
+
+522
+00:21:06,250 --> 00:21:08,049
+10,000 allegations in the book or out
+
+523
+00:21:08,049 --> 00:21:09,940
+the<font color="#E5E5E5"> window right so why do you even know</font>
+
+524
+00:21:09,940 --> 00:21:12,130
+a<font color="#CCCCCC"> bunch if your</font><font color="#E5E5E5"> argument</font><font color="#CCCCCC"> I thought</font><font color="#E5E5E5"> I saw</font>
+
+525
+00:21:12,130 --> 00:21:16,980
+<font color="#CCCCCC">him on Twitter on Twitter okay so I but</font>
+
+526
+00:21:16,980 --> 00:21:21,610
+<font color="#E5E5E5">but Bob Woodward is not Michael</font><font color="#CCCCCC"> wolf</font><font color="#E5E5E5"> and</font>
+
+527
+00:21:21,610 --> 00:21:25,510
+Bob Woodward is revered and I don't<font color="#E5E5E5"> use</font>
+
+528
+00:21:25,510 --> 00:21:28,690
+the establishment as as negatively<font color="#CCCCCC"> as</font>
+
+529
+00:21:28,690 --> 00:21:30,460
+you do but but we both know<font color="#E5E5E5"> it's a thing</font>
+
+530
+00:21:30,460 --> 00:21:33,520
+<font color="#CCCCCC">right weed</font><font color="#E5E5E5"> yeah and Bob Woodward is the</font>
+
+531
+00:21:33,520 --> 00:21:36,280
+definition<font color="#E5E5E5"> of the establishment and</font><font color="#CCCCCC"> he's</font>
+
+532
+00:21:36,280 --> 00:21:39,309
+done brilliant<font color="#E5E5E5"> work in many often and</font>
+
+533
+00:21:39,309 --> 00:21:41,770
+and and and and he's a relevant voice
+
+534
+00:21:41,770 --> 00:21:44,679
+<font color="#E5E5E5">who should not</font><font color="#CCCCCC"> be ignored but so it</font><font color="#E5E5E5"> is</font>
+
+535
+00:21:44,679 --> 00:21:48,270
+<font color="#E5E5E5">50 billion times harder for everybody</font><font color="#CCCCCC"> at</font>
+
+536
+00:21:48,270 --> 00:21:51,549
+CNN at MSNBC<font color="#E5E5E5"> even at Fox News and</font>
+
+537
+00:21:51,549 --> 00:21:53,830
+Everett BuzzFeed at every relevant box
+
+538
+00:21:53,830 --> 00:21:56,140
+at every well<font color="#CCCCCC"> irrelevant website to</font>
+
+539
+00:21:56,140 --> 00:21:58,750
+dismiss Bob Woodward<font color="#E5E5E5"> and therefore</font>
+
+540
+00:21:58,750 --> 00:22:00,730
+because they won't<font color="#E5E5E5"> be able to dismiss it</font>
+
+541
+00:22:00,730 --> 00:22:01,340
+as
+
+542
+00:22:01,340 --> 00:22:03,530
+it is much<font color="#E5E5E5"> more likely</font><font color="#CCCCCC"> than</font><font color="#E5E5E5"> Michael</font>
+
+543
+00:22:03,530 --> 00:22:05,570
+<font color="#E5E5E5">Wolfe to have an effect on Trump whether</font>
+
+544
+00:22:05,570 --> 00:22:07,640
+it will move<font color="#E5E5E5"> the</font><font color="#CCCCCC"> needle significantly</font>
+
+545
+00:22:07,640 --> 00:22:09,650
+whatever you derma fit<font color="#E5E5E5"> but I suspect</font>
+
+546
+00:22:09,650 --> 00:22:11,990
+<font color="#E5E5E5">that it will I don't</font><font color="#CCCCCC"> think that</font><font color="#E5E5E5"> means</font>
+
+547
+00:22:11,990 --> 00:22:13,790
+he's leaving<font color="#CCCCCC"> office anytime</font><font color="#E5E5E5"> soon because</font>
+
+548
+00:22:13,790 --> 00:22:16,910
+<font color="#CCCCCC">of it but I consider it it is very</font>
+
+549
+00:22:16,910 --> 00:22:20,450
+<font color="#CCCCCC">different</font><font color="#E5E5E5"> than</font><font color="#CCCCCC"> Michael wolfsburg so we</font>
+
+550
+00:22:20,450 --> 00:22:21,950
+already<font color="#E5E5E5"> have just so many things to</font>
+
+551
+00:22:21,950 --> 00:22:23,360
+<font color="#E5E5E5">update you guys on we already have</font><font color="#CCCCCC"> our</font>
+
+552
+00:22:23,360 --> 00:22:28,040
+<font color="#E5E5E5">first vote in</font><font color="#CCCCCC"> TYT comm</font><font color="#E5E5E5"> season</font><font color="#CCCCCC"> four</font><font color="#E5E5E5"> exist</font>
+
+553
+00:22:28,040 --> 00:22:29,480
+for a<font color="#CCCCCC"> hole that doesn't</font><font color="#E5E5E5"> exist that's</font>
+
+554
+00:22:29,480 --> 00:22:31,940
+<font color="#E5E5E5">right</font><font color="#CCCCCC"> I will get to that later</font>
+
+555
+00:22:31,940 --> 00:22:37,000
+okay maybe in an hour<font color="#E5E5E5"> and 20 minutes</font><font color="#CCCCCC"> but</font>
+
+556
+00:22:37,000 --> 00:22:45,290
+and it's a famous person voting no no no
+
+557
+00:22:45,290 --> 00:22:47,630
+so<font color="#E5E5E5"> I because I and I will get this for</font>
+
+558
+00:22:47,630 --> 00:22:50,990
+<font color="#CCCCCC">Asli but I did I have to address things</font>
+
+559
+00:22:50,990 --> 00:22:53,540
+<font color="#CCCCCC">that are said one it will move the</font>
+
+560
+00:22:53,540 --> 00:22:56,570
+needle needle<font color="#E5E5E5"> wrong</font><font color="#CCCCCC"> to it has already</font>
+
+561
+00:22:56,570 --> 00:22:58,370
+<font color="#E5E5E5">moved in you know because I think it</font>
+
+562
+00:22:58,370 --> 00:23:01,370
+prompted<font color="#E5E5E5"> Mike Pence</font><font color="#CCCCCC"> write that op-ed</font>
+
+563
+00:23:01,370 --> 00:23:03,220
+today
+
+564
+00:23:03,220 --> 00:23:06,200
+did you read I<font color="#E5E5E5"> did I just had somebody</font>
+
+565
+00:23:06,200 --> 00:23:07,730
+tell<font color="#CCCCCC"> me about it</font><font color="#E5E5E5"> on the phone</font><font color="#CCCCCC"> no no</font><font color="#E5E5E5"> not</font>
+
+566
+00:23:07,730 --> 00:23:09,920
+even<font color="#E5E5E5"> the op-ed which is amazing and and</font>
+
+567
+00:23:09,920 --> 00:23:12,500
+will move<font color="#E5E5E5"> the</font><font color="#CCCCCC"> needle by itself</font><font color="#E5E5E5"> I'll get</font>
+
+568
+00:23:12,500 --> 00:23:13,700
+back to<font color="#E5E5E5"> why the</font><font color="#CCCCCC"> needle is being</font><font color="#E5E5E5"> moved</font>
+
+569
+00:23:13,700 --> 00:23:18,110
+and<font color="#E5E5E5"> who's moving</font><font color="#CCCCCC"> in in a sec but but no</font>
+
+570
+00:23:18,110 --> 00:23:19,520
+the conspiracy theory<font color="#E5E5E5"> that it was Mike</font>
+
+571
+00:23:19,520 --> 00:23:21,980
+Pence<font color="#E5E5E5"> oh I thought it was just a joke by</font>
+
+572
+00:23:21,980 --> 00:23:23,660
+you<font color="#CCCCCC"> that's actual</font><font color="#E5E5E5"> conspiracy</font><font color="#CCCCCC"> yeah it is</font>
+
+573
+00:23:23,660 --> 00:23:26,090
+<font color="#E5E5E5">because there</font><font color="#CCCCCC"> was a word used in the</font>
+
+574
+00:23:26,090 --> 00:23:28,750
+article<font color="#CCCCCC"> that his mother was it mother</font>
+
+575
+00:23:28,750 --> 00:23:32,150
+and and then the article<font color="#CCCCCC"> ended</font><font color="#E5E5E5"> strange</font>
+
+576
+00:23:32,150 --> 00:23:34,310
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> was say</font><font color="#E5E5E5"> I got to get back because</font>
+
+577
+00:23:34,310 --> 00:23:36,620
+<font color="#E5E5E5">there's a woman in the room and and I</font>
+
+578
+00:23:36,620 --> 00:23:38,420
+gotta go find<font color="#CCCCCC"> my wife I gotta get out</font><font color="#E5E5E5"> of</font>
+
+579
+00:23:38,420 --> 00:23:41,300
+<font color="#E5E5E5">the room</font><font color="#CCCCCC"> so there's a football</font><font color="#E5E5E5"> game I</font>
+
+580
+00:23:41,300 --> 00:23:43,400
+got a<font color="#E5E5E5"> walk out of disingenuously that's</font>
+
+581
+00:23:43,400 --> 00:23:44,900
+how it ended so<font color="#CCCCCC"> I I guess that was a</font>
+
+582
+00:23:44,900 --> 00:23:47,300
+<font color="#E5E5E5">cool no seriously</font><font color="#CCCCCC"> there was a word that</font>
+
+583
+00:23:47,300 --> 00:23:48,830
+<font color="#CCCCCC">people don't normally use that I</font>
+
+584
+00:23:48,830 --> 00:23:50,390
+actually don't think<font color="#E5E5E5"> it's</font><font color="#CCCCCC"> that unique a</font>
+
+585
+00:23:50,390 --> 00:23:52,820
+word but<font color="#CCCCCC"> loadstar that</font><font color="#E5E5E5"> John</font><font color="#CCCCCC"> McCain</font><font color="#E5E5E5"> was</font>
+
+586
+00:23:52,820 --> 00:23:54,080
+<font color="#E5E5E5">our lodestar or something along those</font>
+
+587
+00:23:54,080 --> 00:23:57,140
+<font color="#CCCCCC">lines right</font><font color="#E5E5E5"> and people so people because</font>
+
+588
+00:23:57,140 --> 00:23:59,120
+everybody's now<font color="#E5E5E5"> a detective but like a</font>
+
+589
+00:23:59,120 --> 00:24:00,950
+<font color="#E5E5E5">good one</font><font color="#CCCCCC"> I would have</font><font color="#E5E5E5"> looked up for</font>
+
+590
+00:24:00,950 --> 00:24:02,600
+other people<font color="#CCCCCC"> who use that word so they</font>
+
+591
+00:24:02,600 --> 00:24:05,000
+immediately googled<font color="#CCCCCC"> each like senior</font>
+
+592
+00:24:05,000 --> 00:24:07,880
+Trump<font color="#E5E5E5"> official to see if they use the</font>
+
+593
+00:24:07,880 --> 00:24:09,830
+word<font color="#E5E5E5"> lodestar</font><font color="#CCCCCC"> and there is one guy who</font>
+
+594
+00:24:09,830 --> 00:24:12,470
+uses it consistently<font color="#E5E5E5"> like</font><font color="#CCCCCC"> my Mike</font><font color="#E5E5E5"> Pence</font>
+
+595
+00:24:12,470 --> 00:24:14,150
+<font color="#E5E5E5">so Mike Pence's speechwriter likes that</font>
+
+596
+00:24:14,150 --> 00:24:14,450
+word
+
+597
+00:24:14,450 --> 00:24:16,730
+<font color="#E5E5E5">pence likes that word yeah right yeah</font>
+
+598
+00:24:16,730 --> 00:24:17,960
+that's<font color="#E5E5E5"> a great</font><font color="#CCCCCC"> point by the way</font><font color="#E5E5E5"> that it</font>
+
+599
+00:24:17,960 --> 00:24:19,850
+says<font color="#E5E5E5"> probably a speech well I mean any I</font>
+
+600
+00:24:19,850 --> 00:24:21,380
+imagine if<font color="#E5E5E5"> it's</font><font color="#CCCCCC"> pants II you know I mean</font>
+
+601
+00:24:21,380 --> 00:24:22,940
+he probably didn't write it entirely
+
+602
+00:24:22,940 --> 00:24:24,050
+himself<font color="#E5E5E5"> and</font><font color="#CCCCCC"> I write but on the other</font>
+
+603
+00:24:24,050 --> 00:24:26,180
+hand<font color="#CCCCCC"> Mike Pence is the kind</font><font color="#E5E5E5"> of square</font>
+
+604
+00:24:26,180 --> 00:24:28,400
+that<font color="#CCCCCC"> would use the word lodestar a lot</font>
+
+605
+00:24:28,400 --> 00:24:30,380
+yeah<font color="#E5E5E5"> yeah it</font><font color="#CCCCCC"> was a whole load of load</font>
+
+606
+00:24:30,380 --> 00:24:32,810
+never used the word<font color="#E5E5E5"> load start writing</font>
+
+607
+00:24:32,810 --> 00:24:35,450
+<font color="#E5E5E5">and that sounded like I'm people people</font>
+
+608
+00:24:35,450 --> 00:24:36,680
+<font color="#E5E5E5">have speech writers and they work with</font>
+
+609
+00:24:36,680 --> 00:24:37,940
+the guy<font color="#E5E5E5"> making</font><font color="#CCCCCC"> the speech</font><font color="#E5E5E5"> that's not a</font>
+
+610
+00:24:37,940 --> 00:24:39,710
+<font color="#E5E5E5">that's not like Mike Pence's an idiot</font>
+
+611
+00:24:39,710 --> 00:24:41,180
+can't write his own speech<font color="#CCCCCC"> oh yeah</font><font color="#E5E5E5"> yeah</font>
+
+612
+00:24:41,180 --> 00:24:43,100
+but but you would never use the word
+
+613
+00:24:43,100 --> 00:24:45,170
+lodestar if you were a<font color="#CCCCCC"> speech writer</font><font color="#E5E5E5"> a</font>
+
+614
+00:24:45,170 --> 00:24:47,390
+good one with a relationship<font color="#CCCCCC"> with the</font>
+
+615
+00:24:47,390 --> 00:24:48,410
+<font color="#E5E5E5">person whom you're writing for which</font>
+
+616
+00:24:48,410 --> 00:24:49,730
+obviously<font color="#E5E5E5"> pence would have you're not</font>
+
+617
+00:24:49,730 --> 00:24:51,950
+some hack you just brought in like you
+
+618
+00:24:51,950 --> 00:24:53,180
+would never used that<font color="#E5E5E5"> word unless the</font>
+
+619
+00:24:53,180 --> 00:24:56,900
+person<font color="#CCCCCC"> used the word like how'd you</font>
+
+620
+00:24:56,900 --> 00:24:58,850
+write Jack Reed<font color="#CCCCCC"> load story but like no</font>
+
+621
+00:24:58,850 --> 00:25:02,270
+<font color="#E5E5E5">yeah</font><font color="#CCCCCC"> yeah so when my speechwriter was</font>
+
+622
+00:25:02,270 --> 00:25:07,280
+writing<font color="#E5E5E5"> this show</font><font color="#CCCCCC"> he put no load starts</font>
+
+623
+00:25:07,280 --> 00:25:08,750
+there<font color="#E5E5E5"> because I don't normally say</font><font color="#CCCCCC"> let's</font>
+
+624
+00:25:08,750 --> 00:25:11,930
+yeah<font color="#E5E5E5"> okay so that's a</font><font color="#CCCCCC"> super-fun</font>
+
+625
+00:25:11,930 --> 00:25:15,440
+conspiracy theory<font color="#E5E5E5"> but anyway back</font><font color="#CCCCCC"> to why</font>
+
+626
+00:25:15,440 --> 00:25:17,900
+the needle has been moved<font color="#E5E5E5"> so Woodward's</font>
+
+627
+00:25:17,900 --> 00:25:19,490
+book comes out it causes a senior
+
+628
+00:25:19,490 --> 00:25:21,230
+administration<font color="#CCCCCC"> official to write the</font>
+
+629
+00:25:21,230 --> 00:25:24,020
+most unprecedented shocking I bet I have
+
+630
+00:25:24,020 --> 00:25:26,480
+<font color="#E5E5E5">ever seen then and I know we</font><font color="#CCCCCC"> use that</font><font color="#E5E5E5"> a</font>
+
+631
+00:25:26,480 --> 00:25:28,040
+lot<font color="#CCCCCC"> on the Trump here</font><font color="#E5E5E5"> because everything</font>
+
+632
+00:25:28,040 --> 00:25:29,840
+has been<font color="#CCCCCC"> without</font><font color="#E5E5E5"> shocking on the</font>
+
+633
+00:25:29,840 --> 00:25:31,640
+president<font color="#E5E5E5"> think we'd ever seen and</font>
+
+634
+00:25:31,640 --> 00:25:35,240
+they're not exaggerations they are true
+
+635
+00:25:35,240 --> 00:25:37,820
+by a mile by a country mile okay<font color="#E5E5E5"> they</font>
+
+636
+00:25:37,820 --> 00:25:39,830
+are the<font color="#CCCCCC"> lodestar of truth</font><font color="#E5E5E5"> what what in</font>
+
+637
+00:25:39,830 --> 00:25:42,530
+the<font color="#E5E5E5"> Lone Star Trek that did let half the</font>
+
+638
+00:25:42,530 --> 00:25:44,540
+things that happen<font color="#E5E5E5"> today are the most</font>
+
+639
+00:25:44,540 --> 00:25:46,130
+shocking unprecedented things that have
+
+640
+00:25:46,130 --> 00:25:47,600
+ever<font color="#E5E5E5"> happened there's a</font><font color="#CCCCCC"> communion</font><font color="#E5E5E5"> our</font>
+
+641
+00:25:47,600 --> 00:25:49,130
+<font color="#CCCCCC">lifetime sin</font><font color="#E5E5E5"> Americanism there's a</font>
+
+642
+00:25:49,130 --> 00:25:51,770
+comedian called<font color="#CCCCCC"> Laurie Kilmartin</font><font color="#E5E5E5"> I think</font>
+
+643
+00:25:51,770 --> 00:25:53,450
+and she's a liberal I don't know she
+
+644
+00:25:53,450 --> 00:25:56,540
+said<font color="#E5E5E5"> I go regret whatever I she's she's</font>
+
+645
+00:25:56,540 --> 00:25:59,480
+on<font color="#E5E5E5"> the right side of to me right but she</font>
+
+646
+00:25:59,480 --> 00:26:00,920
+occasionally she does a good<font color="#E5E5E5"> thing</font><font color="#CCCCCC"> and</font>
+
+647
+00:26:00,920 --> 00:26:02,600
+she just<font color="#CCCCCC"> takes whatever the main story</font>
+
+648
+00:26:02,600 --> 00:26:03,800
+<font color="#CCCCCC">of the day she I don't know</font><font color="#E5E5E5"> this does is</font>
+
+649
+00:26:03,800 --> 00:26:05,240
+every<font color="#E5E5E5"> day or twice</font><font color="#CCCCCC"> a week or</font><font color="#E5E5E5"> whatever</font>
+
+650
+00:26:05,240 --> 00:26:07,520
+<font color="#E5E5E5">and she</font><font color="#CCCCCC"> just pretends that</font><font color="#E5E5E5"> it was</font>
+
+651
+00:26:07,520 --> 00:26:09,560
+<font color="#E5E5E5">President Clinton who did it you know</font>
+
+652
+00:26:09,560 --> 00:26:11,570
+president Hillary Clinton<font color="#CCCCCC"> today and so</font>
+
+653
+00:26:11,570 --> 00:26:14,090
+sure here was you know an anonymous
+
+654
+00:26:14,090 --> 00:26:15,470
+high-ranking official in<font color="#E5E5E5"> Clinton</font>
+
+655
+00:26:15,470 --> 00:26:17,690
+administration wrote this<font color="#E5E5E5"> that yeah</font>
+
+656
+00:26:17,690 --> 00:26:19,460
+you read it<font color="#E5E5E5"> and you're like yes she be</font>
+
+657
+00:26:19,460 --> 00:26:20,870
+impeached<font color="#E5E5E5"> like every time every time</font>
+
+658
+00:26:20,870 --> 00:26:22,519
+<font color="#CCCCCC">every time</font><font color="#E5E5E5"> she does something with this</font>
+
+659
+00:26:22,519 --> 00:26:24,740
+you'd be<font color="#E5E5E5"> like holy</font><font color="#CCCCCC"> moly out the story</font>
+
+660
+00:26:24,740 --> 00:26:27,019
+would never die and yet every Trump
+
+661
+00:26:27,019 --> 00:26:29,659
+story<font color="#CCCCCC"> and maybe it</font><font color="#E5E5E5"> would be</font><font color="#CCCCCC"> if Clinton</font>
+
+662
+00:26:29,659 --> 00:26:31,129
+<font color="#E5E5E5">did it every day</font><font color="#CCCCCC"> too but but she</font>
+
+663
+00:26:31,129 --> 00:26:33,049
+wouldn't it wouldn't it it is shocking
+
+664
+00:26:33,049 --> 00:26:34,820
+<font color="#CCCCCC">to think</font><font color="#E5E5E5"> about how things would be</font>
+
+665
+00:26:34,820 --> 00:26:37,940
+different<font color="#E5E5E5"> if any of these things had</font>
+
+666
+00:26:37,940 --> 00:26:40,820
+been done if Hillary Clinton<font color="#E5E5E5"> threatened</font>
+
+667
+00:26:40,820 --> 00:26:45,169
+<font color="#E5E5E5">to fire her Attorney General for not as</font>
+
+668
+00:26:45,169 --> 00:26:48,399
+you tweeted about for not bending
+
+669
+00:26:48,399 --> 00:26:51,379
+<font color="#E5E5E5">investigations to</font><font color="#CCCCCC"> a summer to help</font>
+
+670
+00:26:51,379 --> 00:26:55,029
+<font color="#E5E5E5">Democrats</font><font color="#CCCCCC"> write immediate impeachment</font>
+
+671
+00:26:55,029 --> 00:26:59,269
+within the week<font color="#E5E5E5"> and I hope that I am</font>
+
+672
+00:26:59,269 --> 00:27:01,789
+correct<font color="#E5E5E5"> in saying that I</font><font color="#CCCCCC"> think for both</font>
+
+673
+00:27:01,789 --> 00:27:04,669
+<font color="#CCCCCC">of us we would think</font><font color="#E5E5E5"> oh she's she's</font>
+
+674
+00:27:04,669 --> 00:27:06,309
+crossed a line she can't come back<font color="#E5E5E5"> yeah</font>
+
+675
+00:27:06,309 --> 00:27:10,340
+I mean look at there are retired early
+
+676
+00:27:10,340 --> 00:27:14,480
+free time for president<font color="#CCCCCC"> Cain oh</font><font color="#E5E5E5"> okay</font>
+
+677
+00:27:14,480 --> 00:27:18,259
+there would literally hundreds of<font color="#E5E5E5"> those</font>
+
+678
+00:27:18,259 --> 00:27:19,940
+stories<font color="#CCCCCC"> that would have gotten Hillary</font>
+
+679
+00:27:19,940 --> 00:27:22,309
+Clinton<font color="#E5E5E5"> beached</font><font color="#CCCCCC"> I mean look at my</font>
+
+680
+00:27:22,309 --> 00:27:23,960
+<font color="#E5E5E5">favorite story that everybody forgets</font>
+
+681
+00:27:23,960 --> 00:27:26,149
+<font color="#E5E5E5">and that way and if you you might not</font>
+
+682
+00:27:26,149 --> 00:27:27,950
+even<font color="#E5E5E5"> even heard the story because there</font>
+
+683
+00:27:27,950 --> 00:27:30,139
+are so many fantastical unbelievable
+
+684
+00:27:30,139 --> 00:27:32,179
+stories about<font color="#CCCCCC"> Trump</font><font color="#E5E5E5"> that you it might</font>
+
+685
+00:27:32,179 --> 00:27:34,759
+have<font color="#CCCCCC"> just lost it in the waterfall</font><font color="#E5E5E5"> or or</font>
+
+686
+00:27:34,759 --> 00:27:38,659
+<font color="#E5E5E5">when I say</font><font color="#CCCCCC"> oh</font><font color="#E5E5E5"> yeah that</font><font color="#CCCCCC"> was so mental</font>
+
+687
+00:27:38,659 --> 00:27:40,909
+and no one ever talks about<font color="#E5E5E5"> it is when</font>
+
+688
+00:27:40,909 --> 00:27:43,759
+he<font color="#CCCCCC"> raided his doctor's office and</font><font color="#E5E5E5"> he</font><font color="#CCCCCC"> had</font>
+
+689
+00:27:43,759 --> 00:27:45,950
+his<font color="#CCCCCC"> personal security</font><font color="#E5E5E5"> and this was what</font>
+
+690
+00:27:45,950 --> 00:27:46,879
+less than<font color="#CCCCCC"> a year ago</font>
+
+691
+00:27:46,879 --> 00:27:48,350
+<font color="#E5E5E5">there's a</font><font color="#CCCCCC"> wall yes</font><font color="#E5E5E5"> so far I don't</font><font color="#CCCCCC"> even</font>
+
+692
+00:27:48,350 --> 00:27:49,429
+know what you're talking<font color="#CCCCCC"> about no that's</font>
+
+693
+00:27:49,429 --> 00:27:50,779
+amazing<font color="#CCCCCC"> right saying you don't even know</font>
+
+694
+00:27:50,779 --> 00:27:53,000
+or I<font color="#CCCCCC"> remember it yeah yeah</font><font color="#E5E5E5"> he had his</font>
+
+695
+00:27:53,000 --> 00:27:55,340
+personal<font color="#E5E5E5"> security guards go over to his</font>
+
+696
+00:27:55,340 --> 00:27:57,379
+own doctor's office crazy doctor with
+
+697
+00:27:57,379 --> 00:27:59,289
+<font color="#CCCCCC">the lazy the Bornstein or whatever right</font>
+
+698
+00:27:59,289 --> 00:28:03,470
+<font color="#CCCCCC">and break-in</font><font color="#E5E5E5"> physically break in</font><font color="#CCCCCC"> move</font>
+
+699
+00:28:03,470 --> 00:28:05,600
+<font color="#E5E5E5">the doctor out of the way take Trump's</font>
+
+700
+00:28:05,600 --> 00:28:08,870
+files and run out<font color="#E5E5E5"> that's definitely</font><font color="#CCCCCC"> true</font>
+
+701
+00:28:08,870 --> 00:28:14,750
+<font color="#E5E5E5">yeah it's mental beyond belief that's</font>
+
+702
+00:28:14,750 --> 00:28:16,730
+like you could<font color="#CCCCCC"> argue that's kind</font><font color="#E5E5E5"> of mini</font>
+
+703
+00:28:16,730 --> 00:28:18,289
+water cake because there's a<font color="#CCCCCC"> break-in</font>
+
+704
+00:28:18,289 --> 00:28:19,639
+<font color="#CCCCCC">right right</font>
+
+705
+00:28:19,639 --> 00:28:22,519
+it's of his<font color="#E5E5E5"> doctor's office that's when</font>
+
+706
+00:28:22,519 --> 00:28:23,840
+it why the doctor turned on him
+
+707
+00:28:23,840 --> 00:28:25,429
+<font color="#E5E5E5">everybody turns on him</font><font color="#CCCCCC"> because he's so</font>
+
+708
+00:28:25,429 --> 00:28:26,809
+<font color="#CCCCCC">freakin crazy</font>
+
+709
+00:28:26,809 --> 00:28:29,899
+so the doctor was the doctor<font color="#E5E5E5"> who said he</font>
+
+710
+00:28:29,899 --> 00:28:30,610
+was<font color="#CCCCCC"> a healthier than</font>
+
+711
+00:28:30,610 --> 00:28:33,130
+president ever<font color="#E5E5E5"> yeah yeah</font><font color="#CCCCCC"> so that dr.</font>
+
+712
+00:28:33,130 --> 00:28:35,380
+then<font color="#E5E5E5"> get</font><font color="#CCCCCC"> Kate it was he's like</font><font color="#E5E5E5"> they</font>
+
+713
+00:28:35,380 --> 00:28:37,590
+broke into my<font color="#CCCCCC"> office they stole my files</font>
+
+714
+00:28:37,590 --> 00:28:39,309
+<font color="#E5E5E5">this is so weird</font>
+
+715
+00:28:39,309 --> 00:28:41,799
+<font color="#E5E5E5">okay by the way of course I didn't write</font>
+
+716
+00:28:41,799 --> 00:28:44,260
+the letter<font color="#CCCCCC"> they let it say</font><font color="#E5E5E5"> Trump was the</font>
+
+717
+00:28:44,260 --> 00:28:45,970
+healthiest person that ever lived
+
+718
+00:28:45,970 --> 00:28:47,320
+she's like of<font color="#CCCCCC"> course they wrote it in</font>
+
+719
+00:28:47,320 --> 00:28:49,030
+the<font color="#E5E5E5"> limo they brought it up and made</font><font color="#CCCCCC"> me</font>
+
+720
+00:28:49,030 --> 00:28:50,650
+sign<font color="#E5E5E5"> it security guard who was running</font>
+
+721
+00:28:50,650 --> 00:28:52,480
+security<font color="#E5E5E5"> guards loyal and connected to</font>
+
+722
+00:28:52,480 --> 00:28:54,280
+<font color="#E5E5E5">president Hillary Clinton broke into the</font>
+
+723
+00:28:54,280 --> 00:28:56,530
+offices of her doctor<font color="#CCCCCC"> and removed all of</font>
+
+724
+00:28:56,530 --> 00:28:59,559
+her files<font color="#E5E5E5"> amid accusations that she was</font>
+
+725
+00:28:59,559 --> 00:29:00,970
+whatever<font color="#E5E5E5"> the thing was that</font><font color="#CCCCCC"> she had</font>
+
+726
+00:29:00,970 --> 00:29:08,620
+<font color="#E5E5E5">parking I mean perhaps in prison right</font>
+
+727
+00:29:08,620 --> 00:29:12,720
+<font color="#E5E5E5">right we forgot that story about drum</font>
+
+728
+00:29:12,720 --> 00:29:17,080
+full because<font color="#E5E5E5"> it's a it's a non-stop</font>
+
+729
+00:29:17,080 --> 00:29:20,110
+<font color="#E5E5E5">avalanche of insanity it's like you know</font>
+
+730
+00:29:20,110 --> 00:29:22,380
+it is I mean<font color="#E5E5E5"> you know there's a lot of</font>
+
+731
+00:29:22,380 --> 00:29:24,730
+comparison of things that people don't
+
+732
+00:29:24,730 --> 00:29:26,410
+quite<font color="#E5E5E5"> know enough about my and I</font>
+
+733
+00:29:26,410 --> 00:29:28,150
+certainly<font color="#E5E5E5"> fall into this trap</font><font color="#CCCCCC"> too but a</font>
+
+734
+00:29:28,150 --> 00:29:30,460
+lot of<font color="#E5E5E5"> Nixon comparisons and and and</font>
+
+735
+00:29:30,460 --> 00:29:32,620
+Nixon was a much smarter person<font color="#E5E5E5"> much</font>
+
+736
+00:29:32,620 --> 00:29:33,940
+more educated<font color="#CCCCCC"> yeah that's more</font>
+
+737
+00:29:33,940 --> 00:29:36,429
+interested in the world but but<font color="#E5E5E5"> I'm not</font>
+
+738
+00:29:36,429 --> 00:29:38,230
+sure there's a temptation<font color="#E5E5E5"> to</font><font color="#CCCCCC"> think that</font>
+
+739
+00:29:38,230 --> 00:29:40,030
+Trump<font color="#CCCCCC"> is far more corrupt than Nixon</font><font color="#E5E5E5"> I'm</font>
+
+740
+00:29:40,030 --> 00:29:41,710
+not sure they<font color="#E5E5E5"> had</font><font color="#CCCCCC"> a Nixon was not</font>
+
+741
+00:29:41,710 --> 00:29:44,350
+<font color="#E5E5E5">interested in personal wealth right but</font>
+
+742
+00:29:44,350 --> 00:29:45,700
+he was<font color="#E5E5E5"> interested</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> power and doing</font>
+
+743
+00:29:45,700 --> 00:29:47,080
+<font color="#E5E5E5">anything he could keep it</font><font color="#CCCCCC"> I mean the</font>
+
+744
+00:29:47,080 --> 00:29:49,480
+lost<font color="#E5E5E5"> Nixon broke were frickin staggering</font>
+
+745
+00:29:49,480 --> 00:29:51,610
+<font color="#E5E5E5">right he and I tell the story often but</font>
+
+746
+00:29:51,610 --> 00:29:55,030
+I mean when Arthur Bremer shot George
+
+747
+00:29:55,030 --> 00:29:56,830
+Wallace<font color="#E5E5E5"> in Maryland</font><font color="#CCCCCC"> during the 1972</font>
+
+748
+00:29:56,830 --> 00:29:58,840
+campaign Nixon<font color="#E5E5E5"> told Chuck Colson</font><font color="#CCCCCC"> to call</font>
+
+749
+00:29:58,840 --> 00:30:01,120
+his guys<font color="#E5E5E5"> the same kind</font><font color="#CCCCCC"> of guys if not</font>
+
+750
+00:30:01,120 --> 00:30:02,320
+the same guys who broke into<font color="#E5E5E5"> the</font>
+
+751
+00:30:02,320 --> 00:30:06,910
+Watergate to to go<font color="#E5E5E5"> to Bremer's apartment</font>
+
+752
+00:30:06,910 --> 00:30:10,480
+and plant<font color="#CCCCCC"> McGovern literature there even</font>
+
+753
+00:30:10,480 --> 00:30:12,730
+so that<font color="#E5E5E5"> when the FBI arrived they they'd</font>
+
+754
+00:30:12,730 --> 00:30:14,380
+let's look at some<font color="#CCCCCC"> against reporters</font>
+
+755
+00:30:14,380 --> 00:30:17,559
+<font color="#CCCCCC">shot Wallace</font><font color="#E5E5E5"> uh-huh it's on the tapes</font><font color="#CCCCCC"> he</font>
+
+756
+00:30:17,559 --> 00:30:19,720
+<font color="#E5E5E5">just says it to do it right this amazing</font>
+
+757
+00:30:19,720 --> 00:30:22,120
+and then the they sent a guy and the guy
+
+758
+00:30:22,120 --> 00:30:24,220
+<font color="#E5E5E5">said</font><font color="#CCCCCC"> I by the time I got there the FBI</font>
+
+759
+00:30:24,220 --> 00:30:25,840
+was already there so<font color="#E5E5E5"> nice opportunity</font>
+
+760
+00:30:25,840 --> 00:30:28,240
+opportunity lost<font color="#CCCCCC"> yeah yeah</font>
+
+761
+00:30:28,240 --> 00:30:30,880
+<font color="#E5E5E5">yeah Jason was run</font><font color="#CCCCCC"> out of office because</font>
+
+762
+00:30:30,880 --> 00:30:34,540
+<font color="#CCCCCC">he was in a sense like</font><font color="#E5E5E5"> Trump a career</font>
+
+763
+00:30:34,540 --> 00:30:36,160
+criminal<font color="#CCCCCC"> he was a career criminal yeah a</font>
+
+764
+00:30:36,160 --> 00:30:37,840
+lot of<font color="#CCCCCC"> hit but almost all this</font>
+
+765
+00:30:37,840 --> 00:30:39,520
+criminality is centered around politics
+
+766
+00:30:39,520 --> 00:30:42,520
+<font color="#E5E5E5">whereas most of trumps criminality was</font>
+
+767
+00:30:42,520 --> 00:30:44,290
+revolved around money<font color="#CCCCCC"> yeah now this is</font>
+
+768
+00:30:44,290 --> 00:30:46,240
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> first half hour basically the full</font>
+
+769
+00:30:46,240 --> 00:30:48,850
+episode<font color="#CCCCCC"> is for members</font><font color="#E5E5E5"> and you're going</font>
+
+770
+00:30:48,850 --> 00:30:52,300
+<font color="#CCCCCC">to love it</font><font color="#E5E5E5"> so come join us at TYT</font><font color="#CCCCCC"> calm</font>
+
+771
+00:30:52,300 --> 00:00:00,000
+sighs join
+

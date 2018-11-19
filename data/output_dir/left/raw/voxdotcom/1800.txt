@@ -1,0 +1,671 @@
+1
+00:00:00,909 --> 00:00:06,240
+These mosquito larvae in a lab at Imperial
+College in London have been genetically engineered
+
+2
+00:00:06,240 --> 00:00:08,690
+to glow red under a laser.
+
+3
+00:00:08,690 --> 00:00:12,500
+But that red fluorescence is just a marker
+-- It’s there to tell the researchers that
+
+4
+00:00:12,500 --> 00:00:14,719
+something profound has happened.
+
+5
+00:00:14,960 --> 00:00:18,420
+I ran out and I grabbed my supervisor
+... I was like Tony but you know you've got
+
+6
+00:00:18,430 --> 00:00:19,430
+to look at this.
+
+7
+00:00:19,430 --> 00:00:22,740
+So we started going through and I read them
+off one by one and I was like red, red, red,
+
+8
+00:00:22,740 --> 00:00:24,060
+red and we just...
+
+9
+00:00:24,680 --> 00:00:26,200
+It was a very crazy time.
+
+10
+00:00:26,200 --> 00:00:28,400
+We just started screaming and getting
+super excited.
+
+11
+00:00:28,400 --> 00:00:32,920
+Since only one of their parents had a copy
+of the red gene, you’d expect around 50%
+
+12
+00:00:32,920 --> 00:00:34,210
+of the larvae to be red.
+
+13
+00:00:34,210 --> 00:00:37,340
+But nearly 100% of them were glowing.
+
+14
+00:00:37,340 --> 00:00:42,309
+The researchers had hacked the rules of inheritance
+with what’s called a gene drive.
+
+15
+00:00:42,309 --> 00:00:47,199
+But the red gene isn’t the point - it’s
+been linked to a genetic tool that renders
+
+16
+00:00:47,199 --> 00:00:49,650
+female mosquitoes infertile.
+
+17
+00:00:49,650 --> 00:00:52,989
+And that’s a huge deal because this isn’t
+just any old mosquito species.
+
+18
+00:00:52,989 --> 00:00:57,559
+This is anopheles gambiae,
+one of the mosquitos that carries the parasite
+
+19
+00:00:57,559 --> 00:00:58,940
+that causes malaria.
+
+20
+00:01:03,720 --> 00:01:06,910
+So malaria is mostly a sub-saharan African
+disease.
+
+21
+00:01:06,910 --> 00:01:13,680
+It affects people in the Indian subcontinent,
+Southeast Asia, but it’s primarily a disease
+
+22
+00:01:13,680 --> 00:01:15,130
+of Sub-Saharan Africa.
+
+23
+00:01:15,130 --> 00:01:19,480
+And the majority of malaria deaths in any
+given year in the world, hundreds of thousands
+
+24
+00:01:19,480 --> 00:01:22,740
+of deaths, are kids under 5 in Africa.
+
+25
+00:01:23,360 --> 00:01:27,980
+Over the past 15 years, there’s been a big
+investment in bed nets, insecticides, and
+
+26
+00:01:27,981 --> 00:01:28,981
+better treatment.
+
+27
+00:01:28,981 --> 00:01:33,160
+And I think the result has been a lot of steady
+progress on malaria.
+
+28
+00:01:33,160 --> 00:01:39,100
+That being said, it’s progress against a
+really, really high death rate.
+
+29
+00:01:39,100 --> 00:01:45,020
+Most African countries really want to try
+to eliminate it and WHO is really in support
+
+30
+00:01:45,020 --> 00:01:49,050
+of this, they’ve set some targets to achieve
+in 2030.
+
+31
+00:01:49,050 --> 00:01:54,150
+And where we stand now, we don’t seem to
+be on course for achieving those.
+
+32
+00:01:54,150 --> 00:01:58,620
+While researchers continue to work on a vaccine,
+genetic approaches to malaria look increasingly
+
+33
+00:01:58,620 --> 00:01:59,960
+promising.
+
+34
+00:01:59,960 --> 00:02:03,920
+Genetically modified mosquitoes aren’t new
+- a company called Oxitec has released mosquitoes
+
+35
+00:02:03,920 --> 00:02:07,260
+in Brazil that are designed to have nonviable
+offspring.
+
+36
+00:02:07,260 --> 00:02:12,590
+But those don’t contain a gene drive, which
+biases inheritance so that the modification
+
+37
+00:02:12,590 --> 00:02:17,030
+continues to be passed through a population,
+though they can also be designed to have a
+
+38
+00:02:17,030 --> 00:02:18,280
+more local reach.
+
+39
+00:02:18,960 --> 00:02:24,080
+The idea of driving desirable genes into insect
+populations dates back decades,
+
+40
+00:02:24,220 --> 00:02:28,720
+but progress toward that goal jumped ahead
+after the invention of the CRISPR gene editing
+
+41
+00:02:28,720 --> 00:02:30,220
+tool in 2012.
+
+42
+00:02:30,610 --> 00:02:34,340
+CRISPR allows scientists make precise changes
+to DNA in the lab.
+
+43
+00:02:34,350 --> 00:02:40,450
+A CRISPR gene drive could let them push those
+changes through a wild population of insects.
+
+44
+00:02:40,450 --> 00:02:45,340
+It works by inserting the gene editing tool
+itself into a chosen segment of the mosquito’s
+
+45
+00:02:45,340 --> 00:02:46,000
+DNA.
+
+46
+00:02:46,220 --> 00:02:51,780
+From there, CRISPR induces the cell to copy
+the package onto the matching chromosome.
+
+47
+00:02:51,780 --> 00:02:55,400
+Like us, mosquitoes have 2 copies of each
+gene, one from each parent.
+
+48
+00:02:55,400 --> 00:02:59,819
+And now that the gene drive is on both chromosomes,
+it will get passed on to all the offspring,
+
+49
+00:02:59,819 --> 00:03:03,790
+where it will copy onto their other chromosome,
+and so on.
+
+50
+00:03:03,790 --> 00:03:08,470
+So depending on what biologists attach to
+that package, like the red fluorescent gene,
+
+51
+00:03:08,470 --> 00:03:11,780
+they can make some drastic changes to wild
+populations.
+
+52
+00:03:12,780 --> 00:03:15,440
+There are two broad approaches to malaria
+mosquitoes.
+
+53
+00:03:15,450 --> 00:03:20,370
+The team at Imperial College is part of an
+international group called Target Malaria,
+
+54
+00:03:20,370 --> 00:03:23,100
+funded mostly by the Bill & Melinda Gates foundation.
+
+55
+00:03:23,100 --> 00:03:26,560
+And they’re aiming to use gene drives to
+suppress mosquito populations.
+
+56
+00:03:26,560 --> 00:03:31,450
+Their drives are designed to spread female
+infertility or to prevent females from being
+
+57
+00:03:31,450 --> 00:03:34,750
+born, with the effect of shrinking a population
+of mosquitoes.
+
+58
+00:03:34,750 --> 00:03:38,370
+Then there’s a team of researchers at the
+University of California institutions
+
+59
+00:03:38,370 --> 00:03:43,150
+who have been developing a gene drive that
+alters, rather than shrinks, the mosquito population.
+
+60
+00:03:43,150 --> 00:03:47,990
+It spreads genes that make mosquitoes resistant
+to the malaria parasite, so they don’t transmit
+
+61
+00:03:47,990 --> 00:03:49,280
+it between humans.
+
+62
+00:03:49,740 --> 00:03:54,180
+The World Health Organization has outlined
+the steps that G.M. mosquitoes should go through
+
+63
+00:03:54,180 --> 00:03:57,820
+before being deployed. Gene drive research
+is in phase 1 now,
+
+64
+00:03:57,820 --> 00:04:01,540
+but to find out if it could really work, they
+need to test it outside of a lab.
+
+65
+00:04:01,540 --> 00:04:05,390
+And the researchers say their mosquitoes should
+be ready for phase 2 soon.
+
+66
+00:04:05,390 --> 00:04:09,560
+I'm hoping the science is well within five
+years.
+
+67
+00:04:09,560 --> 00:04:11,160
+Maybe even half that.
+
+68
+00:04:11,160 --> 00:04:13,620
+Maybe in one or two years.
+
+69
+00:04:13,630 --> 00:04:15,230
+A couple of years.
+
+70
+00:04:15,230 --> 00:04:17,269
+But then that's in the lab in London.
+
+71
+00:04:17,269 --> 00:04:20,790
+After something’s ready in the lab in London
+you'd really want to go through very rigorous
+
+72
+00:04:20,790 --> 00:04:21,290
+testing.
+
+73
+00:04:22,820 --> 00:04:26,560
+So with every health intervention or technology
+there’s kind of a spectrum of how much testing
+
+74
+00:04:26,560 --> 00:04:30,030
+and how much certainty people require before
+they just try it.
+
+75
+00:04:30,030 --> 00:04:35,810
+This is always a trade-off in any medical
+trial, if you develop a drug and it’s a
+
+76
+00:04:35,810 --> 00:04:42,190
+miracle and it helps everyone, when do you
+stop the trial and just start giving that to everyone?
+
+77
+00:04:42,190 --> 00:04:48,101
+Once we have a gene drive that we can release
+in the wild that could wipe out malaria, every
+
+78
+00:04:48,101 --> 00:04:53,880
+year we don’t do that is 500,000 to 700,000,
+mostly kids, dying.
+
+79
+00:04:55,370 --> 00:04:59,540
+Kevin Esvelt the MIT scientist who’s working
+on gene drives,
+
+80
+00:04:59,540 --> 00:05:04,160
+was talking to me and he said
+Malaria is a case where there are really strong
+
+81
+00:05:04,160 --> 00:05:09,410
+ethical argument of doing something now today
+because so many children have died just in
+
+82
+00:05:09,410 --> 00:05:10,950
+the time that we've been speaking.
+
+83
+00:05:10,950 --> 00:05:12,900
+I would say at least 20.
+
+84
+00:05:14,060 --> 00:05:18,080
+And his takeaway from that wasn’t let’s
+do this as fast as possible.
+
+85
+00:05:18,080 --> 00:05:21,900
+It’s let’s do this right, because if we
+don’t do this right, then there’s going
+
+86
+00:05:21,900 --> 00:05:25,150
+to be a massive backlash and we’re never
+going to be able to do anything like this
+
+87
+00:05:25,150 --> 00:05:25,860
+ever again.
+
+88
+00:05:25,860 --> 00:05:30,260
+Yeah if you move forwards with a unilateral
+“we are going to save the kids whether you
+
+89
+00:05:30,260 --> 00:05:35,040
+like it or not,” really does imperil
+the broader malaria eradication effort.
+
+90
+00:05:36,020 --> 00:05:40,600
+Target Malaria has begun a lengthy process
+of building facilities and staff in 4 African
+
+91
+00:05:40,610 --> 00:05:44,669
+countries, where they’ll be working with
+non-gene-drive mosquitoes before importing the
+
+92
+00:05:44,669 --> 00:05:45,880
+gene drive mosquitoes.
+
+93
+00:05:45,880 --> 00:05:49,970
+And even then, there’s more lab work to
+do before an actual release.
+
+94
+00:05:49,970 --> 00:05:53,640
+So the modified one is modified using a laboratory
+strain.
+
+95
+00:05:53,640 --> 00:05:59,640
+So you have to do experiments to make
+sure you incorporate the natural genetic background
+
+96
+00:05:59,640 --> 00:06:02,510
+of the mosquitoes in the area where you want
+to work.
+
+97
+00:06:02,510 --> 00:06:06,250
+At each stage, they’re consulting with local
+communities and with governments about this
+
+98
+00:06:06,250 --> 00:06:09,700
+genetic technology that’s designed to spread
+across borders.
+
+99
+00:06:09,700 --> 00:06:12,280
+There are no regulators that have handled
+this before.
+
+100
+00:06:12,280 --> 00:06:14,140
+Not only just in Africa, but anywhere.
+
+101
+00:06:15,640 --> 00:06:20,240
+I think i’m curious about you know this
+notion that we have a public conversation,
+
+102
+00:06:20,250 --> 00:06:26,169
+we need to get people on board, this notion
+that that would somehow lead to some clear
+
+103
+00:06:26,169 --> 00:06:27,960
+consensus or some clear green light.
+
+104
+00:06:27,960 --> 00:06:29,770
+At some point someone has to decide.
+
+105
+00:06:29,770 --> 00:06:32,920
+And I’m curious if you have a sense of who
+that is.
+
+106
+00:06:32,920 --> 00:06:38,730
+Yeah, that’s the million dollar question
+and no one I talked to even pretended to have
+
+107
+00:06:38,730 --> 00:06:39,460
+the answer.
+
+108
+00:06:40,520 --> 00:06:46,000
+The end game that got alluded to by a lot
+of people was some kind of agreement by the
+
+109
+00:06:46,000 --> 00:06:50,560
+African Union about releasing a self-propagating
+drive.
+
+110
+00:06:50,560 --> 00:06:54,479
+One tricky thing is malaria does not solely
+
+111
+00:06:54,479 --> 00:06:58,020
+infect people in democratic countries like
+Ghana or Senegal.
+
+112
+00:06:58,020 --> 00:07:00,660
+It also affects people in the Democratic Republic of the Congo,
+
+113
+00:07:00,660 --> 00:07:04,060
+which despite
+the name is a dictatorship. Countries with
+
+114
+00:07:04,060 --> 00:07:07,509
+really unstable and in many cases really awful
+governance.
+
+115
+00:07:07,509 --> 00:07:12,850
+So one tricky question is, if the African Union
+comes together and says yeah we’re ok with
+
+116
+00:07:12,850 --> 00:07:15,300
+this, is that legitimate?
+
+117
+00:07:15,300 --> 00:07:17,640
+Are they speaking for people in Africa?
+
+118
+00:07:18,520 --> 00:07:23,100
+And I think a lot the work that scientists
+are doing is trying to reach out before that
+
+119
+00:07:23,100 --> 00:07:27,280
+and trying to start a conversation before that to make
+sure it’s legitimate.
+
+120
+00:07:28,330 --> 00:07:32,080
+As the public debate begins, there’s a risk
+that the politics of genetically modified
+
+121
+00:07:32,080 --> 00:07:35,730
+crops could spill over to the mosquito issue.
+
+122
+00:07:35,730 --> 00:07:39,870
+Anti-GMO groups like Friends of the Earth
+have already called for a moratorium on gene
+
+123
+00:07:39,870 --> 00:07:44,979
+drive research. They fear it will be misused
+by agribusiness and militaries and cause unintended
+
+124
+00:07:44,980 --> 00:07:46,440
+damage to ecosystems.
+
+125
+00:07:59,880 --> 00:08:03,280
+No one in this is as big of a son of a bitch
+as nature.
+
+126
+00:08:03,280 --> 00:08:07,740
+Like, nature is so awful in every conceivable way.
+
+127
+00:08:07,750 --> 00:08:10,580
+It is completely indifferent to suffering.
+
+128
+00:08:10,580 --> 00:08:15,240
+But I think many of the things we look back
+on as humans as our greatest achievements:
+
+129
+00:08:16,220 --> 00:08:22,160
+getting rid of small pox, penicillin, insulin
+for diabetics, mass vaccinations.
+
+130
+00:08:22,160 --> 00:08:29,680
+Those are all things that involved messing
+with nature and either repurposing or tweaking
+
+131
+00:08:29,680 --> 00:08:32,330
+things that nature created, for our own uses.
+
+132
+00:08:32,330 --> 00:08:34,750
+Some of the worst things we’ve made have
+also done that.
+
+133
+00:08:34,750 --> 00:08:39,669
+But I look at the earth as something
+we've  got to keep going for us and other
+
+134
+00:08:39,669 --> 00:08:45,880
+animals but I don’t look at it as this morally
+benevolent place.
+
+135
+00:08:45,880 --> 00:08:54,079
+It’s a horror show that we’re trying to
+manage as best we can and this is an ambitious
+
+136
+00:08:54,079 --> 00:08:56,860
+but really interesting way to manage it.
+
+137
+00:08:58,560 --> 00:09:02,260
+For a bunch more information about this fascinating topic,
+
+138
+00:09:02,260 --> 00:09:04,440
+go read Dylan's feature article on Vox.com.
+
+139
+00:09:04,440 --> 00:09:05,440
+I'll put a link in
+
+140
+00:09:05,440 --> 00:09:08,800
+the comments. And if you're interested in genetic engineering more broadly,
+
+141
+00:09:08,800 --> 00:09:10,320
+we have an episode on our Netflix show
+
+142
+00:09:10,400 --> 00:09:14,600
+called "Designer DNA," and it's about genetic engineering in human beings.
+
+143
+00:09:14,600 --> 00:09:18,240
+That's on Netflix, go check it out. Check out all the other episodes too,
+
+144
+00:09:18,240 --> 00:00:00,000
+we're publishing them weekly on Wednesdays.
+

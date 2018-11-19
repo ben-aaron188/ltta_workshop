@@ -1,0 +1,340 @@
+1
+00:00:00,250 --> 00:00:06,279
+[Music]
+
+2
+00:00:06,279 --> 00:00:08,029
+neuroscientists have spent the<font color="#E5E5E5"> past</font>
+
+3
+00:00:08,029 --> 00:00:09,590
+hundred<font color="#CCCCCC"> odd years trying to map out the</font>
+
+4
+00:00:09,590 --> 00:00:11,059
+human brain<font color="#CCCCCC"> and while they're pretty</font>
+
+5
+00:00:11,059 --> 00:00:12,410
+confident what kind<font color="#E5E5E5"> of thinking and</font>
+
+6
+00:00:12,410 --> 00:00:14,030
+behaviors different<font color="#E5E5E5"> regions of the</font><font color="#CCCCCC"> brain</font>
+
+7
+00:00:14,030 --> 00:00:16,219
+<font color="#E5E5E5">are responsible for figuring</font><font color="#CCCCCC"> out</font><font color="#E5E5E5"> what</font>
+
+8
+00:00:16,219 --> 00:00:17,930
+each specific neuron does is still a
+
+9
+00:00:17,930 --> 00:00:20,270
+thick cloudy mystery<font color="#E5E5E5"> in order to break</font>
+
+10
+00:00:20,270 --> 00:00:22,430
+<font color="#E5E5E5">through this resolution barrier</font><font color="#CCCCCC"> a team</font>
+
+11
+00:00:22,430 --> 00:00:23,869
+<font color="#E5E5E5">at</font><font color="#CCCCCC"> Stanford has</font><font color="#E5E5E5"> been experimenting with</font>
+
+12
+00:00:23,869 --> 00:00:25,760
+optogenetics<font color="#CCCCCC"> a</font><font color="#E5E5E5"> form of genetic</font>
+
+13
+00:00:25,760 --> 00:00:27,529
+manipulation that allows them<font color="#E5E5E5"> to trigger</font>
+
+14
+00:00:27,529 --> 00:00:29,599
+individual neurons with a precise beam
+
+15
+00:00:29,599 --> 00:00:32,029
+of light instead<font color="#CCCCCC"> of a clunky</font><font color="#E5E5E5"> imprecise</font>
+
+16
+00:00:32,029 --> 00:00:34,190
+jolt of electricity<font color="#E5E5E5"> with optogenetics</font>
+
+17
+00:00:34,190 --> 00:00:37,040
+<font color="#CCCCCC">the power is</font><font color="#E5E5E5"> that you can study a</font>
+
+18
+00:00:37,040 --> 00:00:39,380
+particular<font color="#E5E5E5"> wire connection in the brain</font>
+
+19
+00:00:39,380 --> 00:00:41,809
+in isolation<font color="#E5E5E5"> and say what is that that</font>
+
+20
+00:00:41,809 --> 00:00:44,030
+one connection<font color="#E5E5E5"> in this huge mass of</font>
+
+21
+00:00:44,030 --> 00:00:45,410
+<font color="#CCCCCC">tangled wires what is that one</font>
+
+22
+00:00:45,410 --> 00:00:48,020
+connection doing so<font color="#E5E5E5"> dopamine neurons are</font>
+
+23
+00:00:48,020 --> 00:00:49,700
+one of those connections<font color="#CCCCCC"> they're really</font>
+
+24
+00:00:49,700 --> 00:00:52,370
+important for reward<font color="#E5E5E5"> and movement and</font>
+
+25
+00:00:52,370 --> 00:00:55,460
+learning they certainly are part of the
+
+26
+00:00:55,460 --> 00:00:57,920
+story with understanding<font color="#E5E5E5"> how addiction</font>
+
+27
+00:00:57,920 --> 00:00:58,969
+<font color="#E5E5E5">affects the brain</font>
+
+28
+00:00:58,969 --> 00:01:01,609
+he's a<font color="#E5E5E5"> transgenic</font><font color="#CCCCCC"> Mouse and so he's had</font>
+
+29
+00:01:01,609 --> 00:01:03,170
+a surgery that<font color="#E5E5E5"> makes his dopamine</font>
+
+30
+00:01:03,170 --> 00:01:05,149
+<font color="#E5E5E5">neurons sensitive to light and then I</font>
+
+31
+00:01:05,149 --> 00:01:07,820
+implanted<font color="#CCCCCC"> a little fiber-optic cannula</font>
+
+32
+00:01:07,820 --> 00:01:09,320
+and<font color="#CCCCCC"> that's what you see sticking out of</font>
+
+33
+00:01:09,320 --> 00:01:11,330
+his head<font color="#CCCCCC"> so the white stuff is just some</font>
+
+34
+00:01:11,330 --> 00:01:15,110
+glue<font color="#E5E5E5"> and then we can plug in</font><font color="#CCCCCC"> a cable</font><font color="#E5E5E5"> and</font>
+
+35
+00:01:15,110 --> 00:01:17,240
+at the end of<font color="#E5E5E5"> that cable</font><font color="#CCCCCC"> are the</font>
+
+36
+00:01:17,240 --> 00:01:19,850
+dopamine neurons<font color="#CCCCCC"> now</font><font color="#E5E5E5"> when we shine</font><font color="#CCCCCC"> the</font>
+
+37
+00:01:19,850 --> 00:01:21,650
+light in it'll turn<font color="#CCCCCC"> on his dopamine</font>
+
+38
+00:01:21,650 --> 00:01:23,330
+<font color="#E5E5E5">neurons and now we're gonna let him</font>
+
+39
+00:01:23,330 --> 00:01:25,400
+decide whether he<font color="#E5E5E5"> wants</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> turn those on</font>
+
+40
+00:01:25,400 --> 00:01:27,670
+or not
+
+41
+00:01:28,520 --> 00:01:30,810
+so what does<font color="#E5E5E5"> the mouse do</font>
+
+42
+00:01:30,810 --> 00:01:33,180
+so there<font color="#E5E5E5"> are two</font><font color="#CCCCCC"> holes in the side of</font>
+
+43
+00:01:33,180 --> 00:01:35,100
+the chamber go<font color="#E5E5E5"> if he pokes his nose in</font>
+
+44
+00:01:35,100 --> 00:01:37,049
+<font color="#E5E5E5">the left one nothing happens and so</font>
+
+45
+00:01:37,049 --> 00:01:38,790
+that's our control<font color="#CCCCCC"> but if he pokes his</font>
+
+46
+00:01:38,790 --> 00:01:40,770
+nose in the<font color="#E5E5E5"> right one he'll get two</font>
+
+47
+00:01:40,770 --> 00:01:42,950
+seconds<font color="#CCCCCC"> of dopamine</font><font color="#E5E5E5"> neuron stimulation</font>
+
+48
+00:01:42,950 --> 00:01:45,720
+<font color="#E5E5E5">so he just made</font><font color="#CCCCCC"> one response and you</font><font color="#E5E5E5"> can</font>
+
+49
+00:01:45,720 --> 00:01:48,780
+see the light up there went zinc now
+
+50
+00:01:48,780 --> 00:01:53,880
+he's doing again<font color="#E5E5E5"> it again again dopamine</font>
+
+51
+00:01:53,880 --> 00:01:56,700
+neurons are activated by<font color="#E5E5E5"> basically all</font>
+
+52
+00:01:56,700 --> 00:02:00,659
+drugs of abuse<font color="#E5E5E5"> and so this is similar</font><font color="#CCCCCC"> to</font>
+
+53
+00:02:00,659 --> 00:02:02,429
+what would<font color="#CCCCCC"> happen if you were trying a</font>
+
+54
+00:02:02,429 --> 00:02:04,560
+hit<font color="#E5E5E5"> of</font><font color="#CCCCCC"> cocaine for</font><font color="#E5E5E5"> the first time as you</font>
+
+55
+00:02:04,560 --> 00:02:06,030
+get a flood of<font color="#E5E5E5"> dopamine in your brain</font>
+
+56
+00:02:06,030 --> 00:02:08,220
+and that seems<font color="#E5E5E5"> to</font><font color="#CCCCCC"> be pretty</font><font color="#E5E5E5"> critical for</font>
+
+57
+00:02:08,220 --> 00:02:10,169
+kind of<font color="#E5E5E5"> beginning this progression</font>
+
+58
+00:02:10,169 --> 00:02:12,480
+towards<font color="#CCCCCC"> addiction he</font><font color="#E5E5E5"> has just got his</font>
+
+59
+00:02:12,480 --> 00:02:14,760
+nose and<font color="#E5E5E5"> that thing</font><font color="#CCCCCC"> yeah this</font><font color="#E5E5E5"> isn't a</font>
+
+60
+00:02:14,760 --> 00:02:16,560
+bad experiment<font color="#CCCCCC"> to</font><font color="#E5E5E5"> get drafted into the</font>
+
+61
+00:02:16,560 --> 00:02:18,870
+<font color="#CCCCCC">most I've seen that</font><font color="#E5E5E5"> an experiment is</font>
+
+62
+00:02:18,870 --> 00:02:21,630
+<font color="#E5E5E5">18,000 in an hour so at that point</font>
+
+63
+00:02:21,630 --> 00:02:23,760
+<font color="#E5E5E5">they're kind of basically not</font><font color="#CCCCCC"> doing</font>
+
+64
+00:02:23,760 --> 00:02:26,430
+<font color="#E5E5E5">anything other than activating their</font>
+
+65
+00:02:26,430 --> 00:02:29,280
+neurons<font color="#E5E5E5"> this is part of what tells us</font>
+
+66
+00:02:29,280 --> 00:02:30,959
+that dopamine<font color="#E5E5E5"> neurons are important for</font>
+
+67
+00:02:30,959 --> 00:02:33,630
+forgiving you motivation<font color="#CCCCCC"> optogenetics</font>
+
+68
+00:02:33,630 --> 00:02:35,730
+<font color="#E5E5E5">lets us tease apart that level of</font>
+
+69
+00:02:35,730 --> 00:02:36,870
+complexity<font color="#CCCCCC"> too</font>
+
+70
+00:02:36,870 --> 00:02:40,109
+we can say this one<font color="#E5E5E5"> input coming</font><font color="#CCCCCC"> into</font>
+
+71
+00:02:40,109 --> 00:02:42,329
+this these dopamine<font color="#CCCCCC"> neurons</font><font color="#E5E5E5"> how does</font>
+
+72
+00:02:42,329 --> 00:02:43,890
+<font color="#E5E5E5">that affect their activity what does the</font>
+
+73
+00:02:43,890 --> 00:02:45,780
+<font color="#E5E5E5">animal do when we turn on that input or</font>
+
+74
+00:02:45,780 --> 00:02:48,959
+turn off<font color="#E5E5E5"> that input</font><font color="#CCCCCC"> and so it's kind of</font>
+
+75
+00:02:48,959 --> 00:02:50,940
+<font color="#E5E5E5">mapping the</font><font color="#CCCCCC"> the pleasure</font><font color="#E5E5E5"> centers are the</font>
+
+76
+00:02:50,940 --> 00:02:52,709
+<font color="#CCCCCC">other rewards in it yeah but</font>
+
+77
+00:02:52,709 --> 00:02:54,930
+optogenetics<font color="#CCCCCC"> you can you can</font><font color="#E5E5E5"> target more</font>
+
+78
+00:02:54,930 --> 00:02:57,090
+<font color="#E5E5E5">specifically and just pick one set of</font>
+
+79
+00:02:57,090 --> 00:02:59,070
+cells and<font color="#E5E5E5"> not the other even if they're</font>
+
+80
+00:02:59,070 --> 00:03:01,079
+<font color="#E5E5E5">right next to each other so that's</font>
+
+81
+00:03:01,079 --> 00:03:02,970
+that's the neat trick and and it really
+
+82
+00:03:02,970 --> 00:03:04,859
+<font color="#CCCCCC">has changed</font><font color="#E5E5E5"> the way we do narrow science</font>
+
+83
+00:03:04,859 --> 00:03:07,220
+research
+
+84
+00:03:08,940 --> 00:03:09,500
+you
+
+85
+00:03:09,500 --> 00:00:00,000
+[Music]
+

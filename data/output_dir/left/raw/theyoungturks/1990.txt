@@ -1,0 +1,912 @@
+1
+00:00:00,030 --> 00:00:02,190
+new<font color="#CCCCCC"> information indicates that</font><font color="#E5E5E5"> Facebook</font>
+
+2
+00:00:02,190 --> 00:00:05,130
+was working with specific doctors in an
+
+3
+00:00:05,130 --> 00:00:08,580
+effort<font color="#CCCCCC"> to convince hospitals to share</font>
+
+4
+00:00:08,580 --> 00:00:12,000
+<font color="#E5E5E5">anonymized information on their patients</font>
+
+5
+00:00:12,000 --> 00:00:14,400
+<font color="#CCCCCC">and then essentially</font><font color="#E5E5E5"> match that data set</font>
+
+6
+00:00:14,400 --> 00:00:16,830
+with their own data set in order<font color="#CCCCCC"> to</font>
+
+7
+00:00:16,830 --> 00:00:18,930
+<font color="#E5E5E5">offer certain</font><font color="#CCCCCC"> healthcare services to</font>
+
+8
+00:00:18,930 --> 00:00:20,970
+individuals<font color="#CCCCCC"> now facebook asked several</font>
+
+9
+00:00:20,970 --> 00:00:22,949
+major US<font color="#E5E5E5"> hospitals to share this</font>
+
+10
+00:00:22,949 --> 00:00:25,199
+anonymous data about their patients such
+
+11
+00:00:25,199 --> 00:00:26,550
+as<font color="#E5E5E5"> their illnesses and their</font>
+
+12
+00:00:26,550 --> 00:00:28,410
+prescription information<font color="#CCCCCC"> now facebook</font>
+
+13
+00:00:28,410 --> 00:00:30,480
+proposed using a common<font color="#E5E5E5"> computer science</font>
+
+14
+00:00:30,480 --> 00:00:32,098
+technique called hashing to match
+
+15
+00:00:32,098 --> 00:00:34,050
+individuals<font color="#CCCCCC"> who existed</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> both data</font>
+
+16
+00:00:34,050 --> 00:00:36,000
+<font color="#CCCCCC">sets</font><font color="#E5E5E5"> facebook says that the data would</font>
+
+17
+00:00:36,000 --> 00:00:37,710
+<font color="#E5E5E5">have been used only for research</font>
+
+18
+00:00:37,710 --> 00:00:40,410
+<font color="#E5E5E5">conducted by the medical community</font><font color="#CCCCCC"> so i</font>
+
+19
+00:00:40,410 --> 00:00:42,090
+will give you an<font color="#E5E5E5"> example and this is</font>
+
+20
+00:00:42,090 --> 00:00:43,620
+<font color="#E5E5E5">actually similar</font><font color="#CCCCCC"> to an example that</font><font color="#E5E5E5"> a</font>
+
+21
+00:00:43,620 --> 00:00:46,110
+facebook<font color="#E5E5E5"> spokesperson gave to the media</font>
+
+22
+00:00:46,110 --> 00:00:49,289
+so for instance let's say there is<font color="#E5E5E5"> a</font>
+
+23
+00:00:49,289 --> 00:00:51,570
+particular<font color="#CCCCCC"> patient at a hospital who has</font>
+
+24
+00:00:51,570 --> 00:00:55,739
+heart issues and that person<font color="#E5E5E5"> based on</font>
+
+25
+00:00:55,739 --> 00:00:58,230
+<font color="#E5E5E5">the data on facebook is kind of lonely</font>
+
+26
+00:00:58,230 --> 00:00:59,489
+doesn't have a lot of<font color="#CCCCCC"> friends doesn't</font>
+
+27
+00:00:59,489 --> 00:01:02,280
+<font color="#E5E5E5">have many family members essentially</font>
+
+28
+00:01:02,280 --> 00:01:04,500
+what would happen if this<font color="#CCCCCC"> project</font><font color="#E5E5E5"> came</font>
+
+29
+00:01:04,500 --> 00:01:07,680
+to fruition<font color="#E5E5E5"> is the doctor or the health</font>
+
+30
+00:01:07,680 --> 00:01:09,780
+professionals would know<font color="#CCCCCC"> about the lack</font>
+
+31
+00:01:09,780 --> 00:01:11,640
+of loved<font color="#CCCCCC"> ones in this person's</font><font color="#E5E5E5"> life and</font>
+
+32
+00:01:11,640 --> 00:01:13,979
+then offer like a<font color="#E5E5E5"> follow-up to check in</font>
+
+33
+00:01:13,979 --> 00:01:15,600
+on<font color="#E5E5E5"> that person just</font><font color="#CCCCCC"> to make sure he or</font>
+
+34
+00:01:15,600 --> 00:01:17,939
+<font color="#E5E5E5">she is doing well so that's an example</font>
+
+35
+00:01:17,939 --> 00:01:20,939
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> how this data could be used</font><font color="#CCCCCC"> but</font>
+
+36
+00:01:20,939 --> 00:01:24,630
+here's the biggest issue<font color="#E5E5E5"> there was no</font>
+
+37
+00:01:24,630 --> 00:01:27,720
+talk of<font color="#E5E5E5"> consent right and there was no</font>
+
+38
+00:01:27,720 --> 00:01:30,150
+talk of<font color="#E5E5E5"> disclosure or transparency</font><font color="#CCCCCC"> now</font>
+
+39
+00:01:30,150 --> 00:01:32,430
+it was intending to<font color="#E5E5E5"> match up with user</font>
+
+40
+00:01:32,430 --> 00:01:34,049
+data it had collected<font color="#E5E5E5"> and helped the</font>
+
+41
+00:01:34,049 --> 00:01:35,490
+<font color="#E5E5E5">hospital's figure out which patients</font>
+
+42
+00:01:35,490 --> 00:01:36,960
+might need special<font color="#CCCCCC"> care or</font><font color="#E5E5E5"> treatment</font>
+
+43
+00:01:36,960 --> 00:01:38,970
+<font color="#E5E5E5">after the whole Cambridge analytical</font>
+
+44
+00:01:38,970 --> 00:01:41,520
+thing happened<font color="#E5E5E5"> Facebook decided to table</font>
+
+45
+00:01:41,520 --> 00:01:43,439
+<font color="#CCCCCC">this and they claimed that</font><font color="#E5E5E5"> this work has</font>
+
+46
+00:01:43,439 --> 00:01:45,570
+<font color="#CCCCCC">not</font><font color="#E5E5E5"> been progressed past the planning</font>
+
+47
+00:01:45,570 --> 00:01:47,549
+phase and<font color="#CCCCCC"> we have not received shared or</font>
+
+48
+00:01:47,549 --> 00:01:49,619
+analyzed<font color="#CCCCCC"> anyone's data so here's my</font>
+
+49
+00:01:49,619 --> 00:01:51,299
+<font color="#E5E5E5">defense of Facebook first let me explain</font>
+
+50
+00:01:51,299 --> 00:01:53,520
+<font color="#CCCCCC">what I'm</font><font color="#E5E5E5"> not defending them on so when</font>
+
+51
+00:01:53,520 --> 00:01:55,770
+they say oh<font color="#E5E5E5"> no</font><font color="#CCCCCC"> UK</font><font color="#E5E5E5"> it's it's not gonna</font>
+
+52
+00:01:55,770 --> 00:01:57,899
+reveal personal<font color="#E5E5E5"> information but you</font>
+
+53
+00:01:57,899 --> 00:02:00,270
+<font color="#CCCCCC">matched the two</font><font color="#E5E5E5"> records so you know who</font>
+
+54
+00:02:00,270 --> 00:02:02,369
+it is<font color="#E5E5E5"> and in fact even in your</font><font color="#CCCCCC"> own</font>
+
+55
+00:02:02,369 --> 00:02:04,079
+example of sending the nurse over them
+
+56
+00:02:04,079 --> 00:02:06,420
+to help them<font color="#E5E5E5"> how</font><font color="#CCCCCC"> would you know who to</font>
+
+57
+00:02:06,420 --> 00:02:08,389
+send<font color="#E5E5E5"> the nurse</font><font color="#CCCCCC"> to exactly</font>
+
+58
+00:02:08,389 --> 00:02:10,759
+so don't<font color="#E5E5E5"> get me</font><font color="#CCCCCC"> wrong</font><font color="#E5E5E5"> I get it you're</font>
+
+59
+00:02:10,759 --> 00:02:12,050
+gonna know your identity<font color="#CCCCCC"> right</font><font color="#E5E5E5"> you're</font>
+
+60
+00:02:12,050 --> 00:02:14,360
+gonna use it to mark it like at<font color="#E5E5E5"> home</font>
+
+61
+00:02:14,360 --> 00:02:18,980
+<font color="#CCCCCC">care live in Arizona</font><font color="#E5E5E5"> even though the</font>
+
+62
+00:02:18,980 --> 00:02:20,990
+<font color="#CCCCCC">page yeah you know what look you guys</font>
+
+63
+00:02:20,990 --> 00:02:23,150
+are pre-empting my argument and and I
+
+64
+00:02:23,150 --> 00:02:24,770
+might<font color="#E5E5E5"> have a pre-emptive surrender here</font>
+
+65
+00:02:24,770 --> 00:02:29,000
+in a second<font color="#CCCCCC"> but look</font><font color="#E5E5E5"> on the other hand I</font>
+
+66
+00:02:29,000 --> 00:02:31,700
+think<font color="#E5E5E5"> that it could be helpful to the</font>
+
+67
+00:02:31,700 --> 00:02:34,220
+medical community<font color="#CCCCCC"> and maybe I'm being</font>
+
+68
+00:02:34,220 --> 00:02:35,870
+<font color="#CCCCCC">naive here but I'd be a little surprised</font>
+
+69
+00:02:35,870 --> 00:02:37,820
+if<font color="#CCCCCC"> the higher-ups in Facebook</font><font color="#E5E5E5"> didn't</font>
+
+70
+00:02:37,820 --> 00:02:38,930
+think that they were doing some good<font color="#E5E5E5"> in</font>
+
+71
+00:02:38,930 --> 00:02:41,930
+<font color="#CCCCCC">the world</font><font color="#E5E5E5"> and and thought like hey maybe</font>
+
+72
+00:02:41,930 --> 00:02:44,390
+this will earn<font color="#E5E5E5"> us some some you know</font>
+
+73
+00:02:44,390 --> 00:02:47,270
+positive goodwill<font color="#E5E5E5"> and then</font><font color="#CCCCCC"> africaine</font>
+
+74
+00:02:47,270 --> 00:02:48,500
+<font color="#E5E5E5">bridge analytical they're like oh we</font>
+
+75
+00:02:48,500 --> 00:02:49,580
+have<font color="#E5E5E5"> people's private health information</font>
+
+76
+00:02:49,580 --> 00:02:51,950
+<font color="#E5E5E5">no no no no no we did we didn't mean to</font>
+
+77
+00:02:51,950 --> 00:02:54,350
+do that<font color="#E5E5E5"> yeah I am so on I'm naive what</font>
+
+78
+00:02:54,350 --> 00:02:55,880
+<font color="#CCCCCC">do you guys I'm kind</font><font color="#E5E5E5"> of with you</font><font color="#CCCCCC"> in a</font>
+
+79
+00:02:55,880 --> 00:02:58,130
+<font color="#E5E5E5">way a there's Silicon Valley</font><font color="#CCCCCC"> people of</font>
+
+80
+00:02:58,130 --> 00:02:59,180
+course<font color="#CCCCCC"> they think that</font><font color="#E5E5E5"> they're saving</font>
+
+81
+00:02:59,180 --> 00:02:59,690
+<font color="#E5E5E5">the world</font>
+
+82
+00:02:59,690 --> 00:03:03,200
+<font color="#E5E5E5">yeah that's really shocking at all but I</font>
+
+83
+00:03:03,200 --> 00:03:05,420
+<font color="#CCCCCC">think that we genuinely</font><font color="#E5E5E5"> have a problem</font>
+
+84
+00:03:05,420 --> 00:03:07,100
+in<font color="#E5E5E5"> this</font><font color="#CCCCCC"> country</font><font color="#E5E5E5"> where</font><font color="#CCCCCC"> we don't</font><font color="#E5E5E5"> collect</font>
+
+85
+00:03:07,100 --> 00:03:12,709
+enough data<font color="#E5E5E5"> I rot you know in that kind</font>
+
+86
+00:03:12,709 --> 00:03:14,150
+of way<font color="#CCCCCC"> obviously the government</font><font color="#E5E5E5"> does it</font>
+
+87
+00:03:14,150 --> 00:03:15,739
+obviously<font color="#E5E5E5"> these companies do it but we</font>
+
+88
+00:03:15,739 --> 00:03:19,580
+don't<font color="#E5E5E5"> study and research problems on a</font>
+
+89
+00:03:19,580 --> 00:03:21,560
+mass<font color="#CCCCCC"> scale</font><font color="#E5E5E5"> enough in this country and</font>
+
+90
+00:03:21,560 --> 00:03:23,840
+and so of<font color="#CCCCCC"> course we have to</font><font color="#E5E5E5"> find a way</font>
+
+91
+00:03:23,840 --> 00:03:25,489
+to really address<font color="#E5E5E5"> health problems</font>
+
+92
+00:03:25,489 --> 00:03:27,290
+address the problems<font color="#CCCCCC"> of</font><font color="#E5E5E5"> people not</font>
+
+93
+00:03:27,290 --> 00:03:29,390
+having<font color="#CCCCCC"> certain</font><font color="#E5E5E5"> support systems but</font><font color="#CCCCCC"> you</font>
+
+94
+00:03:29,390 --> 00:03:31,280
+<font color="#E5E5E5">still have to ask people</font><font color="#CCCCCC"> you still have</font>
+
+95
+00:03:31,280 --> 00:03:32,870
+to have consent and you can't just
+
+96
+00:03:32,870 --> 00:03:35,510
+collect<font color="#E5E5E5"> it without telling so I look I'm</font>
+
+97
+00:03:35,510 --> 00:03:37,010
+sorry<font color="#E5E5E5"> I just come from a much</font><font color="#CCCCCC"> more</font>
+
+98
+00:03:37,010 --> 00:03:38,959
+pessimistic<font color="#E5E5E5"> position on pretty much</font>
+
+99
+00:03:38,959 --> 00:03:43,340
+<font color="#E5E5E5">everything I understand that</font>
+
+100
+00:03:43,340 --> 00:03:45,320
+look<font color="#E5E5E5"> Facebook's I'm sure they</font><font color="#CCCCCC"> think they</font>
+
+101
+00:03:45,320 --> 00:03:46,640
+have<font color="#CCCCCC"> the best intentions in</font><font color="#E5E5E5"> mind so I'll</font>
+
+102
+00:03:46,640 --> 00:03:47,180
+give them that
+
+103
+00:03:47,180 --> 00:03:49,400
+<font color="#E5E5E5">however</font><font color="#CCCCCC"> Facebook's whole business model</font>
+
+104
+00:03:49,400 --> 00:03:51,230
+is selling our data to advertisers
+
+105
+00:03:51,230 --> 00:03:53,720
+<font color="#CCCCCC">they're doing this so hospitals and</font>
+
+106
+00:03:53,720 --> 00:03:55,190
+<font color="#E5E5E5">healthcare</font><font color="#CCCCCC"> professionals can advertise</font>
+
+107
+00:03:55,190 --> 00:03:56,840
+services to us<font color="#E5E5E5"> that's what this is all</font>
+
+108
+00:03:56,840 --> 00:03:59,390
+about it's not about<font color="#CCCCCC"> offering you know</font>
+
+109
+00:03:59,390 --> 00:04:02,600
+better<font color="#CCCCCC"> health care</font><font color="#E5E5E5"> I I just don't see</font>
+
+110
+00:04:02,600 --> 00:04:04,130
+that<font color="#CCCCCC"> happening I</font><font color="#E5E5E5"> mean we have a huge</font>
+
+111
+00:04:04,130 --> 00:04:06,140
+<font color="#CCCCCC">issue in</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> country with really</font><font color="#E5E5E5"> bad</font>
+
+112
+00:04:06,140 --> 00:04:08,239
+health care already<font color="#CCCCCC"> and it seems like</font>
+
+113
+00:04:08,239 --> 00:04:09,530
+there's a<font color="#E5E5E5"> lot of pushback from the</font>
+
+114
+00:04:09,530 --> 00:04:11,300
+<font color="#E5E5E5">health care community in terms of</font>
+
+115
+00:04:11,300 --> 00:04:12,890
+improving<font color="#E5E5E5"> it I don't think</font><font color="#CCCCCC"> that Facebook</font>
+
+116
+00:04:12,890 --> 00:04:14,180
+is gonna be that puzzle piece<font color="#CCCCCC"> that</font>
+
+117
+00:04:14,180 --> 00:04:16,850
+Facebook<font color="#E5E5E5"> is hiring</font><font color="#CCCCCC"> 10,000 people</font><font color="#E5E5E5"> to</font>
+
+118
+00:04:16,850 --> 00:04:19,010
+monitor<font color="#CCCCCC"> news that is a lot</font><font color="#E5E5E5"> of people</font>
+
+119
+00:04:19,010 --> 00:04:20,298
+that gives you an<font color="#E5E5E5"> idea of the scope of</font>
+
+120
+00:04:20,298 --> 00:04:21,320
+how many<font color="#E5E5E5"> people work</font>
+
+121
+00:04:21,320 --> 00:04:23,540
+so I don't<font color="#CCCCCC"> think that the</font><font color="#E5E5E5"> project</font>
+
+122
+00:04:23,540 --> 00:04:26,450
+managers on<font color="#CCCCCC"> the medical</font><font color="#E5E5E5"> research project</font>
+
+123
+00:04:26,450 --> 00:04:28,070
+are evil<font color="#CCCCCC"> people I know for a fact that</font>
+
+124
+00:04:28,070 --> 00:04:29,900
+<font color="#CCCCCC">people who are are the higher-ups</font><font color="#E5E5E5"> at</font>
+
+125
+00:04:29,900 --> 00:04:31,670
+Facebook are really great<font color="#CCCCCC"> fantastic</font>
+
+126
+00:04:31,670 --> 00:04:33,350
+people<font color="#E5E5E5"> who do want to make a difference</font>
+
+127
+00:04:33,350 --> 00:04:34,940
+in the world<font color="#CCCCCC"> but</font><font color="#E5E5E5"> there's another team</font>
+
+128
+00:04:34,940 --> 00:04:36,470
+that's<font color="#CCCCCC"> gonna monetize this</font><font color="#E5E5E5"> eventually</font>
+
+129
+00:04:36,470 --> 00:04:37,910
+<font color="#E5E5E5">there's another team in charge of</font>
+
+130
+00:04:37,910 --> 00:04:39,830
+protecting<font color="#CCCCCC"> that data and that might fail</font>
+
+131
+00:04:39,830 --> 00:04:41,990
+<font color="#E5E5E5">and this might get into the wrong hands</font>
+
+132
+00:04:41,990 --> 00:04:44,180
+<font color="#CCCCCC">the frustrating thing that drives me</font>
+
+133
+00:04:44,180 --> 00:04:47,150
+<font color="#E5E5E5">absolutely crazy</font><font color="#CCCCCC"> with Zuckerberg and the</font>
+
+134
+00:04:47,150 --> 00:04:50,510
+people in Silicon<font color="#CCCCCC"> Valley</font><font color="#E5E5E5"> is how good</font>
+
+135
+00:04:50,510 --> 00:04:52,970
+they<font color="#CCCCCC"> think they're being and they need</font>
+
+136
+00:04:52,970 --> 00:04:55,580
+like a<font color="#E5E5E5"> shot-caller on their</font><font color="#CCCCCC"> net they</font>
+
+137
+00:04:55,580 --> 00:04:57,170
+don't realize that<font color="#E5E5E5"> they're doing it</font>
+
+138
+00:04:57,170 --> 00:04:59,270
+<font color="#CCCCCC">again and</font><font color="#E5E5E5"> every time there's</font><font color="#CCCCCC"> another</font>
+
+139
+00:04:59,270 --> 00:05:01,490
+apology<font color="#CCCCCC"> they're doing it again</font>
+
+140
+00:05:01,490 --> 00:05:03,350
+<font color="#CCCCCC">you're gonna be</font><font color="#E5E5E5"> like no information will</font>
+
+141
+00:05:03,350 --> 00:05:05,240
+save the world<font color="#E5E5E5"> well you're doing it</font>
+
+142
+00:05:05,240 --> 00:05:07,610
+again<font color="#CCCCCC"> you need to when you have an idea</font>
+
+143
+00:05:07,610 --> 00:05:09,350
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> requires getting</font><font color="#CCCCCC"> information that</font>
+
+144
+00:05:09,350 --> 00:05:11,900
+people<font color="#E5E5E5"> have not necessarily explicitly</font>
+
+145
+00:05:11,900 --> 00:05:14,840
+and knowingly given permission for<font color="#E5E5E5"> you</font>
+
+146
+00:05:14,840 --> 00:05:17,450
+<font color="#CCCCCC">to mine</font><font color="#E5E5E5"> you need to not just</font><font color="#CCCCCC"> take that</font>
+
+147
+00:05:17,450 --> 00:05:19,760
+from their internet profiles<font color="#CCCCCC"> you need to</font>
+
+148
+00:05:19,760 --> 00:05:22,010
+go to their house<font color="#CCCCCC"> and</font><font color="#E5E5E5"> get that</font>
+
+149
+00:05:22,010 --> 00:05:24,260
+<font color="#CCCCCC">information that</font><font color="#E5E5E5"> way so that maybe you</font>
+
+150
+00:05:24,260 --> 00:05:26,300
+<font color="#CCCCCC">can realize just how frickin creepy</font>
+
+151
+00:05:26,300 --> 00:05:28,610
+<font color="#E5E5E5">you're being it</font><font color="#CCCCCC"> is creepy</font><font color="#E5E5E5"> and by the way</font>
+
+152
+00:05:28,610 --> 00:05:30,140
+<font color="#E5E5E5">I mean look what there's a lot of</font>
+
+153
+00:05:30,140 --> 00:05:33,080
+<font color="#CCCCCC">attention placed on</font><font color="#E5E5E5"> Facebook and just</font>
+
+154
+00:05:33,080 --> 00:05:34,490
+<font color="#E5E5E5">think</font><font color="#CCCCCC"> about all the different platforms</font>
+
+155
+00:05:34,490 --> 00:05:37,010
+<font color="#CCCCCC">you use to buy things related to your</font>
+
+156
+00:05:37,010 --> 00:05:39,260
+health<font color="#CCCCCC"> I mean they have that data</font><font color="#E5E5E5"> on you</font>
+
+157
+00:05:39,260 --> 00:05:42,050
+right<font color="#E5E5E5"> I have used Amazon for instance</font><font color="#CCCCCC"> to</font>
+
+158
+00:05:42,050 --> 00:05:45,380
+purchase supplements and so they know
+
+159
+00:05:45,380 --> 00:05:46,880
+what kind<font color="#E5E5E5"> of supplements</font><font color="#CCCCCC"> I like they</font>
+
+160
+00:05:46,880 --> 00:05:48,350
+know what kind<font color="#E5E5E5"> of vitamin deficiencies I</font>
+
+161
+00:05:48,350 --> 00:05:51,050
+have<font color="#E5E5E5"> it yes it's concerning you know we</font>
+
+162
+00:05:51,050 --> 00:05:53,510
+<font color="#E5E5E5">sometimes without really thinking about</font>
+
+163
+00:05:53,510 --> 00:05:57,200
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> give</font><font color="#E5E5E5"> away certain data to companies</font>
+
+164
+00:05:57,200 --> 00:05:59,000
+<font color="#CCCCCC">that have a vested interest in</font><font color="#E5E5E5"> selling</font>
+
+165
+00:05:59,000 --> 00:06:00,230
+<font color="#E5E5E5">that data but I</font><font color="#CCCCCC"> think that's the</font>
+
+166
+00:06:00,230 --> 00:06:02,360
+important thing<font color="#CCCCCC"> here is obviously</font><font color="#E5E5E5"> like</font>
+
+167
+00:06:02,360 --> 00:06:04,520
+we're going through<font color="#CCCCCC"> a shift mentally</font>
+
+168
+00:06:04,520 --> 00:06:06,470
+when it comes to the way that<font color="#CCCCCC"> we look at</font>
+
+169
+00:06:06,470 --> 00:06:07,940
+these tech companies which i think<font color="#E5E5E5"> is</font>
+
+170
+00:06:07,940 --> 00:06:09,260
+<font color="#CCCCCC">very important because we've looked at</font>
+
+171
+00:06:09,260 --> 00:06:11,360
+them as these like benevolent beings for
+
+172
+00:06:11,360 --> 00:06:13,220
+such a long<font color="#E5E5E5"> time</font><font color="#CCCCCC"> because they're</font><font color="#E5E5E5"> leaders</font>
+
+173
+00:06:13,220 --> 00:06:14,810
+in<font color="#CCCCCC"> progress and innovation</font><font color="#E5E5E5"> and</font>
+
+174
+00:06:14,810 --> 00:06:16,300
+technology they're driving us forward
+
+175
+00:06:16,300 --> 00:06:18,980
+<font color="#CCCCCC">but they're trying to</font><font color="#E5E5E5"> make money you</font>
+
+176
+00:06:18,980 --> 00:06:22,190
+know at the<font color="#CCCCCC"> end of the day and we though</font>
+
+177
+00:06:22,190 --> 00:06:25,460
+as the users have just been<font color="#E5E5E5"> doing it</font>
+
+178
+00:06:25,460 --> 00:06:27,380
+willingly<font color="#E5E5E5"> it's not like anyone it's not</font>
+
+179
+00:06:27,380 --> 00:06:28,640
+like there has never been<font color="#E5E5E5"> a story out</font>
+
+180
+00:06:28,640 --> 00:06:31,310
+<font color="#CCCCCC">there</font><font color="#E5E5E5"> telling</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> that all</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> your data</font>
+
+181
+00:06:31,310 --> 00:06:31,840
+is<font color="#E5E5E5"> be</font>
+
+182
+00:06:31,840 --> 00:06:33,280
+<font color="#CCCCCC">collected it's not like you don't</font><font color="#E5E5E5"> have</font>
+
+183
+00:06:33,280 --> 00:06:35,169
+<font color="#CCCCCC">the option to read the</font><font color="#E5E5E5"> terms of service</font>
+
+184
+00:06:35,169 --> 00:06:38,350
+agreement on<font color="#CCCCCC"> everything but we just</font><font color="#E5E5E5"> I</font>
+
+185
+00:06:38,350 --> 00:06:40,810
+understand but I<font color="#E5E5E5"> think that we need</font><font color="#CCCCCC"> to</font>
+
+186
+00:06:40,810 --> 00:06:42,550
+like take<font color="#E5E5E5"> a little bit</font><font color="#CCCCCC"> of responsibility</font>
+
+187
+00:06:42,550 --> 00:06:46,630
+then in in at<font color="#E5E5E5"> least pushing back</font><font color="#CCCCCC"> we've</font>
+
+188
+00:06:46,630 --> 00:06:48,550
+never got the the big pressure put on
+
+189
+00:06:48,550 --> 00:06:51,610
+them to make opting in rather than
+
+190
+00:06:51,610 --> 00:06:53,530
+<font color="#E5E5E5">having to opt out if there's never</font>
+
+191
+00:06:53,530 --> 00:06:55,840
+<font color="#E5E5E5">elections until</font><font color="#CCCCCC"> now right it wasn't</font>
+
+192
+00:06:55,840 --> 00:06:57,370
+until like<font color="#E5E5E5"> right we made it a really big</font>
+
+193
+00:06:57,370 --> 00:06:59,080
+they have<font color="#E5E5E5"> made that</font><font color="#CCCCCC"> change from being</font>
+
+194
+00:06:59,080 --> 00:07:00,580
+<font color="#E5E5E5">like we're</font><font color="#CCCCCC"> just put</font><font color="#E5E5E5"> stuff on</font><font color="#CCCCCC"> our</font>
+
+195
+00:07:00,580 --> 00:07:03,250
+platform to<font color="#E5E5E5"> like okay</font><font color="#CCCCCC"> we will start to</font>
+
+196
+00:07:03,250 --> 00:07:05,139
+try<font color="#E5E5E5"> to make a more active take an active</font>
+
+197
+00:07:05,139 --> 00:07:06,790
+<font color="#CCCCCC">role in</font><font color="#E5E5E5"> it it just</font><font color="#CCCCCC"> thinks they sound</font>
+
+198
+00:07:06,790 --> 00:07:08,800
+like Bruce and<font color="#CCCCCC"> Friday finding</font><font color="#E5E5E5"> Nemo that</font>
+
+199
+00:07:08,800 --> 00:07:12,910
+shark is like consumers are friends not
+
+200
+00:07:12,910 --> 00:07:15,370
+data and then they get a little<font color="#E5E5E5"> sniff of</font>
+
+201
+00:07:15,370 --> 00:07:17,260
+how they<font color="#E5E5E5"> can get the data and then their</font>
+
+202
+00:07:17,260 --> 00:07:18,870
+<font color="#E5E5E5">eyes glaze over and they graciously</font>
+
+203
+00:07:18,870 --> 00:07:21,790
+<font color="#E5E5E5">everyone's information</font><font color="#CCCCCC"> ya know let's</font>
+
+204
+00:07:21,790 --> 00:07:23,710
+just call it<font color="#CCCCCC"> what it is Brett has won</font>
+
+205
+00:07:23,710 --> 00:07:27,280
+the day so I<font color="#E5E5E5"> switched my position to</font>
+
+206
+00:07:27,280 --> 00:07:32,050
+Brett's<font color="#E5E5E5"> - the shotgun</font><font color="#CCCCCC"> hey you're right</font><font color="#E5E5E5"> a</font>
+
+207
+00:07:32,050 --> 00:07:33,610
+<font color="#CCCCCC">lot</font><font color="#E5E5E5"> of people probably wanted to do</font>
+
+208
+00:07:33,610 --> 00:07:35,199
+right<font color="#E5E5E5"> in in that building when they</font>
+
+209
+00:07:35,199 --> 00:07:36,520
+first started<font color="#E5E5E5"> the project you're right</font>
+
+210
+00:07:36,520 --> 00:07:38,680
+they can't resist the data there's no
+
+211
+00:07:38,680 --> 00:07:40,780
+way they're<font color="#E5E5E5"> gonna go for a system where</font>
+
+212
+00:07:40,780 --> 00:07:42,580
+you<font color="#CCCCCC"> have to opt in instead</font><font color="#E5E5E5"> because that</font>
+
+213
+00:07:42,580 --> 00:07:44,560
+would cost them billions upon billions
+
+214
+00:07:44,560 --> 00:07:48,820
+of dollars<font color="#CCCCCC"> people right no and it's that</font>
+
+215
+00:07:48,820 --> 00:07:50,530
+makes a giant<font color="#CCCCCC"> difference in how much</font>
+
+216
+00:07:50,530 --> 00:07:52,419
+data you have and<font color="#E5E5E5"> data is their business</font>
+
+217
+00:07:52,419 --> 00:07:54,789
+model and finally<font color="#E5E5E5"> there's apparently a</font>
+
+218
+00:07:54,789 --> 00:07:58,050
+building<font color="#CCCCCC"> 8 in Facebook where they do</font>
+
+219
+00:07:58,050 --> 00:08:03,240
+experimental projects<font color="#E5E5E5"> sounds great</font><font color="#CCCCCC"> ok</font>
+
+220
+00:08:06,990 --> 00:08:12,340
+let the conspiracy theories begin<font color="#CCCCCC"> don't</font>
+
+221
+00:08:12,340 --> 00:08:13,930
+do that by the<font color="#E5E5E5"> way</font><font color="#CCCCCC"> don't do that don't</font>
+
+222
+00:08:13,930 --> 00:08:15,280
+<font color="#E5E5E5">do the shot-caller and don't do the</font>
+
+223
+00:08:15,280 --> 00:08:16,990
+conspiracy theories<font color="#CCCCCC"> you just watch the</font>
+
+224
+00:08:16,990 --> 00:08:18,130
+video by<font color="#CCCCCC"> the Young Turks</font>
+
+225
+00:08:18,130 --> 00:08:20,289
+home of<font color="#CCCCCC"> the</font><font color="#E5E5E5"> revolution if you'd like to</font>
+
+226
+00:08:20,289 --> 00:08:21,970
+get a<font color="#E5E5E5"> lot more than that</font><font color="#CCCCCC"> get the full</font>
+
+227
+00:08:21,970 --> 00:08:23,500
+show by<font color="#E5E5E5"> becoming a member</font>
+
+228
+00:08:23,500 --> 00:00:00,000
+TYT Network<font color="#E5E5E5"> comm slash join</font>
+

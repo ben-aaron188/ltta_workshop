@@ -1,0 +1,324 @@
+1
+00:00:02,220 --> 00:00:04,059
+WolframAlpha is one of easily<font color="#E5E5E5"> the</font>
+
+2
+00:00:04,059 --> 00:00:05,649
+coolest<font color="#E5E5E5"> sites on the</font><font color="#CCCCCC"> internet</font><font color="#E5E5E5"> and we're</font>
+
+3
+00:00:05,649 --> 00:00:06,880
+going to<font color="#CCCCCC"> look at one really interesting</font>
+
+4
+00:00:06,880 --> 00:00:08,889
+<font color="#CCCCCC">aspect of it</font><font color="#E5E5E5"> today which</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> how you can</font>
+
+5
+00:00:08,889 --> 00:00:11,139
+<font color="#CCCCCC">use</font><font color="#E5E5E5"> Wolfram Alpha to analyze stock data</font>
+
+6
+00:00:11,139 --> 00:00:13,990
+to get<font color="#E5E5E5"> a snapshot of a company any sort</font>
+
+7
+00:00:13,990 --> 00:00:15,400
+of basic information<font color="#CCCCCC"> that you need about</font>
+
+8
+00:00:15,400 --> 00:00:17,560
+it so first we look<font color="#CCCCCC"> at Disney which is</font>
+
+9
+00:00:17,560 --> 00:00:20,260
+on the New York<font color="#E5E5E5"> Stock</font><font color="#CCCCCC"> Exchange so we</font>
+
+10
+00:00:20,260 --> 00:00:23,560
+type in<font color="#E5E5E5"> NY a seat : is which is their</font>
+
+11
+00:00:23,560 --> 00:00:25,060
+ticker symbol and then we get a<font color="#E5E5E5"> whole</font>
+
+12
+00:00:25,060 --> 00:00:27,160
+bunch<font color="#CCCCCC"> of</font><font color="#E5E5E5"> information about for</font><font color="#CCCCCC"> instance</font>
+
+13
+00:00:27,160 --> 00:00:28,539
+right up top<font color="#E5E5E5"> we can</font><font color="#CCCCCC"> see what their</font>
+
+14
+00:00:28,539 --> 00:00:32,049
+latest trade is right now<font color="#CCCCCC"> 63</font><font color="#E5E5E5"> 97 as of 45</font>
+
+15
+00:00:32,049 --> 00:00:34,540
+<font color="#E5E5E5">minutes ago you can see how</font><font color="#CCCCCC"> how much</font>
+
+16
+00:00:34,540 --> 00:00:35,920
+they're down from the last<font color="#CCCCCC"> close what</font>
+
+17
+00:00:35,920 --> 00:00:37,450
+their previous<font color="#E5E5E5"> close was but they opened</font>
+
+18
+00:00:37,450 --> 00:00:39,400
+<font color="#CCCCCC">add any of that</font><font color="#E5E5E5"> information that</font><font color="#CCCCCC"> you</font>
+
+19
+00:00:39,400 --> 00:00:40,810
+need about<font color="#CCCCCC"> the rudimentary</font><font color="#E5E5E5"> stock data</font>
+
+20
+00:00:40,810 --> 00:00:42,430
+<font color="#E5E5E5">you can also get a lot of cool</font>
+
+21
+00:00:42,430 --> 00:00:43,660
+<font color="#CCCCCC">information about the company</font>
+
+22
+00:00:43,660 --> 00:00:45,580
+fundamentals<font color="#CCCCCC"> you can get market cap</font>
+
+23
+00:00:45,580 --> 00:00:47,950
+revenue to employees<font color="#E5E5E5"> you can see how</font>
+
+24
+00:00:47,950 --> 00:00:49,180
+much they're making<font color="#E5E5E5"> their employees work</font>
+
+25
+00:00:49,180 --> 00:00:51,010
+for<font color="#E5E5E5"> them revenue per employee</font><font color="#CCCCCC"> you can</font>
+
+26
+00:00:51,010 --> 00:00:52,270
+<font color="#CCCCCC">also</font><font color="#E5E5E5"> take a look</font><font color="#CCCCCC"> at</font><font color="#E5E5E5"> their balance sheet</font>
+
+27
+00:00:52,270 --> 00:00:54,340
+annual or quarterly to get a nice little
+
+28
+00:00:54,340 --> 00:00:55,600
+snapshot of what<font color="#CCCCCC"> the</font><font color="#E5E5E5"> company is</font>
+
+29
+00:00:55,600 --> 00:00:59,290
+<font color="#E5E5E5">performing it you can also go down to</font>
+
+30
+00:00:59,290 --> 00:01:02,260
+the income statement<font color="#CCCCCC"> get the quarterly</font>
+
+31
+00:01:02,260 --> 00:01:03,610
+income<font color="#E5E5E5"> statement any kind</font><font color="#CCCCCC"> of data that</font>
+
+32
+00:01:03,610 --> 00:01:05,019
+<font color="#E5E5E5">you need from</font><font color="#CCCCCC"> that you can take a look</font>
+
+33
+00:01:05,019 --> 00:01:07,680
+<font color="#E5E5E5">at the cash flow statement</font>
+
+34
+00:01:13,500 --> 00:01:16,240
+and just a<font color="#E5E5E5"> really good picture of how</font>
+
+35
+00:01:16,240 --> 00:01:19,030
+the company<font color="#CCCCCC"> is doing</font><font color="#E5E5E5"> so you can also</font>
+
+36
+00:01:19,030 --> 00:01:20,680
+take<font color="#CCCCCC"> a look at</font><font color="#E5E5E5"> how the returns are doing</font>
+
+37
+00:01:20,680 --> 00:01:22,930
+for instance<font color="#E5E5E5"> Disney's up 30 percent</font><font color="#CCCCCC"> over</font>
+
+38
+00:01:22,930 --> 00:01:25,720
+<font color="#E5E5E5">the year</font><font color="#CCCCCC"> over</font><font color="#E5E5E5"> the five year it's up 118</font>
+
+39
+00:01:25,720 --> 00:01:27,939
+percent over the day it's<font color="#E5E5E5"> not doing</font><font color="#CCCCCC"> so</font>
+
+40
+00:01:27,939 --> 00:01:30,189
+well<font color="#E5E5E5"> you can do price</font><font color="#CCCCCC"> history</font><font color="#E5E5E5"> you can go</font>
+
+41
+00:01:30,189 --> 00:01:33,039
+as far as<font color="#CCCCCC"> thirty</font><font color="#E5E5E5"> years with Disney you</font>
+
+42
+00:01:33,039 --> 00:01:34,600
+can also take a<font color="#E5E5E5"> look at analyst ratings</font>
+
+43
+00:01:34,600 --> 00:01:35,920
+right now analysts are rating at a
+
+44
+00:01:35,920 --> 00:01:37,420
+moderate<font color="#CCCCCC"> bot you can also get a</font>
+
+45
+00:01:37,420 --> 00:01:39,280
+<font color="#E5E5E5">breakdown of what those analysts are</font>
+
+46
+00:01:39,280 --> 00:01:41,470
+saying<font color="#CCCCCC"> about it</font><font color="#E5E5E5"> so 12 strong by</font><font color="#CCCCCC"> nine</font>
+
+47
+00:01:41,470 --> 00:01:44,440
+hold three moderate by either way
+
+48
+00:01:44,440 --> 00:01:46,780
+<font color="#E5E5E5">looking good you can take a look at</font>
+
+49
+00:01:46,780 --> 00:01:47,950
+<font color="#CCCCCC">performance comparisons against</font>
+
+50
+00:01:47,950 --> 00:01:50,049
+competitors<font color="#E5E5E5"> like Time Warner</font><font color="#CCCCCC"> Cable's CBS</font>
+
+51
+00:01:50,049 --> 00:01:51,789
+<font color="#E5E5E5">you can also take a look</font><font color="#CCCCCC"> at</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> how it's</font>
+
+52
+00:01:51,789 --> 00:01:53,470
+<font color="#CCCCCC">doing against the rest of</font><font color="#E5E5E5"> the S&P 500</font>
+
+53
+00:01:53,470 --> 00:01:56,350
+<font color="#E5E5E5">against bonds or its t-bills</font><font color="#CCCCCC"> so we can</font>
+
+54
+00:01:56,350 --> 00:01:58,659
+see<font color="#E5E5E5"> that Disney is</font><font color="#CCCCCC"> doing pretty good</font>
+
+55
+00:01:58,659 --> 00:02:00,369
+it's not doing anywhere near as well
+
+56
+00:02:00,369 --> 00:02:02,560
+<font color="#CCCCCC">with realized</font><font color="#E5E5E5"> return as Time Warner</font>
+
+57
+00:02:02,560 --> 00:02:04,149
+Cable or CBS but it's also a lot<font color="#E5E5E5"> more</font>
+
+58
+00:02:04,149 --> 00:02:06,909
+<font color="#E5E5E5">stable you can see how these stocks are</font>
+
+59
+00:02:06,909 --> 00:02:08,500
+correlated you can get daily return
+
+60
+00:02:08,500 --> 00:02:10,090
+analysis and it also has a ton<font color="#CCCCCC"> of</font>
+
+61
+00:02:10,090 --> 00:02:11,980
+<font color="#CCCCCC">projection so that you can take a look</font>
+
+62
+00:02:11,980 --> 00:02:13,360
+<font color="#E5E5E5">at to see what folks are thinking it's</font>
+
+63
+00:02:13,360 --> 00:02:16,209
+gonna look like you can take a look<font color="#E5E5E5"> at</font>
+
+64
+00:02:16,209 --> 00:02:18,040
+the<font color="#CCCCCC"> daily returns against the</font><font color="#E5E5E5"> S&P 500</font>
+
+65
+00:02:18,040 --> 00:02:20,079
+<font color="#E5E5E5">again it's relatively normal stock it's</font>
+
+66
+00:02:20,079 --> 00:02:22,900
+doing some of that<font color="#CCCCCC"> or somewhat worse you</font>
+
+67
+00:02:22,900 --> 00:02:24,549
+can<font color="#CCCCCC"> get information just basic location</font>
+
+68
+00:02:24,549 --> 00:02:27,100
+<font color="#E5E5E5">website things like that logo but most</font>
+
+69
+00:02:27,100 --> 00:02:28,390
+importantly you can also take a<font color="#CCCCCC"> look at</font>
+
+70
+00:02:28,390 --> 00:02:30,310
+who the<font color="#CCCCCC"> offices the company are</font><font color="#E5E5E5"> you can</font>
+
+71
+00:02:30,310 --> 00:02:31,480
+get a<font color="#E5E5E5"> detailed breakdown</font><font color="#CCCCCC"> of who's</font>
+
+72
+00:02:31,480 --> 00:02:33,280
+running the show and you<font color="#E5E5E5"> can also see</font>
+
+73
+00:02:33,280 --> 00:02:34,870
+how much skin of the game they<font color="#CCCCCC"> have you</font>
+
+74
+00:02:34,870 --> 00:02:37,630
+can see that Robert a Iger<font color="#CCCCCC"> controls 1.6</font>
+
+75
+00:02:37,630 --> 00:02:39,730
+million shares which is a little less
+
+76
+00:02:39,730 --> 00:02:43,600
+<font color="#CCCCCC">than 0.1%</font><font color="#E5E5E5"> of the company but is worth 75</font>
+
+77
+00:02:43,600 --> 00:02:45,730
+million so you can use<font color="#E5E5E5"> it for any</font>
+
+78
+00:02:45,730 --> 00:02:47,620
+company<font color="#E5E5E5"> you can look at any</font><font color="#CCCCCC"> kind of bond</font>
+
+79
+00:02:47,620 --> 00:02:49,630
+performance<font color="#E5E5E5"> you can do a ton of cool</font>
+
+80
+00:02:49,630 --> 00:02:51,549
+financial data analysis using<font color="#E5E5E5"> Wolfram</font>
+
+81
+00:02:51,549 --> 00:00:00,000
+Alpha
+

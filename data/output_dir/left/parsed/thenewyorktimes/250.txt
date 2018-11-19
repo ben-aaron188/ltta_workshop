@@ -1,0 +1,97 @@
+There’s Bitcoin.
+There’s Litecoin.
+There’s Ethereum.
+So just what is cryptocurrency,
+and how does it work?
+Essentially, it’s digital money
+that’s bought and sold online.
+There’s no bills or coins.
+It’s not based on
+another asset like gold.
+And it doesn’t go
+through traditional
+financial institutions
+like banks.
+Instead, these
+currencies operate
+in a completely
+decentralized system
+that uses so-called
+blockchain technology
+to track transactions.
+To see how this works,
+let’s look at how
+you’d buy something
+with cryptocurrency.
+Say that Alice wants
+to buy a bike from Dan
+using Bitcoin, her
+cryptocurrency of choice.
+Alice begins by logging
+into her Bitcoin wallet
+with a private key,
+a unique combination
+of letters and numbers.
+With a traditional
+financial transaction,
+the exchanges get sent
+to banks on each side
+who record the money being
+subtracted from one account
+and added to another.
+But remember,
+in this scenario,
+there are no banks
+or middlemen.
+Instead, Alice’s transaction
+is shared with everyone
+in the Bitcoin network.
+These networked computers
+add Alice’s transaction
+to a shared list of recent
+transactions, known as a block.
+Every 10 minutes,
+the newest block
+of transactions is
+added on, or chained,
+to all the previous blocks.
+That’s how you get
+a blockchain.
+To ensure that each
+block of transactions
+on the chain is verified,
+a subset of Bitcoin’s
+network joins a race
+to solve a difficult
+math puzzle.
+And if they solve
+it first, their record
+of the block of transactions
+becomes the official record.
+They’re rewarded with
+Bitcoins of their own,
+and the network gets a
+new block on the chain.
+This entire process
+is known as mining.
+But instead of
+chipping away at rock,
+you’re solving
+complex puzzles.
+The fact that many
+computers are competing
+to verify a block ensures
+that no single computer
+can monopolize
+the Bitcoin market.
+To ensure the competition
+stays fair and evenly timed,
+the puzzle becomes harder
+when more computers join in.
+The Bitcoin protocol says
+mining will continue
+until there are 21 million
+Bitcoins in existence.
+That’s set to happen
+around 2140 —
+if Bitcoin lasts that long.

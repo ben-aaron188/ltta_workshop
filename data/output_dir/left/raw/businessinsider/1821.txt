@@ -1,0 +1,132 @@
+1
+00:00:03,620 --> 00:00:06,560
+let's say you have a really big file
+
+2
+00:00:06,560 --> 00:00:10,469
+like a<font color="#E5E5E5"> 45 gigabyte QuickTime movie but</font>
+
+3
+00:00:10,469 --> 00:00:12,420
+you need<font color="#E5E5E5"> to move from one</font><font color="#CCCCCC"> MacBook to</font>
+
+4
+00:00:12,420 --> 00:00:15,030
+another<font color="#E5E5E5"> Apple Computer</font><font color="#CCCCCC"> a file that big</font>
+
+5
+00:00:15,030 --> 00:00:17,520
+exceeds the<font color="#E5E5E5"> size limit of most free file</font>
+
+6
+00:00:17,520 --> 00:00:19,920
+transfer services and uploading via
+
+7
+00:00:19,920 --> 00:00:22,529
+<font color="#E5E5E5">Dropbox could take forever</font><font color="#CCCCCC"> seems like</font>
+
+8
+00:00:22,529 --> 00:00:24,390
+your only<font color="#E5E5E5"> option is</font><font color="#CCCCCC"> to upload the file</font>
+
+9
+00:00:24,390 --> 00:00:26,820
+to<font color="#E5E5E5"> an</font><font color="#CCCCCC"> external hard drive then</font><font color="#E5E5E5"> transfer</font>
+
+10
+00:00:26,820 --> 00:00:28,650
+the file from<font color="#E5E5E5"> the</font><font color="#CCCCCC"> external hard drive to</font>
+
+11
+00:00:28,650 --> 00:00:31,289
+<font color="#E5E5E5">the other Mac but there is a way to cut</font>
+
+12
+00:00:31,289 --> 00:00:33,480
+<font color="#E5E5E5">out the middleman turning the macbook</font>
+
+13
+00:00:33,480 --> 00:00:35,969
+itself into an external<font color="#E5E5E5"> hard drive</font>
+
+14
+00:00:35,969 --> 00:00:38,850
+<font color="#E5E5E5">it's called target</font><font color="#CCCCCC"> disc mode and it's as</font>
+
+15
+00:00:38,850 --> 00:00:41,460
+<font color="#E5E5E5">easy as pushing one button</font><font color="#CCCCCC"> make sure the</font>
+
+16
+00:00:41,460 --> 00:00:43,290
+<font color="#CCCCCC">MacBook from which you want to transfer</font>
+
+17
+00:00:43,290 --> 00:00:45,930
+the file is turned off<font color="#E5E5E5"> before</font><font color="#CCCCCC"> you turn</font>
+
+18
+00:00:45,930 --> 00:00:48,390
+on the<font color="#CCCCCC"> macbook press and hold the T key</font>
+
+19
+00:00:48,390 --> 00:00:50,760
+then<font color="#CCCCCC"> press the power key until</font><font color="#E5E5E5"> you hear</font>
+
+20
+00:00:50,760 --> 00:00:54,539
+it<font color="#E5E5E5"> turn on you should see a thunderbolt</font>
+
+21
+00:00:54,539 --> 00:00:57,059
+icon on the<font color="#CCCCCC"> screen</font><font color="#E5E5E5"> that means target</font>
+
+22
+00:00:57,059 --> 00:00:59,340
+<font color="#CCCCCC">disk mode is enabled</font><font color="#E5E5E5"> then using a</font>
+
+23
+00:00:59,340 --> 00:01:01,230
+<font color="#CCCCCC">Thunderbolt cable connect the computer</font>
+
+24
+00:01:01,230 --> 00:01:02,730
+that's in target<font color="#CCCCCC"> disk mode to the</font>
+
+25
+00:01:02,730 --> 00:01:04,589
+destination computer<font color="#CCCCCC"> once you're</font>
+
+26
+00:01:04,589 --> 00:01:06,840
+connected<font color="#CCCCCC"> you should see an icon labeled</font>
+
+27
+00:01:06,840 --> 00:01:08,820
+<font color="#E5E5E5">Macintosh HD on the destination</font>
+
+28
+00:01:08,820 --> 00:01:11,310
+<font color="#E5E5E5">computers desktop now open that folder</font>
+
+29
+00:01:11,310 --> 00:01:14,220
+<font color="#E5E5E5">select your file then drag it or copy</font>
+
+30
+00:01:14,220 --> 00:01:15,630
+and<font color="#E5E5E5"> paste it</font><font color="#CCCCCC"> in to</font><font color="#E5E5E5"> your desired</font>
+
+31
+00:01:15,630 --> 00:01:17,670
+destination<font color="#CCCCCC"> remember upon completion</font>
+
+32
+00:01:17,670 --> 00:01:18,990
+don't forget to safely<font color="#CCCCCC"> eject your</font>
+
+33
+00:01:18,990 --> 00:00:00,000
+<font color="#E5E5E5">hardware</font>
+

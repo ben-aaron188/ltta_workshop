@@ -1,0 +1,36 @@
+1
+00:00:00,030 --> 00:00:20,070
+I'm Seri<font color="#E5E5E5"> your virtual assistant I'm Seri</font>
+
+2
+00:00:20,070 --> 00:00:23,640
+<font color="#E5E5E5">your virtual assistant</font><font color="#CCCCCC"> I'm sorry your</font>
+
+3
+00:00:23,640 --> 00:00:26,910
+virtual assistant<font color="#E5E5E5"> I'm Seri</font><font color="#CCCCCC"> your virtual</font>
+
+4
+00:00:26,910 --> 00:00:29,880
+assistant I'm Seri<font color="#E5E5E5"> your virtual</font>
+
+5
+00:00:29,880 --> 00:00:32,640
+assistant I'm Seri<font color="#CCCCCC"> your virtual</font>
+
+6
+00:00:32,640 --> 00:00:35,370
+assistant<font color="#E5E5E5"> I'm Seri your virtual</font>
+
+7
+00:00:35,370 --> 00:00:38,250
+assistant<font color="#E5E5E5"> I'm Seri</font><font color="#CCCCCC"> your virtual</font>
+
+8
+00:00:38,250 --> 00:00:40,559
+assistant<font color="#E5E5E5"> I'm Seri your virtual</font>
+
+9
+00:00:40,559 --> 00:00:00,000
+assistant
+

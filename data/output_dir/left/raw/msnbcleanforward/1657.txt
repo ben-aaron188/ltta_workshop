@@ -1,0 +1,628 @@
+1
+00:00:00,000 --> 00:00:01,620
+our digital enemies are taking advantage
+
+2
+00:00:01,620 --> 00:00:04,620
+<font color="#CCCCCC">of all of</font><font color="#E5E5E5"> us they are exploiting our</font>
+
+3
+00:00:04,620 --> 00:00:07,649
+open society to steal to manipulate to
+
+4
+00:00:07,649 --> 00:00:10,830
+intimidate to<font color="#E5E5E5"> coerce to disrupt and to</font>
+
+5
+00:00:10,830 --> 00:00:13,410
+undermine we are in a crisis<font color="#CCCCCC"> mode the</font>
+
+6
+00:00:13,410 --> 00:00:17,130
+<font color="#E5E5E5">cat5 hurricane has been forecast</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> now</font>
+
+7
+00:00:17,130 --> 00:00:20,070
+we must<font color="#E5E5E5"> prepare that of course was</font>
+
+8
+00:00:20,070 --> 00:00:21,810
+<font color="#CCCCCC">homeland security secretary Kirsten</font>
+
+9
+00:00:21,810 --> 00:00:24,449
+<font color="#CCCCCC">Nielsen warning</font><font color="#E5E5E5"> the next big attack on</font>
+
+10
+00:00:24,449 --> 00:00:25,830
+the United<font color="#CCCCCC"> States could come</font><font color="#E5E5E5"> from</font>
+
+11
+00:00:25,830 --> 00:00:28,260
+computers not<font color="#E5E5E5"> airplanes and we're</font>
+
+12
+00:00:28,260 --> 00:00:29,699
+<font color="#E5E5E5">already seeing it happen</font>
+
+13
+00:00:29,699 --> 00:00:32,159
+the DHS<font color="#E5E5E5"> says last year Russia attacked</font>
+
+14
+00:00:32,159 --> 00:00:35,250
+the<font color="#CCCCCC"> u.s. energy grid in an operation so</font>
+
+15
+00:00:35,250 --> 00:00:37,559
+successful<font color="#E5E5E5"> hackers had the ability to</font>
+
+16
+00:00:37,559 --> 00:00:40,290
+cause<font color="#E5E5E5"> widespread blackouts let's take a</font>
+
+17
+00:00:40,290 --> 00:00:42,570
+look at how it<font color="#E5E5E5"> all unfolded officials</font>
+
+18
+00:00:42,570 --> 00:00:44,520
+say the hackers targeted<font color="#E5E5E5"> the electrical</font>
+
+19
+00:00:44,520 --> 00:00:46,559
+grid<font color="#E5E5E5"> and the nuclear power system as</font>
+
+20
+00:00:46,559 --> 00:00:49,200
+well as critical commercial<font color="#E5E5E5"> water</font>
+
+21
+00:00:49,200 --> 00:00:51,329
+aviation and manufacturing facilities
+
+22
+00:00:51,329 --> 00:00:53,610
+<font color="#CCCCCC">they broke into</font><font color="#E5E5E5"> the networks in two</font>
+
+23
+00:00:53,610 --> 00:00:54,090
+phases
+
+24
+00:00:54,090 --> 00:00:56,489
+first<font color="#E5E5E5"> they attacked smaller trusted</font>
+
+25
+00:00:56,489 --> 00:00:58,320
+<font color="#CCCCCC">third-party</font><font color="#E5E5E5"> businesses that had a</font>
+
+26
+00:00:58,320 --> 00:01:00,239
+relationship<font color="#E5E5E5"> with</font><font color="#CCCCCC"> the bigger intended</font>
+
+27
+00:01:00,239 --> 00:01:02,699
+targets<font color="#E5E5E5"> the hackers did this by sending</font>
+
+28
+00:01:02,699 --> 00:01:05,220
+<font color="#E5E5E5">fake emails the trick users into giving</font>
+
+29
+00:01:05,220 --> 00:01:07,500
+up confidential information<font color="#CCCCCC"> they altered</font>
+
+30
+00:01:07,500 --> 00:01:09,930
+trusted trusted<font color="#CCCCCC"> energy websites to</font>
+
+31
+00:01:09,930 --> 00:01:12,360
+obtain usernames and passwords<font color="#CCCCCC"> they also</font>
+
+32
+00:01:12,360 --> 00:01:14,580
+sent malicious documents<font color="#E5E5E5"> which when</font>
+
+33
+00:01:14,580 --> 00:01:16,680
+opened<font color="#CCCCCC"> gave hackers access to the</font>
+
+34
+00:01:16,680 --> 00:01:18,869
+victims computers<font color="#E5E5E5"> that brings us to</font>
+
+35
+00:01:18,869 --> 00:01:21,299
+phase<font color="#CCCCCC"> 2 are you scared yet</font><font color="#E5E5E5"> attacking the</font>
+
+36
+00:01:21,299 --> 00:01:23,939
+primary targets<font color="#E5E5E5"> using fake accounts set</font>
+
+37
+00:01:23,939 --> 00:01:26,729
+<font color="#CCCCCC">up already the hackers sent malware to</font>
+
+38
+00:01:26,729 --> 00:01:29,070
+the new victims<font color="#E5E5E5"> to gain remote access to</font>
+
+39
+00:01:29,070 --> 00:01:31,860
+their network<font color="#CCCCCC"> DHS says at</font><font color="#E5E5E5"> that point the</font>
+
+40
+00:01:31,860 --> 00:01:34,200
+hackers objective was reconnaissance<font color="#E5E5E5"> and</font>
+
+41
+00:01:34,200 --> 00:01:36,000
+information gathering<font color="#CCCCCC"> about a plant's</font>
+
+42
+00:01:36,000 --> 00:01:38,100
+control systems<font color="#E5E5E5"> and the really scary</font>
+
+43
+00:01:38,100 --> 00:01:41,250
+part<font color="#E5E5E5"> in multiple</font><font color="#CCCCCC"> instances the hackers</font>
+
+44
+00:01:41,250 --> 00:01:43,320
+<font color="#CCCCCC">were able</font><font color="#E5E5E5"> to access workstations and</font>
+
+45
+00:01:43,320 --> 00:01:45,810
+servers<font color="#E5E5E5"> but there was no</font><font color="#CCCCCC"> indication that</font>
+
+46
+00:01:45,810 --> 00:01:49,290
+any sabotage<font color="#E5E5E5"> existed recently we learned</font>
+
+47
+00:01:49,290 --> 00:01:51,240
+that the hackers had the ability to
+
+48
+00:01:51,240 --> 00:01:53,850
+cause the blackouts<font color="#E5E5E5"> one DHS official</font>
+
+49
+00:01:53,850 --> 00:01:56,159
+tells reporters<font color="#E5E5E5"> quote they got to the</font>
+
+50
+00:01:56,159 --> 00:01:57,299
+point<font color="#E5E5E5"> where they could have thrown</font>
+
+51
+00:01:57,299 --> 00:01:59,820
+switches and disrupted<font color="#E5E5E5"> power flows</font>
+
+52
+00:01:59,820 --> 00:02:02,430
+<font color="#CCCCCC">joining me now Axios</font><font color="#E5E5E5"> deputy editor Dave</font>
+
+53
+00:02:02,430 --> 00:02:03,810
+Lawler who wrote<font color="#E5E5E5"> about the cyber</font>
+
+54
+00:02:03,810 --> 00:02:06,659
+security<font color="#E5E5E5"> threat Dave this is a very</font>
+
+55
+00:02:06,659 --> 00:02:07,920
+<font color="#E5E5E5">scary story</font>
+
+56
+00:02:07,920 --> 00:02:11,340
+if the hackers had access to throw the
+
+57
+00:02:11,340 --> 00:02:13,120
+<font color="#E5E5E5">switch and sabotage</font>
+
+58
+00:02:13,120 --> 00:02:16,959
+<font color="#CCCCCC">powerplants</font><font color="#E5E5E5"> why didn't they experts have</font>
+
+59
+00:02:16,959 --> 00:02:18,549
+told us to look<font color="#E5E5E5"> at this almost like a</font>
+
+60
+00:02:18,549 --> 00:02:20,799
+nuclear deterrent<font color="#CCCCCC"> they kind</font><font color="#E5E5E5"> of want us</font>
+
+61
+00:02:20,799 --> 00:02:23,260
+to know<font color="#E5E5E5"> they have this capability</font><font color="#CCCCCC"> such</font>
+
+62
+00:02:23,260 --> 00:02:24,790
+that you know when they intervene in<font color="#E5E5E5"> our</font>
+
+63
+00:02:24,790 --> 00:02:26,530
+elections or they do things<font color="#E5E5E5"> that we</font>
+
+64
+00:02:26,530 --> 00:02:29,140
+<font color="#E5E5E5">don't like</font><font color="#CCCCCC"> our capacity to respond to</font>
+
+65
+00:02:29,140 --> 00:02:30,970
+that is hampered by the fact<font color="#CCCCCC"> that we</font>
+
+66
+00:02:30,970 --> 00:02:32,500
+know they have this capability<font color="#E5E5E5"> to</font>
+
+67
+00:02:32,500 --> 00:02:36,220
+<font color="#CCCCCC">shutdown to cause</font><font color="#E5E5E5"> blackouts in cities</font><font color="#CCCCCC"> -</font>
+
+68
+00:02:36,220 --> 00:02:37,959
+<font color="#CCCCCC">Cod - you know disrupt as you said</font>
+
+69
+00:02:37,959 --> 00:02:39,879
+critical infrastructure<font color="#CCCCCC"> I mean imagine</font>
+
+70
+00:02:39,879 --> 00:02:42,190
+if<font color="#E5E5E5"> the power went</font><font color="#CCCCCC"> out in</font><font color="#E5E5E5"> the state of</font>
+
+71
+00:02:42,190 --> 00:02:45,010
+<font color="#E5E5E5">Maine in the month of January all the</font>
+
+72
+00:02:45,010 --> 00:02:46,540
+lives that<font color="#E5E5E5"> could be at risk</font><font color="#CCCCCC"> I know that</font>
+
+73
+00:02:46,540 --> 00:02:48,489
+you interviewed<font color="#E5E5E5"> a few top intelligence</font>
+
+74
+00:02:48,489 --> 00:02:51,160
+officials and specifically asked which
+
+75
+00:02:51,160 --> 00:02:54,250
+global threat<font color="#E5E5E5"> worried them the most what</font>
+
+76
+00:02:54,250 --> 00:02:56,530
+is keeping<font color="#E5E5E5"> them up at night right so</font>
+
+77
+00:02:56,530 --> 00:02:58,510
+this is<font color="#E5E5E5"> former CIA directors directors</font>
+
+78
+00:02:58,510 --> 00:03:00,159
+of<font color="#E5E5E5"> national intelligence top White House</font>
+
+79
+00:03:00,159 --> 00:03:02,140
+<font color="#CCCCCC">advisors on national security we asked</font>
+
+80
+00:03:02,140 --> 00:03:03,909
+all of<font color="#E5E5E5"> them</font><font color="#CCCCCC"> what's the biggest threat</font>
+
+81
+00:03:03,909 --> 00:03:06,970
+<font color="#E5E5E5">and more than half said a massive cyber</font>
+
+82
+00:03:06,970 --> 00:03:09,609
+<font color="#E5E5E5">attack David Petraeus compared it to the</font>
+
+83
+00:03:09,609 --> 00:03:11,140
+weapon of mass destruction of<font color="#E5E5E5"> cyber</font>
+
+84
+00:03:11,140 --> 00:03:13,030
+<font color="#E5E5E5">attacks and he referenced this idea of</font>
+
+85
+00:03:13,030 --> 00:03:14,920
+tampering with the electric grid<font color="#E5E5E5"> and</font>
+
+86
+00:03:14,920 --> 00:03:16,930
+<font color="#E5E5E5">causing prolonged blackouts that will</font>
+
+87
+00:03:16,930 --> 00:03:18,880
+put lives at risk<font color="#CCCCCC"> that</font><font color="#E5E5E5"> was the</font>
+
+88
+00:03:18,880 --> 00:03:20,560
+<font color="#E5E5E5">number-one</font><font color="#CCCCCC"> thing</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> think the</font><font color="#E5E5E5"> second most</font>
+
+89
+00:03:20,560 --> 00:03:23,169
+raised issue was the rise of China<font color="#E5E5E5"> which</font>
+
+90
+00:03:23,169 --> 00:03:25,389
+<font color="#CCCCCC">is a huge kind</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> existential crisis for</font>
+
+91
+00:03:25,389 --> 00:03:27,760
+<font color="#CCCCCC">the US so</font><font color="#E5E5E5"> you put the fact that cyber</font>
+
+92
+00:03:27,760 --> 00:03:29,470
+attacks are above that<font color="#E5E5E5"> on the threat</font>
+
+93
+00:03:29,470 --> 00:03:30,790
+<font color="#E5E5E5">scale and you can tell it's a pretty</font>
+
+94
+00:03:30,790 --> 00:03:32,769
+serious<font color="#E5E5E5"> problem</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> you say the rise of</font>
+
+95
+00:03:32,769 --> 00:03:35,500
+China<font color="#CCCCCC"> talk</font><font color="#E5E5E5"> about where the threats come</font>
+
+96
+00:03:35,500 --> 00:03:37,269
+from specifically<font color="#E5E5E5"> because people think</font>
+
+97
+00:03:37,269 --> 00:03:39,310
+oh it's<font color="#CCCCCC"> just these hackers</font><font color="#E5E5E5"> we think</font>
+
+98
+00:03:39,310 --> 00:03:40,629
+they're Russians but it's<font color="#E5E5E5"> broader than</font>
+
+99
+00:03:40,629 --> 00:03:44,319
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> right and so there are four</font><font color="#CCCCCC"> main</font>
+
+100
+00:03:44,319 --> 00:03:46,180
+cyber average adversaries that<font color="#E5E5E5"> we're</font>
+
+101
+00:03:46,180 --> 00:03:48,310
+dealing<font color="#CCCCCC"> with</font><font color="#E5E5E5"> Russia is perhaps the</font><font color="#CCCCCC"> most</font>
+
+102
+00:03:48,310 --> 00:03:50,379
+advanced but China North Korea Iran
+
+103
+00:03:50,379 --> 00:03:52,989
+they're very involved<font color="#CCCCCC"> in the cyber arena</font>
+
+104
+00:03:52,989 --> 00:03:54,910
+and part<font color="#CCCCCC"> of the</font><font color="#E5E5E5"> problem here is we</font><font color="#CCCCCC"> don't</font>
+
+105
+00:03:54,910 --> 00:03:56,590
+<font color="#E5E5E5">really have a doctrine for how to deal</font>
+
+106
+00:03:56,590 --> 00:03:57,879
+with<font color="#CCCCCC"> this in the way we do in</font>
+
+107
+00:03:57,879 --> 00:03:59,949
+traditional<font color="#E5E5E5"> warfare or even in</font>
+
+108
+00:03:59,949 --> 00:04:02,379
+responding<font color="#CCCCCC"> to terrorist incidents</font><font color="#E5E5E5"> you</font>
+
+109
+00:04:02,379 --> 00:04:04,239
+know<font color="#E5E5E5"> cyber attacks happen we don't</font>
+
+110
+00:04:04,239 --> 00:04:06,489
+<font color="#E5E5E5">always detect them right away some of</font>
+
+111
+00:04:06,489 --> 00:04:07,750
+them are<font color="#E5E5E5"> just as</font><font color="#CCCCCC"> damaging is more</font>
+
+112
+00:04:07,750 --> 00:04:09,459
+traditional attacks<font color="#E5E5E5"> and yet there's not</font>
+
+113
+00:04:09,459 --> 00:04:11,769
+really protocols therefore they do X we
+
+114
+00:04:11,769 --> 00:04:14,949
+do<font color="#CCCCCC"> Y</font><font color="#E5E5E5"> well it's not strange that there</font>
+
+115
+00:04:14,949 --> 00:04:17,019
+aren't protocols this is all sort of a
+
+116
+00:04:17,019 --> 00:04:19,630
+whole new world<font color="#CCCCCC"> that we're living</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> but</font>
+
+117
+00:04:19,630 --> 00:04:22,150
+while you hear from these<font color="#E5E5E5"> intelligence</font>
+
+118
+00:04:22,150 --> 00:04:23,950
+officials how worried<font color="#CCCCCC"> they are about a</font>
+
+119
+00:04:23,950 --> 00:04:25,790
+cyber<font color="#E5E5E5"> attack we talk often</font>
+
+120
+00:04:25,790 --> 00:04:28,610
+about efforts to undermine our<font color="#E5E5E5"> election</font>
+
+121
+00:04:28,610 --> 00:04:30,920
+our election system<font color="#E5E5E5"> and the networks</font>
+
+122
+00:04:30,920 --> 00:04:33,290
+<font color="#E5E5E5">what is the administration doing in</font>
+
+123
+00:04:33,290 --> 00:04:35,300
+terms of<font color="#E5E5E5"> a coordinated front because the</font>
+
+124
+00:04:35,300 --> 00:04:37,070
+president still loves<font color="#E5E5E5"> to say things like</font>
+
+125
+00:04:37,070 --> 00:04:38,990
+<font color="#E5E5E5">well could have been anybody could have</font>
+
+126
+00:04:38,990 --> 00:04:40,370
+<font color="#CCCCCC">been a fat guy sitting on his bed</font>
+
+127
+00:04:40,370 --> 00:04:43,700
+<font color="#E5E5E5">somewhere right I don't think</font><font color="#CCCCCC"> President</font>
+
+128
+00:04:43,700 --> 00:04:45,500
+<font color="#E5E5E5">Trump has been personally involved in</font>
+
+129
+00:04:45,500 --> 00:04:46,760
+these<font color="#CCCCCC"> discussions but</font><font color="#E5E5E5"> there are</font>
+
+130
+00:04:46,760 --> 00:04:47,960
+discussions going on in the
+
+131
+00:04:47,960 --> 00:04:50,810
+<font color="#CCCCCC">administration on two fronts</font><font color="#E5E5E5"> one is if</font>
+
+132
+00:04:50,810 --> 00:04:53,690
+Russia does press the button<font color="#E5E5E5"> you know if</font>
+
+133
+00:04:53,690 --> 00:04:55,670
+we do have blackouts<font color="#CCCCCC"> that are caused by</font>
+
+134
+00:04:55,670 --> 00:04:58,340
+a foreign adversary<font color="#E5E5E5"> how do we coordinate</font>
+
+135
+00:04:58,340 --> 00:05:00,080
+<font color="#CCCCCC">with</font><font color="#E5E5E5"> these private businesses how do we</font>
+
+136
+00:05:00,080 --> 00:05:01,790
+get things<font color="#E5E5E5"> back up and running</font><font color="#CCCCCC"> and how</font>
+
+137
+00:05:01,790 --> 00:05:03,650
+do we respond<font color="#E5E5E5"> to it part two is these</font>
+
+138
+00:05:03,650 --> 00:05:05,930
+hacks that have<font color="#E5E5E5"> already happened</font><font color="#CCCCCC"> if we</font>
+
+139
+00:05:05,930 --> 00:05:07,940
+pinpoint who did it how do we punish
+
+140
+00:05:07,940 --> 00:05:10,130
+those people and deter further
+
+141
+00:05:10,130 --> 00:05:12,890
+incursions those discussions as far as I
+
+142
+00:05:12,890 --> 00:05:14,510
+can<font color="#E5E5E5"> tell have not reached any definitive</font>
+
+143
+00:05:14,510 --> 00:05:16,550
+conclusion I believe<font color="#CCCCCC"> it was Vladimir</font>
+
+144
+00:05:16,550 --> 00:05:19,520
+Putin said who controls artificial
+
+145
+00:05:19,520 --> 00:05:21,620
+intelligence will control the world<font color="#E5E5E5"> and</font>
+
+146
+00:05:21,620 --> 00:05:24,230
+<font color="#E5E5E5">we know China is spending billions if</font>
+
+147
+00:05:24,230 --> 00:05:26,360
+not trillions on artificial<font color="#E5E5E5"> intelligence</font>
+
+148
+00:05:26,360 --> 00:05:28,790
+<font color="#CCCCCC">it's a topic</font><font color="#E5E5E5"> we haven't heard much about</font>
+
+149
+00:05:28,790 --> 00:05:31,880
+<font color="#E5E5E5">from the</font><font color="#CCCCCC"> president hey MSNBC fans thanks</font>
+
+150
+00:05:31,880 --> 00:05:33,680
+for<font color="#CCCCCC"> checking out our youtube channel</font>
+
+151
+00:05:33,680 --> 00:05:35,930
+subscribe<font color="#CCCCCC"> by clicking on that button</font>
+
+152
+00:05:35,930 --> 00:05:38,180
+down<font color="#E5E5E5"> there and click on any of the</font>
+
+153
+00:05:38,180 --> 00:05:40,430
+<font color="#E5E5E5">videos here to watch the latest</font>
+
+154
+00:05:40,430 --> 00:05:42,170
+interviews and highlights you can<font color="#E5E5E5"> get</font>
+
+155
+00:05:42,170 --> 00:05:44,720
+more<font color="#CCCCCC"> MSNBC for free</font><font color="#E5E5E5"> every day with our</font>
+
+156
+00:05:44,720 --> 00:05:48,170
+newsletters<font color="#E5E5E5"> just visit msnbc.com slash</font>
+
+157
+00:05:48,170 --> 00:00:00,000
+newsletters<font color="#CCCCCC"> to sign up</font><font color="#E5E5E5"> now</font>
+

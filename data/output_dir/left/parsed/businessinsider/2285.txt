@@ -1,0 +1,96 @@
+Google Maps is huge and they're in this
+space now and there are more and more
+location-based apps launched all the
+time how is hops not fighting these
+behemoths competitors to tell you the
+truth in terms of what we do which is
+get people from point A to point B
+through a combination of walking in mass
+transit directions there's really only
+one other company that is doing that and
+it's google right through google transit
+no none of the other location-based
+services or companies that were aware of
+are providing that user experience in
+that service that said you know Google's
+of the company and we have a challenge
+out of us in terms of trying to
+differentiate ourselves versus the
+behemoth there's one thing I've always
+wanted to know how do you keep track of
+changes in the transit system yeah it's
+a great question at the end of the day
+we're data company we're data aggregator
+and data normalizer so we source data
+from the hundreds of different transit
+agencies throughout the country we're
+now actually in 17 cities not just New
+York so within any one city there's
+numerous transit agencies i think in New
+York there's over 30 trip different
+transit agencies not just MTA so we need
+to make sure that we are sourcing the
+most current and accurate data from them
+and are staying on top of any changes
+that are happening in real time out on
+the railways and on the roadways which
+we do that through both structured data
+feeds as well as unstructured data fit
+so you get you get regular updates so we
+do get regular updates from the transit
+agencies but then we have to make sense
+of those updates and ingest them into
+our routing engine and make sure that
+what's most important the end user sees
+those updates and gets rerouted in real
+time based on what's happening out there
+on the tracks so you make your money
+from advertising we are largely ad
+supported but we also have business
+service revenue as well best way to
+think about that is our user experience
+embedded on other media and publisher
+sites to help their users get from point
+A to point B in the same way we help our
+users get from pointed
+they are you profitable we are currently
+profitable you look at Foursquare and
+what Facebook is going to have check-ins
+what's your take on all this and is it
+something that hop stops going to look
+at as well so i think the growth and
+local growth in mobile the growth in
+location-based services is great it's a
+huge market it's still somewhat untapped
+it's still somewhat uncracked and i
+think companies like foursquare and
+gowalla and Hopstop or proving that
+helping people in their everyday lives
+in their local communities is very
+valuable we do what we do well
+Foursquare does what it does well I
+could definitely see a relationship
+between those two companies in terms of
+the services that we provide being
+married together but all in good time
+how do you compete with Google Maps
+getting installed on every iPhone yeah
+we it's it's challenging I mean google
+is pervasively distributed on iPhones
+that said that's just one form of
+interfacing with your users from a
+mobile perspective we not only have an
+iphone app we obviously have a website
+to a mobile enabled site and then we
+also power directions via SMS to any
+user can send us two addresses from here
+to there the text message and we'll send
+them a text message back with the
+directions within one second so there's
+multiple ways that you can interface
+with us and we're not just looking at
+mobile and equated it with iPhone
+looking at mobile and saying iphone is
+one of the ways that you can consume
+information in a mobile environment but
+there's many other ways as well

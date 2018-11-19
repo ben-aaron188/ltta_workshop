@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:02,580
+<font color="#CCCCCC">there's really surveillance software -</font>
+
+2
+00:00:02,580 --> 00:00:05,640
+<font color="#E5E5E5">capable of accessing microphones cameras</font>
+
+3
+00:00:05,640 --> 00:00:09,150
+and<font color="#E5E5E5"> other data has been tracked to 45</font>
+
+4
+00:00:09,150 --> 00:00:11,370
+<font color="#E5E5E5">countries around the world</font><font color="#CCCCCC"> researchers</font>
+
+5
+00:00:11,370 --> 00:00:12,690
+<font color="#CCCCCC">think the tool designed to</font><font color="#E5E5E5"> track</font>
+
+6
+00:00:12,690 --> 00:00:14,580
+<font color="#E5E5E5">criminals is being misused by</font>
+
+7
+00:00:14,580 --> 00:00:16,650
+governments<font color="#CCCCCC"> to snoop</font><font color="#E5E5E5"> on innocent</font>
+
+8
+00:00:16,650 --> 00:00:19,199
+civilians<font color="#CCCCCC"> poreless lire that's the story</font>
+
+9
+00:00:19,199 --> 00:00:21,869
+I'm hearing<font color="#CCCCCC"> hurts alia</font><font color="#E5E5E5"> just north of the</font>
+
+10
+00:00:21,869 --> 00:00:24,000
+Israeli city of Tel Aviv<font color="#CCCCCC"> and this</font>
+
+11
+00:00:24,000 --> 00:00:25,769
+building is<font color="#E5E5E5"> home to an Israeli</font><font color="#CCCCCC"> company</font>
+
+12
+00:00:25,769 --> 00:00:28,260
+called NSO<font color="#CCCCCC"> Group which develops and</font>
+
+13
+00:00:28,260 --> 00:00:30,570
+sells<font color="#E5E5E5"> one of the most invasive spy ways</font>
+
+14
+00:00:30,570 --> 00:00:32,790
+in the<font color="#CCCCCC"> world the</font><font color="#E5E5E5"> software is</font><font color="#CCCCCC"> called</font>
+
+15
+00:00:32,790 --> 00:00:34,680
+Pegasus and it doesn't matter whether
+
+16
+00:00:34,680 --> 00:00:37,380
+<font color="#CCCCCC">you're an iOS or Android person</font><font color="#E5E5E5"> your</font>
+
+17
+00:00:37,380 --> 00:00:52,320
+phone<font color="#E5E5E5"> could become a target</font><font color="#CCCCCC"> this is how</font>
+
+18
+00:00:52,320 --> 00:00:54,780
+<font color="#E5E5E5">Pegasus works the target receives a text</font>
+
+19
+00:00:54,780 --> 00:00:57,449
+<font color="#E5E5E5">message with a special link one click on</font>
+
+20
+00:00:57,449 --> 00:00:59,070
+it and the<font color="#CCCCCC"> spy word is</font><font color="#E5E5E5"> secretly</font>
+
+21
+00:00:59,070 --> 00:01:01,620
+downloaded to your smartphone<font color="#CCCCCC"> from then</font>
+
+22
+00:01:01,620 --> 00:01:04,470
+on<font color="#CCCCCC"> all your private data</font><font color="#E5E5E5"> personal</font>
+
+23
+00:01:04,470 --> 00:01:07,260
+messages passwords<font color="#CCCCCC"> just about</font><font color="#E5E5E5"> everything</font>
+
+24
+00:01:07,260 --> 00:01:09,630
+has been<font color="#E5E5E5"> sent back to the operator so</font>
+
+25
+00:01:09,630 --> 00:01:12,030
+who are the targets<font color="#E5E5E5"> according to</font><font color="#CCCCCC"> NSO</font>
+
+26
+00:01:12,030 --> 00:01:14,369
+<font color="#E5E5E5">group its software is designed to track</font>
+
+27
+00:01:14,369 --> 00:01:16,920
+criminals<font color="#CCCCCC"> our products</font><font color="#E5E5E5"> have saved the</font>
+
+28
+00:01:16,920 --> 00:01:19,409
+lives of thousands of people<font color="#CCCCCC"> prevented</font>
+
+29
+00:01:19,409 --> 00:01:22,049
+suicide terror attacks<font color="#E5E5E5"> helped convict</font>
+
+30
+00:01:22,049 --> 00:01:25,080
+drug cartel<font color="#CCCCCC"> lords facilitated complex</font>
+
+31
+00:01:25,080 --> 00:01:27,420
+crime investigations<font color="#E5E5E5"> and returned</font>
+
+32
+00:01:27,420 --> 00:01:29,939
+<font color="#CCCCCC">kidnapped children</font><font color="#E5E5E5"> to their parents but</font>
+
+33
+00:01:29,939 --> 00:01:31,680
+<font color="#CCCCCC">internet researchers from citizen lab</font>
+
+34
+00:01:31,680 --> 00:01:33,780
+embarked on a hunt for Pegasus and
+
+35
+00:01:33,780 --> 00:01:36,119
+according to them<font color="#E5E5E5"> it does not serve only</font>
+
+36
+00:01:36,119 --> 00:01:39,060
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> good cause instead it may be breaching</font>
+
+37
+00:01:39,060 --> 00:01:41,490
+<font color="#E5E5E5">innocent people's</font><font color="#CCCCCC"> privacy's and some</font>
+
+38
+00:01:41,490 --> 00:01:43,829
+<font color="#CCCCCC">country's laws against cross-border</font>
+
+39
+00:01:43,829 --> 00:01:46,140
+<font color="#E5E5E5">hackers citizen lab tracked the</font><font color="#CCCCCC"> malware</font>
+
+40
+00:01:46,140 --> 00:01:48,659
+in as many as<font color="#E5E5E5"> 45 countries among them</font>
+
+41
+00:01:48,659 --> 00:01:51,420
+six states with a history<font color="#CCCCCC"> of abusing spy</font>
+
+42
+00:01:51,420 --> 00:01:53,740
+way to<font color="#E5E5E5"> target a civilian society</font>
+
+43
+00:01:53,740 --> 00:01:56,870
+[Music]
+
+44
+00:02:02,590 --> 00:02:33,500
+[Music]
+
+45
+00:02:33,500 --> 00:02:36,570
+citizen lab says at least<font color="#CCCCCC"> 10</font><font color="#E5E5E5"> pegasus</font>
+
+46
+00:02:36,570 --> 00:02:38,520
+operators are involved in<font color="#CCCCCC"> cross-border</font>
+
+47
+00:02:38,520 --> 00:02:40,950
+surveillance<font color="#CCCCCC"> israel's friend and ally</font>
+
+48
+00:02:40,950 --> 00:02:42,600
+the<font color="#E5E5E5"> united states they say is no</font>
+
+49
+00:02:42,600 --> 00:02:45,000
+exception<font color="#CCCCCC"> this despite the fact that the</font>
+
+50
+00:02:45,000 --> 00:02:47,370
+firm says<font color="#CCCCCC"> its</font><font color="#E5E5E5"> software was not designed</font>
+
+51
+00:02:47,370 --> 00:02:49,740
+to<font color="#CCCCCC"> work in the US</font><font color="#E5E5E5"> we have identified</font>
+
+52
+00:02:49,740 --> 00:02:52,650
+<font color="#E5E5E5">several possible</font><font color="#CCCCCC"> pegasus customers not</font>
+
+53
+00:02:52,650 --> 00:02:55,290
+linked<font color="#CCCCCC"> to</font><font color="#E5E5E5"> the United</font><font color="#CCCCCC"> States</font><font color="#E5E5E5"> but with</font>
+
+54
+00:02:55,290 --> 00:02:57,480
+infections in the u.s.<font color="#E5E5E5"> it</font><font color="#CCCCCC"> is possible</font>
+
+55
+00:02:57,480 --> 00:02:59,490
+that<font color="#E5E5E5"> several countries may be actively</font>
+
+56
+00:02:59,490 --> 00:03:01,710
+violating<font color="#E5E5E5"> United States law by</font>
+
+57
+00:03:01,710 --> 00:03:04,110
+penetrating devices<font color="#CCCCCC"> located within the</font>
+
+58
+00:03:04,110 --> 00:03:06,690
+<font color="#E5E5E5">u.s.</font><font color="#CCCCCC"> NSA group is a pretty secretive</font>
+
+59
+00:03:06,690 --> 00:03:08,670
+firm you'll hardly<font color="#CCCCCC"> find any ads for its</font>
+
+60
+00:03:08,670 --> 00:03:10,470
+products according<font color="#E5E5E5"> to the New York Times</font>
+
+61
+00:03:10,470 --> 00:03:12,720
+<font color="#CCCCCC">who obtained papers from people who had</font>
+
+62
+00:03:12,720 --> 00:03:14,700
+dealings with<font color="#E5E5E5"> the group its proposal</font>
+
+63
+00:03:14,700 --> 00:03:17,130
+says you can<font color="#E5E5E5"> remotely and covertly</font>
+
+64
+00:03:17,130 --> 00:03:19,140
+collect information about<font color="#E5E5E5"> your targets</font>
+
+65
+00:03:19,140 --> 00:03:21,930
+relationships location phone calls plans
+
+66
+00:03:21,930 --> 00:03:24,030
+and<font color="#CCCCCC"> activities</font><font color="#E5E5E5"> whenever and wherever</font>
+
+67
+00:03:24,030 --> 00:03:26,310
+<font color="#E5E5E5">they are</font><font color="#CCCCCC"> as we can see the</font><font color="#E5E5E5"> last part</font>
+
+68
+00:03:26,310 --> 00:03:28,680
+doesn't<font color="#E5E5E5"> appear to be</font><font color="#CCCCCC"> quite true and the</font>
+
+69
+00:03:28,680 --> 00:03:31,110
+risk is<font color="#CCCCCC"> a little scary</font><font color="#E5E5E5"> we approached the</font>
+
+70
+00:03:31,110 --> 00:03:32,940
+<font color="#CCCCCC">company for comment</font><font color="#E5E5E5"> and are still</font>
+
+71
+00:03:32,940 --> 00:03:37,670
+waiting<font color="#CCCCCC"> polysphere RT</font><font color="#E5E5E5"> /</font><font color="#CCCCCC"> Thalia</font>
+
+72
+00:03:43,569 --> 00:00:00,000
+you
+

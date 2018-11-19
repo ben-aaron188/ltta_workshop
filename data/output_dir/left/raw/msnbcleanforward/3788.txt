@@ -1,0 +1,708 @@
+1
+00:00:00,030 --> 00:00:02,610
+if a developer<font color="#E5E5E5"> who people gave their</font>
+
+2
+00:00:02,610 --> 00:00:04,470
+information to in this case<font color="#E5E5E5"> Alexander</font>
+
+3
+00:00:04,470 --> 00:00:07,830
+<font color="#CCCCCC">Cogan</font><font color="#E5E5E5"> then goes and in violation of his</font>
+
+4
+00:00:07,830 --> 00:00:09,389
+<font color="#CCCCCC">agreement</font><font color="#E5E5E5"> with us sells the data at a</font>
+
+5
+00:00:09,389 --> 00:00:11,460
+Cambridge analytic<font color="#CCCCCC"> ah</font><font color="#E5E5E5"> that's a big issue</font>
+
+6
+00:00:11,460 --> 00:00:13,320
+<font color="#CCCCCC">I think people have a right to be</font><font color="#E5E5E5"> very</font>
+
+7
+00:00:13,320 --> 00:00:16,139
+upset<font color="#CCCCCC"> I'm upset that that happened</font><font color="#E5E5E5"> that</font>
+
+8
+00:00:16,139 --> 00:00:17,580
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> course was Facebook</font><font color="#E5E5E5"> CEO Mark</font>
+
+9
+00:00:17,580 --> 00:00:19,650
+Zuckerberg<font color="#CCCCCC"> during his testimony before</font>
+
+10
+00:00:19,650 --> 00:00:21,420
+lawmakers<font color="#CCCCCC"> on Capitol Hill</font><font color="#E5E5E5"> just a couple</font>
+
+11
+00:00:21,420 --> 00:00:23,609
+<font color="#E5E5E5">of weeks ago the developer he's</font>
+
+12
+00:00:23,609 --> 00:00:26,070
+referring to is<font color="#E5E5E5"> Alexander Cogan he</font>
+
+13
+00:00:26,070 --> 00:00:28,109
+developed an app that harvested data of
+
+14
+00:00:28,109 --> 00:00:30,630
+tens of<font color="#CCCCCC"> millions of</font><font color="#E5E5E5"> Facebook users but</font>
+
+15
+00:00:30,630 --> 00:00:32,790
+this morning<font color="#CCCCCC"> Cogan's firing back saying</font>
+
+16
+00:00:32,790 --> 00:00:34,920
+<font color="#CCCCCC">he is not</font><font color="#E5E5E5"> the only one to blame in this</font>
+
+17
+00:00:34,920 --> 00:00:38,309
+fight<font color="#E5E5E5"> pretty powerful PR spend but it's</font>
+
+18
+00:00:38,309 --> 00:00:40,980
+exactly<font color="#E5E5E5"> that</font><font color="#CCCCCC"> I think what folks</font><font color="#E5E5E5"> need to</font>
+
+19
+00:00:40,980 --> 00:00:44,160
+understand is this was<font color="#E5E5E5"> business as</font><font color="#CCCCCC"> usual</font>
+
+20
+00:00:44,160 --> 00:00:46,289
+as far as Facebook developers went and
+
+21
+00:00:46,289 --> 00:00:48,329
+now the Facebook friendly<font color="#CCCCCC"> I had a long</font>
+
+22
+00:00:48,329 --> 00:00:50,940
+relationship with<font color="#E5E5E5"> them and I had a lot</font>
+
+23
+00:00:50,940 --> 00:00:52,770
+to lose by trying<font color="#E5E5E5"> to anger them so when</font>
+
+24
+00:00:52,770 --> 00:00:54,149
+I did this project we<font color="#E5E5E5"> don't think we</font>
+
+25
+00:00:54,149 --> 00:00:55,770
+were doing<font color="#E5E5E5"> anything</font><font color="#CCCCCC"> wrong we didn't</font>
+
+26
+00:00:55,770 --> 00:00:57,270
+<font color="#E5E5E5">think Facebook was ever gonna be upset</font>
+
+27
+00:00:57,270 --> 00:00:59,370
+<font color="#E5E5E5">and I was even</font><font color="#CCCCCC"> doing it for really</font><font color="#E5E5E5"> money</font>
+
+28
+00:00:59,370 --> 00:01:00,690
+I was doing it because<font color="#E5E5E5"> they thought I'd</font>
+
+29
+00:01:00,690 --> 00:01:02,520
+get a<font color="#CCCCCC"> good research data set but</font><font color="#E5E5E5"> there</font>
+
+30
+00:01:02,520 --> 00:01:03,960
+are so<font color="#E5E5E5"> many commercial entities out</font>
+
+31
+00:01:03,960 --> 00:01:06,180
+there<font color="#E5E5E5"> companies collecting vastly more</font>
+
+32
+00:01:06,180 --> 00:01:08,220
+data that<font color="#CCCCCC"> don't</font><font color="#E5E5E5"> care about the</font>
+
+33
+00:01:08,220 --> 00:01:10,409
+relationship of<font color="#E5E5E5"> Facebook Facebook has no</font>
+
+34
+00:01:10,409 --> 00:01:12,240
+accounting for<font color="#CCCCCC"> that data whatsoever</font>
+
+35
+00:01:12,240 --> 00:01:14,640
+<font color="#CCCCCC">Joanna Coles my dear friend and chief</font>
+
+36
+00:01:14,640 --> 00:01:16,590
+content officer of Hurst magazines<font color="#CCCCCC"> an</font>
+
+37
+00:01:16,590 --> 00:01:18,299
+author<font color="#E5E5E5"> of a new book you've got</font><font color="#CCCCCC"> to pick</font>
+
+38
+00:01:18,299 --> 00:01:20,939
+up love<font color="#E5E5E5"> rules how to find a real</font>
+
+39
+00:01:20,939 --> 00:01:23,580
+relationship<font color="#CCCCCC"> in a digital world Joanna</font>
+
+40
+00:01:23,580 --> 00:01:26,400
+<font color="#CCCCCC">you have studied the impact</font><font color="#E5E5E5"> of digital</font>
+
+41
+00:01:26,400 --> 00:01:28,920
+<font color="#E5E5E5">media all the information we put out</font>
+
+42
+00:01:28,920 --> 00:01:30,900
+there when<font color="#E5E5E5"> we hear from</font><font color="#CCCCCC"> these two guys</font>
+
+43
+00:01:30,900 --> 00:01:32,430
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> not necessarily Facebook</font>
+
+44
+00:01:32,430 --> 00:01:34,500
+specifically<font color="#E5E5E5"> but when Mark Zuckerberg</font>
+
+45
+00:01:34,500 --> 00:01:36,240
+says it's a one-off<font color="#E5E5E5"> and</font><font color="#CCCCCC"> this guy's</font>
+
+46
+00:01:36,240 --> 00:01:39,150
+saying<font color="#E5E5E5"> no all</font><font color="#CCCCCC"> of our data gets harvested</font>
+
+47
+00:01:39,150 --> 00:01:41,130
+get used to it is that<font color="#E5E5E5"> the world we're</font>
+
+48
+00:01:41,130 --> 00:01:42,840
+living in<font color="#CCCCCC"> I think it is the world we're</font>
+
+49
+00:01:42,840 --> 00:01:44,670
+living in<font color="#E5E5E5"> and I think</font><font color="#CCCCCC"> for the most part</font>
+
+50
+00:01:44,670 --> 00:01:47,250
+<font color="#CCCCCC">actually people don't care</font><font color="#E5E5E5"> that's what's</font>
+
+51
+00:01:47,250 --> 00:01:48,990
+fascinating and we have the millennial
+
+52
+00:01:48,990 --> 00:01:51,060
+generation who understand who want<font color="#CCCCCC"> to do</font>
+
+53
+00:01:51,060 --> 00:01:52,649
+everything on<font color="#E5E5E5"> their cell phones right</font>
+
+54
+00:01:52,649 --> 00:01:55,079
+including dating apps which<font color="#CCCCCC"> is actually</font>
+
+55
+00:01:55,079 --> 00:01:57,240
+what I've been writing<font color="#CCCCCC"> about</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> I think</font>
+
+56
+00:01:57,240 --> 00:01:59,759
+<font color="#CCCCCC">this is a generational gap I think</font><font color="#E5E5E5"> older</font>
+
+57
+00:01:59,759 --> 00:02:01,680
+people care<font color="#E5E5E5"> because they have a sense of</font>
+
+58
+00:02:01,680 --> 00:02:03,450
+what privacy means and I think<font color="#CCCCCC"> the</font>
+
+59
+00:02:03,450 --> 00:02:06,420
+<font color="#E5E5E5">millennial and</font><font color="#CCCCCC"> Gen Z</font><font color="#E5E5E5"> and alpha</font>
+
+60
+00:02:06,420 --> 00:02:07,920
+generation<font color="#E5E5E5"> that just assume that</font>
+
+61
+00:02:07,920 --> 00:02:09,330
+everything they do on their cell<font color="#E5E5E5"> phone</font>
+
+62
+00:02:09,330 --> 00:02:10,429
+somehow<font color="#E5E5E5"> goes out</font>
+
+63
+00:02:10,429 --> 00:02:12,859
+into weird cyberspace<font color="#CCCCCC"> and they really</font>
+
+64
+00:02:12,859 --> 00:02:14,629
+don't care<font color="#CCCCCC"> and</font><font color="#E5E5E5"> you can see this isn't</font>
+
+65
+00:02:14,629 --> 00:02:16,459
+<font color="#CCCCCC">actually an issue</font><font color="#E5E5E5"> that's really caught</font>
+
+66
+00:02:16,459 --> 00:02:18,890
+on<font color="#E5E5E5"> with people</font><font color="#CCCCCC"> do</font><font color="#E5E5E5"> people think that the</font>
+
+67
+00:02:18,890 --> 00:02:20,390
+election<font color="#E5E5E5"> might have been hijacked and</font>
+
+68
+00:02:20,390 --> 00:02:22,280
+<font color="#E5E5E5">are they concerned</font><font color="#CCCCCC"> about that</font><font color="#E5E5E5"> yes but</font>
+
+69
+00:02:22,280 --> 00:02:24,980
+<font color="#E5E5E5">does it stop them from signing</font><font color="#CCCCCC"> terms and</font>
+
+70
+00:02:24,980 --> 00:02:26,540
+agreements they're never going<font color="#E5E5E5"> to read</font>
+
+71
+00:02:26,540 --> 00:02:29,120
+absolutely not<font color="#E5E5E5"> but isn't there a line</font>
+
+72
+00:02:29,120 --> 00:02:31,549
+between the two<font color="#CCCCCC"> I put all my information</font>
+
+73
+00:02:31,549 --> 00:02:34,250
+out there<font color="#CCCCCC"> and maybe that comes</font><font color="#E5E5E5"> back in</font>
+
+74
+00:02:34,250 --> 00:02:36,019
+ads that are good<font color="#CCCCCC"> for me because it's</font>
+
+75
+00:02:36,019 --> 00:02:38,030
+<font color="#CCCCCC">about the stores</font><font color="#E5E5E5"> and products</font><font color="#CCCCCC"> I buy</font><font color="#E5E5E5"> I'm</font>
+
+76
+00:02:38,030 --> 00:02:38,810
+<font color="#CCCCCC">ok with that</font>
+
+77
+00:02:38,810 --> 00:02:41,719
+but when my information is then used and
+
+78
+00:02:41,719 --> 00:02:44,060
+fake news stories are written<font color="#CCCCCC"> to</font>
+
+79
+00:02:44,060 --> 00:02:45,919
+influence me<font color="#E5E5E5"> is that</font><font color="#CCCCCC"> they're aligned</font>
+
+80
+00:02:45,919 --> 00:02:47,389
+<font color="#E5E5E5">somewhere when we think about all the</font>
+
+81
+00:02:47,389 --> 00:02:49,069
+info<font color="#CCCCCC"> we put out</font><font color="#E5E5E5"> there and what</font><font color="#CCCCCC"> it could</font>
+
+82
+00:02:49,069 --> 00:02:51,439
+<font color="#E5E5E5">be used for</font><font color="#CCCCCC"> well</font><font color="#E5E5E5"> you would think</font><font color="#CCCCCC"> there</font>
+
+83
+00:02:51,439 --> 00:02:53,000
+would<font color="#CCCCCC"> be a line</font><font color="#E5E5E5"> but there's no evidence</font>
+
+84
+00:02:53,000 --> 00:02:55,189
+that<font color="#E5E5E5"> people are</font><font color="#CCCCCC"> using apps less than</font>
+
+85
+00:02:55,189 --> 00:02:56,989
+they were and<font color="#E5E5E5"> I think</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> are</font><font color="#CCCCCC"> just</font>
+
+86
+00:02:56,989 --> 00:02:59,150
+<font color="#CCCCCC">getting used to you know thinking</font>
+
+87
+00:02:59,150 --> 00:03:00,590
+<font color="#E5E5E5">they're going to have to be more media</font>
+
+88
+00:03:00,590 --> 00:03:02,060
+literate<font color="#E5E5E5"> I mean what we're seeing in</font>
+
+89
+00:03:02,060 --> 00:03:04,069
+schools now is media literacy right and
+
+90
+00:03:04,069 --> 00:03:05,810
+people<font color="#E5E5E5"> being taught how</font><font color="#CCCCCC"> to understand</font>
+
+91
+00:03:05,810 --> 00:03:08,209
+<font color="#E5E5E5">this and also what was fascinating what</font>
+
+92
+00:03:08,209 --> 00:03:09,799
+was fascinating about seeing<font color="#E5E5E5"> the the</font>
+
+93
+00:03:09,799 --> 00:03:11,480
+clip there of<font color="#E5E5E5"> Alexander</font><font color="#CCCCCC"> Cogan is how</font>
+
+94
+00:03:11,480 --> 00:03:13,790
+similar<font color="#E5E5E5"> he looks to mark right and you</font>
+
+95
+00:03:13,790 --> 00:03:15,590
+think good<font color="#CCCCCC"> lord the future of our world</font>
+
+96
+00:03:15,590 --> 00:03:17,690
+<font color="#CCCCCC">is in in the hands</font><font color="#E5E5E5"> of these two young</font>
+
+97
+00:03:17,690 --> 00:03:21,019
+<font color="#CCCCCC">men</font><font color="#E5E5E5"> so when I think</font><font color="#CCCCCC"> about Oh Facebook</font>
+
+98
+00:03:21,019 --> 00:03:22,819
+has all<font color="#CCCCCC"> of</font><font color="#E5E5E5"> our most important data</font>
+
+99
+00:03:22,819 --> 00:03:25,549
+<font color="#E5E5E5">you've studied the data what Facebook</font>
+
+100
+00:03:25,549 --> 00:03:28,040
+and Instagram<font color="#E5E5E5"> have and dating apps is</font>
+
+101
+00:03:28,040 --> 00:03:30,260
+who I want<font color="#E5E5E5"> to be who I pretend to say I</font>
+
+102
+00:03:30,260 --> 00:03:31,939
+am to the world so the<font color="#CCCCCC"> world likes me</font>
+
+103
+00:03:31,939 --> 00:03:34,939
+<font color="#E5E5E5">but what Google and Amazon have is that</font>
+
+104
+00:03:34,939 --> 00:03:37,209
+<font color="#E5E5E5">I'm buying you know tube</font><font color="#CCCCCC"> socks</font>
+
+105
+00:03:37,209 --> 00:03:40,040
+<font color="#CCCCCC">Underpants and you know athlete's foot</font>
+
+106
+00:03:40,040 --> 00:03:43,159
+<font color="#E5E5E5">cream I might know but right it's like</font>
+
+107
+00:03:43,159 --> 00:03:45,590
+like when you<font color="#E5E5E5"> talk</font><font color="#CCCCCC"> about valuable</font><font color="#E5E5E5"> data</font>
+
+108
+00:03:45,590 --> 00:03:48,259
+<font color="#E5E5E5">does</font><font color="#CCCCCC"> Facebook and and and dating apps</font>
+
+109
+00:03:48,259 --> 00:03:49,970
+and social<font color="#CCCCCC"> media</font><font color="#E5E5E5"> really have valuable</font>
+
+110
+00:03:49,970 --> 00:03:51,680
+<font color="#E5E5E5">data or do they have our fake</font><font color="#CCCCCC"> lies well</font>
+
+111
+00:03:51,680 --> 00:03:53,299
+here's I think<font color="#CCCCCC"> what's actually</font><font color="#E5E5E5"> more</font>
+
+112
+00:03:53,299 --> 00:03:56,090
+interesting<font color="#E5E5E5"> than that is how is spending</font>
+
+113
+00:03:56,090 --> 00:03:58,639
+so much time on these apps<font color="#E5E5E5"> changing our</font>
+
+114
+00:03:58,639 --> 00:04:01,669
+behavior<font color="#CCCCCC"> there and that is what what's</font>
+
+115
+00:04:01,669 --> 00:04:03,500
+fascinating<font color="#CCCCCC"> and around love and around</font>
+
+116
+00:04:03,500 --> 00:04:05,239
+dating it's<font color="#CCCCCC"> particularly interesting</font>
+
+117
+00:04:05,239 --> 00:04:06,799
+because<font color="#CCCCCC"> dating apps are a fantastic</font>
+
+118
+00:04:06,799 --> 00:04:08,930
+<font color="#CCCCCC">arrow in your quiver to meet somebody</font>
+
+119
+00:04:08,930 --> 00:04:11,150
+<font color="#CCCCCC">but</font><font color="#E5E5E5"> they can't be the only one and what</font>
+
+120
+00:04:11,150 --> 00:04:13,069
+you discover<font color="#CCCCCC"> and I've</font><font color="#E5E5E5"> talked to hundreds</font>
+
+121
+00:04:13,069 --> 00:04:14,930
+of<font color="#CCCCCC"> women</font><font color="#E5E5E5"> and some men in the making of</font>
+
+122
+00:04:14,930 --> 00:04:17,620
+<font color="#E5E5E5">this book is how much time people spend</font>
+
+123
+00:04:17,620 --> 00:04:21,279
+<font color="#CCCCCC">online to your</font><font color="#E5E5E5"> point about data</font>
+
+124
+00:04:21,279 --> 00:04:22,750
+matching with someone who<font color="#E5E5E5"> they think</font>
+
+125
+00:04:22,750 --> 00:04:24,430
+<font color="#CCCCCC">they</font><font color="#E5E5E5"> know and then they have an</font>
+
+126
+00:04:24,430 --> 00:04:26,770
+<font color="#CCCCCC">extraordinary sort of texty flirty</font>
+
+127
+00:04:26,770 --> 00:04:28,240
+conversation which most people<font color="#CCCCCC"> find</font>
+
+128
+00:04:28,240 --> 00:04:31,060
+enormous fun<font color="#CCCCCC"> and they can have up to</font><font color="#E5E5E5"> a</font>
+
+129
+00:04:31,060 --> 00:04:33,070
+thousand two thousand<font color="#E5E5E5"> three thousand</font>
+
+130
+00:04:33,070 --> 00:04:35,620
+flirty exchanges on text<font color="#E5E5E5"> before they</font>
+
+131
+00:04:35,620 --> 00:04:37,389
+actually<font color="#E5E5E5"> go and meet someone and then</font>
+
+132
+00:04:37,389 --> 00:04:38,770
+when they meet<font color="#CCCCCC"> someone</font><font color="#E5E5E5"> the person is</font>
+
+133
+00:04:38,770 --> 00:04:40,870
+completely<font color="#CCCCCC"> different from who they</font>
+
+134
+00:04:40,870 --> 00:04:42,730
+thought they were talking<font color="#E5E5E5"> to but isn't</font>
+
+135
+00:04:42,730 --> 00:04:45,160
+<font color="#CCCCCC">that natural we're creating profiles</font><font color="#E5E5E5"> of</font>
+
+136
+00:04:45,160 --> 00:04:47,860
+our best selves<font color="#CCCCCC"> that aren't</font><font color="#E5E5E5"> actually who</font>
+
+137
+00:04:47,860 --> 00:04:50,320
+we are<font color="#CCCCCC"> well I'm really clever on Twitter</font>
+
+138
+00:04:50,320 --> 00:04:53,080
+<font color="#CCCCCC">but</font><font color="#E5E5E5"> but I</font><font color="#CCCCCC"> realize well but also what's</font>
+
+139
+00:04:53,080 --> 00:04:56,080
+<font color="#CCCCCC">fascinating and</font><font color="#E5E5E5"> I cite the</font><font color="#CCCCCC"> work</font><font color="#E5E5E5"> of Mary</font>
+
+140
+00:04:56,080 --> 00:04:58,030
+Aiken the cyber<font color="#CCCCCC"> psychologist in</font><font color="#E5E5E5"> the book</font>
+
+141
+00:04:58,030 --> 00:04:59,830
+<font color="#E5E5E5">is that</font><font color="#CCCCCC"> what happens when you're talking</font>
+
+142
+00:04:59,830 --> 00:05:02,320
+<font color="#CCCCCC">to a stranger online</font><font color="#E5E5E5"> and what happens in</font>
+
+143
+00:05:02,320 --> 00:05:05,560
+a computer mediated situation is you
+
+144
+00:05:05,560 --> 00:05:07,510
+fill in<font color="#CCCCCC"> the blanks with positive</font>
+
+145
+00:05:07,510 --> 00:05:09,490
+attributes it's just what in<font color="#E5E5E5"> fact it</font>
+
+146
+00:05:09,490 --> 00:05:11,890
+turns out<font color="#CCCCCC"> people do</font><font color="#E5E5E5"> and so you end up</font>
+
+147
+00:05:11,890 --> 00:05:14,200
+meeting<font color="#E5E5E5"> someone who is a</font><font color="#CCCCCC"> stranger of who</font>
+
+148
+00:05:14,200 --> 00:05:16,720
+you think<font color="#CCCCCC"> much</font><font color="#E5E5E5"> better than perhaps you</font>
+
+149
+00:05:16,720 --> 00:05:18,550
+should and<font color="#CCCCCC"> it's leading</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> all sorts of</font>
+
+150
+00:05:18,550 --> 00:05:20,500
+issues<font color="#E5E5E5"> and actually the British police</font>
+
+151
+00:05:20,500 --> 00:05:23,620
+<font color="#E5E5E5">who keep all</font><font color="#CCCCCC"> sorts of data on this</font><font color="#E5E5E5"> I've</font>
+
+152
+00:05:23,620 --> 00:05:26,050
+discovered what they call a new<font color="#E5E5E5"> sexual</font>
+
+153
+00:05:26,050 --> 00:05:28,690
+predator<font color="#E5E5E5"> and that's and they're advising</font>
+
+154
+00:05:28,690 --> 00:05:30,970
+<font color="#CCCCCC">people in particular</font><font color="#E5E5E5"> of the stats which</font>
+
+155
+00:05:30,970 --> 00:05:33,310
+are that if<font color="#E5E5E5"> you meet someone online you</font>
+
+156
+00:05:33,310 --> 00:05:35,410
+have<font color="#CCCCCC"> a sort of long flirty exchange then</font>
+
+157
+00:05:35,410 --> 00:05:37,360
+you actually<font color="#E5E5E5"> meet them in the flesh and</font>
+
+158
+00:05:37,360 --> 00:05:39,070
+a bar<font color="#E5E5E5"> restaurant whatever and then you</font>
+
+159
+00:05:39,070 --> 00:05:41,190
+<font color="#E5E5E5">go</font><font color="#CCCCCC"> home with them on their first date</font>
+
+160
+00:05:41,190 --> 00:05:44,110
+<font color="#E5E5E5">you are more likely</font><font color="#CCCCCC"> you're six times</font>
+
+161
+00:05:44,110 --> 00:05:45,340
+more<font color="#E5E5E5"> likely</font><font color="#CCCCCC"> to be sexually assaulted</font>
+
+162
+00:05:45,340 --> 00:05:48,010
+<font color="#CCCCCC">than if you have</font><font color="#E5E5E5"> just met someone in a</font>
+
+163
+00:05:48,010 --> 00:05:49,660
+<font color="#E5E5E5">bar</font><font color="#CCCCCC"> or go home with them well because</font>
+
+164
+00:05:49,660 --> 00:05:51,310
+<font color="#CCCCCC">they think</font><font color="#E5E5E5"> there's a whole new layer of</font>
+
+165
+00:05:51,310 --> 00:05:53,950
+<font color="#E5E5E5">sexual predator looking</font><font color="#CCCCCC"> to sort</font><font color="#E5E5E5"> of</font>
+
+166
+00:05:53,950 --> 00:05:55,539
+entrap people<font color="#CCCCCC"> and it's</font><font color="#E5E5E5"> really</font>
+
+167
+00:05:55,539 --> 00:05:57,370
+<font color="#CCCCCC">fascinating</font><font color="#E5E5E5"> you know</font><font color="#CCCCCC"> what else is</font>
+
+168
+00:05:57,370 --> 00:05:59,350
+fascinating this book love rules you've
+
+169
+00:05:59,350 --> 00:06:01,479
+got<font color="#CCCCCC"> to read it</font><font color="#E5E5E5"> Joanna thank you so much</font>
+
+170
+00:06:01,479 --> 00:06:02,560
+thank you<font color="#E5E5E5"> very much</font>
+
+171
+00:06:02,560 --> 00:06:03,880
+hey there I'm<font color="#E5E5E5"> Chris Hayes from MSNBC</font>
+
+172
+00:06:03,880 --> 00:06:06,430
+thanks for watching<font color="#CCCCCC"> MSNBC on YouTube if</font>
+
+173
+00:06:06,430 --> 00:06:07,570
+you<font color="#E5E5E5"> want to keep up</font><font color="#CCCCCC"> to date with the</font>
+
+174
+00:06:07,570 --> 00:06:08,830
+videos we're putting out you can<font color="#E5E5E5"> click</font>
+
+175
+00:06:08,830 --> 00:06:11,080
+<font color="#CCCCCC">Subscribe</font><font color="#E5E5E5"> just below me or click over on</font>
+
+176
+00:06:11,080 --> 00:06:12,910
+<font color="#E5E5E5">this list to see lots of other great</font>
+
+177
+00:06:12,910 --> 00:00:00,000
+videos
+

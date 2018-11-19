@@ -1,0 +1,299 @@
+1
+00:00:01,020 --> 00:00:06,859
+I hate math, but there’s this statistics
+problem that has me geeking out. It’s a
+
+2
+00:00:06,859 --> 00:00:11,740
+question that seems really really simple but
+it’s stumped me. And not just me, it has
+
+3
+00:00:11,740 --> 00:00:17,170
+stumped thousands of people around the world
+including math professors and leading statisticians.But
+
+4
+00:00:17,170 --> 00:00:21,480
+before we dive in I’m going to introduce
+you to Zachery Crockett. He first introduced
+
+5
+00:00:21,480 --> 00:00:24,230
+me to the puzzle and I called him up to talk
+about it.
+
+6
+00:00:24,230 --> 00:00:27,279
+My name is Zachery Crockett, I’m a writer
+for Priceonomics.
+
+7
+00:00:27,279 --> 00:00:30,359
+Zachery and his girlfriend were confused by
+the problem too.
+
+8
+00:00:30,359 --> 00:00:34,550
+We just sat there debating the answer to this
+problem for two hours and I don’t think
+
+9
+00:00:34,550 --> 00:00:39,480
+any of us really understood it.
+The puzzle we were all stumped by is called
+
+10
+00:00:39,480 --> 00:00:44,440
+the Monty Hall Problem -- named after the
+host of the game show that made it famous.
+
+11
+00:00:44,440 --> 00:00:49,360
+the problem goes like this: there’s a brand
+new car behind one of three doors. Behind
+
+12
+00:00:49,360 --> 00:00:55,489
+the other 2 are goats. Say you pick door 1.
+Monty then shows you the goat behind one of
+
+13
+00:00:55,489 --> 00:01:01,469
+the doors you DIDN’T choose - say, door
+3. Now here’s the question: You’re allowed
+
+14
+00:01:01,469 --> 00:01:07,350
+to change your answer to Door 2. Do you switch?
+Or stick with your original choice?
+
+15
+00:01:07,350 --> 00:01:14,049
+So yeah, I got interested in the Monty Hall
+Problem, did a little research, and then I
+
+16
+00:01:14,049 --> 00:01:20,549
+found out there was this whole second angle
+to the story.
+
+17
+00:01:20,549 --> 00:01:30,590
+You’ve never met a man that feared you a
+little bit because he thought you were much
+
+18
+00:01:30,590 --> 00:01:37,090
+brighter than he was?
+That’s Marilyn Vos Savant in 1988 being
+
+19
+00:01:37,090 --> 00:01:44,759
+interviewed by Joe Franklyn.
+Yeah maybe I’ve met a man or two, maybe
+
+20
+00:01:44,759 --> 00:01:51,850
+a couple a hundred like that.
+Marilyn is very intelligent. In fact:Back
+
+21
+00:01:51,850 --> 00:02:00,710
+when the Guinness World Records actually kept
+track of this she was the world’s highest
+
+22
+00:02:00,710 --> 00:02:02,270
+IQ.
+She now writes for Parade Magazine and has
+
+23
+00:02:02,270 --> 00:02:02,350
+for the last 20 years.
+So the premise of the column was of course,
+
+24
+00:02:02,350 --> 00:02:02,430
+like, here is the person with the world's
+highest IQ here to answer your challenging
+
+25
+00:02:02,430 --> 00:02:02,490
+math questions.
+This brings us to September 1990, when a reader
+
+26
+00:02:02,490 --> 00:02:02,820
+submitted to Marilyn... the Monty Hall Problem.
+Is it to your advantage to switch your choice
+
+27
+00:02:02,820 --> 00:02:05,030
+of doors?
+Now, if you’re like me the obvious answer
+
+28
+00:02:05,030 --> 00:02:07,920
+is no. There’s no advantage of switching
+doors at all, There are two doors so the chance
+
+29
+00:02:07,920 --> 00:02:12,270
+of getting a car and not a goat is 50/50.
+Bing. Bang. Boom.
+
+30
+00:02:12,270 --> 00:02:15,830
+But that’s the wrong answer, and Marilyn
+knew that.
+
+31
+00:02:15,830 --> 00:02:20,970
+She replied: “Yes; you should switch.”
+And here’s why.
+
+32
+00:02:20,970 --> 00:02:24,930
+Here are 3 doors.
+There’s a goat behind 2 and a car behind
+
+33
+00:02:24,930 --> 00:02:27,720
+1.
+In a blind test, you’re more likely to pick
+
+34
+00:02:27,720 --> 00:02:34,480
+a goat than a car. In fact, you’re 2/3RDS
+likely so let’s use that as our main scenario.
+
+35
+00:02:34,480 --> 00:02:38,530
+You pick door 1.
+So now, Monty Hall, who knows what’s behind
+
+36
+00:02:38,530 --> 00:02:43,180
+all the doors, is forced to reveal a goat
+regardless of the door you pick. Since, in
+
+37
+00:02:43,180 --> 00:02:47,700
+the most probable scenario you’ve also picked
+a goat, the only door left is the one with
+
+38
+00:02:47,700 --> 00:02:51,500
+the car.
+So, now Monty Hall asks, “Would you rather
+
+39
+00:02:51,500 --> 00:02:57,030
+keep the door you’ve picked, or switch?”
+Well, you should most definitely switch. If
+
+40
+00:02:57,030 --> 00:03:02,860
+you do you get the car 2/3rds of the time.
+Turns out when Marilyn correctly answered
+
+41
+00:03:02,860 --> 00:03:07,409
+the Monty Hall Problem, she received thousands
+of letters from across the world telling her
+
+42
+00:03:07,409 --> 00:03:11,440
+she was flat out wrong.
+I think part of her was a little bit surprised
+
+43
+00:03:11,440 --> 00:03:15,849
+that she received 10,000 letters calling her
+an idiot. There was, without a doubt a little
+
+44
+00:03:15,849 --> 00:03:21,519
+bit of sexism at play here. Not only was her
+answer right, it wasn’t anything new.
+
+45
+00:03:21,519 --> 00:03:28,120
+The first time the Monty Hall problem was
+published was in 1975. This guy named Steve
+
+46
+00:03:28,120 --> 00:03:33,569
+Selvin at Berkeley presented the problem in
+The American Statistician.
+
+47
+00:03:33,569 --> 00:03:40,690
+Selvin said you should switch and no one argued
+with him. And over the next 15 years multiple
+
+48
+00:03:40,690 --> 00:03:44,849
+other academics reiterated the same problem
+without and no one ever told them that they
+
+49
+00:03:44,849 --> 00:03:48,849
+were wrong.
+Then in 1990 Marilyn answered the same question
+
+50
+00:03:48,849 --> 00:03:54,830
+correctly and people went bananas.
+Marilyn ended up and tallying up what percentage
+
+51
+00:03:54,830 --> 00:04:01,390
+of the 10,000 responses claimed she was wrong.
+Only 8% of readers actually agreed with her
+
+52
+00:04:01,390 --> 00:04:07,909
+and after subsequent columns she was able
+to raise that to 56%. And among academics:
+
+53
+00:04:07,909 --> 00:04:15,510
+It was 35% among academics initially supporting
+the answer. And about 70% of academics ultimately
+
+54
+00:04:15,510 --> 00:04:19,199
+decided to agree with her.
+The only way she managed to get people on
+
+55
+00:04:19,199 --> 00:04:25,100
+her side was by asking them to do the experiment
+themselves. Elementary, middle school, and
+
+56
+00:04:25,100 --> 00:04:29,840
+high school teachers from all over the country
+wrote in, astounded that their students were
+
+57
+00:04:29,840 --> 00:04:34,270
+able to prove her right.It’s easy now to
+do a simple google search of this little sucker
+
+58
+00:04:34,270 --> 00:04:38,430
+of a problem and get a million explanations
+on how to arrive at the right answer.
+
+59
+00:04:38,430 --> 00:04:43,070
+There's something about this problem that
+really strikes a chord with, not only statisticians,
+
+60
+00:04:43,070 --> 00:00:00,000
+but just everyday problem solvers and people.
+

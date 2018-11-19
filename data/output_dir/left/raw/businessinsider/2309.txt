@@ -1,0 +1,868 @@
+1
+00:00:00,000 --> 00:00:02,399
+which was thanks for being with us what
+
+2
+00:00:02,399 --> 00:00:04,799
+is fan pulse so fan pulse is basically
+
+3
+00:00:04,799 --> 00:00:06,210
+the best way to follow sports with your
+
+4
+00:00:06,210 --> 00:00:07,529
+friends it's kind of like you said it's
+
+5
+00:00:07,529 --> 00:00:08,760
+being at the sports bar with all your
+
+6
+00:00:08,760 --> 00:00:10,679
+buddies all the time so the<font color="#E5E5E5"> idea is that</font>
+
+7
+00:00:10,679 --> 00:00:12,120
+you check into a game you tell everyone
+
+8
+00:00:12,120 --> 00:00:13,500
+you're watching this game<font color="#E5E5E5"> and instantly</font>
+
+9
+00:00:13,500 --> 00:00:14,820
+you're able to cheer<font color="#E5E5E5"> with your friends</font>
+
+10
+00:00:14,820 --> 00:00:16,170
+trash out with your friends<font color="#E5E5E5"> that are</font>
+
+11
+00:00:16,170 --> 00:00:18,330
+watching<font color="#E5E5E5"> the same game now how are you</font>
+
+12
+00:00:18,330 --> 00:00:21,119
+<font color="#E5E5E5">working with say Facebook or Twitter so</font>
+
+13
+00:00:21,119 --> 00:00:22,920
+today we're basically<font color="#E5E5E5"> integrate with</font>
+
+14
+00:00:22,920 --> 00:00:24,359
+those guys so what we do is you can find
+
+15
+00:00:24,359 --> 00:00:26,130
+<font color="#E5E5E5">your friends from Facebook and Twitter</font>
+
+16
+00:00:26,130 --> 00:00:27,960
+and bring them into fan pulse just<font color="#CCCCCC"> so</font>
+
+17
+00:00:27,960 --> 00:00:29,220
+you can also do<font color="#CCCCCC"> that same thing with</font>
+
+18
+00:00:29,220 --> 00:00:31,500
+your<font color="#E5E5E5"> iPhone address book</font><font color="#CCCCCC"> and then once</font>
+
+19
+00:00:31,500 --> 00:00:32,488
+you do that when you<font color="#E5E5E5"> check in the games</font>
+
+20
+00:00:32,488 --> 00:00:33,540
+of your shell we can actually publish
+
+21
+00:00:33,540 --> 00:00:35,340
+your status back out to Facebook and to
+
+22
+00:00:35,340 --> 00:00:36,630
+Twitter so all your friends know in
+
+23
+00:00:36,630 --> 00:00:37,469
+addition<font color="#E5E5E5"> to the friends that you're</font>
+
+24
+00:00:37,469 --> 00:00:40,020
+chatting with on fan pulse now do your
+
+25
+00:00:40,020 --> 00:00:42,030
+user demographic do they use one more
+
+26
+00:00:42,030 --> 00:00:44,640
+than the other um you know our early
+
+27
+00:00:44,640 --> 00:00:45,870
+theories say that there's a lot of
+
+28
+00:00:45,870 --> 00:00:47,989
+facebook usage within our early users
+
+29
+00:00:47,989 --> 00:00:50,280
+twitter is great but it tends to be this
+
+30
+00:00:50,280 --> 00:00:52,020
+<font color="#CCCCCC">i think a lot of people that like to</font>
+
+31
+00:00:52,020 --> 00:00:53,460
+comment into<font color="#CCCCCC"> the cloud whereas</font><font color="#E5E5E5"> facebook</font>
+
+32
+00:00:53,460 --> 00:00:54,690
+will update their status to tell their
+
+33
+00:00:54,690 --> 00:00:56,250
+friends what's going on right so we're
+
+34
+00:00:56,250 --> 00:00:57,690
+seeing<font color="#CCCCCC"> a you know bigger overlap with</font>
+
+35
+00:00:57,690 --> 00:00:59,010
+<font color="#CCCCCC">facebook although we think</font><font color="#E5E5E5"> there's still</font>
+
+36
+00:00:59,010 --> 00:01:01,680
+<font color="#CCCCCC">a lot of usage with Twitter know how our</font>
+
+37
+00:01:01,680 --> 00:01:03,300
+sports<font color="#E5E5E5"> fan is engaging with each other</font>
+
+38
+00:01:03,300 --> 00:01:05,099
+around sports you know when we started
+
+39
+00:01:05,099 --> 00:01:06,630
+<font color="#CCCCCC">this business we actually felt like</font>
+
+40
+00:01:06,630 --> 00:01:07,680
+there's a bit of<font color="#E5E5E5"> a cry for help from</font>
+
+41
+00:01:07,680 --> 00:01:09,240
+sports fans and<font color="#CCCCCC"> in talking to their</font>
+
+42
+00:01:09,240 --> 00:01:10,260
+friends when they weren't<font color="#E5E5E5"> in the same</font>
+
+43
+00:01:10,260 --> 00:01:12,930
+place he would send five SMS<font color="#E5E5E5"> messages to</font>
+
+44
+00:01:12,930 --> 00:01:14,670
+each other from a bar and get five back
+
+45
+00:01:14,670 --> 00:01:16,200
+not realizing<font color="#CCCCCC"> it</font><font color="#E5E5E5"> that's always going to</font>
+
+46
+00:01:16,200 --> 00:01:17,640
+happen there's no reply all on<font color="#E5E5E5"> text</font>
+
+47
+00:01:17,640 --> 00:01:20,009
+messages wait people send emails with
+
+48
+00:01:20,009 --> 00:01:20,970
+<font color="#CCCCCC">the hope that their friends are also</font>
+
+49
+00:01:20,970 --> 00:01:23,250
+watching the game but<font color="#E5E5E5"> then they often</font>
+
+50
+00:01:23,250 --> 00:01:24,479
+don't get responses so something to be
+
+51
+00:01:24,479 --> 00:01:25,799
+both watching the game and checking
+
+52
+00:01:25,799 --> 00:01:27,780
+their email at the same time so we
+
+53
+00:01:27,780 --> 00:01:28,950
+really<font color="#E5E5E5"> think that imposes a way to solve</font>
+
+54
+00:01:28,950 --> 00:01:30,509
+that by broadcasting what you're doing
+
+55
+00:01:30,509 --> 00:01:31,860
+around sports you got your friends
+
+56
+00:01:31,860 --> 00:01:32,970
+engage with you when it's appropriate
+
+57
+00:01:32,970 --> 00:01:34,350
+for them to engage<font color="#CCCCCC"> with you so you can</font>
+
+58
+00:01:34,350 --> 00:01:35,640
+chat you can catch<font color="#E5E5E5"> up on what's been</font>
+
+59
+00:01:35,640 --> 00:01:37,229
+going on<font color="#CCCCCC"> in the game do all those things</font>
+
+60
+00:01:37,229 --> 00:01:40,409
+on fan pulse so now our people in the US
+
+61
+00:01:40,409 --> 00:01:43,140
+talking with fans in say England for the
+
+62
+00:01:43,140 --> 00:01:45,479
+premier Premier League or how is it
+
+63
+00:01:45,479 --> 00:01:47,549
+working is<font color="#CCCCCC"> it becoming like that global</font>
+
+64
+00:01:47,549 --> 00:01:49,560
+of a platform<font color="#E5E5E5"> is definitely has that</font>
+
+65
+00:01:49,560 --> 00:01:51,360
+capability today actually though we're
+
+66
+00:01:51,360 --> 00:01:52,590
+seeing a lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> people that you know</font>
+
+67
+00:01:52,590 --> 00:01:54,210
+reckon him at 5am in the states to watch
+
+68
+00:01:54,210 --> 00:01:55,890
+english premier league matches and chat
+
+69
+00:01:55,890 --> 00:01:57,119
+about on fan<font color="#E5E5E5"> pulse and they're finding</font>
+
+70
+00:01:57,119 --> 00:01:58,920
+buddies<font color="#E5E5E5"> that they didn't know what we're</font>
+
+71
+00:01:58,920 --> 00:02:00,299
+<font color="#E5E5E5">mourning exactly because</font><font color="#CCCCCC"> you can't</font>
+
+72
+00:02:00,299 --> 00:02:01,530
+<font color="#CCCCCC">really get up out of your bed go next</font>
+
+73
+00:02:01,530 --> 00:02:02,790
+door in bed you're watching the game or
+
+74
+00:02:02,790 --> 00:02:05,070
+on your couch but we're seeing you know
+
+75
+00:02:05,070 --> 00:02:06,600
+<font color="#CCCCCC">a lot of communication within</font><font color="#E5E5E5"> community</font>
+
+76
+00:02:06,600 --> 00:02:08,250
+<font color="#E5E5E5">so in the UK people are talking about</font>
+
+77
+00:02:08,250 --> 00:02:11,050
+<font color="#E5E5E5">Premier League using fan pulse</font>
+
+78
+00:02:11,050 --> 00:02:13,480
+no are you<font color="#CCCCCC"> doing anything with the</font>
+
+79
+00:02:13,480 --> 00:02:15,280
+Olympics or<font color="#CCCCCC"> upcoming sporting events</font>
+
+80
+00:02:15,280 --> 00:02:16,990
+like how do you<font color="#E5E5E5"> prepare for those into a</font>
+
+81
+00:02:16,990 --> 00:02:18,400
+march madness is probably going<font color="#E5E5E5"> to be</font>
+
+82
+00:02:18,400 --> 00:02:19,900
+huge for you guys absolutely and where
+
+83
+00:02:19,900 --> 00:02:21,790
+we excel is really in connecting friends
+
+84
+00:02:21,790 --> 00:02:23,410
+letting them talk<font color="#CCCCCC"> about the sports so</font>
+
+85
+00:02:23,410 --> 00:02:24,460
+with the Olympics right now we don't
+
+86
+00:02:24,460 --> 00:02:26,020
+have any data all we're<font color="#E5E5E5"> doing is letting</font>
+
+87
+00:02:26,020 --> 00:02:27,280
+people check<font color="#E5E5E5"> into the Olympics and talk</font>
+
+88
+00:02:27,280 --> 00:02:28,360
+to their friends that<font color="#E5E5E5"> are also watching</font>
+
+89
+00:02:28,360 --> 00:02:29,980
+and we've seen actually a<font color="#E5E5E5"> lot of</font>
+
+90
+00:02:29,980 --> 00:02:31,180
+interaction between East Coast and<font color="#E5E5E5"> West</font>
+
+91
+00:02:31,180 --> 00:02:32,440
+Coast people so if you<font color="#CCCCCC"> only</font><font color="#E5E5E5"> East</font>
+
+92
+00:02:32,440 --> 00:02:33,820
+closures are saying oh my<font color="#CCCCCC"> god that</font><font color="#E5E5E5"> was</font>
+
+93
+00:02:33,820 --> 00:02:35,820
+amazing you know something downhill ski
+
+94
+00:02:35,820 --> 00:02:37,990
+ski event and people in West<font color="#E5E5E5"> Coast like</font>
+
+95
+00:02:37,990 --> 00:02:38,920
+oh I haven't<font color="#E5E5E5"> seen</font><font color="#CCCCCC"> it yet but I'm going</font>
+
+96
+00:02:38,920 --> 00:02:41,650
+<font color="#CCCCCC">to watch it tonight and upcoming</font><font color="#E5E5E5"> from my</font>
+
+97
+00:02:41,650 --> 00:02:43,300
+<font color="#CCCCCC">real early a little bit of spoiler alert</font>
+
+98
+00:02:43,300 --> 00:02:45,010
+on the<font color="#E5E5E5"> Olympics but that NBC's fault not</font>
+
+99
+00:02:45,010 --> 00:02:48,580
+ours yeah with March Madness it's funny
+
+100
+00:02:48,580 --> 00:02:49,750
+<font color="#E5E5E5">you feel like this bracket you spent all</font>
+
+101
+00:02:49,750 --> 00:02:51,010
+<font color="#E5E5E5">this time prepping but from the day you</font>
+
+102
+00:02:51,010 --> 00:02:52,270
+submit it until the end<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the</font>
+
+103
+00:02:52,270 --> 00:02:53,770
+tournament there is no interaction with
+
+104
+00:02:53,770 --> 00:02:54,850
+your bracket other than checking your
+
+105
+00:02:54,850 --> 00:02:56,530
+score but<font color="#E5E5E5"> there's tons a conversation</font>
+
+106
+00:02:56,530 --> 00:02:58,060
+that happens and<font color="#E5E5E5"> so we're going to let</font>
+
+107
+00:02:58,060 --> 00:02:59,860
+<font color="#E5E5E5">people check into games and cheer for</font>
+
+108
+00:02:59,860 --> 00:03:01,360
+the teams and March Madness is great
+
+109
+00:03:01,360 --> 00:03:02,500
+because you<font color="#E5E5E5"> have a horse but the horse</font>
+
+110
+00:03:02,500 --> 00:03:04,870
+that you've picked at the<font color="#E5E5E5"> same time you</font>
+
+111
+00:03:04,870 --> 00:03:06,280
+cheer against<font color="#E5E5E5"> teams if you're gonna win</font>
+
+112
+00:03:06,280 --> 00:03:08,170
+your bracket if you know Kentucky losing
+
+113
+00:03:08,170 --> 00:03:09,340
+the finals<font color="#E5E5E5"> that's great and you can talk</font>
+
+114
+00:03:09,340 --> 00:03:10,510
+to<font color="#E5E5E5"> your friends during the final so it's</font>
+
+115
+00:03:10,510 --> 00:03:11,680
+still<font color="#E5E5E5"> relevant for you whereas your</font>
+
+116
+00:03:11,680 --> 00:03:13,510
+bracket sitting on<font color="#E5E5E5"> some sports site</font>
+
+117
+00:03:13,510 --> 00:03:14,680
+somewhere isn't that relevant for you
+
+118
+00:03:14,680 --> 00:03:16,270
+anymore now what are<font color="#E5E5E5"> you guys doing for</font>
+
+119
+00:03:16,270 --> 00:03:18,459
+world cup assuming<font color="#E5E5E5"> you probably already</font>
+
+120
+00:03:18,459 --> 00:03:20,440
+have something<font color="#E5E5E5"> up and running because</font>
+
+121
+00:03:20,440 --> 00:03:21,850
+the qualifiers in one not<font color="#CCCCCC"> sure</font>
+
+122
+00:03:21,850 --> 00:03:23,050
+<font color="#E5E5E5">absolutely so we're covering english</font>
+
+123
+00:03:23,050 --> 00:03:24,700
+premier league now we don't we haven't
+
+124
+00:03:24,700 --> 00:03:25,930
+turn on qualifier support yet but we
+
+125
+00:03:25,930 --> 00:03:27,880
+will<font color="#E5E5E5"> be doing that shortly but</font>
+
+126
+00:03:27,880 --> 00:03:29,080
+<font color="#E5E5E5">definitely for the world cup left full</font>
+
+127
+00:03:29,080 --> 00:03:30,850
+stats real-time data and let people
+
+128
+00:03:30,850 --> 00:03:32,560
+check in so it'd<font color="#E5E5E5"> be pretty cool if you</font>
+
+129
+00:03:32,560 --> 00:03:35,709
+can you know check in and follow it with
+
+130
+00:03:35,709 --> 00:03:36,940
+all your friends that<font color="#E5E5E5"> are cheering for</font>
+
+131
+00:03:36,940 --> 00:03:38,050
+the US but<font color="#E5E5E5"> also if you have friends</font>
+
+132
+00:03:38,050 --> 00:03:39,970
+abroad<font color="#CCCCCC"> you can talk to them we are we</font>
+
+133
+00:03:39,970 --> 00:03:41,290
+can increase some cool features to see
+
+134
+00:03:41,290 --> 00:03:42,820
+who's pulling for what countries at what
+
+135
+00:03:42,820 --> 00:03:44,860
+time so we plan to do a lot around<font color="#E5E5E5"> the</font>
+
+136
+00:03:44,860 --> 00:03:48,910
+world cup so you<font color="#CCCCCC"> are a app at the App</font>
+
+137
+00:03:48,910 --> 00:03:50,800
+<font color="#CCCCCC">Store give me a little bit of background</font>
+
+138
+00:03:50,800 --> 00:03:53,170
+on the submission and approval process
+
+139
+00:03:53,170 --> 00:03:54,610
+that you have to go through for<font color="#E5E5E5"> Apple</font>
+
+140
+00:03:54,610 --> 00:03:56,320
+sure so this was our<font color="#CCCCCC"> first time kind</font><font color="#E5E5E5"> of</font>
+
+141
+00:03:56,320 --> 00:03:58,600
+going<font color="#CCCCCC"> through the process i would say on</font>
+
+142
+00:03:58,600 --> 00:04:00,010
+the whole we were pleasantly surprised
+
+143
+00:04:00,010 --> 00:04:04,510
+it was very very quick in getting you
+
+144
+00:04:04,510 --> 00:04:05,620
+know from submission to being
+
+145
+00:04:05,620 --> 00:04:08,170
+interviewed to give him feedback the
+
+146
+00:04:08,170 --> 00:04:09,310
+challenges that we had were really that
+
+147
+00:04:09,310 --> 00:04:10,870
+<font color="#E5E5E5">there was no visibility into that what</font>
+
+148
+00:04:10,870 --> 00:04:12,459
+we learned after the fact a little bit
+
+149
+00:04:12,459 --> 00:04:13,660
+later the processes they do a legal
+
+150
+00:04:13,660 --> 00:04:15,370
+<font color="#E5E5E5">review of marketing review a technical</font>
+
+151
+00:04:15,370 --> 00:04:17,798
+review of content review and that
+
+152
+00:04:17,798 --> 00:04:19,358
+feedback comes in<font color="#CCCCCC"> parts so it'd be</font>
+
+153
+00:04:19,358 --> 00:04:20,709
+really one more helpful for us to get
+
+154
+00:04:20,709 --> 00:04:22,750
+all that feedback<font color="#CCCCCC"> in three days</font>
+
+155
+00:04:22,750 --> 00:04:24,610
+part 1 of feedback in one day<font color="#E5E5E5"> and then</font>
+
+156
+00:04:24,610 --> 00:04:25,900
+part two a feedback after we submit
+
+157
+00:04:25,900 --> 00:04:27,820
+again and<font color="#E5E5E5"> fix those errors or issues</font>
+
+158
+00:04:27,820 --> 00:04:30,430
+rather<font color="#E5E5E5"> that Apple has so it was a it was</font>
+
+159
+00:04:30,430 --> 00:04:32,380
+good in<font color="#E5E5E5"> the end we</font><font color="#CCCCCC"> got approved where</font>
+
+160
+00:04:32,380 --> 00:04:34,120
+<font color="#CCCCCC">we're lodge we had an update that was</font>
+
+161
+00:04:34,120 --> 00:04:36,430
+submitted<font color="#CCCCCC"> and sent through with two days</font>
+
+162
+00:04:36,430 --> 00:04:38,830
+so that's been great but a little more
+
+163
+00:04:38,830 --> 00:04:40,450
+visibility would always be helpful now
+
+164
+00:04:40,450 --> 00:04:41,950
+do you<font color="#CCCCCC"> think they treat bigger guys like</font>
+
+165
+00:04:41,950 --> 00:04:43,750
+a skype or facebook different than say
+
+166
+00:04:43,750 --> 00:04:45,820
+smaller developers um you know what's
+
+167
+00:04:45,820 --> 00:04:47,380
+interesting<font color="#CCCCCC"> I've heard</font><font color="#E5E5E5"> that there are</font>
+
+168
+00:04:47,380 --> 00:04:48,760
+people called bread advocates<font color="#CCCCCC"> within</font>
+
+169
+00:04:48,760 --> 00:04:50,950
+<font color="#CCCCCC">Apple</font><font color="#E5E5E5"> but I think those tend to be more</font>
+
+170
+00:04:50,950 --> 00:04:53,560
+for brands like the gap<font color="#E5E5E5"> and target that</font>
+
+171
+00:04:53,560 --> 00:04:55,570
+have big ad campaigns targeted with
+
+172
+00:04:55,570 --> 00:04:58,060
+their apps and they tend to<font color="#E5E5E5"> get longer</font>
+
+173
+00:04:58,060 --> 00:05:00,970
+lead times anyways I don't know that<font color="#E5E5E5"> we</font>
+
+174
+00:05:00,970 --> 00:05:02,169
+<font color="#CCCCCC">got treated differently that I got</font>
+
+175
+00:05:02,169 --> 00:05:04,120
+facebook or skype would be you know
+
+176
+00:05:04,120 --> 00:05:05,890
+there's been<font color="#E5E5E5"> some public falling out</font>
+
+177
+00:05:05,890 --> 00:05:07,480
+over the facebook app as well meaning
+
+178
+00:05:07,480 --> 00:05:09,160
+the guy at<font color="#E5E5E5"> Facebook was not very happy</font>
+
+179
+00:05:09,160 --> 00:05:11,620
+<font color="#E5E5E5">with the applicable process great and so</font>
+
+180
+00:05:11,620 --> 00:05:13,390
+that being said<font color="#E5E5E5"> I don't know if it's</font>
+
+181
+00:05:13,390 --> 00:05:15,100
+that different<font color="#E5E5E5"> although i will say that</font>
+
+182
+00:05:15,100 --> 00:05:16,600
+would be nice<font color="#E5E5E5"> to have some</font><font color="#CCCCCC"> more</font>
+
+183
+00:05:16,600 --> 00:05:18,190
+visibility at a point of contact<font color="#E5E5E5"> when</font>
+
+184
+00:05:18,190 --> 00:05:19,240
+<font color="#E5E5E5">you have questions when you're saying</font>
+
+185
+00:05:19,240 --> 00:05:20,770
+hey it's been three days why is my app
+
+186
+00:05:20,770 --> 00:05:22,360
+being reviewed yet<font color="#CCCCCC"> i haven't you have no</font>
+
+187
+00:05:22,360 --> 00:05:24,010
+<font color="#E5E5E5">where to reach out to and that's that's</font>
+
+188
+00:05:24,010 --> 00:05:25,120
+a bit of a challenge at least some
+
+189
+00:05:25,120 --> 00:05:27,580
+guidance it'll take<font color="#CCCCCC"> us four days to get</font>
+
+190
+00:05:27,580 --> 00:05:29,020
+your average review even that would<font color="#CCCCCC"> be</font>
+
+191
+00:05:29,020 --> 00:05:30,700
+more<font color="#E5E5E5"> helpful</font><font color="#CCCCCC"> than nothing now do you</font>
+
+192
+00:05:30,700 --> 00:05:32,979
+guys have<font color="#CCCCCC"> plans for a</font><font color="#E5E5E5"> facebook app or</font>
+
+193
+00:05:32,979 --> 00:05:34,900
+for blackberry or what other platforms
+
+194
+00:05:34,900 --> 00:05:36,130
+are you looking at sure so we definitely
+
+195
+00:05:36,130 --> 00:05:38,010
+look at fab pulse as a multi-platform
+
+196
+00:05:38,010 --> 00:05:40,660
+service for sports fans so in right now
+
+197
+00:05:40,660 --> 00:05:41,830
+in the process of rolling out our
+
+198
+00:05:41,830 --> 00:05:43,540
+desktop website we should also have a
+
+199
+00:05:43,540 --> 00:05:45,130
+mobile component to it so we optimized
+
+200
+00:05:45,130 --> 00:05:46,900
+for an Android or Blackberry or iPhone
+
+201
+00:05:46,900 --> 00:05:49,120
+browser so<font color="#E5E5E5"> we'll be on all the mobile</font>
+
+202
+00:05:49,120 --> 00:05:51,400
+platforms dissolves on the web and you
+
+203
+00:05:51,400 --> 00:05:52,630
+know a facebook tab is definitely<font color="#E5E5E5"> it's</font>
+
+204
+00:05:52,630 --> 00:05:54,310
+interesting<font color="#E5E5E5"> we're not focus on it today</font>
+
+205
+00:05:54,310 --> 00:05:55,419
+but it's definitely area are going to
+
+206
+00:05:55,419 --> 00:05:56,650
+keep our eyes on now where do<font color="#E5E5E5"> you</font>
+
+207
+00:05:56,650 --> 00:05:59,530
+thought Sal I've had you know the cool
+
+208
+00:05:59,530 --> 00:06:01,000
+by<font color="#E5E5E5"> the ipad is our app works on an</font>
+
+209
+00:06:01,000 --> 00:06:02,320
+already fan falls where you can turn<font color="#E5E5E5"> it</font>
+
+210
+00:06:02,320 --> 00:06:05,110
+<font color="#CCCCCC">on and it works we think it's a really</font>
+
+211
+00:06:05,110 --> 00:06:06,490
+powerful product because it's going<font color="#E5E5E5"> to</font>
+
+212
+00:06:06,490 --> 00:06:07,960
+be on<font color="#E5E5E5"> your coffee table when you're</font>
+
+213
+00:06:07,960 --> 00:06:09,729
+<font color="#CCCCCC">watching the game so obviously once it</font>
+
+214
+00:06:09,729 --> 00:06:11,260
+launches and it's in consumers hands
+
+215
+00:06:11,260 --> 00:06:12,400
+<font color="#E5E5E5">going to roll out some features are</font>
+
+216
+00:06:12,400 --> 00:06:13,630
+going to help kind of optimized fan
+
+217
+00:06:13,630 --> 00:00:00,000
+polls for the<font color="#CCCCCC"> iPad</font>
+

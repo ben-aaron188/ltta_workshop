@@ -1,0 +1,772 @@
+1
+00:00:04,440 --> 00:00:07,319
+I know from<font color="#E5E5E5"> experience and having talked</font>
+
+2
+00:00:07,319 --> 00:00:09,389
+to lots venture capitalists that the
+
+3
+00:00:09,389 --> 00:00:13,440
+word content is just a horrible concept
+
+4
+00:00:13,440 --> 00:00:14,850
+to venture<font color="#CCCCCC"> capitalists now and yet you</font>
+
+5
+00:00:14,850 --> 00:00:16,289
+have actually<font color="#CCCCCC"> built your portfolio</font>
+
+6
+00:00:16,289 --> 00:00:17,820
+around this so what's different what are
+
+7
+00:00:17,820 --> 00:00:19,110
+you seeing that others are missing<font color="#E5E5E5"> you</font>
+
+8
+00:00:19,110 --> 00:00:21,090
+know I think<font color="#E5E5E5"> what's happened is that the</font>
+
+9
+00:00:21,090 --> 00:00:24,450
+west coast<font color="#E5E5E5"> venture capital community for</font>
+
+10
+00:00:24,450 --> 00:00:25,980
+the longest time didn't like content
+
+11
+00:00:25,980 --> 00:00:28,080
+because it takes too many people who
+
+12
+00:00:28,080 --> 00:00:29,880
+make too much money to produce the
+
+13
+00:00:29,880 --> 00:00:33,090
+content and there's a bias<font color="#E5E5E5"> I think in</font>
+
+14
+00:00:33,090 --> 00:00:34,649
+the west coast in particular to machines
+
+15
+00:00:34,649 --> 00:00:37,559
+creating things and sure enough you<font color="#CCCCCC"> know</font>
+
+16
+00:00:37,559 --> 00:00:39,149
+Google came along and was this
+
+17
+00:00:39,149 --> 00:00:43,230
+incredible machine that created great
+
+18
+00:00:43,230 --> 00:00:45,300
+advertising inventory with essentially
+
+19
+00:00:45,300 --> 00:00:47,760
+no human intervention and as we know
+
+20
+00:00:47,760 --> 00:00:49,379
+Google is a great company<font color="#CCCCCC"> and went on to</font>
+
+21
+00:00:49,379 --> 00:00:50,909
+be a great story and everybody's been
+
+22
+00:00:50,909 --> 00:00:54,600
+chasing the next machine that can create
+
+23
+00:00:54,600 --> 00:00:56,460
+great advertising inventory but the fact
+
+24
+00:00:56,460 --> 00:00:58,949
+is that i<font color="#CCCCCC"> think it's an anomaly and that</font>
+
+25
+00:00:58,949 --> 00:01:00,780
+to create great advertising inventory
+
+26
+00:01:00,780 --> 00:01:03,120
+you need to create great content and
+
+27
+00:01:03,120 --> 00:01:05,729
+creating great content means great
+
+28
+00:01:05,729 --> 00:01:09,000
+people who you do have to pay who know
+
+29
+00:01:09,000 --> 00:01:11,880
+how to write and edit and design<font color="#CCCCCC"> and</font>
+
+30
+00:01:11,880 --> 00:01:15,030
+build you know interactivity into the
+
+31
+00:01:15,030 --> 00:01:16,830
+content and so that we've always
+
+32
+00:01:16,830 --> 00:01:18,540
+believed that and that's the type of
+
+33
+00:01:18,540 --> 00:01:20,520
+content<font color="#CCCCCC"> that i think people want to</font>
+
+34
+00:01:20,520 --> 00:01:22,050
+consume I think that's<font color="#E5E5E5"> the type of</font>
+
+35
+00:01:22,050 --> 00:01:23,370
+content<font color="#E5E5E5"> that advertisers want to be</font>
+
+36
+00:01:23,370 --> 00:01:26,670
+associated with and because the the
+
+37
+00:01:26,670 --> 00:01:28,500
+notion of having too many people around
+
+38
+00:01:28,500 --> 00:01:31,380
+I think that's what's driven venture
+
+39
+00:01:31,380 --> 00:01:33,960
+guys away<font color="#CCCCCC"> from content as a business and</font>
+
+40
+00:01:33,960 --> 00:01:36,000
+two of the areas that some venture
+
+41
+00:01:36,000 --> 00:01:37,950
+capitalists are excited about<font color="#E5E5E5"> that are</font>
+
+42
+00:01:37,950 --> 00:01:39,960
+still under<font color="#CCCCCC"> the rubric content but are</font>
+
+43
+00:01:39,960 --> 00:01:41,310
+<font color="#CCCCCC">very different</font><font color="#E5E5E5"> than what you're doing</font>
+
+44
+00:01:41,310 --> 00:01:42,330
+and I want<font color="#E5E5E5"> to get to what you're</font><font color="#CCCCCC"> doing</font>
+
+45
+00:01:42,330 --> 00:01:44,940
+in a minute are the completely<font color="#E5E5E5"> free</font>
+
+46
+00:01:44,940 --> 00:01:47,220
+user-generated content model like
+
+47
+00:01:47,220 --> 00:01:49,200
+Wikipedia is there's a private<font color="#E5E5E5"> version</font>
+
+48
+00:01:49,200 --> 00:01:51,660
+of that<font color="#CCCCCC"> so then there's the</font><font color="#E5E5E5"> mick content</font>
+
+49
+00:01:51,660 --> 00:01:54,390
+the demand media associated content seed
+
+50
+00:01:54,390 --> 00:01:56,520
+where we're just<font color="#CCCCCC"> going to pay a million</font>
+
+51
+00:01:56,520 --> 00:01:58,830
+freelancers five dollars a post or
+
+52
+00:01:58,830 --> 00:02:00,300
+whatever it<font color="#E5E5E5"> is to create this massive</font>
+
+53
+00:02:00,300 --> 00:02:02,730
+body of work<font color="#CCCCCC"> that will be SEO through</font>
+
+54
+00:02:02,730 --> 00:02:04,620
+google and make gazillions of dollars at
+
+55
+00:02:04,620 --> 00:02:06,000
+the expense of the<font color="#CCCCCC"> New York Times right</font>
+
+56
+00:02:06,000 --> 00:02:08,429
+so do<font color="#E5E5E5"> you think those models work well I</font>
+
+57
+00:02:08,429 --> 00:02:10,408
+think demand you know demand is
+
+58
+00:02:10,408 --> 00:02:12,960
+basically is a google arbitrage you know
+
+59
+00:02:12,960 --> 00:02:14,740
+they create a lot<font color="#E5E5E5"> of content</font>
+
+60
+00:02:14,740 --> 00:02:17,440
+and it gets<font color="#E5E5E5"> SE owed and then ninety</font>
+
+61
+00:02:17,440 --> 00:02:19,270
+percent of the revenue comes from the
+
+62
+00:02:19,270 --> 00:02:20,740
+links the google links that are on the
+
+63
+00:02:20,740 --> 00:02:24,010
+demand content so having 11 revenue
+
+64
+00:02:24,010 --> 00:02:25,750
+source is you know for ninety percent<font color="#E5E5E5"> of</font>
+
+65
+00:02:25,750 --> 00:02:28,420
+<font color="#E5E5E5">your revenue is risky but i think i</font>
+
+66
+00:02:28,420 --> 00:02:30,550
+<font color="#E5E5E5">think that</font><font color="#CCCCCC"> that's a part of the equation</font>
+
+67
+00:02:30,550 --> 00:02:32,650
+you know<font color="#E5E5E5"> i think that having that Mick</font>
+
+68
+00:02:32,650 --> 00:02:35,410
+content to use your term it is<font color="#E5E5E5"> important</font>
+
+69
+00:02:35,410 --> 00:02:37,900
+you know having but<font color="#CCCCCC"> i think you have to</font>
+
+70
+00:02:37,900 --> 00:02:41,440
+layer on top of it professional branded
+
+71
+00:02:41,440 --> 00:02:43,420
+content that the advertising community
+
+72
+00:02:43,420 --> 00:02:45,460
+wants to be associated with because the
+
+73
+00:02:45,460 --> 00:02:47,290
+risk right from a brand's perspective is
+
+74
+00:02:47,290 --> 00:02:49,120
+that it gets involved with<font color="#E5E5E5"> some of these</font>
+
+75
+00:02:49,120 --> 00:02:51,820
+<font color="#E5E5E5">user-generated or Mick content and it's</font>
+
+76
+00:02:51,820 --> 00:02:53,680
+hard<font color="#E5E5E5"> to know what's going</font><font color="#CCCCCC"> to be created</font>
+
+77
+00:02:53,680 --> 00:02:55,870
+next do you know it's it's not a safe
+
+78
+00:02:55,870 --> 00:03:00,040
+<font color="#E5E5E5">place for a brand manager or a media</font>
+
+79
+00:03:00,040 --> 00:03:02,170
+planner to associate so you think
+
+80
+00:03:02,170 --> 00:03:04,150
+advertisers will continue to care about
+
+81
+00:03:04,150 --> 00:03:05,500
+that because if you go<font color="#CCCCCC"> to a trade show</font>
+
+82
+00:03:05,500 --> 00:03:07,810
+now you'll have ID seven ad networks
+
+83
+00:03:07,810 --> 00:03:09,910
+tell you doesn't matter demand media
+
+84
+00:03:09,910 --> 00:03:11,980
+<font color="#E5E5E5">page doesn't match yeah</font><font color="#CCCCCC"> I do I look I</font>
+
+85
+00:03:11,980 --> 00:03:14,080
+think<font color="#E5E5E5"> remnant inventory is always going</font>
+
+86
+00:03:14,080 --> 00:03:16,420
+<font color="#E5E5E5">to be best monetized to ad networks but</font>
+
+87
+00:03:16,420 --> 00:03:17,770
+but<font color="#E5E5E5"> the fact of the matter is is that</font>
+
+88
+00:03:17,770 --> 00:03:20,550
+the majority of a<font color="#CCCCCC"> Mart the margin of</font>
+
+89
+00:03:20,550 --> 00:03:22,480
+advertising based businesses is going to
+
+90
+00:03:22,480 --> 00:03:25,240
+be through sold inventory to advertisers
+
+91
+00:03:25,240 --> 00:03:27,640
+and when my<font color="#CCCCCC"> companies you know</font><font color="#E5E5E5"> talk to</font>
+
+92
+00:03:27,640 --> 00:03:31,030
+advertisers or agencies the media
+
+93
+00:03:31,030 --> 00:03:32,950
+planners go on to the site and<font color="#E5E5E5"> they say</font>
+
+94
+00:03:32,950 --> 00:03:34,960
+I want<font color="#E5E5E5"> to be on that page and that page</font>
+
+95
+00:03:34,960 --> 00:03:37,270
+<font color="#E5E5E5">and that they point to the pages that</font>
+
+96
+00:03:37,270 --> 00:03:39,310
+they want to be on they care about
+
+97
+00:03:39,310 --> 00:03:41,320
+context they care brands take a long
+
+98
+00:03:41,320 --> 00:03:42,760
+time to build and they're<font color="#CCCCCC"> very easy</font>
+
+99
+00:03:42,760 --> 00:03:44,830
+<font color="#E5E5E5">things to destroy and so they don't want</font>
+
+100
+00:03:44,830 --> 00:03:46,540
+to<font color="#E5E5E5"> take</font><font color="#CCCCCC"> that chance</font><font color="#E5E5E5"> and so I do think</font>
+
+101
+00:03:46,540 --> 00:03:49,450
+that this that professional and curated
+
+102
+00:03:49,450 --> 00:03:51,580
+content is really important<font color="#E5E5E5"> and I think</font>
+
+103
+00:03:51,580 --> 00:03:54,400
+having the other stuff beneath it is
+
+104
+00:03:54,400 --> 00:03:56,080
+great and I<font color="#CCCCCC"> think you can make a</font><font color="#E5E5E5"> lot of</font>
+
+105
+00:03:56,080 --> 00:03:59,230
+<font color="#E5E5E5">money on remnant inventory you know the</font>
+
+106
+00:03:59,230 --> 00:04:01,120
+margins aren't great but I think you<font color="#E5E5E5"> can</font>
+
+107
+00:04:01,120 --> 00:04:02,890
+do pretty well with it but without the
+
+108
+00:04:02,890 --> 00:04:06,130
+without the branded top level I<font color="#E5E5E5"> think</font>
+
+109
+00:04:06,130 --> 00:04:08,430
+it's hard to create real sustainable
+
+110
+00:04:08,430 --> 00:04:10,840
+businesses now at village ventures
+
+111
+00:04:10,840 --> 00:04:13,660
+you've developed a very clear thesis
+
+112
+00:04:13,660 --> 00:04:15,850
+with a lot of<font color="#E5E5E5"> very key points to it</font>
+
+113
+00:04:15,850 --> 00:04:17,890
+that's<font color="#E5E5E5"> not just invest in any content</font>
+
+114
+00:04:17,890 --> 00:04:19,480
+business so talk<font color="#CCCCCC"> about that yeah you</font>
+
+115
+00:04:19,480 --> 00:04:20,529
+know we
+
+116
+00:04:20,529 --> 00:04:23,200
+have have learned over over the last six
+
+117
+00:04:23,200 --> 00:04:24,910
+or seven years<font color="#CCCCCC"> that there are basically</font>
+
+118
+00:04:24,910 --> 00:04:27,910
+three pieces to this content business
+
+119
+00:04:27,910 --> 00:04:29,590
+vertical content business that<font color="#E5E5E5"> really</font>
+
+120
+00:04:29,590 --> 00:04:31,270
+makes sense the first thing<font color="#CCCCCC"> is you</font>
+
+121
+00:04:31,270 --> 00:04:32,860
+really need<font color="#CCCCCC"> to</font><font color="#E5E5E5"> have an owned and</font>
+
+122
+00:04:32,860 --> 00:04:37,650
+operated you know branded content hub
+
+123
+00:04:37,650 --> 00:04:41,610
+you know in parenting we have babble.com
+
+124
+00:04:41,610 --> 00:04:44,560
+in in technology we have toptenreviews
+
+125
+00:04:44,560 --> 00:04:47,530
+com that that's a really important thing
+
+126
+00:04:47,530 --> 00:04:49,210
+to have you know a single URL that's
+
+127
+00:04:49,210 --> 00:04:51,639
+attracting organic traffic that's
+
+128
+00:04:51,639 --> 00:04:53,470
+professionally produced and then the
+
+129
+00:04:53,470 --> 00:04:54,790
+second<font color="#CCCCCC"> thing is some sort of</font>
+
+130
+00:04:54,790 --> 00:04:56,560
+<font color="#E5E5E5">direct-to-consumer revenue stream</font>
+
+131
+00:04:56,560 --> 00:04:58,410
+whether it's subscriptions or e-commerce
+
+132
+00:04:58,410 --> 00:05:00,790
+you know that those two things really
+
+133
+00:05:00,790 --> 00:05:03,550
+work well together to drive the overall
+
+134
+00:05:03,550 --> 00:05:05,470
+business because the direct consumer
+
+135
+00:05:05,470 --> 00:05:08,740
+piece allows you to do custom<font color="#CCCCCC"> roi</font>
+
+136
+00:05:08,740 --> 00:05:11,200
+focused customer acquisition to bring
+
+137
+00:05:11,200 --> 00:05:13,300
+<font color="#E5E5E5">people into your world and then you can</font>
+
+138
+00:05:13,300 --> 00:05:15,760
+move them over usually using email
+
+139
+00:05:15,760 --> 00:05:17,290
+newsletters to the owned and operated
+
+140
+00:05:17,290 --> 00:05:20,169
+content<font color="#E5E5E5"> where you can make more margin</font>
+
+141
+00:05:20,169 --> 00:05:22,090
+<font color="#E5E5E5">and then the third piece is adding an ad</font>
+
+142
+00:05:22,090 --> 00:05:24,550
+network layer on top of that because<font color="#E5E5E5"> you</font>
+
+143
+00:05:24,550 --> 00:05:26,320
+know<font color="#CCCCCC"> you can't it's hard</font><font color="#E5E5E5"> to get a single</font>
+
+144
+00:05:26,320 --> 00:05:28,810
+URL past 10 or 20 million uniques you
+
+145
+00:05:28,810 --> 00:05:30,400
+know if you want to<font color="#E5E5E5"> get to 30 40 50</font>
+
+146
+00:05:30,400 --> 00:05:32,229
+million uniques in a vertical you really
+
+147
+00:05:32,229 --> 00:05:36,460
+need<font color="#CCCCCC"> to add other smaller content sites</font>
+
+148
+00:05:36,460 --> 00:05:39,070
+that you can represent and leverage your
+
+149
+00:05:39,070 --> 00:05:41,350
+your ad sales relationships and the one
+
+150
+00:05:41,350 --> 00:05:42,460
+piece of<font color="#CCCCCC"> that</font><font color="#E5E5E5"> that's I</font><font color="#CCCCCC"> think very</font>
+
+151
+00:05:42,460 --> 00:05:43,780
+important<font color="#E5E5E5"> a lot of content companies</font>
+
+152
+00:05:43,780 --> 00:05:45,580
+over the<font color="#E5E5E5"> last 15</font><font color="#CCCCCC"> years have made the</font>
+
+153
+00:05:45,580 --> 00:05:47,229
+mistake of<font color="#E5E5E5"> thinking well we'll start a</font>
+
+154
+00:05:47,229 --> 00:05:49,750
+URL will buy advertisements on TV people
+
+155
+00:05:49,750 --> 00:05:51,460
+will see those and go and what you're
+
+156
+00:05:51,460 --> 00:05:52,990
+saying is you<font color="#E5E5E5"> actually have to be</font>
+
+157
+00:05:52,990 --> 00:05:55,479
+marketing a very specific service you're
+
+158
+00:05:55,479 --> 00:05:56,770
+going to do that with keywords or
+
+159
+00:05:56,770 --> 00:05:58,450
+something else folks<font color="#E5E5E5"> are going to come</font>
+
+160
+00:05:58,450 --> 00:06:00,490
+in maybe they're going to buy<font color="#E5E5E5"> it but</font>
+
+161
+00:06:00,490 --> 00:06:02,950
+maybe not but if they don't voila
+
+162
+00:06:02,950 --> 00:06:04,840
+there's your content sitting there so
+
+163
+00:06:04,840 --> 00:06:06,610
+you can have them look at the capital
+
+164
+00:06:06,610 --> 00:06:08,500
+efficiency of growing these vertical
+
+165
+00:06:08,500 --> 00:06:10,240
+content businesses<font color="#E5E5E5"> it's gotten so much</font>
+
+166
+00:06:10,240 --> 00:06:11,860
+better and it's exactly for that reason
+
+167
+00:06:11,860 --> 00:06:13,539
+<font color="#E5E5E5">you come up with something</font><font color="#CCCCCC"> that people</font>
+
+168
+00:06:13,539 --> 00:06:16,090
+are willing<font color="#E5E5E5"> to pay for you go out and</font>
+
+169
+00:06:16,090 --> 00:06:18,729
+you bring you know 30 people into that
+
+170
+00:06:18,729 --> 00:06:20,800
+product one of them buys that the other
+
+171
+00:06:20,800 --> 00:06:23,200
+29 people don't the one that does buy it
+
+172
+00:06:23,200 --> 00:06:25,690
+pays<font color="#CCCCCC"> for all 30 and then the other 29</font>
+
+173
+00:06:25,690 --> 00:06:27,970
+people you recirculate into different
+
+174
+00:06:27,970 --> 00:06:29,650
+content products you might have where
+
+175
+00:06:29,650 --> 00:06:31,480
+you can sell advertising
+
+176
+00:06:31,480 --> 00:06:33,640
+audience and<font color="#CCCCCC"> and make a great margin so</font>
+
+177
+00:06:33,640 --> 00:06:36,580
+those two pieces have a really young and
+
+178
+00:06:36,580 --> 00:06:37,990
+yang well the other<font color="#CCCCCC"> thing is</font><font color="#E5E5E5"> that when</font>
+
+179
+00:06:37,990 --> 00:06:39,640
+you're when the advertising market is
+
+180
+00:06:39,640 --> 00:06:42,280
+very cyclical when it goes down on the
+
+181
+00:06:42,280 --> 00:06:43,810
+direct consumer piece you're an ad buyer
+
+182
+00:06:43,810 --> 00:06:45,520
+right because you're buying advertising
+
+183
+00:06:45,520 --> 00:06:48,160
+to bring<font color="#E5E5E5"> people in when the advertising</font>
+
+184
+00:06:48,160 --> 00:06:49,990
+market goes up on the owned and operated
+
+185
+00:06:49,990 --> 00:06:52,720
+media side you're an ad seller so you
+
+186
+00:06:52,720 --> 00:06:56,050
+can you know grow through cycles by by
+
+187
+00:06:56,050 --> 00:06:57,850
+matching up those revenue streams and
+
+188
+00:06:57,850 --> 00:06:59,140
+then of course<font color="#CCCCCC"> the ad network piece just</font>
+
+189
+00:06:59,140 --> 00:07:01,030
+adds a lot<font color="#CCCCCC"> of scale</font><font color="#E5E5E5"> and then adds a lot</font>
+
+190
+00:07:01,030 --> 00:07:03,070
+of<font color="#E5E5E5"> data allowing more targeting and you</font>
+
+191
+00:07:03,070 --> 00:07:04,720
+know the bigger your ad network the more
+
+192
+00:07:04,720 --> 00:07:06,040
+data you have with the more targeted
+
+193
+00:07:06,040 --> 00:00:00,000
+targeting you can do on the advertising
+

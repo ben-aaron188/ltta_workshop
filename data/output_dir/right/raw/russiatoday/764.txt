@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,850
+ha llegado la<font color="#CCCCCC"> hora</font><font color="#E5E5E5"> de la recuperación</font>
+
+2
+00:00:01,850 --> 00:00:06,170
+<font color="#CCCCCC">económica y necesario</font>
+
+3
+00:00:09,060 --> 00:00:12,320
+y necesitamos
+
+4
+00:00:17,080 --> 00:00:00,000
+<font color="#CCCCCC">él</font>
+

@@ -1,0 +1,828 @@
+1
+00:00:02,210 --> 00:00:04,890
+in a new<font color="#E5E5E5"> effort</font><font color="#CCCCCC"> to win back trust of</font>
+
+2
+00:00:04,890 --> 00:00:06,990
+users Facebook<font color="#E5E5E5"> is giving a peek behind</font>
+
+3
+00:00:06,990 --> 00:00:08,910
+the curtain<font color="#CCCCCC"> revealing many</font><font color="#E5E5E5"> of the rules</font>
+
+4
+00:00:08,910 --> 00:00:11,610
+moderators use to review content on
+
+5
+00:00:11,610 --> 00:00:13,440
+their platform the company says<font color="#CCCCCC"> the</font>
+
+6
+00:00:13,440 --> 00:00:15,780
+<font color="#CCCCCC">guidelines are a</font><font color="#E5E5E5"> living document</font><font color="#CCCCCC"> being</font>
+
+7
+00:00:15,780 --> 00:00:18,480
+edited<font color="#E5E5E5"> as needed but the shadow of</font>
+
+8
+00:00:18,480 --> 00:00:21,330
+<font color="#E5E5E5">high-profile missteps still looms large</font>
+
+9
+00:00:21,330 --> 00:00:23,670
+<font color="#E5E5E5">something founder Mark Zuckerberg noted</font>
+
+10
+00:00:23,670 --> 00:00:25,470
+in<font color="#E5E5E5"> a hearing before</font><font color="#CCCCCC"> Senators earlier</font>
+
+11
+00:00:25,470 --> 00:00:29,429
+this month in<font color="#E5E5E5"> retrospect I think we</font>
+
+12
+00:00:29,429 --> 00:00:31,109
+clearly view it as a mistake<font color="#CCCCCC"> that we</font>
+
+13
+00:00:31,109 --> 00:00:33,149
+didn't inform people<font color="#E5E5E5"> and we did that</font>
+
+14
+00:00:33,149 --> 00:00:35,640
+based on false information<font color="#CCCCCC"> that we</font>
+
+15
+00:00:35,640 --> 00:00:37,170
+thought<font color="#E5E5E5"> that the case was closed and</font>
+
+16
+00:00:37,170 --> 00:00:38,520
+that<font color="#CCCCCC"> the data</font><font color="#E5E5E5"> had been</font><font color="#CCCCCC"> deleted and</font>
+
+17
+00:00:38,520 --> 00:00:39,870
+knowing what we<font color="#E5E5E5"> know now</font><font color="#CCCCCC"> we should</font><font color="#E5E5E5"> have</font>
+
+18
+00:00:39,870 --> 00:00:41,450
+handled a lot<font color="#E5E5E5"> of</font><font color="#CCCCCC"> things here differently</font>
+
+19
+00:00:41,450 --> 00:00:43,770
+privacy<font color="#E5E5E5"> issues are nothing new for</font>
+
+20
+00:00:43,770 --> 00:00:45,750
+<font color="#E5E5E5">Facebook the social</font><font color="#CCCCCC"> media giant faced</font>
+
+21
+00:00:45,750 --> 00:00:48,300
+major<font color="#CCCCCC"> backlash from users since its</font>
+
+22
+00:00:48,300 --> 00:00:51,570
+<font color="#E5E5E5">newsfeed debuted in 2006 and users trust</font>
+
+23
+00:00:51,570 --> 00:00:54,539
+<font color="#E5E5E5">in the company it's complicated in 2011</font>
+
+24
+00:00:54,539 --> 00:00:57,989
+<font color="#CCCCCC">Facebook faced</font><font color="#E5E5E5"> an</font><font color="#CCCCCC"> eight-count</font><font color="#E5E5E5"> complaint</font>
+
+25
+00:00:57,989 --> 00:00:59,520
+from<font color="#E5E5E5"> the Federal Trade Commission the</font>
+
+26
+00:00:59,520 --> 00:01:02,129
+<font color="#CCCCCC">FTC said the company mishandled private</font>
+
+27
+00:01:02,129 --> 00:01:04,709
+data and engaged in deceptive practices
+
+28
+00:01:04,709 --> 00:01:06,750
+the company<font color="#E5E5E5"> entered an agreement with</font>
+
+29
+00:01:06,750 --> 00:01:09,030
+the FTC<font color="#CCCCCC"> that included financial</font>
+
+30
+00:01:09,030 --> 00:01:12,270
+penalties<font color="#CCCCCC"> if it violated the</font><font color="#E5E5E5"> decree in</font>
+
+31
+00:01:12,270 --> 00:01:15,000
+2014 researcher<font color="#CCCCCC"> Alexandre Cogan</font>
+
+32
+00:01:15,000 --> 00:01:17,729
+<font color="#E5E5E5">unleashed his now infamous personality</font>
+
+33
+00:01:17,729 --> 00:01:20,520
+testing app this<font color="#CCCCCC"> is your digital life</font><font color="#E5E5E5"> on</font>
+
+34
+00:01:20,520 --> 00:01:21,240
+<font color="#E5E5E5">Facebook</font>
+
+35
+00:01:21,240 --> 00:01:23,280
+<font color="#E5E5E5">two hundred</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> seventy thousand users</font>
+
+36
+00:01:23,280 --> 00:01:25,920
+took the quiz but data was<font color="#CCCCCC"> captured from</font>
+
+37
+00:01:25,920 --> 00:01:28,770
+their friends lists as well<font color="#E5E5E5"> the data was</font>
+
+38
+00:01:28,770 --> 00:01:31,170
+allegedly sold to political consulting
+
+39
+00:01:31,170 --> 00:01:33,299
+firm Cambridge<font color="#CCCCCC"> analytics giving it</font>
+
+40
+00:01:33,299 --> 00:01:36,150
+<font color="#CCCCCC">micro-targeting information</font><font color="#E5E5E5"> on millions</font>
+
+41
+00:01:36,150 --> 00:01:38,220
+of Americans<font color="#E5E5E5"> that same year Facebook</font>
+
+42
+00:01:38,220 --> 00:01:40,950
+revealed it conducted a study on the
+
+43
+00:01:40,950 --> 00:01:43,439
+emotions<font color="#E5E5E5"> of almost</font><font color="#CCCCCC"> 700 thousand users</font>
+
+44
+00:01:43,439 --> 00:01:45,720
+<font color="#E5E5E5">the study looked into happiness levels</font>
+
+45
+00:01:45,720 --> 00:01:47,520
+depending<font color="#CCCCCC"> on if they were shown positive</font>
+
+46
+00:01:47,520 --> 00:01:50,280
+<font color="#CCCCCC">or negative</font><font color="#E5E5E5"> content users did not know</font>
+
+47
+00:01:50,280 --> 00:01:52,259
+they were part of<font color="#E5E5E5"> the emotion study and</font>
+
+48
+00:01:52,259 --> 00:01:54,630
+did not give<font color="#E5E5E5"> consent almost a full year</font>
+
+49
+00:01:54,630 --> 00:01:57,409
+<font color="#CCCCCC">after the 2016 presidential election</font>
+
+50
+00:01:57,409 --> 00:02:00,659
+<font color="#E5E5E5">Facebook admitted ready for this as many</font>
+
+51
+00:02:00,659 --> 00:02:03,659
+as 126 million users may<font color="#CCCCCC"> have been</font>
+
+52
+00:02:03,659 --> 00:02:06,180
+exposed<font color="#E5E5E5"> to Russian political ads and</font>
+
+53
+00:02:06,180 --> 00:02:08,429
+disinformation during the election cycle
+
+54
+00:02:08,429 --> 00:02:10,830
+<font color="#E5E5E5">Facebook later released the ads in</font>
+
+55
+00:02:10,830 --> 00:02:12,989
+identified as<font color="#E5E5E5"> Russians linked to</font>
+
+56
+00:02:12,989 --> 00:02:13,709
+Congress
+
+57
+00:02:13,709 --> 00:02:16,230
+last month<font color="#E5E5E5"> now new reporting found that</font>
+
+58
+00:02:16,230 --> 00:02:18,959
+up to<font color="#E5E5E5"> 87 million users had their data</font>
+
+59
+00:02:18,959 --> 00:02:22,379
+<font color="#E5E5E5">scraped by Alexander</font><font color="#CCCCCC"> Cogan's</font><font color="#E5E5E5"> app nearly</font>
+
+60
+00:02:22,379 --> 00:02:25,260
+71 million of them were<font color="#E5E5E5"> from Americans</font>
+
+61
+00:02:25,260 --> 00:02:27,480
+the vast<font color="#CCCCCC"> majority of them never gave</font>
+
+62
+00:02:27,480 --> 00:02:29,099
+consent for the app to<font color="#E5E5E5"> collect their</font>
+
+63
+00:02:29,099 --> 00:02:32,969
+<font color="#CCCCCC">information since only</font><font color="#E5E5E5"> 1/3 of 1%</font><font color="#CCCCCC"> even</font>
+
+64
+00:02:32,969 --> 00:02:34,980
+took the quiz<font color="#CCCCCC"> to capture their data the</font>
+
+65
+00:02:34,980 --> 00:02:36,870
+company hopes that<font color="#E5E5E5"> its new transparency</font>
+
+66
+00:02:36,870 --> 00:02:39,540
+push<font color="#E5E5E5"> helps rebuild</font><font color="#CCCCCC"> the trust of its two</font>
+
+67
+00:02:39,540 --> 00:02:41,849
+billion active<font color="#E5E5E5"> monthly users</font><font color="#CCCCCC"> earlier</font>
+
+68
+00:02:41,849 --> 00:02:43,560
+<font color="#E5E5E5">today I spoke with</font><font color="#CCCCCC"> Monika bicker at the</font>
+
+69
+00:02:43,560 --> 00:02:45,239
+company's vice president for product
+
+70
+00:02:45,239 --> 00:02:49,200
+policy and counterterrorism<font color="#E5E5E5"> Monica we've</font>
+
+71
+00:02:49,200 --> 00:02:51,329
+just gone through sort of the<font color="#E5E5E5"> string of</font>
+
+72
+00:02:51,329 --> 00:02:53,519
+what Facebook<font color="#CCCCCC"> has been through so now</font>
+
+73
+00:02:53,519 --> 00:02:56,549
+<font color="#CCCCCC">today</font><font color="#E5E5E5"> how do we trust you you say you're</font>
+
+74
+00:02:56,549 --> 00:02:58,709
+protecting our information<font color="#CCCCCC"> how do</font><font color="#E5E5E5"> we</font>
+
+75
+00:02:58,709 --> 00:03:01,579
+know that<font color="#CCCCCC"> that's true</font>
+
+76
+00:03:01,579 --> 00:03:04,230
+well the standards that<font color="#E5E5E5"> we have</font><font color="#CCCCCC"> put</font><font color="#E5E5E5"> out</font>
+
+77
+00:03:04,230 --> 00:03:05,939
+are designed to keep our community<font color="#CCCCCC"> safe</font>
+
+78
+00:03:05,939 --> 00:03:07,650
+and<font color="#E5E5E5"> I want</font><font color="#CCCCCC"> to be clear that we've had</font>
+
+79
+00:03:07,650 --> 00:03:09,719
+<font color="#E5E5E5">these standards for years but what we're</font>
+
+80
+00:03:09,719 --> 00:03:12,359
+doing<font color="#CCCCCC"> now is we are publicizing</font><font color="#E5E5E5"> and</font>
+
+81
+00:03:12,359 --> 00:03:14,819
+making<font color="#CCCCCC"> public the details on</font><font color="#E5E5E5"> how we</font>
+
+82
+00:03:14,819 --> 00:03:17,370
+<font color="#CCCCCC">enforce those standards so for years</font>
+
+83
+00:03:17,370 --> 00:03:19,199
+you've seen that we don't allow hate
+
+84
+00:03:19,199 --> 00:03:21,540
+speech<font color="#E5E5E5"> and we don't allow harassment now</font>
+
+85
+00:03:21,540 --> 00:03:23,370
+you can come to the site<font color="#E5E5E5"> you can</font><font color="#CCCCCC"> click</font>
+
+86
+00:03:23,370 --> 00:03:24,840
+<font color="#E5E5E5">on those sections in our standards and</font>
+
+87
+00:03:24,840 --> 00:03:26,819
+you can see<font color="#E5E5E5"> exactly how we define those</font>
+
+88
+00:03:26,819 --> 00:03:28,919
+<font color="#CCCCCC">things</font><font color="#E5E5E5"> and the content decisions that we</font>
+
+89
+00:03:28,919 --> 00:03:31,680
+make<font color="#E5E5E5"> once something is up there it's up</font>
+
+90
+00:03:31,680 --> 00:03:34,500
+there<font color="#E5E5E5"> and it might not be hateful</font><font color="#CCCCCC"> but it</font>
+
+91
+00:03:34,500 --> 00:03:36,479
+could be a lie and that's where we get
+
+92
+00:03:36,479 --> 00:03:39,030
+<font color="#E5E5E5">to fake news and standards and practices</font>
+
+93
+00:03:39,030 --> 00:03:41,340
+<font color="#E5E5E5">so someone might not flag it there might</font>
+
+94
+00:03:41,340 --> 00:03:43,709
+not<font color="#CCCCCC"> be anything offensive written but</font>
+
+95
+00:03:43,709 --> 00:03:46,739
+it's dangerous<font color="#CCCCCC"> if it's</font><font color="#E5E5E5"> looks like a news</font>
+
+96
+00:03:46,739 --> 00:03:48,689
+story<font color="#E5E5E5"> if there's pictures of kids there</font>
+
+97
+00:03:48,689 --> 00:03:50,970
+if it's nice moms who wrote it<font color="#E5E5E5"> when in</font>
+
+98
+00:03:50,970 --> 00:03:55,259
+<font color="#E5E5E5">fact it's not well there's two different</font>
+
+99
+00:03:55,259 --> 00:03:57,359
+<font color="#E5E5E5">issues there and and one is what we do</font>
+
+100
+00:03:57,359 --> 00:03:59,909
+around<font color="#CCCCCC"> fake news and the other is how do</font>
+
+101
+00:03:59,909 --> 00:04:02,340
+we<font color="#E5E5E5"> become aware of content if our</font>
+
+102
+00:04:02,340 --> 00:04:05,699
+<font color="#E5E5E5">community doesn't report it to us on the</font>
+
+103
+00:04:05,699 --> 00:04:08,009
+second question<font color="#E5E5E5"> technology is getting</font>
+
+104
+00:04:08,009 --> 00:04:12,209
+<font color="#E5E5E5">better at helping us identify posts that</font>
+
+105
+00:04:12,209 --> 00:04:14,549
+might violate our standards<font color="#E5E5E5"> for instance</font>
+
+106
+00:04:14,549 --> 00:04:16,769
+now when it<font color="#E5E5E5"> comes to terrorism</font>
+
+107
+00:04:16,769 --> 00:04:21,060
+propaganda more than<font color="#E5E5E5"> 99% of the content</font>
+
+108
+00:04:21,060 --> 00:04:22,500
+that<font color="#E5E5E5"> we remove from</font><font color="#CCCCCC"> Facebook for</font>
+
+109
+00:04:22,500 --> 00:04:24,450
+violating our terrorism standards<font color="#E5E5E5"> we</font>
+
+110
+00:04:24,450 --> 00:04:25,500
+identify ourselves
+
+111
+00:04:25,500 --> 00:04:26,940
+and that's<font color="#CCCCCC"> primarily through the use of</font>
+
+112
+00:04:26,940 --> 00:04:29,490
+technology<font color="#CCCCCC"> we're removing</font><font color="#E5E5E5"> the fake</font>
+
+113
+00:04:29,490 --> 00:04:31,710
+accounts that tend to<font color="#E5E5E5"> share fake news</font>
+
+114
+00:04:31,710 --> 00:04:34,470
+and we're also removing<font color="#E5E5E5"> content that we</font>
+
+115
+00:04:34,470 --> 00:04:36,660
+see that<font color="#E5E5E5"> is shared for economic</font>
+
+116
+00:04:36,660 --> 00:04:38,820
+incentives like like most<font color="#E5E5E5"> fake news is</font>
+
+117
+00:04:38,820 --> 00:04:40,980
+this is a sort of content that leads off
+
+118
+00:04:40,980 --> 00:04:43,920
+site to<font color="#E5E5E5"> ad farms for instance and we can</font>
+
+119
+00:04:43,920 --> 00:04:45,870
+remove it the other<font color="#E5E5E5"> thing that we're</font>
+
+120
+00:04:45,870 --> 00:04:48,120
+<font color="#CCCCCC">trying</font><font color="#E5E5E5"> to do is give people context if</font>
+
+121
+00:04:48,120 --> 00:04:52,080
+we have indications that a news story<font color="#E5E5E5"> on</font>
+
+122
+00:04:52,080 --> 00:04:55,070
+<font color="#CCCCCC">Facebook</font><font color="#E5E5E5"> might be false</font><font color="#CCCCCC"> we're</font><font color="#E5E5E5"> providing</font>
+
+123
+00:04:55,070 --> 00:04:57,090
+<font color="#E5E5E5">related articles from around the</font>
+
+124
+00:04:57,090 --> 00:05:00,270
+<font color="#E5E5E5">internet</font><font color="#CCCCCC"> and we're sure who's</font><font color="#E5E5E5"> put</font><font color="#CCCCCC"> that</font>
+
+125
+00:05:00,270 --> 00:05:02,070
+<font color="#E5E5E5">story on</font><font color="#CCCCCC"> the site where do you</font><font color="#E5E5E5"> get those</font>
+
+126
+00:05:02,070 --> 00:05:04,760
+indication<font color="#CCCCCC"> will can report stories</font>
+
+127
+00:05:04,760 --> 00:05:08,220
+people can report<font color="#CCCCCC"> stories to us</font><font color="#E5E5E5"> as fake</font>
+
+128
+00:05:08,220 --> 00:05:10,260
+news through the<font color="#E5E5E5"> site</font><font color="#CCCCCC"> and we work with</font>
+
+129
+00:05:10,260 --> 00:05:12,840
+<font color="#CCCCCC">third party fact-checking organizations</font>
+
+130
+00:05:12,840 --> 00:05:15,419
+as far as sharing<font color="#E5E5E5"> our information now we</font>
+
+131
+00:05:15,419 --> 00:05:17,940
+have the<font color="#E5E5E5"> option to we can opt out</font>
+
+132
+00:05:17,940 --> 00:05:21,540
+why wouldn't<font color="#CCCCCC"> opt-in be the</font><font color="#E5E5E5"> option</font><font color="#CCCCCC"> we go</font>
+
+133
+00:05:21,540 --> 00:05:24,210
+on it<font color="#E5E5E5"> it's we've already opted in the</font>
+
+134
+00:05:24,210 --> 00:05:26,430
+default is that<font color="#E5E5E5"> we've opted in to share</font>
+
+135
+00:05:26,430 --> 00:05:30,540
+our private it is<font color="#CCCCCC"> opt-in it is opt-in so</font>
+
+136
+00:05:30,540 --> 00:05:33,930
+if you've<font color="#E5E5E5"> chosen to</font><font color="#CCCCCC"> use an</font><font color="#E5E5E5"> application a</font>
+
+137
+00:05:33,930 --> 00:05:35,669
+<font color="#E5E5E5">third party application through Facebook</font>
+
+138
+00:05:35,669 --> 00:05:38,400
+<font color="#E5E5E5">that's a decision that you</font><font color="#CCCCCC"> make and then</font>
+
+139
+00:05:38,400 --> 00:05:39,900
+what you'll see let's say that you
+
+140
+00:05:39,900 --> 00:05:42,090
+decide<font color="#CCCCCC"> to install a third</font><font color="#E5E5E5"> party app and</font>
+
+141
+00:05:42,090 --> 00:05:44,370
+authorize<font color="#CCCCCC"> that through Facebook</font><font color="#E5E5E5"> it will</font>
+
+142
+00:05:44,370 --> 00:05:46,470
+say this developer would<font color="#E5E5E5"> like and then</font>
+
+143
+00:05:46,470 --> 00:05:47,820
+it will tell<font color="#E5E5E5"> you the</font><font color="#CCCCCC"> information the</font>
+
+144
+00:05:47,820 --> 00:05:49,650
+developer<font color="#CCCCCC"> once so it might say this</font>
+
+145
+00:05:49,650 --> 00:05:51,900
+developer wants or this this app wants
+
+146
+00:05:51,900 --> 00:05:55,380
+<font color="#E5E5E5">your hometown or pages you have liked or</font>
+
+147
+00:05:55,380 --> 00:05:57,690
+<font color="#E5E5E5">your photos and then you can choose</font>
+
+148
+00:05:57,690 --> 00:05:59,010
+<font color="#E5E5E5">whether or not you want to share that</font>
+
+149
+00:05:59,010 --> 00:06:01,800
+<font color="#E5E5E5">information or</font><font color="#CCCCCC"> not do you opt in on your</font>
+
+150
+00:06:01,800 --> 00:06:06,990
+page I do use the maps on Facebook so
+
+151
+00:06:06,990 --> 00:06:09,870
+you you allow<font color="#CCCCCC"> Outsiders to get your</font>
+
+152
+00:06:09,870 --> 00:06:15,150
+private<font color="#CCCCCC"> information I do have some</font>
+
+153
+00:06:15,150 --> 00:06:16,770
+applications<font color="#CCCCCC"> that I have authorized</font>
+
+154
+00:06:16,770 --> 00:06:18,870
+using Facebook which means<font color="#E5E5E5"> I get a</font>
+
+155
+00:06:18,870 --> 00:06:21,510
+notification that says this developer
+
+156
+00:06:21,510 --> 00:06:22,979
+<font color="#E5E5E5">would like to have your hometown and</font><font color="#CCCCCC"> I</font>
+
+157
+00:06:22,979 --> 00:06:24,720
+click whether or not I want them<font color="#CCCCCC"> to have</font>
+
+158
+00:06:24,720 --> 00:06:26,010
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> information and then I could</font><font color="#CCCCCC"> use</font>
+
+159
+00:06:26,010 --> 00:06:28,020
+the app just<font color="#CCCCCC"> as if I've logged</font><font color="#E5E5E5"> into it</font>
+
+160
+00:06:28,020 --> 00:06:29,880
+creating my<font color="#CCCCCC"> own email for the</font>
+
+161
+00:06:29,880 --> 00:06:31,410
+application<font color="#E5E5E5"> would you categorize</font>
+
+162
+00:06:31,410 --> 00:06:35,330
+Facebook as a media company
+
+163
+00:06:35,400 --> 00:06:37,540
+it's certainly a place where people<font color="#E5E5E5"> come</font>
+
+164
+00:06:37,540 --> 00:06:39,820
+to get news<font color="#E5E5E5"> that's why that section is</font>
+
+165
+00:06:39,820 --> 00:06:42,070
+in<font color="#CCCCCC"> the</font><font color="#E5E5E5"> community standards but it's a</font>
+
+166
+00:06:42,070 --> 00:06:43,419
+lot<font color="#E5E5E5"> more than</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> I mean a lot of</font>
+
+167
+00:06:43,419 --> 00:06:45,220
+<font color="#CCCCCC">people that</font><font color="#E5E5E5"> come to Facebook are coming</font>
+
+168
+00:06:45,220 --> 00:06:46,419
+because<font color="#CCCCCC"> they want to connect with</font><font color="#E5E5E5"> their</font>
+
+169
+00:06:46,419 --> 00:06:48,970
+family and<font color="#E5E5E5"> their</font><font color="#CCCCCC"> friends</font><font color="#E5E5E5"> and if you look</font>
+
+170
+00:06:48,970 --> 00:06:50,590
+at the standards you'll see that the
+
+171
+00:06:50,590 --> 00:06:52,780
+topics we cover<font color="#CCCCCC"> there</font><font color="#E5E5E5"> like hate speech</font>
+
+172
+00:06:52,780 --> 00:06:55,300
+like harassment<font color="#E5E5E5"> like bullying have a lot</font>
+
+173
+00:06:55,300 --> 00:06:56,590
+to do<font color="#E5E5E5"> with those types of personal</font>
+
+174
+00:06:56,590 --> 00:06:58,300
+interactions<font color="#E5E5E5"> should you have the same</font>
+
+175
+00:06:58,300 --> 00:07:00,280
+type of<font color="#E5E5E5"> regulation as traditional media</font>
+
+176
+00:07:00,280 --> 00:07:02,199
+companies<font color="#CCCCCC"> I mean when you think about</font>
+
+177
+00:07:02,199 --> 00:07:03,970
+<font color="#E5E5E5">advertising</font><font color="#CCCCCC"> that's how you make</font><font color="#E5E5E5"> your</font>
+
+178
+00:07:03,970 --> 00:07:05,919
+money<font color="#CCCCCC"> that's</font><font color="#E5E5E5"> how we make our money and</font>
+
+179
+00:07:05,919 --> 00:07:07,389
+we're competing<font color="#E5E5E5"> for the same advertising</font>
+
+180
+00:07:07,389 --> 00:07:10,150
+<font color="#E5E5E5">dollars so if one out</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> every five</font>
+
+181
+00:07:10,150 --> 00:07:12,460
+advertising dollar goes to<font color="#CCCCCC"> Facebook if</font>
+
+182
+00:07:12,460 --> 00:07:14,740
+we're directly in competition<font color="#CCCCCC"> shouldn't</font>
+
+183
+00:07:14,740 --> 00:07:18,610
+you face the<font color="#E5E5E5"> same regulation I do well</font>
+
+184
+00:07:18,610 --> 00:07:20,139
+there's certainly regulations around<font color="#CCCCCC"> the</font>
+
+185
+00:07:20,139 --> 00:07:21,789
+world that do govern our site and<font color="#E5E5E5"> how</font>
+
+186
+00:07:21,789 --> 00:07:26,349
+about<font color="#CCCCCC"> my entrance regulations also but</font>
+
+187
+00:07:26,349 --> 00:07:27,940
+sometimes<font color="#E5E5E5"> those regulations also</font><font color="#CCCCCC"> cover</font>
+
+188
+00:07:27,940 --> 00:07:29,349
+<font color="#CCCCCC">the type of speech</font><font color="#E5E5E5"> that were allowed to</font>
+
+189
+00:07:29,349 --> 00:07:31,690
+have on the<font color="#E5E5E5"> site you'll see</font><font color="#CCCCCC"> some of that</font>
+
+190
+00:07:31,690 --> 00:07:33,460
+<font color="#E5E5E5">reflected in the standards for</font><font color="#CCCCCC"> the</font>
+
+191
+00:07:33,460 --> 00:07:35,050
+Cambridge analytical breach<font color="#CCCCCC"> I know you</font>
+
+192
+00:07:35,050 --> 00:07:37,120
+want<font color="#CCCCCC"> to do better</font><font color="#E5E5E5"> but should there be</font>
+
+193
+00:07:37,120 --> 00:07:42,190
+ramifications<font color="#CCCCCC"> a punishment</font><font color="#E5E5E5"> of fine we</font>
+
+194
+00:07:42,190 --> 00:07:43,090
+want to do what's<font color="#CCCCCC"> right for</font><font color="#E5E5E5"> our</font>
+
+195
+00:07:43,090 --> 00:07:44,410
+community we're waiting to<font color="#CCCCCC"> see what the</font>
+
+196
+00:07:44,410 --> 00:07:46,300
+results<font color="#E5E5E5"> of the</font><font color="#CCCCCC"> investigation</font><font color="#E5E5E5"> in the UK</font>
+
+197
+00:07:46,300 --> 00:07:48,220
+will be<font color="#E5E5E5"> but what's important to us is</font>
+
+198
+00:07:48,220 --> 00:07:49,210
+<font color="#E5E5E5">making sure that we get it</font><font color="#CCCCCC"> right</font>
+
+199
+00:07:49,210 --> 00:07:52,060
+<font color="#CCCCCC">hey MSNBC fans thanks</font><font color="#E5E5E5"> for checking out</font>
+
+200
+00:07:52,060 --> 00:07:54,220
+our<font color="#E5E5E5"> YouTube</font><font color="#CCCCCC"> channel</font><font color="#E5E5E5"> subscribe by</font>
+
+201
+00:07:54,220 --> 00:07:56,409
+clicking on that<font color="#CCCCCC"> button</font><font color="#E5E5E5"> down there and</font>
+
+202
+00:07:56,409 --> 00:07:59,560
+click on any of the<font color="#E5E5E5"> videos here to watch</font>
+
+203
+00:07:59,560 --> 00:08:01,510
+the<font color="#E5E5E5"> latest interviews and highlights you</font>
+
+204
+00:08:01,510 --> 00:08:03,699
+can<font color="#E5E5E5"> get more</font><font color="#CCCCCC"> MSNBC for free every day</font>
+
+205
+00:08:03,699 --> 00:08:05,680
+<font color="#E5E5E5">with our newsletters just visit</font>
+
+206
+00:08:05,680 --> 00:08:09,220
+msnbc.com<font color="#E5E5E5"> slash newsletters to sign up</font>
+
+207
+00:08:09,220 --> 00:00:00,000
+<font color="#E5E5E5">now</font>
+

@@ -1,0 +1,2360 @@
+1
+00:00:00,250 --> 00:00:09,079
+[Music]
+
+2
+00:00:09,360 --> 00:00:12,010
+hello and<font color="#CCCCCC"> haslam seeker this is counting</font>
+
+3
+00:00:12,010 --> 00:00:13,690
+<font color="#E5E5E5">the cast on al-jazeera your weekly look</font>
+
+4
+00:00:13,690 --> 00:00:16,090
+<font color="#CCCCCC">at</font><font color="#E5E5E5"> the world of</font><font color="#CCCCCC"> business and economics</font>
+
+5
+00:00:16,090 --> 00:00:16,840
+this week
+
+6
+00:00:16,840 --> 00:00:19,540
+Facebook's<font color="#E5E5E5"> big data problem how our</font>
+
+7
+00:00:19,540 --> 00:00:21,280
+information is being bought and<font color="#CCCCCC"> sold</font>
+
+8
+00:00:21,280 --> 00:00:24,850
+<font color="#CCCCCC">without</font><font color="#E5E5E5"> us knowing also this week</font>
+
+9
+00:00:24,850 --> 00:00:26,620
+<font color="#CCCCCC">America's guns we'll look</font><font color="#E5E5E5"> at why this</font>
+
+10
+00:00:26,620 --> 00:00:30,010
+huge<font color="#E5E5E5"> unregulated market continues</font><font color="#CCCCCC"> to</font>
+
+11
+00:00:30,010 --> 00:00:33,850
+thrive<font color="#CCCCCC"> despite calls for gun control it</font>
+
+12
+00:00:33,850 --> 00:00:39,190
+is the<font color="#E5E5E5"> largest deficit of any country in</font>
+
+13
+00:00:39,190 --> 00:00:42,340
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> history of</font><font color="#E5E5E5"> our</font><font color="#CCCCCC"> world it's out of</font>
+
+14
+00:00:42,340 --> 00:00:45,070
+<font color="#E5E5E5">control</font><font color="#CCCCCC"> plus the u.s. president signs</font>
+
+15
+00:00:45,070 --> 00:00:47,700
+off<font color="#E5E5E5"> on action against Chinese imports</font>
+
+16
+00:00:47,700 --> 00:00:54,190
+potentially igniting a trade war our
+
+17
+00:00:54,190 --> 00:00:56,440
+data is being hoovered from our
+
+18
+00:00:56,440 --> 00:00:59,140
+connected devices<font color="#E5E5E5"> every day but when it</font>
+
+19
+00:00:59,140 --> 00:01:01,000
+emerged that that<font color="#CCCCCC"> information could be</font>
+
+20
+00:01:01,000 --> 00:01:03,489
+used to<font color="#CCCCCC"> manipulate</font><font color="#E5E5E5"> our political views</font>
+
+21
+00:01:03,489 --> 00:01:05,680
+<font color="#CCCCCC">for money or regulators</font><font color="#E5E5E5"> around the world</font>
+
+22
+00:01:05,680 --> 00:01:08,020
+started paying<font color="#CCCCCC"> attention it's called</font>
+
+23
+00:01:08,020 --> 00:01:10,420
+<font color="#E5E5E5">psychosocial profiling and has put</font>
+
+24
+00:01:10,420 --> 00:01:12,310
+<font color="#CCCCCC">Facebook and the whole business</font><font color="#E5E5E5"> of big</font>
+
+25
+00:01:12,310 --> 00:01:14,740
+data in the spotlight<font color="#CCCCCC"> this week</font><font color="#E5E5E5"> we all</font>
+
+26
+00:01:14,740 --> 00:01:16,719
+know<font color="#E5E5E5"> that we can post things</font><font color="#CCCCCC"> like photos</font>
+
+27
+00:01:16,719 --> 00:01:19,630
+and<font color="#CCCCCC"> messages to our friends</font><font color="#E5E5E5"> for free on</font>
+
+28
+00:01:19,630 --> 00:01:21,969
+social media<font color="#E5E5E5"> our Facebook makes money</font>
+
+29
+00:01:21,969 --> 00:01:24,340
+out of<font color="#E5E5E5"> selling digital advertising space</font>
+
+30
+00:01:24,340 --> 00:01:26,289
+with an<font color="#E5E5E5"> annual</font><font color="#CCCCCC"> revenue that amounts to</font>
+
+31
+00:01:26,289 --> 00:01:29,649
+<font color="#CCCCCC">40</font><font color="#E5E5E5"> billion dollars</font><font color="#CCCCCC"> over 1.4</font><font color="#E5E5E5"> billion</font>
+
+32
+00:01:29,649 --> 00:01:32,469
+<font color="#E5E5E5">people log on to Facebook every day but</font>
+
+33
+00:01:32,469 --> 00:01:34,179
+<font color="#CCCCCC">we don't know what they're selling about</font>
+
+34
+00:01:34,179 --> 00:01:36,999
+us and it's totally unregulated<font color="#E5E5E5"> this</font>
+
+35
+00:01:36,999 --> 00:01:39,670
+week Facebook<font color="#E5E5E5"> CEO Mark Zuckerberg had to</font>
+
+36
+00:01:39,670 --> 00:01:42,579
+answer<font color="#E5E5E5"> accusations that 50 million users</font>
+
+37
+00:01:42,579 --> 00:01:45,459
+<font color="#E5E5E5">had their data harvested and passed on</font>
+
+38
+00:01:45,459 --> 00:01:48,490
+<font color="#E5E5E5">to UK political consultancy Cambridge</font>
+
+39
+00:01:48,490 --> 00:01:51,189
+analytic<font color="#E5E5E5"> is accused of using that data</font>
+
+40
+00:01:51,189 --> 00:01:54,909
+to<font color="#CCCCCC"> target u.s.</font><font color="#E5E5E5"> voters during the 2016</font>
+
+41
+00:01:54,909 --> 00:01:57,130
+election Facebook's business model is
+
+42
+00:01:57,130 --> 00:01:59,649
+now under scrutiny<font color="#E5E5E5"> on both sides of the</font>
+
+43
+00:01:59,649 --> 00:02:00,249
+Atlantic
+
+44
+00:02:00,249 --> 00:02:03,099
+by Thursday shares<font color="#E5E5E5"> lost</font><font color="#CCCCCC"> 50</font><font color="#E5E5E5"> billion</font>
+
+45
+00:02:03,099 --> 00:02:05,590
+dollars<font color="#CCCCCC"> in market value Katya</font>
+
+46
+00:02:05,590 --> 00:02:08,899
+<font color="#E5E5E5">Lopez ha</font><font color="#CCCCCC"> Diane reports</font>
+
+47
+00:02:08,899 --> 00:02:11,209
+Mark Zuckerberg<font color="#CCCCCC"> doesn't like giving</font>
+
+48
+00:02:11,209 --> 00:02:12,950
+interviews with the pressure on the
+
+49
+00:02:12,950 --> 00:02:15,379
+<font color="#CCCCCC">camera-shy</font><font color="#E5E5E5"> founder and CEO of Facebook</font>
+
+50
+00:02:15,379 --> 00:02:18,019
+was so great<font color="#E5E5E5"> he had to do something</font><font color="#CCCCCC"> he</font>
+
+51
+00:02:18,019 --> 00:02:19,730
+told<font color="#CCCCCC"> the American media he was sorry</font>
+
+52
+00:02:19,730 --> 00:02:21,319
+about<font color="#CCCCCC"> the security breach that</font>
+
+53
+00:02:21,319 --> 00:02:23,510
+<font color="#CCCCCC">compromised</font><font color="#E5E5E5"> the private data of 50</font>
+
+54
+00:02:23,510 --> 00:02:26,780
+million Facebook<font color="#CCCCCC"> users</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> a statement he</font>
+
+55
+00:02:26,780 --> 00:02:28,250
+acknowledged there were failures in
+
+56
+00:02:28,250 --> 00:02:30,049
+Facebook's protection of data
+
+57
+00:02:30,049 --> 00:02:32,329
+I started<font color="#CCCCCC"> Facebook he writes and at the</font>
+
+58
+00:02:32,329 --> 00:02:34,250
+end of the day I am responsible for<font color="#CCCCCC"> what</font>
+
+59
+00:02:34,250 --> 00:02:36,680
+happens on<font color="#CCCCCC"> our platform</font><font color="#E5E5E5"> I'm serious</font>
+
+60
+00:02:36,680 --> 00:02:38,360
+about<font color="#E5E5E5"> doing what it</font><font color="#CCCCCC"> takes to protect our</font>
+
+61
+00:02:38,360 --> 00:02:40,579
+community while this specific issue in
+
+62
+00:02:40,579 --> 00:02:42,470
+<font color="#CCCCCC">Babi Cambridge analytic assured no</font>
+
+63
+00:02:42,470 --> 00:02:44,780
+longer happen with new apps<font color="#E5E5E5"> today that</font>
+
+64
+00:02:44,780 --> 00:02:46,280
+isn't change what happened<font color="#E5E5E5"> in the past</font>
+
+65
+00:02:46,280 --> 00:02:48,709
+<font color="#E5E5E5">we will learn from this experience</font><font color="#CCCCCC"> to</font>
+
+66
+00:02:48,709 --> 00:02:51,170
+secure our platform further and make our
+
+67
+00:02:51,170 --> 00:02:53,120
+community<font color="#CCCCCC"> safer for everyone going</font>
+
+68
+00:02:53,120 --> 00:02:56,180
+forward those steps include a<font color="#E5E5E5"> review of</font>
+
+69
+00:02:56,180 --> 00:02:58,310
+all apps that had similar<font color="#E5E5E5"> brought access</font>
+
+70
+00:02:58,310 --> 00:03:00,440
+to user data<font color="#E5E5E5"> further data restrictions</font>
+
+71
+00:03:00,440 --> 00:03:02,989
+<font color="#CCCCCC">and making it easier for</font><font color="#E5E5E5"> users to</font><font color="#CCCCCC"> assign</font>
+
+72
+00:03:02,989 --> 00:03:05,510
+permissions<font color="#CCCCCC"> zuckerberg carefully</font>
+
+73
+00:03:05,510 --> 00:03:07,010
+choreographed response to the<font color="#CCCCCC"> Cambridge</font>
+
+74
+00:03:07,010 --> 00:03:09,079
+<font color="#CCCCCC">analytical scandal is not what US</font>
+
+75
+00:03:09,079 --> 00:03:11,269
+lawmakers are<font color="#CCCCCC"> asking for they were</font>
+
+76
+00:03:11,269 --> 00:03:13,609
+rather have him<font color="#E5E5E5"> testify in person</font><font color="#CCCCCC"> before</font>
+
+77
+00:03:13,609 --> 00:03:16,430
+Congress Minnesota<font color="#E5E5E5"> senator Amy Klobuchar</font>
+
+78
+00:03:16,430 --> 00:03:18,620
+has<font color="#CCCCCC"> formally asked for a judicial</font>
+
+79
+00:03:18,620 --> 00:03:21,139
+hearing<font color="#E5E5E5"> Zuckerberg says he's happy to</font>
+
+80
+00:03:21,139 --> 00:03:23,269
+<font color="#E5E5E5">testify before Congress if it's the</font>
+
+81
+00:03:23,269 --> 00:03:25,760
+right thing<font color="#CCCCCC"> to do he also says he sure</font>
+
+82
+00:03:25,760 --> 00:03:27,919
+someone's trying to<font color="#E5E5E5"> disrupt this year's</font>
+
+83
+00:03:27,919 --> 00:03:30,799
+midterm elections<font color="#E5E5E5"> underlying the uproar</font>
+
+84
+00:03:30,799 --> 00:03:32,900
+the allegation<font color="#CCCCCC"> that data harvested from</font>
+
+85
+00:03:32,900 --> 00:03:34,639
+<font color="#CCCCCC">facebook servers was used by Cambridge</font>
+
+86
+00:03:34,639 --> 00:03:36,169
+<font color="#E5E5E5">analytic got to support the Trump</font>
+
+87
+00:03:36,169 --> 00:03:39,109
+campaign in 2016 interference in the
+
+88
+00:03:39,109 --> 00:03:41,239
+electoral<font color="#E5E5E5"> process confirmed and this</font>
+
+89
+00:03:41,239 --> 00:03:42,859
+undercover interview with the<font color="#CCCCCC"> company's</font>
+
+90
+00:03:42,859 --> 00:03:45,230
+<font color="#CCCCCC">van CEO</font><font color="#E5E5E5"> Alexander</font><font color="#CCCCCC"> Nicks</font>
+
+91
+00:03:45,230 --> 00:03:49,090
+have you met<font color="#E5E5E5"> mr.</font><font color="#CCCCCC"> Trump many times</font>
+
+92
+00:03:54,130 --> 00:04:00,080
+television<font color="#CCCCCC"> okay a delete</font><font color="#E5E5E5"> Facebook</font>
+
+93
+00:04:00,080 --> 00:04:02,480
+hashtag has been<font color="#E5E5E5"> trending but even if</font>
+
+94
+00:04:02,480 --> 00:04:04,220
+the bad publicity blows over other
+
+95
+00:04:04,220 --> 00:04:06,170
+troubles for the social networking<font color="#E5E5E5"> giant</font>
+
+96
+00:04:06,170 --> 00:04:08,270
+are just beginning<font color="#CCCCCC"> the Federal Trade</font>
+
+97
+00:04:08,270 --> 00:04:09,500
+<font color="#E5E5E5">Commission</font><font color="#CCCCCC"> has opened an investigation</font>
+
+98
+00:04:09,500 --> 00:04:12,950
+into<font color="#E5E5E5"> Facebook so to have at</font><font color="#CCCCCC"> least three</font>
+
+99
+00:04:12,950 --> 00:04:16,370
+US<font color="#E5E5E5"> states well joining us now from</font>
+
+100
+00:04:16,370 --> 00:04:18,769
+<font color="#CCCCCC">London is Daniel Knapp executive</font>
+
+101
+00:04:18,769 --> 00:04:21,350
+director for technology<font color="#E5E5E5"> media and</font>
+
+102
+00:04:21,350 --> 00:04:23,960
+telecommunications with IHS<font color="#E5E5E5"> market good</font>
+
+103
+00:04:23,960 --> 00:04:25,850
+to have you with with us Daniel<font color="#E5E5E5"> so let</font>
+
+104
+00:04:25,850 --> 00:04:27,950
+me<font color="#E5E5E5"> ask you first off are we looking</font><font color="#CCCCCC"> at a</font>
+
+105
+00:04:27,950 --> 00:04:30,830
+possible watershed moment here not just
+
+106
+00:04:30,830 --> 00:04:33,530
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> Facebook but for</font><font color="#E5E5E5"> social networks and</font>
+
+107
+00:04:33,530 --> 00:04:35,720
+<font color="#E5E5E5">the whole issue</font><font color="#CCCCCC"> of privacy I think</font>
+
+108
+00:04:35,720 --> 00:04:37,340
+you're<font color="#E5E5E5"> exactly right this is much bigger</font>
+
+109
+00:04:37,340 --> 00:04:40,840
+than<font color="#CCCCCC"> Facebook itself we have for decades</font>
+
+110
+00:04:40,840 --> 00:04:46,670
+<font color="#E5E5E5">now nearly let's social media define how</font>
+
+111
+00:04:46,670 --> 00:04:49,820
+<font color="#E5E5E5">we get our information it was designed</font>
+
+112
+00:04:49,820 --> 00:04:53,000
+<font color="#CCCCCC">by and</font><font color="#E5E5E5"> driven by computer scientists</font>
+
+113
+00:04:53,000 --> 00:04:54,860
+<font color="#CCCCCC">without</font><font color="#E5E5E5"> really looking</font><font color="#CCCCCC"> at the broader</font>
+
+114
+00:04:54,860 --> 00:04:57,850
+ethical and<font color="#CCCCCC"> social implications so with</font>
+
+115
+00:04:57,850 --> 00:05:00,260
+the recent<font color="#CCCCCC"> Facebook</font><font color="#E5E5E5"> scandal with</font>
+
+116
+00:05:00,260 --> 00:05:03,370
+previous issue around brand safety<font color="#E5E5E5"> and</font>
+
+117
+00:05:03,370 --> 00:05:06,260
+<font color="#E5E5E5">she was advertising on YouTube this is</font><font color="#CCCCCC"> a</font>
+
+118
+00:05:06,260 --> 00:05:08,210
+much bigger thing where society<font color="#CCCCCC"> is now</font>
+
+119
+00:05:08,210 --> 00:05:11,510
+trying to<font color="#E5E5E5"> claim that control over</font><font color="#CCCCCC"> social</font>
+
+120
+00:05:11,510 --> 00:05:14,450
+<font color="#CCCCCC">media</font><font color="#E5E5E5"> so is this a wake up call as well</font>
+
+121
+00:05:14,450 --> 00:05:16,880
+not<font color="#CCCCCC"> just to the social media</font><font color="#E5E5E5"> platforms</font>
+
+122
+00:05:16,880 --> 00:05:19,520
+<font color="#CCCCCC">themselves but also to users I mean do</font>
+
+123
+00:05:19,520 --> 00:05:21,830
+<font color="#E5E5E5">we just need to be more more digitally</font>
+
+124
+00:05:21,830 --> 00:05:23,780
+<font color="#CCCCCC">savvy more</font><font color="#E5E5E5"> discerning about what kind of</font>
+
+125
+00:05:23,780 --> 00:05:26,480
+information we post<font color="#E5E5E5"> about ourselves</font>
+
+126
+00:05:26,480 --> 00:05:29,570
+<font color="#CCCCCC">online it is surprising that it took the</font>
+
+127
+00:05:29,570 --> 00:05:32,150
+<font color="#E5E5E5">Cambridge analytical situation</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> really</font>
+
+128
+00:05:32,150 --> 00:05:34,010
+<font color="#E5E5E5">make users aware we've had these</font>
+
+129
+00:05:34,010 --> 00:05:36,770
+problems around<font color="#E5E5E5"> privacy and</font><font color="#CCCCCC"> third-party</font>
+
+130
+00:05:36,770 --> 00:05:39,140
+apps harvesting user data for<font color="#E5E5E5"> many years</font>
+
+131
+00:05:39,140 --> 00:05:41,480
+<font color="#E5E5E5">many users</font><font color="#CCCCCC"> will think back about</font><font color="#E5E5E5"> our to</font>
+
+132
+00:05:41,480 --> 00:05:44,180
+<font color="#CCCCCC">the farm will at times or other</font>
+
+133
+00:05:44,180 --> 00:05:45,950
+<font color="#E5E5E5">third-party</font><font color="#CCCCCC"> apps that do personality</font>
+
+134
+00:05:45,950 --> 00:05:47,810
+tests and so<font color="#E5E5E5"> forth these apps have</font>
+
+135
+00:05:47,810 --> 00:05:50,180
+<font color="#E5E5E5">always systematically a harvested</font>
+
+136
+00:05:50,180 --> 00:05:52,070
+personal data and<font color="#E5E5E5"> as notice your own</font>
+
+137
+00:05:52,070 --> 00:05:54,020
+<font color="#E5E5E5">data but also the data of</font><font color="#CCCCCC"> your friends</font>
+
+138
+00:05:54,020 --> 00:05:58,370
+so I think we're seeing this outrage
+
+139
+00:05:58,370 --> 00:06:01,040
+right now because<font color="#E5E5E5"> suddenly all</font><font color="#CCCCCC"> these</font>
+
+140
+00:06:01,040 --> 00:06:02,990
+data harvesting practices<font color="#E5E5E5"> that are</font>
+
+141
+00:06:02,990 --> 00:06:04,729
+commonplace in<font color="#CCCCCC"> the industry are</font>
+
+142
+00:06:04,729 --> 00:06:07,520
+connected to political outcomes
+
+143
+00:06:07,520 --> 00:06:09,229
+a controversial figure<font color="#E5E5E5"> to a</font>
+
+144
+00:06:09,229 --> 00:06:12,259
+controversial election<font color="#CCCCCC"> in the</font><font color="#E5E5E5"> US and</font>
+
+145
+00:06:12,259 --> 00:06:14,660
+even<font color="#CCCCCC"> to the brexit campaign so it is the</font>
+
+146
+00:06:14,660 --> 00:06:17,780
+conflation of data harvesting and the
+
+147
+00:06:17,780 --> 00:06:20,419
+<font color="#CCCCCC">political implications</font><font color="#E5E5E5"> which actually</font>
+
+148
+00:06:20,419 --> 00:06:22,370
+facilitate this<font color="#CCCCCC"> wake-up call but</font>
+
+149
+00:06:22,370 --> 00:06:23,960
+<font color="#E5E5E5">honestly people should have woken up</font>
+
+150
+00:06:23,960 --> 00:06:25,069
+much earlier<font color="#CCCCCC"> than</font><font color="#E5E5E5"> this</font>
+
+151
+00:06:25,069 --> 00:06:27,229
+so does this threaten<font color="#E5E5E5"> Facebook's whole</font>
+
+152
+00:06:27,229 --> 00:06:29,690
+business<font color="#CCCCCC"> model then because the argument</font>
+
+153
+00:06:29,690 --> 00:06:32,270
+is that it is<font color="#CCCCCC"> predicated on</font><font color="#E5E5E5"> people</font>
+
+154
+00:06:32,270 --> 00:06:36,080
+giving<font color="#E5E5E5"> up their data Facebook wasn't</font>
+
+155
+00:06:36,080 --> 00:06:38,419
+abused<font color="#CCCCCC"> to put this</font><font color="#E5E5E5"> very clear and this</font>
+
+156
+00:06:38,419 --> 00:06:41,449
+has<font color="#E5E5E5"> been a kind</font><font color="#CCCCCC"> of wrong in the</font>
+
+157
+00:06:41,449 --> 00:06:43,580
+narrative so far<font color="#E5E5E5"> Facebook has been used</font>
+
+158
+00:06:43,580 --> 00:06:46,280
+<font color="#CCCCCC">very effectively because what has been</font>
+
+159
+00:06:46,280 --> 00:06:48,259
+done actually is what<font color="#E5E5E5"> Facebook was</font>
+
+160
+00:06:48,259 --> 00:06:50,930
+designed for to target users<font color="#CCCCCC"> with</font>
+
+161
+00:06:50,930 --> 00:06:53,539
+advertising<font color="#E5E5E5"> better then what other</font>
+
+162
+00:06:53,539 --> 00:06:56,720
+publishers can do<font color="#E5E5E5"> however</font><font color="#CCCCCC"> I'm speaking</font>
+
+163
+00:06:56,720 --> 00:06:58,490
+to<font color="#E5E5E5"> the advertising</font><font color="#CCCCCC"> community there is</font>
+
+164
+00:06:58,490 --> 00:07:01,669
+currently no broad incentive to move<font color="#E5E5E5"> ad</font>
+
+165
+00:07:01,669 --> 00:07:04,159
+<font color="#E5E5E5">dollars away from Facebook there simply</font>
+
+166
+00:07:04,159 --> 00:07:06,409
+isn't another<font color="#CCCCCC"> platform there isn't</font>
+
+167
+00:07:06,409 --> 00:07:10,580
+another tool that<font color="#E5E5E5"> allows advertisers to</font>
+
+168
+00:07:10,580 --> 00:07:14,150
+<font color="#CCCCCC">reach audiences at that scale so the</font>
+
+169
+00:07:14,150 --> 00:07:16,550
+advertising industry will wait to<font color="#CCCCCC"> see</font>
+
+170
+00:07:16,550 --> 00:07:18,889
+this storm blow<font color="#CCCCCC"> over and continue</font><font color="#E5E5E5"> to</font>
+
+171
+00:07:18,889 --> 00:07:20,900
+advertise on Facebook<font color="#CCCCCC"> the</font><font color="#E5E5E5"> only thing</font>
+
+172
+00:07:20,900 --> 00:07:22,789
+that will enable Facebook to change its
+
+173
+00:07:22,789 --> 00:07:25,550
+business<font color="#CCCCCC"> model is if all big</font><font color="#E5E5E5"> advertisers</font>
+
+174
+00:07:25,550 --> 00:07:29,120
+come together<font color="#E5E5E5"> and enforce rigorously new</font>
+
+175
+00:07:29,120 --> 00:07:31,400
+<font color="#E5E5E5">standards on</font><font color="#CCCCCC"> facebook otherwise after a</font>
+
+176
+00:07:31,400 --> 00:07:33,259
+couple<font color="#E5E5E5"> of</font><font color="#CCCCCC"> weeks this</font><font color="#E5E5E5"> will be business</font><font color="#CCCCCC"> as</font>
+
+177
+00:07:33,259 --> 00:07:33,770
+<font color="#CCCCCC">usual</font>
+
+178
+00:07:33,770 --> 00:07:35,870
+<font color="#CCCCCC">should-should users then get a cut of</font>
+
+179
+00:07:35,870 --> 00:07:38,870
+<font color="#CCCCCC">this money</font><font color="#E5E5E5"> that's a big question</font><font color="#CCCCCC"> that's</font>
+
+180
+00:07:38,870 --> 00:07:40,729
+being discussed<font color="#CCCCCC"> widely in technology</font>
+
+181
+00:07:40,729 --> 00:07:42,919
+circles we think about<font color="#E5E5E5"> nude text</font><font color="#CCCCCC"> like</font>
+
+182
+00:07:42,919 --> 00:07:44,539
+blockchain for instance which will
+
+183
+00:07:44,539 --> 00:07:48,050
+enable users<font color="#E5E5E5"> and consumers</font><font color="#CCCCCC"> to be paid</font>
+
+184
+00:07:48,050 --> 00:07:52,159
+their fair<font color="#E5E5E5"> share of money that they sell</font>
+
+185
+00:07:52,159 --> 00:07:54,919
+<font color="#CCCCCC">basically through</font><font color="#E5E5E5"> their attention</font>
+
+186
+00:07:54,919 --> 00:07:57,259
+however<font color="#E5E5E5"> it's pretty much still science</font>
+
+187
+00:07:57,259 --> 00:07:58,460
+fiction so it's<font color="#E5E5E5"> not something we're</font>
+
+188
+00:07:58,460 --> 00:08:00,409
+gonna see realistically in the next five
+
+189
+00:08:00,409 --> 00:08:03,259
+or ten<font color="#E5E5E5"> years but</font><font color="#CCCCCC"> there's a key role you</font>
+
+190
+00:08:03,259 --> 00:08:04,759
+to play for<font color="#E5E5E5"> regulators which we haven't</font>
+
+191
+00:08:04,759 --> 00:08:07,279
+<font color="#E5E5E5">discussed and in particular the European</font>
+
+192
+00:08:07,279 --> 00:08:08,539
+Commission now is in a<font color="#E5E5E5"> very good</font>
+
+193
+00:08:08,539 --> 00:08:10,580
+<font color="#E5E5E5">position to tighten the screws on</font>
+
+194
+00:08:10,580 --> 00:08:11,900
+<font color="#E5E5E5">Facebook they have been cracking</font><font color="#CCCCCC"> down on</font>
+
+195
+00:08:11,900 --> 00:08:15,259
+platforms for a while now and the new
+
+196
+00:08:15,259 --> 00:08:17,389
+situation<font color="#CCCCCC"> with Cambridge</font><font color="#E5E5E5"> analytic</font><font color="#CCCCCC"> ah has</font>
+
+197
+00:08:17,389 --> 00:08:20,060
+opened the doors<font color="#E5E5E5"> even more widely for</font>
+
+198
+00:08:20,060 --> 00:08:21,650
+regulatory school
+
+199
+00:08:21,650 --> 00:08:24,290
+so this to me<font color="#E5E5E5"> is</font><font color="#CCCCCC"> the biggest</font><font color="#E5E5E5"> driver and</font>
+
+200
+00:08:24,290 --> 00:08:26,360
+the biggest<font color="#E5E5E5"> impact</font><font color="#CCCCCC"> that Facebook</font><font color="#E5E5E5"> is</font>
+
+201
+00:08:26,360 --> 00:08:29,150
+<font color="#CCCCCC">about to change and which is actually</font>
+
+202
+00:08:29,150 --> 00:08:31,520
+behind<font color="#E5E5E5"> the stock decline</font><font color="#CCCCCC"> that we see it</font>
+
+203
+00:08:31,520 --> 00:08:33,740
+is the<font color="#E5E5E5"> ability now for regulators to</font>
+
+204
+00:08:33,740 --> 00:08:37,630
+<font color="#E5E5E5">intervene</font><font color="#CCCCCC"> you talk there about</font><font color="#E5E5E5"> greater</font>
+
+205
+00:08:37,630 --> 00:08:39,890
+regulation<font color="#CCCCCC"> and the Facebook is a</font>
+
+206
+00:08:39,890 --> 00:08:41,330
+platform<font color="#CCCCCC"> that is available throughout</font>
+
+207
+00:08:41,330 --> 00:08:42,640
+the<font color="#E5E5E5"> world and there are different</font>
+
+208
+00:08:42,640 --> 00:08:45,050
+jurisdictions and<font color="#CCCCCC"> different regulations</font>
+
+209
+00:08:45,050 --> 00:08:47,210
+in in in in<font color="#E5E5E5"> all of these</font><font color="#CCCCCC"> countries I</font>
+
+210
+00:08:47,210 --> 00:08:48,440
+mean<font color="#E5E5E5"> how do you how do you deal with all</font>
+
+211
+00:08:48,440 --> 00:08:50,870
+of<font color="#E5E5E5"> that the European Commission</font><font color="#CCCCCC"> actually</font>
+
+212
+00:08:50,870 --> 00:08:53,360
+<font color="#E5E5E5">with its new data protection policy</font>
+
+213
+00:08:53,360 --> 00:08:56,780
+mandates<font color="#E5E5E5"> every company that operates in</font>
+
+214
+00:08:56,780 --> 00:09:00,140
+Europe that has European users whether
+
+215
+00:09:00,140 --> 00:09:02,000
+it's based in<font color="#E5E5E5"> the US or anywhere to</font>
+
+216
+00:09:02,000 --> 00:09:04,610
+adhere to<font color="#CCCCCC"> those standards and Facebook</font>
+
+217
+00:09:04,610 --> 00:09:06,920
+and all large platforms want to<font color="#E5E5E5"> unify</font>
+
+218
+00:09:06,920 --> 00:09:09,560
+the user experience<font color="#CCCCCC"> harmonized it across</font>
+
+219
+00:09:09,560 --> 00:09:11,360
+<font color="#CCCCCC">different countries so if you have a</font>
+
+220
+00:09:11,360 --> 00:09:13,880
+large<font color="#E5E5E5"> block like the EU pushing for</font>
+
+221
+00:09:13,880 --> 00:09:16,850
+tighter regulation pushing for<font color="#CCCCCC"> opt-in of</font>
+
+222
+00:09:16,850 --> 00:09:19,340
+data for instance<font color="#E5E5E5"> pushing for clearer</font>
+
+223
+00:09:19,340 --> 00:09:22,220
+communication<font color="#CCCCCC"> around how data is being</font>
+
+224
+00:09:22,220 --> 00:09:25,040
+<font color="#CCCCCC">used it is fairly easy for Facebook</font><font color="#E5E5E5"> and</font>
+
+225
+00:09:25,040 --> 00:09:27,350
+other platforms<font color="#CCCCCC"> to deploy</font><font color="#E5E5E5"> this globally</font>
+
+226
+00:09:27,350 --> 00:09:29,420
+now there is of<font color="#CCCCCC"> course a loophole if you</font>
+
+227
+00:09:29,420 --> 00:09:32,420
+are an<font color="#CCCCCC"> advertiser or a politically</font>
+
+228
+00:09:32,420 --> 00:09:34,370
+<font color="#CCCCCC">influenced firm based outside of the</font>
+
+229
+00:09:34,370 --> 00:09:36,470
+<font color="#CCCCCC">European</font><font color="#E5E5E5"> jurisdiction or</font><font color="#CCCCCC"> some</font><font color="#E5E5E5"> outside of</font>
+
+230
+00:09:36,470 --> 00:09:40,640
+the US and<font color="#CCCCCC"> you can still manipulate</font><font color="#E5E5E5"> and</font>
+
+231
+00:09:40,640 --> 00:09:43,940
+misuse the platform so<font color="#CCCCCC"> we can't close</font>
+
+232
+00:09:43,940 --> 00:09:47,150
+all loopholes<font color="#CCCCCC"> and through regulation</font><font color="#E5E5E5"> but</font>
+
+233
+00:09:47,150 --> 00:09:48,470
+what we can<font color="#E5E5E5"> also do it through</font>
+
+234
+00:09:48,470 --> 00:09:50,900
+regulation on top of protecting users<font color="#E5E5E5"> in</font>
+
+235
+00:09:50,900 --> 00:09:53,930
+many<font color="#E5E5E5"> jurisdictions is to change how</font>
+
+236
+00:09:53,930 --> 00:09:56,390
+platforms<font color="#E5E5E5"> think about their users adopt</font>
+
+237
+00:09:56,390 --> 00:09:59,660
+more rigorous ethical controls<font color="#E5E5E5"> and also</font>
+
+238
+00:09:59,660 --> 00:10:02,000
+for instance<font color="#E5E5E5"> within Facebook really</font>
+
+239
+00:10:02,000 --> 00:10:04,850
+<font color="#E5E5E5">ensure that with every programming</font><font color="#CCCCCC"> and</font>
+
+240
+00:10:04,850 --> 00:10:06,890
+<font color="#CCCCCC">coding</font><font color="#E5E5E5"> decision that is being made</font><font color="#CCCCCC"> these</font>
+
+241
+00:10:06,890 --> 00:10:09,320
+social<font color="#E5E5E5"> implications are being considered</font>
+
+242
+00:10:09,320 --> 00:10:11,750
+<font color="#CCCCCC">-</font><font color="#E5E5E5"> and there has been a huge gap so far</font>
+
+243
+00:10:11,750 --> 00:10:14,840
+between coding<font color="#E5E5E5"> the digital world and</font>
+
+244
+00:10:14,840 --> 00:10:16,610
+thinking about what that<font color="#E5E5E5"> might</font><font color="#CCCCCC"> mean for</font>
+
+245
+00:10:16,610 --> 00:10:18,200
+<font color="#E5E5E5">the real world good to speak with you</font>
+
+246
+00:10:18,200 --> 00:10:21,710
+Daniel<font color="#E5E5E5"> Knapp in London thank you</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> still</font>
+
+247
+00:10:21,710 --> 00:10:23,840
+<font color="#CCCCCC">- come on</font><font color="#E5E5E5"> counting the cost</font><font color="#CCCCCC"> travel chaos</font>
+
+248
+00:10:23,840 --> 00:10:26,330
+in France<font color="#E5E5E5"> as public workers begin some</font>
+
+249
+00:10:26,330 --> 00:10:30,010
+of the biggest<font color="#E5E5E5"> strikes in recent years</font>
+
+250
+00:10:30,879 --> 00:10:34,369
+the first call to<font color="#E5E5E5"> action on one of the</font>
+
+251
+00:10:34,369 --> 00:10:36,889
+most contentious issues<font color="#CCCCCC"> in American life</font>
+
+252
+00:10:36,889 --> 00:10:39,559
+<font color="#CCCCCC">today thousands</font><font color="#E5E5E5"> of teenage activists are</font>
+
+253
+00:10:39,559 --> 00:10:42,529
+calling<font color="#CCCCCC"> for tougher gun</font><font color="#E5E5E5"> laws</font><font color="#CCCCCC"> meanwhile</font>
+
+254
+00:10:42,529 --> 00:10:44,749
+the CEOs of the biggest gun makers
+
+255
+00:10:44,749 --> 00:10:46,490
+rarely give interviews<font color="#E5E5E5"> and live lives</font>
+
+256
+00:10:46,490 --> 00:10:49,069
+far<font color="#E5E5E5"> removed from the whole issue but</font>
+
+257
+00:10:49,069 --> 00:10:50,720
+they're still profiting from the biggest
+
+258
+00:10:50,720 --> 00:10:52,999
+unregulated gun market in the developed
+
+259
+00:10:52,999 --> 00:10:55,459
+world<font color="#CCCCCC"> the</font><font color="#E5E5E5"> multi-billion dollar US</font>
+
+260
+00:10:55,459 --> 00:10:57,889
+firearms<font color="#CCCCCC"> industry has been largely</font>
+
+261
+00:10:57,889 --> 00:11:00,559
+shielded<font color="#CCCCCC"> by</font><font color="#E5E5E5"> the US Constitution</font><font color="#CCCCCC"> which</font>
+
+262
+00:11:00,559 --> 00:11:02,749
+<font color="#E5E5E5">allows people the right</font><font color="#CCCCCC"> to own a gun but</font>
+
+263
+00:11:02,749 --> 00:11:04,399
+in the wake of the hashtag never again
+
+264
+00:11:04,399 --> 00:11:07,189
+the investment community is<font color="#CCCCCC"> also waking</font>
+
+265
+00:11:07,189 --> 00:11:09,529
+<font color="#E5E5E5">up to its role in the weapons economy</font>
+
+266
+00:11:09,529 --> 00:11:12,050
+<font color="#E5E5E5">the calls have been growing as well for</font>
+
+267
+00:11:12,050 --> 00:11:14,540
+Wall Street<font color="#E5E5E5"> to dump gun stocks fund</font>
+
+268
+00:11:14,540 --> 00:11:16,790
+managers including Blackrock have said
+
+269
+00:11:16,790 --> 00:11:18,769
+they are<font color="#CCCCCC"> having another</font><font color="#E5E5E5"> look at their</font>
+
+270
+00:11:18,769 --> 00:11:21,199
+relationship<font color="#CCCCCC"> with gun makers</font><font color="#E5E5E5"> and more</font>
+
+271
+00:11:21,199 --> 00:11:22,850
+than a<font color="#CCCCCC"> dozen companies have ended</font>
+
+272
+00:11:22,850 --> 00:11:24,230
+partnerships with the National Rifle
+
+273
+00:11:24,230 --> 00:11:27,649
+Association<font color="#CCCCCC"> the program Lobby</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> March</font>
+
+274
+00:11:27,649 --> 00:11:30,110
+in Washington<font color="#CCCCCC"> is led by students from</font>
+
+275
+00:11:30,110 --> 00:11:32,389
+<font color="#E5E5E5">the school in Florida where 17 people</font>
+
+276
+00:11:32,389 --> 00:11:34,369
+<font color="#E5E5E5">were killed last</font><font color="#CCCCCC"> month</font><font color="#E5E5E5"> Andy Gallagher</font>
+
+277
+00:11:34,369 --> 00:11:41,089
+reports on their journey<font color="#CCCCCC"> to protest in</font>
+
+278
+00:11:41,089 --> 00:11:43,399
+the<font color="#CCCCCC"> weeks since this community lost 17</font>
+
+279
+00:11:43,399 --> 00:11:44,899
+<font color="#E5E5E5">lives</font><font color="#CCCCCC"> - one of the worst school</font>
+
+280
+00:11:44,899 --> 00:11:46,730
+<font color="#CCCCCC">shootings in</font><font color="#E5E5E5"> US</font><font color="#CCCCCC"> history the</font><font color="#E5E5E5"> push for</font>
+
+281
+00:11:46,730 --> 00:11:49,249
+change has<font color="#E5E5E5"> been relentless the</font><font color="#CCCCCC"> March for</font>
+
+282
+00:11:49,249 --> 00:11:50,869
+<font color="#E5E5E5">our lives demonstration will</font><font color="#CCCCCC"> be the</font>
+
+283
+00:11:50,869 --> 00:11:53,299
+biggest protest yet<font color="#CCCCCC"> and one led by the</font>
+
+284
+00:11:53,299 --> 00:11:54,829
+students<font color="#E5E5E5"> from Marjory Stoneman Douglas</font>
+
+285
+00:11:54,829 --> 00:11:57,559
+<font color="#CCCCCC">High School</font><font color="#E5E5E5"> you guys are the change that</font>
+
+286
+00:11:57,559 --> 00:11:59,269
+is<font color="#CCCCCC"> going to be the tipping point to help</font>
+
+287
+00:11:59,269 --> 00:12:01,129
+<font color="#E5E5E5">that happen</font><font color="#CCCCCC"> as they make their</font><font color="#E5E5E5"> way to</font>
+
+288
+00:12:01,129 --> 00:12:03,769
+Washington to demand gun reform<font color="#E5E5E5"> many are</font>
+
+289
+00:12:03,769 --> 00:12:05,839
+excited<font color="#CCCCCC"> about the global response</font><font color="#E5E5E5"> to</font>
+
+290
+00:12:05,839 --> 00:12:08,089
+their cause just to see<font color="#E5E5E5"> the unity</font><font color="#CCCCCC"> of our</font>
+
+291
+00:12:08,089 --> 00:12:10,129
+our country<font color="#CCCCCC"> in our world because the</font>
+
+292
+00:12:10,129 --> 00:12:11,929
+<font color="#CCCCCC">March is now on seven counts on seven</font>
+
+293
+00:12:11,929 --> 00:12:13,650
+<font color="#E5E5E5">continents which i think is awesome</font>
+
+294
+00:12:13,650 --> 00:12:20,490
+so I'm just glad<font color="#CCCCCC"> to</font><font color="#E5E5E5"> see</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> all the</font>
+
+295
+00:12:20,490 --> 00:12:22,380
+national debate these children started
+
+296
+00:12:22,380 --> 00:12:24,930
+has led to gun reform<font color="#E5E5E5"> in Florida but</font>
+
+297
+00:12:24,930 --> 00:12:26,279
+students<font color="#E5E5E5"> say they won't stop</font><font color="#CCCCCC"> until</font>
+
+298
+00:12:26,279 --> 00:12:28,740
+assault weapons are banned<font color="#CCCCCC"> it's an</font>
+
+299
+00:12:28,740 --> 00:12:30,750
+ambitious<font color="#E5E5E5"> goal but one organizers say</font>
+
+300
+00:12:30,750 --> 00:12:33,529
+isn't beyond this generation but someone
+
+301
+00:12:33,529 --> 00:12:35,490
+underestimates you you can come<font color="#E5E5E5"> in from</font>
+
+302
+00:12:35,490 --> 00:12:36,990
+<font color="#CCCCCC">a position</font><font color="#E5E5E5"> of power that they're not</font>
+
+303
+00:12:36,990 --> 00:12:38,820
+expecting<font color="#CCCCCC"> and that's really</font><font color="#E5E5E5"> what's</font>
+
+304
+00:12:38,820 --> 00:12:41,400
+happening<font color="#E5E5E5"> so I'm just you know riding</font>
+
+305
+00:12:41,400 --> 00:12:44,130
+<font color="#E5E5E5">the tide and watching and it's awesome</font>
+
+306
+00:12:44,130 --> 00:12:46,170
+<font color="#CCCCCC">the fight</font><font color="#E5E5E5"> for what campaigners call</font>
+
+307
+00:12:46,170 --> 00:12:48,690
+common<font color="#E5E5E5"> sense gun reform will be long and</font>
+
+308
+00:12:48,690 --> 00:12:50,940
+<font color="#E5E5E5">difficult parents say that March for our</font>
+
+309
+00:12:50,940 --> 00:13:02,400
+lives<font color="#E5E5E5"> protest is just the beginning in</font>
+
+310
+00:13:02,400 --> 00:13:04,620
+the hours before<font color="#CCCCCC"> the March the message</font>
+
+311
+00:13:04,620 --> 00:13:07,170
+from<font color="#E5E5E5"> these students is simple I hope</font>
+
+312
+00:13:07,170 --> 00:13:08,970
+that this gets<font color="#E5E5E5"> to every single person</font><font color="#CCCCCC"> as</font>
+
+313
+00:13:08,970 --> 00:13:12,089
+much<font color="#E5E5E5"> food as we</font><font color="#CCCCCC"> can so we can finally</font>
+
+314
+00:13:12,089 --> 00:13:13,529
+make a change in this country
+
+315
+00:13:13,529 --> 00:13:15,930
+Andy Gallagher reporting<font color="#E5E5E5"> for</font><font color="#CCCCCC"> stair well</font>
+
+316
+00:13:15,930 --> 00:13:18,150
+<font color="#E5E5E5">joining us</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> via Skype from Raleigh</font>
+
+317
+00:13:18,150 --> 00:13:20,490
+North<font color="#CCCCCC"> Carolina</font><font color="#E5E5E5"> is Jeffrey Moore senior</font>
+
+318
+00:13:20,490 --> 00:13:23,370
+analyst<font color="#E5E5E5"> with</font><font color="#CCCCCC"> global risk insights thanks</font>
+
+319
+00:13:23,370 --> 00:13:24,930
+very much for<font color="#E5E5E5"> being</font><font color="#CCCCCC"> with us now</font>
+
+320
+00:13:24,930 --> 00:13:27,120
+just how<font color="#E5E5E5"> lucrative is the gun industry</font>
+
+321
+00:13:27,120 --> 00:13:31,470
+<font color="#CCCCCC">in in America I mean how</font><font color="#E5E5E5"> tied are they</font>
+
+322
+00:13:31,470 --> 00:13:34,140
+<font color="#E5E5E5">into the whole economy there the gun</font>
+
+323
+00:13:34,140 --> 00:13:36,540
+manufacturers and<font color="#E5E5E5"> accessory and</font>
+
+324
+00:13:36,540 --> 00:13:40,470
+retailers have a pretty<font color="#E5E5E5"> sizable economic</font>
+
+325
+00:13:40,470 --> 00:13:42,720
+impact<font color="#E5E5E5"> overall it's about 50 billion</font>
+
+326
+00:13:42,720 --> 00:13:46,589
+dollars<font color="#E5E5E5"> directly and indirectly</font><font color="#CCCCCC"> between</font>
+
+327
+00:13:46,589 --> 00:13:49,410
+gun manufacturers and<font color="#CCCCCC"> retailers you've</font>
+
+328
+00:13:49,410 --> 00:13:51,089
+got about six<font color="#CCCCCC"> and a half</font><font color="#E5E5E5"> billion dollars</font>
+
+329
+00:13:51,089 --> 00:13:53,040
+in taxes that<font color="#CCCCCC"> are paid every year in</font>
+
+330
+00:13:53,040 --> 00:13:56,310
+about<font color="#E5E5E5"> 300,000 individuals employed</font>
+
+331
+00:13:56,310 --> 00:13:58,709
+either directly<font color="#CCCCCC"> or indirectly</font><font color="#E5E5E5"> through</font>
+
+332
+00:13:58,709 --> 00:14:02,459
+the<font color="#E5E5E5"> gun industry</font><font color="#CCCCCC"> so it is a significant</font>
+
+333
+00:14:02,459 --> 00:14:06,029
+<font color="#E5E5E5">impact on America's economy</font><font color="#CCCCCC"> but</font>
+
+334
+00:14:06,029 --> 00:14:07,740
+relatively small compared to<font color="#E5E5E5"> a lot of</font>
+
+335
+00:14:07,740 --> 00:14:11,459
+<font color="#E5E5E5">other areas across the</font><font color="#CCCCCC"> spectrum but it</font>
+
+336
+00:14:11,459 --> 00:14:14,490
+is a<font color="#CCCCCC"> long-lived and established industry</font>
+
+337
+00:14:14,490 --> 00:14:16,560
+<font color="#E5E5E5">that likely won't be going anywhere</font>
+
+338
+00:14:16,560 --> 00:14:18,870
+<font color="#E5E5E5">anytime</font><font color="#CCCCCC"> soon</font><font color="#E5E5E5"> and from an economic</font>
+
+339
+00:14:18,870 --> 00:14:22,020
+<font color="#CCCCCC">perspective how do you see the gun where</font>
+
+340
+00:14:22,020 --> 00:14:23,880
+do you see the gun<font color="#E5E5E5"> industry going under</font>
+
+341
+00:14:23,880 --> 00:14:26,520
+the Trump<font color="#E5E5E5"> administration</font><font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> well we've</font>
+
+342
+00:14:26,520 --> 00:14:27,900
+got a<font color="#CCCCCC"> carry</font>
+
+343
+00:14:27,900 --> 00:14:30,630
+situation where you had eight<font color="#CCCCCC"> years of</font>
+
+344
+00:14:30,630 --> 00:14:34,710
+<font color="#CCCCCC">President Obama a couple of large highly</font>
+
+345
+00:14:34,710 --> 00:14:38,580
+<font color="#CCCCCC">public</font><font color="#E5E5E5"> mass shootings and some feeders</font>
+
+346
+00:14:38,580 --> 00:14:40,980
+that gun regulations were going to come
+
+347
+00:14:40,980 --> 00:14:42,720
+<font color="#E5E5E5">down in a very big</font><font color="#CCCCCC"> way</font><font color="#E5E5E5"> and that drove</font>
+
+348
+00:14:42,720 --> 00:14:45,270
+gun sales and ammunition<font color="#E5E5E5"> sales through</font>
+
+349
+00:14:45,270 --> 00:14:46,500
+<font color="#CCCCCC">the roof really</font>
+
+350
+00:14:46,500 --> 00:14:49,260
+especially after 2012<font color="#E5E5E5"> the Sandy Hook</font>
+
+351
+00:14:49,260 --> 00:14:52,620
+<font color="#CCCCCC">massacre there were fears from the gun</font>
+
+352
+00:14:52,620 --> 00:14:55,350
+lobby<font color="#CCCCCC"> and from gun owners that</font><font color="#E5E5E5"> they may</font>
+
+353
+00:14:55,350 --> 00:14:57,840
+issue those<font color="#E5E5E5"> regulations in some bands</font>
+
+354
+00:14:57,840 --> 00:15:01,260
+<font color="#E5E5E5">and cases and the revenues</font><font color="#CCCCCC"> and stock</font>
+
+355
+00:15:01,260 --> 00:15:02,730
+<font color="#CCCCCC">prices for those</font><font color="#E5E5E5"> gun manufacturers</font>
+
+356
+00:15:02,730 --> 00:15:05,070
+really really<font color="#E5E5E5"> went haywire to the upside</font>
+
+357
+00:15:05,070 --> 00:15:08,070
+<font color="#E5E5E5">and continue doing that through</font><font color="#CCCCCC"> the</font>
+
+358
+00:15:08,070 --> 00:15:09,300
+<font color="#E5E5E5">remaining the remainder of his</font>
+
+359
+00:15:09,300 --> 00:15:12,360
+presidency the<font color="#CCCCCC"> day after Trump was</font>
+
+360
+00:15:12,360 --> 00:15:14,370
+elected the stocks of these gun
+
+361
+00:15:14,370 --> 00:15:17,940
+manufacturers actually<font color="#CCCCCC"> took a big hit in</font>
+
+362
+00:15:17,940 --> 00:15:20,220
+the the days following<font color="#CCCCCC"> his</font><font color="#E5E5E5"> election</font><font color="#CCCCCC"> and</font>
+
+363
+00:15:20,220 --> 00:15:23,240
+<font color="#E5E5E5">have since come off pretty</font><font color="#CCCCCC"> strongly</font><font color="#E5E5E5"> as</font>
+
+364
+00:15:23,240 --> 00:15:26,340
+the revenues<font color="#E5E5E5"> had done this as well there</font>
+
+365
+00:15:26,340 --> 00:15:27,810
+doesn't<font color="#CCCCCC"> seem to be the political</font><font color="#E5E5E5"> risk</font>
+
+366
+00:15:27,810 --> 00:15:30,480
+the political fear that regulation will
+
+367
+00:15:30,480 --> 00:15:34,110
+be coming<font color="#E5E5E5"> down</font><font color="#CCCCCC"> and as a result those</font>
+
+368
+00:15:34,110 --> 00:15:36,750
+<font color="#E5E5E5">have</font><font color="#CCCCCC"> come off their highs but also with</font>
+
+369
+00:15:36,750 --> 00:15:40,590
+President Obama and the feverish<font color="#E5E5E5"> focus</font>
+
+370
+00:15:40,590 --> 00:15:43,200
+on on whether or<font color="#E5E5E5"> not he may do something</font>
+
+371
+00:15:43,200 --> 00:15:45,540
+<font color="#E5E5E5">to take guns away</font><font color="#CCCCCC"> I may</font><font color="#E5E5E5"> have pulled a</font>
+
+372
+00:15:45,540 --> 00:15:49,260
+lot<font color="#CCCCCC"> of demands forward to those years</font><font color="#E5E5E5"> so</font>
+
+373
+00:15:49,260 --> 00:15:51,750
+you may see the gun<font color="#E5E5E5"> industry in term or</font>
+
+374
+00:15:51,750 --> 00:15:54,420
+natural ebb and flow of<font color="#E5E5E5"> a business cycle</font>
+
+375
+00:15:54,420 --> 00:15:56,430
+<font color="#E5E5E5">from here on out</font><font color="#CCCCCC"> one of the issues that</font>
+
+376
+00:15:56,430 --> 00:15:58,440
+comes to mind<font color="#E5E5E5"> when</font><font color="#CCCCCC"> you look at the</font>
+
+377
+00:15:58,440 --> 00:16:00,870
+economic aspect of this is this whole
+
+378
+00:16:00,870 --> 00:16:04,230
+<font color="#CCCCCC">idea of ethical investments talk on Wall</font>
+
+379
+00:16:04,230 --> 00:16:05,400
+<font color="#CCCCCC">Street</font>
+
+380
+00:16:05,400 --> 00:16:08,220
+and among investors of pulling their
+
+381
+00:16:08,220 --> 00:16:10,860
+money out<font color="#CCCCCC"> of stocks that are directly</font><font color="#E5E5E5"> or</font>
+
+382
+00:16:10,860 --> 00:16:14,190
+indirectly tied to the gun<font color="#CCCCCC"> industry is</font>
+
+383
+00:16:14,190 --> 00:16:15,990
+that something that<font color="#CCCCCC"> if it</font><font color="#E5E5E5"> builds up</font>
+
+384
+00:16:15,990 --> 00:16:18,780
+could have an effect yeah that certainly
+
+385
+00:16:18,780 --> 00:16:21,270
+<font color="#E5E5E5">could have an effect</font><font color="#CCCCCC"> in just</font><font color="#E5E5E5"> yesterday</font>
+
+386
+00:16:21,270 --> 00:16:24,510
+we had<font color="#E5E5E5"> Citigroup announced that their</font>
+
+387
+00:16:24,510 --> 00:16:26,400
+Citibank operations for their commercial
+
+388
+00:16:26,400 --> 00:16:28,290
+<font color="#E5E5E5">clients they would no longer support</font>
+
+389
+00:16:28,290 --> 00:16:30,000
+<font color="#E5E5E5">commercial clients in the gun industry</font>
+
+390
+00:16:30,000 --> 00:16:33,660
+<font color="#CCCCCC">or the retailing industry of guns</font><font color="#E5E5E5"> that</font>
+
+391
+00:16:33,660 --> 00:16:36,630
+sell guns of any kind so individuals
+
+392
+00:16:36,630 --> 00:16:39,660
+under 21 years<font color="#E5E5E5"> of age</font><font color="#CCCCCC"> so when you start</font>
+
+393
+00:16:39,660 --> 00:16:40,680
+<font color="#CCCCCC">having these commercial</font>
+
+394
+00:16:40,680 --> 00:16:43,649
+pressures from<font color="#CCCCCC"> the bank</font><font color="#E5E5E5"> in finance</font>
+
+395
+00:16:43,649 --> 00:16:45,570
+providers that<font color="#CCCCCC"> they give those services</font>
+
+396
+00:16:45,570 --> 00:16:47,670
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> gun makers</font><font color="#CCCCCC"> and the gun retailers</font>
+
+397
+00:16:47,670 --> 00:16:50,550
+<font color="#CCCCCC">if they're gonna be changing policies</font>
+
+398
+00:16:50,550 --> 00:16:52,680
+much like the<font color="#CCCCCC"> retailer's have already</font>
+
+399
+00:16:52,680 --> 00:16:54,839
+started<font color="#E5E5E5"> with Walmart and some other</font>
+
+400
+00:16:54,839 --> 00:16:56,820
+sporting<font color="#E5E5E5"> goods stores raising that age</font>
+
+401
+00:16:56,820 --> 00:16:57,690
+<font color="#CCCCCC">to 21</font>
+
+402
+00:16:57,690 --> 00:17:00,300
+you'll probably see<font color="#CCCCCC"> a spreading effect</font>
+
+403
+00:17:00,300 --> 00:17:02,550
+<font color="#E5E5E5">of at least raising the age so if things</font>
+
+404
+00:17:02,550 --> 00:17:05,939
+<font color="#E5E5E5">can't get done in Washington</font><font color="#CCCCCC"> you'll</font>
+
+405
+00:17:05,939 --> 00:17:08,609
+start to see<font color="#CCCCCC"> private businesses</font><font color="#E5E5E5"> take</font>
+
+406
+00:17:08,609 --> 00:17:11,160
+that own initiative<font color="#E5E5E5"> to raise the age of</font>
+
+407
+00:17:11,160 --> 00:17:13,050
+purchasing guns<font color="#CCCCCC"> good to speak with you</font>
+
+408
+00:17:13,050 --> 00:17:14,280
+Jeffrey<font color="#E5E5E5"> Moore thanks for being with</font><font color="#CCCCCC"> us</font>
+
+409
+00:17:14,280 --> 00:17:16,709
+<font color="#E5E5E5">thank</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> now interest rates</font><font color="#CCCCCC"> in the</font>
+
+410
+00:17:16,709 --> 00:17:18,480
+world's biggest economy are headed
+
+411
+00:17:18,480 --> 00:17:20,730
+higher<font color="#E5E5E5"> that was the message</font><font color="#CCCCCC"> from the new</font>
+
+412
+00:17:20,730 --> 00:17:22,589
+<font color="#E5E5E5">chairman at the US Federal</font><font color="#CCCCCC"> Reserve this</font>
+
+413
+00:17:22,589 --> 00:17:24,990
+week Jerome Powell<font color="#E5E5E5"> in his first Fed</font>
+
+414
+00:17:24,990 --> 00:17:27,059
+meeting<font color="#E5E5E5"> delivered a widely expected</font>
+
+415
+00:17:27,059 --> 00:17:29,700
+quarter point interest rate hike<font color="#E5E5E5"> citing</font>
+
+416
+00:17:29,700 --> 00:17:31,950
+strength<font color="#E5E5E5"> in the US economy he also</font>
+
+417
+00:17:31,950 --> 00:17:34,440
+hinted<font color="#E5E5E5"> the path of rate rises could be</font>
+
+418
+00:17:34,440 --> 00:17:37,380
+more aggressive and<font color="#E5E5E5"> he warned us trade</font>
+
+419
+00:17:37,380 --> 00:17:39,660
+policy might be a<font color="#E5E5E5"> concern in the future</font>
+
+420
+00:17:39,660 --> 00:17:41,790
+inflation<font color="#CCCCCC"> a day later Donald</font><font color="#E5E5E5"> Trump</font>
+
+421
+00:17:41,790 --> 00:17:43,920
+signed<font color="#CCCCCC"> sixty billion</font><font color="#E5E5E5"> dollars worth of</font>
+
+422
+00:17:43,920 --> 00:17:46,500
+tariffs on products<font color="#E5E5E5"> made in China</font>
+
+423
+00:17:46,500 --> 00:17:50,280
+<font color="#CCCCCC">Kimberly how kit has more Chinese</font>
+
+424
+00:17:50,280 --> 00:17:52,470
+President Xi Jingping<font color="#E5E5E5"> welcomed</font><font color="#CCCCCC"> US</font>
+
+425
+00:17:52,470 --> 00:17:54,270
+<font color="#CCCCCC">president</font><font color="#E5E5E5"> Donald Trump to China in</font>
+
+426
+00:17:54,270 --> 00:17:57,200
+November<font color="#E5E5E5"> with an elaborate ceremony</font>
+
+427
+00:17:57,200 --> 00:17:59,910
+<font color="#E5E5E5">within hours the two had signed more</font>
+
+428
+00:17:59,910 --> 00:18:02,190
+<font color="#CCCCCC">than a dozen business deals to showcase</font>
+
+429
+00:18:02,190 --> 00:18:05,070
+their economic partnership<font color="#CCCCCC"> I view them</font>
+
+430
+00:18:05,070 --> 00:18:07,520
+as a friend<font color="#CCCCCC"> I have tremendous</font><font color="#E5E5E5"> respect</font>
+
+431
+00:18:07,520 --> 00:18:11,130
+<font color="#CCCCCC">for President</font><font color="#E5E5E5"> Xi so Trump's targeting of</font>
+
+432
+00:18:11,130 --> 00:18:13,320
+China with economic tariffs<font color="#E5E5E5"> has left</font>
+
+433
+00:18:13,320 --> 00:18:16,050
+many<font color="#E5E5E5"> bewildered Trump's delivering on a</font>
+
+434
+00:18:16,050 --> 00:18:18,690
+campaign<font color="#CCCCCC"> promise to rectify what he says</font>
+
+435
+00:18:18,690 --> 00:18:21,660
+is an unequal trade deficit<font color="#E5E5E5"> favoring</font>
+
+436
+00:18:21,660 --> 00:18:25,650
+China<font color="#E5E5E5"> of more than</font><font color="#CCCCCC"> 375</font><font color="#E5E5E5"> billion dollars</font>
+
+437
+00:18:25,650 --> 00:18:28,290
+the list of<font color="#E5E5E5"> Chinese imports the White</font>
+
+438
+00:18:28,290 --> 00:18:30,360
+House's targeting has not been made
+
+439
+00:18:30,360 --> 00:18:33,120
+public<font color="#CCCCCC"> it's expected dozens of Chinese</font>
+
+440
+00:18:33,120 --> 00:18:35,670
+<font color="#E5E5E5">high-tech electronics and consumer goods</font>
+
+441
+00:18:35,670 --> 00:18:38,330
+<font color="#E5E5E5">including apparel will be affected for</font>
+
+442
+00:18:38,330 --> 00:18:41,070
+<font color="#CCCCCC">years Republicans</font><font color="#E5E5E5"> and Democrats have</font>
+
+443
+00:18:41,070 --> 00:18:42,750
+<font color="#CCCCCC">been concerned about Chinese trade</font>
+
+444
+00:18:42,750 --> 00:18:45,090
+practices and theft of intellectual
+
+445
+00:18:45,090 --> 00:18:47,309
+property<font color="#CCCCCC"> but there's division about</font>
+
+446
+00:18:47,309 --> 00:18:50,070
+<font color="#CCCCCC">Trump's solution to the problem is</font>
+
+447
+00:18:50,070 --> 00:18:53,440
+anybody<font color="#E5E5E5"> reading the trade policy</font><font color="#CCCCCC"> news</font>
+
+448
+00:18:53,440 --> 00:18:56,860
+on the<font color="#E5E5E5"> business pages now probably</font>
+
+449
+00:18:56,860 --> 00:19:00,780
+suffers from a nasty<font color="#E5E5E5"> case of</font><font color="#CCCCCC"> whiplash</font>
+
+450
+00:19:00,780 --> 00:19:04,720
+<font color="#CCCCCC">trying to decipher all that news</font><font color="#E5E5E5"> it is</font>
+
+451
+00:19:04,720 --> 00:19:07,540
+<font color="#E5E5E5">hard</font><font color="#CCCCCC"> to identify a coherent strategy</font>
+
+452
+00:19:07,540 --> 00:19:09,900
+that will<font color="#E5E5E5"> help American workers</font>
+
+453
+00:19:09,900 --> 00:19:14,020
+<font color="#E5E5E5">businesses</font><font color="#CCCCCC"> and farmers</font><font color="#E5E5E5"> when the dust</font>
+
+454
+00:19:14,020 --> 00:19:16,660
+settles<font color="#E5E5E5"> as part of his announcement</font><font color="#CCCCCC"> on</font>
+
+455
+00:19:16,660 --> 00:19:18,790
+tariffs Donald Trump says he will
+
+456
+00:19:18,790 --> 00:19:21,190
+renegotiate<font color="#CCCCCC"> other trade deals he</font>
+
+457
+00:19:21,190 --> 00:19:22,990
+believes are harming the United States
+
+458
+00:19:22,990 --> 00:19:25,570
+including with the European Union Canada
+
+459
+00:19:25,570 --> 00:19:28,660
+<font color="#CCCCCC">and Mexico</font><font color="#E5E5E5"> still his focus remains on</font>
+
+460
+00:19:28,660 --> 00:19:31,870
+<font color="#E5E5E5">China</font><font color="#CCCCCC"> the latest round of tariffs</font><font color="#E5E5E5"> set to</font>
+
+461
+00:19:31,870 --> 00:19:34,120
+take effect<font color="#CCCCCC"> in 60 days</font>
+
+462
+00:19:34,120 --> 00:19:36,550
+now China has hit back at<font color="#E5E5E5"> those tariffs</font>
+
+463
+00:19:36,550 --> 00:19:38,230
+<font color="#CCCCCC">Scott hila has the</font><font color="#E5E5E5"> reaction from</font>
+
+464
+00:19:38,230 --> 00:19:42,340
+Shanghai<font color="#E5E5E5"> firing back China responded</font>
+
+465
+00:19:42,340 --> 00:19:44,410
+<font color="#E5E5E5">within hours to</font><font color="#CCCCCC"> President Donald</font><font color="#E5E5E5"> Trump's</font>
+
+466
+00:19:44,410 --> 00:19:46,690
+<font color="#CCCCCC">announcements of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> tariffs</font><font color="#E5E5E5"> Beijing</font>
+
+467
+00:19:46,690 --> 00:19:48,190
+<font color="#E5E5E5">said it's planning to impose three</font>
+
+468
+00:19:48,190 --> 00:19:50,100
+<font color="#E5E5E5">billion dollars in tariffs of its own</font>
+
+469
+00:19:50,100 --> 00:19:52,240
+<font color="#E5E5E5">targeting a hundred and twenty eight</font><font color="#CCCCCC"> US</font>
+
+470
+00:19:52,240 --> 00:19:54,520
+Goods bound for China<font color="#E5E5E5"> focusing on</font>
+
+471
+00:19:54,520 --> 00:19:56,890
+agriculture<font color="#CCCCCC"> wine fruit nuts and pork</font>
+
+472
+00:19:56,890 --> 00:19:59,380
+products but also recycled aluminum and
+
+473
+00:19:59,380 --> 00:20:00,250
+steel pipes
+
+474
+00:20:00,250 --> 00:20:02,830
+this is<font color="#E5E5E5"> China vowed it will not back</font>
+
+475
+00:20:02,830 --> 00:20:04,750
+down<font color="#CCCCCC"> from a trade war while insisting</font>
+
+476
+00:20:04,750 --> 00:20:06,850
+<font color="#E5E5E5">the friction should be resolved</font><font color="#CCCCCC"> through</font>
+
+477
+00:20:06,850 --> 00:20:09,700
+negotiations<font color="#E5E5E5"> if the dispute continues</font>
+
+478
+00:20:09,700 --> 00:20:12,130
+<font color="#CCCCCC">China says</font><font color="#E5E5E5"> it could damage the broader</font>
+
+479
+00:20:12,130 --> 00:20:13,870
+picture of cooperation<font color="#E5E5E5"> between the</font>
+
+480
+00:20:13,870 --> 00:20:16,150
+world's<font color="#CCCCCC"> two largest economies it's</font>
+
+481
+00:20:16,150 --> 00:20:17,950
+telling the<font color="#E5E5E5"> u.s. to pull back from</font><font color="#CCCCCC"> the</font>
+
+482
+00:20:17,950 --> 00:20:20,920
+<font color="#CCCCCC">brink the</font><font color="#E5E5E5"> diverging</font><font color="#CCCCCC"> of a tompa - it's a</font>
+
+483
+00:20:20,920 --> 00:20:23,770
+destructive<font color="#E5E5E5"> move China and the US</font><font color="#CCCCCC"> are</font>
+
+484
+00:20:23,770 --> 00:20:26,140
+world trade leaders<font color="#E5E5E5"> I think it's going</font>
+
+485
+00:20:26,140 --> 00:20:28,600
+to<font color="#CCCCCC"> escalate gradually it will damage the</font>
+
+486
+00:20:28,600 --> 00:20:30,550
+economic relationship<font color="#CCCCCC"> between the two</font>
+
+487
+00:20:30,550 --> 00:20:32,290
+countries<font color="#CCCCCC"> and</font><font color="#E5E5E5"> that will have a negative</font>
+
+488
+00:20:32,290 --> 00:20:34,240
+<font color="#E5E5E5">impact on the</font><font color="#CCCCCC"> global economy</font>
+
+489
+00:20:34,240 --> 00:20:35,950
+both<font color="#E5E5E5"> nations have said they're going</font><font color="#CCCCCC"> to</font>
+
+490
+00:20:35,950 --> 00:20:37,660
+start<font color="#E5E5E5"> legal action through the</font><font color="#CCCCCC"> World</font>
+
+491
+00:20:37,660 --> 00:20:40,420
+<font color="#CCCCCC">Trade Organization</font><font color="#E5E5E5"> here</font><font color="#CCCCCC"> in China's</font>
+
+492
+00:20:40,420 --> 00:20:42,340
+commercial capital Shanghai there's
+
+493
+00:20:42,340 --> 00:20:44,800
+growing concern<font color="#E5E5E5"> over a trade war</font><font color="#CCCCCC"> with</font>
+
+494
+00:20:44,800 --> 00:20:46,570
+the<font color="#CCCCCC"> US they're worried about</font><font color="#E5E5E5"> jobs and</font>
+
+495
+00:20:46,570 --> 00:20:49,770
+they're worried about Chinese businesses
+
+496
+00:20:49,770 --> 00:20:52,300
+it may affect the employment in China
+
+497
+00:20:52,300 --> 00:20:54,910
+<font color="#E5E5E5">since exporting is a big part of China's</font>
+
+498
+00:20:54,910 --> 00:20:56,860
+<font color="#CCCCCC">economy</font><font color="#E5E5E5"> there's a lot of low-end</font>
+
+499
+00:20:56,860 --> 00:20:59,440
+industry but the many people's jobs<font color="#E5E5E5"> are</font>
+
+500
+00:20:59,440 --> 00:21:03,010
+depending<font color="#CCCCCC"> on export i watch a lot of</font>
+
+501
+00:21:03,010 --> 00:21:06,309
+news<font color="#E5E5E5"> of course China will fight back</font>
+
+502
+00:21:06,309 --> 00:21:08,619
+the point of<font color="#CCCCCC"> doing business is that</font><font color="#E5E5E5"> we</font>
+
+503
+00:21:08,619 --> 00:21:11,950
+both<font color="#E5E5E5"> ways</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> doesn't work if America</font><font color="#CCCCCC"> is</font>
+
+504
+00:21:11,950 --> 00:21:15,129
+the only<font color="#CCCCCC"> leader</font><font color="#E5E5E5"> China has to protect his</font>
+
+505
+00:21:15,129 --> 00:21:18,519
+own<font color="#CCCCCC"> interests to the increased trade</font>
+
+506
+00:21:18,519 --> 00:21:20,289
+tension could prove to<font color="#E5E5E5"> be a</font><font color="#CCCCCC"> challenge</font>
+
+507
+00:21:20,289 --> 00:21:22,479
+for<font color="#E5E5E5"> Chinese President Xi Jinping</font><font color="#CCCCCC"> who by</font>
+
+508
+00:21:22,479 --> 00:21:23,950
+a measure passed during<font color="#E5E5E5"> the National</font>
+
+509
+00:21:23,950 --> 00:21:25,809
+People's Congress<font color="#CCCCCC"> earlier</font><font color="#E5E5E5"> this month can</font>
+
+510
+00:21:25,809 --> 00:21:28,090
+remain as leader indefinitely<font color="#CCCCCC"> a big</font>
+
+511
+00:21:28,090 --> 00:21:30,279
+trade war with<font color="#CCCCCC"> the US</font><font color="#E5E5E5"> could slow China's</font>
+
+512
+00:21:30,279 --> 00:21:32,830
+rapid growth<font color="#E5E5E5"> critical to his</font><font color="#CCCCCC"> long term</font>
+
+513
+00:21:32,830 --> 00:21:36,969
+vision and finally in France presidents
+
+514
+00:21:36,969 --> 00:21:38,229
+have<font color="#CCCCCC"> come up against stiff resistance</font>
+
+515
+00:21:38,229 --> 00:21:40,659
+<font color="#E5E5E5">when trying to</font><font color="#CCCCCC"> modernize the railways</font>
+
+516
+00:21:40,659 --> 00:21:42,580
+Natasha Butler reports on<font color="#E5E5E5"> whether</font>
+
+517
+00:21:42,580 --> 00:21:44,619
+Emmanuel macron will succeed where
+
+518
+00:21:44,619 --> 00:21:48,279
+others have<font color="#CCCCCC"> failed</font><font color="#E5E5E5"> thousands of public</font>
+
+519
+00:21:48,279 --> 00:21:51,429
+sector<font color="#CCCCCC"> workers</font><font color="#E5E5E5"> protested in Paris United</font>
+
+520
+00:21:51,429 --> 00:21:53,049
+and<font color="#E5E5E5"> anger</font><font color="#CCCCCC"> at the</font><font color="#E5E5E5"> French government's</font>
+
+521
+00:21:53,049 --> 00:21:55,659
+plans to<font color="#E5E5E5"> reform public services and cut</font>
+
+522
+00:21:55,659 --> 00:21:58,450
+jobs<font color="#E5E5E5"> it was</font><font color="#CCCCCC"> a similar</font><font color="#E5E5E5"> picture</font><font color="#CCCCCC"> across the</font>
+
+523
+00:21:58,450 --> 00:22:00,820
+country in the city<font color="#E5E5E5"> of Nod there was</font>
+
+524
+00:22:00,820 --> 00:22:03,330
+some violence
+
+525
+00:22:06,590 --> 00:22:09,149
+workers from<font color="#E5E5E5"> France's national railway</font>
+
+526
+00:22:09,149 --> 00:22:11,940
+or<font color="#CCCCCC"> essence F</font><font color="#E5E5E5"> led the demonstrations the</font>
+
+527
+00:22:11,940 --> 00:22:13,919
+government wants to scrap their special
+
+528
+00:22:13,919 --> 00:22:16,649
+privileges including<font color="#CCCCCC"> only retirement</font><font color="#E5E5E5"> for</font>
+
+529
+00:22:16,649 --> 00:22:19,260
+train drivers but rail staff say the
+
+530
+00:22:19,260 --> 00:22:21,360
+benefits of compensation for long
+
+531
+00:22:21,360 --> 00:22:25,980
+unsociable hours<font color="#E5E5E5"> and low pay we must</font>
+
+532
+00:22:25,980 --> 00:22:28,380
+show that rail workers like all French
+
+533
+00:22:28,380 --> 00:22:30,840
+people<font color="#CCCCCC"> have to defend themselves</font><font color="#E5E5E5"> we want</font>
+
+534
+00:22:30,840 --> 00:22:32,610
+to show the power of<font color="#CCCCCC"> the streets and</font>
+
+535
+00:22:32,610 --> 00:22:34,350
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> there are real</font><font color="#E5E5E5"> people</font><font color="#CCCCCC"> behind these</font>
+
+536
+00:22:34,350 --> 00:22:39,000
+jobs<font color="#E5E5E5"> so we are against</font><font color="#CCCCCC"> Michels plans we</font>
+
+537
+00:22:39,000 --> 00:22:40,590
+<font color="#CCCCCC">are certainly not better paid than</font>
+
+538
+00:22:40,590 --> 00:22:43,380
+others look at<font color="#E5E5E5"> politicians and all their</font>
+
+539
+00:22:43,380 --> 00:22:45,929
+advantages<font color="#E5E5E5"> but they want to</font><font color="#CCCCCC"> single us</font>
+
+540
+00:22:45,929 --> 00:22:48,480
+out<font color="#CCCCCC"> we not agree with the changes</font><font color="#E5E5E5"> so we</font>
+
+541
+00:22:48,480 --> 00:22:52,100
+say<font color="#E5E5E5"> no yes and</font><font color="#CCCCCC"> CF has been in financial</font>
+
+542
+00:22:52,100 --> 00:22:55,080
+<font color="#E5E5E5">difficulty for years it has 50 million</font>
+
+543
+00:22:55,080 --> 00:22:57,240
+dollars of debt and<font color="#E5E5E5"> the government says</font>
+
+544
+00:22:57,240 --> 00:22:59,159
+that<font color="#E5E5E5"> it must change to remain</font>
+
+545
+00:22:59,159 --> 00:23:01,860
+competitive<font color="#E5E5E5"> especially because under</font><font color="#CCCCCC"> EU</font>
+
+546
+00:23:01,860 --> 00:23:05,309
+rules<font color="#E5E5E5"> in 2020 the company will lose its</font>
+
+547
+00:23:05,309 --> 00:23:09,330
+<font color="#E5E5E5">monopoly foreign rail companies will be</font>
+
+548
+00:23:09,330 --> 00:23:11,460
+<font color="#E5E5E5">able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> run trains on</font><font color="#CCCCCC"> the French Network</font>
+
+549
+00:23:11,460 --> 00:23:14,370
+<font color="#E5E5E5">the prime minister says</font><font color="#CCCCCC"> SNCF must be</font>
+
+550
+00:23:14,370 --> 00:23:17,850
+prepared the world is changing the<font color="#CCCCCC"> SNCF</font>
+
+551
+00:23:17,850 --> 00:23:19,890
+must<font color="#CCCCCC"> change was it faced with</font>
+
+552
+00:23:19,890 --> 00:23:22,230
+competitors<font color="#CCCCCC"> SNCF cannot remain the only</font>
+
+553
+00:23:22,230 --> 00:23:24,570
+<font color="#E5E5E5">company to recruit rail workers and a</font>
+
+554
+00:23:24,570 --> 00:23:27,250
+<font color="#CCCCCC">special status</font>
+
+555
+00:23:27,250 --> 00:23:30,850
+created in 1938<font color="#CCCCCC"> SNCF is owned</font><font color="#E5E5E5"> by the</font>
+
+556
+00:23:30,850 --> 00:23:33,340
+<font color="#E5E5E5">French</font><font color="#CCCCCC"> state</font><font color="#E5E5E5"> it employs a hundred and</font>
+
+557
+00:23:33,340 --> 00:23:36,130
+forty thousand staff<font color="#E5E5E5"> past presidents</font>
+
+558
+00:23:36,130 --> 00:23:38,230
+<font color="#E5E5E5">have tried and failed</font><font color="#CCCCCC"> to reform it</font>
+
+559
+00:23:38,230 --> 00:23:40,120
+<font color="#E5E5E5">forced to back</font><font color="#CCCCCC"> down in the</font><font color="#E5E5E5"> face of</font>
+
+560
+00:23:40,120 --> 00:23:42,700
+opposition<font color="#E5E5E5"> from</font><font color="#CCCCCC"> France's powerful trade</font>
+
+561
+00:23:42,700 --> 00:23:45,430
+unions<font color="#E5E5E5"> Emmanuel macron wants to be the</font>
+
+562
+00:23:45,430 --> 00:23:48,970
+one<font color="#E5E5E5"> to succeed</font><font color="#CCCCCC"> Michael may have</font><font color="#E5E5E5"> more</font>
+
+563
+00:23:48,970 --> 00:23:53,050
+leeway because<font color="#E5E5E5"> of more general</font><font color="#CCCCCC"> favorable</font>
+
+564
+00:23:53,050 --> 00:23:55,060
+public opinion in<font color="#CCCCCC"> terms of reforming</font>
+
+565
+00:23:55,060 --> 00:23:57,550
+<font color="#E5E5E5">SNCF</font><font color="#CCCCCC"> I think people</font><font color="#E5E5E5"> now are more ready</font>
+
+566
+00:23:57,550 --> 00:24:01,420
+<font color="#CCCCCC">to see something different the</font>
+
+567
+00:24:01,420 --> 00:24:03,730
+government says it will<font color="#E5E5E5"> reform</font><font color="#CCCCCC"> essence F</font>
+
+568
+00:24:03,730 --> 00:24:06,340
+by decree<font color="#E5E5E5"> that's put union leaders on</font>
+
+569
+00:24:06,340 --> 00:24:08,950
+the warpath<font color="#E5E5E5"> Thursday's demonstrations</font>
+
+570
+00:24:08,950 --> 00:24:10,780
+were smaller than<font color="#E5E5E5"> expected</font><font color="#CCCCCC"> something</font>
+
+571
+00:24:10,780 --> 00:24:13,660
+likely to please president<font color="#E5E5E5"> macro but</font>
+
+572
+00:24:13,660 --> 00:24:15,940
+with rail workers promising<font color="#E5E5E5"> three months</font>
+
+573
+00:24:15,940 --> 00:24:19,000
+of rolling strikes<font color="#E5E5E5"> he still faces</font><font color="#CCCCCC"> a test</font>
+
+574
+00:24:19,000 --> 00:24:21,700
+of strength<font color="#CCCCCC"> so that is our show for</font><font color="#E5E5E5"> this</font>
+
+575
+00:24:21,700 --> 00:24:22,000
+week
+
+576
+00:24:22,000 --> 00:24:23,770
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> can get in touch</font><font color="#CCCCCC"> with us</font><font color="#E5E5E5"> by tweeting</font>
+
+577
+00:24:23,770 --> 00:24:25,570
+me ATS has MC<font color="#E5E5E5"> Kerr and do use the</font>
+
+578
+00:24:25,570 --> 00:24:28,450
+<font color="#E5E5E5">hashtag</font><font color="#CCCCCC"> AJ CTC when you do or</font><font color="#E5E5E5"> you can</font>
+
+579
+00:24:28,450 --> 00:24:30,520
+drop<font color="#CCCCCC"> us an</font><font color="#E5E5E5"> email counting the cost that</font>
+
+580
+00:24:30,520 --> 00:24:33,190
+al jazeera dotnet<font color="#E5E5E5"> is our address</font><font color="#CCCCCC"> there's</font>
+
+581
+00:24:33,190 --> 00:24:35,470
+more for<font color="#E5E5E5"> you online at Al Jazeera comm</font>
+
+582
+00:24:35,470 --> 00:24:38,350
+slash CTC that will take you straight<font color="#CCCCCC"> to</font>
+
+583
+00:24:38,350 --> 00:24:40,510
+our page which has individual reports
+
+584
+00:24:40,510 --> 00:24:42,520
+links and entire episodes for you<font color="#E5E5E5"> to</font>
+
+585
+00:24:42,520 --> 00:24:45,850
+catch<font color="#CCCCCC"> up</font><font color="#E5E5E5"> on that is it for this edition</font>
+
+586
+00:24:45,850 --> 00:24:47,680
+<font color="#E5E5E5">of counting the cost I'm handsome seeker</font>
+
+587
+00:24:47,680 --> 00:24:48,850
+from<font color="#E5E5E5"> the whole team here thanks for</font>
+
+588
+00:24:48,850 --> 00:24:51,100
+<font color="#CCCCCC">joining us the news on al Jazeera is</font>
+
+589
+00:24:51,100 --> 00:24:51,980
+next
+
+590
+00:24:51,980 --> 00:00:00,000
+[Music]
+

@@ -1,0 +1,620 @@
+1
+00:00:00,210 --> 00:00:02,250
+the<font color="#E5E5E5"> defendants accessed email accounts</font>
+
+2
+00:00:02,250 --> 00:00:05,339
+of volunteers and<font color="#E5E5E5"> employees</font><font color="#CCCCCC"> of a</font><font color="#E5E5E5"> u.s.</font>
+
+3
+00:00:05,339 --> 00:00:08,189
+presidential campaign including the
+
+4
+00:00:08,189 --> 00:00:10,710
+campaign chairman<font color="#E5E5E5"> starting in</font><font color="#CCCCCC"> March of</font>
+
+5
+00:00:10,710 --> 00:00:14,730
+2016<font color="#CCCCCC"> that campaign</font><font color="#E5E5E5"> chairman was John</font>
+
+6
+00:00:14,730 --> 00:00:16,109
+Podesta the chairman<font color="#E5E5E5"> of Hillary</font>
+
+7
+00:00:16,109 --> 00:00:17,789
+Clinton's campaign<font color="#CCCCCC"> for president</font><font color="#E5E5E5"> and</font>
+
+8
+00:00:17,789 --> 00:00:21,359
+John Podesta<font color="#E5E5E5"> joins our discussion now</font>
+
+9
+00:00:21,359 --> 00:00:24,510
+from California and John Podesta first
+
+10
+00:00:24,510 --> 00:00:25,769
+of all thank you very<font color="#E5E5E5"> much for</font><font color="#CCCCCC"> joining</font>
+
+11
+00:00:25,769 --> 00:00:27,810
+us<font color="#E5E5E5"> on this really important night and I</font>
+
+12
+00:00:27,810 --> 00:00:29,519
+just<font color="#CCCCCC"> want to read for the audience</font>
+
+13
+00:00:29,519 --> 00:00:31,949
+<font color="#CCCCCC">select the portion of the</font><font color="#E5E5E5"> indictment</font>
+
+14
+00:00:31,949 --> 00:00:35,460
+that<font color="#E5E5E5"> describes how the Russians attacked</font>
+
+15
+00:00:35,460 --> 00:00:37,200
+you and how they got<font color="#E5E5E5"> to</font><font color="#CCCCCC"> you the</font>
+
+16
+00:00:37,200 --> 00:00:41,460
+indictment says that on March 19<font color="#E5E5E5"> 2016 a</font>
+
+17
+00:00:41,460 --> 00:00:43,379
+Russian military<font color="#E5E5E5"> officer and</font><font color="#CCCCCC"> his</font>
+
+18
+00:00:43,379 --> 00:00:46,230
+co-conspirators<font color="#E5E5E5"> created and sent a spear</font>
+
+19
+00:00:46,230 --> 00:00:49,320
+phishing email to the chairman of<font color="#E5E5E5"> the</font>
+
+20
+00:00:49,320 --> 00:00:52,110
+Clinton campaign<font color="#E5E5E5"> they used the account</font>
+
+21
+00:00:52,110 --> 00:00:55,379
+<font color="#E5E5E5">John three five six G H at an online</font>
+
+22
+00:00:55,379 --> 00:00:57,510
+<font color="#CCCCCC">service that abbreviated lengthy</font><font color="#E5E5E5"> website</font>
+
+23
+00:00:57,510 --> 00:00:59,820
+addresses referred to as a shortening
+
+24
+00:00:59,820 --> 00:01:02,579
+service they used the account<font color="#E5E5E5"> to mask a</font>
+
+25
+00:01:02,579 --> 00:01:05,760
+link contained in the spear phishing
+
+26
+00:01:05,760 --> 00:01:08,250
+email which directed the recipients to a
+
+27
+00:01:08,250 --> 00:01:11,340
+GRU created web site<font color="#E5E5E5"> the military</font>
+
+28
+00:01:11,340 --> 00:01:13,979
+officer altered the appearance of the
+
+29
+00:01:13,979 --> 00:01:16,500
+sender email<font color="#E5E5E5"> address in order</font><font color="#CCCCCC"> to make it</font>
+
+30
+00:01:16,500 --> 00:01:18,360
+look<font color="#CCCCCC"> like the email was a security</font>
+
+31
+00:01:18,360 --> 00:01:20,610
+notification from Google a technique
+
+32
+00:01:20,610 --> 00:01:23,040
+known as spoofing instructing the user
+
+33
+00:01:23,040 --> 00:01:26,610
+to change his password<font color="#E5E5E5"> by</font><font color="#CCCCCC"> clicking the</font>
+
+34
+00:01:26,610 --> 00:01:30,509
+embedded link<font color="#E5E5E5"> those instructions were</font>
+
+35
+00:01:30,509 --> 00:01:33,930
+followed<font color="#E5E5E5"> on or about March 21st 2016 the</font>
+
+36
+00:01:33,930 --> 00:01:38,189
+officers and their co-conspirators<font color="#E5E5E5"> stole</font>
+
+37
+00:01:38,189 --> 00:01:40,079
+the contents<font color="#E5E5E5"> of the Chairman's email</font>
+
+38
+00:01:40,079 --> 00:01:42,390
+account which consisted of over<font color="#CCCCCC"> fifty</font>
+
+39
+00:01:42,390 --> 00:01:46,020
+<font color="#CCCCCC">thousand emails and John Podesta I can't</font>
+
+40
+00:01:46,020 --> 00:01:48,540
+<font color="#E5E5E5">help but wondering I wonder what it felt</font>
+
+41
+00:01:48,540 --> 00:01:50,610
+<font color="#CCCCCC">like today when you read</font><font color="#E5E5E5"> that portion of</font>
+
+42
+00:01:50,610 --> 00:01:53,850
+<font color="#E5E5E5">the email with</font><font color="#CCCCCC"> that line that says</font><font color="#E5E5E5"> the</font>
+
+43
+00:01:53,850 --> 00:01:56,759
+those instructions were followed<font color="#CCCCCC"> do you</font>
+
+44
+00:01:56,759 --> 00:01:59,070
+<font color="#E5E5E5">remember that</font><font color="#CCCCCC"> moment where you clicked</font>
+
+45
+00:01:59,070 --> 00:02:04,680
+on John three five six GH well Lawrence
+
+46
+00:02:04,680 --> 00:02:05,969
+there's a little bit more of a backstory
+
+47
+00:02:05,969 --> 00:02:09,110
+<font color="#E5E5E5">to that but I</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> that the general</font>
+
+48
+00:02:09,110 --> 00:02:10,979
+observations<font color="#E5E5E5"> of this have been</font><font color="#CCCCCC"> well</font>
+
+49
+00:02:10,979 --> 00:02:14,270
+known that there was<font color="#CCCCCC"> a spearfishing</font>
+
+50
+00:02:14,270 --> 00:02:16,950
+<font color="#E5E5E5">involved my assistant and in in my</font>
+
+51
+00:02:16,950 --> 00:02:19,950
+office<font color="#E5E5E5"> but at any rate</font><font color="#CCCCCC"> what's important</font>
+
+52
+00:02:19,950 --> 00:02:22,800
+is at the heart of this was a conspiracy
+
+53
+00:02:22,800 --> 00:02:25,220
+<font color="#E5E5E5">which is laid</font><font color="#CCCCCC"> out in this indictment</font>
+
+54
+00:02:25,220 --> 00:02:29,130
+<font color="#CCCCCC">crimes were committed by officers</font><font color="#E5E5E5"> of</font>
+
+55
+00:02:29,130 --> 00:02:31,650
+<font color="#E5E5E5">Russian intelligence</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> was done at</font>
+
+56
+00:02:31,650 --> 00:02:33,630
+the<font color="#E5E5E5"> direction of Vladimir Putin as our</font>
+
+57
+00:02:33,630 --> 00:02:36,510
+<font color="#E5E5E5">intelligence community has discerned</font>
+
+58
+00:02:36,510 --> 00:02:39,720
+<font color="#CCCCCC">there were allegations of</font><font color="#E5E5E5"> money</font>
+
+59
+00:02:39,720 --> 00:02:42,120
+<font color="#E5E5E5">laundering of computer fraud and abuse</font>
+
+60
+00:02:42,120 --> 00:02:45,780
+of conspiracy<font color="#E5E5E5"> it involves conversations</font>
+
+61
+00:02:45,780 --> 00:02:50,850
+with American individuals and you know
+
+62
+00:02:50,850 --> 00:02:52,940
+<font color="#E5E5E5">still we get nothing from Donald</font><font color="#CCCCCC"> Trump</font>
+
+63
+00:02:52,940 --> 00:02:56,910
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> was I think profoundly an attack on</font>
+
+64
+00:02:56,910 --> 00:02:59,130
+me personally<font color="#CCCCCC"> and</font><font color="#E5E5E5"> of course that's</font>
+
+65
+00:02:59,130 --> 00:03:01,560
+painful<font color="#E5E5E5"> but more importantly more</font>
+
+66
+00:03:01,560 --> 00:03:03,060
+<font color="#CCCCCC">importantly it was</font><font color="#E5E5E5"> an attack on</font>
+
+67
+00:03:03,060 --> 00:03:06,900
+<font color="#E5E5E5">America's democracy</font><font color="#CCCCCC"> and I you know I</font>
+
+68
+00:03:06,900 --> 00:03:09,330
+<font color="#CCCCCC">grieved</font><font color="#E5E5E5"> for the country really now you</font>
+
+69
+00:03:09,330 --> 00:03:11,010
+work for two presidents you were in the
+
+70
+00:03:11,010 --> 00:03:12,150
+White House working<font color="#E5E5E5"> for Bill Clinton</font>
+
+71
+00:03:12,150 --> 00:03:14,340
+working for President<font color="#CCCCCC"> Obama</font>
+
+72
+00:03:14,340 --> 00:03:17,970
+what would President Obama do today
+
+73
+00:03:17,970 --> 00:03:20,340
+about<font color="#E5E5E5"> this and especially what if</font>
+
+74
+00:03:20,340 --> 00:03:22,799
+President Obama<font color="#E5E5E5"> had a</font><font color="#CCCCCC"> meeting scheduled</font>
+
+75
+00:03:22,799 --> 00:03:25,260
+with President Putin<font color="#CCCCCC"> on Monday what</font>
+
+76
+00:03:25,260 --> 00:03:28,590
+would what would<font color="#E5E5E5"> President Obama do well</font>
+
+77
+00:03:28,590 --> 00:03:31,019
+I<font color="#CCCCCC"> think once this well first</font><font color="#E5E5E5"> of all I</font>
+
+78
+00:03:31,019 --> 00:03:33,570
+think<font color="#E5E5E5"> we have to step</font><font color="#CCCCCC"> back a bit and say</font>
+
+79
+00:03:33,570 --> 00:03:37,470
+<font color="#E5E5E5">that mr. Rosas stayed briefed President</font>
+
+80
+00:03:37,470 --> 00:03:40,230
+Trump<font color="#E5E5E5"> before he left on this trip and</font>
+
+81
+00:03:40,230 --> 00:03:41,940
+<font color="#E5E5E5">yet he decided to go forward with this</font>
+
+82
+00:03:41,940 --> 00:03:44,340
+meeting<font color="#E5E5E5"> with Putin with no discernible</font>
+
+83
+00:03:44,340 --> 00:03:46,769
+agenda in<font color="#E5E5E5"> front of</font><font color="#CCCCCC"> him an attempt to</font>
+
+84
+00:03:46,769 --> 00:03:49,170
+suck up to<font color="#E5E5E5"> him I guess it's a little</font>
+
+85
+00:03:49,170 --> 00:03:51,810
+<font color="#E5E5E5">unclear what he intends to get out of it</font>
+
+86
+00:03:51,810 --> 00:03:55,350
+<font color="#E5E5E5">but we know what President</font><font color="#CCCCCC"> Obama would</font>
+
+87
+00:03:55,350 --> 00:03:58,230
+<font color="#CCCCCC">have done because when he was faced with</font>
+
+88
+00:03:58,230 --> 00:04:00,209
+the situation where<font color="#CCCCCC"> he was</font><font color="#E5E5E5"> supposed</font><font color="#CCCCCC"> to</font>
+
+89
+00:04:00,209 --> 00:04:03,630
+meet with<font color="#CCCCCC"> President Putin and President</font>
+
+90
+00:04:03,630 --> 00:04:08,670
+Putin permitted the the person<font color="#E5E5E5"> who had</font>
+
+91
+00:04:08,670 --> 00:04:11,329
+hacked into the national security
+
+92
+00:04:11,329 --> 00:04:14,549
+<font color="#E5E5E5">information in our country</font><font color="#CCCCCC"> he canceled</font>
+
+93
+00:04:14,549 --> 00:04:17,390
+that<font color="#CCCCCC"> meeting there have</font><font color="#E5E5E5"> been calls for</font>
+
+94
+00:04:17,390 --> 00:04:19,649
+Trump to<font color="#E5E5E5"> go ahead and cancel the meeting</font>
+
+95
+00:04:19,649 --> 00:04:21,450
+<font color="#E5E5E5">with Putin I doubt he's going to do that</font>
+
+96
+00:04:21,450 --> 00:04:24,390
+<font color="#CCCCCC">but more importantly I doubt he's going</font>
+
+97
+00:04:24,390 --> 00:04:26,520
+<font color="#E5E5E5">to really confront a President Putin you</font>
+
+98
+00:04:26,520 --> 00:04:28,139
+know he's blown it<font color="#E5E5E5"> off</font>
+
+99
+00:04:28,139 --> 00:04:30,750
+on his trip<font color="#CCCCCC"> through Europe he's compared</font>
+
+100
+00:04:30,750 --> 00:04:33,449
+it to Perry Mason he said I'll you know
+
+101
+00:04:33,449 --> 00:04:36,539
+I'll ask<font color="#CCCCCC"> the question</font><font color="#E5E5E5"> again that the</font>
+
+102
+00:04:36,539 --> 00:04:39,509
+press wants me<font color="#CCCCCC"> to ask but when President</font>
+
+103
+00:04:39,509 --> 00:04:43,139
+Obama was<font color="#CCCCCC"> faced with President Putin</font>
+
+104
+00:04:43,139 --> 00:04:46,819
+admitting Edward Snowden to to Russia
+
+105
+00:04:46,819 --> 00:04:51,030
+<font color="#CCCCCC">then President Putin Obama took</font><font color="#E5E5E5"> the step</font>
+
+106
+00:04:51,030 --> 00:04:53,520
+of<font color="#E5E5E5"> canceling that meeting he took the</font>
+
+107
+00:04:53,520 --> 00:04:55,889
+steps of sanctioning the<font color="#E5E5E5"> Russians after</font>
+
+108
+00:04:55,889 --> 00:04:58,289
+became known that they had interfere
+
+109
+00:04:58,289 --> 00:05:01,409
+with<font color="#E5E5E5"> our election I don't see any of</font>
+
+110
+00:05:01,409 --> 00:05:03,930
+<font color="#CCCCCC">that coming</font><font color="#E5E5E5"> from</font><font color="#CCCCCC"> President Trump</font><font color="#E5E5E5"> from</font>
+
+111
+00:05:03,930 --> 00:05:07,169
+<font color="#E5E5E5">the get-go in this campaign he has tried</font>
+
+112
+00:05:07,169 --> 00:05:10,379
+to really to adopt the Russian foreign
+
+113
+00:05:10,379 --> 00:05:16,080
+policy<font color="#CCCCCC"> to to dismiss</font><font color="#E5E5E5"> what Putin has done</font>
+
+114
+00:05:16,080 --> 00:05:18,930
+in Ukraine<font color="#E5E5E5"> and Crimea</font><font color="#CCCCCC"> etc and now to</font>
+
+115
+00:05:18,930 --> 00:05:22,889
+<font color="#E5E5E5">completely dismiss the indictments that</font>
+
+116
+00:05:22,889 --> 00:05:25,199
+that Muller has brought forward<font color="#E5E5E5"> the</font>
+
+117
+00:05:25,199 --> 00:05:27,539
+guilty pleas from from his<font color="#CCCCCC"> national</font>
+
+118
+00:05:27,539 --> 00:05:30,779
+<font color="#CCCCCC">security adviser</font><font color="#E5E5E5"> so you know I'm not</font>
+
+119
+00:05:30,779 --> 00:05:33,449
+<font color="#E5E5E5">expecting much</font><font color="#CCCCCC"> from President Trump but</font>
+
+120
+00:05:33,449 --> 00:05:36,330
+one can only<font color="#E5E5E5"> hope</font><font color="#CCCCCC"> that he'll put America</font>
+
+121
+00:05:36,330 --> 00:05:40,409
+first<font color="#CCCCCC"> and push</font><font color="#E5E5E5"> forward with trying</font><font color="#CCCCCC"> to</font>
+
+122
+00:05:40,409 --> 00:05:42,120
+get some resolution maybe a first step
+
+123
+00:05:42,120 --> 00:05:45,000
+would be to<font color="#E5E5E5"> ask Putin to extradite those</font>
+
+124
+00:05:45,000 --> 00:05:48,719
+<font color="#E5E5E5">12 military officials who were indicted</font>
+
+125
+00:05:48,719 --> 00:05:52,500
+today<font color="#E5E5E5"> in</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> US Court yeah the Trump</font>
+
+126
+00:05:52,500 --> 00:05:54,479
+Justice Department has accused these
+
+127
+00:05:54,479 --> 00:05:56,550
+Russian military officers of committing
+
+128
+00:05:56,550 --> 00:05:59,430
+a crime against you<font color="#E5E5E5"> personally along</font>
+
+129
+00:05:59,430 --> 00:06:01,199
+with other people but<font color="#E5E5E5"> a specific</font><font color="#CCCCCC"> crime</font>
+
+130
+00:06:01,199 --> 00:06:03,000
+against<font color="#E5E5E5"> you personally</font>
+
+131
+00:06:03,000 --> 00:06:05,580
+do you believe you have<font color="#E5E5E5"> a right to have</font>
+
+132
+00:06:05,580 --> 00:06:07,560
+your interests represented<font color="#E5E5E5"> by the</font>
+
+133
+00:06:07,560 --> 00:06:09,539
+president the United States<font color="#E5E5E5"> and demand</font>
+
+134
+00:06:09,539 --> 00:06:11,789
+<font color="#E5E5E5">extradition of those people accused of</font>
+
+135
+00:06:11,789 --> 00:06:13,889
+those crimes so<font color="#CCCCCC"> that you can face them</font>
+
+136
+00:06:13,889 --> 00:06:17,460
+in<font color="#E5E5E5"> a courtroom in America</font><font color="#CCCCCC"> I have a right</font>
+
+137
+00:06:17,460 --> 00:06:19,589
+but<font color="#CCCCCC"> I</font><font color="#E5E5E5"> have low expectation that'll do it</font>
+
+138
+00:06:19,589 --> 00:06:22,620
+<font color="#E5E5E5">I have to say you know I think again his</font>
+
+139
+00:06:22,620 --> 00:06:24,479
+course<font color="#E5E5E5"> of conduct has been to dismiss</font>
+
+140
+00:06:24,479 --> 00:06:28,610
+this<font color="#E5E5E5"> you know he constantly refers to a</font>
+
+141
+00:06:28,610 --> 00:06:31,139
+investigation that's<font color="#E5E5E5"> already yield</font><font color="#CCCCCC"> 35</font>
+
+142
+00:06:31,139 --> 00:06:34,259
+<font color="#CCCCCC">indictments as a</font><font color="#E5E5E5"> witch-hunt</font><font color="#CCCCCC"> and I all I</font>
+
+143
+00:06:34,259 --> 00:06:36,539
+have to<font color="#CCCCCC"> say is that the hunters are</font>
+
+144
+00:06:36,539 --> 00:06:38,459
+finding a lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> witches</font><font color="#CCCCCC"> and a lot</font><font color="#E5E5E5"> of</font>
+
+145
+00:06:38,459 --> 00:06:41,279
+them are<font color="#CCCCCC"> connected to battle Trump John</font>
+
+146
+00:06:41,279 --> 00:06:41,940
+Podesta
+
+147
+00:06:41,940 --> 00:06:43,320
+thank you<font color="#CCCCCC"> very</font><font color="#E5E5E5"> much for</font><font color="#CCCCCC"> joining us</font>
+
+148
+00:06:43,320 --> 00:06:44,910
+tonight I know it was<font color="#E5E5E5"> not easy for you</font>
+
+149
+00:06:44,910 --> 00:06:46,410
+to do that<font color="#CCCCCC"> and</font><font color="#E5E5E5"> really</font><font color="#CCCCCC"> appreciate you</font>
+
+150
+00:06:46,410 --> 00:06:47,880
+being<font color="#CCCCCC"> with us</font><font color="#E5E5E5"> thank you very much</font>
+
+151
+00:06:47,880 --> 00:06:50,010
+no problem Lawrence<font color="#E5E5E5"> thanks thanks for</font>
+
+152
+00:06:50,010 --> 00:06:51,090
+checking out our<font color="#CCCCCC"> YouTube channel</font>
+
+153
+00:06:51,090 --> 00:06:53,520
+<font color="#CCCCCC">subscribe by clicking on the button</font>
+
+154
+00:06:53,520 --> 00:06:56,310
+below<font color="#E5E5E5"> for</font><font color="#CCCCCC"> more from the last word and</font>
+
+155
+00:06:56,310 --> 00:00:00,000
+the rest of MSNBC
+

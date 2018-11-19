@@ -1,0 +1,83 @@
+imagine you get an email from Netflix
+saying your account is suspended
+it looks so official it even uses your
+name but this email is not real it's a
+personalized targeted hacking attempt
+called spear phishing and it's getting
+harder and harder to tell a real email
+from a dangerous one cyber criminals
+aren't just targeting random individuals
+for credit card info CEOs and big
+companies like Sony Facebook and Google
+have all been duped and of course
+the Russian government hackers
+penetrated the computer network of the
+Democratic National Committee
+WikiLeaks just recently published a
+bunch of these emails and all it took
+was one phishing email it was a pretty
+standard spear phishing attack an
+employee at the Democratic Congressional
+Campaign Committee known as the
+d-triple-c got an email that looked like
+a Google security alert asking her to
+log in and change her password it looked
+legitimate and that was the point it was
+actually sent by Russian hackers they
+installed malware that took screenshots
+of what she was doing and they tracked
+her every key she typed when she logged
+into the D triple C's Network the
+Russians could - from there they had
+access to all sorts of documents
+opposition research field operation
+plans bank accounts they even installed
+malware into at least nine other
+computers one of those computers
+belonged to an employee who also had
+access to the Democratic National
+Committee using the same methods as
+before the Russians were able to log
+into the DNC network once inside they
+stole thousands of emails later released
+during the convention debbie Wasserman
+Schultz has announced she will resign as
+head of the Democratic National
+Committee
+it comes after those leaked DNC emails
+all because of that one phishing email
+the Russians also sent phishing emails
+to 76 people within the Clinton campaign
+including campaign chairman John Podesta
+this was the actual email he received a
+Google security notice telling him to
+click the link to change his password
+his chief of staff thought the email
+seemed fishy so she sent it to the
+campaign's IT staff an IT staffer agreed
+it was suspect an instructed Podesta to
+change his password immediately but in
+his haste he wrote legitimate when he
+meant to say illegitimate the rest is
+history the ongoing dump of hacked
+emails from the account of Clinton
+campaign chairman John Podesta every day
+a new batch and the Clinton campaign
+knows this could be a problem for them
+every day until Election Day so how do
+you prevent this from happening to you
+well first take Clinton's IT guys advice
+setup two-factor authentication on
+everything you can but that's not even a
+guaranteed safeguard if you get an
+unexpected
+examine the URL closely and just in case
+don't click the link in the email go
+directly to the website instead but
+you're actually more likely to see that
+phishing link on your phone not just in
+an email but in a text or messaging app
+too 56% of people click on mobile
+phishing leaks ultimately if you think
+something looks fishy don't take the
+bait

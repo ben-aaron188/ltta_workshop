@@ -1,0 +1,228 @@
+1
+00:00:01,120 --> 00:00:05,060
+In 2014, you may have
+taken a quiz online,
+
+2
+00:00:05,060 --> 00:00:07,980
+something that looked
+like this.
+
+3
+00:00:07,980 --> 00:00:11,150
+And if you did, you probably
+shared your personal data,
+
+4
+00:00:11,150 --> 00:00:13,620
+and your friends’ personal data,
+with the company
+
+5
+00:00:13,620 --> 00:00:17,640
+that worked for President
+Trump’s 2016 campaign.
+
+6
+00:00:17,640 --> 00:00:19,590
+Here’s how it happened.
+
+7
+00:00:19,590 --> 00:00:22,770
+It begins with a research firm,
+Cambridge Analytica.
+
+8
+00:00:22,770 --> 00:00:26,520
+C.A. partnered with a U.K.-based
+academic, Aleksandr Kogan,
+
+9
+00:00:26,520 --> 00:00:29,910
+who was using Facebook data
+for research purposes.
+
+10
+00:00:29,910 --> 00:00:33,600
+Quizzes were sent to
+around 300,000 Americans.
+
+11
+00:00:33,600 --> 00:00:37,170
+They looked innocuous —
+over 100 personality traits
+
+12
+00:00:37,170 --> 00:00:40,200
+to agree or disagree with.
+
+13
+00:00:40,200 --> 00:00:42,410
+And you got paid less than $5.
+
+14
+00:00:44,200 --> 00:00:47,030
+But there was a catch.
+
+15
+00:00:47,030 --> 00:00:48,360
+To take the survey,
+
+16
+00:00:48,360 --> 00:00:50,330
+you had to log
+into Facebook,
+
+17
+00:00:50,330 --> 00:00:52,510
+which gave Kogan
+access to your profile,
+
+18
+00:00:52,510 --> 00:00:54,820
+including your
+birth date, location
+
+19
+00:00:54,820 --> 00:00:58,260
+and, most importantly,
+your Facebook likes.
+
+20
+00:00:58,260 --> 00:01:01,410
+Kogan combined the quiz results
+with your Facebook data
+
+21
+00:01:01,410 --> 00:01:03,300
+to develop a psychometric model,
+
+22
+00:01:03,300 --> 00:01:06,500
+a sort of personality profile.
+
+23
+00:01:06,500 --> 00:01:09,090
+He then combined this
+with voter records
+
+24
+00:01:09,090 --> 00:01:12,660
+and sent them to
+Cambridge Analytica.
+
+25
+00:01:12,660 --> 00:01:14,940
+C.A. claims that these
+models were the heart
+
+26
+00:01:14,940 --> 00:01:16,420
+of how they profiled you —
+
+27
+00:01:16,420 --> 00:01:20,730
+your neuroses and
+other exploitable traits.
+
+28
+00:01:20,730 --> 00:01:23,310
+But Kogan and C.A.
+didn’t stop there.
+
+29
+00:01:23,310 --> 00:01:27,090
+His app also grabbed the personal
+data of your Facebook friends
+
+30
+00:01:27,090 --> 00:01:30,940
+and compiled similar
+profiles of them.
+
+31
+00:01:30,940 --> 00:01:32,580
+In just months,
+
+32
+00:01:32,580 --> 00:01:35,680
+270,000 people
+took Kogan’s survey,
+
+33
+00:01:35,680 --> 00:01:39,510
+and the data of up to 87 million
+friends was also harvested —
+
+34
+00:01:39,510 --> 00:01:44,550
+close to one-quarter
+of all U.S. Facebook users.
+
+35
+00:01:44,550 --> 00:01:47,330
+C.A. then used that data
+to target people,
+
+36
+00:01:47,330 --> 00:01:51,530
+maybe you,
+with political messaging.
+
+37
+00:01:51,530 --> 00:01:55,090
+C.A. said this targeting helped
+the Trump campaign’s strategy,
+
+38
+00:01:55,090 --> 00:01:58,340
+but the campaign
+disputes this.
+
+39
+00:01:58,340 --> 00:02:01,440
+Kogan’s work claimed to be
+for academic research,
+
+40
+00:02:01,440 --> 00:02:04,860
+but he also shared your information
+with Cambridge Analytica —
+
+41
+00:02:04,860 --> 00:02:08,258
+a violation of
+Facebook’s policies.
+
+42
+00:02:08,258 --> 00:02:10,180
+So, was it a data breach?
+
+43
+00:02:10,180 --> 00:02:13,360
+Facebook says no — that
+no passwords were stolen
+
+44
+00:02:13,360 --> 00:02:15,990
+and no systems
+were infiltrated.
+
+45
+00:02:15,990 --> 00:02:19,330
+But Mark Zuckerberg has said
+it was a breach of trust
+
+46
+00:02:19,330 --> 00:02:21,970
+between Facebook and its users.
+
+47
+00:02:21,970 --> 00:02:23,740
+The U.S. Federal Trade
+Commission
+
+48
+00:02:23,740 --> 00:00:00,000
+is investigating the case.
+

@@ -1,0 +1,592 @@
+1
+00:00:00,949 --> 00:00:03,120
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+2
+00:00:03,120 --> 00:00:04,859
+Washington<font color="#CCCCCC"> with a look at Axios am</font>
+
+3
+00:00:04,859 --> 00:00:07,350
+co-founder<font color="#CCCCCC"> and CEO</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> Axios Jim VandeHei</font>
+
+4
+00:00:07,350 --> 00:00:08,790
+Jim good morning<font color="#CCCCCC"> to you</font><font color="#E5E5E5"> good to</font><font color="#CCCCCC"> see you</font>
+
+5
+00:00:08,790 --> 00:00:09,389
+good<font color="#CCCCCC"> morning</font>
+
+6
+00:00:09,389 --> 00:00:10,830
+talk to<font color="#E5E5E5"> us about access is one big thing</font>
+
+7
+00:00:10,830 --> 00:00:12,780
+this morning what do you have yeah we're
+
+8
+00:00:12,780 --> 00:00:14,429
+talking<font color="#E5E5E5"> about President Trump as the</font>
+
+9
+00:00:14,429 --> 00:00:17,130
+bluffer<font color="#CCCCCC"> and how on every big topic going</font>
+
+10
+00:00:17,130 --> 00:00:18,750
+back to the campaign<font color="#E5E5E5"> going back to his</font>
+
+11
+00:00:18,750 --> 00:00:20,130
+professional<font color="#CCCCCC"> career and now in</font>
+
+12
+00:00:20,130 --> 00:00:22,260
+government<font color="#CCCCCC"> he just Bluffs on every</font>
+
+13
+00:00:22,260 --> 00:00:24,240
+<font color="#E5E5E5">single topic which creates wild</font>
+
+14
+00:00:24,240 --> 00:00:26,250
+uncertainty<font color="#E5E5E5"> we saw this with a spending</font>
+
+15
+00:00:26,250 --> 00:00:28,529
+<font color="#CCCCCC">bill where he said he'd veto it then he</font>
+
+16
+00:00:28,529 --> 00:00:30,480
+didn't he<font color="#CCCCCC"> said we saw this with the the</font>
+
+17
+00:00:30,480 --> 00:00:32,460
+tariffs on aluminum and steel said
+
+18
+00:00:32,460 --> 00:00:33,780
+<font color="#CCCCCC">there'll be</font><font color="#E5E5E5"> no exceptions</font>
+
+19
+00:00:33,780 --> 00:00:35,969
+there'll be no carve outs and<font color="#E5E5E5"> then there</font>
+
+20
+00:00:35,969 --> 00:00:38,219
+were and now a lot of people<font color="#E5E5E5"> internally</font>
+
+21
+00:00:38,219 --> 00:00:39,300
+are trying to<font color="#E5E5E5"> figure</font><font color="#CCCCCC"> out whether or</font><font color="#E5E5E5"> not</font>
+
+22
+00:00:39,300 --> 00:00:40,829
+he's bluffing in his trade war with
+
+23
+00:00:40,829 --> 00:00:42,840
+<font color="#CCCCCC">China he said the other day it's not</font><font color="#E5E5E5"> a</font>
+
+24
+00:00:42,840 --> 00:00:45,300
+war<font color="#E5E5E5"> this</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> the definition of a war we</font>
+
+25
+00:00:45,300 --> 00:00:47,640
+slap tariffs they retaliate<font color="#E5E5E5"> now he's</font>
+
+26
+00:00:47,640 --> 00:00:50,070
+saying we're gonna retaliate<font color="#CCCCCC"> again and</font>
+
+27
+00:00:50,070 --> 00:00:51,840
+this uncertainty can give you leverage
+
+28
+00:00:51,840 --> 00:00:53,309
+and that's what the president<font color="#E5E5E5"> would say</font>
+
+29
+00:00:53,309 --> 00:00:54,750
+if he<font color="#CCCCCC"> was here right</font><font color="#E5E5E5"> now</font><font color="#CCCCCC"> we say I have</font>
+
+30
+00:00:54,750 --> 00:00:56,340
+leverage<font color="#E5E5E5"> because no one knows what I'll</font>
+
+31
+00:00:56,340 --> 00:00:58,649
+do next<font color="#E5E5E5"> but internally people are</font>
+
+32
+00:00:58,649 --> 00:01:00,180
+confused<font color="#CCCCCC"> they don't know what he</font>
+
+33
+00:01:00,180 --> 00:01:01,829
+believes in<font color="#CCCCCC"> what he'll do next</font><font color="#E5E5E5"> and</font>
+
+34
+00:01:01,829 --> 00:01:04,140
+that's now manifesting itself in the
+
+35
+00:01:04,140 --> 00:01:05,790
+markets<font color="#E5E5E5"> where you see all</font><font color="#CCCCCC"> this</font>
+
+36
+00:01:05,790 --> 00:01:07,920
+<font color="#E5E5E5">volatility in the markets because the</font>
+
+37
+00:01:07,920 --> 00:01:09,750
+markets don't know what President Trump
+
+38
+00:01:09,750 --> 00:01:12,090
+<font color="#E5E5E5">will do in what he'll set off</font><font color="#CCCCCC"> so Jim</font><font color="#E5E5E5"> I</font>
+
+39
+00:01:12,090 --> 00:01:14,430
+know that you and axis is Jonathan Swan
+
+40
+00:01:14,430 --> 00:01:15,600
+<font color="#E5E5E5">you've guys have</font><font color="#CCCCCC"> been speaking</font><font color="#E5E5E5"> to your</font>
+
+41
+00:01:15,600 --> 00:01:17,220
+sources<font color="#E5E5E5"> inside the White House about</font>
+
+42
+00:01:17,220 --> 00:01:21,030
+<font color="#E5E5E5">exactly that</font><font color="#CCCCCC"> his negotiating</font><font color="#E5E5E5"> views what</font>
+
+43
+00:01:21,030 --> 00:01:22,110
+did they tell<font color="#CCCCCC"> you</font><font color="#E5E5E5"> about what the</font>
+
+44
+00:01:22,110 --> 00:01:24,840
+<font color="#E5E5E5">president's tactics</font><font color="#CCCCCC"> may be in all of</font>
+
+45
+00:01:24,840 --> 00:01:26,759
+this as<font color="#E5E5E5"> you said obviously ratcheting up</font>
+
+46
+00:01:26,759 --> 00:01:28,380
+tensions with China the market is a
+
+47
+00:01:28,380 --> 00:01:30,930
+<font color="#E5E5E5">little bit of a frenzy how is all this</font>
+
+48
+00:01:30,930 --> 00:01:34,409
+helping<font color="#E5E5E5"> his objective well what he</font>
+
+49
+00:01:34,409 --> 00:01:36,780
+thinks is he's applying maximum<font color="#CCCCCC"> leverage</font>
+
+50
+00:01:36,780 --> 00:01:38,490
+on the Chinese<font color="#E5E5E5"> and that ultimately</font>
+
+51
+00:01:38,490 --> 00:01:40,439
+they'll buckle and<font color="#E5E5E5"> that they will create</font>
+
+52
+00:01:40,439 --> 00:01:42,750
+<font color="#CCCCCC">a deal</font><font color="#E5E5E5"> that is favorable on tariffs for</font>
+
+53
+00:01:42,750 --> 00:01:44,970
+the United States<font color="#CCCCCC"> that may or may not</font>
+
+54
+00:01:44,970 --> 00:01:45,600
+happen
+
+55
+00:01:45,600 --> 00:01:47,759
+the fear remember when Gary Cohen was in
+
+56
+00:01:47,759 --> 00:01:50,490
+office<font color="#CCCCCC"> and he</font><font color="#E5E5E5"> was sitting there advising</font>
+
+57
+00:01:50,490 --> 00:01:52,170
+the president he said the<font color="#E5E5E5"> minute you</font>
+
+58
+00:01:52,170 --> 00:01:54,180
+<font color="#E5E5E5">slap those tariffs you're in a trade war</font>
+
+59
+00:01:54,180 --> 00:01:55,799
+<font color="#E5E5E5">and once you have a trade war you're</font>
+
+60
+00:01:55,799 --> 00:01:58,079
+<font color="#E5E5E5">gonna lose a lot</font><font color="#CCCCCC"> of market value that's</font>
+
+61
+00:01:58,079 --> 00:02:00,390
+exactly what's happened<font color="#E5E5E5"> and so that's</font>
+
+62
+00:02:00,390 --> 00:02:02,579
+what worries a lot of people on Wall
+
+63
+00:02:02,579 --> 00:02:04,079
+Street and some people inside the White
+
+64
+00:02:04,079 --> 00:02:05,969
+<font color="#CCCCCC">House that we're now in this territory</font>
+
+65
+00:02:05,969 --> 00:02:08,310
+of unpredictability<font color="#CCCCCC"> and you have the</font>
+
+66
+00:02:08,310 --> 00:02:10,470
+market<font color="#E5E5E5"> getting pushed down and it really</font>
+
+67
+00:02:10,470 --> 00:02:13,080
+is<font color="#CCCCCC"> the president's fault he chose to do</font>
+
+68
+00:02:13,080 --> 00:02:13,660
+this he
+
+69
+00:02:13,660 --> 00:02:15,820
+chose to<font color="#CCCCCC"> have this war so it</font><font color="#E5E5E5"> is a war of</font>
+
+70
+00:02:15,820 --> 00:02:17,590
+<font color="#E5E5E5">choice</font><font color="#CCCCCC"> so we've</font><font color="#E5E5E5"> seen the president</font>
+
+71
+00:02:17,590 --> 00:02:19,360
+<font color="#CCCCCC">obviously sort</font><font color="#E5E5E5"> of in the private sector</font>
+
+72
+00:02:19,360 --> 00:02:20,890
+we saw him on<font color="#CCCCCC"> The Apprentice</font><font color="#E5E5E5"> sort of</font>
+
+73
+00:02:20,890 --> 00:02:22,690
+with this<font color="#E5E5E5"> approach that</font><font color="#CCCCCC"> you're</font><font color="#E5E5E5"> talking</font>
+
+74
+00:02:22,690 --> 00:02:25,690
+about<font color="#E5E5E5"> you also talk about this macho man</font>
+
+75
+00:02:25,690 --> 00:02:27,520
+that White House aides say that they
+
+76
+00:02:27,520 --> 00:02:29,500
+have feared<font color="#E5E5E5"> up until now what more can</font>
+
+77
+00:02:29,500 --> 00:02:32,560
+you<font color="#CCCCCC"> tell us</font><font color="#E5E5E5"> Jim about what the aides</font><font color="#CCCCCC"> are</font>
+
+78
+00:02:32,560 --> 00:02:34,570
+exactly concerned about when it<font color="#CCCCCC"> comes to</font>
+
+79
+00:02:34,570 --> 00:02:36,100
+the<font color="#E5E5E5"> present and has a negotiating side</font>
+
+80
+00:02:36,100 --> 00:02:37,960
+yeah so the<font color="#CCCCCC"> president's</font><font color="#E5E5E5"> always talking</font>
+
+81
+00:02:37,960 --> 00:02:39,700
+about<font color="#CCCCCC"> scorecards scorecards he wants to</font>
+
+82
+00:02:39,700 --> 00:02:42,520
+know<font color="#CCCCCC"> MMI</font><font color="#E5E5E5"> winning and he hates to</font><font color="#CCCCCC"> be seen</font>
+
+83
+00:02:42,520 --> 00:02:44,680
+as small remember it during the campaign
+
+84
+00:02:44,680 --> 00:02:46,630
+whether<font color="#E5E5E5"> it was about his hand size or</font>
+
+85
+00:02:46,630 --> 00:02:49,960
+whether or<font color="#E5E5E5"> not it was Joe Biden</font><font color="#CCCCCC"> he hates</font>
+
+86
+00:02:49,960 --> 00:02:52,510
+to<font color="#CCCCCC"> be</font><font color="#E5E5E5"> seen as small so what they worry</font>
+
+87
+00:02:52,510 --> 00:02:53,920
+about<font color="#E5E5E5"> the stuff that he</font><font color="#CCCCCC"> was saying</font>
+
+88
+00:02:53,920 --> 00:02:55,660
+behind the scenes that he didn't act on
+
+89
+00:02:55,660 --> 00:02:58,900
+last year<font color="#E5E5E5"> he's now saying and he's doing</font>
+
+90
+00:02:58,900 --> 00:03:00,400
+and that is the fundamental<font color="#CCCCCC"> difference</font>
+
+91
+00:03:00,400 --> 00:03:03,190
+about this presidency<font color="#CCCCCC"> today versus a</font>
+
+92
+00:03:03,190 --> 00:03:05,590
+<font color="#CCCCCC">year ago</font><font color="#E5E5E5"> there</font><font color="#CCCCCC"> are no restraints and</font>
+
+93
+00:03:05,590 --> 00:03:07,840
+he's going<font color="#E5E5E5"> with his gut and</font><font color="#CCCCCC"> maybe his</font>
+
+94
+00:03:07,840 --> 00:03:09,400
+gut will be right occasionally he gets
+
+95
+00:03:09,400 --> 00:03:11,950
+wins I think<font color="#E5E5E5"> his volatilities probably</font>
+
+96
+00:03:11,950 --> 00:03:13,780
+helped us in our negotiating position
+
+97
+00:03:13,780 --> 00:03:15,820
+with the Chinese<font color="#E5E5E5"> it might have helped</font>
+
+98
+00:03:15,820 --> 00:03:17,740
+<font color="#CCCCCC">bring the South Koreans to the table to</font>
+
+99
+00:03:17,740 --> 00:03:20,380
+do a trade deal but the flipside of that
+
+100
+00:03:20,380 --> 00:03:22,110
+<font color="#CCCCCC">is it just creates</font><font color="#E5E5E5"> uncertainty</font>
+
+101
+00:03:22,110 --> 00:03:24,880
+<font color="#E5E5E5">especially in our domestic market</font><font color="#CCCCCC"> and</font>
+
+102
+00:03:24,880 --> 00:03:26,650
+<font color="#CCCCCC">even with his own Republicans in his own</font>
+
+103
+00:03:26,650 --> 00:03:28,330
+staff when we<font color="#CCCCCC"> ask them</font><font color="#E5E5E5"> what will they do</font>
+
+104
+00:03:28,330 --> 00:03:30,100
+next they<font color="#CCCCCC"> always</font><font color="#E5E5E5"> look at us like who</font><font color="#CCCCCC"> the</font>
+
+105
+00:03:30,100 --> 00:03:31,720
+hell knows you never<font color="#E5E5E5"> know what he'll do</font>
+
+106
+00:03:31,720 --> 00:03:33,310
+next<font color="#E5E5E5"> let's talk a little</font><font color="#CCCCCC"> bit about Larry</font>
+
+107
+00:03:33,310 --> 00:03:35,800
+Kudlow<font color="#CCCCCC"> who was out yesterday</font><font color="#E5E5E5"> trying to</font>
+
+108
+00:03:35,800 --> 00:03:37,240
+tame the president's trade<font color="#E5E5E5"> wars he's</font>
+
+109
+00:03:37,240 --> 00:03:39,640
+been<font color="#E5E5E5"> speaking to</font><font color="#CCCCCC"> reporters saying that</font>
+
+110
+00:03:39,640 --> 00:03:41,770
+the president has assured him that<font color="#E5E5E5"> he is</font>
+
+111
+00:03:41,770 --> 00:03:44,140
+a free trade guy<font color="#E5E5E5"> what are you hearing</font>
+
+112
+00:03:44,140 --> 00:03:47,530
+about<font color="#CCCCCC"> Kudlow who himself is also</font><font color="#E5E5E5"> Pro</font>
+
+113
+00:03:47,530 --> 00:03:50,080
+free trade and his reaction to all of
+
+114
+00:03:50,080 --> 00:03:52,840
+<font color="#CCCCCC">this I don't think any</font><font color="#E5E5E5"> of it is a huge</font>
+
+115
+00:03:52,840 --> 00:03:54,790
+surprise<font color="#CCCCCC"> to him he knew exactly what</font><font color="#E5E5E5"> he</font>
+
+116
+00:03:54,790 --> 00:03:56,170
+was<font color="#E5E5E5"> signing up</font><font color="#CCCCCC"> for this</font><font color="#E5E5E5"> is part of the</font>
+
+117
+00:03:56,170 --> 00:03:58,840
+interview<font color="#CCCCCC"> process</font><font color="#E5E5E5"> he is Pro free trade</font>
+
+118
+00:03:58,840 --> 00:04:02,080
+<font color="#CCCCCC">the president is not as Pro free trade</font>
+
+119
+00:04:02,080 --> 00:04:03,940
+<font color="#CCCCCC">the president wanted</font><font color="#E5E5E5"> to get into this</font>
+
+120
+00:04:03,940 --> 00:04:06,160
+trade war<font color="#CCCCCC"> with the Chinese</font><font color="#E5E5E5"> Larry Kudlow</font>
+
+121
+00:04:06,160 --> 00:04:08,440
+knew it was coming Larry Kudlow job is
+
+122
+00:04:08,440 --> 00:04:10,090
+to make sure<font color="#E5E5E5"> that</font><font color="#CCCCCC"> the mark the healthy</font>
+
+123
+00:04:10,090 --> 00:04:12,280
+market he inherited<font color="#E5E5E5"> from</font><font color="#CCCCCC"> Garry</font><font color="#E5E5E5"> cones</font>
+
+124
+00:04:12,280 --> 00:04:14,770
+team doesn't<font color="#E5E5E5"> tank and so he has to</font><font color="#CCCCCC"> get</font>
+
+125
+00:04:14,770 --> 00:04:17,500
+<font color="#E5E5E5">out on TV he has to go on CNBC and other</font>
+
+126
+00:04:17,500 --> 00:04:19,298
+business channels and be able<font color="#CCCCCC"> to</font><font color="#E5E5E5"> argue</font>
+
+127
+00:04:19,298 --> 00:04:21,339
+<font color="#E5E5E5">that listen this is a this</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> gonna pass</font>
+
+128
+00:04:21,339 --> 00:04:23,050
+we're gonna<font color="#E5E5E5"> get a deal the markets</font>
+
+129
+00:04:23,050 --> 00:04:25,090
+I shouldn't hyperventilate the markets
+
+130
+00:04:25,090 --> 00:04:26,740
+are hyperventilating they
+
+131
+00:04:26,740 --> 00:04:30,039
+reacting<font color="#CCCCCC"> to this and so the worms</font><font color="#E5E5E5"> don't</font>
+
+132
+00:04:30,039 --> 00:04:31,569
+help<font color="#CCCCCC"> because the actions are hard</font><font color="#E5E5E5"> yeah I</font>
+
+133
+00:04:31,569 --> 00:04:32,770
+saw yesterday as soon as that
+
+134
+00:04:32,770 --> 00:04:34,000
+<font color="#E5E5E5">announcement was</font><font color="#CCCCCC"> that they're</font><font color="#E5E5E5"> gonna slap</font>
+
+135
+00:04:34,000 --> 00:04:35,349
+that or considering slapping one hundred
+
+136
+00:04:35,349 --> 00:04:38,169
+<font color="#E5E5E5">billion dollars I saw the</font><font color="#CCCCCC"> market</font><font color="#E5E5E5"> to</font>
+
+137
+00:04:38,169 --> 00:04:40,840
+<font color="#E5E5E5">react I live for us in</font><font color="#CCCCCC"> Washington DC</font>
+
+138
+00:04:40,840 --> 00:04:42,729
+thank you very much we'll be reading
+
+139
+00:04:42,729 --> 00:04:44,410
+<font color="#E5E5E5">actually Sam in just a</font><font color="#CCCCCC"> little</font><font color="#E5E5E5"> while and</font>
+
+140
+00:04:44,410 --> 00:04:45,729
+to all of our viewers<font color="#E5E5E5"> out there you too</font>
+
+141
+00:04:45,729 --> 00:04:47,410
+can sign up<font color="#E5E5E5"> for the newsletter at</font>
+
+142
+00:04:47,410 --> 00:04:49,720
+Axios<font color="#CCCCCC"> com hey there I'm Chris</font><font color="#E5E5E5"> Hayes from</font>
+
+143
+00:04:49,720 --> 00:04:51,910
+MSNBC thanks for watching<font color="#CCCCCC"> MSNBC on</font>
+
+144
+00:04:51,910 --> 00:04:53,470
+<font color="#E5E5E5">youtube if you</font><font color="#CCCCCC"> want to keep up to date</font>
+
+145
+00:04:53,470 --> 00:04:54,729
+<font color="#E5E5E5">with the videos we're putting out you</font>
+
+146
+00:04:54,729 --> 00:04:56,770
+can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> subscribe just</font><font color="#E5E5E5"> below me or</font>
+
+147
+00:04:56,770 --> 00:04:58,419
+click over on<font color="#E5E5E5"> this list to see lots of</font>
+
+148
+00:04:58,419 --> 00:00:00,000
+<font color="#E5E5E5">other great videos</font>
+

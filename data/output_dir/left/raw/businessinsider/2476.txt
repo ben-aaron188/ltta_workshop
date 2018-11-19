@@ -1,0 +1,580 @@
+1
+00:00:00,000 --> 00:00:02,399
+<font color="#CCCCCC">I am Jeffrey Wernick I started buying</font>
+
+2
+00:00:02,399 --> 00:00:04,319
+Bitcoin in 2009 and I would like<font color="#CCCCCC"> to</font>
+
+3
+00:00:04,319 --> 00:00:05,940
+explain what I<font color="#CCCCCC"> think most people</font><font color="#E5E5E5"> get</font>
+
+4
+00:00:05,940 --> 00:00:11,460
+wrong<font color="#E5E5E5"> about cryptocurrency what do you</font>
+
+5
+00:00:11,460 --> 00:00:12,809
+think most<font color="#E5E5E5"> people</font><font color="#CCCCCC"> get wrong about</font>
+
+6
+00:00:12,809 --> 00:00:15,269
+Bitcoin or cryptocurrency<font color="#CCCCCC"> I think for</font>
+
+7
+00:00:15,269 --> 00:00:17,190
+many people<font color="#E5E5E5"> it's the concept seems very</font>
+
+8
+00:00:17,190 --> 00:00:19,320
+abstract<font color="#CCCCCC"> and I think the</font><font color="#E5E5E5"> hardest</font><font color="#CCCCCC"> thing</font>
+
+9
+00:00:19,320 --> 00:00:21,449
+<font color="#E5E5E5">is for</font><font color="#CCCCCC"> people to understand</font><font color="#E5E5E5"> and I and</font>
+
+10
+00:00:21,449 --> 00:00:22,949
+and to<font color="#E5E5E5"> the</font><font color="#CCCCCC"> extent that they get it wrong</font>
+
+11
+00:00:22,949 --> 00:00:24,900
+I think<font color="#E5E5E5"> probably it's because not</font><font color="#CCCCCC"> enough</font>
+
+12
+00:00:24,900 --> 00:00:26,279
+<font color="#CCCCCC">people are</font><font color="#E5E5E5"> explaining it</font><font color="#CCCCCC"> very well</font>
+
+13
+00:00:26,279 --> 00:00:28,410
+<font color="#E5E5E5">because most</font><font color="#CCCCCC"> of it people are</font><font color="#E5E5E5"> explaining</font>
+
+14
+00:00:28,410 --> 00:00:31,109
+it as a payment<font color="#E5E5E5"> mechanism</font><font color="#CCCCCC"> not as a store</font>
+
+15
+00:00:31,109 --> 00:00:33,120
+<font color="#CCCCCC">value</font><font color="#E5E5E5"> and and why it might be</font><font color="#CCCCCC"> a good</font>
+
+16
+00:00:33,120 --> 00:00:35,309
+store<font color="#CCCCCC"> of value so I think people don't</font>
+
+17
+00:00:35,309 --> 00:00:37,020
+understand the<font color="#CCCCCC"> philosophy behind</font><font color="#E5E5E5"> it</font>
+
+18
+00:00:37,020 --> 00:00:39,270
+<font color="#E5E5E5">because the people now in the business</font>
+
+19
+00:00:39,270 --> 00:00:42,840
+<font color="#CCCCCC">were</font><font color="#E5E5E5"> not there in 2009 and 2010</font><font color="#CCCCCC"> they</font>
+
+20
+00:00:42,840 --> 00:00:43,860
+<font color="#E5E5E5">wouldn't they didn't care about the</font>
+
+21
+00:00:43,860 --> 00:00:45,390
+philosophy people have gotten to now
+
+22
+00:00:45,390 --> 00:00:48,079
+<font color="#E5E5E5">talk more about blockchain than Bitcoin</font>
+
+23
+00:00:48,079 --> 00:00:50,129
+<font color="#E5E5E5">because they're just looking</font><font color="#CCCCCC"> for an</font>
+
+24
+00:00:50,129 --> 00:00:52,620
+alternative<font color="#CCCCCC"> model to make money and they</font>
+
+25
+00:00:52,620 --> 00:00:54,690
+<font color="#E5E5E5">don't care about</font><font color="#CCCCCC"> their agnostic to</font><font color="#E5E5E5"> the</font>
+
+26
+00:00:54,690 --> 00:00:56,670
+initial philosophical framework<font color="#E5E5E5"> that</font>
+
+27
+00:00:56,670 --> 00:00:58,829
+drove people<font color="#CCCCCC"> to adopt a Bitcoin to begin</font>
+
+28
+00:00:58,829 --> 00:01:01,620
+with and kept it alive<font color="#CCCCCC"> from 2009 through</font>
+
+29
+00:01:01,620 --> 00:01:04,709
+2013 or<font color="#E5E5E5"> 14 when when all of a sudden</font>
+
+30
+00:01:04,709 --> 00:01:06,869
+adoption started to grow there was a
+
+31
+00:01:06,869 --> 00:01:09,119
+small universe of<font color="#CCCCCC"> people that actively</font>
+
+32
+00:01:09,119 --> 00:01:11,580
+<font color="#CCCCCC">worked to</font><font color="#E5E5E5"> keep it alive by continuing</font><font color="#CCCCCC"> to</font>
+
+33
+00:01:11,580 --> 00:01:13,740
+mine and continuing to buy and they were
+
+34
+00:01:13,740 --> 00:01:15,210
+doing it<font color="#E5E5E5"> because of the concept that</font>
+
+35
+00:01:15,210 --> 00:01:17,100
+they believed in and that's a people's
+
+36
+00:01:17,100 --> 00:01:19,320
+money<font color="#CCCCCC"> and even what I told you years ago</font>
+
+37
+00:01:19,320 --> 00:01:21,900
+<font color="#E5E5E5">when I said when you if you buy crypto</font>
+
+38
+00:01:21,900 --> 00:01:23,700
+<font color="#E5E5E5">all you got to sit back and think</font><font color="#CCCCCC"> about</font>
+
+39
+00:01:23,700 --> 00:01:24,780
+is<font color="#E5E5E5"> don't</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> about how it's gonna be</font>
+
+40
+00:01:24,780 --> 00:01:26,549
+priced today<font color="#E5E5E5"> and tomorrow first be</font>
+
+41
+00:01:26,549 --> 00:01:28,110
+prepared to lose<font color="#E5E5E5"> everything you invest</font>
+
+42
+00:01:28,110 --> 00:01:31,229
+in and wait until what<font color="#CCCCCC"> ends</font><font color="#E5E5E5"> waiting for</font>
+
+43
+00:01:31,229 --> 00:01:33,030
+five years<font color="#E5E5E5"> and don't even think</font><font color="#CCCCCC"> about</font>
+
+44
+00:01:33,030 --> 00:01:34,950
+<font color="#E5E5E5">trading it if it comes alive</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> five</font>
+
+45
+00:01:34,950 --> 00:01:36,810
+years<font color="#E5E5E5"> it's gonna be</font><font color="#CCCCCC"> significantly higher</font>
+
+46
+00:01:36,810 --> 00:01:39,750
+than<font color="#CCCCCC"> it</font><font color="#E5E5E5"> is that they you buy it since</font>
+
+47
+00:01:39,750 --> 00:01:43,439
+<font color="#CCCCCC">Bitcoin</font><font color="#E5E5E5"> has been created in 2009 its</font>
+
+48
+00:01:43,439 --> 00:01:45,810
+outperformed every<font color="#E5E5E5"> currency even</font><font color="#CCCCCC"> with</font>
+
+49
+00:01:45,810 --> 00:01:48,090
+<font color="#CCCCCC">government's hostile to it and a</font>
+
+50
+00:01:48,090 --> 00:01:49,740
+regulatory regime that's an uncertain
+
+51
+00:01:49,740 --> 00:01:51,270
+regime and the<font color="#E5E5E5"> government's have been</font>
+
+52
+00:01:51,270 --> 00:01:53,340
+designing have have been managing in a
+
+53
+00:01:53,340 --> 00:01:55,380
+way so<font color="#E5E5E5"> people cannot know</font><font color="#CCCCCC"> what to expect</font>
+
+54
+00:01:55,380 --> 00:01:57,689
+<font color="#CCCCCC">so it's amazing the</font><font color="#E5E5E5"> valuation it has</font>
+
+55
+00:01:57,689 --> 00:01:59,549
+<font color="#E5E5E5">today given the fact that it's only</font>
+
+56
+00:01:59,549 --> 00:02:01,799
+faces it only faces<font color="#E5E5E5"> headwinds no</font>
+
+57
+00:02:01,799 --> 00:02:03,780
+<font color="#CCCCCC">tailwind</font><font color="#E5E5E5"> every government throughout the</font>
+
+58
+00:02:03,780 --> 00:02:05,340
+world is trying<font color="#CCCCCC"> to</font><font color="#E5E5E5"> figure</font><font color="#CCCCCC"> out how</font><font color="#E5E5E5"> to</font>
+
+59
+00:02:05,340 --> 00:02:07,680
+stop and kill<font color="#CCCCCC"> Bitcoin I think over five</font>
+
+60
+00:02:07,680 --> 00:02:09,508
+years<font color="#E5E5E5"> you're</font><font color="#CCCCCC"> gonna accumulate a lot more</font>
+
+61
+00:02:09,508 --> 00:02:10,919
+wealth than<font color="#CCCCCC"> you would and any other</font>
+
+62
+00:02:10,919 --> 00:02:11,420
+alternate
+
+63
+00:02:11,420 --> 00:02:13,910
+investment<font color="#CCCCCC"> but again you don't want to</font>
+
+64
+00:02:13,910 --> 00:02:15,349
+buy more<font color="#CCCCCC"> than</font><font color="#E5E5E5"> you can</font><font color="#CCCCCC"> afford</font><font color="#E5E5E5"> to lose</font>
+
+65
+00:02:15,349 --> 00:02:17,840
+because<font color="#E5E5E5"> I could be wrong</font><font color="#CCCCCC"> and you'd be</font>
+
+66
+00:02:17,840 --> 00:02:19,220
+making a statement<font color="#E5E5E5"> to the government</font>
+
+67
+00:02:19,220 --> 00:02:20,690
+<font color="#CCCCCC">that says what you're doing is</font>
+
+68
+00:02:20,690 --> 00:02:22,580
+<font color="#CCCCCC">completely unacceptable cause if you're</font>
+
+69
+00:02:22,580 --> 00:02:23,930
+<font color="#E5E5E5">thinking</font><font color="#CCCCCC"> about how the</font><font color="#E5E5E5"> financial system</font>
+
+70
+00:02:23,930 --> 00:02:26,000
+works<font color="#CCCCCC"> the financial</font><font color="#E5E5E5"> system punishes the</font>
+
+71
+00:02:26,000 --> 00:02:29,030
+saver<font color="#E5E5E5"> and benefits the borrower but only</font>
+
+72
+00:02:29,030 --> 00:02:30,830
+benefits a small classification of
+
+73
+00:02:30,830 --> 00:02:33,410
+borrowers<font color="#E5E5E5"> you know I calculated you know</font>
+
+74
+00:02:33,410 --> 00:02:35,330
+and I have a<font color="#E5E5E5"> pretty good net worth I</font>
+
+75
+00:02:35,330 --> 00:02:37,640
+calculated<font color="#E5E5E5"> that if I wanted to buy like</font>
+
+76
+00:02:37,640 --> 00:02:41,300
+a trophy property in<font color="#CCCCCC"> Manhattan that the</font>
+
+77
+00:02:41,300 --> 00:02:43,519
+course the capital<font color="#E5E5E5"> advantage that like</font>
+
+78
+00:02:43,519 --> 00:02:45,769
+Blackstone has to me<font color="#CCCCCC"> I would</font><font color="#E5E5E5"> have to</font>
+
+79
+00:02:45,769 --> 00:02:48,290
+generate<font color="#CCCCCC"> 30%</font><font color="#E5E5E5"> more in cash flows in the</font>
+
+80
+00:02:48,290 --> 00:02:51,290
+building<font color="#CCCCCC"> to just to be able to</font>
+
+81
+00:02:51,290 --> 00:02:52,940
+<font color="#E5E5E5">compensate for my course the capital</font>
+
+82
+00:02:52,940 --> 00:02:55,670
+<font color="#CCCCCC">disadvantage relative to Blackstone</font><font color="#E5E5E5"> so</font>
+
+83
+00:02:55,670 --> 00:02:57,110
+we have to take a look at why<font color="#E5E5E5"> so much</font>
+
+84
+00:02:57,110 --> 00:02:59,090
+<font color="#E5E5E5">wealth concentrated so much wealth is</font>
+
+85
+00:02:59,090 --> 00:03:01,730
+concentrated<font color="#E5E5E5"> because certain are only a</font>
+
+86
+00:03:01,730 --> 00:03:03,769
+<font color="#E5E5E5">small universe of</font><font color="#CCCCCC"> people have access to</font>
+
+87
+00:03:03,769 --> 00:03:05,540
+<font color="#CCCCCC">a course the</font><font color="#E5E5E5"> capital that's so much</font>
+
+88
+00:03:05,540 --> 00:03:07,310
+<font color="#E5E5E5">cheaper than just about anybody else and</font>
+
+89
+00:03:07,310 --> 00:03:09,950
+that course the<font color="#E5E5E5"> capital difference is so</font>
+
+90
+00:03:09,950 --> 00:03:11,959
+great<font color="#E5E5E5"> that basically</font><font color="#CCCCCC"> it means that they</font>
+
+91
+00:03:11,959 --> 00:03:14,480
+can win and every bid on any any asset
+
+92
+00:03:14,480 --> 00:03:16,280
+<font color="#CCCCCC">that they're interested</font><font color="#E5E5E5"> in buying and so</font>
+
+93
+00:03:16,280 --> 00:03:18,109
+there's no<font color="#E5E5E5"> competition for buying the</font>
+
+94
+00:03:18,109 --> 00:03:20,120
+<font color="#E5E5E5">best assets because</font><font color="#CCCCCC"> only a small group</font>
+
+95
+00:03:20,120 --> 00:03:22,250
+<font color="#CCCCCC">of people</font><font color="#E5E5E5"> have access</font><font color="#CCCCCC"> to the type of</font>
+
+96
+00:03:22,250 --> 00:03:24,019
+<font color="#E5E5E5">course the capital that's essentially</font>
+
+97
+00:03:24,019 --> 00:03:26,120
+<font color="#E5E5E5">zero in nature and that's a product of</font>
+
+98
+00:03:26,120 --> 00:03:28,579
+this financial system<font color="#CCCCCC"> it's a product</font><font color="#E5E5E5"> of</font>
+
+99
+00:03:28,579 --> 00:03:31,190
+<font color="#E5E5E5">the government the government policy</font>
+
+100
+00:03:31,190 --> 00:03:34,310
+it's a part of<font color="#E5E5E5"> the tax code</font><font color="#CCCCCC"> so right now</font>
+
+101
+00:03:34,310 --> 00:03:35,840
+you used to used<font color="#E5E5E5"> to</font><font color="#CCCCCC"> be you can</font>
+
+102
+00:03:35,840 --> 00:03:37,940
+accumulate some wealth through the power
+
+103
+00:03:37,940 --> 00:03:40,010
+of compound interest<font color="#E5E5E5"> but it's zero</font>
+
+104
+00:03:40,010 --> 00:03:40,790
+interest rates
+
+105
+00:03:40,790 --> 00:03:42,560
+you can't compound any wealth<font color="#E5E5E5"> anymore</font>
+
+106
+00:03:42,560 --> 00:03:44,299
+<font color="#E5E5E5">unless you want to take the risk of</font>
+
+107
+00:03:44,299 --> 00:03:46,040
+going<font color="#CCCCCC"> into the markets and everywhere</font>
+
+108
+00:03:46,040 --> 00:03:47,930
+everybody<font color="#CCCCCC"> is warning</font><font color="#E5E5E5"> that the markets</font>
+
+109
+00:03:47,930 --> 00:03:49,970
+might be overvalued<font color="#CCCCCC"> so given the fact</font>
+
+110
+00:03:49,970 --> 00:03:51,470
+<font color="#CCCCCC">that the carbon capital markets are</font>
+
+111
+00:03:51,470 --> 00:03:53,480
+overvalued<font color="#CCCCCC"> because they're subsidized by</font>
+
+112
+00:03:53,480 --> 00:03:55,130
+these low interest<font color="#E5E5E5"> rates that the</font>
+
+113
+00:03:55,130 --> 00:03:56,900
+biggest institutions that have<font color="#CCCCCC"> the</font>
+
+114
+00:03:56,900 --> 00:03:59,780
+biggest access to leverage at cost of
+
+115
+00:03:59,780 --> 00:04:01,250
+capital significantly cheaper than
+
+116
+00:04:01,250 --> 00:04:04,040
+<font color="#E5E5E5">anyone else can produce then the</font>
+
+117
+00:04:04,040 --> 00:04:05,959
+question is is<font color="#CCCCCC"> what's what for a typical</font>
+
+118
+00:04:05,959 --> 00:04:07,549
+<font color="#CCCCCC">middle</font><font color="#E5E5E5"> class person</font><font color="#CCCCCC"> how do they</font>
+
+119
+00:04:07,549 --> 00:04:09,380
+accumulate wealth<font color="#E5E5E5"> and I think their only</font>
+
+120
+00:04:09,380 --> 00:04:12,260
+<font color="#E5E5E5">answer is to</font><font color="#CCCCCC"> put a certain</font><font color="#E5E5E5"> percentage in</font>
+
+121
+00:04:12,260 --> 00:04:13,850
+crypto<font color="#E5E5E5"> they've been some studies that</font>
+
+122
+00:04:13,850 --> 00:04:16,519
+<font color="#E5E5E5">show</font><font color="#CCCCCC"> that now that if</font><font color="#E5E5E5"> you put five to</font>
+
+123
+00:04:16,519 --> 00:04:18,350
+ten percent<font color="#CCCCCC"> of your</font><font color="#E5E5E5"> money in crypto that</font>
+
+124
+00:04:18,350 --> 00:04:20,000
+actually on a risk-adjusted basis and
+
+125
+00:04:20,000 --> 00:04:22,669
+improves<font color="#E5E5E5"> your total portfolio returns</font><font color="#CCCCCC"> so</font>
+
+126
+00:04:22,669 --> 00:04:23,840
+I<font color="#E5E5E5"> think everybody should put something</font>
+
+127
+00:04:23,840 --> 00:04:25,069
+<font color="#CCCCCC">at the crypto</font>
+
+128
+00:04:25,069 --> 00:04:27,770
+and the people who move first<font color="#E5E5E5"> will make</font>
+
+129
+00:04:27,770 --> 00:04:29,419
+more<font color="#E5E5E5"> money than those that move second</font>
+
+130
+00:04:29,419 --> 00:04:31,190
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> though who make more money than</font><font color="#CCCCCC"> that</font>
+
+131
+00:04:31,190 --> 00:04:34,280
+most<font color="#E5E5E5"> of those third and and eventually</font>
+
+132
+00:04:34,280 --> 00:04:36,860
+<font color="#E5E5E5">when pretty crypto is broadly adopted</font>
+
+133
+00:04:36,860 --> 00:04:38,810
+<font color="#E5E5E5">then people start using it as an</font>
+
+134
+00:04:38,810 --> 00:04:40,490
+exchange<font color="#E5E5E5"> and it will no</font><font color="#CCCCCC"> longer</font><font color="#E5E5E5"> be</font>
+
+135
+00:04:40,490 --> 00:04:42,289
+volatile and pricing it'll be stable and
+
+136
+00:04:42,289 --> 00:04:44,300
+pricing but<font color="#E5E5E5"> I want to be</font><font color="#CCCCCC"> very</font><font color="#E5E5E5"> clear</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> a</font>
+
+137
+00:04:44,300 --> 00:04:46,310
+lot of the<font color="#E5E5E5"> volatile in pricing has to</font><font color="#CCCCCC"> do</font>
+
+138
+00:04:46,310 --> 00:04:48,259
+with uncertainty on government policy
+
+139
+00:04:48,259 --> 00:04:50,270
+towards it<font color="#CCCCCC"> so the government is creating</font>
+
+140
+00:04:50,270 --> 00:04:52,370
+<font color="#E5E5E5">this this instant while the government</font>
+
+141
+00:04:52,370 --> 00:04:54,380
+<font color="#E5E5E5">is trying to mitigate volatility in</font>
+
+142
+00:04:54,380 --> 00:04:56,449
+ordinary capital markets<font color="#E5E5E5"> they're trying</font>
+
+143
+00:04:56,449 --> 00:04:58,070
+to exacerbate volatility<font color="#CCCCCC"> and crypto</font>
+
+144
+00:04:58,070 --> 00:05:00,490
+markets
+
+145
+00:05:00,500 --> 00:00:00,000
+[Music]
+

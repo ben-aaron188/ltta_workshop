@@ -1,0 +1,976 @@
+1
+00:00:07,970 --> 00:00:11,490
+we do not advise that<font color="#CCCCCC"> anyone</font><font color="#E5E5E5"> watching</font>
+
+2
+00:00:11,490 --> 00:00:14,700
+this video<font color="#CCCCCC"> do what is about to</font><font color="#E5E5E5"> be done</font>
+
+3
+00:00:14,700 --> 00:00:17,220
+here on<font color="#CCCCCC"> October 17</font>
+
+4
+00:00:17,220 --> 00:00:19,619
+Tristan Roberts<font color="#CCCCCC"> an activist and software</font>
+
+5
+00:00:19,619 --> 00:00:21,570
+engineer injected himself with<font color="#E5E5E5"> a</font>
+
+6
+00:00:21,570 --> 00:00:23,460
+solution<font color="#CCCCCC"> that he hoped would modify</font><font color="#E5E5E5"> his</font>
+
+7
+00:00:23,460 --> 00:00:26,160
+genes to cure his HIV<font color="#E5E5E5"> first I want to</font>
+
+8
+00:00:26,160 --> 00:00:27,810
+<font color="#E5E5E5">dedicate this</font><font color="#CCCCCC"> to all the people who have</font>
+
+9
+00:00:27,810 --> 00:00:30,150
+died<font color="#E5E5E5"> while not being able to access</font>
+
+10
+00:00:30,150 --> 00:00:32,219
+<font color="#CCCCCC">treatment</font><font color="#E5E5E5"> even</font><font color="#CCCCCC"> though those treatments</font>
+
+11
+00:00:32,219 --> 00:00:34,280
+<font color="#E5E5E5">were available</font>
+
+12
+00:00:34,280 --> 00:00:36,930
+<font color="#E5E5E5">Tristan stopped taking conventional HIV</font>
+
+13
+00:00:36,930 --> 00:00:38,879
+meds<font color="#CCCCCC"> two years ago because he hated the</font>
+
+14
+00:00:38,879 --> 00:00:41,460
+<font color="#CCCCCC">side effects</font><font color="#E5E5E5"> instead he tried an</font>
+
+15
+00:00:41,460 --> 00:00:43,530
+experimental gene-therapy<font color="#E5E5E5"> developed by a</font>
+
+16
+00:00:43,530 --> 00:00:45,559
+startup called<font color="#E5E5E5"> ascendance biomedical</font>
+
+17
+00:00:45,559 --> 00:00:47,399
+this therapy that you're injecting
+
+18
+00:00:47,399 --> 00:00:50,090
+<font color="#CCCCCC">yourself is what is it how does</font><font color="#E5E5E5"> it work</font>
+
+19
+00:00:50,090 --> 00:00:52,620
+it's pretty<font color="#CCCCCC"> much like</font><font color="#E5E5E5"> a small circular</font>
+
+20
+00:00:52,620 --> 00:00:54,390
+<font color="#E5E5E5">piece of DNA</font><font color="#CCCCCC"> and it contains</font><font color="#E5E5E5"> the</font>
+
+21
+00:00:54,390 --> 00:00:56,760
+instructions<font color="#E5E5E5"> to create</font><font color="#CCCCCC"> an</font><font color="#E5E5E5"> antibody</font><font color="#CCCCCC"> they</font>
+
+22
+00:00:56,760 --> 00:00:59,070
+found this<font color="#E5E5E5"> antibody being expressed by</font>
+
+23
+00:00:59,070 --> 00:01:01,980
+<font color="#E5E5E5">someone who wasn't taking their medicine</font>
+
+24
+00:01:01,980 --> 00:01:04,739
+<font color="#CCCCCC">whose de NIH researchers and this</font>
+
+25
+00:01:04,739 --> 00:01:07,439
+<font color="#E5E5E5">antibody it binds to a part of the</font><font color="#CCCCCC"> virus</font>
+
+26
+00:01:07,439 --> 00:01:09,540
+<font color="#CCCCCC">and that</font><font color="#E5E5E5"> prevents the virus from being</font>
+
+27
+00:01:09,540 --> 00:01:12,510
+able<font color="#E5E5E5"> to latch</font><font color="#CCCCCC"> on to my cells it's giving</font>
+
+28
+00:01:12,510 --> 00:01:14,549
+my body<font color="#E5E5E5"> of the instructions on how</font><font color="#CCCCCC"> to do</font>
+
+29
+00:01:14,549 --> 00:01:14,909
+it
+
+30
+00:01:14,909 --> 00:01:18,930
+so ascendance found that paper<font color="#E5E5E5"> took that</font>
+
+31
+00:01:18,930 --> 00:01:20,790
+research<font color="#E5E5E5"> how did they do</font><font color="#CCCCCC"> that it's</font><font color="#E5E5E5"> the</font>
+
+32
+00:01:20,790 --> 00:01:22,470
+<font color="#CCCCCC">internet right it's</font><font color="#E5E5E5"> like a lot of</font>
+
+33
+00:01:22,470 --> 00:01:23,850
+<font color="#E5E5E5">information is becoming publicly</font>
+
+34
+00:01:23,850 --> 00:01:26,340
+available<font color="#E5E5E5"> and this is fueling the the</font>
+
+35
+00:01:26,340 --> 00:01:29,189
+<font color="#CCCCCC">bio hacking revolution the</font><font color="#E5E5E5"> first round</font>
+
+36
+00:01:29,189 --> 00:01:31,020
+of Tristan's gene therapy didn't<font color="#CCCCCC"> work</font>
+
+37
+00:01:31,020 --> 00:01:33,060
+but instead<font color="#CCCCCC"> of</font><font color="#E5E5E5"> going</font><font color="#CCCCCC"> back</font><font color="#E5E5E5"> on</font><font color="#CCCCCC"> his</font>
+
+38
+00:01:33,060 --> 00:01:34,470
+fda-approved meds
+
+39
+00:01:34,470 --> 00:01:36,420
+<font color="#E5E5E5">Tristan flew to Jacksonville</font><font color="#CCCCCC"> Florida</font><font color="#E5E5E5"> to</font>
+
+40
+00:01:36,420 --> 00:01:39,409
+<font color="#E5E5E5">try and modified dose</font>
+
+41
+00:01:43,030 --> 00:01:45,310
+<font color="#E5E5E5">ascendance</font><font color="#CCCCCC"> biomechanical is run by</font><font color="#E5E5E5"> one</font>
+
+42
+00:01:45,310 --> 00:01:48,730
+guy<font color="#CCCCCC"> Aaron Traywick what's different</font>
+
+43
+00:01:48,730 --> 00:01:50,110
+about ascendance compared to your
+
+44
+00:01:50,110 --> 00:01:52,780
+typical biomechanical company<font color="#E5E5E5"> we work</font>
+
+45
+00:01:52,780 --> 00:01:54,400
+directly<font color="#E5E5E5"> with the</font><font color="#CCCCCC"> public and</font><font color="#E5E5E5"> try and</font>
+
+46
+00:01:54,400 --> 00:01:56,320
+maintain<font color="#E5E5E5"> a public transparency</font><font color="#CCCCCC"> that is</font>
+
+47
+00:01:56,320 --> 00:01:58,780
+necessary in order<font color="#CCCCCC"> to facilitate greater</font>
+
+48
+00:01:58,780 --> 00:02:00,940
+and greater levels<font color="#CCCCCC"> of access both to our</font>
+
+49
+00:02:00,940 --> 00:02:04,330
+compounds<font color="#E5E5E5"> as well as to self</font>
+
+50
+00:02:04,330 --> 00:02:05,850
+experimentation<font color="#E5E5E5"> in general</font>
+
+51
+00:02:05,850 --> 00:02:07,960
+philosophically<font color="#CCCCCC"> the</font><font color="#E5E5E5"> idea is to get new</font>
+
+52
+00:02:07,960 --> 00:02:09,639
+treatments<font color="#CCCCCC"> to people faster than the</font>
+
+53
+00:02:09,639 --> 00:02:11,740
+FDA's approval process allows because
+
+54
+00:02:11,740 --> 00:02:13,360
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> process in the view of most</font>
+
+55
+00:02:13,360 --> 00:02:15,820
+<font color="#E5E5E5">biohackers is slow expensive and</font>
+
+56
+00:02:15,820 --> 00:02:18,820
+corrupted<font color="#CCCCCC"> by Big Pharma practically it</font>
+
+57
+00:02:18,820 --> 00:02:20,500
+means ascendance develops experimental
+
+58
+00:02:20,500 --> 00:02:22,060
+compounds for people who want to be
+
+59
+00:02:22,060 --> 00:02:29,350
+their own<font color="#E5E5E5"> guinea pigs Aaron is 28 years</font>
+
+60
+00:02:29,350 --> 00:02:31,800
+<font color="#CCCCCC">old</font><font color="#E5E5E5"> and he has no training in medicine</font>
+
+61
+00:02:31,800 --> 00:02:34,360
+but<font color="#E5E5E5"> he believes in</font><font color="#CCCCCC"> what he's doing at</font>
+
+62
+00:02:34,360 --> 00:02:36,160
+<font color="#CCCCCC">least enough to test another gene</font>
+
+63
+00:02:36,160 --> 00:02:38,500
+therapy this<font color="#E5E5E5"> one for herpes on himself</font>
+
+64
+00:02:38,500 --> 00:02:41,760
+<font color="#CCCCCC">at a</font><font color="#E5E5E5"> biohacking conference</font>
+
+65
+00:02:42,620 --> 00:02:45,719
+[Music]
+
+66
+00:02:48,209 --> 00:02:50,950
+how is<font color="#CCCCCC"> ascendance biomedical funded</font>
+
+67
+00:02:50,950 --> 00:02:52,870
+<font color="#E5E5E5">where does the money come from</font><font color="#CCCCCC"> so we are</font>
+
+68
+00:02:52,870 --> 00:02:57,600
+<font color="#E5E5E5">primarily self-funded by our founders</font><font color="#CCCCCC"> I</font>
+
+69
+00:02:57,600 --> 00:03:00,910
+am a majority<font color="#CCCCCC"> investor are you planning</font>
+
+70
+00:03:00,910 --> 00:03:02,049
+on<font color="#CCCCCC"> getting any</font><font color="#E5E5E5"> kind of return on</font><font color="#CCCCCC"> that</font>
+
+71
+00:03:02,049 --> 00:03:03,970
+investment<font color="#CCCCCC"> of course there's a return</font><font color="#E5E5E5"> on</font>
+
+72
+00:03:03,970 --> 00:03:05,769
+the investment<font color="#E5E5E5"> but it's more a long game</font>
+
+73
+00:03:05,769 --> 00:03:08,019
+than anything else<font color="#E5E5E5"> it's illegal to</font>
+
+74
+00:03:08,019 --> 00:03:09,850
+market<font color="#E5E5E5"> something as medicine</font><font color="#CCCCCC"> if it</font>
+
+75
+00:03:09,850 --> 00:03:12,459
+hasn't<font color="#CCCCCC"> been approved by the FDA</font><font color="#E5E5E5"> but lots</font>
+
+76
+00:03:12,459 --> 00:03:13,989
+of chemicals<font color="#E5E5E5"> are sold as research</font>
+
+77
+00:03:13,989 --> 00:03:15,700
+compounds typically for science
+
+78
+00:03:15,700 --> 00:03:17,799
+experiments<font color="#E5E5E5"> and even though companies</font>
+
+79
+00:03:17,799 --> 00:03:19,709
+can't<font color="#E5E5E5"> market these for human consumption</font>
+
+80
+00:03:19,709 --> 00:03:22,299
+<font color="#CCCCCC">legally speaking</font><font color="#E5E5E5"> people are free to try</font>
+
+81
+00:03:22,299 --> 00:03:26,110
+them on<font color="#CCCCCC"> themselves if they want what's</font>
+
+82
+00:03:26,110 --> 00:03:27,940
+different about what<font color="#CCCCCC"> Tristan is doing</font>
+
+83
+00:03:27,940 --> 00:03:29,170
+<font color="#CCCCCC">because</font><font color="#E5E5E5"> that's not a normal clinic</font>
+
+84
+00:03:29,170 --> 00:03:30,880
+<font color="#E5E5E5">clinic</font><font color="#CCCCCC"> trial there's not that</font><font color="#E5E5E5"> much</font>
+
+85
+00:03:30,880 --> 00:03:32,470
+different what Tristan is doing<font color="#E5E5E5"> than</font>
+
+86
+00:03:32,470 --> 00:03:34,090
+what's<font color="#E5E5E5"> already legally allowed by the</font>
+
+87
+00:03:34,090 --> 00:03:36,760
+<font color="#E5E5E5">FDA through the FDA's compassionate use</font>
+
+88
+00:03:36,760 --> 00:03:39,820
+programs it makes sense as a company<font color="#CCCCCC"> to</font>
+
+89
+00:03:39,820 --> 00:03:41,860
+provide<font color="#E5E5E5"> those therapies to individuals</font>
+
+90
+00:03:41,860 --> 00:03:44,489
+who want<font color="#E5E5E5"> to</font>
+
+91
+00:03:45,220 --> 00:03:49,160
+experiment but just because<font color="#E5E5E5"> you can</font>
+
+92
+00:03:49,160 --> 00:03:50,450
+experiment on yourself
+
+93
+00:03:50,450 --> 00:03:53,360
+does that<font color="#E5E5E5"> mean you should Karin</font><font color="#CCCCCC"> masky is</font>
+
+94
+00:03:53,360 --> 00:03:54,740
+a researcher<font color="#E5E5E5"> at</font><font color="#CCCCCC"> the Hastings</font><font color="#E5E5E5"> Center</font>
+
+95
+00:03:54,740 --> 00:03:56,780
+<font color="#E5E5E5">which helped establish the field of</font>
+
+96
+00:03:56,780 --> 00:03:59,150
+bioethics<font color="#CCCCCC"> there were</font><font color="#E5E5E5"> reasons that rules</font>
+
+97
+00:03:59,150 --> 00:04:02,270
+were put<font color="#E5E5E5"> in place about which drugs for</font>
+
+98
+00:04:02,270 --> 00:04:04,010
+medical purposes<font color="#CCCCCC"> can't get on the market</font>
+
+99
+00:04:04,010 --> 00:04:06,110
+<font color="#CCCCCC">and those rules were</font><font color="#E5E5E5"> put in place</font>
+
+100
+00:04:06,110 --> 00:04:09,170
+<font color="#E5E5E5">because people</font><font color="#CCCCCC"> were harmed by people</font>
+
+101
+00:04:09,170 --> 00:04:12,050
+many who were lay people who were
+
+102
+00:04:12,050 --> 00:04:14,440
+concocting<font color="#E5E5E5"> potions in their kitchens and</font>
+
+103
+00:04:14,440 --> 00:04:16,430
+even if they weren't harmed they were
+
+104
+00:04:16,430 --> 00:04:18,260
+spending<font color="#CCCCCC"> money</font><font color="#E5E5E5"> on on products that</font>
+
+105
+00:04:18,260 --> 00:04:21,190
+didn't work<font color="#CCCCCC"> so even if Tristan Roberts</font>
+
+106
+00:04:21,190 --> 00:04:23,810
+<font color="#E5E5E5">injects himself with this gene therapy</font>
+
+107
+00:04:23,810 --> 00:04:27,200
+<font color="#E5E5E5">and it works is it good</font><font color="#CCCCCC"> or safe for him</font>
+
+108
+00:04:27,200 --> 00:04:28,790
+<font color="#CCCCCC">to then go promulgating that therapy</font>
+
+109
+00:04:28,790 --> 00:04:30,140
+that's the question
+
+110
+00:04:30,140 --> 00:04:33,860
+is the claim<font color="#CCCCCC"> that</font><font color="#E5E5E5"> it that thing you're</font>
+
+111
+00:04:33,860 --> 00:04:37,610
+calling it actually had the effect<font color="#CCCCCC"> that</font>
+
+112
+00:04:37,610 --> 00:04:39,770
+you're seeing and<font color="#E5E5E5"> that's hard to detect</font>
+
+113
+00:04:39,770 --> 00:04:44,180
+<font color="#E5E5E5">with one person nobody</font><font color="#CCCCCC"> knows exactly how</font>
+
+114
+00:04:44,180 --> 00:04:46,340
+many biohacking companies there<font color="#CCCCCC"> are but</font>
+
+115
+00:04:46,340 --> 00:04:46,910
+they're out there
+
+116
+00:04:46,910 --> 00:04:48,980
+sometimes in nondescript strip malls
+
+117
+00:04:48,980 --> 00:04:53,600
+like this one where<font color="#E5E5E5"> a sentence</font>
+
+118
+00:04:53,600 --> 00:04:55,370
+biomedical<font color="#E5E5E5"> rent space for one of their</font>
+
+119
+00:04:55,370 --> 00:04:58,970
+DIY labs<font color="#E5E5E5"> as lab manager</font><font color="#CCCCCC"> ascendants hired</font>
+
+120
+00:04:58,970 --> 00:05:01,310
+<font color="#CCCCCC">gabriel escena a biohacker with a</font>
+
+121
+00:05:01,310 --> 00:05:03,170
+biology<font color="#CCCCCC"> degree from the</font><font color="#E5E5E5"> University of</font>
+
+122
+00:05:03,170 --> 00:05:06,530
+<font color="#E5E5E5">Washington this</font><font color="#CCCCCC"> is all like</font><font color="#E5E5E5"> really basic</font>
+
+123
+00:05:06,530 --> 00:05:07,970
+lab stuff it's like<font color="#E5E5E5"> really</font>
+
+124
+00:05:07,970 --> 00:05:09,650
+straightforward<font color="#E5E5E5"> stuff we've got</font><font color="#CCCCCC"> our</font>
+
+125
+00:05:09,650 --> 00:05:12,410
+<font color="#E5E5E5">mammalian cell incubator here various</font>
+
+126
+00:05:12,410 --> 00:05:15,530
+<font color="#E5E5E5">devices for spinning things this cool</font>
+
+127
+00:05:15,530 --> 00:05:18,440
+<font color="#E5E5E5">little guy is totally an airsoft rifle</font>
+
+128
+00:05:18,440 --> 00:05:21,110
+for shooting genetic material into<font color="#CCCCCC"> cells</font>
+
+129
+00:05:21,110 --> 00:05:26,000
+<font color="#CCCCCC">okay</font><font color="#E5E5E5"> this is minus</font><font color="#CCCCCC"> 166 it's totally like</font>
+
+130
+00:05:26,000 --> 00:05:30,380
+a<font color="#E5E5E5"> sci-fi movie</font><font color="#CCCCCC"> Shh and we got like a</font>
+
+131
+00:05:30,380 --> 00:05:32,810
+<font color="#E5E5E5">little back room this is this is where I</font>
+
+132
+00:05:32,810 --> 00:05:34,490
+store my<font color="#E5E5E5"> nerds</font>
+
+133
+00:05:34,490 --> 00:05:36,080
+[Music]
+
+134
+00:05:36,080 --> 00:05:38,009
+biohacking is just kind of this<font color="#E5E5E5"> thing</font>
+
+135
+00:05:38,009 --> 00:05:40,169
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> everybody</font><font color="#CCCCCC"> is decided to</font><font color="#E5E5E5"> use as a</font>
+
+136
+00:05:40,169 --> 00:05:42,930
+rebranding of<font color="#E5E5E5"> I'm doing</font><font color="#CCCCCC"> science and I'm</font>
+
+137
+00:05:42,930 --> 00:05:45,270
+not<font color="#E5E5E5"> doing it in a university but at the</font>
+
+138
+00:05:45,270 --> 00:05:47,009
+end<font color="#CCCCCC"> of the day you're just doing science</font>
+
+139
+00:05:47,009 --> 00:05:49,740
+Gabe is a die-hard believer in<font color="#CCCCCC"> open</font>
+
+140
+00:05:49,740 --> 00:05:51,720
+source<font color="#CCCCCC"> he thinks</font><font color="#E5E5E5"> that the fruits of</font>
+
+141
+00:05:51,720 --> 00:05:53,729
+biohacking should be owned by<font color="#CCCCCC"> no one and</font>
+
+142
+00:05:53,729 --> 00:05:56,520
+available to everyone<font color="#CCCCCC"> for free</font><font color="#E5E5E5"> one of</font>
+
+143
+00:05:56,520 --> 00:05:58,259
+the sweetest<font color="#CCCCCC"> things about open source is</font>
+
+144
+00:05:58,259 --> 00:05:59,340
+if you do good work
+
+145
+00:05:59,340 --> 00:06:01,889
+<font color="#E5E5E5">people give you money</font><font color="#CCCCCC"> if somebody does</font>
+
+146
+00:06:01,889 --> 00:06:04,380
+<font color="#E5E5E5">doesn't want to pay you also should be</font>
+
+147
+00:06:04,380 --> 00:06:05,069
+<font color="#CCCCCC">okay</font>
+
+148
+00:06:05,069 --> 00:06:07,229
+telling somebody they have<font color="#CCCCCC"> to pay</font><font color="#E5E5E5"> you</font>
+
+149
+00:06:07,229 --> 00:06:09,449
+<font color="#E5E5E5">you're going</font><font color="#CCCCCC"> to be sick unless</font><font color="#E5E5E5"> you have</font>
+
+150
+00:06:09,449 --> 00:06:13,380
+money<font color="#E5E5E5"> is kind of not cool so we're gonna</font>
+
+151
+00:06:13,380 --> 00:06:15,210
+do<font color="#E5E5E5"> something cool and we're gonna see</font>
+
+152
+00:06:15,210 --> 00:06:17,310
+what<font color="#CCCCCC"> happens that has led to</font><font color="#E5E5E5"> friction</font>
+
+153
+00:06:17,310 --> 00:06:20,759
+between Gabe and<font color="#CCCCCC"> Aaron the CEO</font><font color="#E5E5E5"> what's</font>
+
+154
+00:06:20,759 --> 00:06:22,620
+your opinion of Aaron end of<font color="#E5E5E5"> ascendance</font>
+
+155
+00:06:22,620 --> 00:06:27,720
+<font color="#E5E5E5">biomedic the boat floats</font><font color="#CCCCCC"> I'm just not</font>
+
+156
+00:06:27,720 --> 00:06:32,430
+<font color="#E5E5E5">100% sure</font><font color="#CCCCCC"> about captain or</font><font color="#E5E5E5"> the crew the</font>
+
+157
+00:06:32,430 --> 00:06:33,840
+night before<font color="#CCCCCC"> tristan roberts was</font>
+
+158
+00:06:33,840 --> 00:06:35,190
+supposed to inject himself with<font color="#E5E5E5"> the</font>
+
+159
+00:06:35,190 --> 00:06:37,710
+second round<font color="#CCCCCC"> of HIV therapy we met</font><font color="#E5E5E5"> up</font>
+
+160
+00:06:37,710 --> 00:06:39,389
+with the ascendance biomedical crew for
+
+161
+00:06:39,389 --> 00:06:41,880
+dinner<font color="#E5E5E5"> it's like you want to make the</font>
+
+162
+00:06:41,880 --> 00:06:43,710
+things so that everyone owns<font color="#E5E5E5"> it</font><font color="#CCCCCC"> and you</font>
+
+163
+00:06:43,710 --> 00:06:45,960
+want<font color="#E5E5E5"> to own the thing no I want to make</font>
+
+164
+00:06:45,960 --> 00:06:47,550
+<font color="#E5E5E5">the thing so that everybody can benefit</font>
+
+165
+00:06:47,550 --> 00:06:48,120
+from<font color="#E5E5E5"> it</font>
+
+166
+00:06:48,120 --> 00:06:49,919
+whatever gets<font color="#CCCCCC"> it to the most</font><font color="#E5E5E5"> people as</font>
+
+167
+00:06:49,919 --> 00:06:52,020
+quickly<font color="#E5E5E5"> as</font><font color="#CCCCCC"> possible and actually a leave</font>
+
+168
+00:06:52,020 --> 00:06:53,460
+<font color="#CCCCCC">this way to get</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> - a lot of</font><font color="#E5E5E5"> people</font>
+
+169
+00:06:53,460 --> 00:06:55,770
+<font color="#CCCCCC">give it away for free and I don't think</font>
+
+170
+00:06:55,770 --> 00:06:57,389
+<font color="#CCCCCC">we've ever seen that</font><font color="#E5E5E5"> open source</font><font color="#CCCCCC"> has</font>
+
+171
+00:06:57,389 --> 00:07:00,180
+<font color="#CCCCCC">been able to do that oh really do you</font>
+
+172
+00:07:00,180 --> 00:07:02,940
+want to talk about<font color="#E5E5E5"> Linux</font><font color="#CCCCCC"> or are you in</font>
+
+173
+00:07:02,940 --> 00:07:05,460
+<font color="#E5E5E5">everyone the</font><font color="#CCCCCC"> entire world access to</font>
+
+174
+00:07:05,460 --> 00:07:06,840
+everything<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you're</font><font color="#CCCCCC"> doing</font><font color="#E5E5E5"> then you</font>
+
+175
+00:07:06,840 --> 00:07:08,880
+leave<font color="#E5E5E5"> the door</font><font color="#CCCCCC"> wide open for</font><font color="#E5E5E5"> unsavory</font>
+
+176
+00:07:08,880 --> 00:07:11,219
+<font color="#E5E5E5">and potentially negative players to take</font>
+
+177
+00:07:11,219 --> 00:07:12,930
+that technology<font color="#E5E5E5"> and</font><font color="#CCCCCC"> do things</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> can</font>
+
+178
+00:07:12,930 --> 00:07:14,550
+hurt themselves<font color="#E5E5E5"> and that can hurt other</font>
+
+179
+00:07:14,550 --> 00:07:16,830
+people but<font color="#CCCCCC"> ultimately that can hurt</font><font color="#E5E5E5"> the</font>
+
+180
+00:07:16,830 --> 00:07:19,590
+field<font color="#E5E5E5"> okay let's say that</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> let's say</font>
+
+181
+00:07:19,590 --> 00:07:22,759
+that<font color="#E5E5E5"> your treatment works right for you</font>
+
+182
+00:07:22,759 --> 00:07:26,069
+<font color="#E5E5E5">who then has control</font><font color="#CCCCCC"> over that</font><font color="#E5E5E5"> well</font>
+
+183
+00:07:26,069 --> 00:07:28,469
+ultimately<font color="#CCCCCC"> it depends on the</font><font color="#E5E5E5"> clinical</font>
+
+184
+00:07:28,469 --> 00:07:29,940
+<font color="#E5E5E5">development and how we're able to</font>
+
+185
+00:07:29,940 --> 00:07:32,069
+partner with nonprofits NGOs and
+
+186
+00:07:32,069 --> 00:07:34,319
+<font color="#E5E5E5">hospital network</font><font color="#CCCCCC"> service to say he does</font>
+
+187
+00:07:34,319 --> 00:07:36,900
+<font color="#E5E5E5">the only thing</font><font color="#CCCCCC"> that I'm saying here is</font>
+
+188
+00:07:36,900 --> 00:07:39,479
+<font color="#E5E5E5">that it requires a</font><font color="#CCCCCC"> lot of</font><font color="#E5E5E5"> different</font>
+
+189
+00:07:39,479 --> 00:07:41,880
+partnerships outside of our group<font color="#CCCCCC"> and</font><font color="#E5E5E5"> so</font>
+
+190
+00:07:41,880 --> 00:07:44,130
+<font color="#CCCCCC">ma are</font><font color="#E5E5E5"> you going to be able to</font>
+
+191
+00:07:44,130 --> 00:07:45,960
+distribute it<font color="#E5E5E5"> are you going to be the</font>
+
+192
+00:07:45,960 --> 00:07:46,760
+one who to go
+
+193
+00:07:46,760 --> 00:07:48,470
+<font color="#E5E5E5">she ate with the government's and</font><font color="#CCCCCC"> the</font>
+
+194
+00:07:48,470 --> 00:07:49,940
+embassies and make sure they<font color="#E5E5E5"> can</font>
+
+195
+00:07:49,940 --> 00:07:51,890
+actually<font color="#E5E5E5"> go</font><font color="#CCCCCC"> into</font><font color="#E5E5E5"> the country so you are</font>
+
+196
+00:07:51,890 --> 00:07:54,410
+assuming executive control<font color="#CCCCCC"> I've not</font>
+
+197
+00:07:54,410 --> 00:07:56,780
+heard any offers<font color="#E5E5E5"> to get involved in</font>
+
+198
+00:07:56,780 --> 00:07:58,970
+<font color="#E5E5E5">those processes by anyone else</font><font color="#CCCCCC"> it's just</font>
+
+199
+00:07:58,970 --> 00:08:04,040
+<font color="#E5E5E5">fun story</font><font color="#CCCCCC"> I'll just not do lab work</font><font color="#E5E5E5"> baby</font>
+
+200
+00:08:04,040 --> 00:08:08,990
+<font color="#E5E5E5">we're working through it by the next</font>
+
+201
+00:08:08,990 --> 00:08:10,670
+<font color="#E5E5E5">morning</font><font color="#CCCCCC"> things between them</font><font color="#E5E5E5"> had gone</font>
+
+202
+00:08:10,670 --> 00:08:13,610
+<font color="#E5E5E5">even worse we're here at the lab where</font>
+
+203
+00:08:13,610 --> 00:08:15,830
+<font color="#E5E5E5">the therapy was supposed to be delivered</font>
+
+204
+00:08:15,830 --> 00:08:18,260
+today<font color="#CCCCCC"> it has not</font><font color="#E5E5E5"> been delivered we</font>
+
+205
+00:08:18,260 --> 00:08:19,910
+really<font color="#E5E5E5"> just don't know what's going to</font>
+
+206
+00:08:19,910 --> 00:08:23,060
+happen<font color="#E5E5E5"> as it turned out the HIV</font>
+
+207
+00:08:23,060 --> 00:08:24,890
+treatment wasn't<font color="#E5E5E5"> ready for testing in</font>
+
+208
+00:08:24,890 --> 00:08:27,170
+the fight<font color="#E5E5E5"> over who</font><font color="#CCCCCC"> should own</font><font color="#E5E5E5"> ascendance</font>
+
+209
+00:08:27,170 --> 00:08:31,460
+biomedical products<font color="#E5E5E5"> oiled over we caught</font>
+
+210
+00:08:31,460 --> 00:08:35,390
+<font color="#E5E5E5">up with</font><font color="#CCCCCC"> Aaron later that day</font><font color="#E5E5E5"> so what</font>
+
+211
+00:08:35,390 --> 00:08:36,200
+<font color="#E5E5E5">just happened</font>
+
+212
+00:08:36,200 --> 00:08:38,840
+<font color="#CCCCCC">Gabriel who served as our lab manager</font>
+
+213
+00:08:38,840 --> 00:08:40,880
+and Justin who served as the<font color="#E5E5E5"> laboratory</font>
+
+214
+00:08:40,880 --> 00:08:44,090
+technician have been effectively kicked
+
+215
+00:08:44,090 --> 00:08:46,430
+out of<font color="#CCCCCC"> the lab space</font><font color="#E5E5E5"> and the locks have</font>
+
+216
+00:08:46,430 --> 00:08:49,430
+<font color="#CCCCCC">been changed a big part of the mission</font>
+
+217
+00:08:49,430 --> 00:08:51,230
+of<font color="#E5E5E5"> ascendance biomedical is showing that</font>
+
+218
+00:08:51,230 --> 00:08:52,970
+this<font color="#E5E5E5"> kind of research science can happen</font>
+
+219
+00:08:52,970 --> 00:08:54,320
+<font color="#CCCCCC">outside of</font><font color="#E5E5E5"> the conventional</font>
+
+220
+00:08:54,320 --> 00:08:57,260
+institutional structures<font color="#CCCCCC"> I have to be</font>
+
+221
+00:08:57,260 --> 00:08:58,940
+honest what we've<font color="#E5E5E5"> seen so far this week</font>
+
+222
+00:08:58,940 --> 00:09:01,520
+doesn't<font color="#CCCCCC"> inspire a ton of confidence well</font>
+
+223
+00:09:01,520 --> 00:09:03,500
+<font color="#E5E5E5">the only way that</font><font color="#CCCCCC"> I ever</font><font color="#E5E5E5"> want the world</font>
+
+224
+00:09:03,500 --> 00:09:08,440
+to see<font color="#E5E5E5"> us is as a</font><font color="#CCCCCC"> never ending fight</font>
+
+225
+00:09:08,440 --> 00:09:11,250
+against these<font color="#E5E5E5"> diseases</font>
+
+226
+00:09:11,250 --> 00:09:13,610
+[Music]
+
+227
+00:09:13,610 --> 00:09:16,860
+that night the CEO<font color="#E5E5E5"> carried his lab crews</font>
+
+228
+00:09:16,860 --> 00:09:21,920
+personal equipment<font color="#CCCCCC"> to the curb</font><font color="#E5E5E5"> and</font>
+
+229
+00:09:21,920 --> 00:09:24,510
+<font color="#E5E5E5">Tristan Roberts was forced to reconsider</font>
+
+230
+00:09:24,510 --> 00:09:27,630
+the merits<font color="#E5E5E5"> of Big Pharma</font><font color="#CCCCCC"> so what do you</font>
+
+231
+00:09:27,630 --> 00:09:30,150
+think this<font color="#E5E5E5"> says more broadly about bio</font>
+
+232
+00:09:30,150 --> 00:09:32,940
+<font color="#E5E5E5">hockey</font><font color="#CCCCCC"> it's going to be hard to ever</font>
+
+233
+00:09:32,940 --> 00:09:35,220
+scale it up beyond sort<font color="#E5E5E5"> of</font>
+
+234
+00:09:35,220 --> 00:09:37,980
+do-it-yourself<font color="#E5E5E5"> kits where you maybe can</font>
+
+235
+00:09:37,980 --> 00:09:39,810
+do it to one<font color="#CCCCCC"> person but doing it to</font>
+
+236
+00:09:39,810 --> 00:09:42,390
+dozens hundreds of people<font color="#E5E5E5"> it's always</font>
+
+237
+00:09:42,390 --> 00:09:44,820
+going<font color="#E5E5E5"> to require investment almost</font>
+
+238
+00:09:44,820 --> 00:09:46,350
+always<font color="#E5E5E5"> are you</font><font color="#CCCCCC"> going to go</font><font color="#E5E5E5"> back on your</font>
+
+239
+00:09:46,350 --> 00:09:49,260
+antiretroviral medication<font color="#E5E5E5"> do you think</font>
+
+240
+00:09:49,260 --> 00:09:52,529
+at least for a time<font color="#CCCCCC"> I've been off of it</font>
+
+241
+00:09:52,529 --> 00:09:55,260
+for two<font color="#CCCCCC"> years and it's probably</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> the</font>
+
+242
+00:09:55,260 --> 00:09:55,980
+<font color="#E5E5E5">best</font>
+
+243
+00:09:55,980 --> 00:09:59,020
+<font color="#CCCCCC">suppressive for a while</font>
+
+244
+00:09:59,020 --> 00:00:00,000
+[Music]
+

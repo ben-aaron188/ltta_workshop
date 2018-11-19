@@ -1,0 +1,396 @@
+1
+00:00:00,030 --> 00:00:02,009
+the average person has 27 unique web
+
+2
+00:00:02,009 --> 00:00:04,230
+logins to create an account<font color="#CCCCCC"> on</font><font color="#E5E5E5"> a site</font>
+
+3
+00:00:04,230 --> 00:00:05,730
+you<font color="#CCCCCC"> have to register</font><font color="#E5E5E5"> with a username and</font>
+
+4
+00:00:05,730 --> 00:00:07,980
+<font color="#E5E5E5">password</font><font color="#CCCCCC"> and most people pick passwords</font>
+
+5
+00:00:07,980 --> 00:00:10,110
+that<font color="#E5E5E5"> are easy to remember actually</font><font color="#CCCCCC"> a lot</font>
+
+6
+00:00:10,110 --> 00:00:11,580
+of us end up<font color="#CCCCCC"> using the</font><font color="#E5E5E5"> same</font><font color="#CCCCCC"> password for</font>
+
+7
+00:00:11,580 --> 00:00:12,929
+<font color="#E5E5E5">all of our websites which is</font>
+
+8
+00:00:12,929 --> 00:00:15,330
+understandable<font color="#CCCCCC"> but risky there are many</font>
+
+9
+00:00:15,330 --> 00:00:16,680
+different ways<font color="#CCCCCC"> that hackers</font><font color="#E5E5E5"> can get your</font>
+
+10
+00:00:16,680 --> 00:00:18,779
+password<font color="#CCCCCC"> they can use programs that try</font>
+
+11
+00:00:18,779 --> 00:00:20,550
+to<font color="#E5E5E5"> guess it by randomly cycling through</font>
+
+12
+00:00:20,550 --> 00:00:22,320
+different combinations<font color="#E5E5E5"> hacking the</font>
+
+13
+00:00:22,320 --> 00:00:24,869
+website itself<font color="#E5E5E5"> or phishing by sending</font>
+
+14
+00:00:24,869 --> 00:00:26,279
+<font color="#E5E5E5">fake emails that look</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> they're from</font>
+
+15
+00:00:26,279 --> 00:00:28,380
+a<font color="#E5E5E5"> website or company</font><font color="#CCCCCC"> but actually</font><font color="#E5E5E5"> aren't</font>
+
+16
+00:00:28,380 --> 00:00:30,090
+all of<font color="#CCCCCC"> this spells bad news for people</font>
+
+17
+00:00:30,090 --> 00:00:31,859
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> reuse the same password</font><font color="#CCCCCC"> because</font>
+
+18
+00:00:31,859 --> 00:00:33,180
+you're putting<font color="#E5E5E5"> yourself</font><font color="#CCCCCC"> at much higher</font>
+
+19
+00:00:33,180 --> 00:00:34,890
+risk<font color="#E5E5E5"> for hackers being able to get</font><font color="#CCCCCC"> into</font>
+
+20
+00:00:34,890 --> 00:00:37,590
+<font color="#CCCCCC">your</font><font color="#E5E5E5"> emails</font><font color="#CCCCCC"> your photos and even your</font>
+
+21
+00:00:37,590 --> 00:00:43,500
+Bank<font color="#E5E5E5"> info last year Yahoo made headlines</font>
+
+22
+00:00:43,500 --> 00:00:44,940
+when it was the victim<font color="#E5E5E5"> of a massive</font>
+
+23
+00:00:44,940 --> 00:00:46,860
+<font color="#E5E5E5">cyber attack</font><font color="#CCCCCC"> with sensitive</font><font color="#E5E5E5"> information</font>
+
+24
+00:00:46,860 --> 00:00:50,039
+being stolen<font color="#CCCCCC"> from</font><font color="#E5E5E5"> 1 billion accounts so</font>
+
+25
+00:00:50,039 --> 00:00:51,449
+if you had a yahoo account and you use
+
+26
+00:00:51,449 --> 00:00:53,520
+<font color="#CCCCCC">that same password for other sites you</font>
+
+27
+00:00:53,520 --> 00:00:54,960
+<font color="#CCCCCC">are now vulnerable</font><font color="#E5E5E5"> to all those other</font>
+
+28
+00:00:54,960 --> 00:00:57,000
+accounts being<font color="#E5E5E5"> hacked to every time</font>
+
+29
+00:00:57,000 --> 00:00:58,469
+there's a<font color="#E5E5E5"> big hack like this experts</font>
+
+30
+00:00:58,469 --> 00:00:59,879
+tell us to stop<font color="#CCCCCC"> using the same password</font>
+
+31
+00:00:59,879 --> 00:01:01,980
+<font color="#CCCCCC">for</font><font color="#E5E5E5"> every website in fact they say we</font>
+
+32
+00:01:01,980 --> 00:01:03,329
+<font color="#CCCCCC">should stop memorizing our passwords</font>
+
+33
+00:01:03,329 --> 00:01:05,250
+altogether<font color="#E5E5E5"> recommending that we use</font>
+
+34
+00:01:05,250 --> 00:01:06,390
+<font color="#CCCCCC">something called the password manager</font>
+
+35
+00:01:06,390 --> 00:01:08,369
+<font color="#CCCCCC">instead I know I know it</font><font color="#E5E5E5"> already sounds</font>
+
+36
+00:01:08,369 --> 00:01:10,140
+<font color="#E5E5E5">complicated</font><font color="#CCCCCC"> but trust me it's</font><font color="#E5E5E5"> really not</font>
+
+37
+00:01:10,140 --> 00:01:11,880
+and it'll help<font color="#E5E5E5"> make all of your accounts</font>
+
+38
+00:01:11,880 --> 00:01:13,650
+much more secure we currently think of
+
+39
+00:01:13,650 --> 00:01:15,479
+passwords as things that<font color="#E5E5E5"> we memorize and</font>
+
+40
+00:01:15,479 --> 00:01:17,490
+store inside<font color="#E5E5E5"> our heads but since we're</font>
+
+41
+00:01:17,490 --> 00:01:19,229
+<font color="#E5E5E5">really bad</font><font color="#CCCCCC"> at remembering random things</font>
+
+42
+00:01:19,229 --> 00:01:21,000
+there's a limit<font color="#E5E5E5"> to how complex your</font>
+
+43
+00:01:21,000 --> 00:01:22,710
+password can be<font color="#E5E5E5"> and how many different</font>
+
+44
+00:01:22,710 --> 00:01:24,360
+<font color="#CCCCCC">ones you'll be able</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> remember as a</font>
+
+45
+00:01:24,360 --> 00:01:26,280
+result most people have really simple
+
+46
+00:01:26,280 --> 00:01:28,259
+passwords<font color="#E5E5E5"> and many use the same one</font>
+
+47
+00:01:28,259 --> 00:01:30,390
+across all their<font color="#E5E5E5"> logins this sucks</font>
+
+48
+00:01:30,390 --> 00:01:32,009
+because if a hacker gets access<font color="#CCCCCC"> to</font><font color="#E5E5E5"> your</font>
+
+49
+00:01:32,009 --> 00:01:33,930
+one password<font color="#E5E5E5"> they then have access to</font>
+
+50
+00:01:33,930 --> 00:01:35,670
+all of<font color="#CCCCCC"> your</font><font color="#E5E5E5"> different</font><font color="#CCCCCC"> accounts</font><font color="#E5E5E5"> and if</font>
+
+51
+00:01:35,670 --> 00:01:36,869
+your password<font color="#CCCCCC"> is</font><font color="#E5E5E5"> uncomplicated</font>
+
+52
+00:01:36,869 --> 00:01:38,610
+<font color="#CCCCCC">it's astonishingly easy for hackers to</font>
+
+53
+00:01:38,610 --> 00:01:40,259
+<font color="#E5E5E5">guess it for instance if you use</font><font color="#CCCCCC"> a</font>
+
+54
+00:01:40,259 --> 00:01:42,810
+password like well password which<font color="#E5E5E5"> is</font>
+
+55
+00:01:42,810 --> 00:01:44,399
+actually the<font color="#CCCCCC"> 8th most commonly used one</font>
+
+56
+00:01:44,399 --> 00:01:46,590
+it would take a hacker mere milliseconds
+
+57
+00:01:46,590 --> 00:01:48,240
+<font color="#E5E5E5">to guess it but if you use a password</font>
+
+58
+00:01:48,240 --> 00:01:50,610
+manager<font color="#E5E5E5"> to generate a 15 digit series of</font>
+
+59
+00:01:50,610 --> 00:01:52,290
+random upper and<font color="#E5E5E5"> lowercase letters</font><font color="#CCCCCC"> and</font>
+
+60
+00:01:52,290 --> 00:01:56,340
+<font color="#CCCCCC">numbers that time jumps up to 609</font>
+
+61
+00:01:56,340 --> 00:01:58,110
+the<font color="#E5E5E5"> biggest thing we need to do is stop</font>
+
+62
+00:01:58,110 --> 00:01:59,430
+keeping our passwords in our heads
+
+63
+00:01:59,430 --> 00:02:01,350
+<font color="#E5E5E5">instead</font><font color="#CCCCCC"> we need</font><font color="#E5E5E5"> to put them</font><font color="#CCCCCC"> somewhere</font>
+
+64
+00:02:01,350 --> 00:02:02,880
+else<font color="#E5E5E5"> and lock them up like a virtual</font>
+
+65
+00:02:02,880 --> 00:02:04,920
+<font color="#E5E5E5">safe this is what the</font><font color="#CCCCCC"> password manager</font>
+
+66
+00:02:04,920 --> 00:02:05,640
+<font color="#E5E5E5">does</font>
+
+67
+00:02:05,640 --> 00:02:07,470
+it's basically<font color="#E5E5E5"> an app that keeps all</font><font color="#CCCCCC"> of</font>
+
+68
+00:02:07,470 --> 00:02:09,090
+<font color="#E5E5E5">your passwords secure inside of a safe</font>
+
+69
+00:02:09,090 --> 00:02:11,160
+<font color="#E5E5E5">that only you can unlock this way you</font>
+
+70
+00:02:11,160 --> 00:02:14,370
+<font color="#E5E5E5">only need to remember one password and</font>
+
+71
+00:02:14,370 --> 00:02:16,020
+<font color="#E5E5E5">once you unlock the safe you can see all</font>
+
+72
+00:02:16,020 --> 00:02:17,400
+of<font color="#E5E5E5"> your many different passwords in one</font>
+
+73
+00:02:17,400 --> 00:02:20,160
+place<font color="#E5E5E5"> since it's an app you can access</font>
+
+74
+00:02:20,160 --> 00:02:21,870
+<font color="#E5E5E5">your passwords from any device you've</font>
+
+75
+00:02:21,870 --> 00:02:23,730
+installed it<font color="#E5E5E5"> on and since you</font><font color="#CCCCCC"> don't</font><font color="#E5E5E5"> need</font>
+
+76
+00:02:23,730 --> 00:02:25,110
+to remember<font color="#E5E5E5"> all your passwords</font><font color="#CCCCCC"> anymore</font>
+
+77
+00:02:25,110 --> 00:02:26,700
+<font color="#E5E5E5">you can make them really long and</font>
+
+78
+00:02:26,700 --> 00:02:28,560
+complicated<font color="#E5E5E5"> so what happens if your</font>
+
+79
+00:02:28,560 --> 00:02:30,540
+<font color="#E5E5E5">password manager gets hacked they would</font>
+
+80
+00:02:30,540 --> 00:02:31,860
+have access<font color="#E5E5E5"> to</font><font color="#CCCCCC"> all of</font><font color="#E5E5E5"> your individual</font>
+
+81
+00:02:31,860 --> 00:02:32,880
+passwords then right
+
+82
+00:02:32,880 --> 00:02:35,580
+not necessarily<font color="#CCCCCC"> the password manager</font>
+
+83
+00:02:35,580 --> 00:02:37,590
+encrypts<font color="#CCCCCC"> your data</font><font color="#E5E5E5"> so if a hacker looks</font>
+
+84
+00:02:37,590 --> 00:02:39,150
+inside your safe<font color="#CCCCCC"> all they'll see</font><font color="#E5E5E5"> is</font>
+
+85
+00:02:39,150 --> 00:02:41,250
+scrambled passwords<font color="#E5E5E5"> LastPass was hacked</font>
+
+86
+00:02:41,250 --> 00:02:43,650
+in 2015 and users had to<font color="#E5E5E5"> change their</font>
+
+87
+00:02:43,650 --> 00:02:45,630
+<font color="#E5E5E5">master passwords but the individual</font>
+
+88
+00:02:45,630 --> 00:02:47,340
+passwords<font color="#CCCCCC"> inside were safe because</font><font color="#E5E5E5"> of</font>
+
+89
+00:02:47,340 --> 00:02:48,959
+<font color="#E5E5E5">this encryption it may seem like it</font>
+
+90
+00:02:48,959 --> 00:02:50,190
+would<font color="#CCCCCC"> be annoying to have</font><font color="#E5E5E5"> to retrieve</font>
+
+91
+00:02:50,190 --> 00:02:51,590
+your password<font color="#CCCCCC"> for every single website</font>
+
+92
+00:02:51,590 --> 00:02:54,390
+<font color="#E5E5E5">but actually most password managers have</font>
+
+93
+00:02:54,390 --> 00:02:56,130
+browser<font color="#CCCCCC"> plugins</font><font color="#E5E5E5"> that automatically fill</font>
+
+94
+00:02:56,130 --> 00:02:58,200
+<font color="#E5E5E5">your in code for you so in many cases</font>
+
+95
+00:02:58,200 --> 00:03:00,959
+<font color="#CCCCCC">it's actually</font><font color="#E5E5E5"> easier and besides it's</font>
+
+96
+00:03:00,959 --> 00:03:03,150
+better than the alternative<font color="#CCCCCC"> becoming one</font>
+
+97
+00:03:03,150 --> 00:03:04,560
+<font color="#CCCCCC">of the millions of</font><font color="#E5E5E5"> Americans</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> get</font>
+
+98
+00:03:04,560 --> 00:03:06,110
+hacked<font color="#E5E5E5"> every year</font>
+
+99
+00:03:06,110 --> 00:00:00,000
+[Music]
+

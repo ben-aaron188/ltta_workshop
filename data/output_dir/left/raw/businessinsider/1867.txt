@@ -1,0 +1,52 @@
+1
+00:00:03,830 --> 00:00:06,990
+go to your<font color="#E5E5E5"> settings click</font><font color="#CCCCCC"> messages</font><font color="#E5E5E5"> and</font>
+
+2
+00:00:06,990 --> 00:00:11,940
+scroll down<font color="#E5E5E5"> to expire go to your</font>
+
+3
+00:00:11,940 --> 00:00:14,730
+messages<font color="#CCCCCC"> hold</font><font color="#E5E5E5"> down</font><font color="#CCCCCC"> the camera button to</font>
+
+4
+00:00:14,730 --> 00:00:21,210
+record<font color="#E5E5E5"> a video the receiver has the</font>
+
+5
+00:00:21,210 --> 00:00:22,980
+option of<font color="#CCCCCC"> keeping the video</font><font color="#E5E5E5"> before it</font>
+
+6
+00:00:22,980 --> 00:00:25,289
+<font color="#E5E5E5">self-destructs</font><font color="#CCCCCC"> which will happen two</font>
+
+7
+00:00:25,289 --> 00:00:28,130
+minutes after<font color="#E5E5E5"> the receiver</font><font color="#CCCCCC"> presses play</font>
+
+8
+00:00:28,130 --> 00:00:39,540
+if you do the same thing with audio the
+
+9
+00:00:39,540 --> 00:00:41,250
+self-destruct feature<font color="#E5E5E5"> only applies to</font>
+
+10
+00:00:41,250 --> 00:00:43,020
+audio<font color="#E5E5E5"> and video created within the</font>
+
+11
+00:00:43,020 --> 00:00:45,600
+<font color="#CCCCCC">messaging thread so if you</font><font color="#E5E5E5"> attach audio</font>
+
+12
+00:00:45,600 --> 00:00:47,610
+or video created elsewhere<font color="#CCCCCC"> it won't</font>
+
+13
+00:00:47,610 --> 00:00:00,000
+disappear
+

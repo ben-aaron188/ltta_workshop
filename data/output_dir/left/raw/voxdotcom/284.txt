@@ -1,0 +1,600 @@
+1
+00:00:02,740 --> 00:00:03,820
+This is me.
+
+2
+00:00:03,820 --> 00:00:05,360
+I'm about to go scuba diving
+
+3
+00:00:05,360 --> 00:00:07,360
+for the first time ever.
+
+4
+00:00:13,380 --> 00:00:16,020
+I went in expecting muffled peace and quiet.
+
+5
+00:00:16,020 --> 00:00:20,240
+I mean, one of the earliest documentaries
+on underwater life was literally called “The
+
+6
+00:00:20,240 --> 00:00:21,240
+Silent World”.
+
+7
+00:00:21,240 --> 00:00:26,720
+“They roamed deep under the Mediterranean,
+the Red Sea, and the Indian Ocean, in a mysterious
+
+8
+00:00:26,720 --> 00:00:28,840
+realm, a silent world.”
+
+9
+00:00:31,400 --> 00:00:35,600
+But as soon as I got down a few yards, I couldn't
+help but notice sound all around me.
+
+10
+00:00:35,600 --> 00:00:39,700
+It was hard to tell what direction it was
+coming from, or how far away it was.
+
+11
+00:00:39,700 --> 00:00:43,940
+It was coming from boats above me.
+
+12
+00:00:45,400 --> 00:00:49,480
+As far as I can tell, the Earth’s water
+is not as quiet as I thought.
+
+13
+00:00:49,480 --> 00:00:54,000
+I’ve been binging this podcast all about
+sound, and they've been looking into this too
+
+14
+00:00:54,480 --> 00:00:56,520
+"From DeFacto Sound, you’re listening to
+
+15
+00:00:56,520 --> 00:01:01,320
+Twenty Thousand Hertz: The stories behind the
+world’s most recognizable and interesting
+
+16
+00:01:01,320 --> 00:01:02,100
+sounds.
+
+17
+00:01:02,120 --> 00:01:03,420
+I’m Dallas Taylor."
+
+18
+00:01:03,420 --> 00:01:07,760
+So Dallas — life underwater can be pretty
+loud, right?
+
+19
+00:01:08,460 --> 00:01:09,420
+It can!
+
+20
+00:01:09,420 --> 00:01:17,210
+Just listen to these toadfish— they oscillate
+their swim bladders to make sounds that are
+
+21
+00:01:17,210 --> 00:01:22,100
+loud enough to keep houseboat residents in
+Sausalito, California up at night.
+
+22
+00:01:22,100 --> 00:01:30,050
+Or these Barred Grunt fish, that make a grinding
+sound with the teeth in their gullet.
+
+23
+00:01:30,050 --> 00:01:34,550
+Or these snapping shrimp — they produce a sound by creating
+
+24
+00:01:34,550 --> 00:01:36,940
+tiny popping bubbles with their claws.
+
+25
+00:01:36,940 --> 00:01:39,760
+It’s been measured at 200 decibels.
+
+26
+00:01:39,760 --> 00:01:42,520
+That’s louder than a gunshot.
+
+27
+00:01:46,300 --> 00:01:50,730
+Light doesn’t penetrate very deep in water,
+so a lot of ocean life has evolved to use
+
+28
+00:01:50,730 --> 00:01:53,410
+sound as its primary sense.
+
+29
+00:01:53,410 --> 00:01:58,190
+Because water particles are more densely packed
+together than air, sound travels farther and
+
+30
+00:01:58,190 --> 00:02:00,420
+faster in water.
+
+31
+00:02:00,420 --> 00:02:05,140
+That makes it an efficient medium of communication
+at any depth or time of day.
+
+32
+00:02:06,920 --> 00:02:11,680
+“Let's say we had 440, like the middle
+key of your piano, or whatever.”
+
+33
+00:02:11,689 --> 00:02:17,879
+That’s John Hildebrand, he’s a professor
+at the Scripps Institution of Oceanography.
+
+34
+00:02:17,879 --> 00:02:22,019
+He's an expert in the field of underwater
+sound and how it’s used by and how it affects
+
+35
+00:02:22,019 --> 00:02:23,019
+marine mammals.
+
+36
+00:02:23,019 --> 00:02:29,760
+“If you looked at the wavelength of that
+sound in air, that note, the 440 note, would
+
+37
+00:02:29,760 --> 00:02:33,018
+be a little bit less than a meter long.
+
+38
+00:02:33,018 --> 00:02:38,859
+In water, it's more like several meters
+long.”
+
+39
+00:02:38,859 --> 00:02:43,709
+What that means is that noise travels about
+four times faster and farther in water than
+
+40
+00:02:43,709 --> 00:02:45,180
+it does in air.
+
+41
+00:02:45,180 --> 00:02:50,720
+In an experiment in 1991, sound emitted from
+Heard Island was picked up at 16 sites in
+
+42
+00:02:50,720 --> 00:02:53,720
+the Atlantic, Pacific, and Indian Oceans.
+
+43
+00:02:53,720 --> 00:02:57,889
+It turns out that one of the most common noises
+in the entire ocean that can be picked up
+
+44
+00:02:57,889 --> 00:03:01,160
+almost anywhere these days, sounds like this:
+
+45
+00:03:03,900 --> 00:03:05,900
+It's the sound of boats.
+
+46
+00:03:07,860 --> 00:03:12,180
+Noise from ship traffic has doubled every
+decade since the 1960s.
+
+47
+00:03:12,180 --> 00:03:17,740
+“Basically, anywhere you go, the ambient
+noise in the ocean is dominated by anthropogenic
+
+48
+00:03:17,740 --> 00:03:18,240
+sound.”
+
+49
+00:03:18,620 --> 00:03:23,779
+“Let's say I made a measurement 30 years
+ago and now if I went to the same place and
+
+50
+00:03:23,779 --> 00:03:29,629
+made the same measurement, it would be 10
+dBs or more higher sound level than what I
+
+51
+00:03:29,629 --> 00:03:31,819
+measured when I started my career.
+
+52
+00:03:31,819 --> 00:03:32,939
+That’s spooky.”
+
+53
+00:03:32,939 --> 00:03:37,019
+That’s a huge problem for animals that use
+sound as their primary sense.
+
+54
+00:03:37,019 --> 00:03:40,920
+Just listen to this audio of how noise from
+a passing boat totally drowns out dolphin
+
+55
+00:03:40,920 --> 00:03:42,280
+communication.
+
+56
+00:04:01,920 --> 00:04:07,000
+But arguably the worst culprit of underwater
+sound pollution is a process that sounds like this:
+
+57
+00:04:11,480 --> 00:04:13,480
+This is seismic surveying.
+
+58
+00:04:18,079 --> 00:04:21,029
+It’s a process that allows companies to
+locate spots on the ocean floor where they
+
+59
+00:04:21,029 --> 00:04:23,229
+can drill for fossil fuels.
+
+60
+00:04:23,229 --> 00:04:27,810
+Boats with about 30-40 airguns that all go
+off at once will move back and forth over large
+
+61
+00:04:27,810 --> 00:04:29,460
+parts of the ocean.
+
+62
+00:04:29,460 --> 00:04:34,110
+Bubbles from the horns expand and contract
+typically every 10 seconds, creating a huge
+
+63
+00:04:34,110 --> 00:04:38,759
+amount of acoustic energy that maps geological
+structures deep in the ocean floor.
+
+64
+00:04:38,760 --> 00:04:41,640
+And it’s about as loud as a jet at takeoff.
+
+65
+00:04:45,000 --> 00:04:48,120
+This can go on for weeks at a time.
+
+66
+00:04:52,000 --> 00:04:57,319
+A study of seismic survey noise between 1999
+and 2009 found that airgun sounds were recorded
+
+67
+00:04:57,319 --> 00:05:01,069
+almost 2500 miles away from the survey ship
+itself.
+
+68
+00:05:01,069 --> 00:05:04,990
+At some locations, they were recorded on 80
+percent of days for over a year.
+
+69
+00:05:04,990 --> 00:05:07,419
+And that changes how animals behave.
+
+70
+00:05:07,419 --> 00:05:11,290
+A study by the Institute of Marine Science
+at the University of North Carolina found
+
+71
+00:05:11,290 --> 00:05:16,139
+that reef fish abundance decreased by 78 percent
+during seismic surveying.
+
+72
+00:05:16,139 --> 00:05:19,840
+This is what the reef looked like before seismic
+surveying in the area.
+
+73
+00:05:19,840 --> 00:05:23,440
+And this is what it looked like after.
+
+74
+00:05:23,440 --> 00:05:26,400
+“Seismic surveying is a constroversial topic at the
+coast
+
+75
+00:05:26,400 --> 00:05:29,400
+and new research is only adding to the conversation.
+
+76
+00:05:29,400 --> 00:05:32,320
+“One of those impacted is local fisherman
+Jack Cox.
+
+77
+00:05:32,340 --> 00:05:36,470
+He’s seen firsthand the impact seismic
+surveying has on fish.”
+
+78
+00:05:36,480 --> 00:05:40,800
+“It does something, that — we just don’t catch fish.
+
+79
+00:05:40,800 --> 00:05:45,509
+For animals like whales — who rely on complex
+sound communication systems to socialize,
+
+80
+00:05:45,509 --> 00:05:49,650
+find food, and mate — that poses a huge
+problem.
+
+81
+00:05:49,650 --> 00:05:53,480
+If you watch this heat map from a study of
+endangered North Atlantic right whales, you
+
+82
+00:05:53,480 --> 00:05:58,259
+can see that shipping paths near Boston squeeze
+the whales into a tiny space where communication
+
+83
+00:05:58,259 --> 00:06:01,900
+is possible — it's about a third of what
+it was without the ships.
+
+84
+00:06:01,900 --> 00:06:06,689
+Susan Parks, a biology professor at Syracuse,
+recorded right whale sounds throughout the
+
+85
+00:06:06,689 --> 00:06:08,040
+early 2000s.
+
+86
+00:06:08,040 --> 00:06:12,639
+And when she compared her audio to some that had
+been recorded in 1956, she noticed that the
+
+87
+00:06:12,640 --> 00:06:15,760
+older sounds were much deeper than her high-pitched
+recordings.
+
+88
+00:06:31,120 --> 00:06:35,039
+It turns out that the whales had started calling
+at higher and higher frequencies in order
+
+89
+00:06:35,040 --> 00:06:38,080
+to hear each other over the hum of ship noise.
+
+90
+00:06:42,030 --> 00:06:46,720
+Apart from habitat displacement and communication
+changes, there’s also evidence that boat
+
+91
+00:06:46,759 --> 00:06:49,840
+noise simply stresses these whales out.
+
+92
+00:06:49,840 --> 00:06:54,419
+After the September 11th attacks, researchers
+in Canada’s Bay of Fundy compared underwater
+
+93
+00:06:54,419 --> 00:06:58,569
+noise levels during a period of reduced ship
+traffic to the stress-related hormone levels
+
+94
+00:06:58,569 --> 00:07:00,289
+in the right whale population.
+
+95
+00:07:00,289 --> 00:07:05,400
+They discovered a 6 decibel noise decrease
+in the bay after 9/11, which correlated to
+
+96
+00:07:05,400 --> 00:07:08,740
+lower baseline levels of stress related hormones.
+
+97
+00:07:08,740 --> 00:07:11,380
+Effects like this go all the way down the
+food chain.
+
+98
+00:07:11,389 --> 00:07:15,620
+A 2017 study found that there were two to
+three times more dead zooplankton after after
+
+99
+00:07:15,620 --> 00:07:18,310
+a day of blasts from a single airgun.
+
+100
+00:07:18,310 --> 00:07:23,289
+And the larvae of krill, which whales rely
+on for food, were totally destroyed.
+
+101
+00:07:23,289 --> 00:07:28,600
+In April 2017, Donald Trump signed an executive
+order to open offshore drilling in the Atlantic.
+
+102
+00:07:28,600 --> 00:07:32,970
+It directed the Interior Department to consider
+allowing seismic exploration by 5 companies
+
+103
+00:07:32,970 --> 00:07:34,930
+that had been blocked under the Obama administration.
+
+104
+00:07:34,930 --> 00:07:39,289
+It’s getting widespread pushback in Congress
+— there’s a bipartisan House bill and
+
+105
+00:07:39,289 --> 00:07:43,819
+Democrat-led Senate bill to ban seismic testing
+— but if those authorizations go through,
+
+106
+00:07:43,819 --> 00:07:48,199
+companies could be conducting seismic testing
+in the Atlantic by Fall 2017.
+
+107
+00:07:48,199 --> 00:07:51,330
+So… is there any good news?
+
+108
+00:07:51,330 --> 00:07:53,520
+Yes, there is.
+
+109
+00:07:53,520 --> 00:07:58,349
+In 2014, the International Maritime Organization
+adopted guidelines for reducing commercial
+
+110
+00:07:58,349 --> 00:08:03,569
+ship noise levels with things like noise-muffling
+propellers and insulated engines — though
+
+111
+00:08:03,569 --> 00:08:05,849
+they’re not mandatory yet.
+
+112
+00:08:05,849 --> 00:08:09,819
+A year later, the US Navy agreed to limit
+sonar testing — which has been linked to
+
+113
+00:08:09,819 --> 00:08:14,169
+whales stranding themselves on beaches in
+habitats near Southern California and Hawaii
+
+114
+00:08:14,169 --> 00:08:17,050
+— following a lawsuit from environmental
+groups.
+
+115
+00:08:17,050 --> 00:08:22,389
+And in June 2016, the National Oceanic and
+Atmospheric Administration laid out an Ocean
+
+116
+00:08:22,389 --> 00:08:23,879
+Noise Strategy Roadmap.
+
+117
+00:08:23,879 --> 00:08:28,669
+It’s the start of a 10-year plan to assess
+the human impact on underwater sound and the
+
+118
+00:08:28,669 --> 00:08:32,520
+measures required to reduce it.
+
+119
+00:08:32,520 --> 00:08:34,520
+Seismic surveys can work better, too.
+
+120
+00:08:34,520 --> 00:08:38,980
+Norway has started multi-client surveys, so
+that seismic data from a particular area is
+
+121
+00:08:38,980 --> 00:08:40,490
+only collected once.
+
+122
+00:08:40,490 --> 00:08:43,520
+US authorities are considering a similar process.
+
+123
+00:08:45,520 --> 00:08:48,030
+The ocean is huge.
+
+124
+00:08:49,240 --> 00:08:51,800
+We’ve explored less than 5 percent of it
+so far.
+
+125
+00:08:51,820 --> 00:08:57,640
+So it’s easy to forget that what we do on
+the surface affects everything down below.
+
+126
+00:08:57,640 --> 00:09:02,450
+But like plastic, chemicals, and waste, noise
+pollutes our oceans.
+
+127
+00:09:02,450 --> 00:09:06,040
+Understanding that is key to doing our part
+to protect it.
+
+128
+00:09:09,960 --> 00:09:13,920
+Thank you so much for watching, we loved doing
+this collaboration with Twenty Thousand Hertz.
+
+129
+00:09:13,920 --> 00:09:18,200
+They create super highly produced podcasts that tell stories all about sound.
+
+130
+00:09:18,200 --> 00:09:22,520
+If you enjoyed this video, you should absolutely go check out their podcast on the exact same topic.
+
+131
+00:09:22,520 --> 00:00:00,000
+You can find that and subscribe at applepodcasts.com/20k.
+

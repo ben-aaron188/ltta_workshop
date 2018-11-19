@@ -1,0 +1,1996 @@
+1
+00:00:00,000 --> 00:00:01,680
+hello<font color="#E5E5E5"> everyone thanks for joining us</font>
+
+2
+00:00:01,680 --> 00:00:04,170
+we're joined today by two guests from GE
+
+3
+00:00:04,170 --> 00:00:06,480
+<font color="#E5E5E5">Linda</font><font color="#CCCCCC"> Boff the chief marketing officer</font>
+
+4
+00:00:06,480 --> 00:00:08,760
+and rusty<font color="#E5E5E5"> Irving chief engineer we're</font>
+
+5
+00:00:08,760 --> 00:00:09,960
+<font color="#E5E5E5">going to talk about the</font><font color="#CCCCCC"> industrial</font>
+
+6
+00:00:09,960 --> 00:00:11,880
+<font color="#CCCCCC">internet basically the incorporation of</font>
+
+7
+00:00:11,880 --> 00:00:14,190
+digital into all the big machines that
+
+8
+00:00:14,190 --> 00:00:16,199
+run our world and the evolution<font color="#CCCCCC"> of</font>
+
+9
+00:00:16,199 --> 00:00:17,490
+marketing which is in the midst of a
+
+10
+00:00:17,490 --> 00:00:20,520
+seismic shift right now so let's start
+
+11
+00:00:20,520 --> 00:00:23,550
+with the industrial Internet what is the
+
+12
+00:00:23,550 --> 00:00:24,960
+industrial<font color="#E5E5E5"> Internet and why should</font>
+
+13
+00:00:24,960 --> 00:00:26,640
+normal people care about so I'm<font color="#E5E5E5"> going to</font>
+
+14
+00:00:26,640 --> 00:00:28,650
+<font color="#E5E5E5">give you the normal people care about it</font>
+
+15
+00:00:28,650 --> 00:00:30,000
+and then rusty is going to go a little
+
+16
+00:00:30,000 --> 00:00:32,969
+bit<font color="#E5E5E5"> deeper if you will so maybe three</font>
+
+17
+00:00:32,969 --> 00:00:35,730
+<font color="#E5E5E5">four or five</font><font color="#CCCCCC"> years ago Henry</font><font color="#E5E5E5"> we sort of</font>
+
+18
+00:00:35,730 --> 00:00:37,739
+said look you<font color="#CCCCCC"> know GE has been about</font>
+
+19
+00:00:37,739 --> 00:00:39,780
+making<font color="#E5E5E5"> things we have this deep deep</font>
+
+20
+00:00:39,780 --> 00:00:41,790
+heritage and manufacturing but the
+
+21
+00:00:41,790 --> 00:00:43,559
+future is going to be about making and
+
+22
+00:00:43,559 --> 00:00:46,110
+connecting machines big iron meets big
+
+23
+00:00:46,110 --> 00:00:48,360
+data if you will and we kind of helped
+
+24
+00:00:48,360 --> 00:00:51,030
+coin this term industrial internet the
+
+25
+00:00:51,030 --> 00:00:53,370
+<font color="#E5E5E5">Internet</font><font color="#CCCCCC"> of really big things and this</font>
+
+26
+00:00:53,370 --> 00:00:55,260
+is the future of the<font color="#E5E5E5"> company I mean this</font>
+
+27
+00:00:55,260 --> 00:00:58,469
+is<font color="#CCCCCC"> a major pivot for us we've got as I</font>
+
+28
+00:00:58,469 --> 00:00:59,550
+think you and I have<font color="#E5E5E5"> talked about before</font>
+
+29
+00:00:59,550 --> 00:01:02,370
+<font color="#E5E5E5">on a big group of people</font><font color="#CCCCCC"> in san ramon</font>
+
+30
+00:01:02,370 --> 00:01:04,349
+you know<font color="#E5E5E5"> maybe a thousand people in san</font>
+
+31
+00:01:04,349 --> 00:01:07,049
+ramon we opened maybe three weeks<font color="#E5E5E5"> ago</font>
+
+32
+00:01:07,049 --> 00:01:09,330
+sort of mini version of san ramon a
+
+33
+00:01:09,330 --> 00:01:11,939
+foundry in Paris will have one in Boston
+
+34
+00:01:11,939 --> 00:01:14,159
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> our new headquarters we're hiring</font>
+
+35
+00:01:14,159 --> 00:01:15,840
+software engineers and computer
+
+36
+00:01:15,840 --> 00:01:18,540
+scientists because we you know for<font color="#E5E5E5"> us</font>
+
+37
+00:01:18,540 --> 00:01:19,950
+the industrial Internet is new you'll
+
+38
+00:01:19,950 --> 00:01:21,450
+hear this from rusty is all about
+
+39
+00:01:21,450 --> 00:01:23,670
+driving outcomes for our customers so
+
+40
+00:01:23,670 --> 00:01:25,650
+you know rusty all I'll turn to you to
+
+41
+00:01:25,650 --> 00:01:27,210
+sort<font color="#E5E5E5"> of help dimensionalize this a</font>
+
+42
+00:01:27,210 --> 00:01:29,460
+little bit right and you<font color="#CCCCCC"> know consumers</font>
+
+43
+00:01:29,460 --> 00:01:30,930
+are<font color="#E5E5E5"> very familiar with the internet we</font>
+
+44
+00:01:30,930 --> 00:01:32,670
+<font color="#CCCCCC">watched through the 90s up through today</font>
+
+45
+00:01:32,670 --> 00:01:34,560
+how you went from you know very static
+
+46
+00:01:34,560 --> 00:01:36,540
+pages to get<font color="#CCCCCC"> information about products</font>
+
+47
+00:01:36,540 --> 00:01:38,549
+to being able<font color="#E5E5E5"> to purchase products to</font>
+
+48
+00:01:38,549 --> 00:01:40,710
+today having proc products recommended
+
+49
+00:01:40,710 --> 00:01:42,720
+to you will all interconnected we have
+
+50
+00:01:42,720 --> 00:01:44,490
+many channels to interact with<font color="#CCCCCC"> each</font>
+
+51
+00:01:44,490 --> 00:01:47,070
+other all digital so now all of a sudden
+
+52
+00:01:47,070 --> 00:01:49,350
+industrial<font color="#CCCCCC"> internet is replace kind of</font>
+
+53
+00:01:49,350 --> 00:01:51,750
+the people as the<font color="#E5E5E5"> subject matter with</font>
+
+54
+00:01:51,750 --> 00:01:54,630
+things or our industrial machines except
+
+55
+00:01:54,630 --> 00:01:56,159
+that you need a much more heavyweight
+
+56
+00:01:56,159 --> 00:01:57,810
+type of<font color="#CCCCCC"> Internet to be able</font><font color="#E5E5E5"> to do this</font>
+
+57
+00:01:57,810 --> 00:02:00,270
+because the data is much more enormous
+
+58
+00:02:00,270 --> 00:02:02,340
+much greater<font color="#CCCCCC"> in size and much more</font>
+
+59
+00:02:02,340 --> 00:02:05,219
+complex to understand so with the advent
+
+60
+00:02:05,219 --> 00:02:06,990
+of cloud computing is really
+
+61
+00:02:06,990 --> 00:02:08,459
+one of the trends that enabled us to
+
+62
+00:02:08,459 --> 00:02:10,440
+take<font color="#E5E5E5"> advantage of it and build something</font>
+
+63
+00:02:10,440 --> 00:02:12,270
+that's<font color="#E5E5E5"> heavyweight enough for us to</font>
+
+64
+00:02:12,270 --> 00:02:14,400
+build<font color="#E5E5E5"> an internet for our assets and</font>
+
+65
+00:02:14,400 --> 00:02:15,959
+make them work better for customers so
+
+66
+00:02:15,959 --> 00:02:17,760
+let's talk about<font color="#E5E5E5"> specifics so you make</font>
+
+67
+00:02:17,760 --> 00:02:19,950
+the engines that power<font color="#CCCCCC"> the Dreamliner</font>
+
+68
+00:02:19,950 --> 00:02:21,630
+the<font color="#CCCCCC"> new Boeing plans that everybody</font>
+
+69
+00:02:21,630 --> 00:02:25,319
+loves they're all industrial<font color="#CCCCCC"> internet</font>
+
+70
+00:02:25,319 --> 00:02:27,239
+eyes<font color="#E5E5E5"> too they're filled with sensors</font>
+
+71
+00:02:27,239 --> 00:02:29,420
+what does<font color="#E5E5E5"> that do how does</font><font color="#CCCCCC"> that help</font>
+
+72
+00:02:29,420 --> 00:02:31,980
+sure so you know even at the most basic
+
+73
+00:02:31,980 --> 00:02:34,709
+level we take three parameters for each
+
+74
+00:02:34,709 --> 00:02:36,450
+of those engines and we can take many
+
+75
+00:02:36,450 --> 00:02:38,670
+more but just with the basic parameters
+
+76
+00:02:38,670 --> 00:02:41,310
+of exhaust gas temperature fuel flow in
+
+77
+00:02:41,310 --> 00:02:43,110
+core speed we're able to just take
+
+78
+00:02:43,110 --> 00:02:45,120
+measurements throughout the flight look
+
+79
+00:02:45,120 --> 00:02:47,130
+at them trend them and understand the
+
+80
+00:02:47,130 --> 00:02:49,110
+health of each<font color="#CCCCCC"> and every engine</font><font color="#E5E5E5"> just</font>
+
+81
+00:02:49,110 --> 00:02:50,819
+like you go<font color="#E5E5E5"> to the doctor may take your</font>
+
+82
+00:02:50,819 --> 00:02:52,260
+temperature of blood pressure and
+
+83
+00:02:52,260 --> 00:02:53,670
+they're a great indicator of how you're
+
+84
+00:02:53,670 --> 00:02:55,799
+doing we trend that we learn<font color="#CCCCCC"> about the</font>
+
+85
+00:02:55,799 --> 00:02:58,080
+engines when we<font color="#E5E5E5"> segment them and then</font>
+
+86
+00:02:58,080 --> 00:03:00,030
+that<font color="#CCCCCC"> allows us to advise our customers</font>
+
+87
+00:03:00,030 --> 00:03:02,580
+had it get more out of<font color="#E5E5E5"> them how to fly</font>
+
+88
+00:03:02,580 --> 00:03:04,290
+<font color="#E5E5E5">them in ways in which they last longer</font>
+
+89
+00:03:04,290 --> 00:03:06,299
+and be able<font color="#E5E5E5"> to predict how much life</font>
+
+90
+00:03:06,299 --> 00:03:08,220
+they have so you can schedule when they
+
+91
+00:03:08,220 --> 00:03:09,690
+need<font color="#E5E5E5"> to come</font><font color="#CCCCCC"> over wing for me which</font>
+
+92
+00:03:09,690 --> 00:03:11,250
+saves them a lot<font color="#CCCCCC"> of money and</font><font color="#E5E5E5"> do you get</font>
+
+93
+00:03:11,250 --> 00:03:14,579
+advance warning of problems yeah they're
+
+94
+00:03:14,579 --> 00:03:16,650
+one of the locomotives is this<font color="#E5E5E5"> I get</font>
+
+95
+00:03:16,650 --> 00:03:19,290
+where the heavy of weight nature of what
+
+96
+00:03:19,290 --> 00:03:21,239
+we're<font color="#CCCCCC"> doing</font><font color="#E5E5E5"> really matters taking in</font>
+
+97
+00:03:21,239 --> 00:03:23,190
+massive amounts<font color="#CCCCCC"> of information and</font>
+
+98
+00:03:23,190 --> 00:03:24,810
+looking at maybe the one<font color="#E5E5E5"> or two</font>
+
+99
+00:03:24,810 --> 00:03:26,459
+<font color="#E5E5E5">anomalies you're seeing you can start</font>
+
+100
+00:03:26,459 --> 00:03:28,470
+the postulate is that a trend we should
+
+101
+00:03:28,470 --> 00:03:30,480
+be concerned<font color="#CCCCCC"> about you know one of the</font>
+
+102
+00:03:30,480 --> 00:03:31,500
+<font color="#CCCCCC">things that's actually happened to</font><font color="#E5E5E5"> our</font>
+
+103
+00:03:31,500 --> 00:03:33,480
+<font color="#E5E5E5">planet in the last 10 to 15 years is</font>
+
+104
+00:03:33,480 --> 00:03:35,310
+something called the dust belt we have
+
+105
+00:03:35,310 --> 00:03:36,540
+<font color="#CCCCCC">these particulate matter in the</font>
+
+106
+00:03:36,540 --> 00:03:38,100
+atmosphere in certain parts or the
+
+107
+00:03:38,100 --> 00:03:40,350
+engines that fly<font color="#CCCCCC"> through that don't last</font>
+
+108
+00:03:40,350 --> 00:03:42,510
+quite as long as on the ones that don't
+
+109
+00:03:42,510 --> 00:03:44,430
+fly through<font color="#CCCCCC"> it so</font><font color="#E5E5E5"> we're able to spot</font>
+
+110
+00:03:44,430 --> 00:03:46,620
+those trends much earlier and be able to
+
+111
+00:03:46,620 --> 00:03:48,450
+<font color="#E5E5E5">treat the engines before any real</font>
+
+112
+00:03:48,450 --> 00:03:50,370
+problems<font color="#E5E5E5"> are honored one</font><font color="#CCCCCC"> of the concepts</font>
+
+113
+00:03:50,370 --> 00:03:53,639
+and rain that we talked about<font color="#CCCCCC"> on is the</font>
+
+114
+00:03:53,639 --> 00:03:55,440
+<font color="#E5E5E5">the advantage of having no unplanned</font>
+
+115
+00:03:55,440 --> 00:03:57,900
+downtime and<font color="#E5E5E5"> if you're operating in</font>
+
+116
+00:03:57,900 --> 00:04:00,780
+industry unfound unplanned downtime is a
+
+117
+00:04:00,780 --> 00:04:03,000
+bad thing that's kind of your animate
+
+118
+00:04:03,000 --> 00:04:04,920
+right so a lot of what we're<font color="#E5E5E5"> trying to</font>
+
+119
+00:04:04,920 --> 00:04:07,049
+drive with the industrial<font color="#CCCCCC"> internet you</font>
+
+120
+00:04:07,049 --> 00:04:08,400
+know we<font color="#CCCCCC"> talked about GE is a digital</font>
+
+121
+00:04:08,400 --> 00:04:10,590
+industrial company is to help our
+
+122
+00:04:10,590 --> 00:04:13,680
+customers manage their their their
+
+123
+00:04:13,680 --> 00:04:15,690
+<font color="#E5E5E5">downtime their assets and the amount of</font>
+
+124
+00:04:15,690 --> 00:04:17,639
+time that<font color="#CCCCCC"> they're operational</font><font color="#E5E5E5"> in a much</font>
+
+125
+00:04:17,639 --> 00:04:19,649
+more<font color="#E5E5E5"> efficient way and</font><font color="#CCCCCC"> so is this</font>
+
+126
+00:04:19,649 --> 00:04:20,810
+something<font color="#CCCCCC"> that</font>
+
+127
+00:04:20,810 --> 00:04:23,450
+folks who fly just<font color="#E5E5E5"> about all of us can</font>
+
+128
+00:04:23,450 --> 00:04:25,430
+<font color="#E5E5E5">look forward to in fewer delays fewer</font>
+
+129
+00:04:25,430 --> 00:04:27,200
+surprises fewer notification with the
+
+130
+00:04:27,200 --> 00:04:28,760
+cockpit oh we've just discovered that
+
+131
+00:04:28,760 --> 00:04:31,040
+<font color="#E5E5E5">the engine</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> broken and we need the TV</font>
+
+132
+00:04:31,040 --> 00:04:32,870
+team to come fix it right we've all
+
+133
+00:04:32,870 --> 00:04:34,280
+probably been on playing at<font color="#E5E5E5"> least once</font>
+
+134
+00:04:34,280 --> 00:04:35,630
+if you fly a lot and all of a sudden
+
+135
+00:04:35,630 --> 00:04:37,070
+<font color="#CCCCCC">just about the time you think you're</font>
+
+136
+00:04:37,070 --> 00:04:39,290
+leaving the gate the pilot comes on<font color="#CCCCCC"> and</font>
+
+137
+00:04:39,290 --> 00:04:40,610
+tells<font color="#E5E5E5"> you they got a light</font><font color="#CCCCCC"> on or</font>
+
+138
+00:04:40,610 --> 00:04:42,200
+something<font color="#E5E5E5"> you know this</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> going to</font>
+
+139
+00:04:42,200 --> 00:04:43,910
+reduce<font color="#E5E5E5"> the number of times that happens</font>
+
+140
+00:04:43,910 --> 00:04:46,100
+tremendously on and you know how<font color="#E5E5E5"> it</font>
+
+141
+00:04:46,100 --> 00:04:48,950
+affects consumers right um you know it
+
+142
+00:04:48,950 --> 00:04:50,600
+will lower their fuel consumption for
+
+143
+00:04:50,600 --> 00:04:52,010
+instance right so should be able to
+
+144
+00:04:52,010 --> 00:04:54,110
+<font color="#CCCCCC">offer more competitive pricing on on</font>
+
+145
+00:04:54,110 --> 00:04:57,290
+tickets and<font color="#E5E5E5"> Linda you mentioned it to</font>
+
+146
+00:04:57,290 --> 00:04:59,570
+<font color="#E5E5E5">build out this business and incorporated</font>
+
+147
+00:04:59,570 --> 00:05:01,400
+in everything that she does you actually
+
+148
+00:05:01,400 --> 00:05:04,370
+opened a huge new division in Silicon
+
+149
+00:05:04,370 --> 00:05:06,800
+Valley you had an advertisement that
+
+150
+00:05:06,800 --> 00:05:08,330
+went along with it that everybody like
+
+151
+00:05:08,330 --> 00:05:10,340
+where the engineer announces to his
+
+152
+00:05:10,340 --> 00:05:12,080
+friends that he works for GE and it's
+
+153
+00:05:12,080 --> 00:05:13,669
+not why would<font color="#CCCCCC"> you ever do that while</font>
+
+154
+00:05:13,669 --> 00:05:14,930
+it's actually exciting and I work on
+
+155
+00:05:14,930 --> 00:05:17,990
+trains and<font color="#CCCCCC"> thinks how important</font><font color="#E5E5E5"> is that</font>
+
+156
+00:05:17,990 --> 00:05:19,729
+piece of<font color="#E5E5E5"> it I mean are we now going to</font>
+
+157
+00:05:19,729 --> 00:05:21,290
+expect airlines to know how to interpret
+
+158
+00:05:21,290 --> 00:05:22,850
+<font color="#E5E5E5">all this data are you doing</font><font color="#CCCCCC"> that for</font>
+
+159
+00:05:22,850 --> 00:05:25,880
+<font color="#CCCCCC">them well i would say in you know rusty</font>
+
+160
+00:05:25,880 --> 00:05:28,479
+<font color="#E5E5E5">old jump in here you know I</font><font color="#CCCCCC"> think for GE</font>
+
+161
+00:05:28,479 --> 00:05:32,600
+we're 124 years old 124 year old stored
+
+162
+00:05:32,600 --> 00:05:34,729
+up if you will and people know us well
+
+163
+00:05:34,729 --> 00:05:36,860
+they think<font color="#CCCCCC"> of us a certain way</font><font color="#E5E5E5"> I think</font>
+
+164
+00:05:36,860 --> 00:05:40,150
+as we have added<font color="#CCCCCC"> this whole layer of</font>
+
+165
+00:05:40,150 --> 00:05:42,860
+analytics predictive analytics data
+
+166
+00:05:42,860 --> 00:05:45,890
+having<font color="#E5E5E5"> the public if you will from a</font>
+
+167
+00:05:45,890 --> 00:05:47,720
+brand point of view think of us as a
+
+168
+00:05:47,720 --> 00:05:49,669
+company that<font color="#CCCCCC"> is this hybrid of digital</font>
+
+169
+00:05:49,669 --> 00:05:52,160
+and industrial is important talent is a
+
+170
+00:05:52,160 --> 00:05:55,100
+big piece<font color="#E5E5E5"> of that so the fun campaign</font>
+
+171
+00:05:55,100 --> 00:05:57,800
+you referred<font color="#CCCCCC"> to this idea</font><font color="#E5E5E5"> of a developer</font>
+
+172
+00:05:57,800 --> 00:06:00,200
+sort of telling his perplexed friends
+
+173
+00:06:00,200 --> 00:06:02,870
+that he now works for GE well it's light
+
+174
+00:06:02,870 --> 00:06:05,180
+and it's marketing there's a there's a
+
+175
+00:06:05,180 --> 00:06:08,500
+truth to it which is we are now bringing
+
+176
+00:06:08,500 --> 00:06:11,090
+hundreds now thousands of<font color="#CCCCCC"> people to work</font>
+
+177
+00:06:11,090 --> 00:06:13,370
+<font color="#CCCCCC">for GE in a completely new capacity and</font>
+
+178
+00:06:13,370 --> 00:06:15,889
+that leads to a new type of behavior I
+
+179
+00:06:15,889 --> 00:06:17,690
+mean rusty you might talk a little bit
+
+180
+00:06:17,690 --> 00:06:19,760
+about what you do is in the digital twin
+
+181
+00:06:19,760 --> 00:06:21,710
+because that's a piece of this sure<font color="#CCCCCC"> but</font>
+
+182
+00:06:21,710 --> 00:06:24,110
+you<font color="#CCCCCC"> know in to the point</font><font color="#E5E5E5"> to about you</font>
+
+183
+00:06:24,110 --> 00:06:26,500
+know<font color="#CCCCCC"> our starting</font><font color="#E5E5E5"> up a brand new</font>
+
+184
+00:06:26,500 --> 00:06:29,479
+division of GE GE digital based in San
+
+185
+00:06:29,479 --> 00:06:31,770
+monona yes we had a ghost somewhere
+
+186
+00:06:31,770 --> 00:06:33,720
+and really dip into that ecosystem and
+
+187
+00:06:33,720 --> 00:06:36,180
+find the digital<font color="#CCCCCC"> talent what makes us so</font>
+
+188
+00:06:36,180 --> 00:06:38,129
+powerful in this is that we've married
+
+189
+00:06:38,129 --> 00:06:40,830
+it with our legacy industrial know how
+
+190
+00:06:40,830 --> 00:06:42,930
+you know the deep physics knowledge that
+
+191
+00:06:42,930 --> 00:06:44,280
+we<font color="#CCCCCC"> have</font><font color="#E5E5E5"> about these machines and when</font>
+
+192
+00:06:44,280 --> 00:06:46,080
+you put<font color="#E5E5E5"> these things together it's a</font>
+
+193
+00:06:46,080 --> 00:06:48,840
+very powerful<font color="#E5E5E5"> thing so one of the work</font>
+
+194
+00:06:48,840 --> 00:06:51,180
+on one of our killer apps built on top
+
+195
+00:06:51,180 --> 00:06:52,650
+<font color="#CCCCCC">of the industrial internet there's</font>
+
+196
+00:06:52,650 --> 00:06:54,599
+something we call the digital twin so
+
+197
+00:06:54,599 --> 00:06:56,430
+for every one of these aircraft engines
+
+198
+00:06:56,430 --> 00:06:58,680
+or local motors<font color="#E5E5E5"> that we make will also</font>
+
+199
+00:06:58,680 --> 00:07:00,599
+have its digital torn think of it as the
+
+200
+00:07:00,599 --> 00:07:03,840
+<font color="#E5E5E5">you know medical record of that asset so</font>
+
+201
+00:07:03,840 --> 00:07:05,639
+we track it as it goes<font color="#CCCCCC"> through its</font>
+
+202
+00:07:05,639 --> 00:07:07,860
+<font color="#E5E5E5">lifecycle from when it was built and</font>
+
+203
+00:07:07,860 --> 00:07:10,229
+commissioned to how it operates and
+
+204
+00:07:10,229 --> 00:07:12,210
+again using<font color="#CCCCCC"> the data that we get off</font><font color="#E5E5E5"> of</font>
+
+205
+00:07:12,210 --> 00:07:14,460
+<font color="#CCCCCC">that and the physics models that we have</font>
+
+206
+00:07:14,460 --> 00:07:16,229
+<font color="#E5E5E5">developed about that we can have very</font>
+
+207
+00:07:16,229 --> 00:07:18,539
+unique insights nobody else is able to
+
+208
+00:07:18,539 --> 00:07:21,690
+calculate again to tell how to get more
+
+209
+00:07:21,690 --> 00:07:23,310
+<font color="#E5E5E5">out of the asset and again</font><font color="#CCCCCC"> reduce that</font>
+
+210
+00:07:23,310 --> 00:07:26,909
+<font color="#CCCCCC">down time and how is how unusual is what</font>
+
+211
+00:07:26,909 --> 00:07:28,169
+you're doing relative everybody else
+
+212
+00:07:28,169 --> 00:07:29,909
+because<font color="#E5E5E5"> from the outside listening to</font>
+
+213
+00:07:29,909 --> 00:07:32,219
+lots of big manufacturing companies so
+
+214
+00:07:32,219 --> 00:07:33,870
+that everyone's<font color="#CCCCCC"> talking about digital as</font>
+
+215
+00:07:33,870 --> 00:07:36,539
+the next thing cloud cloud cloud is what
+
+216
+00:07:36,539 --> 00:07:38,520
+you're doing where is it<font color="#E5E5E5"> in the</font>
+
+217
+00:07:38,520 --> 00:07:41,550
+competitive so you know there are very
+
+218
+00:07:41,550 --> 00:07:43,199
+few companies in fact I<font color="#CCCCCC"> think we're</font>
+
+219
+00:07:43,199 --> 00:07:45,479
+singular in this way that<font color="#E5E5E5"> have the</font>
+
+220
+00:07:45,479 --> 00:07:49,050
+domain expertise right we know industry
+
+221
+00:07:49,050 --> 00:07:51,330
+we have been an industry for over a
+
+222
+00:07:51,330 --> 00:07:53,729
+century we're<font color="#CCCCCC"> taking that knowledge</font><font color="#E5E5E5"> of</font>
+
+223
+00:07:53,729 --> 00:07:56,729
+<font color="#CCCCCC">industry and adding the data component</font>
+
+224
+00:07:56,729 --> 00:07:58,500
+and frankly Henry<font color="#E5E5E5"> we're trying it on</font>
+
+225
+00:07:58,500 --> 00:08:00,479
+ourselves I mean<font color="#CCCCCC"> the</font><font color="#E5E5E5"> first several years</font>
+
+226
+00:08:00,479 --> 00:08:03,779
+<font color="#E5E5E5">of industrial Internet has been GE</font>
+
+227
+00:08:03,779 --> 00:08:06,029
+applying the technology that rusty and I
+
+228
+00:08:06,029 --> 00:08:08,009
+are talking<font color="#E5E5E5"> about to our own factories</font>
+
+229
+00:08:08,009 --> 00:08:11,130
+and our<font color="#CCCCCC"> own machines</font><font color="#E5E5E5"> it's kind of rare</font>
+
+230
+00:08:11,130 --> 00:08:14,039
+in this world that<font color="#E5E5E5"> somebody with our</font>
+
+231
+00:08:14,039 --> 00:08:16,110
+type of expertise can add that layer
+
+232
+00:08:16,110 --> 00:08:18,539
+sort of practice it on ourselves before
+
+233
+00:08:18,539 --> 00:08:21,449
+we introduce it to customers so you know
+
+234
+00:08:21,449 --> 00:08:24,120
+we think<font color="#E5E5E5"> of it as sort of a you know our</font>
+
+235
+00:08:24,120 --> 00:08:26,729
+industrial<font color="#E5E5E5"> superpowers meeting data and</font>
+
+236
+00:08:26,729 --> 00:08:29,250
+analytics you<font color="#CCCCCC"> know you know I really</font>
+
+237
+00:08:29,250 --> 00:08:31,500
+look at<font color="#E5E5E5"> it</font><font color="#CCCCCC"> as we've been doing</font><font color="#E5E5E5"> lots of</font>
+
+238
+00:08:31,500 --> 00:08:33,750
+this for over 30 years we have started
+
+239
+00:08:33,750 --> 00:08:35,549
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> build medical monitoring and</font>
+
+240
+00:08:35,549 --> 00:08:38,309
+diagnostic centres decades ago where we
+
+241
+00:08:38,309 --> 00:08:41,070
+do watch these assets with the data we
+
+242
+00:08:41,070 --> 00:08:42,099
+were able<font color="#E5E5E5"> to collect</font>
+
+243
+00:08:42,099 --> 00:08:44,290
+now we have more sensors more data more
+
+244
+00:08:44,290 --> 00:08:46,779
+know how about what to do<font color="#E5E5E5"> with it again</font>
+
+245
+00:08:46,779 --> 00:08:49,720
+the<font color="#CCCCCC"> the capacity though that you get</font>
+
+246
+00:08:49,720 --> 00:08:51,790
+from cloud computing allows us to do
+
+247
+00:08:51,790 --> 00:08:54,250
+<font color="#E5E5E5">this at a completely different scale so</font>
+
+248
+00:08:54,250 --> 00:08:56,319
+<font color="#E5E5E5">we think what really makes us much more</font>
+
+249
+00:08:56,319 --> 00:08:58,420
+unique than anybody else doing<font color="#CCCCCC"> that is</font>
+
+250
+00:08:58,420 --> 00:09:00,430
+the fact that we've built<font color="#E5E5E5"> a whole</font>
+
+251
+00:09:00,430 --> 00:09:02,649
+platform fall for it called predicts
+
+252
+00:09:02,649 --> 00:09:05,259
+right this is GES industrial internet
+
+253
+00:09:05,259 --> 00:09:07,420
+platform sometimes<font color="#CCCCCC"> we call</font><font color="#E5E5E5"> you know the</font>
+
+254
+00:09:07,420 --> 00:09:09,970
+operating system for industry you know
+
+255
+00:09:09,970 --> 00:09:13,029
+so when<font color="#E5E5E5"> you build industrial apps we</font>
+
+256
+00:09:13,029 --> 00:09:14,470
+want<font color="#E5E5E5"> people to build them on critics</font>
+
+257
+00:09:14,470 --> 00:09:16,269
+we're doing it<font color="#CCCCCC"> for ourselves and we're</font>
+
+258
+00:09:16,269 --> 00:09:18,790
+offering it to the world in fact
+
+259
+00:09:18,790 --> 00:09:21,610
+Microsoft I think this morning is making
+
+260
+00:09:21,610 --> 00:09:23,319
+an announcement they'll be using<font color="#CCCCCC"> pre</font><font color="#E5E5E5"> X</font>
+
+261
+00:09:23,319 --> 00:09:26,350
+so you know we<font color="#E5E5E5"> are seeing an uptick in</font>
+
+262
+00:09:26,350 --> 00:09:29,199
+adoption to have an operating<font color="#CCCCCC"> system and</font>
+
+263
+00:09:29,199 --> 00:09:30,639
+operating system<font color="#CCCCCC"> of industry is a great</font>
+
+264
+00:09:30,639 --> 00:09:33,130
+way to say it that is super strong<font color="#E5E5E5"> you</font>
+
+265
+00:09:33,130 --> 00:09:34,389
+know we sort of<font color="#E5E5E5"> say industrial strength</font>
+
+266
+00:09:34,389 --> 00:09:36,310
+strength that can hold literally
+
+267
+00:09:36,310 --> 00:09:40,000
+petabytes of data that<font color="#CCCCCC"> has you know</font>
+
+268
+00:09:40,000 --> 00:09:42,730
+<font color="#E5E5E5">cyber security as sort of a number one</font>
+
+269
+00:09:42,730 --> 00:09:44,920
+feature you know we take so seriously I
+
+270
+00:09:44,920 --> 00:09:46,329
+<font color="#CCCCCC">mean you talked about jet engines before</font>
+
+271
+00:09:46,329 --> 00:09:50,410
+on this is data that<font color="#E5E5E5"> has to be ironclad</font>
+
+272
+00:09:50,410 --> 00:09:53,589
+secure so we<font color="#E5E5E5"> think we've sort of have</font>
+
+273
+00:09:53,589 --> 00:09:55,240
+the right to do it we have the knowledge
+
+274
+00:09:55,240 --> 00:09:56,920
+and we've been practicing it ourselves
+
+275
+00:09:56,920 --> 00:09:59,230
+and you've talked about this being a<font color="#CCCCCC"> 10</font>
+
+276
+00:09:59,230 --> 00:10:02,589
+<font color="#CCCCCC">year plan to build that change GE and go</font>
+
+277
+00:10:02,589 --> 00:10:04,029
+forward we're in year three or four
+
+278
+00:10:04,029 --> 00:10:06,370
+where are we in<font color="#CCCCCC"> ten years</font><font color="#E5E5E5"> what does</font><font color="#CCCCCC"> it</font>
+
+279
+00:10:06,370 --> 00:10:09,040
+<font color="#E5E5E5">look</font><font color="#CCCCCC"> like not just for GE but for the</font>
+
+280
+00:10:09,040 --> 00:10:10,839
+machines themselves I mean what's that
+
+281
+00:10:10,839 --> 00:10:12,160
+<font color="#E5E5E5">future look like it's an interesting</font>
+
+282
+00:10:12,160 --> 00:10:14,560
+landscape to sort<font color="#E5E5E5"> of portray a little</font>
+
+283
+00:10:14,560 --> 00:10:16,870
+bit right well i think you know we move
+
+284
+00:10:16,870 --> 00:10:18,579
+from where we<font color="#CCCCCC"> are today we have already</font>
+
+285
+00:10:18,579 --> 00:10:22,240
+<font color="#E5E5E5">built 35,000 twins of our assets and i</font>
+
+286
+00:10:22,240 --> 00:10:24,670
+imagine<font color="#E5E5E5"> you know in that you know the</font>
+
+287
+00:10:24,670 --> 00:10:27,420
+times family meeting to full realization
+
+288
+00:10:27,420 --> 00:10:30,220
+will be millions<font color="#E5E5E5"> and millions of people</font>
+
+289
+00:10:30,220 --> 00:10:32,050
+<font color="#CCCCCC">with digital kings built without</font>
+
+290
+00:10:32,050 --> 00:10:34,389
+technology to track their assets and
+
+291
+00:10:34,389 --> 00:10:36,730
+there'll be a whole you know continuum
+
+292
+00:10:36,730 --> 00:10:39,220
+of will build some of them for them
+
+293
+00:10:39,220 --> 00:10:41,649
+<font color="#CCCCCC">we'll offer our digital twin and</font>
+
+294
+00:10:41,649 --> 00:10:45,069
+predicts a capability as a platform as a
+
+295
+00:10:45,069 --> 00:10:46,870
+service so depending<font color="#CCCCCC"> on your level</font><font color="#E5E5E5"> of</font>
+
+296
+00:10:46,870 --> 00:10:49,029
+sophistication as a developer you<font color="#CCCCCC"> can do</font>
+
+297
+00:10:49,029 --> 00:10:51,050
+it yourself or we can you can unless the
+
+298
+00:10:51,050 --> 00:10:53,120
+for you and as many<font color="#E5E5E5"> options of how it's</font>
+
+299
+00:10:53,120 --> 00:10:55,310
+hosted but<font color="#E5E5E5"> I think just like we saw on</font>
+
+300
+00:10:55,310 --> 00:10:57,260
+the web right we<font color="#E5E5E5"> never imagined the</font>
+
+301
+00:10:57,260 --> 00:10:59,540
+number of cell phones right I think this
+
+302
+00:10:59,540 --> 00:11:01,070
+will go way<font color="#E5E5E5"> beyond</font><font color="#CCCCCC"> the wildest dreams</font>
+
+303
+00:11:01,070 --> 00:11:03,980
+<font color="#E5E5E5">this in the first you know four or so</font>
+
+304
+00:11:03,980 --> 00:11:05,480
+years of<font color="#E5E5E5"> doing this we've hit every</font>
+
+305
+00:11:05,480 --> 00:11:07,670
+metric we set out for ourselves and<font color="#CCCCCC"> when</font>
+
+306
+00:11:07,670 --> 00:11:09,019
+we started they might<font color="#E5E5E5"> have looked a</font>
+
+307
+00:11:09,019 --> 00:11:10,820
+little<font color="#E5E5E5"> crazy to us but we're</font><font color="#CCCCCC"> doing it</font>
+
+308
+00:11:10,820 --> 00:11:12,440
+and I'm confident we'll get all the way
+
+309
+00:11:12,440 --> 00:11:13,820
+<font color="#CCCCCC">to the ankle and have you</font><font color="#E5E5E5"> been able to</font>
+
+310
+00:11:13,820 --> 00:11:15,589
+do things for customers that you didn't
+
+311
+00:11:15,589 --> 00:11:17,269
+foresee in the<font color="#CCCCCC"> beginning because if you</font>
+
+312
+00:11:17,269 --> 00:11:18,800
+look<font color="#E5E5E5"> at the iphone for example when this</font>
+
+313
+00:11:18,800 --> 00:11:21,769
+was first introduced everyone made all
+
+314
+00:11:21,769 --> 00:11:23,180
+these crazy predictions and it turned
+
+315
+00:11:23,180 --> 00:11:24,769
+out they weren't anywhere near crazy
+
+316
+00:11:24,769 --> 00:11:26,540
+enough and all these<font color="#CCCCCC"> things have been</font>
+
+317
+00:11:26,540 --> 00:11:28,490
+created that nobody imagined them well I
+
+318
+00:11:28,490 --> 00:11:30,410
+<font color="#CCCCCC">think if</font><font color="#E5E5E5"> I can jump in on this one I</font>
+
+319
+00:11:30,410 --> 00:11:32,899
+<font color="#CCCCCC">think what's really interesting is just</font>
+
+320
+00:11:32,899 --> 00:11:35,810
+in some ways like iOS and and<font color="#E5E5E5"> like the</font>
+
+321
+00:11:35,810 --> 00:11:38,269
+Apple phone you know predicts is a
+
+322
+00:11:38,269 --> 00:11:41,360
+platform and we expect you know maybe
+
+323
+00:11:41,360 --> 00:11:44,870
+ten twenty thousand developers this year
+
+324
+00:11:44,870 --> 00:11:47,870
+to be<font color="#CCCCCC"> building apps on predicts so you</font>
+
+325
+00:11:47,870 --> 00:11:49,490
+know we've got four or five thousand
+
+326
+00:11:49,490 --> 00:11:51,050
+already and I think that's where the
+
+327
+00:11:51,050 --> 00:11:53,450
+flywheel starts to starts to happen
+
+328
+00:11:53,450 --> 00:11:56,060
+right<font color="#CCCCCC"> a great platform developers</font>
+
+329
+00:11:56,060 --> 00:11:57,920
+industrial developers looking at this
+
+330
+00:11:57,920 --> 00:12:00,560
+and saying<font color="#E5E5E5"> wow I can apply what i know</font>
+
+331
+00:12:00,560 --> 00:12:03,350
+and create industrial solutions so<font color="#CCCCCC"> i</font>
+
+332
+00:12:03,350 --> 00:12:05,360
+think that's<font color="#E5E5E5"> going to start to you know</font>
+
+333
+00:12:05,360 --> 00:12:06,980
+make a big difference as the apps come
+
+334
+00:12:06,980 --> 00:12:10,370
+online<font color="#CCCCCC"> i mean there are predictions that</font>
+
+335
+00:12:10,370 --> 00:12:12,200
+the industrial internet will be bigger
+
+336
+00:12:12,200 --> 00:12:13,760
+<font color="#CCCCCC">than the consumer internet hard to</font>
+
+337
+00:12:13,760 --> 00:12:15,980
+believe<font color="#E5E5E5"> just data but in</font><font color="#CCCCCC"> terms of</font><font color="#E5E5E5"> data</font>
+
+338
+00:12:15,980 --> 00:12:18,200
+in terms of the size of<font color="#CCCCCC"> the market and</font>
+
+339
+00:12:18,200 --> 00:12:21,709
+frankly in terms of the impact we<font color="#CCCCCC"> talk</font>
+
+340
+00:12:21,709 --> 00:12:23,029
+about marketing let's talk<font color="#E5E5E5"> about</font>
+
+341
+00:12:23,029 --> 00:12:26,270
+marketing the chief marketing all most
+
+342
+00:12:26,270 --> 00:12:28,130
+innovative marketing companies so
+
+343
+00:12:28,130 --> 00:12:31,399
+stepping back yeah well this<font color="#CCCCCC"> 10 year</font>
+
+344
+00:12:31,399 --> 00:12:33,079
+period five years ago 25 years<font color="#E5E5E5"> in the</font>
+
+345
+00:12:33,079 --> 00:12:34,699
+future yeah can you<font color="#E5E5E5"> give us a sense of</font>
+
+346
+00:12:34,699 --> 00:12:37,040
+what's happening to GES marketing and
+
+347
+00:12:37,040 --> 00:12:40,430
+add budget yeah so look<font color="#E5E5E5"> I think</font><font color="#CCCCCC"> we</font><font color="#E5E5E5"> try</font>
+
+348
+00:12:40,430 --> 00:12:42,560
+Henry and<font color="#E5E5E5"> you know you and I have had</font>
+
+349
+00:12:42,560 --> 00:12:45,140
+<font color="#E5E5E5">this conversation at various points to</font>
+
+350
+00:12:45,140 --> 00:12:47,660
+market in the year we live at we don't
+
+351
+00:12:47,660 --> 00:12:50,810
+<font color="#E5E5E5">sort of pine for the good old days</font><font color="#CCCCCC"> when</font>
+
+352
+00:12:50,810 --> 00:12:52,190
+there were three networks and it was
+
+353
+00:12:52,190 --> 00:12:54,560
+easy to reach people what we try to do
+
+354
+00:12:54,560 --> 00:12:57,370
+in marketing is to get the best<font color="#E5E5E5"> possible</font>
+
+355
+00:12:57,370 --> 00:13:00,620
+content message out where people<font color="#CCCCCC"> are</font>
+
+356
+00:13:00,620 --> 00:13:03,290
+spending their time and as a result you
+
+357
+00:13:03,290 --> 00:13:04,790
+<font color="#E5E5E5">know do people still watch television</font>
+
+358
+00:13:04,790 --> 00:13:07,900
+you bet they do however in our opinion
+
+359
+00:13:07,900 --> 00:13:11,360
+where we might place advertising is a
+
+360
+00:13:11,360 --> 00:13:13,490
+lot different than it used to<font color="#CCCCCC"> be because</font>
+
+361
+00:13:13,490 --> 00:13:16,580
+of binge watching because of DVR so
+
+362
+00:13:16,580 --> 00:13:19,640
+we've shifted most of our television<font color="#E5E5E5"> ad</font>
+
+363
+00:13:19,640 --> 00:13:21,860
+<font color="#E5E5E5">spent to be during live programming</font>
+
+364
+00:13:21,860 --> 00:13:23,360
+sunday night football is a good example
+
+365
+00:13:23,360 --> 00:13:27,050
+of that and our digital spend is just
+
+366
+00:13:27,050 --> 00:13:29,990
+increasing percentage wise and you know
+
+367
+00:13:29,990 --> 00:13:31,730
+when<font color="#E5E5E5"> you have something like Facebook</font>
+
+368
+00:13:31,730 --> 00:13:32,750
+and<font color="#E5E5E5"> I'm not going to make this a</font>
+
+369
+00:13:32,750 --> 00:13:34,730
+<font color="#CCCCCC">Facebook commercial but you know</font>
+
+370
+00:13:34,730 --> 00:13:37,430
+<font color="#E5E5E5">Facebook is the most efficient place to</font>
+
+371
+00:13:37,430 --> 00:13:39,170
+reach people on it's as much a
+
+372
+00:13:39,170 --> 00:13:41,810
+performance channel as it is a social
+
+373
+00:13:41,810 --> 00:13:43,940
+<font color="#E5E5E5">channel Google's really efficient and</font>
+
+374
+00:13:43,940 --> 00:13:46,100
+then you know us we love to experiment
+
+375
+00:13:46,100 --> 00:13:48,500
+you know we've experimented as a company
+
+376
+00:13:48,500 --> 00:13:50,180
+and as a business all the way<font color="#E5E5E5"> back</font><font color="#CCCCCC"> to</font>
+
+377
+00:13:50,180 --> 00:13:53,000
+Edison so we<font color="#CCCCCC"> continue that spirit of</font>
+
+378
+00:13:53,000 --> 00:13:54,440
+experimenting when it comes to our
+
+379
+00:13:54,440 --> 00:13:56,930
+marketing and that might be on doing a
+
+380
+00:13:56,930 --> 00:13:59,750
+podcast which we did last fall that was
+
+381
+00:13:59,750 --> 00:14:01,880
+terrific called the message or VR or
+
+382
+00:14:01,880 --> 00:14:04,580
+just<font color="#E5E5E5"> being on an emerging platforms so</font>
+
+383
+00:14:04,580 --> 00:14:07,610
+as I think<font color="#E5E5E5"> about marketing and trends</font>
+
+384
+00:14:07,610 --> 00:14:08,960
+those are those are a couple<font color="#E5E5E5"> that come</font>
+
+385
+00:14:08,960 --> 00:14:10,880
+to my facebooks made no secret of its
+
+386
+00:14:10,880 --> 00:14:13,070
+desire to capture a huge<font color="#CCCCCC"> percentage of</font>
+
+387
+00:14:13,070 --> 00:14:16,240
+television dollars here we are talking
+
+388
+00:14:16,240 --> 00:14:21,620
+funnily in our area what's the unit when
+
+389
+00:14:21,620 --> 00:14:24,650
+you buy when<font color="#E5E5E5"> you replace television and</font>
+
+390
+00:14:24,650 --> 00:14:26,750
+on your<font color="#CCCCCC"> facebook what's the unit so</font>
+
+391
+00:14:26,750 --> 00:14:29,600
+that's a<font color="#E5E5E5"> great question on I think of</font>
+
+392
+00:14:29,600 --> 00:14:32,930
+the unit as<font color="#CCCCCC"> a tension right so we all</font>
+
+393
+00:14:32,930 --> 00:14:35,450
+want attention and I<font color="#E5E5E5"> think when there</font>
+
+394
+00:14:35,450 --> 00:14:37,850
+were three networks for networks you got
+
+395
+00:14:37,850 --> 00:14:41,000
+attention simply by being on friends or
+
+396
+00:14:41,000 --> 00:14:43,880
+cheers or something like that on as we
+
+397
+00:14:43,880 --> 00:14:46,670
+all strive for attention attention<font color="#E5E5E5"> I</font>
+
+398
+00:14:46,670 --> 00:14:49,430
+think is more and more in people's feeds
+
+399
+00:14:49,430 --> 00:14:51,080
+think about the amount of time that
+
+400
+00:14:51,080 --> 00:14:53,030
+we're on our phones and think about
+
+401
+00:14:53,030 --> 00:14:54,710
+where<font color="#CCCCCC"> we are</font><font color="#E5E5E5"> on our phones you know</font>
+
+402
+00:14:54,710 --> 00:14:56,960
+research<font color="#E5E5E5"> shows fewer and fewer apps are</font>
+
+403
+00:14:56,960 --> 00:14:59,660
+being used the apps<font color="#E5E5E5"> that are used are</font>
+
+404
+00:14:59,660 --> 00:15:01,960
+frequently<font color="#E5E5E5"> ones Facebook Linkedin etc</font>
+
+405
+00:15:01,960 --> 00:15:05,270
+where you're putting videos hopefully
+
+406
+00:15:05,270 --> 00:15:06,950
+people<font color="#E5E5E5"> are watching us right now on</font>
+
+407
+00:15:06,950 --> 00:15:10,430
+<font color="#E5E5E5">Facebook live in stream but I think</font>
+
+408
+00:15:10,430 --> 00:15:13,580
+despite all the metrics available to you
+
+409
+00:15:13,580 --> 00:15:16,130
+know cider to GE
+
+410
+00:15:16,130 --> 00:15:19,880
+the the most important<font color="#CCCCCC"> one is our people</font>
+
+411
+00:15:19,880 --> 00:15:22,790
+<font color="#E5E5E5">actually engaging with us that's the</font>
+
+412
+00:15:22,790 --> 00:15:24,290
+unit i want to buy what are you
+
+413
+00:15:24,290 --> 00:15:26,150
+producing to do that and<font color="#E5E5E5"> to be</font><font color="#CCCCCC"> very</font>
+
+414
+00:15:26,150 --> 00:15:27,860
+<font color="#E5E5E5">specific sir there's been a lot written</font>
+
+415
+00:15:27,860 --> 00:15:31,040
+about basically add<font color="#CCCCCC"> tea people are ya</font>
+
+416
+00:15:31,040 --> 00:15:33,260
+have especially<font color="#CCCCCC"> the younger generations</font>
+
+417
+00:15:33,260 --> 00:15:35,840
+don't like ads so one<font color="#E5E5E5"> thing that's</font>
+
+418
+00:15:35,840 --> 00:15:38,030
+happening is this co-creation<font color="#CCCCCC"> Yelp</font>
+
+419
+00:15:38,030 --> 00:15:39,770
+content yep you've been at the forefront
+
+420
+00:15:39,770 --> 00:15:41,720
+of that you actually created a TV series
+
+421
+00:15:41,720 --> 00:15:44,750
+i think<font color="#CCCCCC"> with National Geographic dead so</font>
+
+422
+00:15:44,750 --> 00:15:46,790
+what did what is the ad unit look like
+
+423
+00:15:46,790 --> 00:15:48,890
+of the future is going to be a 30-second
+
+424
+00:15:48,890 --> 00:15:50,360
+spot is it going<font color="#E5E5E5"> to be a pre-roll which</font>
+
+425
+00:15:50,360 --> 00:15:51,920
+a lot of people don't like<font color="#E5E5E5"> yes is it</font>
+
+426
+00:15:51,920 --> 00:15:53,660
+going to be something<font color="#E5E5E5"> in which you are</font>
+
+427
+00:15:53,660 --> 00:15:55,730
+featured that is a story created by
+
+428
+00:15:55,730 --> 00:15:59,000
+producer how do you like<font color="#CCCCCC"> it I</font><font color="#E5E5E5"> kind of</font>
+
+429
+00:15:59,000 --> 00:16:01,420
+think any and all of the above<font color="#CCCCCC"> or</font>
+
+430
+00:16:01,420 --> 00:16:05,630
+possible but it comes back to<font color="#E5E5E5"> is the</font>
+
+431
+00:16:05,630 --> 00:16:09,170
+quality high enough you know I<font color="#CCCCCC"> talked</font>
+
+432
+00:16:09,170 --> 00:16:10,640
+off and again you<font color="#CCCCCC"> and I have talked</font>
+
+433
+00:16:10,640 --> 00:16:12,830
+<font color="#CCCCCC">about this in</font><font color="#E5E5E5"> the past you know you</font>
+
+434
+00:16:12,830 --> 00:16:15,470
+don't<font color="#E5E5E5"> want to create content that is</font>
+
+435
+00:16:15,470 --> 00:16:17,060
+second fiddle you want to create
+
+436
+00:16:17,060 --> 00:16:19,220
+<font color="#CCCCCC">something that</font><font color="#E5E5E5"> is a really good story</font>
+
+437
+00:16:19,220 --> 00:16:21,050
+that can be six<font color="#CCCCCC"> hours which is what we</font>
+
+438
+00:16:21,050 --> 00:16:22,970
+did with national geo it can be six
+
+439
+00:16:22,970 --> 00:16:25,160
+seconds which we've done on vine it can
+
+440
+00:16:25,160 --> 00:16:27,860
+be<font color="#E5E5E5"> Instagram it can be a podcast and I</font>
+
+441
+00:16:27,860 --> 00:16:31,310
+tend to<font color="#CCCCCC"> think the unit and now here</font>
+
+442
+00:16:31,310 --> 00:16:33,410
+where you're going on this can be
+
+443
+00:16:33,410 --> 00:16:35,750
+integrated so when we did this podcast
+
+444
+00:16:35,750 --> 00:16:40,460
+last fall on we were<font color="#CCCCCC"> on</font><font color="#E5E5E5"> very loosely</font>
+
+445
+00:16:40,460 --> 00:16:44,300
+part of the story<font color="#CCCCCC"> very loosely but what</font>
+
+446
+00:16:44,300 --> 00:16:46,940
+we surrounded it with was this idea of
+
+447
+00:16:46,940 --> 00:16:50,420
+the GE podcast<font color="#CCCCCC"> theater and it's funny it</font>
+
+448
+00:16:50,420 --> 00:16:52,460
+kind of harkens back to<font color="#E5E5E5"> the 50s where</font>
+
+449
+00:16:52,460 --> 00:16:55,130
+there was once<font color="#E5E5E5"> upon a time the GE</font>
+
+450
+00:16:55,130 --> 00:16:56,990
+theater and there were soap operas
+
+451
+00:16:56,990 --> 00:16:59,000
+brought to you by consumer packaged
+
+452
+00:16:59,000 --> 00:17:02,150
+goods goods companies so sometimes<font color="#CCCCCC"> it's</font>
+
+453
+00:17:02,150 --> 00:17:04,459
+creating a franchise and in some ways
+
+454
+00:17:04,459 --> 00:17:06,530
+what we did with podcasting this one
+
+455
+00:17:06,530 --> 00:17:08,569
+podcast what we did with nat geo was
+
+456
+00:17:08,569 --> 00:17:11,030
+kind of a franchise position but make no
+
+457
+00:17:11,030 --> 00:17:13,160
+mistake there are times when we will
+
+458
+00:17:13,160 --> 00:17:15,349
+create something<font color="#E5E5E5"> that looks and smells</font>
+
+459
+00:17:15,349 --> 00:17:17,689
+and behaves like an ad<font color="#E5E5E5"> and if it's</font>
+
+460
+00:17:17,689 --> 00:17:20,119
+really good and<font color="#E5E5E5"> i'll use</font><font color="#CCCCCC"> what we talked</font>
+
+461
+00:17:20,119 --> 00:17:21,650
+about a few<font color="#CCCCCC"> minutes ago because you</font>
+
+462
+00:17:21,650 --> 00:17:22,849
+brought it<font color="#E5E5E5"> up so</font><font color="#CCCCCC"> i don't feel</font><font color="#E5E5E5"> so</font>
+
+463
+00:17:22,849 --> 00:17:25,160
+sheepish bringing it up this series we
+
+464
+00:17:25,160 --> 00:17:28,189
+did on this young<font color="#CCCCCC"> developer</font><font color="#E5E5E5"> oh n was a</font>
+
+465
+00:17:28,189 --> 00:17:29,450
+great story it<font color="#CCCCCC"> was</font><font color="#E5E5E5"> sell</font>
+
+466
+00:17:29,450 --> 00:17:32,120
+deprecating it was funny and recruiting
+
+467
+00:17:32,120 --> 00:17:35,929
+went up eight hundred percent so you
+
+468
+00:17:35,929 --> 00:17:38,570
+know if<font color="#E5E5E5"> you can find that bit</font><font color="#CCCCCC"> of magic</font>
+
+469
+00:17:38,570 --> 00:17:41,510
+and it is a bit of magic right on you
+
+470
+00:17:41,510 --> 00:17:43,309
+know that can be very powerful so I
+
+471
+00:17:43,309 --> 00:17:46,490
+guess my<font color="#E5E5E5"> long answer to your smart</font>
+
+472
+00:17:46,490 --> 00:17:50,779
+question is that the unit will vary but
+
+473
+00:17:50,779 --> 00:17:54,440
+it will not be one single<font color="#E5E5E5"> it's pre-roll</font>
+
+474
+00:17:54,440 --> 00:17:56,840
+it's not pretty<font color="#E5E5E5"> roll on I think it's</font>
+
+475
+00:17:56,840 --> 00:17:57,860
+<font color="#E5E5E5">going to come in a lot of forms and</font>
+
+476
+00:17:57,860 --> 00:17:59,690
+formats so going<font color="#CCCCCC"> back as the last</font>
+
+477
+00:17:59,690 --> 00:18:01,880
+question yeah one over the next five
+
+478
+00:18:01,880 --> 00:18:04,159
+years<font color="#CCCCCC"> yeah how do you</font><font color="#E5E5E5"> see your spending</font>
+
+479
+00:18:04,159 --> 00:18:06,919
+shifting does it go to<font color="#E5E5E5"> Facebook TV to</font>
+
+480
+00:18:06,919 --> 00:18:08,299
+Facebook is that the<font color="#E5E5E5"> simple way to think</font>
+
+481
+00:18:08,299 --> 00:18:10,700
+about<font color="#E5E5E5"> it well I I think that's it's</font>
+
+482
+00:18:10,700 --> 00:18:12,740
+that's almost too simple if you will
+
+483
+00:18:12,740 --> 00:18:15,409
+more is going<font color="#E5E5E5"> to facebook but or spend</font>
+
+484
+00:18:15,409 --> 00:18:17,720
+will go where<font color="#CCCCCC"> people are spending their</font>
+
+485
+00:18:17,720 --> 00:18:20,720
+time and attention look if every single
+
+486
+00:18:20,720 --> 00:18:26,330
+person in<font color="#E5E5E5"> America was watching ABC we'd</font>
+
+487
+00:18:26,330 --> 00:18:28,429
+be on ABC but every single<font color="#E5E5E5"> person isn't</font>
+
+488
+00:18:28,429 --> 00:18:30,649
+a billion and a half people are on
+
+489
+00:18:30,649 --> 00:18:32,690
+Facebook and I think for any marketer
+
+490
+00:18:32,690 --> 00:18:35,029
+that ignores where people are spending
+
+491
+00:18:35,029 --> 00:18:36,980
+their time they're doing<font color="#CCCCCC"> it</font><font color="#E5E5E5"> at their own</font>
+
+492
+00:18:36,980 --> 00:18:39,289
+peril so our spend will shift as
+
+493
+00:18:39,289 --> 00:18:42,049
+people's behavior shifts and digital is
+
+494
+00:18:42,049 --> 00:18:44,269
+only going up so that's a really<font color="#E5E5E5"> good</font>
+
+495
+00:18:44,269 --> 00:18:45,980
+<font color="#E5E5E5">harbinger for where our spend will go</font>
+
+496
+00:18:45,980 --> 00:18:48,350
+Linda rusty thank you very much thank
+
+497
+00:18:48,350 --> 00:18:49,820
+you<font color="#CCCCCC"> very</font><font color="#E5E5E5"> much for joining us thanks and</font>
+
+498
+00:18:49,820 --> 00:18:51,470
+see you it's great<font color="#E5E5E5"> there's a lot of fun</font>
+
+499
+00:18:51,470 --> 00:00:00,000
+thank you thanks everybody
+

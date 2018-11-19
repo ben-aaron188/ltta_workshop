@@ -1,0 +1,312 @@
+1
+00:00:00,030 --> 00:00:02,730
+the indictment charges<font color="#CCCCCC"> 12</font><font color="#E5E5E5"> Russian</font>
+
+2
+00:00:02,730 --> 00:00:05,640
+military officers by name<font color="#E5E5E5"> for conspiring</font>
+
+3
+00:00:05,640 --> 00:00:08,970
+<font color="#E5E5E5">to interfere with the 2016 presidential</font>
+
+4
+00:00:08,970 --> 00:00:11,969
+election<font color="#CCCCCC"> eleven of the defendants are</font>
+
+5
+00:00:11,969 --> 00:00:14,099
+charged with<font color="#E5E5E5"> conspiring to hack into</font>
+
+6
+00:00:14,099 --> 00:00:17,640
+<font color="#CCCCCC">computers steal documents</font><font color="#E5E5E5"> and release</font>
+
+7
+00:00:17,640 --> 00:00:19,890
+those documents<font color="#CCCCCC"> with the intent to</font>
+
+8
+00:00:19,890 --> 00:00:23,220
+interfere<font color="#CCCCCC"> in</font><font color="#E5E5E5"> the election one of those</font>
+
+9
+00:00:23,220 --> 00:00:25,350
+defendants<font color="#E5E5E5"> and a</font><font color="#CCCCCC"> 12th</font><font color="#E5E5E5"> Russian military</font>
+
+10
+00:00:25,350 --> 00:00:28,109
+officer are charged with<font color="#E5E5E5"> conspiring to</font>
+
+11
+00:00:28,109 --> 00:00:30,900
+infiltrate computers of organizations
+
+12
+00:00:30,900 --> 00:00:32,460
+involved in administering elections
+
+13
+00:00:32,460 --> 00:00:35,030
+<font color="#E5E5E5">including</font><font color="#CCCCCC"> state boards of</font><font color="#E5E5E5"> election</font>
+
+14
+00:00:35,030 --> 00:00:37,920
+secretaries of state and companies<font color="#CCCCCC"> that</font>
+
+15
+00:00:37,920 --> 00:00:40,590
+supply software used to administer
+
+16
+00:00:40,590 --> 00:00:44,040
+elections according<font color="#E5E5E5"> to the</font><font color="#CCCCCC"> allegations</font>
+
+17
+00:00:44,040 --> 00:00:46,289
+<font color="#E5E5E5">in the indictment</font><font color="#CCCCCC"> the defendants worked</font>
+
+18
+00:00:46,289 --> 00:00:48,809
+for two<font color="#CCCCCC"> units of the main intelligence</font>
+
+19
+00:00:48,809 --> 00:00:51,449
+<font color="#E5E5E5">Directorate of the</font><font color="#CCCCCC"> Russian</font><font color="#E5E5E5"> general staff</font>
+
+20
+00:00:51,449 --> 00:00:53,570
+<font color="#E5E5E5">known as the GRU</font>
+
+21
+00:00:53,570 --> 00:00:56,100
+the<font color="#CCCCCC"> unit's engaged in active cyber</font>
+
+22
+00:00:56,100 --> 00:00:59,820
+operations<font color="#E5E5E5"> to interfere in</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> 2016</font>
+
+23
+00:00:59,820 --> 00:01:04,379
+presidential election<font color="#E5E5E5"> there was one unit</font>
+
+24
+00:01:04,379 --> 00:01:07,229
+<font color="#CCCCCC">that engaged in active cyber operations</font>
+
+25
+00:01:07,229 --> 00:01:09,869
+by stealing information<font color="#E5E5E5"> and a different</font>
+
+26
+00:01:09,869 --> 00:01:11,189
+unit<font color="#E5E5E5"> that was responsible for</font>
+
+27
+00:01:11,189 --> 00:01:14,310
+<font color="#CCCCCC">disseminating the stolen</font><font color="#E5E5E5"> information the</font>
+
+28
+00:01:14,310 --> 00:01:16,619
+defendants used<font color="#E5E5E5"> two techniques to steal</font>
+
+29
+00:01:16,619 --> 00:01:19,049
+information<font color="#E5E5E5"> first they use</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> scheme</font>
+
+30
+00:01:19,049 --> 00:01:21,810
+known as<font color="#CCCCCC"> spearfishing</font><font color="#E5E5E5"> which involves</font>
+
+31
+00:01:21,810 --> 00:01:24,020
+sending misleading email messages and
+
+32
+00:01:24,020 --> 00:01:27,360
+tricking the users into disclosing their
+
+33
+00:01:27,360 --> 00:01:30,020
+passwords and security<font color="#CCCCCC"> information</font>
+
+34
+00:01:30,020 --> 00:01:32,189
+<font color="#E5E5E5">second the defendants hacked</font><font color="#CCCCCC"> into</font>
+
+35
+00:01:32,189 --> 00:01:34,259
+computer networks<font color="#E5E5E5"> and installed</font>
+
+36
+00:01:34,259 --> 00:01:36,720
+malicious software that<font color="#CCCCCC"> allowed them to</font>
+
+37
+00:01:36,720 --> 00:01:41,759
+<font color="#E5E5E5">spy on users and capture keystrokes take</font>
+
+38
+00:01:41,759 --> 00:01:44,700
+screenshots<font color="#E5E5E5"> and exfiltrate or remove</font>
+
+39
+00:01:44,700 --> 00:01:48,540
+data from those computers<font color="#E5E5E5"> the defendants</font>
+
+40
+00:01:48,540 --> 00:01:50,399
+accessed email accounts of volunteers
+
+41
+00:01:50,399 --> 00:01:53,460
+and employees<font color="#E5E5E5"> of a u.s. presidential</font>
+
+42
+00:01:53,460 --> 00:01:56,750
+campaign including the campaign chairman
+
+43
+00:01:56,750 --> 00:01:59,180
+starting in<font color="#E5E5E5"> March of 2016</font>
+
+44
+00:01:59,180 --> 00:02:01,560
+<font color="#E5E5E5">they</font><font color="#CCCCCC"> also hacked into the computer</font>
+
+45
+00:02:01,560 --> 00:02:04,020
+networks of a congressional<font color="#E5E5E5"> campaign</font>
+
+46
+00:02:04,020 --> 00:02:06,509
+<font color="#CCCCCC">committee and a national political</font>
+
+47
+00:02:06,509 --> 00:02:09,300
+<font color="#E5E5E5">committee the defendants covertly</font>
+
+48
+00:02:09,300 --> 00:02:11,730
+monitored the computers<font color="#E5E5E5"> and planted</font>
+
+49
+00:02:11,730 --> 00:02:13,180
+hundreds of files contained
+
+50
+00:02:13,180 --> 00:02:16,090
+malicious computer code<font color="#E5E5E5"> and stole emails</font>
+
+51
+00:02:16,090 --> 00:02:19,599
+and other documents<font color="#E5E5E5"> the conspirators</font>
+
+52
+00:02:19,599 --> 00:02:22,349
+created fictitious online personas
+
+53
+00:02:22,349 --> 00:02:27,790
+including DC leaks and gusoff<font color="#CCCCCC"> ur 2.0</font><font color="#E5E5E5"> and</font>
+
+54
+00:02:27,790 --> 00:02:29,950
+<font color="#E5E5E5">they used those personas</font><font color="#CCCCCC"> to release</font>
+
+55
+00:02:29,950 --> 00:02:32,500
+<font color="#CCCCCC">information including thousands</font><font color="#E5E5E5"> of</font>
+
+56
+00:02:32,500 --> 00:02:34,060
+<font color="#E5E5E5">stolen emails and other documents</font>
+
+57
+00:02:34,060 --> 00:02:38,349
+beginning<font color="#E5E5E5"> in June of 2016 the defendants</font>
+
+58
+00:02:38,349 --> 00:02:41,590
+falsely claimed the<font color="#E5E5E5"> DC leaks was a group</font>
+
+59
+00:02:41,590 --> 00:02:44,170
+of American hackers<font color="#E5E5E5"> and that</font><font color="#CCCCCC"> gusoff irk</font>
+
+60
+00:02:44,170 --> 00:02:49,329
+2.0 was a lone Romanian hacker<font color="#E5E5E5"> in fact</font>
+
+61
+00:02:49,329 --> 00:02:53,019
+<font color="#CCCCCC">both were created and</font><font color="#E5E5E5"> controlled by the</font>
+
+62
+00:02:53,019 --> 00:02:56,200
+Russian GRU<font color="#E5E5E5"> in addition to releasing</font>
+
+63
+00:02:56,200 --> 00:02:58,629
+documents<font color="#E5E5E5"> directly to the public the</font>
+
+64
+00:02:58,629 --> 00:03:00,370
+defendants transferred stolen<font color="#CCCCCC"> documents</font>
+
+65
+00:03:00,370 --> 00:03:02,439
+to another<font color="#CCCCCC"> organization that is</font><font color="#E5E5E5"> not</font>
+
+66
+00:03:02,439 --> 00:03:04,780
+identified by name in<font color="#CCCCCC"> the indictment</font><font color="#E5E5E5"> and</font>
+
+67
+00:03:04,780 --> 00:03:08,200
+they used<font color="#E5E5E5"> that organization as a</font><font color="#CCCCCC"> pass</font>
+
+68
+00:03:08,200 --> 00:03:11,079
+<font color="#CCCCCC">through</font><font color="#E5E5E5"> to release the documents</font><font color="#CCCCCC"> they</font>
+
+69
+00:03:11,079 --> 00:03:13,510
+<font color="#CCCCCC">discussed the</font><font color="#E5E5E5"> timing of the release in</font>
+
+70
+00:03:13,510 --> 00:03:15,879
+an attempt<font color="#E5E5E5"> to enhance the</font><font color="#CCCCCC"> impact on the</font>
+
+71
+00:03:15,879 --> 00:03:16,349
+election
+
+72
+00:03:16,349 --> 00:03:18,579
+hey there I'm Chris Hayes<font color="#E5E5E5"> from MSNBC</font>
+
+73
+00:03:18,579 --> 00:03:21,159
+thanks for watching<font color="#CCCCCC"> MSNBC on YouTube if</font>
+
+74
+00:03:21,159 --> 00:03:22,299
+you<font color="#CCCCCC"> want to keep</font><font color="#E5E5E5"> up</font><font color="#CCCCCC"> to date</font><font color="#E5E5E5"> with the</font>
+
+75
+00:03:22,299 --> 00:03:23,470
+videos we're putting out you can click
+
+76
+00:03:23,470 --> 00:03:25,810
+<font color="#CCCCCC">subscribe just</font><font color="#E5E5E5"> below me or click over on</font>
+
+77
+00:03:25,810 --> 00:03:27,519
+<font color="#E5E5E5">this list to see lots of other great</font>
+
+78
+00:03:27,519 --> 00:00:00,000
+<font color="#CCCCCC">videos</font>
+

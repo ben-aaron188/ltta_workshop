@@ -1,0 +1,368 @@
+1
+00:00:02,430 --> 00:00:07,000
+[Music]
+
+2
+00:00:07,000 --> 00:00:09,019
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+3
+00:00:09,019 --> 00:00:11,000
+Washington<font color="#CCCCCC"> with</font><font color="#E5E5E5"> a look at Axios am</font>
+
+4
+00:00:11,000 --> 00:00:13,309
+<font color="#E5E5E5">editor-in-chief for</font><font color="#CCCCCC"> Axios Nicholas</font>
+
+5
+00:00:13,309 --> 00:00:14,809
+Johnson<font color="#E5E5E5"> Nicola it's good morning to you</font>
+
+6
+00:00:14,809 --> 00:00:16,970
+<font color="#CCCCCC">talk to</font><font color="#E5E5E5"> us about access is one big thing</font>
+
+7
+00:00:16,970 --> 00:00:19,039
+<font color="#CCCCCC">today yeah our one big thing</font><font color="#E5E5E5"> today is</font>
+
+8
+00:00:19,039 --> 00:00:20,570
+<font color="#E5E5E5">looking at a</font><font color="#CCCCCC"> collection of data</font><font color="#E5E5E5"> points</font>
+
+9
+00:00:20,570 --> 00:00:22,670
+<font color="#CCCCCC">to try and put</font><font color="#E5E5E5"> this year's midterms in</font>
+
+10
+00:00:22,670 --> 00:00:25,460
+the context of other big wave elections
+
+11
+00:00:25,460 --> 00:00:26,960
+where the minority<font color="#CCCCCC"> party swept into</font>
+
+12
+00:00:26,960 --> 00:00:29,330
+power in<font color="#E5E5E5"> the house and our</font><font color="#CCCCCC"> conclusion is</font>
+
+13
+00:00:29,330 --> 00:00:31,099
+<font color="#E5E5E5">that it's looking good for</font><font color="#CCCCCC"> Democrats</font>
+
+14
+00:00:31,099 --> 00:00:33,050
+looking<font color="#E5E5E5"> at a handful of these numbers</font>
+
+15
+00:00:33,050 --> 00:00:35,000
+particularly presidential approval
+
+16
+00:00:35,000 --> 00:00:37,309
+rating congressional approval rating<font color="#E5E5E5"> and</font>
+
+17
+00:00:37,309 --> 00:00:38,479
+the breakdown of approval ratings
+
+18
+00:00:38,479 --> 00:00:40,699
+<font color="#E5E5E5">between</font><font color="#CCCCCC"> each of the parties</font><font color="#E5E5E5"> it matches</font>
+
+19
+00:00:40,699 --> 00:00:42,320
+<font color="#CCCCCC">up very</font><font color="#E5E5E5"> well</font><font color="#CCCCCC"> for Democrats with other</font>
+
+20
+00:00:42,320 --> 00:00:44,089
+elections when the minority<font color="#CCCCCC"> party swept</font>
+
+21
+00:00:44,089 --> 00:00:46,220
+into control in the<font color="#CCCCCC"> house Berkeley 2006</font>
+
+22
+00:00:46,220 --> 00:00:49,250
+and 2010<font color="#E5E5E5"> when Republicans and Democrats</font>
+
+23
+00:00:49,250 --> 00:00:50,930
+<font color="#CCCCCC">and Republicans respectively</font><font color="#E5E5E5"> conquered</font>
+
+24
+00:00:50,930 --> 00:00:52,610
+the house is another data point<font color="#CCCCCC"> for us</font>
+
+25
+00:00:52,610 --> 00:00:54,019
+<font color="#E5E5E5">showing that November is looking pretty</font>
+
+26
+00:00:54,019 --> 00:00:56,089
+<font color="#E5E5E5">good</font><font color="#CCCCCC"> for House Democrats</font><font color="#E5E5E5"> so to that</font>
+
+27
+00:00:56,089 --> 00:00:59,000
+<font color="#CCCCCC">point how are you guys able</font><font color="#E5E5E5"> to explain</font>
+
+28
+00:00:59,000 --> 00:01:00,589
+that or is<font color="#E5E5E5"> there any data points</font><font color="#CCCCCC"> that</font>
+
+29
+00:01:00,589 --> 00:01:03,049
+explain why<font color="#CCCCCC"> this trend is it because the</font>
+
+30
+00:01:03,049 --> 00:01:05,030
+Democrats have a clear<font color="#CCCCCC"> political vision</font>
+
+31
+00:01:05,030 --> 00:01:06,439
+that people<font color="#CCCCCC"> are rallying about getting</font>
+
+32
+00:01:06,439 --> 00:01:08,720
+excited about<font color="#E5E5E5"> or is this kind of a</font>
+
+33
+00:01:08,720 --> 00:01:10,909
+<font color="#E5E5E5">problem with the Republican platform</font>
+
+34
+00:01:10,909 --> 00:01:12,530
+<font color="#E5E5E5">from the President on down</font>
+
+35
+00:01:12,530 --> 00:01:14,570
+that's alienating people<font color="#E5E5E5"> and triggering</font>
+
+36
+00:01:14,570 --> 00:01:17,090
+this potential blue wave yeah the big
+
+37
+00:01:17,090 --> 00:01:18,590
+numbers<font color="#E5E5E5"> that match up the prior</font><font color="#CCCCCC"> wave</font>
+
+38
+00:01:18,590 --> 00:01:20,689
+elections are both people<font color="#E5E5E5"> not happy with</font>
+
+39
+00:01:20,689 --> 00:01:22,340
+the president people<font color="#E5E5E5"> not happy with the</font>
+
+40
+00:01:22,340 --> 00:01:24,409
+party<font color="#CCCCCC"> in power and</font><font color="#E5E5E5"> people not happy</font><font color="#CCCCCC"> with</font>
+
+41
+00:01:24,409 --> 00:01:26,240
+the direction<font color="#E5E5E5"> of the</font><font color="#CCCCCC"> country this is</font>
+
+42
+00:01:26,240 --> 00:01:27,530
+<font color="#CCCCCC">very much an election I think that'll</font>
+
+43
+00:01:27,530 --> 00:01:29,780
+hinge upon<font color="#E5E5E5"> President Trump a lot of his</font>
+
+44
+00:01:29,780 --> 00:01:30,920
+backers<font color="#E5E5E5"> of course will come out and</font>
+
+45
+00:01:30,920 --> 00:01:32,749
+support Republican candidates we've got
+
+46
+00:01:32,749 --> 00:01:34,009
+polling that shows when he endorses a
+
+47
+00:01:34,009 --> 00:01:35,450
+candidate they do a little<font color="#E5E5E5"> bit better in</font>
+
+48
+00:01:35,450 --> 00:01:37,130
+subsequent races and so it'll very much
+
+49
+00:01:37,130 --> 00:01:39,170
+be Democrats<font color="#E5E5E5"> running against Republicans</font>
+
+50
+00:01:39,170 --> 00:01:41,210
+and certainly against President<font color="#E5E5E5"> Trump if</font>
+
+51
+00:01:41,210 --> 00:01:42,499
+they're gonna win the<font color="#CCCCCC"> house action are</font>
+
+52
+00:01:42,499 --> 00:01:44,539
+we<font color="#E5E5E5"> still very much seeing this as local</font>
+
+53
+00:01:44,539 --> 00:01:48,289
+races that's<font color="#E5E5E5"> very much dependent on the</font>
+
+54
+00:01:48,289 --> 00:01:50,509
+candidate<font color="#CCCCCC"> yeah what I</font><font color="#E5E5E5"> think both sides</font>
+
+55
+00:01:50,509 --> 00:01:52,069
+<font color="#CCCCCC">are</font><font color="#E5E5E5"> trying to</font><font color="#CCCCCC"> do if they don't have a</font>
+
+56
+00:01:52,069 --> 00:01:53,869
+strong<font color="#E5E5E5"> local candidate is to nationalize</font>
+
+57
+00:01:53,869 --> 00:01:55,939
+the election Democrats very much want to
+
+58
+00:01:55,939 --> 00:01:57,499
+run against Trump when places where he's
+
+59
+00:01:57,499 --> 00:01:58,999
+unpopular and then of course<font color="#CCCCCC"> those</font>
+
+60
+00:01:58,999 --> 00:02:00,499
+states those red states<font color="#E5E5E5"> where there are</font>
+
+61
+00:02:00,499 --> 00:02:02,630
+blue<font color="#CCCCCC"> senators in particular</font><font color="#E5E5E5"> that's where</font>
+
+62
+00:02:02,630 --> 00:02:03,770
+Republicans definitely want to make
+
+63
+00:02:03,770 --> 00:02:05,270
+Trump the issue because<font color="#CCCCCC"> he has more</font>
+
+64
+00:02:05,270 --> 00:02:07,009
+<font color="#CCCCCC">support there</font><font color="#E5E5E5"> let's talk</font><font color="#CCCCCC"> about what is</font>
+
+65
+00:02:07,009 --> 00:02:08,990
+different<font color="#CCCCCC"> about</font><font color="#E5E5E5"> the political climate in</font>
+
+66
+00:02:08,990 --> 00:02:11,690
+this country<font color="#CCCCCC"> this year compared to</font><font color="#E5E5E5"> where</font>
+
+67
+00:02:11,690 --> 00:02:13,880
+it has been<font color="#E5E5E5"> in</font><font color="#CCCCCC"> previous</font><font color="#E5E5E5"> years right</font>
+
+68
+00:02:13,880 --> 00:02:16,010
+there's one outlier in this chart and
+
+69
+00:02:16,010 --> 00:02:16,940
+<font color="#CCCCCC">that is democratic</font>
+
+70
+00:02:16,940 --> 00:02:18,200
+I mean voter<font color="#CCCCCC"> enthusiasm</font>
+
+71
+00:02:18,200 --> 00:02:19,819
+Democrats certainly<font color="#E5E5E5"> come across as more</font>
+
+72
+00:02:19,819 --> 00:02:21,770
+<font color="#E5E5E5">enthusiastic about voting in this year's</font>
+
+73
+00:02:21,770 --> 00:02:23,840
+midterms<font color="#E5E5E5"> than Republicans but compared</font>
+
+74
+00:02:23,840 --> 00:02:25,489
+to<font color="#E5E5E5"> some of the big sweeping wave</font>
+
+75
+00:02:25,489 --> 00:02:27,680
+elections earlier<font color="#E5E5E5"> this century it's not</font>
+
+76
+00:02:27,680 --> 00:02:29,360
+quite as high so<font color="#E5E5E5"> that's a little bit of</font>
+
+77
+00:02:29,360 --> 00:02:30,739
+a red flag<font color="#CCCCCC"> for Democrats they have to</font>
+
+78
+00:02:30,739 --> 00:02:32,870
+get<font color="#E5E5E5"> their people out to vote</font><font color="#CCCCCC"> if they're</font>
+
+79
+00:02:32,870 --> 00:02:34,730
+gonna get<font color="#E5E5E5"> this win yeah we're a few</font>
+
+80
+00:02:34,730 --> 00:02:35,900
+months away<font color="#E5E5E5"> but obviously a lot</font><font color="#CCCCCC"> of</font>
+
+81
+00:02:35,900 --> 00:02:37,430
+tension<font color="#E5E5E5"> already building up around these</font>
+
+82
+00:02:37,430 --> 00:02:39,050
+midterms Nicholas<font color="#E5E5E5"> Johnson thank you very</font>
+
+83
+00:02:39,050 --> 00:02:40,819
+much of<font color="#CCCCCC"> freshman we're</font><font color="#E5E5E5"> reading axiom in</font>
+
+84
+00:02:40,819 --> 00:02:42,770
+just a bit and you too can sign up<font color="#E5E5E5"> for</font>
+
+85
+00:02:42,770 --> 00:02:45,110
+<font color="#CCCCCC">the newsletter by going to sign</font><font color="#E5E5E5"> up Axios</font>
+
+86
+00:02:45,110 --> 00:02:46,880
+dot-com hey there I'm<font color="#E5E5E5"> Chris Hayes from</font>
+
+87
+00:02:46,880 --> 00:02:49,069
+MSNBC thanks for watching<font color="#CCCCCC"> MSNBC on</font>
+
+88
+00:02:49,069 --> 00:02:50,630
+<font color="#CCCCCC">YouTube if you want to keep up to date</font>
+
+89
+00:02:50,630 --> 00:02:51,890
+<font color="#E5E5E5">with the videos we're putting out you</font>
+
+90
+00:02:51,890 --> 00:02:53,870
+can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> subscribe just below me or</font>
+
+91
+00:02:53,870 --> 00:02:55,580
+click over on<font color="#E5E5E5"> this list to see lots of</font>
+
+92
+00:02:55,580 --> 00:00:00,000
+other<font color="#E5E5E5"> great videos</font>
+

@@ -1,0 +1,204 @@
+1
+00:00:02,050 --> 00:00:14,980
+Rock Paper Scissors shoot you've been
+
+2
+00:00:14,980 --> 00:00:16,780
+using<font color="#CCCCCC"> rock-paper-scissors</font><font color="#E5E5E5"> to settle</font>
+
+3
+00:00:16,780 --> 00:00:19,119
+middling disputes for years<font color="#E5E5E5"> but</font><font color="#CCCCCC"> winning</font>
+
+4
+00:00:19,119 --> 00:00:20,590
+<font color="#E5E5E5">is all random right</font>
+
+5
+00:00:20,590 --> 00:00:25,269
+<font color="#E5E5E5">oh now RPS strategy is for real let's</font>
+
+6
+00:00:25,269 --> 00:00:27,810
+take a<font color="#E5E5E5"> trip to China</font>
+
+7
+00:00:30,510 --> 00:00:33,730
+this is<font color="#CCCCCC"> jajang</font><font color="#E5E5E5"> University where a man</font>
+
+8
+00:00:33,730 --> 00:00:36,250
+named Jean<font color="#E5E5E5"> Wang has unlocked the game</font>
+
+9
+00:00:36,250 --> 00:00:37,690
+theory behind winning
+
+10
+00:00:37,690 --> 00:00:40,660
+rock-paper-scissors mathematically the
+
+11
+00:00:40,660 --> 00:00:42,160
+best way to play the<font color="#CCCCCC"> game is choosing</font>
+
+12
+00:00:42,160 --> 00:00:44,410
+your<font color="#E5E5E5"> action randomly in game theory</font>
+
+13
+00:00:44,410 --> 00:00:47,680
+<font color="#E5E5E5">that's called Nash equilibrium but</font><font color="#CCCCCC"> Wang</font>
+
+14
+00:00:47,680 --> 00:00:49,900
+found that players have tendencies based
+
+15
+00:00:49,900 --> 00:00:51,910
+on winning or losing a previous round
+
+16
+00:00:51,910 --> 00:00:53,920
+<font color="#E5E5E5">this is called a</font><font color="#CCCCCC"> conditional response</font>
+
+17
+00:00:53,920 --> 00:00:57,070
+<font color="#E5E5E5">and understanding it lets you exploit</font>
+
+18
+00:00:57,070 --> 00:00:59,500
+<font color="#E5E5E5">your opponent's here's how it works</font>
+
+19
+00:00:59,500 --> 00:01:01,210
+the<font color="#E5E5E5"> first round of the best of three is</font>
+
+20
+00:01:01,210 --> 00:01:03,430
+up for grabs<font color="#CCCCCC"> each player chooses one of</font>
+
+21
+00:01:03,430 --> 00:01:06,160
+<font color="#E5E5E5">the three</font><font color="#CCCCCC"> options</font><font color="#E5E5E5"> but then things get</font>
+
+22
+00:01:06,160 --> 00:01:09,550
+really<font color="#CCCCCC"> interesting there's two simple</font>
+
+23
+00:01:09,550 --> 00:01:11,380
+things<font color="#CCCCCC"> you have to</font><font color="#E5E5E5"> know about how</font><font color="#CCCCCC"> people</font>
+
+24
+00:01:11,380 --> 00:01:13,840
+play<font color="#E5E5E5"> one if a player wins they'll</font>
+
+25
+00:01:13,840 --> 00:01:15,610
+usually<font color="#E5E5E5"> pick the same thing again</font>
+
+26
+00:01:15,610 --> 00:01:18,430
+<font color="#E5E5E5">two if a player loses</font><font color="#CCCCCC"> they'll usually</font>
+
+27
+00:01:18,430 --> 00:01:20,440
+change their strategy<font color="#CCCCCC"> and move to the</font>
+
+28
+00:01:20,440 --> 00:01:22,690
+<font color="#CCCCCC">next action</font><font color="#E5E5E5"> in the sequence for example</font>
+
+29
+00:01:22,690 --> 00:01:25,030
+<font color="#CCCCCC">if</font><font color="#E5E5E5"> someone loses with</font><font color="#CCCCCC"> rock they'll most</font>
+
+30
+00:01:25,030 --> 00:01:27,520
+likely play<font color="#E5E5E5"> paper next if they lose with</font>
+
+31
+00:01:27,520 --> 00:01:29,680
+paper<font color="#E5E5E5"> they'll usually play scissors and</font>
+
+32
+00:01:29,680 --> 00:01:31,840
+so on<font color="#E5E5E5"> those two pieces of information</font>
+
+33
+00:01:31,840 --> 00:01:34,900
+<font color="#E5E5E5">are the key to crushing your opponent</font>
+
+34
+00:01:34,900 --> 00:01:37,090
+let's<font color="#E5E5E5"> say you find yourself in a heated</font>
+
+35
+00:01:37,090 --> 00:01:39,130
+match everything<font color="#CCCCCC"> is on the line round</font>
+
+36
+00:01:39,130 --> 00:01:41,530
+<font color="#CCCCCC">one you play rock</font><font color="#E5E5E5"> your opponent</font><font color="#CCCCCC"> plays</font>
+
+37
+00:01:41,530 --> 00:01:43,810
+paper<font color="#CCCCCC"> you're off</font><font color="#E5E5E5"> to a rough start</font><font color="#CCCCCC"> but</font>
+
+38
+00:01:43,810 --> 00:01:46,480
+<font color="#CCCCCC">since they won you know</font><font color="#E5E5E5"> they're likely</font>
+
+39
+00:01:46,480 --> 00:01:49,420
+to<font color="#E5E5E5"> play the exact same thing again paper</font>
+
+40
+00:01:49,420 --> 00:01:53,380
+<font color="#E5E5E5">so to win</font><font color="#CCCCCC"> you place scissors</font><font color="#E5E5E5"> boom now</font>
+
+41
+00:01:53,380 --> 00:01:56,140
+<font color="#CCCCCC">it's all knotted</font><font color="#E5E5E5"> at one time to bring it</font>
+
+42
+00:01:56,140 --> 00:01:58,810
+home<font color="#E5E5E5"> since they lost last time with</font>
+
+43
+00:01:58,810 --> 00:02:00,550
+paper they're probably going<font color="#E5E5E5"> to</font><font color="#CCCCCC"> change</font>
+
+44
+00:02:00,550 --> 00:02:02,530
+actions now to the<font color="#E5E5E5"> next in the sequence</font>
+
+45
+00:02:02,530 --> 00:02:05,250
+<font color="#CCCCCC">and what comes after Paper Scissors</font>
+
+46
+00:02:05,250 --> 00:02:09,989
+<font color="#E5E5E5">which means your perfect play is</font><font color="#CCCCCC"> rock</font>
+
+47
+00:02:09,989 --> 00:02:11,890
+congratulations you're now ready to
+
+48
+00:02:11,890 --> 00:02:13,989
+<font color="#E5E5E5">dominate</font><font color="#CCCCCC"> you'll</font><font color="#E5E5E5"> never have to wash the</font>
+
+49
+00:02:13,989 --> 00:02:18,209
+dishes<font color="#E5E5E5"> or walk the dog again good luck</font>
+
+50
+00:02:22,209 --> 00:02:25,519
+things they know make you a target<font color="#E5E5E5"> one</font>
+
+51
+00:02:25,519 --> 00:00:00,000
+of<font color="#CCCCCC"> them is bacteria</font>
+

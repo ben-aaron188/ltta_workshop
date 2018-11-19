@@ -1,0 +1,636 @@
+1
+00:00:07,360 --> 00:00:09,469
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+2
+00:00:09,469 --> 00:00:11,450
+Washington<font color="#CCCCCC"> with</font><font color="#E5E5E5"> a look at Axios am</font>
+
+3
+00:00:11,450 --> 00:00:13,910
+co-founder<font color="#CCCCCC"> and CEO of Axios at Jim</font>
+
+4
+00:00:13,910 --> 00:00:15,200
+VandeHei Jim good morning<font color="#CCCCCC"> to you happy</font>
+
+5
+00:00:15,200 --> 00:00:17,780
+Monday<font color="#CCCCCC"> to me</font><font color="#E5E5E5"> talking about</font><font color="#CCCCCC"> Axios is one</font>
+
+6
+00:00:17,780 --> 00:00:20,780
+big<font color="#CCCCCC"> thing today you had</font><font color="#E5E5E5"> Jonathan</font><font color="#CCCCCC"> Swan</font>
+
+7
+00:00:20,780 --> 00:00:23,030
+had this terrific item<font color="#E5E5E5"> over the weekend</font>
+
+8
+00:00:23,030 --> 00:00:25,430
+about<font color="#E5E5E5"> why</font><font color="#CCCCCC"> this White House leaks and one</font>
+
+9
+00:00:25,430 --> 00:00:26,720
+<font color="#E5E5E5">of the reasons this hit is always so</font>
+
+10
+00:00:26,720 --> 00:00:29,150
+<font color="#E5E5E5">much fun and Cable has so much to work</font>
+
+11
+00:00:29,150 --> 00:00:30,890
+with with Trump is there's more leaking
+
+12
+00:00:30,890 --> 00:00:33,620
+in one week<font color="#E5E5E5"> of the Trump White House and</font>
+
+13
+00:00:33,620 --> 00:00:34,790
+<font color="#E5E5E5">you might see in the year of a</font>
+
+14
+00:00:34,790 --> 00:00:37,070
+presidency<font color="#CCCCCC"> and so</font><font color="#E5E5E5"> Swan had the clever</font>
+
+15
+00:00:37,070 --> 00:00:38,540
+<font color="#E5E5E5">idea</font><font color="#CCCCCC"> to call</font><font color="#E5E5E5"> up some of the most</font>
+
+16
+00:00:38,540 --> 00:00:41,090
+<font color="#E5E5E5">prolific leakers and ask him why they do</font>
+
+17
+00:00:41,090 --> 00:00:44,120
+it<font color="#E5E5E5"> what was telling was so many of them</font>
+
+18
+00:00:44,120 --> 00:00:46,820
+said<font color="#CCCCCC"> it was about score settling about</font>
+
+19
+00:00:46,820 --> 00:00:48,260
+making sure that<font color="#E5E5E5"> either</font><font color="#CCCCCC"> they're they're</font>
+
+20
+00:00:48,260 --> 00:00:50,600
+killing ideas or tamping down<font color="#E5E5E5"> people who</font>
+
+21
+00:00:50,600 --> 00:00:52,700
+<font color="#E5E5E5">might be on the rise because they don't</font>
+
+22
+00:00:52,700 --> 00:00:54,440
+like<font color="#E5E5E5"> the ideas they don't like those</font>
+
+23
+00:00:54,440 --> 00:00:56,090
+people<font color="#E5E5E5"> I</font><font color="#CCCCCC"> think part of that tone is</font>
+
+24
+00:00:56,090 --> 00:00:57,770
+obviously<font color="#E5E5E5"> set at the top of the Trump</font>
+
+25
+00:00:57,770 --> 00:01:00,290
+<font color="#E5E5E5">White House the other thing is they do</font>
+
+26
+00:01:00,290 --> 00:01:02,149
+worry<font color="#CCCCCC"> sometimes about</font><font color="#E5E5E5"> ideas</font><font color="#CCCCCC"> that are</font>
+
+27
+00:01:02,149 --> 00:01:03,710
+making<font color="#E5E5E5"> it up to the boss</font><font color="#CCCCCC"> that might get</font>
+
+28
+00:01:03,710 --> 00:01:05,119
+<font color="#E5E5E5">out and so there's a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> leaking</font>
+
+29
+00:01:05,119 --> 00:01:07,310
+<font color="#E5E5E5">that's done to try to terminate those</font>
+
+30
+00:01:07,310 --> 00:01:10,010
+ideas<font color="#CCCCCC"> before they become a reality</font><font color="#E5E5E5"> and I</font>
+
+31
+00:01:10,010 --> 00:01:11,540
+<font color="#CCCCCC">think that leaking is sort of</font><font color="#E5E5E5"> one of the</font>
+
+32
+00:01:11,540 --> 00:01:13,909
+defining qualities of<font color="#E5E5E5"> this presidency</font>
+
+33
+00:01:13,909 --> 00:01:16,159
+because<font color="#E5E5E5"> you have this lens into</font><font color="#CCCCCC"> a White</font>
+
+34
+00:01:16,159 --> 00:01:18,200
+<font color="#CCCCCC">House that's</font><font color="#E5E5E5"> very unusual if you look</font>
+
+35
+00:01:18,200 --> 00:01:20,570
+back<font color="#E5E5E5"> at previous presidencies rarely did</font>
+
+36
+00:01:20,570 --> 00:01:22,040
+this many people<font color="#CCCCCC"> tell you in real time</font>
+
+37
+00:01:22,040 --> 00:01:24,500
+<font color="#CCCCCC">what's actually happening</font><font color="#E5E5E5"> especially the</font>
+
+38
+00:01:24,500 --> 00:01:25,880
+ugly stuff usually<font color="#E5E5E5"> they're spinning</font>
+
+39
+00:01:25,880 --> 00:01:28,070
+although what a great leader<font color="#CCCCCC"> there is</font>
+
+40
+00:01:28,070 --> 00:01:29,810
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> how everyone gets along this White</font>
+
+41
+00:01:29,810 --> 00:01:32,270
+House<font color="#E5E5E5"> a lot of</font><font color="#CCCCCC"> transparency for good and</font>
+
+42
+00:01:32,270 --> 00:01:33,770
+<font color="#CCCCCC">bad well there's also a lot of</font><font color="#E5E5E5"> people</font>
+
+43
+00:01:33,770 --> 00:01:34,970
+<font color="#CCCCCC">inside</font><font color="#E5E5E5"> the White House right</font><font color="#CCCCCC"> now that</font>
+
+44
+00:01:34,970 --> 00:01:37,400
+are<font color="#E5E5E5"> looking internally to see who these</font>
+
+45
+00:01:37,400 --> 00:01:39,290
+<font color="#CCCCCC">leakers</font><font color="#E5E5E5"> are trying to sort of tamp tamp</font>
+
+46
+00:01:39,290 --> 00:01:41,840
+that down<font color="#CCCCCC"> what exactly</font><font color="#E5E5E5"> others leaker is</font>
+
+47
+00:01:41,840 --> 00:01:43,520
+doing to sort of cover their tracks to
+
+48
+00:01:43,520 --> 00:01:44,990
+<font color="#CCCCCC">make sure they're not</font><font color="#E5E5E5"> identified as the</font>
+
+49
+00:01:44,990 --> 00:01:47,030
+leakers in the White House<font color="#CCCCCC"> I mean you</font>
+
+50
+00:01:47,030 --> 00:01:48,200
+just<font color="#E5E5E5"> make sure that you have a good</font>
+
+51
+00:01:48,200 --> 00:01:49,369
+<font color="#CCCCCC">relationship with</font><font color="#E5E5E5"> the reporter that</font>
+
+52
+00:01:49,369 --> 00:01:50,630
+you're<font color="#CCCCCC"> dealing with and that you're not</font>
+
+53
+00:01:50,630 --> 00:01:52,340
+<font color="#E5E5E5">leaking something that</font><font color="#CCCCCC"> only you</font><font color="#E5E5E5"> would</font><font color="#CCCCCC"> be</font>
+
+54
+00:01:52,340 --> 00:01:54,350
+the<font color="#E5E5E5"> person knowing it and then it'd be</font>
+
+55
+00:01:54,350 --> 00:01:55,580
+obvious<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you're the one who knew it</font>
+
+56
+00:01:55,580 --> 00:01:57,590
+<font color="#E5E5E5">a funny thing over the weekend there</font><font color="#CCCCCC"> was</font>
+
+57
+00:01:57,590 --> 00:01:59,420
+this meeting<font color="#E5E5E5"> on Friday Sarah Sanders</font>
+
+58
+00:01:59,420 --> 00:02:01,939
+<font color="#E5E5E5">press secretary has a meeting starts the</font>
+
+59
+00:02:01,939 --> 00:02:03,500
+meeting saying I know somebody's going
+
+60
+00:02:03,500 --> 00:02:05,930
+<font color="#E5E5E5">to leak this then goes on to condemn</font>
+
+61
+00:02:05,930 --> 00:02:08,508
+people for leaking<font color="#E5E5E5"> that comment that the</font>
+
+62
+00:02:08,508 --> 00:02:11,270
+press aide made about John McCain and
+
+63
+00:02:11,270 --> 00:02:14,180
+within hours<font color="#E5E5E5"> it's leaked it was on</font><font color="#CCCCCC"> Axios</font>
+
+64
+00:02:14,180 --> 00:02:15,090
+of a<font color="#E5E5E5"> fullness</font>
+
+65
+00:02:15,090 --> 00:02:16,260
+<font color="#CCCCCC">trypsin</font><font color="#E5E5E5"> of what happened in</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> meeting</font>
+
+66
+00:02:16,260 --> 00:02:17,940
+<font color="#E5E5E5">that she asked not</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> have leaked</font><font color="#CCCCCC"> new</font>
+
+67
+00:02:17,940 --> 00:02:20,519
+would<font color="#CCCCCC"> be leaked</font><font color="#E5E5E5"> it's leaked by a group</font>
+
+68
+00:02:20,519 --> 00:02:22,530
+<font color="#E5E5E5">of people that included several leakers</font>
+
+69
+00:02:22,530 --> 00:02:24,060
+and<font color="#CCCCCC"> I think it's just</font><font color="#E5E5E5"> a sort</font><font color="#CCCCCC"> of a</font>
+
+70
+00:02:24,060 --> 00:02:26,040
+microcosm of what happens at a lot of
+
+71
+00:02:26,040 --> 00:02:27,360
+<font color="#CCCCCC">these meetings and</font><font color="#E5E5E5"> by the way it's</font><font color="#CCCCCC"> not</font>
+
+72
+00:02:27,360 --> 00:02:29,370
+<font color="#CCCCCC">just a communications team</font><font color="#E5E5E5"> you're seeing</font>
+
+73
+00:02:29,370 --> 00:02:30,780
+<font color="#E5E5E5">this happen with meetings in the</font>
+
+74
+00:02:30,780 --> 00:02:33,269
+Situation Room<font color="#CCCCCC"> meetings with Donald</font>
+
+75
+00:02:33,269 --> 00:02:35,640
+Trump<font color="#CCCCCC"> and by the way Trump himself talks</font>
+
+76
+00:02:35,640 --> 00:02:37,709
+to so many people on phone at night that
+
+77
+00:02:37,709 --> 00:02:39,780
+a lot<font color="#E5E5E5"> of leaking I think it's done that</font>
+
+78
+00:02:39,780 --> 00:02:42,120
+<font color="#E5E5E5">way and so one of the things that we're</font>
+
+79
+00:02:42,120 --> 00:02:44,160
+gonna look<font color="#CCCCCC"> back on you know 10 20 years</font>
+
+80
+00:02:44,160 --> 00:02:46,290
+<font color="#E5E5E5">from now is that you really do have tons</font>
+
+81
+00:02:46,290 --> 00:02:49,170
+of visibility into<font color="#E5E5E5"> the wild days of the</font>
+
+82
+00:02:49,170 --> 00:02:50,579
+Trump White House that<font color="#E5E5E5"> you just haven't</font>
+
+83
+00:02:50,579 --> 00:02:52,410
+<font color="#E5E5E5">haven't seen in previous presidents it's</font>
+
+84
+00:02:52,410 --> 00:02:54,150
+just the management<font color="#E5E5E5"> style of the White</font>
+
+85
+00:02:54,150 --> 00:02:55,560
+House have anything to do with<font color="#E5E5E5"> sort of</font>
+
+86
+00:02:55,560 --> 00:02:57,420
+<font color="#E5E5E5">this extreme level of leaking that we've</font>
+
+87
+00:02:57,420 --> 00:02:59,579
+been seeing<font color="#E5E5E5"> absolutely</font><font color="#CCCCCC"> listen anybody</font>
+
+88
+00:02:59,579 --> 00:03:01,829
+who's watching<font color="#E5E5E5"> who's a manager who or</font>
+
+89
+00:03:01,829 --> 00:03:04,500
+has a manager<font color="#E5E5E5"> the tones always set at</font>
+
+90
+00:03:04,500 --> 00:03:06,450
+the top and he doesn't<font color="#E5E5E5"> care</font><font color="#CCCCCC"> if you leak</font>
+
+91
+00:03:06,450 --> 00:03:08,970
+<font color="#E5E5E5">obviously he's wildly improvisational he</font>
+
+92
+00:03:08,970 --> 00:03:12,060
+loves media himself and he<font color="#E5E5E5"> sort of likes</font>
+
+93
+00:03:12,060 --> 00:03:14,610
+the game of media<font color="#E5E5E5"> even when he condemns</font>
+
+94
+00:03:14,610 --> 00:03:17,579
+it frequently on Twitter and so yes all
+
+95
+00:03:17,579 --> 00:03:19,950
+habits good and bad flow down<font color="#E5E5E5"> and I</font>
+
+96
+00:03:19,950 --> 00:03:21,600
+think one of the<font color="#E5E5E5"> habits that's flowed</font>
+
+97
+00:03:21,600 --> 00:03:23,130
+down is there<font color="#E5E5E5"> is a lot of leaking there</font>
+
+98
+00:03:23,130 --> 00:03:25,350
+is a lot of<font color="#CCCCCC"> chaos inside this White</font>
+
+99
+00:03:25,350 --> 00:03:27,209
+House<font color="#E5E5E5"> which by the way this isn't just</font>
+
+100
+00:03:27,209 --> 00:03:28,980
+sort of<font color="#E5E5E5"> a media thing</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> has</font>
+
+101
+00:03:28,980 --> 00:03:31,739
+consequences<font color="#E5E5E5"> it makes it a lot harder to</font>
+
+102
+00:03:31,739 --> 00:03:33,480
+get big things<font color="#E5E5E5"> done you're looking at a</font>
+
+103
+00:03:33,480 --> 00:03:34,739
+president who's trying<font color="#CCCCCC"> to do an Iran</font>
+
+104
+00:03:34,739 --> 00:03:37,380
+deal who's trying<font color="#CCCCCC"> to get the the Koreans</font>
+
+105
+00:03:37,380 --> 00:03:38,790
+to get rid of their<font color="#E5E5E5"> nuclear arsenal</font>
+
+106
+00:03:38,790 --> 00:03:41,370
+who's trying<font color="#E5E5E5"> to clamp down on China and</font>
+
+107
+00:03:41,370 --> 00:03:43,470
+is that you try to<font color="#E5E5E5"> avoid</font><font color="#CCCCCC"> or perhaps</font>
+
+108
+00:03:43,470 --> 00:03:45,690
+provoke a trade war with<font color="#E5E5E5"> China</font><font color="#CCCCCC"> so these</font>
+
+109
+00:03:45,690 --> 00:03:46,980
+are big<font color="#E5E5E5"> things</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> when you</font><font color="#CCCCCC"> have these</font>
+
+110
+00:03:46,980 --> 00:03:49,109
+daily distractions<font color="#CCCCCC"> with a</font><font color="#E5E5E5"> White House</font>
+
+111
+00:03:49,109 --> 00:03:50,639
+that's already stretched pretty thin
+
+112
+00:03:50,639 --> 00:03:53,069
+<font color="#CCCCCC">it's problematic and</font><font color="#E5E5E5"> I think that's one</font>
+
+113
+00:03:53,069 --> 00:03:54,660
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> frustrations</font><font color="#E5E5E5"> you hear from</font>
+
+114
+00:03:54,660 --> 00:03:56,280
+Republicans is<font color="#CCCCCC"> that they're</font><font color="#E5E5E5"> they're like</font>
+
+115
+00:03:56,280 --> 00:03:58,260
+listen<font color="#E5E5E5"> we've got all</font><font color="#CCCCCC"> Republican rule we</font>
+
+116
+00:03:58,260 --> 00:03:59,910
+should be jamming through tons of
+
+117
+00:03:59,910 --> 00:04:01,620
+legislation getting<font color="#E5E5E5"> lots of big</font><font color="#CCCCCC"> things</font>
+
+118
+00:04:01,620 --> 00:04:03,480
+done<font color="#E5E5E5"> and they can't get</font><font color="#CCCCCC"> it done</font><font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> I</font>
+
+119
+00:04:03,480 --> 00:04:04,650
+<font color="#E5E5E5">also know that you're looking at lessons</font>
+
+120
+00:04:04,650 --> 00:04:06,810
+<font color="#E5E5E5">for future politicians on how to be sort</font>
+
+121
+00:04:06,810 --> 00:04:09,480
+of the better version<font color="#CCCCCC"> of President Trump</font>
+
+122
+00:04:09,480 --> 00:04:12,180
+<font color="#E5E5E5">what is the sort of Trump way offer to</font>
+
+123
+00:04:12,180 --> 00:04:13,919
+these<font color="#E5E5E5"> future candidates I mean I'd say a</font>
+
+124
+00:04:13,919 --> 00:04:16,168
+couple ones but the big one would be
+
+125
+00:04:16,168 --> 00:04:19,139
+<font color="#CCCCCC">that Donald Trump</font><font color="#E5E5E5"> has shown us and I</font>
+
+126
+00:04:19,139 --> 00:04:20,970
+think<font color="#CCCCCC"> showing future politicians</font><font color="#E5E5E5"> that</font>
+
+127
+00:04:20,970 --> 00:04:22,860
+people are way more malleable than we
+
+128
+00:04:22,860 --> 00:04:24,060
+thought if you<font color="#E5E5E5"> look at the Republican</font>
+
+129
+00:04:24,060 --> 00:04:26,400
+<font color="#CCCCCC">Party today versus two years ago he has</font>
+
+130
+00:04:26,400 --> 00:04:28,529
+flipped the Republican Party on deficit
+
+131
+00:04:28,529 --> 00:04:30,569
+<font color="#E5E5E5">he has flipped the Republican Party on</font>
+
+132
+00:04:30,569 --> 00:04:34,139
+on globalization<font color="#CCCCCC"> and in</font><font color="#E5E5E5"> trade</font><font color="#CCCCCC"> he has</font>
+
+133
+00:04:34,139 --> 00:04:36,149
+flipped the Republican<font color="#E5E5E5"> Party</font><font color="#CCCCCC"> even on its</font>
+
+134
+00:04:36,149 --> 00:04:38,519
+views of Russia<font color="#CCCCCC"> he's flipped the</font>
+
+135
+00:04:38,519 --> 00:04:40,919
+<font color="#E5E5E5">Republican</font><font color="#CCCCCC"> party</font><font color="#E5E5E5"> a big chunk chunk of it</font>
+
+136
+00:04:40,919 --> 00:04:43,619
+on<font color="#E5E5E5"> its views of the FBI and</font><font color="#CCCCCC"> so what he</font>
+
+137
+00:04:43,619 --> 00:04:45,149
+has<font color="#E5E5E5"> shown</font><font color="#CCCCCC"> is that</font><font color="#E5E5E5"> the rules</font><font color="#CCCCCC"> that we</font>
+
+138
+00:04:45,149 --> 00:04:46,859
+thought party<font color="#CCCCCC"> stand</font><font color="#E5E5E5"> for one thing I the</font>
+
+139
+00:04:46,859 --> 00:04:48,359
+other<font color="#E5E5E5"> party stands for the other might</font>
+
+140
+00:04:48,359 --> 00:04:50,429
+not be true and<font color="#E5E5E5"> that the power of the</font>
+
+141
+00:04:50,429 --> 00:04:53,009
+presidency might even be more powerful
+
+142
+00:04:53,009 --> 00:04:55,079
+<font color="#CCCCCC">than we thought</font><font color="#E5E5E5"> because he's been able</font>
+
+143
+00:04:55,079 --> 00:04:56,999
+to switch<font color="#CCCCCC"> the Republican views on core</font>
+
+144
+00:04:56,999 --> 00:04:58,679
+topics<font color="#CCCCCC"> yeah he certainly broken a lot</font><font color="#E5E5E5"> of</font>
+
+145
+00:04:58,679 --> 00:05:00,359
+<font color="#CCCCCC">the rules and</font><font color="#E5E5E5"> the norms</font><font color="#CCCCCC"> whether you</font><font color="#E5E5E5"> like</font>
+
+146
+00:05:00,359 --> 00:05:01,859
+it<font color="#CCCCCC"> or</font><font color="#E5E5E5"> not that's the big question Jim</font>
+
+147
+00:05:01,859 --> 00:05:03,449
+VandeHei<font color="#E5E5E5"> thanks for joining us we're</font>
+
+148
+00:05:03,449 --> 00:05:05,519
+gonna be<font color="#E5E5E5"> reading</font><font color="#CCCCCC"> a CSA M in just a</font>
+
+149
+00:05:05,519 --> 00:05:06,899
+<font color="#CCCCCC">little</font><font color="#E5E5E5"> bit and to all our</font><font color="#CCCCCC"> viewers</font><font color="#E5E5E5"> out</font>
+
+150
+00:05:06,899 --> 00:05:08,159
+there<font color="#E5E5E5"> you too can sign up</font><font color="#CCCCCC"> for the</font>
+
+151
+00:05:08,159 --> 00:05:10,589
+newsletter at<font color="#E5E5E5"> Axios</font><font color="#CCCCCC"> com that does it for</font>
+
+152
+00:05:10,589 --> 00:05:12,149
+<font color="#CCCCCC">us on</font><font color="#E5E5E5"> this Monday morning</font>
+
+153
+00:05:12,149 --> 00:05:13,709
+hey there I'm<font color="#E5E5E5"> Chris Hayes from MSNBC</font>
+
+154
+00:05:13,709 --> 00:05:16,259
+thanks for watching MSNBC<font color="#CCCCCC"> on YouTube if</font>
+
+155
+00:05:16,259 --> 00:05:17,429
+you<font color="#E5E5E5"> want to keep up</font><font color="#CCCCCC"> to date</font><font color="#E5E5E5"> with the</font>
+
+156
+00:05:17,429 --> 00:05:18,599
+videos we're putting out you can click
+
+157
+00:05:18,599 --> 00:05:20,939
+<font color="#CCCCCC">Subscribe</font><font color="#E5E5E5"> just below me or click over on</font>
+
+158
+00:05:20,939 --> 00:05:22,649
+<font color="#E5E5E5">this list to see lots of other great</font>
+
+159
+00:05:22,649 --> 00:00:00,000
+<font color="#CCCCCC">videos</font>
+

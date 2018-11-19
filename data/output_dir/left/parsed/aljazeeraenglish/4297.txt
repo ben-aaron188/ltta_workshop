@@ -1,0 +1,618 @@
+hello I'm Adrian Finnegan this is
+counting the cost on al-jazeera your
+weekly look at the world of business and
+economics this week post sanctions Iran
+is still a hard place to find a job
+we'll look at the economic reasons
+behind unrest in the Middle East's
+second largest economy also this week
+meltdown and Spectre these are the
+nicknames for two major flaws discovered
+in the hardware of nearly every computer
+and digital device worldwide the race is
+on to fix them plus new year new rules
+for European finance but that's not all
+we'll ask the chief global economists at
+UBS what's his dangerous idea it is that
+I'm a - economy in the Middle East after
+Saudi Arabia and when it comes to
+population it's second only to Egypt
+around 80 million people call Iran home
+and more than half that number is under
+30 years of age that's why when
+demonstrations of a rising prices the
+economic mismanagement broke out in the
+new year
+the world paid attention the
+demonstrations represent the biggest
+show of public dissent in the country
+since rallies took place in 2009 but the
+government's blaming outside
+interference temporarily shut down
+social media like Instagram and telegram
+the online messaging service that's used
+by 40 million Iranians as well
+smartphones played an important role in
+the protests but the economy did too as
+Al Jazeera Zayn baz ravi reports from
+tehran the reasons that they came out
+onto the streets haven't gone away
+that's really the point going forward
+and it was down to the economy the the
+protest started with dissatisfaction
+over economic problems in the country
+the cost of living is rising
+unemployment especially among young
+people is very high and there were
+proposals by President Hassan rouhani's
+administration of increasing gas prices
+exponentially and that was something
+that was just very unpopular with the
+people and even the pro-government
+supporters that are coming out in large
+numbers now it doesn't mean that they
+necessarily support the president's
+policies but they support the governing
+system in Iran and they
+want to push home that point but they
+certainly don't necessarily support
+President Hassan rouhani and going
+forward his government is going to have
+to deal with economic issues that remain
+unaddressed and no doubt those things
+will continue to be a thorn in his side
+so we may see some adjustments to
+proposals to raise gas prices and and an
+effort to continue subsidies that give
+that keep the cost of living stable if
+not bring it down further
+well Iranian oil is now back on
+international markets and GDP is growing
+after years of recession but there's
+unequal distribution of wealth among
+Iran's regions foreign investors are
+staying away put off by banking worries
+restrictions are still in place on
+dollar trades passing through America
+and there's a fear that sanctions will
+be restored the country ranks 120 out of
+190 in the world banks Ease of Doing
+Business Index state-owned enterprises
+dominate stifling competition according
+to some the sprawling business empire of
+the Revolutionary Guards dominates the
+service industry there's a rising number
+of people looking for work
+unemployment officially stands at around
+12 and a half percent but in some parts
+of the country it's over 50 percent
+analysts say that the historic nuclear
+deal negotiated in 2015 has failed to
+deliver prosperity and the protests are
+fueled by anger at the cost of living
+and widespread corruption well joining
+us now from Vienna via Skype is dr. B
+John ketchup or Bijan is an economist
+and managing partner at Atia
+international of Vienna based
+international strategic consulting firm
+good to have you with us on the program
+sir
+so as we heard they're the largest
+street protests in years in Iran are the
+high prices and economic hardship as far
+as you're concerned what are the main
+economic drivers of this discontent
+obviously you can look at a number of
+economic phenomena in Iran I mean high
+prices were mentioned but also
+unemployment is a key factor what I
+would also like to highlight is what
+economists refer to as underemployment
+Iran has a very educated young
+and a lot of these educated citizens are
+unemployed we have about 25 26 percent
+youth unemployment in Iran and as far as
+we can follow at this stage there is a
+direct correlation between the level of
+unemployment especially youth
+unemployment and the protest so there
+are definitely a number of factors that
+are basically leading to disenchantment
+and discontent among the Iranian
+population especially the lower middle
+class and the lower income class okay
+what about corruption is that is that an
+issue that plays into this discontent
+certainly I mean there is a feeling I
+would call it as a as a as a heading for
+all of these issues I would say that the
+Iranians feel that there is injustice in
+in the country there are there are there
+is corruption there is mismanagement
+there is there are you know rents that
+various interest groups including
+religious institutions various
+foundations have in Iran while the lower
+income classes and especially the youth
+are unemployed and and are not catered
+for so there is a feeling of injustice
+and corruption is definitely at one
+important element in that these protests
+began just days after President rouhani
+revealed his his 2018 budget bill having
+promised more transparency and to crack
+down on corruption what can the
+president do now to maneuver so that he
+can use these protests if you like to
+his advantage well you're right I think
+one of the the grievances is the feeling
+that a lot of the country's resources
+are going towards institutions that are
+not really providing what the Iranian
+Society is asking for not providing jobs
+not providing prestige or development
+and the first thing that President
+rouhani could do is to try to
+restructure the allocations I mean there
+are billions of dollars of allocations
+to various religious institutions found
+patience military organizations that the
+people feel are uncalled for
+and that could be a first step to make
+these institutions more accountable make
+the budget allocations more transparent
+the economy has been improving that
+money though is not obviously trickling
+down to the middle classes what what do
+you think is the outlook economically
+for Iran this year I think the positive
+growth outlook will be there I think
+they the Iranian economy has potential
+to grow it is relatively inefficient at
+this stage I mean the overall economic
+activity and there are there is a lot of
+room for for growth in various sectors
+through increased efficiency through
+better management through a pushback
+against corruption but you are right I
+mean it takes time for for for the
+overall macroeconomic growth to trickle
+down to various sectors especially to
+the provinces where people feel that
+they are being neglected and they are
+not really benefitting from the economic
+upturn so the outlook is positive and
+what about foreign investment how
+important is that to Iran's economy in
+in the future international investors
+despite the lifting of sanctions very
+wary still of putting their money into
+Iran how important is foreign direct
+investment to the country foreign
+investment is very very significant not
+just because capital will flow into the
+economy but also because new
+technologies and also new management
+concepts will flow into the country as I
+said mismanagement and inefficiency are
+our issues and part of those issues can
+be addressed through through efficient
+foreign investment through different
+concepts and knowledge that can be
+transferred to the country dr. Kapoor
+really good stories and many thanks
+indeed thank you for having me now a
+design change made to computer chips
+over a decade ago inadvertently opened
+up a way to let hackers into nearly
+every computer and digital device the
+good news is that we now know about the
+floor in the hardware the bad news is
+that fixing it will slow down your
+machine the nicknames given to the bug
+found in central processing units which
+are essentially the brains of your
+computer a meltdown and Spectre Rob
+Reynolds reports the world's biggest
+technology companies are scrambling to
+fix critical cyber security flaws that
+could compromise every computer
+smartphone and server sold in the past
+20 years
+hackers if they are able to install some
+malicious software on a computer and
+then go the extra step to take advantage
+of this problem they can access some
+really sensitive information including
+passwords encryption keys that let them
+access even more sensitive data security
+researchers discovered vulnerabilities
+in computer chips used in nearly all
+devices the flaws dubbed spectre and
+meltdown by security experts would allow
+intruders to steal any data on the
+system's companies involved include
+Apple Microsoft and Google the flawed
+chips are made by Intel AR m and AMD
+Google's project zero security team said
+it found the flaws sometime last year
+the company announced details of how it
+is working to protect users of Google
+cloud and Android devices it says a new
+version of the Chrome browser debuting
+later this month will include fixes
+Microsoft has also developed an
+emergency patch that will automatically
+be applied to all devices running on
+Windows 10 Apple has not publicly
+disclosed any fixes for its operating
+systems those patches will address the
+meltdown bug but they could
+significantly slow down device
+performance
+in some cases by as much as 30 percent
+the other flaw called Spector is harder
+to fix and will ultimately require a
+redesign of the chips themselves
+Adrienne Mars is a technology journalist
+and IT consultant he says security flaws
+of this scale are rare
+normally security researchers go to
+great efforts to keep them secret they
+tell the people who are affected give
+them time to produce a software solution
+and then we all get to hear about it in
+this case embarrassingly for the chip
+company as the information is leaked
+before the fix is widely available so
+that is relatively unusual but it
+happened certainly it doesn't usually
+happen on this huge scale security flaws
+happen every month we're all used to the
+updates we get to our devices and those
+are mostly about fixing security flaws
+what's less common is ones that affect
+so many devices and that affect the
+hardware the physical chips inside the
+computer as opposed to the software the
+programs very very easily fixed but when
+you get a fix in something that's a
+physical actual thing it's harder to
+solve and in this case it comes with
+penalties when we fix it with software
+all right still to come on counting the
+cost the daily money struggles of people
+in Gaza told through cartoon characters
+now New Year's Day 2018 in California
+marked the first legal recreational use
+of cannabis as of this week adults over
+21 can possess up to an ounce or 28
+grams of the drug and can grow up to six
+marijuana plants at home opponents say
+the law will introduce young people to
+drug use but analysts say the pot
+industry could be worth billions of
+dollars
+certainly in tax revenue over the next
+few years the United Arab Emirates and
+Saudi Arabia rolled out value-added tax
+for the first time to mark the new year
+the 5% tax is being applied to most
+goods and services both Gulf states are
+trying to diversify their economies away
+from a reliance on oil and gas and new
+year new rulebook for European finance
+everything from crowdfunding platforms
+to big banks are affected it's known as
+method 2 and it's basically about
+transparency the biggest financial
+trading overhaul since the 2008 global
+financial crisis demands that trades are
+reported to a central database dealings
+done away from publicize in so-called
+dark pools of liquidity will be recorded
+and traceable there's also a requirement
+that banks pay up for research given
+free by the big investment institutions
+those same institutions that are also
+selling investment products and it's now
+EU law that consume
+are given more information on the kinds
+of risks they're buying into when they
+invest their money the impact of climate
+change is being felt all over the world
+especially in low-lying islands
+scientists say that the rising water
+level is causing Cuba to shrink our
+Latin America editor Lucia Newman
+reports now from the coastal town of
+high manitous near Havana jorge reyes
+and his wife alice have lived by the
+ocean for nearly 60 years long enough to
+notice that something is changing
+especially when they look towards the
+key in front of them 40 or even 30 years
+ago during low tide you could walk over
+to the key over there and you wouldn't
+get wet it was totally dry
+now the tide is never lower than this
+it's all because of climate change
+my daughter grew up here we didn't have
+this wall and I would lower her down
+there to play on the rocks because it
+was dry in Hyman ITA's a coastal town
+near Havana everyone notices that the
+water level is rising on this no lying
+island it's hard to believe but I'm
+actually walking on top of what was a
+swimming pool some 40 years ago removed
+about 30 metres away from a beach that
+no longer exists it's yet another
+undeniable example of how the ocean is
+eating away at much of Cuba's coastline
+a report prepared by the ministry of
+science technology and environment warns
+that by 2050 coastal levels will have
+risen 27 centimeters and by the end of
+the century it will be up by 85
+centimeters causing the island to shrink
+significantly scientists argue the
+climate change is also provoking more
+frequent and stronger hurricanes
+flooding and at the same time for long
+periods of drought inland the climate
+experts who prepare the report tell us a
+major action plan is being implemented
+to confront this new reality in the same
+breath we are applying new practices
+like planting corals to increase and
+reproduce coral reefs and more mangroves
+which are key barriers for protecting
+the coastline and we need to adopt new
+construction practices in the Caribbean
+we have experience building on stilts
+the list is long but scientists concede
+that inevitably many people will have no
+other choice but to leave their homes
+and move inland well unlike the world of
+finance Nature doesn't do bailouts and
+many senior global economists a warning
+about a looming ecological credit crunch
+the fact is we're using up limited
+resources that are fast running out we
+may not have much longer before an
+ecological credit crisis occurs
+ecological debt is defined as the excess
+consumption of natural resources over
+and beyond the Earth's capacity to
+regenerate joining us now from Wiltshire
+in the UK Paul Donovan Paul's the global
+chief economist with UBS great to have
+you with us sir once again Paul so a
+revamped version of markets in financial
+instruments directive or method 2 as
+it's known as has come into effect this
+week they use most ambitious yet
+controversial package of financial
+reforms what do you make of it and and
+what are its benefits the aim of method
+2 is to increase transparency and the
+financial sector to make investors aware
+of what it is that they're paying for
+and what it is that they're not paying
+for when they do business with financial
+intermediaries so in that sense it's an
+attempt to try and increase transparency
+it is also
+led to a number of adjustments within
+the financial sector for example
+research which was very often bundled up
+with other brokerage fees has now had to
+be separated out and priced and people
+are debating about how that happens but
+essentially this is an attempt to
+increase the information that investors
+have at their disposal Paul what's your
+overall economic outlook for the for the
+year ahead for the global economy in the
+US we've got a new Fed Chairman Donald
+Trump's new tax plan coming into effect
+in in Europe we've got real brexit
+discussions method two as we've just
+discussed what do you think well I think
+the first thing to do is someone once
+said economies have decimal points in
+their forecast to prove they have a
+sense of humor the numbers the numbers
+are not something worried about what we
+have got broadly speaking is a global
+economy that is operating around about
+the trend rate of growth in the US we've
+got full employment in Europe we've got
+improving employment and that's going to
+sustain the global economy at growth
+rates give or take what they were last
+year inflation may take up a little bit
+as we go through this year as well able
+markets tighten wage costs are starting
+to creep up a little bit but not in an
+alarming way and the other key factor
+this year I think will be that central
+banks are going to continue to tighten
+policy and for the first time in decades
+the Federal Reserve's balance sheet will
+be smaller at the end of this year than
+it wasn't start Paul you're one of
+several economists who have been talking
+about an ecological credit cont crunch
+that we may well be be heading towards
+is that going to impact well first of
+all explain what an ecological credit
+crunch is and are we heading towards one
+this year well an environmental term we
+are doing is consuming about one and a
+half planets worth of resources every
+single year so our current standard of
+living requires us to borrow
+environmental
+resources from future generations to
+maintain the standard of knowing that we
+enjoy today to be like borrowing on
+credit card for the equivalent of fifty
+percent of your household income clearly
+that's not sustainable and if we run
+them to the point where we can no longer
+overuse environmental resources that
+implies a fairly dramatic drop in our
+standard of living
+the good news is that the world is
+changing and adapting and trying to
+become more efficient in how it uses
+resources the bad news is that already
+running into problems with environmental
+constraints on growth pollution for
+example in China is reducing life
+expectancy water resources in the Middle
+East
+and in many other countries are now
+actually limiting growth preventing
+countries from growing certain sorts of
+crops preventing countries from
+generating electricity coal fire power
+stations need an awful lot of water to
+cool them down so we're already starting
+to see environmental constraints acting
+on growth not a full-blown credit crunch
+yet but it's a warning of what might
+come if we don't continue to improve our
+environmental efficiency if that if it
+came a ecological credit crunch would it
+be worse than than the financial credit
+crunch that we saw in 2007-2008
+absolutely I mean a full scale
+environmental credit crunch if we were
+forced absolutely to live within our
+environmental means then you would be
+talking of the loss of a standard of
+living between a third and a half so you
+know if your standard of living was too
+hard I think you would probably notice
+that and feel quite aggrieved and that
+is far far worse than the downturn that
+that followed the global financial
+crisis of 2008 both some freestyle
+thinking here a lot of people beginning
+of the year continuing to demand change
+that saying that the only way that the
+world will change is if that we
+radically rethink the way in which we do
+things on the planet for 2018 what would
+be your dangerous idea that's a very
+interesting question
+I think the dangerous idea which
+radically change the global economy
+would be to allow far more free movement
+labor to allow people to migrate around
+the world a lot more and that has two
+advantages firstly it leads to more
+efficient economies over all and
+secondly it probably reduces prejudice
+all the weird things about a lot of the
+prejudice and discrimination we see is
+is conducted by people who aren't
+exposed to immigration who don't known
+foreigners if you get to know for it as
+you realize they're exactly the same as
+you are the my dangerous idea I think
+that would be early transformative for
+the world economy would be to liberalize
+migration flows Paul as always it's
+great to talk to you many thanks indeed
+for being with us thanks so much indeed
+finally this week businesses in the Gaza
+Strip have long been struggling under an
+Israeli blockade many owners are barely
+able to keep their operations afloat now
+a new cartoon hopes to bring their story
+and struggles to a wider audience
+Malcolm Webb reports from Gaza a girl
+called Noor buys an ice cream and wins a
+ticket to visit a sweet factory Noor was
+a fictional character in an animation
+made by an Israeli rights group but the
+factory and its owner Mohammed Talabani
+are real and so are the many problems
+operating under the blockade of Gaza by
+Israel and Egypt as Noor discovers them
+as Mohammed shows her around starting
+with a power cut
+electricity's off most of the time in
+Gaza during my visit Mohammed explained
+but since the siege began ten years ago
+most of his production lines are closed
+most of the time
+he didn't want to fire any of his 400
+staff and families depend on the wages
+some employees had their hours cut
+instead and the animation also shows the
+machinery they use has problems too
+Israeli authorities restrict the import
+of anything they say could be used to
+make weapons the packaging is meant to
+be done automatically by this machine
+but it needs a spare part from Turkey
+that's not been allowed in this machine
+puts the cream filling in biscuits
+it needs technicians to come here and
+service it they're not allowed to come
+this whole production lines been down
+for four years some of the equipment
+needs to be sent to Germany for
+servicing and that's not allowed either
+the momma doesn't believe the
+restrictions are just for security
+reasons to stop that Austria and the
+Gaza and to make the people is very poor
+that is the politic of Israel Israel's
+military assaults on Gaza in its
+conflicts with Hamas haven't helped
+either three years ago the factory was
+hit by an Israeli rocket Mohamed gifts
+the sweet factory to Nora but as she
+sees its problems becomes a story of
+shattered dreams the rights group that
+made it called gisha
+says 'add aim to inform people but also
+challenged stereotypes we wanted to be
+able to tell the story of movement and
+restrictions on the Gaza Strip and do it
+in a creative way so that we could
+attract new audiences and open people's
+eyes to the fact that there is a
+different reality inside of the Gaza
+Strip than the one they normally hear
+business has also been hurt by Israeli
+restrictions on exports Mohamed says
+trade won't pick up unless the siege
+ends at the end of the film nor makes
+everything right with her imagination in
+reality things aren't so simple and
+Gaza's industries are still crippled
+Malcolm Webb ending our show for this
+week if you'd like to comment on
+anything that you've seen you can tweet
+me I'm at a Finnigan on Twitter please
+use the hashtag AJ CTC when you do or
+you could drop us a line counting the
+cost of al jazeera dotnet is our email
+address as always there's plenty more
+for you online at
+zero comm /c TC that takes you straight
+to our page which has individual reports
+links even entire episodes for you to
+catch up on but that is it for this
+edition of counting the cost in Doha I'm
+Adrian Finnegan from the whole team here
+thanks for joining us the news on al
+Jazeera is next

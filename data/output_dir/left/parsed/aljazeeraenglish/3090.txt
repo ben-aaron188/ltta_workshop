@@ -1,0 +1,231 @@
+2018 was going to be the year that
+Facebook would do things differently
+under intense scrutiny from governments
+and their regulators over fake news hate
+speech and political manipulation on his
+platform mark zuckerberg vowed to fix
+things then last weekend the New York
+Times along with the Guardian and
+Observer and channel 4 in the UK broke a
+story that shattered Zuckerberg PR
+campaign together they revealed that
+Cambridge analytic a data analysis firm
+employed by Donald Trump's election
+campaign harvested the personal
+information of more than 50 million
+American Facebook users without their
+permission and then used that
+information to create targeted political
+advertising in order to influence voter
+behavior the issues here go far beyond
+one data mining company and one election
+voters in Great Britain and Kenya may
+have been affected as well and the story
+puts the spotlight squarely on
+Facebook's business model and its mass
+surveillance of people like you and me
+to make their money our starting point
+this week is the man who blew the
+whistle and blew the lid off of one of
+social media's dirtiest secrets
+one of the more puzzling and
+contradictory aspects of this story is
+how even in this digital age where data
+has been crowned King information is
+often and not enough sometimes the story
+needs a face a source willing to go on
+the record to register with audiences
+somebody like the Cambridge analytical
+whistleblower Chris white because the
+details what the company did how it mind
+Facebook for political purposes had been
+reported before more than two years ago
+well we've known the broad outlines of
+the Cambridge and Lucas story for a
+couple years since 2015 we've had a
+little bit more information in 2017 when
+the intercept published a long report on
+this as well but Christopher why we
+coming forward gives us a lot more
+detail on precisely how this worked it
+helps make the story concrete for people
+in a way that before it might have felt
+a bit abstract what Christopher Wiley
+showed was a bit of insight into the
+inner workings of the company and how
+they wanted to build these models they
+called them psychographic models and so
+he he gave us the most detailed look yet
+at how Cambridge analytical works and
+what it was trying to do
+this story goes back four years to when
+Chris Wiley was Cambridge analytic a--'s
+director of research the company
+contracted a British data scientist
+Alexander Cogan who had designed a
+Facebook survey app for a study into
+online behavior participants who
+downloaded Cogan's app and took the
+survey were each paid a dollar or two
+for that and for access to their
+personal data 270,000 people took part
+but it didn't end there like all other
+apps operating on Facebook at the time
+Cogan's app was able to harvest the
+information of not just participants who
+had consented but of all their Facebook
+friends as well who had no idea that
+their personal information was being
+collected it was no glitch it was a
+design feature of Facebook's platform
+that's how 270,000 participants in the
+u.s. exposed the private information of
+another 50 million Americans enabling
+Cambridge analytic to target those
+people with specifically tailored
+political ads on behalf of its client
+presidential candidate Donald Trump
+when you authorize those apps to access
+your profile you're potentially giving
+away huge amounts of information and so
+whilst Facebook is ostensibly stunned
+and outraged by this kind of data
+collection that's exactly what the
+platform does exactly the platform's
+therefore and it's what the policy
+specifically allowed back in 2014 now we
+should be shocked about this but we
+shouldn't be surprised companies and app
+developers and and scientists could
+develop apps plug them into the Facebook
+system and get access to all this rich
+data you know scholars who have been
+watching Facebook have been raising
+alarms about this since 2010 but nobody
+was listening nobody listened and except
+a few regulators in Europe and in
+Washington DC and Facebook encouraged it
+this was Facebook policy so now that
+Facebook people are acting all surprised
+all hurt like they're the victims I have
+to laugh it took Facebook more than four
+days for entire news cycles before its
+CEO managed to produce a response by
+that time the market had spoke shaving
+more than 50 billion dollars off the
+company's value Mark Zuckerberg post was
+apologetic Facebook failed its users he
+said mistakes were made the company had
+to do better this was a major and I'm
+really sorry that this happened among
+the things the Zuckerberg failed to
+mention in the media blitz that followed
+Facebook had threatened to sue The Times
+and the Guardian if they went ahead with
+the story and Zuckerberg implied that
+what those papers had reported was news
+to the company it wasn't as as far as we
+understood around the time of that
+episode there was no data out there as
+one commentator put it Mark Zuckerberg
+wasn't responding to the facts because
+the facts were not new to him he was
+responding to the fewer which
+so Facebook discovered that this data
+had been passed to hands that it wasn't
+meant to be in back in 2015 and it moved
+to ask Cambridge analytical who had got
+the data to delete it did they check
+that you deleted the data no they were
+just satisfied with one well big
+question really is why didn't do anymore
+and how could it be sure that it had
+deleted it and the big question that
+regulators are gonna be asking Facebook
+is why didn't you tell us in 2015 and
+why didn't you ban Cambridge analytic
+her at that point because they actually
+only banned Cambridge analytical from
+Facebook just as this story was coming
+out last week what a weak response so
+they they don't they can't use Facebook
+like they can't they can't play words
+with friends anymore
+they can't post about their birthday
+parties that seems like pretty useless
+penalty but it's all that they have
+but clearly Facebook had not cared to
+prevent this from happening had not
+audited the companies that had taken the
+data had not followed through Facebook
+had the legal and moral responsibility
+to make sure that this data stayed safe
+instead they have tried to make it just
+a matter of this sleazy company
+Cambridge analytic a taking advantage of
+Facebook well of course they did this
+story forces us to consider not only
+Cambridge analytic er but Facebook
+itself the 50 million profiles that
+Cambridge analytic has allegedly is just
+2 percent of Facebook's 2.2 billion
+profiles
+Facebook has incomparable processing
+power compared to any other company so
+what are we going to do when Facebook
+decides to change its algorithms and
+manipulate and influence people towards
+its own political or commercial ends or
+what about when Facebook manipulates
+people's news feeds under government
+pressure how are democracies potentially
+being reshaped
+because Cambridge analytique de has not
+limited its work to the u.s.
+presidential election of 2016 that same
+year it worked for the leave side in
+Britain's brexit referendum and was also
+hired by President Kenyatta
+in last year's Kenyan election to
+electoral processes that were closed and
+in the case of Kenya disputed and those
+are just the campaign's
+that we know this is just the tip of the
+iceberg in many countries in the
+developing world Facebook is essentially
+synonymous with the Internet
+thinking about a country like Myanmar
+country like Cambodia Facebook is how
+people interact with the Internet so
+there are enormous implications for the
+types of decisions that Facebook is
+making about who is allowed to provide
+political messaging on these platforms
+and who has the resources to do so
+information is power and data is power
+the average person goes onto Facebook to
+connect with friends and family but
+that's not what Facebook is there for
+Facebook is a intelligence database
+essentially it's great that exists to
+gather data about people to better
+advertise to them this is a new way of
+doing modern politics and it just can't
+be sustainable we just can't have a
+democracy that relies on exploiting
+deeply personal information about
+people's private lives in order to try
+to recruit voters Facebook was perfectly
+designed to crush democracy to mess with
+democracy it was not intended to sort of
+accidentally turned out to be this
+perfect tool for this perfect storm
+and you can see democracy being
+threatened around the world right now
+it's not a coincidence that most of
+these forces find Facebook to be a very
+effective tool Facebook didn't cause our
+problems but Facebook is amplifying them
+it's a big problem it was a bad idea in
+the first place and there's almost
+nothing we can do

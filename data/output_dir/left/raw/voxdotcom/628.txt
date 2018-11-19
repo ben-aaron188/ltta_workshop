@@ -1,0 +1,264 @@
+1
+00:00:01,429 --> 00:00:04,620
+so I have this<font color="#CCCCCC"> problem</font><font color="#E5E5E5"> when I plug my</font>
+
+2
+00:00:04,620 --> 00:00:07,049
+<font color="#CCCCCC">laptop charger into</font><font color="#E5E5E5"> an outlet</font><font color="#CCCCCC"> that weird</font>
+
+3
+00:00:07,049 --> 00:00:09,450
+box between<font color="#E5E5E5"> the plug and the</font><font color="#CCCCCC"> part where</font>
+
+4
+00:00:09,450 --> 00:00:11,580
+it connects<font color="#E5E5E5"> to</font><font color="#CCCCCC"> my computer it gets super</font>
+
+5
+00:00:11,580 --> 00:00:13,259
+<font color="#E5E5E5">hot like I can't even touch it</font>
+
+6
+00:00:13,259 --> 00:00:16,109
+so I've<font color="#CCCCCC"> invited Audrey Quinn from NPR's</font>
+
+7
+00:00:16,109 --> 00:00:18,539
+Planet<font color="#E5E5E5"> Money team to help explain what's</font>
+
+8
+00:00:18,539 --> 00:00:20,220
+<font color="#CCCCCC">going</font><font color="#E5E5E5"> on</font><font color="#CCCCCC"> with my super</font><font color="#E5E5E5"> hot laptop</font>
+
+9
+00:00:20,220 --> 00:00:22,710
+charger so Audrey what's the deal<font color="#CCCCCC"> yeah</font>
+
+10
+00:00:22,710 --> 00:00:24,359
+the first thing<font color="#E5E5E5"> you have to understand</font>
+
+11
+00:00:24,359 --> 00:00:26,640
+is that the kind<font color="#CCCCCC"> of power that comes out</font>
+
+12
+00:00:26,640 --> 00:00:29,039
+of<font color="#CCCCCC"> your wall is actually different than</font>
+
+13
+00:00:29,039 --> 00:00:30,990
+the kind<font color="#E5E5E5"> of power that your electronics</font>
+
+14
+00:00:30,990 --> 00:00:32,820
+want it comes out in<font color="#E5E5E5"> the form of</font>
+
+15
+00:00:32,820 --> 00:00:35,370
+<font color="#E5E5E5">alternating current</font><font color="#CCCCCC"> electricity that</font>
+
+16
+00:00:35,370 --> 00:00:37,559
+<font color="#E5E5E5">means that the electrons are pulsing</font>
+
+17
+00:00:37,559 --> 00:00:40,620
+back and forth<font color="#E5E5E5"> and your electronics want</font>
+
+18
+00:00:40,620 --> 00:00:42,120
+what's called<font color="#E5E5E5"> direct current power</font>
+
+19
+00:00:42,120 --> 00:00:43,980
+that's where the<font color="#E5E5E5"> electrons are</font><font color="#CCCCCC"> flowing</font>
+
+20
+00:00:43,980 --> 00:00:46,320
+<font color="#E5E5E5">straight like a river</font><font color="#CCCCCC"> so they have to</font>
+
+21
+00:00:46,320 --> 00:00:47,789
+convert it and when they do that
+
+22
+00:00:47,789 --> 00:00:50,730
+<font color="#CCCCCC">conversion</font><font color="#E5E5E5"> energy is wasted</font><font color="#CCCCCC"> so what</font>
+
+23
+00:00:50,730 --> 00:00:52,800
+you're feeling is energy lost<font color="#E5E5E5"> in the</font>
+
+24
+00:00:52,800 --> 00:00:54,510
+form<font color="#E5E5E5"> of heat</font><font color="#CCCCCC"> okay</font>
+
+25
+00:00:54,510 --> 00:00:57,120
+so why can't I<font color="#CCCCCC"> just power my laptop with</font>
+
+26
+00:00:57,120 --> 00:00:58,739
+alternating current if that's coming out
+
+27
+00:00:58,739 --> 00:01:00,780
+of<font color="#CCCCCC"> the wall</font><font color="#E5E5E5"> yeah that works just</font><font color="#CCCCCC"> fine</font>
+
+28
+00:01:00,780 --> 00:01:02,640
+<font color="#CCCCCC">for things like lightbulbs or a</font>
+
+29
+00:01:02,640 --> 00:01:04,769
+<font color="#CCCCCC">hairdryer</font><font color="#E5E5E5"> but electronics are a little</font>
+
+30
+00:01:04,769 --> 00:01:06,689
+<font color="#E5E5E5">more complicated</font><font color="#CCCCCC"> if you were to send</font>
+
+31
+00:01:06,689 --> 00:01:08,460
+that alternating<font color="#E5E5E5"> current</font><font color="#CCCCCC"> power directly</font>
+
+32
+00:01:08,460 --> 00:01:10,890
+<font color="#E5E5E5">to your laptop</font><font color="#CCCCCC"> probably see a puff</font><font color="#E5E5E5"> of</font>
+
+33
+00:01:10,890 --> 00:01:13,890
+blue smoke<font color="#CCCCCC"> oh god that sounds</font><font color="#E5E5E5"> bad okay</font>
+
+34
+00:01:13,890 --> 00:01:16,619
+so if<font color="#E5E5E5"> DC power is so</font><font color="#CCCCCC"> great</font><font color="#E5E5E5"> and why don't</font>
+
+35
+00:01:16,619 --> 00:01:18,420
+<font color="#CCCCCC">we</font><font color="#E5E5E5"> just have</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> in our houses in the</font>
+
+36
+00:01:18,420 --> 00:01:20,340
+first place<font color="#CCCCCC"> so this</font><font color="#E5E5E5"> goes back</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> the</font>
+
+37
+00:01:20,340 --> 00:01:23,460
+late 1800s<font color="#CCCCCC"> there were two guys who</font>
+
+38
+00:01:23,460 --> 00:01:24,960
+represented the two different<font color="#E5E5E5"> kinds of</font>
+
+39
+00:01:24,960 --> 00:01:27,570
+power there was Thomas Edison he was all
+
+40
+00:01:27,570 --> 00:01:30,720
+about DC power and then there's Nikola
+
+41
+00:01:30,720 --> 00:01:34,200
+Tesla he was your AC guy<font color="#CCCCCC"> they're totally</font>
+
+42
+00:01:34,200 --> 00:01:36,060
+duking it out<font color="#E5E5E5"> every time</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> new building</font>
+
+43
+00:01:36,060 --> 00:01:37,950
+goes in<font color="#E5E5E5"> it's kind of this whoa what's</font>
+
+44
+00:01:37,950 --> 00:01:39,600
+gonna happen are they gonna<font color="#E5E5E5"> use AC or</font>
+
+45
+00:01:39,600 --> 00:01:40,220
+they're<font color="#E5E5E5"> gonna</font>
+
+46
+00:01:40,220 --> 00:01:43,130
+<font color="#E5E5E5">DC and what happens</font><font color="#CCCCCC"> eventually is that</font>
+
+47
+00:01:43,130 --> 00:01:45,920
+AC power is much better at<font color="#E5E5E5"> traveling</font>
+
+48
+00:01:45,920 --> 00:01:49,220
+long<font color="#E5E5E5"> distances</font><font color="#CCCCCC"> so ultimately</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> entire</font>
+
+49
+00:01:49,220 --> 00:01:51,740
+power grid gets set<font color="#CCCCCC"> up to spread AC</font>
+
+50
+00:01:51,740 --> 00:01:54,140
+power<font color="#E5E5E5"> but today you have all these</font>
+
+51
+00:01:54,140 --> 00:01:55,850
+<font color="#E5E5E5">devices we have</font><font color="#CCCCCC"> smartphones we</font><font color="#E5E5E5"> have</font>
+
+52
+00:01:55,850 --> 00:01:57,920
+electric<font color="#CCCCCC"> cars we have</font><font color="#E5E5E5"> tablets we have</font>
+
+53
+00:01:57,920 --> 00:02:00,020
+computers<font color="#E5E5E5"> and all these things are</font>
+
+54
+00:02:00,020 --> 00:02:02,390
+hungry for<font color="#CCCCCC"> this DC power do you think we</font>
+
+55
+00:02:02,390 --> 00:02:04,370
+could<font color="#E5E5E5"> ever switch back and</font><font color="#CCCCCC"> maybe</font><font color="#E5E5E5"> realize</font>
+
+56
+00:02:04,370 --> 00:02:06,590
+Edison's<font color="#CCCCCC"> original dream of DC power in</font>
+
+57
+00:02:06,590 --> 00:02:08,840
+<font color="#E5E5E5">every home the US has one of the best</font>
+
+58
+00:02:08,840 --> 00:02:10,970
+most reliable<font color="#E5E5E5"> power grids in the world</font>
+
+59
+00:02:10,970 --> 00:02:13,100
+<font color="#CCCCCC">so people aren't</font><font color="#E5E5E5"> saying let's knock out</font>
+
+60
+00:02:13,100 --> 00:02:15,020
+this<font color="#CCCCCC"> entire grid</font><font color="#E5E5E5"> you could just have one</font>
+
+61
+00:02:15,020 --> 00:02:17,510
+converter box in<font color="#E5E5E5"> your house and that way</font>
+
+62
+00:02:17,510 --> 00:02:20,090
+you're<font color="#CCCCCC"> not converting ASA to DC at the</font>
+
+63
+00:02:20,090 --> 00:02:22,760
+level<font color="#E5E5E5"> of every single</font><font color="#CCCCCC"> device</font><font color="#E5E5E5"> so if we</font>
+
+64
+00:02:22,760 --> 00:02:24,530
+can<font color="#CCCCCC"> reduce</font><font color="#E5E5E5"> the number of</font><font color="#CCCCCC"> conversions</font>
+
+65
+00:02:24,530 --> 00:02:27,560
+from AC<font color="#E5E5E5"> to DC power even a little bit</font>
+
+66
+00:02:27,560 --> 00:00:00,000
+<font color="#E5E5E5">we're going</font><font color="#CCCCCC"> to save a lot</font><font color="#E5E5E5"> of energy</font>
+

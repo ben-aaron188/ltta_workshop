@@ -1,0 +1,424 @@
+1
+00:00:04,400 --> 00:00:07,670
+Equifax<font color="#E5E5E5"> was hacked and you were probably</font>
+
+2
+00:00:07,670 --> 00:00:11,429
+affected<font color="#E5E5E5"> 143 million Americans had their</font>
+
+3
+00:00:11,429 --> 00:00:13,019
+<font color="#E5E5E5">social security</font><font color="#CCCCCC"> number and</font><font color="#E5E5E5"> other</font>
+
+4
+00:00:13,019 --> 00:00:15,900
+<font color="#E5E5E5">personal</font><font color="#CCCCCC"> information</font><font color="#E5E5E5"> exposed to hackers</font>
+
+5
+00:00:15,900 --> 00:00:18,570
+<font color="#E5E5E5">over the past few months</font><font color="#CCCCCC"> at Equifax you</font>
+
+6
+00:00:18,570 --> 00:00:21,240
+might not even<font color="#E5E5E5"> know</font><font color="#CCCCCC"> what Equifax is you</font>
+
+7
+00:00:21,240 --> 00:00:22,830
+<font color="#E5E5E5">really probably wouldn't have had reason</font>
+
+8
+00:00:22,830 --> 00:00:24,300
+to<font color="#E5E5E5"> know what Equifax was until this</font>
+
+9
+00:00:24,300 --> 00:00:26,220
+happened<font color="#E5E5E5"> but it's a credit reporting</font>
+
+10
+00:00:26,220 --> 00:00:28,260
+agency<font color="#CCCCCC"> it</font><font color="#E5E5E5"> basically collects everything</font>
+
+11
+00:00:28,260 --> 00:00:30,929
+<font color="#CCCCCC">you ever do your names your addresses</font>
+
+12
+00:00:30,929 --> 00:00:33,899
+your<font color="#E5E5E5"> credit information</font><font color="#CCCCCC"> and they hold it</font>
+
+13
+00:00:33,899 --> 00:00:36,450
+all in a database<font color="#E5E5E5"> and that database was</font>
+
+14
+00:00:36,450 --> 00:00:38,940
+breached<font color="#E5E5E5"> people are pissed and I</font>
+
+15
+00:00:38,940 --> 00:00:42,030
+understand<font color="#E5E5E5"> it's a really big problem but</font>
+
+16
+00:00:42,030 --> 00:00:43,980
+here's<font color="#CCCCCC"> the thing</font><font color="#E5E5E5"> your online security</font>
+
+17
+00:00:43,980 --> 00:00:46,980
+has never<font color="#CCCCCC"> been safe</font><font color="#E5E5E5"> people probably</font><font color="#CCCCCC"> have</font>
+
+18
+00:00:46,980 --> 00:00:48,300
+seen<font color="#E5E5E5"> your social security number before</font>
+
+19
+00:00:48,300 --> 00:00:50,129
+just think about when you go to the
+
+20
+00:00:50,129 --> 00:00:53,250
+doctor or you call your bank<font color="#E5E5E5"> we tend to</font>
+
+21
+00:00:53,250 --> 00:00:55,890
+give it out<font color="#E5E5E5"> pretty freely so whether or</font>
+
+22
+00:00:55,890 --> 00:00:58,680
+not<font color="#E5E5E5"> your personal identity</font><font color="#CCCCCC"> is stolen is</font>
+
+23
+00:00:58,680 --> 00:01:00,870
+kind of<font color="#E5E5E5"> a crapshoot</font>
+
+24
+00:01:00,870 --> 00:01:02,250
+you're better off<font color="#E5E5E5"> assuming that your</font>
+
+25
+00:01:02,250 --> 00:01:04,110
+<font color="#CCCCCC">identity has been</font><font color="#E5E5E5"> hacked because it</font>
+
+26
+00:01:04,110 --> 00:01:06,510
+<font color="#CCCCCC">definitely could happen if not this time</font>
+
+27
+00:01:06,510 --> 00:01:08,790
+<font color="#E5E5E5">sometime in the future so what do you do</font>
+
+28
+00:01:08,790 --> 00:01:11,520
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> you've got a few</font><font color="#E5E5E5"> options</font><font color="#CCCCCC"> number</font>
+
+29
+00:01:11,520 --> 00:01:13,350
+<font color="#CCCCCC">one and this</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> the one that</font><font color="#E5E5E5"> everybody</font>
+
+30
+00:01:13,350 --> 00:01:16,290
+knows<font color="#CCCCCC"> and nobody</font><font color="#E5E5E5"> wants to do you have to</font>
+
+31
+00:01:16,290 --> 00:01:18,960
+<font color="#E5E5E5">have secure passwords this is incredibly</font>
+
+32
+00:01:18,960 --> 00:01:20,460
+important because<font color="#E5E5E5"> if somebody gets</font>
+
+33
+00:01:20,460 --> 00:01:22,680
+access<font color="#CCCCCC"> to one of your accounts you can</font>
+
+34
+00:01:22,680 --> 00:01:24,720
+mitigate<font color="#E5E5E5"> the damage that</font><font color="#CCCCCC"> might be done</font>
+
+35
+00:01:24,720 --> 00:01:26,490
+<font color="#CCCCCC">by making</font><font color="#E5E5E5"> sure they don't get</font><font color="#CCCCCC"> access to</font>
+
+36
+00:01:26,490 --> 00:01:29,130
+<font color="#E5E5E5">all of your</font><font color="#CCCCCC"> accounts for every single</font>
+
+37
+00:01:29,130 --> 00:01:30,810
+<font color="#E5E5E5">account I have I turn on</font><font color="#CCCCCC"> 2-step</font>
+
+38
+00:01:30,810 --> 00:01:33,450
+verification if I can my password is a
+
+39
+00:01:33,450 --> 00:01:35,820
+completely<font color="#E5E5E5"> random string of numbers and</font>
+
+40
+00:01:35,820 --> 00:01:38,189
+<font color="#CCCCCC">letters and characters</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> I store in</font>
+
+41
+00:01:38,189 --> 00:01:39,990
+one of those password management<font color="#E5E5E5"> systems</font>
+
+42
+00:01:39,990 --> 00:01:40,979
+like<font color="#E5E5E5"> LastPass</font>
+
+43
+00:01:40,979 --> 00:01:42,299
+you've probably heard that<font color="#CCCCCC"> you should</font>
+
+44
+00:01:42,299 --> 00:01:44,040
+freeze your credit<font color="#CCCCCC"> or a set up a fraud</font>
+
+45
+00:01:44,040 --> 00:01:46,950
+alert and yeah<font color="#CCCCCC"> you</font><font color="#E5E5E5"> know maybe you should</font>
+
+46
+00:01:46,950 --> 00:01:49,530
+do<font color="#E5E5E5"> that the thing is it takes</font><font color="#CCCCCC"> a lot of</font>
+
+47
+00:01:49,530 --> 00:01:53,130
+work and not everyone is gonna end up
+
+48
+00:01:53,130 --> 00:01:55,470
+<font color="#E5E5E5">having their identity stolen</font><font color="#CCCCCC"> so that's</font>
+
+49
+00:01:55,470 --> 00:01:58,530
+the sort<font color="#CCCCCC"> of step</font><font color="#E5E5E5"> you can take if or when</font>
+
+50
+00:01:58,530 --> 00:02:00,689
+someone tries to<font color="#CCCCCC"> open a new account</font><font color="#E5E5E5"> in</font>
+
+51
+00:02:00,689 --> 00:02:02,490
+your<font color="#E5E5E5"> name</font><font color="#CCCCCC"> people are gonna</font><font color="#E5E5E5"> disagree with</font>
+
+52
+00:02:02,490 --> 00:02:04,710
+me<font color="#E5E5E5"> a lot of people think you should do</font>
+
+53
+00:02:04,710 --> 00:02:06,750
+this<font color="#E5E5E5"> and maybe you</font><font color="#CCCCCC"> should</font><font color="#E5E5E5"> but it's a lot</font>
+
+54
+00:02:06,750 --> 00:02:09,598
+of<font color="#E5E5E5"> work it's gonna take</font><font color="#CCCCCC"> time and there's</font>
+
+55
+00:02:09,598 --> 00:02:10,979
+no guarantee your identity is getting
+
+56
+00:02:10,979 --> 00:02:13,660
+stolen<font color="#E5E5E5"> anyway</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> if you don't</font>
+
+57
+00:02:13,660 --> 00:02:16,450
+really want<font color="#E5E5E5"> to do that just know that</font>
+
+58
+00:02:16,450 --> 00:02:19,000
+you're taking<font color="#CCCCCC"> the risk that</font><font color="#E5E5E5"> it could be</font>
+
+59
+00:02:19,000 --> 00:02:21,460
+a bit<font color="#E5E5E5"> of a nightmare later so if you</font>
+
+60
+00:02:21,460 --> 00:02:22,990
+decide you want to set up<font color="#E5E5E5"> a fraud alert</font>
+
+61
+00:02:22,990 --> 00:02:24,850
+<font color="#CCCCCC">you have to call one of</font><font color="#E5E5E5"> the credit</font>
+
+62
+00:02:24,850 --> 00:02:26,530
+bureaus there's three Equifax Experian
+
+63
+00:02:26,530 --> 00:02:29,110
+and TransUnion<font color="#CCCCCC"> the phone call</font><font color="#E5E5E5"> itself</font>
+
+64
+00:02:29,110 --> 00:02:31,210
+isn't<font color="#E5E5E5"> too hard</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> you will have</font><font color="#CCCCCC"> to mail</font>
+
+65
+00:02:31,210 --> 00:02:33,130
+in supporting documents<font color="#E5E5E5"> after</font><font color="#CCCCCC"> the fact</font>
+
+66
+00:02:33,130 --> 00:02:35,170
+<font color="#E5E5E5">things like your driver's license or</font>
+
+67
+00:02:35,170 --> 00:02:36,970
+<font color="#CCCCCC">other identifying information</font><font color="#E5E5E5"> so that</font>
+
+68
+00:02:36,970 --> 00:02:38,680
+<font color="#E5E5E5">they know it's really you</font><font color="#CCCCCC"> who put the</font>
+
+69
+00:02:38,680 --> 00:02:40,510
+fraud alert and not some random other
+
+70
+00:02:40,510 --> 00:02:42,700
+person in the future<font color="#E5E5E5"> when you need</font>
+
+71
+00:02:42,700 --> 00:02:44,170
+credit whether you need a<font color="#E5E5E5"> new credit</font>
+
+72
+00:02:44,170 --> 00:02:45,730
+<font color="#CCCCCC">card or you're</font><font color="#E5E5E5"> trying to buy a home</font>
+
+73
+00:02:45,730 --> 00:02:47,440
+you're<font color="#E5E5E5"> gonna have to go</font><font color="#CCCCCC"> through extra</font>
+
+74
+00:02:47,440 --> 00:02:49,720
+<font color="#E5E5E5">steps to prove that it's you that's the</font>
+
+75
+00:02:49,720 --> 00:02:50,980
+whole<font color="#CCCCCC"> point of doing one of these fraud</font>
+
+76
+00:02:50,980 --> 00:02:53,290
+alerts<font color="#E5E5E5"> or credit freezes you don't want</font>
+
+77
+00:02:53,290 --> 00:02:55,240
+to make<font color="#E5E5E5"> it easy for the hacker to</font><font color="#CCCCCC"> gain</font>
+
+78
+00:02:55,240 --> 00:02:58,000
+access to<font color="#CCCCCC"> your credit</font><font color="#E5E5E5"> but it'll also</font>
+
+79
+00:02:58,000 --> 00:02:59,740
+make<font color="#CCCCCC"> it</font><font color="#E5E5E5"> harder for you</font><font color="#CCCCCC"> to gain</font><font color="#E5E5E5"> access to</font>
+
+80
+00:02:59,740 --> 00:03:01,600
+<font color="#E5E5E5">your credit</font><font color="#CCCCCC"> it's hard enough</font>
+
+81
+00:03:01,600 --> 00:03:03,160
+if you're trying<font color="#CCCCCC"> to buy a house or let</font>
+
+82
+00:03:03,160 --> 00:03:04,930
+alone<font color="#E5E5E5"> take out a new credit</font><font color="#CCCCCC"> card</font><font color="#E5E5E5"> but</font>
+
+83
+00:03:04,930 --> 00:03:06,940
+adding another layer where<font color="#E5E5E5"> you also have</font>
+
+84
+00:03:06,940 --> 00:03:09,220
+to contact all<font color="#CCCCCC"> the credit agencies again</font>
+
+85
+00:03:09,220 --> 00:03:11,380
+and tell them hey yeah I promise it's me
+
+86
+00:03:11,380 --> 00:03:14,050
+<font color="#E5E5E5">please give all these documents to the</font>
+
+87
+00:03:14,050 --> 00:03:15,790
+people who need to<font color="#E5E5E5"> see them that's just</font>
+
+88
+00:03:15,790 --> 00:03:18,130
+another step that<font color="#E5E5E5"> you may or may</font><font color="#CCCCCC"> not be</font>
+
+89
+00:03:18,130 --> 00:03:19,630
+willing<font color="#E5E5E5"> to take whether or not you</font>
+
+90
+00:03:19,630 --> 00:03:21,250
+decide<font color="#E5E5E5"> to freeze your</font><font color="#CCCCCC"> credit</font><font color="#E5E5E5"> or set up a</font>
+
+91
+00:03:21,250 --> 00:03:23,350
+fraud alert<font color="#E5E5E5"> make sure that you're</font>
+
+92
+00:03:23,350 --> 00:03:25,360
+monitoring<font color="#E5E5E5"> all</font><font color="#CCCCCC"> of your accounts</font>
+
+93
+00:03:25,360 --> 00:03:28,270
+regularly<font color="#CCCCCC"> I use mint.com you can use</font>
+
+94
+00:03:28,270 --> 00:03:30,070
+your own banking apps<font color="#CCCCCC"> whatever works for</font>
+
+95
+00:03:30,070 --> 00:03:31,630
+you<font color="#E5E5E5"> but you need to stay</font><font color="#CCCCCC"> on top of your</font>
+
+96
+00:03:31,630 --> 00:03:33,370
+<font color="#E5E5E5">money</font><font color="#CCCCCC"> I've actually had my credit</font><font color="#E5E5E5"> card</font>
+
+97
+00:03:33,370 --> 00:03:35,680
+stolen<font color="#E5E5E5"> twice and both times</font><font color="#CCCCCC"> I caught it</font>
+
+98
+00:03:35,680 --> 00:03:37,150
+<font color="#CCCCCC">before the first transaction</font><font color="#E5E5E5"> even</font>
+
+99
+00:03:37,150 --> 00:03:39,190
+<font color="#E5E5E5">processed so the more you pay attention</font>
+
+100
+00:03:39,190 --> 00:03:41,260
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> it the less likely you</font><font color="#E5E5E5"> are to suffer</font>
+
+101
+00:03:41,260 --> 00:03:43,150
+the consequences<font color="#CCCCCC"> so whether or not you</font>
+
+102
+00:03:43,150 --> 00:03:45,130
+take<font color="#E5E5E5"> all sorts</font><font color="#CCCCCC"> of proactive steps like</font>
+
+103
+00:03:45,130 --> 00:03:46,780
+setting up a fraud alert and freezing
+
+104
+00:03:46,780 --> 00:03:49,390
+your credit<font color="#E5E5E5"> just know it's going to be</font>
+
+105
+00:03:49,390 --> 00:03:53,000
+luck<font color="#E5E5E5"> whether or not it happens to you</font>
+
+106
+00:03:53,000 --> 00:00:00,000
+you
+

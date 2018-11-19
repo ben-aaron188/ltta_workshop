@@ -1,0 +1,400 @@
+1
+00:00:05,850 --> 00:00:09,920
+Gene Lu uses GPS to map his runs on a phone.
+
+2
+00:00:09,920 --> 00:00:11,900
+These days, that’s pretty normal.
+
+3
+00:00:11,900 --> 00:00:15,630
+But the way he does it, isn’t like most
+people.
+
+4
+00:00:15,630 --> 00:00:18,780
+Gene is drawing something here.
+
+5
+00:00:19,540 --> 00:00:24,710
+Before he runs, Gene spends hours mapping
+a route to create an elaborate drawing.
+
+6
+00:00:24,710 --> 00:00:28,860
+He then traces it on the ground using GPS
+during the run.
+
+7
+00:00:28,860 --> 00:00:33,460
+Sometimes I try to remember not the next turn,
+but maybe two or three turns ahead.
+
+8
+00:00:33,460 --> 00:00:36,680
+Sort of, like, a way to distract myself on the run.
+
+9
+00:00:38,110 --> 00:00:41,180
+Turning your run into a doodle isn’t an
+easy way to train.
+
+10
+00:00:41,180 --> 00:00:43,080
+But something else he’s doing is.
+
+11
+00:00:44,020 --> 00:00:48,600
+Using GPS can make you into a better runner, no
+matter what route follow.
+
+12
+00:01:02,800 --> 00:01:07,759
+In the 1970s, the US military created the
+Global Positioning System, or GPS, by launching
+
+13
+00:01:07,759 --> 00:01:09,880
+a network of satellites into orbit.
+
+14
+00:01:09,880 --> 00:01:14,409
+Transmitting precise, jam-resistant radio navigational
+signals.
+
+15
+00:01:14,409 --> 00:01:18,869
+A GPS receiver measures its distance from
+multiple satellites in order to pinpoint where
+
+16
+00:01:18,869 --> 00:01:20,280
+you are on Earth.
+
+17
+00:01:20,740 --> 00:01:24,719
+By the year 2000, the government made the
+system fully available for public use and
+
+18
+00:01:24,719 --> 00:01:29,020
+around that time the first GPS watches were
+released for consumers.
+
+19
+00:01:30,780 --> 00:01:36,000
+Clunky design and high prices meant only hardcore
+data nerds were using them for exercise.
+
+20
+00:01:37,100 --> 00:01:41,490
+But over time, devices became cheaper and
+sleeker and eventually, mobile apps made GPS
+
+21
+00:01:41,490 --> 00:01:42,960
+tracking widely accessible.
+
+22
+00:01:43,580 --> 00:01:46,360
+These days, it’s commonly used by casual
+runners.
+
+23
+00:01:46,360 --> 00:01:49,600
+I’ve become very accustomed to running with
+technology on me...
+
+24
+00:01:50,189 --> 00:01:53,760
+When I go running without my stuff, I sort
+of feel like...
+
+25
+00:01:53,760 --> 00:01:55,300
+Almost like drowning a little bit.
+
+26
+00:01:57,500 --> 00:02:02,829
+Performance in running is measured by just
+a few variables: distance, time, and speed.
+
+27
+00:02:02,829 --> 00:02:05,680
+GPS makes it easy to monitor those elements.
+
+28
+00:02:06,180 --> 00:02:10,840
+In 2016, Runner’s World conducted a survey
+of their global audience and found that 80%
+
+29
+00:02:10,840 --> 00:02:13,520
+of runners used GPS to track their runs.
+
+30
+00:02:14,110 --> 00:02:19,520
+I go for a run, I track my run, and I am given
+that data about that run.
+
+31
+00:02:19,520 --> 00:02:24,240
+So based on that, I can now do it again and
+either up my distance,
+
+32
+00:02:24,240 --> 00:02:26,220
+lower it, so on so forth.
+
+33
+00:02:26,220 --> 00:02:31,080
+Using GPS to collect data about your runs
+makes it easy to track your accomplishments.
+
+34
+00:02:31,560 --> 00:02:35,460
+But there's another reason GPS tracking is
+gaining popularity.
+
+35
+00:02:38,600 --> 00:02:43,480
+Putting your run on a map with a time and
+pace, gives runners a better story -- to tell
+
+36
+00:02:43,480 --> 00:02:44,520
+on social media.
+
+37
+00:02:44,520 --> 00:02:48,380
+What’s missing from it is, I think, the narrative to that
+run.
+
+38
+00:02:48,380 --> 00:02:49,890
+Like, what was that run about?
+
+39
+00:02:49,890 --> 00:02:50,820
+Where did you run?
+
+40
+00:02:51,500 --> 00:02:52,200
+Was it hard?
+
+41
+00:02:52,200 --> 00:02:53,140
+Was it easy?
+
+42
+00:02:53,540 --> 00:02:57,590
+I think social media has sort of changed how
+people approach running.
+
+43
+00:02:57,590 --> 00:03:00,960
+For me one of the big factors or one of the big motivations
+
+44
+00:03:00,960 --> 00:03:04,440
+for running these shapes is to be able to
+
+45
+00:03:04,440 --> 00:03:05,080
+share it.
+
+46
+00:03:05,460 --> 00:03:08,380
+To a lot of people, this looks like bragging.
+
+47
+00:03:08,380 --> 00:03:12,630
+I’m going to share it to social media, I’m
+going to get all these likes and then I’m
+
+48
+00:03:12,630 --> 00:03:13,780
+going to do more.
+
+49
+00:03:14,180 --> 00:03:20,280
+But, it turns out, sharing your runs on social
+media actually makes you a better runner.
+
+50
+00:03:21,160 --> 00:03:25,840
+This visualization comes from researchers
+at MIT that analyzed GPS data from millions
+
+51
+00:03:25,840 --> 00:03:29,460
+of runners and correlated it to social network
+sharing.
+
+52
+00:03:30,060 --> 00:03:32,400
+They found that when runners share their accomplishments,
+
+53
+00:03:32,400 --> 00:03:35,140
+they run farther, faster and longer.
+
+54
+00:03:35,140 --> 00:03:36,780
+And so do their friends.
+
+55
+00:03:38,500 --> 00:03:41,780
+According to their research, “an additional
+kilometer run by friends can inspire someone
+
+56
+00:03:41,790 --> 00:03:46,540
+to run an additional three-tenths of a kilometer
+and an additional ten minutes.”
+
+57
+00:03:46,540 --> 00:03:51,970
+Gene isn’t your average example, but sharing
+his runs has made him a better runner.
+
+58
+00:03:51,970 --> 00:03:57,380
+With social media being at the forefront of
+everything, there’s this social media feedback
+
+59
+00:03:57,380 --> 00:04:01,080
+loop that sort of merges with the sport of
+running.
+
+60
+00:04:03,240 --> 00:04:07,650
+Everytime I did the run I would post it onto
+social media and my friends would just sort of
+
+61
+00:04:07,650 --> 00:04:09,590
+freak out and say, “Whoa!
+
+62
+00:04:09,590 --> 00:04:13,440
+I didn’t know that there was the Dire Wolf
+in Queens!”
+
+63
+00:04:14,380 --> 00:04:17,640
+And so because of that, I started to do more
+and more.
+
+64
+00:04:17,959 --> 00:04:19,739
+Did the lion in Minneapolis.
+
+65
+00:04:19,740 --> 00:04:20,580
+The octopus.
+
+66
+00:04:20,600 --> 00:04:22,400
+The bear in Jackson Heights.
+
+67
+00:04:22,400 --> 00:04:23,220
+C3PO.
+
+68
+00:04:23,220 --> 00:04:24,140
+Darth Vader.
+
+69
+00:04:24,140 --> 00:04:24,880
+Storm Trooper.
+
+70
+00:04:24,880 --> 00:04:25,600
+TIE Fighter.
+
+71
+00:04:25,740 --> 00:04:27,100
+AT-AT Walker.
+
+72
+00:04:27,100 --> 00:04:28,260
+AT-ST Walker.
+
+73
+00:04:29,780 --> 00:04:33,430
+At some point, it started to go into ten-plus
+miles.
+
+74
+00:04:34,760 --> 00:04:39,000
+And for me that was sort of an achievement
+because at the time I was only doing five miles.
+
+75
+00:04:40,440 --> 00:04:42,380
+There is, however, a downside.
+
+76
+00:04:43,100 --> 00:04:46,620
+Using GPS to track our runs has raised privacy
+concerns.
+
+77
+00:04:48,100 --> 00:04:52,289
+When the popular fitness tracking app Strava
+released their global heatmap showing data collected
+
+78
+00:04:52,289 --> 00:04:57,169
+from runners around the world, they unknowingly
+revealed detailed military information
+
+79
+00:04:57,169 --> 00:05:00,840
+from locations where users had been tracking
+their jogging routes.
+
+80
+00:05:01,700 --> 00:05:06,580
+While you might not be stationed on a secret
+military base, sharing information about your
+
+81
+00:05:06,580 --> 00:05:10,580
+run can make your daily routine and home address
+publicly available.
+
+82
+00:05:10,880 --> 00:05:13,499
+But it’s a tradeoff.
+
+83
+00:05:13,499 --> 00:05:17,660
+The same technology that's driving people
+to share their progress and location, at the
+
+84
+00:05:17,660 --> 00:05:21,640
+cost of their privacy, it's also helping them
+stay active.
+
+85
+00:05:24,680 --> 00:05:26,330
+At least we are getting more people to run.
+
+86
+00:05:26,330 --> 00:05:30,500
+We’re getting more people to run because
+of GPS and, on top of that, social media.
+
+87
+00:05:31,780 --> 00:05:35,440
+I think with all this tracking,
+
+88
+00:05:35,440 --> 00:00:00,000
+I think you just need to be able to turn it on and off.
+

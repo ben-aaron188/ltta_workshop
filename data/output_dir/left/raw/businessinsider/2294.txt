@@ -1,0 +1,236 @@
+1
+00:00:06,410 --> 00:00:08,429
+wikipedia has become total global
+
+2
+00:00:08,429 --> 00:00:10,440
+phenomenon fifth biggest website in the
+
+3
+00:00:10,440 --> 00:00:14,009
+world absolutely huge integral two
+
+4
+00:00:14,009 --> 00:00:15,420
+cultures everything else but when you
+
+5
+00:00:15,420 --> 00:00:17,039
+started it<font color="#E5E5E5"> it sounds like</font><font color="#CCCCCC"> a lot of other</font>
+
+6
+00:00:17,039 --> 00:00:18,869
+entrepreneurs you had a different
+
+7
+00:00:18,869 --> 00:00:21,060
+<font color="#E5E5E5">concept that then evolved into this yeah</font>
+
+8
+00:00:21,060 --> 00:00:24,000
+<font color="#E5E5E5">I originally had the idea for freely</font>
+
+9
+00:00:24,000 --> 00:00:25,680
+licensed encyclopedia written<font color="#CCCCCC"> by</font>
+
+10
+00:00:25,680 --> 00:00:27,180
+volunteers and all the<font color="#CCCCCC"> language of the</font>
+
+11
+00:00:27,180 --> 00:00:29,580
+world back in nineteen ninety<font color="#CCCCCC"> nine but I</font>
+
+12
+00:00:29,580 --> 00:00:31,050
+didn't<font color="#CCCCCC"> really know how to make it happen</font>
+
+13
+00:00:31,050 --> 00:00:32,630
+<font color="#CCCCCC">you know I was watching the growth of</font>
+
+14
+00:00:32,630 --> 00:00:35,370
+open-source software free software and
+
+15
+00:00:35,370 --> 00:00:39,000
+seeing amazing things happening so our
+
+16
+00:00:39,000 --> 00:00:40,890
+first concept of how<font color="#E5E5E5"> to do it was very</font>
+
+17
+00:00:40,890 --> 00:00:43,500
+top-down<font color="#E5E5E5"> I was called new pedia it had</font>
+
+18
+00:00:43,500 --> 00:00:45,950
+set we have seven<font color="#E5E5E5"> stage review process</font>
+
+19
+00:00:45,950 --> 00:00:48,000
+<font color="#E5E5E5">people actually for a while had to fax</font>
+
+20
+00:00:48,000 --> 00:00:50,010
+in their diplomas to prove they were
+
+21
+00:00:50,010 --> 00:00:52,949
+qualified to write something and as you
+
+22
+00:00:52,949 --> 00:00:55,440
+might expect it<font color="#E5E5E5"> was complete failure we</font>
+
+23
+00:00:55,440 --> 00:00:57,270
+really got very little work done because
+
+24
+00:00:57,270 --> 00:00:58,980
+it was very intimidating<font color="#CCCCCC"> for people to</font>
+
+25
+00:00:58,980 --> 00:01:01,620
+participate so then when I heard<font color="#E5E5E5"> about</font>
+
+26
+00:01:01,620 --> 00:01:03,420
+the wicking concept which had actually
+
+27
+00:01:03,420 --> 00:01:06,240
+been around<font color="#E5E5E5"> since 95 and we launched</font>
+
+28
+00:01:06,240 --> 00:01:08,369
+that it was a completely radical change
+
+29
+00:01:08,369 --> 00:01:09,810
+of direction take us through that
+
+30
+00:01:09,810 --> 00:01:12,780
+process because obviously wikipedia has
+
+31
+00:01:12,780 --> 00:01:15,270
+been shot at forever bio anybody can
+
+32
+00:01:15,270 --> 00:01:16,710
+edit it so forth<font color="#E5E5E5"> having to be credible</font>
+
+33
+00:01:16,710 --> 00:01:18,000
+<font color="#E5E5E5">that kind of thing so right when you</font>
+
+34
+00:01:18,000 --> 00:01:19,590
+were conceiving of it it must have
+
+35
+00:01:19,590 --> 00:01:21,330
+sounded<font color="#E5E5E5"> like it would have been a good</font>
+
+36
+00:01:21,330 --> 00:01:23,970
+idea Utley insane right this is<font color="#E5E5E5"> the most</font>
+
+37
+00:01:23,970 --> 00:01:25,560
+insane thing ever you're going to<font color="#E5E5E5"> open a</font>
+
+38
+00:01:25,560 --> 00:01:27,750
+website let anybody edit it and expect
+
+39
+00:01:27,750 --> 00:01:29,369
+it to be anything other than complete
+
+40
+00:01:29,369 --> 00:01:31,890
+rubbish so the real key to understanding
+
+41
+00:01:31,890 --> 00:01:34,049
+<font color="#E5E5E5">Wikipedia is what are the pieces behind</font>
+
+42
+00:01:34,049 --> 00:01:36,750
+that how does<font color="#CCCCCC"> that work and</font><font color="#E5E5E5"> it's a mix</font>
+
+43
+00:01:36,750 --> 00:01:39,659
+of<font color="#E5E5E5"> things it's the software meaning the</font>
+
+44
+00:01:39,659 --> 00:01:41,490
+tools that we give to the volunteers so
+
+45
+00:01:41,490 --> 00:01:43,500
+people have things like recent changes
+
+46
+00:01:43,500 --> 00:01:44,820
+where they can check what's changed
+
+47
+00:01:44,820 --> 00:01:46,770
+<font color="#CCCCCC">recently they've watched list so they</font>
+
+48
+00:01:46,770 --> 00:01:48,420
+can monitor things we have the ability
+
+49
+00:01:48,420 --> 00:01:50,030
+to block people if they're misbehaving
+
+50
+00:01:50,030 --> 00:01:52,229
+also we keep the history of every
+
+51
+00:01:52,229 --> 00:01:53,909
+version so if somebody does come in and
+
+52
+00:01:53,909 --> 00:01:55,829
+make a mess we just<font color="#CCCCCC"> fix</font><font color="#E5E5E5"> it we just</font><font color="#CCCCCC"> go</font>
+
+53
+00:01:55,829 --> 00:01:57,240
+back<font color="#CCCCCC"> to</font><font color="#E5E5E5"> the previous versions one click</font>
+
+54
+00:01:57,240 --> 00:01:58,890
+to do that so it's all<font color="#E5E5E5"> of those things</font>
+
+55
+00:01:58,890 --> 00:02:02,280
+on the one<font color="#E5E5E5"> hand the software but then</font>
+
+56
+00:02:02,280 --> 00:02:04,680
+it's also the social aspect of thing so
+
+57
+00:02:04,680 --> 00:02:06,509
+it's really bringing together a
+
+58
+00:02:06,509 --> 00:02:08,520
+passionate community of volunteers who
+
+59
+00:02:08,520 --> 00:00:00,000
+really care about quality
+

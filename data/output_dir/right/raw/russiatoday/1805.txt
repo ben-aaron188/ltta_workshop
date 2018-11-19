@@ -1,0 +1,212 @@
+1
+00:00:00,030 --> 00:00:02,159
+the UK and<font color="#CCCCCC"> US</font><font color="#E5E5E5"> have issued a</font>
+
+2
+00:00:02,159 --> 00:00:03,449
+first-of-its-kind
+
+3
+00:00:03,449 --> 00:00:05,819
+joint<font color="#E5E5E5"> warning to those</font><font color="#CCCCCC"> living</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> the</font>
+
+4
+00:00:05,819 --> 00:00:08,400
+West claiming state-sponsored<font color="#E5E5E5"> Russian</font>
+
+5
+00:00:08,400 --> 00:00:09,840
+hackers might have seized<font color="#CCCCCC"> control of</font>
+
+6
+00:00:09,840 --> 00:00:12,150
+computers in<font color="#CCCCCC"> government's offices</font><font color="#E5E5E5"> and</font>
+
+7
+00:00:12,150 --> 00:00:15,240
+<font color="#E5E5E5">even homes</font><font color="#CCCCCC"> the warning</font><font color="#E5E5E5"> comes as the</font>
+
+8
+00:00:15,240 --> 00:00:17,010
+<font color="#E5E5E5">House of Representatives issued its own</font>
+
+9
+00:00:17,010 --> 00:00:18,690
+<font color="#E5E5E5">alert about the lack</font><font color="#CCCCCC"> of background</font>
+
+10
+00:00:18,690 --> 00:00:21,300
+<font color="#E5E5E5">checks on people</font><font color="#CCCCCC"> working</font><font color="#E5E5E5"> there saying</font>
+
+11
+00:00:21,300 --> 00:00:23,369
+many had unfettered<font color="#E5E5E5"> access to the bodies</font>
+
+12
+00:00:23,369 --> 00:00:25,680
+<font color="#CCCCCC">Network</font><font color="#E5E5E5"> those were the words of the</font>
+
+13
+00:00:25,680 --> 00:00:27,990
+<font color="#E5E5E5">chief administrative officer</font><font color="#CCCCCC"> himself who</font>
+
+14
+00:00:27,990 --> 00:00:29,429
+went on to<font color="#CCCCCC"> talk about</font><font color="#E5E5E5"> the potential</font>
+
+15
+00:00:29,429 --> 00:00:32,040
+<font color="#CCCCCC">impact of such</font><font color="#E5E5E5"> problems on the way the</font>
+
+16
+00:00:32,040 --> 00:00:36,030
+<font color="#E5E5E5">house manages</font><font color="#CCCCCC"> cybersecurity</font><font color="#E5E5E5"> these gaps</font>
+
+17
+00:00:36,030 --> 00:00:38,610
+and a broad perspective relate to
+
+18
+00:00:38,610 --> 00:00:40,530
+supervision<font color="#E5E5E5"> and oversight of shared</font>
+
+19
+00:00:40,530 --> 00:00:43,649
+employees or lack thereof<font color="#E5E5E5"> improper</font>
+
+20
+00:00:43,649 --> 00:00:45,420
+vetting of<font color="#E5E5E5"> the employees and perhaps</font>
+
+21
+00:00:45,420 --> 00:00:47,940
+most problematic<font color="#E5E5E5"> the inability to</font>
+
+22
+00:00:47,940 --> 00:00:49,920
+<font color="#E5E5E5">enforce compliance with</font><font color="#CCCCCC"> house</font>
+
+23
+00:00:49,920 --> 00:00:52,860
+information security policies<font color="#E5E5E5"> for</font>
+
+24
+00:00:52,860 --> 00:00:55,050
+<font color="#E5E5E5">example the unauthorized access to</font>
+
+25
+00:00:55,050 --> 00:00:57,989
+office<font color="#E5E5E5"> data or commingling of data the</font>
+
+26
+00:00:57,989 --> 00:01:00,120
+use of unsecured software a cloud
+
+27
+00:01:00,120 --> 00:01:02,660
+service<font color="#E5E5E5"> email account and equipment</font>
+
+28
+00:01:02,660 --> 00:01:05,489
+despite security concerns the proposal
+
+29
+00:01:05,489 --> 00:01:06,720
+to abolish<font color="#E5E5E5"> so-called</font>
+
+30
+00:01:06,720 --> 00:01:09,780
+<font color="#E5E5E5">shared employees was refused a TV host</font>
+
+31
+00:01:09,780 --> 00:01:11,220
+and<font color="#E5E5E5"> political commentator Steve</font><font color="#CCCCCC"> moles</font>
+
+32
+00:01:11,220 --> 00:01:12,930
+bug believes this<font color="#E5E5E5"> shows the alleged</font>
+
+33
+00:01:12,930 --> 00:01:15,270
+Russian hack is not an issue<font color="#CCCCCC"> of real</font>
+
+34
+00:01:15,270 --> 00:01:19,290
+concern<font color="#E5E5E5"> the</font><font color="#CCCCCC"> fact that this isn't</font><font color="#E5E5E5"> a huge</font>
+
+35
+00:01:19,290 --> 00:01:22,470
+news story<font color="#E5E5E5"> here in the United States</font><font color="#CCCCCC"> is</font>
+
+36
+00:01:22,470 --> 00:01:25,799
+is of is<font color="#E5E5E5"> mind-boggling</font><font color="#CCCCCC"> if the media is</font>
+
+37
+00:01:25,799 --> 00:01:28,380
+<font color="#E5E5E5">obsessed with Donald Trump with Russia</font>
+
+38
+00:01:28,380 --> 00:01:31,229
+with stormy Daniels the porn star<font color="#E5E5E5"> with</font>
+
+39
+00:01:31,229 --> 00:01:34,170
+<font color="#E5E5E5">sean hannity and here we have a real</font>
+
+40
+00:01:34,170 --> 00:01:37,020
+security<font color="#E5E5E5"> threat to</font><font color="#CCCCCC"> the Congress of the</font>
+
+41
+00:01:37,020 --> 00:01:39,509
+<font color="#CCCCCC">United States</font><font color="#E5E5E5"> and yes they're being</font>
+
+42
+00:01:39,509 --> 00:01:41,759
+hypocritical<font color="#CCCCCC"> and they're being derelict</font>
+
+43
+00:01:41,759 --> 00:01:44,579
+of their duties to make sure<font color="#E5E5E5"> that what</font>
+
+44
+00:01:44,579 --> 00:01:46,530
+they do what they discuss<font color="#E5E5E5"> what they</font>
+
+45
+00:01:46,530 --> 00:01:50,460
+undertake is protected one<font color="#E5E5E5"> background</font>
+
+46
+00:01:50,460 --> 00:01:53,060
+check<font color="#E5E5E5"> for all of the people</font><font color="#CCCCCC"> in IT</font>
+
+47
+00:01:53,060 --> 00:01:56,280
+working in the Congress<font color="#E5E5E5"> that is a that</font>
+
+48
+00:01:56,280 --> 00:01:58,409
+<font color="#E5E5E5">is a sin and we're just opening</font>
+
+49
+00:01:58,409 --> 00:02:00,540
+<font color="#E5E5E5">ourselves up and asking for trouble</font>
+
+50
+00:02:00,540 --> 00:02:02,820
+and then when trouble happens<font color="#E5E5E5"> they're</font>
+
+51
+00:02:02,820 --> 00:02:05,009
+gonna find somebody<font color="#CCCCCC"> to blame</font><font color="#E5E5E5"> and they're</font>
+
+52
+00:02:05,009 --> 00:02:06,450
+not<font color="#E5E5E5"> gonna blame themselves and it's</font>
+
+53
+00:02:06,450 --> 00:00:00,000
+gonna be their fault
+

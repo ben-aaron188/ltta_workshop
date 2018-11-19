@@ -1,0 +1,28 @@
+1
+00:00:02,510 --> 00:00:05,810
+my go-to order at Shake Shack<font color="#E5E5E5"> is a</font>
+
+2
+00:00:05,810 --> 00:00:11,070
+double cheeseburger<font color="#E5E5E5"> coffee milkshake and</font>
+
+3
+00:00:11,070 --> 00:00:13,410
+french fries<font color="#E5E5E5"> and I just want to tell</font><font color="#CCCCCC"> you</font>
+
+4
+00:00:13,410 --> 00:00:15,990
+right<font color="#CCCCCC"> now</font><font color="#E5E5E5"> you want one of the greatest</font>
+
+5
+00:00:15,990 --> 00:00:18,779
+combos you've ever<font color="#E5E5E5"> had in your life try</font>
+
+6
+00:00:18,779 --> 00:00:23,010
+our<font color="#CCCCCC"> french fries dipped in our coffee</font>
+
+7
+00:00:23,010 --> 00:00:00,000
+milkshake unbelievable
+

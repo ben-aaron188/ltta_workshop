@@ -1,0 +1,328 @@
+1
+00:00:00,000 --> 00:00:02,879
+Facebook<font color="#CCCCCC"> recently unveiled a second URL</font>
+
+2
+00:00:02,879 --> 00:00:04,650
+for their site<font color="#CCCCCC"> that can only be accessed</font>
+
+3
+00:00:04,650 --> 00:00:06,960
+through tor<font color="#E5E5E5"> which is a software that</font>
+
+4
+00:00:06,960 --> 00:00:09,330
+<font color="#E5E5E5">allows</font><font color="#CCCCCC"> users to log</font><font color="#E5E5E5"> in anonymously from</font>
+
+5
+00:00:09,330 --> 00:00:11,670
+<font color="#CCCCCC">nearly anywhere on the planet even in</font>
+
+6
+00:00:11,670 --> 00:00:13,259
+countries<font color="#E5E5E5"> where</font><font color="#CCCCCC"> Facebook</font><font color="#E5E5E5"> is heavily</font>
+
+7
+00:00:13,259 --> 00:00:15,900
+monitored or blocked<font color="#E5E5E5"> this makes Facebook</font>
+
+8
+00:00:15,900 --> 00:00:18,210
+the first major web company to offer a
+
+9
+00:00:18,210 --> 00:00:21,180
+<font color="#CCCCCC">platform on the dark</font><font color="#E5E5E5"> web so what is the</font>
+
+10
+00:00:21,180 --> 00:00:21,960
+dark web
+
+11
+00:00:21,960 --> 00:00:24,660
+and why did<font color="#E5E5E5"> Facebook join it first off</font>
+
+12
+00:00:24,660 --> 00:00:26,130
+it's important to understand that the
+
+13
+00:00:26,130 --> 00:00:28,349
+<font color="#CCCCCC">Internet</font><font color="#E5E5E5"> is vast and constantly growing</font>
+
+14
+00:00:28,349 --> 00:00:30,840
+<font color="#CCCCCC">and the</font><font color="#E5E5E5"> majority of our daily usage only</font>
+
+15
+00:00:30,840 --> 00:00:33,840
+scratches<font color="#E5E5E5"> the surface Google Yahoo and</font>
+
+16
+00:00:33,840 --> 00:00:36,480
+<font color="#CCCCCC">other</font><font color="#E5E5E5"> search engines</font><font color="#CCCCCC"> only</font><font color="#E5E5E5"> show about</font><font color="#CCCCCC"> 4%</font>
+
+17
+00:00:36,480 --> 00:00:39,210
+<font color="#E5E5E5">of the data</font><font color="#CCCCCC"> available on</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> internet to</font>
+
+18
+00:00:39,210 --> 00:00:42,270
+access<font color="#CCCCCC"> the</font><font color="#E5E5E5"> other 96% requires customized</font>
+
+19
+00:00:42,270 --> 00:00:44,850
+digging through individual sites<font color="#CCCCCC"> sub</font>
+
+20
+00:00:44,850 --> 00:00:47,280
+<font color="#CCCCCC">pages</font><font color="#E5E5E5"> restricted access journals or</font>
+
+21
+00:00:47,280 --> 00:00:51,030
+archives and so on this 96% is called
+
+22
+00:00:51,030 --> 00:00:53,579
+the Deep Web<font color="#E5E5E5"> it's also important to</font>
+
+23
+00:00:53,579 --> 00:00:55,020
+understand<font color="#CCCCCC"> that pretty much everything</font>
+
+24
+00:00:55,020 --> 00:00:57,420
+<font color="#E5E5E5">we do online</font><font color="#CCCCCC"> is visible traceable and</font>
+
+25
+00:00:57,420 --> 00:00:59,579
+<font color="#E5E5E5">possibly being monitored everything</font>
+
+26
+00:00:59,579 --> 00:01:01,800
+<font color="#E5E5E5">except for the areas of the Deep Web</font>
+
+27
+00:01:01,800 --> 00:01:05,040
+that are masked by<font color="#E5E5E5"> the dark web the dark</font>
+
+28
+00:01:05,040 --> 00:01:06,810
+web<font color="#E5E5E5"> is concealed through a series of</font>
+
+29
+00:01:06,810 --> 00:01:09,000
+identity masking layers which basically
+
+30
+00:01:09,000 --> 00:01:10,920
+means that you can<font color="#CCCCCC"> access</font><font color="#E5E5E5"> and interact</font>
+
+31
+00:01:10,920 --> 00:01:12,780
+with it anonymously<font color="#E5E5E5"> without being</font>
+
+32
+00:01:12,780 --> 00:01:15,240
+tracked this<font color="#E5E5E5"> is achieved through special</font>
+
+33
+00:01:15,240 --> 00:01:17,400
+encryption software like tor<font color="#E5E5E5"> which</font>
+
+34
+00:01:17,400 --> 00:01:19,710
+stands<font color="#CCCCCC"> for the</font><font color="#E5E5E5"> Onion Router which when</font>
+
+35
+00:01:19,710 --> 00:01:21,000
+<font color="#E5E5E5">installed on your computer</font>
+
+36
+00:01:21,000 --> 00:01:22,740
+appears and acts like<font color="#CCCCCC"> your standard</font>
+
+37
+00:01:22,740 --> 00:01:25,710
+Firefox browser<font color="#E5E5E5"> albeit slower but</font>
+
+38
+00:01:25,710 --> 00:01:27,150
+instead<font color="#E5E5E5"> of routing your connection</font>
+
+39
+00:01:27,150 --> 00:01:28,979
+through a direct line at<font color="#CCCCCC"> Torah routes</font>
+
+40
+00:01:28,979 --> 00:01:30,720
+everything through a series<font color="#CCCCCC"> of encrypted</font>
+
+41
+00:01:30,720 --> 00:01:33,420
+<font color="#E5E5E5">computers all over</font><font color="#CCCCCC"> the world</font><font color="#E5E5E5"> bouncing</font>
+
+42
+00:01:33,420 --> 00:01:35,130
+around<font color="#E5E5E5"> randomly before it reaches its</font>
+
+43
+00:01:35,130 --> 00:01:37,710
+hosts destination<font color="#E5E5E5"> this makes the origin</font>
+
+44
+00:01:37,710 --> 00:01:39,299
+<font color="#E5E5E5">of the data and the people searching for</font>
+
+45
+00:01:39,299 --> 00:01:41,820
+<font color="#E5E5E5">it unknowable so while you might</font>
+
+46
+00:01:41,820 --> 00:01:43,680
+actually<font color="#E5E5E5"> be in New York</font><font color="#CCCCCC"> your search</font>
+
+47
+00:01:43,680 --> 00:01:45,180
+<font color="#CCCCCC">traffic can appear to be</font><font color="#E5E5E5"> coming from</font>
+
+48
+00:01:45,180 --> 00:01:47,340
+random points all<font color="#E5E5E5"> over the world making</font>
+
+49
+00:01:47,340 --> 00:01:50,159
+<font color="#CCCCCC">your location essentially untraceable so</font>
+
+50
+00:01:50,159 --> 00:01:51,930
+why does<font color="#E5E5E5"> Facebook a company that is</font>
+
+51
+00:01:51,930 --> 00:01:54,509
+anything<font color="#E5E5E5"> but anonymous or discreet want</font>
+
+52
+00:01:54,509 --> 00:01:57,090
+this well they claim that it's all<font color="#E5E5E5"> part</font>
+
+53
+00:01:57,090 --> 00:01:59,180
+of<font color="#E5E5E5"> a long</font><font color="#CCCCCC"> term</font><font color="#E5E5E5"> effort to</font><font color="#CCCCCC"> achieve greater</font>
+
+54
+00:01:59,180 --> 00:02:01,500
+<font color="#CCCCCC">accessibility and security for its users</font>
+
+55
+00:02:01,500 --> 00:02:03,630
+<font color="#E5E5E5">which according</font><font color="#CCCCCC"> to some critics</font><font color="#E5E5E5"> is</font>
+
+56
+00:02:03,630 --> 00:02:05,790
+pretty<font color="#E5E5E5"> much just code for</font><font color="#CCCCCC"> desired global</font>
+
+57
+00:02:05,790 --> 00:02:08,220
+domination<font color="#E5E5E5"> Facebook wants to be used by</font>
+
+58
+00:02:08,220 --> 00:02:08,848
+everyone
+
+59
+00:02:08,848 --> 00:02:09,580
+<font color="#E5E5E5">every</font>
+
+60
+00:02:09,580 --> 00:02:12,010
+we're pushing the site into<font color="#CCCCCC"> the dark web</font>
+
+61
+00:02:12,010 --> 00:02:14,200
+opens<font color="#E5E5E5"> Facebook up to users who</font><font color="#CCCCCC"> might</font>
+
+62
+00:02:14,200 --> 00:02:16,930
+otherwise be unable to<font color="#CCCCCC"> access it or who</font>
+
+63
+00:02:16,930 --> 00:02:18,130
+might<font color="#E5E5E5"> worry about government</font>
+
+64
+00:02:18,130 --> 00:02:19,990
+surveillance<font color="#E5E5E5"> or other security controls</font>
+
+65
+00:02:19,990 --> 00:02:22,960
+or threats<font color="#E5E5E5"> places like</font><font color="#CCCCCC"> Iran or</font><font color="#E5E5E5"> China for</font>
+
+66
+00:02:22,960 --> 00:02:25,060
+<font color="#CCCCCC">instance are known to restrict access to</font>
+
+67
+00:02:25,060 --> 00:02:28,120
+social sites like<font color="#E5E5E5"> Facebook</font><font color="#CCCCCC"> tor won't</font>
+
+68
+00:02:28,120 --> 00:02:30,070
+shield<font color="#E5E5E5"> users Facebook profiles or</font>
+
+69
+00:02:30,070 --> 00:02:31,960
+activities those will still be public
+
+70
+00:02:31,960 --> 00:02:34,090
+<font color="#E5E5E5">but it will keep their location and</font>
+
+71
+00:02:34,090 --> 00:02:35,920
+potentially their<font color="#E5E5E5"> real identity hidden</font>
+
+72
+00:02:35,920 --> 00:02:38,470
+<font color="#CCCCCC">from authorities</font><font color="#E5E5E5"> if you'd like to learn</font>
+
+73
+00:02:38,470 --> 00:02:40,300
+<font color="#CCCCCC">more about the inner workings of the web</font>
+
+74
+00:02:40,300 --> 00:02:42,310
+but check out this dnews<font color="#E5E5E5"> video on how</font>
+
+75
+00:02:42,310 --> 00:02:44,410
+the internet<font color="#CCCCCC"> works once the</font><font color="#E5E5E5"> computer</font>
+
+76
+00:02:44,410 --> 00:02:46,930
+knows the IP<font color="#E5E5E5"> your data goes through to</font>
+
+77
+00:02:46,930 --> 00:02:48,880
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> Pops and the naps to</font><font color="#E5E5E5"> access</font>
+
+78
+00:02:48,880 --> 00:02:51,010
+Facebook's computers<font color="#E5E5E5"> and if you have</font>
+
+79
+00:02:51,010 --> 00:02:52,840
+ideas<font color="#CCCCCC"> for topics</font><font color="#E5E5E5"> or questions</font><font color="#CCCCCC"> you'd like</font>
+
+80
+00:02:52,840 --> 00:02:55,240
+<font color="#E5E5E5">us</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> explore let us know on Facebook</font><font color="#CCCCCC"> or</font>
+
+81
+00:02:55,240 --> 00:02:56,830
+in the comments<font color="#CCCCCC"> down below thanks for</font>
+
+82
+00:02:56,830 --> 00:00:00,000
+<font color="#CCCCCC">watching</font>
+

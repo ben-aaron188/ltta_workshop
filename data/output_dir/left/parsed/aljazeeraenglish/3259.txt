@@ -1,0 +1,554 @@
+hi I'm Malika Bilal and this is Gilbert
+Lin's power an American sign language
+interpreter he'll be helping us conclude
+our week-long coverage of the South by
+Southwest Conference and festivals in
+Austin Texas with a look at innovations
+in assistive technology for people with
+disability you're now in the stream live
+on al-jazeera and on YouTube be sure to
+ask your questions in the chat and we'll
+do our best to get them into the
+conversation
+my name is Trisha Martinez and I'm the
+creator of a cryptocurrency called dolla
+and I'm in the stream
+the World Bank estimates that 1 billion
+people around the globe live with
+disability although technology exists to
+assist people with their mobility or
+communication accessibility remains a
+key issue in many areas including
+employment and education in disability
+rights activists have in Burma's case it
+was about the ability to order chocolate
+cake from her University's cafeteria
+Hubbins resolved to improve
+accessibility for other students led her
+to become the first deafblind graduate
+of Harvard Law School take a listen to
+what she said in 2015 at an Obama White
+House event marking the anniversary of a
+US law that mandates equal opportunities
+for Americans with disability for my
+grandmother back in Africa my success in
+law school seems like magic for all of
+us here we know that people with
+disabilities succeed not by magic but
+through opportunities in America and the
+heart of one power of the a DA three of
+my work at disability rights advocates I
+strive to ensure that people with
+disabilities have access to the digital
+world including Internet services online
+businesses websites and apps every day
+I'm reminded that as far as we've come
+the drive for equality is not over
+joining us from our position at South by
+Southwest is haben Girma along with her
+assistant ariane kalfa welcome to the
+stream both of you haben we're talking
+tech and accessibility so let's start by
+explaining to our audience the tools
+that you're using to communicate with us
+today
+hello and welcome so my name is haben
+and i'm deafblind and i use technology
+to help me communicate with people
+for example this device I have here I'm
+gonna hold it up so it's a computer with
+a Braille display on the bottom and
+tactile dots pop-up on the display I ran
+my fingers over the dots and different
+dot patterns represent different letters
+I'm using English Braille Braille is a
+tool
+it exists in lots of different languages
+Arabic Spanish German so it's a tool
+that allows people to communicate
+through touch through tactile so I use
+digital Braille in connection with a
+keyboard it's a wireless keyboard and
+when someone types on the keyboard what
+they write shows up in Braille so when
+people are talking to me they can type
+on the keyboard and I'll read their
+words in Braille or we could have an
+interpreter Arion is the interpreter
+from you today and she's typing on a
+keyboard and I'm reading in Braille I'm
+looking forward to our amazing questions
+this afternoon and we do have a lot of
+good questions for you on Twitter but
+before we get to them you've had quite a
+busy day today I pulled up on my laptop
+here the page for your panel at South by
+Southwest the festival and conference
+yes we can' innovations in accessibility
+give us a highlight from that panel that
+you were just at just a few hours ago
+one of the biggest highlights is how to
+frame disability a lot of people dream
+disability as charity that's problematic
+don't think of disability as charity
+disability affects all of us all our
+body has changed change is part of the
+human condition if we're lucky we'll
+grow old and reach old age when our
+bodies will change and we deserve access
+and dignity at every stage of our life
+so design things to be accessible
+buildings apps websites so that everyone
+has access when you're designed for
+inclusion you're investing in yourself
+you're investing in your business so
+that everyone can access it there are
+1.3 billion people with disabilities all
+over the world that's a significant
+population we're the largest minority
+group so prioritize disability there are
+strong business reasons for making it
+accessible for making your services
+accessible stop thinking about it as
+charity hmm I like that design for
+inclusion I want to bring in a member of
+our community who had a question for you
+heaven this is Dan Ryder who tweeted in
+to the show he wants to know what would
+you most like those of us outside of the
+deaf and blind communities to understand
+about your experience as a student and
+of course I'll remind our audience that
+you graduated from Harvard Law School so
+what would you like those outside of
+your community to know
+so let me out I'm part of many
+communities I'm a woman I'm a part of
+the community of people who identify as
+a woman I'm also black
+I'm also Eritrean and Ethiopian I'm part
+of many different communities
+deafblindness is one of my identities
+and it's very very unique the community
+is very small most of the time when I do
+something when I take a class go to the
+restaurant I'm usually the first up
+blind person to to go there and I have
+to be a pioneer and teach people and
+educate people I've learned to be a
+really strong self-advocate and over
+time I realized hey these advocacy
+skills can also help other people so I
+turned my self advocacy skills into
+community advocacy and that's one of the
+reasons I decided to become a lawyer
+still one thing I would love people who
+are not blind to know is that don't be
+afraid of the unknown reach out connect
+ask questions don't be afraid of what
+you don't know things are scary when
+they remain unknown once you engage ask
+questions learn it's not scary anymore
+so you talked about your advocacy we got
+a tweet on that in particular this is
+Maysoon Zayid a friend of the stream
+she's been on our show before and she is
+a comedian she says I had the privilege
+of meeting heaven Girma my question
+disability rights are currently under
+siege in the United States what advice
+does she have for advocates fighting to
+protect these rights
+he's advocating never stop out of the
+cating we also need to teach other
+people to advocate we want more
+advocates to join us in the movement I
+also want people to know that money
+should never be a barrier there are
+nonprofit law firms that will represent
+people with disabilities for free there
+are agencies where you can file
+complaints there's lots of free
+information online so don't ever let
+money be a barrier if you want to make
+your website or app accessible check out
+the web content accessibility guidelines
+or Apple and Android accessibility
+guidelines there's lots of free
+information online and lots of nonprofit
+agencies disability rights organizations
+that have tons of information to share
+for free or can consult provide training
+keep asking questions we need everyone
+to be advocates and I think that message
+is getting through this is tim minute on
+twitter who rights people with
+disabilities constitute 15 to 20 percent
+of the world's population and are
+severely underrepresented in many
+industries haben reminds us that what
+prevents many people in this community
+from contributing their talent to
+society is the barriers that society
+puts in place with that happen I'm going
+to pause you there in our conversation
+to broaden out this conversation a
+little bit about assistive technology
+check out this video about a product for
+people with single-sided deafness shot
+by our producers at the South by
+Southwest trade show I'm the student
+from Japan and I'm from the University
+of Tokyo and actually I have
+single-sided deafness definitely one
+year and I had some problems with I'm
+hearing and like noisy places with many
+people comment heavy conversation and I
+would like to have a some kind of
+hearing aid but as you know hearing aids
+have some kind of unique shape and also
+it's kind of annoying because you have
+to put it on and off every time so I
+wanted to make some kind of product for
+myself just like I use my glasses so I
+decided to make
+well this class it's called as ears and
+it's kind of grass that's forests people
+with single-sided deafness to help
+hearing and let me show you how it works
+well here here are the microphones well
+I'm sorry I'm for example um this person
+has deafness in his right ear same as me
+and the sound coming from the right side
+will be transmitted through this glass
+and then this computer will do the sound
+processing and then the bone conduction
+speaker over here
+well I'm transmitted to the sound to the
+left ear hear how it that's how it works
+so as a result this person having
+single-sided deafness yeah with this
+product he can hear the both sides of
+sound with one ear that's how our
+product works so what other assistive
+technologies and policies can increase
+inclusion and accessibility well joining
+us now in Monterrey Mexico is mariano
+garcia ramos an inclusion and
+communication specialist at the monterey
+institute of technology and higher
+education she also attended this year's
+South by Southwest Conference as a
+panelist on the topic of sex beauty and
+women with disabilities onset Erin Swan
+is an assistive technology specialist
+working for a program within the
+department of disabilities in the US
+state of Maryland and Corrine Weibull is
+the deputy project director for the
+partnership on employment and accessible
+technology or peat that's an
+organization that works to help
+employers IT companies and others
+understand the importance of accessible
+technology welcome to you all through
+this part of the conversation so we got
+a lot of comments online about examples
+of where technology meets accessibility
+this is just one this is andrew on
+twitter who says one example is apps
+that enable people to rate accessibility
+of places they visit or attempt to visit
+these are apps that tend to use existing
+mapping tech like google maps gradually
+crowdsource accessibility mapping can
+help mobility and a
+countability so that's just one example
+there marry angle you just returned to
+Mexico from the South by Southwest
+Conference did it live up to what's in
+this tweet here from Andrew on ways to
+make things more accessible how
+accessible was your experience hi thank
+you for having me on the show um I do
+believe there's always opportunity for
+accessibility in my case I do have a
+physical disability I use a scooter in a
+wheelchair and I do think when it comes
+to this panel's obviously there's always
+the unknown there are things that are
+not being asked previously that we
+already gave a feedback to the people at
+South by Southwest but I haven't said
+something about it's it's natural the
+people don't know when you have to ask
+and people are always usually afraid to
+ask about if you have a disability what
+ways can I help you to have the same
+opportunities from a panel to you know
+other big ones like education access to
+entertainment concerts whatever so I I
+do think we have we still do you have a
+big opportunity there but also if I
+compare it to the accessibility that is
+in my country particularly physical
+disability or communication
+accessibility yeah we we see the United
+States that you're a step ahead but
+obviously we're working on it so so
+speaking of Mexico you started the
+Mexican women movement and and your goal
+is to change the way that people see
+others with disability and pulled up the
+Instagram page here on my screen why was
+this important to you what's the message
+behind this we created that Mexican
+women with disabilities movement because
+we saw that there was a lack of
+representation or misguided
+representation of what disability is and
+particularly in issues that regard women
+if we talk about the we don't have our
+biggest issue I think worldwide and if
+you can see it with the UN there and the
+CRPD is that we don't have data so if we
+don't have data then how are we supposed
+to know
+what are we going to make better right
+mm-hmm we don't measure it so we
+realized that there was a big
+opportunity on subjects that matter with
+violence against women and particularly
+women with disabilities when it comes to
+abuse domestic violence and lack of
+education opportunity so we were like
+okay we're not represented clearly in
+what we consume that is pop culture if
+you talk about a person with disability
+you see in Mexico particularly at
+Illinois all right you see a person with
+you know in a wheelchair with the
+chequered thing and on top and crying
+because life is not good and then that's
+how the pity and the charity culture of
+disability grows because that's what
+people know so we should represent
+ourselves and and we've made this
+movement for other women to empower
+their themselves and tell their stories
+and then start making these big changes
+that we need to do particularly in
+Mexico and Latin America mm-hmm so when
+we are talking about making things more
+inclusive Kareem you both of you
+actually do this work and Erin you
+specifically work with matching people
+with technology that will help them live
+their best lives talk to us about that
+exactly thank you um thank you for
+having me here so I work at the Maryland
+technology Assistance Program we have a
+loan library of assistive technology and
+our goal is to educate people make them
+aware of the technology that's available
+to them individuals with disabilities
+can come visit us and try different
+pieces of technology we use something
+called the sett framework to evaluate
+what could be the best options for
+someone to try a CTT ass-first student
+the individual themselves we want to
+learn what are they able to do what are
+they having trouble with he is for the
+environment we want to pick a solution
+that will work for whatever sorry
+environment that they're in the first
+tee is for the task what specifically
+are they trying to accomplish the second
+tee is for the tool or technology that
+will it be so I pulled up on my screen
+here a picture of what your library
+looks like you can see it here if you
+it's a small picture but there's a lot
+of stuff here so what are some described
+what some of the tools and the
+technologies that you offer to people
+great so we have technology in many
+categories our communication devices
+thanks for people who are blind or
+hard-of-hearing we've got things for
+computer access for people with physical
+disabilities we serve all ages all types
+of disabilities our program specifically
+serves Maryland but we are a tech hack
+project which actually exists in every
+state in the United States as well as
+the territories so there are 56 of these
+programs that are very similar where we
+demonstrate assistive technology people
+can borrow the technology and try it out
+in their own environment for four weeks
+at a time to see is it going to work or
+not without having to put forward the
+investment for something that might not
+work out well I wanted to bring in a
+comment from a member of our community
+this is shay rosemond and she's the
+founder of something called on board I
+will have her tell you what it is have a
+look on board is a passenger check-in
+system for paratransit riders in New
+York City
+using a smartphone app and other
+technologies we enable riders to record
+and verify information about their trip
+like pick-up and drop-off times we then
+publish and share that information with
+community organizers and transit
+advocates to enable them to better do
+their work this solution was developed
+pretty specifically to address the
+challenges that New York City
+paratransit faces when it comes to
+timeliness and reliability ultimately
+though we'd like to use the data we
+collect to develop more advanced routing
+algorithms that could certainly have
+implications for riders and other cities
+so that is one example and I wonder if
+technology like that could lead to
+things like this this is a tab I have
+open on my computer this is from the
+Guardian website
+what would a truly disabled accessible
+city look like Corrine do you think that
+technology like that is the way of the
+future is it coming absolutely I mean
+there's some really exciting
+possibilities out there you know the
+self-driving cars are coming and if we
+can build and design them now
+way that we're thinking about the needs
+of all people that want to use them for
+example we'd want wheelchair ramps and
+lifts and that sort of thing included
+the ability to not just have a
+touchscreen but also maybe I think about
+how you would use your voice like voice
+commands all of that can you know come
+up with so what's interesting about the
+work that you do Corrine and I found it
+interesting just in our meeting ahead of
+this show is that you work to increase
+the employment rate of people with
+disabilities and one aspect that people
+don't often think about is the
+application online talk to us about that
+absolutely so job applications are a
+huge issue right now because some so
+many of them have moved online and for
+people with disabilities this can be a
+real problem if the job applications
+themselves are not accessible to use we
+did a survey a few years ago nationwide
+of people with disabilities asking them
+what their experience applying to a job
+when last year was like we found that
+46% had difficulty completing the
+application which is huge and actually
+other numbers we've seen suggest that
+number could be even higher especially
+since ours was a web survey that assumes
+probably more tech-savvy people so
+that's a big problem because it means
+that a lot of candidates aren't even
+being considered for you know really an
+artificial barrier I mean technology
+should be all about taking down barriers
+unlike that so I wanted to share this
+tweet we got from Nancy khawaja she says
+the impact of accessible tech on
+inclusion for people with disabilities
+is powerful accessible acceptable and
+inclusive tech allows each of us to be a
+true part of community accessible on its
+own is not enough it must be inclusive
+and as a person with a disability my
+accessible tech looks just like your
+watts or she's showing us it really it
+is tech that we're already using that
+could just be made more accessible Mary
+uncle I wanted to go back to you because
+I know that you had a
+for haben yes I was
+I'm such a fan of heaven since a long
+while ago and I was at South by so I can
+actually see her but I wanted to ask how
+do you think is it that we can actually
+start changing the conversation about
+accessibility worldwide to make it like
+in a brig or bigger brats like a bigger
+scope accessibility as we've all said
+before it's a basically a human right
+that's that allows us to have the same
+opportunity so how can we make it like a
+bigger broader conversation as in a
+rhetorical messy of the question please
+sorry so can you Mary Ann go can you sum
+up your question in just one sentence
+yeah how can we make accessibility a
+subject that is talk more about liking a
+bigger and broader scope so having the
+question is how to make this a bigger
+conversation taking the topic of
+accessibility and broadening it out
+we can often a great strategy for
+getting people engaged is to frame the
+issue in matters they're interested in
+so a lot of companies and organizations
+are interested in money so if we could
+frame the issue around money and explain
+how accessibility investing and
+accessibility can drive revenue that can
+get people more excited about
+accessibility so some of the things to
+keep in mind is it's a large market 1.3
+billion people so you get more customers
+in the long run also you avoid
+litigation litigation is very expensive
+and within the United States and many
+other countries there are laws requiring
+companies and organizations to ensure
+services are accessible to people with
+disabilities
+so you benefit in the long run and it
+increases revenue in business when you
+make it accessible so framing it around
+business interests for entities that are
+interested in business is a good
+argument to use to get more people
+excited and to get them to stop thinking
+about charity Mary Ann go is there one
+thing that you would want our community
+watching today's show to take away from
+this conversation definitely as us
+having said I do believe we have to
+celebrate our differences in our debates
+diversity even more because that's what
+makes us everyone of us interesting so
+accessibility is our way to actually
+celebrate our talents and not our
+limitations basically well said I'll
+give the very last word to someone on
+Twitter Nancy khawaja says we live in an
+incredible time of innovation the more
+we build and design with everyone in
+mind the less we require accessibility
+that's all the time we have for today's
+show thanks to all of the guests this
+week who joined us here in DC and from
+South by Southwest in Austin
+sis you can you do need to follow along
+with all of these stories using our
+hashtag a J stream we'll see you next
+time

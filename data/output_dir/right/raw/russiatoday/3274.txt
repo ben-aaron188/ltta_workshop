@@ -1,0 +1,668 @@
+1
+00:00:00,000 --> 00:00:02,250
+<font color="#E5E5E5">Google is now working to reduce the</font>
+
+2
+00:00:02,250 --> 00:00:04,740
+<font color="#E5E5E5">presence of Russian media outlets in its</font>
+
+3
+00:00:04,740 --> 00:00:07,859
+<font color="#E5E5E5">news feeds and with more details on this</font>
+
+4
+00:00:07,859 --> 00:00:10,230
+story<font color="#E5E5E5"> now we'll cross over to Caleb</font>
+
+5
+00:00:10,230 --> 00:00:12,750
+<font color="#E5E5E5">Maupin who joins me live from Washington</font>
+
+6
+00:00:12,750 --> 00:00:18,090
+Caleb what's<font color="#E5E5E5"> Google up to well</font><font color="#CCCCCC"> eric</font>
+
+7
+00:00:18,090 --> 00:00:21,600
+<font color="#CCCCCC">schmidt who is the owner of of alphabet</font>
+
+8
+00:00:21,600 --> 00:00:23,519
+<font color="#CCCCCC">incorporated which is the parent company</font>
+
+9
+00:00:23,519 --> 00:00:26,010
+<font color="#CCCCCC">of the tech giant google he was being</font>
+
+10
+00:00:26,010 --> 00:00:27,689
+interviewed and when he was being
+
+11
+00:00:27,689 --> 00:00:30,420
+interviewed he was asked about Artie and
+
+12
+00:00:30,420 --> 00:00:32,640
+Sputnik<font color="#E5E5E5"> which the person asking the</font>
+
+13
+00:00:32,640 --> 00:00:35,610
+<font color="#E5E5E5">question labeled</font><font color="#CCCCCC"> as propaganda now this</font>
+
+14
+00:00:35,610 --> 00:00:37,739
+is the exchange that<font color="#E5E5E5"> went down with the</font>
+
+15
+00:00:37,739 --> 00:00:40,050
+head of<font color="#E5E5E5"> the company that</font><font color="#CCCCCC"> controls Google</font>
+
+16
+00:00:40,050 --> 00:00:43,559
+<font color="#CCCCCC">I had a subscription</font><font color="#E5E5E5"> for Google</font><font color="#CCCCCC"> alerts</font>
+
+17
+00:00:43,559 --> 00:00:46,410
+in German<font color="#CCCCCC"> language in</font><font color="#E5E5E5"> getting them every</font>
+
+18
+00:00:46,410 --> 00:00:49,320
+day<font color="#E5E5E5"> out of</font><font color="#CCCCCC"> 10</font><font color="#E5E5E5"> results</font><font color="#CCCCCC"> between 5 and 10</font>
+
+19
+00:00:49,320 --> 00:00:51,420
+<font color="#E5E5E5">every day</font><font color="#CCCCCC"> where</font><font color="#E5E5E5"> four Sputnik</font><font color="#CCCCCC"> news which</font>
+
+20
+00:00:51,420 --> 00:00:53,129
+is<font color="#CCCCCC"> a Russian German propaganda outlet</font>
+
+21
+00:00:53,129 --> 00:00:55,739
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> when I clicked on them they were</font>
+
+22
+00:00:55,739 --> 00:00:58,530
+monetarist with<font color="#E5E5E5"> google adsense is</font><font color="#CCCCCC"> it</font>
+
+23
+00:00:58,530 --> 00:01:01,440
+really necessary to<font color="#E5E5E5"> monetize Russian</font>
+
+24
+00:01:01,440 --> 00:01:02,940
+propaganda outlets<font color="#E5E5E5"> with</font><font color="#CCCCCC"> Google Adsense</font>
+
+25
+00:01:02,940 --> 00:01:05,540
+so so we're well aware<font color="#E5E5E5"> of this one and</font>
+
+26
+00:01:05,540 --> 00:01:09,180
+we<font color="#CCCCCC"> are working on detecting this kind of</font>
+
+27
+00:01:09,180 --> 00:01:11,520
+scenario you're describing<font color="#E5E5E5"> and again D</font>
+
+28
+00:01:11,520 --> 00:01:14,280
+ranking<font color="#CCCCCC"> the ranking those kinds of</font><font color="#E5E5E5"> sites</font>
+
+29
+00:01:14,280 --> 00:01:16,979
+<font color="#CCCCCC">it's basically</font><font color="#E5E5E5"> RT and Sputnik are the</font>
+
+30
+00:01:16,979 --> 00:01:20,729
+two so as you<font color="#CCCCCC"> just heard</font><font color="#E5E5E5"> the head of</font>
+
+31
+00:01:20,729 --> 00:01:22,619
+Google is<font color="#E5E5E5"> saying he doesn't</font><font color="#CCCCCC"> want to ban</font>
+
+32
+00:01:22,619 --> 00:01:25,229
+these sites<font color="#E5E5E5"> but apparently if you search</font>
+
+33
+00:01:25,229 --> 00:01:27,570
+for<font color="#CCCCCC"> stories in your newsfeed</font>
+
+34
+00:01:27,570 --> 00:01:30,420
+stories from RT and Sputnik will be way
+
+35
+00:01:30,420 --> 00:01:32,759
+down<font color="#E5E5E5"> they will not be coming up in the</font>
+
+36
+00:01:32,759 --> 00:01:34,829
+<font color="#CCCCCC">top</font><font color="#E5E5E5"> search results and Google seems to</font>
+
+37
+00:01:34,829 --> 00:01:37,380
+<font color="#E5E5E5">be actively</font><font color="#CCCCCC"> working to</font><font color="#E5E5E5"> make that happen</font>
+
+38
+00:01:37,380 --> 00:01:39,450
+<font color="#E5E5E5">now our channel has</font><font color="#CCCCCC"> been the focus of a</font>
+
+39
+00:01:39,450 --> 00:01:41,570
+lot<font color="#CCCCCC"> of attention over</font><font color="#E5E5E5"> the past year</font>
+
+40
+00:01:41,570 --> 00:01:44,130
+<font color="#E5E5E5">Congress has</font><font color="#CCCCCC"> been pressuring different</font>
+
+41
+00:01:44,130 --> 00:01:45,869
+social media<font color="#CCCCCC"> outlets and others to take</font>
+
+42
+00:01:45,869 --> 00:01:46,500
+<font color="#E5E5E5">action</font>
+
+43
+00:01:46,500 --> 00:01:49,200
+our<font color="#E5E5E5"> American wing RT America was</font>
+
+44
+00:01:49,200 --> 00:01:51,659
+recently forced to register as a<font color="#CCCCCC"> foreign</font>
+
+45
+00:01:51,659 --> 00:01:55,079
+agent<font color="#CCCCCC"> back in</font><font color="#E5E5E5"> October</font><font color="#CCCCCC"> RT have was</font>
+
+46
+00:01:55,079 --> 00:01:57,360
+removed from Google's premium<font color="#E5E5E5"> ad list</font>
+
+47
+00:01:57,360 --> 00:02:00,950
+<font color="#E5E5E5">and then three weeks later Twitter</font>
+
+48
+00:02:00,950 --> 00:02:03,719
+<font color="#E5E5E5">started not permitting the purchasing of</font>
+
+49
+00:02:03,719 --> 00:02:08,340
+ads by RT now we've heard testimony in
+
+50
+00:02:08,340 --> 00:02:10,818
+Congress<font color="#E5E5E5"> from owners of social media</font>
+
+51
+00:02:10,818 --> 00:02:13,260
+Twitter<font color="#CCCCCC"> Facebook and</font><font color="#E5E5E5"> YouTube they</font>
+
+52
+00:02:13,260 --> 00:02:13,740
+appeared
+
+53
+00:02:13,740 --> 00:02:16,530
+for Congress<font color="#E5E5E5"> and they were grilled about</font>
+
+54
+00:02:16,530 --> 00:02:19,680
+<font color="#E5E5E5">the impact of russia-related advertising</font>
+
+55
+00:02:19,680 --> 00:02:22,620
+on the<font color="#CCCCCC"> US</font><font color="#E5E5E5"> presidential elections now in</font>
+
+56
+00:02:22,620 --> 00:02:24,330
+their testimony<font color="#E5E5E5"> they seemed to indicate</font>
+
+57
+00:02:24,330 --> 00:02:27,120
+that the impact of this this
+
+58
+00:02:27,120 --> 00:02:29,010
+russia-related advertising was quite
+
+59
+00:02:29,010 --> 00:02:32,400
+minor<font color="#CCCCCC"> but apparently this was not enough</font>
+
+60
+00:02:32,400 --> 00:02:40,500
+this is<font color="#CCCCCC"> what was said</font><font color="#E5E5E5"> on Capitol</font><font color="#CCCCCC"> Hill we</font>
+
+61
+00:02:40,500 --> 00:02:42,390
+determined that the number of<font color="#CCCCCC"> accounts</font>
+
+62
+00:02:42,390 --> 00:02:44,310
+we could link<font color="#E5E5E5"> to Russia and</font><font color="#CCCCCC"> that we're</font>
+
+63
+00:02:44,310 --> 00:02:46,980
+tweeting<font color="#E5E5E5"> election related content was</font>
+
+64
+00:02:46,980 --> 00:03:01,140
+comparatively small aggregate these ads
+
+65
+00:03:01,140 --> 00:03:02,880
+<font color="#CCCCCC">and posts were a very small</font><font color="#E5E5E5"> fraction of</font>
+
+66
+00:03:02,880 --> 00:03:05,670
+<font color="#E5E5E5">the overall content on Facebook but any</font>
+
+67
+00:03:05,670 --> 00:03:08,050
+<font color="#E5E5E5">amount is too much</font>
+
+68
+00:03:08,050 --> 00:03:18,860
+[Music]
+
+69
+00:03:19,520 --> 00:03:24,330
+these videos mostly<font color="#E5E5E5"> had low view counts</font>
+
+70
+00:03:24,330 --> 00:03:33,200
+[Music]
+
+71
+00:03:33,200 --> 00:03:37,530
+you failed<font color="#CCCCCC"> lack of resources a lack of</font>
+
+72
+00:03:37,530 --> 00:03:39,870
+commitment<font color="#CCCCCC"> and a lack of</font><font color="#E5E5E5"> genuine effort</font>
+
+73
+00:03:39,870 --> 00:03:42,660
+and that just won't do<font color="#CCCCCC"> we could we</font><font color="#E5E5E5"> could</font>
+
+74
+00:03:42,660 --> 00:03:44,250
+<font color="#E5E5E5">have done more</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> I think</font><font color="#CCCCCC"> we</font><font color="#E5E5E5"> are doing</font>
+
+75
+00:03:44,250 --> 00:03:46,800
+<font color="#E5E5E5">more today and have done more similar no</font>
+
+76
+00:03:46,800 --> 00:03:49,410
+no no we need to<font color="#E5E5E5"> do more it's a</font><font color="#CCCCCC"> strategy</font>
+
+77
+00:03:49,410 --> 00:03:53,000
+<font color="#CCCCCC">same is true</font><font color="#E5E5E5"> okay</font>
+
+78
+00:03:54,700 --> 00:03:57,170
+<font color="#E5E5E5">calum open</font><font color="#CCCCCC"> there reporting</font><font color="#E5E5E5"> from New York</font>
+
+79
+00:03:57,170 --> 00:03:58,970
+<font color="#CCCCCC">Arty's editor-in-chief</font><font color="#E5E5E5"> says these</font>
+
+80
+00:03:58,970 --> 00:04:02,750
+actions contradict<font color="#E5E5E5"> any logic good to</font>
+
+81
+00:04:02,750 --> 00:04:04,490
+have<font color="#E5E5E5"> Google</font><font color="#CCCCCC"> on record as defined all</font>
+
+82
+00:04:04,490 --> 00:04:07,100
+<font color="#E5E5E5">logic and reason facts aren't allowed if</font>
+
+83
+00:04:07,100 --> 00:04:09,380
+they come from<font color="#CCCCCC"> RT because of Russia</font><font color="#E5E5E5"> even</font>
+
+84
+00:04:09,380 --> 00:04:11,120
+<font color="#CCCCCC">though we have Google</font><font color="#E5E5E5"> on congressional</font>
+
+85
+00:04:11,120 --> 00:04:12,710
+<font color="#CCCCCC">records saying they found no</font>
+
+86
+00:04:12,710 --> 00:04:15,140
+manipulation<font color="#E5E5E5"> of their</font><font color="#CCCCCC"> platform or policy</font>
+
+87
+00:04:15,140 --> 00:04:18,320
+violations<font color="#E5E5E5"> by RT well let's continue</font>
+
+88
+00:04:18,320 --> 00:04:20,480
+this<font color="#E5E5E5"> discussion and cross live to</font><font color="#CCCCCC"> Dan</font>
+
+89
+00:04:20,480 --> 00:04:22,040
+<font color="#E5E5E5">Carver like a human rights lawyer</font>
+
+90
+00:04:22,040 --> 00:04:24,170
+<font color="#CCCCCC">welcome to the</font><font color="#E5E5E5"> program Dan now</font>
+
+91
+00:04:24,170 --> 00:04:26,240
+<font color="#E5E5E5">Google says it's not looking to ban us</font>
+
+92
+00:04:26,240 --> 00:04:28,550
+yet<font color="#E5E5E5"> doesn't deem ranking</font><font color="#CCCCCC"> our stories</font>
+
+93
+00:04:28,550 --> 00:04:33,140
+essentially have the same effect yes<font color="#CCCCCC"> it</font>
+
+94
+00:04:33,140 --> 00:04:35,840
+is a form of censorship<font color="#CCCCCC"> and</font><font color="#E5E5E5"> the idea is</font>
+
+95
+00:04:35,840 --> 00:04:40,990
+<font color="#CCCCCC">to lead readers away from RT content and</font>
+
+96
+00:04:40,990 --> 00:04:44,510
+it will have an impact<font color="#E5E5E5"> on the discourse</font>
+
+97
+00:04:44,510 --> 00:04:47,660
+in this<font color="#E5E5E5"> country and by the way</font><font color="#CCCCCC"> might I</font>
+
+98
+00:04:47,660 --> 00:04:49,580
+mentioned that Google's already<font color="#E5E5E5"> started</font>
+
+99
+00:04:49,580 --> 00:04:52,780
+the process against North American
+
+100
+00:04:52,780 --> 00:04:55,790
+<font color="#CCCCCC">alternative media sources</font><font color="#E5E5E5"> in August</font>
+
+101
+00:04:55,790 --> 00:04:57,430
+there<font color="#E5E5E5"> was a report</font><font color="#CCCCCC"> that they've already</font>
+
+102
+00:04:57,430 --> 00:05:01,430
+<font color="#E5E5E5">been D ranking</font><font color="#CCCCCC"> I have a list of maybe 12</font>
+
+103
+00:05:01,430 --> 00:05:03,980
+different<font color="#E5E5E5"> North American alternative</font>
+
+104
+00:05:03,980 --> 00:05:07,850
+<font color="#CCCCCC">media sources from their rankings</font><font color="#E5E5E5"> and</font>
+
+105
+00:05:07,850 --> 00:05:14,090
+all of these sources<font color="#E5E5E5"> have now reported a</font>
+
+106
+00:05:14,090 --> 00:05:17,390
+huge decrease in readership<font color="#CCCCCC"> and this is</font>
+
+107
+00:05:17,390 --> 00:05:20,390
+what will happen<font color="#E5E5E5"> RT but the point is you</font>
+
+108
+00:05:20,390 --> 00:05:23,510
+know when they start censoring anyone
+
+109
+00:05:23,510 --> 00:05:26,030
+<font color="#E5E5E5">they're going to censor everyone and I</font>
+
+110
+00:05:26,030 --> 00:05:28,760
+<font color="#CCCCCC">think everyone</font><font color="#E5E5E5"> in the</font><font color="#CCCCCC"> US should be</font>
+
+111
+00:05:28,760 --> 00:05:31,610
+appalled by this and very concerned<font color="#CCCCCC"> Dan</font>
+
+112
+00:05:31,610 --> 00:05:34,520
+<font color="#E5E5E5">hey how can</font><font color="#CCCCCC"> Google justify this</font>
+
+113
+00:05:34,520 --> 00:05:37,250
+intervention<font color="#E5E5E5"> and as</font><font color="#CCCCCC"> Artie's editor in</font>
+
+114
+00:05:37,250 --> 00:05:39,140
+chief says the tech giant testified in
+
+115
+00:05:39,140 --> 00:05:41,150
+Congress<font color="#E5E5E5"> and they found no manipulation</font>
+
+116
+00:05:41,150 --> 00:05:43,910
+<font color="#E5E5E5">of their</font><font color="#CCCCCC"> platform or policy violations</font>
+
+117
+00:05:43,910 --> 00:05:49,310
+by RT so what's the justification<font color="#E5E5E5"> there</font>
+
+118
+00:05:49,310 --> 00:05:52,250
+is no justification<font color="#E5E5E5"> I think what you see</font>
+
+119
+00:05:52,250 --> 00:05:55,130
+has happened is<font color="#CCCCCC"> that Google Twitter</font>
+
+120
+00:05:55,130 --> 00:05:58,250
+Facebook have been pressured by the US
+
+121
+00:05:58,250 --> 00:06:03,000
+government to<font color="#E5E5E5"> try to</font>
+
+122
+00:06:03,000 --> 00:06:06,160
+essentially find blame on Russia where
+
+123
+00:06:06,160 --> 00:06:09,130
+there is none<font color="#CCCCCC"> and to appear somehow that</font>
+
+124
+00:06:09,130 --> 00:06:11,970
+<font color="#E5E5E5">they're</font><font color="#CCCCCC"> working with the US government</font>
+
+125
+00:06:11,970 --> 00:06:16,240
+<font color="#E5E5E5">against Russia</font><font color="#CCCCCC"> and they have bowed to</font>
+
+126
+00:06:16,240 --> 00:06:18,820
+this pressure<font color="#E5E5E5"> and now you have Google</font>
+
+127
+00:06:18,820 --> 00:06:20,980
+<font color="#CCCCCC">which is</font><font color="#E5E5E5"> really I mean</font><font color="#CCCCCC"> I don't know</font>
+
+128
+00:06:20,980 --> 00:06:23,320
+anyone who uses anything but Google to
+
+129
+00:06:23,320 --> 00:06:28,060
+search you know for news<font color="#CCCCCC"> and they will</font>
+
+130
+00:06:28,060 --> 00:06:32,290
+have an<font color="#CCCCCC"> impact</font><font color="#E5E5E5"> on freedom of speech</font><font color="#CCCCCC"> and</font>
+
+131
+00:06:32,290 --> 00:06:34,540
+thought in<font color="#E5E5E5"> this country it will be a</font>
+
+132
+00:06:34,540 --> 00:06:37,780
+negative<font color="#E5E5E5"> impact alternative voices on</font>
+
+133
+00:06:37,780 --> 00:06:41,620
+things especially<font color="#E5E5E5"> like Syria Ukraine</font>
+
+134
+00:06:41,620 --> 00:06:43,750
+which are already frankly crowded out of
+
+135
+00:06:43,750 --> 00:06:46,270
+the<font color="#E5E5E5"> mainstream media will be crowded out</font>
+
+136
+00:06:46,270 --> 00:06:49,450
+of the<font color="#CCCCCC"> internet in social media</font><font color="#E5E5E5"> and I</font>
+
+137
+00:06:49,450 --> 00:06:52,090
+think<font color="#CCCCCC"> that is a shame Danya in your</font>
+
+138
+00:06:52,090 --> 00:06:54,970
+opinion why do you think<font color="#CCCCCC"> RT</font><font color="#E5E5E5"> specifically</font>
+
+139
+00:06:54,970 --> 00:07:00,040
+is being targeted directly well again
+
+140
+00:07:00,040 --> 00:07:02,350
+<font color="#E5E5E5">because well there's a few reasons again</font>
+
+141
+00:07:02,350 --> 00:07:05,430
+one because of this<font color="#CCCCCC"> Russia gate scandal</font>
+
+142
+00:07:05,430 --> 00:07:09,070
+<font color="#E5E5E5">in the</font><font color="#CCCCCC"> US again I think</font><font color="#E5E5E5"> the media</font>
+
+143
+00:07:09,070 --> 00:07:11,080
+platforms<font color="#E5E5E5"> feel like they have to play</font>
+
+144
+00:07:11,080 --> 00:07:12,610
+<font color="#CCCCCC">along with that</font><font color="#E5E5E5"> even though they haven't</font>
+
+145
+00:07:12,610 --> 00:07:15,160
+<font color="#E5E5E5">found evidence supporting the Russia</font>
+
+146
+00:07:15,160 --> 00:07:21,030
+<font color="#CCCCCC">gate allegations but</font><font color="#E5E5E5"> also I do believe</font>
+
+147
+00:07:21,030 --> 00:07:25,150
+<font color="#E5E5E5">that there is concern in the US</font>
+
+148
+00:07:25,150 --> 00:07:29,080
+government<font color="#CCCCCC"> and the</font><font color="#E5E5E5"> mainstream media</font><font color="#CCCCCC"> of</font>
+
+149
+00:07:29,080 --> 00:07:31,330
+this alternative narrative<font color="#E5E5E5"> about what's</font>
+
+150
+00:07:31,330 --> 00:07:34,330
+happening in Syria<font color="#E5E5E5"> for example about</font>
+
+151
+00:07:34,330 --> 00:07:36,220
+<font color="#E5E5E5">whether the u.s.</font><font color="#CCCCCC"> is truly</font><font color="#E5E5E5"> fighting</font>
+
+152
+00:07:36,220 --> 00:07:39,760
+terrorism<font color="#E5E5E5"> in in Syria's and claims well</font>
+
+153
+00:07:39,760 --> 00:07:42,310
+Russia has a different view<font color="#CCCCCC"> of that</font><font color="#E5E5E5"> RT</font>
+
+154
+00:07:42,310 --> 00:07:43,810
+<font color="#CCCCCC">has a different view of</font><font color="#E5E5E5"> that the same</font>
+
+155
+00:07:43,810 --> 00:07:46,740
+<font color="#E5E5E5">thing in Ukraine the US has been backing</font>
+
+156
+00:07:46,740 --> 00:07:49,900
+neo-nazis in<font color="#CCCCCC"> the Ukraine</font><font color="#E5E5E5"> that isn't</font>
+
+157
+00:07:49,900 --> 00:07:52,210
+something that<font color="#E5E5E5"> the powers that be want</font>
+
+158
+00:07:52,210 --> 00:07:54,850
+Americans to<font color="#CCCCCC"> know</font><font color="#E5E5E5"> and so I think the</font>
+
+159
+00:07:54,850 --> 00:07:57,820
+attack on RT which has a<font color="#E5E5E5"> very different</font>
+
+160
+00:07:57,820 --> 00:08:01,810
+view<font color="#CCCCCC"> of those things</font><font color="#E5E5E5"> is an attack on</font>
+
+161
+00:08:01,810 --> 00:08:05,440
+<font color="#E5E5E5">those alternative narratives of issues</font>
+
+162
+00:08:05,440 --> 00:08:06,880
+that<font color="#CCCCCC"> are very important</font><font color="#E5E5E5"> to the American</font>
+
+163
+00:08:06,880 --> 00:08:07,770
+<font color="#E5E5E5">people</font>
+
+164
+00:08:07,770 --> 00:08:10,930
+<font color="#E5E5E5">okay dan kowolik human rights lawyer</font>
+
+165
+00:08:10,930 --> 00:08:12,880
+there thanks very much for<font color="#E5E5E5"> your views on</font>
+
+166
+00:08:12,880 --> 00:08:13,860
+<font color="#E5E5E5">this particular</font>
+
+167
+00:08:13,860 --> 00:00:00,000
+subject<font color="#CCCCCC"> Thanks</font>
+

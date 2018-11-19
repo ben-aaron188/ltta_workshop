@@ -1,0 +1,352 @@
+1
+00:00:00,030 --> 00:00:02,700
+between 1940 and 1960 the amount of mail
+
+2
+00:00:02,700 --> 00:00:04,920
+doubled in<font color="#E5E5E5"> the United States that's</font>
+
+3
+00:00:04,920 --> 00:00:06,750
+largely<font color="#E5E5E5"> because companies begin using</font>
+
+4
+00:00:06,750 --> 00:00:08,550
+computers<font color="#CCCCCC"> to send</font><font color="#E5E5E5"> automated mailings</font>
+
+5
+00:00:08,550 --> 00:00:10,889
+soon the flood<font color="#CCCCCC"> of mails sent by</font><font color="#E5E5E5"> banks</font>
+
+6
+00:00:10,889 --> 00:00:12,929
+<font color="#E5E5E5">advertisers and other businesses was</font>
+
+7
+00:00:12,929 --> 00:00:15,150
+overwhelming postal workers<font color="#E5E5E5"> the Postal</font>
+
+8
+00:00:15,150 --> 00:00:18,420
+<font color="#E5E5E5">Service needed a solution</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> 1963 the</font>
+
+9
+00:00:18,420 --> 00:00:19,920
+zone<font color="#CCCCCC"> improvement plan divided the</font>
+
+10
+00:00:19,920 --> 00:00:22,020
+country into<font color="#CCCCCC"> ten regions</font><font color="#E5E5E5"> and assigned</font>
+
+11
+00:00:22,020 --> 00:00:24,300
+<font color="#E5E5E5">five digits</font><font color="#CCCCCC"> increasing in specificity</font>
+
+12
+00:00:24,300 --> 00:00:26,910
+from region<font color="#E5E5E5"> two large sorting centers to</font>
+
+13
+00:00:26,910 --> 00:00:29,160
+smaller post offices where previously
+
+14
+00:00:29,160 --> 00:00:30,720
+male workers had to<font color="#E5E5E5"> figure out which</font>
+
+15
+00:00:30,720 --> 00:00:32,790
+post office went with which address now
+
+16
+00:00:32,790 --> 00:00:34,500
+the zip code provided<font color="#E5E5E5"> that</font><font color="#CCCCCC"> information</font>
+
+17
+00:00:34,500 --> 00:00:37,050
+for them<font color="#E5E5E5"> the government promoted the new</font>
+
+18
+00:00:37,050 --> 00:00:39,180
+system with<font color="#CCCCCC"> the cartoon</font><font color="#E5E5E5"> character mr.</font>
+
+19
+00:00:39,180 --> 00:00:41,550
+zip and a new song from the zip code
+
+20
+00:00:41,550 --> 00:00:45,320
+<font color="#CCCCCC">lovin band called the</font><font color="#E5E5E5"> swinging six</font>
+
+21
+00:00:54,150 --> 00:00:59,410
+and it worked<font color="#CCCCCC"> by 1969 83% of Americans</font>
+
+22
+00:00:59,410 --> 00:01:02,170
+<font color="#CCCCCC">were using zip codes</font><font color="#E5E5E5"> in between 1971 and</font>
+
+23
+00:01:02,170 --> 00:01:04,690
+<font color="#E5E5E5">1980 the number of pieces of mail</font><font color="#CCCCCC"> that</font>
+
+24
+00:01:04,690 --> 00:01:07,090
+were processed per year increased by 17
+
+25
+00:01:07,090 --> 00:01:10,330
+<font color="#E5E5E5">billion but the system was limited</font><font color="#CCCCCC"> zip</font>
+
+26
+00:01:10,330 --> 00:01:12,100
+codes are made from digits unlike the
+
+27
+00:01:12,100 --> 00:01:13,869
+alphanumeric Canadian<font color="#E5E5E5"> system which can</font>
+
+28
+00:01:13,869 --> 00:01:16,200
+encode<font color="#E5E5E5"> more information per character as</font>
+
+29
+00:01:16,200 --> 00:01:19,500
+America grew zip codes got longer<font color="#CCCCCC"> in</font>
+
+30
+00:01:19,500 --> 00:01:22,420
+1983<font color="#E5E5E5"> a</font><font color="#CCCCCC"> four digit</font><font color="#E5E5E5"> suffix was added to</font>
+
+31
+00:01:22,420 --> 00:01:24,520
+denote<font color="#CCCCCC"> specific addresses</font><font color="#E5E5E5"> like city</font>
+
+32
+00:01:24,520 --> 00:01:26,950
+blocks or large buildings while this
+
+33
+00:01:26,950 --> 00:01:28,240
+update improved delivery
+
+34
+00:01:28,240 --> 00:01:30,520
+it requires<font color="#E5E5E5"> zip codes to</font><font color="#CCCCCC"> be continually</font>
+
+35
+00:01:30,520 --> 00:01:32,649
+managed to reflect changing destinations
+
+36
+00:01:32,649 --> 00:01:35,259
+and delivery routes<font color="#E5E5E5"> instead</font><font color="#CCCCCC"> of a system</font>
+
+37
+00:01:35,259 --> 00:01:37,509
+dependent<font color="#E5E5E5"> on structures a geo coded zip</font>
+
+38
+00:01:37,509 --> 00:01:39,729
+code<font color="#E5E5E5"> would</font><font color="#CCCCCC"> be dependent on place</font><font color="#E5E5E5"> this</font>
+
+39
+00:01:39,729 --> 00:01:41,680
+gives every point<font color="#E5E5E5"> on earth a unique</font>
+
+40
+00:01:41,680 --> 00:01:44,350
+permanent<font color="#E5E5E5"> address</font><font color="#CCCCCC"> and geo coded</font>
+
+41
+00:01:44,350 --> 00:01:46,060
+deliveries can<font color="#E5E5E5"> be sent to specific</font>
+
+42
+00:01:46,060 --> 00:01:48,310
+pickup points<font color="#CCCCCC"> at an address more</font>
+
+43
+00:01:48,310 --> 00:01:50,050
+specificity would also benefit
+
+44
+00:01:50,050 --> 00:01:51,460
+industries that use zip codes for
+
+45
+00:01:51,460 --> 00:01:53,740
+purposes<font color="#E5E5E5"> other than sending them like</font>
+
+46
+00:01:53,740 --> 00:01:56,530
+analyzing<font color="#E5E5E5"> data in Britain the Postal</font>
+
+47
+00:01:56,530 --> 00:01:58,240
+<font color="#E5E5E5">Service</font><font color="#CCCCCC"> has already geo coded their</font>
+
+48
+00:01:58,240 --> 00:02:00,099
+system<font color="#E5E5E5"> and</font><font color="#CCCCCC"> blended Realtors have used</font>
+
+49
+00:02:00,099 --> 00:02:02,050
+that data to<font color="#CCCCCC"> make</font><font color="#E5E5E5"> more</font><font color="#CCCCCC"> detailed maps of</font>
+
+50
+00:02:02,050 --> 00:02:03,880
+housing prices<font color="#CCCCCC"> without Geo codes</font>
+
+51
+00:02:03,880 --> 00:02:06,399
+<font color="#E5E5E5">American addressing is limited to zip</font>
+
+52
+00:02:06,399 --> 00:02:09,130
+codes and building numbers<font color="#E5E5E5"> any further</font>
+
+53
+00:02:09,130 --> 00:02:12,040
+detail has to<font color="#CCCCCC"> be written with</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> Geo</font>
+
+54
+00:02:12,040 --> 00:02:14,110
+code<font color="#E5E5E5"> sending mail directly to the</font><font color="#CCCCCC"> Oval</font>
+
+55
+00:02:14,110 --> 00:02:16,780
+<font color="#CCCCCC">Office</font><font color="#E5E5E5"> is as easy as remembering three</font>
+
+56
+00:02:16,780 --> 00:02:18,790
+eight point eight nine seven<font color="#CCCCCC"> three six</font>
+
+57
+00:02:18,790 --> 00:02:21,550
+<font color="#CCCCCC">zero three</font><font color="#E5E5E5"> minus seven seven point zero</font>
+
+58
+00:02:21,550 --> 00:02:25,150
+<font color="#E5E5E5">three</font><font color="#CCCCCC"> seven four</font><font color="#E5E5E5"> one</font><font color="#CCCCCC"> six two or not that</font>
+
+59
+00:02:25,150 --> 00:02:27,340
+easy<font color="#CCCCCC"> complex numbers are</font><font color="#E5E5E5"> hard to</font>
+
+60
+00:02:27,340 --> 00:02:29,200
+remember<font color="#E5E5E5"> so systems have been created to</font>
+
+61
+00:02:29,200 --> 00:02:31,780
+simplify<font color="#CCCCCC"> Geo codes</font><font color="#E5E5E5"> one system called</font>
+
+62
+00:02:31,780 --> 00:02:34,150
+natural area code<font color="#E5E5E5"> converts latitudes and</font>
+
+63
+00:02:34,150 --> 00:02:36,310
+longitudes<font color="#CCCCCC"> into an alphanumeric Nakba</font>
+
+64
+00:02:36,310 --> 00:02:39,010
+<font color="#E5E5E5">which is better but still not great</font><font color="#CCCCCC"> a</font>
+
+65
+00:02:39,010 --> 00:02:41,470
+different<font color="#CCCCCC"> system uses words</font><font color="#E5E5E5"> which we</font>
+
+66
+00:02:41,470 --> 00:02:43,000
+tend<font color="#E5E5E5"> to</font><font color="#CCCCCC"> remember more easily than</font>
+
+67
+00:02:43,000 --> 00:02:45,550
+characters<font color="#E5E5E5"> a company called what three</font>
+
+68
+00:02:45,550 --> 00:02:48,040
+words has divided<font color="#E5E5E5"> the world into 57</font>
+
+69
+00:02:48,040 --> 00:02:50,590
+<font color="#E5E5E5">trillion squares and given each square a</font>
+
+70
+00:02:50,590 --> 00:02:53,170
+unique string of<font color="#CCCCCC"> 3</font><font color="#E5E5E5"> words each</font>
+
+71
+00:02:53,170 --> 00:02:54,730
+<font color="#CCCCCC">combination</font><font color="#E5E5E5"> of words goes with a</font>
+
+72
+00:02:54,730 --> 00:02:57,370
+specific latitude and longitude<font color="#E5E5E5"> if our</font>
+
+73
+00:02:57,370 --> 00:02:59,560
+postal service used what<font color="#CCCCCC"> 3 words you</font>
+
+74
+00:02:59,560 --> 00:03:01,180
+could send your letter directly to<font color="#CCCCCC"> rich</font>
+
+75
+00:03:01,180 --> 00:03:03,190
+soup noble and the<font color="#CCCCCC"> president could pick</font>
+
+76
+00:03:03,190 --> 00:03:04,220
+it<font color="#E5E5E5"> up at the window of the</font>
+
+77
+00:03:04,220 --> 00:03:06,710
+office<font color="#E5E5E5"> while language makes geocodes</font>
+
+78
+00:03:06,710 --> 00:03:09,020
+easier for<font color="#E5E5E5"> humans machines prefer to</font>
+
+79
+00:03:09,020 --> 00:03:11,540
+process numbers so the<font color="#E5E5E5"> zip code probably</font>
+
+80
+00:03:11,540 --> 00:03:12,860
+will evolve in ways<font color="#E5E5E5"> we won't notice</font>
+
+81
+00:03:12,860 --> 00:03:15,470
+<font color="#E5E5E5">right now</font><font color="#CCCCCC"> computers add</font><font color="#E5E5E5"> delivery</font>
+
+82
+00:03:15,470 --> 00:03:17,180
+instructions<font color="#CCCCCC"> by</font><font color="#E5E5E5"> converting zip codes</font>
+
+83
+00:03:17,180 --> 00:03:18,800
+into<font color="#E5E5E5"> a barcode that is printed on a</font>
+
+84
+00:03:18,800 --> 00:03:21,320
+shipment<font color="#CCCCCC"> in the future a similar process</font>
+
+85
+00:03:21,320 --> 00:03:23,750
+might incorporate geocoding<font color="#E5E5E5"> which would</font>
+
+86
+00:03:23,750 --> 00:03:25,670
+<font color="#CCCCCC">probably leave us with one question if</font>
+
+87
+00:03:25,670 --> 00:03:28,520
+we don't need to learn<font color="#E5E5E5"> a new system do</font>
+
+88
+00:03:28,520 --> 00:00:00,000
+<font color="#E5E5E5">we still get a new song</font>
+

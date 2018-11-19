@@ -1,0 +1,456 @@
+1
+00:00:03,570 --> 00:00:06,660
+[Music]
+
+2
+00:00:07,450 --> 00:00:09,559
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+3
+00:00:09,559 --> 00:00:11,360
+Washington<font color="#CCCCCC"> with a look at Axios am the</font>
+
+4
+00:00:11,360 --> 00:00:13,790
+co-founder of<font color="#CCCCCC"> Axios</font><font color="#E5E5E5"> Mike Allen Mike good</font>
+
+5
+00:00:13,790 --> 00:00:16,070
+<font color="#CCCCCC">morning to you a talk just about Axios</font>
+
+6
+00:00:16,070 --> 00:00:18,920
+is one big<font color="#E5E5E5"> thing today</font><font color="#CCCCCC"> axes one big</font>
+
+7
+00:00:18,920 --> 00:00:22,060
+<font color="#E5E5E5">thing is president Trump's torch it all</font>
+
+8
+00:00:22,060 --> 00:00:24,680
+strategy so we're seeing<font color="#E5E5E5"> on your air so</font>
+
+9
+00:00:24,680 --> 00:00:28,100
+many attacks so many targets<font color="#E5E5E5"> so often</font>
+
+10
+00:00:28,100 --> 00:00:30,859
+<font color="#E5E5E5">that sometimes we</font><font color="#CCCCCC"> forget</font><font color="#E5E5E5"> to step back</font>
+
+11
+00:00:30,859 --> 00:00:33,170
+and look<font color="#CCCCCC"> at what he's doing what we have</font>
+
+12
+00:00:33,170 --> 00:00:35,960
+is presidential whack Amole any threat
+
+13
+00:00:35,960 --> 00:00:38,720
+that comes<font color="#E5E5E5"> up any person or institution</font>
+
+14
+00:00:38,720 --> 00:00:42,199
+that might hold him accountable<font color="#CCCCCC"> he goes</font>
+
+15
+00:00:42,199 --> 00:00:45,589
+after so<font color="#E5E5E5"> we have the media we have the</font>
+
+16
+00:00:45,589 --> 00:00:48,170
+Intel<font color="#E5E5E5"> community we have the Justice</font>
+
+17
+00:00:48,170 --> 00:00:51,440
+<font color="#CCCCCC">Department FBI</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> Attorney General the</font>
+
+18
+00:00:51,440 --> 00:00:53,420
+<font color="#E5E5E5">Deputy Attorney General</font><font color="#CCCCCC"> Special Counsel</font>
+
+19
+00:00:53,420 --> 00:00:56,710
+<font color="#CCCCCC">baller molars prosecutors the New York</font>
+
+20
+00:00:56,710 --> 00:00:59,750
+investigators and prosecutors<font color="#CCCCCC"> the Intel</font>
+
+21
+00:00:59,750 --> 00:01:02,570
+committees on the<font color="#CCCCCC"> hill</font><font color="#E5E5E5"> Republican</font>
+
+22
+00:01:02,570 --> 00:01:06,500
+senators<font color="#E5E5E5"> that go astray</font><font color="#CCCCCC"> so all</font><font color="#E5E5E5"> of these</font>
+
+23
+00:01:06,500 --> 00:01:08,320
+groups<font color="#E5E5E5"> are</font><font color="#CCCCCC"> getting the campaign</font>
+
+24
+00:01:08,320 --> 00:01:11,240
+treatment that<font color="#E5E5E5"> in 2016</font>
+
+25
+00:01:11,240 --> 00:01:14,240
+Secretary Clinton<font color="#CCCCCC"> and other Republicans</font>
+
+26
+00:01:14,240 --> 00:01:16,130
+of Marco Rubio<font color="#E5E5E5"> got from this president</font>
+
+27
+00:01:16,130 --> 00:01:18,229
+<font color="#CCCCCC">yeah I was actually</font><font color="#E5E5E5"> gonna bring that up</font>
+
+28
+00:01:18,229 --> 00:01:19,969
+<font color="#E5E5E5">and by the way I love the graphics</font><font color="#CCCCCC"> that</font>
+
+29
+00:01:19,969 --> 00:01:20,990
+we had up could<font color="#CCCCCC"> we bring</font><font color="#E5E5E5"> that up again</font>
+
+30
+00:01:20,990 --> 00:01:22,250
+of the president walking out<font color="#CCCCCC"> of</font><font color="#E5E5E5"> that</font>
+
+31
+00:01:22,250 --> 00:01:24,289
+fiery pit there that was pretty
+
+32
+00:01:24,289 --> 00:01:25,549
+<font color="#E5E5E5">incredible just keep it on the screen</font>
+
+33
+00:01:25,549 --> 00:01:27,409
+the entire<font color="#E5E5E5"> interview with Mike there we</font>
+
+34
+00:01:27,409 --> 00:01:27,740
+go
+
+35
+00:01:27,740 --> 00:01:29,299
+but I mean<font color="#CCCCCC"> that is some good</font><font color="#E5E5E5"> stuff</font><font color="#CCCCCC"> from</font>
+
+36
+00:01:29,299 --> 00:01:31,789
+our graphics department<font color="#CCCCCC"> I was gonna say</font>
+
+37
+00:01:31,789 --> 00:01:33,289
+that<font color="#E5E5E5"> we saw this from the very GetGo</font>
+
+38
+00:01:33,289 --> 00:01:36,259
+when he announced his<font color="#CCCCCC"> intention to run</font>
+
+39
+00:01:36,259 --> 00:01:38,810
+<font color="#CCCCCC">for president</font><font color="#E5E5E5"> that's right and by the</font>
+
+40
+00:01:38,810 --> 00:01:41,420
+way that is from the amazing Axios
+
+41
+00:01:41,420 --> 00:01:44,840
+visuals<font color="#CCCCCC"> team which were so grateful for</font>
+
+42
+00:01:44,840 --> 00:01:47,179
+<font color="#E5E5E5">yeah what we saw</font><font color="#CCCCCC"> was the president would</font>
+
+43
+00:01:47,179 --> 00:01:49,479
+take<font color="#E5E5E5"> the approach</font><font color="#CCCCCC"> of belittling</font>
+
+44
+00:01:49,479 --> 00:01:51,799
+<font color="#E5E5E5">exaggerating using the sort of high</font>
+
+45
+00:01:51,799 --> 00:01:54,530
+decibel<font color="#E5E5E5"> language that we've rarely heard</font>
+
+46
+00:01:54,530 --> 00:01:57,829
+in politics<font color="#E5E5E5"> certainly</font><font color="#CCCCCC"> not from a</font>
+
+47
+00:01:57,829 --> 00:02:00,319
+president and it's effective like we saw
+
+48
+00:02:00,319 --> 00:02:02,600
+<font color="#CCCCCC">during the campaign it does tend to</font><font color="#E5E5E5"> get</font>
+
+49
+00:02:02,600 --> 00:02:05,240
+people to pull back and<font color="#CCCCCC"> there very few</font>
+
+50
+00:02:05,240 --> 00:02:07,100
+of these targets<font color="#E5E5E5"> that we've walked</font>
+
+51
+00:02:07,100 --> 00:02:09,318
+through<font color="#CCCCCC"> there really have</font><font color="#E5E5E5"> found a way to</font>
+
+52
+00:02:09,318 --> 00:02:12,290
+<font color="#E5E5E5">push</font><font color="#CCCCCC"> back Senator John McCain has a</font>
+
+53
+00:02:12,290 --> 00:02:15,349
+couple<font color="#E5E5E5"> of senators but lying by and</font>
+
+54
+00:02:15,349 --> 00:02:16,710
+large people<font color="#E5E5E5"> talk about</font>
+
+55
+00:02:16,710 --> 00:02:19,260
+presidential behavior<font color="#E5E5E5"> but they don't</font>
+
+56
+00:02:19,260 --> 00:02:22,290
+really<font color="#E5E5E5"> find a way to push</font><font color="#CCCCCC"> back in a way</font>
+
+57
+00:02:22,290 --> 00:02:24,300
+that with his own base that with the
+
+58
+00:02:24,300 --> 00:02:28,260
+ozone<font color="#E5E5E5"> Republicans doesn't let these sink</font>
+
+59
+00:02:28,260 --> 00:02:31,260
+in how<font color="#E5E5E5"> much of is this a part of who the</font>
+
+60
+00:02:31,260 --> 00:02:33,090
+<font color="#CCCCCC">president is and how he</font><font color="#E5E5E5"> operated</font>
+
+61
+00:02:33,090 --> 00:02:35,730
+privately<font color="#CCCCCC"> no it's such a good point you</font>
+
+62
+00:02:35,730 --> 00:02:38,250
+<font color="#E5E5E5">looking at the decades he</font><font color="#CCCCCC"> spent</font><font color="#E5E5E5"> building</font>
+
+63
+00:02:38,250 --> 00:02:40,770
+his businesses and this exactly reflects
+
+64
+00:02:40,770 --> 00:02:43,320
+the way that he went including his
+
+65
+00:02:43,320 --> 00:02:45,210
+instinct<font color="#CCCCCC"> for how to get</font><font color="#E5E5E5"> a headline his</font>
+
+66
+00:02:45,210 --> 00:02:48,630
+instinct for how to<font color="#E5E5E5"> change a story from</font>
+
+67
+00:02:48,630 --> 00:02:51,150
+trouble for him<font color="#E5E5E5"> to trouble for</font><font color="#CCCCCC"> someone</font>
+
+68
+00:02:51,150 --> 00:02:51,570
+else
+
+69
+00:02:51,570 --> 00:02:53,610
+I know that Mike you're<font color="#CCCCCC"> also looking at</font>
+
+70
+00:02:53,610 --> 00:02:54,840
+the former Intel<font color="#CCCCCC"> officials who are</font>
+
+71
+00:02:54,840 --> 00:02:56,910
+<font color="#E5E5E5">warning against plans for the Justice</font>
+
+72
+00:02:56,910 --> 00:02:59,190
+Department<font color="#CCCCCC"> to</font><font color="#E5E5E5"> hold</font><font color="#CCCCCC"> the GOP only briefing</font>
+
+73
+00:02:59,190 --> 00:03:01,380
+about<font color="#E5E5E5"> that informant in the FBI is</font>
+
+74
+00:03:01,380 --> 00:03:04,650
+Russia investigation who exactly is on
+
+75
+00:03:04,650 --> 00:03:07,350
+the list that made<font color="#E5E5E5"> this appeal</font><font color="#CCCCCC"> yeah so</font>
+
+76
+00:03:07,350 --> 00:03:09,180
+this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> a first look for first</font><font color="#E5E5E5"> look</font>
+
+77
+00:03:09,180 --> 00:03:10,920
+you're hearing about<font color="#E5E5E5"> this first on</font>
+
+78
+00:03:10,920 --> 00:03:14,700
+MSNBC's we head into<font color="#CCCCCC"> morning joe</font><font color="#E5E5E5"> five</font>
+
+79
+00:03:14,700 --> 00:03:17,160
+former intelligence officials including
+
+80
+00:03:17,160 --> 00:03:20,250
+<font color="#E5E5E5">one who worked for president george w</font>
+
+81
+00:03:20,250 --> 00:03:22,680
+<font color="#E5E5E5">bush others for president obama</font><font color="#CCCCCC"> these</font>
+
+82
+00:03:22,680 --> 00:03:24,770
+are some of<font color="#E5E5E5"> the biggest names in</font>
+
+83
+00:03:24,770 --> 00:03:28,110
+intelligence<font color="#E5E5E5"> Panetta</font><font color="#CCCCCC"> brennan hayden</font><font color="#E5E5E5"> and</font>
+
+84
+00:03:28,110 --> 00:03:30,900
+what we're seeing is another way of
+
+85
+00:03:30,900 --> 00:03:33,930
+<font color="#E5E5E5">people saying this isn't normal so</font><font color="#CCCCCC"> our</font>
+
+86
+00:03:33,930 --> 00:03:36,360
+<font color="#CCCCCC">viewers</font><font color="#E5E5E5"> have been hearing</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> this</font>
+
+87
+00:03:36,360 --> 00:03:39,530
+<font color="#E5E5E5">republican only briefing about the</font>
+
+88
+00:03:39,530 --> 00:03:42,930
+informant that<font color="#E5E5E5"> the FBI used in 2016</font>
+
+89
+00:03:42,930 --> 00:03:45,180
+now<font color="#E5E5E5"> there's could be a separate briefing</font>
+
+90
+00:03:45,180 --> 00:03:47,640
+<font color="#E5E5E5">with that traditional gang of eight that</font>
+
+91
+00:03:47,640 --> 00:03:49,890
+gets the intelligence briefing<font color="#E5E5E5"> but</font><font color="#CCCCCC"> what</font>
+
+92
+00:03:49,890 --> 00:03:51,810
+these leaders are<font color="#CCCCCC"> saying is don't</font>
+
+93
+00:03:51,810 --> 00:03:55,380
+politicize intelligence oversight that
+
+94
+00:03:55,380 --> 00:03:58,470
+<font color="#E5E5E5">by having a separate republican briefing</font>
+
+95
+00:03:58,470 --> 00:04:01,380
+you're bringing the possibility that<font color="#E5E5E5"> not</font>
+
+96
+00:04:01,380 --> 00:04:03,530
+<font color="#E5E5E5">only would there be a perception of</font>
+
+97
+00:04:03,530 --> 00:04:05,820
+<font color="#E5E5E5">POTUS ization</font><font color="#CCCCCC"> but it could</font><font color="#E5E5E5"> actually</font>
+
+98
+00:04:05,820 --> 00:04:07,680
+<font color="#E5E5E5">impact the investigation it's a major</font>
+
+99
+00:04:07,680 --> 00:04:09,750
+<font color="#E5E5E5">experience there I have to say and that</font>
+
+100
+00:04:09,750 --> 00:04:11,250
+recommendation<font color="#CCCCCC"> also by the way former</font>
+
+101
+00:04:11,250 --> 00:04:13,500
+CIA director John<font color="#E5E5E5"> Brennan is an MSNBC</font>
+
+102
+00:04:13,500 --> 00:04:15,570
+<font color="#E5E5E5">contributor important to put that</font><font color="#CCCCCC"> out</font>
+
+103
+00:04:15,570 --> 00:04:17,850
+there<font color="#E5E5E5"> Mike Allen for us thank you we're</font>
+
+104
+00:04:17,850 --> 00:04:19,380
+gonna be<font color="#CCCCCC"> reading</font><font color="#E5E5E5"> Axios a.m. in just a</font>
+
+105
+00:04:19,380 --> 00:04:20,820
+<font color="#CCCCCC">little</font><font color="#E5E5E5"> bit and to all of our viewers out</font>
+
+106
+00:04:20,820 --> 00:04:22,290
+<font color="#E5E5E5">there you too can sign up for</font><font color="#CCCCCC"> the</font>
+
+107
+00:04:22,290 --> 00:04:24,870
+newsletter at<font color="#CCCCCC"> Axios comm that hey there</font>
+
+108
+00:04:24,870 --> 00:04:26,669
+I'm Chris<font color="#E5E5E5"> Hayes from MSNBC thanks for</font>
+
+109
+00:04:26,669 --> 00:04:28,770
+watching<font color="#CCCCCC"> MSNBC on</font><font color="#E5E5E5"> youtube if you want</font><font color="#CCCCCC"> to</font>
+
+110
+00:04:28,770 --> 00:04:30,060
+<font color="#E5E5E5">keep up</font><font color="#CCCCCC"> to date</font><font color="#E5E5E5"> with the videos we're</font>
+
+111
+00:04:30,060 --> 00:04:30,390
+putting
+
+112
+00:04:30,390 --> 00:04:32,580
+<font color="#E5E5E5">you can click</font><font color="#CCCCCC"> subscribe just</font><font color="#E5E5E5"> below me or</font>
+
+113
+00:04:32,580 --> 00:04:34,260
+click over on<font color="#E5E5E5"> this list to see lots of</font>
+
+114
+00:04:34,260 --> 00:00:00,000
+other<font color="#E5E5E5"> great videos</font>
+

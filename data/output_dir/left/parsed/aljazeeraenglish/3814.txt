@@ -1,0 +1,626 @@
+recent elections most notably that of
+Donald Trump as US president have
+highlighted the role played by social
+media in spreading malicious propaganda
+and fake news in this alternative cyber
+reality fiction becomes fact lies become
+truths and political consensus becomes
+almost impossible to achieve in the
+second of two special reports Bob abcess
+investigates allegations that Russia and
+the far-right have been using the
+technology to undermine democracy
+America's 2016 presidential campaign
+highlighted new threats to democracy
+posed by social media platforms in the
+Internet the US Congress is
+investigating how the Russians used
+Facebook Twitter and Google to which
+information warfare and a special
+counsel is looking into whether the
+Russians and the Trump campaign actually
+colluded in their digital strategies
+there is also growing concern that the
+business models and algorithms that
+drive social media companies are fueling
+extreme partisanship and opening up the
+floodgates to phony news but America
+isn't alone challenges to democracy
+posed by social media also surfaced last
+year in European elections we begin
+there in this second part of our
+investigation into why social media
+platforms are such powerful tools for
+those who want to spread propaganda and
+disinformation we look into the ways
+automated accounts known as BOTS are
+deployed by Russians in the far right to
+manipulate the public the use of social
+media to which information warfare was
+perfected by the Kremlin in the Baltic
+States in Ukraine according to the NATO
+Stratcom Center of Excellence in Latvia
+Janus sart's as its director the center
+of excellence is researching the
+information confrontation cognitive
+warfare and we've done a lot of look at
+what Russia has been doing over the
+years and we see that a lot of our
+knowledge is actually very relevant to
+what is happening in the u.s. because
+obviously for anybody who's been
+watching the methodologies have been
+more or less there for some time
+according to the NATO Stratcom Center
+the use of social media as a military
+tactic is part of the so-called
+gerasimov doctrine named after the
+current chief of Russia's General Staff
+the goal is permanent unrest and chaos
+within an enemy state achieving that
+with information warfare rather than
+military engagement is a preferred way
+to win it gives you a plausible
+deniability and it was quite a
+significant change I think in
+because typically Russian theoretical
+thought was more about traditional
+military conflict rather than this what
+does it mean to have information
+campaigns at the center of military
+strategy this was he first saw the troll
+factories running the shifts of people
+whose task is using social media to
+micro-target the people and spreading
+fake news and then in different
+countries they tend to look at where the
+vulnerabilities is it minorities in
+migration is it corruption is a social
+inequality and then you go and exploit
+it and increasingly the shift is towards
+Robert ization of the trolling the use
+of automated social media accounts to
+interfere in elections and weaken
+democracy has become more advanced in
+recent years we found that out when we
+stopped by the 2017 riga conference last
+september thank you for coming to this
+very special 360 OS breakaway in riga
+we'll be focusing on elections and how
+bots and this information are being
+utilized to create tensions in our
+society the workshop was sponsored by
+the Atlantic Council's digital forensic
+research lab they taught journalists and
+researchers how to recognize social
+media manipulation techniques at the
+very basic level of bot is a social
+media account pre-programmed to do
+certain things without people pressing
+the button there are plenty of good BOTS
+out there like they are BOTS which share
+poetry what we focus on particularly is
+malicious BOTS which I use to distort
+conversations online then Nimmo the
+information defense fellow for the
+council specializes in tracking
+malicious BOTS on Twitter there's a lot
+of the bot activity today coming out of
+Russia yes and I've seen a lot of
+botnets from the US for example that
+there are botnets which exclusively post
+for example far-right content in the
+u.s. botnets are groups of fake accounts
+that can be automated to tweet like and
+post together you can tell a bot by
+looking at the three A's which are
+activity anonymity and amplification and
+then I think there's an example here
+whose handle is dreamed of dust which
+appears to be a us-based okay
+fifteen months old in those 15 months
+it's posted three hundred and nineteen
+thousand tweets but they have the
+activity that's a ridiculously high
+figure in terms of anonymity the avatar
+picture is a cartoon image not a real
+person and the the biography is just a
+collection of pro-trump phrases and then
+if you look at the amplification all you
+see is it's sharing stories to its 2600
+followers
+Nimmo also showed us what appeared to be
+a commercial part for hire that screen
+name is something like Judah Judah G
+it's a it's a random scramble of letters
+which is often a sign that you found a
+bot the account was part of a larger
+commercial botnet under the largest
+botnet I've seen had 192 thousand
+accounts in it and you quite often find
+that what these are doing is drowning
+out in the middle ground and they are
+trying to normalize a situation in which
+hatred and abuse are just the standard
+way of doing the dangerous that the real
+users will get sucked into that
+emotional swirl and they'll join in
+butts are also used to try to silence
+political opponents and journalists so
+this is a meme of me being dead now I
+wasn't too upset by this because I
+happen to know that I was alive at this
+point but it is clearly an attempt to
+intimidate and is another way of saying
+look we can get right into your theater
+we can tell people you're dead
+but using parts to get hashtags to trend
+on Twitter is one of their most
+effective uses for Russians and
+far-right operators in recent elections
+this tactic was used to support Donald
+Trump brexit marine lepen in France and
+the alternative for Germany party you
+can think of it like herding sheep you
+have a group of shepherds and these are
+real human beings they're real users who
+plan an online campaign they'll agree
+what's their hashtag going to be they'll
+prepare memes they'll coordinate what
+time they're actually going to launch
+their campaign then you get what you
+might think I was the sheepdogs these
+are also human users they will retweet
+them they'll amplify them they'll copy
+the memes and then around that
+the bots they will then retweet all the
+shepherds and all the sheepdogs and then
+they'll start retweeting each other and
+so a group of maybe a dozen people can
+create the impression of anything
+between twenty and forty thousand tweets
+in an hour they can then push that hash
+tag into the trending lists and so it
+throws a smoke screen over the whole
+idea of one man one vote somebody who
+controls 10,000 volts or a hundred
+thousand volts they're controlling
+100,000 voices and they distort the
+debate the disturbing use of Twitter to
+mislead the public was demonstrated
+after a mass shooting in Las Vegas last
+year and another at a Texas Church
+Google searches prioritized false
+stories spread on Twitter and Facebook
+that the shooters were progressive
+Democrats Muslim converts and members of
+an Tifa a radical anti-fascist group all
+of the social media portals that we're
+speaking about are intimately connected
+in terms of how information flows occur
+across all of the platforms and BOTS are
+able to to sort of manipulate this flow
+of information
+Sam Woolley is head of the digital
+intelligence lab at the Institute for
+the future and was research director for
+Oxford's computational propaganda
+project his work with colleague Douglas
+Guilbeau demonstrates that botnets
+particularly those tweeting Trump
+related hashtags played an influential
+role in 2016 election what we found was
+that they were successful in spreading
+their messages to people at the highest
+levels of power in the United States so
+people from major news networks
+journalists politicians other pundits
+all kinds of people like this were
+tweeting and messaging bought content
+and we showed that absolutely like
+people like Hillary Clinton and like
+Donald Trump were actually spreading the
+content that bots were sharing online do
+you think a lot of Donald Trump's
+followers on Twitter are bots yeah
+that's right and the thing about the
+bots that follow Donald Trump isn't
+their ticularly active he's an
+incredibly active Twitter user bots are
+used to spread those tweets and they're
+used to amplify those tweets like
+throughout the campaign we saw that and
+continuously we see that
+during the campaign bots were also used
+to spread damaging information the
+russians hacked from the Democratic
+National Committee and one study showed
+they generated 20% of all the political
+traffic on Twitter during the first
+second and third debates thoughts were
+overwhelmingly used at a sort of rate of
+five to one in support of Donald Trump
+compared to Hillary Clinton when it came
+to swing states we saw that bought usage
+was at an all-time high
+bots were being used to spread fake news
+stories in ways that we had never really
+seen before our bots used on Facebook as
+well as Twitter Facebook has to come
+clean for instance during the election
+there was actually real protests that
+happened because of fake profile pages
+that were automated on Facebook and so
+bots are absolutely a problem on
+facebook seth turin the founder of ubot
+studio is well versed in the ways bots
+are used on facebook his software is one
+of many turnkey systems to pop up in
+recent years then make it easy to build
+a news box on social media platforms and
+they're cheap you can buy one for 300
+dollars or less we call this the you
+BOTS playground and we make it really
+user friendly in the way that anybody
+can just jump right in what we do here
+is we have a bunch of clones of common
+types of sites so that people can play
+around and get to know you by turrón
+says you bot has hundreds of
+applications from advertising jobs to
+pumping up celebrity popularity it can
+also be used to spread and amplify a
+political message real or fake
+you have Twitter on there right yeah I
+mean there's a lot of different things
+he can do while he warns users against
+it turn is well aware his software can
+be used for so-called blackhat purposes
+tasks that violate a platforms Terms of
+Service or are illegal so with you about
+you can actually create random usernames
+and passwords and you can use those to
+create accounts but if you need a bot to
+make that many accounts for you then
+there's a good chance that you're doing
+some
+and Twitter doesn't want you to do once
+you have accounts you can use bots to do
+likes to do follows to do shares to do
+retweets all of the above yeah
+absolutely and if you'd like I can show
+you a more blackhat example using
+entirely fictional accounts and the
+programs practice ID showed us how you
+bots might be used to spread
+disinformation on Facebook through
+friend requests so this is a fake
+account that we have and let's say that
+we want to get some idea out there let's
+say that we want people to believe that
+porgies are genetically modified
+sausages so corgis are dogs right yes so
+this is some fake news yes big news so
+I'm going to post that on my wall and
+now I can run this and we're clicking
+this ad friend button an attic bot is
+just going out there and it's clicking
+add friends at random right exactly
+endlessly endlessly and what's gonna
+happen is these people when they get
+that friend message they're gonna come
+back to Tyrone's profile and they're
+gonna try to figure out who it is and
+when they do that they're gonna see that
+message that
+corgis are genetically modified sausage
+and if the message is something that
+people are curious about they're gonna
+start talking about it and possibly even
+believe it to be true Torin explained
+how BOTS can also be used to lure people
+to pages like heart of Texas which were
+created by the Russians to incite
+divisive nests and protests in the US so
+instead of saying corgis are genetically
+modified sausages we might just post a
+link to the page or the group that we
+want to advertise for it and there's a
+chance that they're gonna click it and
+there's a chance that they're gonna like
+it and if you want to enhance the appeal
+and credibility of pages and
+disinformation there is a wide range of
+offerings from blackhat bot operators
+turin doesn't sell the products but he
+showed us some examples of what's
+available online you have page likes at
+$1 per thousand
+Ickes you can get Facebook followers a
+$1 and a half per thousand
+you can also buy Twitter followers
+Twitter likes retweets for 30 cents you
+can buy a thousand retweets yeah you can
+have people share your YouTube video and
+there's also Facebook accounts for sale
+here yeah sure we can purchase fully
+filled accounts with personal photos
+cover avatars timeline posts for $5 a
+piece
+we could have accounts that have friends
+with them already you can buy everything
+yeah pretty much
+in the words of one bot builder that I
+spoke to it's like the Wild West they
+said that they can do anything in terms
+of political political outreach
+political coms put a little advertising
+and it's really hard for them to get
+caught and it wasn't just Russians who
+skillfully use BOTS during the 2016
+presidential campaign
+so did extreme conservative white
+nationalists the so-called alright
+I think the alright was very successful
+at using these tools there's been whole
+hand books written by the alt-right on
+how to use social media to manipulate
+public opinion there's there's and those
+are all born out of a lot of the
+traditions that we've seen in Russia the
+handbooks posted to online forums
+encourage all right activists to do
+whatever it takes to attack the
+opposition followers are prompted to
+steal people's online pictures and
+impersonate them and there are
+instructions on how to use bots to
+spread fake stories and mislead
+journalists the alt-right has the
+playbook on this stuff and they've shown
+no hesitancy to use the most
+manipulative nefarious tools to get
+their message across to people to better
+understand the scope of far-right
+disinformation and propaganda we
+traveled to Harvard Law School to meet
+with your high benkler co-director of
+the Berkman Kline Center for Internet
+and Society for of this particular study
+we started rolling the tape for May of
+2015 all the way to Election Day benkler
+and his team identified about two
+million stories that mentioned one of
+the candidates and more than 70,000
+online news sites ranging from blogs to
+mainstream media they then digitally
+mapped how often his stories we they're
+linked to shared or tweeted on face
+and Twitter each of these nose
+represents one media source the way they
+are colored represents the attention of
+audiences to them
+bankers analysis revealed two separate
+media ecosystems in America one grounded
+in the established mainstream media and
+the other insights dispensing propaganda
+from the far-right Breitbart
+the right-wing website that was run by
+Steve Bannon Donald Trump's campaign
+strategist and former White House
+adviser as a central place in the map
+the result is a remarkably clear image
+with a very distinct insular right-wing
+and a fairly mixed rest
+what role did the alt-right play in this
+right-wing media ecosystem it's fairly
+clear that they played a significant
+role in generating memes and ideas and
+framings but what's critical here is
+that you have these major sites in the
+middle that offer a translation service
+if you will sites like Breitbart
+that generalize and normalize for the
+population and so when you look at the
+actual stories and you try to see how is
+Breitbart talking about immigration it's
+in terms of terrorism in terms of
+wringing diseases into the country in
+terms of criminals so you have this
+extreme right framing but without the
+explicit white supremacy so that they
+become in some sense more accepted you
+couldn't have had this right-wing
+ecosystem without social media could you
+I think it would be hard certainly
+social media allowed all of these very
+extreme views and disparate groups to
+find each other and create more power
+and more influence could you tell
+whether there was more misinformation
+and disinformation a liberal side versus
+the right-wing side yeah what this shows
+you is that a lot of retweeting a lot of
+Facebook sharing all these sites truth
+feed gateway funded that are fairly
+systematic
+generating false claims and conspiracy
+theories are very prominent on the line
+you don't really have a parallel to this
+on the land propaganda theory or
+disinformation theory says that if more
+outlets share the same information that
+that is translated to people as being
+more credible that's exactly right
+the credibility is gained from the fact
+that the same audience reads and
+retweets and Facebook shares the same
+set of sites what does it say about a
+society that has two separate media
+ecosystems like this I think it presents
+a real challenge because while the
+center and the center left and the left
+are all still organizing roughly around
+traditional media organizations and
+science the right seems to have created
+for itself its own Universal facts a
+sort of tribal knowledge production
+system where everything is just whatever
+my people say is true whatever those
+people say is false this is a profound
+break in our ability to have anything
+like reasoned policy and reasoned
+political engagement what matters now is
+like how are we going to react to it
+how are we going to combat this because
+I believe that people who believe in
+reason and the truth and and facts can
+win out the other day
+Keagan Goodis a partner at revolution
+messaging was the director of digital
+advertising for Democrat Bernie Sanders
+2016 presidential campaign how important
+were the use of social media platforms
+to Bernie Sanders success in 2016
+very important only three percent of
+Americans knew who he was and without
+social media I don't think people would
+know who he is now
+so candidates such as Bernie you don't
+have to go through the traditional
+gatekeepers whether in the party or
+whether in the media and you're able to
+build popular support in a way that has
+never been done before but there are
+real challenges that social media
+platforms present to democracy aren't
+there you know Europeans see populism is
+a bad thing in the US I think if there
+is enough groundswell for four
+things that happen that people can unite
+using these tools and and and accomplish
+them did you use bots on Facebook or
+Twitter in the 2016 election no I think
+that there is an interesting future in
+terms of people who want to get
+information from a campaign a bot that's
+gonna get them information I think
+that's really useful in terms of
+spreading misinformation I think it's a
+bad thing and something that we have to
+take seriously do you think the Russian
+information campaign aim to exacerbate
+social division in the United States
+help Donald Trump win or both both and
+you need to recognize that there are
+people who are disingenuous in line
+whether it's Russia other countries
+corporations in America and if they
+succeed in that then then we're giving
+them a lot more power than they should
+have what did you think of the
+Albright's efforts to use social media
+platforms to help Trump in 2016 I
+obviously disagree very strongly with
+with the alt-right but they are using
+tactics that are successful in terms of
+propaganda in terms of flag conveying an
+emotional connection with their base now
+I'm someone who thinks that we shouldn't
+be distorting facts lying to people but
+we have to learn from what they were
+doing and do better the left doesn't
+have that playbook they're not using
+that yet and I hate to say it but I
+think that if the left did start using
+it then what we'd see was just even more
+noise and spam we've got to figure out
+how to address the issue of bots and the
+issue of fake news and all of this junk
+content that's spreading over social
+media without fighting fire with fire so
+what do you think the solution is I
+think that the first thing that we need
+to have done is to have some way of
+authenticating users knowing who is who
+owned the platforms to verify that the
+person that we're talking to is not
+using automation to bolster their their
+presence online and that's as simple as
+having a little marker on the page that
+says this profile is highly automated
+and what it also does for Twitter for
+Facebook or for another social media
+company is it tells them that hey
+because this is a highly automated
+profile we need to keep it out of our
+algorithm that determines trends
+Twitter Google and Facebook declined a
+request for interviews the US Congress
+is considering legislation that would
+require them to make reasonable efforts
+to ensure that no foreign national buys
+ads to influence US elections but the
+companies are spending millions on
+lobbying and say they can be trusted to
+regulate themselves efforts to hold them
+accountable for the spread of
+disinformation on their platforms may be
+more successful in Europe the European
+countries have a healthy resistance to
+big rich American tech companies right
+they they're not impressed they're
+constantly debating and pushing forward
+on stronger privacy protections or data
+protections they are very aggressive in
+competition policy enforcement so I look
+to Europe as the only place where you
+can have a healthy debate about the
+dangerous power of Facebook and Google
+the Russians meanwhile have learned a
+great deal in recent years about how to
+use social media platforms to undermine
+democracy everything that has been
+achieved by the Kremlin and its actors
+is definitely marking a turning point
+America's standing in the world has been
+undermined in the election so the next
+challenge now is Europe and the question
+is will we lose our society to fictional
+reality it is currently being
+architectured by Russia or will we in
+fact make Nick people Morris into
+disinformation and better trained and
+equipped to be skeptical of some of the
+fake news alternative facts are coming
+out and come together in common cause
+and stand up against it I think the core
+requirement is a lot more transparency
+and public accountability for what's
+going on I think the companies have much
+too much ability to retain the
+information and not share it with any
+kind of public body that would review
+what they're doing how do you think this
+is going to play out our social media
+platform is going to be seen as a force
+for positive change or as an instrument
+contributing to democracy's demise I
+think the solutions will be fought out
+based on who wins or who loses the next
+few election cycle
+I think that's true in Europe and it's
+true in the u.s. so as long as Trump and
+the Republican Party keep winning
+there's a strong feedback cycle and
+these techniques prove themselves then
+you can see real destabilization of the
+democratic system so we're gonna need a
+broad spectrum of approaches to deal
+with the problem but at the end of the
+day you need the population to actually
+decide that it doesn't want to believe
+in the nonsense it's about winning
+elections and then changing the
+incentives to use these disinformation
+systems

@@ -1,0 +1,304 @@
+1
+00:00:04,779 --> 00:00:08,148
+today SpaceX launched a set of broadband
+
+2
+00:00:08,148 --> 00:00:10,340
+communication satellites into orbit<font color="#E5E5E5"> on</font>
+
+3
+00:00:10,340 --> 00:00:13,090
+one of its<font color="#CCCCCC"> Falcon 9 rocket</font>
+
+4
+00:00:13,090 --> 00:00:15,260
+commercial launches like these are now
+
+5
+00:00:15,260 --> 00:00:17,029
+<font color="#E5E5E5">the leading edge of American innovation</font>
+
+6
+00:00:17,029 --> 00:00:20,060
+in space seeming to take over the spot
+
+7
+00:00:20,060 --> 00:00:24,349
+long occupied by NASA<font color="#E5E5E5"> but the reality is</font>
+
+8
+00:00:24,349 --> 00:00:26,869
+<font color="#E5E5E5">that NASA</font><font color="#CCCCCC"> had a lot to do with</font><font color="#E5E5E5"> creating</font>
+
+9
+00:00:26,869 --> 00:00:28,429
+the private<font color="#CCCCCC"> space industry</font><font color="#E5E5E5"> in the first</font>
+
+10
+00:00:28,429 --> 00:00:33,649
+place<font color="#CCCCCC"> I started with NASA in 1985 even</font>
+
+11
+00:00:33,649 --> 00:00:35,360
+before<font color="#E5E5E5"> then I had an interest in the</font>
+
+12
+00:00:35,360 --> 00:00:37,040
+commercialization of<font color="#CCCCCC"> space I've always</font>
+
+13
+00:00:37,040 --> 00:00:39,860
+felt<font color="#E5E5E5"> that just like our</font><font color="#CCCCCC"> own frontier</font><font color="#E5E5E5"> in</font>
+
+14
+00:00:39,860 --> 00:00:42,590
+this country<font color="#E5E5E5"> the government</font><font color="#CCCCCC"> goes</font><font color="#E5E5E5"> Calvary</font>
+
+15
+00:00:42,590 --> 00:00:45,140
+builds a fort<font color="#E5E5E5"> the settlers arrived and</font>
+
+16
+00:00:45,140 --> 00:00:48,290
+the<font color="#E5E5E5"> Army moves on that paradigm should</font>
+
+17
+00:00:48,290 --> 00:00:51,170
+apply<font color="#E5E5E5"> to space as well at the time</font><font color="#CCCCCC"> I</font>
+
+18
+00:00:51,170 --> 00:00:54,230
+joined<font color="#E5E5E5"> still the Apollo program people</font>
+
+19
+00:00:54,230 --> 00:00:57,110
+<font color="#E5E5E5">the very can-do approach that we can do</font>
+
+20
+00:00:57,110 --> 00:00:57,650
+anything
+
+21
+00:00:57,650 --> 00:01:00,170
+<font color="#E5E5E5">brilliant team who only knew one way of</font>
+
+22
+00:01:00,170 --> 00:01:02,720
+<font color="#CCCCCC">doing business to develop systems</font><font color="#E5E5E5"> that</font>
+
+23
+00:01:02,720 --> 00:01:04,759
+<font color="#E5E5E5">the government would own and operate and</font>
+
+24
+00:01:04,759 --> 00:01:07,760
+it worked very<font color="#CCCCCC"> very well but</font><font color="#E5E5E5"> by the</font>
+
+25
+00:01:07,760 --> 00:01:09,890
+start<font color="#E5E5E5"> of the 21st century NASA was</font>
+
+26
+00:01:09,890 --> 00:01:12,409
+struggling the<font color="#CCCCCC"> international space</font>
+
+27
+00:01:12,409 --> 00:01:14,480
+<font color="#CCCCCC">station was delayed</font><font color="#E5E5E5"> and the space</font>
+
+28
+00:01:14,480 --> 00:01:16,940
+shuttle<font color="#CCCCCC"> Columbia</font><font color="#E5E5E5"> exploded killing seven</font>
+
+29
+00:01:16,940 --> 00:01:20,930
+astronauts<font color="#E5E5E5"> in 2004 President Bush issued</font>
+
+30
+00:01:20,930 --> 00:01:23,450
+<font color="#E5E5E5">a new space policy calling on NASA to</font>
+
+31
+00:01:23,450 --> 00:01:25,040
+partner with<font color="#E5E5E5"> and</font><font color="#CCCCCC"> invest in private</font>
+
+32
+00:01:25,040 --> 00:01:28,790
+<font color="#E5E5E5">companies in 2005 we stood up the cots</font>
+
+33
+00:01:28,790 --> 00:01:31,220
+program<font color="#CCCCCC"> tosses the commercial orbital</font>
+
+34
+00:01:31,220 --> 00:01:34,340
+transportation services<font color="#E5E5E5"> a</font><font color="#CCCCCC"> program that</font>
+
+35
+00:01:34,340 --> 00:01:36,979
+<font color="#E5E5E5">simulates development of private</font><font color="#CCCCCC"> sector</font>
+
+36
+00:01:36,979 --> 00:01:40,430
+<font color="#E5E5E5">capabilities the goal was for companies</font>
+
+37
+00:01:40,430 --> 00:01:42,740
+<font color="#CCCCCC">to demonstrate that they could</font><font color="#E5E5E5"> carry</font>
+
+38
+00:01:42,740 --> 00:01:46,340
+cargo to low-earth orbit<font color="#CCCCCC"> in the first</font>
+
+39
+00:01:46,340 --> 00:01:48,920
+round<font color="#E5E5E5"> of the cots investment we picked</font>
+
+40
+00:01:48,920 --> 00:01:51,409
+base X and Rocketplane Kistler
+
+41
+00:01:51,409 --> 00:01:54,740
+<font color="#E5E5E5">SpaceX was doing well Rocketplane</font>
+
+42
+00:01:54,740 --> 00:01:57,680
+Kistler<font color="#E5E5E5"> unfortunately wasn't so when</font>
+
+43
+00:01:57,680 --> 00:01:59,210
+<font color="#CCCCCC">they've dropped out we then have</font><font color="#E5E5E5"> the</font>
+
+44
+00:01:59,210 --> 00:02:02,390
+second<font color="#CCCCCC"> round</font><font color="#E5E5E5"> and we picked orbital ATK</font>
+
+45
+00:02:02,390 --> 00:02:05,810
+<font color="#E5E5E5">as the new second partner NASA's</font><font color="#CCCCCC"> space</font>
+
+46
+00:02:05,810 --> 00:02:08,780
+<font color="#CCCCCC">shuttle program</font><font color="#E5E5E5"> ended</font><font color="#CCCCCC"> in 2011 but</font><font color="#E5E5E5"> by the</font>
+
+47
+00:02:08,780 --> 00:02:11,360
+next<font color="#E5E5E5"> year</font><font color="#CCCCCC"> SpaceX was ferrying cargo to</font>
+
+48
+00:02:11,360 --> 00:02:14,000
+the ISS<font color="#E5E5E5"> followed by orbitals inaugural</font>
+
+49
+00:02:14,000 --> 00:02:14,580
+flight
+
+50
+00:02:14,580 --> 00:02:17,940
+<font color="#CCCCCC">13</font><font color="#E5E5E5"> between the two companies</font><font color="#CCCCCC"> they've</font>
+
+51
+00:02:17,940 --> 00:02:21,270
+flown more<font color="#CCCCCC"> than 20 resupply missions the</font>
+
+52
+00:02:21,270 --> 00:02:23,700
+<font color="#CCCCCC">cots</font><font color="#E5E5E5"> program was more successful than</font><font color="#CCCCCC"> we</font>
+
+53
+00:02:23,700 --> 00:02:25,440
+<font color="#E5E5E5">ever imagined it could be</font>
+
+54
+00:02:25,440 --> 00:02:28,140
+<font color="#CCCCCC">Maui</font><font color="#E5E5E5"> did help NASA get cargo to the</font>
+
+55
+00:02:28,140 --> 00:02:30,360
+space station<font color="#CCCCCC"> reliable cost-effective</font>
+
+56
+00:02:30,360 --> 00:02:32,580
+manner<font color="#E5E5E5"> but it created a whole</font><font color="#CCCCCC"> new</font>
+
+57
+00:02:32,580 --> 00:02:37,500
+<font color="#CCCCCC">industry look at what we</font><font color="#E5E5E5"> did with</font><font color="#CCCCCC"> the</font>
+
+58
+00:02:37,500 --> 00:02:40,410
+Falcon<font color="#CCCCCC"> 9</font><font color="#E5E5E5"> we invested technical support</font>
+
+59
+00:02:40,410 --> 00:02:43,260
+<font color="#E5E5E5">and money in SpaceX they have sold that</font>
+
+60
+00:02:43,260 --> 00:02:45,590
+to launch satellites around<font color="#E5E5E5"> the world</font>
+
+61
+00:02:45,590 --> 00:02:48,210
+America's market share in that<font color="#E5E5E5"> global</font>
+
+62
+00:02:48,210 --> 00:02:50,220
+communication satellite launch market
+
+63
+00:02:50,220 --> 00:02:53,730
+<font color="#E5E5E5">pretty much fallen to zero now most half</font>
+
+64
+00:02:53,730 --> 00:02:55,950
+the world's market has come back to the
+
+65
+00:02:55,950 --> 00:02:59,190
+United<font color="#CCCCCC"> States we're doing that same</font>
+
+66
+00:02:59,190 --> 00:03:02,540
+model<font color="#E5E5E5"> today on lunar transportation a</font>
+
+67
+00:03:02,540 --> 00:03:05,459
+perfect<font color="#E5E5E5"> mixture</font><font color="#CCCCCC"> of government and a</font>
+
+68
+00:03:05,459 --> 00:03:07,740
+<font color="#CCCCCC">private sector</font><font color="#E5E5E5"> working together to</font>
+
+69
+00:03:07,740 --> 00:03:10,410
+<font color="#E5E5E5">explore space</font><font color="#CCCCCC"> I think there</font><font color="#E5E5E5"> will always</font>
+
+70
+00:03:10,410 --> 00:03:12,959
+be<font color="#E5E5E5"> that model of NASA doing the</font>
+
+71
+00:03:12,959 --> 00:03:14,910
+<font color="#E5E5E5">difficult things in the dangerous stuff</font>
+
+72
+00:03:14,910 --> 00:03:17,610
+<font color="#CCCCCC">and the private sector moving in</font><font color="#E5E5E5"> behind</font>
+
+73
+00:03:17,610 --> 00:03:21,920
+to<font color="#E5E5E5"> help build on what NASA's done</font>
+
+74
+00:03:23,600 --> 00:03:24,670
+you
+
+75
+00:03:24,670 --> 00:03:29,330
+[Music]
+
+76
+00:03:36,600 --> 00:00:00,000
+you
+

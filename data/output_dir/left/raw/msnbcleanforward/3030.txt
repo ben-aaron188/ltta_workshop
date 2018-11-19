@@ -1,0 +1,616 @@
+1
+00:00:01,320 --> 00:00:04,419
+[Music]
+
+2
+00:00:05,720 --> 00:00:07,980
+welcome back everybody joining<font color="#E5E5E5"> us from</font>
+
+3
+00:00:07,980 --> 00:00:10,320
+Washington<font color="#CCCCCC"> with a look at access am the</font>
+
+4
+00:00:10,320 --> 00:00:12,840
+co-founder of<font color="#CCCCCC"> Axios Mike</font><font color="#E5E5E5"> Allen Mike good</font>
+
+5
+00:00:12,840 --> 00:00:14,759
+morning<font color="#CCCCCC"> to you happy Friday</font>
+
+6
+00:00:14,759 --> 00:00:17,460
+welcome to June<font color="#E5E5E5"> yeah welcome to June my</font>
+
+7
+00:00:17,460 --> 00:00:21,060
+god<font color="#CCCCCC"> eight-second</font><font color="#E5E5E5"> talk to us about access</font>
+
+8
+00:00:21,060 --> 00:00:22,890
+is one big thing<font color="#CCCCCC"> this morning yeah</font>
+
+9
+00:00:22,890 --> 00:00:25,230
+<font color="#E5E5E5">access is one big thing is why</font><font color="#CCCCCC"> President</font>
+
+10
+00:00:25,230 --> 00:00:28,349
+Trump loves pardons so we just saw<font color="#E5E5E5"> that</font>
+
+11
+00:00:28,349 --> 00:00:31,590
+<font color="#CCCCCC">Axios scoop by Jonathan</font><font color="#E5E5E5"> Swan about the</font>
+
+12
+00:00:31,590 --> 00:00:34,290
+<font color="#CCCCCC">president's unusual actions and</font>
+
+13
+00:00:34,290 --> 00:00:36,000
+pressuring Attorney General<font color="#CCCCCC"> Jeff</font>
+
+14
+00:00:36,000 --> 00:00:38,910
+Sessions<font color="#E5E5E5"> these unusual comments about</font>
+
+15
+00:00:38,910 --> 00:00:41,460
+pardons<font color="#E5E5E5"> yesterday and what we've</font>
+
+16
+00:00:41,460 --> 00:00:45,239
+<font color="#CCCCCC">realized is that the pardon power is the</font>
+
+17
+00:00:45,239 --> 00:00:47,190
+one place that the president can have
+
+18
+00:00:47,190 --> 00:00:50,070
+<font color="#E5E5E5">the sort of snap your fingers presidency</font>
+
+19
+00:00:50,070 --> 00:00:51,840
+<font color="#E5E5E5">that he wanted your viewers will</font>
+
+20
+00:00:51,840 --> 00:00:54,480
+remember<font color="#E5E5E5"> on the campaign trail the</font>
+
+21
+00:00:54,480 --> 00:00:56,460
+president talking<font color="#E5E5E5"> about</font><font color="#CCCCCC"> just put me in</font>
+
+22
+00:00:56,460 --> 00:00:58,859
+and<font color="#CCCCCC"> we'll solve the national debt</font><font color="#E5E5E5"> just</font>
+
+23
+00:00:58,859 --> 00:01:01,440
+put me<font color="#CCCCCC"> in health care will be</font><font color="#E5E5E5"> easy to</font>
+
+24
+00:01:01,440 --> 00:01:04,500
+fix<font color="#E5E5E5"> and it turns out that pardons the</font>
+
+25
+00:01:04,500 --> 00:01:06,689
+executive clemency power is the place
+
+26
+00:01:06,689 --> 00:01:08,460
+where the president<font color="#E5E5E5"> can do this the</font>
+
+27
+00:01:08,460 --> 00:01:10,049
+<font color="#CCCCCC">Washington</font><font color="#E5E5E5"> Post pointing out this</font>
+
+28
+00:01:10,049 --> 00:01:12,210
+morning that<font color="#CCCCCC"> a lot of these pardons the</font>
+
+29
+00:01:12,210 --> 00:01:14,430
+president done<font color="#E5E5E5"> have gone around the</font>
+
+30
+00:01:14,430 --> 00:01:16,530
+<font color="#E5E5E5">normal process where it works through</font>
+
+31
+00:01:16,530 --> 00:01:18,210
+<font color="#E5E5E5">the Justice Department they concerned a</font>
+
+32
+00:01:18,210 --> 00:01:20,070
+thousand of<font color="#E5E5E5"> them bring a few to the</font>
+
+33
+00:01:20,070 --> 00:01:22,890
+president instead<font color="#E5E5E5"> he's watching TV he</font>
+
+34
+00:01:22,890 --> 00:01:24,900
+has an idea<font color="#E5E5E5"> and he acts exactly the kind</font>
+
+35
+00:01:24,900 --> 00:01:26,939
+of presidency<font color="#E5E5E5"> the Trump</font><font color="#CCCCCC"> love</font><font color="#E5E5E5"> maybe</font><font color="#CCCCCC"> see</font>
+
+36
+00:01:26,939 --> 00:01:28,320
+cats that put the<font color="#CCCCCC"> President and they</font>
+
+37
+00:01:28,320 --> 00:01:29,579
+would have won the<font color="#E5E5E5"> game</font><font color="#CCCCCC"> last</font><font color="#E5E5E5"> night maybe</font>
+
+38
+00:01:29,579 --> 00:01:31,470
+let me let me<font color="#CCCCCC"> ask you really quickly</font>
+
+39
+00:01:31,470 --> 00:01:32,880
+about those parties trying<font color="#E5E5E5"> to read</font>
+
+40
+00:01:32,880 --> 00:01:34,650
+<font color="#CCCCCC">between the lines for us a little</font><font color="#E5E5E5"> bit</font>
+
+41
+00:01:34,650 --> 00:01:36,689
+when you look at the messaging behind
+
+42
+00:01:36,689 --> 00:01:39,780
+who he is pardoning the frequency<font color="#E5E5E5"> that</font>
+
+43
+00:01:39,780 --> 00:01:42,030
+he is now starting to<font color="#E5E5E5"> pardon more people</font>
+
+44
+00:01:42,030 --> 00:01:45,270
+what is that send to those that are
+
+45
+00:01:45,270 --> 00:01:46,710
+<font color="#CCCCCC">watching this</font><font color="#E5E5E5"> very close so what kind of</font>
+
+46
+00:01:46,710 --> 00:01:48,090
+messaging is coming out<font color="#E5E5E5"> of these pardons</font>
+
+47
+00:01:48,090 --> 00:01:50,159
+<font color="#CCCCCC">yeah well</font><font color="#E5E5E5"> that's what called leading the</font>
+
+48
+00:01:50,159 --> 00:01:51,869
+witness<font color="#E5E5E5"> and you're exactly</font><font color="#CCCCCC"> right the</font>
+
+49
+00:01:51,869 --> 00:01:54,210
+message<font color="#E5E5E5"> is this could be you Michael</font>
+
+50
+00:01:54,210 --> 00:01:56,700
+Flynn<font color="#E5E5E5"> this could be you Michael Cohen</font>
+
+51
+00:01:56,700 --> 00:02:00,060
+<font color="#E5E5E5">the president reminding people who are</font>
+
+52
+00:02:00,060 --> 00:02:02,520
+talking<font color="#E5E5E5"> to the special counsel Bob</font>
+
+53
+00:02:02,520 --> 00:02:05,990
+Muller who are considering<font color="#E5E5E5"> cooperating</font>
+
+54
+00:02:05,990 --> 00:02:09,149
+reminding him like daddy can<font color="#E5E5E5"> pardon you</font>
+
+55
+00:02:09,149 --> 00:02:10,720
+I have this power
+
+56
+00:02:10,720 --> 00:02:14,650
+I hope they<font color="#CCCCCC"> don't call</font><font color="#E5E5E5"> president like</font>
+
+57
+00:02:14,650 --> 00:02:16,510
+that I<font color="#E5E5E5"> don't really hope they're not</font>
+
+58
+00:02:16,510 --> 00:02:18,790
+<font color="#E5E5E5">calling</font><font color="#CCCCCC"> him daddy</font><font color="#E5E5E5"> what our age</font><font color="#CCCCCC"> and</font>
+
+59
+00:02:18,790 --> 00:02:20,860
+allies telling axis about these actions
+
+60
+00:02:20,860 --> 00:02:22,450
+<font color="#CCCCCC">the president has been taken</font><font color="#E5E5E5"> when it</font>
+
+61
+00:02:22,450 --> 00:02:25,450
+comes to pardons also with the<font color="#E5E5E5"> the</font>
+
+62
+00:02:25,450 --> 00:02:26,590
+consistent pressure<font color="#CCCCCC"> they've</font><font color="#E5E5E5"> been putting</font>
+
+63
+00:02:26,590 --> 00:02:30,280
+<font color="#E5E5E5">on Jeff</font><font color="#CCCCCC"> Sessions yeah this is something</font>
+
+64
+00:02:30,280 --> 00:02:32,350
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> the president knew that he was</font>
+
+65
+00:02:32,350 --> 00:02:35,770
+going<font color="#E5E5E5"> to get criticism for and this is</font>
+
+66
+00:02:35,770 --> 00:02:37,450
+<font color="#E5E5E5">also partly a reflection</font><font color="#CCCCCC"> of the</font><font color="#E5E5E5"> fact</font>
+
+67
+00:02:37,450 --> 00:02:39,850
+<font color="#E5E5E5">that the president is all of his top</font>
+
+68
+00:02:39,850 --> 00:02:42,340
+staffers he doesn't have the strong
+
+69
+00:02:42,340 --> 00:02:45,850
+<font color="#E5E5E5">advisors that he has in the</font><font color="#CCCCCC"> past</font><font color="#E5E5E5"> and so</font>
+
+70
+00:02:45,850 --> 00:02:48,160
+the president is very<font color="#CCCCCC"> much</font><font color="#E5E5E5"> doing what he</font>
+
+71
+00:02:48,160 --> 00:02:51,100
+wants<font color="#E5E5E5"> acting on instinct and impulse</font>
+
+72
+00:02:51,100 --> 00:02:54,070
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> same Washington Post story pointed</font>
+
+73
+00:02:54,070 --> 00:02:57,250
+out that<font color="#E5E5E5"> that there may be a flurry of</font>
+
+74
+00:02:57,250 --> 00:03:00,670
+more pardons coming a bunch under
+
+75
+00:03:00,670 --> 00:03:03,490
+<font color="#E5E5E5">consideration and a bunch are likely to</font>
+
+76
+00:03:03,490 --> 00:03:07,150
+happen Mike let me<font color="#E5E5E5"> switch gears</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> a</font>
+
+77
+00:03:07,150 --> 00:03:08,620
+moment<font color="#CCCCCC"> if I can I want</font><font color="#E5E5E5"> to ask you about</font>
+
+78
+00:03:08,620 --> 00:03:10,390
+some<font color="#E5E5E5"> exclusive reporting that you guys</font>
+
+79
+00:03:10,390 --> 00:03:12,280
+have at access out regarding Pope
+
+80
+00:03:12,280 --> 00:03:12,940
+<font color="#CCCCCC">Francis's</font>
+
+81
+00:03:12,940 --> 00:03:15,340
+efforts to tackle<font color="#CCCCCC"> climate change very</font>
+
+82
+00:03:15,340 --> 00:03:16,690
+significant development<font color="#E5E5E5"> he's obviously</font>
+
+83
+00:03:16,690 --> 00:03:19,300
+been a very outspoken pontiff about a
+
+84
+00:03:19,300 --> 00:03:20,890
+lot<font color="#CCCCCC"> of social issues what</font><font color="#E5E5E5"> are you</font>
+
+85
+00:03:20,890 --> 00:03:23,440
+learning<font color="#E5E5E5"> this morning about that so this</font>
+
+86
+00:03:23,440 --> 00:03:25,690
+<font color="#CCCCCC">is fascinating</font><font color="#E5E5E5"> this next week at the</font>
+
+87
+00:03:25,690 --> 00:03:28,150
+<font color="#E5E5E5">Vatican</font><font color="#CCCCCC"> the president's gonna host a</font>
+
+88
+00:03:28,150 --> 00:03:31,030
+<font color="#E5E5E5">number of oil companies and energy</font>
+
+89
+00:03:31,030 --> 00:03:33,910
+investors<font color="#E5E5E5"> to talk about climate change</font>
+
+90
+00:03:33,910 --> 00:03:36,850
+<font color="#E5E5E5">so today is the one-year anniversary of</font>
+
+91
+00:03:36,850 --> 00:03:38,709
+<font color="#E5E5E5">the president deciding that the u.s.</font><font color="#CCCCCC"> is</font>
+
+92
+00:03:38,709 --> 00:03:40,360
+<font color="#E5E5E5">going to get out</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the Paris climate</font>
+
+93
+00:03:40,360 --> 00:03:44,650
+record<font color="#CCCCCC"> and Axios is a me harder who</font>
+
+94
+00:03:44,650 --> 00:03:46,989
+covers energy she does her weekly harder
+
+95
+00:03:46,989 --> 00:03:49,110
+line energy column that we sometimes
+
+96
+00:03:49,110 --> 00:03:51,970
+talk<font color="#E5E5E5"> about here picked up on the fact</font>
+
+97
+00:03:51,970 --> 00:03:55,030
+<font color="#E5E5E5">that the Pope had</font><font color="#CCCCCC"> invited a number</font><font color="#E5E5E5"> of</font>
+
+98
+00:03:55,030 --> 00:03:57,400
+<font color="#E5E5E5">energy companies to this Vatican meeting</font>
+
+99
+00:03:57,400 --> 00:04:01,269
+several have accepted and the fact that
+
+100
+00:04:01,269 --> 00:04:05,049
+a the post is<font color="#E5E5E5"> the Pope is willing</font><font color="#CCCCCC"> to do</font>
+
+101
+00:04:05,049 --> 00:04:08,049
+this is<font color="#CCCCCC"> using his progressive instincts</font>
+
+102
+00:04:08,049 --> 00:04:11,230
+<font color="#E5E5E5">and B the fact that these oil giants and</font>
+
+103
+00:04:11,230 --> 00:04:13,810
+these energy investors want<font color="#E5E5E5"> to engage in</font>
+
+104
+00:04:13,810 --> 00:04:16,418
+this way shows the way that the
+
+105
+00:04:16,418 --> 00:04:18,399
+conversation is moving on climate<font color="#CCCCCC"> change</font>
+
+106
+00:04:18,399 --> 00:04:20,228
+<font color="#CCCCCC">well we know that the Pope</font><font color="#E5E5E5"> had</font><font color="#CCCCCC"> taken in</font>
+
+107
+00:04:20,228 --> 00:04:21,940
+<font color="#E5E5E5">the environment and</font><font color="#CCCCCC"> climate change on</font>
+
+108
+00:04:21,940 --> 00:04:23,860
+for a number<font color="#CCCCCC"> of years we know that this</font>
+
+109
+00:04:23,860 --> 00:04:24,300
+is
+
+110
+00:04:24,300 --> 00:04:26,819
+<font color="#E5E5E5">been his big issue his major issue but</font>
+
+111
+00:04:26,819 --> 00:04:29,460
+<font color="#E5E5E5">how much of a factor is the</font><font color="#CCCCCC"> fact that</font>
+
+112
+00:04:29,460 --> 00:04:30,780
+<font color="#E5E5E5">president decided to pull out</font><font color="#CCCCCC"> of the</font>
+
+113
+00:04:30,780 --> 00:04:33,449
+<font color="#CCCCCC">plan with Paris climate Accord</font><font color="#E5E5E5"> being</font>
+
+114
+00:04:33,449 --> 00:04:35,220
+<font color="#E5E5E5">taken into the Pope's decision to take</font>
+
+115
+00:04:35,220 --> 00:04:37,650
+this topic on now<font color="#E5E5E5"> no that's a great</font>
+
+116
+00:04:37,650 --> 00:04:39,960
+<font color="#E5E5E5">point we see around the country various</font>
+
+117
+00:04:39,960 --> 00:04:42,690
+governments<font color="#CCCCCC"> state</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> local</font><font color="#E5E5E5"> governments</font>
+
+118
+00:04:42,690 --> 00:04:44,849
+<font color="#CCCCCC">hear other governments around</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> world</font>
+
+119
+00:04:44,849 --> 00:04:47,819
+saying if the president is<font color="#E5E5E5"> gonna be on</font>
+
+120
+00:04:47,819 --> 00:04:49,560
+the sidelines<font color="#CCCCCC"> for this if the president</font>
+
+121
+00:04:49,560 --> 00:04:51,539
+is gonna<font color="#E5E5E5"> pull back like other</font>
+
+122
+00:04:51,539 --> 00:04:54,960
+institutions<font color="#E5E5E5"> are gonna step in and this</font>
+
+123
+00:04:54,960 --> 00:04:57,210
+<font color="#CCCCCC">is a great example</font><font color="#E5E5E5"> of that</font><font color="#CCCCCC"> Mike let me</font>
+
+124
+00:04:57,210 --> 00:04:58,830
+<font color="#CCCCCC">ask</font><font color="#E5E5E5"> you it's Friday</font><font color="#CCCCCC"> it's June</font><font color="#E5E5E5"> first we</font>
+
+125
+00:04:58,830 --> 00:05:00,690
+got the jobs reports coming out what are
+
+126
+00:05:00,690 --> 00:05:02,310
+some<font color="#CCCCCC"> of the other big stories that you</font>
+
+127
+00:05:02,310 --> 00:05:04,020
+are<font color="#E5E5E5"> looking for and not</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> today but</font>
+
+128
+00:05:04,020 --> 00:05:06,509
+<font color="#E5E5E5">in the weeks and</font><font color="#CCCCCC"> months ahead</font><font color="#E5E5E5"> yeah so</font>
+
+129
+00:05:06,509 --> 00:05:10,500
+<font color="#E5E5E5">looking ahead</font><font color="#CCCCCC"> the President and Axios</font>
+
+130
+00:05:10,500 --> 00:05:12,840
+right now we have a globe that's been
+
+131
+00:05:12,840 --> 00:05:15,210
+<font color="#E5E5E5">turned into a Rubik's Cube</font><font color="#CCCCCC"> because the</font>
+
+132
+00:05:15,210 --> 00:05:18,210
+president has so much on<font color="#E5E5E5"> his plate</font><font color="#CCCCCC"> he</font>
+
+133
+00:05:18,210 --> 00:05:20,580
+has<font color="#E5E5E5"> two nuclear standoffs that he's</font>
+
+134
+00:05:20,580 --> 00:05:24,150
+<font color="#E5E5E5">looking at Iran and North Korea and in</font>
+
+135
+00:05:24,150 --> 00:05:25,830
+addition to<font color="#CCCCCC"> that</font><font color="#E5E5E5"> there are</font><font color="#CCCCCC"> early</font>
+
+136
+00:05:25,830 --> 00:05:27,240
+beginnings of a trade war<font color="#CCCCCC"> on</font><font color="#E5E5E5"> multiple</font>
+
+137
+00:05:27,240 --> 00:05:30,060
+<font color="#CCCCCC">fronts</font><font color="#E5E5E5"> as we've been seeing here</font><font color="#CCCCCC"> and</font>
+
+138
+00:05:30,060 --> 00:05:32,400
+throw<font color="#E5E5E5"> into</font><font color="#CCCCCC"> that the distraction of an</font>
+
+139
+00:05:32,400 --> 00:05:36,150
+<font color="#E5E5E5">investigation a hot summer ahead indeed</font>
+
+140
+00:05:36,150 --> 00:05:37,440
+it is Mike Allen live for us in
+
+141
+00:05:37,440 --> 00:05:39,120
+<font color="#CCCCCC">Washington DC appreciate it as always</font>
+
+142
+00:05:39,120 --> 00:05:40,979
+<font color="#E5E5E5">we'll see you back</font><font color="#CCCCCC"> on Morning Joe in</font>
+
+143
+00:05:40,979 --> 00:05:42,180
+just a few<font color="#E5E5E5"> minutes also we're gonna be</font>
+
+144
+00:05:42,180 --> 00:05:44,250
+reading<font color="#CCCCCC"> Axios a.m. in just a little</font>
+
+145
+00:05:44,250 --> 00:05:45,419
+<font color="#E5E5E5">while</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> to all of our viewers out</font>
+
+146
+00:05:45,419 --> 00:05:47,250
+<font color="#CCCCCC">there as well you can too</font><font color="#E5E5E5"> you too can</font>
+
+147
+00:05:47,250 --> 00:05:48,630
+sign up<font color="#E5E5E5"> for the newsletter by going to</font>
+
+148
+00:05:48,630 --> 00:05:50,639
+<font color="#E5E5E5">Axios</font><font color="#CCCCCC"> com hey there I'm</font><font color="#E5E5E5"> Chris Hayes from</font>
+
+149
+00:05:50,639 --> 00:05:52,830
+<font color="#E5E5E5">MSNBC thanks for watching</font><font color="#CCCCCC"> MSNBC on</font>
+
+150
+00:05:52,830 --> 00:05:54,389
+<font color="#E5E5E5">youtube if you want</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> keep up to</font><font color="#CCCCCC"> date</font>
+
+151
+00:05:54,389 --> 00:05:55,650
+with<font color="#CCCCCC"> the videos we're putting out you</font>
+
+152
+00:05:55,650 --> 00:05:57,659
+can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> subscribe just below me</font><font color="#E5E5E5"> or</font>
+
+153
+00:05:57,659 --> 00:05:59,340
+click over<font color="#E5E5E5"> on this list to see lots of</font>
+
+154
+00:05:59,340 --> 00:00:00,000
+other<font color="#E5E5E5"> great</font><font color="#CCCCCC"> videos</font>
+

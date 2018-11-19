@@ -1,0 +1,183 @@
+1
+00:00:07,740 --> 00:00:09,940
+Puerto Ricans emerged from their homes today
+
+2
+00:00:09,940 --> 00:00:14,320
+to find an island utterly devastated
+by Hurricane Maria.
+
+3
+00:00:14,320 --> 00:00:17,500
+Maria is just the latest in a nasty string of hurricanes
+
+4
+00:00:17,500 --> 00:00:22,120
+that suggest that deadly storms are
+hitting with more frequency and power.
+
+5
+00:00:22,120 --> 00:00:24,560
+But scientists have upped their game, too:
+
+6
+00:00:24,560 --> 00:00:27,360
+with a new satellite called GOES-16
+
+7
+00:00:27,360 --> 00:00:30,920
+that produces the most detailed
+hurricane images ever recorded.
+
+8
+00:00:30,920 --> 00:00:35,200
+VICE News spoke to Mike Stringer,
+the NOAA engineer who runs the program.
+
+9
+00:00:35,420 --> 00:00:40,850
+— GOES-16 is better than the legacy satellites
+that are up there previously,
+
+10
+00:00:40,850 --> 00:00:44,460
+because it has three times the spectral resolution—
+
+11
+00:00:44,460 --> 00:00:48,160
+in other words, the number of color bands it can see.
+
+12
+00:00:48,160 --> 00:00:52,460
+It has four times the resolution as the legacy satellites
+
+13
+00:00:52,460 --> 00:00:57,960
+and five times the refresh rate
+of being able to take images.
+
+14
+00:00:57,960 --> 00:00:59,120
+Where are the old satellites,
+
+15
+00:00:59,120 --> 00:01:02,420
+they could do a mesoscale,
+but they had to stop doing everything else.
+
+16
+00:01:02,420 --> 00:01:05,420
+So, we can do all of that at the same time.
+
+17
+00:01:05,420 --> 00:01:09,300
+We can look at the clouds and,
+from one time step to the next,
+
+18
+00:01:09,300 --> 00:01:13,280
+see where that cloud is moving
+and tell how the winds are.
+
+19
+00:01:13,280 --> 00:01:16,660
+Those winds can then be put in the models
+
+20
+00:01:16,660 --> 00:01:20,200
+and used to say how that hurricane’s going to move.
+
+21
+00:01:20,200 --> 00:01:23,860
+The other new instrument we have on the satellite
+
+22
+00:01:23,860 --> 00:01:26,460
+is a geostationary lightning mapper.
+
+23
+00:01:26,460 --> 00:01:28,920
+And so this sees all the lightning,
+
+24
+00:01:28,920 --> 00:01:34,800
+and scientists have done some analysis showing
+that when that total lightning count jumps,
+
+25
+00:01:34,800 --> 00:01:39,920
+that’s usually a precursor indicator
+that that storm is getting very severe
+
+26
+00:01:39,920 --> 00:01:44,240
+and could produce severe hail, possibly tornados.
+
+27
+00:01:44,240 --> 00:01:46,520
+Another feature that it allows us to do,
+
+28
+00:01:46,520 --> 00:01:49,580
+but we’re not as focused on right now
+because of the hurricanes,
+
+29
+00:01:49,580 --> 00:01:51,380
+is to detect fires.
+
+30
+00:01:51,380 --> 00:01:54,760
+We can see fires in hot spots around the country
+
+31
+00:01:54,760 --> 00:01:57,880
+and we’ve been able to look at the heat patterns change
+
+32
+00:01:57,880 --> 00:02:01,280
+and follow that direction of that front moving through.
+
+33
+00:02:01,280 --> 00:02:03,800
+In the last about five years, on average,
+
+34
+00:02:03,800 --> 00:02:08,940
+there’s been 10 billion-dollar weather-related disasters.
+
+35
+00:02:08,940 --> 00:02:10,620
+This year, before Harvey,
+
+36
+00:02:10,620 --> 00:02:13,540
+I believe the number had been seven already.
+
+37
+00:02:13,540 --> 00:02:19,240
+The estimates on Harvey are tens of billions,
+or even maybe a hundred billion.
+
+38
+00:02:19,240 --> 00:02:23,240
+So, by creating these programs
+and getting the satellites up
+
+39
+00:02:23,240 --> 00:02:25,840
+and be able to get the information
+out quicker to people,
+
+40
+00:02:25,840 --> 00:02:28,060
+they’ll be able to protect themselves.
+
+41
+00:02:28,060 --> 00:02:30,700
+And depending on what the type of event it is,
+
+42
+00:02:30,700 --> 00:00:00,000
+they may even be able to protect their property.
+

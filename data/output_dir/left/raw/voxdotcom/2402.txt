@@ -1,0 +1,244 @@
+1
+00:00:01,060 --> 00:00:03,010
+so Wi-Fi waves are basically just<font color="#E5E5E5"> radio</font>
+
+2
+00:00:03,010 --> 00:00:04,720
+waves<font color="#CCCCCC"> so that's the same</font><font color="#E5E5E5"> as the</font>
+
+3
+00:00:04,720 --> 00:00:06,190
+<font color="#E5E5E5">electromagnetic waves you pick up with</font>
+
+4
+00:00:06,190 --> 00:00:08,379
+your<font color="#CCCCCC"> cell phone or radio</font><font color="#E5E5E5"> but Wi-Fi waves</font>
+
+5
+00:00:08,379 --> 00:00:10,510
+<font color="#E5E5E5">are fairly short they're only</font><font color="#CCCCCC"> 12</font>
+
+6
+00:00:10,510 --> 00:00:12,400
+<font color="#E5E5E5">centimeters long</font><font color="#CCCCCC"> the conventional head</font>
+
+7
+00:00:12,400 --> 00:00:14,110
+<font color="#E5E5E5">compare that to</font><font color="#CCCCCC"> AM radio waves which are</font>
+
+8
+00:00:14,110 --> 00:00:16,029
+hundreds<font color="#E5E5E5"> of meters long this signal gets</font>
+
+9
+00:00:16,029 --> 00:00:17,440
+a lot weaker as it gets further from the
+
+10
+00:00:17,440 --> 00:00:19,990
+router<font color="#E5E5E5"> and generally it can't really go</font>
+
+11
+00:00:19,990 --> 00:00:22,140
+more<font color="#CCCCCC"> than 150 feet from a</font><font color="#E5E5E5"> single router</font>
+
+12
+00:00:22,140 --> 00:00:24,400
+<font color="#E5E5E5">they actually get absorbed and blocked</font>
+
+13
+00:00:24,400 --> 00:00:27,039
+<font color="#E5E5E5">by walls and metal surfaces and so the</font>
+
+14
+00:00:27,039 --> 00:00:28,990
+way the way<font color="#CCCCCC"> you position</font><font color="#E5E5E5"> your Wi-Fi</font>
+
+15
+00:00:28,990 --> 00:00:30,160
+router makes a huge difference<font color="#E5E5E5"> in how</font>
+
+16
+00:00:30,160 --> 00:00:31,630
+<font color="#E5E5E5">strong the signal is throughout your</font>
+
+17
+00:00:31,630 --> 00:00:33,460
+house<font color="#E5E5E5"> one thing you definitely want to</font>
+
+18
+00:00:33,460 --> 00:00:34,870
+do is put<font color="#E5E5E5"> your router near the center of</font>
+
+19
+00:00:34,870 --> 00:00:36,190
+your house<font color="#E5E5E5"> because it broadcasts the</font>
+
+20
+00:00:36,190 --> 00:00:37,719
+signal out in<font color="#E5E5E5"> equal strength in all</font>
+
+21
+00:00:37,719 --> 00:00:39,700
+directions<font color="#CCCCCC"> you</font><font color="#E5E5E5"> want it</font><font color="#CCCCCC"> open like if it's</font>
+
+22
+00:00:39,700 --> 00:00:41,469
+<font color="#E5E5E5">in a closet the walls the closet are</font>
+
+23
+00:00:41,469 --> 00:00:42,820
+<font color="#E5E5E5">gonna absorb and block some of the</font>
+
+24
+00:00:42,820 --> 00:00:44,500
+signal<font color="#CCCCCC"> a good way</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> think about it is</font>
+
+25
+00:00:44,500 --> 00:00:46,149
+just<font color="#E5E5E5"> use line-of-sight from whatever</font>
+
+26
+00:00:46,149 --> 00:00:47,649
+position<font color="#E5E5E5"> you can</font><font color="#CCCCCC"> see the</font><font color="#E5E5E5"> farthest</font><font color="#CCCCCC"> in</font>
+
+27
+00:00:47,649 --> 00:00:48,700
+your house and you can<font color="#CCCCCC"> see the most</font>
+
+28
+00:00:48,700 --> 00:00:49,840
+number<font color="#CCCCCC"> of different rooms that's</font>
+
+29
+00:00:49,840 --> 00:00:51,570
+<font color="#E5E5E5">probably a good</font><font color="#CCCCCC"> place to put</font><font color="#E5E5E5"> your router</font>
+
+30
+00:00:51,570 --> 00:00:53,590
+you also really<font color="#E5E5E5"> want to lift</font><font color="#CCCCCC"> your router</font>
+
+31
+00:00:53,590 --> 00:00:55,510
+up off the ground<font color="#CCCCCC"> because the signals</font>
+
+32
+00:00:55,510 --> 00:00:56,739
+can't penetrate some of the materials
+
+33
+00:00:56,739 --> 00:00:58,239
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> make up floors like metal</font><font color="#E5E5E5"> or</font>
+
+34
+00:00:58,239 --> 00:01:00,489
+concrete or<font color="#E5E5E5"> cement and also the way most</font>
+
+35
+00:01:00,489 --> 00:01:02,590
+routers<font color="#E5E5E5"> are designed they broadcast the</font>
+
+36
+00:01:02,590 --> 00:01:05,140
+wave slightly downwards<font color="#E5E5E5"> so that way</font>
+
+37
+00:01:05,140 --> 00:01:06,490
+you're projecting less of it<font color="#E5E5E5"> down into</font>
+
+38
+00:01:06,490 --> 00:01:08,890
+<font color="#CCCCCC">your</font><font color="#E5E5E5"> basement for no reason a lot</font><font color="#CCCCCC"> of</font>
+
+39
+00:01:08,890 --> 00:01:11,260
+<font color="#CCCCCC">other electronics</font><font color="#E5E5E5"> can interfere with the</font>
+
+40
+00:01:11,260 --> 00:01:13,229
+router signal<font color="#E5E5E5"> things like TVs computers</font>
+
+41
+00:01:13,229 --> 00:01:15,430
+microwaves<font color="#CCCCCC"> pretty</font><font color="#E5E5E5"> much anything that has</font>
+
+42
+00:01:15,430 --> 00:01:17,320
+a<font color="#E5E5E5"> motor inside it so you want to keep</font>
+
+43
+00:01:17,320 --> 00:01:19,259
+the router away<font color="#E5E5E5"> from other electronics</font>
+
+44
+00:01:19,259 --> 00:01:22,270
+most<font color="#CCCCCC"> routers have</font><font color="#E5E5E5"> two antennas on them</font>
+
+45
+00:01:22,270 --> 00:01:24,400
+<font color="#E5E5E5">and ideally you can position one of them</font>
+
+46
+00:01:24,400 --> 00:01:26,380
+vertically<font color="#CCCCCC"> and one horizontally devices</font>
+
+47
+00:01:26,380 --> 00:01:27,729
+work best<font color="#E5E5E5"> when their internal antenna is</font>
+
+48
+00:01:27,729 --> 00:01:29,860
+parallel with the routers and so most
+
+49
+00:01:29,860 --> 00:01:31,570
+antennas inside laptops are horizontal
+
+50
+00:01:31,570 --> 00:01:33,070
+but if you're<font color="#E5E5E5"> using a mobile device</font><font color="#CCCCCC"> or a</font>
+
+51
+00:01:33,070 --> 00:01:34,750
+tablet<font color="#CCCCCC"> totally depends</font><font color="#E5E5E5"> on how you're</font>
+
+52
+00:01:34,750 --> 00:01:36,430
+holding<font color="#E5E5E5"> it so that way if you have one</font>
+
+53
+00:01:36,430 --> 00:01:38,350
+horizontal<font color="#E5E5E5"> and one vertical you have the</font>
+
+54
+00:01:38,350 --> 00:01:39,610
+highest<font color="#CCCCCC"> chance of having</font><font color="#E5E5E5"> a parallel</font>
+
+55
+00:01:39,610 --> 00:01:43,090
+match with antennas if you find that
+
+56
+00:01:43,090 --> 00:01:44,710
+<font color="#E5E5E5">your network isn't working well you</font><font color="#CCCCCC"> can</font>
+
+57
+00:01:44,710 --> 00:01:45,970
+just go around<font color="#E5E5E5"> and</font><font color="#CCCCCC"> measure your signal</font>
+
+58
+00:01:45,970 --> 00:01:47,110
+strength<font color="#CCCCCC"> so there's a lot of</font><font color="#E5E5E5"> different</font>
+
+59
+00:01:47,110 --> 00:01:48,700
+apps that<font color="#CCCCCC"> you can</font><font color="#E5E5E5"> download on your phone</font>
+
+60
+00:01:48,700 --> 00:01:50,979
+<font color="#E5E5E5">you could create a</font><font color="#CCCCCC"> rock map and</font><font color="#E5E5E5"> figure</font>
+
+61
+00:01:50,979 --> 00:00:00,000
+<font color="#CCCCCC">out what you need to do to fix it</font>
+

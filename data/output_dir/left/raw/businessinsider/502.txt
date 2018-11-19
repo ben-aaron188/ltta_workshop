@@ -1,0 +1,228 @@
+1
+00:00:03,920 --> 00:00:06,359
+I'm rich felonious and<font color="#CCCCCC"> your strategy</font>
+
+2
+00:00:06,359 --> 00:00:08,550
+reporter at Business Insider<font color="#CCCCCC"> I first</font>
+
+3
+00:00:08,550 --> 00:00:09,090
+heard about
+
+4
+00:00:09,090 --> 00:00:12,139
+<font color="#CCCCCC">hirevue</font><font color="#E5E5E5"> when I wrote about Unilever's</font>
+
+5
+00:00:12,139 --> 00:00:15,630
+<font color="#E5E5E5">experiment in hiring Unilever is one of</font>
+
+6
+00:00:15,630 --> 00:00:18,080
+many large companies<font color="#CCCCCC"> that is</font>
+
+7
+00:00:18,080 --> 00:00:20,850
+incorporating artificial intelligence
+
+8
+00:00:20,850 --> 00:00:24,029
+<font color="#E5E5E5">into their recruitment efforts hirevue</font>
+
+9
+00:00:24,029 --> 00:00:28,560
+uses<font color="#E5E5E5"> video analysis to screen employees</font>
+
+10
+00:00:28,560 --> 00:00:31,980
+and rate them before a recruiter even
+
+11
+00:00:31,980 --> 00:00:34,020
+gets to<font color="#E5E5E5"> look at their interviews I'm</font>
+
+12
+00:00:34,020 --> 00:00:35,250
+<font color="#E5E5E5">Lauren Larson I'm the chief technology</font>
+
+13
+00:00:35,250 --> 00:00:37,860
+officer<font color="#CCCCCC"> at</font><font color="#E5E5E5"> hirevue hirevue has a</font>
+
+14
+00:00:37,860 --> 00:00:40,260
+<font color="#E5E5E5">platform that simplifies the</font><font color="#CCCCCC"> job</font>
+
+15
+00:00:40,260 --> 00:00:42,120
+interviewing process<font color="#CCCCCC"> the most common use</font>
+
+16
+00:00:42,120 --> 00:00:43,440
+of that is what we call it on-demand
+
+17
+00:00:43,440 --> 00:00:45,210
+interview where you<font color="#E5E5E5"> create a set of</font>
+
+18
+00:00:45,210 --> 00:00:46,950
+questions they respond on video and<font color="#E5E5E5"> then</font>
+
+19
+00:00:46,950 --> 00:00:48,360
+we use<font color="#E5E5E5"> artificial intelligence</font>
+
+20
+00:00:48,360 --> 00:00:50,280
+algorithms to evaluate their performance
+
+21
+00:00:50,280 --> 00:00:52,620
+<font color="#CCCCCC">and then we analyze the</font><font color="#E5E5E5"> interview and</font>
+
+22
+00:00:52,620 --> 00:00:54,239
+<font color="#E5E5E5">predict their performance based on the</font>
+
+23
+00:00:54,239 --> 00:00:56,070
+interview<font color="#E5E5E5"> so</font><font color="#CCCCCC"> hirevue</font><font color="#E5E5E5"> set up an</font>
+
+24
+00:00:56,070 --> 00:00:58,949
+<font color="#CCCCCC">application for me where it was 11</font>
+
+25
+00:00:58,949 --> 00:01:00,539
+interview questions
+
+26
+00:01:00,539 --> 00:01:03,390
+I used my iPhone the entire time I felt
+
+27
+00:01:03,390 --> 00:01:06,299
+very<font color="#E5E5E5"> awkward</font><font color="#CCCCCC"> and very self-conscious</font>
+
+28
+00:01:06,299 --> 00:01:08,880
+because<font color="#CCCCCC"> I was looking at a video of</font>
+
+29
+00:01:08,880 --> 00:01:11,070
+myself<font color="#CCCCCC"> and then we made an analysis of</font>
+
+30
+00:01:11,070 --> 00:01:12,900
+the features that<font color="#E5E5E5"> are important for</font><font color="#CCCCCC"> that</font>
+
+31
+00:01:12,900 --> 00:01:15,119
+job<font color="#E5E5E5"> and produced</font><font color="#CCCCCC"> what we call an insight</font>
+
+32
+00:01:15,119 --> 00:01:17,490
+score which is<font color="#E5E5E5"> essentially his ranking</font>
+
+33
+00:01:17,490 --> 00:01:18,840
+compared to all of<font color="#CCCCCC"> the other candidates</font>
+
+34
+00:01:18,840 --> 00:01:20,520
+<font color="#E5E5E5">that we've seen well fortunately</font><font color="#CCCCCC"> rich</font>
+
+35
+00:01:20,520 --> 00:01:21,750
+did really well in<font color="#CCCCCC"> this interview</font>
+
+36
+00:01:21,750 --> 00:01:24,090
+<font color="#E5E5E5">basically</font><font color="#CCCCCC"> what</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> is just doing is</font>
+
+37
+00:01:24,090 --> 00:01:26,630
+looking<font color="#CCCCCC"> for things like eye contact</font>
+
+38
+00:01:26,630 --> 00:01:28,740
+<font color="#CCCCCC">enthusiasm</font><font color="#E5E5E5"> if this is someone who's</font>
+
+39
+00:01:28,740 --> 00:01:31,170
+<font color="#E5E5E5">going to be working</font><font color="#CCCCCC"> with clients face to</font>
+
+40
+00:01:31,170 --> 00:01:34,380
+<font color="#CCCCCC">face do they smile</font><font color="#E5E5E5"> or are they downcast</font>
+
+41
+00:01:34,380 --> 00:01:38,430
+are they<font color="#E5E5E5"> looking away from the camera</font><font color="#CCCCCC"> so</font>
+
+42
+00:01:38,430 --> 00:01:41,520
+some of<font color="#CCCCCC"> my skepticism was averted</font><font color="#E5E5E5"> when I</font>
+
+43
+00:01:41,520 --> 00:01:44,250
+actually saw how the product worked<font color="#E5E5E5"> the</font>
+
+44
+00:01:44,250 --> 00:01:46,829
+<font color="#CCCCCC">Machine is</font><font color="#E5E5E5"> gonna look at twenty five</font>
+
+45
+00:01:46,829 --> 00:01:49,140
+<font color="#E5E5E5">thousand different features and complex</font>
+
+46
+00:01:49,140 --> 00:01:51,329
+relationships<font color="#CCCCCC"> between those the</font><font color="#E5E5E5"> might</font>
+
+47
+00:01:51,329 --> 00:01:52,950
+see things<font color="#E5E5E5"> that I'm not able</font><font color="#CCCCCC"> to see as a</font>
+
+48
+00:01:52,950 --> 00:01:55,649
+human a eye and recruiting at this point
+
+49
+00:01:55,649 --> 00:01:58,560
+is still<font color="#E5E5E5"> basically in its infancy</font><font color="#CCCCCC"> I</font>
+
+50
+00:01:58,560 --> 00:02:00,619
+think what<font color="#E5E5E5"> higher view is doing is</font>
+
+51
+00:02:00,619 --> 00:02:02,939
+interesting they're going into<font color="#CCCCCC"> uncharted</font>
+
+52
+00:02:02,939 --> 00:02:06,570
+<font color="#CCCCCC">territory it seems that a lot of large</font>
+
+53
+00:02:06,570 --> 00:02:09,360
+<font color="#CCCCCC">companies</font><font color="#E5E5E5"> are happy with the results of</font>
+
+54
+00:02:09,360 --> 00:02:10,990
+the candidates that<font color="#E5E5E5"> we</font>
+
+55
+00:02:10,990 --> 00:02:13,210
+<font color="#E5E5E5">screen for this he was second he had a</font>
+
+56
+00:02:13,210 --> 00:02:16,360
+<font color="#E5E5E5">65% insight score so we actually wanna</font>
+
+57
+00:02:16,360 --> 00:00:00,000
+make<font color="#E5E5E5"> him an offer</font>
+

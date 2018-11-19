@@ -1,0 +1,532 @@
+1
+00:00:00,000 --> 00:00:01,709
+one of those malign activities that's
+
+2
+00:00:01,709 --> 00:00:03,300
+upsetting<font color="#E5E5E5"> Washington right now is</font>
+
+3
+00:00:03,300 --> 00:00:06,000
+<font color="#CCCCCC">supposed</font><font color="#E5E5E5"> Russian hacking Microsoft</font>
+
+4
+00:00:06,000 --> 00:00:08,280
+claims it's<font color="#E5E5E5"> Thor today fresh attack the</font>
+
+5
+00:00:08,280 --> 00:00:10,380
+tech<font color="#CCCCCC"> giant says the targets were</font><font color="#E5E5E5"> the US</font>
+
+6
+00:00:10,380 --> 00:00:12,900
+Senate and conservative<font color="#CCCCCC"> think-tanks but</font>
+
+7
+00:00:12,900 --> 00:00:14,519
+mainstream<font color="#E5E5E5"> outlets reporting on</font>
+
+8
+00:00:14,519 --> 00:00:16,470
+Microsoft's findings rushed to draw
+
+9
+00:00:16,470 --> 00:00:18,210
+their usual conclusion about who might
+
+10
+00:00:18,210 --> 00:00:20,880
+<font color="#CCCCCC">be behind</font><font color="#E5E5E5"> them attempts by Russia to</font>
+
+11
+00:00:20,880 --> 00:00:22,470
+hack<font color="#CCCCCC"> US Senate and conservative groups</font>
+
+12
+00:00:22,470 --> 00:00:24,150
+<font color="#CCCCCC">by hacking group affiliated</font><font color="#E5E5E5"> with the</font>
+
+13
+00:00:24,150 --> 00:00:25,949
+Russian government<font color="#CCCCCC"> Russian military</font>
+
+14
+00:00:25,949 --> 00:00:27,869
+operation the intelligence operation<font color="#E5E5E5"> the</font>
+
+15
+00:00:27,869 --> 00:00:31,279
+Russian military intelligence<font color="#E5E5E5"> units</font>
+
+16
+00:00:31,279 --> 00:00:33,630
+we're joined live by<font color="#E5E5E5"> our correspondent</font>
+
+17
+00:00:33,630 --> 00:00:35,550
+Eagers Donna with more now take us
+
+18
+00:00:35,550 --> 00:00:37,590
+through what<font color="#E5E5E5"> Microsoft said well</font>
+
+19
+00:00:37,590 --> 00:00:38,969
+basically<font color="#E5E5E5"> what the company</font><font color="#CCCCCC"> is saying</font>
+
+20
+00:00:38,969 --> 00:00:41,700
+that they've seized control<font color="#E5E5E5"> from some</font>
+
+21
+00:00:41,700 --> 00:00:43,290
+group<font color="#CCCCCC"> that they believe our Russian</font><font color="#E5E5E5"> hack</font>
+
+22
+00:00:43,290 --> 00:00:45,270
+<font color="#E5E5E5">is over a bunch of websites that were</font>
+
+23
+00:00:45,270 --> 00:00:48,300
+recently<font color="#E5E5E5"> created</font><font color="#CCCCCC"> and designed</font><font color="#E5E5E5"> to copycat</font>
+
+24
+00:00:48,300 --> 00:00:50,579
+this the websites of some<font color="#E5E5E5"> like</font>
+
+25
+00:00:50,579 --> 00:00:52,890
+Republican groups conservative groups of
+
+26
+00:00:52,890 --> 00:00:54,600
+the Congress and so on and so forth<font color="#E5E5E5"> this</font>
+
+27
+00:00:54,600 --> 00:00:57,120
+technique in<font color="#E5E5E5"> the IT talk is called</font>
+
+28
+00:00:57,120 --> 00:00:59,219
+phishing<font color="#E5E5E5"> and it's basically</font><font color="#CCCCCC"> designed to</font>
+
+29
+00:00:59,219 --> 00:01:01,530
+lure people in and<font color="#CCCCCC"> to</font><font color="#E5E5E5"> deceive them to</font>
+
+30
+00:01:01,530 --> 00:01:02,910
+make them believe<font color="#E5E5E5"> that they're visiting</font>
+
+31
+00:01:02,910 --> 00:01:05,489
+<font color="#E5E5E5">the actual</font><font color="#CCCCCC"> website</font><font color="#E5E5E5"> while they're not and</font>
+
+32
+00:01:05,489 --> 00:01:07,830
+then the perpetrator can pretty much do
+
+33
+00:01:07,830 --> 00:01:10,110
+<font color="#E5E5E5">anything they want they can send them</font>
+
+34
+00:01:10,110 --> 00:01:12,810
+like emails phishing emails<font color="#E5E5E5"> with like</font>
+
+35
+00:01:12,810 --> 00:01:14,580
+wrong information<font color="#E5E5E5"> they can send them</font>
+
+36
+00:01:14,580 --> 00:01:16,409
+viruses<font color="#E5E5E5"> and so on and so forth and</font>
+
+37
+00:01:16,409 --> 00:01:17,909
+<font color="#E5E5E5">Microsoft is saying that it is</font>
+
+38
+00:01:17,909 --> 00:01:21,119
+resembling<font color="#E5E5E5"> this situation that developed</font>
+
+39
+00:01:21,119 --> 00:01:22,830
+right before the presidential elections
+
+40
+00:01:22,830 --> 00:01:27,900
+in<font color="#CCCCCC"> 2016 have a listen we saw this</font><font color="#E5E5E5"> during</font>
+
+41
+00:01:27,900 --> 00:01:29,640
+the<font color="#CCCCCC"> United States general election in</font>
+
+42
+00:01:29,640 --> 00:01:30,570
+2016
+
+43
+00:01:30,570 --> 00:01:32,220
+last May during<font color="#CCCCCC"> the French presidential</font>
+
+44
+00:01:32,220 --> 00:01:34,680
+election and now in a broadening way as
+
+45
+00:01:34,680 --> 00:01:36,420
+Americans are<font color="#E5E5E5"> preparing for the November</font>
+
+46
+00:01:36,420 --> 00:01:38,850
+midterm elections now for you for those
+
+47
+00:01:38,850 --> 00:01:40,439
+<font color="#CCCCCC">of you who</font><font color="#E5E5E5"> don't understand the midterms</font>
+
+48
+00:01:40,439 --> 00:01:42,299
+<font color="#E5E5E5">elections is basically the elections in</font>
+
+49
+00:01:42,299 --> 00:01:44,759
+Congress where almost all seats are up
+
+50
+00:01:44,759 --> 00:01:45,810
+to up for grabs
+
+51
+00:01:45,810 --> 00:01:47,909
+so they view<font color="#CCCCCC"> it as an important thing</font>
+
+52
+00:01:47,909 --> 00:01:49,920
+and they probably<font color="#E5E5E5"> think</font><font color="#CCCCCC"> that Russians</font>
+
+53
+00:01:49,920 --> 00:01:52,380
+would want to hack into those you<font color="#CCCCCC"> know</font>
+
+54
+00:01:52,380 --> 00:01:55,409
+<font color="#CCCCCC">to you distribute the</font><font color="#E5E5E5"> way to the power</font>
+
+55
+00:01:55,409 --> 00:01:57,149
+within Congress so that's why they're
+
+56
+00:01:57,149 --> 00:01:59,340
+concerned<font color="#E5E5E5"> so this is a significant</font>
+
+57
+00:01:59,340 --> 00:02:01,259
+accusation is there any indication<font color="#CCCCCC"> of</font>
+
+58
+00:02:01,259 --> 00:02:02,729
+<font color="#E5E5E5">what might come</font><font color="#CCCCCC"> out of this</font><font color="#E5E5E5"> well</font>
+
+59
+00:02:02,729 --> 00:02:04,649
+<font color="#E5E5E5">speaking about significance there's a</font>
+
+60
+00:02:04,649 --> 00:02:07,170
+bunch of flaws in this that kind<font color="#E5E5E5"> of jump</font>
+
+61
+00:02:07,170 --> 00:02:09,628
+out<font color="#E5E5E5"> to anyone who's even</font><font color="#CCCCCC"> a little bit</font>
+
+62
+00:02:09,628 --> 00:02:11,280
+tax savvy first and<font color="#E5E5E5"> foremost of these</font>
+
+63
+00:02:11,280 --> 00:02:13,100
+<font color="#CCCCCC">websites then can be</font>
+
+64
+00:02:13,100 --> 00:02:14,900
+these domains<font color="#CCCCCC"> they can be created from</font>
+
+65
+00:02:14,900 --> 00:02:16,250
+<font color="#E5E5E5">anywhere in</font><font color="#CCCCCC"> the world they can</font><font color="#E5E5E5"> be</font>
+
+66
+00:02:16,250 --> 00:02:18,230
+created<font color="#E5E5E5"> from any basement from the</font>
+
+67
+00:02:18,230 --> 00:02:21,500
+comfort of anyone's<font color="#E5E5E5"> flat or apartment</font>
+
+68
+00:02:21,500 --> 00:02:24,170
+really Microsoft insists<font color="#CCCCCC"> its fancy bears</font>
+
+69
+00:02:24,170 --> 00:02:26,210
+it's like kind of a notorious hacking
+
+70
+00:02:26,210 --> 00:02:28,460
+group and we<font color="#E5E5E5"> won't delve deep into</font><font color="#CCCCCC"> this</font>
+
+71
+00:02:28,460 --> 00:02:29,930
+<font color="#E5E5E5">but let's just say that</font><font color="#CCCCCC"> they are linked</font>
+
+72
+00:02:29,930 --> 00:02:32,450
+<font color="#CCCCCC">to the Russian government</font><font color="#E5E5E5"> is very very</font>
+
+73
+00:02:32,450 --> 00:02:34,280
+debatable it's a subject to debate it's
+
+74
+00:02:34,280 --> 00:02:37,340
+not a an established fact<font color="#E5E5E5"> but even still</font>
+
+75
+00:02:37,340 --> 00:02:40,280
+if it's fancy bears<font color="#E5E5E5"> the thing is</font>
+
+76
+00:02:40,280 --> 00:02:42,470
+Microsoft explicitly says<font color="#CCCCCC"> that they</font>
+
+77
+00:02:42,470 --> 00:02:45,020
+found and<font color="#E5E5E5"> I quote no evidence that these</font>
+
+78
+00:02:45,020 --> 00:02:46,820
+domains were used in any successful
+
+79
+00:02:46,820 --> 00:02:47,660
+<font color="#E5E5E5">attack</font>
+
+80
+00:02:47,660 --> 00:02:49,790
+moreover they do not have any evidence
+
+81
+00:02:49,790 --> 00:02:52,970
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> indicate the identity of targets or</font>
+
+82
+00:02:52,970 --> 00:02:55,300
+even the number<font color="#CCCCCC"> of targets of these</font>
+
+83
+00:02:55,300 --> 00:02:58,280
+apparent<font color="#E5E5E5"> planned attacks so what we have</font>
+
+84
+00:02:58,280 --> 00:03:00,620
+<font color="#E5E5E5">here on our hands is a bunch of is a</font>
+
+85
+00:03:00,620 --> 00:03:03,260
+bunch<font color="#E5E5E5"> of websites that</font><font color="#CCCCCC"> were created</font><font color="#E5E5E5"> and</font>
+
+86
+00:03:03,260 --> 00:03:06,170
+no one has even<font color="#CCCCCC"> attempted to</font><font color="#E5E5E5"> do anything</font>
+
+87
+00:03:06,170 --> 00:03:08,450
+<font color="#E5E5E5">with them and this is what the Russian</font>
+
+88
+00:03:08,450 --> 00:03:12,370
+statement<font color="#E5E5E5"> on this matter pointed out</font>
+
+89
+00:03:12,520 --> 00:03:15,260
+<font color="#E5E5E5">again we have to</font><font color="#CCCCCC"> state what ought</font><font color="#E5E5E5"> to be</font>
+
+90
+00:03:15,260 --> 00:03:17,690
+obvious<font color="#CCCCCC"> despite our desire it's</font>
+
+91
+00:03:17,690 --> 00:03:19,790
+impossible to comment on statements made
+
+92
+00:03:19,790 --> 00:03:21,830
+without<font color="#CCCCCC"> any evidence</font><font color="#E5E5E5"> and that are</font>
+
+93
+00:03:21,830 --> 00:03:23,830
+clearly<font color="#E5E5E5"> created for public attention</font>
+
+94
+00:03:23,830 --> 00:03:26,330
+<font color="#CCCCCC">it's said that a big international</font>
+
+95
+00:03:26,330 --> 00:03:28,610
+company that successfully worked for a
+
+96
+00:03:28,610 --> 00:03:30,980
+long time in the<font color="#CCCCCC"> Russian market</font><font color="#E5E5E5"> has to</font>
+
+97
+00:03:30,980 --> 00:03:32,840
+be a part<font color="#CCCCCC"> of the witch-hunt</font><font color="#E5E5E5"> that has</font>
+
+98
+00:03:32,840 --> 00:03:35,990
+invaded<font color="#E5E5E5"> Washington well bottom line is</font>
+
+99
+00:03:35,990 --> 00:03:38,360
+every<font color="#E5E5E5"> time they hear the word hacking</font>
+
+100
+00:03:38,360 --> 00:03:40,400
+especially journalists<font color="#CCCCCC"> well they jump at</font>
+
+101
+00:03:40,400 --> 00:03:42,260
+<font color="#CCCCCC">it and they automatically assume</font><font color="#E5E5E5"> Russia</font>
+
+102
+00:03:42,260 --> 00:03:43,700
+<font color="#CCCCCC">especially if they have</font><font color="#E5E5E5"> we know the</font>
+
+103
+00:03:43,700 --> 00:03:45,800
+trigger words in the text<font color="#E5E5E5"> well</font>
+
+104
+00:03:45,800 --> 00:03:48,140
+nevertheless Microsoft is of course<font color="#CCCCCC"> a</font>
+
+105
+00:03:48,140 --> 00:03:49,970
+veteran<font color="#E5E5E5"> of the tech world they carry a</font>
+
+106
+00:03:49,970 --> 00:03:52,070
+<font color="#E5E5E5">lot of weight and they insist that the</font>
+
+107
+00:03:52,070 --> 00:03:52,970
+threat<font color="#E5E5E5"> is real</font>
+
+108
+00:03:52,970 --> 00:03:56,120
+<font color="#CCCCCC">will the</font><font color="#E5E5E5"> u.s. act on that warning well</font>
+
+109
+00:03:56,120 --> 00:03:58,100
+Microsoft in fact has even made a
+
+110
+00:03:58,100 --> 00:04:00,650
+suggestion as to<font color="#CCCCCC"> how the you know the</font>
+
+111
+00:04:00,650 --> 00:04:03,920
+<font color="#E5E5E5">potential victims of the attacks should</font>
+
+112
+00:04:03,920 --> 00:04:06,320
+act and<font color="#E5E5E5"> they've suggested that it's</font>
+
+113
+00:04:06,320 --> 00:04:08,180
+their tool they should be installing
+
+114
+00:04:08,180 --> 00:04:09,610
+they've announced that<font color="#E5E5E5"> they're</font>
+
+115
+00:04:09,610 --> 00:04:12,170
+<font color="#E5E5E5">developing is</font><font color="#CCCCCC"> a thing called Microsoft</font>
+
+116
+00:04:12,170 --> 00:04:15,470
+account<font color="#E5E5E5"> God and well don't</font><font color="#CCCCCC"> its I wish I</font>
+
+117
+00:04:15,470 --> 00:04:16,760
+could say it's the follow the money
+
+118
+00:04:16,760 --> 00:04:18,410
+<font color="#CCCCCC">trail but it isn't here</font>
+
+119
+00:04:18,410 --> 00:04:20,600
+<font color="#E5E5E5">they are provided they will be</font><font color="#CCCCCC"> there</font>
+
+120
+00:04:20,600 --> 00:04:22,640
+promising<font color="#E5E5E5"> to provide it for free to</font>
+
+121
+00:04:22,640 --> 00:04:25,040
+anyone who<font color="#E5E5E5"> may fall victim of the attack</font>
+
+122
+00:04:25,040 --> 00:04:27,410
+so candidates campaigns and<font color="#E5E5E5"> so on and so</font>
+
+123
+00:04:27,410 --> 00:04:29,960
+forth there will be threat notification
+
+124
+00:04:29,960 --> 00:04:31,850
+and<font color="#E5E5E5"> they</font><font color="#CCCCCC"> promise</font><font color="#E5E5E5"> to guide these their</font>
+
+125
+00:04:31,850 --> 00:04:33,770
+clients through how to make<font color="#CCCCCC"> these</font>
+
+126
+00:04:33,770 --> 00:04:36,260
+networks and<font color="#CCCCCC"> email systems more secure</font>
+
+127
+00:04:36,260 --> 00:04:39,110
+<font color="#E5E5E5">so ultimately I'm afraid I have to say</font>
+
+128
+00:04:39,110 --> 00:04:41,210
+that it looks<font color="#CCCCCC"> like a very well-designed</font>
+
+129
+00:04:41,210 --> 00:04:43,700
+<font color="#CCCCCC">I have to admit PR campaign on behalf of</font>
+
+130
+00:04:43,700 --> 00:04:46,070
+Microsoft<font color="#E5E5E5"> and anywhere whether there is</font>
+
+131
+00:04:46,070 --> 00:04:48,260
+a threat<font color="#E5E5E5"> whether there isn't</font><font color="#CCCCCC"> while</font>
+
+132
+00:04:48,260 --> 00:04:51,520
+<font color="#E5E5E5">they're pushing their tool here</font>
+
+133
+00:04:57,620 --> 00:00:00,000
+you
+

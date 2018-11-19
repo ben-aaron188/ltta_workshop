@@ -1,0 +1,792 @@
+1
+00:00:00,000 --> 00:00:02,995
+-Saben como funciona Uber, ¿no?
+
+2
+00:00:03,000 --> 00:00:05,985
+Uber es una aplicación, la instalas en tu teléfono
+
+3
+00:00:05,985 --> 00:00:08,915
+y conductores con sus propios autos particulares
+
+4
+00:00:08,915 --> 00:00:12,115
+se conectan a la aplicación, ven que tú necesitas transporte
+
+5
+00:00:12,115 --> 00:00:14,875
+y te proporcionan ese transporte usando sus propios autos,
+
+6
+00:00:14,875 --> 00:00:18,255
+y Uber obtiene dinero de ello
+
+7
+00:00:18,255 --> 00:00:21,265
+y el resultado es que enriquece a un montón de
+
+8
+00:00:21,265 --> 00:00:24,025
+billonarios de Silicon Valley a costa de nuestra economía.
+
+9
+00:00:24,355 --> 00:00:30,395
+Lo que Uber hace es tratar a las personas
+
+10
+00:00:30,395 --> 00:00:33,365
+que manejan para ellos como "contratistas privados"
+
+11
+00:00:33,365 --> 00:00:34,365
+ 
+
+12
+00:00:34,945 --> 00:00:37,975
+y eso les permite
+
+13
+00:00:37,975 --> 00:00:41,155
+no cumplir con regulaciones laborales.
+
+14
+00:00:41,155 --> 00:00:44,205
+Bueno, Europa de nuevo está adelante de los Estados Unidos en políticas de protección
+
+15
+00:00:44,205 --> 00:00:47,025
+a los trabajadores, bienestar social, y todo eso. Esto de NPR:
+
+16
+00:00:47,025 --> 00:00:49,885
+"El Tribunal de Justicia de la Unión Europea dice que Uber es una compañia de transporte,
+
+17
+00:00:49,885 --> 00:00:52,715
+dándole la razón a taxistas.
+
+18
+00:00:52,715 --> 00:00:55,765
+Uber mantiene que en Europa y otros sitios
+
+19
+00:00:55,765 --> 00:00:59,145
+solamente provee una plataforma de comercio electrónico
+
+20
+00:00:59,145 --> 00:01:02,305
+que facilita el transporte."
+
+21
+00:01:02,375 --> 00:01:05,345
+Lo que es una distinción legal que intentan imponer,
+
+22
+00:01:05,345 --> 00:01:07,175
+lo que por cierto es mentira.
+
+23
+00:01:07,515 --> 00:01:10,955
+-Un mentira cínica.
+
+24
+00:01:11,965 --> 00:01:14,785
+-Cierto, "No somos una compañía de transporte
+
+25
+00:01:14,785 --> 00:01:17,695
+proporcionamos una plataforma de comercio electrónico."
+
+26
+00:01:17,695 --> 00:01:21,035
+Ok, cómo no.
+
+27
+00:01:21,035 --> 00:01:22,865
+ 
+
+28
+00:01:23,185 --> 00:01:26,225
+"El Tribunal de Justicia de la Unión Europea ha determinado que Uber
+
+29
+00:01:26,225 --> 00:01:29,125
+es una compañía de transporte, no meramente una plataforma tecnológica,
+
+30
+00:01:29,125 --> 00:01:31,795
+citando la relación 'indispensable' que la compañía
+
+31
+00:01:31,795 --> 00:01:35,025
+crea entre conductores y pasajeros. Dándole la razón
+
+32
+00:01:35,025 --> 00:01:38,045
+a taxistas españoles, el tribunal dice que Uber
+
+33
+00:01:38,045 --> 00:01:41,535
+debe ser regulada en la Unión Europea.
+
+34
+00:01:41,855 --> 00:01:44,955
+Una asociación de taxistas de Barcelona
+
+35
+00:01:44,955 --> 00:01:48,025
+se había quejado de que Uber representaba competencia desleal
+
+36
+00:01:48,025 --> 00:01:50,505
+y prácticas de negocios engañosas
+
+37
+00:01:50,505 --> 00:01:53,335
+que buscaban derrocar el orden establecido
+
+38
+00:01:53,335 --> 00:01:56,395
+y permitir a Uber no cumplir con permisos de trabajo
+
+39
+00:01:56,505 --> 00:01:59,325
+y regulaciones bajo las leyes de servicios de transporte."
+
+40
+00:01:59,325 --> 00:02:02,255
+Así es como maximizan sus ganancias,
+
+41
+00:02:02,255 --> 00:02:05,105
+no tiene que preocuparse
+
+42
+00:02:05,105 --> 00:02:08,185
+molestas regulaciones.
+
+43
+00:02:08,255 --> 00:02:11,105
+-Espera. Uber "no obtiene ganancias",
+
+44
+00:02:11,105 --> 00:02:13,985
+esta es una manera de "reducir sus pérdidas"
+
+45
+00:02:13,985 --> 00:02:16,875
+pero ellos "no obtienen ganancias". Esta es una compañía horriblemente no redituable.
+
+46
+00:02:16,875 --> 00:02:19,945
+-Así que lo que hacen es,
+
+47
+00:02:19,945 --> 00:02:23,065
+como Amazon, operar con pérdidas,
+
+48
+00:02:23,065 --> 00:02:26,135
+ese es el nuevo modelo de negocios, nunca tienes que demostrar ganancias,
+
+49
+00:02:26,135 --> 00:02:29,225
+operas con pérdidas hasta que llevas a la quiebra a toda la competencia,
+
+50
+00:02:29,225 --> 00:02:32,075
+quien de hecho tiene que tener ganancias para pagar a sus trabajadores.
+
+51
+00:02:32,075 --> 00:02:34,515
+¿Cómo se puede competir
+
+52
+00:02:34,515 --> 00:02:37,555
+con una compañía que no necesita generar ganancias?
+
+53
+00:02:37,555 --> 00:02:40,555
+¿Cómo puede una compañía de taxis competir con Uber
+
+54
+00:02:40,555 --> 00:02:42,915
+cuando no necesita generar ganancias?
+
+55
+00:02:42,915 --> 00:02:45,765
+¿Como se puede competir con Amazon cuando no necesita generar ganancias?
+
+56
+00:02:45,765 --> 00:02:47,765
+Y no tienen que pagar impuestos. ¿No es ridículo?
+
+57
+00:02:47,765 --> 00:02:48,785
+ 
+
+58
+00:02:48,785 --> 00:02:50,365
+¿Ven como nuestras economías están siendo manipuladas
+
+59
+00:02:51,305 --> 00:02:54,085
+por billonarios de la tecnología de Sillicon Valley
+
+60
+00:02:54,085 --> 00:02:56,665
+como Jeff Bezos y Uber?
+
+61
+00:02:56,665 --> 00:02:59,715
+ 
+
+62
+00:02:59,715 --> 00:03:02,295
+-Y hemos estado hablando de esto por algún tiempo y no podíamos entender
+
+63
+00:03:02,295 --> 00:03:05,195
+por qué las compañías de taxis en Estados Unidos
+
+64
+00:03:05,455 --> 00:03:06,435
+no se han opuesto a Uber.
+
+65
+00:03:06,435 --> 00:03:09,355
+¿Cómo es que no se están opiniendo a uber?
+
+66
+00:03:09,355 --> 00:03:11,225
+¿Por qué no están poniendo su modelo de negocios a prueba, como en Europa?
+
+67
+00:03:11,725 --> 00:03:12,945
+Y es porque,
+
+68
+00:03:13,955 --> 00:03:17,065
+tenemos que recordar, estas regulaciones son protecciones laborales.
+
+69
+00:03:17,065 --> 00:03:20,185
+-Sí, tenemos que recordar,
+
+70
+00:03:20,185 --> 00:03:22,645
+estas regulaciones son protecciones laborales.
+
+71
+00:03:23,895 --> 00:03:27,115
+Y aquí hay más, dice: "Con la decisión del tribunal más alto
+
+72
+00:03:27,115 --> 00:03:30,075
+de Europa Uber ahora puede ser regulada como una compañía de transporte
+
+73
+00:03:30,075 --> 00:03:33,215
+de acuerdo a los Estados miembros de la Unión Europea.
+
+74
+00:03:33,215 --> 00:03:36,095
+Al reconocer el estado de Uber como
+
+75
+00:03:36,095 --> 00:03:39,145
+un servicio intermediario entre conductores y usuarios
+
+76
+00:03:39,145 --> 00:03:42,465
+el tribunal falla que dado que el propósito de Uber es
+
+77
+00:03:42,875 --> 00:03:45,965
+conectar mediante una aplicación telefónica
+
+78
+00:03:45,965 --> 00:03:48,985
+y con el fin de obtener remuneración,
+
+79
+00:03:48,985 --> 00:03:51,575
+a conductores no profesionales que cuenten con su propio vehículo
+
+80
+00:03:51,575 --> 00:03:54,435
+con personas que necesitan transporte urbano,
+
+81
+00:03:54,435 --> 00:03:57,475
+Uber debe ser considerada de manera inherente como
+
+82
+00:03:57,475 --> 00:04:00,585
+un servicio de transporte y de acuerdo a ello debe ser clasificada
+
+83
+00:04:00,585 --> 00:04:03,345
+como 'un servicio en el campo del transporte', con lo que ello implique
+
+84
+00:04:03,345 --> 00:04:06,305
+dentro del marco de las leyes europeas."
+
+85
+00:04:06,305 --> 00:04:08,255
+Buenas noticias.
+
+86
+00:04:08,745 --> 00:04:11,775
+La Unión Europea le ha puesto un límite a Uber
+
+87
+00:04:11,775 --> 00:04:15,255
+y ha comenzado a regularla, que es lo que debe hacer.
+
+88
+00:04:15,625 --> 00:04:17,675
+-Así es. Mira, a mí de hecho me gustan
+
+89
+00:04:18,045 --> 00:04:20,519
+Uber y Lyft, como servicios creo que son mucho
+
+90
+00:04:20,519 --> 00:04:21,359
+mejores que los taxis.
+- Sí.
+
+91
+00:04:21,360 --> 00:04:23,455
+-Los taxis son horribles,
+
+92
+00:04:23,455 --> 00:04:26,035
+y son tan horribles,
+
+93
+00:04:26,035 --> 00:04:29,305
+que Uber y Lyft los están haciendo a un lado.
+
+94
+00:04:29,325 --> 00:04:32,095
+Dicho eso, Uber y Lyft no pueden simplemente
+
+95
+00:04:32,765 --> 00:04:35,905
+hacer lo quieran, tienen que seguir las reglas.
+
+96
+00:04:35,905 --> 00:04:38,315
+No puedes pretender
+
+97
+00:04:38,875 --> 00:04:41,985
+tener al mismo tiempo "contratistas independientes"
+
+98
+00:04:41,985 --> 00:04:44,925
+y forzarlos a todos ellos a seguir tus
+
+99
+00:04:44,925 --> 00:04:48,095
+mismas reglas y precios.
+
+100
+00:04:48,100 --> 00:04:51,055
+No puede ser de la dos formas, o tienes contratistas independientes o tienes empleados,
+
+101
+00:04:51,060 --> 00:04:53,960
+y si tienes contratistas independientes
+
+102
+00:04:53,960 --> 00:04:57,185
+entonces son libres de poner sus precios, pero no pueden,
+
+103
+00:04:57,185 --> 00:05:00,215
+no pueden hacerlo, lo que significa que son empleados,
+
+104
+00:05:00,215 --> 00:05:03,305
+y que estás sujeto a reglas como proporcionarles
+
+105
+00:05:03,305 --> 00:05:06,555
+servicios médicos.
+-Beneficios.
+
+106
+00:05:06,555 --> 00:05:08,815
+-No eres eHarmony.
+
+107
+00:05:09,295 --> 00:05:12,345
+¡Qué payasada!
+
+108
+00:05:12,345 --> 00:05:15,355
+De hecho quiero que Uber y Lyft funcionen,
+
+109
+00:05:15,355 --> 00:05:17,995
+no los quiero fuera del negocio,
+
+110
+00:05:17,995 --> 00:05:20,995
+pero quisiera que dejaran de ser tan codiciosos.
+
+111
+00:05:20,995 --> 00:05:24,055
+-Que se dejaran de tonterías.
+
+112
+00:05:25,225 --> 00:05:28,225
+-Sí. Quisiera que siguieran las reglas,
+
+113
+00:05:28,225 --> 00:05:30,625
+como el resto, que no buscaran reglas especiales.
+
+114
+00:05:30,625 --> 00:05:33,725
+-Sí, y la forma de lograr eso es teniendo políticos
+
+115
+00:05:33,725 --> 00:05:36,765
+que no trabajen para sus donantes ricos
+
+116
+00:05:36,765 --> 00:05:39,355
+y que de hecho legislen en favor de protecciones a los trabajadores.
+
+117
+00:05:39,355 --> 00:05:42,215
+Esa es la única manera. Y pedírselos de manera educada no va a funcionar.
+
+118
+00:05:42,215 --> 00:05:45,455
+Sé que muchos aún creen que eso se puede hacer.
+
+119
+00:05:45,535 --> 00:05:47,835
+Tengo un amigo, muy rico.
+
+120
+00:05:47,835 --> 00:05:50,875
+Una buena persona de negocios en el medio del espectáculo.
+
+121
+00:05:51,005 --> 00:05:54,215
+Y una vez me dijo: "¿Por qúe no puede
+
+122
+00:05:54,215 --> 00:05:56,995
+el presidente simplemente sentarse con el el propietario de Nike
+
+123
+00:05:56,995 --> 00:06:00,055
+y decirle 'Tienes que comenzar a hacer tus productos en los Estados Unidos'?"
+
+124
+00:06:00,055 --> 00:06:03,225
+De verdad. Sí, ¿por qué nunca
+
+125
+00:06:03,225 --> 00:06:05,715
+se les ha ocurrido?
+
+126
+00:06:06,260 --> 00:06:07,420
+"Oh sí, es una gran idea,
+
+127
+00:06:07,740 --> 00:06:10,520
+¿por qué no lo hago de una vez?"
+
+128
+00:06:10,520 --> 00:06:13,475
+La manera de hacer eso
+
+129
+00:06:13,475 --> 00:06:16,385
+es legislando a favor de los trabajadores, dándoles
+
+130
+00:06:16,385 --> 00:06:19,505
+poder en su sitio de trabajo. Y teniendo regulaciones.
+
+131
+00:06:19,505 --> 00:06:20,505
+Castigando prácticas
+
+132
+00:06:20,845 --> 00:06:23,815
+de negocios incorrectas.
+
+133
+00:06:23,815 --> 00:06:27,135
+Dejar de darles premios cada vez
+
+134
+00:06:27,135 --> 00:06:30,105
+mandan trabajo al extranjero. No deberían ser
+
+135
+00:06:30,105 --> 00:06:33,105
+premiados por eso. Hay muchas maneras de usar al gobierno
+
+136
+00:06:33,105 --> 00:06:36,145
+para regular el mercado libre, cosa que
+
+137
+00:06:36,145 --> 00:06:39,065
+no existe realmente, los mercados están controlados
+
+138
+00:06:39,065 --> 00:06:41,995
+por personas que quieren vender con reglas que los
+
+139
+00:06:41,995 --> 00:06:44,945
+protejan a ellos. Lo que necesitamos son reglas
+
+140
+00:06:44,945 --> 00:06:48,135
+que protejan a los consumidores y a los trabajadores. Eso es lo que
+
+141
+00:06:48,135 --> 00:06:51,155
+necesitamos. Protección para los consumidores y trabajadores,
+
+142
+00:06:51,155 --> 00:06:54,635
+y esta es una buena señal de que comenzará a pasar con Uber, y es lo que
+
+143
+00:06:54,735 --> 00:06:57,765
+necesitamos que comience a pasar con Uber y Lyft en los Estados Unidos
+
+144
+00:06:57,765 --> 00:07:00,685
+también. Y tienes razón, los taxis son horribles.
+
+145
+00:07:02,085 --> 00:07:05,115
+Odio tomar taxis, huelen mal,
+
+146
+00:07:05,115 --> 00:07:08,135
+los conductores son groseros la mayor parte del tiempo.
+
+147
+00:07:08,135 --> 00:07:10,095
+Yo uso Lyft porque puedes dejar propina.
+
+148
+00:07:10,415 --> 00:07:13,475
+-Ya puedes dejar propina con Uber también.
+
+149
+00:07:13,475 --> 00:07:14,475
+-Puedes dejar propina con Uber ya.
+
+150
+00:07:15,215 --> 00:07:15,980
+-Prefiero Lyft.
+
+151
+00:07:15,980 --> 00:07:18,295
+-Yo también, pienso que son menos turbios,
+
+152
+00:07:18,295 --> 00:07:21,385
+probablemente no lo son pero así pienso,
+
+153
+00:07:21,385 --> 00:07:24,225
+así que uso Lyft y siempre dejo propina.
+
+154
+00:07:24,225 --> 00:07:27,445
+Permitieron que se dejara propina antes, así que
+
+155
+00:07:27,445 --> 00:07:30,385
+me quedo con ellos y que se joda Uber. Pero muchos conductores
+
+156
+00:07:30,385 --> 00:07:33,415
+trabajan para ambas compañías, por cierto. Así que se puede tomar
+
+157
+00:07:33,415 --> 00:07:36,345
+el servicio con ellos escogiendo Uber o Lyft y uso
+
+158
+00:07:36,345 --> 00:07:38,925
+la aplicación de Lyft porque no me agrada
+
+159
+00:07:38,925 --> 00:07:41,965
+tanto Uber.
+-Recuerdo que recientemente
+
+160
+00:07:41,965 --> 00:07:44,645
+estuvimos en Vancouver,
+
+161
+00:07:44,960 --> 00:07:47,120
+y creo que no hay Uber ahí,
+
+162
+00:07:47,760 --> 00:07:50,840
+ni Lyft, así que tomamos un taxi,
+
+163
+00:07:50,845 --> 00:07:53,295
+íbamos a tomar nuestro desayuno, nos bajamos
+
+164
+00:07:53,295 --> 00:07:54,925
+del auto, y Jimmy le iba a
+
+165
+00:07:55,235 --> 00:07:57,735
+pagar con tarjeta de crédito, y el conductor dijo: "No acepto tarjeta de crédito."
+
+166
+00:07:58,595 --> 00:08:01,455
+-Debí haberme bajado del taxi e irme.
+-Y eso es lo que haremos
+
+167
+00:08:01,455 --> 00:08:04,555
+la siguiente vez.
+-Bajarnos del auto e irnos.
+
+168
+00:08:04,555 --> 00:08:05,300
+-¿No quieres mi tarjeta de crédito? OK, me voy.
+
+169
+00:08:05,300 --> 00:08:07,765
+-Me tengo que ir. Llama a la policía, nos vemos luego.
+
+170
+00:08:07,775 --> 00:08:10,515
+-¿Y saben por qué hacen eso, no?
+-Porque estaba
+
+171
+00:08:10,515 --> 00:08:13,215
+jugando trucos.
+-Sí.
+
+172
+00:08:13,215 --> 00:08:16,365
+-Nadie quiere una confrontación, sólo quería ir por mi desayuno,
+
+173
+00:08:16,375 --> 00:08:19,615
+estaba en otro país, no quería
+
+174
+00:08:19,615 --> 00:08:22,525
+un encuentro con la policía,
+
+175
+00:08:22,525 --> 00:08:25,415
+así que encontré 10 dólares y los aventé ahí.
+
+176
+00:08:25,415 --> 00:08:28,645
+Bueno, no los aventé, los dejé ahí.
+
+177
+00:08:28,645 --> 00:08:31,315
+Y me fui.
+
+178
+00:08:31,315 --> 00:08:34,325
+-Es un truco para no pagar impuestos,
+
+179
+00:08:34,325 --> 00:08:36,835
+para evitar pagar los costos de transacción
+
+180
+00:08:36,835 --> 00:08:39,804
+de la tarjeta de crédito.
+
+181
+00:08:39,804 --> 00:08:41,664
+A veces estás
+
+182
+00:08:41,995 --> 00:08:43,255
+en otro país.
+
+183
+00:08:43,615 --> 00:08:46,605
+No tienes moneda local para pagar.
+
+184
+00:08:46,605 --> 00:08:49,285
+Por eso Uber es tan útil, no tienes que hacer nada,
+
+185
+00:08:49,285 --> 00:08:52,265
+todo lo haces con tu tarjeta de crédito
+
+186
+00:08:52,265 --> 00:08:55,115
+y puedes rastrear el pago, identificarlo
+
+187
+00:08:55,115 --> 00:08:57,375
+de entre otros cargos. Es una gran aplicación,
+
+188
+00:08:58,155 --> 00:08:59,155
+una gran idea,
+
+189
+00:08:59,235 --> 00:09:02,405
+pero dejen de hacer trampa,
+
+190
+00:09:02,535 --> 00:09:05,545
+den a los conductores un sueldo y dejen de buscar la manera
+
+191
+00:09:05,545 --> 00:09:08,645
+de evitar sus responsabilidades.
+-La única manera en que
+
+192
+00:09:08,645 --> 00:09:10,595
+eso va a ocurrir es regulándolos. Tú sabes eso.
+
+193
+00:09:11,795 --> 00:09:13,575
+ 
+
+194
+00:09:14,175 --> 00:09:17,245
+ 
+
+195
+00:09:17,245 --> 00:09:20,265
+ 
+
+196
+00:09:20,265 --> 00:00:00,000
+ 
+

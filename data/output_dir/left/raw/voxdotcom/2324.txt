@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:02,250
+to understand leap year you have<font color="#E5E5E5"> to know</font>
+
+2
+00:00:02,250 --> 00:00:06,960
+this one fact<font color="#E5E5E5"> Earth rotates 365.24 to</font>
+
+3
+00:00:06,960 --> 00:00:09,389
+one nine times<font color="#E5E5E5"> during one full orbit of</font>
+
+4
+00:00:09,389 --> 00:00:13,200
+the Sun that's right<font color="#CCCCCC"> a year is not 365</font>
+
+5
+00:00:13,200 --> 00:00:21,150
+days<font color="#CCCCCC"> its 365.2425 days</font><font color="#E5E5E5"> candor is off by</font>
+
+6
+00:00:21,150 --> 00:00:23,430
+a quarter of a day<font color="#CCCCCC"> for about six hours</font>
+
+7
+00:00:23,430 --> 00:00:26,789
+every<font color="#CCCCCC"> year it's</font><font color="#E5E5E5"> pretty annoying Julius</font>
+
+8
+00:00:26,789 --> 00:00:29,490
+<font color="#CCCCCC">Caesar thought so too back in 45</font><font color="#E5E5E5"> BC he</font>
+
+9
+00:00:29,490 --> 00:00:32,369
+came up<font color="#E5E5E5"> with a solution</font><font color="#CCCCCC"> for three</font><font color="#E5E5E5"> years</font>
+
+10
+00:00:32,369 --> 00:00:34,290
+we ignore<font color="#CCCCCC"> that extra quarter of a day</font>
+
+11
+00:00:34,290 --> 00:00:36,750
+<font color="#E5E5E5">then every four years we add those four</font>
+
+12
+00:00:36,750 --> 00:00:38,790
+quarter days back<font color="#CCCCCC"> together</font><font color="#E5E5E5"> and stick an</font>
+
+13
+00:00:38,790 --> 00:00:40,800
+extra day at the end of February
+
+14
+00:00:40,800 --> 00:00:42,960
+<font color="#E5E5E5">without that leap day the gap between</font>
+
+15
+00:00:42,960 --> 00:00:45,090
+the calendar year in the true year would
+
+16
+00:00:45,090 --> 00:00:47,399
+<font color="#E5E5E5">gradually increase</font><font color="#CCCCCC"> after a hundred</font><font color="#E5E5E5"> years</font>
+
+17
+00:00:47,399 --> 00:00:49,920
+<font color="#CCCCCC">the calendar would</font><font color="#E5E5E5"> be off by about</font><font color="#CCCCCC"> 25</font>
+
+18
+00:00:49,920 --> 00:00:52,350
+days<font color="#E5E5E5"> so why does this matter</font>
+
+19
+00:00:52,350 --> 00:00:54,030
+billions of<font color="#E5E5E5"> years</font><font color="#CCCCCC"> ago something smashed</font>
+
+20
+00:00:54,030 --> 00:00:56,760
+into Earth<font color="#E5E5E5"> and knocked its axis about 23</font>
+
+21
+00:00:56,760 --> 00:00:59,100
+degrees<font color="#CCCCCC"> and thus were born the seasons</font>
+
+22
+00:00:59,100 --> 00:01:00,840
+winter<font color="#E5E5E5"> when were tilted away from the</font>
+
+23
+00:01:00,840 --> 00:01:02,850
+Sun and summer when were tilted toward
+
+24
+00:01:02,850 --> 00:01:05,188
+it and were used to<font color="#E5E5E5"> these seasons lining</font>
+
+25
+00:01:05,188 --> 00:01:07,170
+up<font color="#CCCCCC"> with our calendar it's handy for all</font>
+
+26
+00:01:07,170 --> 00:01:09,720
+sorts of record-keeping<font color="#E5E5E5"> but without leap</font>
+
+27
+00:01:09,720 --> 00:01:11,159
+year our calendar would become
+
+28
+00:01:11,159 --> 00:01:13,530
+disconnected<font color="#E5E5E5"> from the seasons</font><font color="#CCCCCC"> after</font>
+
+29
+00:01:13,530 --> 00:01:15,270
+seven hundred years<font color="#CCCCCC"> or so</font><font color="#E5E5E5"> Christmas</font>
+
+30
+00:01:15,270 --> 00:01:16,799
+would show up in<font color="#CCCCCC"> the middle of summer</font>
+
+31
+00:01:16,799 --> 00:01:19,380
+<font color="#E5E5E5">we'd have Thanksgiving in</font><font color="#CCCCCC"> the spring st.</font>
+
+32
+00:01:19,380 --> 00:01:21,270
+Patrick's Day in the<font color="#E5E5E5"> fall and Labor Day</font>
+
+33
+00:01:21,270 --> 00:01:23,970
+<font color="#E5E5E5">in the winter chaos it's still not a</font>
+
+34
+00:01:23,970 --> 00:01:25,470
+perfect system<font color="#E5E5E5"> though leap you're</font>
+
+35
+00:01:25,470 --> 00:01:27,689
+actually<font color="#E5E5E5"> overcorrect slightly so every</font>
+
+36
+00:01:27,689 --> 00:01:29,880
+hundred years we skip a leap day<font color="#CCCCCC"> but</font>
+
+37
+00:01:29,880 --> 00:01:31,350
+that puts the calendar slightly behind
+
+38
+00:01:31,350 --> 00:01:34,140
+<font color="#E5E5E5">again so we skip skipping leap day every</font>
+
+39
+00:01:34,140 --> 00:01:36,090
+<font color="#CCCCCC">four hundred</font><font color="#E5E5E5"> years and even still after</font>
+
+40
+00:01:36,090 --> 00:01:38,490
+<font color="#CCCCCC">a few thousand</font><font color="#E5E5E5"> years we'll be off again</font>
+
+41
+00:01:38,490 --> 00:01:41,150
+by a day
+
+42
+00:01:49,670 --> 00:00:00,000
+you
+

@@ -1,0 +1,508 @@
+1
+00:00:00,000 --> 00:00:02,790
+Facebook has made<font color="#E5E5E5"> itself so necessary to</font>
+
+2
+00:00:02,790 --> 00:00:04,680
+<font color="#E5E5E5">the online</font><font color="#CCCCCC"> experience that for</font><font color="#E5E5E5"> many</font>
+
+3
+00:00:04,680 --> 00:00:07,620
+people<font color="#CCCCCC"> it is the Internet and that's</font>
+
+4
+00:00:07,620 --> 00:00:09,570
+<font color="#CCCCCC">causing</font><font color="#E5E5E5"> some major problems when it</font>
+
+5
+00:00:09,570 --> 00:00:12,389
+<font color="#E5E5E5">comes to user data</font><font color="#CCCCCC"> and security you can</font>
+
+6
+00:00:12,389 --> 00:00:14,280
+trace a<font color="#E5E5E5"> lot of these problems to a</font>
+
+7
+00:00:14,280 --> 00:00:18,980
+phenomenon called<font color="#CCCCCC"> the</font><font color="#E5E5E5"> network effect</font><font color="#CCCCCC"> I</font>
+
+8
+00:00:20,660 --> 00:00:22,529
+think the first time I<font color="#E5E5E5"> ever</font><font color="#CCCCCC"> read about</font>
+
+9
+00:00:22,529 --> 00:00:24,090
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> they were talking about fax machine</font>
+
+10
+00:00:24,090 --> 00:00:28,800
+<font color="#E5E5E5">right the first fax machine is invented</font>
+
+11
+00:00:28,800 --> 00:00:34,200
+<font color="#CCCCCC">it's totally useless</font><font color="#E5E5E5"> but the more people</font>
+
+12
+00:00:34,200 --> 00:00:36,450
+<font color="#CCCCCC">who have it the more useful it</font><font color="#E5E5E5"> becomes</font>
+
+13
+00:00:36,450 --> 00:00:37,980
+because you can communicate<font color="#CCCCCC"> with other</font>
+
+14
+00:00:37,980 --> 00:00:40,309
+<font color="#E5E5E5">people</font>
+
+15
+00:00:41,809 --> 00:00:45,570
+Facebook is<font color="#E5E5E5"> network effect on steroids</font>
+
+16
+00:00:45,570 --> 00:00:47,700
+it's an event calendar a contact book<font color="#E5E5E5"> a</font>
+
+17
+00:00:47,700 --> 00:00:50,160
+photo<font color="#E5E5E5"> album it's a texting video calling</font>
+
+18
+00:00:50,160 --> 00:00:52,110
+money transferring social network that
+
+19
+00:00:52,110 --> 00:00:54,870
+<font color="#CCCCCC">makes</font><font color="#E5E5E5"> millions of</font><font color="#CCCCCC"> dollars a</font><font color="#E5E5E5"> day million</font>
+
+20
+00:00:54,870 --> 00:00:56,190
+dollars isn't cool<font color="#CCCCCC"> you know it's cool</font>
+
+21
+00:00:56,190 --> 00:00:59,160
+<font color="#CCCCCC">two billion</font><font color="#E5E5E5"> people</font><font color="#CCCCCC"> and at that size the</font>
+
+22
+00:00:59,160 --> 00:01:00,899
+network<font color="#CCCCCC"> effects push Facebook beyond</font>
+
+23
+00:01:00,899 --> 00:01:04,110
+useful<font color="#E5E5E5"> to pretty much being integral to</font>
+
+24
+00:01:04,110 --> 00:01:06,750
+daily life<font color="#E5E5E5"> it's actually</font><font color="#CCCCCC"> you personally</font>
+
+25
+00:01:06,750 --> 00:01:08,700
+would miss stuff<font color="#E5E5E5"> if you went on</font><font color="#CCCCCC"> Facebook</font>
+
+26
+00:01:08,700 --> 00:01:10,890
+but it would almost be<font color="#E5E5E5"> rude right it</font>
+
+27
+00:01:10,890 --> 00:01:14,189
+could be an inconvenience<font color="#E5E5E5"> to your peers</font>
+
+28
+00:01:14,189 --> 00:01:16,500
+<font color="#E5E5E5">for you to not be on Facebook because</font>
+
+29
+00:01:16,500 --> 00:01:18,390
+<font color="#E5E5E5">then they couldn't invite you to things</font>
+
+30
+00:01:18,390 --> 00:01:20,280
+<font color="#E5E5E5">that way so you create a problem for</font>
+
+31
+00:01:20,280 --> 00:01:21,840
+<font color="#CCCCCC">yourself</font><font color="#E5E5E5"> and you create a problem for</font>
+
+32
+00:01:21,840 --> 00:01:24,810
+<font color="#E5E5E5">other people by opting out of it this</font>
+
+33
+00:01:24,810 --> 00:01:26,939
+FOMO is<font color="#E5E5E5"> how Facebook turns the network</font>
+
+34
+00:01:26,939 --> 00:01:29,640
+effect into profit<font color="#E5E5E5"> even</font><font color="#CCCCCC"> though no one</font>
+
+35
+00:01:29,640 --> 00:01:31,770
+pays to use the core service but
+
+36
+00:01:31,770 --> 00:01:33,840
+advertisers marketers and other folks
+
+37
+00:01:33,840 --> 00:01:36,570
+will pay for access<font color="#CCCCCC"> to that user data</font>
+
+38
+00:01:36,570 --> 00:01:38,700
+<font color="#E5E5E5">and because users feel that the free</font>
+
+39
+00:01:38,700 --> 00:01:41,460
+core service is so beneficial they agree
+
+40
+00:01:41,460 --> 00:01:44,630
+<font color="#CCCCCC">to pay in a sense by providing</font><font color="#E5E5E5"> that data</font>
+
+41
+00:01:44,630 --> 00:01:47,549
+<font color="#CCCCCC">yeah</font><font color="#E5E5E5"> read those</font><font color="#CCCCCC"> Terms of Service</font>
+
+42
+00:01:47,549 --> 00:01:49,740
+<font color="#E5E5E5">what happened with Cambridge analytical</font>
+
+43
+00:01:49,740 --> 00:01:51,720
+<font color="#CCCCCC">estates how our personal boundaries for</font>
+
+44
+00:01:51,720 --> 00:01:54,119
+using that<font color="#E5E5E5"> data in the real world are</font>
+
+45
+00:01:54,119 --> 00:01:56,759
+being<font color="#E5E5E5"> tested the consulting firm hired</font>
+
+46
+00:01:56,759 --> 00:01:58,770
+<font color="#E5E5E5">by the Trump campaign for the 2016</font>
+
+47
+00:01:58,770 --> 00:02:01,469
+election<font color="#E5E5E5"> exploited access to the data</font><font color="#CCCCCC"> of</font>
+
+48
+00:02:01,469 --> 00:02:03,659
+millions of Facebook<font color="#CCCCCC"> users</font>
+
+49
+00:02:03,659 --> 00:02:06,600
+now<font color="#CCCCCC"> Facebook allows academic researchers</font>
+
+50
+00:02:06,600 --> 00:02:08,758
+more access<font color="#CCCCCC"> to user data than commercial</font>
+
+51
+00:02:08,758 --> 00:02:11,580
+<font color="#E5E5E5">companies and app developers so a</font>
+
+52
+00:02:11,580 --> 00:02:14,099
+researcher built<font color="#E5E5E5"> this personality quiz</font>
+
+53
+00:02:14,099 --> 00:02:16,980
+app under those<font color="#E5E5E5"> guidelines</font><font color="#CCCCCC"> people used</font>
+
+54
+00:02:16,980 --> 00:02:19,950
+it and in doing<font color="#CCCCCC"> so allowed it to harvest</font>
+
+55
+00:02:19,950 --> 00:02:23,400
+data from their<font color="#CCCCCC"> Facebook profiles but no</font>
+
+56
+00:02:23,400 --> 00:02:24,650
+one really<font color="#E5E5E5"> read the Terms of Service</font>
+
+57
+00:02:24,650 --> 00:02:27,180
+<font color="#E5E5E5">because it also gave the app access to</font>
+
+58
+00:02:27,180 --> 00:02:29,160
+some data on the<font color="#CCCCCC"> friends of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> people B</font>
+
+59
+00:02:29,160 --> 00:02:32,010
+took the quiz these are<font color="#E5E5E5"> friends who did</font>
+
+60
+00:02:32,010 --> 00:02:34,410
+not directly consent to the terms of<font color="#E5E5E5"> the</font>
+
+61
+00:02:34,410 --> 00:02:37,920
+app<font color="#E5E5E5"> only</font><font color="#CCCCCC"> 270</font><font color="#E5E5E5"> thousand</font><font color="#CCCCCC"> people took the</font>
+
+62
+00:02:37,920 --> 00:02:40,500
+quiz<font color="#E5E5E5"> but by Facebook's latest estimate</font>
+
+63
+00:02:40,500 --> 00:02:42,750
+the app was able to<font color="#E5E5E5"> harvest the data of</font>
+
+64
+00:02:42,750 --> 00:02:46,290
+at least<font color="#E5E5E5"> 87 million users here's the</font>
+
+65
+00:02:46,290 --> 00:02:48,660
+kicker<font color="#CCCCCC"> this was all aboveboard</font>
+
+66
+00:02:48,660 --> 00:02:50,970
+the data collection<font color="#CCCCCC"> didn't violate any</font>
+
+67
+00:02:50,970 --> 00:02:54,420
+<font color="#E5E5E5">rules but what wasn't allowed was</font>
+
+68
+00:02:54,420 --> 00:02:57,000
+handing over that data collected for
+
+69
+00:02:57,000 --> 00:02:58,890
+research purposes to Cambridge
+
+70
+00:02:58,890 --> 00:03:01,049
+<font color="#E5E5E5">analytical and when it came out</font><font color="#CCCCCC"> that</font>
+
+71
+00:03:01,049 --> 00:03:03,959
+<font color="#CCCCCC">Cambridge used</font><font color="#E5E5E5"> all this data to</font><font color="#CCCCCC"> develop</font>
+
+72
+00:03:03,959 --> 00:03:05,819
+techniques to target voters<font color="#E5E5E5"> during the</font>
+
+73
+00:03:05,819 --> 00:03:09,200
+2016<font color="#E5E5E5"> election people were not</font><font color="#CCCCCC"> happy and</font>
+
+74
+00:03:09,200 --> 00:03:11,940
+users wanted to know why<font color="#CCCCCC"> Facebook was</font>
+
+75
+00:03:11,940 --> 00:03:13,739
+allowed to<font color="#E5E5E5"> do this when you have</font>
+
+76
+00:03:13,739 --> 00:03:15,660
+<font color="#E5E5E5">executives saying it's our</font>
+
+77
+00:03:15,660 --> 00:03:18,480
+responsibility to<font color="#E5E5E5"> do X a good question</font>
+
+78
+00:03:18,480 --> 00:03:20,970
+to ask<font color="#E5E5E5"> is like in what sense is it your</font>
+
+79
+00:03:20,970 --> 00:03:23,130
+responsibility<font color="#CCCCCC"> is it</font><font color="#E5E5E5"> your legal</font>
+
+80
+00:03:23,130 --> 00:03:25,290
+<font color="#E5E5E5">responsibility</font><font color="#CCCCCC"> are you</font><font color="#E5E5E5"> just saying you</font>
+
+81
+00:03:25,290 --> 00:03:27,000
+know you'll feel bad<font color="#E5E5E5"> the situation with</font>
+
+82
+00:03:27,000 --> 00:03:29,819
+Facebook is unique in<font color="#CCCCCC"> that there are no</font>
+
+83
+00:03:29,819 --> 00:03:33,269
+legal responsibilities at all<font color="#E5E5E5"> which is</font>
+
+84
+00:03:33,269 --> 00:03:35,130
+<font color="#CCCCCC">different from</font><font color="#E5E5E5"> financial</font><font color="#CCCCCC"> institutions</font>
+
+85
+00:03:35,130 --> 00:03:37,620
+medical records other kinds of<font color="#E5E5E5"> things</font>
+
+86
+00:03:37,620 --> 00:03:38,190
+<font color="#E5E5E5">like that</font>
+
+87
+00:03:38,190 --> 00:03:40,079
+even though angering its users might
+
+88
+00:03:40,079 --> 00:03:42,569
+seem bad for<font color="#CCCCCC"> business</font><font color="#E5E5E5"> Facebook isn't</font>
+
+89
+00:03:42,569 --> 00:03:44,579
+<font color="#E5E5E5">doing anything unexpected here in</font>
+
+90
+00:03:44,579 --> 00:03:47,400
+regards<font color="#CCCCCC"> to your data</font><font color="#E5E5E5"> because the ants</font>
+
+91
+00:03:47,400 --> 00:03:48,690
+and<font color="#E5E5E5"> high school friends and work</font>
+
+92
+00:03:48,690 --> 00:03:50,910
+acquaintances on Facebook<font color="#E5E5E5"> are just the</font>
+
+93
+00:03:50,910 --> 00:03:53,819
+users<font color="#CCCCCC"> of the platform</font><font color="#E5E5E5"> they're also</font><font color="#CCCCCC"> the</font>
+
+94
+00:03:53,819 --> 00:03:56,549
+product<font color="#E5E5E5"> and Facebook</font><font color="#CCCCCC"> sells that product</font>
+
+95
+00:03:56,549 --> 00:03:58,560
+access<font color="#E5E5E5"> to all of that data to</font>
+
+96
+00:03:58,560 --> 00:04:00,780
+advertisers<font color="#E5E5E5"> who want</font><font color="#CCCCCC"> information about</font>
+
+97
+00:04:00,780 --> 00:04:02,790
+potential<font color="#E5E5E5"> customers which is how</font>
+
+98
+00:04:02,790 --> 00:04:05,370
+Facebook<font color="#CCCCCC"> makes millions daily without</font>
+
+99
+00:04:05,370 --> 00:04:07,560
+charging you<font color="#CCCCCC"> to use it when you look at</font>
+
+100
+00:04:07,560 --> 00:04:09,930
+it this way<font color="#E5E5E5"> Facebook is very very</font>
+
+101
+00:04:09,930 --> 00:04:11,760
+what it does you make the people
+
+102
+00:04:11,760 --> 00:04:13,799
+<font color="#E5E5E5">spending the most time on it don't</font>
+
+103
+00:04:13,799 --> 00:04:15,810
+<font color="#E5E5E5">actually like it that much</font><font color="#CCCCCC"> and that's</font>
+
+104
+00:04:15,810 --> 00:04:17,608
+<font color="#CCCCCC">why I think it's important</font><font color="#E5E5E5"> to see that</font>
+
+105
+00:04:17,608 --> 00:04:21,120
+<font color="#E5E5E5">as far</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> we can tell from the research</font>
+
+106
+00:04:21,120 --> 00:04:24,300
+that's available<font color="#CCCCCC"> Facebook is not really</font>
+
+107
+00:04:24,300 --> 00:04:27,090
+good for<font color="#CCCCCC"> its customers it makes people</font>
+
+108
+00:04:27,090 --> 00:04:30,000
+<font color="#E5E5E5">feel lonely and depressed</font>
+
+109
+00:04:30,000 --> 00:04:31,800
+<font color="#CCCCCC">Matt's referring to this study by the</font>
+
+110
+00:04:31,800 --> 00:04:34,139
+University of<font color="#E5E5E5"> Copenhagen</font><font color="#CCCCCC"> it compared how</font>
+
+111
+00:04:34,139 --> 00:04:35,880
+participants self-reported various
+
+112
+00:04:35,880 --> 00:04:38,009
+emotions before<font color="#E5E5E5"> and after quitting</font>
+
+113
+00:04:38,009 --> 00:04:40,199
+Facebook for a week it's a good reminder
+
+114
+00:04:40,199 --> 00:04:42,120
+<font color="#CCCCCC">that while Facebook does exist to do</font>
+
+115
+00:04:42,120 --> 00:04:43,919
+things like connect you with<font color="#E5E5E5"> friends and</font>
+
+116
+00:04:43,919 --> 00:04:46,110
+help you find events<font color="#E5E5E5"> that's secondary to</font>
+
+117
+00:04:46,110 --> 00:04:48,150
+<font color="#E5E5E5">the platform's business goal of mining</font>
+
+118
+00:04:48,150 --> 00:04:51,120
+your data<font color="#E5E5E5"> put another way Facebook only</font>
+
+119
+00:04:51,120 --> 00:04:53,910
+cares that you're using Facebook<font color="#E5E5E5"> not</font>
+
+120
+00:04:53,910 --> 00:04:56,910
+whether you<font color="#E5E5E5"> like to</font><font color="#CCCCCC"> use Facebook which</font>
+
+121
+00:04:56,910 --> 00:04:58,979
+is<font color="#CCCCCC"> why the main selling point is that</font>
+
+122
+00:04:58,979 --> 00:05:02,460
+everyone<font color="#E5E5E5"> is on Facebook because</font><font color="#CCCCCC"> at</font>
+
+123
+00:05:02,460 --> 00:05:05,669
+roughly<font color="#CCCCCC"> 2 billion</font><font color="#E5E5E5"> users those</font><font color="#CCCCCC"> network</font>
+
+124
+00:05:05,669 --> 00:05:07,880
+<font color="#E5E5E5">effects likely aren't going anywhere</font><font color="#CCCCCC"> and</font>
+
+125
+00:05:07,880 --> 00:05:11,070
+whether you<font color="#E5E5E5"> like them or not</font><font color="#CCCCCC"> you</font>
+
+126
+00:05:11,070 --> 00:05:14,419
+<font color="#E5E5E5">probably aren't going</font><font color="#CCCCCC"> anywhere</font><font color="#E5E5E5"> either</font>
+
+127
+00:05:24,990 --> 00:00:00,000
+you
+

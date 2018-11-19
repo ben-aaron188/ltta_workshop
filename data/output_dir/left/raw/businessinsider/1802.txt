@@ -1,0 +1,284 @@
+1
+00:00:12,230 --> 00:00:14,820
+the goal of<font color="#CCCCCC"> having lighthouse is to give</font>
+
+2
+00:00:14,820 --> 00:00:17,190
+us a space where<font color="#CCCCCC"> we</font><font color="#E5E5E5"> can put the</font><font color="#CCCCCC"> best</font>
+
+3
+00:00:17,190 --> 00:00:19,170
+product people<font color="#E5E5E5"> the best designers</font><font color="#CCCCCC"> the</font>
+
+4
+00:00:19,170 --> 00:00:21,000
+best developers the best engineers and
+
+5
+00:00:21,000 --> 00:00:23,340
+the best modern manufacturing equipment
+
+6
+00:00:23,340 --> 00:00:25,019
+<font color="#CCCCCC">all in</font><font color="#E5E5E5"> one place</font>
+
+7
+00:00:25,019 --> 00:00:27,359
+so we can actually<font color="#CCCCCC"> improve the processes</font>
+
+8
+00:00:27,359 --> 00:00:29,580
+and ultimately the product<font color="#E5E5E5"> that people</font>
+
+9
+00:00:29,580 --> 00:00:31,859
+see<font color="#E5E5E5"> so we can make the most advanced</font>
+
+10
+00:00:31,859 --> 00:00:34,469
+most innovative and best product that's
+
+11
+00:00:34,469 --> 00:00:36,270
+ever been made<font color="#E5E5E5"> so welcome to the</font>
+
+12
+00:00:36,270 --> 00:00:43,590
+lighthouse behind me we have<font color="#CCCCCC"> our</font>
+
+13
+00:00:43,590 --> 00:00:46,170
+<font color="#E5E5E5">automated cement line and this cement</font>
+
+14
+00:00:46,170 --> 00:00:49,170
+line has a robot<font color="#CCCCCC"> that is automatically</font>
+
+15
+00:00:49,170 --> 00:00:52,050
+programmed<font color="#CCCCCC"> based on any size midsole</font>
+
+16
+00:00:52,050 --> 00:00:55,350
+that I place on<font color="#E5E5E5"> this belt</font><font color="#CCCCCC"> to clean prime</font>
+
+17
+00:00:55,350 --> 00:00:58,680
+<font color="#E5E5E5">and cement in a matter of seconds every</font>
+
+18
+00:00:58,680 --> 00:01:00,949
+midsole that's placed on this belt<font color="#CCCCCC"> and</font>
+
+19
+00:01:00,949 --> 00:01:03,539
+once that<font color="#E5E5E5"> is complete now we're ready</font>
+
+20
+00:01:03,539 --> 00:01:05,820
+for the upper to be placed<font color="#CCCCCC"> onto the</font>
+
+21
+00:01:05,820 --> 00:01:08,460
+<font color="#CCCCCC">midsole</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> the process is complete the</font>
+
+22
+00:01:08,460 --> 00:01:10,860
+<font color="#E5E5E5">production setup would do</font><font color="#CCCCCC"> 2,400 pairs in</font>
+
+23
+00:01:10,860 --> 00:01:11,520
+<font color="#E5E5E5">8 hours</font>
+
+24
+00:01:11,520 --> 00:01:14,790
+in today's process in Asia<font color="#CCCCCC"> that would be</font>
+
+25
+00:01:14,790 --> 00:01:16,439
+the equivalent of<font color="#E5E5E5"> 200 people to</font>
+
+26
+00:01:16,439 --> 00:01:20,750
+<font color="#E5E5E5">accomplish that same quantity</font><font color="#CCCCCC"> of shoes</font>
+
+27
+00:01:21,090 --> 00:01:23,680
+this is our 3d<font color="#E5E5E5"> body scanner this is</font>
+
+28
+00:01:23,680 --> 00:01:25,210
+technology<font color="#CCCCCC"> that was adapted from the</font>
+
+29
+00:01:25,210 --> 00:01:28,510
+medical industry and this scanner has 54
+
+30
+00:01:28,510 --> 00:01:30,430
+cameras that capture<font color="#E5E5E5"> seven frames a</font>
+
+31
+00:01:30,430 --> 00:01:33,520
+second<font color="#E5E5E5"> and allows</font><font color="#CCCCCC"> us</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> capture both</font><font color="#E5E5E5"> the</font>
+
+32
+00:01:33,520 --> 00:01:35,890
+<font color="#E5E5E5">volumetric the angular and the linear</font>
+
+33
+00:01:35,890 --> 00:01:38,770
+data on all of<font color="#E5E5E5"> our athletes and it</font>
+
+34
+00:01:38,770 --> 00:01:40,480
+creates an avatar<font color="#CCCCCC"> that allows our</font>
+
+35
+00:01:40,480 --> 00:01:43,540
+designers to design<font color="#E5E5E5"> in 3d</font><font color="#CCCCCC"> and so we will</font>
+
+36
+00:01:43,540 --> 00:01:45,310
+be<font color="#CCCCCC"> able</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> create and understand how</font>
+
+37
+00:01:45,310 --> 00:01:49,120
+their bodies are<font color="#CCCCCC"> shaped and also not</font>
+
+38
+00:01:49,120 --> 00:01:51,970
+<font color="#E5E5E5">just in instill but also in motion which</font>
+
+39
+00:01:51,970 --> 00:01:53,470
+will allow designers to understand how
+
+40
+00:01:53,470 --> 00:01:55,840
+the fabric is draped<font color="#E5E5E5"> on them as they</font>
+
+41
+00:01:55,840 --> 00:01:57,990
+perform the actual<font color="#CCCCCC"> motion</font><font color="#E5E5E5"> of their sport</font>
+
+42
+00:01:57,990 --> 00:02:00,160
+this<font color="#E5E5E5"> is our prototyping area this is</font>
+
+43
+00:02:00,160 --> 00:02:01,600
+<font color="#E5E5E5">where our designers working with our</font>
+
+44
+00:02:01,600 --> 00:02:04,230
+technicians working<font color="#E5E5E5"> to develop the</font><font color="#CCCCCC"> next</font>
+
+45
+00:02:04,230 --> 00:02:07,420
+<font color="#E5E5E5">processes we have four cells in here we</font>
+
+46
+00:02:07,420 --> 00:02:11,530
+have a so free cell we<font color="#E5E5E5"> have a</font><font color="#CCCCCC"> knit and</font>
+
+47
+00:02:11,530 --> 00:02:12,640
+<font color="#CCCCCC">woven's</font>
+
+48
+00:02:12,640 --> 00:02:15,010
+cell<font color="#E5E5E5"> and then we have a broad intimate</font>
+
+49
+00:02:15,010 --> 00:02:19,000
+cell back here the unreleased<font color="#CCCCCC"> product</font>
+
+50
+00:02:19,000 --> 00:02:21,340
+<font color="#E5E5E5">that I'm most excited about</font><font color="#CCCCCC"> are always</font>
+
+51
+00:02:21,340 --> 00:02:23,590
+the ones that are<font color="#E5E5E5"> going to take us to</font>
+
+52
+00:02:23,590 --> 00:02:25,720
+<font color="#E5E5E5">another level where nobody else's is</font>
+
+53
+00:02:25,720 --> 00:02:27,310
+really playing but I think<font color="#CCCCCC"> we have a</font>
+
+54
+00:02:27,310 --> 00:02:29,170
+number<font color="#E5E5E5"> of</font><font color="#CCCCCC"> things across footwear apparel</font>
+
+55
+00:02:29,170 --> 00:02:32,200
+and accessories<font color="#CCCCCC"> that are really going to</font>
+
+56
+00:02:32,200 --> 00:02:34,450
+<font color="#E5E5E5">change</font><font color="#CCCCCC"> the game</font><font color="#E5E5E5"> as it relates to the</font>
+
+57
+00:02:34,450 --> 00:02:36,280
+consumer and the consumer benefit of
+
+58
+00:02:36,280 --> 00:02:38,020
+<font color="#CCCCCC">that innovation</font><font color="#E5E5E5"> and that's really what</font>
+
+59
+00:02:38,020 --> 00:02:39,730
+we love is like it's great to give
+
+60
+00:02:39,730 --> 00:02:40,930
+somebody something that they<font color="#E5E5E5"> love</font>
+
+61
+00:02:40,930 --> 00:02:42,820
+because<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the way it looks</font><font color="#CCCCCC"> it's even</font>
+
+62
+00:02:42,820 --> 00:02:44,590
+better if we<font color="#E5E5E5"> can give</font><font color="#CCCCCC"> them both it's</font>
+
+63
+00:02:44,590 --> 00:02:45,880
+something that looks beautiful<font color="#E5E5E5"> that</font>
+
+64
+00:02:45,880 --> 00:02:47,320
+they'll buy just because<font color="#CCCCCC"> it looks so</font>
+
+65
+00:02:47,320 --> 00:02:49,360
+<font color="#CCCCCC">beautiful with the way it performs</font>
+
+66
+00:02:49,360 --> 00:02:51,430
+actually allows them<font color="#E5E5E5"> to feel the</font>
+
+67
+00:02:51,430 --> 00:02:53,530
+difference<font color="#CCCCCC"> in that</font><font color="#E5E5E5"> innovation and that's</font>
+
+68
+00:02:53,530 --> 00:02:55,900
+what we call consumer valued innovation
+
+69
+00:02:55,900 --> 00:02:57,370
+that's what we<font color="#E5E5E5"> always strive for and</font>
+
+70
+00:02:57,370 --> 00:02:58,720
+we've got a<font color="#E5E5E5"> number of</font><font color="#CCCCCC"> things coming</font><font color="#E5E5E5"> that</font>
+
+71
+00:02:58,720 --> 00:00:00,000
+we're really<font color="#E5E5E5"> excited about there</font>
+

@@ -1,0 +1,124 @@
+1
+00:00:04,210 --> 00:00:07,939
+if<font color="#CCCCCC"> you're an iPhone iPad or Mac device</font>
+
+2
+00:00:07,939 --> 00:00:10,250
+then<font color="#E5E5E5"> you need to use iCloud</font><font color="#CCCCCC"> Apple's</font>
+
+3
+00:00:10,250 --> 00:00:11,929
+cloud storage service what does that
+
+4
+00:00:11,929 --> 00:00:14,980
+mean you can backup your<font color="#E5E5E5"> photos videos</font>
+
+5
+00:00:14,980 --> 00:00:19,160
+<font color="#E5E5E5">messages contacts and more and</font>
+
+6
+00:00:19,160 --> 00:00:21,080
+seamlessly sync them all together
+
+7
+00:00:21,080 --> 00:00:23,330
+<font color="#E5E5E5">amongst</font><font color="#CCCCCC"> your Apple devices each iCloud</font>
+
+8
+00:00:23,330 --> 00:00:24,769
+account comes with<font color="#CCCCCC"> five gigabytes of</font>
+
+9
+00:00:24,769 --> 00:00:26,480
+free storage<font color="#E5E5E5"> and you can purchase up to</font>
+
+10
+00:00:26,480 --> 00:00:28,820
+<font color="#CCCCCC">50</font><font color="#E5E5E5"> gigabytes I've had an iPhone owners</font>
+
+11
+00:00:28,820 --> 00:00:31,220
+need to<font color="#CCCCCC"> be</font><font color="#E5E5E5"> running iOS 5 or later</font><font color="#CCCCCC"> all</font>
+
+12
+00:00:31,220 --> 00:00:33,650
+you have<font color="#E5E5E5"> to do is go to settings scroll</font>
+
+13
+00:00:33,650 --> 00:00:37,129
+down to<font color="#CCCCCC"> iCloud and then log in with your</font>
+
+14
+00:00:37,129 --> 00:00:39,860
+<font color="#E5E5E5">Apple</font><font color="#CCCCCC"> locking Mac</font><font color="#E5E5E5"> users need</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be</font>
+
+15
+00:00:39,860 --> 00:00:44,239
+running OS X 10.7 point<font color="#E5E5E5"> 2 or later you</font>
+
+16
+00:00:44,239 --> 00:00:46,070
+can access iCloud<font color="#E5E5E5"> by</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to System</font>
+
+17
+00:00:46,070 --> 00:00:48,829
+Preferences<font color="#CCCCCC"> and choosing PI cloud</font><font color="#E5E5E5"> under</font>
+
+18
+00:00:48,829 --> 00:00:50,739
+the internet and wireless category
+
+19
+00:00:50,739 --> 00:00:53,000
+you'll be asked to<font color="#E5E5E5"> sign</font><font color="#CCCCCC"> in using your</font>
+
+20
+00:00:53,000 --> 00:00:55,430
+<font color="#CCCCCC">Apple ID</font><font color="#E5E5E5"> from there you can choose what</font>
+
+21
+00:00:55,430 --> 00:00:57,770
+<font color="#CCCCCC">you want</font><font color="#E5E5E5"> to sync across your devices</font><font color="#CCCCCC"> now</font>
+
+22
+00:00:57,770 --> 00:00:59,180
+let's take a look<font color="#CCCCCC"> at how</font><font color="#E5E5E5"> will photo can</font>
+
+23
+00:00:59,180 --> 00:01:00,739
+<font color="#E5E5E5">be shared between your devices over</font>
+
+24
+00:01:00,739 --> 00:01:01,609
+iCloud
+
+25
+00:01:01,609 --> 00:01:03,320
+first you<font color="#E5E5E5"> need</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> make sure</font><font color="#CCCCCC"> that your</font>
+
+26
+00:01:03,320 --> 00:01:06,140
+photo stream<font color="#E5E5E5"> is enabled</font><font color="#CCCCCC"> to do this</font><font color="#E5E5E5"> open</font>
+
+27
+00:01:06,140 --> 00:01:08,810
+<font color="#CCCCCC">iphone app then go to the iPhoto menu</font>
+
+28
+00:01:08,810 --> 00:01:11,840
+and choose preferences click<font color="#E5E5E5"> photo</font>
+
+29
+00:01:11,840 --> 00:01:15,950
+stream and automatic upload boxes<font color="#E5E5E5"> now we</font>
+
+30
+00:01:15,950 --> 00:01:17,780
+can take a photo<font color="#E5E5E5"> with our iPhone and</font>
+
+31
+00:01:17,780 --> 00:00:00,000
+view it on all of<font color="#CCCCCC"> our devices</font>
+

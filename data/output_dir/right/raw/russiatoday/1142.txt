@@ -1,0 +1,252 @@
+1
+00:00:00,000 --> 00:00:02,850
+brand new report by<font color="#CCCCCC"> online new site the</font>
+
+2
+00:00:02,850 --> 00:00:05,009
+<font color="#E5E5E5">intercept sheds light on the alleged</font>
+
+3
+00:00:05,009 --> 00:00:07,200
+collaboration between American telecom
+
+4
+00:00:07,200 --> 00:00:10,769
+giant AT&T and the<font color="#CCCCCC"> US spy agency the NSA</font>
+
+5
+00:00:10,769 --> 00:00:13,830
+which enabled mass snooping on private
+
+6
+00:00:13,830 --> 00:00:16,650
+emails and telephone calls apparently
+
+7
+00:00:16,650 --> 00:00:18,539
+eight of the phone company's buildings
+
+8
+00:00:18,539 --> 00:00:21,510
+across major US cities are being<font color="#E5E5E5"> used by</font>
+
+9
+00:00:21,510 --> 00:00:24,320
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> NSA</font><font color="#CCCCCC"> for its</font><font color="#E5E5E5"> surveillance activities</font>
+
+10
+00:00:24,320 --> 00:00:26,849
+according to<font color="#E5E5E5"> the report the agency</font>
+
+11
+00:00:26,849 --> 00:00:29,220
+collects a large amount of AT&T<font color="#E5E5E5"> customer</font>
+
+12
+00:00:29,220 --> 00:00:31,320
+<font color="#CCCCCC">traffic with the data being trolled</font>
+
+13
+00:00:31,320 --> 00:00:34,079
+<font color="#E5E5E5">every day as evidence for</font><font color="#CCCCCC"> the alleged</font>
+
+14
+00:00:34,079 --> 00:00:36,450
+collaboration it presents<font color="#E5E5E5"> classified NSA</font>
+
+15
+00:00:36,450 --> 00:00:38,610
+documents public records and<font color="#E5E5E5"> even</font>
+
+16
+00:00:38,610 --> 00:00:43,079
+interviews with<font color="#E5E5E5"> a DNC staff</font><font color="#CCCCCC"> well another</font>
+
+17
+00:00:43,079 --> 00:00:44,700
+<font color="#E5E5E5">intercept report about the alleged</font>
+
+18
+00:00:44,700 --> 00:00:47,280
+collaboration was released in 2016<font color="#CCCCCC"> this</font>
+
+19
+00:00:47,280 --> 00:00:50,010
+<font color="#E5E5E5">concern the Titan</font><font color="#CCCCCC"> Point building</font><font color="#E5E5E5"> the</font>
+
+20
+00:00:50,010 --> 00:00:51,960
+skyscraper with<font color="#E5E5E5"> heavily restricted</font>
+
+21
+00:00:51,960 --> 00:00:53,969
+access that's able<font color="#CCCCCC"> to withstand an</font>
+
+22
+00:00:53,969 --> 00:00:57,420
+atomic<font color="#E5E5E5"> blast</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> in a TNC facility but</font>
+
+23
+00:00:57,420 --> 00:00:59,190
+was<font color="#E5E5E5"> reportedly used as one of the main</font>
+
+24
+00:00:59,190 --> 00:01:00,719
+centers<font color="#E5E5E5"> of the NSA's surveillance</font>
+
+25
+00:01:00,719 --> 00:01:03,750
+program<font color="#E5E5E5"> and former NSA technical</font>
+
+26
+00:01:03,750 --> 00:01:06,119
+<font color="#E5E5E5">director and now whistleblower William</font>
+
+27
+00:01:06,119 --> 00:01:08,340
+<font color="#CCCCCC">Benny things that are such spying does</font>
+
+28
+00:01:08,340 --> 00:01:11,640
+in<font color="#E5E5E5"> fact violate the law the agency can</font>
+
+29
+00:01:11,640 --> 00:01:13,710
+neither confirm nor deny its<font color="#CCCCCC"> role in</font>
+
+30
+00:01:13,710 --> 00:01:15,180
+alleged classified intelligence
+
+31
+00:01:15,180 --> 00:01:18,869
+activities what AT&T calls peering<font color="#CCCCCC"> sites</font>
+
+32
+00:01:18,869 --> 00:01:21,180
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> eight-eight peering sites inside</font><font color="#E5E5E5"> the</font>
+
+33
+00:01:21,180 --> 00:01:23,990
+<font color="#E5E5E5">United</font><font color="#CCCCCC"> States</font><font color="#E5E5E5"> at AT&T has those are</font>
+
+34
+00:01:23,990 --> 00:01:26,040
+peering sites there were the sites where
+
+35
+00:01:26,040 --> 00:01:27,600
+they have the multi networks come
+
+36
+00:01:27,600 --> 00:01:30,450
+together and they they put<font color="#E5E5E5"> together you</font>
+
+37
+00:01:30,450 --> 00:01:32,070
+know<font color="#E5E5E5"> border gate protocols between one</font>
+
+38
+00:01:32,070 --> 00:01:33,540
+another<font color="#CCCCCC"> so they</font><font color="#E5E5E5"> can transfer</font><font color="#CCCCCC"> data</font>
+
+39
+00:01:33,540 --> 00:01:35,520
+between<font color="#E5E5E5"> each network and the real</font><font color="#CCCCCC"> issue</font>
+
+40
+00:01:35,520 --> 00:01:37,829
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> the other 80 some tapping points that</font>
+
+41
+00:01:37,829 --> 00:01:40,290
+they didn't<font color="#E5E5E5"> talk about and those are the</font>
+
+42
+00:01:40,290 --> 00:01:41,909
+<font color="#E5E5E5">ones that are actually</font><font color="#CCCCCC"> targeting the</font>
+
+43
+00:01:41,909 --> 00:01:44,040
+<font color="#CCCCCC">United States citizens</font><font color="#E5E5E5"> and you know</font>
+
+44
+00:01:44,040 --> 00:01:45,329
+that's the violation of<font color="#E5E5E5"> the</font>
+
+45
+00:01:45,329 --> 00:01:46,439
+<font color="#E5E5E5">constitutional rights of every citizen</font>
+
+46
+00:01:46,439 --> 00:01:48,270
+<font color="#CCCCCC">in the United States and they've been</font>
+
+47
+00:01:48,270 --> 00:01:51,149
+doing<font color="#E5E5E5"> that since 2001</font><font color="#CCCCCC"> and they aren't</font>
+
+48
+00:01:51,149 --> 00:01:53,430
+even<font color="#E5E5E5"> addressing that European law for</font>
+
+49
+00:01:53,430 --> 00:01:56,640
+<font color="#E5E5E5">example the the EU clearly says</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> the</font>
+
+50
+00:01:56,640 --> 00:01:59,700
+data that<font color="#E5E5E5"> any third party holds</font><font color="#CCCCCC"> belongs</font>
+
+51
+00:01:59,700 --> 00:02:01,320
+<font color="#CCCCCC">to the person</font><font color="#E5E5E5"> involved</font><font color="#CCCCCC"> if they want</font><font color="#E5E5E5"> to</font>
+
+52
+00:02:01,320 --> 00:02:02,759
+<font color="#E5E5E5">share that with anybody they have to get</font>
+
+53
+00:02:02,759 --> 00:02:04,619
+the permission<font color="#CCCCCC"> of that person</font><font color="#E5E5E5"> so they've</font>
+
+54
+00:02:04,619 --> 00:02:06,299
+<font color="#E5E5E5">been violating European</font><font color="#CCCCCC"> laws so</font><font color="#E5E5E5"> they</font>
+
+55
+00:02:06,299 --> 00:02:08,098
+need a<font color="#E5E5E5"> class-action lawsuit in Europe</font>
+
+56
+00:02:08,098 --> 00:02:10,470
+against the AT&T<font color="#E5E5E5"> and any of the</font>
+
+57
+00:02:10,470 --> 00:02:12,270
+companies it's it's easier to shoot sue
+
+58
+00:02:12,270 --> 00:02:12,960
+them
+
+59
+00:02:12,960 --> 00:02:14,490
+and more pertinent to do it<font color="#E5E5E5"> that way</font>
+
+60
+00:02:14,490 --> 00:02:16,440
+rather than<font color="#E5E5E5"> you know try</font><font color="#CCCCCC"> to sue</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> US</font>
+
+61
+00:02:16,440 --> 00:02:17,820
+government because<font color="#E5E5E5"> they'll drag it out</font>
+
+62
+00:02:17,820 --> 00:02:21,410
+in international court for years
+
+63
+00:02:27,680 --> 00:00:00,000
+you
+

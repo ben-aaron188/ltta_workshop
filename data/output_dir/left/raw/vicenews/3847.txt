@@ -1,0 +1,1164 @@
+1
+00:00:01,340 --> 00:00:20,270
+I met<font color="#E5E5E5"> IRA the world's largest robotics</font>
+
+2
+00:00:20,270 --> 00:00:23,480
+convention in Tokyo Japan<font color="#CCCCCC"> riding on this</font>
+
+3
+00:00:23,480 --> 00:00:26,029
+<font color="#E5E5E5">robotic unit cycle through the</font>
+
+4
+00:00:26,029 --> 00:00:29,210
+<font color="#E5E5E5">exhibitions which showcase every</font>
+
+5
+00:00:29,210 --> 00:00:31,440
+imaginable<font color="#CCCCCC"> variety of robot</font>
+
+6
+00:00:31,440 --> 00:00:35,340
+[Music]
+
+7
+00:00:35,340 --> 00:00:37,860
+<font color="#E5E5E5">there are robotic snakes for looking</font>
+
+8
+00:00:37,860 --> 00:00:38,850
+through drains
+
+9
+00:00:38,850 --> 00:00:42,590
+<font color="#E5E5E5">there's rescue robots climbing robots</font>
+
+10
+00:00:42,590 --> 00:00:45,660
+<font color="#E5E5E5">breast examination robots</font>
+
+11
+00:00:45,660 --> 00:00:48,060
+[Music]
+
+12
+00:00:48,060 --> 00:00:50,950
+<font color="#CCCCCC">this body</font><font color="#E5E5E5"> armor connects me to the robot</font>
+
+13
+00:00:50,950 --> 00:00:54,550
+<font color="#E5E5E5">which mirrors all the movements</font><font color="#CCCCCC"> I put my</font>
+
+14
+00:00:54,550 --> 00:00:56,260
+hand in<font color="#E5E5E5"> the robots hand and then held my</font>
+
+15
+00:00:56,260 --> 00:00:58,720
+own<font color="#CCCCCC"> and</font><font color="#E5E5E5"> that using my hands control the</font>
+
+16
+00:00:58,720 --> 00:01:00,490
+robot
+
+17
+00:01:00,490 --> 00:01:03,569
+[Music]
+
+18
+00:01:07,420 --> 00:01:09,700
+definitely has an uncanny<font color="#E5E5E5"> valley effect</font>
+
+19
+00:01:09,700 --> 00:01:14,520
+where it's just<font color="#CCCCCC"> human-like enough and</font>
+
+20
+00:01:14,520 --> 00:01:19,900
+almost<font color="#E5E5E5"> repulsive in a way some</font><font color="#CCCCCC"> of the</font>
+
+21
+00:01:19,900 --> 00:01:21,940
+<font color="#E5E5E5">most popular robots were</font><font color="#CCCCCC"> human-like</font>
+
+22
+00:01:21,940 --> 00:01:24,310
+machines<font color="#CCCCCC"> built for dangerous tasks in</font>
+
+23
+00:01:24,310 --> 00:01:41,320
+disaster recovery though impressive<font color="#E5E5E5"> was</font>
+
+24
+00:01:41,320 --> 00:01:43,330
+surprising how slow and<font color="#E5E5E5"> limited these</font>
+
+25
+00:01:43,330 --> 00:01:47,610
+robots were at moving<font color="#CCCCCC"> likes humans</font><font color="#E5E5E5"> I</font>
+
+26
+00:01:49,289 --> 00:01:52,210
+visited a robotics lab in Tokyo<font color="#E5E5E5"> to talk</font>
+
+27
+00:01:52,210 --> 00:01:54,429
+to<font color="#CCCCCC"> Shige O'Hara say a pioneer in</font>
+
+28
+00:01:54,429 --> 00:01:56,800
+robotics technology about<font color="#E5E5E5"> why that's the</font>
+
+29
+00:01:56,800 --> 00:01:57,720
+case
+
+30
+00:01:57,720 --> 00:01:59,979
+why is<font color="#E5E5E5"> it that this mechanical</font>
+
+31
+00:01:59,979 --> 00:02:02,740
+innovation<font color="#E5E5E5"> moves slowly relative to the</font>
+
+32
+00:02:02,740 --> 00:02:05,050
+innovation in software<font color="#E5E5E5"> and</font><font color="#CCCCCC"> electronics</font>
+
+33
+00:02:05,050 --> 00:02:08,310
+<font color="#E5E5E5">and if we try to imitate a human body</font>
+
+34
+00:02:08,310 --> 00:02:13,060
+<font color="#E5E5E5">the function cannot</font><font color="#CCCCCC"> be so good the</font>
+
+35
+00:02:13,060 --> 00:02:15,549
+development of the computer<font color="#E5E5E5"> performance</font>
+
+36
+00:02:15,549 --> 00:02:18,610
+is always<font color="#CCCCCC"> evolving exponentially but</font>
+
+37
+00:02:18,610 --> 00:02:21,040
+mechanical development is developing
+
+38
+00:02:21,040 --> 00:02:22,360
+just<font color="#E5E5E5"> linearly</font>
+
+39
+00:02:22,360 --> 00:02:25,660
+this is a fact
+
+40
+00:02:25,660 --> 00:02:28,040
+essentially for robots to become more
+
+41
+00:02:28,040 --> 00:02:30,080
+functional<font color="#E5E5E5"> they need bigger brains not</font>
+
+42
+00:02:30,080 --> 00:02:32,180
+better mechanics<font color="#E5E5E5"> and a key to</font><font color="#CCCCCC"> unlocking</font>
+
+43
+00:02:32,180 --> 00:02:33,800
+<font color="#E5E5E5">that brain power is developing</font>
+
+44
+00:02:33,800 --> 00:02:37,820
+<font color="#E5E5E5">artificial intelligence or AI even the</font>
+
+45
+00:02:37,820 --> 00:02:39,740
+tech giant<font color="#CCCCCC"> Google</font><font color="#E5E5E5"> is said to be moving</font>
+
+46
+00:02:39,740 --> 00:02:41,750
+away from the<font color="#E5E5E5"> physical and doubling down</font>
+
+47
+00:02:41,750 --> 00:02:45,500
+on AI AI is the<font color="#E5E5E5"> science of programming</font>
+
+48
+00:02:45,500 --> 00:02:46,910
+computers to perceive their<font color="#E5E5E5"> environment</font>
+
+49
+00:02:46,910 --> 00:02:49,760
+<font color="#E5E5E5">and make</font><font color="#CCCCCC"> rational cognitive decisions in</font>
+
+50
+00:02:49,760 --> 00:02:52,850
+order<font color="#E5E5E5"> to achieve a goal and it's one of</font>
+
+51
+00:02:52,850 --> 00:02:54,470
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> most</font><font color="#CCCCCC"> rapidly progressing</font><font color="#E5E5E5"> and</font>
+
+52
+00:02:54,470 --> 00:02:57,730
+sought-after technologies in the<font color="#E5E5E5"> world</font>
+
+53
+00:02:57,730 --> 00:03:00,800
+<font color="#E5E5E5">at Harvard Center for brain science</font><font color="#CCCCCC"> dr.</font>
+
+54
+00:03:00,800 --> 00:03:03,410
+David Cox is hoping<font color="#CCCCCC"> to model AI of real</font>
+
+55
+00:03:03,410 --> 00:03:05,450
+biological<font color="#E5E5E5"> functions by mapping</font><font color="#CCCCCC"> the</font>
+
+56
+00:03:05,450 --> 00:03:08,630
+brains of<font color="#E5E5E5"> animals</font><font color="#CCCCCC"> a major</font><font color="#E5E5E5"> drive of the</font>
+
+57
+00:03:08,630 --> 00:03:11,150
+experiments<font color="#E5E5E5"> we're doing is to understand</font>
+
+58
+00:03:11,150 --> 00:03:13,550
+how brains<font color="#E5E5E5"> learn and if we understand</font>
+
+59
+00:03:13,550 --> 00:03:14,990
+<font color="#CCCCCC">how brains learn we need to have the</font>
+
+60
+00:03:14,990 --> 00:03:16,970
+brains be learning and<font color="#E5E5E5"> we have rooms</font>
+
+61
+00:03:16,970 --> 00:03:18,980
+full<font color="#CCCCCC"> of these kinds of rocks and</font>
+
+62
+00:03:18,980 --> 00:03:20,930
+<font color="#E5E5E5">basically what this is is like</font><font color="#CCCCCC"> a video</font>
+
+63
+00:03:20,930 --> 00:03:23,570
+arcade<font color="#E5E5E5"> for rats and if you look inside</font>
+
+64
+00:03:23,570 --> 00:03:25,790
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> can see there are</font><font color="#E5E5E5"> different little</font>
+
+65
+00:03:25,790 --> 00:03:27,380
+ports that<font color="#E5E5E5"> they can lick basically those</font>
+
+66
+00:03:27,380 --> 00:03:28,880
+<font color="#CCCCCC">are</font><font color="#E5E5E5"> the buttons on</font><font color="#CCCCCC"> the game</font><font color="#E5E5E5"> controller</font>
+
+67
+00:03:28,880 --> 00:03:30,860
+for the rats<font color="#E5E5E5"> and there's a monitor in</font>
+
+68
+00:03:30,860 --> 00:03:33,770
+the back of the rig and<font color="#E5E5E5"> we can train the</font>
+
+69
+00:03:33,770 --> 00:03:35,090
+rats to distinguish between<font color="#CCCCCC"> different</font>
+
+70
+00:03:35,090 --> 00:03:35,470
+things
+
+71
+00:03:35,470 --> 00:03:38,240
+once the rats are trained dr.<font color="#CCCCCC"> Cox</font>
+
+72
+00:03:38,240 --> 00:03:40,280
+observes the neuronal activity inside
+
+73
+00:03:40,280 --> 00:03:42,290
+<font color="#E5E5E5">the rats brains while they're</font><font color="#CCCCCC"> thinking</font>
+
+74
+00:03:42,290 --> 00:03:46,220
+<font color="#E5E5E5">we've injected a virus into their brain</font>
+
+75
+00:03:46,220 --> 00:03:47,270
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> carries a genetically engineered</font>
+
+76
+00:03:47,270 --> 00:03:49,400
+<font color="#CCCCCC">protein which lights up</font><font color="#E5E5E5"> a little bit</font>
+
+77
+00:03:49,400 --> 00:03:50,959
+brighter when we shine<font color="#E5E5E5"> a laser on it</font>
+
+78
+00:03:50,959 --> 00:03:53,480
+when the cell<font color="#CCCCCC"> is active so this is a way</font>
+
+79
+00:03:53,480 --> 00:03:56,590
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> we can actually watch the animal</font>
+
+80
+00:03:56,590 --> 00:03:59,330
+<font color="#E5E5E5">the most intelligent rats brains are</font>
+
+81
+00:03:59,330 --> 00:04:01,400
+divided into slices<font color="#CCCCCC"> thousands</font><font color="#E5E5E5"> of times</font>
+
+82
+00:04:01,400 --> 00:04:03,140
+thinner than<font color="#CCCCCC"> a human hair and</font><font color="#E5E5E5"> then</font>
+
+83
+00:04:03,140 --> 00:04:04,850
+imaged through a<font color="#E5E5E5"> powerful electron</font>
+
+84
+00:04:04,850 --> 00:04:07,340
+microscope and then modeled in<font color="#CCCCCC"> 3d space</font>
+
+85
+00:04:07,340 --> 00:04:09,610
+<font color="#E5E5E5">so what we're doing is we're marrying</font>
+
+86
+00:04:09,610 --> 00:04:12,740
+behavior what the animal can do<font color="#E5E5E5"> it's</font>
+
+87
+00:04:12,740 --> 00:04:14,480
+actual<font color="#E5E5E5"> it's learning and how</font><font color="#CCCCCC"> it's</font>
+
+88
+00:04:14,480 --> 00:04:16,940
+<font color="#E5E5E5">improving with the activity of those</font>
+
+89
+00:04:16,940 --> 00:04:19,160
+neurons and then marrying that with<font color="#CCCCCC"> the</font>
+
+90
+00:04:19,160 --> 00:04:20,930
+neuroanatomy<font color="#CCCCCC"> and from all of this</font>
+
+91
+00:04:20,930 --> 00:04:23,419
+massive amount<font color="#E5E5E5"> of data we're gonna try</font>
+
+92
+00:04:23,419 --> 00:04:26,330
+and really understand<font color="#CCCCCC"> what kinds of</font>
+
+93
+00:04:26,330 --> 00:04:29,330
+<font color="#CCCCCC">algorithms</font><font color="#E5E5E5"> might be easier on</font><font color="#CCCCCC"> systems</font><font color="#E5E5E5"> be</font>
+
+94
+00:04:29,330 --> 00:04:30,129
+computing
+
+95
+00:04:30,129 --> 00:04:32,889
+what allows biological systems do all
+
+96
+00:04:32,889 --> 00:04:33,999
+<font color="#E5E5E5">these</font><font color="#CCCCCC"> things that we</font><font color="#E5E5E5"> haven't yet figured</font>
+
+97
+00:04:33,999 --> 00:04:36,809
+<font color="#E5E5E5">out how</font><font color="#CCCCCC"> to make artificial</font><font color="#E5E5E5"> systems</font><font color="#CCCCCC"> do</font>
+
+98
+00:04:36,809 --> 00:04:40,360
+that's gonna unlock<font color="#E5E5E5"> a huge</font><font color="#CCCCCC"> renaissance</font>
+
+99
+00:04:40,360 --> 00:04:43,419
+in practical robotics practical machine
+
+100
+00:04:43,419 --> 00:04:46,689
+<font color="#E5E5E5">learning</font><font color="#CCCCCC"> vision things like that one</font><font color="#E5E5E5"> of</font>
+
+101
+00:04:46,689 --> 00:04:48,699
+the major<font color="#CCCCCC"> milestones in creating human</font>
+
+102
+00:04:48,699 --> 00:04:50,559
+level intelligence<font color="#E5E5E5"> is for machines to</font>
+
+103
+00:04:50,559 --> 00:04:53,050
+attain<font color="#E5E5E5"> self-awareness Columbia</font>
+
+104
+00:04:53,050 --> 00:04:55,300
+University's creative machines<font color="#E5E5E5"> lab may</font>
+
+105
+00:04:55,300 --> 00:04:57,369
+have<font color="#CCCCCC"> already done it</font><font color="#E5E5E5"> when you look at</font>
+
+106
+00:04:57,369 --> 00:04:58,919
+<font color="#E5E5E5">this robot you</font><font color="#CCCCCC"> can see it has four legs</font>
+
+107
+00:04:58,919 --> 00:05:01,389
+<font color="#CCCCCC">but the robot itself does not know that</font>
+
+108
+00:05:01,389 --> 00:05:03,909
+<font color="#CCCCCC">it has four legs</font><font color="#E5E5E5"> all it knows is</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> it</font>
+
+109
+00:05:03,909 --> 00:05:05,469
+has a couple<font color="#E5E5E5"> of motors a couple of</font>
+
+110
+00:05:05,469 --> 00:05:08,080
+sensors<font color="#CCCCCC"> so if self awareness works</font><font color="#E5E5E5"> this</font>
+
+111
+00:05:08,080 --> 00:05:12,069
+machine should<font color="#CCCCCC"> gradually learn what it</font>
+
+112
+00:05:12,069 --> 00:05:17,949
+is as the<font color="#CCCCCC"> robot comes to life and takes</font>
+
+113
+00:05:17,949 --> 00:05:20,139
+its first steps<font color="#E5E5E5"> it tries to understand</font>
+
+114
+00:05:20,139 --> 00:05:25,149
+what it is we turn<font color="#CCCCCC"> it on</font><font color="#E5E5E5"> and we can</font>
+
+115
+00:05:25,149 --> 00:05:28,419
+watch<font color="#E5E5E5"> what it thinks it is we can</font>
+
+116
+00:05:28,419 --> 00:05:30,419
+actually<font color="#E5E5E5"> look at its memory and</font>
+
+117
+00:05:30,419 --> 00:05:33,339
+<font color="#CCCCCC">understand how</font><font color="#E5E5E5"> its modeling</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> stuff is</font>
+
+118
+00:05:33,339 --> 00:05:35,259
+it<font color="#CCCCCC"> recognize</font><font color="#E5E5E5"> that it has four tentacles</font>
+
+119
+00:05:35,259 --> 00:05:37,839
+or eight joints<font color="#E5E5E5"> in the beginning it's</font>
+
+120
+00:05:37,839 --> 00:05:40,389
+completely wrong<font color="#E5E5E5"> but the robot very</font>
+
+121
+00:05:40,389 --> 00:05:42,039
+quickly knows that they're wrong<font color="#E5E5E5"> and it</font>
+
+122
+00:05:42,039 --> 00:05:45,429
+basically hones<font color="#E5E5E5"> itself image to a point</font>
+
+123
+00:05:45,429 --> 00:05:47,769
+where it pretty much matches<font color="#E5E5E5"> its</font>
+
+124
+00:05:47,769 --> 00:05:50,349
+experiences in reality using<font color="#E5E5E5"> that self</font>
+
+125
+00:05:50,349 --> 00:05:53,679
+image it can learn how to walk by
+
+126
+00:05:53,679 --> 00:05:56,259
+playing out lots of forms of locomotion
+
+127
+00:05:56,259 --> 00:06:00,339
+<font color="#E5E5E5">in its mind these robots learn over time</font>
+
+128
+00:06:00,339 --> 00:06:03,819
+to simulate themselves in a future
+
+129
+00:06:03,819 --> 00:06:05,619
+<font color="#CCCCCC">situation they have an actual</font><font color="#E5E5E5"> experience</font>
+
+130
+00:06:05,619 --> 00:06:07,779
+<font color="#E5E5E5">in other words they don't have to learn</font>
+
+131
+00:06:07,779 --> 00:06:11,829
+by<font color="#CCCCCC"> doing they can</font><font color="#E5E5E5"> learn</font><font color="#CCCCCC"> by thinking if</font>
+
+132
+00:06:11,829 --> 00:06:14,069
+these robots are in<font color="#E5E5E5"> the infancy of AI</font>
+
+133
+00:06:14,069 --> 00:06:17,079
+their counterparts at UC Berkeley are
+
+134
+00:06:17,079 --> 00:06:19,129
+going<font color="#E5E5E5"> to kindergarten</font>
+
+135
+00:06:19,129 --> 00:06:21,860
+I'm in the arms of<font color="#E5E5E5"> Brett</font><font color="#CCCCCC"> a Berkley robot</font>
+
+136
+00:06:21,860 --> 00:06:26,110
+for the elimination of tedious tasks
+
+137
+00:06:27,500 --> 00:06:30,150
+using trial and<font color="#E5E5E5"> error</font><font color="#CCCCCC"> brett learns how</font>
+
+138
+00:06:30,150 --> 00:06:32,550
+<font color="#CCCCCC">to fold laundry</font><font color="#E5E5E5"> assemble</font><font color="#CCCCCC"> lego blocks</font><font color="#E5E5E5"> and</font>
+
+139
+00:06:32,550 --> 00:06:34,980
+fit pegs<font color="#E5E5E5"> into holes</font><font color="#CCCCCC"> it goes</font><font color="#E5E5E5"> from scratch</font>
+
+140
+00:06:34,980 --> 00:06:37,320
+it has no notion<font color="#E5E5E5"> of how its arms move</font>
+
+141
+00:06:37,320 --> 00:06:39,600
+notion of anything except for<font color="#E5E5E5"> electrical</font>
+
+142
+00:06:39,600 --> 00:06:41,940
+and it does some random set<font color="#CCCCCC"> of actions</font>
+
+143
+00:06:41,940 --> 00:06:43,980
+and<font color="#E5E5E5"> depending on whether it's doing good</font>
+
+144
+00:06:43,980 --> 00:06:46,200
+<font color="#E5E5E5">or bad</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> evaluates that and keeps</font>
+
+145
+00:06:46,200 --> 00:06:48,090
+updating its policy to do better better
+
+146
+00:06:48,090 --> 00:06:51,840
+<font color="#CCCCCC">better and like a child Brett can watch</font>
+
+147
+00:06:51,840 --> 00:06:53,910
+someone perform a<font color="#E5E5E5"> task like tying a knot</font>
+
+148
+00:06:53,910 --> 00:06:57,500
+and actually learn it
+
+149
+00:07:07,509 --> 00:07:11,050
+<font color="#E5E5E5">as to use</font><font color="#CCCCCC"> voted and</font>
+
+150
+00:07:11,050 --> 00:07:19,940
+[Music]
+
+151
+00:07:19,940 --> 00:07:23,030
+so that's how it's supposed to<font color="#E5E5E5"> work</font>
+
+152
+00:07:23,030 --> 00:07:26,090
+to make robots like Brett<font color="#E5E5E5"> even smarter</font>
+
+153
+00:07:26,090 --> 00:07:28,310
+some AI developers are using<font color="#CCCCCC"> gaming</font>
+
+154
+00:07:28,310 --> 00:07:30,140
+principles to teach their<font color="#E5E5E5"> AI is to</font>
+
+155
+00:07:30,140 --> 00:07:34,040
+strategize<font color="#E5E5E5"> in</font><font color="#CCCCCC"> 2014 Google reportedly</font>
+
+156
+00:07:34,040 --> 00:07:35,600
+spent more than<font color="#E5E5E5"> five</font><font color="#CCCCCC"> hundred million</font>
+
+157
+00:07:35,600 --> 00:07:38,420
+<font color="#CCCCCC">dollars</font><font color="#E5E5E5"> to acquire deep mind</font><font color="#CCCCCC"> one of the</font>
+
+158
+00:07:38,420 --> 00:07:40,550
+world's leading AI developers led by
+
+159
+00:07:40,550 --> 00:07:44,300
+gaming prodigy demis hassabis<font color="#E5E5E5"> what is</font>
+
+160
+00:07:44,300 --> 00:07:46,190
+the significance of games in this<font color="#E5E5E5"> sort</font>
+
+161
+00:07:46,190 --> 00:07:46,640
+of research
+
+162
+00:07:46,640 --> 00:07:48,500
+<font color="#CCCCCC">gays are invented to be a kind</font><font color="#E5E5E5"> of</font>
+
+163
+00:07:48,500 --> 00:07:51,830
+microcosm of aspects of life<font color="#CCCCCC"> they're a</font>
+
+164
+00:07:51,830 --> 00:07:55,220
+very efficient platform<font color="#E5E5E5"> to sort of</font>
+
+165
+00:07:55,220 --> 00:07:57,140
+develop<font color="#CCCCCC"> a our algorithms and test them</font>
+
+166
+00:07:57,140 --> 00:07:59,060
+<font color="#E5E5E5">they can have</font><font color="#CCCCCC"> some of the richness</font><font color="#E5E5E5"> of</font>
+
+167
+00:07:59,060 --> 00:08:00,590
+the real world<font color="#E5E5E5"> but there are more</font>
+
+168
+00:08:00,590 --> 00:08:03,380
+constrained ways advancements in
+
+169
+00:08:03,380 --> 00:08:05,000
+computer science have been tested with
+
+170
+00:08:05,000 --> 00:08:07,640
+games before<font color="#E5E5E5"> like supercomputer deep</font>
+
+171
+00:08:07,640 --> 00:08:09,590
+<font color="#E5E5E5">blues stunning defeat of world chess</font>
+
+172
+00:08:09,590 --> 00:08:16,760
+<font color="#E5E5E5">champion Garry Kasparov in 1997 well</font>
+
+173
+00:08:16,760 --> 00:08:18,070
+beyond<font color="#CCCCCC"> my understanding</font>
+
+174
+00:08:18,070 --> 00:08:20,600
+now deep mind<font color="#CCCCCC"> has set out to beat the</font>
+
+175
+00:08:20,600 --> 00:08:22,970
+<font color="#E5E5E5">most complex board game in the world</font>
+
+176
+00:08:22,970 --> 00:08:26,390
+<font color="#E5E5E5">the ancient Chinese</font><font color="#CCCCCC"> game</font><font color="#E5E5E5"> of go he talked</font>
+
+177
+00:08:26,390 --> 00:08:28,460
+a little bit about<font color="#E5E5E5"> what makes this a big</font>
+
+178
+00:08:28,460 --> 00:08:30,350
+deal<font color="#E5E5E5"> why it's important</font><font color="#CCCCCC"> there's more</font>
+
+179
+00:08:30,350 --> 00:08:32,330
+possible board positions<font color="#CCCCCC"> in go than</font>
+
+180
+00:08:32,330 --> 00:08:34,309
+<font color="#E5E5E5">there are atoms in the universe</font><font color="#CCCCCC"> if you</font>
+
+181
+00:08:34,309 --> 00:08:36,559
+ask a great go player<font color="#E5E5E5"> why they made a</font>
+
+182
+00:08:36,559 --> 00:08:38,900
+particular move<font color="#CCCCCC"> they'll often answer</font>
+
+183
+00:08:38,900 --> 00:08:40,610
+that it just felt right<font color="#CCCCCC"> that's quite</font>
+
+184
+00:08:40,610 --> 00:08:42,409
+<font color="#CCCCCC">different</font><font color="#E5E5E5"> to when you ask a great chess</font>
+
+185
+00:08:42,409 --> 00:08:43,940
+player<font color="#E5E5E5"> they'll usually be able to tell</font>
+
+186
+00:08:43,940 --> 00:08:45,920
+you precisely<font color="#E5E5E5"> the calculations they made</font>
+
+187
+00:08:45,920 --> 00:08:48,500
+<font color="#E5E5E5">goes a lot more about feel these great</font>
+
+188
+00:08:48,500 --> 00:08:50,060
+go players use all of their years<font color="#E5E5E5"> of</font>
+
+189
+00:08:50,060 --> 00:08:52,280
+experience<font color="#CCCCCC"> to just sort of come up with</font>
+
+190
+00:08:52,280 --> 00:08:55,100
+<font color="#E5E5E5">the right</font><font color="#CCCCCC"> pattern-matching move and that</font>
+
+191
+00:08:55,100 --> 00:08:56,120
+fits for<font color="#E5E5E5"> that position</font>
+
+192
+00:08:56,120 --> 00:08:58,700
+in<font color="#E5E5E5"> other words it was believed you need</font>
+
+193
+00:08:58,700 --> 00:09:02,270
+human intuition<font color="#CCCCCC"> or else you can't win</font><font color="#E5E5E5"> no</font>
+
+194
+00:09:02,270 --> 00:09:04,760
+AI program has ever<font color="#E5E5E5"> defeated a go world</font>
+
+195
+00:09:04,760 --> 00:09:05,890
+champion<font color="#CCCCCC"> before</font>
+
+196
+00:09:05,890 --> 00:09:08,709
+[Music]
+
+197
+00:09:08,709 --> 00:09:11,209
+<font color="#CCCCCC">TCF</font><font color="#E5E5E5"> deepmind successfully built</font>
+
+198
+00:09:11,209 --> 00:09:13,670
+artificial human intuition<font color="#CCCCCC"> we traveled</font>
+
+199
+00:09:13,670 --> 00:09:15,499
+<font color="#E5E5E5">to South Korea where Google organized</font><font color="#CCCCCC"> a</font>
+
+200
+00:09:15,499 --> 00:09:17,360
+<font color="#E5E5E5">go tournament with a 1 million dollar</font>
+
+201
+00:09:17,360 --> 00:09:19,759
+<font color="#CCCCCC">prize hitting one of</font><font color="#E5E5E5"> the world's top</font>
+
+202
+00:09:19,759 --> 00:09:23,059
+<font color="#E5E5E5">human players against alphago that was</font>
+
+203
+00:09:23,059 --> 00:09:26,240
+<font color="#E5E5E5">lee sedol</font><font color="#CCCCCC"> who Franco champion walking by</font>
+
+204
+00:09:26,240 --> 00:09:28,429
+<font color="#E5E5E5">this is the final game of the</font>
+
+205
+00:09:28,429 --> 00:09:30,769
+co-championship<font color="#CCCCCC"> this may be the biggest</font>
+
+206
+00:09:30,769 --> 00:09:33,050
+board game competition in history
+
+207
+00:09:33,050 --> 00:09:35,959
+<font color="#E5E5E5">because this is a human champion versus</font>
+
+208
+00:09:35,959 --> 00:09:38,600
+the most sophisticated<font color="#CCCCCC"> computer-based go</font>
+
+209
+00:09:38,600 --> 00:09:40,399
+playing<font color="#E5E5E5"> system that has ever been</font>
+
+210
+00:09:40,399 --> 00:09:48,559
+<font color="#E5E5E5">created</font><font color="#CCCCCC"> lee sedol has about</font><font color="#E5E5E5"> ten minutes</font>
+
+211
+00:09:48,559 --> 00:09:51,139
+<font color="#E5E5E5">left on the clock</font><font color="#CCCCCC"> a game is slowly</font>
+
+212
+00:09:51,139 --> 00:09:54,160
+<font color="#E5E5E5">nearing its end</font>
+
+213
+00:09:56,860 --> 00:10:00,310
+I wonder<font color="#E5E5E5"> if we have a resonation here it</font>
+
+214
+00:10:00,310 --> 00:10:02,290
+could<font color="#CCCCCC"> be the</font><font color="#E5E5E5"> lease at all</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> resign</font><font color="#CCCCCC"> yeah</font>
+
+215
+00:10:02,290 --> 00:10:06,060
+<font color="#CCCCCC">Lee</font><font color="#E5E5E5"> I'm getting</font><font color="#CCCCCC"> worried Lee has resigned</font>
+
+216
+00:10:06,510 --> 00:10:09,519
+<font color="#E5E5E5">sober Lee SEDOL has lost</font>
+
+217
+00:10:09,519 --> 00:10:13,329
+alphago won four<font color="#CCCCCC"> out of five years it is</font>
+
+218
+00:10:13,329 --> 00:10:18,010
+<font color="#E5E5E5">a champion go player alpha goes big win</font>
+
+219
+00:10:18,010 --> 00:10:20,019
+reinforce<font color="#E5E5E5"> the idea that</font><font color="#CCCCCC"> we may be on</font><font color="#E5E5E5"> the</font>
+
+220
+00:10:20,019 --> 00:10:21,970
+<font color="#E5E5E5">brink of transformative artificial</font>
+
+221
+00:10:21,970 --> 00:10:23,709
+intelligence<font color="#E5E5E5"> but some of the world's</font>
+
+222
+00:10:23,709 --> 00:10:25,450
+<font color="#E5E5E5">most renowned thinkers are warning that</font>
+
+223
+00:10:25,450 --> 00:10:27,240
+there's a high risk of unintended
+
+224
+00:10:27,240 --> 00:10:34,959
+<font color="#CCCCCC">consequences with artificial</font>
+
+225
+00:10:34,959 --> 00:10:36,339
+<font color="#CCCCCC">intelligence we are summoning the demon</font>
+
+226
+00:10:36,339 --> 00:10:38,560
+is the guy with the pentagram<font color="#CCCCCC"> and</font><font color="#E5E5E5"> holy</font>
+
+227
+00:10:38,560 --> 00:10:40,390
+water<font color="#CCCCCC"> it's like yeah sure</font><font color="#E5E5E5"> you control</font><font color="#CCCCCC"> a</font>
+
+228
+00:10:40,390 --> 00:10:41,050
+<font color="#E5E5E5">demon</font>
+
+229
+00:10:41,050 --> 00:10:43,120
+<font color="#E5E5E5">I don't</font><font color="#CCCCCC"> think its inherent</font><font color="#E5E5E5"> that as we</font>
+
+230
+00:10:43,120 --> 00:10:45,519
+create super intelligence that it will
+
+231
+00:10:45,519 --> 00:10:48,579
+necessarily<font color="#E5E5E5"> always have</font><font color="#CCCCCC"> the same goals</font>
+
+232
+00:10:48,579 --> 00:10:51,610
+in mind that we do<font color="#E5E5E5"> Oxford philosopher</font>
+
+233
+00:10:51,610 --> 00:10:53,560
+Nick<font color="#E5E5E5"> Bostrom believes that the benefits</font>
+
+234
+00:10:53,560 --> 00:10:55,959
+of super intelligence<font color="#E5E5E5"> must be reconciled</font>
+
+235
+00:10:55,959 --> 00:10:58,089
+with these risks I<font color="#E5E5E5"> think of all the</font>
+
+236
+00:10:58,089 --> 00:11:00,850
+things<font color="#CCCCCC"> that the</font><font color="#E5E5E5"> human species might have</font>
+
+237
+00:11:00,850 --> 00:11:02,800
+been<font color="#E5E5E5"> able to achieve in the fullness of</font>
+
+238
+00:11:02,800 --> 00:11:04,510
+time<font color="#CCCCCC"> maybe you would have a cure for</font>
+
+239
+00:11:04,510 --> 00:11:06,370
+<font color="#CCCCCC">aging maybe</font><font color="#E5E5E5"> you would have space</font>
+
+240
+00:11:06,370 --> 00:11:07,630
+colonization all these kind of
+
+241
+00:11:07,630 --> 00:11:09,250
+<font color="#E5E5E5">science-fiction</font><font color="#CCCCCC"> like things but all of</font>
+
+242
+00:11:09,250 --> 00:11:10,870
+those<font color="#E5E5E5"> things I think might happen very</font>
+
+243
+00:11:10,870 --> 00:11:13,600
+quickly<font color="#E5E5E5"> done on digital timescales</font><font color="#CCCCCC"> in</font>
+
+244
+00:11:13,600 --> 00:11:14,980
+the long<font color="#E5E5E5"> term I think</font><font color="#CCCCCC"> we have an</font>
+
+245
+00:11:14,980 --> 00:11:16,720
+additional and very different<font color="#CCCCCC"> and</font>
+
+246
+00:11:16,720 --> 00:11:18,880
+distinct<font color="#E5E5E5"> and unique problem which is</font><font color="#CCCCCC"> how</font>
+
+247
+00:11:18,880 --> 00:11:21,040
+could<font color="#E5E5E5"> you ensure that this super</font>
+
+248
+00:11:21,040 --> 00:11:22,720
+<font color="#E5E5E5">intelligent system will actually</font><font color="#CCCCCC"> do what</font>
+
+249
+00:11:22,720 --> 00:11:24,700
+you intended for it<font color="#E5E5E5"> to do how can you</font>
+
+250
+00:11:24,700 --> 00:11:27,490
+control and<font color="#CCCCCC"> intelligence vastly</font><font color="#E5E5E5"> greater</font>
+
+251
+00:11:27,490 --> 00:11:29,010
+<font color="#E5E5E5">than your own</font>
+
+252
+00:11:29,010 --> 00:11:30,959
+there's always this concern of some kind
+
+253
+00:11:30,959 --> 00:11:33,209
+of telescoping singularity situation
+
+254
+00:11:33,209 --> 00:11:34,800
+where a sufficiently intelligent
+
+255
+00:11:34,800 --> 00:11:36,510
+computer is<font color="#E5E5E5"> able to build more</font>
+
+256
+00:11:36,510 --> 00:11:39,029
+intelligent computers which leads to
+
+257
+00:11:39,029 --> 00:11:42,209
+<font color="#CCCCCC">some kind of spiraling effect I think if</font>
+
+258
+00:11:42,209 --> 00:11:45,660
+you ask most<font color="#E5E5E5"> AI researchers or experts</font>
+
+259
+00:11:45,660 --> 00:11:46,740
+they'll probably give you the<font color="#E5E5E5"> same</font>
+
+260
+00:11:46,740 --> 00:11:49,050
+answer<font color="#CCCCCC"> that a lot of these more science</font>
+
+261
+00:11:49,050 --> 00:11:51,180
+fiction scenarios are just that<font color="#CCCCCC"> science</font>
+
+262
+00:11:51,180 --> 00:11:53,010
+<font color="#E5E5E5">fiction</font><font color="#CCCCCC"> most technologies they're kind</font>
+
+263
+00:11:53,010 --> 00:11:54,810
+of inherently neutral but it depends on
+
+264
+00:11:54,810 --> 00:11:57,660
+<font color="#E5E5E5">how society uses them and deploys them</font>
+
+265
+00:11:57,660 --> 00:11:59,310
+that ends up<font color="#E5E5E5"> determining whether they're</font>
+
+266
+00:11:59,310 --> 00:12:01,639
+not being for good or for<font color="#CCCCCC"> bad as</font>
+
+267
+00:12:01,639 --> 00:12:04,320
+researchers work to balance<font color="#CCCCCC"> ai's risks</font>
+
+268
+00:12:04,320 --> 00:12:06,389
+and possibilities<font color="#E5E5E5"> much of the science</font>
+
+269
+00:12:06,389 --> 00:12:08,430
+fiction<font color="#CCCCCC"> of the past is</font><font color="#E5E5E5"> becoming today's</font>
+
+270
+00:12:08,430 --> 00:12:11,190
+reality<font color="#E5E5E5"> and the worlds of artificial</font>
+
+271
+00:12:11,190 --> 00:12:13,019
+<font color="#CCCCCC">intelligence</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> robotics</font><font color="#E5E5E5"> are on track</font>
+
+272
+00:12:13,019 --> 00:12:14,699
+<font color="#E5E5E5">to achieve breakthroughs</font><font color="#CCCCCC"> and technology</font>
+
+273
+00:12:14,699 --> 00:12:16,110
+<font color="#E5E5E5">and science that have never been</font>
+
+274
+00:12:16,110 --> 00:12:18,779
+possible<font color="#E5E5E5"> for humans before what I</font>
+
+275
+00:12:18,779 --> 00:12:20,339
+think's the most important thing is<font color="#CCCCCC"> to</font>
+
+276
+00:12:20,339 --> 00:12:23,310
+<font color="#CCCCCC">use AI to advance science and medicine</font>
+
+277
+00:12:23,310 --> 00:12:27,660
+things like diseases<font color="#E5E5E5"> climate even things</font>
+
+278
+00:12:27,660 --> 00:12:30,149
+like particle physics macroeconomics
+
+279
+00:12:30,149 --> 00:12:32,459
+<font color="#E5E5E5">these all hugely complex systems now</font>
+
+280
+00:12:32,459 --> 00:12:34,050
+that we're trying<font color="#E5E5E5"> to deal</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> him</font><font color="#CCCCCC"> we're</font>
+
+281
+00:12:34,050 --> 00:12:36,959
+<font color="#CCCCCC">trying</font><font color="#E5E5E5"> to get an understanding of I kind</font>
+
+282
+00:12:36,959 --> 00:12:38,730
+of dream about the day<font color="#E5E5E5"> when they</font><font color="#CCCCCC"> are is</font>
+
+283
+00:12:38,730 --> 00:12:40,920
+good enough<font color="#E5E5E5"> that we can have this idea</font>
+
+284
+00:12:40,920 --> 00:12:42,930
+of<font color="#E5E5E5"> AI scientists that work hand in hand</font>
+
+285
+00:12:42,930 --> 00:12:46,079
+<font color="#E5E5E5">with human experts to allow us</font><font color="#CCCCCC"> to make</font>
+
+286
+00:12:46,079 --> 00:12:48,569
+breakthroughs<font color="#CCCCCC"> in much faster and</font><font color="#E5E5E5"> we're</font>
+
+287
+00:12:48,569 --> 00:12:50,190
+able to at the moment<font color="#CCCCCC"> do you think that</font>
+
+288
+00:12:50,190 --> 00:12:52,110
+will<font color="#E5E5E5"> happen soon and then I could happen</font>
+
+289
+00:12:52,110 --> 00:12:55,699
+in the<font color="#CCCCCC"> next 20 years yeah sure</font>
+
+290
+00:12:55,990 --> 00:12:58,050
+you
+
+291
+00:13:00,010 --> 00:00:00,000
+[Music]
+

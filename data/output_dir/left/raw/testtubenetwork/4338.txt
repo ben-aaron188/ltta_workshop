@@ -1,0 +1,364 @@
+1
+00:00:02,120 --> 00:00:06,120
+in<font color="#E5E5E5"> April 2016</font><font color="#CCCCCC"> the release of information</font>
+
+2
+00:00:06,120 --> 00:00:08,099
+<font color="#CCCCCC">about an eleven</font><font color="#E5E5E5"> and a half million</font>
+
+3
+00:00:08,099 --> 00:00:10,260
+<font color="#E5E5E5">document leaked known as the Panama</font>
+
+4
+00:00:10,260 --> 00:00:13,230
+<font color="#CCCCCC">papers</font><font color="#E5E5E5"> shook the world</font><font color="#CCCCCC"> these</font><font color="#E5E5E5"> documents</font>
+
+5
+00:00:13,230 --> 00:00:15,299
+detail how a law firm<font color="#E5E5E5"> based in</font><font color="#CCCCCC"> Panama</font>
+
+6
+00:00:15,299 --> 00:00:17,670
+mossack fonseca<font color="#E5E5E5"> established shell</font>
+
+7
+00:00:17,670 --> 00:00:19,410
+corporations on behalf of some of the
+
+8
+00:00:19,410 --> 00:00:21,779
+most powerful<font color="#CCCCCC"> people in the</font><font color="#E5E5E5"> world those</font>
+
+9
+00:00:21,779 --> 00:00:23,789
+companies were used<font color="#E5E5E5"> to avoid taxation</font>
+
+10
+00:00:23,789 --> 00:00:26,189
+circumvent sanctions<font color="#E5E5E5"> and launder money</font>
+
+11
+00:00:26,189 --> 00:00:29,460
+<font color="#E5E5E5">so how do they do that what exactly</font><font color="#CCCCCC"> is a</font>
+
+12
+00:00:29,460 --> 00:00:32,040
+shell company<font color="#CCCCCC"> well as it turns out</font><font color="#E5E5E5"> these</font>
+
+13
+00:00:32,040 --> 00:00:34,559
+companies<font color="#E5E5E5"> are not actually illegal a</font>
+
+14
+00:00:34,559 --> 00:00:36,390
+shell company is<font color="#E5E5E5"> simply an organization</font>
+
+15
+00:00:36,390 --> 00:00:38,340
+that<font color="#E5E5E5"> doesn't</font><font color="#CCCCCC"> produce anything or employ</font>
+
+16
+00:00:38,340 --> 00:00:41,700
+<font color="#CCCCCC">anyone and exists solely on paper</font><font color="#E5E5E5"> most</font>
+
+17
+00:00:41,700 --> 00:00:43,230
+<font color="#E5E5E5">of the time shell companies don't</font><font color="#CCCCCC"> even</font>
+
+18
+00:00:43,230 --> 00:00:45,420
+have an office<font color="#E5E5E5"> or phone number and often</font>
+
+19
+00:00:45,420 --> 00:00:46,890
+the owner of the<font color="#CCCCCC"> company</font><font color="#E5E5E5"> is kept hidden</font>
+
+20
+00:00:46,890 --> 00:00:48,899
+or made anonymous<font color="#E5E5E5"> their purpose is to</font>
+
+21
+00:00:48,899 --> 00:00:51,210
+<font color="#CCCCCC">serve as a front for another business or</font>
+
+22
+00:00:51,210 --> 00:00:52,980
+individual which can then<font color="#E5E5E5"> be</font><font color="#CCCCCC"> used for</font>
+
+23
+00:00:52,980 --> 00:00:55,890
+<font color="#E5E5E5">legal or illegal purposes legal uses can</font>
+
+24
+00:00:55,890 --> 00:00:57,449
+include creating a shell company to
+
+25
+00:00:57,449 --> 00:00:59,730
+serve as the basis for<font color="#E5E5E5"> a</font><font color="#CCCCCC"> start-up</font><font color="#E5E5E5"> which</font>
+
+26
+00:00:59,730 --> 00:01:01,710
+doesn't have any assets<font color="#CCCCCC"> or business yet</font>
+
+27
+00:01:01,710 --> 00:01:03,920
+but still has to<font color="#E5E5E5"> exist as a legal entity</font>
+
+28
+00:01:03,920 --> 00:01:06,270
+<font color="#E5E5E5">alternately shell companies can be used</font>
+
+29
+00:01:06,270 --> 00:01:08,159
+to mask business deals on behalf of
+
+30
+00:01:08,159 --> 00:01:10,350
+companies<font color="#E5E5E5"> that may not want to be seen</font>
+
+31
+00:01:10,350 --> 00:01:12,570
+<font color="#CCCCCC">doing business together in public this</font>
+
+32
+00:01:12,570 --> 00:01:15,450
+<font color="#E5E5E5">is legal</font><font color="#CCCCCC"> although arguably</font><font color="#E5E5E5"> dishonest but</font>
+
+33
+00:01:15,450 --> 00:01:17,220
+shell companies are<font color="#E5E5E5"> much more renowned</font>
+
+34
+00:01:17,220 --> 00:01:19,799
+for operating<font color="#E5E5E5"> illegally</font><font color="#CCCCCC"> one such use is</font>
+
+35
+00:01:19,799 --> 00:01:22,110
+<font color="#E5E5E5">for money laundry since shell companies</font>
+
+36
+00:01:22,110 --> 00:01:24,000
+do not<font color="#E5E5E5"> trace back to their owners those</font>
+
+37
+00:01:24,000 --> 00:01:25,590
+who<font color="#CCCCCC"> knew</font><font color="#E5E5E5"> their money laundered can wire</font>
+
+38
+00:01:25,590 --> 00:01:27,299
+it into accounts held by<font color="#E5E5E5"> their shell</font>
+
+39
+00:01:27,299 --> 00:01:29,280
+company<font color="#E5E5E5"> this money is then claimed as</font>
+
+40
+00:01:29,280 --> 00:01:31,079
+business<font color="#E5E5E5"> income often in</font><font color="#CCCCCC"> countries like</font>
+
+41
+00:01:31,079 --> 00:01:33,900
+<font color="#E5E5E5">Panama with low or non-existent tax</font>
+
+42
+00:01:33,900 --> 00:01:36,150
+rates this launder money<font color="#CCCCCC"> ends up back in</font>
+
+43
+00:01:36,150 --> 00:01:38,100
+<font color="#E5E5E5">the owners pocket without it being taxed</font>
+
+44
+00:01:38,100 --> 00:01:39,869
+or anyone knowing where it<font color="#CCCCCC"> came from or</font>
+
+45
+00:01:39,869 --> 00:01:42,000
+where it went<font color="#CCCCCC"> and even legally obtained</font>
+
+46
+00:01:42,000 --> 00:01:43,799
+funds can be funneled through a<font color="#E5E5E5"> shell</font>
+
+47
+00:01:43,799 --> 00:01:46,229
+corporation to avoid taxes<font color="#E5E5E5"> the way this</font>
+
+48
+00:01:46,229 --> 00:01:47,790
+<font color="#E5E5E5">works is</font><font color="#CCCCCC"> that companies invest a portion</font>
+
+49
+00:01:47,790 --> 00:01:49,680
+<font color="#CCCCCC">of their profit into offshore</font><font color="#E5E5E5"> shell</font>
+
+50
+00:01:49,680 --> 00:01:51,509
+companies<font color="#E5E5E5"> thus claiming it as an</font>
+
+51
+00:01:51,509 --> 00:01:54,210
+<font color="#CCCCCC">investment</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> not profit since only</font>
+
+52
+00:01:54,210 --> 00:01:56,850
+profitable<font color="#E5E5E5"> income is taxed corporations</font>
+
+53
+00:01:56,850 --> 00:01:58,430
+are<font color="#CCCCCC"> able to</font><font color="#E5E5E5"> keep their money overseas</font>
+
+54
+00:01:58,430 --> 00:02:00,990
+<font color="#CCCCCC">tax-free it is</font><font color="#E5E5E5"> estimated that more</font><font color="#CCCCCC"> than</font>
+
+55
+00:02:00,990 --> 00:02:03,030
+<font color="#E5E5E5">two trillion dollars of profit is kept</font>
+
+56
+00:02:03,030 --> 00:02:04,829
+in offshore accounts<font color="#CCCCCC"> like these</font><font color="#E5E5E5"> these</font>
+
+57
+00:02:04,829 --> 00:02:06,600
+secretive accounts can also be used to
+
+58
+00:02:06,600 --> 00:02:08,940
+spend money illegally<font color="#E5E5E5"> especially to</font>
+
+59
+00:02:08,940 --> 00:02:11,008
+avoid international sanctions<font color="#CCCCCC"> the Panama</font>
+
+60
+00:02:11,008 --> 00:02:12,629
+papers<font color="#CCCCCC"> have thus far revealed</font><font color="#E5E5E5"> that the</font>
+
+61
+00:02:12,629 --> 00:02:14,670
+Syrian<font color="#CCCCCC"> government was able to</font><font color="#E5E5E5"> use shell</font>
+
+62
+00:02:14,670 --> 00:02:16,980
+companies to bypass sanctions and
+
+63
+00:02:16,980 --> 00:02:19,470
+purchase fuel for military purposes in
+
+64
+00:02:19,470 --> 00:02:20,790
+the Syrian civil war
+
+65
+00:02:20,790 --> 00:02:22,319
+so while shell companies are not
+
+66
+00:02:22,319 --> 00:02:24,540
+necessarily<font color="#E5E5E5"> illegal what many do with</font>
+
+67
+00:02:24,540 --> 00:02:26,730
+them<font color="#E5E5E5"> is illegal</font><font color="#CCCCCC"> within</font><font color="#E5E5E5"> just a</font><font color="#CCCCCC"> few</font><font color="#E5E5E5"> days</font>
+
+68
+00:02:26,730 --> 00:02:28,530
+of<font color="#E5E5E5"> the Panama</font><font color="#CCCCCC"> papers release the</font>
+
+69
+00:02:28,530 --> 00:02:30,330
+Icelandic Prime Minister was forced to
+
+70
+00:02:30,330 --> 00:02:31,950
+<font color="#E5E5E5">step down after evidence of his</font>
+
+71
+00:02:31,950 --> 00:02:33,720
+impropriety surfaced<font color="#E5E5E5"> it is doubtless</font>
+
+72
+00:02:33,720 --> 00:02:35,340
+<font color="#CCCCCC">that other world leaders who tried to</font>
+
+73
+00:02:35,340 --> 00:02:37,440
+<font color="#CCCCCC">use shell companies to hide their</font>
+
+74
+00:02:37,440 --> 00:02:40,470
+actions<font color="#E5E5E5"> will soon face a similar fate</font>
+
+75
+00:02:40,470 --> 00:02:42,840
+so what exactly<font color="#E5E5E5"> is in the Panama papers</font>
+
+76
+00:02:42,840 --> 00:02:45,180
+<font color="#CCCCCC">find out by</font><font color="#E5E5E5"> watching a quick recap of</font>
+
+77
+00:02:45,180 --> 00:02:46,950
+<font color="#E5E5E5">what we know</font><font color="#CCCCCC"> so far and who has</font><font color="#E5E5E5"> been</font>
+
+78
+00:02:46,950 --> 00:02:49,319
+involved<font color="#E5E5E5"> by watching this video</font><font color="#CCCCCC"> in</font>
+
+79
+00:02:49,319 --> 00:02:51,209
+August of 2015<font color="#CCCCCC"> an</font><font color="#E5E5E5"> anonymous source</font>
+
+80
+00:02:51,209 --> 00:02:53,129
+provided German newspaper<font color="#CCCCCC"> suddeutsche as</font>
+
+81
+00:02:53,129 --> 00:02:55,319
+I hung with 2.6 terabytes worth of
+
+82
+00:02:55,319 --> 00:02:57,150
+<font color="#CCCCCC">documents</font><font color="#E5E5E5"> the biggest data leak in</font>
+
+83
+00:02:57,150 --> 00:02:59,370
+<font color="#E5E5E5">history</font><font color="#CCCCCC"> in order to research</font><font color="#E5E5E5"> and report</font>
+
+84
+00:02:59,370 --> 00:03:01,050
+on the<font color="#E5E5E5"> information the newspaper reached</font>
+
+85
+00:03:01,050 --> 00:03:02,760
+out to the international consortium of
+
+86
+00:03:02,760 --> 00:03:04,680
+<font color="#E5E5E5">investigative journalists and roughly</font>
+
+87
+00:03:04,680 --> 00:03:06,360
+400 journalists<font color="#E5E5E5"> at more than a</font><font color="#CCCCCC"> hundred</font>
+
+88
+00:03:06,360 --> 00:03:08,250
+media<font color="#CCCCCC"> organizations</font><font color="#E5E5E5"> thanks for watching</font>
+
+89
+00:03:08,250 --> 00:03:10,080
+test-tube<font color="#CCCCCC"> news don't forget</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> Like and</font>
+
+90
+00:03:10,080 --> 00:03:13,450
+subscribe for<font color="#E5E5E5"> new</font><font color="#CCCCCC"> videos every</font><font color="#E5E5E5"> day</font>
+
+91
+00:03:13,450 --> 00:00:00,000
+[Music]
+

@@ -1,0 +1,93 @@
+If you store any personal information on a
+computer, smartphone, or web service,
+your data is at risk from two massive computer
+security exploits: Spectre and Meltdown.
+Two major flaws in computer chips, called "Meltdown" and "Spectre."
+Technology firms are rushing to fix a security flaw identified in computer chips.
+What makes Meltdown and 
+Spectre especially sinister, aside from their
+James Bondian names,
+is that they affect your
+computer at the hardware level:
+the processors inside your devices.
+And these flaws exist not because of a bug in
+computer software design, but because of
+a feature in computer hardware that has been
+around since 1995.
+Consumers expect computers to get faster and
+faster each year.
+The new Apple TV isn't just slightly faster,
+it's remarkably faster.
+We built the fastest, most responsive stylus experience ever.
+To satisfy this insatiable need for increasingly
+fast computers, chip developers added a function
+to processors called Speculative Execution.
+Processors are the chips inside a computer
+that allow it to perform hundreds of billions
+of calculations per second.
+Think of it as the computer’s brain.
+Speculative execution allows the computer
+to guess what you might do next and perform
+necessary calculations for those possible
+outcomes, keeping one step ahead of you.
+Imagine if your favorite coffee shop began
+preparing your favorite orders ahead of time.
+Your coffee is ready for you before you ask
+for it and you’re in and out of the shop
+faster than if you were to order from scratch
+every time.
+That’s speculative execution.
+But what about the orders that were made that
+you didn’t purchase?
+Or what if you decide to order something else
+entirely that day?
+Those unused, pre-made orders...well, they
+get trashed.
+That’s the problem with speculative execution
+— all those junked orders,
+They’re not really protected.
+Someone sorting through those trashed orders
+might gain brief unauthorized access to your
+name or your daily order.
+But, of course, the information you keep on
+your computer is probably a bit more sensitive
+than your preference for almond milk.
+Meltdown and Spectre exploit this feature
+by using malicious code that tricks a computer
+into speculatively loading information it
+wouldn’t normally have access to.
+And you — or an antivirus program — wouldn’t
+necessarily know that someone is snooping
+on your data since Meltdown and Spectre are
+exploiting a normal function of your computer’s processor.
+These exploits could allow a hacker to snoop
+on data on a computer or a smartphone, or even in the cloud.
+Spectre allows a malicious program or code
+to trick other applications, using a shared
+processor, into loading sensitive information
+that it would normally keep secure and separate
+between the programs.
+Meltdown works slightly differently — instead
+of tricking one application into revealing
+sensitive information to another, it exploits
+the relationship between the application and
+the computer’s memory — but in the end,
+the results are the same: compromised data
+While Software companies are rolling out patches
+to help guard against Meltdown, that protection
+comes at a cost.
+And in some cases, those patches could make
+a computer operate slower.
+Though software patches can prevent some Spectre
+attacks, it really requires new hardware to
+be designed and implemented to completely
+fix the problem.
+And that means many devices could be vulnerable
+to Spectre attacks for decades,
+as devices are upgraded.
+But don’t let that stop you from installing
+patches and protecting your data now.
+Seriously, that would not be smart.
+It was our need for speed that got us into
+this mess in the first place..
+And good security nearly always comes with a compromise

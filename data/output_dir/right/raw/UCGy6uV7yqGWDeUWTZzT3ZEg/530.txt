@@ -1,0 +1,740 @@
+1
+00:00:02,570 --> 00:00:06,140
+Catherine McKenna is planning<font color="#CCCCCC"> to spend</font>
+
+2
+00:00:06,140 --> 00:00:08,849
+$25,000<font color="#E5E5E5"> just to study the</font><font color="#CCCCCC"> idea of</font>
+
+3
+00:00:08,849 --> 00:00:11,490
+creating a facebook chat bot<font color="#E5E5E5"> to scare</font>
+
+4
+00:00:11,490 --> 00:00:13,679
+<font color="#E5E5E5">our teenagers about climate</font><font color="#CCCCCC"> change</font><font color="#E5E5E5"> and</font>
+
+5
+00:00:13,679 --> 00:00:16,710
+<font color="#E5E5E5">we</font><font color="#CCCCCC"> have the</font><font color="#E5E5E5"> exclusive documents to prove</font>
+
+6
+00:00:16,710 --> 00:00:23,970
+it after spending the last<font color="#E5E5E5"> few</font><font color="#CCCCCC"> weeks</font>
+
+7
+00:00:23,970 --> 00:00:27,330
+blaming my plastic straws out here in
+
+8
+00:00:27,330 --> 00:00:29,519
+<font color="#E5E5E5">Alberta for bugging up the blow holes of</font>
+
+9
+00:00:29,519 --> 00:00:32,460
+dolphins<font color="#E5E5E5"> in Japan or something Catherine</font>
+
+10
+00:00:32,460 --> 00:00:35,040
+McKenna<font color="#CCCCCC"> and the Ministry of</font><font color="#E5E5E5"> Environment</font>
+
+11
+00:00:35,040 --> 00:00:37,200
+and<font color="#E5E5E5"> climate change have moved on to</font>
+
+12
+00:00:37,200 --> 00:00:41,010
+<font color="#E5E5E5">their</font><font color="#CCCCCC"> next embarrassing project now they</font>
+
+13
+00:00:41,010 --> 00:00:43,530
+want<font color="#E5E5E5"> to use AI tools to talk to other</font>
+
+14
+00:00:43,530 --> 00:00:46,469
+people's kids on Facebook<font color="#CCCCCC"> about deadly</font>
+
+15
+00:00:46,469 --> 00:00:49,110
+climate change because that<font color="#CCCCCC"> is not</font><font color="#E5E5E5"> weird</font>
+
+16
+00:00:49,110 --> 00:00:51,480
+<font color="#E5E5E5">or anything and we found this all out</font>
+
+17
+00:00:51,480 --> 00:00:52,260
+through<font color="#E5E5E5"> yet</font>
+
+18
+00:00:52,260 --> 00:00:55,129
+<font color="#CCCCCC">another</font><font color="#E5E5E5"> access the information</font>
+
+19
+00:00:55,129 --> 00:00:58,140
+<font color="#E5E5E5">investigation let's go back a</font><font color="#CCCCCC"> little</font><font color="#E5E5E5"> bit</font>
+
+20
+00:00:58,140 --> 00:01:00,750
+though for a little<font color="#E5E5E5"> history</font><font color="#CCCCCC"> remember a</font>
+
+21
+00:01:00,750 --> 00:01:03,149
+<font color="#CCCCCC">little while ago</font><font color="#E5E5E5"> when we covered how</font>
+
+22
+00:01:03,149 --> 00:01:05,700
+Catherine McKenna<font color="#CCCCCC"> wanted to create a</font>
+
+23
+00:01:05,700 --> 00:01:08,909
+<font color="#CCCCCC">government of Canada weather app if</font>
+
+24
+00:01:08,909 --> 00:01:11,760
+you're a normal<font color="#CCCCCC"> person who uses their</font>
+
+25
+00:01:11,760 --> 00:01:14,280
+smartphone on a somewhat<font color="#E5E5E5"> regular</font><font color="#CCCCCC"> basis</font>
+
+26
+00:01:14,280 --> 00:01:16,500
+you would<font color="#E5E5E5"> of course recognize that this</font>
+
+27
+00:01:16,500 --> 00:01:18,810
+<font color="#CCCCCC">is crazy</font><font color="#E5E5E5"> and redundant and a total waste</font>
+
+28
+00:01:18,810 --> 00:01:20,610
+<font color="#E5E5E5">of money since there are a million other</font>
+
+29
+00:01:20,610 --> 00:01:22,740
+weather apps out there that<font color="#CCCCCC"> actually</font>
+
+30
+00:01:22,740 --> 00:01:25,619
+already use Environment Canada data<font color="#E5E5E5"> the</font>
+
+31
+00:01:25,619 --> 00:01:28,140
+problem is what all those<font color="#CCCCCC"> other apps do</font>
+
+32
+00:01:28,140 --> 00:01:30,750
+is just give<font color="#CCCCCC"> you the</font><font color="#E5E5E5"> straight weather</font>
+
+33
+00:01:30,750 --> 00:01:31,799
+this straight
+
+34
+00:01:31,799 --> 00:01:34,049
+science the<font color="#E5E5E5"> straight conditions they'll</font>
+
+35
+00:01:34,049 --> 00:01:35,430
+tell you what the temperature<font color="#CCCCCC"> is going</font>
+
+36
+00:01:35,430 --> 00:01:37,740
+<font color="#E5E5E5">to be whether it's going to be windy or</font>
+
+37
+00:01:37,740 --> 00:01:39,750
+cloudy<font color="#CCCCCC"> or whatever so you can decide if</font>
+
+38
+00:01:39,750 --> 00:01:42,119
+you<font color="#CCCCCC"> should maybe bring a jacket</font><font color="#E5E5E5"> with you</font>
+
+39
+00:01:42,119 --> 00:01:43,829
+that kind<font color="#E5E5E5"> of stuff but those apps don't</font>
+
+40
+00:01:43,829 --> 00:01:46,320
+effectively scare monger you about
+
+41
+00:01:46,320 --> 00:01:49,049
+climate change<font color="#CCCCCC"> all those</font><font color="#E5E5E5"> other apps</font>
+
+42
+00:01:49,049 --> 00:01:51,960
+prepare you for<font color="#CCCCCC"> your day but they don't</font>
+
+43
+00:01:51,960 --> 00:01:54,840
+make<font color="#E5E5E5"> you feel bad about your SUV but and</font>
+
+44
+00:01:54,840 --> 00:01:56,270
+<font color="#E5E5E5">so of course the Government of Canada</font>
+
+45
+00:01:56,270 --> 00:01:58,969
+<font color="#CCCCCC">just</font><font color="#E5E5E5"> couldn't have you walking around</font>
+
+46
+00:01:58,969 --> 00:02:03,990
+<font color="#E5E5E5">feeling unwell all day they wanted</font><font color="#CCCCCC"> an</font>
+
+47
+00:02:03,990 --> 00:02:05,090
+app for that
+
+48
+00:02:05,090 --> 00:02:07,500
+now the Ministry of Environment<font color="#CCCCCC"> and</font>
+
+49
+00:02:07,500 --> 00:02:09,449
+climate change is spending<font color="#E5E5E5"> twenty five</font>
+
+50
+00:02:09,449 --> 00:02:11,700
+thousand dollars<font color="#CCCCCC"> to study the</font>
+
+51
+00:02:11,700 --> 00:02:13,000
+development<font color="#CCCCCC"> of a</font>
+
+52
+00:02:13,000 --> 00:02:15,190
+<font color="#CCCCCC">their chat</font><font color="#E5E5E5"> bot that uses intelligent</font>
+
+53
+00:02:15,190 --> 00:02:18,220
+messaging through<font color="#CCCCCC"> facebook Messenger</font><font color="#E5E5E5"> and</font>
+
+54
+00:02:18,220 --> 00:02:21,040
+the government<font color="#E5E5E5"> readily admits that this</font>
+
+55
+00:02:21,040 --> 00:02:23,230
+is not just<font color="#CCCCCC"> to give us straight</font><font color="#E5E5E5"> weather</font>
+
+56
+00:02:23,230 --> 00:02:25,350
+<font color="#E5E5E5">information because as I said</font><font color="#CCCCCC"> before</font>
+
+57
+00:02:25,350 --> 00:02:28,960
+<font color="#E5E5E5">there are a million other apps that do</font>
+
+58
+00:02:28,960 --> 00:02:31,690
+that and<font color="#E5E5E5"> do</font><font color="#CCCCCC"> that well no right here</font>
+
+59
+00:02:31,690 --> 00:02:34,570
+<font color="#E5E5E5">under purpose it says this is to provide</font>
+
+60
+00:02:34,570 --> 00:02:36,880
+<font color="#E5E5E5">information on</font><font color="#CCCCCC"> the use of intelligent</font>
+
+61
+00:02:36,880 --> 00:02:38,920
+messaging to disseminate<font color="#E5E5E5"> weather-related</font>
+
+62
+00:02:38,920 --> 00:02:42,430
+<font color="#CCCCCC">and climate change information</font><font color="#E5E5E5"> through a</font>
+
+63
+00:02:42,430 --> 00:02:45,580
+chat bot on<font color="#CCCCCC"> facebook messenger</font><font color="#E5E5E5"> get that</font>
+
+64
+00:02:45,580 --> 00:02:48,880
+and climate change<font color="#E5E5E5"> and it's interesting</font>
+
+65
+00:02:48,880 --> 00:02:51,190
+that<font color="#E5E5E5"> even the government under issues</font>
+
+66
+00:02:51,190 --> 00:02:53,800
+admits that<font color="#E5E5E5"> their idea is pretty darn</font>
+
+67
+00:02:53,800 --> 00:02:56,440
+redundant<font color="#E5E5E5"> some partners and competitors</font>
+
+68
+00:02:56,440 --> 00:02:59,110
+for example<font color="#CCCCCC"> Weather Network</font><font color="#E5E5E5"> Yahoo and</font>
+
+69
+00:02:59,110 --> 00:03:01,450
+native mobile<font color="#E5E5E5"> weather apps are currently</font>
+
+70
+00:03:01,450 --> 00:03:04,360
+using<font color="#CCCCCC"> environment and</font><font color="#E5E5E5"> climate change</font>
+
+71
+00:03:04,360 --> 00:03:07,209
+<font color="#CCCCCC">Canada's weather data to serve selected</font>
+
+72
+00:03:07,209 --> 00:03:10,300
+needs of Canadians by offering them more
+
+73
+00:03:10,300 --> 00:03:13,209
+immediate information<font color="#E5E5E5"> at the time and</font>
+
+74
+00:03:13,209 --> 00:03:16,930
+place when they want it<font color="#E5E5E5"> but the</font>
+
+75
+00:03:16,930 --> 00:03:19,360
+government says their chat thought would
+
+76
+00:03:19,360 --> 00:03:21,190
+present an opportunity<font color="#E5E5E5"> to provide</font>
+
+77
+00:03:21,190 --> 00:03:25,239
+Canadians<font color="#E5E5E5"> more authoritative and timely</font>
+
+78
+00:03:25,239 --> 00:03:27,519
+weather data through the chat bot
+
+79
+00:03:27,519 --> 00:03:29,680
+<font color="#E5E5E5">translation for normal people they'll</font>
+
+80
+00:03:29,680 --> 00:03:32,170
+also nag you<font color="#CCCCCC"> about climate change</font>
+
+81
+00:03:32,170 --> 00:03:34,989
+<font color="#CCCCCC">oh and according to</font><font color="#E5E5E5"> these</font><font color="#CCCCCC"> documents the</font>
+
+82
+00:03:34,989 --> 00:03:37,170
+government<font color="#CCCCCC"> is working directly with</font>
+
+83
+00:03:37,170 --> 00:03:41,140
+Facebook to develop this chat bot<font color="#E5E5E5"> right</font>
+
+84
+00:03:41,140 --> 00:03:44,500
+here Facebook Canada has been<font color="#E5E5E5"> consulted</font>
+
+85
+00:03:44,500 --> 00:03:46,390
+<font color="#E5E5E5">oh boy I'm</font><font color="#CCCCCC"> sure that wasn't exactly</font>
+
+86
+00:03:46,390 --> 00:03:49,450
+<font color="#CCCCCC">cheap</font><font color="#E5E5E5"> Facebook would provide support for</font>
+
+87
+00:03:49,450 --> 00:03:52,750
+<font color="#E5E5E5">the concept</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> development of this</font>
+
+88
+00:03:52,750 --> 00:03:55,989
+<font color="#E5E5E5">product well you know Facebook right the</font>
+
+89
+00:03:55,989 --> 00:03:58,180
+company<font color="#CCCCCC"> that Justin Trudeau has told he</font>
+
+90
+00:03:58,180 --> 00:04:00,610
+<font color="#E5E5E5">will regulate if they don't crack down</font>
+
+91
+00:04:00,610 --> 00:04:03,010
+<font color="#CCCCCC">on what Justin</font><font color="#E5E5E5"> Trudeau determines to</font><font color="#CCCCCC"> be</font>
+
+92
+00:04:03,010 --> 00:04:06,310
+fake news<font color="#E5E5E5"> well in advance of the</font><font color="#CCCCCC"> next</font>
+
+93
+00:04:06,310 --> 00:04:08,380
+election<font color="#CCCCCC"> Facebook's a company that</font>
+
+94
+00:04:08,380 --> 00:04:11,019
+routinely collaborates and colludes with
+
+95
+00:04:11,019 --> 00:04:13,269
+other social<font color="#E5E5E5"> media networks</font><font color="#CCCCCC"> to censor</font>
+
+96
+00:04:13,269 --> 00:04:15,730
+conservative content Facebook<font color="#E5E5E5"> the</font>
+
+97
+00:04:15,730 --> 00:04:18,040
+company that routinely shuts down the
+
+98
+00:04:18,040 --> 00:04:21,160
+<font color="#CCCCCC">pages of moderate Muslims who call for</font>
+
+99
+00:04:21,160 --> 00:04:23,950
+reform<font color="#CCCCCC"> in the</font><font color="#E5E5E5"> Arab world yeah that</font>
+
+100
+00:04:23,950 --> 00:04:26,960
+Facebook how can this go wrong<font color="#E5E5E5"> anyway</font>
+
+101
+00:04:26,960 --> 00:04:28,850
+it's pretty clear<font color="#CCCCCC"> that the government</font><font color="#E5E5E5"> is</font>
+
+102
+00:04:28,850 --> 00:04:30,530
+targeting<font color="#E5E5E5"> kids because the articles they</font>
+
+103
+00:04:30,530 --> 00:04:32,810
+cite in this<font color="#E5E5E5"> information to the Deputy</font>
+
+104
+00:04:32,810 --> 00:04:36,020
+<font color="#CCCCCC">Minister document talks</font><font color="#E5E5E5"> about how text</font>
+
+105
+00:04:36,020 --> 00:04:38,600
+messaging is the dominant form<font color="#E5E5E5"> of</font>
+
+106
+00:04:38,600 --> 00:04:41,539
+communication<font color="#E5E5E5"> among teenagers here let</font>
+
+107
+00:04:41,539 --> 00:04:44,870
+me save Catherine McKenna<font color="#CCCCCC"> $25,000</font><font color="#E5E5E5"> on a</font>
+
+108
+00:04:44,870 --> 00:04:47,419
+study right<font color="#CCCCCC"> now</font><font color="#E5E5E5"> kids are not really</font><font color="#CCCCCC"> on</font>
+
+109
+00:04:47,419 --> 00:04:50,360
+<font color="#E5E5E5">Facebook a breakdown of us Facebook</font>
+
+110
+00:04:50,360 --> 00:04:52,430
+<font color="#CCCCCC">users which is probably pretty</font><font color="#E5E5E5"> similar</font>
+
+111
+00:04:52,430 --> 00:04:55,190
+<font color="#CCCCCC">to Canadian use shows that fewer</font><font color="#E5E5E5"> than</font>
+
+112
+00:04:55,190 --> 00:04:58,669
+<font color="#CCCCCC">10% of US users are aged</font><font color="#E5E5E5"> 17 years and</font>
+
+113
+00:04:58,669 --> 00:05:01,580
+<font color="#E5E5E5">younger and</font><font color="#CCCCCC"> even fewer are 65 or older</font>
+
+114
+00:05:01,580 --> 00:05:06,110
+but<font color="#CCCCCC"> 65% are 35 and older</font><font color="#E5E5E5"> Facebook is</font>
+
+115
+00:05:06,110 --> 00:05:07,940
+where<font color="#E5E5E5"> your mother-in-law has pictures of</font>
+
+116
+00:05:07,940 --> 00:05:11,150
+<font color="#E5E5E5">her dog and pictures</font><font color="#CCCCCC"> of the grandkids</font>
+
+117
+00:05:11,150 --> 00:05:13,130
+<font color="#E5E5E5">doing that thing that literally every</font>
+
+118
+00:05:13,130 --> 00:05:15,289
+<font color="#E5E5E5">other grand kid on the planet does but</font>
+
+119
+00:05:15,289 --> 00:05:17,780
+she's<font color="#CCCCCC"> super proud</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> them anyway that's</font>
+
+120
+00:05:17,780 --> 00:05:20,300
+what Facebook<font color="#E5E5E5"> is all about oh and</font>
+
+121
+00:05:20,300 --> 00:05:22,430
+recipes<font color="#E5E5E5"> there's nothing wrong with that</font>
+
+122
+00:05:22,430 --> 00:05:25,340
+<font color="#E5E5E5">but that's how young people view</font>
+
+123
+00:05:25,340 --> 00:05:27,889
+<font color="#E5E5E5">Facebook</font><font color="#CCCCCC"> too</font><font color="#E5E5E5"> and while my three children</font>
+
+124
+00:05:27,889 --> 00:05:30,979
+<font color="#E5E5E5">are not the greatest sampling size I</font>
+
+125
+00:05:30,979 --> 00:05:33,650
+asked them<font color="#E5E5E5"> and the last thing they want</font>
+
+126
+00:05:33,650 --> 00:05:35,960
+<font color="#CCCCCC">to do on</font><font color="#E5E5E5"> social media is talk to the</font>
+
+127
+00:05:35,960 --> 00:05:39,320
+<font color="#CCCCCC">government about</font><font color="#E5E5E5"> the weather but this</font>
+
+128
+00:05:39,320 --> 00:05:42,889
+latest creepy chat bot<font color="#E5E5E5"> Fiasco is really</font>
+
+129
+00:05:42,889 --> 00:05:45,500
+nothing<font color="#CCCCCC"> new for Catherine McKenna she so</font>
+
+130
+00:05:45,500 --> 00:05:48,110
+desperately wants to<font color="#E5E5E5"> be the hippest</font>
+
+131
+00:05:48,110 --> 00:05:51,320
+<font color="#CCCCCC">minister in cabinet but she always ends</font>
+
+132
+00:05:51,320 --> 00:05:56,289
+up coming<font color="#E5E5E5"> off a little like this guy</font>
+
+133
+00:05:56,289 --> 00:05:58,569
+how do you do fellow kids<font color="#E5E5E5"> Catherine</font>
+
+134
+00:05:58,569 --> 00:06:00,309
+McKenna<font color="#E5E5E5"> is really obsessed with social</font>
+
+135
+00:06:00,309 --> 00:06:02,710
+<font color="#E5E5E5">media and she's</font><font color="#CCCCCC"> very willing to spend a</font>
+
+136
+00:06:02,710 --> 00:06:05,619
+<font color="#E5E5E5">lot of taxpayer</font><font color="#CCCCCC"> money on it</font><font color="#E5E5E5"> we know</font>
+
+137
+00:06:05,619 --> 00:06:07,860
+through other access to information
+
+138
+00:06:07,860 --> 00:06:10,449
+investigations that she has at least<font color="#CCCCCC"> 24</font>
+
+139
+00:06:10,449 --> 00:06:13,270
+staff who are<font color="#CCCCCC"> involved</font><font color="#E5E5E5"> in managing and</font>
+
+140
+00:06:13,270 --> 00:06:16,029
+preparing her social media<font color="#CCCCCC"> posts which</font>
+
+141
+00:06:16,029 --> 00:06:18,999
+<font color="#E5E5E5">is really really quite pathetic</font><font color="#CCCCCC"> given</font>
+
+142
+00:06:18,999 --> 00:06:20,680
+the<font color="#E5E5E5"> number</font><font color="#CCCCCC"> of social</font><font color="#E5E5E5"> media gaffes</font>
+
+143
+00:06:20,680 --> 00:06:24,399
+<font color="#E5E5E5">she has on a near</font><font color="#CCCCCC"> daily basis</font><font color="#E5E5E5"> there was</font>
+
+144
+00:06:24,399 --> 00:06:26,349
+that time<font color="#CCCCCC"> that she tweeted out a picture</font>
+
+145
+00:06:26,349 --> 00:06:29,199
+of<font color="#CCCCCC"> a</font><font color="#E5E5E5"> puffin</font><font color="#CCCCCC"> to wish us all happy penguin</font>
+
+146
+00:06:29,199 --> 00:06:30,849
+day whatever<font color="#E5E5E5"> that is and then there was</font>
+
+147
+00:06:30,849 --> 00:06:33,129
+a time<font color="#CCCCCC"> she</font><font color="#E5E5E5"> thanked Syria for</font><font color="#CCCCCC"> the</font>
+
+148
+00:06:33,129 --> 00:06:35,110
+<font color="#E5E5E5">commitment to fighting climate</font><font color="#CCCCCC"> change I</font>
+
+149
+00:06:35,110 --> 00:06:37,599
+suppose<font color="#CCCCCC"> if you gasp enough of your</font>
+
+150
+00:06:37,599 --> 00:06:40,119
+<font color="#E5E5E5">citizens they aren't emitting co2 so I</font>
+
+151
+00:06:40,119 --> 00:06:42,219
+don't know I guess<font color="#E5E5E5"> there's that and then</font>
+
+152
+00:06:42,219 --> 00:06:43,689
+there was a time<font color="#CCCCCC"> that</font><font color="#E5E5E5"> McKenna thought</font>
+
+153
+00:06:43,689 --> 00:06:46,749
+the Olympics were being held in<font color="#CCCCCC"> North</font>
+
+154
+00:06:46,749 --> 00:06:49,119
+Korea I mean the<font color="#E5E5E5"> gaffes</font><font color="#CCCCCC"> they</font><font color="#E5E5E5"> literally</font>
+
+155
+00:06:49,119 --> 00:06:51,459
+go on<font color="#E5E5E5"> and on and on Catherine McKenna</font>
+
+156
+00:06:51,459 --> 00:06:53,889
+<font color="#E5E5E5">and her plants use Facebook and weather</font>
+
+157
+00:06:53,889 --> 00:06:56,639
+apps to brainwash<font color="#CCCCCC"> other people's kids</font>
+
+158
+00:06:56,639 --> 00:06:58,869
+<font color="#E5E5E5">even after your kids have spent the</font>
+
+159
+00:06:58,869 --> 00:07:01,180
+whole day being<font color="#CCCCCC"> brainwashed at school</font>
+
+160
+00:07:01,180 --> 00:07:03,330
+are<font color="#CCCCCC"> just a symptom</font><font color="#E5E5E5"> of a greater</font>
+
+161
+00:07:03,330 --> 00:07:07,330
+government<font color="#CCCCCC"> sickness</font><font color="#E5E5E5"> that sickness is</font>
+
+162
+00:07:07,330 --> 00:07:10,240
+they are<font color="#CCCCCC"> just so desperate to want to be</font>
+
+163
+00:07:10,240 --> 00:07:12,550
+the cool kids doing cool stuff<font color="#CCCCCC"> on social</font>
+
+164
+00:07:12,550 --> 00:07:15,519
+<font color="#E5E5E5">media and we all have to pay</font><font color="#CCCCCC"> for their</font>
+
+165
+00:07:15,519 --> 00:07:18,819
+petty vanity<font color="#E5E5E5"> last year Conservative MP</font>
+
+166
+00:07:18,819 --> 00:07:20,979
+Michelle Rempel uncovered through access
+
+167
+00:07:20,979 --> 00:07:23,439
+to information that<font color="#CCCCCC"> the</font><font color="#E5E5E5"> government</font><font color="#CCCCCC"> of</font>
+
+168
+00:07:23,439 --> 00:07:27,219
+<font color="#E5E5E5">Canada had spent</font><font color="#CCCCCC"> $16,000 on custom</font>
+
+169
+00:07:27,219 --> 00:07:30,729
+snapchat filters one filter created for
+
+170
+00:07:30,729 --> 00:07:32,619
+the Department<font color="#E5E5E5"> of Canadian</font><font color="#CCCCCC"> Heritage</font>
+
+171
+00:07:32,619 --> 00:07:36,129
+costs $10,000<font color="#E5E5E5"> u.s. but was only used</font>
+
+172
+00:07:36,129 --> 00:07:38,860
+<font color="#E5E5E5">eight hundred and</font><font color="#CCCCCC"> fifty nine times</font><font color="#E5E5E5"> it is</font>
+
+173
+00:07:38,860 --> 00:07:41,409
+high time the Liberals learned<font color="#E5E5E5"> you can't</font>
+
+174
+00:07:41,409 --> 00:07:44,469
+buy cool<font color="#E5E5E5"> no matter how much taxpayer</font>
+
+175
+00:07:44,469 --> 00:07:46,959
+money you spend on<font color="#CCCCCC"> it for the</font><font color="#E5E5E5"> rebel</font>
+
+176
+00:07:46,959 --> 00:07:51,159
+media<font color="#CCCCCC"> I'm Shiela gun Reid did you know</font>
+
+177
+00:07:51,159 --> 00:07:53,919
+<font color="#CCCCCC">that we have a new rebel media</font><font color="#E5E5E5"> mobile</font>
+
+178
+00:07:53,919 --> 00:07:56,080
+app don't worry the<font color="#E5E5E5"> taxpayer didn't pay</font>
+
+179
+00:07:56,080 --> 00:07:56,559
+for it
+
+180
+00:07:56,559 --> 00:07:59,139
+it was<font color="#CCCCCC"> crowd funded it's available on</font>
+
+181
+00:07:59,139 --> 00:08:01,930
+the Google Play Store<font color="#CCCCCC"> or</font><font color="#E5E5E5"> the Apple App</font>
+
+182
+00:08:01,930 --> 00:08:04,209
+Store<font color="#CCCCCC"> download it give it a whirl</font><font color="#E5E5E5"> give</font>
+
+183
+00:08:04,209 --> 00:08:06,819
+<font color="#CCCCCC">us some feedback and</font><font color="#E5E5E5"> take the other side</font>
+
+184
+00:08:06,819 --> 00:08:11,009
+<font color="#E5E5E5">of the story with you wherever you go</font>
+
+185
+00:08:17,310 --> 00:00:00,000
+you
+

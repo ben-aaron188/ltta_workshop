@@ -1,0 +1,66 @@
+so I have this problem when I plug my
+laptop charger into an outlet that weird
+box between the plug and the part where
+it connects to my computer it gets super
+hot like I can't even touch it
+so I've invited Audrey Quinn from NPR's
+Planet Money team to help explain what's
+going on with my super hot laptop
+charger so Audrey what's the deal yeah
+the first thing you have to understand
+is that the kind of power that comes out
+of your wall is actually different than
+the kind of power that your electronics
+want it comes out in the form of
+alternating current electricity that
+means that the electrons are pulsing
+back and forth and your electronics want
+what's called direct current power
+that's where the electrons are flowing
+straight like a river so they have to
+convert it and when they do that
+conversion energy is wasted so what
+you're feeling is energy lost in the
+form of heat okay
+so why can't I just power my laptop with
+alternating current if that's coming out
+of the wall yeah that works just fine
+for things like lightbulbs or a
+hairdryer but electronics are a little
+more complicated if you were to send
+that alternating current power directly
+to your laptop probably see a puff of
+blue smoke oh god that sounds bad okay
+so if DC power is so great and why don't
+we just have it in our houses in the
+first place so this goes back to the
+late 1800s there were two guys who
+represented the two different kinds of
+power there was Thomas Edison he was all
+about DC power and then there's Nikola
+Tesla he was your AC guy they're totally
+duking it out every time a new building
+goes in it's kind of this whoa what's
+gonna happen are they gonna use AC or
+they're gonna
+DC and what happens eventually is that
+AC power is much better at traveling
+long distances so ultimately the entire
+power grid gets set up to spread AC
+power but today you have all these
+devices we have smartphones we have
+electric cars we have tablets we have
+computers and all these things are
+hungry for this DC power do you think we
+could ever switch back and maybe realize
+Edison's original dream of DC power in
+every home the US has one of the best
+most reliable power grids in the world
+so people aren't saying let's knock out
+this entire grid you could just have one
+converter box in your house and that way
+you're not converting ASA to DC at the
+level of every single device so if we
+can reduce the number of conversions
+from AC to DC power even a little bit
+we're going to save a lot of energy

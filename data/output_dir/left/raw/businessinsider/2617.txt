@@ -1,0 +1,336 @@
+1
+00:00:00,550 --> 00:00:02,629
+[Music]
+
+2
+00:00:02,629 --> 00:00:06,000
+hello<font color="#E5E5E5"> I'm</font><font color="#CCCCCC"> victim i-i'm burger</font><font color="#E5E5E5"> professor</font>
+
+3
+00:00:06,000 --> 00:00:07,980
+<font color="#E5E5E5">of Internet</font><font color="#CCCCCC"> Governance</font><font color="#E5E5E5"> at the University</font>
+
+4
+00:00:07,980 --> 00:00:10,400
+of<font color="#CCCCCC"> Oxford</font><font color="#E5E5E5"> and co-author of the new book</font>
+
+5
+00:00:10,400 --> 00:00:12,990
+<font color="#E5E5E5">reinventing capitalism in the</font><font color="#CCCCCC"> age</font><font color="#E5E5E5"> of big</font>
+
+6
+00:00:12,990 --> 00:00:15,089
+data<font color="#CCCCCC"> the huge market</font><font color="#E5E5E5"> platforms the</font>
+
+7
+00:00:15,089 --> 00:00:16,949
+<font color="#CCCCCC">Netflix's</font><font color="#E5E5E5"> and the Amazons of this world</font>
+
+8
+00:00:16,949 --> 00:00:19,830
+<font color="#E5E5E5">they know a lot about</font><font color="#CCCCCC"> us and we as</font>
+
+9
+00:00:19,830 --> 00:00:22,500
+humans think<font color="#E5E5E5"> that we are so</font><font color="#CCCCCC"> original and</font>
+
+10
+00:00:22,500 --> 00:00:25,050
+so creative<font color="#E5E5E5"> and</font><font color="#CCCCCC"> so unpredictably and</font>
+
+11
+00:00:25,050 --> 00:00:27,480
+irrational<font color="#CCCCCC"> when in</font><font color="#E5E5E5"> fact we</font><font color="#CCCCCC"> are much more</font>
+
+12
+00:00:27,480 --> 00:00:31,590
+<font color="#CCCCCC">predictable than</font><font color="#E5E5E5"> we think</font><font color="#CCCCCC"> and so those</font>
+
+13
+00:00:31,590 --> 00:00:35,250
+companies could conceivably use the data
+
+14
+00:00:35,250 --> 00:00:38,070
+<font color="#E5E5E5">that they have and try to influence us</font>
+
+15
+00:00:38,070 --> 00:00:40,410
+not<font color="#E5E5E5"> just in our buying decisions but in</font>
+
+16
+00:00:40,410 --> 00:00:42,840
+our political<font color="#E5E5E5"> decisions we've seen some</font>
+
+17
+00:00:42,840 --> 00:00:46,950
+of<font color="#CCCCCC"> that</font><font color="#E5E5E5"> sinister tone in the discussion</font>
+
+18
+00:00:46,950 --> 00:00:49,770
+about fake news on Facebook and the
+
+19
+00:00:49,770 --> 00:00:52,590
+targeting of fake news<font color="#E5E5E5"> to particular</font>
+
+20
+00:00:52,590 --> 00:00:55,980
+<font color="#CCCCCC">users of Facebook over the last six to</font>
+
+21
+00:00:55,980 --> 00:00:59,100
+<font color="#E5E5E5">nine months</font><font color="#CCCCCC"> so the obvious danger for</font>
+
+22
+00:00:59,100 --> 00:01:02,070
+consumers is that that they become
+
+23
+00:01:02,070 --> 00:01:05,489
+transparent<font color="#CCCCCC"> that their privacy and their</font>
+
+24
+00:01:05,489 --> 00:01:08,909
+data is being abused or at least
+
+25
+00:01:08,909 --> 00:01:11,220
+exploited by those large platforms<font color="#E5E5E5"> but I</font>
+
+26
+00:01:11,220 --> 00:01:14,640
+see an even<font color="#CCCCCC"> larger</font><font color="#E5E5E5"> more sinister danger</font>
+
+27
+00:01:14,640 --> 00:01:17,130
+and the sinister danger has to do with
+
+28
+00:01:17,130 --> 00:01:19,280
+the fact that those digital
+
+29
+00:01:19,280 --> 00:01:21,720
+recommendation engines those smart
+
+30
+00:01:21,720 --> 00:01:24,210
+assistants that<font color="#E5E5E5"> are</font><font color="#CCCCCC"> data-driven</font><font color="#E5E5E5"> and are</font>
+
+31
+00:01:24,210 --> 00:01:27,000
+proliferating on those data rich market
+
+32
+00:01:27,000 --> 00:01:29,880
+platforms<font color="#E5E5E5"> these assistants are fed with</font>
+
+33
+00:01:29,880 --> 00:01:31,829
+<font color="#E5E5E5">data from all</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> us</font>
+
+34
+00:01:31,829 --> 00:01:35,970
+if these assistants have a flaw<font color="#CCCCCC"> in</font><font color="#E5E5E5"> how</font>
+
+35
+00:01:35,970 --> 00:01:38,520
+they interpret data<font color="#E5E5E5"> then every one of</font>
+
+36
+00:01:38,520 --> 00:01:40,770
+<font color="#E5E5E5">the recommendations that they make will</font>
+
+37
+00:01:40,770 --> 00:01:42,899
+be flawed will be biased and<font color="#E5E5E5"> so we all</font>
+
+38
+00:01:42,899 --> 00:01:45,540
+make the wrong decisions the beauty of
+
+39
+00:01:45,540 --> 00:01:47,430
+the market has always been that it's
+
+40
+00:01:47,430 --> 00:01:49,820
+been<font color="#E5E5E5"> resilient</font><font color="#CCCCCC"> if somebody makes a</font>
+
+41
+00:01:49,820 --> 00:01:52,560
+stupid choice then the market doesn't go
+
+42
+00:01:52,560 --> 00:01:54,960
+down to<font color="#E5E5E5"> two but that only works if</font><font color="#CCCCCC"> we</font>
+
+43
+00:01:54,960 --> 00:01:58,380
+are independent<font color="#CCCCCC"> of each</font><font color="#E5E5E5"> other</font><font color="#CCCCCC"> if however</font>
+
+44
+00:01:58,380 --> 00:02:02,390
+we all<font color="#E5E5E5"> listen to the same stupid</font><font color="#CCCCCC"> smart</font>
+
+45
+00:02:02,390 --> 00:02:05,100
+recommendation engine we all<font color="#E5E5E5"> may make</font>
+
+46
+00:02:05,100 --> 00:02:07,320
+the same mistake<font color="#CCCCCC"> it's like finding</font><font color="#E5E5E5"> out</font>
+
+47
+00:02:07,320 --> 00:02:10,649
+<font color="#E5E5E5">that your car has a</font><font color="#CCCCCC"> brake</font><font color="#E5E5E5"> that doesn't</font>
+
+48
+00:02:10,649 --> 00:02:12,660
+work<font color="#E5E5E5"> and everybody else's cars has the</font>
+
+49
+00:02:12,660 --> 00:02:12,890
+same
+
+50
+00:02:12,890 --> 00:02:15,920
+break<font color="#E5E5E5"> and this is the kind of single</font>
+
+51
+00:02:15,920 --> 00:02:17,690
+<font color="#E5E5E5">point of failure that we may encounter</font>
+
+52
+00:02:17,690 --> 00:02:21,020
+<font color="#E5E5E5">if we continue along the path of these</font>
+
+53
+00:02:21,020 --> 00:02:23,990
+monopolistic structures<font color="#E5E5E5"> if we believe</font>
+
+54
+00:02:23,990 --> 00:02:25,819
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> the market is a really good social</font>
+
+55
+00:02:25,819 --> 00:02:27,650
+<font color="#E5E5E5">innovation to bring people together and</font>
+
+56
+00:02:27,650 --> 00:02:29,900
+<font color="#E5E5E5">to help them coordinate then we need to</font>
+
+57
+00:02:29,900 --> 00:02:33,350
+<font color="#E5E5E5">keep them competitive and every company</font>
+
+58
+00:02:33,350 --> 00:02:35,990
+<font color="#CCCCCC">that operates</font><font color="#E5E5E5"> in the market and it's</font>
+
+59
+00:02:35,990 --> 00:02:38,060
+getting<font color="#E5E5E5"> larger and larger will</font><font color="#CCCCCC"> be able</font>
+
+60
+00:02:38,060 --> 00:02:40,370
+<font color="#E5E5E5">to offer their products at lower prices</font>
+
+61
+00:02:40,370 --> 00:02:43,190
+<font color="#CCCCCC">that's</font><font color="#E5E5E5"> called the scale effect</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> you</font>
+
+62
+00:02:43,190 --> 00:02:45,020
+scale up<font color="#CCCCCC"> that you can produce</font><font color="#E5E5E5"> more</font>
+
+63
+00:02:45,020 --> 00:02:47,840
+cheaply<font color="#E5E5E5"> the counter force to the scale</font>
+
+64
+00:02:47,840 --> 00:02:49,640
+effect<font color="#E5E5E5"> of market concentration has</font>
+
+65
+00:02:49,640 --> 00:02:52,220
+always been innovation that<font color="#E5E5E5"> is that a</font>
+
+66
+00:02:52,220 --> 00:02:54,950
+<font color="#E5E5E5">new company can come</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> with a great</font>
+
+67
+00:02:54,950 --> 00:02:58,760
+<font color="#E5E5E5">idea and then</font><font color="#CCCCCC"> topple the incumbent</font>
+
+68
+00:02:58,760 --> 00:03:01,220
+<font color="#E5E5E5">because they just have the better idea</font>
+
+69
+00:03:01,220 --> 00:03:04,760
+to use the problem now<font color="#CCCCCC"> is that</font><font color="#E5E5E5"> most</font>
+
+70
+00:03:04,760 --> 00:03:06,500
+innovation<font color="#E5E5E5"> in the future is going</font><font color="#CCCCCC"> to be</font>
+
+71
+00:03:06,500 --> 00:03:08,690
+<font color="#CCCCCC">data-driven</font><font color="#E5E5E5"> it's going to be derived</font>
+
+72
+00:03:08,690 --> 00:03:11,480
+from<font color="#E5E5E5"> feedback data from consumers</font><font color="#CCCCCC"> and</font>
+
+73
+00:03:11,480 --> 00:03:14,510
+users so the companies that<font color="#E5E5E5"> have a lot</font>
+
+74
+00:03:14,510 --> 00:03:17,650
+of<font color="#CCCCCC"> data</font><font color="#E5E5E5"> will also</font><font color="#CCCCCC"> be highly innovative</font>
+
+75
+00:03:17,650 --> 00:03:21,230
+<font color="#E5E5E5">that will lead to an unprecedented age</font>
+
+76
+00:03:21,230 --> 00:03:23,989
+of market concentration<font color="#E5E5E5"> and if we</font><font color="#CCCCCC"> don't</font>
+
+77
+00:03:23,989 --> 00:03:25,400
+stop<font color="#CCCCCC"> it now</font>
+
+78
+00:03:25,400 --> 00:03:29,329
+we will find monopolies that<font color="#E5E5E5"> combine</font>
+
+79
+00:03:29,329 --> 00:03:31,820
+<font color="#E5E5E5">political and market power like we</font><font color="#CCCCCC"> have</font>
+
+80
+00:03:31,820 --> 00:03:34,420
+never seen<font color="#CCCCCC"> before</font>
+
+81
+00:03:36,160 --> 00:03:39,220
+[Music]
+
+82
+00:03:41,710 --> 00:03:43,020
+you
+
+83
+00:03:43,020 --> 00:03:46,580
+[Music]
+
+84
+00:03:51,580 --> 00:00:00,000
+you
+

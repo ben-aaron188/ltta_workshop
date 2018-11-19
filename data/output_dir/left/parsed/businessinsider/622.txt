@@ -1,0 +1,50 @@
+when you think about algorithms in the
+criminal justice system you have to
+really think about the data and how the
+data is built I'm Cathy O'Neill I'm a
+math nerd data scientist and author so
+the way predictive policing works is
+they take the data they look for crime
+data and they really don't have crime
+data so they use this their best proxy
+for it which is usually arrest data
+which means that police are basically
+sent back to the same neighborhoods
+where they're already over policing and
+in particular they're not sent to
+neighborhoods that have crime but aren't
+those crimes aren't found now if you
+think about what that means for the
+algorithms where you're looking for
+crimes based on the location of previous
+arrests or previous convictions or even
+previous reported crime that kind of
+algorithm is intrinsically biased and
+then there's another kind of algorithm
+that is little downstream from the
+predictive policing algorithm it's
+called the recidivism risk algorithm
+recidivism risk algorithms are used by
+judges to determine how long sent a
+sentence a defendant and the higher risk
+of recidivism which is the risk of
+returning to prison sometime in the
+future
+or even just getting arrested in the
+future the higher risk the longer
+someone gets sentenced and what
+ProPublica found was the compass model
+which is one version of a recidivism
+earth model made mistakes by sending
+people to prison longer that kind of
+mistake twice as often for African
+American defendants as for white
+defendants at least in Broward County
+Florida and if there's another kind of
+mistake you can make which is you look
+like you're not coming back you look low
+risk where you actually do come back
+that kind of risk
+that kind of mistake was made twice as
+often for white defendants as for
+African American defense

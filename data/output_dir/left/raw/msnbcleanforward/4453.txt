@@ -1,0 +1,1340 @@
+1
+00:00:00,170 --> 00:00:02,310
+today the Treasury Department announced
+
+2
+00:00:02,310 --> 00:00:03,810
+they were going<font color="#CCCCCC"> to bring sanctions new</font>
+
+3
+00:00:03,810 --> 00:00:05,190
+<font color="#E5E5E5">sanctions against the Russians who were</font>
+
+4
+00:00:05,190 --> 00:00:08,160
+indicted by robert muller last month<font color="#E5E5E5"> yet</font>
+
+5
+00:00:08,160 --> 00:00:09,960
+another payout from<font color="#E5E5E5"> the robert muller</font>
+
+6
+00:00:09,960 --> 00:00:12,150
+special<font color="#E5E5E5"> counsels office but then at the</font>
+
+7
+00:00:12,150 --> 00:00:15,480
+<font color="#CCCCCC">same time we also got this a technical</font>
+
+8
+00:00:15,480 --> 00:00:18,240
+alert<font color="#E5E5E5"> from the FBI and</font><font color="#CCCCCC"> the Department</font><font color="#E5E5E5"> of</font>
+
+9
+00:00:18,240 --> 00:00:20,100
+Homeland<font color="#CCCCCC"> Security this alert provides</font>
+
+10
+00:00:20,100 --> 00:00:21,720
+information on<font color="#E5E5E5"> Russian government</font>
+
+11
+00:00:21,720 --> 00:00:23,699
+actions<font color="#E5E5E5"> targeting</font><font color="#CCCCCC"> US government entities</font>
+
+12
+00:00:23,699 --> 00:00:26,400
+as well<font color="#CCCCCC"> as organizations in the energy</font>
+
+13
+00:00:26,400 --> 00:00:29,250
+nuclear commercial facilities water
+
+14
+00:00:29,250 --> 00:00:31,439
+aviation and critical manufacturing
+
+15
+00:00:31,439 --> 00:00:34,020
+sectors this<font color="#E5E5E5"> alert contains indicators</font>
+
+16
+00:00:34,020 --> 00:00:36,660
+of<font color="#E5E5E5"> compromise and technical</font><font color="#CCCCCC"> details on</font>
+
+17
+00:00:36,660 --> 00:00:38,309
+the tactics techniques and procedures
+
+18
+00:00:38,309 --> 00:00:41,100
+used<font color="#E5E5E5"> by Russian government cyber actors</font>
+
+19
+00:00:41,100 --> 00:00:44,789
+on compromised victim networks<font color="#E5E5E5"> now you</font>
+
+20
+00:00:44,789 --> 00:00:46,920
+can tell from all the weird nouns there
+
+21
+00:00:46,920 --> 00:00:48,719
+that this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> obviously a technical</font>
+
+22
+00:00:48,719 --> 00:00:50,520
+<font color="#CCCCCC">document this is a long</font><font color="#E5E5E5"> and technical</font>
+
+23
+00:00:50,520 --> 00:00:52,410
+document but the<font color="#E5E5E5"> plain English</font><font color="#CCCCCC"> of it is</font>
+
+24
+00:00:52,410 --> 00:00:53,969
+clear it's a it's a warning<font color="#E5E5E5"> it's some</font>
+
+25
+00:00:53,969 --> 00:00:56,010
+sort of nationwide<font color="#E5E5E5"> signal that something</font>
+
+26
+00:00:56,010 --> 00:00:57,570
+<font color="#CCCCCC">is wrong</font>
+
+27
+00:00:57,570 --> 00:00:58,980
+<font color="#E5E5E5">says right at the top of the report</font>
+
+28
+00:00:58,980 --> 00:01:01,219
+contact DHS or law enforcement
+
+29
+00:01:01,219 --> 00:01:05,939
+<font color="#CCCCCC">immediately</font><font color="#E5E5E5"> to report an intrusion now</font><font color="#CCCCCC"> I</font>
+
+30
+00:01:05,939 --> 00:01:09,060
+am not tech savvy enough<font color="#CCCCCC"> or sort of</font>
+
+31
+00:01:09,060 --> 00:01:10,680
+computer engineer minded<font color="#CCCCCC"> enough to</font>
+
+32
+00:01:10,680 --> 00:01:12,450
+understand<font color="#E5E5E5"> a ton of what is here</font>
+
+33
+00:01:12,450 --> 00:01:13,890
+<font color="#E5E5E5">particularly the long strings of</font>
+
+34
+00:01:13,890 --> 00:01:15,360
+<font color="#E5E5E5">computer code that are</font><font color="#CCCCCC"> included</font><font color="#E5E5E5"> in this</font>
+
+35
+00:01:15,360 --> 00:01:17,970
+report<font color="#CCCCCC"> but what is clear</font><font color="#E5E5E5"> to me just as</font>
+
+36
+00:01:17,970 --> 00:01:20,009
+somebody who reads<font color="#E5E5E5"> the</font><font color="#CCCCCC"> news is that this</font>
+
+37
+00:01:20,009 --> 00:01:23,610
+appears<font color="#CCCCCC"> to be</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> follow-up and much</font>
+
+38
+00:01:23,610 --> 00:01:25,650
+more serious and<font color="#E5E5E5"> much more</font><font color="#CCCCCC"> public</font><font color="#E5E5E5"> update</font>
+
+39
+00:01:25,650 --> 00:01:27,930
+<font color="#E5E5E5">to something we saw that</font><font color="#CCCCCC"> happen this</font>
+
+40
+00:01:27,930 --> 00:01:30,450
+past summer this<font color="#E5E5E5"> past</font><font color="#CCCCCC"> summer you might</font>
+
+41
+00:01:30,450 --> 00:01:31,710
+remember this when you see this picture
+
+42
+00:01:31,710 --> 00:01:33,180
+<font color="#CCCCCC">of that nuclear power</font><font color="#E5E5E5"> plant</font>
+
+43
+00:01:33,180 --> 00:01:35,430
+this past summer Bloomberg<font color="#E5E5E5"> News of New</font>
+
+44
+00:01:35,430 --> 00:01:37,500
+York Times reported that<font color="#E5E5E5"> a secret</font>
+
+45
+00:01:37,500 --> 00:01:39,689
+warning had been issued by these same
+
+46
+00:01:39,689 --> 00:01:41,549
+agencies by Homeland Security<font color="#CCCCCC"> and F and</font>
+
+47
+00:01:41,549 --> 00:01:43,470
+<font color="#E5E5E5">the FBI</font><font color="#CCCCCC"> a secret warning had been issued</font>
+
+48
+00:01:43,470 --> 00:01:45,390
+to American power plant operators
+
+49
+00:01:45,390 --> 00:01:47,280
+telling them that there had been<font color="#E5E5E5"> cyber</font>
+
+50
+00:01:47,280 --> 00:01:49,740
+<font color="#E5E5E5">attacks specifically targeting</font><font color="#CCCCCC"> u.s.</font>
+
+51
+00:01:49,740 --> 00:01:52,290
+power plants including memorably the
+
+52
+00:01:52,290 --> 00:01:54,960
+operator<font color="#E5E5E5"> of this big isolated nuclear</font>
+
+53
+00:01:54,960 --> 00:01:57,810
+reactor out in Burlington Kansas<font color="#E5E5E5"> the</font>
+
+54
+00:01:57,810 --> 00:02:00,030
+warning<font color="#CCCCCC"> this past summer</font><font color="#E5E5E5"> about these</font>
+
+55
+00:02:00,030 --> 00:02:01,770
+cyber attacks on American power plants
+
+56
+00:02:01,770 --> 00:02:03,479
+it didn't name who the perpetrator of
+
+57
+00:02:03,479 --> 00:02:07,530
+<font color="#E5E5E5">those attacks was and clearly that</font>
+
+58
+00:02:07,530 --> 00:02:08,788
+warning was<font color="#E5E5E5"> also never meant to be</font>
+
+59
+00:02:08,788 --> 00:02:10,709
+public<font color="#E5E5E5"> it was sent out secretly to power</font>
+
+60
+00:02:10,709 --> 00:02:12,210
+plant operators to let
+
+61
+00:02:12,210 --> 00:02:13,890
+them know how to<font color="#CCCCCC"> protect</font><font color="#E5E5E5"> themselves</font><font color="#CCCCCC"> we</font>
+
+62
+00:02:13,890 --> 00:02:15,330
+the public<font color="#CCCCCC"> only found out</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> it</font>
+
+63
+00:02:15,330 --> 00:02:18,210
+<font color="#E5E5E5">because</font><font color="#CCCCCC"> of very alarming leaks about</font>
+
+64
+00:02:18,210 --> 00:02:19,950
+<font color="#E5E5E5">this secret warning that made their way</font>
+
+65
+00:02:19,950 --> 00:02:22,170
+into the<font color="#E5E5E5"> pages of the New York Times and</font>
+
+66
+00:02:22,170 --> 00:02:24,540
+<font color="#E5E5E5">Bloomberg News so that was last summer</font>
+
+67
+00:02:24,540 --> 00:02:26,900
+now it's seven eight<font color="#E5E5E5"> months</font><font color="#CCCCCC"> later now</font>
+
+68
+00:02:26,900 --> 00:02:29,370
+<font color="#CCCCCC">the government is</font><font color="#E5E5E5"> making a</font><font color="#CCCCCC"> public</font>
+
+69
+00:02:29,370 --> 00:02:32,070
+warning<font color="#E5E5E5"> saying that these</font><font color="#CCCCCC"> attacks on US</font>
+
+70
+00:02:32,070 --> 00:02:34,110
+<font color="#E5E5E5">power plants have</font><font color="#CCCCCC"> been</font><font color="#E5E5E5"> committed by</font><font color="#CCCCCC"> a</font>
+
+71
+00:02:34,110 --> 00:02:37,410
+known perpetrator they've perpetrated by
+
+72
+00:02:37,410 --> 00:02:39,000
+the<font color="#CCCCCC"> government</font><font color="#E5E5E5"> of Russia</font>
+
+73
+00:02:39,000 --> 00:02:41,850
+and this time the warning is public it's
+
+74
+00:02:41,850 --> 00:02:43,590
+<font color="#E5E5E5">not a secret warning that</font><font color="#CCCCCC"> only goes out</font>
+
+75
+00:02:43,590 --> 00:02:46,590
+<font color="#E5E5E5">to power plant operators and skilled</font>
+
+76
+00:02:46,590 --> 00:02:49,590
+journalists<font color="#E5E5E5"> it's going to everybody and</font>
+
+77
+00:02:49,590 --> 00:02:50,790
+I<font color="#CCCCCC"> think what they are saying is that</font>
+
+78
+00:02:50,790 --> 00:02:53,160
+<font color="#E5E5E5">these attacks have gotten more serious</font>
+
+79
+00:02:53,160 --> 00:02:54,900
+<font color="#CCCCCC">Nicole pearlroth</font><font color="#E5E5E5"> at the New York Times</font>
+
+80
+00:02:54,900 --> 00:02:57,570
+<font color="#CCCCCC">covered this</font><font color="#E5E5E5"> for The Times last summer</font>
+
+81
+00:02:57,570 --> 00:03:00,180
+when the warning had<font color="#E5E5E5"> been secret and it</font>
+
+82
+00:03:00,180 --> 00:03:01,680
+hadn't named Russia
+
+83
+00:03:01,680 --> 00:03:03,570
+<font color="#E5E5E5">Nicole</font><font color="#CCCCCC"> pearlroth is also covering it</font>
+
+84
+00:03:03,570 --> 00:03:05,370
+<font color="#CCCCCC">tonight for the New</font><font color="#E5E5E5"> York Times now that</font>
+
+85
+00:03:05,370 --> 00:03:08,160
+the warning is public and it does<font color="#E5E5E5"> name</font>
+
+86
+00:03:08,160 --> 00:03:10,950
+Russia<font color="#E5E5E5"> here's how she explains the</font>
+
+87
+00:03:10,950 --> 00:03:13,230
+evolution here quote in<font color="#E5E5E5"> its urgent</font>
+
+88
+00:03:13,230 --> 00:03:14,460
+report in<font color="#E5E5E5"> June the Department</font><font color="#CCCCCC"> of</font>
+
+89
+00:03:14,460 --> 00:03:16,440
+Homeland Security<font color="#E5E5E5"> and</font><font color="#CCCCCC"> the FBI</font><font color="#E5E5E5"> notified</font>
+
+90
+00:03:16,440 --> 00:03:18,150
+power plant operators about the attacks
+
+91
+00:03:18,150 --> 00:03:20,130
+but<font color="#E5E5E5"> stopped short of identifying Russia</font>
+
+92
+00:03:20,130 --> 00:03:22,770
+as the<font color="#E5E5E5"> culprit by then Russian spies had</font>
+
+93
+00:03:22,770 --> 00:03:24,150
+compromised the business<font color="#E5E5E5"> networks</font>
+
+94
+00:03:24,150 --> 00:03:26,190
+business networks of several American
+
+95
+00:03:26,190 --> 00:03:29,130
+<font color="#E5E5E5">energy water and nuclear plants mapping</font>
+
+96
+00:03:29,130 --> 00:03:30,540
+out their corporate structures<font color="#E5E5E5"> and</font>
+
+97
+00:03:30,540 --> 00:03:32,730
+computer networks<font color="#E5E5E5"> they included that of</font>
+
+98
+00:03:32,730 --> 00:03:34,470
+the<font color="#CCCCCC"> Wolf Creek nuclear operating</font>
+
+99
+00:03:34,470 --> 00:03:36,360
+<font color="#CCCCCC">corporation which runs a nuclear plant</font>
+
+100
+00:03:36,360 --> 00:03:39,000
+near<font color="#E5E5E5"> Burlington Kansas but in that case</font>
+
+101
+00:03:39,000 --> 00:03:40,380
+and those<font color="#E5E5E5"> of other nuclear operators</font>
+
+102
+00:03:40,380 --> 00:03:42,720
+<font color="#E5E5E5">Russian hackers hadn't left from the</font>
+
+103
+00:03:42,720 --> 00:03:45,540
+company's business<font color="#E5E5E5"> networks into nuclear</font>
+
+104
+00:03:45,540 --> 00:03:48,210
+plant controls<font color="#E5E5E5"> forensic analysis</font>
+
+105
+00:03:48,210 --> 00:03:49,740
+suggested that Russian spies were
+
+106
+00:03:49,740 --> 00:03:52,350
+looking for inroads<font color="#E5E5E5"> although it wasn't</font>
+
+107
+00:03:52,350 --> 00:03:55,470
+clear<font color="#E5E5E5"> what what their goal was well now</font>
+
+108
+00:03:55,470 --> 00:03:57,510
+apparently they've gotten<font color="#E5E5E5"> further in</font>
+
+109
+00:03:57,510 --> 00:03:59,160
+these<font color="#E5E5E5"> attacks according to this report</font>
+
+110
+00:03:59,160 --> 00:04:00,720
+released today by<font color="#E5E5E5"> homeland security in</font>
+
+111
+00:04:00,720 --> 00:04:03,240
+the<font color="#CCCCCC"> FBI by the spring of 2017</font>
+
+112
+00:04:03,240 --> 00:04:05,610
+<font color="#E5E5E5">Russian attackers successfully</font>
+
+113
+00:04:05,610 --> 00:04:07,380
+compromised some North American<font color="#CCCCCC"> and</font>
+
+114
+00:04:07,380 --> 00:04:09,420
+European<font color="#CCCCCC"> energy</font><font color="#E5E5E5"> operators in the</font>
+
+115
+00:04:09,420 --> 00:04:10,770
+following months<font color="#CCCCCC"> the</font><font color="#E5E5E5"> Russian hackers</font>
+
+116
+00:04:10,770 --> 00:04:12,780
+made their way<font color="#CCCCCC"> to machines</font><font color="#E5E5E5"> that have</font>
+
+117
+00:04:12,780 --> 00:04:15,000
+access to<font color="#E5E5E5"> critical control systems at</font>
+
+118
+00:04:15,000 --> 00:04:16,920
+power<font color="#CCCCCC"> plants so not</font><font color="#E5E5E5"> just the</font><font color="#CCCCCC"> business</font>
+
+119
+00:04:16,920 --> 00:04:18,540
+side but<font color="#CCCCCC"> the stuff that actually</font>
+
+120
+00:04:18,540 --> 00:04:22,019
+controls the<font color="#CCCCCC"> power plants new computer</font>
+
+121
+00:04:22,019 --> 00:04:23,820
+screenshots released in the report<font color="#CCCCCC"> today</font>
+
+122
+00:04:23,820 --> 00:04:25,440
+show that Russian state hackers
+
+123
+00:04:25,440 --> 00:04:27,000
+<font color="#CCCCCC">have the foothold</font><font color="#E5E5E5"> they would have</font><font color="#CCCCCC"> needed</font>
+
+124
+00:04:27,000 --> 00:04:29,190
+to<font color="#CCCCCC"> manipulate or shut down a u.s. power</font>
+
+125
+00:04:29,190 --> 00:04:32,310
+plants according<font color="#E5E5E5"> to Eric chin a security</font>
+
+126
+00:04:32,310 --> 00:04:33,840
+<font color="#E5E5E5">technology director at Symantec a</font>
+
+127
+00:04:33,840 --> 00:04:35,400
+digital security<font color="#E5E5E5"> firm that's reported</font>
+
+128
+00:04:35,400 --> 00:04:37,800
+<font color="#E5E5E5">extensively on this</font><font color="#CCCCCC"> attack quote we now</font>
+
+129
+00:04:37,800 --> 00:04:39,360
+have evidence<font color="#E5E5E5"> that they're sitting on</font>
+
+130
+00:04:39,360 --> 00:04:41,730
+the machines connected<font color="#E5E5E5"> to industrial</font>
+
+131
+00:04:41,730 --> 00:04:43,980
+control<font color="#E5E5E5"> infrastructure that allow them</font>
+
+132
+00:04:43,980 --> 00:04:46,080
+to<font color="#E5E5E5"> effectively turn the power off</font><font color="#CCCCCC"> or</font>
+
+133
+00:04:46,080 --> 00:04:48,990
+<font color="#CCCCCC">effect sabotage</font><font color="#E5E5E5"> from what we can see</font>
+
+134
+00:04:48,990 --> 00:04:51,030
+<font color="#E5E5E5">they're there and they have the ability</font>
+
+135
+00:04:51,030 --> 00:04:53,250
+<font color="#E5E5E5">to shut the power off all that's missing</font>
+
+136
+00:04:53,250 --> 00:04:58,470
+<font color="#E5E5E5">is some political motivation the reason</font>
+
+137
+00:04:58,470 --> 00:05:02,370
+this story belongs today alongside the
+
+138
+00:05:02,370 --> 00:05:03,840
+new<font color="#E5E5E5"> sanctions that were just</font><font color="#CCCCCC"> announced</font>
+
+139
+00:05:03,840 --> 00:05:05,160
+against Russia and<font color="#CCCCCC"> the Moller</font>
+
+140
+00:05:05,160 --> 00:05:07,890
+investigation more broadly<font color="#E5E5E5"> the reason</font>
+
+141
+00:05:07,890 --> 00:05:09,510
+<font color="#E5E5E5">this belongs</font><font color="#CCCCCC"> align side that reporting</font>
+
+142
+00:05:09,510 --> 00:05:11,340
+is in part because<font color="#E5E5E5"> this is something</font>
+
+143
+00:05:11,340 --> 00:05:13,560
+<font color="#CCCCCC">else done by the</font><font color="#E5E5E5"> Russian government to</font>
+
+144
+00:05:13,560 --> 00:05:16,340
+us<font color="#E5E5E5"> but it's also because</font><font color="#CCCCCC"> of the timing</font>
+
+145
+00:05:16,340 --> 00:05:18,420
+<font color="#CCCCCC">what's described here in this new</font>
+
+146
+00:05:18,420 --> 00:05:20,160
+technical warning from<font color="#CCCCCC"> homeland security</font>
+
+147
+00:05:20,160 --> 00:05:22,470
+in the FBI<font color="#E5E5E5"> is an attack</font><font color="#CCCCCC"> that does have</font>
+
+148
+00:05:22,470 --> 00:05:24,540
+have roots<font color="#E5E5E5"> and you can see first signs</font>
+
+149
+00:05:24,540 --> 00:05:26,670
+of it going several years<font color="#E5E5E5"> back but in</font>
+
+150
+00:05:26,670 --> 00:05:29,790
+terms of when<font color="#E5E5E5"> this really</font><font color="#CCCCCC"> got going</font><font color="#E5E5E5"> it</font>
+
+151
+00:05:29,790 --> 00:05:32,400
+parallels<font color="#E5E5E5"> exactly the timing and</font><font color="#CCCCCC"> the</font>
+
+152
+00:05:32,400 --> 00:05:34,740
+<font color="#E5E5E5">pace at which Russia was mounting their</font>
+
+153
+00:05:34,740 --> 00:05:37,860
+other attacks on<font color="#E5E5E5"> our election leading</font><font color="#CCCCCC"> up</font>
+
+154
+00:05:37,860 --> 00:05:39,390
+to the election victory of Donald Trump
+
+155
+00:05:39,390 --> 00:05:43,050
+<font color="#E5E5E5">quote the strikes accelerated in late</font>
+
+156
+00:05:43,050 --> 00:05:45,510
+2015<font color="#CCCCCC"> at the same time the Russian</font>
+
+157
+00:05:45,510 --> 00:05:47,400
+<font color="#CCCCCC">interference in the American election</font>
+
+158
+00:05:47,400 --> 00:05:50,130
+was<font color="#CCCCCC"> underway by December 2015</font><font color="#E5E5E5"> the</font>
+
+159
+00:05:50,130 --> 00:05:51,690
+Russian hacks had taken an aggressive
+
+160
+00:05:51,690 --> 00:05:53,820
+turn the attacks were no longer<font color="#E5E5E5"> aimed at</font>
+
+161
+00:05:53,820 --> 00:05:54,900
+intelligence gathering
+
+162
+00:05:54,900 --> 00:05:56,790
+but at potentially sabotaging or
+
+163
+00:05:56,790 --> 00:05:58,620
+shutting down power<font color="#E5E5E5"> plant operations</font>
+
+164
+00:05:58,620 --> 00:06:00,870
+<font color="#CCCCCC">this would</font><font color="#E5E5E5"> suggest that at least three</font>
+
+165
+00:06:00,870 --> 00:06:02,940
+<font color="#E5E5E5">separate Russian cyber operations were</font>
+
+166
+00:06:02,940 --> 00:06:05,460
+underway simultaneously<font color="#E5E5E5"> one focused on</font>
+
+167
+00:06:05,460 --> 00:06:07,110
+stealing<font color="#CCCCCC"> documents from the Democratic</font>
+
+168
+00:06:07,110 --> 00:06:08,190
+National<font color="#E5E5E5"> Committee</font><font color="#CCCCCC"> and other political</font>
+
+169
+00:06:08,190 --> 00:06:11,100
+groups<font color="#CCCCCC"> a second</font><font color="#E5E5E5"> using social media to</font>
+
+170
+00:06:11,100 --> 00:06:13,590
+sow discord and division<font color="#E5E5E5"> and this third</font>
+
+171
+00:06:13,590 --> 00:06:15,180
+effort<font color="#CCCCCC"> sought to burrow into</font><font color="#E5E5E5"> the</font>
+
+172
+00:06:15,180 --> 00:06:17,520
+infrastructure<font color="#E5E5E5"> of American and European</font>
+
+173
+00:06:17,520 --> 00:06:19,290
+nations joining<font color="#E5E5E5"> us now is</font><font color="#CCCCCC"> Nicole pearl</font>
+
+174
+00:06:19,290 --> 00:06:20,730
+Roth who covered<font color="#CCCCCC"> the secret warning to</font>
+
+175
+00:06:20,730 --> 00:06:22,350
+power plant operators last<font color="#E5E5E5"> summer is</font>
+
+176
+00:06:22,350 --> 00:06:23,850
+covering this public warning and
+
+177
+00:06:23,850 --> 00:06:25,770
+technical alert from DHS<font color="#E5E5E5"> and FBI tonight</font>
+
+178
+00:06:25,770 --> 00:06:27,419
+at the New York<font color="#E5E5E5"> Times</font><font color="#CCCCCC"> I'm</font><font color="#E5E5E5"> is pearlroth</font>
+
+179
+00:06:27,419 --> 00:06:28,590
+thanks very much for<font color="#E5E5E5"> joining us I</font>
+
+180
+00:06:28,590 --> 00:06:32,090
+appreciate<font color="#CCCCCC"> you</font><font color="#E5E5E5"> being</font><font color="#CCCCCC"> here</font><font color="#E5E5E5"> thanks Rita so</font>
+
+181
+00:06:32,090 --> 00:06:34,710
+first of<font color="#E5E5E5"> all this is technical stuff and</font>
+
+182
+00:06:34,710 --> 00:06:37,169
+I'm<font color="#E5E5E5"> not that technically minded</font><font color="#CCCCCC"> I will</font>
+
+183
+00:06:37,169 --> 00:06:38,790
+bet that<font color="#E5E5E5"> I just got some of that wrong</font>
+
+184
+00:06:38,790 --> 00:06:39,960
+can you tell me if I<font color="#E5E5E5"> got anything</font>
+
+185
+00:06:39,960 --> 00:06:41,700
+<font color="#E5E5E5">important wrong or if those basics were</font>
+
+186
+00:06:41,700 --> 00:06:44,700
+correct<font color="#E5E5E5"> the basics were correct you did</font>
+
+187
+00:06:44,700 --> 00:06:46,440
+a pretty good<font color="#CCCCCC"> job there you know</font><font color="#E5E5E5"> the</font>
+
+188
+00:06:46,440 --> 00:06:48,930
+point is we've<font color="#E5E5E5"> been under</font><font color="#CCCCCC"> attack</font><font color="#E5E5E5"> by</font>
+
+189
+00:06:48,930 --> 00:06:51,450
+Russia<font color="#CCCCCC"> for a while now</font>
+
+190
+00:06:51,450 --> 00:06:53,700
+this is the first time today<font color="#CCCCCC"> that the</font><font color="#E5E5E5"> US</font>
+
+191
+00:06:53,700 --> 00:06:55,770
+government has come out publicly<font color="#E5E5E5"> and</font>
+
+192
+00:06:55,770 --> 00:06:58,050
+named<font color="#E5E5E5"> Russia as the perpetrator behind</font>
+
+193
+00:06:58,050 --> 00:07:01,110
+some of these pretty serious attacks on
+
+194
+00:07:01,110 --> 00:07:03,960
+<font color="#E5E5E5">our critical infrastructure</font><font color="#CCCCCC"> last year as</font>
+
+195
+00:07:03,960 --> 00:07:06,390
+you<font color="#E5E5E5"> mentioned I covered the attack on</font>
+
+196
+00:07:06,390 --> 00:07:08,730
+the<font color="#CCCCCC"> Wolf Creek</font><font color="#E5E5E5"> nuclear plant that was</font>
+
+197
+00:07:08,730 --> 00:07:11,340
+one of<font color="#CCCCCC"> about a dozen nuclear power</font>
+
+198
+00:07:11,340 --> 00:07:13,920
+plants that<font color="#E5E5E5"> Russians had targeted what's</font>
+
+199
+00:07:13,920 --> 00:07:15,780
+different in the announcement today<font color="#E5E5E5"> is</font>
+
+200
+00:07:15,780 --> 00:07:18,060
+it actually included a<font color="#CCCCCC"> screen shot that</font>
+
+201
+00:07:18,060 --> 00:07:21,270
+<font color="#CCCCCC">showed Russia's Russian hackers have</font>
+
+202
+00:07:21,270 --> 00:07:22,320
+their buttons
+
+203
+00:07:22,320 --> 00:07:24,600
+sorry their fingers on<font color="#E5E5E5"> the buttons here</font>
+
+204
+00:07:24,600 --> 00:07:27,750
+they if they wanted to<font color="#E5E5E5"> could have shut</font>
+
+205
+00:07:27,750 --> 00:07:30,060
+down<font color="#E5E5E5"> some of these power</font><font color="#CCCCCC"> plants or</font>
+
+206
+00:07:30,060 --> 00:07:32,190
+sabotage them in some way now there's no
+
+207
+00:07:32,190 --> 00:07:34,890
+evidence<font color="#CCCCCC"> that they have</font><font color="#E5E5E5"> done not yet</font><font color="#CCCCCC"> but</font>
+
+208
+00:07:34,890 --> 00:07:36,630
+for the<font color="#E5E5E5"> first time we put out publicly</font>
+
+209
+00:07:36,630 --> 00:07:38,460
+<font color="#E5E5E5">that they certainly have that capability</font>
+
+210
+00:07:38,460 --> 00:07:40,800
+why was the previous<font color="#E5E5E5"> warning to power</font>
+
+211
+00:07:40,800 --> 00:07:42,810
+plant operators<font color="#E5E5E5"> secret the one that you</font>
+
+212
+00:07:42,810 --> 00:07:44,370
+reported<font color="#E5E5E5"> on last summer that</font><font color="#CCCCCC"> was not a</font>
+
+213
+00:07:44,370 --> 00:07:46,800
+public<font color="#E5E5E5"> warning</font><font color="#CCCCCC"> I did altom</font><font color="#E5E5E5"> Utley make it</font>
+
+214
+00:07:46,800 --> 00:07:48,450
+into public discussion in part because
+
+215
+00:07:48,450 --> 00:07:50,370
+of<font color="#E5E5E5"> your reporting on</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> but this one is</font>
+
+216
+00:07:50,370 --> 00:07:52,710
+public today<font color="#E5E5E5"> is it does it necessarily</font>
+
+217
+00:07:52,710 --> 00:07:55,620
+follow<font color="#CCCCCC"> that</font><font color="#E5E5E5"> the increased</font><font color="#CCCCCC"> severity of</font>
+
+218
+00:07:55,620 --> 00:07:58,530
+<font color="#E5E5E5">these cyber attacks would result in it</font>
+
+219
+00:07:58,530 --> 00:08:00,180
+being<font color="#CCCCCC"> more important for</font><font color="#E5E5E5"> this morning to</font>
+
+220
+00:08:00,180 --> 00:08:02,040
+be public or would some of<font color="#CCCCCC"> the same</font>
+
+221
+00:08:02,040 --> 00:08:03,960
+caution apply that led them<font color="#CCCCCC"> to keep the</font>
+
+222
+00:08:03,960 --> 00:08:07,080
+previous warning under<font color="#CCCCCC"> Epps I think when</font>
+
+223
+00:08:07,080 --> 00:08:10,050
+they first came out with<font color="#CCCCCC"> it</font><font color="#E5E5E5"> last year</font><font color="#CCCCCC"> it</font>
+
+224
+00:08:10,050 --> 00:08:12,180
+had been about three months<font color="#E5E5E5"> of</font><font color="#CCCCCC"> innis</font>
+
+225
+00:08:12,180 --> 00:08:14,610
+into a series<font color="#CCCCCC"> of attacks</font><font color="#E5E5E5"> on power</font><font color="#CCCCCC"> plants</font>
+
+226
+00:08:14,610 --> 00:08:16,890
+and<font color="#E5E5E5"> nuclear facilities and as we</font>
+
+227
+00:08:16,890 --> 00:08:19,170
+reported last<font color="#E5E5E5"> year basically they had</font>
+
+228
+00:08:19,170 --> 00:08:21,060
+only<font color="#E5E5E5"> gotten into the business and</font>
+
+229
+00:08:21,060 --> 00:08:22,860
+administrative computer networks back
+
+230
+00:08:22,860 --> 00:08:24,570
+then they hadn't been<font color="#E5E5E5"> able to make the</font>
+
+231
+00:08:24,570 --> 00:08:26,250
+leap from those networks<font color="#E5E5E5"> into the</font>
+
+232
+00:08:26,250 --> 00:08:28,380
+control systems themselves<font color="#CCCCCC"> what's</font>
+
+233
+00:08:28,380 --> 00:08:30,120
+<font color="#E5E5E5">different now</font><font color="#CCCCCC"> and what they came out</font>
+
+234
+00:08:30,120 --> 00:08:32,460
+<font color="#CCCCCC">with today</font><font color="#E5E5E5"> was basically that's changed</font>
+
+235
+00:08:32,460 --> 00:08:34,530
+<font color="#E5E5E5">we're now in a very serious</font><font color="#CCCCCC"> situation</font>
+
+236
+00:08:34,530 --> 00:08:37,200
+where Russian hackers are no longer just
+
+237
+00:08:37,200 --> 00:08:38,789
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> the administrative networks they</font>
+
+238
+00:08:38,789 --> 00:08:41,849
+actually are in<font color="#E5E5E5"> the computers</font><font color="#CCCCCC"> that have</font>
+
+239
+00:08:41,849 --> 00:08:44,270
+access to<font color="#CCCCCC"> the machinery themselves</font>
+
+240
+00:08:44,270 --> 00:08:47,070
+<font color="#E5E5E5">they're they're stealing screenshots and</font>
+
+241
+00:08:47,070 --> 00:08:49,290
+they were taking screenshots that that
+
+242
+00:08:49,290 --> 00:08:50,580
+the Department of<font color="#E5E5E5"> Homeland Security</font>
+
+243
+00:08:50,580 --> 00:08:52,470
+<font color="#E5E5E5">published today which</font>
+
+244
+00:08:52,470 --> 00:08:54,840
+that they were they were there they<font color="#E5E5E5"> they</font>
+
+245
+00:08:54,840 --> 00:08:56,700
+can turn off some of those<font color="#E5E5E5"> power plant</font>
+
+246
+00:08:56,700 --> 00:08:58,320
+systems if they<font color="#E5E5E5"> want to</font><font color="#CCCCCC"> they could</font>
+
+247
+00:08:58,320 --> 00:09:01,200
+manipulate<font color="#E5E5E5"> them they can sabotage them</font>
+
+248
+00:09:01,200 --> 00:09:03,360
+<font color="#CCCCCC">and they're there and I think we've</font><font color="#E5E5E5"> got</font>
+
+249
+00:09:03,360 --> 00:09:06,000
+<font color="#E5E5E5">into a point where these attacks have</font>
+
+250
+00:09:06,000 --> 00:09:09,420
+gotten so serious<font color="#CCCCCC"> that we were left with</font>
+
+251
+00:09:09,420 --> 00:09:11,670
+<font color="#E5E5E5">no</font><font color="#CCCCCC"> choice but to come out and say hey we</font>
+
+252
+00:09:11,670 --> 00:09:14,880
+know you're<font color="#E5E5E5"> there is this the sort of</font>
+
+253
+00:09:14,880 --> 00:09:17,220
+<font color="#E5E5E5">thing we're identifying it pointing out</font>
+
+254
+00:09:17,220 --> 00:09:19,650
+what they've done<font color="#E5E5E5"> naming in in some</font>
+
+255
+00:09:19,650 --> 00:09:21,510
+<font color="#E5E5E5">cases the the</font><font color="#CCCCCC"> specific technical ways</font>
+
+256
+00:09:21,510 --> 00:09:23,340
+that these<font color="#E5E5E5"> hacks were achieved the</font>
+
+257
+00:09:23,340 --> 00:09:25,200
+specific<font color="#E5E5E5"> type of malware</font><font color="#CCCCCC"> that was used</font>
+
+258
+00:09:25,200 --> 00:09:26,790
+on all these other<font color="#CCCCCC"> things strings of</font>
+
+259
+00:09:26,790 --> 00:09:28,230
+computer code<font color="#CCCCCC"> that are in this technical</font>
+
+260
+00:09:28,230 --> 00:09:30,150
+alert<font color="#CCCCCC"> is this the sort of thing we're</font>
+
+261
+00:09:30,150 --> 00:09:32,820
+naming it and identifying it will allow
+
+262
+00:09:32,820 --> 00:09:35,340
+power plant operators to stop hackers
+
+263
+00:09:35,340 --> 00:09:38,310
+<font color="#E5E5E5">from potentially doing this or are these</font>
+
+264
+00:09:38,310 --> 00:09:39,720
+power plant operators essentially
+
+265
+00:09:39,720 --> 00:09:41,670
+<font color="#E5E5E5">helpless and tonight if Russian hackers</font>
+
+266
+00:09:41,670 --> 00:09:42,690
+wanted to they could shut these things
+
+267
+00:09:42,690 --> 00:09:45,720
+down<font color="#CCCCCC"> I mean</font><font color="#E5E5E5"> it's a great</font><font color="#CCCCCC"> question I</font>
+
+268
+00:09:45,720 --> 00:09:48,210
+think<font color="#E5E5E5"> at this point part of the reason</font>
+
+269
+00:09:48,210 --> 00:09:50,130
+they came<font color="#E5E5E5"> out</font><font color="#CCCCCC"> with this is</font><font color="#E5E5E5"> to tell power</font>
+
+270
+00:09:50,130 --> 00:09:52,140
+plant operators<font color="#E5E5E5"> hey look for this on</font>
+
+271
+00:09:52,140 --> 00:09:53,910
+your systems because it's happening and
+
+272
+00:09:53,910 --> 00:09:56,250
+<font color="#E5E5E5">it's real there's a the separate</font>
+
+273
+00:09:56,250 --> 00:09:57,810
+<font color="#CCCCCC">question is whether they can</font><font color="#E5E5E5"> defend</font>
+
+274
+00:09:57,810 --> 00:10:01,290
+against it<font color="#E5E5E5"> and there it's just not clear</font>
+
+275
+00:10:01,290 --> 00:10:02,970
+unfortunately when you look at the
+
+276
+00:10:02,970 --> 00:10:04,620
+critical infrastructure in the<font color="#CCCCCC"> United</font>
+
+277
+00:10:04,620 --> 00:10:06,000
+<font color="#E5E5E5">States first of all most of its</font>
+
+278
+00:10:06,000 --> 00:10:08,100
+controlled privately it's not like if
+
+279
+00:10:08,100 --> 00:10:09,870
+we're attacked the government<font color="#CCCCCC"> can come</font>
+
+280
+00:10:09,870 --> 00:10:11,640
+in<font color="#E5E5E5"> and sweep things up and fix things</font>
+
+281
+00:10:11,640 --> 00:10:14,070
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> is largely been left to</font><font color="#CCCCCC"> the private</font>
+
+282
+00:10:14,070 --> 00:10:16,050
+sector<font color="#CCCCCC"> to deal with and the private</font>
+
+283
+00:10:16,050 --> 00:10:18,600
+sectors relied on a lot of old<font color="#E5E5E5"> legacy</font>
+
+284
+00:10:18,600 --> 00:10:20,970
+software<font color="#E5E5E5"> which just makes it even easier</font>
+
+285
+00:10:20,970 --> 00:10:24,720
+for<font color="#CCCCCC"> some of these attacks to happen</font><font color="#E5E5E5"> so</font>
+
+286
+00:10:24,720 --> 00:10:27,720
+in some<font color="#E5E5E5"> cases when you talk to some of</font>
+
+287
+00:10:27,720 --> 00:10:29,490
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> the targets they don't even know</font>
+
+288
+00:10:29,490 --> 00:10:31,430
+that<font color="#E5E5E5"> they've been compromised</font>
+
+289
+00:10:31,430 --> 00:10:34,350
+<font color="#CCCCCC">hopefully we hope that in many cases</font>
+
+290
+00:10:34,350 --> 00:10:36,300
+<font color="#CCCCCC">when the government sees evidence</font><font color="#E5E5E5"> or</font>
+
+291
+00:10:36,300 --> 00:10:38,670
+picks up evidence that that<font color="#E5E5E5"> Russians are</font>
+
+292
+00:10:38,670 --> 00:10:41,330
+inside their systems they tip off these
+
+293
+00:10:41,330 --> 00:10:43,770
+<font color="#E5E5E5">companies as soon as possible but</font>
+
+294
+00:10:43,770 --> 00:10:46,260
+there's definitely<font color="#E5E5E5"> some instances out</font>
+
+295
+00:10:46,260 --> 00:10:47,880
+there where<font color="#E5E5E5"> you</font><font color="#CCCCCC"> have a situation where a</font>
+
+296
+00:10:47,880 --> 00:10:51,000
+power plant or<font color="#E5E5E5"> a critical infrastructure</font>
+
+297
+00:10:51,000 --> 00:10:53,280
+provider or oil<font color="#E5E5E5"> and pipeline operator</font>
+
+298
+00:10:53,280 --> 00:10:55,920
+has been compromised by some of these
+
+299
+00:10:55,920 --> 00:10:57,990
+<font color="#E5E5E5">Russian state-sponsored groups and don't</font>
+
+300
+00:10:57,990 --> 00:10:58,950
+<font color="#E5E5E5">even know about it</font>
+
+301
+00:10:58,950 --> 00:11:01,620
+<font color="#E5E5E5">well well everybody's tipped off now and</font>
+
+302
+00:11:01,620 --> 00:11:02,820
+now it's<font color="#E5E5E5"> a</font><font color="#CCCCCC"> question of whether or not</font>
+
+303
+00:11:02,820 --> 00:11:05,710
+they can successfully<font color="#E5E5E5"> defend themselves</font>
+
+304
+00:11:05,710 --> 00:11:07,540
+and fix and<font color="#E5E5E5"> fix what's already gone</font>
+
+305
+00:11:07,540 --> 00:11:09,339
+wrong<font color="#CCCCCC"> Nicole</font><font color="#E5E5E5"> pearlroth cybersecurity</font>
+
+306
+00:11:09,339 --> 00:11:11,230
+reporter at The<font color="#CCCCCC"> New York Times that was</font>
+
+307
+00:11:11,230 --> 00:11:13,899
+<font color="#E5E5E5">an absolutely terrifying discussion but</font>
+
+308
+00:11:13,899 --> 00:11:15,820
+clarifying<font color="#E5E5E5"> as well thank you for</font><font color="#CCCCCC"> helping</font>
+
+309
+00:11:15,820 --> 00:11:18,160
+us understand it thanks for having me
+
+310
+00:11:18,160 --> 00:11:21,160
+Rachel<font color="#CCCCCC"> all right um-hmm</font>
+
+311
+00:11:21,160 --> 00:11:23,080
+<font color="#CCCCCC">I thought the scariest thing in</font>
+
+312
+00:11:23,080 --> 00:11:24,910
+cyberattack news today was<font color="#E5E5E5"> going to be</font>
+
+313
+00:11:24,910 --> 00:11:26,830
+the other story<font color="#CCCCCC"> that Nicole Perl</font><font color="#E5E5E5"> Roth</font>
+
+314
+00:11:26,830 --> 00:11:28,270
+had in the New<font color="#E5E5E5"> York Times today which</font><font color="#CCCCCC"> is</font>
+
+315
+00:11:28,270 --> 00:11:30,490
+<font color="#E5E5E5">about a petrochemical plant in Saudi</font>
+
+316
+00:11:30,490 --> 00:11:32,290
+Arabia being hit by<font color="#E5E5E5"> a cyber</font><font color="#CCCCCC"> attack that</font>
+
+317
+00:11:32,290 --> 00:11:33,790
+<font color="#CCCCCC">was</font><font color="#E5E5E5"> designed to not just shut it</font><font color="#CCCCCC"> down</font>
+
+318
+00:11:33,790 --> 00:11:35,830
+but<font color="#E5E5E5"> to make it explode and kill</font><font color="#CCCCCC"> people</font>
+
+319
+00:11:35,830 --> 00:11:38,260
+<font color="#E5E5E5">and then we got her follow-up story</font>
+
+320
+00:11:38,260 --> 00:11:39,550
+which is<font color="#CCCCCC"> about what's happening</font><font color="#E5E5E5"> here</font>
+
+321
+00:11:39,550 --> 00:11:42,279
+<font color="#E5E5E5">right</font><font color="#CCCCCC"> under our noses in</font><font color="#E5E5E5"> our country all</font>
+
+322
+00:11:42,279 --> 00:11:44,920
+right since I have been<font color="#E5E5E5"> speaking in the</font>
+
+323
+00:11:44,920 --> 00:11:46,209
+last<font color="#E5E5E5"> couple of minutes we've got some</font>
+
+324
+00:11:46,209 --> 00:11:46,959
+breaking<font color="#CCCCCC"> news tonight</font>
+
+325
+00:11:46,959 --> 00:11:49,060
+<font color="#E5E5E5">about what is said to be the next</font>
+
+326
+00:11:49,060 --> 00:11:51,610
+<font color="#E5E5E5">high-level major staff shake-up at the</font>
+
+327
+00:11:51,610 --> 00:11:53,890
+White House one of the reporters<font color="#CCCCCC"> who</font>
+
+328
+00:11:53,890 --> 00:11:55,720
+just broke that story joins us<font color="#CCCCCC"> next day</font>
+
+329
+00:11:55,720 --> 00:11:59,230
+with us hey there I'm<font color="#E5E5E5"> Chris Hayes from</font>
+
+330
+00:11:59,230 --> 00:12:01,420
+MSNBC thanks for watching<font color="#CCCCCC"> MSNBC on</font>
+
+331
+00:12:01,420 --> 00:12:02,950
+<font color="#CCCCCC">YouTube if you want to keep up to date</font>
+
+332
+00:12:02,950 --> 00:12:04,209
+<font color="#E5E5E5">with the videos we're putting out you</font>
+
+333
+00:12:04,209 --> 00:12:06,250
+can<font color="#E5E5E5"> click</font><font color="#CCCCCC"> subscribe just below me</font><font color="#E5E5E5"> or</font>
+
+334
+00:12:06,250 --> 00:12:07,930
+click over<font color="#E5E5E5"> on this list to see lots of</font>
+
+335
+00:12:07,930 --> 00:00:00,000
+<font color="#E5E5E5">other great</font><font color="#CCCCCC"> videos</font>
+

@@ -1,0 +1,412 @@
+so Russian hackers are once again
+targeting American elections this time
+in the midterms according to the Daily
+Beast forensic analysis and Microsoft
+the Russian Intelligence Agency
+GRU has tried to attack the re-election
+campaign of Democratic Senator Claire
+McCaskill the attempt against
+McCaskill's office was a variant of the
+password stealing technique used by
+Russia's so-called fancy bear hackers
+against Clinton's campaign chairman John
+Podesta in 2016 backers sent forged
+notification emails to Senate targets
+claiming the targets Microsoft Exchange
+password had expired and instructing
+them to changing if the target clicked
+on the link here she was taken to a
+convincing replica of the US Senate's
+Active Directory Federation services a
+DFC login page a single sign-on point
+for email and other services right so
+this is just a standard phishing email
+change her password my mom calls me
+about it all the time The Daily Beast
+found this out while investigating
+statements made by Microsoft VP Tom Burt
+last week in an appearance at the Aspen
+Security Forum in which he said we did
+discover that a fake Microsoft domain
+had been established as the landing page
+for phishing attacks and we saw metadata
+that suggested those phishing attacks
+were being directed at three candidates
+who are all standing for elections in
+the midterms we know about one Claire
+McCaskill of Missouri Democratic senator
+of course we can only assume the other
+two are also well we don't yet fair
+so in October this is more about
+Microsoft they've rested control of one
+of the spoof web site addresses a DFC
+dot senate.gov
+info seizing the russians malicious
+domain names has been easy for Microsoft
+since August 2017 would have been
+helpful year earlier when a federal
+judge in Virginia issued a permanent
+injunction against the GRU hackers after
+Microsoft successfully sued them as
+unnamed John Doe defendants the Court
+established a process that lets
+Microsoft take over any web addresses
+the hackers used that include a
+Microsoft trademark of course McCaskill
+responded and well I don't have her
+response but I will say McCaskill has
+been historically very critical of
+Russia and has been supportive of the
+Russia investigation she's considered to
+be one of the
+most vulnerable Senate Democrats as well
+facing re-election this year as
+Republicans hope to hold their slim
+majority in the Senate so yeah
+she's she called Putin a a thug in a
+bully and called Russian election
+meddling a form of warfare so it makes
+sense that she would be targeted by the
+GRU and it makes sense they listen if it
+worked once you would probably try it
+again and again and we've been warned
+that this might happen and now we have
+at least one case of it if not three in
+which it is happening so yeah McCaskill
+said look we'll give you more
+information next week when we're allowed
+to but yes we were targeted and so the
+government confirms that of course
+Donald Trump's going around tweeting the
+Russia's will probably want to help the
+Democrats Wow so far no shockingly
+enough it turns out that they think the
+Republicans are much easier to
+manipulate and to buy off and to work
+for the Russian government instead of
+our own government so here's yet another
+Democrat they've targeted two other two
+we don't know yet but the government
+knows so those names will be released
+and and if it turns out Trump was right
+you'll find out maybe next week and hey
+turns out the Russians really like a
+couple of Democrats but my guess is if
+history holds it'll be Republicans that
+they are trying to help because the
+Republicans are more pro-russian
+government and in the case of a trump
+and that famous press conference and
+almost at all of his actions more
+pro-russian government than the US
+government so they think the Republicans
+are easy to turn into traitors
+apparently there's always the talk when
+people say you know certain especially
+as a president you shouldn't do things
+to aid and comfort your enemies and
+doing things and a lot of times you
+think okay yeah it's supposed to feel
+good and sound good for Americans you're
+not supposed to say thing it's against
+America there's that whole thing where
+they say if a president travels overseas
+don't talk bad about him why his
+overseas and I've always thought why do
+we care you've talked bad and bottom
+leaves at home versus when he's overseas
+what's the difference you're talking bad
+about him he's the president right and
+in many this has been like historic this
+is one of those times when those things
+that are said like you don't want to aid
+and comfort your enemies and also speak
+out against your intelligence
+see also say these other things are hack
+happening also that there was no
+interest in Russian doing you this what
+she's been doing since he was elected
+since before he was elected so this in
+real time we're finding out how that
+works so now they'll continue to do it
+because you've continued to provide them
+this aid and comfort so now they can go
+right in and then people say oh who
+cares it's Claire McCaskill I want Trump
+to keep his numbers with the Senate
+anyway so it's okay now that aid has
+that led to you supporting this kind of
+subversion of our political system are
+you supporting a foreign agency doing
+things like this and as long as it's in
+your favor Republicans are okay with it
+that's how suddenly you've changed your
+brain from thinking hey let's support
+America rah rah USA - who cares
+it's just that part of America and
+that's I think the scariest part to me
+about all of this no matter where you
+stand and I know there's a lot of
+skeptics on the left and the right when
+it comes to how much Russia did or did
+not interfere I don't know how I don't
+know why despite all of the evidence
+there's still skeptics and that's fine I
+think my problem is what you're saying
+jr. is how Congress has politicized this
+so much to the point where like we have
+to rely on Microsoft like thank you
+Microsoft for helping us when it's like
+actually shouldn't you know senators
+offices be equipped with those tools to
+be able to prevent these kinds of
+phishing attacks and have more robust
+cybersecurity on all fronts I don't mean
+like oh so we can attack Iran's nuclear
+whatever you know I don't mean you know
+cyber warfare
+I mean cybersecurity right and I think
+it's important for those of us on the
+left and progressives to kind of be like
+we can hold these two things at the same
+time we don't have to politicize this we
+can sort of defend getting smarter and
+being better all around
+I think there's what's so fascinating
+about this to me is that while the
+precedent is on international television
+saying there's no way Russia would did
+have anything to do with this that they
+are still currently doing it literally
+every time while he's talking he was
+asked by a reporter
+hey are the Russians still actively
+engaged in cyber warfare against us and
+interfering and he said no and then
+Sarah Gabby Sanders had to come out and
+say he meant yes when he said no and
+then later they changed their mind again
+Trump called it a hoax and Sarah
+Huckabee Sanders came out and said oh
+the whole investigations are hoax
+nothing going on now I want to give
+credit to some Republicans let's be fair
+okay so Dan coats's a huge right-wing
+Republican former senator and he's the
+Director of National Intelligence and
+he's like they're definitely interfering
+there and it's not just a pass he said
+right now in 2018 their interference is
+pervasive and and significant and active
+okay so he is on the right side of this
+he's that he has all that information
+he's the Director of National
+Intelligence Lindsey Graham trey Gowdy
+those guys now I can't stand their
+policies they want to get us into a war
+with Iran so we have our disagreements
+which is like 98 percent of what I think
+of those guys but here they say yes the
+Russians are clearly interfering we've
+seen the intelligence is true on the
+other hand there are Republicans like
+Donald Trump who go wait are they
+helping me totally fine I blame Dan
+Coates
+I blame my own Director of National
+Intelligence I blame my own FBI
+I think Putin's right that's why they
+called it the trees is summit when he
+said all that stuff in Helsinki and then
+you've got the house freedom caucus
+so the Jim Jordans and the mark meadows
+and the Matt Gaetz going around saying
+who's investigating Trump let's fire
+them let's impeach him how dare they
+right and those are the brown shirts so
+there is a range of different
+Republicans and their reactions here and
+to be I don't know why I'm being fair
+but to be fair because that's what we do
+right but I'll tell you why I say I
+don't know why I'm being fair in a
+second - but to be fair - McCaskill's
+opponent look we don't have no idea that
+he asked for it in the case of Trump he
+literally said in a press conference
+during the election
+hey Russians why don't you get those
+30,000 emails of Hillary Clinton he
+literally asked for it in the case of
+McCaskill's opponent to the best of our
+knowledge he didn't ask the Russian
+state if he ran though election by the
+way it might really hurt him because now
+if you're in Missouri are you gonna help
+the Russians select that their candidate
+for Missouri attention then you are now
+that's right so so I don't blame that
+guy for it the reason why I it pains me
+that that we're so goddamn fair to the
+Republicans and tell you which one's
+telling the truth which one
+which was etc it's because they never
+return the favor
+if it was the shoe was on the other foot
+and it with their Russians or helping
+the Democrats which like a Republican
+would not give a damn that McCaskill had
+nothing to do with it they were reporter
+shreds I reckon it would be having a
+press conference a definite if you're
+the GRU just like I'm not a spy or a
+hacker but like if I was I'd be like
+maybe the other two should be
+Republicans the other two of the three
+accounts of Microsoft says that were
+most likely hacked or or tried to be
+fished just so like you know just the
+thrown in for good measure be like no
+it's not political see we hacked
+Republicans too all the time
+but by noon Francesca just some degree
+deed they did do that in 2016 and I
+would be shocked if they didn't do it
+again
+right so that's part of why I say look
+like no matter what no matter how
+despicable they are we gotta be fair in
+treating these people so McCaskill's
+opponent he didn't ask for it as far as
+we know and and so and they are trying
+to cause chaos and if you're trying to
+cause chaos and rip this country apart
+it would make sense for at some point
+for them to pick a couple of random
+Democrats and progressive Democrats more
+so right and go oh yeah here let's hack
+their Republican opponent so then the
+corporate Democrats would rip into the
+progressive Democrats and we'd have
+internal wars and you'd have more chaos
+and it's not like Putin and the Russians
+are unsophisticated they're way smarter
+than Trump and all those guys so if you
+were smart you probably would do that
+that's why they did a little bit in 2016
+and I'm fortunately probably more to
+come I'm kind of wanted just just to
+continue on this I think that yes I
+agree with you there are some
+Republicans who are doing the right
+thing but at the same time House
+Republicans last week just blocked
+basically a an appropriations bill
+introduced by representative Mike
+Quigley to add 380 million dollars for
+election security that's not the same
+thing as
+packing campaigns but it is securing and
+having states feel like they can be more
+equipped when they're trying to protect
+the integrity of their elections and I
+think it comes down to I mean on here on
+TYT and on the show and and progressives
+we want to get out the vote it doesn't
+matter we don't get out the vote and say
+hey vote them and you know or vote
+progressive wrote this now I mean I
+think people have their favorites but
+the point is to vote and I have to say I
+don't think that the Republican strategy
+when you think as a Republican is to
+increase voter turnout it's not
+completely so why would you want to
+protect so fundamentally I'm asking like
+why would Republicans even want to
+protect election integrity if when fewer
+people vote they it's all part of the
+same and Jenna that's why it works out
+that way also I mean it's across the
+board Kirsten yes and also earlier this
+same month this happened the the Claire
+McCaskill's hacking happened in 2017 but
+this same month she came out and said
+that there's no indication that Russia
+is targeting the 18 us midterms at a
+scale or scope to match the activities
+at 16 so you would take that and go oh
+well not at the same scale and scope but
+it's still happening so how much do you
+really care about it therefore then
+there's those elected officials that can
+vote things down like the pre-emptive
+laws that they can do or at least monies
+they can put to stop these things in the
+future because across the board they've
+set a precedent we don't care because
+our president doesn't care right that's
+what when you were talking about what
+you know they've got to make it like
+less obvious and they don't have to
+anymore because there are so many people
+in charge right now publicly saying this
+is not even happening right they don't
+even have to do that anymore
+yeah so Jerez absurd right Kirsten
+Nielsen saying that it's not a big deal
+is outrageous piece of supposed to be
+the head of Homeland Security and it
+seems like the Russians are helping the
+Republicans so she's like whatever and
+that that is completely unacceptable and
+I think the numbers add a block was 250
+million dollars extra funding and that's
+also completely unacceptable why
+wouldn't you want more secure elections
+unless you thought our foreign
+government was gonna rig the elections
+on your behalf that's outrageous and
+that does broke border on traitorous
+right and and so and by the way you
+think the rush
+are here to help you they want chaos you
+idiot
+at some point they could also turn on
+you if you just give them the keys to
+the to the elections and what if you're
+not guarding the henhouse at all then
+the Chinese come in do you know the
+Chinese are for the Pakistanis could
+come in the Saudis can come in well the
+Saudis are probably not gonna figure it
+out but how to get into our elections
+and it is an absolute disaster and the
+last thing is guys look we're
+progressive I mean we call ourselves
+home progressives I want progressives to
+win right but we would never push for
+laws that say let's make sure
+Republicans can't vote yeah that's a
+giant giant difference we would never
+push for Oh Sri Lanka is on our side
+let's for Lanka hack the boat also not a
+bad idea
+TYT host calls for Sri Lanka to help
+2018 midterm eight right so you we would
+fight that with every fiber of our being
+because we actually care about our
+democracy and that's a giant you
+actually almost best even for those
+voters too because you believe in the
+policies and the things you think would
+help the country not just your own
+interest in pot goes because actually
+helping an entire country helps the
+people that you think they're hoarding
+all of the power and reigns to anyway
+two easy ways for Young Turks want us
+hit the subscribe button down below
+then you're a TYT subscriber and second
+is ring the bell and when you do that on
+YouTube you're notified of our videos

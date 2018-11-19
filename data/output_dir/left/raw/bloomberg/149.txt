@@ -1,0 +1,134 @@
+1
+00:00:02,480 --> 00:00:08,000
+Behind every order you place online is a real
+person called a picker.  They navigate massive
+
+2
+00:00:08,000 --> 00:00:13,100
+warehouses to find the item you just ordered,
+and bring it to place where it is packed and shipped.
+
+3
+00:00:13,100 --> 00:00:18,020
+With companies like Amazon offering delivery
+in as little as an hour, the pressure is on the
+
+4
+00:00:18,040 --> 00:00:21,200
+pickers to really speed things up.
+
+5
+00:00:21,200 --> 00:00:26,640
+The pick time in these facilities have gone
+from days to hours to minutes.
+
+6
+00:00:26,640 --> 00:00:33,840
+It’s very hard to have an entire workforce
+shift their cadence and even sustain that cadence.
+
+7
+00:00:33,920 --> 00:00:38,240
+Silicon Valley company Fetch thinks it has
+a solution to this problem.
+
+8
+00:00:38,270 --> 00:00:41,290
+You guessed it, robots.
+
+9
+00:00:41,290 --> 00:00:47,800
+The first step for us really was to eliminate
+the tedious activity.
+
+10
+00:00:47,800 --> 00:00:51,180
+So they could specialize at the things that
+they’re good at and then the tedious task
+
+11
+00:00:51,180 --> 00:00:56,170
+of going from one side of a 400 square foot
+warehouse to the other, that’s given to a robot.
+
+12
+00:00:56,170 --> 00:00:57,240
+Exactly.
+
+13
+00:00:59,000 --> 00:01:05,100
+Pickers used to spend several minutes pushing
+carts from one side of the warehouse to the other over and over again.
+
+14
+00:01:05,120 --> 00:01:09,260
+Fetch wants their robots to do those long
+runs leaving the picker to fetch more items.
+
+15
+00:01:09,280 --> 00:01:16,320
+The result is increased warehouse efficiency with orders up as much as 30 percent without adding more pickers.
+
+16
+00:01:18,560 --> 00:01:23,960
+At Fetch, engineers work in a mock warehouse,
+training robots to maneuver about their future homes.
+
+17
+00:01:23,960 --> 00:01:30,400
+We want to see how efficient they are how they are dealing with each in terms of going around each other, traffic management through the facility.
+
+18
+00:01:31,440 --> 00:01:37,560
+The robots are able to get around autonomously by using a combination of a laser and a time-of-flight camera
+
+19
+00:01:37,560 --> 00:01:41,800
+so the robot can adjust to obstacles.
+
+20
+00:01:41,800 --> 00:01:46,520
+The robot actually does path planning, plans a path through the facility and then navigates along that path
+
+21
+00:01:46,520 --> 00:01:48,840
+while avoiding obstacles.
+
+22
+00:01:48,840 --> 00:01:50,960
+This is essentially looking through the robots eyes.
+
+23
+00:01:50,979 --> 00:01:54,530
+It allows us to see 3D data coming off of
+the robot.
+
+24
+00:01:54,560 --> 00:02:00,720
+You kind of see the shelves and the boxes
+around and every kind of nook and cranny there.
+
+25
+00:02:01,040 --> 00:02:07,109
+RTK Logistics, which serves the semi-conductor
+industry, is among Fetch's first customers.
+
+26
+00:02:07,120 --> 00:02:11,760
+Fetch's robots are designed to work side by
+side with people, unlike some robots that
+
+27
+00:02:11,760 --> 00:02:14,800
+have to be separated from human workers for safety.
+
+28
+00:02:14,800 --> 00:02:17,680
+Partnering with people to do what the robot
+is capable of doing
+
+29
+00:02:17,710 --> 00:00:00,000
+while making the person
+more efficient is really important.
+

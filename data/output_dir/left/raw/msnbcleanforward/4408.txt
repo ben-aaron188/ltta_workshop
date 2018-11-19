@@ -1,0 +1,596 @@
+1
+00:00:01,520 --> 00:00:03,689
+welcome back<font color="#CCCCCC"> Facebook is under growing</font>
+
+2
+00:00:03,689 --> 00:00:05,339
+pressure<font color="#E5E5E5"> to explain how it will protect</font>
+
+3
+00:00:05,339 --> 00:00:07,350
+<font color="#E5E5E5">Americans personal information from</font>
+
+4
+00:00:07,350 --> 00:00:09,330
+people wanting<font color="#CCCCCC"> to exploit it</font><font color="#E5E5E5"> for</font>
+
+5
+00:00:09,330 --> 00:00:11,790
+electoral gain a<font color="#E5E5E5"> bombshell report over</font>
+
+6
+00:00:11,790 --> 00:00:13,590
+the weekend says that Cambridge<font color="#E5E5E5"> analytic</font>
+
+7
+00:00:13,590 --> 00:00:15,870
+<font color="#E5E5E5">a data firm tied to the Trump campaign</font>
+
+8
+00:00:15,870 --> 00:00:18,359
+harvested information<font color="#E5E5E5"> from more than 50</font>
+
+9
+00:00:18,359 --> 00:00:20,640
+million Facebook users<font color="#CCCCCC"> without their</font>
+
+10
+00:00:20,640 --> 00:00:21,180
+permission
+
+11
+00:00:21,180 --> 00:00:23,369
+a former contractor turned whistleblower
+
+12
+00:00:23,369 --> 00:00:25,500
+claims of the information was then used
+
+13
+00:00:25,500 --> 00:00:28,680
+<font color="#E5E5E5">to target voters</font><font color="#CCCCCC"> Facebook says that a</font>
+
+14
+00:00:28,680 --> 00:00:30,539
+Cambridge University researcher
+
+15
+00:00:30,539 --> 00:00:33,480
+<font color="#E5E5E5">Alexander Cogan made an app where</font><font color="#CCCCCC"> users</font>
+
+16
+00:00:33,480 --> 00:00:35,579
+voluntarily gave their personal
+
+17
+00:00:35,579 --> 00:00:38,550
+<font color="#CCCCCC">information and then broke the rules by</font>
+
+18
+00:00:38,550 --> 00:00:40,920
+handing<font color="#E5E5E5"> those details over to a data</font>
+
+19
+00:00:40,920 --> 00:00:43,079
+firm Cambridge analytic<font color="#CCCCCC"> ah the social</font>
+
+20
+00:00:43,079 --> 00:00:44,879
+network<font color="#E5E5E5"> has since suspended Cambridge</font>
+
+21
+00:00:44,879 --> 00:00:45,539
+analytic
+
+22
+00:00:45,539 --> 00:00:48,120
+which denies wrongdoing<font color="#CCCCCC"> the revelation</font>
+
+23
+00:00:48,120 --> 00:00:50,129
+is<font color="#CCCCCC"> triggering calls on Capitol Hill</font><font color="#E5E5E5"> for</font>
+
+24
+00:00:50,129 --> 00:00:52,140
+<font color="#E5E5E5">Facebook to make it clear how it'll</font>
+
+25
+00:00:52,140 --> 00:00:54,000
+prevent future abuse of Americans
+
+26
+00:00:54,000 --> 00:00:56,219
+personal information one of<font color="#CCCCCC"> those</font>
+
+27
+00:00:56,219 --> 00:00:57,770
+<font color="#CCCCCC">lawmakers demanding an investigation</font>
+
+28
+00:00:57,770 --> 00:01:00,359
+<font color="#CCCCCC">joins us now Senator Richard Blumenthal</font>
+
+29
+00:01:00,359 --> 00:01:02,670
+<font color="#E5E5E5">of Connecticut is a member of the Senate</font>
+
+30
+00:01:02,670 --> 00:01:04,680
+Judiciary<font color="#E5E5E5"> Committee thanks for taking</font>
+
+31
+00:01:04,680 --> 00:01:07,680
+your time to<font color="#E5E5E5"> talk to</font><font color="#CCCCCC"> us</font><font color="#E5E5E5"> today</font><font color="#CCCCCC"> senator we</font>
+
+32
+00:01:07,680 --> 00:01:08,490
+<font color="#CCCCCC">appreciate it</font>
+
+33
+00:01:08,490 --> 00:01:11,180
+let's talk about Cambridge analytic and
+
+34
+00:01:11,180 --> 00:01:13,920
+why you<font color="#E5E5E5"> think there should</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> an</font>
+
+35
+00:01:13,920 --> 00:01:16,890
+investigation<font color="#CCCCCC"> are you are you worried</font>
+
+36
+00:01:16,890 --> 00:01:19,020
+<font color="#CCCCCC">that some of that information</font><font color="#E5E5E5"> may have</font>
+
+37
+00:01:19,020 --> 00:01:20,520
+been<font color="#E5E5E5"> used inappropriately during the</font>
+
+38
+00:01:20,520 --> 00:01:23,700
+2016<font color="#E5E5E5"> election clearly it</font><font color="#CCCCCC"> was used</font>
+
+39
+00:01:23,700 --> 00:01:27,060
+inappropriately<font color="#E5E5E5"> the only question is who</font>
+
+40
+00:01:27,060 --> 00:01:29,939
+should<font color="#E5E5E5"> be held accountable</font><font color="#CCCCCC"> the FTC has</font><font color="#E5E5E5"> a</font>
+
+41
+00:01:29,939 --> 00:01:32,850
+consent decree<font color="#E5E5E5"> involving Facebook that</font>
+
+42
+00:01:32,850 --> 00:01:35,400
+may have been violated<font color="#CCCCCC"> and clearly</font>
+
+43
+00:01:35,400 --> 00:01:38,729
+American<font color="#E5E5E5"> privacy was violated some major</font>
+
+44
+00:01:38,729 --> 00:01:42,210
+part of<font color="#E5E5E5"> those 50 million individuals</font>
+
+45
+00:01:42,210 --> 00:01:45,659
+whose<font color="#E5E5E5"> privacy was violated by Facebook</font>
+
+46
+00:01:45,659 --> 00:01:47,369
+and Cambridge<font color="#CCCCCC"> analytical I have a claim</font>
+
+47
+00:01:47,369 --> 00:01:50,490
+<font color="#E5E5E5">here and the Judiciary Committee</font><font color="#CCCCCC"> ought</font>
+
+48
+00:01:50,490 --> 00:01:53,280
+<font color="#E5E5E5">to have Mark</font><font color="#CCCCCC"> Zuckerberg</font><font color="#E5E5E5"> and other</font>
+
+49
+00:01:53,280 --> 00:01:55,409
+executives<font color="#CCCCCC"> from Facebook and companies</font>
+
+50
+00:01:55,409 --> 00:01:57,869
+in this space<font color="#E5E5E5"> testify under oath in</font>
+
+51
+00:01:57,869 --> 00:02:02,040
+public to explain what happened here<font color="#CCCCCC"> and</font>
+
+52
+00:02:02,040 --> 00:02:03,689
+who should<font color="#CCCCCC"> be</font><font color="#E5E5E5"> held accountable and what</font>
+
+53
+00:02:03,689 --> 00:02:05,880
+new laws may be necessary to<font color="#CCCCCC"> protect</font>
+
+54
+00:02:05,880 --> 00:02:07,259
+American consumers<font color="#CCCCCC"> in the future</font>
+
+55
+00:02:07,259 --> 00:02:09,330
+senators Klobuchar and<font color="#CCCCCC"> Hannity agree</font>
+
+56
+00:02:09,330 --> 00:02:11,310
+with you they want to have hearings have
+
+57
+00:02:11,310 --> 00:02:12,510
+you gotten<font color="#E5E5E5"> anywhere with</font><font color="#CCCCCC"> senator</font>
+
+58
+00:02:12,510 --> 00:02:13,520
+<font color="#CCCCCC">Grassley</font>
+
+59
+00:02:13,520 --> 00:02:15,950
+not yet but I'm gonna be seeing him
+
+60
+00:02:15,950 --> 00:02:17,480
+shortly<font color="#E5E5E5"> on the floor of the United</font>
+
+61
+00:02:17,480 --> 00:02:19,610
+<font color="#E5E5E5">States Senate we have a vote</font><font color="#CCCCCC"> underway</font>
+
+62
+00:02:19,610 --> 00:02:23,390
+and<font color="#E5E5E5"> I think that this issue ought</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be</font>
+
+63
+00:02:23,390 --> 00:02:24,500
+bipartisan
+
+64
+00:02:24,500 --> 00:02:27,350
+there is nothing<font color="#E5E5E5"> political in the sense</font>
+
+65
+00:02:27,350 --> 00:02:30,880
+of party about violations of privacy<font color="#CCCCCC"> and</font>
+
+66
+00:02:30,880 --> 00:02:36,170
+<font color="#E5E5E5">the violation here of American privacy</font>
+
+67
+00:02:36,170 --> 00:02:41,000
+is so profound and widespread<font color="#E5E5E5"> going back</font>
+
+68
+00:02:41,000 --> 00:02:43,100
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> 2015 one Facebook knew about</font><font color="#E5E5E5"> it</font>
+
+69
+00:02:43,100 --> 00:02:45,200
+<font color="#E5E5E5">apparently did nothing even now has</font>
+
+70
+00:02:45,200 --> 00:02:47,480
+failed to<font color="#CCCCCC"> notify those</font><font color="#E5E5E5"> 50 million</font><font color="#CCCCCC"> people</font>
+
+71
+00:02:47,480 --> 00:02:50,990
+about their<font color="#E5E5E5"> information being at risk</font>
+
+72
+00:02:50,990 --> 00:02:53,450
+Cambridge analytical in a very predatory
+
+73
+00:02:53,450 --> 00:02:55,760
+way used it to<font color="#E5E5E5"> target</font><font color="#CCCCCC"> voters for the</font>
+
+74
+00:02:55,760 --> 00:02:58,310
+Trump campaign<font color="#E5E5E5"> it has links to the</font>
+
+75
+00:02:58,310 --> 00:03:01,220
+<font color="#E5E5E5">Russian state the question also is</font>
+
+76
+00:03:01,220 --> 00:03:03,110
+<font color="#E5E5E5">whether there was some kind</font><font color="#CCCCCC"> of</font>
+
+77
+00:03:03,110 --> 00:03:05,330
+<font color="#E5E5E5">cooperation there so I</font><font color="#CCCCCC"> think there are</font><font color="#E5E5E5"> a</font>
+
+78
+00:03:05,330 --> 00:03:08,180
+number<font color="#E5E5E5"> of different strands and swirling</font>
+
+79
+00:03:08,180 --> 00:03:10,160
+<font color="#E5E5E5">facts here that require more</font><font color="#CCCCCC"> in depth</font>
+
+80
+00:03:10,160 --> 00:03:12,440
+just<font color="#E5E5E5"> the people who said yes filling out</font>
+
+81
+00:03:12,440 --> 00:03:15,080
+this survey<font color="#CCCCCC"> it's all of their friends</font><font color="#E5E5E5"> as</font>
+
+82
+00:03:15,080 --> 00:03:19,220
+well<font color="#E5E5E5"> who they were linked to who ended</font>
+
+83
+00:03:19,220 --> 00:03:20,450
+<font color="#E5E5E5">up giving over their information</font>
+
+84
+00:03:20,450 --> 00:03:24,320
+inadvertently 270,000 people<font color="#E5E5E5"> voluntarily</font>
+
+85
+00:03:24,320 --> 00:03:26,120
+provided<font color="#E5E5E5"> that information</font><font color="#CCCCCC"> but it led to</font>
+
+86
+00:03:26,120 --> 00:03:29,330
+<font color="#E5E5E5">50 million Facebook</font><font color="#CCCCCC"> users having</font><font color="#E5E5E5"> their</font>
+
+87
+00:03:29,330 --> 00:03:32,270
+information harvested what policies do
+
+88
+00:03:32,270 --> 00:03:35,300
+you think Facebook<font color="#E5E5E5"> needs to</font><font color="#CCCCCC"> needs</font><font color="#E5E5E5"> to</font>
+
+89
+00:03:35,300 --> 00:03:38,090
+enact in order to make it a more secure
+
+90
+00:03:38,090 --> 00:03:40,160
+<font color="#CCCCCC">environment for</font><font color="#E5E5E5"> users are you are you</font>
+
+91
+00:03:40,160 --> 00:03:41,870
+<font color="#E5E5E5">saying that people</font><font color="#CCCCCC"> should start logging</font>
+
+92
+00:03:41,870 --> 00:03:45,640
+<font color="#E5E5E5">off that logging off that website</font><font color="#CCCCCC"> or</font>
+
+93
+00:03:45,640 --> 00:03:48,890
+freezing their accounts<font color="#E5E5E5"> before they know</font>
+
+94
+00:03:48,890 --> 00:03:51,590
+and there are<font color="#CCCCCC"> a number of</font><font color="#E5E5E5"> questions like</font>
+
+95
+00:03:51,590 --> 00:03:54,440
+<font color="#E5E5E5">that one exactly</font><font color="#CCCCCC"> whether</font><font color="#E5E5E5"> people should</font>
+
+96
+00:03:54,440 --> 00:03:56,390
+<font color="#E5E5E5">be taking</font><font color="#CCCCCC"> action to protect themselves</font>
+
+97
+00:03:56,390 --> 00:03:58,970
+<font color="#CCCCCC">which is hard</font><font color="#E5E5E5"> to do if they haven't been</font>
+
+98
+00:03:58,970 --> 00:04:01,820
+<font color="#CCCCCC">notified that their information is out</font>
+
+99
+00:04:01,820 --> 00:04:04,100
+there<font color="#CCCCCC"> at risk</font><font color="#E5E5E5"> a failing on the part</font><font color="#CCCCCC"> of</font>
+
+100
+00:04:04,100 --> 00:04:08,150
+Facebook<font color="#CCCCCC"> but more</font><font color="#E5E5E5"> fundamentally how do</font>
+
+101
+00:04:08,150 --> 00:04:10,910
+we make sure<font color="#E5E5E5"> that the Terms of Service</font>
+
+102
+00:04:10,910 --> 00:04:14,870
+<font color="#E5E5E5">that facebook is now saying justified</font>
+
+103
+00:04:14,870 --> 00:04:18,170
+what they did<font color="#E5E5E5"> that the other protections</font>
+
+104
+00:04:18,170 --> 00:04:19,910
+<font color="#CCCCCC">that may exist</font><font color="#E5E5E5"> are strengthened it was</font>
+
+105
+00:04:19,910 --> 00:04:22,630
+clearly a lack of<font color="#CCCCCC"> verification and</font>
+
+106
+00:04:22,630 --> 00:04:25,729
+transparency<font color="#E5E5E5"> and oversight here in the</font>
+
+107
+00:04:25,729 --> 00:04:27,230
+way that<font color="#CCCCCC"> Facebook</font>
+
+108
+00:04:27,230 --> 00:04:31,310
+this massive<font color="#E5E5E5"> breach it relied on the</font>
+
+109
+00:04:31,310 --> 00:04:33,470
+promise that<font color="#E5E5E5"> this</font><font color="#CCCCCC"> information would be</font>
+
+110
+00:04:33,470 --> 00:04:35,780
+somehow<font color="#E5E5E5"> deleted obviously that promise</font>
+
+111
+00:04:35,780 --> 00:04:38,000
+was never kept but<font color="#E5E5E5"> Facebook ultimately</font>
+
+112
+00:04:38,000 --> 00:04:41,360
+bears a responsibility<font color="#CCCCCC"> here</font><font color="#E5E5E5"> and we as</font>
+
+113
+00:04:41,360 --> 00:04:45,140
+members<font color="#CCCCCC"> of</font><font color="#E5E5E5"> Congress have a obligation to</font>
+
+114
+00:04:45,140 --> 00:04:46,870
+make<font color="#CCCCCC"> sure</font><font color="#E5E5E5"> that privacy</font><font color="#CCCCCC"> is protected</font>
+
+115
+00:04:46,870 --> 00:04:50,120
+<font color="#CCCCCC">Facebook shares fell precipitously today</font>
+
+116
+00:04:50,120 --> 00:04:52,130
+<font color="#E5E5E5">6.8% their biggest one-day percentage</font>
+
+117
+00:04:52,130 --> 00:04:55,820
+<font color="#E5E5E5">decline since 2014</font><font color="#CCCCCC"> what do you think</font>
+
+118
+00:04:55,820 --> 00:04:57,560
+Mark Zuckerberg needs to do to get out
+
+119
+00:04:57,560 --> 00:05:00,050
+in<font color="#E5E5E5"> front of</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> he needs to come before</font>
+
+120
+00:05:00,050 --> 00:05:03,290
+Congress<font color="#CCCCCC"> he needs to be very public</font><font color="#E5E5E5"> open</font>
+
+121
+00:05:03,290 --> 00:05:06,140
+transparent about<font color="#E5E5E5"> how they failed and</font>
+
+122
+00:05:06,140 --> 00:05:08,720
+clearly there<font color="#E5E5E5"> was a failure here and how</font>
+
+123
+00:05:08,720 --> 00:05:11,060
+they're going to<font color="#CCCCCC"> do better it's that</font>
+
+124
+00:05:11,060 --> 00:05:13,970
+simple<font color="#CCCCCC"> but</font><font color="#E5E5E5"> also complex because the</font>
+
+125
+00:05:13,970 --> 00:05:16,360
+challenges of protecting<font color="#E5E5E5"> privacy are</font>
+
+126
+00:05:16,360 --> 00:05:20,360
+complex and difficult<font color="#E5E5E5"> and that's why</font>
+
+127
+00:05:20,360 --> 00:05:22,640
+there needs<font color="#CCCCCC"> to be an open public</font>
+
+128
+00:05:22,640 --> 00:05:24,680
+explanation<font color="#CCCCCC"> before the Judiciary</font>
+
+129
+00:05:24,680 --> 00:05:27,020
+<font color="#CCCCCC">Committee involving Mark Zuckerberg</font><font color="#E5E5E5"> and</font>
+
+130
+00:05:27,020 --> 00:05:29,450
+other executives including<font color="#E5E5E5"> Alexander</font><font color="#CCCCCC"> nix</font>
+
+131
+00:05:29,450 --> 00:05:31,250
+of Cambridge analytic a full
+
+132
+00:05:31,250 --> 00:05:33,770
+investigation<font color="#E5E5E5"> that will lead to</font><font color="#CCCCCC"> better</font>
+
+133
+00:05:33,770 --> 00:05:36,380
+laws and protections of privacy this
+
+134
+00:05:36,380 --> 00:05:38,630
+issue is so fundamental and Americans
+
+135
+00:05:38,630 --> 00:05:41,420
+<font color="#E5E5E5">need to understand how their privacy</font><font color="#CCCCCC"> the</font>
+
+136
+00:05:41,420 --> 00:05:43,970
+most sensitive information<font color="#E5E5E5"> about their</font>
+
+137
+00:05:43,970 --> 00:05:46,400
+finances<font color="#CCCCCC"> their</font><font color="#E5E5E5"> medical condition their</font>
+
+138
+00:05:46,400 --> 00:05:50,060
+preferences as<font color="#E5E5E5"> to different kinds of</font>
+
+139
+00:05:50,060 --> 00:05:53,540
+culture and food and<font color="#E5E5E5"> all the rest of it</font>
+
+140
+00:05:53,540 --> 00:05:55,940
+<font color="#E5E5E5">are at risk</font><font color="#CCCCCC"> today in America Senator</font>
+
+141
+00:05:55,940 --> 00:05:57,440
+Richard Blumenthal senator thank you
+
+142
+00:05:57,440 --> 00:05:59,420
+very much for<font color="#CCCCCC"> joining us</font><font color="#E5E5E5"> thank you</font>
+
+143
+00:05:59,420 --> 00:06:00,770
+hey there I'm<font color="#E5E5E5"> Chris Hayes from MSNBC</font>
+
+144
+00:06:00,770 --> 00:06:03,350
+thanks for watching<font color="#CCCCCC"> MSNBC on YouTube if</font>
+
+145
+00:06:03,350 --> 00:06:04,490
+you<font color="#E5E5E5"> want to keep up to</font><font color="#CCCCCC"> date</font><font color="#E5E5E5"> with the</font>
+
+146
+00:06:04,490 --> 00:06:05,750
+videos we're putting out you can<font color="#E5E5E5"> click</font>
+
+147
+00:06:05,750 --> 00:06:08,030
+<font color="#CCCCCC">subscribe just</font><font color="#E5E5E5"> below me or click over on</font>
+
+148
+00:06:08,030 --> 00:06:09,710
+<font color="#E5E5E5">this list to see lots of other great</font>
+
+149
+00:06:09,710 --> 00:00:00,000
+<font color="#CCCCCC">videos</font>
+

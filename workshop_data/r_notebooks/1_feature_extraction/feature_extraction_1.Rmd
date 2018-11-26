@@ -1,0 +1,38 @@
+---
+title: "Feature extraction 1: LIWC"
+subtitle: "EuroCSS workshop: LTTA"
+output: html_notebook
+author:  B Kleinberg https://github.com/ben-aaron188
+---
+
+## Load data
+
+```{r}
+load('eurocss_ltta_workshop_data_sampled.RData')
+```
+
+
+
+### Write to individual files
+```{r}
+setwd('individual_files_sampled')
+
+lapply(seq(nrow(dt.sampled_balanced)), function(i){
+  write.table(dt.sampled_balanced$text[i],
+              file = paste(dt.sampled_balanced$new_id_runner[i]
+                           , '.txt'
+                           , sep=''),
+              col.names = FALSE,
+              row.names = FALSE,
+              append=F,
+              sep = '\t',
+              quote = FALSE)
+})
+
+```
+
+
+## Run LIWC extraction
+Some info: [here](http://liwc.wpengine.com/), [here](https://www.cs.cmu.edu/~ylataus/files/TausczikPennebaker2010.pdf), and [here](https://repositories.lib.utexas.edu/bitstream/handle/2152/31333/LIWC2015_LanguageManual.pdf)
+
+... (needs to be done locally with LIWC software licence)

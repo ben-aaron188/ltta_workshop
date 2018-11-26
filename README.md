@@ -5,7 +5,7 @@ in Computational Social Science](http://symposium.computationalsocialscience.eu/
 
 We welcome students and researchers from all disciplines working with text data that are interested in applying computational concepts in the social sciences (e.g., Psychology, Criminology, Computer Science, Linguistics, Digital Humanities, Political Science, etc.).
 
-_(this website will be updated in the weeks leading to the workshop)_
+_(this website is currently updated for the workshop)_
 
 ### What is it?
 
@@ -39,26 +39,26 @@ The preliminary workshop schedule is as follows:
 Dataset provided uniquely for this session:
 
 -	Transcripts of all vlogs uploaded to YouTube by specific YouTubers.
- -Columns: vlogger ID, vlog transcript, vlog view count, vlog posting date.
- -Each row represents one vlog.
- -Features (extracted before due to time constraints for large datasets): part-of-speech tags, named entities, psycholinguistic variables (e.g., from the LIWC), valence-shifter sensitive sentiment
+ - Columns: vlogger ID, vlog transcript, vlog view count, upvotes, downvotes, vlog posting date.
+ - Each row represents one vlog.
+ - Features (extracted before due to time constraints): part-of-speech tags, psycholinguistic variables (e.g., from the LIWC), ngrams, sentiment shapes
 
-Research question: How does the language of YouTube's vloggers evolve?
+In line with this year's EuroCSS theme "Bias and discrimination", we have created a dataset of transcripts of 'left-wing' and 'right-wing' news channels. The dataset is introduced in the morning session of the workshop.
 
-Possible sub-questions:
+Possible research questions:
 
--	Do YouTubers adapt their language style to the view count?
- -Is there a common trajectory of successful vloggers?
- -Does the linguistic trajectory evolution differ between gender/regions/target audience?
+ - Is there a common sentiment trajectory of channels on the left and right?
+ - Are some trajectories more 'successful' (e.g. view count, upvotes, downvotes) than others?
+ - Does the linguistic trajectory evolution differ between the two political spectra?
 
 Format:
 
 -	All workshop participants are provided with the dataset (GitHub repo and readme)
- -All participants have access to a shared Google Document for the paper
- -Participants and organizers brainstorm possible approaches
- -Work on the paper (e.g., distributed into introduction, dataset description, method, results, discussion)
- -All participants are co-authors of the paper (to be determined at random) with a detailed appendix on author contributions.
- -The workshop ends with a (nearly) ready draft of the paper which is posted on arXiv in its final form and jointly submitted to the _Journal of Computational Social Science_.
+ - All participants have access to a shared Google Document for the paper
+ - Participants and organizers brainstorm possible approaches
+ - Work on the paper (e.g., distributed into introduction, dataset description, method, results, discussion)
+ - All participants are co-authors of the paper (to be determined at random) with a detailed appendix on author contributions.
+ - The workshop ends with a (nearly) ready draft of the paper which is posted on arXiv in its final form and jointly submitted to the _Journal of Computational Social Science_.
 
 
 ### Prerequisites
@@ -74,36 +74,5 @@ Participants should have some basic knowledge of the _R_ or _python_ programming
 
 -----
 
-## Materials
-
-### Workshop + Tutorials
-
-#### Background literature
-
-- paper 1
-- paper 2
-- paper 3
-
-
-#### Code
-
-(the code for all examples in the tutorials will be available [here](./code))
-
-#### Slides
-
-(slides will be available [here](./slides))
-
-
-### Paper hackathon
-
-#### Data
-
-Get the data [from the GitHub repo here](./data)
-
-#### Access to the repo
-
-(to be provided)
-
----------
 
 

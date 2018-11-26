@@ -2,7 +2,6 @@
 ### Creates a dataframe with raw texts from directory
 ###############################################################################
 require(stringr)
-require(tm)
 
 
 txt_df_from_dir = function(dirpath
@@ -60,6 +59,7 @@ txt_df_from_dir = function(dirpath
   data = data[,-2]
 
   if(include_processed == T){
+    require(tm)
     ### these might be required ###
     # dyn.load('/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/server/libjvm.dylib')
     # require(rJava)

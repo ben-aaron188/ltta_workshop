@@ -95,7 +95,6 @@ source('./r_deps/txt_df_from_dir.R')
 In that folder, we have a number of datasets:
 
 - sample data of a YouTube vlogger adopted from [Kleinberg et al., 2018, EMNLP](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf). We will use these data in the practical.
-- sentiment shapes of lone actor terrorist manifestos from Van der Vegt et al., in prep. We will use these data in the practical.
 - data for the hackathon (details about that dataset will be outlined in the workshop)
 
 The following steps guide you through laoding and testing these datasets.
@@ -156,13 +155,6 @@ plot(sentiment_shapes$`779.txt`
 #Some descriptives: proportion of sentiment above 0
 
 prop.table(table(sentiment_shapes$`779.txt` > 0))
-```
-
-
-#### Load the "lone actor manifestos" data
-
-```{r}
-#!!!
 ```
 
 #### Load the "hackathon" data

@@ -7,7 +7,7 @@ author:  B Kleinberg https://github.com/ben-aaron188
 
 ### Welcome to the EuroCSS workshop on Linguistic Temporal Trajectory Analysis
 
-In order to save time at the day of the workshop, we'd kindly ask you to set up your R workspace, test the functionality of your workspace with a few scripts, and download the data we will use for the paper hackathon.
+In order to save time on the day of the workshop, we kindly ask you to set up your R workspace, test the functionality of your workspace with a few scripts, and download the data we will use for the paper hackathon.
 
 This script will guide you through the necessary steps.
 
@@ -94,10 +94,10 @@ source('./r_deps/txt_df_from_dir.R')
 
 In that folder, we have a number of datasets:
 
-- sample data of a YouTube vlogger adopted from [Kleinberg et al., 2018, EMNLP](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf). We will use these data in the practical.
+- sample data of YouTube vlogger transcripts adopted from [Kleinberg et al., 2018, EMNLP](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf). We will use these data in the practical.
 - data for the hackathon (details about that dataset will be outlined in the workshop)
 
-The following steps guide you through laoding and testing these datasets.
+The following steps guide you through loading and testing these datasets.
 
 #### Load the "YouTube vlogger" sample data
 

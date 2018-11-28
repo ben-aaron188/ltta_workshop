@@ -1,0 +1,265 @@
+good morning John I need you to do me a
+favor go and get a coin and flip it ten
+times actually everyone who's watching
+this video right now pause it go get a
+coin and flip it ten times now every
+flip of every coin is going to be
+entirely random but despite that fact I
+know what just happened when all of you
+flipped your coins I don't know what
+happened to your coin but I know what
+happened overall and that is because I'm
+a psychic because I am omniscient
+because I have a little camera installed
+in all of your rooms and I watch you as
+you watch me okay not actually it's
+because I know about probability in fact
+is this video will probably give you
+tens of thousands of time I can
+guarantee you that right now there are a
+bunch of people who are like holy crap
+man I just flipped going ten times and
+it landed on heads every single time I
+have a magical core and a magical Ison
+ticket to Vegas and bet on it because it
+always lands on heads but guess what my
+friend there's nothing special about
+your coin and there's nothing special
+about you I'm sorry you're you're put
+you're a beautiful snowflake you're very
+special even if the odds of getting ten
+heads in a row are over one and a
+thousand which they are there one in
+1,024 assuming that there are 100 and
+2400 people who just flipped their coin
+ten times there are roughly 100 people
+who just flipped ten heads in a row and
+100 people who just flip ten tails in a
+row this is probability it is the
+science the act nay the art of assigning
+meaningful numbers to things that no one
+can actually really no probability lets
+us make real predictable and measurable
+conclusions about random events a weird
+thing about random events is that when
+they happen once you have no idea what's
+going to happen but oftentimes when they
+happen many times patterns are obvious
+and unavoidable so let's do a little
+terminology now probability is just P
+the event that we're looking for the
+probability of is expressed by a letter
+usually starting with a so the
+probability of a happening is P of a and
+if all outcomes are equally likely P of
+a equals the number of events in which a
+is true divided by the total number of
+events so when you all hope your coins
+each individual flip was entirely random
+no one not Miss Cleo not Albert Einstein
+not even dr. Manhattan could know where
+that coin was going to fall but there
+are two possible outcomes and getting
+heads is one of those outcomes so there
+is a 1 & 2 or 1/2
+or 0.5 or 50% chance that it will land
+on heads so when we flip a hundred coins
+roughly 50 of them are going to be heads
+and 50 of them are going to be tails and
+we expect some variation around those
+numbers okay
+duh obviously but what if we're curious
+what will happen when we flip two coins
+then we're talking about the probability
+of a and B happening very simply we have
+a one in two chance twice and that is
+one-half times one-half and assuming you
+know how to multiply fractions that is
+one-fourth a one in four chance that you
+will get heads and then heads but then
+if we're doing it 10 times we have
+one-half times itself ten times which we
+can write as one-half to the tenth power
+which my calculator tells me is one over
+1,024 this is how I could pretend to be
+so smart before now let's take things
+much more complicated and talk about
+dice instead of coins it's not actually
+any more complicated so if you're
+rolling a die the total number of
+outcomes is six and maybe we're
+concerned with whether or not you're
+gonna get a five that's one possible
+outcome that's one over six holy crap
+how crazy that you have a one in six
+chance of rolling a five but what is the
+probability of it not being a five that
+my friends is called the opposite or
+compliment and those of you who are
+actually thinking about that will
+probably recognize that that is one
+minus P of a in the case of you not
+rolling a five it is 1 minus 1 over 6
+which is 5 over 6 so the probability of
+not rolling a 5 is 5 over 6 this doesn't
+sound complicated but the idea of 1
+minus P of a being the opposite or
+complement is actually very important
+but if you want to know the odds of the
+outcome being an even number then you
+have to take all the even numbers 2 4 &
+6 and put them over the total number of
+possible outcomes and you have 3 over 6
+which is 1/2 so basically it's a flip of
+a coin so there you have it the outcomes
+that you're concerned with over all the
+possible outcomes but sometimes those
+two numbers are really hard to come by
+like it's really hard to figure out that
+the number of possible poker hands is
+two million five hundred ninety-eight
+thousand nine hundred and sixty unless
+you look it up on the internet which is
+what I did and that's probably what you
+should do in that situation too
+and what about the probability of
+getting two pair in your poker hand that
+how the heck would you figure out out
+well you don't you look it up on the
+internet it's one hundred twenty three
+thousand five hundred and fifty-two so
+the odds of getting two pair in your
+poker hand is 122 thousand five hundred
+fifty-two divided by two million five
+hundred ninety-eight thousand nine
+hundred and sixty which is four point
+seven percent it's so easy because
+you're also very smart you probably have
+noticed that
+probabilities fall on a scale of zero to
+one with zero being an impossible event
+and one being a certain event and this
+is why probabilities are often
+represented in percents I assume that
+you know this but percent is just like
+saying something is out of a hundred so
+when something happens one out of two
+times the probability of 0.5 which is 50
+out of a hundred times so we talked
+about rolling a die and figuring out
+what the probability of it landing on 1
+twice is we're talking about the
+probability of a and B happening which
+is represented like this and is
+basically like saying P of a times P of
+B of course this is only the case when a
+is not dependent upon what B is so the
+probability of rolling Snake Eyes is 1
+over 6 times 1 over 6 which is 1 over 36
+the probability of A or B happening is a
+completely different thing and that's
+written like this and is basically P of
+a plus P of B so the probability of
+rolling a 2 or 3 is 1 over 6 plus 1 over
+6 which is 2 over 6 which is 1 over 3
+which is a 1/3 probability so now
+because you are theoretically going to
+have to use this newfound knowledge in
+actual life somehow I'm gonna make up
+some weird-ass situations that I have
+nothing to do with real life and use
+them to test your knowledge of
+probability this is what we call word
+problems and when I was in school I
+hated them and they made me want to kill
+myself but now I'm teaching them so I
+frakkin love them first word problem
+every time you smoke a cigarette you
+have a 1 in 5 chance of being killed by
+a terrorist and every time you have sex
+before marriage you have a 40% chance of
+being devoured by a tank of venomous
+piranhas something as long as it makes
+it up I should make up situations that
+also have value judgments and are at
+least a little bit interesting so if
+you're not married and you have a
+cigarette after you have sex what are
+the chances that you survive I'm going
+to give you a little probability tip
+here
+always go for ends and avoid ORS
+so if we got to be the chances that we
+die it's either the terrorists or the
+piranhas that are going to get us and
+that's an or and ORS are bad so make it
+into an and and say in order to survive
+we have to both survive the terrorists
+and the piranhas but in order to do that
+we have to do our 1 minus p of a trick
+so we have our 1 minus 1 over 5 which is
+80% and we have our 1 minus 40 which is
+60% and we just multiply those two
+together and get 48 percent one problem
+number two you're at your mother's house
+and you've been shot by a poison dart by
+ninjas who just cut the power you go up
+around to find the medicine cabinet but
+your mother always mixes all the pills
+into one bottle because she thinks it
+saves space
+which is done because there's a ton of
+space in the medicine cabinet anyway
+it's dark so you can't see the
+difference between the pills and inside
+the bottle there are six tylenols
+for imodium a-d s and for poison dart
+antidote pills you only have time to
+pick three pills out of the bottle
+before the poison that kills you what
+are the odds that you survive I think
+all we're problems should be life and
+death okay so for those of you who
+thought you were gonna avoid this
+problem by just drinking the whole
+bottle all at once you just died from
+poison dart antidote pill overdose you
+dead and you can't cheat your way out of
+word problems so you're gonna want to
+start this problem by saying okay I have
+a 1 in 14 chance the first time in a 1
+to 13 chance the second time and one in
+12 cents the third time but then you're
+doing or again it's either this pill or
+this pill or this pill which you want is
+and so you have to calculate your
+chances of not getting an anthro pill so
+your chances of not getting an antidote
+pill are 10 and 14 times 9 and 13 times
+8 and 12 you get 33% and then you just
+switch back using 1 minus P of a and
+it's 67% odds of surviving final word
+problem you have a gun there's only one
+bullet in it but you don't know which
+chamber it's in you're being attacked by
+a terrorist Velociraptor if you do
+manage to shoot the Velociraptor is only
+a 30% chance that it will stop before it
+kills you you only have time to pull the
+trigger four times what are the chances
+that you survive again we must start by
+counting the odds that we do not fire a
+bullet five of six chambers are empty
+click four or five chambers are empty
+click three of four chambers are empty
+two of three chambers are empty click
+multiply all those together to get the
+odds that you aren't going to shoot a
+bullet that's 32% and 1 minus 32% is 68%
+the odds that you will fire a bullet
+then you multiply that by 30% to get the
+odds that you will actually stop the
+Velociraptor your chances of surviving
+are 20% thank you for watching my video
+John I look forward to seeing you
+educate me more on Wednesday

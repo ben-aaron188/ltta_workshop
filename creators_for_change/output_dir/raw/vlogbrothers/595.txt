@@ -1,0 +1,996 @@
+1
+00:00:00,000 --> 00:00:01,260
+good morning Hank it's Tuesday I<font color="#E5E5E5"> want to</font>
+
+2
+00:00:01,260 --> 00:00:02,970
+talk today<font color="#E5E5E5"> about why</font><font color="#CCCCCC"> healthcare</font><font color="#E5E5E5"> costs in</font>
+
+3
+00:00:02,970 --> 00:00:04,859
+the<font color="#CCCCCC"> United States are so phenomenally</font>
+
+4
+00:00:04,859 --> 00:00:07,710
+fascinatingly expensive but first I have
+
+5
+00:00:07,710 --> 00:00:09,510
+to<font color="#E5E5E5"> blow</font><font color="#CCCCCC"> your mind all</font><font color="#E5E5E5"> right so you've</font>
+
+6
+00:00:09,510 --> 00:00:10,800
+probably heard that<font color="#CCCCCC"> the reason</font><font color="#E5E5E5"> people</font>
+
+7
+00:00:10,800 --> 00:00:13,320
+<font color="#E5E5E5">enjoy</font><font color="#CCCCCC"> quote-unquote</font><font color="#E5E5E5"> free health care in</font>
+
+8
+00:00:13,320 --> 00:00:16,560
+Australia<font color="#E5E5E5"> and the UK and Canada</font><font color="#CCCCCC"> etc etc</font>
+
+9
+00:00:16,560 --> 00:00:19,260
+<font color="#E5E5E5">is that they pay higher taxes that money</font>
+
+10
+00:00:19,260 --> 00:00:20,820
+then goes into<font color="#E5E5E5"> a big pot and is used to</font>
+
+11
+00:00:20,820 --> 00:00:22,439
+pay for<font color="#E5E5E5"> people's</font><font color="#CCCCCC"> health care</font><font color="#E5E5E5"> but in fact</font>
+
+12
+00:00:22,439 --> 00:00:25,680
+in the<font color="#E5E5E5"> United States we spend more tax</font>
+
+13
+00:00:25,680 --> 00:00:28,170
+money per capita on<font color="#CCCCCC"> health care</font><font color="#E5E5E5"> than</font>
+
+14
+00:00:28,170 --> 00:00:30,990
+Germany<font color="#E5E5E5"> Australia the United Kingdom or</font>
+
+15
+00:00:30,990 --> 00:00:33,450
+Canada<font color="#CCCCCC"> that's</font><font color="#E5E5E5"> right Hank</font><font color="#CCCCCC"> you pay more in</font>
+
+16
+00:00:33,450 --> 00:00:35,340
+taxes<font color="#E5E5E5"> for</font><font color="#CCCCCC"> healthcare than you would if</font>
+
+17
+00:00:35,340 --> 00:00:37,110
+you were<font color="#E5E5E5"> British and in</font><font color="#CCCCCC"> exchange for</font>
+
+18
+00:00:37,110 --> 00:00:39,690
+those taxes you get no health care<font color="#CCCCCC"> in</font>
+
+19
+00:00:39,690 --> 00:00:42,120
+fact<font color="#E5E5E5"> only about 28% of Americans get</font>
+
+20
+00:00:42,120 --> 00:00:43,050
+their health insurance<font color="#E5E5E5"> through</font>
+
+21
+00:00:43,050 --> 00:00:44,910
+government funded programs mostly poor
+
+22
+00:00:44,910 --> 00:00:46,890
+people old people<font color="#CCCCCC"> and congresspeople but</font>
+
+23
+00:00:46,890 --> 00:00:48,660
+as you can<font color="#E5E5E5"> see</font><font color="#CCCCCC"> in this graph our private</font>
+
+24
+00:00:48,660 --> 00:00:50,280
+health care spending most<font color="#E5E5E5"> Americans are</font>
+
+25
+00:00:50,280 --> 00:00:51,480
+privately<font color="#E5E5E5"> insured through their</font>
+
+26
+00:00:51,480 --> 00:00:54,270
+employers<font color="#CCCCCC"> is way higher than</font><font color="#E5E5E5"> anywhere</font>
+
+27
+00:00:54,270 --> 00:00:56,190
+else<font color="#E5E5E5"> in the world in total the u.s.</font>
+
+28
+00:00:56,190 --> 00:00:58,890
+<font color="#E5E5E5">currently spends</font><font color="#CCCCCC"> about 18%</font><font color="#E5E5E5"> of its gross</font>
+
+29
+00:00:58,890 --> 00:01:00,840
+<font color="#CCCCCC">domestic product</font><font color="#E5E5E5"> on health care costs</font>
+
+30
+00:01:00,840 --> 00:01:04,170
+<font color="#E5E5E5">Australia by comparison 9%</font><font color="#CCCCCC"> why is this</font>
+
+31
+00:01:04,170 --> 00:01:06,090
+well<font color="#E5E5E5"> because everything costs more which</font>
+
+32
+00:01:06,090 --> 00:01:08,400
+seems obvious but<font color="#E5E5E5"> apparently it isn't</font>
+
+33
+00:01:08,400 --> 00:01:10,049
+because every article<font color="#E5E5E5"> you read is like</font>
+
+34
+00:01:10,049 --> 00:01:12,180
+oh it's because<font color="#E5E5E5"> of malpractice insurance</font>
+
+35
+00:01:12,180 --> 00:01:14,580
+<font color="#CCCCCC">or it's because</font><font color="#E5E5E5"> we're obese or we go to</font>
+
+36
+00:01:14,580 --> 00:01:16,619
+the doctor too much or people are
+
+37
+00:01:16,619 --> 00:01:20,070
+prescribed<font color="#CCCCCC"> too many medications well not</font>
+
+38
+00:01:20,070 --> 00:01:22,259
+really<font color="#E5E5E5"> it's because everything</font><font color="#CCCCCC"> costs</font>
+
+39
+00:01:22,259 --> 00:01:24,409
+more a hip replacement<font color="#CCCCCC"> in Belgium</font><font color="#E5E5E5"> costs</font>
+
+40
+00:01:24,409 --> 00:01:26,820
+$13,000 in<font color="#CCCCCC"> the u.s. it's often over a</font>
+
+41
+00:01:26,820 --> 00:01:28,619
+hundred<font color="#E5E5E5"> thousand</font><font color="#CCCCCC"> dollars colonoscopies</font>
+
+42
+00:01:28,619 --> 00:01:30,270
+averaged<font color="#E5E5E5"> over</font><font color="#CCCCCC"> eleven hundred</font><font color="#E5E5E5"> bucks</font>
+
+43
+00:01:30,270 --> 00:01:32,130
+<font color="#CCCCCC">apiece in the</font><font color="#E5E5E5"> US and Switzerland there's</font>
+
+44
+00:01:32,130 --> 00:01:33,810
+six hundred<font color="#CCCCCC"> fifty five dollars and on</font>
+
+45
+00:01:33,810 --> 00:01:35,729
+average<font color="#CCCCCC"> a month</font><font color="#E5E5E5"> of the drug lipitor will</font>
+
+46
+00:01:35,729 --> 00:01:37,740
+cost you<font color="#CCCCCC"> 124</font><font color="#E5E5E5"> dollars if you live in the</font>
+
+47
+00:01:37,740 --> 00:01:38,939
+United States if you<font color="#E5E5E5"> live in New Zealand</font>
+
+48
+00:01:38,939 --> 00:01:41,790
+<font color="#CCCCCC">seven</font><font color="#E5E5E5"> dollars</font><font color="#CCCCCC"> now we are also not to</font>
+
+49
+00:01:41,790 --> 00:01:43,560
+brag<font color="#E5E5E5"> richer</font><font color="#CCCCCC"> than all of these countries</font>
+
+50
+00:01:43,560 --> 00:01:45,659
+<font color="#CCCCCC">so it makes sense that</font><font color="#E5E5E5"> we</font><font color="#CCCCCC"> should spend</font><font color="#E5E5E5"> a</font>
+
+51
+00:01:45,659 --> 00:01:47,759
+<font color="#CCCCCC">little more on</font><font color="#E5E5E5"> health care but we don't</font>
+
+52
+00:01:47,759 --> 00:01:50,340
+spend a little more<font color="#E5E5E5"> we spend a ton more</font>
+
+53
+00:01:50,340 --> 00:01:53,100
+and vitally we don't get anything<font color="#E5E5E5"> for</font>
+
+54
+00:01:53,100 --> 00:01:54,450
+that<font color="#CCCCCC"> money which means</font><font color="#E5E5E5"> we</font><font color="#CCCCCC"> are</font>
+
+55
+00:01:54,450 --> 00:01:56,579
+essentially<font color="#E5E5E5"> paying people to dig holes</font>
+
+56
+00:01:56,579 --> 00:01:58,710
+and<font color="#E5E5E5"> then fill those holes back up like</font>
+
+57
+00:01:58,710 --> 00:02:00,000
+we don't live longer<font color="#E5E5E5"> in fact we're</font>
+
+58
+00:02:00,000 --> 00:02:01,290
+<font color="#E5E5E5">thirty thirty life expectancy and</font>
+
+59
+00:02:01,290 --> 00:02:03,149
+everything from asthma<font color="#E5E5E5"> to cancer</font>
+
+60
+00:02:03,149 --> 00:02:04,500
+according<font color="#E5E5E5"> to one recent nonpartisan</font>
+
+61
+00:02:04,500 --> 00:02:06,740
+study<font color="#E5E5E5"> American health outcomes are not</font>
+
+62
+00:02:06,740 --> 00:02:09,300
+notably superior so why are we<font color="#E5E5E5"> spending</font>
+
+63
+00:02:09,300 --> 00:02:10,800
+all this money<font color="#E5E5E5"> for nothing well first</font>
+
+64
+00:02:10,800 --> 00:02:12,239
+let's discuss<font color="#E5E5E5"> some of</font><font color="#CCCCCC"> the problems that</font>
+
+65
+00:02:12,239 --> 00:02:12,930
+<font color="#E5E5E5">are not</font>
+
+66
+00:02:12,930 --> 00:02:14,819
+<font color="#CCCCCC">Trulli problems</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> instance the problem</font>
+
+67
+00:02:14,819 --> 00:02:17,310
+is not<font color="#CCCCCC"> so-called overutilization the</font>
+
+68
+00:02:17,310 --> 00:02:18,870
+idea that Americans go<font color="#CCCCCC"> to</font><font color="#E5E5E5"> the doctor</font>
+
+69
+00:02:18,870 --> 00:02:20,640
+<font color="#E5E5E5">more and get more tests and spend more</font>
+
+70
+00:02:20,640 --> 00:02:22,620
+time<font color="#CCCCCC"> in hospitals</font><font color="#E5E5E5"> we know this</font><font color="#CCCCCC"> because</font>
+
+71
+00:02:22,620 --> 00:02:24,480
+Americans actually<font color="#E5E5E5"> go to the doctor less</font>
+
+72
+00:02:24,480 --> 00:02:26,400
+than<font color="#E5E5E5"> Europeans and spend much less time</font>
+
+73
+00:02:26,400 --> 00:02:28,859
+<font color="#CCCCCC">in hospitals although to be fair you can</font>
+
+74
+00:02:28,859 --> 00:02:30,359
+stay in a Dutch<font color="#CCCCCC"> hospital for seven</font>
+
+75
+00:02:30,359 --> 00:02:31,769
+<font color="#CCCCCC">nights for what it costs to</font><font color="#E5E5E5"> stay an</font>
+
+76
+00:02:31,769 --> 00:02:33,810
+American one for one night<font color="#E5E5E5"> so no</font><font color="#CCCCCC"> wonder</font>
+
+77
+00:02:33,810 --> 00:02:36,120
+we're hesitant also it is not because we
+
+78
+00:02:36,120 --> 00:02:37,799
+<font color="#CCCCCC">are sicker than other people everybody</font>
+
+79
+00:02:37,799 --> 00:02:39,510
+likes<font color="#E5E5E5"> to blame obesity on our rising</font>
+
+80
+00:02:39,510 --> 00:02:41,069
+<font color="#E5E5E5">healthcare costs but ya know</font><font color="#CCCCCC"> that</font>
+
+81
+00:02:41,069 --> 00:02:42,989
+<font color="#E5E5E5">argument is just not supported by data</font>
+
+82
+00:02:42,989 --> 00:02:44,819
+for one thing disease prevalence does
+
+83
+00:02:44,819 --> 00:02:46,680
+not affect<font color="#CCCCCC"> healthcare cost</font><font color="#E5E5E5"> that much</font><font color="#CCCCCC"> and</font>
+
+84
+00:02:46,680 --> 00:02:48,269
+for<font color="#E5E5E5"> another thing while we do</font><font color="#CCCCCC"> have more</font>
+
+85
+00:02:48,269 --> 00:02:49,919
+obesity<font color="#CCCCCC"> in the United States which</font>
+
+86
+00:02:49,919 --> 00:02:51,450
+sometimes leads<font color="#E5E5E5"> to health problems we</font>
+
+87
+00:02:51,450 --> 00:02:53,639
+have fewer<font color="#E5E5E5"> smokers and less alcohol</font>
+
+88
+00:02:53,639 --> 00:02:56,400
+consumption really<font color="#E5E5E5"> apparently yes so</font>
+
+89
+00:02:56,400 --> 00:02:57,930
+that saves<font color="#E5E5E5"> us a little money</font><font color="#CCCCCC"> and if</font><font color="#E5E5E5"> you</font>
+
+90
+00:02:57,930 --> 00:02:59,489
+compare us<font color="#CCCCCC"> to like the British or the</font>
+
+91
+00:02:59,489 --> 00:03:01,439
+French in the<font color="#E5E5E5"> end it's</font><font color="#CCCCCC"> probably a wash</font>
+
+92
+00:03:01,439 --> 00:03:04,650
+<font color="#CCCCCC">thank the truth as usual is complex like</font>
+
+93
+00:03:04,650 --> 00:03:06,209
+there are obvious inefficiencies in<font color="#E5E5E5"> our</font>
+
+94
+00:03:06,209 --> 00:03:07,530
+<font color="#CCCCCC">healthcare</font><font color="#E5E5E5"> system</font><font color="#CCCCCC"> for instance not</font>
+
+95
+00:03:07,530 --> 00:03:09,359
+everyone has insurance<font color="#E5E5E5"> if you</font><font color="#CCCCCC"> don't have</font>
+
+96
+00:03:09,359 --> 00:03:11,340
+insurance you still get<font color="#E5E5E5"> health care but</font>
+
+97
+00:03:11,340 --> 00:03:13,200
+you are<font color="#E5E5E5"> responsible</font><font color="#CCCCCC"> for paying</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> that</font>
+
+98
+00:03:13,200 --> 00:03:15,150
+health care<font color="#E5E5E5"> which often you can't do so</font>
+
+99
+00:03:15,150 --> 00:03:17,010
+you end up<font color="#E5E5E5"> going bankrupt</font><font color="#CCCCCC"> that sucks for</font>
+
+100
+00:03:17,010 --> 00:03:18,659
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> obviously because you're bankrupt</font>
+
+101
+00:03:18,659 --> 00:03:20,069
+but it also sucks<font color="#E5E5E5"> for the rest of us</font>
+
+102
+00:03:20,069 --> 00:03:22,139
+<font color="#CCCCCC">because we have</font><font color="#E5E5E5"> to pay not only</font><font color="#CCCCCC"> for your</font>
+
+103
+00:03:22,139 --> 00:03:24,030
+care<font color="#CCCCCC"> but also</font><font color="#E5E5E5"> for all</font><font color="#CCCCCC"> the money the</font>
+
+104
+00:03:24,030 --> 00:03:26,010
+hospital spent<font color="#E5E5E5"> trying</font><font color="#CCCCCC"> to get you to pay</font>
+
+105
+00:03:26,010 --> 00:03:27,840
+<font color="#CCCCCC">for your care</font><font color="#E5E5E5"> also the only options</font>
+
+106
+00:03:27,840 --> 00:03:29,370
+available to uninsured people<font color="#E5E5E5"> are</font>
+
+107
+00:03:29,370 --> 00:03:31,560
+<font color="#CCCCCC">usually</font><font color="#E5E5E5"> the most</font><font color="#CCCCCC"> expensive options like</font>
+
+108
+00:03:31,560 --> 00:03:33,720
+<font color="#CCCCCC">emergency rooms which is just bananas</font>
+
+109
+00:03:33,720 --> 00:03:35,220
+<font color="#E5E5E5">but those inefficiencies are hard to</font>
+
+110
+00:03:35,220 --> 00:03:36,659
+measure fortunately there are things
+
+111
+00:03:36,659 --> 00:03:38,280
+that we can measure<font color="#CCCCCC"> so like I said</font>
+
+112
+00:03:38,280 --> 00:03:39,569
+<font color="#CCCCCC">before because the u.s.</font><font color="#E5E5E5"> is one of the</font>
+
+113
+00:03:39,569 --> 00:03:40,739
+richest countries<font color="#CCCCCC"> in the</font><font color="#E5E5E5"> world you would</font>
+
+114
+00:03:40,739 --> 00:03:42,060
+expect us to pay a little<font color="#E5E5E5"> more for</font>
+
+115
+00:03:42,060 --> 00:03:43,620
+<font color="#CCCCCC">health care</font><font color="#E5E5E5"> than most people the</font>
+
+116
+00:03:43,620 --> 00:03:45,750
+<font color="#E5E5E5">question is when do we pay more than you</font>
+
+117
+00:03:45,750 --> 00:03:47,549
+<font color="#CCCCCC">would expect</font><font color="#E5E5E5"> us to pay and that turns</font>
+
+118
+00:03:47,549 --> 00:03:49,079
+<font color="#E5E5E5">out to</font><font color="#CCCCCC"> be pretty interesting let's</font><font color="#E5E5E5"> start</font>
+
+119
+00:03:49,079 --> 00:03:51,030
+with malpractice and<font color="#CCCCCC"> so-called defensive</font>
+
+120
+00:03:51,030 --> 00:03:52,829
+medicine the idea here<font color="#E5E5E5"> is that doctors</font>
+
+121
+00:03:52,829 --> 00:03:54,720
+are scared<font color="#CCCCCC"> of huge malpractice suits so</font>
+
+122
+00:03:54,720 --> 00:03:57,180
+they order a lot<font color="#E5E5E5"> of</font><font color="#CCCCCC"> unnecessary tests in</font>
+
+123
+00:03:57,180 --> 00:03:58,949
+order<font color="#CCCCCC"> to</font><font color="#E5E5E5"> like cover their butts</font><font color="#CCCCCC"> that</font>
+
+124
+00:03:58,949 --> 00:04:00,509
+does<font color="#E5E5E5"> contribute to</font><font color="#CCCCCC"> our</font><font color="#E5E5E5"> health care costs</font>
+
+125
+00:04:00,509 --> 00:04:02,579
+like there are<font color="#E5E5E5"> more MRIs</font><font color="#CCCCCC"> and CT scans in</font>
+
+126
+00:04:02,579 --> 00:04:04,379
+the<font color="#CCCCCC"> US than anywhere else however there</font>
+
+127
+00:04:04,379 --> 00:04:06,030
+<font color="#E5E5E5">are a bunch of states like Texas that</font>
+
+128
+00:04:06,030 --> 00:04:07,650
+have passed tort reform to limit
+
+129
+00:04:07,650 --> 00:04:09,299
+malpractice suits and in those states
+
+130
+00:04:09,299 --> 00:04:11,069
+<font color="#CCCCCC">health</font><font color="#E5E5E5"> care costs have dropped by an</font>
+
+131
+00:04:11,069 --> 00:04:13,379
+<font color="#CCCCCC">average of a whopping point</font><font color="#E5E5E5"> one</font><font color="#CCCCCC"> percent</font>
+
+132
+00:04:13,379 --> 00:04:15,840
+the biggest estimates for the total<font color="#CCCCCC"> cost</font>
+
+133
+00:04:15,840 --> 00:04:18,029
+of defensive<font color="#CCCCCC"> medicine put it around 55</font>
+
+134
+00:04:18,029 --> 00:04:19,889
+<font color="#E5E5E5">billion dollars which is a lot</font><font color="#CCCCCC"> of money</font>
+
+135
+00:04:19,889 --> 00:04:22,169
+but it's only<font color="#CCCCCC"> 2% of</font><font color="#E5E5E5"> our total</font><font color="#CCCCCC"> healthcare</font>
+
+136
+00:04:22,169 --> 00:04:24,539
+<font color="#E5E5E5">costs another smallish factor doctors</font>
+
+137
+00:04:24,539 --> 00:04:26,310
+and to a lesser<font color="#CCCCCC"> extent nurses are paid</font>
+
+138
+00:04:26,310 --> 00:04:27,120
+<font color="#CCCCCC">more in you</font>
+
+139
+00:04:27,120 --> 00:04:28,350
+United<font color="#CCCCCC"> States than they are in other</font>
+
+140
+00:04:28,350 --> 00:04:30,360
+<font color="#CCCCCC">countries and by my possibly faulty math</font>
+
+141
+00:04:30,360 --> 00:04:31,979
+we end up<font color="#E5E5E5"> spending about</font><font color="#CCCCCC"> 75 billion</font>
+
+142
+00:04:31,979 --> 00:04:33,449
+dollars more than<font color="#CCCCCC"> you would expect</font><font color="#E5E5E5"> us to</font>
+
+143
+00:04:33,449 --> 00:04:34,919
+<font color="#E5E5E5">there then we have</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> cost of insurance</font>
+
+144
+00:04:34,919 --> 00:04:37,229
+<font color="#CCCCCC">and administrative costs like paperwork</font>
+
+145
+00:04:37,229 --> 00:04:39,570
+<font color="#E5E5E5">and marketing and negotiating prices all</font>
+
+146
+00:04:39,570 --> 00:04:41,460
+that stuff<font color="#E5E5E5"> that's about</font><font color="#CCCCCC"> ninety billion</font>
+
+147
+00:04:41,460 --> 00:04:43,500
+dollars<font color="#E5E5E5"> more than</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> would expect us</font><font color="#CCCCCC"> to</font>
+
+148
+00:04:43,500 --> 00:04:45,090
+<font color="#E5E5E5">spend we</font><font color="#CCCCCC"> spent</font><font color="#E5E5E5"> about a hundred billion</font>
+
+149
+00:04:45,090 --> 00:04:46,530
+<font color="#E5E5E5">dollars more than</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> would</font><font color="#CCCCCC"> expect on</font>
+
+150
+00:04:46,530 --> 00:04:48,419
+<font color="#E5E5E5">drugs not so much</font><font color="#CCCCCC"> because we take</font><font color="#E5E5E5"> more</font>
+
+151
+00:04:48,419 --> 00:04:50,070
+<font color="#CCCCCC">of them but</font><font color="#E5E5E5"> because the ones that we</font>
+
+152
+00:04:50,070 --> 00:04:52,590
+take cost more per pill okay<font color="#E5E5E5"> and now for</font>
+
+153
+00:04:52,590 --> 00:04:54,479
+<font color="#CCCCCC">the big one I'm going</font><font color="#E5E5E5"> to lump inpatient</font>
+
+154
+00:04:54,479 --> 00:04:56,130
+and outpatient<font color="#E5E5E5"> care together because in</font>
+
+155
+00:04:56,130 --> 00:04:57,570
+the u.s.<font color="#E5E5E5"> we do a lot</font><font color="#CCCCCC"> of things as</font>
+
+156
+00:04:57,570 --> 00:04:59,400
+outpatient procedures like gallbladder
+
+157
+00:04:59,400 --> 00:05:01,260
+surgeries that<font color="#E5E5E5"> are often inpatient</font>
+
+158
+00:05:01,260 --> 00:05:02,820
+procedures in other hospitals so we're
+
+159
+00:05:02,820 --> 00:05:04,710
+just<font color="#E5E5E5"> going</font><font color="#CCCCCC"> to make a big ball that big</font>
+
+160
+00:05:04,710 --> 00:05:07,020
+ball is<font color="#CCCCCC"> five hundred billion</font><font color="#E5E5E5"> dollars</font>
+
+161
+00:05:07,020 --> 00:05:08,639
+more than<font color="#E5E5E5"> what you would</font><font color="#CCCCCC"> expect given</font>
+
+162
+00:05:08,639 --> 00:05:11,400
+<font color="#E5E5E5">the size of our</font><font color="#CCCCCC"> economy per year</font><font color="#E5E5E5"> why</font>
+
+163
+00:05:11,400 --> 00:05:13,410
+well because<font color="#CCCCCC"> in the United States we do</font>
+
+164
+00:05:13,410 --> 00:05:15,660
+not<font color="#E5E5E5"> negotiate as aggressively as other</font>
+
+165
+00:05:15,660 --> 00:05:17,460
+<font color="#E5E5E5">countries do with</font><font color="#CCCCCC"> healthcare providers</font>
+
+166
+00:05:17,460 --> 00:05:19,440
+and drug manufacturers and<font color="#E5E5E5"> medical</font>
+
+167
+00:05:19,440 --> 00:05:21,570
+device makers<font color="#E5E5E5"> so like in the UK the</font>
+
+168
+00:05:21,570 --> 00:05:22,919
+government<font color="#E5E5E5"> goes out to all the</font><font color="#CCCCCC"> people</font>
+
+169
+00:05:22,919 --> 00:05:24,990
+<font color="#CCCCCC">who make</font><font color="#E5E5E5"> artificial hips and says one</font><font color="#CCCCCC"> of</font>
+
+170
+00:05:24,990 --> 00:05:27,150
+you is<font color="#E5E5E5"> going</font><font color="#CCCCCC"> to get to make a crap ton</font>
+
+171
+00:05:27,150 --> 00:05:29,820
+of fake hips for everybody who<font color="#E5E5E5"> is</font>
+
+172
+00:05:29,820 --> 00:05:31,889
+covered by the NHS here in the United
+
+173
+00:05:31,889 --> 00:05:33,180
+Kingdom<font color="#CCCCCC"> but</font><font color="#E5E5E5"> you better make sure your</font>
+
+174
+00:05:33,180 --> 00:05:34,919
+fake hips are safe and<font color="#CCCCCC"> you</font><font color="#E5E5E5"> better make</font>
+
+175
+00:05:34,919 --> 00:05:36,240
+<font color="#CCCCCC">sure that they're cheap because</font>
+
+176
+00:05:36,240 --> 00:05:37,620
+otherwise<font color="#CCCCCC"> we're</font><font color="#E5E5E5"> going</font><font color="#CCCCCC"> to give our</font>
+
+177
+00:05:37,620 --> 00:05:39,419
+business to a different company<font color="#CCCCCC"> and then</font>
+
+178
+00:05:39,419 --> 00:05:41,039
+all the fake hip companies are motivated
+
+179
+00:05:41,039 --> 00:05:42,930
+to<font color="#E5E5E5"> offer really low prices because it's</font>
+
+180
+00:05:42,930 --> 00:05:45,120
+a huge contract<font color="#E5E5E5"> like think if your</font>
+
+181
+00:05:45,120 --> 00:05:47,160
+company got to put hips inside of
+
+182
+00:05:47,160 --> 00:05:49,349
+everyone<font color="#CCCCCC"> in England and Scotland and</font>
+
+183
+00:05:49,349 --> 00:05:50,970
+Wales and<font color="#CCCCCC"> Northern Ireland I guess not</font>
+
+184
+00:05:50,970 --> 00:05:52,500
+<font color="#CCCCCC">everyone just the people</font><font color="#E5E5E5"> who need hips</font>
+
+185
+00:05:52,500 --> 00:05:54,450
+<font color="#CCCCCC">but in the</font><font color="#E5E5E5"> u.s. we</font><font color="#CCCCCC"> don't have any of</font>
+
+186
+00:05:54,450 --> 00:05:56,490
+that<font color="#CCCCCC"> centralised negotiation so we don't</font>
+
+187
+00:05:56,490 --> 00:05:58,590
+have as much leverage<font color="#CCCCCC"> the only big</font>
+
+188
+00:05:58,590 --> 00:05:59,820
+exception<font color="#CCCCCC"> is Medicare</font><font color="#E5E5E5"> the</font>
+
+189
+00:05:59,820 --> 00:06:01,289
+government-funded health<font color="#E5E5E5"> care for old</font>
+
+190
+00:06:01,289 --> 00:06:03,360
+people<font color="#CCCCCC"> which not coincidentally</font><font color="#E5E5E5"> always</font>
+
+191
+00:06:03,360 --> 00:06:04,740
+gets the lowest<font color="#CCCCCC"> prices</font>
+
+192
+00:06:04,740 --> 00:06:06,389
+so basically Hank in the United States
+
+193
+00:06:06,389 --> 00:06:08,099
+providers charge<font color="#E5E5E5"> whatever</font><font color="#CCCCCC"> they think</font>
+
+194
+00:06:08,099 --> 00:06:09,900
+<font color="#E5E5E5">they can get away</font><font color="#CCCCCC"> with and they can</font><font color="#E5E5E5"> get</font>
+
+195
+00:06:09,900 --> 00:06:11,849
+<font color="#CCCCCC">away with a lot because it's really</font>
+
+196
+00:06:11,849 --> 00:06:13,979
+<font color="#E5E5E5">difficult to put a price on like not</font>
+
+197
+00:06:13,979 --> 00:06:15,630
+dying<font color="#E5E5E5"> this</font><font color="#CCCCCC"> is a phenomenon called</font>
+
+198
+00:06:15,630 --> 00:06:17,970
+<font color="#E5E5E5">inelastic</font><font color="#CCCCCC"> demand like if you tell me</font>
+
+199
+00:06:17,970 --> 00:06:19,740
+<font color="#E5E5E5">that this drug that will save my life</font>
+
+200
+00:06:19,740 --> 00:06:21,690
+<font color="#E5E5E5">cost</font><font color="#CCCCCC"> seven dollars a</font><font color="#E5E5E5"> month</font><font color="#CCCCCC"> I will</font><font color="#E5E5E5"> pay</font>
+
+201
+00:06:21,690 --> 00:06:23,940
+you $7 a month<font color="#E5E5E5"> for it if you tell me</font>
+
+202
+00:06:23,940 --> 00:06:26,430
+<font color="#E5E5E5">that it costs 124 dollars a month</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> will</font>
+
+203
+00:06:26,430 --> 00:06:29,039
+find a way<font color="#CCCCCC"> to find 124 dollars a month</font>
+
+204
+00:06:29,039 --> 00:06:30,720
+<font color="#E5E5E5">to pay for it</font><font color="#CCCCCC"> you can't</font><font color="#E5E5E5"> negotiate</font>
+
+205
+00:06:30,720 --> 00:06:32,340
+<font color="#CCCCCC">effectively on your own behalf for</font>
+
+206
+00:06:32,340 --> 00:06:34,139
+<font color="#E5E5E5">health care services</font><font color="#CCCCCC"> because you need</font>
+
+207
+00:06:34,139 --> 00:06:35,940
+them and<font color="#CCCCCC"> not</font><font color="#E5E5E5"> like you need</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> new MacBook</font>
+
+208
+00:06:35,940 --> 00:06:38,130
+<font color="#E5E5E5">Air or</font><font color="#CCCCCC"> the new season of Sherlock</font><font color="#E5E5E5"> but</font>
+
+209
+00:06:38,130 --> 00:06:38,689
+actual
+
+210
+00:06:38,689 --> 00:06:40,699
+physical need I<font color="#E5E5E5"> guess it is</font><font color="#CCCCCC"> like the</font><font color="#E5E5E5"> new</font>
+
+211
+00:06:40,699 --> 00:06:42,319
+season of<font color="#CCCCCC"> Sherlock so basically Hank</font>
+
+212
+00:06:42,319 --> 00:06:44,269
+until and unless we can<font color="#CCCCCC"> negotiate as</font>
+
+213
+00:06:44,269 --> 00:06:45,589
+effectively<font color="#E5E5E5"> with the people providing</font>
+
+214
+00:06:45,589 --> 00:06:47,809
+<font color="#CCCCCC">health care as Australians and British</font>
+
+215
+00:06:47,809 --> 00:06:49,969
+<font color="#CCCCCC">people do us healthcare costs will</font>
+
+216
+00:06:49,969 --> 00:06:51,979
+continue to rise<font color="#E5E5E5"> faster than anywhere</font>
+
+217
+00:06:51,979 --> 00:06:53,689
+else<font color="#E5E5E5"> in the world and we won't get</font>
+
+218
+00:06:53,689 --> 00:06:55,519
+better<font color="#CCCCCC"> healthcare outcomes Hank I know</font>
+
+219
+00:06:55,519 --> 00:06:56,749
+this video<font color="#E5E5E5"> is long although it could</font>
+
+220
+00:06:56,749 --> 00:06:58,159
+<font color="#E5E5E5">have been much longer but I am so tired</font>
+
+221
+00:06:58,159 --> 00:07:00,139
+<font color="#CCCCCC">of people offering up simple</font>
+
+222
+00:07:00,139 --> 00:07:01,729
+explanations for what's wrong<font color="#E5E5E5"> with our</font>
+
+223
+00:07:01,729 --> 00:07:03,319
+<font color="#CCCCCC">healthcare system they say oh it's</font>
+
+224
+00:07:03,319 --> 00:07:04,939
+malpractice or<font color="#CCCCCC"> it's doctors who must</font>
+
+225
+00:07:04,939 --> 00:07:06,349
+also be business people<font color="#E5E5E5"> or</font><font color="#CCCCCC"> it's</font>
+
+226
+00:07:06,349 --> 00:07:08,299
+<font color="#E5E5E5">insurance companies or it's insane rules</font>
+
+227
+00:07:08,299 --> 00:07:10,459
+for who<font color="#E5E5E5"> can get</font><font color="#CCCCCC"> insurance it's drug</font>
+
+228
+00:07:10,459 --> 00:07:12,199
+companies it's<font color="#E5E5E5"> government bureaucracy</font>
+
+229
+00:07:12,199 --> 00:07:14,209
+it's an inability to negotiate prices
+
+230
+00:07:14,209 --> 00:07:17,689
+yes<font color="#E5E5E5"> yes yes yes and yes it is all of</font>
+
+231
+00:07:17,689 --> 00:07:19,969
+those<font color="#E5E5E5"> things and more</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> is not</font><font color="#CCCCCC"> a simple</font>
+
+232
+00:07:19,969 --> 00:07:21,439
+problem there will not be<font color="#CCCCCC"> a simple</font>
+
+233
+00:07:21,439 --> 00:07:23,809
+<font color="#CCCCCC">solution but</font><font color="#E5E5E5"> it is probably the biggest</font>
+
+234
+00:07:23,809 --> 00:07:26,239
+<font color="#E5E5E5">single drag on the American economy and</font>
+
+235
+00:07:26,239 --> 00:07:28,069
+it's vital that<font color="#E5E5E5"> we grapple with it</font>
+
+236
+00:07:28,069 --> 00:07:29,839
+meaningfully instead of just treating
+
+237
+00:07:29,839 --> 00:07:31,279
+<font color="#CCCCCC">health care costs as political theater</font>
+
+238
+00:07:31,279 --> 00:07:32,959
+<font color="#CCCCCC">so I hope I've at least introduced the</font>
+
+239
+00:07:32,959 --> 00:07:34,909
+complexity of the problem<font color="#CCCCCC"> I put some</font>
+
+240
+00:07:34,909 --> 00:07:36,409
+thoroughly<font color="#CCCCCC"> nonpartisan</font><font color="#E5E5E5"> links in the</font>
+
+241
+00:07:36,409 --> 00:07:37,849
+doobly-doo for further reading<font color="#CCCCCC"> Hank</font>
+
+242
+00:07:37,849 --> 00:07:39,649
+welcome back to the United States<font color="#CCCCCC"> as you</font>
+
+243
+00:07:39,649 --> 00:07:41,659
+<font color="#E5E5E5">can see everything is peachy here</font><font color="#CCCCCC"> I'll</font>
+
+244
+00:07:41,659 --> 00:07:42,499
+see you on Friday
+
+245
+00:07:42,499 --> 00:07:45,079
+<font color="#E5E5E5">friendly reminder educational videos are</font>
+
+246
+00:07:45,079 --> 00:07:46,309
+allowed to be more than<font color="#E5E5E5"> four</font><font color="#CCCCCC"> minutes</font>
+
+247
+00:07:46,309 --> 00:07:47,719
+long all the people who are commenting
+
+248
+00:07:47,719 --> 00:07:49,849
+<font color="#CCCCCC">about how punished I am did not watch to</font>
+
+249
+00:07:49,849 --> 00:00:00,000
+the end<font color="#CCCCCC"> of the video I feel dizzy</font>
+

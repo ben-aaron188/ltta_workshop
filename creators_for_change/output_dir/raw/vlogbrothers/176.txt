@@ -1,0 +1,464 @@
+1
+00:00:00,000 --> 00:00:02,190
+good morning Hank it's Tuesday so what
+
+2
+00:00:02,190 --> 00:00:04,049
+if I told<font color="#E5E5E5"> you that</font><font color="#CCCCCC"> for Americans a</font>
+
+3
+00:00:04,049 --> 00:00:06,480
+single data point<font color="#CCCCCC"> can affect</font><font color="#E5E5E5"> your life</font>
+
+4
+00:00:06,480 --> 00:00:08,610
+<font color="#E5E5E5">expectancy more than whether you smoke</font>
+
+5
+00:00:08,610 --> 00:00:10,650
+<font color="#E5E5E5">whether you get an annual physical or</font>
+
+6
+00:00:10,650 --> 00:00:12,929
+whether you exercise<font color="#E5E5E5"> regularly</font><font color="#CCCCCC"> that data</font>
+
+7
+00:00:12,929 --> 00:00:15,089
+<font color="#E5E5E5">point is your zip code</font><font color="#CCCCCC"> the five digit</font>
+
+8
+00:00:15,089 --> 00:00:16,980
+number the US Postal Service uses to
+
+9
+00:00:16,980 --> 00:00:18,810
+deliver your mail<font color="#E5E5E5"> in the</font><font color="#CCCCCC"> u.s. your zip</font>
+
+10
+00:00:18,810 --> 00:00:20,490
+code<font color="#CCCCCC"> can</font><font color="#E5E5E5"> affect your life</font><font color="#CCCCCC"> expectancy by</font>
+
+11
+00:00:20,490 --> 00:00:23,100
+<font color="#E5E5E5">20 years and according to some</font><font color="#CCCCCC"> recent</font>
+
+12
+00:00:23,100 --> 00:00:24,960
+research the gap between the healthiest
+
+13
+00:00:24,960 --> 00:00:26,550
+communities and the sickest ones<font color="#E5E5E5"> is</font>
+
+14
+00:00:26,550 --> 00:00:28,080
+getting bigger<font color="#CCCCCC"> so I live in the</font><font color="#E5E5E5"> city of</font>
+
+15
+00:00:28,080 --> 00:00:29,880
+<font color="#CCCCCC">Indianapolis and in my zip code life</font>
+
+16
+00:00:29,880 --> 00:00:31,710
+expectancy is around<font color="#E5E5E5"> 80 which</font><font color="#CCCCCC"> is</font>
+
+17
+00:00:31,710 --> 00:00:33,690
+slightly higher<font color="#CCCCCC"> than</font><font color="#E5E5E5"> the US average but</font>
+
+18
+00:00:33,690 --> 00:00:35,190
+if you live<font color="#E5E5E5"> three miles north</font><font color="#CCCCCC"> of my</font>
+
+19
+00:00:35,190 --> 00:00:37,380
+house average life expectancy rises to
+
+20
+00:00:37,380 --> 00:00:39,570
+<font color="#CCCCCC">83 point</font><font color="#E5E5E5"> seven and if you live three</font>
+
+21
+00:00:39,570 --> 00:00:42,690
+miles<font color="#E5E5E5"> south of my house it falls to 69</font>
+
+22
+00:00:42,690 --> 00:00:44,460
+point four<font color="#E5E5E5"> now maybe that</font><font color="#CCCCCC"> doesn't seem</font>
+
+23
+00:00:44,460 --> 00:00:45,899
+like a big deal to<font color="#CCCCCC"> you but just to</font><font color="#E5E5E5"> put</font>
+
+24
+00:00:45,899 --> 00:00:47,460
+it in some context on average
+
+25
+00:00:47,460 --> 00:00:49,590
+non-smokers in the<font color="#CCCCCC"> u.s. live about ten</font>
+
+26
+00:00:49,590 --> 00:00:51,390
+<font color="#E5E5E5">years longer than smokers</font><font color="#CCCCCC"> people who</font>
+
+27
+00:00:51,390 --> 00:00:53,460
+<font color="#E5E5E5">exercise regularly live about four point</font>
+
+28
+00:00:53,460 --> 00:00:55,260
+five years<font color="#CCCCCC"> longer than those who don't</font>
+
+29
+00:00:55,260 --> 00:00:57,000
+<font color="#E5E5E5">and whether you live three miles north</font>
+
+30
+00:00:57,000 --> 00:00:58,800
+or south of my house affects your life
+
+31
+00:00:58,800 --> 00:01:01,890
+<font color="#CCCCCC">expectancy by</font><font color="#E5E5E5"> 14 years</font><font color="#CCCCCC"> wait slight</font>
+
+32
+00:01:01,890 --> 00:01:03,690
+tangent am I gonna spend<font color="#E5E5E5"> all of those</font>
+
+33
+00:01:03,690 --> 00:01:05,880
+extra<font color="#E5E5E5"> four point five years exercising I</font>
+
+34
+00:01:05,880 --> 00:01:07,770
+have to do some math okay so assuming
+
+35
+00:01:07,770 --> 00:01:09,810
+<font color="#E5E5E5">2.5 hours of moderate intensity exercise</font>
+
+36
+00:01:09,810 --> 00:01:12,299
+<font color="#E5E5E5">per week beginning at the</font><font color="#CCCCCC"> age of 16</font>
+
+37
+00:01:12,299 --> 00:01:14,100
+you're gonna spend about one of<font color="#E5E5E5"> your</font>
+
+38
+00:01:14,100 --> 00:01:16,200
+extra years exercising then you're gonna
+
+39
+00:01:16,200 --> 00:01:18,210
+spend<font color="#CCCCCC"> another 1.5 years</font><font color="#E5E5E5"> sleeping you</font>
+
+40
+00:01:18,210 --> 00:01:20,220
+basically<font color="#E5E5E5"> get two extra years except of</font>
+
+41
+00:01:20,220 --> 00:01:21,960
+course<font color="#CCCCCC"> that's not how</font><font color="#E5E5E5"> life expectancy</font>
+
+42
+00:01:21,960 --> 00:01:24,090
+works<font color="#E5E5E5"> if you a particular individual</font>
+
+43
+00:01:24,090 --> 00:01:25,619
+exercise it doesn't mean that<font color="#E5E5E5"> you're</font>
+
+44
+00:01:25,619 --> 00:01:27,450
+particularly feuille be increased by
+
+45
+00:01:27,450 --> 00:01:29,430
+four point five extra years<font color="#CCCCCC"> or even four</font>
+
+46
+00:01:29,430 --> 00:01:31,290
+<font color="#E5E5E5">point five extra hours it</font><font color="#CCCCCC"> just means</font>
+
+47
+00:01:31,290 --> 00:01:33,090
+that<font color="#E5E5E5"> on</font><font color="#CCCCCC"> average that's what happens</font>
+
+48
+00:01:33,090 --> 00:01:34,860
+similarly living in a<font color="#CCCCCC"> particular zip</font>
+
+49
+00:01:34,860 --> 00:01:36,780
+code doesn't<font color="#E5E5E5"> mean a particular fate for</font>
+
+50
+00:01:36,780 --> 00:01:39,420
+individuals but<font color="#CCCCCC"> on average geography has</font>
+
+51
+00:01:39,420 --> 00:01:41,700
+<font color="#E5E5E5">a huge impact on American health and</font>
+
+52
+00:01:41,700 --> 00:01:43,170
+longevity<font color="#CCCCCC"> so what's causing</font><font color="#E5E5E5"> that</font>
+
+53
+00:01:43,170 --> 00:01:45,000
+profound<font color="#E5E5E5"> life expectancy gap well as</font>
+
+54
+00:01:45,000 --> 00:01:47,159
+<font color="#E5E5E5">usual it's complicated like the Eastern</font>
+
+55
+00:01:47,159 --> 00:01:48,360
+<font color="#E5E5E5">Kentucky communities where life</font>
+
+56
+00:01:48,360 --> 00:01:50,520
+expectancy<font color="#CCCCCC"> is under</font><font color="#E5E5E5"> 70 have higher rates</font>
+
+57
+00:01:50,520 --> 00:01:52,200
+<font color="#E5E5E5">of tobacco</font><font color="#CCCCCC"> usage than the central</font>
+
+58
+00:01:52,200 --> 00:01:53,610
+<font color="#CCCCCC">Colorado communities where life</font>
+
+59
+00:01:53,610 --> 00:01:55,770
+expectancy<font color="#CCCCCC"> is over 85</font><font color="#E5E5E5"> but Eastern</font>
+
+60
+00:01:55,770 --> 00:01:57,719
+Kentucky is also poorer and has fewer
+
+61
+00:01:57,719 --> 00:01:59,340
+doctors<font color="#E5E5E5"> communities with low life</font>
+
+62
+00:01:59,340 --> 00:02:01,140
+expectancy tend to have less access<font color="#CCCCCC"> to</font>
+
+63
+00:02:01,140 --> 00:02:03,090
+healthy food and more uninsured<font color="#E5E5E5"> people</font>
+
+64
+00:02:03,090 --> 00:02:04,259
+people in those<font color="#CCCCCC"> communities are</font><font color="#E5E5E5"> also</font>
+
+65
+00:02:04,259 --> 00:02:05,640
+more likely<font color="#E5E5E5"> to have certain chronic</font>
+
+66
+00:02:05,640 --> 00:02:07,170
+health problems<font color="#CCCCCC"> like diabetes and</font>
+
+67
+00:02:07,170 --> 00:02:08,848
+<font color="#E5E5E5">hypertension whereas the people</font><font color="#CCCCCC"> in the</font>
+
+68
+00:02:08,848 --> 00:02:10,649
+healthiest communities tend<font color="#E5E5E5"> to be you</font>
+
+69
+00:02:10,649 --> 00:02:11,480
+know<font color="#E5E5E5"> rich</font>
+
+70
+00:02:11,480 --> 00:02:13,190
+and have excellent<font color="#CCCCCC"> access to</font><font color="#E5E5E5"> health care</font>
+
+71
+00:02:13,190 --> 00:02:14,480
+and<font color="#E5E5E5"> the zip codes with the highest life</font>
+
+72
+00:02:14,480 --> 00:02:16,099
+expectancy also tend to<font color="#E5E5E5"> be in places</font>
+
+73
+00:02:16,099 --> 00:02:17,659
+<font color="#E5E5E5">where there's lots of physical activity</font>
+
+74
+00:02:17,659 --> 00:02:19,879
+<font color="#E5E5E5">like ski resorts in Colorado or wealthy</font>
+
+75
+00:02:19,879 --> 00:02:21,739
+<font color="#CCCCCC">beach towns in California now I know</font><font color="#E5E5E5"> too</font>
+
+76
+00:02:21,739 --> 00:02:23,420
+many<font color="#E5E5E5"> of us this is</font><font color="#CCCCCC"> not surprising</font><font color="#E5E5E5"> like</font>
+
+77
+00:02:23,420 --> 00:02:25,129
+we take<font color="#E5E5E5"> it for granted that rich</font><font color="#CCCCCC"> people</font>
+
+78
+00:02:25,129 --> 00:02:26,659
+will have dramatically<font color="#CCCCCC"> longer and</font>
+
+79
+00:02:26,659 --> 00:02:28,310
+healthier lives than poor people<font color="#CCCCCC"> but</font>
+
+80
+00:02:28,310 --> 00:02:30,319
+increasing inequality of life<font color="#E5E5E5"> expectancy</font>
+
+81
+00:02:30,319 --> 00:02:32,930
+within countries is<font color="#CCCCCC"> not actually the</font>
+
+82
+00:02:32,930 --> 00:02:34,819
+norm<font color="#E5E5E5"> in fact while life expectancy</font>
+
+83
+00:02:34,819 --> 00:02:36,650
+variability<font color="#E5E5E5"> has been rising</font><font color="#CCCCCC"> within the</font>
+
+84
+00:02:36,650 --> 00:02:39,140
+<font color="#E5E5E5">US steadily since 1980 in most other</font>
+
+85
+00:02:39,140 --> 00:02:40,849
+rich<font color="#CCCCCC"> countries it's been declining</font>
+
+86
+00:02:40,849 --> 00:02:42,349
+<font color="#E5E5E5">Canada for</font><font color="#CCCCCC"> instance has seen a</font>
+
+87
+00:02:42,349 --> 00:02:43,970
+significant decline which is one of<font color="#CCCCCC"> the</font>
+
+88
+00:02:43,970 --> 00:02:45,860
+main reasons why Canada's overall life
+
+89
+00:02:45,860 --> 00:02:47,870
+expectancy<font color="#CCCCCC"> is higher than</font><font color="#E5E5E5"> ours even</font>
+
+90
+00:02:47,870 --> 00:02:50,209
+though the richest<font color="#CCCCCC"> 20%</font><font color="#E5E5E5"> of Americans live</font>
+
+91
+00:02:50,209 --> 00:02:52,220
+longer<font color="#CCCCCC"> on average than the richest</font><font color="#E5E5E5"> 20%</font>
+
+92
+00:02:52,220 --> 00:02:54,590
+<font color="#E5E5E5">of Canadians</font><font color="#CCCCCC"> cite</font><font color="#E5E5E5"> new lots of people</font>
+
+93
+00:02:54,590 --> 00:02:56,000
+take<font color="#E5E5E5"> issue with life expectancy</font><font color="#CCCCCC"> as a</font>
+
+94
+00:02:56,000 --> 00:02:57,530
+health metric especially when comparing
+
+95
+00:02:57,530 --> 00:02:59,209
+one country to another<font color="#CCCCCC"> and with some</font>
+
+96
+00:02:59,209 --> 00:03:00,590
+<font color="#E5E5E5">good reasons but the data we're</font>
+
+97
+00:03:00,590 --> 00:03:02,180
+discussing here<font color="#CCCCCC"> is mostly exempt from</font>
+
+98
+00:03:02,180 --> 00:03:03,769
+<font color="#E5E5E5">those critiques much more info and</font>
+
+99
+00:03:03,769 --> 00:03:05,840
+sources in<font color="#CCCCCC"> the doobly-doo below</font><font color="#E5E5E5"> right so</font>
+
+100
+00:03:05,840 --> 00:03:07,040
+this growing discrepancy in life
+
+101
+00:03:07,040 --> 00:03:09,530
+expectancy<font color="#CCCCCC"> is not normal</font><font color="#E5E5E5"> and it is not</font>
+
+102
+00:03:09,530 --> 00:03:11,420
+natural<font color="#CCCCCC"> we don't have to accept that</font>
+
+103
+00:03:11,420 --> 00:03:13,549
+lifespan will vary dramatically<font color="#E5E5E5"> within a</font>
+
+104
+00:03:13,549 --> 00:03:15,200
+country based on where you live<font color="#E5E5E5"> but</font>
+
+105
+00:03:15,200 --> 00:03:16,819
+<font color="#CCCCCC">right now in the United States that</font>
+
+106
+00:03:16,819 --> 00:03:19,549
+problem is getting worse<font color="#E5E5E5"> not better</font><font color="#CCCCCC"> that</font>
+
+107
+00:03:19,549 --> 00:03:21,049
+seems to me deeply<font color="#E5E5E5"> wrong I mean our</font>
+
+108
+00:03:21,049 --> 00:03:22,639
+Declaration of Independence famously
+
+109
+00:03:22,639 --> 00:03:24,590
+names three<font color="#E5E5E5"> inalienable rights that</font>
+
+110
+00:03:24,590 --> 00:03:26,389
+Americans should<font color="#E5E5E5"> enjoy and before</font>
+
+111
+00:03:26,389 --> 00:03:27,639
+liberty and the pursuit of happiness
+
+112
+00:03:27,639 --> 00:03:30,349
+<font color="#E5E5E5">there is life Hank I'll see you on</font>
+
+113
+00:03:30,349 --> 00:03:32,090
+<font color="#CCCCCC">Friday actually no I will see you</font>
+
+114
+00:03:32,090 --> 00:03:33,680
+tomorrow<font color="#E5E5E5"> for a surprise bonus</font>
+
+115
+00:03:33,680 --> 00:03:35,810
+vlogbrothers video and then I'll see<font color="#E5E5E5"> you</font>
+
+116
+00:03:35,810 --> 00:00:00,000
+<font color="#E5E5E5">on</font><font color="#CCCCCC"> Friday</font>
+

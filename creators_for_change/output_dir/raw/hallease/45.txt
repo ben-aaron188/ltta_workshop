@@ -1,0 +1,988 @@
+1
+00:00:00,030 --> 00:00:01,260
+hey everyone it's<font color="#E5E5E5"> me</font><font color="#CCCCCC"> hallease</font>
+
+2
+00:00:01,260 --> 00:00:04,380
+<font color="#E5E5E5">endeavouring to persevere</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> sorry that</font>
+
+3
+00:00:04,380 --> 00:00:05,879
+this mic<font color="#CCCCCC"> is kind</font><font color="#E5E5E5"> of here I just want to</font>
+
+4
+00:00:05,879 --> 00:00:07,049
+<font color="#E5E5E5">make</font><font color="#CCCCCC"> sure that whether I'm looking at</font>
+
+5
+00:00:07,049 --> 00:00:09,260
+the<font color="#E5E5E5"> computer</font><font color="#CCCCCC"> screen or looking at y'all</font>
+
+6
+00:00:09,260 --> 00:00:11,940
+<font color="#CCCCCC">you can hear me</font><font color="#E5E5E5"> so what do people</font>
+
+7
+00:00:11,940 --> 00:00:13,469
+<font color="#E5E5E5">usually say what does Peter McKinnon say</font>
+
+8
+00:00:13,469 --> 00:00:15,839
+smash that like button<font color="#CCCCCC"> I don't know</font>
+
+9
+00:00:15,839 --> 00:00:18,750
+<font color="#E5E5E5">anyway</font><font color="#CCCCCC"> um in this</font><font color="#E5E5E5"> video I'm just gonna</font>
+
+10
+00:00:18,750 --> 00:00:20,640
+<font color="#E5E5E5">show you a quick tutorial of</font><font color="#CCCCCC"> how I</font>
+
+11
+00:00:20,640 --> 00:00:22,230
+achieve how I achieve the overall
+
+12
+00:00:22,230 --> 00:00:25,289
+<font color="#CCCCCC">aesthetic of a lot</font><font color="#E5E5E5"> of my films it's</font>
+
+13
+00:00:25,289 --> 00:00:27,390
+actually very simple it's a<font color="#CCCCCC"> combination</font>
+
+14
+00:00:27,390 --> 00:00:29,039
+of the presets that<font color="#E5E5E5"> are</font><font color="#CCCCCC"> already</font><font color="#E5E5E5"> built</font>
+
+15
+00:00:29,039 --> 00:00:32,270
+<font color="#CCCCCC">into</font><font color="#E5E5E5"> premiere and adjustment layers</font><font color="#CCCCCC"> and</font>
+
+16
+00:00:32,270 --> 00:00:34,680
+it's kind<font color="#CCCCCC"> of the same aesthetic</font><font color="#E5E5E5"> I used</font>
+
+17
+00:00:34,680 --> 00:00:37,290
+on my<font color="#E5E5E5"> Veda video from yesterday which is</font>
+
+18
+00:00:37,290 --> 00:00:40,020
+<font color="#E5E5E5">how I wrap my head wraps so without</font>
+
+19
+00:00:40,020 --> 00:00:41,670
+<font color="#E5E5E5">further ado let's just get right on into</font>
+
+20
+00:00:41,670 --> 00:00:44,910
+it<font color="#E5E5E5"> this is really</font><font color="#CCCCCC"> easy</font><font color="#E5E5E5"> I really I really</font>
+
+21
+00:00:44,910 --> 00:00:47,550
+<font color="#E5E5E5">like using these presets</font><font color="#CCCCCC"> because it kind</font>
+
+22
+00:00:47,550 --> 00:00:50,520
+of gives<font color="#E5E5E5"> your videos this sort of film</font>
+
+23
+00:00:50,520 --> 00:00:53,010
+look like makes them kind<font color="#CCCCCC"> of have this</font>
+
+24
+00:00:53,010 --> 00:00:55,140
+<font color="#E5E5E5">appearance that they naturally</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> you</font>
+
+25
+00:00:55,140 --> 00:00:56,879
+<font color="#CCCCCC">actually went out and shot them on film</font>
+
+26
+00:00:56,879 --> 00:01:01,739
+which I didn't do<font color="#E5E5E5"> that</font><font color="#CCCCCC"> I have the</font>
+
+27
+00:01:01,739 --> 00:01:04,019
+project<font color="#CCCCCC"> from</font><font color="#E5E5E5"> yesterday I'm gonna go</font>
+
+28
+00:01:04,019 --> 00:01:06,869
+ahead<font color="#E5E5E5"> and</font><font color="#CCCCCC"> open it and I would show you</font>
+
+29
+00:01:06,869 --> 00:01:08,640
+<font color="#E5E5E5">the pretty opening premiere thing but</font>
+
+30
+00:01:08,640 --> 00:01:10,770
+it's on<font color="#CCCCCC"> my other</font><font color="#E5E5E5"> screen down here</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> you</font>
+
+31
+00:01:10,770 --> 00:01:13,110
+can't see it<font color="#E5E5E5"> I'm just</font><font color="#CCCCCC"> reporting on</font><font color="#E5E5E5"> this</font>
+
+32
+00:01:13,110 --> 00:01:17,100
+one sorry<font color="#E5E5E5"> about that again working</font>
+
+33
+00:01:17,100 --> 00:01:20,030
+<font color="#CCCCCC">through the kinks</font><font color="#E5E5E5"> on this</font>
+
+34
+00:01:20,030 --> 00:01:24,440
+so<font color="#CCCCCC"> church pray</font><font color="#E5E5E5"> for me all right</font><font color="#CCCCCC"> at the</font>
+
+35
+00:01:24,440 --> 00:01:26,180
+<font color="#E5E5E5">end of the day you get in a tutorial</font>
+
+36
+00:01:26,180 --> 00:01:27,170
+<font color="#E5E5E5">amen</font>
+
+37
+00:01:27,170 --> 00:01:34,040
+<font color="#CCCCCC">all right so here we</font><font color="#E5E5E5"> go</font><font color="#CCCCCC"> okay so here's</font>
+
+38
+00:01:34,040 --> 00:01:38,470
+my<font color="#CCCCCC"> project</font><font color="#E5E5E5"> and down here is my timeline</font>
+
+39
+00:01:38,470 --> 00:01:40,910
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> was the other cut I did for</font>
+
+40
+00:01:40,910 --> 00:01:42,440
+promotional purposes we don't<font color="#CCCCCC"> really</font>
+
+41
+00:01:42,440 --> 00:01:44,479
+need that<font color="#CCCCCC"> anymore let me go ahead and</font>
+
+42
+00:01:44,479 --> 00:01:46,400
+<font color="#E5E5E5">resave this actually while I'm thinking</font>
+
+43
+00:01:46,400 --> 00:01:48,880
+about<font color="#E5E5E5"> it</font>
+
+44
+00:01:49,080 --> 00:01:52,209
+[Music]
+
+45
+00:01:53,570 --> 00:01:56,280
+<font color="#CCCCCC">sorry pal tutorial</font><font color="#E5E5E5"> you know sometimes</font>
+
+46
+00:01:56,280 --> 00:01:57,569
+you look at a word and then<font color="#E5E5E5"> you're like</font>
+
+47
+00:01:57,569 --> 00:01:59,130
+you've seen it so many<font color="#E5E5E5"> times you're like</font>
+
+48
+00:01:59,130 --> 00:02:01,380
+<font color="#E5E5E5">you Stephanie</font><font color="#CCCCCC"> spell it</font><font color="#E5E5E5"> like really</font>
+
+49
+00:02:01,380 --> 00:02:05,100
+though<font color="#CCCCCC"> you know so here is the</font><font color="#E5E5E5"> finished</font>
+
+50
+00:02:05,100 --> 00:02:08,038
+film<font color="#E5E5E5"> that you all saw as you can see it</font>
+
+51
+00:02:08,038 --> 00:02:11,038
+has the bars<font color="#CCCCCC"> it has those like film bars</font>
+
+52
+00:02:11,038 --> 00:02:13,200
+on there<font color="#E5E5E5"> and all</font><font color="#CCCCCC"> of that and</font><font color="#E5E5E5"> it's got</font>
+
+53
+00:02:13,200 --> 00:02:15,720
+like yeah this sort<font color="#CCCCCC"> of like film kind</font><font color="#E5E5E5"> of</font>
+
+54
+00:02:15,720 --> 00:02:18,989
+grain look to it<font color="#E5E5E5"> the way I achieve that</font>
+
+55
+00:02:18,989 --> 00:02:22,440
+<font color="#E5E5E5">it's very very simple we're gonna get</font>
+
+56
+00:02:22,440 --> 00:02:24,989
+rid of it<font color="#E5E5E5"> so this is what the actual</font>
+
+57
+00:02:24,989 --> 00:02:30,000
+<font color="#CCCCCC">footage looks like you know so if you go</font>
+
+58
+00:02:30,000 --> 00:02:33,480
+to<font color="#E5E5E5"> your project</font><font color="#CCCCCC"> and you click on</font><font color="#E5E5E5"> your</font>
+
+59
+00:02:33,480 --> 00:02:36,000
+<font color="#E5E5E5">sequence excuse my messy project I</font>
+
+60
+00:02:36,000 --> 00:02:37,170
+usually actually<font color="#E5E5E5"> like to have it a lot</font>
+
+61
+00:02:37,170 --> 00:02:38,370
+more<font color="#E5E5E5"> organized than that but it's fine</font>
+
+62
+00:02:38,370 --> 00:02:40,769
+<font color="#CCCCCC">because this</font><font color="#E5E5E5"> was such a quick video</font><font color="#CCCCCC"> but</font>
+
+63
+00:02:40,769 --> 00:02:42,269
+<font color="#CCCCCC">yet click</font><font color="#E5E5E5"> on your sequence make sure</font>
+
+64
+00:02:42,269 --> 00:02:44,989
+it's highlighted and<font color="#CCCCCC"> then hit up to</font><font color="#E5E5E5"> file</font>
+
+65
+00:02:44,989 --> 00:02:48,019
+adjustment layer
+
+66
+00:02:48,019 --> 00:02:50,689
+and it's gonna bring up some adjustment
+
+67
+00:02:50,689 --> 00:02:53,120
+layer settings<font color="#E5E5E5"> 1920 by 1080 is what I</font>
+
+68
+00:02:53,120 --> 00:02:56,120
+shoot<font color="#E5E5E5"> most of my videos at</font><font color="#CCCCCC"> 23.9 is what</font>
+
+69
+00:02:56,120 --> 00:02:57,709
+I shoot most my<font color="#CCCCCC"> videos add</font><font color="#E5E5E5"> square pixels</font>
+
+70
+00:02:57,709 --> 00:03:00,590
+<font color="#E5E5E5">yeah hit OK and then you have this</font>
+
+71
+00:03:00,590 --> 00:03:02,719
+adjustment layer<font color="#CCCCCC"> that pops up and</font><font color="#E5E5E5"> we're</font>
+
+72
+00:03:02,719 --> 00:03:08,100
+<font color="#CCCCCC">going to go ahead and call</font><font color="#E5E5E5"> this bars and</font>
+
+73
+00:03:08,100 --> 00:03:10,050
+color
+
+74
+00:03:10,050 --> 00:03:11,400
+I'm<font color="#CCCCCC"> gonna go ahead</font><font color="#E5E5E5"> and call these bars</font>
+
+75
+00:03:11,400 --> 00:03:15,000
+<font color="#E5E5E5">and color grading so when I click on</font>
+
+76
+00:03:15,000 --> 00:03:17,190
+<font color="#E5E5E5">this layer everything</font><font color="#CCCCCC"> that I</font><font color="#E5E5E5"> do now to</font>
+
+77
+00:03:17,190 --> 00:03:19,350
+it as<font color="#E5E5E5"> far as color grading and effects</font>
+
+78
+00:03:19,350 --> 00:03:21,480
+go it'll<font color="#CCCCCC"> impact everything</font><font color="#E5E5E5"> below</font><font color="#CCCCCC"> it</font>
+
+79
+00:03:21,480 --> 00:03:24,950
+which is<font color="#E5E5E5"> the cut of the film itself so</font>
+
+80
+00:03:24,950 --> 00:03:27,600
+the first thing I want<font color="#E5E5E5"> to do is add my</font>
+
+81
+00:03:27,600 --> 00:03:32,790
+color grading<font color="#E5E5E5"> quote-unquote</font><font color="#CCCCCC"> if you go to</font>
+
+82
+00:03:32,790 --> 00:03:34,830
+your<font color="#CCCCCC"> Lumina tree color</font><font color="#E5E5E5"> scopes which are</font>
+
+83
+00:03:34,830 --> 00:03:36,810
+all over here<font color="#E5E5E5"> if this panel doesn't pop</font>
+
+84
+00:03:36,810 --> 00:03:40,050
+<font color="#CCCCCC">up for</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> go to window</font><font color="#E5E5E5"> and it is right</font>
+
+85
+00:03:40,050 --> 00:03:40,500
+<font color="#CCCCCC">there</font>
+
+86
+00:03:40,500 --> 00:03:42,570
+<font color="#CCCCCC">luminate recolor</font><font color="#E5E5E5"> and that'll make</font><font color="#CCCCCC"> it pop</font>
+
+87
+00:03:42,570 --> 00:03:45,780
+<font color="#E5E5E5">up for you</font><font color="#CCCCCC"> so yeah you have</font><font color="#E5E5E5"> this show up</font>
+
+88
+00:03:45,780 --> 00:03:49,500
+<font color="#CCCCCC">and I'm not</font><font color="#E5E5E5"> gonna really mess with the</font>
+
+89
+00:03:49,500 --> 00:03:51,090
+basic color correction because<font color="#CCCCCC"> I'm more</font>
+
+90
+00:03:51,090 --> 00:03:52,920
+<font color="#E5E5E5">or less like the way all of this looks</font><font color="#CCCCCC"> I</font>
+
+91
+00:03:52,920 --> 00:03:54,150
+don't<font color="#CCCCCC"> really</font><font color="#E5E5E5"> need a mess with the color</font>
+
+92
+00:03:54,150 --> 00:03:56,190
+temperature or anything like<font color="#E5E5E5"> that</font>
+
+93
+00:03:56,190 --> 00:03:59,010
+<font color="#E5E5E5">because I tried</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> make</font><font color="#CCCCCC"> sure I shot it</font>
+
+94
+00:03:59,010 --> 00:04:01,380
+<font color="#CCCCCC">you know to where the whites are white</font>
+
+95
+00:04:01,380 --> 00:04:02,700
+and the blacks are black and<font color="#E5E5E5"> all that</font>
+
+96
+00:04:02,700 --> 00:04:05,790
+kind of<font color="#CCCCCC"> fun stuff what I am gonna mess</font>
+
+97
+00:04:05,790 --> 00:04:08,640
+with<font color="#E5E5E5"> is this creative the next one down</font>
+
+98
+00:04:08,640 --> 00:04:13,550
+and here is my secret sauce if you<font color="#CCCCCC"> will</font>
+
+99
+00:04:13,550 --> 00:04:17,250
+<font color="#CCCCCC">about how I get my films</font><font color="#E5E5E5"> to look like</font>
+
+100
+00:04:17,250 --> 00:04:20,040
+films<font color="#CCCCCC"> as much as I can within the budget</font>
+
+101
+00:04:20,040 --> 00:04:25,040
+<font color="#CCCCCC">that I have</font><font color="#E5E5E5"> and that</font><font color="#CCCCCC"> is I</font><font color="#E5E5E5"> use the</font><font color="#CCCCCC"> kodak</font>
+
+102
+00:04:25,040 --> 00:04:28,320
+<font color="#CCCCCC">5218 2395</font>
+
+103
+00:04:28,320 --> 00:04:31,560
+and Kodak<font color="#CCCCCC"> if</font><font color="#E5E5E5"> you don't know is</font><font color="#CCCCCC"> animal</font><font color="#E5E5E5"> as</font>
+
+104
+00:04:31,560 --> 00:04:33,630
+a film company they're still<font color="#CCCCCC"> around kind</font>
+
+105
+00:04:33,630 --> 00:04:37,230
+<font color="#E5E5E5">of sort of</font><font color="#CCCCCC"> maybe and this is basically a</font>
+
+106
+00:04:37,230 --> 00:04:39,060
+preset to make your stuff<font color="#E5E5E5"> look like</font>
+
+107
+00:04:39,060 --> 00:04:43,200
+Kodak film so I put that<font color="#E5E5E5"> on but usually</font>
+
+108
+00:04:43,200 --> 00:04:44,940
+<font color="#E5E5E5">when I put it on it makes it a little</font>
+
+109
+00:04:44,940 --> 00:04:46,680
+too intense<font color="#CCCCCC"> for me</font><font color="#E5E5E5"> I don't usually like</font>
+
+110
+00:04:46,680 --> 00:04:49,950
+it to be at<font color="#CCCCCC"> 100% intensity</font><font color="#E5E5E5"> or you can up</font>
+
+111
+00:04:49,950 --> 00:04:52,620
+it and<font color="#E5E5E5"> then that's</font><font color="#CCCCCC"> like super super film</font>
+
+112
+00:04:52,620 --> 00:04:54,300
+you know<font color="#E5E5E5"> I don't usually like it to be</font>
+
+113
+00:04:54,300 --> 00:04:58,550
+<font color="#E5E5E5">that high</font><font color="#CCCCCC"> I usually keep it around</font><font color="#E5E5E5"> 60%</font>
+
+114
+00:04:58,550 --> 00:05:01,770
+<font color="#CCCCCC">that's where I</font><font color="#E5E5E5"> just like to have it so</font>
+
+115
+00:05:01,770 --> 00:05:03,410
+when<font color="#E5E5E5"> we turn it off and you can</font><font color="#CCCCCC"> see</font>
+
+116
+00:05:03,410 --> 00:05:06,090
+that's what<font color="#E5E5E5"> it added and then another</font>
+
+117
+00:05:06,090 --> 00:05:08,280
+thing I<font color="#CCCCCC"> also add is I add a little</font><font color="#E5E5E5"> bit</font>
+
+118
+00:05:08,280 --> 00:05:11,340
+of<font color="#E5E5E5"> the faded film to it as well about</font><font color="#CCCCCC"> 20</font>
+
+119
+00:05:11,340 --> 00:05:16,140
+<font color="#CCCCCC">percent</font><font color="#E5E5E5"> usually so you see that kind of</font>
+
+120
+00:05:16,140 --> 00:05:18,030
+gives it I don't know<font color="#E5E5E5"> that just kind of</font>
+
+121
+00:05:18,030 --> 00:05:21,150
+gives it that<font color="#CCCCCC"> sort of grain look</font><font color="#E5E5E5"> just a</font>
+
+122
+00:05:21,150 --> 00:05:23,580
+smidge<font color="#E5E5E5"> just a smidge it's a it's funny</font>
+
+123
+00:05:23,580 --> 00:05:26,880
+because it's just<font color="#E5E5E5"> like film</font><font color="#CCCCCC"> with its</font>
+
+124
+00:05:26,880 --> 00:05:29,040
+imperfections look a<font color="#E5E5E5"> little it just</font>
+
+125
+00:05:29,040 --> 00:05:31,020
+<font color="#E5E5E5">looks</font><font color="#CCCCCC"> more natural I don't know I</font><font color="#E5E5E5"> don't</font>
+
+126
+00:05:31,020 --> 00:05:32,580
+<font color="#E5E5E5">know comment below how you feel about it</font>
+
+127
+00:05:32,580 --> 00:05:34,520
+<font color="#CCCCCC">but that's</font><font color="#E5E5E5"> how I feel about</font><font color="#CCCCCC"> it and</font>
+
+128
+00:05:34,520 --> 00:05:37,500
+that's<font color="#E5E5E5"> how that's that's literally</font><font color="#CCCCCC"> it</font>
+
+129
+00:05:37,500 --> 00:05:40,470
+that's kind of the tutorial<font color="#CCCCCC"> um</font><font color="#E5E5E5"> the way</font>
+
+130
+00:05:40,470 --> 00:05:42,780
+to do the bars<font color="#CCCCCC"> the</font><font color="#E5E5E5"> cinematic bars that</font>
+
+131
+00:05:42,780 --> 00:05:44,340
+you<font color="#E5E5E5"> usually see let me turn this off</font><font color="#CCCCCC"> so</font>
+
+132
+00:05:44,340 --> 00:05:46,230
+you can<font color="#E5E5E5"> see the whole thing and oh by</font>
+
+133
+00:05:46,230 --> 00:05:48,870
+the way<font color="#E5E5E5"> that's the title safe title</font>
+
+134
+00:05:48,870 --> 00:05:50,460
+safety if you're putting graphics you
+
+135
+00:05:50,460 --> 00:05:53,370
+usually want<font color="#CCCCCC"> to have them inside</font><font color="#E5E5E5"> inside</font>
+
+136
+00:05:53,370 --> 00:05:56,430
+<font color="#E5E5E5">this the second box here</font><font color="#CCCCCC"> but that's more</font>
+
+137
+00:05:56,430 --> 00:05:58,410
+<font color="#CCCCCC">for like TV and stuff it doesn't</font><font color="#E5E5E5"> really</font>
+
+138
+00:05:58,410 --> 00:06:00,330
+apply<font color="#CCCCCC"> to the internet</font><font color="#E5E5E5"> anymore it doesn't</font>
+
+139
+00:06:00,330 --> 00:06:01,800
+<font color="#CCCCCC">really apply because we have the</font>
+
+140
+00:06:01,800 --> 00:06:04,230
+internet<font color="#CCCCCC"> now but I still don't</font><font color="#E5E5E5"> know</font>
+
+141
+00:06:04,230 --> 00:06:07,380
+<font color="#CCCCCC">I'm old-fashioned I guess um anyway</font><font color="#E5E5E5"> now</font>
+
+142
+00:06:07,380 --> 00:06:10,290
+let's add those bars at the<font color="#E5E5E5"> top and</font>
+
+143
+00:06:10,290 --> 00:06:14,400
+<font color="#CCCCCC">bottom</font><font color="#E5E5E5"> of our clips</font><font color="#CCCCCC"> so what you're</font><font color="#E5E5E5"> gonna</font>
+
+144
+00:06:14,400 --> 00:06:15,870
+do now<font color="#CCCCCC"> is</font><font color="#E5E5E5"> you're going to have</font><font color="#CCCCCC"> your</font>
+
+145
+00:06:15,870 --> 00:06:17,130
+<font color="#E5E5E5">gonna make sure your adjustment layer is</font>
+
+146
+00:06:17,130 --> 00:06:18,930
+<font color="#CCCCCC">still highlighted</font><font color="#E5E5E5"> and then you're gonna</font>
+
+147
+00:06:18,930 --> 00:06:22,080
+go<font color="#E5E5E5"> to your effects panel</font><font color="#CCCCCC"> mine is here</font><font color="#E5E5E5"> in</font>
+
+148
+00:06:22,080 --> 00:06:24,090
+the left hand<font color="#CCCCCC"> corner</font><font color="#E5E5E5"> if for some reason</font>
+
+149
+00:06:24,090 --> 00:06:26,370
+yours is not where it needs<font color="#E5E5E5"> to be window</font>
+
+150
+00:06:26,370 --> 00:06:29,880
+effects<font color="#CCCCCC"> it's where you can</font><font color="#E5E5E5"> find that and</font>
+
+151
+00:06:29,880 --> 00:06:33,810
+<font color="#CCCCCC">then you're going to go to the crop tool</font>
+
+152
+00:06:33,810 --> 00:06:35,670
+I usually just type it in cuz it's
+
+153
+00:06:35,670 --> 00:06:37,200
+faster than trying<font color="#E5E5E5"> to find it</font>
+
+154
+00:06:37,200 --> 00:06:40,260
+and then I'm gonna drag it<font color="#E5E5E5"> on to my</font>
+
+155
+00:06:40,260 --> 00:06:42,600
+adjustment layer that I've made<font color="#E5E5E5"> and now</font>
+
+156
+00:06:42,600 --> 00:06:44,580
+we're gonna go<font color="#E5E5E5"> to our effect controls</font>
+
+157
+00:06:44,580 --> 00:06:48,030
+panel<font color="#CCCCCC"> if you don't know where</font><font color="#E5E5E5"> that is</font>
+
+158
+00:06:48,030 --> 00:06:51,180
+<font color="#E5E5E5">again window</font><font color="#CCCCCC"> effect controls make sure</font>
+
+159
+00:06:51,180 --> 00:06:52,590
+<font color="#CCCCCC">this is highlighted so the effect</font>
+
+160
+00:06:52,590 --> 00:06:55,170
+controls<font color="#CCCCCC"> for whatever</font><font color="#E5E5E5"> is on this come up</font>
+
+161
+00:06:55,170 --> 00:06:56,820
+here as<font color="#E5E5E5"> you</font><font color="#CCCCCC"> can</font><font color="#E5E5E5"> see our</font><font color="#CCCCCC"> luminance</font>
+
+162
+00:06:56,820 --> 00:06:59,070
+<font color="#CCCCCC">recolor</font><font color="#E5E5E5"> you can see it here as well what</font>
+
+163
+00:06:59,070 --> 00:07:02,040
+<font color="#E5E5E5">we did right you're gonna go to the crop</font>
+
+164
+00:07:02,040 --> 00:07:05,960
+tool<font color="#CCCCCC"> and for the top and bottom I</font>
+
+165
+00:07:05,960 --> 00:07:10,410
+<font color="#E5E5E5">usually have</font><font color="#CCCCCC"> it at around 7%</font><font color="#E5E5E5"> so you see</font>
+
+166
+00:07:10,410 --> 00:07:13,919
+<font color="#CCCCCC">seven percent</font><font color="#E5E5E5"> top</font>
+
+167
+00:07:13,919 --> 00:07:20,240
+<font color="#E5E5E5">7% bottom boom</font><font color="#CCCCCC"> so now we went from this</font>
+
+168
+00:07:20,240 --> 00:07:21,750
+to this
+
+169
+00:07:21,750 --> 00:07:25,289
+<font color="#E5E5E5">and we have that cinematic look so yeah</font>
+
+170
+00:07:25,289 --> 00:07:29,629
+that's<font color="#E5E5E5"> how we go from this</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> this and</font>
+
+171
+00:07:29,629 --> 00:07:32,789
+something<font color="#CCCCCC"> I like to do is so I</font><font color="#E5E5E5"> get to</font>
+
+172
+00:07:32,789 --> 00:07:38,129
+play a little<font color="#E5E5E5"> bit cool something I also</font>
+
+173
+00:07:38,129 --> 00:07:40,680
+like<font color="#E5E5E5"> to do though is I like</font><font color="#CCCCCC"> to give</font><font color="#E5E5E5"> I</font>
+
+174
+00:07:40,680 --> 00:07:43,590
+like to like have the bars sort<font color="#E5E5E5"> of lead</font>
+
+175
+00:07:43,590 --> 00:07:45,990
+in a little bit so they're not<font color="#E5E5E5"> there in</font>
+
+176
+00:07:45,990 --> 00:07:47,819
+the<font color="#CCCCCC"> beginning and then like get you in</font>
+
+177
+00:07:47,819 --> 00:07:51,949
+the mood to be in a traditional film
+
+178
+00:07:51,949 --> 00:07:54,659
+<font color="#E5E5E5">environment but on your phone or</font><font color="#CCCCCC"> tablet</font>
+
+179
+00:07:54,659 --> 00:07:56,909
+or<font color="#E5E5E5"> wherever you watch my videos so I</font>
+
+180
+00:07:56,909 --> 00:08:00,240
+like to<font color="#CCCCCC"> have the bars</font><font color="#E5E5E5"> sort of just come</font>
+
+181
+00:08:00,240 --> 00:08:03,120
+into the frame and<font color="#E5E5E5"> that's just simple</font>
+
+182
+00:08:03,120 --> 00:08:05,550
+keyframing<font color="#E5E5E5"> really easy</font><font color="#CCCCCC"> so we're gonna go</font>
+
+183
+00:08:05,550 --> 00:08:09,270
+to our crop and we're gonna let's take
+
+184
+00:08:09,270 --> 00:08:13,860
+off this here let's take off this
+
+185
+00:08:13,860 --> 00:08:14,580
+<font color="#CCCCCC">cross-dissolve</font>
+
+186
+00:08:14,580 --> 00:08:15,900
+so<font color="#E5E5E5"> that way you can always see me</font>
+
+187
+00:08:15,900 --> 00:08:18,029
+<font color="#CCCCCC">alright so we're gonna</font><font color="#E5E5E5"> go</font><font color="#CCCCCC"> back to</font><font color="#E5E5E5"> our</font>
+
+188
+00:08:18,029 --> 00:08:19,979
+crop and remember we<font color="#CCCCCC"> have it at seven</font>
+
+189
+00:08:19,979 --> 00:08:21,509
+<font color="#E5E5E5">percent here we're gonna put</font><font color="#CCCCCC"> a keyframe</font>
+
+190
+00:08:21,509 --> 00:08:24,310
+<font color="#E5E5E5">like I don't know like</font>
+
+191
+00:08:24,310 --> 00:08:29,100
+couple seconds<font color="#E5E5E5"> and we're gonna hit our</font>
+
+192
+00:08:29,100 --> 00:08:31,570
+<font color="#E5E5E5">keyframe</font><font color="#CCCCCC"> our little stopwatch</font><font color="#E5E5E5"> is just</font>
+
+193
+00:08:31,570 --> 00:08:33,880
+like a keyframe indicator and<font color="#E5E5E5"> then we're</font>
+
+194
+00:08:33,880 --> 00:08:35,730
+<font color="#CCCCCC">gonna</font><font color="#E5E5E5"> go back</font><font color="#CCCCCC"> to the very</font><font color="#E5E5E5"> beginning and</font>
+
+195
+00:08:35,730 --> 00:08:38,260
+hit it again<font color="#E5E5E5"> but this time make sure</font>
+
+196
+00:08:38,260 --> 00:08:42,390
+<font color="#CCCCCC">that for the front</font><font color="#E5E5E5"> it's zero</font>
+
+197
+00:08:45,620 --> 00:08:51,540
+look at that<font color="#CCCCCC"> voila now something that I</font>
+
+198
+00:08:51,540 --> 00:08:53,250
+think<font color="#E5E5E5"> will</font><font color="#CCCCCC"> be super cool if premiere</font>
+
+199
+00:08:53,250 --> 00:08:55,500
+ever<font color="#E5E5E5"> adds this is motion blur</font><font color="#CCCCCC"> right now</font>
+
+200
+00:08:55,500 --> 00:08:59,160
+you can't really<font color="#E5E5E5"> get</font><font color="#CCCCCC"> that and motion</font>
+
+201
+00:08:59,160 --> 00:09:00,990
+blur<font color="#CCCCCC"> is just an</font><font color="#E5E5E5"> effect</font><font color="#CCCCCC"> that just just</font>
+
+202
+00:09:00,990 --> 00:09:02,730
+<font color="#CCCCCC">wherever</font><font color="#E5E5E5"> you're doing these little</font>
+
+203
+00:09:02,730 --> 00:09:04,530
+makeshift graphics<font color="#CCCCCC"> and premiere it just</font>
+
+204
+00:09:04,530 --> 00:09:06,810
+kind of<font color="#E5E5E5"> gives it a little</font><font color="#CCCCCC"> more like</font>
+
+205
+00:09:06,810 --> 00:09:10,200
+<font color="#CCCCCC">natural</font><font color="#E5E5E5"> just kind of like finesse</font>
+
+206
+00:09:10,200 --> 00:09:12,570
+you know like<font color="#E5E5E5"> smear think about like</font>
+
+207
+00:09:12,570 --> 00:09:15,300
+smear<font color="#E5E5E5"> you know so it's not like pixel</font>
+
+208
+00:09:15,300 --> 00:09:16,920
+pixel pixel pixel moving you<font color="#E5E5E5"> know it</font>
+
+209
+00:09:16,920 --> 00:09:19,970
+<font color="#CCCCCC">just</font><font color="#E5E5E5"> gives it a natural sort of finish</font>
+
+210
+00:09:19,970 --> 00:09:23,130
+<font color="#CCCCCC">can't</font><font color="#E5E5E5"> really do</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> in premiere yet</font><font color="#CCCCCC"> I'm</font>
+
+211
+00:09:23,130 --> 00:09:25,920
+I heard maybe that<font color="#E5E5E5"> might they might</font>
+
+212
+00:09:25,920 --> 00:09:29,790
+could possibly maybe do<font color="#CCCCCC"> it one</font><font color="#E5E5E5"> day</font><font color="#CCCCCC"> for</font>
+
+213
+00:09:29,790 --> 00:09:30,960
+now if<font color="#E5E5E5"> you want to achieve that</font><font color="#CCCCCC"> you have</font>
+
+214
+00:09:30,960 --> 00:09:34,560
+to do it in<font color="#CCCCCC"> after-effects</font><font color="#E5E5E5"> but what I you</font>
+
+215
+00:09:34,560 --> 00:09:37,140
+still like<font color="#E5E5E5"> to do though is ease in and</font>
+
+216
+00:09:37,140 --> 00:09:39,000
+ease out of<font color="#E5E5E5"> things which again is</font>
+
+217
+00:09:39,000 --> 00:09:40,380
+usually a lot better and<font color="#CCCCCC"> after-effects</font>
+
+218
+00:09:40,380 --> 00:09:42,420
+but you can<font color="#E5E5E5"> still do it here in</font><font color="#CCCCCC"> Premiere</font>
+
+219
+00:09:42,420 --> 00:09:43,770
+<font color="#CCCCCC">and it just gives</font><font color="#E5E5E5"> it just makes the</font>
+
+220
+00:09:43,770 --> 00:09:45,360
+<font color="#E5E5E5">animation</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> a little bit more smooth</font>
+
+221
+00:09:45,360 --> 00:09:49,170
+you know<font color="#E5E5E5"> so you want to ease out of this</font>
+
+222
+00:09:49,170 --> 00:09:50,850
+<font color="#E5E5E5">it's opposite of what you would think</font>
+
+223
+00:09:50,850 --> 00:09:57,680
+<font color="#CCCCCC">and ease in to this and so</font><font color="#E5E5E5"> now</font>
+
+224
+00:09:58,360 --> 00:10:00,699
+again it's a it's a<font color="#E5E5E5"> miniscule difference</font>
+
+225
+00:10:00,699 --> 00:10:05,290
+but I I see it I see<font color="#CCCCCC"> it you know that's</font>
+
+226
+00:10:05,290 --> 00:10:08,860
+<font color="#E5E5E5">it that's how I that's a</font><font color="#CCCCCC"> video that's a</font>
+
+227
+00:10:08,860 --> 00:10:10,809
+video<font color="#E5E5E5"> that's a tutorial so there you go</font>
+
+228
+00:10:10,809 --> 00:10:16,329
+<font color="#E5E5E5">um go ahead and save that export</font><font color="#CCCCCC"> close</font>
+
+229
+00:10:16,329 --> 00:10:19,299
+anyway so yeah<font color="#E5E5E5"> that's it that's how I</font>
+
+230
+00:10:19,299 --> 00:10:22,059
+achieve this sort of like cinema
+
+231
+00:10:22,059 --> 00:10:29,049
+cinematic look<font color="#E5E5E5"> if you will of of my</font>
+
+232
+00:10:29,049 --> 00:10:31,509
+films<font color="#E5E5E5"> when I when I choose to</font><font color="#CCCCCC"> call them</font>
+
+233
+00:10:31,509 --> 00:10:35,819
+films<font color="#E5E5E5"> you know</font><font color="#CCCCCC"> um sorry</font><font color="#E5E5E5"> that my my</font>
+
+234
+00:10:35,819 --> 00:10:39,220
+lighting is also<font color="#E5E5E5"> not ideal again I'm in</font>
+
+235
+00:10:39,220 --> 00:10:40,540
+<font color="#E5E5E5">a new co-working space so I'm just</font>
+
+236
+00:10:40,540 --> 00:10:42,670
+<font color="#CCCCCC">trying to</font><font color="#E5E5E5"> figure that out</font><font color="#CCCCCC"> anyway that's</font>
+
+237
+00:10:42,670 --> 00:10:43,809
+neither here nor there<font color="#E5E5E5"> you don't even</font>
+
+238
+00:10:43,809 --> 00:10:46,149
+know<font color="#CCCCCC"> all that so yeah if you enjoyed</font>
+
+239
+00:10:46,149 --> 00:10:46,899
+this<font color="#CCCCCC"> video</font>
+
+240
+00:10:46,899 --> 00:10:48,910
+you know<font color="#E5E5E5"> like share subscribe and things</font>
+
+241
+00:10:48,910 --> 00:10:50,829
+like such<font color="#CCCCCC"> has any other tips and</font><font color="#E5E5E5"> tricks</font>
+
+242
+00:10:50,829 --> 00:10:52,239
+<font color="#E5E5E5">you would like me to show you in</font>
+
+243
+00:10:52,239 --> 00:10:55,899
+<font color="#CCCCCC">Premiere it just in editing</font><font color="#E5E5E5"> in general</font>
+
+244
+00:10:55,899 --> 00:10:58,749
+<font color="#E5E5E5">let me know I do like doing this this</font>
+
+245
+00:10:58,749 --> 00:11:00,579
+<font color="#E5E5E5">sort of like producers commentary and</font>
+
+246
+00:11:00,579 --> 00:11:06,149
+whatnot<font color="#CCCCCC"> so yeah I'll</font><font color="#E5E5E5"> see you tomorrow</font>
+
+247
+00:11:06,310 --> 00:00:00,000
+[Music]
+

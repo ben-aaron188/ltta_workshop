@@ -1,0 +1,332 @@
+1
+00:00:00,030 --> 00:00:02,520
+we all feel in<font color="#CCCCCC"> control of our actions</font>
+
+2
+00:00:02,520 --> 00:00:04,500
+and<font color="#E5E5E5"> thoughts it's what defines us</font>
+
+3
+00:00:04,500 --> 00:00:06,390
+but as biology and<font color="#CCCCCC"> technology begin to</font>
+
+4
+00:00:06,390 --> 00:00:08,760
+intertwine<font color="#CCCCCC"> the question</font><font color="#E5E5E5"> remains could</font>
+
+5
+00:00:08,760 --> 00:00:11,070
+<font color="#E5E5E5">your brain be hacked</font><font color="#CCCCCC"> the truth is</font><font color="#E5E5E5"> the</font>
+
+6
+00:00:11,070 --> 00:00:12,719
+brain is an electrical<font color="#CCCCCC"> device and</font>
+
+7
+00:00:12,719 --> 00:00:14,490
+because of this we can<font color="#E5E5E5"> interface it to</font>
+
+8
+00:00:14,490 --> 00:00:16,680
+our own<font color="#E5E5E5"> electronic devices in fact</font>
+
+9
+00:00:16,680 --> 00:00:18,420
+hundreds of thousands of people are
+
+10
+00:00:18,420 --> 00:00:19,980
+already<font color="#E5E5E5"> taking</font><font color="#CCCCCC"> advantage of</font><font color="#E5E5E5"> this with</font>
+
+11
+00:00:19,980 --> 00:00:22,109
+cochlear implants<font color="#CCCCCC"> a type of hearing aid</font>
+
+12
+00:00:22,109 --> 00:00:23,789
+which<font color="#CCCCCC"> mimics sound in the brain through</font>
+
+13
+00:00:23,789 --> 00:00:25,199
+electrical impulses
+
+14
+00:00:25,199 --> 00:00:27,119
+however electricity<font color="#CCCCCC"> isn't exactly</font>
+
+15
+00:00:27,119 --> 00:00:29,429
+<font color="#E5E5E5">precise</font><font color="#CCCCCC"> it ends up spreading signals</font>
+
+16
+00:00:29,429 --> 00:00:31,529
+<font color="#E5E5E5">across many neurons in the brain and in</font>
+
+17
+00:00:31,529 --> 00:00:33,149
+the<font color="#E5E5E5"> case</font><font color="#CCCCCC"> of hearing</font><font color="#E5E5E5"> this can make the</font>
+
+18
+00:00:33,149 --> 00:00:35,219
+signal muddy or blurry<font color="#CCCCCC"> to solve this</font>
+
+19
+00:00:35,219 --> 00:00:36,840
+<font color="#E5E5E5">problem</font><font color="#CCCCCC"> researchers have found</font><font color="#E5E5E5"> a way to</font>
+
+20
+00:00:36,840 --> 00:00:39,120
+<font color="#CCCCCC">use light</font><font color="#E5E5E5"> which you</font><font color="#CCCCCC"> can aim and is much</font>
+
+21
+00:00:39,120 --> 00:00:41,100
+<font color="#E5E5E5">more precise to stimulate the desired</font>
+
+22
+00:00:41,100 --> 00:00:43,140
+parts of the brain and<font color="#E5E5E5"> it's this light</font>
+
+23
+00:00:43,140 --> 00:00:45,420
+<font color="#CCCCCC">that may be the key to</font><font color="#E5E5E5"> very specific</font>
+
+24
+00:00:45,420 --> 00:00:47,610
+control over the brain<font color="#CCCCCC"> but first</font><font color="#E5E5E5"> these</font>
+
+25
+00:00:47,610 --> 00:00:49,110
+cells must somehow<font color="#CCCCCC"> learn how to use</font>
+
+26
+00:00:49,110 --> 00:00:51,629
+light as an input source<font color="#E5E5E5"> as crazy as</font><font color="#CCCCCC"> it</font>
+
+27
+00:00:51,629 --> 00:00:53,610
+may<font color="#CCCCCC"> seem a harmless non reproducing</font>
+
+28
+00:00:53,610 --> 00:00:55,440
+virus is used to insert genes<font color="#E5E5E5"> in the</font>
+
+29
+00:00:55,440 --> 00:00:57,629
+desired neurons or brain cells<font color="#E5E5E5"> these</font>
+
+30
+00:00:57,629 --> 00:00:59,219
+genes are taken<font color="#E5E5E5"> from other organisms</font>
+
+31
+00:00:59,219 --> 00:01:01,440
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> use light to survive such as algae</font>
+
+32
+00:01:01,440 --> 00:01:03,899
+<font color="#E5E5E5">surprisingly we use the same genetic and</font>
+
+33
+00:01:03,899 --> 00:01:05,880
+cellular mechanisms as them<font color="#E5E5E5"> so if you</font>
+
+34
+00:01:05,880 --> 00:01:07,710
+take DNA<font color="#CCCCCC"> from one</font><font color="#E5E5E5"> and insert it in</font>
+
+35
+00:01:07,710 --> 00:01:10,020
+another<font color="#E5E5E5"> it still works</font><font color="#CCCCCC"> these genes</font>
+
+36
+00:01:10,020 --> 00:01:11,549
+encode for proteins that<font color="#E5E5E5"> allow the</font>
+
+37
+00:01:11,549 --> 00:01:13,560
+neuron<font color="#CCCCCC"> or brain cell to act as a solar</font>
+
+38
+00:01:13,560 --> 00:01:16,049
+cell as a result<font color="#CCCCCC"> they react to</font><font color="#E5E5E5"> incoming</font>
+
+39
+00:01:16,049 --> 00:01:17,549
+light<font color="#CCCCCC"> and convert it to an electrical</font>
+
+40
+00:01:17,549 --> 00:01:19,470
+<font color="#CCCCCC">signal while cells without the new</font><font color="#E5E5E5"> DNA</font>
+
+41
+00:01:19,470 --> 00:01:22,080
+remain unreactive<font color="#CCCCCC"> all we need now</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> an</font>
+
+42
+00:01:22,080 --> 00:01:23,610
+optical source to shine light on<font color="#E5E5E5"> these</font>
+
+43
+00:01:23,610 --> 00:01:25,229
+neurons when we want them activated
+
+44
+00:01:25,229 --> 00:01:27,240
+<font color="#E5E5E5">create this</font><font color="#CCCCCC"> setup</font><font color="#E5E5E5"> within the reward</font>
+
+45
+00:01:27,240 --> 00:01:28,799
+systems of the brain<font color="#CCCCCC"> and you could make</font>
+
+46
+00:01:28,799 --> 00:01:30,270
+<font color="#E5E5E5">someone happy with the push</font><font color="#CCCCCC"> of a button</font>
+
+47
+00:01:30,270 --> 00:01:32,759
+<font color="#CCCCCC">stick it into the motor cortex and</font><font color="#E5E5E5"> you</font>
+
+48
+00:01:32,759 --> 00:01:34,920
+could control parts of movement<font color="#E5E5E5"> and this</font>
+
+49
+00:01:34,920 --> 00:01:36,450
+is exactly what scientists<font color="#E5E5E5"> have done</font>
+
+50
+00:01:36,450 --> 00:01:38,820
+<font color="#E5E5E5">this mouse has fiber optic cables wired</font>
+
+51
+00:01:38,820 --> 00:01:40,770
+into its right motor cortex which
+
+52
+00:01:40,770 --> 00:01:42,990
+controls<font color="#CCCCCC"> movement to the left</font><font color="#E5E5E5"> as soon as</font>
+
+53
+00:01:42,990 --> 00:01:44,939
+the light is shot into<font color="#CCCCCC"> its altered</font><font color="#E5E5E5"> solar</font>
+
+54
+00:01:44,939 --> 00:01:47,399
+<font color="#CCCCCC">panel neurons</font><font color="#E5E5E5"> it cannot help but run to</font>
+
+55
+00:01:47,399 --> 00:01:49,680
+the left its thoughts and actions have
+
+56
+00:01:49,680 --> 00:01:51,810
+<font color="#CCCCCC">been hacked</font><font color="#E5E5E5"> so what happens when we</font>
+
+57
+00:01:51,810 --> 00:01:53,490
+begin<font color="#CCCCCC"> to stick technology into our</font>
+
+58
+00:01:53,490 --> 00:01:55,439
+brains<font color="#CCCCCC"> on the one hand it may</font><font color="#E5E5E5"> open the</font>
+
+59
+00:01:55,439 --> 00:01:56,790
+<font color="#E5E5E5">doors to managing physically</font>
+
+60
+00:01:56,790 --> 00:01:58,770
+debilitating diseases personality
+
+61
+00:01:58,770 --> 00:02:00,600
+<font color="#E5E5E5">disorders or even conditions such as</font>
+
+62
+00:02:00,600 --> 00:02:03,180
+<font color="#E5E5E5">depression</font><font color="#CCCCCC"> turn on or off the necessary</font>
+
+63
+00:02:03,180 --> 00:02:05,969
+cells<font color="#E5E5E5"> and voila heck the average person</font>
+
+64
+00:02:05,969 --> 00:02:07,200
+may be<font color="#E5E5E5"> able to</font><font color="#CCCCCC"> integrate this technology</font>
+
+65
+00:02:07,200 --> 00:02:09,080
+<font color="#E5E5E5">in order to augment their vision</font>
+
+66
+00:02:09,080 --> 00:02:11,960
+or play<font color="#E5E5E5"> video games</font><font color="#CCCCCC"> in their mind</font><font color="#E5E5E5"> and as</font>
+
+67
+00:02:11,960 --> 00:02:13,340
+we begin to understand the intricacies
+
+68
+00:02:13,340 --> 00:02:15,650
+<font color="#E5E5E5">of the brain which regions specifically</font>
+
+69
+00:02:15,650 --> 00:02:17,690
+<font color="#CCCCCC">control which actions and thoughts this</font>
+
+70
+00:02:17,690 --> 00:02:19,190
+technology<font color="#E5E5E5"> will bear even more</font>
+
+71
+00:02:19,190 --> 00:02:21,530
+significance<font color="#E5E5E5"> however the ethical</font>
+
+72
+00:02:21,530 --> 00:02:23,840
+concerns and risks lurk quietly<font color="#E5E5E5"> around</font>
+
+73
+00:02:23,840 --> 00:02:25,970
+the corner<font color="#E5E5E5"> so knowing</font><font color="#CCCCCC"> that your brain</font>
+
+74
+00:02:25,970 --> 00:02:27,830
+could<font color="#CCCCCC"> be hacked would you want</font><font color="#E5E5E5"> this</font>
+
+75
+00:02:27,830 --> 00:02:29,030
+technology in your brain
+
+76
+00:02:29,030 --> 00:02:31,130
+don't forget<font color="#E5E5E5"> ASAP science now has</font>
+
+77
+00:02:31,130 --> 00:02:33,470
+t-shirts<font color="#E5E5E5"> in both white</font><font color="#CCCCCC"> and black links</font>
+
+78
+00:02:33,470 --> 00:02:34,940
+<font color="#E5E5E5">are in the description and if you want</font>
+
+79
+00:02:34,940 --> 00:02:36,890
+the<font color="#E5E5E5"> inside scoop on upcoming episode</font>
+
+80
+00:02:36,890 --> 00:02:38,720
+ideas<font color="#E5E5E5"> and behind the scenes</font><font color="#CCCCCC"> check out</font>
+
+81
+00:02:38,720 --> 00:02:40,130
+<font color="#E5E5E5">our personal Instagram and Twitter</font>
+
+82
+00:02:40,130 --> 00:02:41,990
+handles and subscribe for<font color="#CCCCCC"> more weekly</font>
+
+83
+00:02:41,990 --> 00:00:00,000
+science<font color="#E5E5E5"> videos</font>
+

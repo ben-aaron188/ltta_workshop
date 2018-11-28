@@ -1,0 +1,676 @@
+1
+00:00:00,000 --> 00:00:02,490
+<font color="#CCCCCC">wanna know</font><font color="#E5E5E5"> what you look</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> at 70</font><font color="#CCCCCC"> well</font>
+
+2
+00:00:02,490 --> 00:00:13,019
+there's a science<font color="#E5E5E5"> for that hello and</font>
+
+3
+00:00:13,019 --> 00:00:14,730
+welcome back to<font color="#CCCCCC"> the lab where we</font><font color="#E5E5E5"> take</font>
+
+4
+00:00:14,730 --> 00:00:16,199
+your questions<font color="#E5E5E5"> and turn them into</font>
+
+5
+00:00:16,199 --> 00:00:18,240
+experiments my name is Mitch and my name
+
+6
+00:00:18,240 --> 00:00:20,520
+is<font color="#CCCCCC"> Gregor today we are talking about</font><font color="#E5E5E5"> AJ</font>
+
+7
+00:00:20,520 --> 00:00:22,050
+but before we start we want to remind
+
+8
+00:00:22,050 --> 00:00:23,939
+everyone that our paperback book comes
+
+9
+00:00:23,939 --> 00:00:26,090
+out<font color="#E5E5E5"> in a</font><font color="#CCCCCC"> few days on December</font><font color="#E5E5E5"> 1st</font><font color="#CCCCCC"> it's</font>
+
+10
+00:00:26,090 --> 00:00:28,590
+cheaper it's<font color="#E5E5E5"> a little bit new little</font>
+
+11
+00:00:28,590 --> 00:00:30,480
+<font color="#CCCCCC">Machane better time your time</font><font color="#E5E5E5"> yes</font><font color="#CCCCCC"> so</font>
+
+12
+00:00:30,480 --> 00:00:32,189
+yeah<font color="#E5E5E5"> make</font><font color="#CCCCCC"> sure you check that out we'll</font>
+
+13
+00:00:32,189 --> 00:00:33,570
+put links<font color="#E5E5E5"> in the description it's on the</font>
+
+14
+00:00:33,570 --> 00:00:35,070
+<font color="#CCCCCC">Internet it'll be in bookstores so check</font>
+
+15
+00:00:35,070 --> 00:00:36,690
+it out<font color="#CCCCCC"> did you know that</font><font color="#E5E5E5"> there are parts</font>
+
+16
+00:00:36,690 --> 00:00:38,370
+of the world<font color="#CCCCCC"> where they don't</font><font color="#E5E5E5"> even keep</font>
+
+17
+00:00:38,370 --> 00:00:40,410
+<font color="#CCCCCC">track of their specific age for example</font>
+
+18
+00:00:40,410 --> 00:00:42,210
+<font color="#E5E5E5">they're like I was born I</font><font color="#CCCCCC"> think in this</font>
+
+19
+00:00:42,210 --> 00:00:44,190
+spring<font color="#CCCCCC"> I mean that might seem kind of</font>
+
+20
+00:00:44,190 --> 00:00:46,320
+weird<font color="#E5E5E5"> until you realize it's also weird</font>
+
+21
+00:00:46,320 --> 00:00:48,239
+that in a place like<font color="#E5E5E5"> Canada</font><font color="#CCCCCC"> you have to</font>
+
+22
+00:00:48,239 --> 00:00:51,210
+go around<font color="#E5E5E5"> the Sun 19 times before you</font>
+
+23
+00:00:51,210 --> 00:00:53,129
+can<font color="#E5E5E5"> drink alcohol</font><font color="#CCCCCC"> the main reason that</font>
+
+24
+00:00:53,129 --> 00:00:55,050
+scientists<font color="#E5E5E5"> keep track of age is that</font>
+
+25
+00:00:55,050 --> 00:00:56,760
+<font color="#E5E5E5">it's useful</font><font color="#CCCCCC"> for making</font><font color="#E5E5E5"> predictions for</font>
+
+26
+00:00:56,760 --> 00:00:58,649
+example<font color="#CCCCCC"> 40 spins around the Sun and</font><font color="#E5E5E5"> it's</font>
+
+27
+00:00:58,649 --> 00:01:00,000
+about time you should<font color="#E5E5E5"> be</font><font color="#CCCCCC"> getting checked</font>
+
+28
+00:01:00,000 --> 00:01:02,100
+for<font color="#E5E5E5"> prostate and breast cancer and for</font>
+
+29
+00:01:02,100 --> 00:01:04,559
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> average Canadian your 81st spin</font>
+
+30
+00:01:04,559 --> 00:01:06,960
+around the Sun is usually your last
+
+31
+00:01:06,960 --> 00:01:10,350
+don't<font color="#CCCCCC"> uh so today we thought we would</font>
+
+32
+00:01:10,350 --> 00:01:11,880
+age ourselves with some interesting
+
+33
+00:01:11,880 --> 00:01:13,770
+<font color="#E5E5E5">software now there are a lot of other</font>
+
+34
+00:01:13,770 --> 00:01:15,990
+apps and stuff<font color="#E5E5E5"> out there that can aid</font>
+
+35
+00:01:15,990 --> 00:01:16,979
+you but what we're gonna use<font color="#E5E5E5"> is</font>
+
+36
+00:01:16,979 --> 00:01:19,320
+<font color="#CCCCCC">something called</font><font color="#E5E5E5"> April age progression</font>
+
+37
+00:01:19,320 --> 00:01:21,630
+<font color="#E5E5E5">image launcher oh you did it we</font><font color="#CCCCCC"> had</font>
+
+38
+00:01:21,630 --> 00:01:25,530
+trouble<font color="#CCCCCC"> remembering that a genome</font><font color="#E5E5E5"> huh so</font>
+
+39
+00:01:25,530 --> 00:01:27,210
+essentially<font color="#CCCCCC"> these are landmarks</font><font color="#E5E5E5"> that</font>
+
+40
+00:01:27,210 --> 00:01:29,250
+will take this template face on the left
+
+41
+00:01:29,250 --> 00:01:31,380
+and put it over Mitch's face to age it
+
+42
+00:01:31,380 --> 00:01:38,159
+most accurate yeah<font color="#E5E5E5"> I don't have the best</font>
+
+43
+00:01:38,159 --> 00:01:39,960
+<font color="#E5E5E5">future to look forward to so it's</font>
+
+44
+00:01:39,960 --> 00:01:41,640
+interesting that the sun exposure isn't
+
+45
+00:01:41,640 --> 00:01:43,409
+really<font color="#CCCCCC"> doing anything to my skin but it</font>
+
+46
+00:01:43,409 --> 00:01:44,909
+sort of<font color="#E5E5E5"> makes sense</font><font color="#CCCCCC"> because if</font><font color="#E5E5E5"> you have</font>
+
+47
+00:01:44,909 --> 00:01:47,040
+darker skin or black skin<font color="#E5E5E5"> you have sort</font>
+
+48
+00:01:47,040 --> 00:01:48,810
+of an extra protection from your elastin
+
+49
+00:01:48,810 --> 00:01:50,820
+and collagen breaking down but let's see
+
+50
+00:01:50,820 --> 00:01:52,439
+then<font color="#E5E5E5"> what I look like with smoking and</font>
+
+51
+00:01:52,439 --> 00:01:58,350
+<font color="#E5E5E5">weather yeah stuff like that Oh</font><font color="#CCCCCC"> midge</font>
+
+52
+00:01:58,350 --> 00:02:01,110
+looks so much more like<font color="#E5E5E5"> you've really</font>
+
+53
+00:02:01,110 --> 00:02:01,920
+really
+
+54
+00:02:01,920 --> 00:02:05,100
+and<font color="#E5E5E5"> also like</font><font color="#CCCCCC"> dog</font><font color="#E5E5E5"> smell</font><font color="#CCCCCC"> now let's go</font>
+
+55
+00:02:05,100 --> 00:02:07,200
+<font color="#CCCCCC">through the ages and</font><font color="#E5E5E5"> see what you'll</font>
+
+56
+00:02:07,200 --> 00:02:09,270
+look<font color="#CCCCCC"> like as a</font><font color="#E5E5E5"> handsome 40 year old dad</font>
+
+57
+00:02:09,270 --> 00:02:13,800
+the exact same<font color="#E5E5E5"> how about</font><font color="#CCCCCC"> 1</font><font color="#E5E5E5"> in 60 so it</font>
+
+58
+00:02:13,800 --> 00:02:15,540
+turns out<font color="#E5E5E5"> that I</font><font color="#CCCCCC"> don't</font><font color="#E5E5E5"> have the best</font>
+
+59
+00:02:15,540 --> 00:02:17,160
+<font color="#E5E5E5">looking a few drops I love you though</font>
+
+60
+00:02:17,160 --> 00:02:22,320
+ha ha ha<font color="#CCCCCC"> Oh kind</font><font color="#E5E5E5"> of look like a serial</font>
+
+61
+00:02:22,320 --> 00:02:22,980
+<font color="#CCCCCC">killer</font>
+
+62
+00:02:22,980 --> 00:02:25,410
+I guess the photos of you like very
+
+63
+00:02:25,410 --> 00:02:28,140
+stern like I really am sensitive<font color="#CCCCCC"> to the</font>
+
+64
+00:02:28,140 --> 00:02:30,750
+Sun it even if I put<font color="#E5E5E5"> on SPF 60 I still</font>
+
+65
+00:02:30,750 --> 00:02:34,710
+burn so well let's do<font color="#E5E5E5"> that</font><font color="#CCCCCC"> Oh No did you</font>
+
+66
+00:02:34,710 --> 00:02:37,320
+<font color="#CCCCCC">like I have you I'm like</font><font color="#E5E5E5"> Blair well like</font>
+
+67
+00:02:37,320 --> 00:02:39,660
+at smoking<font color="#CCCCCC"> Oh son it's</font><font color="#E5E5E5"> just way more</font>
+
+68
+00:02:39,660 --> 00:02:42,870
+<font color="#CCCCCC">wrinkled</font><font color="#E5E5E5"> yeah holy smokes oh he's</font><font color="#CCCCCC"> gone</font>
+
+69
+00:02:42,870 --> 00:02:43,950
+<font color="#CCCCCC">holy smokes</font>
+
+70
+00:02:43,950 --> 00:02:47,100
+<font color="#CCCCCC">Oh oK we've</font><font color="#E5E5E5"> been told that it smoking</font>
+
+71
+00:02:47,100 --> 00:02:48,750
+affects the collagen<font color="#E5E5E5"> and elastin in your</font>
+
+72
+00:02:48,750 --> 00:02:50,640
+skin which<font color="#E5E5E5"> that breaks down which is</font>
+
+73
+00:02:50,640 --> 00:02:51,720
+<font color="#E5E5E5">holding your skin and making it nice and</font>
+
+74
+00:02:51,720 --> 00:02:53,880
+tight and beautiful and so smoking
+
+75
+00:02:53,880 --> 00:02:55,980
+hasn't affected so clearly Helen Mirren
+
+76
+00:02:55,980 --> 00:02:57,630
+doesn't smell<font color="#E5E5E5"> poor she that's plastic</font>
+
+77
+00:02:57,630 --> 00:02:59,010
+surgery I don't<font color="#CCCCCC"> know</font><font color="#E5E5E5"> she's like me lots</font>
+
+78
+00:02:59,010 --> 00:03:00,510
+of dollars<font color="#CCCCCC"> I don't know if she does when</font>
+
+79
+00:03:00,510 --> 00:03:02,100
+will I<font color="#CCCCCC"> be most handsome when do</font><font color="#E5E5E5"> you</font>
+
+80
+00:03:02,100 --> 00:03:05,100
+<font color="#E5E5E5">think sorry Jesus</font><font color="#CCCCCC"> Pat</font><font color="#E5E5E5"> H already</font><font color="#CCCCCC"> look the</font>
+
+81
+00:03:05,100 --> 00:03:09,239
+exact<font color="#E5E5E5"> same</font><font color="#CCCCCC"> I guess like your shot</font><font color="#E5E5E5"> like</font>
+
+82
+00:03:09,239 --> 00:03:12,780
+45<font color="#E5E5E5"> I look furrowed brow</font><font color="#CCCCCC"> and like if I</font>
+
+83
+00:03:12,780 --> 00:03:16,830
+look like<font color="#CCCCCC"> a</font><font color="#E5E5E5"> 21 5 again my sweet yeah how</font>
+
+84
+00:03:16,830 --> 00:03:19,500
+old is Brad<font color="#CCCCCC"> Pitt</font><font color="#E5E5E5"> about 60 oh wow you did</font>
+
+85
+00:03:19,500 --> 00:03:22,650
+a big jump between 45 and 60<font color="#E5E5E5"> where falls</font>
+
+86
+00:03:22,650 --> 00:03:24,480
+<font color="#E5E5E5">my harsh fears that's when after our</font>
+
+87
+00:03:24,480 --> 00:03:26,940
+divorce<font color="#E5E5E5"> obviously this is</font><font color="#CCCCCC"> the our best</font>
+
+88
+00:03:26,940 --> 00:03:29,040
+guess there's tons of factors in life
+
+89
+00:03:29,040 --> 00:03:31,830
+that can<font color="#E5E5E5"> change this</font><font color="#CCCCCC"> may be I work out a</font>
+
+90
+00:03:31,830 --> 00:03:34,290
+little more<font color="#CCCCCC"> about some</font><font color="#E5E5E5"> cream</font><font color="#CCCCCC"> for my</font>
+
+91
+00:03:34,290 --> 00:03:38,100
+cream for my face so we've seen what<font color="#CCCCCC"> we</font>
+
+92
+00:03:38,100 --> 00:03:39,900
+look like<font color="#E5E5E5"> using the April software but</font>
+
+93
+00:03:39,900 --> 00:03:40,830
+we<font color="#E5E5E5"> thought it'd be</font><font color="#CCCCCC"> really interesting to</font>
+
+94
+00:03:40,830 --> 00:03:42,660
+see<font color="#E5E5E5"> in person what will look like older</font>
+
+95
+00:03:42,660 --> 00:03:43,560
+so we're gonna get some<font color="#E5E5E5"> professional</font>
+
+96
+00:03:43,560 --> 00:03:46,050
+<font color="#E5E5E5">makeup done</font><font color="#CCCCCC"> to Benjamin Button ourselves</font>
+
+97
+00:03:46,050 --> 00:03:48,769
+and make us look really<font color="#CCCCCC"> old</font>
+
+98
+00:03:49,810 --> 00:04:15,160
+oh my<font color="#E5E5E5"> god</font>
+
+99
+00:04:15,160 --> 00:04:24,520
+and like I'm dying<font color="#E5E5E5"> so yeah I think the</font>
+
+100
+00:04:24,520 --> 00:04:26,260
+concept<font color="#E5E5E5"> of age is really interesting and</font>
+
+101
+00:04:26,260 --> 00:04:27,610
+<font color="#E5E5E5">in fact</font><font color="#CCCCCC"> it's just</font><font color="#E5E5E5"> a really</font><font color="#CCCCCC"> great way for</font>
+
+102
+00:04:27,610 --> 00:04:29,020
+society and scientists<font color="#E5E5E5"> to make</font>
+
+103
+00:04:29,020 --> 00:04:30,430
+<font color="#CCCCCC">predictions and also be able</font><font color="#E5E5E5"> to</font>
+
+104
+00:04:30,430 --> 00:04:31,870
+understand what you know is supposed<font color="#CCCCCC"> to</font>
+
+105
+00:04:31,870 --> 00:04:33,460
+happen to you in your<font color="#E5E5E5"> health over time</font>
+
+106
+00:04:33,460 --> 00:04:34,630
+<font color="#E5E5E5">there was some really interesting</font>
+
+107
+00:04:34,630 --> 00:04:36,190
+research where<font color="#CCCCCC"> they found that</font><font color="#E5E5E5"> if they</font>
+
+108
+00:04:36,190 --> 00:04:37,900
+<font color="#CCCCCC">looked at the genes</font><font color="#E5E5E5"> in say your muscle</font>
+
+109
+00:04:37,900 --> 00:04:39,820
+tissue or your brain tissue<font color="#E5E5E5"> they can</font>
+
+110
+00:04:39,820 --> 00:04:42,070
+more accurately assess how old those
+
+111
+00:04:42,070 --> 00:04:44,350
+parts<font color="#CCCCCC"> of</font><font color="#E5E5E5"> your body were biologically but</font>
+
+112
+00:04:44,350 --> 00:04:45,790
+<font color="#CCCCCC">what we thought</font><font color="#E5E5E5"> would be fun to see</font><font color="#CCCCCC"> if</font>
+
+113
+00:04:45,790 --> 00:04:47,770
+<font color="#E5E5E5">we could do with the</font><font color="#CCCCCC"> old-fashioned way</font>
+
+114
+00:04:47,770 --> 00:04:49,750
+predict our age<font color="#CCCCCC"> just by looking at our</font>
+
+115
+00:04:49,750 --> 00:04:52,720
+childhood photos<font color="#CCCCCC"> oh my god is</font><font color="#E5E5E5"> this like</font>
+
+116
+00:04:52,720 --> 00:04:56,229
+a model shot<font color="#CCCCCC"> what it was he was</font><font color="#E5E5E5"> a time</font>
+
+117
+00:04:56,229 --> 00:04:57,130
+in my<font color="#E5E5E5"> past</font>
+
+118
+00:04:57,130 --> 00:04:59,770
+do you like<font color="#CCCCCC"> fifty</font><font color="#E5E5E5"> years ago</font><font color="#CCCCCC"> I don't know</font>
+
+119
+00:04:59,770 --> 00:05:01,120
+<font color="#E5E5E5">I don't know I guess I was like going</font>
+
+120
+00:05:01,120 --> 00:05:03,280
+<font color="#E5E5E5">auditions and oh my god so</font><font color="#CCCCCC"> this is like</font>
+
+121
+00:05:03,280 --> 00:05:07,060
+stage men um<font color="#E5E5E5"> I think</font><font color="#CCCCCC"> you're oh my god</font>
+
+122
+00:05:07,060 --> 00:05:09,010
+<font color="#CCCCCC">wait I was gonna say five</font><font color="#E5E5E5"> but you</font><font color="#CCCCCC"> have</font>
+
+123
+00:05:09,010 --> 00:05:11,850
+to be older<font color="#CCCCCC"> than that I think you are</font>
+
+124
+00:05:11,850 --> 00:05:21,490
+<font color="#CCCCCC">ten I think you are 11 yeah babe ah</font><font color="#E5E5E5"> emo</font>
+
+125
+00:05:21,490 --> 00:05:22,180
+haircut
+
+126
+00:05:22,180 --> 00:05:28,890
+okay I think you're<font color="#CCCCCC"> sixteen no</font><font color="#E5E5E5"> 17 yeah</font>
+
+127
+00:05:28,890 --> 00:05:30,880
+when I see myself in<font color="#E5E5E5"> the mirror I'm like</font>
+
+128
+00:05:30,880 --> 00:05:32,140
+<font color="#E5E5E5">I look the same and then you see these</font>
+
+129
+00:05:32,140 --> 00:05:33,910
+<font color="#E5E5E5">photos and you're like oh god what has</font>
+
+130
+00:05:33,910 --> 00:05:36,970
+happened to me<font color="#CCCCCC"> oh we're</font><font color="#E5E5E5"> going like this</font>
+
+131
+00:05:36,970 --> 00:05:42,010
+<font color="#CCCCCC">in like no time what are you</font><font color="#E5E5E5"> wearing</font>
+
+132
+00:05:42,010 --> 00:05:43,690
+<font color="#CCCCCC">yeah they</font><font color="#E5E5E5"> was</font><font color="#CCCCCC"> like Chris was trying</font><font color="#E5E5E5"> to</font>
+
+133
+00:05:43,690 --> 00:05:45,729
+like the pageant<font color="#E5E5E5"> and like I was one of</font>
+
+134
+00:05:45,729 --> 00:05:47,800
+those like weird people<font color="#CCCCCC"> bring glamour oh</font>
+
+135
+00:05:47,800 --> 00:05:50,229
+my gosh that's such a hard age<font color="#CCCCCC"> I think</font>
+
+136
+00:05:50,229 --> 00:05:58,510
+<font color="#CCCCCC">you are 14</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> no</font><font color="#E5E5E5"> uh 15 yeah okay</font>
+
+137
+00:05:58,510 --> 00:06:00,410
+<font color="#E5E5E5">you look so different all</font><font color="#CCCCCC"> of them</font>
+
+138
+00:06:00,410 --> 00:06:03,740
+you have orange hair<font color="#E5E5E5"> I think</font><font color="#CCCCCC"> that you</font>
+
+139
+00:06:03,740 --> 00:06:06,800
+are<font color="#E5E5E5"> three in this photo yeah oh my god</font>
+
+140
+00:06:06,800 --> 00:06:08,450
+you know<font color="#CCCCCC"> what'd be</font><font color="#E5E5E5"> interesting if</font><font color="#CCCCCC"> we</font>
+
+141
+00:06:08,450 --> 00:06:11,030
+took our baby or youth photos and put
+
+142
+00:06:11,030 --> 00:06:13,340
+them into April<font color="#E5E5E5"> like the oh the image</font>
+
+143
+00:06:13,340 --> 00:06:15,650
+software<font color="#CCCCCC"> oh my god see if we look</font><font color="#E5E5E5"> now</font>
+
+144
+00:06:15,650 --> 00:06:17,090
+predict what we look like
+
+145
+00:06:17,090 --> 00:06:22,700
+<font color="#CCCCCC">haha it kind of looks like me</font><font color="#E5E5E5"> if I like</font>
+
+146
+00:06:22,700 --> 00:06:25,100
+did a bunch of drugs
+
+147
+00:06:25,100 --> 00:06:26,090
+yeah what's interesting is that
+
+148
+00:06:26,090 --> 00:06:28,460
+software's<font color="#CCCCCC"> like this are actually</font><font color="#E5E5E5"> used</font>
+
+149
+00:06:28,460 --> 00:06:31,520
+by<font color="#CCCCCC"> agencies like mi6</font><font color="#E5E5E5"> or by agencies that</font>
+
+150
+00:06:31,520 --> 00:06:33,050
+are<font color="#E5E5E5"> looking for missing children who</font>
+
+151
+00:06:33,050 --> 00:06:34,610
+might<font color="#CCCCCC"> have</font><font color="#E5E5E5"> been gone for</font><font color="#CCCCCC"> a few</font><font color="#E5E5E5"> years or</font>
+
+152
+00:06:34,610 --> 00:06:35,810
+many<font color="#CCCCCC"> years and then they want to</font><font color="#E5E5E5"> project</font>
+
+153
+00:06:35,810 --> 00:06:38,720
+<font color="#CCCCCC">what</font><font color="#E5E5E5"> they'll look like</font><font color="#CCCCCC"> in today's age to</font>
+
+154
+00:06:38,720 --> 00:06:39,770
+help find<font color="#E5E5E5"> them and see if they're still</font>
+
+155
+00:06:39,770 --> 00:06:42,260
+<font color="#CCCCCC">around alright</font><font color="#E5E5E5"> my</font><font color="#CCCCCC"> turn but</font><font color="#E5E5E5"> it we should</font>
+
+156
+00:06:42,260 --> 00:06:44,750
+say<font color="#CCCCCC"> that</font><font color="#E5E5E5"> the software does recommend not</font>
+
+157
+00:06:44,750 --> 00:06:46,130
+to<font color="#E5E5E5"> use photos where you're</font><font color="#CCCCCC"> smiling but</font><font color="#E5E5E5"> I</font>
+
+158
+00:06:46,130 --> 00:06:47,510
+didn't really<font color="#CCCCCC"> have any that were face on</font>
+
+159
+00:06:47,510 --> 00:06:49,280
+when I<font color="#E5E5E5"> wasn't smiling</font><font color="#CCCCCC"> it still is like</font>
+
+160
+00:06:49,280 --> 00:06:52,100
+<font color="#E5E5E5">you yeah but you look</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> I look more</font>
+
+161
+00:06:52,100 --> 00:06:54,080
+<font color="#CCCCCC">like a I feel like it looked like an</font>
+
+162
+00:06:54,080 --> 00:06:56,060
+ogre<font color="#CCCCCC"> or something and that that point</font>
+
+163
+00:06:56,060 --> 00:06:57,890
+missing teeth seems<font color="#E5E5E5"> more normal right</font>
+
+164
+00:06:57,890 --> 00:07:00,290
+yeah thank<font color="#E5E5E5"> you for coming on this aging</font>
+
+165
+00:07:00,290 --> 00:07:02,600
+experience<font color="#E5E5E5"> with us clearly these were</font>
+
+166
+00:07:02,600 --> 00:07:04,490
+just predictions and actually<font color="#CCCCCC"> know the</font>
+
+167
+00:07:04,490 --> 00:07:05,660
+true way we're<font color="#E5E5E5"> gonna</font><font color="#CCCCCC"> look we're just</font>
+
+168
+00:07:05,660 --> 00:07:09,370
+<font color="#CCCCCC">gonna</font><font color="#E5E5E5"> have to make it to 72</font>
+
+169
+00:07:11,980 --> 00:00:00,000
+you
+

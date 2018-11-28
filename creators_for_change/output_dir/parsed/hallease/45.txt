@@ -1,0 +1,245 @@
+hey everyone it's me hallease
+endeavouring to persevere so sorry that
+this mic is kind of here I just want to
+make sure that whether I'm looking at
+the computer screen or looking at y'all
+you can hear me so what do people
+usually say what does Peter McKinnon say
+smash that like button I don't know
+anyway um in this video I'm just gonna
+show you a quick tutorial of how I
+achieve how I achieve the overall
+aesthetic of a lot of my films it's
+actually very simple it's a combination
+of the presets that are already built
+into premiere and adjustment layers and
+it's kind of the same aesthetic I used
+on my Veda video from yesterday which is
+how I wrap my head wraps so without
+further ado let's just get right on into
+it this is really easy I really I really
+like using these presets because it kind
+of gives your videos this sort of film
+look like makes them kind of have this
+appearance that they naturally that you
+actually went out and shot them on film
+which I didn't do that I have the
+project from yesterday I'm gonna go
+ahead and open it and I would show you
+the pretty opening premiere thing but
+it's on my other screen down here so you
+can't see it I'm just reporting on this
+one sorry about that again working
+through the kinks on this
+so church pray for me all right at the
+end of the day you get in a tutorial
+amen
+all right so here we go okay so here's
+my project and down here is my timeline
+this was the other cut I did for
+promotional purposes we don't really
+need that anymore let me go ahead and
+resave this actually while I'm thinking
+about it
+sorry pal tutorial you know sometimes
+you look at a word and then you're like
+you've seen it so many times you're like
+you Stephanie spell it like really
+though you know so here is the finished
+film that you all saw as you can see it
+has the bars it has those like film bars
+on there and all of that and it's got
+like yeah this sort of like film kind of
+grain look to it the way I achieve that
+it's very very simple we're gonna get
+rid of it so this is what the actual
+footage looks like you know so if you go
+to your project and you click on your
+sequence excuse my messy project I
+usually actually like to have it a lot
+more organized than that but it's fine
+because this was such a quick video but
+yet click on your sequence make sure
+it's highlighted and then hit up to file
+adjustment layer
+and it's gonna bring up some adjustment
+layer settings 1920 by 1080 is what I
+shoot most of my videos at 23.9 is what
+I shoot most my videos add square pixels
+yeah hit OK and then you have this
+adjustment layer that pops up and we're
+going to go ahead and call this bars and
+color
+I'm gonna go ahead and call these bars
+and color grading so when I click on
+this layer everything that I do now to
+it as far as color grading and effects
+go it'll impact everything below it
+which is the cut of the film itself so
+the first thing I want to do is add my
+color grading quote-unquote if you go to
+your Lumina tree color scopes which are
+all over here if this panel doesn't pop
+up for you go to window and it is right
+there
+luminate recolor and that'll make it pop
+up for you so yeah you have this show up
+and I'm not gonna really mess with the
+basic color correction because I'm more
+or less like the way all of this looks I
+don't really need a mess with the color
+temperature or anything like that
+because I tried to make sure I shot it
+you know to where the whites are white
+and the blacks are black and all that
+kind of fun stuff what I am gonna mess
+with is this creative the next one down
+and here is my secret sauce if you will
+about how I get my films to look like
+films as much as I can within the budget
+that I have and that is I use the kodak
+5218 2395
+and Kodak if you don't know is animal as
+a film company they're still around kind
+of sort of maybe and this is basically a
+preset to make your stuff look like
+Kodak film so I put that on but usually
+when I put it on it makes it a little
+too intense for me I don't usually like
+it to be at 100% intensity or you can up
+it and then that's like super super film
+you know I don't usually like it to be
+that high I usually keep it around 60%
+that's where I just like to have it so
+when we turn it off and you can see
+that's what it added and then another
+thing I also add is I add a little bit
+of the faded film to it as well about 20
+percent usually so you see that kind of
+gives it I don't know that just kind of
+gives it that sort of grain look just a
+smidge just a smidge it's a it's funny
+because it's just like film with its
+imperfections look a little it just
+looks more natural I don't know I don't
+know comment below how you feel about it
+but that's how I feel about it and
+that's how that's that's literally it
+that's kind of the tutorial um the way
+to do the bars the cinematic bars that
+you usually see let me turn this off so
+you can see the whole thing and oh by
+the way that's the title safe title
+safety if you're putting graphics you
+usually want to have them inside inside
+this the second box here but that's more
+for like TV and stuff it doesn't really
+apply to the internet anymore it doesn't
+really apply because we have the
+internet now but I still don't know
+I'm old-fashioned I guess um anyway now
+let's add those bars at the top and
+bottom of our clips so what you're gonna
+do now is you're going to have your
+gonna make sure your adjustment layer is
+still highlighted and then you're gonna
+go to your effects panel mine is here in
+the left hand corner if for some reason
+yours is not where it needs to be window
+effects it's where you can find that and
+then you're going to go to the crop tool
+I usually just type it in cuz it's
+faster than trying to find it
+and then I'm gonna drag it on to my
+adjustment layer that I've made and now
+we're gonna go to our effect controls
+panel if you don't know where that is
+again window effect controls make sure
+this is highlighted so the effect
+controls for whatever is on this come up
+here as you can see our luminance
+recolor you can see it here as well what
+we did right you're gonna go to the crop
+tool and for the top and bottom I
+usually have it at around 7% so you see
+seven percent top
+7% bottom boom so now we went from this
+to this
+and we have that cinematic look so yeah
+that's how we go from this to this and
+something I like to do is so I get to
+play a little bit cool something I also
+like to do though is I like to give I
+like to like have the bars sort of lead
+in a little bit so they're not there in
+the beginning and then like get you in
+the mood to be in a traditional film
+environment but on your phone or tablet
+or wherever you watch my videos so I
+like to have the bars sort of just come
+into the frame and that's just simple
+keyframing really easy so we're gonna go
+to our crop and we're gonna let's take
+off this here let's take off this
+cross-dissolve
+so that way you can always see me
+alright so we're gonna go back to our
+crop and remember we have it at seven
+percent here we're gonna put a keyframe
+like I don't know like
+couple seconds and we're gonna hit our
+keyframe our little stopwatch is just
+like a keyframe indicator and then we're
+gonna go back to the very beginning and
+hit it again but this time make sure
+that for the front it's zero
+look at that voila now something that I
+think will be super cool if premiere
+ever adds this is motion blur right now
+you can't really get that and motion
+blur is just an effect that just just
+wherever you're doing these little
+makeshift graphics and premiere it just
+kind of gives it a little more like
+natural just kind of like finesse
+you know like smear think about like
+smear you know so it's not like pixel
+pixel pixel pixel moving you know it
+just gives it a natural sort of finish
+can't really do that in premiere yet I'm
+I heard maybe that might they might
+could possibly maybe do it one day for
+now if you want to achieve that you have
+to do it in after-effects but what I you
+still like to do though is ease in and
+ease out of things which again is
+usually a lot better and after-effects
+but you can still do it here in Premiere
+and it just gives it just makes the
+animation just a little bit more smooth
+you know so you want to ease out of this
+it's opposite of what you would think
+and ease in to this and so now
+again it's a it's a miniscule difference
+but I I see it I see it you know that's
+it that's how I that's a video that's a
+video that's a tutorial so there you go
+um go ahead and save that export close
+anyway so yeah that's it that's how I
+achieve this sort of like cinema
+cinematic look if you will of of my
+films when I when I choose to call them
+films you know um sorry that my my
+lighting is also not ideal again I'm in
+a new co-working space so I'm just
+trying to figure that out anyway that's
+neither here nor there you don't even
+know all that so yeah if you enjoyed
+this video
+you know like share subscribe and things
+like such has any other tips and tricks
+you would like me to show you in
+Premiere it just in editing in general
+let me know I do like doing this this
+sort of like producers commentary and
+whatnot so yeah I'll see you tomorrow

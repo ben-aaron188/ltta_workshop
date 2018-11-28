@@ -1,0 +1,588 @@
+1
+00:00:00,000 --> 00:00:01,380
+you<font color="#E5E5E5"> are having a coffee with a close</font>
+
+2
+00:00:01,380 --> 00:00:03,030
+friend<font color="#CCCCCC"> and bring up how you need a new</font>
+
+3
+00:00:03,030 --> 00:00:05,279
+bathing suit<font color="#CCCCCC"> then</font><font color="#E5E5E5"> BAM all of a sudden</font>
+
+4
+00:00:05,279 --> 00:00:07,319
+<font color="#CCCCCC">there are</font><font color="#E5E5E5"> ads on your phone for bathing</font>
+
+5
+00:00:07,319 --> 00:00:09,660
+suits<font color="#E5E5E5"> our</font><font color="#CCCCCC"> smartphones are with us at all</font>
+
+6
+00:00:09,660 --> 00:00:11,460
+times<font color="#CCCCCC"> but</font><font color="#E5E5E5"> our companies</font><font color="#CCCCCC"> and governments</font>
+
+7
+00:00:11,460 --> 00:00:13,920
+using them to spy on<font color="#CCCCCC"> us</font><font color="#E5E5E5"> you may be</font>
+
+8
+00:00:13,920 --> 00:00:17,039
+<font color="#E5E5E5">suspicious for a good reason</font><font color="#CCCCCC"> a New York</font>
+
+9
+00:00:17,039 --> 00:00:18,900
+Times<font color="#E5E5E5"> piece uncovered that thousands of</font>
+
+10
+00:00:18,900 --> 00:00:20,850
+apps including gaming apps for kids<font color="#E5E5E5"> are</font>
+
+11
+00:00:20,850 --> 00:00:22,980
+equipped<font color="#E5E5E5"> with the software Alfonso</font>
+
+12
+00:00:22,980 --> 00:00:25,650
+Alfonso uses your smartphone microphone
+
+13
+00:00:25,650 --> 00:00:27,060
+<font color="#CCCCCC">to listen to the ads that you are</font>
+
+14
+00:00:27,060 --> 00:00:30,210
+watching<font color="#E5E5E5"> on TV</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> uses audio signals to</font>
+
+15
+00:00:30,210 --> 00:00:32,189
+collect TV viewing<font color="#E5E5E5"> data in order for</font>
+
+16
+00:00:32,189 --> 00:00:34,200
+advertisers<font color="#E5E5E5"> to personally promote things</font>
+
+17
+00:00:34,200 --> 00:00:35,309
+to you online
+
+18
+00:00:35,309 --> 00:00:38,070
+<font color="#CCCCCC">Alfonso claims to not record human</font>
+
+19
+00:00:38,070 --> 00:00:40,620
+speech<font color="#E5E5E5"> Facebook has created a device</font>
+
+20
+00:00:40,620 --> 00:00:42,899
+<font color="#E5E5E5">called pixel which is designed as a way</font>
+
+21
+00:00:42,899 --> 00:00:44,940
+to continue tracking<font color="#E5E5E5"> you</font><font color="#CCCCCC"> online</font><font color="#E5E5E5"> even</font>
+
+22
+00:00:44,940 --> 00:00:47,460
+<font color="#CCCCCC">after you've left a website by dropping</font>
+
+23
+00:00:47,460 --> 00:00:49,379
+a small piece<font color="#CCCCCC"> of data</font><font color="#E5E5E5"> called a cookie</font>
+
+24
+00:00:49,379 --> 00:00:51,120
+<font color="#E5E5E5">your device will now remember</font>
+
+25
+00:00:51,120 --> 00:00:53,070
+information<font color="#E5E5E5"> like how long you</font><font color="#CCCCCC"> linger on</font>
+
+26
+00:00:53,070 --> 00:00:55,140
+<font color="#CCCCCC">a certain item</font><font color="#E5E5E5"> and whether you added</font>
+
+27
+00:00:55,140 --> 00:00:56,550
+anything<font color="#E5E5E5"> to your shopping</font><font color="#CCCCCC"> cart but</font>
+
+28
+00:00:56,550 --> 00:00:58,710
+didn't purchase<font color="#E5E5E5"> it millions of websites</font>
+
+29
+00:00:58,710 --> 00:01:01,500
+use Facebook<font color="#CCCCCC"> pixel which is why the hot</font>
+
+30
+00:01:01,500 --> 00:01:03,210
+you didn't<font color="#E5E5E5"> end up buying follows you</font>
+
+31
+00:01:03,210 --> 00:01:05,880
+around Facebook<font color="#E5E5E5"> forever but sites like</font>
+
+32
+00:01:05,880 --> 00:01:08,250
+Facebook<font color="#E5E5E5"> even follow you offline and</font>
+
+33
+00:01:08,250 --> 00:01:09,630
+have<font color="#CCCCCC"> been known to purchase information</font>
+
+34
+00:01:09,630 --> 00:01:12,960
+<font color="#E5E5E5">and create a database of over</font><font color="#CCCCCC"> 52,000</font>
+
+35
+00:01:12,960 --> 00:01:15,180
+<font color="#E5E5E5">different attributes about you for</font>
+
+36
+00:01:15,180 --> 00:01:17,310
+example<font color="#E5E5E5"> Facebook buys data from</font>
+
+37
+00:01:17,310 --> 00:01:19,650
+supermarket loyalty programs so if you
+
+38
+00:01:19,650 --> 00:01:21,000
+have a points card with a grocery store
+
+39
+00:01:21,000 --> 00:01:23,369
+<font color="#E5E5E5">Facebook may be paying to understand</font>
+
+40
+00:01:23,369 --> 00:01:25,439
+your purchasing patterns<font color="#CCCCCC"> potentially</font>
+
+41
+00:01:25,439 --> 00:01:27,450
+learning about<font color="#E5E5E5"> what you eat or even what</font>
+
+42
+00:01:27,450 --> 00:01:29,850
+<font color="#E5E5E5">type of toothpaste you use so your phone</font>
+
+43
+00:01:29,850 --> 00:01:32,610
+can listen to you<font color="#E5E5E5"> but it can also follow</font>
+
+44
+00:01:32,610 --> 00:01:35,460
+you as well every<font color="#E5E5E5"> time you receive a</font>
+
+45
+00:01:35,460 --> 00:01:37,530
+text<font color="#E5E5E5"> or use data to load an app</font>
+
+46
+00:01:37,530 --> 00:01:39,600
+companies can log and retain<font color="#E5E5E5"> your</font>
+
+47
+00:01:39,600 --> 00:01:41,759
+location based<font color="#E5E5E5"> on the cell tower and</font>
+
+48
+00:01:41,759 --> 00:01:44,070
+cellular antenna<font color="#E5E5E5"> you connect it to the</font>
+
+49
+00:01:44,070 --> 00:01:45,960
+<font color="#E5E5E5">precision of location has increased over</font>
+
+50
+00:01:45,960 --> 00:01:48,180
+<font color="#CCCCCC">time</font><font color="#E5E5E5"> and get paid a detailed picture</font><font color="#CCCCCC"> of</font>
+
+51
+00:01:48,180 --> 00:01:50,670
+where you go<font color="#E5E5E5"> so</font><font color="#CCCCCC"> your phone may start</font>
+
+52
+00:01:50,670 --> 00:01:52,829
+sending<font color="#E5E5E5"> you ads for swimsuits because</font>
+
+53
+00:01:52,829 --> 00:01:54,659
+you<font color="#E5E5E5"> were just physically in or near a</font>
+
+54
+00:01:54,659 --> 00:01:57,000
+<font color="#CCCCCC">surf shop these</font><font color="#E5E5E5"> companies will claim</font>
+
+55
+00:01:57,000 --> 00:01:58,680
+they aren't doing<font color="#CCCCCC"> anything you haven't</font>
+
+56
+00:01:58,680 --> 00:02:00,750
+<font color="#E5E5E5">agreed to as you have accepted the</font>
+
+57
+00:02:00,750 --> 00:02:02,579
+privacy policy that<font color="#E5E5E5"> allows the</font>
+
+58
+00:02:02,579 --> 00:02:04,740
+collection of<font color="#E5E5E5"> your information</font><font color="#CCCCCC"> and did</font>
+
+59
+00:02:04,740 --> 00:02:06,090
+you read the<font color="#CCCCCC"> fine print</font>
+
+60
+00:02:06,090 --> 00:02:09,810
+probably not a study presented<font color="#CCCCCC"> 543</font>
+
+61
+00:02:09,810 --> 00:02:11,760
+participants with a fake app called
+
+62
+00:02:11,760 --> 00:02:12,620
+named
+
+63
+00:02:12,620 --> 00:02:14,180
+to see how<font color="#CCCCCC"> many would read the privacy</font>
+
+64
+00:02:14,180 --> 00:02:17,930
+policy<font color="#E5E5E5"> and Terms of Service 74% skipped</font>
+
+65
+00:02:17,930 --> 00:02:19,909
+reading the agreement all together<font color="#E5E5E5"> and</font>
+
+66
+00:02:19,909 --> 00:02:21,620
+<font color="#E5E5E5">those who did read it didn't do a great</font>
+
+67
+00:02:21,620 --> 00:02:23,510
+<font color="#E5E5E5">job</font><font color="#CCCCCC"> ninety-eight</font><font color="#E5E5E5"> percent of participants</font>
+
+68
+00:02:23,510 --> 00:02:26,269
+<font color="#CCCCCC">missed the gotcha clauses which included</font>
+
+69
+00:02:26,269 --> 00:02:28,489
+sharing all<font color="#CCCCCC"> your data with the NSA your</font>
+
+70
+00:02:28,489 --> 00:02:30,470
+<font color="#E5E5E5">employer and agreeing to</font><font color="#CCCCCC"> provide your</font>
+
+71
+00:02:30,470 --> 00:02:33,140
+<font color="#E5E5E5">firstborn</font><font color="#CCCCCC"> child as payment</font><font color="#E5E5E5"> and what</font>
+
+72
+00:02:33,140 --> 00:02:35,510
+<font color="#E5E5E5">about the rise of smart speakers like</font>
+
+73
+00:02:35,510 --> 00:02:38,209
+<font color="#CCCCCC">Google home in Amazon Alexa</font><font color="#E5E5E5"> which are</font>
+
+74
+00:02:38,209 --> 00:02:40,129
+designed<font color="#E5E5E5"> to listen to you at all times</font>
+
+75
+00:02:40,129 --> 00:02:42,560
+<font color="#CCCCCC">though they</font><font color="#E5E5E5"> are supposed to</font><font color="#CCCCCC"> only record</font>
+
+76
+00:02:42,560 --> 00:02:44,569
+your voice when<font color="#CCCCCC"> giving prompts</font><font color="#E5E5E5"> like</font><font color="#CCCCCC"> ok</font>
+
+77
+00:02:44,569 --> 00:02:46,760
+<font color="#CCCCCC">Google</font><font color="#E5E5E5"> recently a couple found that</font>
+
+78
+00:02:46,760 --> 00:02:48,799
+Amazon's Alexa<font color="#E5E5E5"> recorded a private</font>
+
+79
+00:02:48,799 --> 00:02:50,750
+conversation<font color="#E5E5E5"> and then randomly sent it</font>
+
+80
+00:02:50,750 --> 00:02:51,470
+to a friend
+
+81
+00:02:51,470 --> 00:02:53,690
+these are deemed unfortunate glitches
+
+82
+00:02:53,690 --> 00:02:55,579
+<font color="#E5E5E5">but what if someone gained access to</font>
+
+83
+00:02:55,579 --> 00:02:57,530
+them as Wi-Fi networks<font color="#E5E5E5"> and mobile</font>
+
+84
+00:02:57,530 --> 00:02:59,989
+<font color="#CCCCCC">internet</font><font color="#E5E5E5"> devices are easier</font><font color="#CCCCCC"> to hack than</font>
+
+85
+00:02:59,989 --> 00:03:02,090
+you might<font color="#CCCCCC"> think your typical wireless</font>
+
+86
+00:03:02,090 --> 00:03:03,680
+<font color="#E5E5E5">internet information</font><font color="#CCCCCC"> is kept</font>
+
+87
+00:03:03,680 --> 00:03:05,659
+confidential<font color="#E5E5E5"> by being converted from a</font>
+
+88
+00:03:05,659 --> 00:03:08,150
+readable state to<font color="#CCCCCC"> nonsense</font><font color="#E5E5E5"> at the access</font>
+
+89
+00:03:08,150 --> 00:03:09,799
+point<font color="#E5E5E5"> and then converted back</font><font color="#CCCCCC"> to a</font>
+
+90
+00:03:09,799 --> 00:03:11,390
+<font color="#E5E5E5">readable state when you use the correct</font>
+
+91
+00:03:11,390 --> 00:03:14,180
+Wi-Fi password from<font color="#E5E5E5"> your computer when</font>
+
+92
+00:03:14,180 --> 00:03:15,890
+internet moved from physically<font color="#E5E5E5"> wired</font>
+
+93
+00:03:15,890 --> 00:03:18,139
+networks to wireless technology it
+
+94
+00:03:18,139 --> 00:03:19,970
+became easier to hack and less secure
+
+95
+00:03:19,970 --> 00:03:21,530
+<font color="#CCCCCC">because the encryption</font><font color="#E5E5E5"> schemes are</font>
+
+96
+00:03:21,530 --> 00:03:23,840
+relatively<font color="#E5E5E5"> simple for example</font><font color="#CCCCCC"> your</font>
+
+97
+00:03:23,840 --> 00:03:25,760
+webcam can be<font color="#E5E5E5"> hacked by creating a</font>
+
+98
+00:03:25,760 --> 00:03:28,400
+remote access<font color="#E5E5E5"> tool which is the digital</font>
+
+99
+00:03:28,400 --> 00:03:30,169
+equivalent of someone<font color="#E5E5E5"> adding an unlocked</font>
+
+100
+00:03:30,169 --> 00:03:31,879
+window<font color="#CCCCCC"> to your</font><font color="#E5E5E5"> home</font><font color="#CCCCCC"> without you even</font>
+
+101
+00:03:31,879 --> 00:03:35,660
+noticing<font color="#E5E5E5"> also the FBI agent meme isn't</font>
+
+102
+00:03:35,660 --> 00:03:37,819
+far from<font color="#CCCCCC"> the truth as the</font><font color="#E5E5E5"> FBI is known</font>
+
+103
+00:03:37,819 --> 00:03:39,950
+to use phishing which is slipping a link
+
+104
+00:03:39,950 --> 00:03:41,660
+<font color="#E5E5E5">into a message that is labeled</font><font color="#CCCCCC"> in a</font>
+
+105
+00:03:41,660 --> 00:03:43,579
+misleading<font color="#E5E5E5"> way</font><font color="#CCCCCC"> when you</font><font color="#E5E5E5"> hit the link</font>
+
+106
+00:03:43,579 --> 00:03:45,199
+<font color="#E5E5E5">your device connects to the FBI's</font>
+
+107
+00:03:45,199 --> 00:03:47,510
+computer<font color="#CCCCCC"> downloading malware</font><font color="#E5E5E5"> which is</font>
+
+108
+00:03:47,510 --> 00:03:50,329
+then able to covertly spy on long story
+
+109
+00:03:50,329 --> 00:03:52,699
+<font color="#E5E5E5">short</font><font color="#CCCCCC"> your phone is capable</font><font color="#E5E5E5"> of listening</font>
+
+110
+00:03:52,699 --> 00:03:55,489
+to<font color="#CCCCCC"> you following</font><font color="#E5E5E5"> you and even watching</font>
+
+111
+00:03:55,489 --> 00:03:58,370
+you if online<font color="#E5E5E5"> security and privacy is</font>
+
+112
+00:03:58,370 --> 00:03:59,930
+important to you make<font color="#E5E5E5"> sure you check out</font>
+
+113
+00:03:59,930 --> 00:04:02,209
+today's sponsor<font color="#E5E5E5"> of our video</font><font color="#CCCCCC"> nor</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> BBN</font>
+
+114
+00:04:02,209 --> 00:04:04,790
+who is<font color="#E5E5E5"> offering you</font><font color="#CCCCCC"> 77% off</font><font color="#E5E5E5"> of a</font>
+
+115
+00:04:04,790 --> 00:04:06,470
+<font color="#CCCCCC">three-year plan if you use the</font><font color="#E5E5E5"> promo</font>
+
+116
+00:04:06,470 --> 00:04:09,019
+code<font color="#E5E5E5"> a sub science</font><font color="#CCCCCC"> or go to</font><font color="#E5E5E5"> Nord</font><font color="#CCCCCC"> VPN</font>
+
+117
+00:04:09,019 --> 00:04:12,290
+comm<font color="#E5E5E5"> slash ASAP</font><font color="#CCCCCC"> science</font><font color="#E5E5E5"> VPNs or virtual</font>
+
+118
+00:04:12,290 --> 00:04:13,599
+<font color="#E5E5E5">private</font><font color="#CCCCCC"> networks</font>
+
+119
+00:04:13,599 --> 00:04:15,730
+encrypt your Internet traffic<font color="#E5E5E5"> and mask</font>
+
+120
+00:04:15,730 --> 00:04:17,589
+your identity<font color="#CCCCCC"> online so people</font><font color="#E5E5E5"> can't</font><font color="#CCCCCC"> see</font>
+
+121
+00:04:17,589 --> 00:04:19,120
+where<font color="#E5E5E5"> you're searching or get access to</font>
+
+122
+00:04:19,120 --> 00:04:21,220
+<font color="#E5E5E5">your private information</font><font color="#CCCCCC"> Nord VPN is the</font>
+
+123
+00:04:21,220 --> 00:04:23,650
+world's most advanced VPN service using
+
+124
+00:04:23,650 --> 00:04:25,810
+military-grade encryption<font color="#CCCCCC"> they also</font>
+
+125
+00:04:25,810 --> 00:04:27,550
+offer a<font color="#E5E5E5"> super-fast experience with</font>
+
+126
+00:04:27,550 --> 00:04:30,009
+almost no<font color="#CCCCCC"> impact on speed while using</font><font color="#E5E5E5"> it</font>
+
+127
+00:04:30,009 --> 00:04:31,750
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> s features like an automatic</font><font color="#E5E5E5"> kill</font>
+
+128
+00:04:31,750 --> 00:04:33,669
+switch browser proxy extension ad
+
+129
+00:04:33,669 --> 00:04:35,949
+blocking<font color="#E5E5E5"> and many more</font><font color="#CCCCCC"> Nord VPN</font><font color="#E5E5E5"> even</font>
+
+130
+00:04:35,949 --> 00:04:38,110
+bypasses the Great Firewall of China and
+
+131
+00:04:38,110 --> 00:04:39,400
+<font color="#E5E5E5">works in the Middle East where not all</font>
+
+132
+00:04:39,400 --> 00:04:42,970
+VPNs work with<font color="#CCCCCC"> 4300 servers and</font><font color="#E5E5E5"> Counting</font>
+
+133
+00:04:42,970 --> 00:04:44,889
+in 62<font color="#E5E5E5"> countries</font><font color="#CCCCCC"> they're constantly</font>
+
+134
+00:04:44,889 --> 00:04:46,330
+growing expanding<font color="#E5E5E5"> which separates them</font>
+
+135
+00:04:46,330 --> 00:04:48,160
+from<font color="#E5E5E5"> other providers on top of all this</font>
+
+136
+00:04:48,160 --> 00:04:49,900
+you can use<font color="#E5E5E5"> it on six devices</font>
+
+137
+00:04:49,900 --> 00:04:52,060
+simultaneously like your phone your
+
+138
+00:04:52,060 --> 00:04:53,710
+<font color="#CCCCCC">computer your tablet so that</font><font color="#E5E5E5"> you're</font>
+
+139
+00:04:53,710 --> 00:04:55,570
+protecting your<font color="#CCCCCC"> information at</font><font color="#E5E5E5"> all times</font>
+
+140
+00:04:55,570 --> 00:04:57,160
+<font color="#CCCCCC">including if you're on public</font><font color="#E5E5E5"> Wi-Fi</font>
+
+141
+00:04:57,160 --> 00:04:59,050
+<font color="#CCCCCC">again you can use the promo code</font><font color="#E5E5E5"> ASAP</font>
+
+142
+00:04:59,050 --> 00:05:01,479
+<font color="#CCCCCC">science or head</font><font color="#E5E5E5"> to Nord VPN comm</font><font color="#CCCCCC"> slash</font>
+
+143
+00:05:01,479 --> 00:05:04,060
+ASAP science<font color="#E5E5E5"> to get 77 percent off of</font><font color="#CCCCCC"> a</font>
+
+144
+00:05:04,060 --> 00:05:05,410
+<font color="#E5E5E5">three-year plan and start protecting</font>
+
+145
+00:05:05,410 --> 00:05:07,539
+<font color="#E5E5E5">your privacy online</font><font color="#CCCCCC"> thanks so much for</font>
+
+146
+00:05:07,539 --> 00:05:08,860
+watching<font color="#CCCCCC"> and we'll see you next Thursday</font>
+
+147
+00:05:08,860 --> 00:00:00,000
+<font color="#CCCCCC">for a new science</font><font color="#E5E5E5"> video</font>
+

@@ -1,0 +1,464 @@
+1
+00:00:00,000 --> 00:00:01,500
+good morning Hank it's Tuesday so this
+
+2
+00:00:01,500 --> 00:00:03,810
+is<font color="#E5E5E5"> Tetris a video game developed by</font>
+
+3
+00:00:03,810 --> 00:00:05,730
+Alexey Pajitnov<font color="#CCCCCC"> that arrived in</font><font color="#E5E5E5"> the</font>
+
+4
+00:00:05,730 --> 00:00:08,670
+<font color="#E5E5E5">United States in 1989 for the Gameboy</font><font color="#CCCCCC"> in</font>
+
+5
+00:00:08,670 --> 00:00:10,860
+the Nintendo Entertainment<font color="#E5E5E5"> System</font><font color="#CCCCCC"> aka</font>
+
+6
+00:00:10,860 --> 00:00:13,380
+<font color="#E5E5E5">the Ness</font><font color="#CCCCCC"> tetris became a phenomenon in</font>
+
+7
+00:00:13,380 --> 00:00:16,020
+<font color="#CCCCCC">fact it is</font><font color="#E5E5E5"> still the best-selling video</font>
+
+8
+00:00:16,020 --> 00:00:19,199
+game of<font color="#E5E5E5"> all time and lately</font><font color="#CCCCCC"> I've been</font>
+
+9
+00:00:19,199 --> 00:00:21,240
+wondering<font color="#CCCCCC"> why are humans suddenly</font>
+
+10
+00:00:21,240 --> 00:00:23,820
+getting much better at Tetris<font color="#CCCCCC"> first a</font>
+
+11
+00:00:23,820 --> 00:00:25,170
+<font color="#CCCCCC">little</font><font color="#E5E5E5"> background there</font><font color="#CCCCCC"> are</font><font color="#E5E5E5"> two like</font>
+
+12
+00:00:25,170 --> 00:00:27,660
+great white whales of<font color="#CCCCCC"> nest Tetris the</font>
+
+13
+00:00:27,660 --> 00:00:30,859
+first is a<font color="#CCCCCC"> maxout</font><font color="#E5E5E5"> score if you get</font>
+
+14
+00:00:30,859 --> 00:00:33,480
+999,999 points the game stops<font color="#E5E5E5"> being able</font>
+
+15
+00:00:33,480 --> 00:00:35,760
+to<font color="#E5E5E5"> count</font><font color="#CCCCCC"> your score the</font><font color="#E5E5E5"> second is level</font>
+
+16
+00:00:35,760 --> 00:00:37,770
+30 so in<font color="#CCCCCC"> Ness</font><font color="#E5E5E5"> Tetris the blocks fall</font>
+
+17
+00:00:37,770 --> 00:00:39,750
+faster as<font color="#CCCCCC"> you level</font><font color="#E5E5E5"> up and once you get</font>
+
+18
+00:00:39,750 --> 00:00:42,239
+<font color="#CCCCCC">to level 29 they drop so fast that</font><font color="#E5E5E5"> it's</font>
+
+19
+00:00:42,239 --> 00:00:43,950
+almost<font color="#E5E5E5"> impossible to move them left or</font>
+
+20
+00:00:43,950 --> 00:00:45,989
+right making<font color="#E5E5E5"> level 30 seemingly</font>
+
+21
+00:00:45,989 --> 00:00:47,969
+impossible<font color="#CCCCCC"> back then there was only one</font>
+
+22
+00:00:47,969 --> 00:00:49,590
+player Thor<font color="#CCCCCC"> Okerlund who claimed to have</font>
+
+23
+00:00:49,590 --> 00:00:51,449
+achieved<font color="#E5E5E5"> a</font><font color="#CCCCCC"> maxout score in level 30 and</font>
+
+24
+00:00:51,449 --> 00:00:53,010
+<font color="#E5E5E5">lots of people thought he was lying</font>
+
+25
+00:00:53,010 --> 00:00:55,140
+which as it turns out he wasn't<font color="#CCCCCC"> we now</font>
+
+26
+00:00:55,140 --> 00:00:57,420
+know<font color="#CCCCCC"> that Thor was just like much better</font>
+
+27
+00:00:57,420 --> 00:01:00,059
+at Tetris than all other humans anyway
+
+28
+00:01:00,059 --> 00:01:01,379
+the weird thing about<font color="#CCCCCC"> nest Tetris in</font>
+
+29
+00:01:01,379 --> 00:01:03,480
+2008 is that far fewer people<font color="#CCCCCC"> were</font>
+
+30
+00:01:03,480 --> 00:01:05,610
+playing it than played back<font color="#CCCCCC"> in 1990 and</font>
+
+31
+00:01:05,610 --> 00:01:07,260
+<font color="#CCCCCC">you would think a larger player base</font>
+
+32
+00:01:07,260 --> 00:01:09,180
+would mean higher top<font color="#E5E5E5"> scores</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> in</font>
+
+33
+00:01:09,180 --> 00:01:11,280
+1990 hundreds of millions of<font color="#E5E5E5"> people were</font>
+
+34
+00:01:11,280 --> 00:01:12,600
+trying<font color="#E5E5E5"> to solve the problem of getting</font>
+
+35
+00:01:12,600 --> 00:01:15,479
+<font color="#E5E5E5">to level 30 by 2008 very few people</font><font color="#CCCCCC"> even</font>
+
+36
+00:01:15,479 --> 00:01:17,100
+still had a<font color="#CCCCCC"> Nintendo Entertainment</font>
+
+37
+00:01:17,100 --> 00:01:19,590
+System let alone<font color="#E5E5E5"> regularly played Tetris</font>
+
+38
+00:01:19,590 --> 00:01:21,750
+on one<font color="#E5E5E5"> but a few people never stopped</font>
+
+39
+00:01:21,750 --> 00:01:23,759
+playing<font color="#CCCCCC"> nest Tetris</font><font color="#E5E5E5"> and as tends to</font>
+
+40
+00:01:23,759 --> 00:01:25,229
+happen when<font color="#E5E5E5"> you do</font><font color="#CCCCCC"> something for 20</font>
+
+41
+00:01:25,229 --> 00:01:26,850
+years<font color="#E5E5E5"> they got pretty good at</font><font color="#CCCCCC"> it</font>
+
+42
+00:01:26,850 --> 00:01:29,009
+also by 2008 the<font color="#E5E5E5"> world's Tetris players</font>
+
+43
+00:01:29,009 --> 00:01:30,750
+were much better connected<font color="#CCCCCC"> to each other</font>
+
+44
+00:01:30,750 --> 00:01:33,240
+<font color="#E5E5E5">than they had been back in 1990 partly</font>
+
+45
+00:01:33,240 --> 00:01:35,100
+because the<font color="#CCCCCC"> internet has connected all</font>
+
+46
+00:01:35,100 --> 00:01:36,750
+<font color="#CCCCCC">of us and partly</font><font color="#E5E5E5"> because smaller</font>
+
+47
+00:01:36,750 --> 00:01:38,909
+communities can be more<font color="#CCCCCC"> tightly knit</font>
+
+48
+00:01:38,909 --> 00:01:40,380
+like when a hundred<font color="#CCCCCC"> million</font><font color="#E5E5E5"> people</font><font color="#CCCCCC"> are</font>
+
+49
+00:01:40,380 --> 00:01:42,390
+talking it's hard to hear anything<font color="#E5E5E5"> but</font>
+
+50
+00:01:42,390 --> 00:01:44,579
+<font color="#E5E5E5">noise so Tetris players started to learn</font>
+
+51
+00:01:44,579 --> 00:01:45,930
+<font color="#E5E5E5">more from each other</font><font color="#CCCCCC"> together they</font>
+
+52
+00:01:45,930 --> 00:01:47,399
+figured out<font color="#CCCCCC"> that you should always build</font>
+
+53
+00:01:47,399 --> 00:01:49,079
+your well of empty space on<font color="#CCCCCC"> the</font><font color="#E5E5E5"> right</font>
+
+54
+00:01:49,079 --> 00:01:50,490
+side of the<font color="#E5E5E5"> screen except as you</font>
+
+55
+00:01:50,490 --> 00:01:52,380
+<font color="#E5E5E5">approach level 29 when you should build</font>
+
+56
+00:01:52,380 --> 00:01:53,850
+<font color="#E5E5E5">it in the middle also some of them</font>
+
+57
+00:01:53,850 --> 00:01:55,350
+developed a new<font color="#CCCCCC"> strategy for moving</font>
+
+58
+00:01:55,350 --> 00:01:57,509
+pieces<font color="#E5E5E5"> called hyper tapping and then in</font>
+
+59
+00:01:57,509 --> 00:01:59,729
+2010<font color="#E5E5E5"> a tournament started the classic</font>
+
+60
+00:01:59,729 --> 00:02:01,680
+Tetris World<font color="#E5E5E5"> Championships which brought</font>
+
+61
+00:02:01,680 --> 00:02:03,540
+the best players together<font color="#E5E5E5"> in real life</font>
+
+62
+00:02:03,540 --> 00:02:05,310
+and motivated them to<font color="#E5E5E5"> improve by a</font>
+
+63
+00:02:05,310 --> 00:02:07,140
+competition<font color="#E5E5E5"> the quality of play at the</font>
+
+64
+00:02:07,140 --> 00:02:08,699
+tournament has improved every year<font color="#CCCCCC"> like</font>
+
+65
+00:02:08,699 --> 00:02:10,378
+this year<font color="#CCCCCC"> several people achieved max</font>
+
+66
+00:02:10,378 --> 00:02:12,270
+out scores in qualifying<font color="#E5E5E5"> and eventual</font>
+
+67
+00:02:12,270 --> 00:02:13,210
+champion<font color="#E5E5E5"> Joseph</font>
+
+68
+00:02:13,210 --> 00:02:14,980
+became the first<font color="#CCCCCC"> person ever to reach</font>
+
+69
+00:02:14,980 --> 00:02:17,110
+level<font color="#E5E5E5"> 30 in front of a live audience</font>
+
+70
+00:02:17,110 --> 00:02:18,760
+<font color="#CCCCCC">and then there's live streaming tuchis</font>
+
+71
+00:02:18,760 --> 00:02:20,290
+players<font color="#CCCCCC"> around the world now share their</font>
+
+72
+00:02:20,290 --> 00:02:22,180
+games on twitch and<font color="#E5E5E5"> YouTube which allows</font>
+
+73
+00:02:22,180 --> 00:02:24,280
+other Tetris players to learn from them
+
+74
+00:02:24,280 --> 00:02:26,140
+even people who've been<font color="#E5E5E5"> top level Tetris</font>
+
+75
+00:02:26,140 --> 00:02:28,030
+players for decades are changing their
+
+76
+00:02:28,030 --> 00:02:29,830
+play style to<font color="#CCCCCC"> reflect new discoveries</font>
+
+77
+00:02:29,830 --> 00:02:32,170
+<font color="#CCCCCC">and strategy and as a result dozens of</font>
+
+78
+00:02:32,170 --> 00:02:34,180
+<font color="#CCCCCC">people have now maxed out and</font><font color="#E5E5E5"> Joseph</font>
+
+79
+00:02:34,180 --> 00:02:36,340
+recently<font color="#CCCCCC"> made it to</font><font color="#E5E5E5"> level 31 a land</font>
+
+80
+00:02:36,340 --> 00:02:38,710
+previously<font color="#E5E5E5"> only visited by the legendary</font>
+
+81
+00:02:38,710 --> 00:02:40,360
+Thor<font color="#CCCCCC"> now I want to</font><font color="#E5E5E5"> be clear</font><font color="#CCCCCC"> that getting</font>
+
+82
+00:02:40,360 --> 00:02:42,010
+<font color="#CCCCCC">a maxout</font><font color="#E5E5E5"> in Tetris is still like</font>
+
+83
+00:02:42,010 --> 00:02:44,770
+ridiculously<font color="#E5E5E5"> hard but it's possible</font><font color="#CCCCCC"> so</font>
+
+84
+00:02:44,770 --> 00:02:46,480
+why is humanity suddenly getting<font color="#E5E5E5"> better</font>
+
+85
+00:02:46,480 --> 00:02:48,940
+at Tetris<font color="#E5E5E5"> because a group of enthusiasts</font>
+
+86
+00:02:48,940 --> 00:02:51,700
+built spaces both online and off that
+
+87
+00:02:51,700 --> 00:02:53,560
+<font color="#E5E5E5">allowed people to connect with</font><font color="#CCCCCC"> each</font>
+
+88
+00:02:53,560 --> 00:02:55,420
+<font color="#E5E5E5">other over what is usually a very</font>
+
+89
+00:02:55,420 --> 00:02:57,730
+solitary hobby<font color="#E5E5E5"> and because small groups</font>
+
+90
+00:02:57,730 --> 00:02:59,830
+<font color="#E5E5E5">of deeply passionate</font><font color="#CCCCCC"> people can often be</font>
+
+91
+00:02:59,830 --> 00:03:01,990
+<font color="#CCCCCC">more productive</font><font color="#E5E5E5"> than</font><font color="#CCCCCC"> large groups of</font>
+
+92
+00:03:01,990 --> 00:03:03,970
+casually<font color="#CCCCCC"> interested people I've</font><font color="#E5E5E5"> been</font>
+
+93
+00:03:03,970 --> 00:03:05,350
+thinking a lot<font color="#CCCCCC"> about</font><font color="#E5E5E5"> that which is one</font>
+
+94
+00:03:05,350 --> 00:03:06,850
+<font color="#E5E5E5">of the reasons rosianna and I ended up</font>
+
+95
+00:03:06,850 --> 00:03:08,650
+starting the life's library book club
+
+96
+00:03:08,650 --> 00:03:09,820
+which thanks to<font color="#E5E5E5"> your overwhelming</font>
+
+97
+00:03:09,820 --> 00:03:12,130
+<font color="#CCCCCC">response is now open for enrollment</font><font color="#E5E5E5"> link</font>
+
+98
+00:03:12,130 --> 00:03:13,450
+in the doobly-doo below<font color="#CCCCCC"> but more</font>
+
+99
+00:03:13,450 --> 00:03:14,860
+generally I know it's<font color="#CCCCCC"> fashionable these</font>
+
+100
+00:03:14,860 --> 00:03:16,240
+<font color="#E5E5E5">days to say that the Internet is</font><font color="#CCCCCC"> a</font>
+
+101
+00:03:16,240 --> 00:03:18,700
+<font color="#E5E5E5">festering cesspool of toxicity and you</font>
+
+102
+00:03:18,700 --> 00:03:20,800
+know it is but the<font color="#E5E5E5"> Internet is</font><font color="#CCCCCC"> also many</font>
+
+103
+00:03:20,800 --> 00:03:22,510
+other<font color="#E5E5E5"> things including</font><font color="#CCCCCC"> one of</font><font color="#E5E5E5"> the</font>
+
+104
+00:03:22,510 --> 00:03:24,670
+primary<font color="#E5E5E5"> drivers</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> humanity's improved</font>
+
+105
+00:03:24,670 --> 00:03:27,040
+performance at a 29 year<font color="#E5E5E5"> old video game</font>
+
+106
+00:03:27,040 --> 00:03:29,020
+<font color="#CCCCCC">really there</font><font color="#E5E5E5"> is no the internet</font>
+
+107
+00:03:29,020 --> 00:03:30,760
+especially<font color="#E5E5E5"> in the era of personalized</font>
+
+108
+00:03:30,760 --> 00:03:32,980
+feeds there is only for each of us<font color="#E5E5E5"> our</font>
+
+109
+00:03:32,980 --> 00:03:34,810
+<font color="#CCCCCC">internet I don't labor under</font><font color="#E5E5E5"> the</font>
+
+110
+00:03:34,810 --> 00:03:36,460
+<font color="#CCCCCC">delusion that</font><font color="#E5E5E5"> I can make the internet</font>
+
+111
+00:03:36,460 --> 00:03:38,920
+<font color="#CCCCCC">better but I do want to make my internet</font>
+
+112
+00:03:38,920 --> 00:03:41,410
+better and on that front<font color="#E5E5E5"> I think Tetris</font>
+
+113
+00:03:41,410 --> 00:03:43,990
+<font color="#CCCCCC">has a lot to teach me Hank I'll see you</font>
+
+114
+00:03:43,990 --> 00:03:45,739
+on<font color="#E5E5E5"> Friday</font>
+
+115
+00:03:45,739 --> 00:03:49,069
+PS next week<font color="#CCCCCC"> pizza this</font><font color="#E5E5E5"> is coming you</font>
+
+116
+00:03:49,069 --> 00:00:00,000
+know what that means
+

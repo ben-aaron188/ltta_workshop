@@ -1,0 +1,536 @@
+1
+00:00:00,000 --> 00:00:01,920
+good morning John it's Friday May 21st
+
+2
+00:00:01,920 --> 00:00:03,300
+<font color="#CCCCCC">I've been a lot of</font><font color="#E5E5E5"> things in my life</font>
+
+3
+00:00:03,300 --> 00:00:05,220
+<font color="#E5E5E5">I've</font><font color="#CCCCCC"> been a biochemist</font><font color="#E5E5E5"> I've been an</font>
+
+4
+00:00:05,220 --> 00:00:06,779
+environmental blogger<font color="#E5E5E5"> I've been a social</font>
+
+5
+00:00:06,779 --> 00:00:08,250
+<font color="#E5E5E5">media consultant I've been a</font>
+
+6
+00:00:08,250 --> 00:00:09,750
+videographer I've been a Walmart
+
+7
+00:00:09,750 --> 00:00:11,550
+associate<font color="#E5E5E5"> but for a long time there I</font>
+
+8
+00:00:11,550 --> 00:00:13,380
+was a professional<font color="#CCCCCC"> web developer I so</font>
+
+9
+00:00:13,380 --> 00:00:14,759
+<font color="#CCCCCC">can people</font><font color="#E5E5E5"> ask me all the</font><font color="#CCCCCC"> time Hank can</font>
+
+10
+00:00:14,759 --> 00:00:17,490
+you<font color="#E5E5E5"> help me set up a</font><font color="#CCCCCC"> website and so</font><font color="#E5E5E5"> to</font>
+
+11
+00:00:17,490 --> 00:00:19,199
+all<font color="#CCCCCC"> of those</font><font color="#E5E5E5"> people who want me to help</font>
+
+12
+00:00:19,199 --> 00:00:20,820
+<font color="#E5E5E5">them with their website here's a</font><font color="#CCCCCC"> video</font>
+
+13
+00:00:20,820 --> 00:00:22,170
+<font color="#E5E5E5">I'm going to show you how to set up a</font>
+
+14
+00:00:22,170 --> 00:00:24,090
+website<font color="#E5E5E5"> and three minutes and 30 seconds</font>
+
+15
+00:00:24,090 --> 00:00:25,800
+<font color="#E5E5E5">all you got to do is do what I do and</font>
+
+16
+00:00:25,800 --> 00:00:27,090
+<font color="#CCCCCC">you have a website</font><font color="#E5E5E5"> by the end of the day</font>
+
+17
+00:00:27,090 --> 00:00:29,039
+all you<font color="#E5E5E5"> need is three</font><font color="#CCCCCC"> minutes to do the</font>
+
+18
+00:00:29,039 --> 00:00:31,500
+work and about<font color="#CCCCCC"> $80</font><font color="#E5E5E5"> making a</font><font color="#CCCCCC"> website</font><font color="#E5E5E5"> has</font>
+
+19
+00:00:31,500 --> 00:00:32,430
+always been the<font color="#E5E5E5"> first step in a</font>
+
+20
+00:00:32,430 --> 00:00:34,050
+realization<font color="#E5E5E5"> of an idea for me once I get</font>
+
+21
+00:00:34,050 --> 00:00:35,640
+<font color="#CCCCCC">it</font><font color="#E5E5E5"> out</font><font color="#CCCCCC"> onto</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> internet</font><font color="#E5E5E5"> I feel like it</font>
+
+22
+00:00:35,640 --> 00:00:36,870
+has a life<font color="#E5E5E5"> of its own</font>
+
+23
+00:00:36,870 --> 00:00:38,160
+so I feel<font color="#CCCCCC"> like</font><font color="#E5E5E5"> it's just an important</font>
+
+24
+00:00:38,160 --> 00:00:39,390
+<font color="#E5E5E5">thing to be able to get a website up</font>
+
+25
+00:00:39,390 --> 00:00:41,219
+<font color="#E5E5E5">online really fast so let's do that</font>
+
+26
+00:00:41,219 --> 00:00:41,579
+right<font color="#CCCCCC"> now</font>
+
+27
+00:00:41,579 --> 00:00:42,809
+<font color="#E5E5E5">almost always the</font><font color="#CCCCCC"> first</font><font color="#E5E5E5"> thing I do is go</font>
+
+28
+00:00:42,809 --> 00:00:44,340
+to Busta name com so I can<font color="#E5E5E5"> figure out</font>
+
+29
+00:00:44,340 --> 00:00:46,530
+what<font color="#E5E5E5"> domain names are available</font><font color="#CCCCCC"> because</font>
+
+30
+00:00:46,530 --> 00:00:47,910
+there's lots<font color="#CCCCCC"> that aren't this</font><font color="#E5E5E5"> is my</font>
+
+31
+00:00:47,910 --> 00:00:50,280
+<font color="#CCCCCC">domain name brainstorming place you</font><font color="#E5E5E5"> just</font>
+
+32
+00:00:50,280 --> 00:00:51,300
+type in your domain<font color="#E5E5E5"> name and I will tell</font>
+
+33
+00:00:51,300 --> 00:00:52,469
+<font color="#E5E5E5">you if it's available and once you have</font>
+
+34
+00:00:52,469 --> 00:00:54,030
+<font color="#E5E5E5">your domain name you head over</font><font color="#CCCCCC"> to a and</font>
+
+35
+00:00:54,030 --> 00:00:55,050
+hosting com
+
+36
+00:00:55,050 --> 00:00:56,219
+now you could register<font color="#E5E5E5"> this domain name</font>
+
+37
+00:00:56,219 --> 00:00:58,020
+<font color="#E5E5E5">with godaddy but an hosting actually</font>
+
+38
+00:00:58,020 --> 00:00:59,910
+gives you a free domain<font color="#E5E5E5"> name along with</font>
+
+39
+00:00:59,910 --> 00:01:01,379
+<font color="#CCCCCC">your hosting</font><font color="#E5E5E5"> I've always been very</font>
+
+40
+00:01:01,379 --> 00:01:03,000
+impressed by a and hosting in<font color="#E5E5E5"> their</font>
+
+41
+00:01:03,000 --> 00:01:04,379
+parent company<font color="#E5E5E5"> this has been my go-to</font>
+
+42
+00:01:04,379 --> 00:01:06,510
+place for<font color="#CCCCCC"> startup hosting for like five</font>
+
+43
+00:01:06,510 --> 00:01:08,490
+years<font color="#E5E5E5"> or so I never have to</font><font color="#CCCCCC"> wait</font><font color="#E5E5E5"> for</font>
+
+44
+00:01:08,490 --> 00:01:09,750
+customer service<font color="#CCCCCC"> and there's very little</font>
+
+45
+00:01:09,750 --> 00:01:11,880
+<font color="#CCCCCC">downtime</font><font color="#E5E5E5"> and they are cheap so I'm</font>
+
+46
+00:01:11,880 --> 00:01:12,869
+leaving pretty much everything<font color="#E5E5E5"> on the</font>
+
+47
+00:01:12,869 --> 00:01:14,880
+default option here except I'm changing
+
+48
+00:01:14,880 --> 00:01:16,680
+to<font color="#CCCCCC"> twelve months because I don't know</font>
+
+49
+00:01:16,680 --> 00:01:18,150
+whether<font color="#E5E5E5"> or</font><font color="#CCCCCC"> not this ID is</font><font color="#E5E5E5"> going to be</font>
+
+50
+00:01:18,150 --> 00:01:20,280
+worth<font color="#E5E5E5"> anything in</font><font color="#CCCCCC"> twelve</font><font color="#E5E5E5"> months from now</font>
+
+51
+00:01:20,280 --> 00:01:22,200
+so I generally<font color="#E5E5E5"> don't like to pay for</font><font color="#CCCCCC"> two</font>
+
+52
+00:01:22,200 --> 00:01:23,640
+years in<font color="#CCCCCC"> advance</font><font color="#E5E5E5"> though it will save you</font>
+
+53
+00:01:23,640 --> 00:01:26,610
+<font color="#CCCCCC">forty</font><font color="#E5E5E5"> bucks if you do do that</font><font color="#CCCCCC"> doo</font><font color="#E5E5E5"> doo</font>
+
+54
+00:01:26,610 --> 00:01:27,869
+now<font color="#CCCCCC"> comes the</font><font color="#E5E5E5"> time when</font><font color="#CCCCCC"> I type in well</font>
+
+55
+00:01:27,869 --> 00:01:29,220
+my<font color="#E5E5E5"> personal information</font><font color="#CCCCCC"> and credit</font><font color="#E5E5E5"> card</font>
+
+56
+00:01:29,220 --> 00:01:30,299
+<font color="#E5E5E5">information so if you want to steal my</font>
+
+57
+00:01:30,299 --> 00:01:31,140
+<font color="#CCCCCC">identity</font>
+
+58
+00:01:31,140 --> 00:01:32,460
+too bad I'm<font color="#CCCCCC"> gonna cut this</font><font color="#E5E5E5"> out now</font>
+
+59
+00:01:32,460 --> 00:01:33,390
+here's<font color="#E5E5E5"> one of the parts where you have</font>
+
+60
+00:01:33,390 --> 00:01:35,070
+to wait and<font color="#CCCCCC"> Hosting</font><font color="#E5E5E5"> is now setting up</font>
+
+61
+00:01:35,070 --> 00:01:36,810
+the hosting<font color="#CCCCCC"> account and linking it with</font>
+
+62
+00:01:36,810 --> 00:01:38,159
+the<font color="#E5E5E5"> domain name that actually takes a</font>
+
+63
+00:01:38,159 --> 00:01:39,240
+<font color="#E5E5E5">little bit of time they say it can take</font>
+
+64
+00:01:39,240 --> 00:01:40,890
+<font color="#CCCCCC">as</font><font color="#E5E5E5"> long as 24 hours but I've never had</font>
+
+65
+00:01:40,890 --> 00:01:42,270
+<font color="#CCCCCC">it take longer than two hours during</font>
+
+66
+00:01:42,270 --> 00:01:43,350
+<font color="#CCCCCC">this down time I'm going to</font><font color="#E5E5E5"> tell you</font>
+
+67
+00:01:43,350 --> 00:01:44,820
+<font color="#E5E5E5">that a and hosting in addition to being</font>
+
+68
+00:01:44,820 --> 00:01:46,320
+a great<font color="#E5E5E5"> service that</font><font color="#CCCCCC"> I have used for</font>
+
+69
+00:01:46,320 --> 00:01:48,450
+<font color="#E5E5E5">years</font><font color="#CCCCCC"> also has an affiliate referral</font>
+
+70
+00:01:48,450 --> 00:01:49,920
+system<font color="#CCCCCC"> so if you sign up through the</font>
+
+71
+00:01:49,920 --> 00:01:51,060
+<font color="#CCCCCC">link in</font><font color="#E5E5E5"> the description I will get a</font>
+
+72
+00:01:51,060 --> 00:01:52,890
+<font color="#E5E5E5">referral fee if you don't want me to get</font>
+
+73
+00:01:52,890 --> 00:01:54,509
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> referral fee then don't click on the</font>
+
+74
+00:01:54,509 --> 00:01:56,100
+link in the description though<font color="#CCCCCC"> honestly</font>
+
+75
+00:01:56,100 --> 00:01:57,329
+that doesn't<font color="#E5E5E5"> seem very nice</font>
+
+76
+00:01:57,329 --> 00:01:58,860
+<font color="#E5E5E5">okay now sometimes</font><font color="#CCCCCC"> it's best</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> have</font>
+
+77
+00:01:58,860 --> 00:02:00,689
+received my welcome email<font color="#E5E5E5"> from a and</font>
+
+78
+00:02:00,689 --> 00:02:02,189
+hosting<font color="#E5E5E5"> we will be doing all of the</font>
+
+79
+00:02:02,189 --> 00:02:04,110
+<font color="#E5E5E5">setup through cPanel so I have to do is</font>
+
+80
+00:02:04,110 --> 00:02:05,909
+click<font color="#E5E5E5"> on the cPanel link copy over my</font>
+
+81
+00:02:05,909 --> 00:02:07,799
+username<font color="#CCCCCC"> and password and I'm inside</font>
+
+82
+00:02:07,799 --> 00:02:09,949
+cPanel now to set up a
+
+83
+00:02:09,949 --> 00:02:11,930
+a great really powerful really<font color="#E5E5E5"> simple</font>
+
+84
+00:02:11,930 --> 00:02:13,580
+website everyone<font color="#E5E5E5"> these</font><font color="#CCCCCC"> days is using</font>
+
+85
+00:02:13,580 --> 00:02:15,290
+<font color="#E5E5E5">WordPress</font><font color="#CCCCCC"> because WordPress kicks ass</font>
+
+86
+00:02:15,290 --> 00:02:16,970
+<font color="#E5E5E5">and Ana hosting has a one-click</font>
+
+87
+00:02:16,970 --> 00:02:18,920
+wordpress installer called Softaculous
+
+88
+00:02:18,920 --> 00:02:21,110
+<font color="#CCCCCC">it's at the bottom you</font><font color="#E5E5E5"> click on it you</font>
+
+89
+00:02:21,110 --> 00:02:22,819
+<font color="#E5E5E5">click on WordPress</font><font color="#CCCCCC"> fill in</font><font color="#E5E5E5"> the things</font>
+
+90
+00:02:22,819 --> 00:02:24,290
+that<font color="#E5E5E5"> you see me filling</font><font color="#CCCCCC"> and now with the</font>
+
+91
+00:02:24,290 --> 00:02:26,150
+information<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you want to put in</font>
+
+92
+00:02:26,150 --> 00:02:27,410
+<font color="#E5E5E5">those places</font><font color="#CCCCCC"> the only</font><font color="#E5E5E5"> thing I want</font>
+
+93
+00:02:27,410 --> 00:02:28,459
+mention here is to make sure<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you're</font>
+
+94
+00:02:28,459 --> 00:02:30,019
+in directory which<font color="#CCCCCC"> is</font><font color="#E5E5E5"> the third thing</font>
+
+95
+00:02:30,019 --> 00:02:32,480
+down is blank<font color="#E5E5E5"> and not WP which is the</font>
+
+96
+00:02:32,480 --> 00:02:34,280
+<font color="#CCCCCC">default click install and</font><font color="#E5E5E5"> literally</font>
+
+97
+00:02:34,280 --> 00:02:36,739
+moments<font color="#E5E5E5"> later it is installed it is done</font>
+
+98
+00:02:36,739 --> 00:02:38,420
+you<font color="#CCCCCC"> can</font><font color="#E5E5E5"> go to WP admin which is your</font>
+
+99
+00:02:38,420 --> 00:02:39,709
+admin screen and you can<font color="#CCCCCC"> login with</font><font color="#E5E5E5"> the</font>
+
+100
+00:02:39,709 --> 00:02:40,580
+username<font color="#CCCCCC"> and</font><font color="#E5E5E5"> password</font><font color="#CCCCCC"> that you just</font>
+
+101
+00:02:40,580 --> 00:02:41,900
+<font color="#E5E5E5">created</font><font color="#CCCCCC"> now what you've got here as a</font>
+
+102
+00:02:41,900 --> 00:02:43,790
+working WordPress site but the default
+
+103
+00:02:43,790 --> 00:02:45,709
+theme<font color="#E5E5E5"> isn't very interesting so I'm</font>
+
+104
+00:02:45,709 --> 00:02:47,090
+gonna search for<font color="#E5E5E5"> WordPress themes in</font>
+
+105
+00:02:47,090 --> 00:02:48,410
+<font color="#E5E5E5">Google and I've come up</font><font color="#CCCCCC"> with a</font><font color="#E5E5E5"> wordpress</font>
+
+106
+00:02:48,410 --> 00:02:49,579
+theme database thing and you can scroll
+
+107
+00:02:49,579 --> 00:02:50,930
+through<font color="#E5E5E5"> these and look</font><font color="#CCCCCC"> forever and try</font>
+
+108
+00:02:50,930 --> 00:02:51,860
+and find your<font color="#E5E5E5"> best thing but I'm just</font>
+
+109
+00:02:51,860 --> 00:02:52,940
+<font color="#E5E5E5">going to choose the most popular one</font>
+
+110
+00:02:52,940 --> 00:02:54,230
+because<font color="#CCCCCC"> the most</font><font color="#E5E5E5"> popular one must be</font>
+
+111
+00:02:54,230 --> 00:02:55,670
+<font color="#E5E5E5">good right so I have now</font><font color="#CCCCCC"> downloaded that</font>
+
+112
+00:02:55,670 --> 00:02:56,989
+<font color="#E5E5E5">file</font><font color="#CCCCCC"> now I'm going to go back</font><font color="#E5E5E5"> to my</font>
+
+113
+00:02:56,989 --> 00:02:59,180
+<font color="#E5E5E5">cPanel click on file manager</font><font color="#CCCCCC"> make sure</font>
+
+114
+00:02:59,180 --> 00:03:02,209
+<font color="#E5E5E5">that I'm in my public HTML</font><font color="#CCCCCC"> slash WWWE</font>
+
+115
+00:03:02,209 --> 00:03:04,760
+<font color="#E5E5E5">click on WP content</font><font color="#CCCCCC"> and then themes</font><font color="#E5E5E5"> and</font>
+
+116
+00:03:04,760 --> 00:03:06,739
+then upload<font color="#CCCCCC"> that file that I just</font>
+
+117
+00:03:06,739 --> 00:03:08,810
+<font color="#CCCCCC">downloaded into</font><font color="#E5E5E5"> the themes directory</font><font color="#CCCCCC"> now</font>
+
+118
+00:03:08,810 --> 00:03:10,610
+I click<font color="#E5E5E5"> on the check box and expand that</font>
+
+119
+00:03:10,610 --> 00:03:12,380
+<font color="#CCCCCC">zip file</font><font color="#E5E5E5"> and the zip file is expanded</font>
+
+120
+00:03:12,380 --> 00:03:13,700
+into<font color="#E5E5E5"> the themes directory and the theme</font>
+
+121
+00:03:13,700 --> 00:03:15,709
+is ready to be<font color="#E5E5E5"> installed</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> you have to</font>
+
+122
+00:03:15,709 --> 00:03:18,019
+do is go<font color="#E5E5E5"> to your WP admin click on</font>
+
+123
+00:03:18,019 --> 00:03:19,760
+appearance<font color="#CCCCCC"> and</font><font color="#E5E5E5"> select your brand new</font>
+
+124
+00:03:19,760 --> 00:03:22,100
+theme<font color="#E5E5E5"> and it is all installed for you</font>
+
+125
+00:03:22,100 --> 00:03:24,350
+<font color="#E5E5E5">sweet and you've</font><font color="#CCCCCC"> done it less than 4</font>
+
+126
+00:03:24,350 --> 00:03:25,370
+<font color="#CCCCCC">minutes of working we got a beautiful</font>
+
+127
+00:03:25,370 --> 00:03:27,230
+<font color="#CCCCCC">working</font><font color="#E5E5E5"> WordPress site at four</font><font color="#CCCCCC"> minutes</font>
+
+128
+00:03:27,230 --> 00:03:29,060
+<font color="#CCCCCC">site.com I really enjoyed</font><font color="#E5E5E5"> doing a how-to</font>
+
+129
+00:03:29,060 --> 00:03:30,650
+video maybe<font color="#E5E5E5"> we should do next week as</font>
+
+130
+00:03:30,650 --> 00:03:32,450
+<font color="#CCCCCC">how-to week if there's</font><font color="#E5E5E5"> something that</font>
+
+131
+00:03:32,450 --> 00:03:34,069
+you want<font color="#CCCCCC"> to learn how to do</font><font color="#E5E5E5"> that you</font>
+
+132
+00:03:34,069 --> 00:03:36,859
+think<font color="#E5E5E5"> John or I know how to do do-do-do</font>
+
+133
+00:03:36,859 --> 00:03:38,630
+how to do it<font color="#CCCCCC"> these suggestions</font><font color="#E5E5E5"> in the</font>
+
+134
+00:03:38,630 --> 00:00:00,000
+comments<font color="#E5E5E5"> John I will see</font><font color="#CCCCCC"> you on</font><font color="#E5E5E5"> Monday</font>
+

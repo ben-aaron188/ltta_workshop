@@ -1,0 +1,420 @@
+1
+00:00:00,000 --> 00:00:02,040
+good morning John<font color="#E5E5E5"> this is an</font><font color="#CCCCCC"> IceCube</font>
+
+2
+00:00:02,040 --> 00:00:04,290
+<font color="#E5E5E5">you've heard of</font><font color="#CCCCCC"> that it's a little weird</font>
+
+3
+00:00:04,290 --> 00:00:06,629
+that<font color="#E5E5E5"> we got a little weird</font><font color="#CCCCCC"> that we call</font>
+
+4
+00:00:06,629 --> 00:00:08,010
+them cubes<font color="#CCCCCC"> even when they're not even</font>
+
+5
+00:00:08,010 --> 00:00:09,570
+close<font color="#CCCCCC"> to being</font><font color="#E5E5E5"> cube shaped put an ice</font>
+
+6
+00:00:09,570 --> 00:00:11,490
+cube<font color="#CCCCCC"> reads</font><font color="#E5E5E5"> the temperature above 32</font>
+
+7
+00:00:11,490 --> 00:00:14,130
+<font color="#CCCCCC">degrees Fahrenheit it becomes liquid</font>
+
+8
+00:00:14,130 --> 00:00:14,610
+<font color="#CCCCCC">water</font>
+
+9
+00:00:14,610 --> 00:00:16,350
+<font color="#E5E5E5">John it's around 70 degrees</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> this room</font>
+
+10
+00:00:16,350 --> 00:00:19,470
+right now<font color="#CCCCCC"> and the ice</font><font color="#E5E5E5"> cube is still ice</font>
+
+11
+00:00:19,470 --> 00:00:21,750
+so what's going on<font color="#E5E5E5"> well put the ice cube</font>
+
+12
+00:00:21,750 --> 00:00:23,070
+down for a little<font color="#CCCCCC"> bit we'll cut back to</font>
+
+13
+00:00:23,070 --> 00:00:24,630
+it now I would<font color="#CCCCCC"> like</font><font color="#E5E5E5"> to introduce you</font><font color="#CCCCCC"> to</font>
+
+14
+00:00:24,630 --> 00:00:27,300
+<font color="#CCCCCC">the scariest graph I have ever seen it</font>
+
+15
+00:00:27,300 --> 00:00:29,189
+was<font color="#CCCCCC"> published</font><font color="#E5E5E5"> in a paper in 2016</font>
+
+16
+00:00:29,189 --> 00:00:30,480
+actually by a friend of<font color="#E5E5E5"> mine</font><font color="#CCCCCC"> it's a</font>
+
+17
+00:00:30,480 --> 00:00:32,159
+graph<font color="#E5E5E5"> of sea level rise</font><font color="#CCCCCC"> but it is not</font>
+
+18
+00:00:32,159 --> 00:00:33,780
+the graph of sea level rise that<font color="#CCCCCC"> we</font>
+
+19
+00:00:33,780 --> 00:00:36,300
+<font color="#CCCCCC">usually see those tend to look like this</font>
+
+20
+00:00:36,300 --> 00:00:38,730
+<font color="#E5E5E5">they show how much scientists expect the</font>
+
+21
+00:00:38,730 --> 00:00:40,920
+sea level to<font color="#E5E5E5"> have risen by a certain</font>
+
+22
+00:00:40,920 --> 00:00:42,540
+point in the future<font color="#E5E5E5"> and they invariably</font>
+
+23
+00:00:42,540 --> 00:00:44,789
+show pretty bad<font color="#E5E5E5"> news like</font><font color="#CCCCCC"> a full meter</font>
+
+24
+00:00:44,789 --> 00:00:47,160
+of sea level rise by 2100 would cost
+
+25
+00:00:47,160 --> 00:00:49,649
+<font color="#E5E5E5">around 14 trillion dollars a year for</font>
+
+26
+00:00:49,649 --> 00:00:51,840
+comparison<font color="#CCCCCC"> all of the student loans</font>
+
+27
+00:00:51,840 --> 00:00:53,430
+outstanding in the<font color="#CCCCCC"> US right now about</font>
+
+28
+00:00:53,430 --> 00:00:55,649
+1.5 trillion dollars but these graphs
+
+29
+00:00:55,649 --> 00:00:57,030
+are<font color="#E5E5E5"> showing you</font><font color="#CCCCCC"> something called global</font>
+
+30
+00:00:57,030 --> 00:01:00,149
+<font color="#E5E5E5">mean sea level</font><font color="#CCCCCC"> or</font><font color="#E5E5E5"> GM</font><font color="#CCCCCC"> SL that's where the</font>
+
+31
+00:01:00,149 --> 00:01:02,520
+sea level<font color="#E5E5E5"> is</font><font color="#CCCCCC"> going to be in 2100 and</font><font color="#E5E5E5"> you</font>
+
+32
+00:01:02,520 --> 00:01:05,099
+can see various scenarios that the<font color="#CCCCCC"> IPCC</font>
+
+33
+00:01:05,099 --> 00:01:07,439
+has<font color="#E5E5E5"> put together in blue you've got</font><font color="#CCCCCC"> RCP</font>
+
+34
+00:01:07,439 --> 00:01:09,240
+2.6 that's like the<font color="#E5E5E5"> best case scenario</font>
+
+35
+00:01:09,240 --> 00:01:11,130
+<font color="#CCCCCC">where everyone</font><font color="#E5E5E5"> works really</font><font color="#CCCCCC"> hard</font>
+
+36
+00:01:11,130 --> 00:01:13,950
+together<font color="#E5E5E5"> very quickly to make sure that</font>
+
+37
+00:01:13,950 --> 00:01:15,900
+the<font color="#E5E5E5"> total increase in temperature of the</font>
+
+38
+00:01:15,900 --> 00:01:17,189
+earth is no more than<font color="#CCCCCC"> two degrees</font>
+
+39
+00:01:17,189 --> 00:01:19,740
+<font color="#CCCCCC">Celsius in red you've got</font><font color="#E5E5E5"> our CP 8.5</font>
+
+40
+00:01:19,740 --> 00:01:21,119
+that's basically the scenario in which
+
+41
+00:01:21,119 --> 00:01:23,729
+we do<font color="#E5E5E5"> nothing and spoiler we're closer</font>
+
+42
+00:01:23,729 --> 00:01:25,950
+to<font color="#E5E5E5"> that one than we are to our CP 2.6</font>
+
+43
+00:01:25,950 --> 00:01:27,750
+but the scariest<font color="#E5E5E5"> graph I've ever seen</font>
+
+44
+00:01:27,750 --> 00:01:29,909
+bring it back now it's got a surprise
+
+45
+00:01:29,909 --> 00:01:32,850
+<font color="#CCCCCC">for us GM SL is the tiny</font><font color="#E5E5E5"> little</font>
+
+46
+00:01:32,850 --> 00:01:36,119
+insignificant<font color="#CCCCCC"> blip on the bottom in</font><font color="#E5E5E5"> gray</font>
+
+47
+00:01:36,119 --> 00:01:38,759
+<font color="#E5E5E5">that's global mean sea level</font><font color="#CCCCCC"> these big</font>
+
+48
+00:01:38,759 --> 00:01:41,340
+<font color="#E5E5E5">things that's what they're calling</font><font color="#CCCCCC"> SL RC</font>
+
+49
+00:01:41,340 --> 00:01:44,460
+or sea level rise commitment<font color="#E5E5E5"> this is not</font>
+
+50
+00:01:44,460 --> 00:01:45,960
+a graph of<font color="#E5E5E5"> where the sea level is going</font>
+
+51
+00:01:45,960 --> 00:01:48,840
+to<font color="#CCCCCC"> be it's a graph of what sea level</font>
+
+52
+00:01:48,840 --> 00:01:51,509
+rise we<font color="#CCCCCC"> will have like signed up for cuz</font>
+
+53
+00:01:51,509 --> 00:01:54,540
+John my<font color="#CCCCCC"> Ice Cube is still</font><font color="#E5E5E5"> over here</font>
+
+54
+00:01:54,540 --> 00:01:56,490
+<font color="#E5E5E5">being an ice cube</font><font color="#CCCCCC"> it's been 70 degrees</font>
+
+55
+00:01:56,490 --> 00:01:58,829
+<font color="#CCCCCC">in here</font><font color="#E5E5E5"> the whole time but still ice sea</font>
+
+56
+00:01:58,829 --> 00:02:00,750
+level<font color="#E5E5E5"> doesn't automatically zip to</font>
+
+57
+00:02:00,750 --> 00:02:02,700
+<font color="#CCCCCC">wherever it would be for any given</font>
+
+58
+00:02:02,700 --> 00:02:05,310
+global temperature it<font color="#E5E5E5"> takes time for ice</font>
+
+59
+00:02:05,310 --> 00:02:07,229
+to<font color="#CCCCCC"> melt</font><font color="#E5E5E5"> it takes time</font><font color="#CCCCCC"> for heat to move</font>
+
+60
+00:02:07,229 --> 00:02:10,080
+<font color="#CCCCCC">around</font><font color="#E5E5E5"> it takes like forever except not</font>
+
+61
+00:02:10,080 --> 00:02:11,430
+forever<font color="#E5E5E5"> if we follow our worst case</font>
+
+62
+00:02:11,430 --> 00:02:12,940
+scenario to 2100
+
+63
+00:02:12,940 --> 00:02:15,160
+we will have that<font color="#CCCCCC"> 1</font><font color="#E5E5E5"> meter sea level rise</font>
+
+64
+00:02:15,160 --> 00:02:18,760
+but we will have signed up<font color="#CCCCCC"> for 6 meters</font>
+
+65
+00:02:18,760 --> 00:02:20,650
+of sea level<font color="#CCCCCC"> rise</font><font color="#E5E5E5"> even today with the</font>
+
+66
+00:02:20,650 --> 00:02:21,820
+temperature increase that we've already
+
+67
+00:02:21,820 --> 00:02:24,610
+seen<font color="#E5E5E5"> we in the long term have already</font>
+
+68
+00:02:24,610 --> 00:02:26,170
+signed up for<font color="#CCCCCC"> more</font><font color="#E5E5E5"> than a meter of sea</font>
+
+69
+00:02:26,170 --> 00:02:27,850
+level<font color="#E5E5E5"> rise</font><font color="#CCCCCC"> now admittedly this is like</font>
+
+70
+00:02:27,850 --> 00:02:29,980
+<font color="#CCCCCC">long-term thinking and no model is</font>
+
+71
+00:02:29,980 --> 00:02:32,500
+perfect if we paused co2 releases right
+
+72
+00:02:32,500 --> 00:02:35,080
+now it would be<font color="#E5E5E5"> hundreds of years before</font>
+
+73
+00:02:35,080 --> 00:02:37,480
+<font color="#E5E5E5">we saw that full sea level rise but we</font>
+
+74
+00:02:37,480 --> 00:02:39,550
+would see it<font color="#E5E5E5"> it would even see rise over</font>
+
+75
+00:02:39,550 --> 00:02:41,290
+a<font color="#CCCCCC"> metre if we started</font><font color="#E5E5E5"> to decrease the</font>
+
+76
+00:02:41,290 --> 00:02:43,390
+amount<font color="#E5E5E5"> of co2 in the atmosphere there</font>
+
+77
+00:02:43,390 --> 00:02:46,120
+<font color="#E5E5E5">isn't a scenario a long term that</font>
+
+78
+00:02:46,120 --> 00:02:47,680
+doesn't lead to<font color="#E5E5E5"> more than a</font><font color="#CCCCCC"> metre of</font><font color="#E5E5E5"> sea</font>
+
+79
+00:02:47,680 --> 00:02:49,390
+level rise with current<font color="#CCCCCC"> technologies</font><font color="#E5E5E5"> but</font>
+
+80
+00:02:49,390 --> 00:02:52,600
+<font color="#E5E5E5">John we are humans and we are very good</font>
+
+81
+00:02:52,600 --> 00:02:55,150
+solving<font color="#E5E5E5"> problems we are just not good at</font>
+
+82
+00:02:55,150 --> 00:02:57,460
+<font color="#E5E5E5">solving problems</font><font color="#CCCCCC"> that we aren't</font><font color="#E5E5E5"> able to</font>
+
+83
+00:02:57,460 --> 00:03:00,190
+<font color="#E5E5E5">recognize if we wait until 2100 when</font>
+
+84
+00:03:00,190 --> 00:03:01,900
+we're really<font color="#E5E5E5"> gonna start feeling the</font>
+
+85
+00:03:01,900 --> 00:03:04,660
+actual like serious sting of climate
+
+86
+00:03:04,660 --> 00:03:07,870
+change we will have signed up<font color="#E5E5E5"> for much</font>
+
+87
+00:03:07,870 --> 00:03:09,760
+much worse than<font color="#E5E5E5"> that</font>
+
+88
+00:03:09,760 --> 00:03:11,170
+so John<font color="#E5E5E5"> I'll just leave you with this</font>
+
+89
+00:03:11,170 --> 00:03:14,910
+the ice is<font color="#CCCCCC"> dripping but it's still ice</font>
+
+90
+00:03:14,910 --> 00:03:17,620
+I'll see you on<font color="#CCCCCC"> Tuesday John Congrats</font><font color="#E5E5E5"> on</font>
+
+91
+00:03:17,620 --> 00:03:19,120
+<font color="#E5E5E5">the launch of life's library you got</font>
+
+92
+00:03:19,120 --> 00:03:20,739
+those first thousand people and now it
+
+93
+00:03:20,739 --> 00:03:22,989
+is open<font color="#CCCCCC"> for folks to</font><font color="#E5E5E5"> sign up I just did</font>
+
+94
+00:03:22,989 --> 00:03:24,820
+it<font color="#CCCCCC"> myself what a wonderful</font><font color="#E5E5E5"> Valley and</font>
+
+95
+00:03:24,820 --> 00:03:26,020
+second if you<font color="#CCCCCC"> want to hear me ramble</font><font color="#E5E5E5"> a</font>
+
+96
+00:03:26,020 --> 00:03:28,090
+bunch<font color="#E5E5E5"> about how I feel like I think</font><font color="#CCCCCC"> a</font>
+
+97
+00:03:28,090 --> 00:03:29,320
+little<font color="#E5E5E5"> bit differently</font><font color="#CCCCCC"> about climate</font>
+
+98
+00:03:29,320 --> 00:03:30,850
+change<font color="#E5E5E5"> than a lot of people and maybe a</font>
+
+99
+00:03:30,850 --> 00:03:32,770
+little<font color="#E5E5E5"> bit more of a nuance to take I</font>
+
+100
+00:03:32,770 --> 00:03:34,570
+made a big long video over on Hanks
+
+101
+00:03:34,570 --> 00:03:36,280
+channel it has<font color="#CCCCCC"> a little</font><font color="#E5E5E5"> bit of optimism</font>
+
+102
+00:03:36,280 --> 00:03:36,760
+in it
+
+103
+00:03:36,760 --> 00:03:38,260
+which you might need right now check out
+
+104
+00:03:38,260 --> 00:03:40,120
+life's library<font color="#E5E5E5"> at</font><font color="#CCCCCC"> last library book club</font>
+
+105
+00:03:40,120 --> 00:00:00,000
+<font color="#E5E5E5">calm</font>
+

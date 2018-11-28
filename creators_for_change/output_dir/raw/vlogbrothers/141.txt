@@ -1,0 +1,464 @@
+1
+00:00:00,000 --> 00:00:02,220
+good morning John give<font color="#E5E5E5"> me four</font><font color="#CCCCCC"> minutes</font>
+
+2
+00:00:02,220 --> 00:00:05,520
+<font color="#E5E5E5">so that we can have a legit conversation</font>
+
+3
+00:00:05,520 --> 00:00:08,189
+about a warmer<font color="#E5E5E5"> earth and what that means</font>
+
+4
+00:00:08,189 --> 00:00:10,380
+<font color="#E5E5E5">for actual weather the kind of</font>
+
+5
+00:00:10,380 --> 00:00:11,969
+conversation that<font color="#E5E5E5"> we never get to have</font>
+
+6
+00:00:11,969 --> 00:00:14,309
+because it doesn't<font color="#E5E5E5"> fit into a</font><font color="#CCCCCC"> 15-second</font>
+
+7
+00:00:14,309 --> 00:00:15,719
+<font color="#E5E5E5">soundbite here's what we all need to get</font>
+
+8
+00:00:15,719 --> 00:00:17,220
+and I<font color="#E5E5E5"> don't think</font><font color="#CCCCCC"> it's anybody's</font><font color="#E5E5E5"> fault</font>
+
+9
+00:00:17,220 --> 00:00:19,320
+for not getting this we<font color="#E5E5E5"> talked about the</font>
+
+10
+00:00:19,320 --> 00:00:21,210
+<font color="#E5E5E5">effect that a warmer earth will have on</font>
+
+11
+00:00:21,210 --> 00:00:22,920
+the weather<font color="#CCCCCC"> we're not talking about</font>
+
+12
+00:00:22,920 --> 00:00:25,410
+<font color="#E5E5E5">what's gonna</font><font color="#CCCCCC"> happen we're talking about</font>
+
+13
+00:00:25,410 --> 00:00:27,420
+what's probably gonna happen<font color="#CCCCCC"> or more</font>
+
+14
+00:00:27,420 --> 00:00:30,150
+properly<font color="#E5E5E5"> the probability of what will</font>
+
+15
+00:00:30,150 --> 00:00:31,619
+<font color="#E5E5E5">happen we are never gonna</font><font color="#CCCCCC"> know how many</font>
+
+16
+00:00:31,619 --> 00:00:33,210
+big storms are gonna<font color="#E5E5E5"> hit the US and any</font>
+
+17
+00:00:33,210 --> 00:00:35,790
+<font color="#E5E5E5">given hurricane season but we can take a</font>
+
+18
+00:00:35,790 --> 00:00:38,190
+look over<font color="#CCCCCC"> the</font><font color="#E5E5E5"> last 50 years and</font><font color="#CCCCCC"> see how</font>
+
+19
+00:00:38,190 --> 00:00:41,160
+<font color="#CCCCCC">many major storms formed per year and</font>
+
+20
+00:00:41,160 --> 00:00:42,540
+<font color="#E5E5E5">I'm</font><font color="#CCCCCC"> doing</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> right</font><font color="#E5E5E5"> now I'm</font><font color="#CCCCCC"> putting a</font>
+
+21
+00:00:42,540 --> 00:00:44,760
+dot for<font color="#CCCCCC"> every year most of the years had</font>
+
+22
+00:00:44,760 --> 00:00:46,680
+two storms<font color="#CCCCCC"> some of them had</font><font color="#E5E5E5"> five some</font>
+
+23
+00:00:46,680 --> 00:00:48,629
+<font color="#E5E5E5">non for some feds zero that year with</font>
+
+24
+00:00:48,629 --> 00:00:50,460
+seven storms there that was 2005 the
+
+25
+00:00:50,460 --> 00:00:52,020
+year that Hurricane Katrina hit New
+
+26
+00:00:52,020 --> 00:00:53,520
+Orleans<font color="#CCCCCC"> alright yeah you see what</font>
+
+27
+00:00:53,520 --> 00:00:56,219
+happened here<font color="#E5E5E5"> there is a curve</font><font color="#CCCCCC"> this is a</font>
+
+28
+00:00:56,219 --> 00:00:58,109
+probability distribution<font color="#CCCCCC"> and it is</font>
+
+29
+00:00:58,109 --> 00:00:59,789
+always<font color="#E5E5E5"> how we should be thinking</font><font color="#CCCCCC"> about</font>
+
+30
+00:00:59,789 --> 00:01:02,640
+<font color="#E5E5E5">how a changing</font><font color="#CCCCCC"> climate is affecting</font>
+
+31
+00:01:02,640 --> 00:01:06,600
+weather today<font color="#E5E5E5"> now this year not the dots</font>
+
+32
+00:01:06,600 --> 00:01:09,150
+<font color="#E5E5E5">the curve every year at the</font><font color="#CCCCCC"> end of the</font>
+
+33
+00:01:09,150 --> 00:01:11,270
+hurricane season<font color="#CCCCCC"> this probability curve</font>
+
+34
+00:01:11,270 --> 00:01:14,250
+collapses<font color="#CCCCCC"> into just another</font><font color="#E5E5E5"> dot it is no</font>
+
+35
+00:01:14,250 --> 00:01:15,960
+longer a set of<font color="#E5E5E5"> things</font><font color="#CCCCCC"> that could happen</font>
+
+36
+00:01:15,960 --> 00:01:17,729
+it becomes a very<font color="#E5E5E5"> specific thing</font><font color="#CCCCCC"> that</font>
+
+37
+00:01:17,729 --> 00:01:19,770
+<font color="#E5E5E5">did</font><font color="#CCCCCC"> happen</font><font color="#E5E5E5"> last year it collapsed into</font>
+
+38
+00:01:19,770 --> 00:01:21,750
+four major storms the year before that<font color="#CCCCCC"> -</font>
+
+39
+00:01:21,750 --> 00:01:23,549
+the year before that<font color="#CCCCCC"> - again</font><font color="#E5E5E5"> in the year</font>
+
+40
+00:01:23,549 --> 00:01:26,220
+<font color="#E5E5E5">before that zero</font><font color="#CCCCCC"> oh do we have a you</font>
+
+41
+00:01:26,220 --> 00:01:28,140
+<font color="#CCCCCC">have a trend happening here no no no</font>
+
+42
+00:01:28,140 --> 00:01:30,659
+<font color="#CCCCCC">this is not a trend every year the curve</font>
+
+43
+00:01:30,659 --> 00:01:32,670
+runs<font color="#E5E5E5"> itself again</font><font color="#CCCCCC"> and it might</font><font color="#E5E5E5"> collapse</font>
+
+44
+00:01:32,670 --> 00:01:34,740
+down to zero or it might collapse<font color="#E5E5E5"> out to</font>
+
+45
+00:01:34,740 --> 00:01:36,930
+seven like look at the dots<font color="#E5E5E5"> obviously no</font>
+
+46
+00:01:36,930 --> 00:01:38,909
+<font color="#E5E5E5">one dot on</font><font color="#CCCCCC"> this curve is important</font><font color="#E5E5E5"> and</font>
+
+47
+00:01:38,909 --> 00:01:40,619
+<font color="#E5E5E5">also the curve is saying that all this</font>
+
+48
+00:01:40,619 --> 00:01:42,329
+stuff happened<font color="#E5E5E5"> everything</font><font color="#CCCCCC"> that's in here</font>
+
+49
+00:01:42,329 --> 00:01:44,549
+is<font color="#E5E5E5"> well inside</font><font color="#CCCCCC"> of the realm of normality</font>
+
+50
+00:01:44,549 --> 00:01:46,320
+the number of serious storms from year
+
+51
+00:01:46,320 --> 00:01:47,759
+to year can jump dramatically well being
+
+52
+00:01:47,759 --> 00:01:49,950
+<font color="#E5E5E5">the effect of the same probability curve</font>
+
+53
+00:01:49,950 --> 00:01:51,360
+a warmer planet<font color="#E5E5E5"> doesn't take you from</font>
+
+54
+00:01:51,360 --> 00:01:54,119
+<font color="#E5E5E5">this to this because global energy</font><font color="#CCCCCC"> in</font>
+
+55
+00:01:54,119 --> 00:01:55,920
+the<font color="#CCCCCC"> system isn't the only important</font>
+
+56
+00:01:55,920 --> 00:01:58,979
+variable it takes you from<font color="#E5E5E5"> this to this</font>
+
+57
+00:01:58,979 --> 00:02:00,960
+something important is changing and
+
+58
+00:02:00,960 --> 00:02:03,329
+<font color="#E5E5E5">that's shifting the curve with that new</font>
+
+59
+00:02:03,329 --> 00:02:05,700
+curve collapses<font color="#E5E5E5"> into its reality dot</font>
+
+60
+00:02:05,700 --> 00:02:08,008
+that might still<font color="#CCCCCC"> be at</font><font color="#E5E5E5"> zero it's just</font>
+
+61
+00:02:08,008 --> 00:02:09,720
+less likely than it used to<font color="#CCCCCC"> be and</font>
+
+62
+00:02:09,720 --> 00:02:12,480
+here's<font color="#E5E5E5"> like 2005 will still be rare they</font>
+
+63
+00:02:12,480 --> 00:02:13,830
+will just<font color="#E5E5E5"> be less rare</font>
+
+64
+00:02:13,830 --> 00:02:15,270
+and if there<font color="#CCCCCC"> are more strong storms</font>
+
+65
+00:02:15,270 --> 00:02:16,830
+<font color="#CCCCCC">there's a higher likelihood that they'll</font>
+
+66
+00:02:16,830 --> 00:02:18,780
+end up<font color="#E5E5E5"> hitting in the worst places</font>
+
+67
+00:02:18,780 --> 00:02:21,540
+possible as Harvey did as Katrina<font color="#E5E5E5"> did</font>
+
+68
+00:02:21,540 --> 00:02:23,160
+homes that used to be considered<font color="#CCCCCC"> safe</font>
+
+69
+00:02:23,160 --> 00:02:24,810
+might now find it<font color="#E5E5E5"> difficult</font><font color="#CCCCCC"> to get</font>
+
+70
+00:02:24,810 --> 00:02:26,760
+<font color="#E5E5E5">insurance because no one understands</font>
+
+71
+00:02:26,760 --> 00:02:28,560
+probability curves like the people who
+
+72
+00:02:28,560 --> 00:02:29,880
+work<font color="#E5E5E5"> at insurance companies and these</font>
+
+73
+00:02:29,880 --> 00:02:31,950
+probability curves<font color="#E5E5E5"> are what we use</font><font color="#CCCCCC"> to</font>
+
+74
+00:02:31,950 --> 00:02:33,840
+determine<font color="#E5E5E5"> whether a flood has like a 1</font>
+
+75
+00:02:33,840 --> 00:02:36,030
+in<font color="#E5E5E5"> 100 chance of happening or a 1 in 50</font>
+
+76
+00:02:36,030 --> 00:02:38,180
+chance of happening<font color="#CCCCCC"> and as that changes</font>
+
+77
+00:02:38,180 --> 00:02:41,370
+<font color="#CCCCCC">those hundred-year floods</font><font color="#E5E5E5"> start to not</font>
+
+78
+00:02:41,370 --> 00:02:43,350
+be<font color="#CCCCCC"> hundred-year floods</font><font color="#E5E5E5"> and the curve can</font>
+
+79
+00:02:43,350 --> 00:02:45,840
+<font color="#E5E5E5">shift before we're aware of it like with</font>
+
+80
+00:02:45,840 --> 00:02:48,840
+this<font color="#E5E5E5"> we only get</font><font color="#CCCCCC"> one new</font><font color="#E5E5E5"> dot a year</font>
+
+81
+00:02:48,840 --> 00:02:50,760
+which<font color="#CCCCCC"> is why we create computer</font><font color="#E5E5E5"> models</font>
+
+82
+00:02:50,760 --> 00:02:53,040
+so that<font color="#CCCCCC"> we can run hurricane seasons</font>
+
+83
+00:02:53,040 --> 00:02:54,660
+<font color="#E5E5E5">over and over and</font><font color="#CCCCCC"> over again with</font>
+
+84
+00:02:54,660 --> 00:02:56,730
+<font color="#E5E5E5">slightly changed variables to see what</font>
+
+85
+00:02:56,730 --> 00:02:58,530
+will<font color="#CCCCCC"> happen and</font><font color="#E5E5E5"> what we see with more</font>
+
+86
+00:02:58,530 --> 00:03:00,300
+energy<font color="#CCCCCC"> in the global system</font><font color="#E5E5E5"> is the</font>
+
+87
+00:03:00,300 --> 00:03:02,940
+curves<font color="#E5E5E5"> shifting towards stronger wetter</font>
+
+88
+00:03:02,940 --> 00:03:04,920
+storms the more carbon<font color="#E5E5E5"> we release of the</font>
+
+89
+00:03:04,920 --> 00:03:07,020
+atmosphere<font color="#E5E5E5"> the more</font><font color="#CCCCCC"> these curves</font><font color="#E5E5E5"> shift</font>
+
+90
+00:03:07,020 --> 00:03:09,000
+and<font color="#CCCCCC"> that</font><font color="#E5E5E5"> is the future</font><font color="#CCCCCC"> that we have to</font>
+
+91
+00:03:09,000 --> 00:03:11,430
+accept<font color="#E5E5E5"> and the one that we have to</font>
+
+92
+00:03:11,430 --> 00:03:13,470
+<font color="#E5E5E5">prepare for</font><font color="#CCCCCC"> and also</font><font color="#E5E5E5"> the one that it's</font>
+
+93
+00:03:13,470 --> 00:03:15,360
+good<font color="#E5E5E5"> to try</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> understand a little</font><font color="#CCCCCC"> bit</font>
+
+94
+00:03:15,360 --> 00:03:16,920
+so thanks for<font color="#E5E5E5"> taking</font><font color="#CCCCCC"> four minutes to do</font>
+
+95
+00:03:16,920 --> 00:03:18,630
+that<font color="#CCCCCC"> John I'll see you</font><font color="#E5E5E5"> on Tuesday</font>
+
+96
+00:03:18,630 --> 00:03:21,000
+that took substantially less than<font color="#E5E5E5"> four</font>
+
+97
+00:03:21,000 --> 00:03:23,070
+<font color="#CCCCCC">minutes</font><font color="#E5E5E5"> I'm quite proud of</font><font color="#CCCCCC"> myself</font><font color="#E5E5E5"> so</font>
+
+98
+00:03:23,070 --> 00:03:24,330
+<font color="#E5E5E5">here we</font><font color="#CCCCCC"> are together in</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> inn's gonna</font>
+
+99
+00:03:24,330 --> 00:03:26,370
+have so much time<font color="#E5E5E5"> I'm going to Australia</font>
+
+100
+00:03:26,370 --> 00:03:28,530
+see<font color="#CCCCCC"> ya VidCon Australia Australia people</font>
+
+101
+00:03:28,530 --> 00:03:30,900
+<font color="#E5E5E5">this shirt is the new giraffe love shirt</font>
+
+102
+00:03:30,900 --> 00:03:32,820
+designed by Ming Doyle<font color="#CCCCCC"> I like it a lot</font>
+
+103
+00:03:32,820 --> 00:03:34,709
+<font color="#CCCCCC">you can</font><font color="#E5E5E5"> get</font><font color="#CCCCCC"> a D of T be</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> comm what else</font>
+
+104
+00:03:34,709 --> 00:03:36,750
+should<font color="#E5E5E5"> I</font><font color="#CCCCCC"> talk</font><font color="#E5E5E5"> about so let a backpack</font><font color="#CCCCCC"> so</font>
+
+105
+00:03:36,750 --> 00:03:38,970
+this is mine<font color="#E5E5E5"> you can't have these are my</font>
+
+106
+00:03:38,970 --> 00:03:40,590
+<font color="#CCCCCC">favourite fidget toys</font><font color="#E5E5E5"> because they're</font>
+
+107
+00:03:40,590 --> 00:03:41,070
+quiet
+
+108
+00:03:41,070 --> 00:03:43,110
+<font color="#CCCCCC">they</font><font color="#E5E5E5"> make no noise I can play with a mom</font>
+
+109
+00:03:43,110 --> 00:03:45,150
+<font color="#CCCCCC">on a phone call and it is not as noisy</font>
+
+110
+00:03:45,150 --> 00:03:48,780
+<font color="#CCCCCC">as this everybody hated me and now they</font>
+
+111
+00:03:48,780 --> 00:03:50,370
+<font color="#E5E5E5">don't anymore B there's a YouTube</font><font color="#CCCCCC"> video</font>
+
+112
+00:03:50,370 --> 00:03:52,080
+I<font color="#E5E5E5"> should make you go watch crash</font><font color="#CCCCCC"> Bros</font>
+
+113
+00:03:52,080 --> 00:03:54,540
+film production with<font color="#CCCCCC"> Lilly Gladstone so</font>
+
+114
+00:03:54,540 --> 00:03:56,340
+good and the recent<font color="#E5E5E5"> series on guns in</font>
+
+115
+00:03:56,340 --> 00:03:57,959
+America<font color="#E5E5E5"> from healthcare triage really</font>
+
+116
+00:03:57,959 --> 00:00:00,000
+well<font color="#E5E5E5"> done</font><font color="#CCCCCC"> okay bye</font>
+

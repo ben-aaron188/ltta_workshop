@@ -1,0 +1,536 @@
+1
+00:00:00,030 --> 00:00:01,410
+good morning Hank<font color="#CCCCCC"> it's</font><font color="#E5E5E5"> Sunday</font><font color="#CCCCCC"> February</font>
+
+2
+00:00:01,410 --> 00:00:02,700
+<font color="#CCCCCC">15th today I'm going to</font><font color="#E5E5E5"> talk about the</font>
+
+3
+00:00:02,700 --> 00:00:04,440
+economic<font color="#CCCCCC"> stimulus package but before we</font>
+
+4
+00:00:04,440 --> 00:00:06,509
+get to that<font color="#CCCCCC"> you may be wondering John</font>
+
+5
+00:00:06,509 --> 00:00:08,760
+<font color="#E5E5E5">why are you wearing a gigantic bronze</font>
+
+6
+00:00:08,760 --> 00:00:10,950
+medal<font color="#E5E5E5"> from the 1994 Alabama State</font>
+
+7
+00:00:10,950 --> 00:00:12,840
+Academic Decathlon tournament<font color="#E5E5E5"> well I'll</font>
+
+8
+00:00:12,840 --> 00:00:14,190
+tell you<font color="#CCCCCC"> Hank it's to remind</font><font color="#E5E5E5"> you that</font>
+
+9
+00:00:14,190 --> 00:00:16,199
+<font color="#E5E5E5">while I am not technically an economist</font>
+
+10
+00:00:16,199 --> 00:00:19,590
+in 1994 I was declared the<font color="#E5E5E5"> third best</font>
+
+11
+00:00:19,590 --> 00:00:22,020
+economist<font color="#E5E5E5"> among high school</font><font color="#CCCCCC"> students</font>
+
+12
+00:00:22,020 --> 00:00:24,390
+with grade point<font color="#CCCCCC"> averages of under 3.0</font>
+
+13
+00:00:24,390 --> 00:00:26,550
+<font color="#E5E5E5">in the state</font><font color="#CCCCCC"> of Alabama okay so for the</font>
+
+14
+00:00:26,550 --> 00:00:27,810
+<font color="#CCCCCC">last several decades the prevailing</font>
+
+15
+00:00:27,810 --> 00:00:29,429
+belief has<font color="#CCCCCC"> been that financial markets</font>
+
+16
+00:00:29,429 --> 00:00:31,679
+when left alone<font color="#E5E5E5"> can correct</font><font color="#CCCCCC"> themselves</font>
+
+17
+00:00:31,679 --> 00:00:33,030
+<font color="#CCCCCC">so you'll have some growth and then</font>
+
+18
+00:00:33,030 --> 00:00:34,170
+you'll have<font color="#E5E5E5"> a little recession and then</font>
+
+19
+00:00:34,170 --> 00:00:35,430
+some growth and then some recession and
+
+20
+00:00:35,430 --> 00:00:37,469
+then some growth but on the whole the
+
+21
+00:00:37,469 --> 00:00:39,360
+curve will go upward<font color="#E5E5E5"> and it's important</font>
+
+22
+00:00:39,360 --> 00:00:40,469
+<font color="#E5E5E5">to say that recessions aren't inherently</font>
+
+23
+00:00:40,469 --> 00:00:42,480
+<font color="#CCCCCC">evil like recessions aren't</font><font color="#E5E5E5"> fatal</font>
+
+24
+00:00:42,480 --> 00:00:43,890
+diseases<font color="#CCCCCC"> they're just natural</font>
+
+25
+00:00:43,890 --> 00:00:45,360
+Corrections that<font color="#E5E5E5"> follow periods of what</font>
+
+26
+00:00:45,360 --> 00:00:47,039
+Alan Greenspan once famously called
+
+27
+00:00:47,039 --> 00:00:48,840
+<font color="#E5E5E5">irrational exuberance</font><font color="#CCCCCC"> which is my</font>
+
+28
+00:00:48,840 --> 00:00:50,489
+<font color="#E5E5E5">favorite</font><font color="#CCCCCC"> kind of exuberance Hank I know</font>
+
+29
+00:00:50,489 --> 00:00:52,079
+that already all the flame fingered
+
+30
+00:00:52,079 --> 00:00:53,760
+commenters are preparing<font color="#E5E5E5"> to write about</font>
+
+31
+00:00:53,760 --> 00:00:55,379
+how I'm either a communist or a tyrant
+
+32
+00:00:55,379 --> 00:00:56,940
+<font color="#CCCCCC">and I don't know what I'm talking about</font>
+
+33
+00:00:56,940 --> 00:00:59,010
+but if that's the<font color="#E5E5E5"> case how do you</font>
+
+34
+00:00:59,010 --> 00:01:00,719
+explain<font color="#E5E5E5"> this guy</font><font color="#CCCCCC"> the prevailing belief</font>
+
+35
+00:01:00,719 --> 00:01:02,550
+among economists<font color="#CCCCCC"> has been to let the</font>
+
+36
+00:01:02,550 --> 00:01:04,619
+economy reset itself<font color="#E5E5E5"> at a lower number</font>
+
+37
+00:01:04,619 --> 00:01:06,420
+<font color="#CCCCCC">and then begin</font><font color="#E5E5E5"> to grow</font><font color="#CCCCCC"> again but then</font>
+
+38
+00:01:06,420 --> 00:01:08,070
+occasionally the bubble<font color="#E5E5E5"> that bursts is</font>
+
+39
+00:01:08,070 --> 00:01:10,229
+so big<font color="#CCCCCC"> that</font><font color="#E5E5E5"> the recession that follows</font>
+
+40
+00:01:10,229 --> 00:01:12,180
+becomes a vicious<font color="#CCCCCC"> cycle basically</font><font color="#E5E5E5"> people</font>
+
+41
+00:01:12,180 --> 00:01:13,799
+<font color="#E5E5E5">in institutions spend less because</font>
+
+42
+00:01:13,799 --> 00:01:15,479
+they're<font color="#E5E5E5"> scared</font><font color="#CCCCCC"> which causes people</font><font color="#E5E5E5"> and</font>
+
+43
+00:01:15,479 --> 00:01:17,130
+institutions<font color="#CCCCCC"> to produce less which</font>
+
+44
+00:01:17,130 --> 00:01:18,990
+causes jobs to<font color="#E5E5E5"> get cut which causes</font>
+
+45
+00:01:18,990 --> 00:01:20,580
+people<font color="#CCCCCC"> in institutions to spend less</font>
+
+46
+00:01:20,580 --> 00:01:21,810
+because they're<font color="#E5E5E5"> scared and have less</font>
+
+47
+00:01:21,810 --> 00:01:23,640
+money<font color="#CCCCCC"> and so on and so forth until you</font>
+
+48
+00:01:23,640 --> 00:01:25,830
+have the Great Depression<font color="#CCCCCC"> now Hank</font>
+
+49
+00:01:25,830 --> 00:01:26,729
+obviously we're not<font color="#CCCCCC"> in a</font><font color="#E5E5E5"> great</font>
+
+50
+00:01:26,729 --> 00:01:28,049
+<font color="#CCCCCC">depression I know because</font><font color="#E5E5E5"> I don't</font><font color="#CCCCCC"> have</font>
+
+51
+00:01:28,049 --> 00:01:29,909
+<font color="#E5E5E5">to walk barefoot to school uphill both</font>
+
+52
+00:01:29,909 --> 00:01:32,130
+ways 12 miles in<font color="#E5E5E5"> the</font><font color="#CCCCCC"> snow and because I</font>
+
+53
+00:01:32,130 --> 00:01:33,659
+<font color="#E5E5E5">don't just</font><font color="#CCCCCC"> deal</font><font color="#E5E5E5"> tomatoes to survive like</font>
+
+54
+00:01:33,659 --> 00:01:35,070
+Danny and<font color="#CCCCCC"> pawpaw did</font><font color="#E5E5E5"> so when a recession</font>
+
+55
+00:01:35,070 --> 00:01:36,509
+<font color="#CCCCCC">is that bad what do you do do you</font><font color="#E5E5E5"> let</font>
+
+56
+00:01:36,509 --> 00:01:38,430
+the<font color="#E5E5E5"> unregulated free market reset itself</font>
+
+57
+00:01:38,430 --> 00:01:40,079
+<font color="#E5E5E5">to a lower number</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> then you rock it</font>
+
+58
+00:01:40,079 --> 00:01:42,180
+<font color="#E5E5E5">back to the top</font><font color="#CCCCCC"> some people say yes but</font>
+
+59
+00:01:42,180 --> 00:01:44,640
+Hank<font color="#E5E5E5"> respectfully those people are crazy</font>
+
+60
+00:01:44,640 --> 00:01:45,960
+<font color="#CCCCCC">there are a bunch of things that you can</font>
+
+61
+00:01:45,960 --> 00:01:47,310
+do other than<font color="#E5E5E5"> nothing the thing we're</font>
+
+62
+00:01:47,310 --> 00:01:49,409
+<font color="#E5E5E5">going to try is some Keynesian economics</font>
+
+63
+00:01:49,409 --> 00:01:50,909
+<font color="#CCCCCC">John</font><font color="#E5E5E5"> Maynard Keynes was probably the</font>
+
+64
+00:01:50,909 --> 00:01:52,259
+most important<font color="#E5E5E5"> economist of the 20th</font>
+
+65
+00:01:52,259 --> 00:01:54,600
+century<font color="#E5E5E5"> and he explained that if during</font>
+
+66
+00:01:54,600 --> 00:01:56,759
+the Great Depression<font color="#CCCCCC"> we had had a sort</font>
+
+67
+00:01:56,759 --> 00:01:59,729
+of<font color="#CCCCCC"> massive stimulus</font><font color="#E5E5E5"> bill like say World</font>
+
+68
+00:01:59,729 --> 00:02:01,590
+<font color="#E5E5E5">War two we could have come out</font><font color="#CCCCCC"> of the</font>
+
+69
+00:02:01,590 --> 00:02:02,280
+Great<font color="#E5E5E5"> Depression</font>
+
+70
+00:02:02,280 --> 00:02:03,479
+<font color="#E5E5E5">now Keynes has been a little bit out of</font>
+
+71
+00:02:03,479 --> 00:02:05,250
+<font color="#E5E5E5">favor in the last</font><font color="#CCCCCC"> thirty years</font><font color="#E5E5E5"> but look</font>
+
+72
+00:02:05,250 --> 00:02:06,750
+<font color="#E5E5E5">we're putting him out of</font><font color="#CCCCCC"> favor got us</font>
+
+73
+00:02:06,750 --> 00:02:08,190
+<font color="#CCCCCC">Keynes</font><font color="#E5E5E5"> believe that when you got into</font>
+
+74
+00:02:08,190 --> 00:02:09,619
+one<font color="#CCCCCC"> of these spirals the government</font>
+
+75
+00:02:09,619 --> 00:02:12,500
+needed to<font color="#E5E5E5"> go in lower taxes and raise</font>
+
+76
+00:02:12,500 --> 00:02:14,810
+spending<font color="#E5E5E5"> to create economic activity</font>
+
+77
+00:02:14,810 --> 00:02:17,330
+<font color="#E5E5E5">where the private sector</font><font color="#CCCCCC"> couldn't then</font>
+
+78
+00:02:17,330 --> 00:02:19,730
+when things rebound<font color="#CCCCCC"> you raise taxes back</font>
+
+79
+00:02:19,730 --> 00:02:21,860
+up and cut government spending<font color="#E5E5E5"> now Hank</font>
+
+80
+00:02:21,860 --> 00:02:22,670
+I don't<font color="#E5E5E5"> know if you know a lot of</font>
+
+81
+00:02:22,670 --> 00:02:24,530
+<font color="#E5E5E5">politicians but in my experience very</font>
+
+82
+00:02:24,530 --> 00:02:26,599
+few<font color="#CCCCCC"> of them</font><font color="#E5E5E5"> are</font><font color="#CCCCCC"> in favor of</font><font color="#E5E5E5"> both raising</font>
+
+83
+00:02:26,599 --> 00:02:28,579
+taxes<font color="#CCCCCC"> and cutting spending</font><font color="#E5E5E5"> which is one</font>
+
+84
+00:02:28,579 --> 00:02:29,690
+<font color="#E5E5E5">of the big problems</font><font color="#CCCCCC"> with Keynesian</font>
+
+85
+00:02:29,690 --> 00:02:31,430
+economics politicians take it as a kind
+
+86
+00:02:31,430 --> 00:02:33,590
+<font color="#CCCCCC">of like blanket excuse to go and</font><font color="#E5E5E5"> spend</font>
+
+87
+00:02:33,590 --> 00:02:35,870
+money<font color="#E5E5E5"> and cut taxes and it is extremely</font>
+
+88
+00:02:35,870 --> 00:02:37,459
+<font color="#CCCCCC">unfortunate that we had this gigantic</font>
+
+89
+00:02:37,459 --> 00:02:39,709
+national debt because<font color="#E5E5E5"> during all of the</font>
+
+90
+00:02:39,709 --> 00:02:41,450
+last 30<font color="#CCCCCC"> years when the economy was</font>
+
+91
+00:02:41,450 --> 00:02:43,430
+basically<font color="#E5E5E5"> growing at a great clip we</font>
+
+92
+00:02:43,430 --> 00:02:45,680
+were still somehow spending more than<font color="#E5E5E5"> we</font>
+
+93
+00:02:45,680 --> 00:02:47,870
+got<font color="#CCCCCC"> but all of that aside</font><font color="#E5E5E5"> if we want to</font>
+
+94
+00:02:47,870 --> 00:02:50,900
+avoid<font color="#E5E5E5"> that spiral of misery now is the</font>
+
+95
+00:02:50,900 --> 00:02:53,090
+time when we have<font color="#CCCCCC"> to cut taxes and</font><font color="#E5E5E5"> raise</font>
+
+96
+00:02:53,090 --> 00:02:54,500
+spending<font color="#E5E5E5"> which is precisely</font><font color="#CCCCCC"> with the</font>
+
+97
+00:02:54,500 --> 00:02:55,970
+<font color="#E5E5E5">economic stimulus</font><font color="#CCCCCC"> bill</font><font color="#E5E5E5"> the president</font>
+
+98
+00:02:55,970 --> 00:02:57,470
+will sign tomorrow<font color="#E5E5E5"> is designed to do</font>
+
+99
+00:02:57,470 --> 00:02:59,060
+<font color="#CCCCCC">okay so</font><font color="#E5E5E5"> broadly</font><font color="#CCCCCC"> speaking we can</font><font color="#E5E5E5"> divide</font>
+
+100
+00:02:59,060 --> 00:03:01,280
+the 787 billion dollar stimulus bill
+
+101
+00:03:01,280 --> 00:03:03,890
+into three sections<font color="#CCCCCC"> first 212</font><font color="#E5E5E5"> billion</font>
+
+102
+00:03:03,890 --> 00:03:05,060
+<font color="#CCCCCC">dollars in tax breaks</font>
+
+103
+00:03:05,060 --> 00:03:06,409
+<font color="#CCCCCC">now instead</font><font color="#E5E5E5"> of giving out lump sum</font>
+
+104
+00:03:06,409 --> 00:03:07,579
+checks like we did in the past the
+
+105
+00:03:07,579 --> 00:03:08,930
+strategy here is<font color="#E5E5E5"> to give</font><font color="#CCCCCC"> people a</font><font color="#E5E5E5"> little</font>
+
+106
+00:03:08,930 --> 00:03:10,459
+<font color="#E5E5E5">bit of money each week because what</font>
+
+107
+00:03:10,459 --> 00:03:11,569
+we've learned is that when<font color="#E5E5E5"> you give</font>
+
+108
+00:03:11,569 --> 00:03:13,280
+<font color="#CCCCCC">people a lump sum</font><font color="#E5E5E5"> check they don't spend</font>
+
+109
+00:03:13,280 --> 00:03:15,019
+it and<font color="#E5E5E5"> we need to reset consumer</font>
+
+110
+00:03:15,019 --> 00:03:17,720
+spending secondly 267 billion<font color="#E5E5E5"> dollars</font>
+
+111
+00:03:17,720 --> 00:03:19,700
+for social services like food<font color="#CCCCCC"> stamps and</font>
+
+112
+00:03:19,700 --> 00:03:21,980
+unemployment benefits<font color="#CCCCCC"> and lastly</font><font color="#E5E5E5"> 300</font>
+
+113
+00:03:21,980 --> 00:03:23,299
+billion<font color="#E5E5E5"> dollars</font><font color="#CCCCCC"> in new government</font>
+
+114
+00:03:23,299 --> 00:03:24,560
+spending which includes everything<font color="#CCCCCC"> from</font>
+
+115
+00:03:24,560 --> 00:03:25,879
+like improving<font color="#E5E5E5"> roads and bridges to</font>
+
+116
+00:03:25,879 --> 00:03:27,739
+<font color="#E5E5E5">making all health records in America</font>
+
+117
+00:03:27,739 --> 00:03:29,930
+electronic now anti Keynesian economists
+
+118
+00:03:29,930 --> 00:03:31,519
+are<font color="#CCCCCC"> saying it doesn't</font><font color="#E5E5E5"> matter what you do</font>
+
+119
+00:03:31,519 --> 00:03:32,840
+<font color="#CCCCCC">no matter how</font><font color="#E5E5E5"> much you spend</font><font color="#CCCCCC"> it's not</font>
+
+120
+00:03:32,840 --> 00:03:34,669
+going to work<font color="#CCCCCC"> and Keynesian economists</font>
+
+121
+00:03:34,669 --> 00:03:37,069
+<font color="#E5E5E5">almost universally agree that this</font><font color="#CCCCCC"> is</font>
+
+122
+00:03:37,069 --> 00:03:39,410
+<font color="#E5E5E5">not nearly enough spending now and the</font>
+
+123
+00:03:39,410 --> 00:03:41,090
+stimulus may or may<font color="#CCCCCC"> not work</font><font color="#E5E5E5"> I happen to</font>
+
+124
+00:03:41,090 --> 00:03:43,040
+think<font color="#CCCCCC"> that we're in</font><font color="#E5E5E5"> for a</font><font color="#CCCCCC"> crap storm no</font>
+
+125
+00:03:43,040 --> 00:03:44,510
+matter what but in the professional
+
+126
+00:03:44,510 --> 00:03:46,190
+opinion of this former 11th grade
+
+127
+00:03:46,190 --> 00:03:48,079
+economist it's not<font color="#E5E5E5"> stupid and it's not</font>
+
+128
+00:03:48,079 --> 00:03:49,160
+<font color="#E5E5E5">pork barrel politics</font>
+
+129
+00:03:49,160 --> 00:03:50,840
+it's an honest attempt<font color="#E5E5E5"> to restart the</font>
+
+130
+00:03:50,840 --> 00:03:52,250
+economy<font color="#CCCCCC"> Hank thanks for being awesome</font>
+
+131
+00:03:52,250 --> 00:03:54,079
+congratulations<font color="#CCCCCC"> on having written the</font>
+
+132
+00:03:54,079 --> 00:03:55,459
+greatest song in<font color="#CCCCCC"> the history of</font><font color="#E5E5E5"> music</font>
+
+133
+00:03:55,459 --> 00:03:57,230
+<font color="#E5E5E5">about anglerfish and I'll see you on</font>
+
+134
+00:03:57,230 --> 00:00:00,000
+<font color="#E5E5E5">Tuesday</font>
+

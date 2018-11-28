@@ -1,0 +1,648 @@
+1
+00:00:00,000 --> 00:00:02,939
+step one is to create an information
+
+2
+00:00:02,939 --> 00:00:05,490
+database there have<font color="#E5E5E5"> been many databases</font>
+
+3
+00:00:05,490 --> 00:00:07,680
+created online in the past to bring
+
+4
+00:00:07,680 --> 00:00:09,540
+together strands of information and
+
+5
+00:00:09,540 --> 00:00:12,240
+present it in a coherent<font color="#E5E5E5"> way however</font>
+
+6
+00:00:12,240 --> 00:00:13,710
+laying out the information<font color="#E5E5E5"> in a format</font>
+
+7
+00:00:13,710 --> 00:00:16,440
+that links problems to solutions backed
+
+8
+00:00:16,440 --> 00:00:19,230
+<font color="#E5E5E5">by research has not been attempted at</font>
+
+9
+00:00:19,230 --> 00:00:20,850
+least not<font color="#E5E5E5"> in the way this project aims</font>
+
+10
+00:00:20,850 --> 00:00:23,340
+to you<font color="#E5E5E5"> I must also emphasize that this</font>
+
+11
+00:00:23,340 --> 00:00:25,350
+first stage is<font color="#E5E5E5"> not</font><font color="#CCCCCC"> isolated from the</font>
+
+12
+00:00:25,350 --> 00:00:27,930
+second and third stages they are all sub
+
+13
+00:00:27,930 --> 00:00:29,519
+projects which will complement each
+
+14
+00:00:29,519 --> 00:00:31,560
+other in the<font color="#E5E5E5"> process of educating and</font>
+
+15
+00:00:31,560 --> 00:00:34,380
+spreading awareness the information
+
+16
+00:00:34,380 --> 00:00:36,540
+database is not being built to bombard
+
+17
+00:00:36,540 --> 00:00:38,430
+people with facts<font color="#E5E5E5"> and statistics but</font>
+
+18
+00:00:38,430 --> 00:00:40,260
+instead to provide solutions in a way
+
+19
+00:00:40,260 --> 00:00:43,950
+that has relevance to the user The Venus
+
+20
+00:00:43,950 --> 00:00:45,570
+Project is<font color="#E5E5E5"> the main inspiration for this</font>
+
+21
+00:00:45,570 --> 00:00:47,640
+<font color="#E5E5E5">project as</font><font color="#CCCCCC"> it provides</font><font color="#E5E5E5"> a solution</font><font color="#CCCCCC"> for</font>
+
+22
+00:00:47,640 --> 00:00:49,649
+<font color="#E5E5E5">many of the world's problems but it</font>
+
+23
+00:00:49,649 --> 00:00:51,629
+consists of unifying concepts and can
+
+24
+00:00:51,629 --> 00:00:53,760
+any one individual be expected to<font color="#CCCCCC"> know</font>
+
+25
+00:00:53,760 --> 00:00:55,800
+about every possible solution out there
+
+26
+00:00:55,800 --> 00:00:57,690
+in the world today from biology to
+
+27
+00:00:57,690 --> 00:01:00,180
+robotics to human behavioral psychology
+
+28
+00:01:00,180 --> 00:01:03,899
+no there is just so much information by
+
+29
+00:01:03,899 --> 00:01:06,330
+<font color="#E5E5E5">creating an information database people</font>
+
+30
+00:01:06,330 --> 00:01:08,189
+will feel empowered by having the
+
+31
+00:01:08,189 --> 00:01:09,780
+answers<font color="#E5E5E5"> they want available to them at</font>
+
+32
+00:01:09,780 --> 00:01:12,030
+<font color="#E5E5E5">all times when activists are spreading</font>
+
+33
+00:01:12,030 --> 00:01:13,740
+the word<font color="#CCCCCC"> to others they will have more</font>
+
+34
+00:01:13,740 --> 00:01:15,750
+confidence and will be more accurate and
+
+35
+00:01:15,750 --> 00:01:17,640
+responsible with the information they
+
+36
+00:01:17,640 --> 00:01:20,430
+give out currently someone may get asked
+
+37
+00:01:20,430 --> 00:01:21,869
+a question which they do not know the
+
+38
+00:01:21,869 --> 00:01:23,610
+real answer to<font color="#E5E5E5"> and it's a save</font>
+
+39
+00:01:23,610 --> 00:01:25,650
+embarrassment they will try to attempt
+
+40
+00:01:25,650 --> 00:01:27,119
+answering without any real knowledge
+
+41
+00:01:27,119 --> 00:01:30,540
+this<font color="#E5E5E5"> is simply unhelpful with this</font>
+
+42
+00:01:30,540 --> 00:01:32,610
+database the educator could put their
+
+43
+00:01:32,610 --> 00:01:35,189
+hand up and say hey I'm<font color="#E5E5E5"> not sure</font><font color="#CCCCCC"> about</font>
+
+44
+00:01:35,189 --> 00:01:37,500
+this just give me a second<font color="#E5E5E5"> and they</font>
+
+45
+00:01:37,500 --> 00:01:38,610
+<font color="#E5E5E5">would have</font><font color="#CCCCCC"> the information at their</font>
+
+46
+00:01:38,610 --> 00:01:41,100
+fingertips and thus be able to<font color="#E5E5E5"> provide a</font>
+
+47
+00:01:41,100 --> 00:01:43,740
+concise and accurate answer we've listed
+
+48
+00:01:43,740 --> 00:01:46,320
+reference in to back up their claims so
+
+49
+00:01:46,320 --> 00:01:48,210
+therefore a wiki site was decided as
+
+50
+00:01:48,210 --> 00:01:50,280
+being the best way<font color="#CCCCCC"> of constructing this</font>
+
+51
+00:01:50,280 --> 00:01:52,740
+database it is a format many<font color="#CCCCCC"> Internet</font>
+
+52
+00:01:52,740 --> 00:01:54,630
+users are familiar with due to websites
+
+53
+00:01:54,630 --> 00:01:56,670
+like Wikipedia and it allows the
+
+54
+00:01:56,670 --> 00:01:58,590
+information to grow and develop as more
+
+55
+00:01:58,590 --> 00:02:00,479
+research comes forward proving or
+
+56
+00:02:00,479 --> 00:02:02,790
+disproving anything that is listed<font color="#E5E5E5"> on</font>
+
+57
+00:02:02,790 --> 00:02:05,340
+<font color="#E5E5E5">the site thus by having this online</font>
+
+58
+00:02:05,340 --> 00:02:06,240
+organism
+
+59
+00:02:06,240 --> 00:02:08,818
+we can discover what problems have not
+
+60
+00:02:08,818 --> 00:02:11,250
+<font color="#E5E5E5">yet been tackled and what requires more</font>
+
+61
+00:02:11,250 --> 00:02:14,340
+research to verbalize the layout of
+
+62
+00:02:14,340 --> 00:02:16,860
+<font color="#CCCCCC">these wiki pages</font><font color="#E5E5E5"> I'm going to use the</font>
+
+63
+00:02:16,860 --> 00:02:20,250
+example of gas prices at the top of the
+
+64
+00:02:20,250 --> 00:02:22,110
+wiki page you would have a heading why a
+
+65
+00:02:22,110 --> 00:02:24,390
+guest price is rising followed<font color="#CCCCCC"> by a</font>
+
+66
+00:02:24,390 --> 00:02:26,069
+paragraph which identifies the problem
+
+67
+00:02:26,069 --> 00:02:30,030
+and summarizes a solution a<font color="#E5E5E5"> content box</font>
+
+68
+00:02:30,030 --> 00:02:32,099
+would then follow which lists frequently
+
+69
+00:02:32,099 --> 00:02:34,170
+asked questions about<font color="#E5E5E5"> the issue such as</font>
+
+70
+00:02:34,170 --> 00:02:36,200
+what could be done to<font color="#E5E5E5"> reduce gas prices</font>
+
+71
+00:02:36,200 --> 00:02:38,730
+what better forms of transport could be
+
+72
+00:02:38,730 --> 00:02:40,980
+<font color="#E5E5E5">implemented or what other types of</font>
+
+73
+00:02:40,980 --> 00:02:43,500
+energy are available clicking on<font color="#E5E5E5"> one of</font>
+
+74
+00:02:43,500 --> 00:02:44,940
+<font color="#E5E5E5">these questions will take you down the</font>
+
+75
+00:02:44,940 --> 00:02:47,220
+page to the<font color="#E5E5E5"> appropriate heading where</font>
+
+76
+00:02:47,220 --> 00:02:48,540
+the questions addressed in a few
+
+77
+00:02:48,540 --> 00:02:50,970
+paragraphs links could be made to
+
+78
+00:02:50,970 --> 00:02:52,920
+additional pages on specific issues
+
+79
+00:02:52,920 --> 00:02:55,019
+allowing those who wish to find out more
+
+80
+00:02:55,019 --> 00:02:57,989
+to do so for example in the answer for
+
+81
+00:02:57,989 --> 00:02:59,670
+the question what other types of energy
+
+82
+00:02:59,670 --> 00:03:02,010
+are available the word geothermal may be
+
+83
+00:03:02,010 --> 00:03:03,900
+clickable taking users to a new wiki
+
+84
+00:03:03,900 --> 00:03:06,480
+page explaining geothermal energy in
+
+85
+00:03:06,480 --> 00:03:08,849
+much more detail all of these paragraphs
+
+86
+00:03:08,849 --> 00:03:10,620
+must be backed up with referencing
+
+87
+00:03:10,620 --> 00:03:12,450
+though or<font color="#CCCCCC"> else the solutions provided</font>
+
+88
+00:03:12,450 --> 00:03:15,840
+will not hold any real credibility with
+
+89
+00:03:15,840 --> 00:03:17,790
+this page structure in mind you<font color="#CCCCCC"> are</font>
+
+90
+00:03:17,790 --> 00:03:19,530
+allowing people to be educated as much
+
+91
+00:03:19,530 --> 00:03:21,329
+as they want to<font color="#CCCCCC"> be whilst at the same</font>
+
+92
+00:03:21,329 --> 00:03:23,760
+time encouraging them to go just that
+
+93
+00:03:23,760 --> 00:03:26,280
+little extra step further they may have
+
+94
+00:03:26,280 --> 00:03:28,380
+come across the gas prices page just to
+
+95
+00:03:28,380 --> 00:03:30,299
+<font color="#E5E5E5">read a simple paragraph explaining the</font>
+
+96
+00:03:30,299 --> 00:03:32,160
+solution but then<font color="#E5E5E5"> having seen</font><font color="#CCCCCC"> some of</font>
+
+97
+00:03:32,160 --> 00:03:33,870
+<font color="#E5E5E5">the interesting questions below they</font>
+
+98
+00:03:33,870 --> 00:03:35,280
+would<font color="#E5E5E5"> then explore down the page and</font>
+
+99
+00:03:35,280 --> 00:03:37,079
+perhaps become inspired to find out more
+
+100
+00:03:37,079 --> 00:03:39,269
+and<font color="#E5E5E5"> more</font><font color="#CCCCCC"> even to the point that</font><font color="#E5E5E5"> they</font><font color="#CCCCCC"> do</font>
+
+101
+00:03:39,269 --> 00:03:41,640
+<font color="#E5E5E5">decide to read these more extensive wiki</font>
+
+102
+00:03:41,640 --> 00:03:43,620
+pages in which vast quantities of
+
+103
+00:03:43,620 --> 00:03:45,780
+information are listed explaining how
+
+104
+00:03:45,780 --> 00:03:48,660
+geothermal energy works ultimately
+
+105
+00:03:48,660 --> 00:03:50,459
+though we want<font color="#E5E5E5"> people to read the</font>
+
+106
+00:03:50,459 --> 00:03:52,680
+solutions in these wiki pages and to ask
+
+107
+00:03:52,680 --> 00:03:54,900
+the question why are we not doing<font color="#CCCCCC"> this</font>
+
+108
+00:03:54,900 --> 00:03:57,150
+now<font color="#E5E5E5"> it is that questioning which will</font>
+
+109
+00:03:57,150 --> 00:03:59,250
+spark critical thinking and get people
+
+110
+00:03:59,250 --> 00:04:01,829
+questioning their world I always<font color="#E5E5E5"> mention</font>
+
+111
+00:04:01,829 --> 00:04:03,989
+<font color="#E5E5E5">BBC's political panel show question time</font>
+
+112
+00:04:03,989 --> 00:04:05,489
+when explaining the need for this
+
+113
+00:04:05,489 --> 00:04:07,769
+database as the television program
+
+114
+00:04:07,769 --> 00:04:09,180
+demonstrates how the public<font color="#E5E5E5"> are</font>
+
+115
+00:04:09,180 --> 00:04:11,340
+frustrated<font color="#CCCCCC"> by politicians who are</font>
+
+116
+00:04:11,340 --> 00:04:13,230
+supposed to be the<font color="#E5E5E5"> problem solvers the</font>
+
+117
+00:04:13,230 --> 00:04:15,090
+<font color="#CCCCCC">public are always saying something along</font>
+
+118
+00:04:15,090 --> 00:04:17,010
+the lines of you said you were going to
+
+119
+00:04:17,010 --> 00:04:18,930
+do<font color="#CCCCCC"> this and why</font><font color="#E5E5E5"> aren't you doing this</font>
+
+120
+00:04:18,930 --> 00:04:21,570
+but by empowering the population with an
+
+121
+00:04:21,570 --> 00:04:23,160
+information database like the one I
+
+122
+00:04:23,160 --> 00:04:25,169
+<font color="#CCCCCC">proposed people on this show would start</font>
+
+123
+00:04:25,169 --> 00:04:27,660
+saying instead you said you were going
+
+124
+00:04:27,660 --> 00:04:29,880
+to do<font color="#E5E5E5"> this you haven't</font><font color="#CCCCCC"> done this this is</font>
+
+125
+00:04:29,880 --> 00:04:31,790
+why and this is what you should<font color="#CCCCCC"> be doing</font>
+
+126
+00:04:31,790 --> 00:04:34,560
+you know surely that is a desirable
+
+127
+00:04:34,560 --> 00:04:38,100
+attitude for us to have but don't get<font color="#E5E5E5"> me</font>
+
+128
+00:04:38,100 --> 00:04:39,900
+wrong this database<font color="#E5E5E5"> will take a long</font>
+
+129
+00:04:39,900 --> 00:04:42,449
+<font color="#CCCCCC">time to build but it is achievable you</font>
+
+130
+00:04:42,449 --> 00:04:44,460
+may<font color="#E5E5E5"> not be sure</font><font color="#CCCCCC"> what problems to tackle</font>
+
+131
+00:04:44,460 --> 00:04:46,290
+first<font color="#E5E5E5"> well in that case I</font><font color="#CCCCCC"> suggest</font>
+
+132
+00:04:46,290 --> 00:04:48,600
+watching the news taking the example
+
+133
+00:04:48,600 --> 00:04:50,639
+from earlier you may witness a news
+
+134
+00:04:50,639 --> 00:04:52,350
+bulletin about how gas prices are
+
+135
+00:04:52,350 --> 00:04:54,030
+continuing to<font color="#E5E5E5"> rise so therefore you</font>
+
+136
+00:04:54,030 --> 00:04:55,680
+would set up the<font color="#CCCCCC"> problem page and try</font>
+
+137
+00:04:55,680 --> 00:04:58,110
+and find<font color="#CCCCCC"> solutions for gas prices based</font>
+
+138
+00:04:58,110 --> 00:05:00,509
+on research and if this site does have
+
+139
+00:05:00,509 --> 00:05:02,729
+credibility society will begin to learn
+
+140
+00:05:02,729 --> 00:05:04,830
+<font color="#CCCCCC">that when more problems do occur they</font>
+
+141
+00:05:04,830 --> 00:05:06,660
+don't have to contact their local Member
+
+142
+00:05:06,660 --> 00:05:08,790
+of Parliament or Congress but<font color="#E5E5E5"> to go to a</font>
+
+143
+00:05:08,790 --> 00:05:11,120
+website that has complete transparency
+
+144
+00:05:11,120 --> 00:05:13,770
+the front page of the wiki site may have
+
+145
+00:05:13,770 --> 00:05:15,900
+<font color="#E5E5E5">a featured article of the day which is</font>
+
+146
+00:05:15,900 --> 00:05:17,280
+determined<font color="#CCCCCC"> by the biggest problems</font>
+
+147
+00:05:17,280 --> 00:05:19,889
+currently occurring in the world we of
+
+148
+00:05:19,889 --> 00:05:21,720
+course require experts in various fields
+
+149
+00:05:21,720 --> 00:05:24,030
+to oversee this project to ensure<font color="#CCCCCC"> that</font>
+
+150
+00:05:24,030 --> 00:05:25,680
+all solutions provided are accurate and
+
+151
+00:05:25,680 --> 00:05:28,650
+<font color="#E5E5E5">not misleading and a linguistic team who</font>
+
+152
+00:05:28,650 --> 00:05:30,210
+would be<font color="#CCCCCC"> able to translate these pages</font>
+
+153
+00:05:30,210 --> 00:05:32,729
+into all possible languages but of
+
+154
+00:05:32,729 --> 00:05:35,820
+<font color="#CCCCCC">course we need the content first</font><font color="#E5E5E5"> and it</font>
+
+155
+00:05:35,820 --> 00:05:37,710
+is crucial that this first stage going
+
+156
+00:05:37,710 --> 00:05:39,479
+to immense them quickly as<font color="#CCCCCC"> without a</font>
+
+157
+00:05:39,479 --> 00:05:41,190
+growing community of contributors
+
+158
+00:05:41,190 --> 00:05:43,530
+interest may be<font color="#E5E5E5"> lost in this project and</font>
+
+159
+00:05:43,530 --> 00:05:46,169
+it will never<font color="#CCCCCC"> take off if we get</font><font color="#E5E5E5"> the</font>
+
+160
+00:05:46,169 --> 00:05:47,970
+ball rolling this could become a very
+
+161
+00:05:47,970 --> 00:05:50,639
+powerful tool<font color="#E5E5E5"> for</font><font color="#CCCCCC"> people to use</font><font color="#E5E5E5"> all over</font>
+
+162
+00:05:50,639 --> 00:00:00,000
+the world
+

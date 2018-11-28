@@ -1,0 +1,79 @@
+so you've made it to the last round of a
+TV game show and have the chance to win
+a brand-new car
+it sits behind one of these three doors
+but the other two have a sad little goat
+behind them you make your choice and the
+host decides to reveal where one of the
+goats is he then offers you a chance to
+change your door do you do it
+does changing your choice even make a
+difference the short answer is yes even
+though it seems counterintuitive
+changing your door choice actually
+doubles your odds of winning the car but
+how is that possible this is the Monty
+Hall problem at the start most people
+correctly assume that you have a one in
+three chance of choosing the correct
+door but it would be incorrect to assume
+that when one door is removed each door
+now holds a 50/50 chance of having the
+car let's use a deck of cards to
+understand why pick a card from this
+deck without looking this card has a 1
+in 52 chance of being the ace of spades
+but now I'm going to flip over all the
+other cards except one none of which are
+the ace of spades of the two cards left
+which one seems more likely to be the
+ace of spades the one you chose randomly
+out of a deck of 52 or the one I
+purposefully and suspiciously left
+turned down it turns out your card
+remains at a chance of 1 in 52 where my
+card now has a 51 out of 52 probability
+of being the ace of spades
+the same principle is true with the
+three doors you see when I removed the
+door I did so with motive knowing there
+was a go behind it the only two
+scenarios that exists are a you chose
+the correct door and I'm arbitrarily
+picking one of the wrong choices to show
+you in which case staying will make you
+win or be you pick the wrong door and I
+show you the other incorrect answer in
+which case switching will make you win
+scenario a will always happen when you
+choose the winning door and B will
+always happen when you pick a losing
+door therefore a will happen one-third
+of the time and B will happen two-thirds
+of the time as such switching your door
+wins two out of three times this paradox
+has perplexed many people including
+scientists and mathematicians to this
+day because our gut tells us that
+switching will have no consequence but
+when using formal calculations or
+computer simulators the results don't
+lie switching your door increases the
+probability of winning
+let's see it one more time using a chart
+here are all the possible scenarios the
+car is behind door 1 2 or 3 and you have
+the choice of each three doors this
+means there are nine possible outcomes
+let's tell you them up quickly if it's
+behind door 1 and you chose door 1 you
+should stay but if you chose door 2 or 3
+you should switch if it's behind door 2
+and you chose door - you should stay but
+the other two you should switch add it
+all up and you should switch six out of
+nine times so do you still trust your
+gut feeling got a burning question you
+want answered ask it in the comments or
+on Facebook and Twitter and subscribe
+for more weekly science videos

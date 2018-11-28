@@ -1,0 +1,316 @@
+1
+00:00:00,030 --> 00:00:02,429
+so you've made it to<font color="#E5E5E5"> the last round of a</font>
+
+2
+00:00:02,429 --> 00:00:04,470
+TV game show and have the<font color="#E5E5E5"> chance to</font><font color="#CCCCCC"> win</font>
+
+3
+00:00:04,470 --> 00:00:05,819
+<font color="#CCCCCC">a brand-new car</font>
+
+4
+00:00:05,819 --> 00:00:07,649
+<font color="#CCCCCC">it sits</font><font color="#E5E5E5"> behind</font><font color="#CCCCCC"> one of</font><font color="#E5E5E5"> these three doors</font>
+
+5
+00:00:07,649 --> 00:00:09,809
+<font color="#CCCCCC">but the other two</font><font color="#E5E5E5"> have a sad little goat</font>
+
+6
+00:00:09,809 --> 00:00:11,969
+behind them<font color="#CCCCCC"> you make your choice</font><font color="#E5E5E5"> and the</font>
+
+7
+00:00:11,969 --> 00:00:13,679
+host decides to<font color="#CCCCCC"> reveal where one of the</font>
+
+8
+00:00:13,679 --> 00:00:15,960
+goats is he then offers you a chance to
+
+9
+00:00:15,960 --> 00:00:18,060
+<font color="#CCCCCC">change your door</font><font color="#E5E5E5"> do you do it</font>
+
+10
+00:00:18,060 --> 00:00:19,830
+does changing your choice even<font color="#CCCCCC"> make a</font>
+
+11
+00:00:19,830 --> 00:00:23,130
+difference<font color="#CCCCCC"> the short</font><font color="#E5E5E5"> answer is yes even</font>
+
+12
+00:00:23,130 --> 00:00:24,500
+though it seems counterintuitive
+
+13
+00:00:24,500 --> 00:00:26,640
+<font color="#E5E5E5">changing your door choice actually</font>
+
+14
+00:00:26,640 --> 00:00:29,039
+doubles<font color="#E5E5E5"> your odds of winning the car but</font>
+
+15
+00:00:29,039 --> 00:00:31,650
+how is<font color="#CCCCCC"> that possible</font><font color="#E5E5E5"> this is the</font><font color="#CCCCCC"> Monty</font>
+
+16
+00:00:31,650 --> 00:00:34,170
+Hall<font color="#CCCCCC"> problem at the start most people</font>
+
+17
+00:00:34,170 --> 00:00:35,700
+correctly assume that you have a one in
+
+18
+00:00:35,700 --> 00:00:37,140
+<font color="#CCCCCC">three chance</font><font color="#E5E5E5"> of choosing the correct</font>
+
+19
+00:00:37,140 --> 00:00:39,210
+door<font color="#E5E5E5"> but it would be incorrect</font><font color="#CCCCCC"> to assume</font>
+
+20
+00:00:39,210 --> 00:00:41,430
+<font color="#E5E5E5">that when one door</font><font color="#CCCCCC"> is removed each door</font>
+
+21
+00:00:41,430 --> 00:00:43,620
+now holds a 50/50<font color="#CCCCCC"> chance of having</font><font color="#E5E5E5"> the</font>
+
+22
+00:00:43,620 --> 00:00:45,600
+car let's use a deck of<font color="#E5E5E5"> cards</font><font color="#CCCCCC"> to</font>
+
+23
+00:00:45,600 --> 00:00:47,670
+understand why<font color="#E5E5E5"> pick a card from</font><font color="#CCCCCC"> this</font>
+
+24
+00:00:47,670 --> 00:00:49,860
+deck<font color="#CCCCCC"> without looking</font><font color="#E5E5E5"> this card has a 1</font>
+
+25
+00:00:49,860 --> 00:00:51,780
+<font color="#CCCCCC">in 52 chance of being</font><font color="#E5E5E5"> the ace of spades</font>
+
+26
+00:00:51,780 --> 00:00:54,570
+<font color="#CCCCCC">but now I'm going</font><font color="#E5E5E5"> to flip</font><font color="#CCCCCC"> over all the</font>
+
+27
+00:00:54,570 --> 00:00:56,730
+other cards<font color="#E5E5E5"> except one none of which are</font>
+
+28
+00:00:56,730 --> 00:00:58,949
+the ace of<font color="#CCCCCC"> spades of the two cards left</font>
+
+29
+00:00:58,949 --> 00:01:00,780
+<font color="#CCCCCC">which one seems more</font><font color="#E5E5E5"> likely to be the</font>
+
+30
+00:01:00,780 --> 00:01:03,149
+<font color="#CCCCCC">ace of spades the one you chose randomly</font>
+
+31
+00:01:03,149 --> 00:01:05,220
+<font color="#CCCCCC">out of a deck of 52 or the one I</font>
+
+32
+00:01:05,220 --> 00:01:07,049
+purposefully<font color="#E5E5E5"> and suspiciously left</font>
+
+33
+00:01:07,049 --> 00:01:09,479
+turned down<font color="#E5E5E5"> it turns out your card</font>
+
+34
+00:01:09,479 --> 00:01:12,060
+remains<font color="#E5E5E5"> at a chance of 1 in 52 where my</font>
+
+35
+00:01:12,060 --> 00:01:14,909
+card now has a 51<font color="#E5E5E5"> out of 52 probability</font>
+
+36
+00:01:14,909 --> 00:01:16,380
+of<font color="#E5E5E5"> being the ace of spades</font>
+
+37
+00:01:16,380 --> 00:01:18,180
+the same principle is<font color="#E5E5E5"> true with the</font>
+
+38
+00:01:18,180 --> 00:01:20,580
+<font color="#CCCCCC">three doors you see when I removed the</font>
+
+39
+00:01:20,580 --> 00:01:22,890
+door<font color="#E5E5E5"> I did so with motive</font><font color="#CCCCCC"> knowing there</font>
+
+40
+00:01:22,890 --> 00:01:24,659
+was<font color="#E5E5E5"> a go behind it the only two</font>
+
+41
+00:01:24,659 --> 00:01:27,180
+<font color="#CCCCCC">scenarios that exists are a you chose</font>
+
+42
+00:01:27,180 --> 00:01:28,920
+the<font color="#E5E5E5"> correct door and I'm arbitrarily</font>
+
+43
+00:01:28,920 --> 00:01:30,659
+<font color="#E5E5E5">picking one of the wrong choices to show</font>
+
+44
+00:01:30,659 --> 00:01:32,759
+you in which<font color="#E5E5E5"> case staying will make you</font>
+
+45
+00:01:32,759 --> 00:01:35,460
+win<font color="#E5E5E5"> or</font><font color="#CCCCCC"> be you pick the wrong door</font><font color="#E5E5E5"> and I</font>
+
+46
+00:01:35,460 --> 00:01:37,229
+show<font color="#CCCCCC"> you</font><font color="#E5E5E5"> the other incorrect answer in</font>
+
+47
+00:01:37,229 --> 00:01:39,090
+which case switching will make you win
+
+48
+00:01:39,090 --> 00:01:41,490
+scenario<font color="#CCCCCC"> a will</font><font color="#E5E5E5"> always happen when you</font>
+
+49
+00:01:41,490 --> 00:01:43,110
+choose the winning door and B will
+
+50
+00:01:43,110 --> 00:01:44,610
+always happen<font color="#E5E5E5"> when you pick a losing</font>
+
+51
+00:01:44,610 --> 00:01:46,950
+door<font color="#E5E5E5"> therefore a will happen</font><font color="#CCCCCC"> one-third</font>
+
+52
+00:01:46,950 --> 00:01:48,990
+of the time<font color="#E5E5E5"> and B will happen two-thirds</font>
+
+53
+00:01:48,990 --> 00:01:51,270
+of the time as such<font color="#E5E5E5"> switching your door</font>
+
+54
+00:01:51,270 --> 00:01:54,240
+wins<font color="#E5E5E5"> two out of three times</font><font color="#CCCCCC"> this paradox</font>
+
+55
+00:01:54,240 --> 00:01:55,860
+has<font color="#CCCCCC"> perplexed many people including</font>
+
+56
+00:01:55,860 --> 00:01:57,899
+<font color="#CCCCCC">scientists and mathematicians to this</font>
+
+57
+00:01:57,899 --> 00:01:59,520
+day because<font color="#CCCCCC"> our gut tells us that</font>
+
+58
+00:01:59,520 --> 00:02:01,560
+switching will have no consequence<font color="#CCCCCC"> but</font>
+
+59
+00:02:01,560 --> 00:02:03,360
+<font color="#E5E5E5">when using formal calculations or</font>
+
+60
+00:02:03,360 --> 00:02:05,219
+computer<font color="#E5E5E5"> simulators the results don't</font>
+
+61
+00:02:05,219 --> 00:02:07,380
+lie switching your door increases<font color="#E5E5E5"> the</font>
+
+62
+00:02:07,380 --> 00:02:08,470
+probability<font color="#CCCCCC"> of</font><font color="#E5E5E5"> winning</font>
+
+63
+00:02:08,470 --> 00:02:10,539
+let's see it one more<font color="#E5E5E5"> time using a chart</font>
+
+64
+00:02:10,539 --> 00:02:12,790
+<font color="#CCCCCC">here are all the possible scenarios</font><font color="#E5E5E5"> the</font>
+
+65
+00:02:12,790 --> 00:02:14,950
+car is<font color="#E5E5E5"> behind door 1 2 or 3</font><font color="#CCCCCC"> and you</font><font color="#E5E5E5"> have</font>
+
+66
+00:02:14,950 --> 00:02:16,630
+the choice of each<font color="#E5E5E5"> three doors this</font>
+
+67
+00:02:16,630 --> 00:02:18,670
+means there are<font color="#E5E5E5"> nine possible outcomes</font>
+
+68
+00:02:18,670 --> 00:02:20,500
+let's tell you them up quickly<font color="#E5E5E5"> if it's</font>
+
+69
+00:02:20,500 --> 00:02:22,360
+<font color="#E5E5E5">behind door</font><font color="#CCCCCC"> 1</font><font color="#E5E5E5"> and you chose door 1 you</font>
+
+70
+00:02:22,360 --> 00:02:24,400
+<font color="#CCCCCC">should stay</font><font color="#E5E5E5"> but if you chose door 2 or</font><font color="#CCCCCC"> 3</font>
+
+71
+00:02:24,400 --> 00:02:26,290
+you<font color="#CCCCCC"> should switch</font><font color="#E5E5E5"> if it's behind</font><font color="#CCCCCC"> door 2</font>
+
+72
+00:02:26,290 --> 00:02:28,150
+and you chose door<font color="#E5E5E5"> - you should stay but</font>
+
+73
+00:02:28,150 --> 00:02:29,830
+the other<font color="#E5E5E5"> two you</font><font color="#CCCCCC"> should switch</font><font color="#E5E5E5"> add it</font>
+
+74
+00:02:29,830 --> 00:02:31,630
+all up<font color="#E5E5E5"> and</font><font color="#CCCCCC"> you should</font><font color="#E5E5E5"> switch</font><font color="#CCCCCC"> six out of</font>
+
+75
+00:02:31,630 --> 00:02:34,540
+<font color="#E5E5E5">nine times so do you still trust your</font>
+
+76
+00:02:34,540 --> 00:02:36,910
+gut feeling<font color="#E5E5E5"> got a burning question you</font>
+
+77
+00:02:36,910 --> 00:02:38,890
+want answered<font color="#CCCCCC"> ask it</font><font color="#E5E5E5"> in the comments or</font>
+
+78
+00:02:38,890 --> 00:02:40,330
+on<font color="#CCCCCC"> Facebook</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> Twitter and subscribe</font>
+
+79
+00:02:40,330 --> 00:00:00,000
+<font color="#E5E5E5">for more weekly science videos</font>
+

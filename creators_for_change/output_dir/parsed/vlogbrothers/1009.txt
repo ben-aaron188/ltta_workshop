@@ -1,0 +1,134 @@
+good morning John it's Friday May 21st
+I've been a lot of things in my life
+I've been a biochemist I've been an
+environmental blogger I've been a social
+media consultant I've been a
+videographer I've been a Walmart
+associate but for a long time there I
+was a professional web developer I so
+can people ask me all the time Hank can
+you help me set up a website and so to
+all of those people who want me to help
+them with their website here's a video
+I'm going to show you how to set up a
+website and three minutes and 30 seconds
+all you got to do is do what I do and
+you have a website by the end of the day
+all you need is three minutes to do the
+work and about $80 making a website has
+always been the first step in a
+realization of an idea for me once I get
+it out onto the internet I feel like it
+has a life of its own
+so I feel like it's just an important
+thing to be able to get a website up
+online really fast so let's do that
+right now
+almost always the first thing I do is go
+to Busta name com so I can figure out
+what domain names are available because
+there's lots that aren't this is my
+domain name brainstorming place you just
+type in your domain name and I will tell
+you if it's available and once you have
+your domain name you head over to a and
+hosting com
+now you could register this domain name
+with godaddy but an hosting actually
+gives you a free domain name along with
+your hosting I've always been very
+impressed by a and hosting in their
+parent company this has been my go-to
+place for startup hosting for like five
+years or so I never have to wait for
+customer service and there's very little
+downtime and they are cheap so I'm
+leaving pretty much everything on the
+default option here except I'm changing
+to twelve months because I don't know
+whether or not this ID is going to be
+worth anything in twelve months from now
+so I generally don't like to pay for two
+years in advance though it will save you
+forty bucks if you do do that doo doo
+now comes the time when I type in well
+my personal information and credit card
+information so if you want to steal my
+identity
+too bad I'm gonna cut this out now
+here's one of the parts where you have
+to wait and Hosting is now setting up
+the hosting account and linking it with
+the domain name that actually takes a
+little bit of time they say it can take
+as long as 24 hours but I've never had
+it take longer than two hours during
+this down time I'm going to tell you
+that a and hosting in addition to being
+a great service that I have used for
+years also has an affiliate referral
+system so if you sign up through the
+link in the description I will get a
+referral fee if you don't want me to get
+a referral fee then don't click on the
+link in the description though honestly
+that doesn't seem very nice
+okay now sometimes it's best and I have
+received my welcome email from a and
+hosting we will be doing all of the
+setup through cPanel so I have to do is
+click on the cPanel link copy over my
+username and password and I'm inside
+cPanel now to set up a
+a great really powerful really simple
+website everyone these days is using
+WordPress because WordPress kicks ass
+and Ana hosting has a one-click
+wordpress installer called Softaculous
+it's at the bottom you click on it you
+click on WordPress fill in the things
+that you see me filling and now with the
+information that you want to put in
+those places the only thing I want
+mention here is to make sure that you're
+in directory which is the third thing
+down is blank and not WP which is the
+default click install and literally
+moments later it is installed it is done
+you can go to WP admin which is your
+admin screen and you can login with the
+username and password that you just
+created now what you've got here as a
+working WordPress site but the default
+theme isn't very interesting so I'm
+gonna search for WordPress themes in
+Google and I've come up with a wordpress
+theme database thing and you can scroll
+through these and look forever and try
+and find your best thing but I'm just
+going to choose the most popular one
+because the most popular one must be
+good right so I have now downloaded that
+file now I'm going to go back to my
+cPanel click on file manager make sure
+that I'm in my public HTML slash WWWE
+click on WP content and then themes and
+then upload that file that I just
+downloaded into the themes directory now
+I click on the check box and expand that
+zip file and the zip file is expanded
+into the themes directory and the theme
+is ready to be installed all you have to
+do is go to your WP admin click on
+appearance and select your brand new
+theme and it is all installed for you
+sweet and you've done it less than 4
+minutes of working we got a beautiful
+working WordPress site at four minutes
+site.com I really enjoyed doing a how-to
+video maybe we should do next week as
+how-to week if there's something that
+you want to learn how to do that you
+think John or I know how to do do-do-do
+how to do it these suggestions in the
+comments John I will see you on Monday

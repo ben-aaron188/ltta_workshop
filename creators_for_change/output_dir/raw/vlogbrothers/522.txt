@@ -1,0 +1,432 @@
+1
+00:00:00,030 --> 00:00:01,110
+good morning John<font color="#E5E5E5"> today we're gonna be</font>
+
+2
+00:00:01,110 --> 00:00:02,190
+<font color="#E5E5E5">doing something a little</font><font color="#CCCCCC"> bit different</font>
+
+3
+00:00:02,190 --> 00:00:03,540
+I'm gonna be holding<font color="#CCCCCC"> a debate</font><font color="#E5E5E5"> here in my</font>
+
+4
+00:00:03,540 --> 00:00:05,120
+house around the topic<font color="#E5E5E5"> of net neutrality</font>
+
+5
+00:00:05,120 --> 00:00:08,069
+featuring me an<font color="#CCCCCC"> internet user and me</font>
+
+6
+00:00:08,069 --> 00:00:10,800
+<font color="#E5E5E5">representing a cable company</font><font color="#CCCCCC"> on opposite</font>
+
+7
+00:00:10,800 --> 00:00:12,900
+sides of the<font color="#E5E5E5"> table literally</font><font color="#CCCCCC"> first</font>
+
+8
+00:00:12,900 --> 00:00:14,130
+things first for the viewers at home<font color="#E5E5E5"> I</font>
+
+9
+00:00:14,130 --> 00:00:15,509
+<font color="#CCCCCC">think we should</font><font color="#E5E5E5"> just define</font><font color="#CCCCCC"> what net</font>
+
+10
+00:00:15,509 --> 00:00:17,250
+neutrality<font color="#E5E5E5"> is sounds like</font><font color="#CCCCCC"> a fine place</font>
+
+11
+00:00:17,250 --> 00:00:19,380
+to<font color="#E5E5E5"> begin</font><font color="#CCCCCC"> so net neutrality is the</font><font color="#E5E5E5"> idea</font>
+
+12
+00:00:19,380 --> 00:00:20,760
+that Internet<font color="#CCCCCC"> service providers should</font>
+
+13
+00:00:20,760 --> 00:00:23,369
+provide access<font color="#E5E5E5"> to all of</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> Internet at</font>
+
+14
+00:00:23,369 --> 00:00:25,740
+the same speed<font color="#CCCCCC"> no</font><font color="#E5E5E5"> matter what content it</font>
+
+15
+00:00:25,740 --> 00:00:27,449
+<font color="#E5E5E5">is no one gets any preference fair</font>
+
+16
+00:00:27,449 --> 00:00:30,119
+definition<font color="#CCCCCC"> the question is is that</font><font color="#E5E5E5"> a</font>
+
+17
+00:00:30,119 --> 00:00:33,540
+<font color="#E5E5E5">good idea</font><font color="#CCCCCC"> like why should I an Internet</font>
+
+18
+00:00:33,540 --> 00:00:35,040
+service<font color="#E5E5E5"> provider have to provide</font>
+
+19
+00:00:35,040 --> 00:00:37,380
+<font color="#E5E5E5">gameofthrones via BitTorrent</font><font color="#CCCCCC"> at the same</font>
+
+20
+00:00:37,380 --> 00:00:40,020
+speed as I<font color="#E5E5E5"> provided through HBO go</font><font color="#CCCCCC"> oh</font>
+
+21
+00:00:40,020 --> 00:00:41,969
+<font color="#E5E5E5">okay you're not a law</font><font color="#CCCCCC"> enforcement agency</font>
+
+22
+00:00:41,969 --> 00:00:43,320
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> that's not your</font><font color="#CCCCCC"> job</font>
+
+23
+00:00:43,320 --> 00:00:45,480
+<font color="#CCCCCC">but like you shouldn't be determining</font>
+
+24
+00:00:45,480 --> 00:00:47,280
+how your users<font color="#E5E5E5"> use your service it's the</font>
+
+25
+00:00:47,280 --> 00:00:49,050
+<font color="#CCCCCC">Internet you just provide access</font><font color="#E5E5E5"> to it</font>
+
+26
+00:00:49,050 --> 00:00:51,059
+and but like my concern is that<font color="#E5E5E5"> if you</font>
+
+27
+00:00:51,059 --> 00:00:52,920
+do<font color="#E5E5E5"> it</font><font color="#CCCCCC"> to BitTorrent</font><font color="#E5E5E5"> that you'll do it</font>
+
+28
+00:00:52,920 --> 00:00:54,629
+<font color="#CCCCCC">too like a legitimate competitor</font><font color="#E5E5E5"> to your</font>
+
+29
+00:00:54,629 --> 00:00:56,309
+business like Netflix for example
+
+30
+00:00:56,309 --> 00:00:59,699
+no-one's<font color="#CCCCCC"> talking about doing</font><font color="#E5E5E5"> that you</font>
+
+31
+00:00:59,699 --> 00:01:02,579
+say that<font color="#E5E5E5"> but yeah they are</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> Comcast</font>
+
+32
+00:01:02,579 --> 00:01:05,489
+literally slowed down<font color="#E5E5E5"> Netflix's internet</font>
+
+33
+00:01:05,489 --> 00:01:08,220
+connection<font color="#E5E5E5"> and force them to pay to get</font>
+
+34
+00:01:08,220 --> 00:01:10,920
+faster access<font color="#CCCCCC"> to their customers like</font><font color="#E5E5E5"> it</font>
+
+35
+00:01:10,920 --> 00:01:12,659
+happened all<font color="#E5E5E5"> the random flicks is</font>
+
+36
+00:01:12,659 --> 00:01:14,909
+responsible for<font color="#E5E5E5"> over</font><font color="#CCCCCC"> 30% of</font><font color="#E5E5E5"> the</font>
+
+37
+00:01:14,909 --> 00:01:16,740
+bandwidth use in the<font color="#E5E5E5"> u.s. why should all</font>
+
+38
+00:01:16,740 --> 00:01:18,509
+<font color="#E5E5E5">of our customers regardless of whether</font>
+
+39
+00:01:18,509 --> 00:01:20,520
+they use<font color="#CCCCCC"> Netflix be required to</font><font color="#E5E5E5"> pay for</font>
+
+40
+00:01:20,520 --> 00:01:22,259
+<font color="#CCCCCC">the massive infrastructure upgrades</font>
+
+41
+00:01:22,259 --> 00:01:23,670
+necessary to provide that service
+
+42
+00:01:23,670 --> 00:01:26,369
+of course Netflix should pay<font color="#E5E5E5"> but we're</font>
+
+43
+00:01:26,369 --> 00:01:28,380
+not talking<font color="#CCCCCC"> about</font><font color="#E5E5E5"> slowing down</font><font color="#CCCCCC"> Netflix</font>
+
+44
+00:01:28,380 --> 00:01:30,030
+to make them pay we're just saying<font color="#E5E5E5"> we're</font>
+
+45
+00:01:30,030 --> 00:01:32,759
+<font color="#E5E5E5">gonna speed Netflix up if they do</font><font color="#CCCCCC"> panic</font>
+
+46
+00:01:32,759 --> 00:01:34,710
+<font color="#CCCCCC">if</font><font color="#E5E5E5"> you sped Netflix up without adding it</font>
+
+47
+00:01:34,710 --> 00:01:35,820
+in your bandwidth didn't you
+
+48
+00:01:35,820 --> 00:01:38,040
+definitionally slow someone else down in
+
+49
+00:01:38,040 --> 00:01:40,860
+order<font color="#E5E5E5"> to</font><font color="#CCCCCC"> speed</font><font color="#E5E5E5"> Netflix up you are right</font>
+
+50
+00:01:40,860 --> 00:01:42,299
+now for<font color="#CCCCCC"> the first time in American</font>
+
+51
+00:01:42,299 --> 00:01:44,040
+history making<font color="#CCCCCC"> the</font><font color="#E5E5E5"> internet</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> on level</font>
+
+52
+00:01:44,040 --> 00:01:45,899
+playing fields you<font color="#CCCCCC"> talked high and</font>
+
+53
+00:01:45,899 --> 00:01:48,000
+mighty<font color="#CCCCCC"> about economic efficiency</font><font color="#E5E5E5"> but</font>
+
+54
+00:01:48,000 --> 00:01:50,460
+what creates great economies is not
+
+55
+00:01:50,460 --> 00:01:52,829
+profit<font color="#E5E5E5"> it's competition</font><font color="#CCCCCC"> which</font><font color="#E5E5E5"> is what</font>
+
+56
+00:01:52,829 --> 00:01:54,810
+you're<font color="#E5E5E5"> trying to destroy I mean the</font>
+
+57
+00:01:54,810 --> 00:01:56,280
+Internet's a mature<font color="#CCCCCC"> industry now we</font>
+
+58
+00:01:56,280 --> 00:01:58,619
+can't keep running<font color="#CCCCCC"> around like it's 1998</font>
+
+59
+00:01:58,619 --> 00:02:00,299
+hey<font color="#E5E5E5"> be fun</font><font color="#CCCCCC"> feel good times it's time to</font>
+
+60
+00:02:00,299 --> 00:02:01,979
+buckle<font color="#CCCCCC"> down and turn this thing into</font><font color="#E5E5E5"> a</font>
+
+61
+00:02:01,979 --> 00:02:04,200
+real economic<font color="#E5E5E5"> engine we want to charge</font>
+
+62
+00:02:04,200 --> 00:02:06,270
+customers for<font color="#E5E5E5"> access to content and</font>
+
+63
+00:02:06,270 --> 00:02:08,550
+<font color="#E5E5E5">charge content companies for access</font><font color="#CCCCCC"> to</font>
+
+64
+00:02:08,550 --> 00:02:11,489
+the customers<font color="#E5E5E5"> we get paid twice it's</font>
+
+65
+00:02:11,489 --> 00:02:12,240
+great for
+
+66
+00:02:12,240 --> 00:02:16,350
+<font color="#E5E5E5">Russ the</font><font color="#CCCCCC"> internet is</font><font color="#E5E5E5"> not your business</font>
+
+67
+00:02:16,350 --> 00:02:18,270
+<font color="#CCCCCC">model the Internet is a massive</font>
+
+68
+00:02:18,270 --> 00:02:20,430
+technological<font color="#CCCCCC"> and economic and cultural</font>
+
+69
+00:02:20,430 --> 00:02:23,160
+force for good<font color="#E5E5E5"> that everyone should have</font>
+
+70
+00:02:23,160 --> 00:02:26,340
+<font color="#E5E5E5">equal access to and your place as a</font>
+
+71
+00:02:26,340 --> 00:02:28,500
+<font color="#E5E5E5">middle man does not decree through</font>
+
+72
+00:02:28,500 --> 00:02:30,750
+magical powers to extract value would
+
+73
+00:02:30,750 --> 00:02:33,210
+<font color="#E5E5E5">have returned</font><font color="#CCCCCC"> you have no right to</font>
+
+74
+00:02:33,210 --> 00:02:35,460
+<font color="#E5E5E5">decide</font><font color="#CCCCCC"> what information</font><font color="#E5E5E5"> goes at what</font>
+
+75
+00:02:35,460 --> 00:02:38,220
+speed<font color="#E5E5E5"> through your pipes and the only</font>
+
+76
+00:02:38,220 --> 00:02:39,510
+<font color="#E5E5E5">though I mean we're already</font><font color="#CCCCCC"> doing it</font>
+
+77
+00:02:39,510 --> 00:02:41,160
+with Netflix we're kind of<font color="#E5E5E5"> already set</font>
+
+78
+00:02:41,160 --> 00:02:43,110
+the precedent let's face it this<font color="#CCCCCC"> is a</font>
+
+79
+00:02:43,110 --> 00:02:45,420
+<font color="#E5E5E5">complicated legal thing and with the</font>
+
+80
+00:02:45,420 --> 00:02:47,370
+potential<font color="#E5E5E5"> upside for us we can afford a</font>
+
+81
+00:02:47,370 --> 00:02:50,570
+lot<font color="#E5E5E5"> of lawyers and lobbyists no offense</font>
+
+82
+00:02:50,570 --> 00:02:52,620
+but I<font color="#E5E5E5"> don't think you can plan on</font><font color="#CCCCCC"> our</font>
+
+83
+00:02:52,620 --> 00:02:56,400
+<font color="#E5E5E5">level guess we'll see John I'll see you</font>
+
+84
+00:02:56,400 --> 00:02:58,620
+<font color="#E5E5E5">on</font><font color="#CCCCCC"> Tuesday hi I'm a little bit worried</font>
+
+85
+00:02:58,620 --> 00:02:59,160
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> this</font>
+
+86
+00:02:59,160 --> 00:03:01,470
+I want the<font color="#CCCCCC"> internet to remain open and</font>
+
+87
+00:03:01,470 --> 00:03:04,080
+neutral in America<font color="#E5E5E5"> first selfish and</font>
+
+88
+00:03:04,080 --> 00:03:06,090
+also altruistic reasons<font color="#E5E5E5"> who can help and</font>
+
+89
+00:03:06,090 --> 00:03:08,460
+<font color="#E5E5E5">please do</font><font color="#CCCCCC"> the FCC is</font><font color="#E5E5E5"> currently asking</font>
+
+90
+00:03:08,460 --> 00:03:11,550
+<font color="#E5E5E5">for comments please go to comment at the</font>
+
+91
+00:03:11,550 --> 00:03:12,990
+FCC's<font color="#CCCCCC"> website there's a link in the</font>
+
+92
+00:03:12,990 --> 00:03:14,370
+<font color="#E5E5E5">description tell them to classify</font>
+
+93
+00:03:14,370 --> 00:03:16,230
+broadband<font color="#E5E5E5"> internet as a common carrier</font>
+
+94
+00:03:16,230 --> 00:03:18,390
+service which will prevent telecoms<font color="#CCCCCC"> from</font>
+
+95
+00:03:18,390 --> 00:03:20,940
+making the<font color="#E5E5E5"> internet a closed non neutral</font>
+
+96
+00:03:20,940 --> 00:03:22,260
+place do<font color="#E5E5E5"> you want to have more long term</font>
+
+97
+00:03:22,260 --> 00:03:23,910
+ways in the description<font color="#E5E5E5"> there are</font><font color="#CCCCCC"> a few</font>
+
+98
+00:03:23,910 --> 00:03:25,530
+<font color="#CCCCCC">organizations</font><font color="#E5E5E5"> that are</font><font color="#CCCCCC"> working on these</font>
+
+99
+00:03:25,530 --> 00:03:27,750
+issues<font color="#E5E5E5"> actually</font><font color="#CCCCCC"> hiring lawyers</font><font color="#E5E5E5"> and</font>
+
+100
+00:03:27,750 --> 00:03:29,490
+lobbyists to compete with<font color="#E5E5E5"> the telecoms</font>
+
+101
+00:03:29,490 --> 00:03:31,020
+<font color="#E5E5E5">you can give them money</font><font color="#CCCCCC"> you can give</font>
+
+102
+00:03:31,020 --> 00:03:32,220
+<font color="#E5E5E5">them</font><font color="#CCCCCC"> your time</font><font color="#E5E5E5"> you can give them</font><font color="#CCCCCC"> your</font>
+
+103
+00:03:32,220 --> 00:03:33,780
+<font color="#E5E5E5">action and you can call your Congress</font>
+
+104
+00:03:33,780 --> 00:03:35,160
+people<font color="#E5E5E5"> I love the internet a lot</font><font color="#CCCCCC"> and I</font>
+
+105
+00:03:35,160 --> 00:03:36,750
+bet<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you do too and</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> am worried</font>
+
+106
+00:03:36,750 --> 00:03:38,160
+what's gonna happen if<font color="#E5E5E5"> we let the</font>
+
+107
+00:03:38,160 --> 00:03:39,630
+<font color="#CCCCCC">middlemen decide what the internet is</font>
+
+108
+00:03:39,630 --> 00:00:00,000
+like<font color="#E5E5E5"> frankly I don't</font><font color="#CCCCCC"> trust them</font>
+

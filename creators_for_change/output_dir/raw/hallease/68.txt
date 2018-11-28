@@ -1,0 +1,608 @@
+1
+00:00:00,060 --> 00:00:01,319
+so a question<font color="#CCCCCC"> that I seem to be getting</font>
+
+2
+00:00:01,319 --> 00:00:04,799
+asked a lot on my videos is<font color="#E5E5E5"> how do you</font>
+
+3
+00:00:04,799 --> 00:00:07,740
+<font color="#CCCCCC">edit videos</font><font color="#E5E5E5"> and on the one hand I</font>
+
+4
+00:00:07,740 --> 00:00:09,330
+appreciate the question<font color="#E5E5E5"> because</font><font color="#CCCCCC"> that</font>
+
+5
+00:00:09,330 --> 00:00:12,690
+means that<font color="#E5E5E5"> my videos</font><font color="#CCCCCC"> are being edited so</font>
+
+6
+00:00:12,690 --> 00:00:14,790
+well that you<font color="#CCCCCC"> feel that I am a resource</font>
+
+7
+00:00:14,790 --> 00:00:19,260
+to come to<font color="#E5E5E5"> write which thank you thank</font>
+
+8
+00:00:19,260 --> 00:00:19,590
+you
+
+9
+00:00:19,590 --> 00:00:22,890
+but inevitably I don't really know how
+
+10
+00:00:22,890 --> 00:00:25,980
+to<font color="#E5E5E5"> answer that question because I feel</font>
+
+11
+00:00:25,980 --> 00:00:28,170
+like<font color="#E5E5E5"> you probably already know</font><font color="#CCCCCC"> how</font><font color="#E5E5E5"> to</font>
+
+12
+00:00:28,170 --> 00:00:31,380
+edit videos<font color="#E5E5E5"> you know you go out and you</font>
+
+13
+00:00:31,380 --> 00:00:33,630
+get some footage from somewhere<font color="#E5E5E5"> whether</font>
+
+14
+00:00:33,630 --> 00:00:38,270
+it<font color="#E5E5E5"> be on your phone or on a DSLR</font><font color="#CCCCCC"> or an</font>
+
+15
+00:00:38,270 --> 00:00:41,480
+SLR a mirrorless<font color="#E5E5E5"> camera or</font>
+
+16
+00:00:41,480 --> 00:00:43,440
+point-and-shoot whatever<font color="#CCCCCC"> maybe you</font>
+
+17
+00:00:43,440 --> 00:00:45,809
+purchase it online<font color="#CCCCCC"> wherever you get some</font>
+
+18
+00:00:45,809 --> 00:00:48,750
+footage<font color="#CCCCCC"> you then</font><font color="#E5E5E5"> drop that footage into</font>
+
+19
+00:00:48,750 --> 00:00:50,969
+some kind of editing software<font color="#CCCCCC"> I use</font>
+
+20
+00:00:50,969 --> 00:00:52,949
+Premiere Pro but<font color="#E5E5E5"> there's many others</font>
+
+21
+00:00:52,949 --> 00:00:56,760
+Final<font color="#E5E5E5"> Cut Pro 10 iMovie iMovie is now on</font>
+
+22
+00:00:56,760 --> 00:00:58,829
+your<font color="#E5E5E5"> iPhone</font><font color="#CCCCCC"> so then you put the</font><font color="#E5E5E5"> footage</font>
+
+23
+00:00:58,829 --> 00:01:01,170
+<font color="#E5E5E5">into whatever editing platform</font><font color="#CCCCCC"> you're</font>
+
+24
+00:01:01,170 --> 00:01:03,390
+<font color="#CCCCCC">using you play around</font><font color="#E5E5E5"> with it until you</font>
+
+25
+00:01:03,390 --> 00:01:05,309
+<font color="#E5E5E5">get something that you like or at</font><font color="#CCCCCC"> least</font>
+
+26
+00:01:05,309 --> 00:01:07,860
+something<font color="#CCCCCC"> that is maybe beginning to</font>
+
+27
+00:01:07,860 --> 00:01:10,229
+somewhat resemble how you envisioned<font color="#E5E5E5"> and</font>
+
+28
+00:01:10,229 --> 00:01:12,810
+you post it or<font color="#E5E5E5"> maybe you don't post it</font>
+
+29
+00:01:12,810 --> 00:01:14,909
+<font color="#E5E5E5">and you made</font><font color="#CCCCCC"> it purely</font><font color="#E5E5E5"> for yourself and</font>
+
+30
+00:01:14,909 --> 00:01:17,520
+you just watch it<font color="#CCCCCC"> on</font><font color="#E5E5E5"> your</font><font color="#CCCCCC"> phone whenever</font>
+
+31
+00:01:17,520 --> 00:01:19,140
+you want to you because it's yours and
+
+32
+00:01:19,140 --> 00:01:21,840
+<font color="#E5E5E5">you made</font><font color="#CCCCCC"> it and you know you make art</font>
+
+33
+00:01:21,840 --> 00:01:23,340
+<font color="#E5E5E5">for yourself who cares if someone else</font>
+
+34
+00:01:23,340 --> 00:01:26,610
+<font color="#E5E5E5">sees</font><font color="#CCCCCC"> it you know and</font><font color="#E5E5E5"> that's it but I</font>
+
+35
+00:01:26,610 --> 00:01:28,380
+feel<font color="#E5E5E5"> like that's not</font><font color="#CCCCCC"> the answer y'all</font>
+
+36
+00:01:28,380 --> 00:01:31,619
+want to hear I feel like I feel like
+
+37
+00:01:31,619 --> 00:01:33,990
+<font color="#E5E5E5">y'all want me to kind of hold your hand</font>
+
+38
+00:01:33,990 --> 00:01:37,650
+through<font color="#CCCCCC"> this process and the reality is</font>
+
+39
+00:01:37,650 --> 00:01:39,860
+<font color="#CCCCCC">I'm not</font><font color="#E5E5E5"> gonna do that</font>
+
+40
+00:01:39,860 --> 00:01:42,590
+that's<font color="#E5E5E5"> that's just not what I'm gonna do</font>
+
+41
+00:01:42,590 --> 00:01:46,150
+<font color="#E5E5E5">now I will help you</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> will</font><font color="#CCCCCC"> I will</font>
+
+42
+00:01:46,150 --> 00:01:48,770
+<font color="#CCCCCC">definitely help you what's what are</font><font color="#E5E5E5"> some</font>
+
+43
+00:01:48,770 --> 00:01:50,750
+of the theories of behind editing you
+
+44
+00:01:50,750 --> 00:01:53,900
+know I can answer<font color="#CCCCCC"> that</font><font color="#E5E5E5"> I'll need a dust</font>
+
+45
+00:01:53,900 --> 00:01:57,050
+off<font color="#CCCCCC"> my notes</font><font color="#E5E5E5"> from college and film</font>
+
+46
+00:01:57,050 --> 00:01:59,390
+school because<font color="#E5E5E5"> now a</font><font color="#CCCCCC"> lot of</font><font color="#E5E5E5"> the theory</font>
+
+47
+00:01:59,390 --> 00:02:01,250
+is<font color="#CCCCCC"> just second nature</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> incorporate it</font>
+
+48
+00:02:01,250 --> 00:02:02,600
+into videos<font color="#E5E5E5"> without even really thinking</font>
+
+49
+00:02:02,600 --> 00:02:04,940
+<font color="#CCCCCC">about it anymore I'll need a</font><font color="#E5E5E5"> like reread</font>
+
+50
+00:02:04,940 --> 00:02:06,650
+in the blink of an eye and all that kind
+
+51
+00:02:06,650 --> 00:02:09,080
+of stuff again but I can come back to
+
+52
+00:02:09,080 --> 00:02:10,100
+you and<font color="#CCCCCC"> we can talk about different</font>
+
+53
+00:02:10,100 --> 00:02:12,320
+<font color="#CCCCCC">theories</font><font color="#E5E5E5"> behind editing and how you can</font>
+
+54
+00:02:12,320 --> 00:02:14,180
+then incorporate<font color="#CCCCCC"> them into your own</font>
+
+55
+00:02:14,180 --> 00:02:17,480
+<font color="#E5E5E5">edits to make them better</font><font color="#CCCCCC"> or maybe</font>
+
+56
+00:02:17,480 --> 00:02:19,040
+you're more the vocational route<font color="#E5E5E5"> which</font>
+
+57
+00:02:19,040 --> 00:02:21,110
+<font color="#CCCCCC">is how</font><font color="#E5E5E5"> most people get into this anyway</font>
+
+58
+00:02:21,110 --> 00:02:23,480
+<font color="#CCCCCC">most</font><font color="#E5E5E5"> successful people that I have met</font>
+
+59
+00:02:23,480 --> 00:02:26,270
+that<font color="#CCCCCC"> are in film and video production</font><font color="#E5E5E5"> or</font>
+
+60
+00:02:26,270 --> 00:02:29,120
+creators<font color="#E5E5E5"> and things like that have</font>
+
+61
+00:02:29,120 --> 00:02:31,490
+started<font color="#CCCCCC"> off</font><font color="#E5E5E5"> doing this as a hobby or</font>
+
+62
+00:02:31,490 --> 00:02:33,290
+<font color="#CCCCCC">just something that</font><font color="#E5E5E5"> they were interested</font>
+
+63
+00:02:33,290 --> 00:02:35,030
+in and<font color="#CCCCCC"> maybe they had some mentorship</font>
+
+64
+00:02:35,030 --> 00:02:37,400
+<font color="#E5E5E5">along the way</font><font color="#CCCCCC"> but for the most</font><font color="#E5E5E5"> part</font>
+
+65
+00:02:37,400 --> 00:02:39,410
+<font color="#CCCCCC">they're self-taught so if there's</font>
+
+66
+00:02:39,410 --> 00:02:42,290
+something<font color="#CCCCCC"> specific you need you know how</font>
+
+67
+00:02:42,290 --> 00:02:44,720
+to import<font color="#E5E5E5"> footage better into premiere</font>
+
+68
+00:02:44,720 --> 00:02:48,830
+what's the standard workflow<font color="#E5E5E5"> or specific</font>
+
+69
+00:02:48,830 --> 00:02:50,780
+things<font color="#CCCCCC"> like</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> I'm more</font><font color="#E5E5E5"> than happy to</font>
+
+70
+00:02:50,780 --> 00:02:52,670
+<font color="#E5E5E5">put together a kind of tutorial for you</font>
+
+71
+00:02:52,670 --> 00:02:54,530
+<font color="#E5E5E5">because honestly it also keeps me sharp</font>
+
+72
+00:02:54,530 --> 00:02:58,220
+<font color="#CCCCCC">in my editing skills</font><font color="#E5E5E5"> because I've been</font>
+
+73
+00:02:58,220 --> 00:03:01,040
+up doing this for so long<font color="#E5E5E5"> professionally</font>
+
+74
+00:03:01,040 --> 00:03:04,670
+<font color="#E5E5E5">you can get kind of rusty actually which</font>
+
+75
+00:03:04,670 --> 00:03:06,620
+<font color="#E5E5E5">is why it's just another</font><font color="#CCCCCC"> reason of why I</font>
+
+76
+00:03:06,620 --> 00:03:08,540
+have a<font color="#CCCCCC"> youtube channel I just feel</font><font color="#E5E5E5"> like</font>
+
+77
+00:03:08,540 --> 00:03:11,330
+you should<font color="#CCCCCC"> take the</font><font color="#E5E5E5"> first step though go</font>
+
+78
+00:03:11,330 --> 00:03:13,250
+out and shoot something something simple
+
+79
+00:03:13,250 --> 00:03:17,450
+<font color="#E5E5E5">and by iMovie on your iPhone or if you</font>
+
+80
+00:03:17,450 --> 00:03:19,730
+probably<font color="#E5E5E5"> have any kind of MacBook device</font>
+
+81
+00:03:19,730 --> 00:03:22,550
+<font color="#E5E5E5">I think you already</font><font color="#CCCCCC"> have iMovie on it</font><font color="#E5E5E5"> or</font>
+
+82
+00:03:22,550 --> 00:03:24,019
+<font color="#E5E5E5">maybe you've got a little bit of coinage</font>
+
+83
+00:03:24,019 --> 00:03:26,540
+<font color="#CCCCCC">and you can buy Final Cut Pro</font><font color="#E5E5E5"> 10 I think</font>
+
+84
+00:03:26,540 --> 00:03:28,910
+<font color="#CCCCCC">it's like 300 dollars or something like</font>
+
+85
+00:03:28,910 --> 00:03:31,310
+<font color="#CCCCCC">that to give you an idea of where Final</font>
+
+86
+00:03:31,310 --> 00:03:33,620
+Cut<font color="#CCCCCC"> Pro 10 has come from</font><font color="#E5E5E5"> that Final Cut</font>
+
+87
+00:03:33,620 --> 00:03:36,410
+Pro<font color="#E5E5E5"> 7 is what I learned how</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> edit on</font>
+
+88
+00:03:36,410 --> 00:03:38,299
+and a few iterations before<font color="#E5E5E5"> that and</font>
+
+89
+00:03:38,299 --> 00:03:42,680
+<font color="#E5E5E5">that platform</font><font color="#CCCCCC"> cost upward of $2000</font><font color="#E5E5E5"> when</font>
+
+90
+00:03:42,680 --> 00:03:43,590
+I was in
+
+91
+00:03:43,590 --> 00:03:45,569
+Final Cut<font color="#CCCCCC"> Pro 10 is something</font>
+
+92
+00:03:45,569 --> 00:03:47,310
+ridiculously inexpensive now it's like
+
+93
+00:03:47,310 --> 00:03:50,580
+300<font color="#CCCCCC"> bucks it's like crazy to me</font>
+
+94
+00:03:50,580 --> 00:03:53,580
+but<font color="#E5E5E5"> that's the beauty</font><font color="#CCCCCC"> of editing video</font>
+
+95
+00:03:53,580 --> 00:03:56,760
+and being in video<font color="#E5E5E5"> is that it's</font>
+
+96
+00:03:56,760 --> 00:03:59,100
+constantly<font color="#CCCCCC"> changing the technology now</font>
+
+97
+00:03:59,100 --> 00:04:01,709
+is enabling so many different<font color="#E5E5E5"> kind of</font>
+
+98
+00:04:01,709 --> 00:04:03,510
+people<font color="#CCCCCC"> with so many</font><font color="#E5E5E5"> different economic</font>
+
+99
+00:04:03,510 --> 00:04:06,000
+backgrounds<font color="#CCCCCC"> to get into it really</font><font color="#E5E5E5"> easy a</font>
+
+100
+00:04:06,000 --> 00:04:08,430
+lot easier than<font color="#E5E5E5"> when I was starting</font><font color="#CCCCCC"> out</font>
+
+101
+00:04:08,430 --> 00:04:11,700
+even which isn't that<font color="#CCCCCC"> long ago</font><font color="#E5E5E5"> it's</font>
+
+102
+00:04:11,700 --> 00:04:13,620
+never been easier<font color="#CCCCCC"> just start it up</font><font color="#E5E5E5"> just</font>
+
+103
+00:04:13,620 --> 00:04:16,010
+go out<font color="#E5E5E5"> and</font><font color="#CCCCCC"> shoot something</font><font color="#E5E5E5"> your phone is</font>
+
+104
+00:04:16,010 --> 00:04:18,899
+amazing it can shoot great stuff I mean
+
+105
+00:04:18,899 --> 00:04:21,418
+you know<font color="#E5E5E5"> throw it into whatever editing</font>
+
+106
+00:04:21,418 --> 00:04:23,130
+software<font color="#CCCCCC"> you have</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> just start playing</font>
+
+107
+00:04:23,130 --> 00:04:26,070
+<font color="#E5E5E5">with</font><font color="#CCCCCC"> it you</font><font color="#E5E5E5"> know</font><font color="#CCCCCC"> just start just just</font>
+
+108
+00:04:26,070 --> 00:04:28,260
+just<font color="#E5E5E5"> start that's the answer to editing</font>
+
+109
+00:04:28,260 --> 00:04:32,160
+videos you just<font color="#E5E5E5"> start and when you start</font>
+
+110
+00:04:32,160 --> 00:04:34,440
+and you<font color="#E5E5E5"> play</font><font color="#CCCCCC"> around in that editing</font>
+
+111
+00:04:34,440 --> 00:04:36,810
+software for<font color="#CCCCCC"> a</font><font color="#E5E5E5"> few hours</font><font color="#CCCCCC"> you will start</font>
+
+112
+00:04:36,810 --> 00:04:40,380
+to<font color="#E5E5E5"> have very specific questions</font><font color="#CCCCCC"> of</font>
+
+113
+00:04:40,380 --> 00:04:42,600
+things you would like me<font color="#CCCCCC"> to</font><font color="#E5E5E5"> answer</font><font color="#CCCCCC"> for</font>
+
+114
+00:04:42,600 --> 00:04:44,790
+you and<font color="#E5E5E5"> when you do come back</font><font color="#CCCCCC"> to this</font>
+
+115
+00:04:44,790 --> 00:04:47,220
+video<font color="#CCCCCC"> put it in the comments below</font><font color="#E5E5E5"> and I</font>
+
+116
+00:04:47,220 --> 00:04:50,790
+will<font color="#CCCCCC"> be</font><font color="#E5E5E5"> excited so excited</font><font color="#CCCCCC"> to answer</font>
+
+117
+00:04:50,790 --> 00:04:53,250
+<font color="#CCCCCC">those</font><font color="#E5E5E5"> questions</font><font color="#CCCCCC"> or maybe I won't even</font>
+
+118
+00:04:53,250 --> 00:04:56,479
+<font color="#E5E5E5">know and we will figure it out together</font>
+
+119
+00:04:56,479 --> 00:05:01,320
+so I guess that's<font color="#E5E5E5"> my biggest thing I'm</font>
+
+120
+00:05:01,320 --> 00:05:03,240
+not gonna hold your<font color="#E5E5E5"> hand</font><font color="#CCCCCC"> but I am more</font>
+
+121
+00:05:03,240 --> 00:05:05,400
+than<font color="#E5E5E5"> willing to help</font><font color="#CCCCCC"> I just want to see</font>
+
+122
+00:05:05,400 --> 00:05:07,830
+<font color="#E5E5E5">that you are taking the</font><font color="#CCCCCC"> first step in</font>
+
+123
+00:05:07,830 --> 00:05:10,650
+order<font color="#CCCCCC"> to do it I mean I there's this</font>
+
+124
+00:05:10,650 --> 00:05:13,050
+<font color="#E5E5E5">great interview by Ava Duvernay</font><font color="#CCCCCC"> I'll</font>
+
+125
+00:05:13,050 --> 00:05:15,960
+play it right now for<font color="#CCCCCC"> you from</font><font color="#E5E5E5"> Ava Ava</font>
+
+126
+00:05:15,960 --> 00:05:35,700
+is<font color="#CCCCCC"> Bay tell us how to do it some</font><font color="#E5E5E5"> people</font>
+
+127
+00:05:35,700 --> 00:05:38,400
+get lucky<font color="#CCCCCC"> but most of us</font><font color="#E5E5E5"> have</font><font color="#CCCCCC"> to do it</font>
+
+128
+00:05:38,400 --> 00:05:39,539
+<font color="#E5E5E5">for ourselves and the sooner you</font><font color="#CCCCCC"> realize</font>
+
+129
+00:05:39,539 --> 00:05:42,539
+<font color="#E5E5E5">that let me step out and begin just</font>
+
+130
+00:05:42,539 --> 00:05:45,930
+<font color="#E5E5E5">begin</font><font color="#CCCCCC"> you will start</font><font color="#E5E5E5"> to find</font><font color="#CCCCCC"> your</font>
+
+131
+00:05:45,930 --> 00:05:48,360
+momentum<font color="#CCCCCC"> I mean it's a very</font><font color="#E5E5E5"> simple</font><font color="#CCCCCC"> piece</font>
+
+132
+00:05:48,360 --> 00:05:50,550
+of<font color="#E5E5E5"> advice but so often I hear people</font>
+
+133
+00:05:50,550 --> 00:05:52,470
+<font color="#CCCCCC">saying oh how do I get</font><font color="#E5E5E5"> started how do I</font>
+
+134
+00:05:52,470 --> 00:05:53,390
+do this
+
+135
+00:05:53,390 --> 00:05:55,520
+<font color="#E5E5E5">how do you do</font><font color="#CCCCCC"> it you just start you have</font>
+
+136
+00:05:55,520 --> 00:05:57,350
+<font color="#E5E5E5">to begin and it won't be perfect and</font>
+
+137
+00:05:57,350 --> 00:05:59,420
+it'll be messy<font color="#E5E5E5"> and it'll be hard but</font>
+
+138
+00:05:59,420 --> 00:06:01,070
+you're doing<font color="#E5E5E5"> something</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> your</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> your</font>
+
+139
+00:06:01,070 --> 00:06:04,640
+<font color="#E5E5E5">way and that's I honestly that's the</font>
+
+140
+00:06:04,640 --> 00:06:05,060
+truth
+
+141
+00:06:05,060 --> 00:06:08,930
+I mean you<font color="#CCCCCC"> just start</font><font color="#E5E5E5"> that's how you</font>
+
+142
+00:06:08,930 --> 00:06:10,820
+start editing<font color="#E5E5E5"> videos</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> you start</font>
+
+143
+00:06:10,820 --> 00:06:12,620
+editing<font color="#E5E5E5"> videos I'm sure that's not the</font>
+
+144
+00:06:12,620 --> 00:06:15,880
+<font color="#E5E5E5">answer</font><font color="#CCCCCC"> y'all want but it's the right one</font>
+
+145
+00:06:15,880 --> 00:06:19,480
+so that's but when I'm gonna<font color="#E5E5E5"> give you I</font>
+
+146
+00:06:19,480 --> 00:06:21,650
+feel<font color="#CCCCCC"> like what</font><font color="#E5E5E5"> you're asking me is how</font>
+
+147
+00:06:21,650 --> 00:06:25,220
+do I get<font color="#CCCCCC"> motivated that night I can't</font>
+
+148
+00:06:25,220 --> 00:06:26,290
+help
+
+149
+00:06:26,290 --> 00:06:30,440
+so yeah<font color="#E5E5E5"> that's me I'll see you when I</font>
+
+150
+00:06:30,440 --> 00:06:33,530
+see<font color="#CCCCCC"> you which will</font><font color="#E5E5E5"> be tomorrow because</font>
+
+151
+00:06:33,530 --> 00:06:35,370
+it's<font color="#E5E5E5"> Veda</font>
+
+152
+00:06:35,370 --> 00:00:00,000
+[Music]
+

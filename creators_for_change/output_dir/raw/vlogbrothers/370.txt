@@ -1,0 +1,520 @@
+1
+00:00:00,030 --> 00:00:02,790
+good morning John<font color="#E5E5E5"> this is a QR</font><font color="#CCCCCC"> code it's</font>
+
+2
+00:00:02,790 --> 00:00:04,950
+a way of<font color="#E5E5E5"> visually representing data just</font>
+
+3
+00:00:04,950 --> 00:00:07,620
+like barcodes or snap codes or<font color="#E5E5E5"> facial</font>
+
+4
+00:00:07,620 --> 00:00:10,050
+expressions<font color="#E5E5E5"> or the written word and</font><font color="#CCCCCC"> I</font>
+
+5
+00:00:10,050 --> 00:00:10,769
+was<font color="#E5E5E5"> looking at one</font><font color="#CCCCCC"> of these things</font>
+
+6
+00:00:10,769 --> 00:00:12,090
+<font color="#CCCCCC">recently I thought to myself how much</font>
+
+7
+00:00:12,090 --> 00:00:14,519
+data could you<font color="#E5E5E5"> really fit on a QR</font><font color="#CCCCCC"> code</font>
+
+8
+00:00:14,519 --> 00:00:16,230
+well<font color="#CCCCCC"> QR codes are complicated</font><font color="#E5E5E5"> and I</font>
+
+9
+00:00:16,230 --> 00:00:17,369
+don't<font color="#CCCCCC"> have enough time</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> explain them</font>
+
+10
+00:00:17,369 --> 00:00:19,350
+in total<font color="#CCCCCC"> but suffice</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> say</font><font color="#E5E5E5"> that each</font>
+
+11
+00:00:19,350 --> 00:00:23,609
+<font color="#E5E5E5">block of</font><font color="#CCCCCC"> two by four squares codes for</font>
+
+12
+00:00:23,609 --> 00:00:26,849
+one<font color="#E5E5E5"> byte</font><font color="#CCCCCC"> of data one character of</font><font color="#E5E5E5"> text</font>
+
+13
+00:00:26,849 --> 00:00:28,680
+question I had was could<font color="#E5E5E5"> you print out</font>
+
+14
+00:00:28,680 --> 00:00:31,170
+all of<font color="#E5E5E5"> Wikipedia on one QR code and have</font>
+
+15
+00:00:31,170 --> 00:00:33,000
+a camera<font color="#E5E5E5"> that could scan that code</font><font color="#CCCCCC"> and</font>
+
+16
+00:00:33,000 --> 00:00:34,320
+then you could<font color="#E5E5E5"> get all of Wikipedia just</font>
+
+17
+00:00:34,320 --> 00:00:36,870
+by scanning<font color="#E5E5E5"> one QR code I'm aware that</font>
+
+18
+00:00:36,870 --> 00:00:38,610
+<font color="#CCCCCC">this is a dumb question but it is</font><font color="#E5E5E5"> the</font>
+
+19
+00:00:38,610 --> 00:00:40,230
+<font color="#E5E5E5">kind of dumb question that I</font><font color="#CCCCCC"> very much</font>
+
+20
+00:00:40,230 --> 00:00:42,450
+enjoy figuring out the answer<font color="#CCCCCC"> to just</font>
+
+21
+00:00:42,450 --> 00:00:44,219
+the text portions of just the English
+
+22
+00:00:44,219 --> 00:00:46,649
+<font color="#E5E5E5">portion of Wikipedia</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> about 24</font>
+
+23
+00:00:46,649 --> 00:00:47,760
+terabytes
+
+24
+00:00:47,760 --> 00:00:50,309
+that's 24 trillion<font color="#CCCCCC"> bytes and</font><font color="#E5E5E5"> so in</font><font color="#CCCCCC"> order</font>
+
+25
+00:00:50,309 --> 00:00:51,930
+<font color="#CCCCCC">to get the number of</font><font color="#E5E5E5"> squares we need we</font>
+
+26
+00:00:51,930 --> 00:00:53,550
+just<font color="#E5E5E5"> multiply</font><font color="#CCCCCC"> that by 8</font><font color="#E5E5E5"> because it's 8</font>
+
+27
+00:00:53,550 --> 00:00:54,960
+squares per byte<font color="#CCCCCC"> I</font><font color="#E5E5E5"> don't really want to</font>
+
+28
+00:00:54,960 --> 00:00:56,160
+<font color="#E5E5E5">know how many squares this thing's gonna</font>
+
+29
+00:00:56,160 --> 00:00:57,300
+be<font color="#CCCCCC"> I want to know how many squares it's</font>
+
+30
+00:00:57,300 --> 00:00:59,280
+<font color="#CCCCCC">going to be on each side so we take the</font>
+
+31
+00:00:59,280 --> 00:01:00,480
+square<font color="#E5E5E5"> root</font><font color="#CCCCCC"> of that number figure</font><font color="#E5E5E5"> out</font>
+
+32
+00:01:00,480 --> 00:01:02,309
+how much<font color="#E5E5E5"> actual space that will take up</font>
+
+33
+00:01:02,309 --> 00:01:03,780
+we have to figure out<font color="#CCCCCC"> how big each one</font>
+
+34
+00:01:03,780 --> 00:01:05,159
+of those tiny little<font color="#CCCCCC"> blocks</font><font color="#E5E5E5"> is I'm gonna</font>
+
+35
+00:01:05,159 --> 00:01:06,659
+say<font color="#E5E5E5"> about</font><font color="#CCCCCC"> 2 millimeters because</font><font color="#E5E5E5"> that's</font>
+
+36
+00:01:06,659 --> 00:01:08,610
+<font color="#E5E5E5">pretty easy to both print</font><font color="#CCCCCC"> and to read</font>
+
+37
+00:01:08,610 --> 00:01:10,200
+for a QR code reader you multiply that
+
+38
+00:01:10,200 --> 00:01:11,460
+number by<font color="#CCCCCC"> 2 and then convert from</font>
+
+39
+00:01:11,460 --> 00:01:12,900
+<font color="#E5E5E5">millimeters to kilometers and there you</font>
+
+40
+00:01:12,900 --> 00:01:14,820
+<font color="#CCCCCC">have it you have a QR code that's just</font>
+
+41
+00:01:14,820 --> 00:01:17,670
+27 kilometers on a side that<font color="#CCCCCC"> has all of</font>
+
+42
+00:01:17,670 --> 00:01:19,290
+Wikipedia<font color="#E5E5E5"> on it and of</font><font color="#CCCCCC"> course this is</font>
+
+43
+00:01:19,290 --> 00:01:20,729
+just<font color="#E5E5E5"> half the battle we've printed out</font>
+
+44
+00:01:20,729 --> 00:01:23,400
+<font color="#CCCCCC">Wikipedia on a 27 kilometer by 27</font>
+
+45
+00:01:23,400 --> 00:01:25,830
+kilometer sheet of paper but we need a
+
+46
+00:01:25,830 --> 00:01:28,920
+camera<font color="#CCCCCC"> that can actually read that</font><font color="#E5E5E5"> well</font>
+
+47
+00:01:28,920 --> 00:01:30,180
+if you have a camera<font color="#E5E5E5"> with a 90 degree</font>
+
+48
+00:01:30,180 --> 00:01:31,619
+field<font color="#E5E5E5"> of</font><font color="#CCCCCC"> view then you</font><font color="#E5E5E5"> can take a</font>
+
+49
+00:01:31,619 --> 00:01:32,670
+picture<font color="#E5E5E5"> of this whole</font><font color="#CCCCCC"> thing you just</font>
+
+50
+00:01:32,670 --> 00:01:35,159
+<font color="#CCCCCC">have to be 13.5 kilometers away from</font><font color="#E5E5E5"> it</font>
+
+51
+00:01:35,159 --> 00:01:36,479
+however there's some bad<font color="#CCCCCC"> news that comes</font>
+
+52
+00:01:36,479 --> 00:01:37,950
+<font color="#E5E5E5">along with</font><font color="#CCCCCC"> this first at</font><font color="#E5E5E5"> that distance</font>
+
+53
+00:01:37,950 --> 00:01:39,509
+<font color="#E5E5E5">the Earth's atmosphere</font><font color="#CCCCCC"> is going to</font>
+
+54
+00:01:39,509 --> 00:01:41,040
+<font color="#CCCCCC">distort this image way too much so we</font>
+
+55
+00:01:41,040 --> 00:01:42,780
+got to take<font color="#E5E5E5"> it out</font><font color="#CCCCCC"> of the atmosphere</font><font color="#E5E5E5"> in</font>
+
+56
+00:01:42,780 --> 00:01:44,399
+into space put the QR code on<font color="#E5E5E5"> the</font>
+
+57
+00:01:44,399 --> 00:01:45,810
+surface of<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Moon</font><font color="#E5E5E5"> and put the camera</font>
+
+58
+00:01:45,810 --> 00:01:48,090
+in orbit around<font color="#E5E5E5"> the moon at around 13.5</font>
+
+59
+00:01:48,090 --> 00:01:48,930
+kilometers up
+
+60
+00:01:48,930 --> 00:01:50,189
+nobody second problem<font color="#E5E5E5"> is</font><font color="#CCCCCC"> actually a</font>
+
+61
+00:01:50,189 --> 00:01:51,390
+bigger problem<font color="#CCCCCC"> because it deals with</font>
+
+62
+00:01:51,390 --> 00:01:53,310
+video just<font color="#CCCCCC"> sort of</font><font color="#E5E5E5"> the fundamental</font>
+
+63
+00:01:53,310 --> 00:01:54,840
+<font color="#CCCCCC">nature of the</font><font color="#E5E5E5"> universe from so far away</font>
+
+64
+00:01:54,840 --> 00:01:57,210
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> with blocks so tiny to try and</font>
+
+65
+00:01:57,210 --> 00:01:58,680
+resolve<font color="#E5E5E5"> you run into what's called the</font>
+
+66
+00:01:58,680 --> 00:02:00,600
+<font color="#CCCCCC">diffraction limit basically</font><font color="#E5E5E5"> when passing</font>
+
+67
+00:02:00,600 --> 00:02:01,860
+through<font color="#E5E5E5"> the aperture of our camera</font><font color="#CCCCCC"> the</font>
+
+68
+00:02:01,860 --> 00:02:03,119
+difference between<font color="#E5E5E5"> the size of our</font>
+
+69
+00:02:03,119 --> 00:02:04,890
+aperture<font color="#E5E5E5"> that's the hole that the light</font>
+
+70
+00:02:04,890 --> 00:02:06,270
+comes through and the<font color="#CCCCCC"> wavelength of</font>
+
+71
+00:02:06,270 --> 00:02:07,860
+light is<font color="#E5E5E5"> significant enough that it</font>
+
+72
+00:02:07,860 --> 00:02:10,530
+blurs anything below a certain size<font color="#E5E5E5"> so</font>
+
+73
+00:02:10,530 --> 00:02:11,940
+<font color="#CCCCCC">to take</font><font color="#E5E5E5"> a picture of</font><font color="#CCCCCC"> something so tiny</font>
+
+74
+00:02:11,940 --> 00:02:13,620
+from<font color="#CCCCCC"> so far</font><font color="#E5E5E5"> away you need</font>
+
+75
+00:02:13,620 --> 00:02:15,930
+<font color="#E5E5E5">to do one of two things or both of them</font>
+
+76
+00:02:15,930 --> 00:02:18,180
+<font color="#E5E5E5">one make the aperture</font><font color="#CCCCCC"> of the camera</font>
+
+77
+00:02:18,180 --> 00:02:20,849
+really<font color="#E5E5E5"> huge or to make the wavelength of</font>
+
+78
+00:02:20,849 --> 00:02:22,200
+the<font color="#CCCCCC"> light</font><font color="#E5E5E5"> smaller but if you want to</font>
+
+79
+00:02:22,200 --> 00:02:23,310
+take the picture<font color="#E5E5E5"> of this thing</font><font color="#CCCCCC"> with a</font>
+
+80
+00:02:23,310 --> 00:02:25,590
+cell<font color="#E5E5E5"> phone cam you can</font><font color="#CCCCCC"> as long as your</font>
+
+81
+00:02:25,590 --> 00:02:27,000
+cell phone camera just<font color="#E5E5E5"> happens to be</font>
+
+82
+00:02:27,000 --> 00:02:29,010
+able<font color="#E5E5E5"> to detect gamma rays gamma rays are</font>
+
+83
+00:02:29,010 --> 00:02:30,209
+<font color="#E5E5E5">radiation with very small wavelength</font>
+
+84
+00:02:30,209 --> 00:02:32,040
+<font color="#E5E5E5">also problematically with very high</font>
+
+85
+00:02:32,040 --> 00:02:33,930
+energy so it's difficult<font color="#CCCCCC"> to</font><font color="#E5E5E5"> print with</font>
+
+86
+00:02:33,930 --> 00:02:36,390
+ink that would absorb gamma rays<font color="#E5E5E5"> because</font>
+
+87
+00:02:36,390 --> 00:02:37,500
+they would normally<font color="#CCCCCC"> just fly right</font>
+
+88
+00:02:37,500 --> 00:02:38,940
+<font color="#CCCCCC">through it so you</font><font color="#E5E5E5"> got to find some kind</font>
+
+89
+00:02:38,940 --> 00:02:40,680
+<font color="#CCCCCC">of really special</font><font color="#E5E5E5"> gamma ray absorbing</font>
+
+90
+00:02:40,680 --> 00:02:42,060
+ink<font color="#E5E5E5"> the other in my opinion better</font>
+
+91
+00:02:42,060 --> 00:02:43,709
+solution<font color="#E5E5E5"> to this problem is</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> make your</font>
+
+92
+00:02:43,709 --> 00:02:45,930
+<font color="#E5E5E5">aperture just huge and one way to do</font>
+
+93
+00:02:45,930 --> 00:02:47,790
+that is to just<font color="#CCCCCC"> use the James Webb Space</font>
+
+94
+00:02:47,790 --> 00:02:49,769
+Telescope which<font color="#E5E5E5"> we're already developing</font>
+
+95
+00:02:49,769 --> 00:02:51,690
+and has a pretty massive aperture<font color="#E5E5E5"> I'd</font>
+
+96
+00:02:51,690 --> 00:02:53,220
+have to modify<font color="#E5E5E5"> it so it could be</font><font color="#CCCCCC"> a wider</font>
+
+97
+00:02:53,220 --> 00:02:54,810
+angle camera<font color="#E5E5E5"> because it's a telescope</font>
+
+98
+00:02:54,810 --> 00:02:56,340
+right<font color="#CCCCCC"> it's got telescopic not a wide</font>
+
+99
+00:02:56,340 --> 00:02:57,480
+<font color="#CCCCCC">angle lens but</font><font color="#E5E5E5"> the James Webb Space</font>
+
+100
+00:02:57,480 --> 00:02:59,220
+<font color="#E5E5E5">Telescope does have an aperture big</font>
+
+101
+00:02:59,220 --> 00:03:01,379
+<font color="#E5E5E5">enough that it could conceivably resolve</font>
+
+102
+00:03:01,379 --> 00:03:04,290
+these<font color="#CCCCCC"> two</font><font color="#E5E5E5"> millimeter pixel things from</font>
+
+103
+00:03:04,290 --> 00:03:06,840
+<font color="#CCCCCC">13.5</font><font color="#E5E5E5"> kilometers away however it does not</font>
+
+104
+00:03:06,840 --> 00:03:08,730
+<font color="#CCCCCC">have a sensor sensitive enough</font><font color="#E5E5E5"> to take a</font>
+
+105
+00:03:08,730 --> 00:03:10,799
+<font color="#E5E5E5">picture of all</font><font color="#CCCCCC"> of them at once which</font><font color="#E5E5E5"> I</font>
+
+106
+00:03:10,799 --> 00:03:12,299
+would like<font color="#E5E5E5"> for it</font><font color="#CCCCCC"> to do</font><font color="#E5E5E5"> so that we</font><font color="#CCCCCC"> could</font>
+
+107
+00:03:12,299 --> 00:03:13,620
+<font color="#CCCCCC">just</font><font color="#E5E5E5"> take a picture real quick have</font><font color="#CCCCCC"> ala</font>
+
+108
+00:03:13,620 --> 00:03:15,060
+Wikipedia<font color="#E5E5E5"> so we are going to have to</font>
+
+109
+00:03:15,060 --> 00:03:16,500
+<font color="#E5E5E5">develop a new</font><font color="#CCCCCC"> camera sensor that has</font>
+
+110
+00:03:16,500 --> 00:03:19,019
+like<font color="#E5E5E5"> 10,000 times</font><font color="#CCCCCC"> more pixel resolution</font>
+
+111
+00:03:19,019 --> 00:03:20,549
+than the<font color="#CCCCCC"> current highest</font><font color="#E5E5E5"> and military</font>
+
+112
+00:03:20,549 --> 00:03:22,230
+spy cameras<font color="#E5E5E5"> that we</font><font color="#CCCCCC"> use but</font><font color="#E5E5E5"> I have</font>
+
+113
+00:03:22,230 --> 00:03:23,940
+<font color="#E5E5E5">confidence that we can do that in the</font>
+
+114
+00:03:23,940 --> 00:03:25,440
+intervening<font color="#CCCCCC"> time between</font><font color="#E5E5E5"> when we are</font>
+
+115
+00:03:25,440 --> 00:03:26,730
+<font color="#E5E5E5">able</font><font color="#CCCCCC"> to actually print</font><font color="#E5E5E5"> out all these</font>
+
+116
+00:03:26,730 --> 00:03:27,840
+pieces<font color="#E5E5E5"> of</font><font color="#CCCCCC"> paper which is</font><font color="#E5E5E5"> going to take</font>
+
+117
+00:03:27,840 --> 00:03:29,310
+<font color="#E5E5E5">some time and get them to the moon and</font>
+
+118
+00:03:29,310 --> 00:03:30,690
+lay them out in<font color="#CCCCCC"> the proper order so the</font>
+
+119
+00:03:30,690 --> 00:03:32,099
+answer the question<font color="#CCCCCC"> can</font><font color="#E5E5E5"> you print out</font>
+
+120
+00:03:32,099 --> 00:03:33,480
+<font color="#CCCCCC">Wikipedia and I have it be a scannable</font>
+
+121
+00:03:33,480 --> 00:03:36,599
+QR code the answer is yes<font color="#E5E5E5"> not really</font>
+
+122
+00:03:36,599 --> 00:03:38,459
+with current technology but it<font color="#E5E5E5"> is</font>
+
+123
+00:03:38,459 --> 00:03:41,579
+possible<font color="#CCCCCC"> John I will see you on Tuesday</font>
+
+124
+00:03:41,579 --> 00:03:42,989
+I want to end this<font color="#E5E5E5"> video by saying you</font>
+
+125
+00:03:42,989 --> 00:03:44,819
+know<font color="#CCCCCC"> I'm not entirely sure</font><font color="#E5E5E5"> I could have</font>
+
+126
+00:03:44,819 --> 00:03:45,989
+got something<font color="#E5E5E5"> wrong and I want to say</font>
+
+127
+00:03:45,989 --> 00:03:47,340
+thanks to<font color="#CCCCCC"> Henry from minutephysics for</font>
+
+128
+00:03:47,340 --> 00:03:48,599
+coming over<font color="#CCCCCC"> and</font><font color="#E5E5E5"> helping me with the math</font>
+
+129
+00:03:48,599 --> 00:03:50,549
+for all this<font color="#E5E5E5"> it was a really</font><font color="#CCCCCC"> enjoyable</font>
+
+130
+00:03:50,549 --> 00:00:00,000
+<font color="#CCCCCC">project</font><font color="#E5E5E5"> that's my life</font>
+

@@ -1,0 +1,500 @@
+1
+00:00:00,000 --> 00:00:01,110
+good morning John ever since your pants
+
+2
+00:00:01,110 --> 00:00:02,610
+<font color="#E5E5E5">got hacked I've been thinking a</font><font color="#CCCCCC"> lot</font>
+
+3
+00:00:02,610 --> 00:00:05,759
+about the<font color="#E5E5E5"> apocalypse</font><font color="#CCCCCC"> now you might think</font>
+
+4
+00:00:05,759 --> 00:00:07,470
+<font color="#CCCCCC">that there's a big difference between a</font>
+
+5
+00:00:07,470 --> 00:00:09,179
+bunch of script kiddies and<font color="#CCCCCC"> camp chuck</font>
+
+6
+00:00:09,179 --> 00:00:11,250
+could bringing down<font color="#CCCCCC"> your pan and the end</font>
+
+7
+00:00:11,250 --> 00:00:12,690
+of the world as we<font color="#CCCCCC"> know it but</font><font color="#E5E5E5"> it turns</font>
+
+8
+00:00:12,690 --> 00:00:14,940
+out some<font color="#E5E5E5"> surprising similarities but</font>
+
+9
+00:00:14,940 --> 00:00:16,560
+before we get into<font color="#CCCCCC"> that</font><font color="#E5E5E5"> let me</font><font color="#CCCCCC"> explain</font>
+
+10
+00:00:16,560 --> 00:00:18,359
+to you<font color="#E5E5E5"> the anatomy</font><font color="#CCCCCC"> of the attack on your</font>
+
+11
+00:00:18,359 --> 00:00:20,100
+<font color="#E5E5E5">pants if you want to leave the terms in</font>
+
+12
+00:00:20,100 --> 00:00:21,449
+the following description explained just
+
+13
+00:00:21,449 --> 00:00:22,710
+<font color="#E5E5E5">pause the video there will be</font>
+
+14
+00:00:22,710 --> 00:00:24,600
+definitions on the screen let's start
+
+15
+00:00:24,600 --> 00:00:26,369
+out for those who<font color="#CCCCCC"> are</font><font color="#E5E5E5"> very confused</font>
+
+16
+00:00:26,369 --> 00:00:28,320
+right<font color="#CCCCCC"> now with</font><font color="#E5E5E5"> your pants okay</font><font color="#CCCCCC"> so first</font>
+
+17
+00:00:28,320 --> 00:00:30,150
+a hacker discovered a vulnerability<font color="#E5E5E5"> in</font>
+
+18
+00:00:30,150 --> 00:00:31,830
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> vBulletin software that runs</font><font color="#E5E5E5"> your</font>
+
+19
+00:00:31,830 --> 00:00:33,750
+pants<font color="#CCCCCC"> not hacker then created an exploit</font>
+
+20
+00:00:33,750 --> 00:00:35,399
+for<font color="#CCCCCC"> that vulnerability</font><font color="#E5E5E5"> at that point</font><font color="#CCCCCC"> a</font>
+
+21
+00:00:35,399 --> 00:00:37,500
+zero-day exploit<font color="#E5E5E5"> that he or she could</font>
+
+22
+00:00:37,500 --> 00:00:39,660
+use to exploit this vulnerability<font color="#E5E5E5"> the</font>
+
+23
+00:00:39,660 --> 00:00:41,070
+hacker released his exploit probably in
+
+24
+00:00:41,070 --> 00:00:42,390
+the form of<font color="#E5E5E5"> a very simple script that</font>
+
+25
+00:00:42,390 --> 00:00:43,950
+<font color="#E5E5E5">would allow anyone with even moderate</font>
+
+26
+00:00:43,950 --> 00:00:45,660
+computer knowledge<font color="#E5E5E5"> the ability to hacked</font>
+
+27
+00:00:45,660 --> 00:00:47,489
+your<font color="#E5E5E5"> bad these scripts were run by an</font>
+
+28
+00:00:47,489 --> 00:00:49,590
+army of underlings known as script
+
+29
+00:00:49,590 --> 00:00:50,879
+kiddies the script would attempt to own
+
+30
+00:00:50,879 --> 00:00:52,800
+the<font color="#CCCCCC"> server's pull</font><font color="#E5E5E5"> off passwords that can</font>
+
+31
+00:00:52,800 --> 00:00:54,270
+be<font color="#E5E5E5"> sold on the</font><font color="#CCCCCC"> black market</font><font color="#E5E5E5"> and use the</font>
+
+32
+00:00:54,270 --> 00:00:55,770
+servers<font color="#E5E5E5"> for sending our spam stuff like</font>
+
+33
+00:00:55,770 --> 00:00:57,870
+that our white hat security expert Sam
+
+34
+00:00:57,870 --> 00:01:00,960
+Rudd<font color="#E5E5E5"> stopped the infiltration before any</font>
+
+35
+00:01:00,960 --> 00:01:03,120
+user data was compromised<font color="#CCCCCC"> so everything</font>
+
+36
+00:01:03,120 --> 00:01:06,900
+is safe<font color="#E5E5E5"> except the data that was made up</font>
+
+37
+00:01:06,900 --> 00:01:08,640
+your pants<font color="#E5E5E5"> a big hunk of it</font>
+
+38
+00:01:08,640 --> 00:01:10,200
+unfortunately<font color="#CCCCCC"> has been lost so if</font><font color="#E5E5E5"> you</font>
+
+39
+00:01:10,200 --> 00:01:11,159
+understood<font color="#E5E5E5"> all that</font><font color="#CCCCCC"> without having</font>
+
+40
+00:01:11,159 --> 00:01:12,810
+<font color="#E5E5E5">pressed pause and read definitions than</font>
+
+41
+00:01:12,810 --> 00:01:14,010
+<font color="#E5E5E5">you're good if you didn't go back and</font>
+
+42
+00:01:14,010 --> 00:01:15,090
+watch it<font color="#E5E5E5"> read and understand all those</font>
+
+43
+00:01:15,090 --> 00:01:16,530
+<font color="#E5E5E5">definitions</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> it's going to need to</font>
+
+44
+00:01:16,530 --> 00:01:18,479
+because we<font color="#E5E5E5"> are on the cusp</font><font color="#CCCCCC"> of a</font>
+
+45
+00:01:18,479 --> 00:01:20,939
+fundamental<font color="#CCCCCC"> shift in the way that crime</font>
+
+46
+00:01:20,939 --> 00:01:23,280
+and war<font color="#E5E5E5"> happened so you're gonna need at</font>
+
+47
+00:01:23,280 --> 00:01:25,530
+least a basic<font color="#E5E5E5"> knowledge of cyber warfare</font>
+
+48
+00:01:25,530 --> 00:01:27,299
+and cyber crime<font color="#E5E5E5"> last night for example</font>
+
+49
+00:01:27,299 --> 00:01:29,159
+<font color="#E5E5E5">someone or a group of someone's</font>
+
+50
+00:01:29,159 --> 00:01:30,689
+identifying themselves with<font color="#CCCCCC"> a</font><font color="#E5E5E5"> hacker</font>
+
+51
+00:01:30,689 --> 00:01:32,460
+group<font color="#CCCCCC"> Anonymous totally hacked the</font>
+
+52
+00:01:32,460 --> 00:01:34,439
+Syrian Ministry of<font color="#E5E5E5"> Defense website and</font>
+
+53
+00:01:34,439 --> 00:01:36,600
+put up like a message of solidarity<font color="#CCCCCC"> for</font>
+
+54
+00:01:36,600 --> 00:01:38,100
+the people<font color="#E5E5E5"> of Syria</font><font color="#CCCCCC"> this isn't really</font>
+
+55
+00:01:38,100 --> 00:01:39,450
+super<font color="#E5E5E5"> grand this is more of a hacktivist</font>
+
+56
+00:01:39,450 --> 00:01:41,130
+thing so yeah what<font color="#E5E5E5"> Anonymous does</font><font color="#CCCCCC"> is</font>
+
+57
+00:01:41,130 --> 00:01:43,470
+<font color="#CCCCCC">high-profile yeah it's kind of like sort</font>
+
+58
+00:01:43,470 --> 00:01:45,659
+<font color="#E5E5E5">of weirdly cool that they can do these</font>
+
+59
+00:01:45,659 --> 00:01:47,189
+<font color="#CCCCCC">things that's not what</font><font color="#E5E5E5"> keeps me up</font><font color="#CCCCCC"> at</font>
+
+60
+00:01:47,189 --> 00:01:48,390
+night<font color="#CCCCCC"> and let me tell</font><font color="#E5E5E5"> you this stuff</font>
+
+61
+00:01:48,390 --> 00:01:50,159
+does keep<font color="#CCCCCC"> me up at</font><font color="#E5E5E5"> night</font><font color="#CCCCCC"> Russian mafia</font>
+
+62
+00:01:50,159 --> 00:01:51,899
+has a hacking team so sophisticated that
+
+63
+00:01:51,899 --> 00:01:53,579
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> has revenues in the billions of</font>
+
+64
+00:01:53,579 --> 00:01:55,380
+<font color="#E5E5E5">dollars they have collected so many</font>
+
+65
+00:01:55,380 --> 00:01:57,509
+credit cards<font color="#CCCCCC"> that they can no longer</font>
+
+66
+00:01:57,509 --> 00:02:00,030
+<font color="#E5E5E5">sell them because criminals are like we</font>
+
+67
+00:02:00,030 --> 00:02:01,409
+have too many<font color="#E5E5E5"> credit card numbers I</font>
+
+68
+00:02:01,409 --> 00:02:02,640
+don't<font color="#CCCCCC"> know what to do with these Chinese</font>
+
+69
+00:02:02,640 --> 00:02:05,070
+hackers<font color="#E5E5E5"> maybe sponsored by their own</font>
+
+70
+00:02:05,070 --> 00:02:06,540
+government<font color="#E5E5E5"> I've been hacking governments</font>
+
+71
+00:02:06,540 --> 00:02:08,310
+and private<font color="#E5E5E5"> corporations for years and</font>
+
+72
+00:02:08,310 --> 00:02:10,139
+has stolen billions of dollars of
+
+73
+00:02:10,139 --> 00:02:11,879
+<font color="#E5E5E5">intellectual property what I find</font>
+
+74
+00:02:11,879 --> 00:02:13,800
+scariest of<font color="#E5E5E5"> all is a piece</font><font color="#CCCCCC"> of mal</font>
+
+75
+00:02:13,800 --> 00:02:16,140
+we're called Stuxnet<font color="#CCCCCC"> no computer virus</font>
+
+76
+00:02:16,140 --> 00:02:18,870
+has ever<font color="#E5E5E5"> used more than one</font><font color="#CCCCCC"> window</font><font color="#E5E5E5"> zero</font>
+
+77
+00:02:18,870 --> 00:02:21,480
+<font color="#E5E5E5">day exploit Stuxnet had full Stuxnet</font>
+
+78
+00:02:21,480 --> 00:02:23,520
+infected thousands of computers running
+
+79
+00:02:23,520 --> 00:02:25,620
+industrial equipment<font color="#E5E5E5"> all over</font><font color="#CCCCCC"> the world</font>
+
+80
+00:02:25,620 --> 00:02:28,350
+but it<font color="#E5E5E5"> only activated in one place the</font>
+
+81
+00:02:28,350 --> 00:02:30,690
+centrifuges<font color="#E5E5E5"> refining uranium in Iran</font>
+
+82
+00:02:30,690 --> 00:02:32,880
+<font color="#CCCCCC">well all of the readouts</font><font color="#E5E5E5"> remain calm and</font>
+
+83
+00:02:32,880 --> 00:02:35,130
+<font color="#E5E5E5">everything looked completely</font><font color="#CCCCCC"> normal</font>
+
+84
+00:02:35,130 --> 00:02:37,350
+those centrifuges spun out of control
+
+85
+00:02:37,350 --> 00:02:40,680
+<font color="#CCCCCC">and exploded</font><font color="#E5E5E5"> who built Stuxnet that's</font>
+
+86
+00:02:40,680 --> 00:02:42,990
+one of the things about cyber warfare<font color="#E5E5E5"> no</font>
+
+87
+00:02:42,990 --> 00:02:45,090
+one knows where these<font color="#E5E5E5"> things come from</font>
+
+88
+00:02:45,090 --> 00:02:47,940
+<font color="#E5E5E5">almost certainly it was a multinational</font>
+
+89
+00:02:47,940 --> 00:02:49,590
+project<font color="#CCCCCC"> spearheaded by the United States</font>
+
+90
+00:02:49,590 --> 00:02:51,360
+<font color="#E5E5E5">government but no one took credit for it</font>
+
+91
+00:02:51,360 --> 00:02:53,040
+another problem<font color="#CCCCCC"> is that this</font><font color="#E5E5E5"> is kind of</font>
+
+92
+00:02:53,040 --> 00:02:54,420
+like dropping<font color="#E5E5E5"> a new kind of</font><font color="#CCCCCC"> bomb on</font><font color="#E5E5E5"> your</font>
+
+93
+00:02:54,420 --> 00:02:56,400
+enemy along with the plans for how you
+
+94
+00:02:56,400 --> 00:02:58,410
+built the bomb you don't<font color="#E5E5E5"> want to do this</font>
+
+95
+00:02:58,410 --> 00:03:00,630
+<font color="#E5E5E5">because now the code for Stuxnet is</font>
+
+96
+00:03:00,630 --> 00:03:02,400
+freely available on the<font color="#E5E5E5"> Internet and</font>
+
+97
+00:03:02,400 --> 00:03:03,480
+<font color="#CCCCCC">with the right knowledge</font><font color="#E5E5E5"> it can be</font>
+
+98
+00:03:03,480 --> 00:03:05,520
+<font color="#E5E5E5">modified to break down</font><font color="#CCCCCC"> oil pipelines</font>
+
+99
+00:03:05,520 --> 00:03:07,620
+<font color="#E5E5E5">shut down power plant or open the</font>
+
+100
+00:03:07,620 --> 00:03:09,630
+floodgates<font color="#E5E5E5"> of a dam now I am not</font>
+
+101
+00:03:09,630 --> 00:03:11,130
+generally an alarmist
+
+102
+00:03:11,130 --> 00:03:13,680
+I don't usually worry about these types
+
+103
+00:03:13,680 --> 00:03:15,750
+of<font color="#E5E5E5"> things but this is pretty scary</font><font color="#CCCCCC"> so</font>
+
+104
+00:03:15,750 --> 00:03:17,130
+yes I'm glad that Iran's nuclear weapons
+
+105
+00:03:17,130 --> 00:03:19,500
+program has been set back<font color="#CCCCCC"> significantly</font>
+
+106
+00:03:19,500 --> 00:03:20,580
+<font color="#E5E5E5">and I</font><font color="#CCCCCC"> don't know if it was</font><font color="#E5E5E5"> worth</font>
+
+107
+00:03:20,580 --> 00:03:22,470
+<font color="#E5E5E5">creating an entirely new</font><font color="#CCCCCC"> type of warfare</font>
+
+108
+00:03:22,470 --> 00:03:23,970
+<font color="#CCCCCC">to do it because I</font><font color="#E5E5E5"> worry about the</font>
+
+109
+00:03:23,970 --> 00:03:25,890
+attacks<font color="#E5E5E5"> themselves</font><font color="#CCCCCC"> but I also worry</font>
+
+110
+00:03:25,890 --> 00:03:27,209
+about the legislation<font color="#E5E5E5"> that will be</font>
+
+111
+00:03:27,209 --> 00:03:29,070
+<font color="#E5E5E5">created to protect us one because the</font>
+
+112
+00:03:29,070 --> 00:03:30,810
+<font color="#E5E5E5">legislation will probably ruin a lot of</font>
+
+113
+00:03:30,810 --> 00:03:32,190
+what's great about the<font color="#E5E5E5"> internet and</font><font color="#CCCCCC"> two</font>
+
+114
+00:03:32,190 --> 00:03:33,510
+because the legislation<font color="#E5E5E5"> will never be</font>
+
+115
+00:03:33,510 --> 00:03:35,130
+effective because<font color="#E5E5E5"> there's no way that</font>
+
+116
+00:03:35,130 --> 00:03:36,780
+the professional<font color="#CCCCCC"> arguers in</font><font color="#E5E5E5"> Congress</font>
+
+117
+00:03:36,780 --> 00:03:38,940
+will ever be less than<font color="#E5E5E5"> 42 steps</font><font color="#CCCCCC"> behind</font>
+
+118
+00:03:38,940 --> 00:03:40,140
+<font color="#E5E5E5">the hackers I wanted to talk about this</font>
+
+119
+00:03:40,140 --> 00:03:41,370
+<font color="#CCCCCC">because I want more people know about</font><font color="#E5E5E5"> it</font>
+
+120
+00:03:41,370 --> 00:03:43,020
+<font color="#E5E5E5">but</font><font color="#CCCCCC"> unfortunately I don't have any like</font>
+
+121
+00:03:43,020 --> 00:03:44,760
+solution<font color="#CCCCCC"> we just gonna</font><font color="#E5E5E5"> cross our fingers</font>
+
+122
+00:03:44,760 --> 00:03:46,980
+hackers or smart people hopefully<font color="#E5E5E5"> smart</font>
+
+123
+00:03:46,980 --> 00:03:48,480
+enough<font color="#CCCCCC"> to know that destroying the world</font>
+
+124
+00:03:48,480 --> 00:03:51,360
+is a<font color="#E5E5E5"> freakin bad idea John I'll see you</font>
+
+125
+00:03:51,360 --> 00:00:00,000
+<font color="#E5E5E5">on</font><font color="#CCCCCC"> Wednesday</font>
+

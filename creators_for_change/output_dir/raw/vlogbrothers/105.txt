@@ -1,0 +1,500 @@
+1
+00:00:00,000 --> 00:00:01,890
+good morning John it<font color="#E5E5E5"> is the 11th annual</font>
+
+2
+00:00:01,890 --> 00:00:03,929
+<font color="#E5E5E5">project for awesome and that means that</font>
+
+3
+00:00:03,929 --> 00:00:05,730
+I'm here to tell you<font color="#CCCCCC"> about why solving</font>
+
+4
+00:00:05,730 --> 00:00:08,160
+hard problems<font color="#CCCCCC"> is so hard there's a bit</font>
+
+5
+00:00:08,160 --> 00:00:10,830
+<font color="#CCCCCC">of a universal law in logistics that</font><font color="#E5E5E5"> the</font>
+
+6
+00:00:10,830 --> 00:00:13,620
+last little bit of transport<font color="#E5E5E5"> that an</font>
+
+7
+00:00:13,620 --> 00:00:15,360
+item<font color="#E5E5E5"> has</font><font color="#CCCCCC"> to do to</font><font color="#E5E5E5"> get to its destination</font>
+
+8
+00:00:15,360 --> 00:00:18,240
+is by far the<font color="#CCCCCC"> most difficult leg of the</font>
+
+9
+00:00:18,240 --> 00:00:19,170
+journey<font color="#CCCCCC"> this is</font><font color="#E5E5E5"> true in</font>
+
+10
+00:00:19,170 --> 00:00:21,300
+telecommunications it's also<font color="#E5E5E5"> true in</font>
+
+11
+00:00:21,300 --> 00:00:23,279
+like your circulatory system it's<font color="#CCCCCC"> called</font>
+
+12
+00:00:23,279 --> 00:00:25,740
+the last mile problem<font color="#CCCCCC"> weirdly</font><font color="#E5E5E5"> enough</font><font color="#CCCCCC"> it</font>
+
+13
+00:00:25,740 --> 00:00:28,830
+takes<font color="#E5E5E5"> almost as much energy and work to</font>
+
+14
+00:00:28,830 --> 00:00:30,810
+get like<font color="#E5E5E5"> something</font><font color="#CCCCCC"> that I ordered off</font>
+
+15
+00:00:30,810 --> 00:00:34,200
+Amazon<font color="#CCCCCC"> say this from like China where</font>
+
+16
+00:00:34,200 --> 00:00:36,540
+<font color="#E5E5E5">it's manufactured all the way to like</font>
+
+17
+00:00:36,540 --> 00:00:38,370
+the distribution<font color="#CCCCCC"> warehouse in Missoula</font>
+
+18
+00:00:38,370 --> 00:00:41,010
+Montana<font color="#CCCCCC"> as it does to get it from the</font>
+
+19
+00:00:41,010 --> 00:00:42,840
+distribution<font color="#E5E5E5"> warehouse in Missoula to my</font>
+
+20
+00:00:42,840 --> 00:00:44,969
+house this<font color="#E5E5E5"> is a very squeaky</font><font color="#CCCCCC"> prop so</font>
+
+21
+00:00:44,969 --> 00:00:46,020
+what's going on<font color="#E5E5E5"> here</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> moment this</font>
+
+22
+00:00:46,020 --> 00:00:47,820
+<font color="#CCCCCC">thing is manufactured</font><font color="#E5E5E5"> in China it has</font>
+
+23
+00:00:47,820 --> 00:00:49,860
+like one place to go<font color="#CCCCCC"> to it goes to its</font>
+
+24
+00:00:49,860 --> 00:00:51,809
+port and then from there<font color="#E5E5E5"> from that port</font>
+
+25
+00:00:51,809 --> 00:00:53,670
+it can go to like<font color="#E5E5E5"> maybe a dozen or so</font>
+
+26
+00:00:53,670 --> 00:00:55,440
+<font color="#E5E5E5">other ports in the world</font><font color="#CCCCCC"> then when it</font>
+
+27
+00:00:55,440 --> 00:00:57,270
+arrives<font color="#E5E5E5"> at whatever port gets to it has</font>
+
+28
+00:00:57,270 --> 00:00:58,739
+maybe a few thousand<font color="#CCCCCC"> different</font>
+
+29
+00:00:58,739 --> 00:01:01,320
+warehouses<font color="#E5E5E5"> or stores that could end up</font>
+
+30
+00:01:01,320 --> 00:01:03,030
+in<font color="#CCCCCC"> if it ends up in a store</font><font color="#E5E5E5"> it has to</font>
+
+31
+00:01:03,030 --> 00:01:05,250
+wait<font color="#CCCCCC"> for a person to go there</font><font color="#E5E5E5"> and buy it</font>
+
+32
+00:01:05,250 --> 00:01:06,960
+but<font color="#E5E5E5"> if it's being shipped directly to</font>
+
+33
+00:01:06,960 --> 00:01:08,610
+<font color="#E5E5E5">the person</font><font color="#CCCCCC"> directly to me</font><font color="#E5E5E5"> but it ends up</font>
+
+34
+00:01:08,610 --> 00:01:10,049
+in this centralized local warehouse<font color="#E5E5E5"> with</font>
+
+35
+00:01:10,049 --> 00:01:11,760
+tens of thousands of other products<font color="#E5E5E5"> and</font>
+
+36
+00:01:11,760 --> 00:01:14,070
+those tens of thousands<font color="#CCCCCC"> of products have</font>
+
+37
+00:01:14,070 --> 00:01:16,650
+to go to potentially hundreds<font color="#E5E5E5"> of</font>
+
+38
+00:01:16,650 --> 00:01:19,580
+thousands of<font color="#E5E5E5"> different individual places</font>
+
+39
+00:01:19,580 --> 00:01:22,740
+<font color="#CCCCCC">99% of this thing's travels it could</font>
+
+40
+00:01:22,740 --> 00:01:24,630
+have gone to like one of a few thousand
+
+41
+00:01:24,630 --> 00:01:27,360
+different<font color="#E5E5E5"> places and that last 1%</font><font color="#CCCCCC"> it's</font>
+
+42
+00:01:27,360 --> 00:01:30,479
+gonna go to one of literally<font color="#E5E5E5"> hundreds of</font>
+
+43
+00:01:30,479 --> 00:01:32,250
+<font color="#E5E5E5">millions of places</font><font color="#CCCCCC"> the last mile problem</font>
+
+44
+00:01:32,250 --> 00:01:34,500
+<font color="#E5E5E5">is kind of why</font><font color="#CCCCCC"> oftentimes when we have</font>
+
+45
+00:01:34,500 --> 00:01:37,049
+<font color="#E5E5E5">really big ideas about</font><font color="#CCCCCC"> how to</font><font color="#E5E5E5"> fix</font><font color="#CCCCCC"> things</font>
+
+46
+00:01:37,049 --> 00:01:39,869
+<font color="#E5E5E5">those ideas don't work</font><font color="#CCCCCC"> because when you</font>
+
+47
+00:01:39,869 --> 00:01:41,640
+<font color="#E5E5E5">get to the last mile your one</font>
+
+48
+00:01:41,640 --> 00:01:44,180
+overarching solution to all problems
+
+49
+00:01:44,180 --> 00:01:47,549
+becomes<font color="#E5E5E5"> tens of thousands</font><font color="#CCCCCC"> or hundreds of</font>
+
+50
+00:01:47,549 --> 00:01:49,409
+thousands<font color="#E5E5E5"> of different solutions</font><font color="#CCCCCC"> that</font>
+
+51
+00:01:49,409 --> 00:01:51,659
+are all hard<font color="#E5E5E5"> to work out and that's</font><font color="#CCCCCC"> all</font>
+
+52
+00:01:51,659 --> 00:01:53,880
+work like hard<font color="#CCCCCC"> work and when it comes to</font>
+
+53
+00:01:53,880 --> 00:01:55,979
+<font color="#CCCCCC">delivering health care or water or food</font>
+
+54
+00:01:55,979 --> 00:01:57,270
+and parts<font color="#CCCCCC"> of the</font><font color="#E5E5E5"> world where those</font>
+
+55
+00:01:57,270 --> 00:01:59,159
+<font color="#E5E5E5">things aren't</font><font color="#CCCCCC"> available it used to be</font>
+
+56
+00:01:59,159 --> 00:02:01,380
+work<font color="#CCCCCC"> that just didn't get done</font><font color="#E5E5E5"> but now</font>
+
+57
+00:02:01,380 --> 00:02:03,270
+<font color="#CCCCCC">people are doing it organizations like</font>
+
+58
+00:02:03,270 --> 00:02:05,040
+Save the Children<font color="#E5E5E5"> and last mile health</font>
+
+59
+00:02:05,040 --> 00:02:06,750
+<font color="#E5E5E5">and they solve the last mile</font><font color="#CCCCCC"> problem for</font>
+
+60
+00:02:06,750 --> 00:02:09,389
+<font color="#E5E5E5">health care the</font><font color="#CCCCCC"> only way you can solve</font>
+
+61
+00:02:09,389 --> 00:02:11,730
+it with<font color="#CCCCCC"> problem-solver they work with</font>
+
+62
+00:02:11,730 --> 00:02:13,050
+and train and<font color="#E5E5E5"> in</font>
+
+63
+00:02:13,050 --> 00:02:15,120
+<font color="#CCCCCC">loyd people from those communities to</font>
+
+64
+00:02:15,120 --> 00:02:16,830
+become<font color="#CCCCCC"> community</font><font color="#E5E5E5"> health care</font><font color="#CCCCCC"> workers</font>
+
+65
+00:02:16,830 --> 00:02:18,180
+<font color="#E5E5E5">those people then</font><font color="#CCCCCC"> help</font><font color="#E5E5E5"> to grow the</font>
+
+66
+00:02:18,180 --> 00:02:20,580
+economy to educate other people<font color="#CCCCCC"> and to</font>
+
+67
+00:02:20,580 --> 00:02:22,890
+keep<font color="#E5E5E5"> their communities and thus the</font>
+
+68
+00:02:22,890 --> 00:02:25,440
+<font color="#E5E5E5">entire global community more healthy so</font>
+
+69
+00:02:25,440 --> 00:02:27,180
+this cost money<font color="#E5E5E5"> but</font><font color="#CCCCCC"> let me venture that</font>
+
+70
+00:02:27,180 --> 00:02:29,550
+maybe this is one<font color="#CCCCCC"> of the best things we</font>
+
+71
+00:02:29,550 --> 00:02:31,350
+could possibly be spending money on as a
+
+72
+00:02:31,350 --> 00:02:33,270
+society<font color="#E5E5E5"> but what if in addition to</font>
+
+73
+00:02:33,270 --> 00:02:35,520
+helping fund<font color="#E5E5E5"> that very cool work of</font>
+
+74
+00:02:35,520 --> 00:02:37,080
+solving<font color="#E5E5E5"> that very hard problem</font>
+
+75
+00:02:37,080 --> 00:02:39,390
+you also get cool stuff well that's why
+
+76
+00:02:39,390 --> 00:02:40,170
+you should<font color="#CCCCCC"> go to project for awesome</font>
+
+77
+00:02:40,170 --> 00:02:41,700
+<font color="#E5E5E5">back home / donate where for the first</font>
+
+78
+00:02:41,700 --> 00:02:43,110
+<font color="#CCCCCC">part of the project for awesome all of</font>
+
+79
+00:02:43,110 --> 00:02:44,760
+the money up<font color="#CCCCCC"> to seven hundred</font><font color="#E5E5E5"> thousand</font>
+
+80
+00:02:44,760 --> 00:02:46,500
+<font color="#CCCCCC">dollars will be mad and</font><font color="#E5E5E5"> all that money</font>
+
+81
+00:02:46,500 --> 00:02:48,090
+<font color="#E5E5E5">raised in the first half will be split</font>
+
+82
+00:02:48,090 --> 00:02:49,680
+between<font color="#E5E5E5"> last mile health and Save the</font>
+
+83
+00:02:49,680 --> 00:02:51,390
+<font color="#E5E5E5">Children stuff you can get</font><font color="#CCCCCC"> smash pennies</font>
+
+84
+00:02:51,390 --> 00:02:53,010
+commemorative coin<font color="#E5E5E5"> digital download</font>
+
+85
+00:02:53,010 --> 00:02:54,150
+bundle with a bunch of<font color="#E5E5E5"> different</font><font color="#CCCCCC"> real</font>
+
+86
+00:02:54,150 --> 00:02:56,340
+cool stuff<font color="#CCCCCC"> and including outtakes seems</font>
+
+87
+00:02:56,340 --> 00:02:57,840
+from<font color="#CCCCCC"> Turtles all the way down</font><font color="#E5E5E5"> at socks</font>
+
+88
+00:02:57,840 --> 00:02:59,490
+and bandanas and<font color="#CCCCCC"> I'm painting a bunch of</font>
+
+89
+00:02:59,490 --> 00:03:01,410
+<font color="#E5E5E5">rocks</font><font color="#CCCCCC"> lots of stuff some of it's already</font>
+
+90
+00:03:01,410 --> 00:03:03,030
+sold<font color="#E5E5E5"> out some of it as well on</font><font color="#CCCCCC"> its way</font>
+
+91
+00:03:03,030 --> 00:03:05,280
+<font color="#E5E5E5">to selling out including the project for</font>
+
+92
+00:03:05,280 --> 00:03:06,750
+awesome<font color="#E5E5E5"> charity calendar which I just</font>
+
+93
+00:03:06,750 --> 00:03:08,040
+<font color="#E5E5E5">happened</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> have on the floor</font><font color="#CCCCCC"> right</font><font color="#E5E5E5"> here</font>
+
+94
+00:03:08,040 --> 00:03:09,870
+includes this photo of<font color="#CCCCCC"> B being splashed</font>
+
+95
+00:03:09,870 --> 00:03:11,580
+in the face by champagne<font color="#CCCCCC"> no it is not</font>
+
+96
+00:03:11,580 --> 00:03:13,320
+photoshopped<font color="#E5E5E5"> and yes I do know</font><font color="#CCCCCC"> what it's</font>
+
+97
+00:03:13,320 --> 00:03:14,820
+like<font color="#E5E5E5"> to</font><font color="#CCCCCC"> have</font><font color="#E5E5E5"> champagne</font><font color="#CCCCCC"> on the</font><font color="#E5E5E5"> inside</font><font color="#CCCCCC"> of</font>
+
+98
+00:03:14,820 --> 00:03:16,080
+your sinuses<font color="#CCCCCC"> during the second</font><font color="#E5E5E5"> half of</font>
+
+99
+00:03:16,080 --> 00:03:17,220
+<font color="#E5E5E5">the project</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> awesome</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> the money</font>
+
+100
+00:03:17,220 --> 00:03:18,630
+raised will be split among charities
+
+101
+00:03:18,630 --> 00:03:20,370
+voted on by the<font color="#CCCCCC"> community and</font><font color="#E5E5E5"> the way</font>
+
+102
+00:03:20,370 --> 00:03:22,020
+<font color="#E5E5E5">this works is people will make videos</font>
+
+103
+00:03:22,020 --> 00:03:23,310
+promoting<font color="#E5E5E5"> their favorite charities and</font>
+
+104
+00:03:23,310 --> 00:03:24,360
+<font color="#E5E5E5">if you like those</font><font color="#CCCCCC"> videos and</font><font color="#E5E5E5"> you like</font>
+
+105
+00:03:24,360 --> 00:03:25,860
+those charities you can vote<font color="#E5E5E5"> on them at</font>
+
+106
+00:03:25,860 --> 00:03:27,360
+project for awesome<font color="#CCCCCC"> com the charities</font>
+
+107
+00:03:27,360 --> 00:03:28,500
+think of the<font color="#E5E5E5"> most votes will get a</font>
+
+108
+00:03:28,500 --> 00:03:30,060
+portion of<font color="#E5E5E5"> the money that we raised in</font>
+
+109
+00:03:30,060 --> 00:03:31,050
+the second half the project for awesome
+
+110
+00:03:31,050 --> 00:03:32,970
+<font color="#CCCCCC">also the 48</font><font color="#E5E5E5"> hour charity livestream is</font>
+
+111
+00:03:32,970 --> 00:03:34,350
+going on right now<font color="#E5E5E5"> you could check it</font>
+
+112
+00:03:34,350 --> 00:03:35,550
+out a<font color="#E5E5E5"> project for awesome</font><font color="#CCCCCC"> comm slash</font>
+
+113
+00:03:35,550 --> 00:03:37,020
+live you can also<font color="#E5E5E5"> probably just find it</font>
+
+114
+00:03:37,020 --> 00:03:38,430
+on<font color="#CCCCCC"> blog for the channel</font><font color="#E5E5E5"> we'll be</font><font color="#CCCCCC"> having</font>
+
+115
+00:03:38,430 --> 00:03:40,020
+a lot<font color="#E5E5E5"> of fun and doing a lot of weird</font>
+
+116
+00:03:40,020 --> 00:03:41,489
+<font color="#CCCCCC">stuff and</font><font color="#E5E5E5"> I really want you to join up</font>
+
+117
+00:03:41,489 --> 00:03:42,690
+<font color="#E5E5E5">and if you want to make</font><font color="#CCCCCC"> yourself happy</font>
+
+118
+00:03:42,690 --> 00:03:45,330
+<font color="#E5E5E5">both with cool</font><font color="#CCCCCC"> things that</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> can have</font>
+
+119
+00:03:45,330 --> 00:03:47,400
+access<font color="#CCCCCC"> to or you have shipped to your</font>
+
+120
+00:03:47,400 --> 00:03:48,600
+<font color="#E5E5E5">house and with the</font><font color="#CCCCCC"> knowledge that</font><font color="#E5E5E5"> you</font>
+
+121
+00:03:48,600 --> 00:03:50,160
+are helping<font color="#E5E5E5"> solve some of the hardest</font>
+
+122
+00:03:50,160 --> 00:03:52,980
+<font color="#E5E5E5">problems that humanity</font><font color="#CCCCCC"> has left to solve</font>
+
+123
+00:03:52,980 --> 00:03:54,900
+you<font color="#E5E5E5"> can get a project</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> awesome calm</font>
+
+124
+00:03:54,900 --> 00:03:57,690
+<font color="#CCCCCC">slash donate John I will</font><font color="#E5E5E5"> see you in the</font>
+
+125
+00:03:57,690 --> 00:00:00,000
+<font color="#CCCCCC">livestream</font>
+

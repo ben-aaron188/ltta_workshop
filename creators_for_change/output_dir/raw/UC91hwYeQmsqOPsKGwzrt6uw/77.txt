@@ -1,0 +1,436 @@
+1
+00:00:00,110 --> 00:00:16,839
+[Music]
+
+2
+00:00:20,119 --> 00:00:23,330
+<font color="#E5E5E5">okay so what I have here</font><font color="#CCCCCC"> is a truth</font>
+
+3
+00:00:23,330 --> 00:00:25,380
+simulator<font color="#CCCCCC"> so I</font><font color="#E5E5E5"> just have to finish</font>
+
+4
+00:00:25,380 --> 00:00:27,449
+hooking it<font color="#E5E5E5"> up okay so I have to plug</font>
+
+5
+00:00:27,449 --> 00:00:31,260
+this up to you okay no it's not gonna
+
+6
+00:00:31,260 --> 00:00:33,660
+hurt<font color="#E5E5E5"> no way it's gonna hurt</font><font color="#CCCCCC"> are you</font>
+
+7
+00:00:33,660 --> 00:00:36,960
+ready for it yeah<font color="#E5E5E5"> okay now these are</font><font color="#CCCCCC"> a</font>
+
+8
+00:00:36,960 --> 00:00:38,070
+<font color="#E5E5E5">little sticky okay</font>
+
+9
+00:00:38,070 --> 00:00:41,070
+but they come off okay so I gotta put
+
+10
+00:00:41,070 --> 00:00:54,840
+one now what does this thing<font color="#E5E5E5"> do do you</font>
+
+11
+00:00:54,840 --> 00:00:57,379
+<font color="#E5E5E5">know what it does</font>
+
+12
+00:00:59,080 --> 00:01:02,460
+it monitors<font color="#CCCCCC"> if you're telling</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> truth</font>
+
+13
+00:01:02,460 --> 00:01:03,640
+okay
+
+14
+00:01:03,640 --> 00:01:11,890
+and the<font color="#CCCCCC"> last</font><font color="#E5E5E5"> one goes right</font><font color="#CCCCCC"> here okay so</font>
+
+15
+00:01:11,890 --> 00:01:13,390
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> right</font><font color="#CCCCCC"> here</font><font color="#E5E5E5"> is gonna tell me if</font>
+
+16
+00:01:13,390 --> 00:01:15,640
+you're naughty or nice<font color="#CCCCCC"> if you tell the</font>
+
+17
+00:01:15,640 --> 00:01:30,040
+truth<font color="#E5E5E5"> then you're being nice</font><font color="#CCCCCC"> so I'm</font>
+
+18
+00:01:30,040 --> 00:01:33,850
+<font color="#E5E5E5">gonna turn it</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> okay</font><font color="#CCCCCC"> and I'm just gonna</font>
+
+19
+00:01:33,850 --> 00:01:37,000
+<font color="#E5E5E5">ask you some questions okay</font><font color="#CCCCCC"> so the first</font>
+
+20
+00:01:37,000 --> 00:01:40,950
+question is what's<font color="#CCCCCC"> your name</font>
+
+21
+00:01:40,950 --> 00:01:50,710
+the<font color="#E5E5E5"> opera's feel got</font><font color="#CCCCCC"> it okay</font><font color="#E5E5E5"> what is</font>
+
+22
+00:01:50,710 --> 00:01:54,850
+your mom's name very good
+
+23
+00:01:54,850 --> 00:02:04,530
+are you a superhero<font color="#CCCCCC"> are you a superhero</font>
+
+24
+00:02:04,890 --> 00:02:09,190
+<font color="#E5E5E5">you'd have to say yes or no yes I'm a</font>
+
+25
+00:02:09,190 --> 00:02:16,120
+superhero<font color="#E5E5E5"> apparently wait a minute but</font>
+
+26
+00:02:16,120 --> 00:02:18,069
+that<font color="#E5E5E5"> beat means that you you didn't tell</font>
+
+27
+00:02:18,069 --> 00:02:28,830
+the truth okay<font color="#CCCCCC"> your power ranger yeah</font>
+
+28
+00:02:30,930 --> 00:02:33,069
+<font color="#CCCCCC">apparently you're not telling the truth</font>
+
+29
+00:02:33,069 --> 00:02:36,160
+<font color="#E5E5E5">okay</font><font color="#CCCCCC"> let's try</font><font color="#E5E5E5"> it again let's try again</font>
+
+30
+00:02:36,160 --> 00:02:42,040
+<font color="#E5E5E5">are you a superhero okay</font>
+
+31
+00:02:42,040 --> 00:02:45,959
+<font color="#E5E5E5">are you a</font><font color="#CCCCCC"> Power Ranger</font>
+
+32
+00:02:46,620 --> 00:02:50,799
+<font color="#CCCCCC">okay let's try</font><font color="#E5E5E5"> another question</font><font color="#CCCCCC"> did you</font>
+
+33
+00:02:50,799 --> 00:02:51,970
+<font color="#CCCCCC">go</font><font color="#E5E5E5"> to Legoland today</font>
+
+34
+00:02:51,970 --> 00:03:02,680
+did you see bad guys<font color="#E5E5E5"> there you</font><font color="#CCCCCC"> saw a bad</font>
+
+35
+00:03:02,680 --> 00:03:13,799
+guy<font color="#E5E5E5"> did you fight bad guys today yeah</font>
+
+36
+00:03:13,799 --> 00:03:17,290
+<font color="#CCCCCC">Zeo</font><font color="#E5E5E5"> are you not telling the truth I'm</font>
+
+37
+00:03:17,290 --> 00:03:21,959
+<font color="#E5E5E5">sure I</font><font color="#CCCCCC"> am</font><font color="#E5E5E5"> okay okay okay</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> did you see</font>
+
+38
+00:03:21,959 --> 00:03:25,989
+bad guys<font color="#E5E5E5"> at Legoland okay</font>
+
+39
+00:03:25,989 --> 00:03:32,650
+did<font color="#E5E5E5"> you fight them</font><font color="#CCCCCC"> see oh</font><font color="#E5E5E5"> haha</font><font color="#CCCCCC"> oh my</font>
+
+40
+00:03:32,650 --> 00:03:36,069
+goodness<font color="#E5E5E5"> okay let's try another do you</font>
+
+41
+00:03:36,069 --> 00:03:39,730
+know how to drive<font color="#CCCCCC"> you have to say yes</font><font color="#E5E5E5"> or</font>
+
+42
+00:03:39,730 --> 00:03:45,329
+<font color="#E5E5E5">no hey</font><font color="#CCCCCC"> dad</font><font color="#E5E5E5"> do you know how to drive</font><font color="#CCCCCC"> you</font>
+
+43
+00:03:45,329 --> 00:03:53,739
+<font color="#CCCCCC">do a real car or or a small car a tiny</font>
+
+44
+00:03:53,739 --> 00:03:55,630
+car<font color="#CCCCCC"> are you trying to whisper so that</font>
+
+45
+00:03:55,630 --> 00:03:58,959
+machine doesn't<font color="#E5E5E5"> hear you okay do you</font>
+
+46
+00:03:58,959 --> 00:04:04,530
+love your<font color="#CCCCCC"> brother I can't hear you</font>
+
+47
+00:04:06,510 --> 00:04:08,250
+but if you're telling<font color="#E5E5E5"> the</font><font color="#CCCCCC"> truth</font><font color="#E5E5E5"> you can</font>
+
+48
+00:04:08,250 --> 00:04:12,769
+be loud right<font color="#E5E5E5"> do you love your brother</font>
+
+49
+00:04:12,769 --> 00:04:20,029
+<font color="#E5E5E5">yes okay are you nice to him huh yes</font>
+
+50
+00:04:20,029 --> 00:04:27,120
+<font color="#E5E5E5">were you nice</font><font color="#CCCCCC"> to your brother</font><font color="#E5E5E5"> today why</font>
+
+51
+00:04:27,120 --> 00:04:28,560
+is<font color="#E5E5E5"> the Machine saying that you aren't</font>
+
+52
+00:04:28,560 --> 00:04:29,850
+nice<font color="#CCCCCC"> to your brother</font><font color="#E5E5E5"> what</font><font color="#CCCCCC"> happened tell</font>
+
+53
+00:04:29,850 --> 00:04:30,870
+<font color="#E5E5E5">me what happened with your brother were</font>
+
+54
+00:04:30,870 --> 00:04:33,330
+you mean<font color="#E5E5E5"> to him</font><font color="#CCCCCC"> no where you mean to</font>
+
+55
+00:04:33,330 --> 00:04:37,340
+your brother<font color="#E5E5E5"> today not at all</font>
+
+56
+00:04:37,820 --> 00:04:45,990
+would you do to Uriah speak loud tell me
+
+57
+00:04:45,990 --> 00:04:49,800
+be nice you were nice to<font color="#E5E5E5"> him all</font><font color="#CCCCCC"> day</font>
+
+58
+00:04:49,800 --> 00:04:51,910
+didn't you didn't make fun<font color="#E5E5E5"> of him at</font><font color="#CCCCCC"> all</font>
+
+59
+00:04:51,910 --> 00:04:53,530
+today<font color="#E5E5E5"> Oh</font>
+
+60
+00:04:53,530 --> 00:04:57,400
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> little</font><font color="#CCCCCC"> yeah okay what happened all</font>
+
+61
+00:04:57,400 --> 00:04:57,700
+right
+
+62
+00:04:57,700 --> 00:05:01,030
+<font color="#E5E5E5">first of all</font><font color="#CCCCCC"> um</font><font color="#E5E5E5"> I wanted me to come and</font>
+
+63
+00:05:01,030 --> 00:05:04,570
+meet their walk<font color="#CCCCCC"> walk</font><font color="#E5E5E5"> the show it wasn't</font>
+
+64
+00:05:04,570 --> 00:05:09,400
+<font color="#CCCCCC">me</font><font color="#E5E5E5"> he was washing and then I said no he</font>
+
+65
+00:05:09,400 --> 00:05:12,010
+cried because he because because he
+
+66
+00:05:12,010 --> 00:05:16,000
+<font color="#E5E5E5">wants me what is your favorite</font><font color="#CCCCCC"> thing to</font>
+
+67
+00:05:16,000 --> 00:05:27,430
+eat brownies do you ever throw your food
+
+68
+00:05:27,430 --> 00:05:32,790
+<font color="#E5E5E5">away when you're</font><font color="#CCCCCC"> supposed to eat</font><font color="#E5E5E5"> it no</font>
+
+69
+00:05:33,750 --> 00:05:35,710
+do<font color="#CCCCCC"> you ever</font><font color="#E5E5E5"> throw your food away</font>
+
+70
+00:05:35,710 --> 00:05:46,690
+sometimes first of all stop acting
+
+71
+00:05:46,690 --> 00:05:50,080
+homeless and put that back okay we don't
+
+72
+00:05:50,080 --> 00:05:52,660
+dig in the trash can even if it's<font color="#CCCCCC"> to get</font>
+
+73
+00:05:52,660 --> 00:05:55,620
+<font color="#E5E5E5">proof you've never thrown your food away</font>
+
+74
+00:05:55,620 --> 00:05:59,910
+maybe once yeah
+
+75
+00:06:00,030 --> 00:06:03,350
+what about once
+
+76
+00:06:03,350 --> 00:06:05,020
+[Music]
+
+77
+00:06:05,020 --> 00:06:10,160
+<font color="#E5E5E5">okay so you have to hold</font><font color="#CCCCCC"> food away have</font>
+
+78
+00:06:10,160 --> 00:06:12,200
+you ever put food<font color="#E5E5E5"> that you were supposed</font>
+
+79
+00:06:12,200 --> 00:06:16,550
+to eat<font color="#E5E5E5"> in the</font><font color="#CCCCCC"> trashcan yeah okay just</font>
+
+80
+00:06:16,550 --> 00:06:20,270
+<font color="#CCCCCC">once maybe maybe</font><font color="#E5E5E5"> yeah maybe it's okay if</font>
+
+81
+00:06:20,270 --> 00:06:22,940
+you tell the truth<font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> yeah everybody</font>
+
+82
+00:06:22,940 --> 00:06:24,890
+<font color="#CCCCCC">does</font><font color="#E5E5E5"> I used to do I don't care</font><font color="#CCCCCC"> it's away</font>
+
+83
+00:06:24,890 --> 00:06:30,140
+<font color="#E5E5E5">cuz I didn't okay okay</font><font color="#CCCCCC"> I think</font><font color="#E5E5E5"> we're all</font>
+
+84
+00:06:30,140 --> 00:06:31,730
+done this<font color="#E5E5E5"> is the first time did you like</font>
+
+85
+00:06:31,730 --> 00:06:33,740
+the simulation<font color="#E5E5E5"> yeah do you think</font><font color="#CCCCCC"> you did</font>
+
+86
+00:06:33,740 --> 00:06:36,970
+pretty<font color="#CCCCCC"> good you didn't tell any lies</font>
+
+87
+00:06:52,570 --> 00:06:54,400
+[Music]
+
+88
+00:06:54,400 --> 00:07:01,010
+that<font color="#E5E5E5"> was not bad it gets here</font><font color="#CCCCCC"> it was</font>
+
+89
+00:07:01,010 --> 00:07:02,270
+going on guys<font color="#E5E5E5"> believe here from belief</font>
+
+90
+00:07:02,270 --> 00:07:03,860
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> fatherhood thank you so much for</font>
+
+91
+00:07:03,860 --> 00:07:06,080
+<font color="#CCCCCC">watching this</font><font color="#E5E5E5"> episode now listen if you</font>
+
+92
+00:07:06,080 --> 00:07:07,640
+have not subscribed to<font color="#E5E5E5"> this channel yet</font>
+
+93
+00:07:07,640 --> 00:07:09,890
+<font color="#E5E5E5">make sure</font><font color="#CCCCCC"> you subscribe because next up</font>
+
+94
+00:07:09,890 --> 00:07:12,440
+<font color="#E5E5E5">we</font><font color="#CCCCCC"> have our second oldest kid Uriah Bowl</font>
+
+95
+00:07:12,440 --> 00:07:14,300
+up on the lie detector<font color="#CCCCCC"> test and</font><font color="#E5E5E5"> if you</font>
+
+96
+00:07:14,300 --> 00:07:15,710
+watch this channel<font color="#E5E5E5"> at all you know that</font>
+
+97
+00:07:15,710 --> 00:07:18,020
+<font color="#E5E5E5">he's full of mad quotable so go</font><font color="#CCCCCC"> ahead</font>
+
+98
+00:07:18,020 --> 00:07:19,669
+<font color="#CCCCCC">and hit the</font><font color="#E5E5E5"> subscribe button</font><font color="#CCCCCC"> click that</font>
+
+99
+00:07:19,669 --> 00:07:21,770
+<font color="#E5E5E5">bell so you can be notified</font><font color="#CCCCCC"> and if you</font>
+
+100
+00:07:21,770 --> 00:07:23,570
+love this<font color="#CCCCCC"> video share with somebody</font><font color="#E5E5E5"> if</font>
+
+101
+00:07:23,570 --> 00:07:25,460
+<font color="#E5E5E5">you like it like</font><font color="#CCCCCC"> it and if you hate it</font>
+
+102
+00:07:25,460 --> 00:07:26,870
+<font color="#CCCCCC">let me know in the comments section</font>
+
+103
+00:07:26,870 --> 00:07:29,090
+<font color="#CCCCCC">thank you</font><font color="#E5E5E5"> guys once again</font><font color="#CCCCCC"> all big shout</font>
+
+104
+00:07:29,090 --> 00:07:30,500
+out<font color="#CCCCCC"> to my homie</font><font color="#E5E5E5"> Cooper who built a lie</font>
+
+105
+00:07:30,500 --> 00:07:32,240
+detector<font color="#E5E5E5"> test</font><font color="#CCCCCC"> and big shout out to</font><font color="#E5E5E5"> the</font>
+
+106
+00:07:32,240 --> 00:07:33,830
+patron supporters who already saw this
+
+107
+00:07:33,830 --> 00:07:36,790
+you guys got it early<font color="#CCCCCC"> and yeah</font>
+
+108
+00:07:36,790 --> 00:07:38,930
+<font color="#CCCCCC">particularly</font><font color="#E5E5E5"> keeping Network</font><font color="#CCCCCC"> poppin</font>
+
+109
+00:07:38,930 --> 00:00:00,000
+peace
+

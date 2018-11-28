@@ -1,0 +1,820 @@
+1
+00:00:00,030 --> 00:00:01,740
+good morning John suddenly along with
+
+2
+00:00:01,740 --> 00:00:04,080
+the disaster<font color="#CCCCCC"> in Japan has become kind</font><font color="#E5E5E5"> of</font>
+
+3
+00:00:04,080 --> 00:00:06,210
+necessary<font color="#E5E5E5"> to understand a little bit</font>
+
+4
+00:00:06,210 --> 00:00:08,760
+about<font color="#E5E5E5"> how nuclear reactors were and so I</font>
+
+5
+00:00:08,760 --> 00:00:10,320
+hope<font color="#CCCCCC"> that you will excuse me postponing</font>
+
+6
+00:00:10,320 --> 00:00:11,880
+my thoughts<font color="#E5E5E5"> from Haiti and instead</font>
+
+7
+00:00:11,880 --> 00:00:13,290
+giving in a direction to how<font color="#CCCCCC"> a</font><font color="#E5E5E5"> nuclear</font>
+
+8
+00:00:13,290 --> 00:00:15,269
+reactors work and how that<font color="#E5E5E5"> pertains to</font>
+
+9
+00:00:15,269 --> 00:00:17,400
+the situation<font color="#E5E5E5"> in Fukushima right now so</font>
+
+10
+00:00:17,400 --> 00:00:19,890
+<font color="#E5E5E5">first things first you are welcome to</font>
+
+11
+00:00:19,890 --> 00:00:22,650
+say<font color="#E5E5E5"> nuclear but you should know that</font>
+
+12
+00:00:22,650 --> 00:00:24,119
+there will<font color="#CCCCCC"> always be a</font><font color="#E5E5E5"> certain</font>
+
+13
+00:00:24,119 --> 00:00:25,470
+<font color="#CCCCCC">percentage of the population</font><font color="#E5E5E5"> who will</font>
+
+14
+00:00:25,470 --> 00:00:27,090
+assume<font color="#E5E5E5"> that you are a dumbass</font><font color="#CCCCCC"> I</font>
+
+15
+00:00:27,090 --> 00:00:28,830
+<font color="#E5E5E5">personally have no problem</font><font color="#CCCCCC"> with nucular</font>
+
+16
+00:00:28,830 --> 00:00:30,269
+but if you want fewer people<font color="#CCCCCC"> to think</font>
+
+17
+00:00:30,269 --> 00:00:32,308
+<font color="#E5E5E5">you're an idiot</font><font color="#CCCCCC"> probably should just</font>
+
+18
+00:00:32,308 --> 00:00:34,230
+<font color="#E5E5E5">switch over to nuclear now for</font>
+
+19
+00:00:34,230 --> 00:00:36,899
+terminology<font color="#E5E5E5"> one nuclear pertaining to</font>
+
+20
+00:00:36,899 --> 00:00:39,030
+the nucleus<font color="#E5E5E5"> which is the center of the</font>
+
+21
+00:00:39,030 --> 00:00:40,410
+<font color="#CCCCCC">atom that contains the</font><font color="#E5E5E5"> protons and the</font>
+
+22
+00:00:40,410 --> 00:00:42,420
+<font color="#CCCCCC">neutrons nuclear reaction a reaction</font>
+
+23
+00:00:42,420 --> 00:00:44,610
+that changes the nucleus<font color="#E5E5E5"> this happens</font>
+
+24
+00:00:44,610 --> 00:00:46,980
+either by an atom splitting apart<font color="#CCCCCC"> or by</font>
+
+25
+00:00:46,980 --> 00:00:48,870
+two atoms fusing<font color="#E5E5E5"> together</font>
+
+26
+00:00:48,870 --> 00:00:52,559
+<font color="#E5E5E5">radiation is any particle or wave that</font>
+
+27
+00:00:52,559 --> 00:00:54,930
+goes through the air<font color="#CCCCCC"> or goes through</font>
+
+28
+00:00:54,930 --> 00:00:56,789
+other things<font color="#CCCCCC"> besides the air like your</font>
+
+29
+00:00:56,789 --> 00:00:58,170
+body<font color="#E5E5E5"> generally when we're talking about</font>
+
+30
+00:00:58,170 --> 00:00:59,879
+nuclear<font color="#E5E5E5"> radiation we're talking about</font>
+
+31
+00:00:59,879 --> 00:01:01,890
+<font color="#E5E5E5">ionizing radiation which</font><font color="#CCCCCC"> is the kind</font><font color="#E5E5E5"> of</font>
+
+32
+00:01:01,890 --> 00:01:03,750
+<font color="#E5E5E5">radiation</font><font color="#CCCCCC"> that has enough energy</font><font color="#E5E5E5"> to</font>
+
+33
+00:01:03,750 --> 00:01:06,090
+<font color="#E5E5E5">ionize an atom radiation can</font><font color="#CCCCCC"> be harmless</font>
+
+34
+00:01:06,090 --> 00:01:08,040
+<font color="#E5E5E5">but</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> can also be not harmless</font>
+
+35
+00:01:08,040 --> 00:01:10,350
+<font color="#E5E5E5">radioactive</font><font color="#CCCCCC"> decay this</font><font color="#E5E5E5"> is important it</font>
+
+36
+00:01:10,350 --> 00:01:11,850
+will<font color="#E5E5E5"> come</font><font color="#CCCCCC"> up again</font><font color="#E5E5E5"> soon is when an</font>
+
+37
+00:01:11,850 --> 00:01:13,979
+unstable<font color="#E5E5E5"> atom loses energy by emitting</font>
+
+38
+00:01:13,979 --> 00:01:15,090
+radiation
+
+39
+00:01:15,090 --> 00:01:18,479
+<font color="#E5E5E5">fission</font><font color="#CCCCCC"> when an</font><font color="#E5E5E5"> atom breaks apart into</font>
+
+40
+00:01:18,479 --> 00:01:21,330
+<font color="#E5E5E5">two or</font><font color="#CCCCCC"> more atoms that are</font><font color="#E5E5E5"> an entirely</font>
+
+41
+00:01:21,330 --> 00:01:23,970
+different<font color="#E5E5E5"> kind of atom than the original</font>
+
+42
+00:01:23,970 --> 00:01:25,650
+atom during fission a great deal of
+
+43
+00:01:25,650 --> 00:01:28,259
+radiation and energy is expelled<font color="#E5E5E5"> and the</font>
+
+44
+00:01:28,259 --> 00:01:29,729
+<font color="#E5E5E5">fusion products which are</font><font color="#CCCCCC"> whatever's</font>
+
+45
+00:01:29,729 --> 00:01:32,159
+left<font color="#CCCCCC"> over are always lighter than the</font>
+
+46
+00:01:32,159 --> 00:01:34,380
+<font color="#CCCCCC">original atom now where did that mass go</font>
+
+47
+00:01:34,380 --> 00:01:36,960
+<font color="#E5E5E5">was converted into energy in a way that</font>
+
+48
+00:01:36,960 --> 00:01:39,570
+is described by a very famous<font color="#CCCCCC"> equation</font>
+
+49
+00:01:39,570 --> 00:01:41,070
+notice<font color="#E5E5E5"> in</font><font color="#CCCCCC"> that very famous equation that</font>
+
+50
+00:01:41,070 --> 00:01:42,540
+we are<font color="#E5E5E5"> multiplying by the speed of</font><font color="#CCCCCC"> light</font>
+
+51
+00:01:42,540 --> 00:01:45,149
+<font color="#CCCCCC">squared</font><font color="#E5E5E5"> you may have noticed the speed</font>
+
+52
+00:01:45,149 --> 00:01:48,270
+of light very big number<font color="#E5E5E5"> and so when you</font>
+
+53
+00:01:48,270 --> 00:01:50,850
+convert<font color="#E5E5E5"> a tiny tiny amount of mass into</font>
+
+54
+00:01:50,850 --> 00:01:53,159
+<font color="#CCCCCC">energy you get a great deal of energy</font>
+
+55
+00:01:53,159 --> 00:01:55,470
+<font color="#E5E5E5">which</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> why something in my ear a pound</font>
+
+56
+00:01:55,470 --> 00:01:58,110
+of uranium-235 can be converted into as
+
+57
+00:01:58,110 --> 00:02:00,689
+much<font color="#CCCCCC"> energy as about</font><font color="#E5E5E5"> a million gallons</font>
+
+58
+00:02:00,689 --> 00:02:02,360
+of<font color="#E5E5E5"> gasoline speaking of which</font>
+
+59
+00:02:02,360 --> 00:02:05,850
+uranium-235<font color="#E5E5E5"> is a rare isotope of uranium</font>
+
+60
+00:02:05,850 --> 00:02:08,818
+<font color="#E5E5E5">that has very</font><font color="#CCCCCC"> unique properties first</font>
+
+61
+00:02:08,818 --> 00:02:10,889
+very unique property when you<font color="#E5E5E5"> hit</font><font color="#CCCCCC"> it</font>
+
+62
+00:02:10,889 --> 00:02:13,090
+<font color="#E5E5E5">with a neutron</font><font color="#CCCCCC"> doesn't</font><font color="#E5E5E5"> even have to be</font>
+
+63
+00:02:13,090 --> 00:02:16,239
+special neutron it<font color="#E5E5E5"> fission second when</font>
+
+64
+00:02:16,239 --> 00:02:19,390
+uranium-235 splits<font color="#E5E5E5"> it creates</font><font color="#CCCCCC"> more</font>
+
+65
+00:02:19,390 --> 00:02:21,910
+neutrons which then go on<font color="#E5E5E5"> to hit more</font>
+
+66
+00:02:21,910 --> 00:02:24,550
+atoms of uranium<font color="#E5E5E5"> 235 which</font><font color="#CCCCCC"> then go on to</font>
+
+67
+00:02:24,550 --> 00:02:26,230
+create<font color="#E5E5E5"> more neutrons which then goes on</font>
+
+68
+00:02:26,230 --> 00:02:28,390
+to<font color="#CCCCCC"> create a chain reaction that can be</font>
+
+69
+00:02:28,390 --> 00:02:30,580
+turned<font color="#E5E5E5"> into either a nuclear bomb or a</font>
+
+70
+00:02:30,580 --> 00:02:34,000
+nuclear<font color="#CCCCCC"> energy reactor so in a nuclear</font>
+
+71
+00:02:34,000 --> 00:02:36,190
+power<font color="#CCCCCC"> plant</font><font color="#E5E5E5"> you have</font><font color="#CCCCCC"> uranium-235 and you</font>
+
+72
+00:02:36,190 --> 00:02:38,049
+<font color="#E5E5E5">haven't mixed into these ceramic pellets</font>
+
+73
+00:02:38,049 --> 00:02:39,819
+and through the<font color="#E5E5E5"> majesty of science these</font>
+
+74
+00:02:39,819 --> 00:02:42,099
+little guys<font color="#CCCCCC"> can never</font><font color="#E5E5E5"> explode like a</font>
+
+75
+00:02:42,099 --> 00:02:43,690
+nuclear<font color="#E5E5E5"> bomb these</font><font color="#CCCCCC"> pellets</font><font color="#E5E5E5"> are placed</font>
+
+76
+00:02:43,690 --> 00:02:46,269
+<font color="#E5E5E5">into tubes</font><font color="#CCCCCC"> of zirconium alloy that is</font>
+
+77
+00:02:46,269 --> 00:02:48,700
+extremely<font color="#E5E5E5"> strong and</font><font color="#CCCCCC"> heat-resistant that</font>
+
+78
+00:02:48,700 --> 00:02:50,290
+tube with<font color="#CCCCCC"> the uranium</font><font color="#E5E5E5"> pellets in it is</font>
+
+79
+00:02:50,290 --> 00:02:52,660
+what we call a fuel rod<font color="#E5E5E5"> when a bunch of</font>
+
+80
+00:02:52,660 --> 00:02:53,650
+these rods are<font color="#CCCCCC"> close together the</font>
+
+81
+00:02:53,650 --> 00:02:55,540
+uranium begins to fission<font color="#E5E5E5"> creating</font>
+
+82
+00:02:55,540 --> 00:02:58,329
+energy<font color="#CCCCCC"> and</font><font color="#E5E5E5"> radiation and neutrons and</font>
+
+83
+00:02:58,329 --> 00:03:00,700
+<font color="#E5E5E5">fission products which are the stuff</font>
+
+84
+00:03:00,700 --> 00:03:02,590
+that's<font color="#E5E5E5"> left</font><font color="#CCCCCC"> over after the uranium</font>
+
+85
+00:03:02,590 --> 00:03:04,390
+splits apart<font color="#E5E5E5"> all</font><font color="#CCCCCC"> of this stuff is what</font>
+
+86
+00:03:04,390 --> 00:03:06,340
+is called the reactor and<font color="#E5E5E5"> it's encased</font>
+
+87
+00:03:06,340 --> 00:03:10,120
+inside<font color="#E5E5E5"> a thick steel box like eight</font>
+
+88
+00:03:10,120 --> 00:03:12,340
+<font color="#CCCCCC">inches thick steel</font><font color="#E5E5E5"> that steel box is</font>
+
+89
+00:03:12,340 --> 00:03:14,049
+<font color="#E5E5E5">called your primary containment and then</font>
+
+90
+00:03:14,049 --> 00:03:16,239
+that is inside<font color="#E5E5E5"> of a giant concrete</font><font color="#CCCCCC"> in</font>
+
+91
+00:03:16,239 --> 00:03:17,769
+steel box which is your secondary
+
+92
+00:03:17,769 --> 00:03:19,329
+containment<font color="#E5E5E5"> so when the reactor the fuel</font>
+
+93
+00:03:19,329 --> 00:03:21,130
+rods<font color="#E5E5E5"> are hot water is pumped</font><font color="#CCCCCC"> through the</font>
+
+94
+00:03:21,130 --> 00:03:22,720
+<font color="#E5E5E5">fuel rods it turns into steam</font><font color="#CCCCCC"> the steam</font>
+
+95
+00:03:22,720 --> 00:03:24,100
+drives<font color="#E5E5E5"> a turbine the turbine creates</font>
+
+96
+00:03:24,100 --> 00:03:25,810
+electricity<font color="#E5E5E5"> and that is how we get</font>
+
+97
+00:03:25,810 --> 00:03:27,280
+electricity<font color="#CCCCCC"> from nuclear power</font><font color="#E5E5E5"> now if</font>
+
+98
+00:03:27,280 --> 00:03:28,480
+you want to turn it off we have<font color="#E5E5E5"> what</font><font color="#CCCCCC"> are</font>
+
+99
+00:03:28,480 --> 00:03:30,519
+called control rods control rods<font color="#E5E5E5"> absorb</font>
+
+100
+00:03:30,519 --> 00:03:33,160
+neutrons you stick them<font color="#E5E5E5"> in between the</font>
+
+101
+00:03:33,160 --> 00:03:34,630
+fuel rods<font color="#CCCCCC"> and it</font><font color="#E5E5E5"> absorbs all</font><font color="#CCCCCC"> the</font>
+
+102
+00:03:34,630 --> 00:03:35,980
+neutrons<font color="#CCCCCC"> no neutrons are left to</font>
+
+103
+00:03:35,980 --> 00:03:37,389
+<font color="#CCCCCC">continue the chain reaction and the</font>
+
+104
+00:03:37,389 --> 00:03:40,120
+reaction<font color="#E5E5E5"> stop ideally that would be</font>
+
+105
+00:03:40,120 --> 00:03:42,549
+where it<font color="#E5E5E5"> ends but it's not</font><font color="#CCCCCC"> because we</font>
+
+106
+00:03:42,549 --> 00:03:44,889
+<font color="#E5E5E5">have those fission products all those</font>
+
+107
+00:03:44,889 --> 00:03:46,120
+<font color="#E5E5E5">fission products left over from the</font>
+
+108
+00:03:46,120 --> 00:03:48,489
+uranium splitting are<font color="#E5E5E5"> unstable isotopes</font>
+
+109
+00:03:48,489 --> 00:03:49,480
+<font color="#CCCCCC">this is where we</font><font color="#E5E5E5"> come back to</font>
+
+110
+00:03:49,480 --> 00:03:50,950
+radioactive<font color="#E5E5E5"> decay because they are</font>
+
+111
+00:03:50,950 --> 00:03:53,650
+<font color="#CCCCCC">unstable isotopes they decay and as they</font>
+
+112
+00:03:53,650 --> 00:03:56,290
+<font color="#E5E5E5">decay they produce</font><font color="#CCCCCC"> radiation and energy</font>
+
+113
+00:03:56,290 --> 00:03:58,239
+and that energy becomes<font color="#E5E5E5"> heat and it's</font>
+
+114
+00:03:58,239 --> 00:04:00,250
+not nearly<font color="#E5E5E5"> as much heat get in the</font>
+
+115
+00:04:00,250 --> 00:04:01,780
+center<font color="#CCCCCC"> of a reactor when it's running</font>
+
+116
+00:04:01,780 --> 00:04:04,660
+<font color="#CCCCCC">but it is still a lot of</font><font color="#E5E5E5"> heat in fact it</font>
+
+117
+00:04:04,660 --> 00:04:06,609
+is so much heat<font color="#CCCCCC"> that if you</font><font color="#E5E5E5"> don't cool</font>
+
+118
+00:04:06,609 --> 00:04:08,139
+it<font color="#E5E5E5"> down</font><font color="#CCCCCC"> the fuel</font><font color="#E5E5E5"> rods</font><font color="#CCCCCC"> themselves will</font>
+
+119
+00:04:08,139 --> 00:04:09,940
+eventually break and you will have what
+
+120
+00:04:09,940 --> 00:04:12,250
+we call a<font color="#E5E5E5"> meltdown and this is what</font>
+
+121
+00:04:12,250 --> 00:04:13,810
+happened<font color="#E5E5E5"> in Fukushima</font><font color="#CCCCCC"> as soon</font><font color="#E5E5E5"> as the</font>
+
+122
+00:04:13,810 --> 00:04:15,220
+earthquake<font color="#CCCCCC"> happened the control rod</font>
+
+123
+00:04:15,220 --> 00:04:17,260
+slammed into place the reaction stopped
+
+124
+00:04:17,260 --> 00:04:19,839
+but we<font color="#E5E5E5"> still had the fission products</font>
+
+125
+00:04:19,839 --> 00:04:22,089
+creating a lot of<font color="#CCCCCC"> heat the grid power</font>
+
+126
+00:04:22,089 --> 00:04:23,500
+immediately<font color="#E5E5E5"> got taken down by the</font>
+
+127
+00:04:23,500 --> 00:04:24,849
+earthquake and<font color="#E5E5E5"> the</font><font color="#CCCCCC"> backup diesel</font>
+
+128
+00:04:24,849 --> 00:04:26,560
+generators<font color="#CCCCCC"> they got wiped</font>
+
+129
+00:04:26,560 --> 00:04:28,030
+by the tsunami<font color="#CCCCCC"> and</font><font color="#E5E5E5"> so there was</font><font color="#CCCCCC"> nothing</font>
+
+130
+00:04:28,030 --> 00:04:30,010
+left<font color="#E5E5E5"> to power the</font><font color="#CCCCCC"> coolant system the</font>
+
+131
+00:04:30,010 --> 00:04:32,080
+system<font color="#E5E5E5"> that</font><font color="#CCCCCC"> keeps</font><font color="#E5E5E5"> water running through</font>
+
+132
+00:04:32,080 --> 00:04:34,480
+the<font color="#E5E5E5"> reactor so that</font><font color="#CCCCCC"> the fuel rods</font><font color="#E5E5E5"> don't</font>
+
+133
+00:04:34,480 --> 00:04:36,400
+get too hot they don't break and they
+
+134
+00:04:36,400 --> 00:04:38,320
+don't melt down<font color="#CCCCCC"> so it appears that some</font>
+
+135
+00:04:38,320 --> 00:04:40,510
+of the fuel<font color="#CCCCCC"> rods did break that created</font>
+
+136
+00:04:40,510 --> 00:04:42,010
+an environment combined with the heat
+
+137
+00:04:42,010 --> 00:04:44,290
+<font color="#E5E5E5">that could</font><font color="#CCCCCC"> actually split water into</font>
+
+138
+00:04:44,290 --> 00:04:46,180
+hydrogen and oxygen creating hydrogen
+
+139
+00:04:46,180 --> 00:04:48,280
+which we all know is explosive and we've
+
+140
+00:04:48,280 --> 00:04:49,720
+seen the effects of<font color="#E5E5E5"> that</font><font color="#CCCCCC"> in a</font><font color="#E5E5E5"> series of</font>
+
+141
+00:04:49,720 --> 00:04:51,430
+<font color="#CCCCCC">hydrogen explosions</font><font color="#E5E5E5"> throughout the plant</font>
+
+142
+00:04:51,430 --> 00:04:53,320
+that<font color="#E5E5E5"> have damaged both the</font><font color="#CCCCCC"> primary</font><font color="#E5E5E5"> and</font>
+
+143
+00:04:53,320 --> 00:04:55,030
+the secondary containment and at<font color="#E5E5E5"> least</font>
+
+144
+00:04:55,030 --> 00:04:56,650
+one of the reactor additionally just
+
+145
+00:04:56,650 --> 00:04:58,600
+<font color="#E5E5E5">like the reactor when it's turned off</font>
+
+146
+00:04:58,600 --> 00:05:00,880
+<font color="#E5E5E5">still produces</font><font color="#CCCCCC"> heat we have what are</font>
+
+147
+00:05:00,880 --> 00:05:02,530
+<font color="#CCCCCC">called spent fuel rods these are fuel</font>
+
+148
+00:05:02,530 --> 00:05:04,570
+rods that no longer<font color="#E5E5E5"> contain any</font><font color="#CCCCCC"> uranium</font>
+
+149
+00:05:04,570 --> 00:05:06,160
+but<font color="#E5E5E5"> they do contain</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> of those</font>
+
+150
+00:05:06,160 --> 00:05:08,560
+<font color="#E5E5E5">radioactive fission products spent fuel</font>
+
+151
+00:05:08,560 --> 00:05:09,970
+<font color="#CCCCCC">rods</font><font color="#E5E5E5"> can spend years at the bottom</font><font color="#CCCCCC"> of</font>
+
+152
+00:05:09,970 --> 00:05:12,520
+giant pools<font color="#E5E5E5"> while we wait for</font><font color="#CCCCCC"> the</font>
+
+153
+00:05:12,520 --> 00:05:14,410
+radioactive materials in them to decay
+
+154
+00:05:14,410 --> 00:05:16,210
+enough that they<font color="#E5E5E5"> are not producing so</font>
+
+155
+00:05:16,210 --> 00:05:17,800
+<font color="#E5E5E5">much heat</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> they cannot be dealt with</font>
+
+156
+00:05:17,800 --> 00:05:19,690
+in a different<font color="#CCCCCC"> way and the same way</font><font color="#E5E5E5"> that</font>
+
+157
+00:05:19,690 --> 00:05:21,160
+the cooling system for<font color="#E5E5E5"> the reactor isn't</font>
+
+158
+00:05:21,160 --> 00:05:22,330
+working the cooling system<font color="#CCCCCC"> for those</font>
+
+159
+00:05:22,330 --> 00:05:25,090
+spent fuel rod pools<font color="#E5E5E5"> is also not working</font>
+
+160
+00:05:25,090 --> 00:05:26,290
+<font color="#CCCCCC">there's another</font><font color="#E5E5E5"> difference between</font><font color="#CCCCCC"> the</font>
+
+161
+00:05:26,290 --> 00:05:28,000
+<font color="#E5E5E5">reactor rods and the spent fuel</font><font color="#CCCCCC"> rods</font><font color="#E5E5E5"> and</font>
+
+162
+00:05:28,000 --> 00:05:29,919
+that is that the spent<font color="#E5E5E5"> fuel rods do not</font>
+
+163
+00:05:29,919 --> 00:05:31,870
+have a<font color="#CCCCCC"> primary containment vessel so</font>
+
+164
+00:05:31,870 --> 00:05:33,070
+there is less protection<font color="#CCCCCC"> and if the</font>
+
+165
+00:05:33,070 --> 00:05:34,900
+water in<font color="#E5E5E5"> those pools boils off</font><font color="#CCCCCC"> the spent</font>
+
+166
+00:05:34,900 --> 00:05:36,850
+fuel<font color="#E5E5E5"> rods could meltdown create a fire</font>
+
+167
+00:05:36,850 --> 00:05:38,890
+that<font color="#CCCCCC"> would spew radioactive dust into</font>
+
+168
+00:05:38,890 --> 00:05:41,500
+the<font color="#CCCCCC"> air and</font><font color="#E5E5E5"> it would be bad the men and</font>
+
+169
+00:05:41,500 --> 00:05:43,330
+<font color="#E5E5E5">women who remain at the site trying to</font>
+
+170
+00:05:43,330 --> 00:05:45,340
+keep the<font color="#CCCCCC"> situation</font><font color="#E5E5E5"> under control are</font>
+
+171
+00:05:45,340 --> 00:05:47,680
+very literally risking<font color="#E5E5E5"> possibly</font>
+
+172
+00:05:47,680 --> 00:05:50,169
+sacrificing their lives for<font color="#CCCCCC"> their</font>
+
+173
+00:05:50,169 --> 00:05:51,640
+country those men and<font color="#E5E5E5"> women</font><font color="#CCCCCC"> are made of</font>
+
+174
+00:05:51,640 --> 00:05:54,100
+some tough stuff<font color="#CCCCCC"> and I wish them a great</font>
+
+175
+00:05:54,100 --> 00:05:55,720
+deal of<font color="#E5E5E5"> luck in getting this under</font>
+
+176
+00:05:55,720 --> 00:05:57,220
+control<font color="#CCCCCC"> you'll</font><font color="#E5E5E5"> notice that throughout</font>
+
+177
+00:05:57,220 --> 00:05:58,270
+<font color="#E5E5E5">this</font><font color="#CCCCCC"> video I have not been</font><font color="#E5E5E5"> making</font>
+
+178
+00:05:58,270 --> 00:05:59,530
+judgments<font color="#E5E5E5"> about whether or not we should</font>
+
+179
+00:05:59,530 --> 00:06:02,020
+<font color="#CCCCCC">be using nuclear power because I simply</font>
+
+180
+00:06:02,020 --> 00:06:04,990
+<font color="#E5E5E5">do not know I can see and understand</font>
+
+181
+00:06:04,990 --> 00:06:06,490
+both sides<font color="#E5E5E5"> of this</font><font color="#CCCCCC"> argument very well I</font>
+
+182
+00:06:06,490 --> 00:06:08,950
+do<font color="#E5E5E5"> not know whether or not the benefits</font>
+
+183
+00:06:08,950 --> 00:06:11,229
+of<font color="#CCCCCC"> nuclear power outweigh the risks</font><font color="#E5E5E5"> I do</font>
+
+184
+00:06:11,229 --> 00:06:12,700
+know that<font color="#E5E5E5"> most of the ways</font><font color="#CCCCCC"> that we</font>
+
+185
+00:06:12,700 --> 00:06:14,710
+generate the majority<font color="#CCCCCC"> of our power now</font>
+
+186
+00:06:14,710 --> 00:06:17,110
+are dangerous<font color="#CCCCCC"> and bad but that we need</font>
+
+187
+00:06:17,110 --> 00:06:18,880
+<font color="#CCCCCC">electricity</font><font color="#E5E5E5"> for our society</font><font color="#CCCCCC"> to function</font>
+
+188
+00:06:18,880 --> 00:06:21,520
+<font color="#E5E5E5">and for people</font><font color="#CCCCCC"> to be happy and healthy</font>
+
+189
+00:06:21,520 --> 00:06:23,229
+<font color="#E5E5E5">and safe</font><font color="#CCCCCC"> quite frankly I think</font><font color="#E5E5E5"> it's kind</font>
+
+190
+00:06:23,229 --> 00:06:24,760
+<font color="#CCCCCC">of ridiculous</font><font color="#E5E5E5"> that so many people</font><font color="#CCCCCC"> seem</font>
+
+191
+00:06:24,760 --> 00:06:26,320
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> have</font><font color="#CCCCCC"> made up their minds</font><font color="#E5E5E5"> about this</font>
+
+192
+00:06:26,320 --> 00:06:29,139
+issue when<font color="#E5E5E5"> obviously it's a</font><font color="#CCCCCC"> very</font>
+
+193
+00:06:29,139 --> 00:06:31,060
+complicated one<font color="#E5E5E5"> it's almost as if our</font>
+
+194
+00:06:31,060 --> 00:06:33,430
+<font color="#E5E5E5">society values opinions more than it</font>
+
+195
+00:06:33,430 --> 00:06:35,110
+values knowledge I could only hope this
+
+196
+00:06:35,110 --> 00:06:37,180
+situation<font color="#CCCCCC"> simply doesn't</font><font color="#E5E5E5"> get any more</font>
+
+197
+00:06:37,180 --> 00:06:38,960
+severe than it already is<font color="#CCCCCC"> and</font>
+
+198
+00:06:38,960 --> 00:06:40,069
+people working<font color="#CCCCCC"> at their plant on the</font>
+
+199
+00:06:40,069 --> 00:06:42,229
+people living nearby are<font color="#E5E5E5"> able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> safely</font>
+
+200
+00:06:42,229 --> 00:06:43,850
+return<font color="#CCCCCC"> to their homes</font><font color="#E5E5E5"> in a relatively</font>
+
+201
+00:06:43,850 --> 00:06:45,650
+short<font color="#CCCCCC"> amount</font><font color="#E5E5E5"> of time</font><font color="#CCCCCC"> and I hope that</font>
+
+202
+00:06:45,650 --> 00:06:47,060
+<font color="#CCCCCC">people who watch this video</font><font color="#E5E5E5"> can</font>
+
+203
+00:06:47,060 --> 00:06:48,410
+understand a<font color="#E5E5E5"> little bit better the</font>
+
+204
+00:06:48,410 --> 00:06:52,069
+situation<font color="#CCCCCC"> and not panic</font><font color="#E5E5E5"> unduly John I'll</font>
+
+205
+00:06:52,069 --> 00:00:00,000
+see you<font color="#CCCCCC"> on Friday</font>
+

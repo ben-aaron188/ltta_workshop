@@ -1,0 +1,716 @@
+1
+00:00:00,000 --> 00:00:01,290
+good morning<font color="#E5E5E5"> Hank it's Tuesday and I</font>
+
+2
+00:00:01,290 --> 00:00:03,000
+have strep throat<font color="#E5E5E5"> which I read zero out</font>
+
+3
+00:00:03,000 --> 00:00:04,770
+of<font color="#CCCCCC"> ten not recommended</font><font color="#E5E5E5"> so your video</font>
+
+4
+00:00:04,770 --> 00:00:05,970
+about<font color="#E5E5E5"> the</font><font color="#CCCCCC"> political situation in Brazil</font>
+
+5
+00:00:05,970 --> 00:00:07,170
+made me think<font color="#CCCCCC"> about</font><font color="#E5E5E5"> the political</font>
+
+6
+00:00:07,170 --> 00:00:08,910
+<font color="#E5E5E5">situation here in</font><font color="#CCCCCC"> the United States</font>
+
+7
+00:00:08,910 --> 00:00:11,400
+specifically<font color="#E5E5E5"> the tortuously long Kafka</font><font color="#CCCCCC"> s</font>
+
+8
+00:00:11,400 --> 00:00:12,929
+<font color="#CCCCCC">process</font><font color="#E5E5E5"> through which</font><font color="#CCCCCC"> the two major</font>
+
+9
+00:00:12,929 --> 00:00:14,549
+<font color="#E5E5E5">political parties in</font><font color="#CCCCCC"> the United States</font>
+
+10
+00:00:14,549 --> 00:00:16,410
+<font color="#CCCCCC">determine their nominees for president</font>
+
+11
+00:00:16,410 --> 00:00:17,970
+<font color="#E5E5E5">delving deeply into the whole sordid</font>
+
+12
+00:00:17,970 --> 00:00:19,529
+affair<font color="#E5E5E5"> would take like a month so today</font>
+
+13
+00:00:19,529 --> 00:00:20,970
+we're<font color="#E5E5E5"> just going</font><font color="#CCCCCC"> to look at one state</font>
+
+14
+00:00:20,970 --> 00:00:22,949
+Missouri<font color="#CCCCCC"> last week the people of</font>
+
+15
+00:00:22,949 --> 00:00:24,449
+Missouri voted in their<font color="#E5E5E5"> presidential</font>
+
+16
+00:00:24,449 --> 00:00:25,890
+primaries<font color="#E5E5E5"> and on the Republican side</font>
+
+17
+00:00:25,890 --> 00:00:28,560
+<font color="#CCCCCC">Donald Trump beat Ted Cruz statewide by</font>
+
+18
+00:00:28,560 --> 00:00:30,779
+about point one nine percent<font color="#E5E5E5"> and on the</font>
+
+19
+00:00:30,779 --> 00:00:32,219
+<font color="#CCCCCC">Democratic side Hillary</font><font color="#E5E5E5"> Clinton beat</font>
+
+20
+00:00:32,219 --> 00:00:34,230
+Bernie Sanders by a similar margin<font color="#E5E5E5"> but</font>
+
+21
+00:00:34,230 --> 00:00:35,670
+what<font color="#CCCCCC"> actually matters</font><font color="#E5E5E5"> for becoming your</font>
+
+22
+00:00:35,670 --> 00:00:37,350
+party's nominee is not how many<font color="#E5E5E5"> votes</font>
+
+23
+00:00:37,350 --> 00:00:39,000
+<font color="#E5E5E5">you get but how many delegates are</font>
+
+24
+00:00:39,000 --> 00:00:40,920
+pledged to you because the nominees<font color="#CCCCCC"> are</font>
+
+25
+00:00:40,920 --> 00:00:43,590
+not actually chosen by voters they are
+
+26
+00:00:43,590 --> 00:00:45,510
+<font color="#E5E5E5">chosen by delegates at</font><font color="#CCCCCC"> the party's</font>
+
+27
+00:00:45,510 --> 00:00:47,460
+national<font color="#E5E5E5"> conventions in July the</font>
+
+28
+00:00:47,460 --> 00:00:49,230
+Republicans are meeting in Cleveland the
+
+29
+00:00:49,230 --> 00:00:50,879
+Democrats in Philadelphia<font color="#E5E5E5"> on the</font>
+
+30
+00:00:50,879 --> 00:00:51,989
+Republican<font color="#CCCCCC"> side there will be twenty</font>
+
+31
+00:00:51,989 --> 00:00:53,190
+four hundred<font color="#CCCCCC"> seventy</font><font color="#E5E5E5"> three of these</font>
+
+32
+00:00:53,190 --> 00:00:54,780
+<font color="#E5E5E5">delegates voting at the convention and</font>
+
+33
+00:00:54,780 --> 00:00:55,890
+<font color="#E5E5E5">on the Democratic side there will be</font>
+
+34
+00:00:55,890 --> 00:00:57,539
+four thousand seven<font color="#E5E5E5"> hundred</font><font color="#CCCCCC"> sixty-five</font>
+
+35
+00:00:57,539 --> 00:00:59,850
+<font color="#E5E5E5">ish</font><font color="#CCCCCC"> it depends a little bit on</font><font color="#E5E5E5"> if</font>
+
+36
+00:00:59,850 --> 00:01:01,620
+anybody dies<font color="#CCCCCC"> right so despite only</font>
+
+37
+00:01:01,620 --> 00:01:03,539
+<font color="#E5E5E5">winning the statewide primary by 0.2</font>
+
+38
+00:01:03,539 --> 00:01:04,949
+percent Hillary Clinton emerged from
+
+39
+00:01:04,949 --> 00:01:07,200
+Missouri with<font color="#CCCCCC"> 47</font><font color="#E5E5E5"> delegates to Bernie</font>
+
+40
+00:01:07,200 --> 00:01:09,479
+Sanders<font color="#CCCCCC"> 35</font><font color="#E5E5E5"> in fact she would have won</font>
+
+41
+00:01:09,479 --> 00:01:10,950
+<font color="#E5E5E5">more delegates than Sanders</font><font color="#CCCCCC"> even if she</font>
+
+42
+00:01:10,950 --> 00:01:12,930
+lost<font color="#E5E5E5"> by 0.2 percent because the Missouri</font>
+
+43
+00:01:12,930 --> 00:01:15,360
+<font color="#E5E5E5">Democratic Party has named 13 so-called</font>
+
+44
+00:01:15,360 --> 00:01:17,369
+super-delegates who can support whomever
+
+45
+00:01:17,369 --> 00:01:19,140
+they<font color="#E5E5E5"> want at the convention and most of</font>
+
+46
+00:01:19,140 --> 00:01:20,610
+them have endorsed<font color="#CCCCCC"> Clinton Missouri</font>
+
+47
+00:01:20,610 --> 00:01:22,140
+super-delegates include the state's
+
+48
+00:01:22,140 --> 00:01:23,729
+governor<font color="#CCCCCC"> jay Nixon Senator Claire</font>
+
+49
+00:01:23,729 --> 00:01:25,350
+McCaskill and like other prominent
+
+50
+00:01:25,350 --> 00:01:27,150
+members<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the state's Democratic Party</font>
+
+51
+00:01:27,150 --> 00:01:29,009
+then there are the 71 delegates who
+
+52
+00:01:29,009 --> 00:01:30,900
+actually represent Missouri's Democratic
+
+53
+00:01:30,900 --> 00:01:32,790
+primary<font color="#CCCCCC"> voters by</font><font color="#E5E5E5"> say party rule their</font>
+
+54
+00:01:32,790 --> 00:01:33,960
+votes are split proportionately
+
+55
+00:01:33,960 --> 00:01:35,549
+according to the results so if Clint had
+
+56
+00:01:35,549 --> 00:01:36,869
+gotten<font color="#E5E5E5"> a hundred percent of the vote she</font>
+
+57
+00:01:36,869 --> 00:01:38,790
+would have gotten all 71 delegates but
+
+58
+00:01:38,790 --> 00:01:40,950
+she just barely beat Sanders so instead
+
+59
+00:01:40,950 --> 00:01:43,770
+she got<font color="#CCCCCC"> 36 delegates to his 35</font><font color="#E5E5E5"> this year</font>
+
+60
+00:01:43,770 --> 00:01:44,939
+<font color="#CCCCCC">in Missouri there</font><font color="#E5E5E5"> were about</font><font color="#CCCCCC"> eighty</font>
+
+61
+00:01:44,939 --> 00:01:46,770
+<font color="#CCCCCC">eight hundred Democratic votes for each</font>
+
+62
+00:01:46,770 --> 00:01:49,110
+of these<font color="#E5E5E5"> 71 pledged delegates which</font>
+
+63
+00:01:49,110 --> 00:01:50,369
+means that at the party's convention<font color="#E5E5E5"> in</font>
+
+64
+00:01:50,369 --> 00:01:52,110
+Philadelphia governor jay Nixon will
+
+65
+00:01:52,110 --> 00:01:53,399
+have you know<font color="#E5E5E5"> around eighty eight</font>
+
+66
+00:01:53,399 --> 00:01:55,020
+hundred times more power than the
+
+67
+00:01:55,020 --> 00:01:56,909
+average<font color="#E5E5E5"> Democratic voter in Missouri and</font>
+
+68
+00:01:56,909 --> 00:01:58,500
+not to belabor<font color="#E5E5E5"> the obvious or anything</font>
+
+69
+00:01:58,500 --> 00:02:00,149
+<font color="#E5E5E5">that's not a power distribution</font>
+
+70
+00:02:00,149 --> 00:02:02,219
+generally associated<font color="#E5E5E5"> with</font><font color="#CCCCCC"> the word</font>
+
+71
+00:02:02,219 --> 00:02:04,770
+<font color="#E5E5E5">democracy</font><font color="#CCCCCC"> but wait there's more</font><font color="#E5E5E5"> over on</font>
+
+72
+00:02:04,770 --> 00:02:06,210
+the Republican<font color="#CCCCCC"> side Donald</font><font color="#E5E5E5"> Trump beat</font>
+
+73
+00:02:06,210 --> 00:02:08,190
+Ted Cruz very narrowly statewide but
+
+74
+00:02:08,190 --> 00:02:11,099
+emerged with 37 delegates<font color="#E5E5E5"> to Cruz's 15</font>
+
+75
+00:02:11,099 --> 00:02:12,520
+and John Kasich<font color="#E5E5E5"> who</font>
+
+76
+00:02:12,520 --> 00:02:14,710
+<font color="#CCCCCC">10%</font><font color="#E5E5E5"> of the vote</font><font color="#CCCCCC"> won no delegates</font><font color="#E5E5E5"> at all</font>
+
+77
+00:02:14,710 --> 00:02:16,300
+<font color="#CCCCCC">but it</font><font color="#E5E5E5"> wasn't all bad</font><font color="#CCCCCC"> news</font><font color="#E5E5E5"> for Kasich</font>
+
+78
+00:02:16,300 --> 00:02:18,160
+because on the same day in Ohio<font color="#E5E5E5"> he got</font>
+
+79
+00:02:18,160 --> 00:02:20,830
+47% of<font color="#E5E5E5"> the Republican vote but all of</font>
+
+80
+00:02:20,830 --> 00:02:22,810
+the<font color="#E5E5E5"> state 66 delegates</font><font color="#CCCCCC"> that's because</font>
+
+81
+00:02:22,810 --> 00:02:24,310
+the rules of<font color="#E5E5E5"> the Republican state party</font>
+
+82
+00:02:24,310 --> 00:02:25,870
+in Ohio dictate<font color="#E5E5E5"> that whoever gets</font><font color="#CCCCCC"> the</font>
+
+83
+00:02:25,870 --> 00:02:27,340
+most<font color="#E5E5E5"> votes gets all the delegates</font>
+
+84
+00:02:27,340 --> 00:02:28,960
+<font color="#E5E5E5">whereas the rules created by the state</font>
+
+85
+00:02:28,960 --> 00:02:30,670
+party<font color="#E5E5E5"> in Missouri dictate that if no one</font>
+
+86
+00:02:30,670 --> 00:02:33,100
+<font color="#E5E5E5">gets 50% the winner gets 12 delegates</font>
+
+87
+00:02:33,100 --> 00:02:35,020
+and<font color="#E5E5E5"> then five delegates go to the winner</font>
+
+88
+00:02:35,020 --> 00:02:36,430
+of<font color="#E5E5E5"> each of Missouri's eight</font>
+
+89
+00:02:36,430 --> 00:02:38,560
+<font color="#E5E5E5">congressional districts Trump won the</font>
+
+90
+00:02:38,560 --> 00:02:40,060
+state and five of the congressional
+
+91
+00:02:40,060 --> 00:02:42,580
+districts<font color="#E5E5E5"> ergo 37 delegates sorry that's</font>
+
+92
+00:02:42,580 --> 00:02:43,720
+going to get a little<font color="#CCCCCC"> complicated bit of</font>
+
+93
+00:02:43,720 --> 00:02:46,240
+context<font color="#E5E5E5"> for non-americans</font><font color="#CCCCCC"> there are 435</font>
+
+94
+00:02:46,240 --> 00:02:47,830
+<font color="#E5E5E5">congressional districts in the United</font>
+
+95
+00:02:47,830 --> 00:02:49,810
+<font color="#CCCCCC">States each of these districts elects a</font>
+
+96
+00:02:49,810 --> 00:02:51,430
+<font color="#E5E5E5">congress person every two</font><font color="#CCCCCC"> years who goes</font>
+
+97
+00:02:51,430 --> 00:02:53,080
+to Washington<font color="#E5E5E5"> and fails to pass a budget</font>
+
+98
+00:02:53,080 --> 00:02:54,820
+<font color="#E5E5E5">presumably they also do other things but</font>
+
+99
+00:02:54,820 --> 00:02:56,260
+the main<font color="#E5E5E5"> thing is</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> make</font><font color="#CCCCCC"> sure</font><font color="#E5E5E5"> that we</font>
+
+100
+00:02:56,260 --> 00:02:58,150
+don't accidentally pass a budget<font color="#CCCCCC"> each</font>
+
+101
+00:02:58,150 --> 00:02:59,380
+state gets<font color="#CCCCCC"> a</font><font color="#E5E5E5"> certain number of</font>
+
+102
+00:02:59,380 --> 00:03:00,790
+<font color="#CCCCCC">congressional districts based</font><font color="#E5E5E5"> on their</font>
+
+103
+00:03:00,790 --> 00:03:02,980
+<font color="#E5E5E5">population and after the 2010 census it</font>
+
+104
+00:03:02,980 --> 00:03:04,690
+was determined<font color="#E5E5E5"> that a smaller percentage</font>
+
+105
+00:03:04,690 --> 00:03:06,460
+<font color="#E5E5E5">of Americans lived in</font><font color="#CCCCCC"> Missouri so</font><font color="#E5E5E5"> they</font>
+
+106
+00:03:06,460 --> 00:03:08,500
+lost a congressional district<font color="#E5E5E5"> while fast</font>
+
+107
+00:03:08,500 --> 00:03:09,970
+growing states like Arizona in Florida
+
+108
+00:03:09,970 --> 00:03:11,470
+<font color="#E5E5E5">gained districts but this was in a</font>
+
+109
+00:03:11,470 --> 00:03:13,060
+district offered the state of Missouri
+
+110
+00:03:13,060 --> 00:03:14,860
+an opportunity to redraw its
+
+111
+00:03:14,860 --> 00:03:16,870
+congressional<font color="#E5E5E5"> boundaries back in 2010</font>
+
+112
+00:03:16,870 --> 00:03:18,160
+there were six congressional<font color="#E5E5E5"> districts</font>
+
+113
+00:03:18,160 --> 00:03:19,570
+represented by Republicans and<font color="#E5E5E5"> three</font>
+
+114
+00:03:19,570 --> 00:03:21,400
+represented by Democrats<font color="#CCCCCC"> if one of those</font>
+
+115
+00:03:21,400 --> 00:03:22,510
+had to<font color="#E5E5E5"> go the Republicans obviously</font>
+
+116
+00:03:22,510 --> 00:03:24,160
+<font color="#E5E5E5">wanted it to be a majority</font><font color="#CCCCCC"> democratic</font>
+
+117
+00:03:24,160 --> 00:03:25,510
+district which is what happened because
+
+118
+00:03:25,510 --> 00:03:26,650
+<font color="#E5E5E5">one they controlled the state</font>
+
+119
+00:03:26,650 --> 00:03:28,450
+legislature<font color="#CCCCCC"> and to one of the Democratic</font>
+
+120
+00:03:28,450 --> 00:03:29,890
+Congress<font color="#CCCCCC"> people</font><font color="#E5E5E5"> helped them because in</font>
+
+121
+00:03:29,890 --> 00:03:32,110
+that<font color="#CCCCCC"> process his district became even</font>
+
+122
+00:03:32,110 --> 00:03:33,970
+more democratic<font color="#CCCCCC"> you know now he's less</font>
+
+123
+00:03:33,970 --> 00:03:35,290
+likely<font color="#CCCCCC"> to lose</font><font color="#E5E5E5"> his job today</font>
+
+124
+00:03:35,290 --> 00:03:36,880
+congressional districts<font color="#E5E5E5"> in Missouri are</font>
+
+125
+00:03:36,880 --> 00:03:38,560
+drawn mostly in a way that makes the
+
+126
+00:03:38,560 --> 00:03:41,320
+elections within<font color="#E5E5E5"> them extremely lopsided</font>
+
+127
+00:03:41,320 --> 00:03:42,790
+<font color="#E5E5E5">like in 2014 the first congressional</font>
+
+128
+00:03:42,790 --> 00:03:45,430
+<font color="#E5E5E5">district in Missouri voted 73 percent to</font>
+
+129
+00:03:45,430 --> 00:03:47,470
+<font color="#CCCCCC">21 percent for the Democrat the third</font>
+
+130
+00:03:47,470 --> 00:03:49,330
+<font color="#E5E5E5">district meanwhile voted</font><font color="#CCCCCC"> 68</font><font color="#E5E5E5"> percent to</font>
+
+131
+00:03:49,330 --> 00:03:51,430
+<font color="#E5E5E5">27 percent for the Republican et cetera</font>
+
+132
+00:03:51,430 --> 00:03:53,290
+<font color="#E5E5E5">but for Republican state party rules no</font>
+
+133
+00:03:53,290 --> 00:03:54,910
+<font color="#E5E5E5">matter which district you win you get</font>
+
+134
+00:03:54,910 --> 00:03:56,470
+<font color="#CCCCCC">the same five delegates like in</font>
+
+135
+00:03:56,470 --> 00:03:57,640
+Missouri's first congressional district
+
+136
+00:03:57,640 --> 00:03:59,560
+<font color="#CCCCCC">about 34,000 republican votes were cast</font>
+
+137
+00:03:59,560 --> 00:04:01,530
+in the<font color="#E5E5E5"> seventh district it was closer to</font>
+
+138
+00:04:01,530 --> 00:04:03,880
+<font color="#CCCCCC">150,000</font><font color="#E5E5E5"> so just by virtue of living in</font>
+
+139
+00:04:03,880 --> 00:04:05,260
+the first district instead of the
+
+140
+00:04:05,260 --> 00:04:07,180
+seventh your Republican primary vote is
+
+141
+00:04:07,180 --> 00:04:09,250
+five times more<font color="#E5E5E5"> powerful in</font><font color="#CCCCCC"> short and</font>
+
+142
+00:04:09,250 --> 00:04:10,959
+all of this is extremely<font color="#E5E5E5"> complicated and</font>
+
+143
+00:04:10,959 --> 00:04:13,060
+none of<font color="#E5E5E5"> it is particularly</font><font color="#CCCCCC"> democratic at</font>
+
+144
+00:04:13,060 --> 00:04:14,650
+least not<font color="#CCCCCC"> in the straightforward way we</font>
+
+145
+00:04:14,650 --> 00:04:16,750
+usually<font color="#CCCCCC"> imagine democracy</font><font color="#E5E5E5"> political</font>
+
+146
+00:04:16,750 --> 00:04:18,430
+parties are weird institutions in the
+
+147
+00:04:18,430 --> 00:04:19,358
+<font color="#CCCCCC">United States like they're</font>
+
+148
+00:04:19,358 --> 00:04:21,519
+simultaneously public organizations and
+
+149
+00:04:21,519 --> 00:04:23,260
+<font color="#E5E5E5">private clubs they make their own</font><font color="#CCCCCC"> rules</font>
+
+150
+00:04:23,260 --> 00:04:24,729
+the rules are constantly changing<font color="#E5E5E5"> but in</font>
+
+151
+00:04:24,729 --> 00:04:25,260
+many<font color="#E5E5E5"> cases</font>
+
+152
+00:04:25,260 --> 00:04:26,880
+the rules are regulated by<font color="#CCCCCC"> the states</font>
+
+153
+00:04:26,880 --> 00:04:28,500
+<font color="#E5E5E5">and political parties are powerful but</font>
+
+154
+00:04:28,500 --> 00:04:30,390
+<font color="#E5E5E5">only insofar as their supporters allow</font>
+
+155
+00:04:30,390 --> 00:04:32,160
+them to have power<font color="#E5E5E5"> also</font><font color="#CCCCCC"> they</font><font color="#E5E5E5"> don't</font>
+
+156
+00:04:32,160 --> 00:04:33,900
+really<font color="#E5E5E5"> have card-carrying members but</font>
+
+157
+00:04:33,900 --> 00:04:35,850
+almost every nationally elected figure
+
+158
+00:04:35,850 --> 00:04:37,590
+belongs to one<font color="#CCCCCC"> of them</font><font color="#E5E5E5"> now some of this</font>
+
+159
+00:04:37,590 --> 00:04:39,150
+is<font color="#CCCCCC"> a legacy from a time when the United</font>
+
+160
+00:04:39,150 --> 00:04:41,310
+<font color="#CCCCCC">States was openly suspicious of</font><font color="#E5E5E5"> what we</font>
+
+161
+00:04:41,310 --> 00:04:43,170
+now call<font color="#E5E5E5"> voting rights</font><font color="#CCCCCC"> I mean for most</font>
+
+162
+00:04:43,170 --> 00:04:44,700
+<font color="#E5E5E5">of American history and most adults</font>
+
+163
+00:04:44,700 --> 00:04:46,410
+<font color="#E5E5E5">couldn't vote and political parties</font>
+
+164
+00:04:46,410 --> 00:04:48,060
+served partly as a check against
+
+165
+00:04:48,060 --> 00:04:50,460
+revolution or radical change<font color="#E5E5E5"> in fact the</font>
+
+166
+00:04:50,460 --> 00:04:52,050
+nominating<font color="#CCCCCC"> process has</font><font color="#E5E5E5"> become much</font><font color="#CCCCCC"> more</font>
+
+167
+00:04:52,050 --> 00:04:53,820
+democratic<font color="#E5E5E5"> over time like as recently as</font>
+
+168
+00:04:53,820 --> 00:04:56,610
+1968<font color="#E5E5E5"> only 34</font><font color="#CCCCCC"> percent of Republican</font>
+
+169
+00:04:56,610 --> 00:04:58,200
+delegates were chosen by primaries<font color="#E5E5E5"> and</font>
+
+170
+00:04:58,200 --> 00:05:00,150
+only 38<font color="#CCCCCC"> percent of</font><font color="#E5E5E5"> Democratic delegates</font>
+
+171
+00:05:00,150 --> 00:05:01,770
+<font color="#E5E5E5">and for the last</font><font color="#CCCCCC"> ten election cycles in</font>
+
+172
+00:05:01,770 --> 00:05:03,480
+both parties<font color="#CCCCCC"> the person with the</font><font color="#E5E5E5"> most</font>
+
+173
+00:05:03,480 --> 00:05:05,580
+overall primary and caucus support has
+
+174
+00:05:05,580 --> 00:05:07,680
+<font color="#CCCCCC">also been the eventual nominee but that</font>
+
+175
+00:05:07,680 --> 00:05:09,060
+may<font color="#E5E5E5"> not be the case</font><font color="#CCCCCC"> this year</font><font color="#E5E5E5"> and it</font>
+
+176
+00:05:09,060 --> 00:05:10,650
+remains<font color="#E5E5E5"> to be seen</font><font color="#CCCCCC"> who will actually</font>
+
+177
+00:05:10,650 --> 00:05:13,050
+<font color="#CCCCCC">wield the power when the party and the</font>
+
+178
+00:05:13,050 --> 00:05:15,690
+people disagree Hank I'll see you on
+
+179
+00:05:15,690 --> 00:00:00,000
+<font color="#E5E5E5">Friday</font>
+

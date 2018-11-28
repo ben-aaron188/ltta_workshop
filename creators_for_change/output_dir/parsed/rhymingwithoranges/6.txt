@@ -1,0 +1,649 @@
+Facebook shares did a faceplant today
+billions were wiped off its value all
+because of a scandal involving its users
+information and a company called
+Cambridge analytical it kind of goes to
+the issue of really how much control
+does Facebook really have over its its
+data and its users data most most
+notably for some politicians the
+advantage of using information harvested
+from social media be used as a lure to
+try and get into the minds of potential
+voters when you were offering your data
+to Cambridge analytic you knew who
+Cambridge analytic I mean you knew what
+they did you know what they were going
+to do with it did you know what their
+interest was no I'm gonna start with
+just a basic question
+so this was a major breach of trust and
+and I'm really sorry that this happened
+Cambridge analytic ah two words that
+everybody on my Twitter feed seems to
+have been commissioned to write a piece
+about but about which so very few
+actually seem to know anything about the
+way that the Cambridge journalistic a
+story has been phoned has been super
+confusion because it's actually a story
+about several different things is it a
+story about the ethics of big data and
+micro targeted advertising is it a story
+about the shitty business practices of
+one company that claims to brainwash
+people or is it a story about how we
+might be able to reverse the travesty
+that was 2016 that gave us the Trump and
+the brexit votes who please please let
+it be the last one please that would be
+the last one never fear my darlings
+uncle Josue is here and I'm going to
+break down all of the things that you
+need to know about this story so that
+you can decide what it is you actually
+care about how refreshing right you
+ready to strap in our story starts with
+Alexandre Croghan a psychologist from
+the University of Cambridge who created
+a personality test quiz in 2013 that was
+disseminated through the network
+you remember those kinds of quizzes from
+the early 20 tons that's about the time
+that I realized that I was a type 3 ENFJ
+earth Tory and Huff alors not been the
+same since has really changed my life I
+was also a Rachel obviously those types
+of personality quizzes would often have
+a pop up that gave external non Facebook
+websites and applications permission to
+access some basic data on you remember
+those back in 2013 basically what you
+were doing was giving permission to
+somebody that wasn't Facebook the chance
+to access some of the information the
+Facebook had on
+you and in the case of Alexander Kogan's
+at permission to access information on
+all of your friends as well between
+200,000 and 300,000 people took Cogan's
+personality test which eventually gave
+him access to around 50 million
+individual Facebook profiles it is very
+possible that even if you didn't take a
+Cogan's test he ended up sucking up a
+little bit of data on you mmm delicious
+it's important that we acknowledge that
+although this sounds super creepy
+there was nothing illegal happening here
+this complied with UK law at the time
+and even complied with Facebook's
+internal data policies at the time it's
+also super important that we acknowledge
+that the data that someone like Cogan
+was able to get from this kind of
+process was an internal Facebook data
+Simon Milner Facebook's UK policy
+director somewhat confusingly described
+it like this when he was interviewed by
+some people from the UK Parliament
+Cambridge analytic Oh have you ever
+passed any user information over to
+Cambridge analytic or any or any of its
+associated companies no but they do hold
+a large chunk of facebook's user data
+don't they know they may have lots of
+data they could but it would not be
+Facebook users it may be data about
+people who are on Facebook but they have
+gathered themselves it is not data that
+we are providing how will they have
+gathered that data from people Muniz on
+Facebook well there could be all kinds
+of things that these organizations do
+but I think it would be really good
+question to ask then rather than us
+about what data they have we may well do
+sidenote this is also why Facebook
+apparently threatened to sue the UK
+newspaper The Guardian before they
+published their big whistleblower story
+on it more on that later because the
+Guardian chose to say that there was a
+data breach at Facebook which
+technically there wasn't this level of
+semantics is also pretty annoying
+because Cambridge analytic oh who we're
+gonna explain later
+have also claimed to have not used
+Facebook data when they were involved in
+the Trump presidential campaign do they
+mean that they didn't use Facebook
+internal data in the same way that Simon
+Milner says
+that they haven't all do they mean that
+no data on Facebook was used at all well
+regardless what Cogan scraped and what
+ended up in the hands of Cambridge and
+Alyssa Kerr was technically not the data
+that Facebook has on you and was most
+likely nowhere near close to the amount
+of data that Facebook has on you which
+I'll be frank it's probably going to
+freak you out a little bit we can talk
+about that later but it's probably for
+another video
+since Cogan harvested his data in 2013
+Facebook have actually changed their
+data policy from 2014 onwards anybody
+looking to collect data on users has to
+be formally approved by Facebook first
+and an app developer could no longer
+collect data on friends of users who
+grant access to their own information
+Zuckerberg our future benevolent leader
+has said that this policy change was to
+prevent abusive apps but the policy also
+happened to be changed shortly after the
+publishing of a joint study from
+Facebook and Cornell University you
+might remember the team curated the news
+feeds of nearly 700,000 individuals and
+manipulated the content to cause people
+to either feel happier or sadder this
+study had a huge amount of pushback
+because of frankly how unethical it was
+and a lot of it coming specifically from
+the the academic community um the
+Cornell Facebook study I think really
+was a watershed moment for the website
+and Facebook have since to their credit
+undone really well to restrict the
+amount of information and data available
+on users for companies and for
+researchers and have gradually made
+privacy more of a priority for the site
+and for the people who use it this is in
+spite of the fact that according to an
+ex-employee sandy power Kilis it was
+common knowledge that there was a black
+market for Facebook data at the time
+with tens of thousands of developers
+having access to harvesting user data
+via the games and the applications that
+they made and then Facebook really
+having no way of controlling or
+regulating what they
+with that data afterwards I bet you're
+really regretting spending so much time
+playing farmville now sorry about it
+the problem is that researcher from
+Cambridge Alexander Cogan already had
+the information on 50 million Facebook
+profiles it didn't matter that Facebook
+subsequently changed their data policy
+what happened next is a little bit more
+vague we're not sure which way around it
+goes either Cambridge analysts occur
+approached Alexander Cogan for them for
+the information for the data or
+Alexander Cogan approached Cambridge
+analytical it's all a little bit
+playground he said she said but this is
+where it gets particularly icky up until
+this point we've been treading very
+firmly on immoral ground and we're about
+to sashay quite brilliantly into the
+realm of illegality I'm very excited at
+you
+kokin gave sold this data that he got
+from his personality test to Cambridge
+analytic ah he claims to have not
+profited personally from this exchange
+it is possible that this is true it does
+cost an awful lot of money to run these
+kinds of psychological tests um and on a
+certain level I do feel slightly sorry
+for Cogan
+he's been negatively profiled a lot in
+the media coverage of this story and has
+been used as a scapegoat by both
+Facebook and Cambridge analytic oh um
+but some of the criticisms of him are
+perfectly valid as a fellow academic I
+cannot believe his hubris and his lack
+of ability to ethically evaluate the
+study that he was doing with non
+consenting adults
+he didn't even consider going anywhere
+near an ethical clearance form in this
+and this kind of behavior makes people
+who use social data from the Internet in
+our research look bad so shame on him
+that said he was doing something that
+was widely practiced at the time albeit
+nefariously the debate around data
+ethics and the law surrounding that
+field was way behind what was possible
+with Internet user data at the time
+Cogan himself wasn't an exceptionally
+amol individual everybody was being
+incredibly amol at the time which makes
+it fine but this transfer of data and
+using data for something that it wasn't
+originally meant for is where rules were
+broken
+it goes against Facebook policy even at
+the time and almost certainly broke the
+data protection act that is in UK law
+Cogan had no right to sell or to pass on
+data that he'd gathered from Facebook to
+a third party the third party here is
+obviously Cambridge analytic er and they
+are oh I I believe I believe the
+technical business term for
+like them is the scumbags another
+meeting was arranged and this time a
+fortnight later at a different London
+hotel we get from Cambridge analytic Oh
+a memorable lesson in modern electoral
+tactics to fundamental human drivers
+when it comes to taking information on
+board effectively our hopes and fears
+and many of those are unspoken and the
+even unconscious you didn't know that
+was a fear until you saw something but
+just evoked that reaction from you very
+greatly and our job is to get is to drop
+the bucket further down the world than
+anybody else to understand what others
+really deep-seated underlying fears
+concerns there is no good fighting an
+election campaign on the facts because
+actually it's all about emotion there's
+been an awful lot of really good
+reporting and Cambridge analysts occur
+not least from the UK's channel 4 and
+from the Guardian newspapers Carroll
+Cadwallader Cadwallader presented us
+with a whistleblower in the form of
+candy floss head Christopher Wylie who
+according to Cambridge analyst sticker
+themselves worked with them between
+August 2013 and July 2014 as such he
+can't give us an awful lot of
+information as to what Cambridge
+analytic I did in the run-up to the
+Trump election in the United States and
+the bricks at referendum in 2016 but
+what he has been able to give us is an
+insight into the kind of projects that
+Cambridge and Lusaka did who their
+clients were and how they operated oh
+and also a load of really terrifying but
+captivating quotes it was a growth
+grossly unethical experiment because you
+are playing with an entire country the
+psychology of an entire country without
+their consent or awareness and not only
+are you like playing with the psychology
+of an entire nation you're playing with
+the psychology of an entire nation in
+the context of the democratic process so
+Cambridge on this occur has people's
+private messages
+since on Facebook I can't say whether
+they did or not what I'm saying what I'm
+saying is what the app could do if you
+want to fight a battle or you want to
+fight a war you want to win a war you
+need weapons for that you wanted
+cultural weapons and we could we could
+build them for him this was the weapon
+that Steve Bannon wanted to build to
+fight his culture war instead of
+standing in the public square and saying
+what you think and then letting people
+come and listen to you and have that
+shared experience as to what your what
+your narrative is you are whispering
+into the ear of each and every voter and
+you may be whispering one thing to this
+voter and another thing to another voter
+if you want to fundamentally change
+society you first have to break it it's
+only when you break it is when you can
+remould the pieces into your vision of a
+new of a new society scary
+in this scenario Chris Wiley is very
+much the school bully sidekick who has
+decided to grass on the big guy and is
+terrified of getting in trouble himself
+he has described a company that used
+manipulative tactics to persuade or diss
+Wade voters in a variety of country's
+elections including Kenya Nigeria and
+the world's largest democracy India the
+sting operation by Channel 4 News which
+used secret cameras and the like
+suggested that Cambridge analytic ended
+up using bribery and blackmail in order
+to attack their clients potential
+political opponents they claimed to use
+forms of espionage and painted colorful
+national stereotypes in order to sell
+their wares including Ukrainian
+prostitutes and Israeli X pies yes a
+very beautiful new trainee interns find
+that's
+it feels very much like if you went into
+a meeting with them you'd leave feeling
+very cool cambridge analytical have
+claimed that all of this is false and
+have since let Alexander Nix go the guy
+who ran the operation and was filmed
+offering all of these services in the TV
+investigation this is understandable
+because all of these things are super
+illegal bribery and blackmail of foreign
+officials is in UK US and EU law a very
+big no-no Cambridge analytical are being
+taken seriously here and being presented
+as a big deal because they worked on
+both the Trump campaigns and during the
+brexit referendum they worked closely
+with the human potato Steve Bannon but
+also with the pro brexit campaign levy
+you for those of you who are uninitiated
+they're the ones that presented us with
+such greatest hits as brave boys with a
+brick the Dalai Lama hates migration and
+posh spice is a hard-line nationalist
+and especially on that last one I mean
+come on we'd all we don't assume it
+would be Gerry wouldn't we he is the one
+that wore the dress we'll come back to
+that later on in this video but what I'm
+interested in right now is what does
+this data that Cambridge analytical got
+from the academic Alexander Cogan look
+like was it age sex location or was it
+all the way down to the kind of stuff
+that we were doing that was present in
+our facebook calendars
+what was this weaponized data that they
+were claiming to use what did it look
+like this is a really fun question to
+ask because somehow we still don't know
+Facebook claim to not know what
+information was scraped by Cogan Chris
+Wiley doesn't seem to know even though
+he's the one who apparently requested
+the data from Alexander Cogan Cambridge
+analytic erssime to have been too busy
+promising magic and deleting the data of
+Facebook's requests in 2015 and Cogan
+won't answer my tweets even when they're
+accompanied with hilarious gifts so I'm
+stuck I don't know what else I can do
+we're also just not sure how
+Cambridge analytic er ended up using
+this data that they obtained we know
+that
+use the information that they got from
+Cogan to build psychological personality
+profiles of individuals Chris candyfloss
+Wiley has described it as them deciding
+to not target individuals as voters but
+to target them as different
+personalities we also know from Chris
+that they took part in micro targeting
+of adverts feeding different messaging
+to different people based on their
+personality types and based on what they
+thought you would end up responding to
+this may sound creepy but I argue that
+if we go too far down this rabbit hole
+that we end up losing sight of the story
+a little bit bear with me while I go
+somewhere down this rabbit hole and
+explain why I don't think that this is
+the biggest deal in his interview with
+The Guardian Chris Wiley ends up
+painting a rather dystopian and
+concerning image suggesting that we risk
+fragmenting society in a way where we
+don't have anymore shared experiences
+and we don't have anymore shared
+understanding if we don't have any more
+shared understanding how can we be as
+functioning society can I be real and
+apparently controversial about this I
+think this is a really melodramatic way
+of describing micro-targeting and really
+doesn't help us talk about the way that
+big data is used in advertising
+advertisers have been trying to put the
+correct message in front of the correct
+person since advertising began way back
+when they'd buy an ad in a newspaper
+where they thought the readership would
+be the correct people to see whatever
+message it was that they wanted them to
+use nowadays company use micro-targeting
+not just on Facebook but on Google on
+Twitter and in the results that you see
+when you type something in to Google or
+Amazon The Guardian and the New York
+Times the two papers that are
+spearheading this investigation both use
+targeted advertising in order to get
+more subscribers
+readers the use of big data in politics
+is also nothing new and certainly not
+reserved for the likes of the big bad
+brexit and Trump campaigns in Ethan
+Hodges book hacking the electorate he
+quite eloquently and effectively
+describes how the American
+democratically aligned data firm
+catalyst ended up using public records
+like census and voter registration data
+in order to propel Obama into the White
+House in 2008 in 2012 they would mount
+the way that they interacted with voters
+depending on the information that they
+had on you and granted this was public
+data so it's slightly different to the
+use of Facebook data but how much really
+do the American people opt-in to having
+their public records used by a political
+campaign is it a level of consent very
+much different to the one that we sign
+when we log into our Facebook and we
+sign the Terms of Service of Facebook
+the questions have answers a real
+question for you right now and please
+let me know in the comments below why
+aren't we as outraged when we find out
+that Obama used big data and targeted
+messaging in his campaigns why aren't we
+outraged when we find out about the
+targeted Facebook ads used by Corbin's
+Labor Party in the last general election
+in the UK if we as a society are pissed
+off and annoyed at the way that we're
+being segmented and targeted like this
+then we need to be outraged no matter
+who is doing it and not just throw our
+toys out of the pram when our side loses
+we also need to quite frankly ask how
+effective is this type of political
+campaigning Cambridge analytical made
+pie-in-the-sky claims that they could
+basically brainwash individuals by
+putting adverts in front of them so I I
+use targeted advertising in my day job I
+understand it reasonably well it's not
+magic they let you put the right thing
+in front of the right person but I as an
+advertiser and nowhere near close to
+being able to puppeteer people into
+being more concerned about Hillary
+Clinton's emails or the customs union
+Chris Cavanaugh a cognitive
+anthropologist from the University of
+Oxford pointed out in a really brilliant
+blog post
+that you should read that even Cogan
+didn't think that his data was that good
+he said that the predictions we gave
+Cambridge analytical were six times more
+likely to get all five of a person's
+personality traits wrong as it was to
+get them all correct in short even if
+the data was used by a campaign from
+micro-targeting it could realistically
+only hurt their efforts
+look I remember that study I talked
+about between Cornell University and
+Facebook earlier on in the video so they
+claimed to be able to manipulate how
+people felt based on manipulating their
+Facebook news feeds
+but even this study found that they were
+only able to manipulate people into
+using roughly one percent fewer positive
+words in their statuses which grand
+scheme of things not not hugely
+influential the Facebook is a hugely
+powerful platform a ridiculously
+powerful platform and it has
+far-reaching implications and we should
+take it seriously we need to be having
+these discussions but it doesn't control
+the whole human experience it's kind of
+hard to brainwash people the angle this
+lighting in this shirt is slightly
+different because I'm filming this on a
+different day please don't hate me at
+the beginning of this video I suggested
+that there were three prongs to this
+story first of all the question of data
+ethics should people's data have been
+used in this particular way and what is
+being done to combat that secondly the
+business practices of Cambridge
+analytical are they as assholey
+as the media would have us think and
+then finally whether or not this is
+affected some of the biggest votes in
+recent years the Trump vote and the
+brexit vote in the UK unfortunately I
+think that a lot of media have decided
+to turn this into a personality profile
+of the pink head Oh Cambridge and Lusaka
+killer Chris Wylie and also a reason to
+valley to arms oh my god let's let's
+stop Trump the stop brexit it's all
+invalidated now look thank God praise
+Jesus whereas I think the actual
+important stories about this are
+conversations about privacy online how
+your data is used if they'll you're in
+the European Union um we're about to get
+a new piece of legislation called the
+general data protection act which is
+gonna completely change the game when it
+comes to the agency that we as
+individual citizens as individual people
+the agency that we have over our data
+how it ends up being used who holds it
+who ends up seeing it how it gets
+handled all of those kinds of things
+it's a really consequential new law um
+that is coming in and we need to have
+more consumer awareness about the
+consequences of us using free services
+like Facebook like Twitter like Google
+or Amazon products online um they're
+free because then they use it to sell us
+stuff and that can be physical things or
+it can be a political ideology secondly
+I mean from what we know about Cambridge
+analytical some people probably need to
+be prosecuted for amol business
+practices Cambridge analyst occur are
+ and this is being used as a way to
+completely invalidate the way that
+millions of people voted when it comes
+to trump and brexit I think that that is
+the long thing to do we is the
+Metropolitan liberal elite need to stop
+thinking about the people who voted for
+brexit as those who are intellectually
+vulnerable and able to be manipulated by
+a few Facebook ads and I'm kind of I
+voted remain and I'm not American so I
+didn't vote for Trump I voted remain and
+the thing that I want the most in the
+world is for us to not leave the
+European Union and I am sick of the
+Media blitzes that are happening at the
+moment to try and invalidate the vote
+that happened a couple years ago in June
+a couple of weeks ago we couldn't trust
+the brexit outcome when we had to rerun
+the referendum because it was Russian
+hackers who had something to do with it
+and then fast forward to now and we're
+talking about the fact that facebook ads
+the reason that everybody voted for
+brexit people voted for brexit because
+they've been let down by they by the
+political establishment year after year
+decade after decade and they just wanted
+to up all they wanted to do
+was have something different
+anything different and that was offered
+to them by the brexit vote by voting to
+leave the European Union and by voting
+for Trump we need to stop looking for
+that silver bullet that we apparently
+think is going to be able to allow us to
+reverse both Trump and her exit we need
+to grow up a little bit
+frankly we can change things we can make
+Trump an inconsequential president and
+we can stop brexit from happening we do
+that by changing minds not by telling
+the minds that voted for those things
+that they were duped and they were
+tricked because that's just making
+people retreat more into their corner I
+think I have an unconventional opinion
+on this let me know what you think in
+the comments below also subscribe
+because I just want to be loved that's
+why I put videos on the Internet
+if you're into global politics and
+listening to people with different
+perspectives then check out my podcast
+the right dishonourable where myself and
+my co-host Jimmy talk about news every
+week he voted to leave the European
+Union and I obviously voted to stay
+check us out
+I think we're really good if you like
+podcasts yeah why not thank you to all
+of the people that support me on patreon
+you make this possible genuinely thank
+you if you want to patronize me
+then do it speaking of how your date is
+being used actually Google have been
+following you around like sniffing
+around seeing what you're clicking on on
+the Internet's and they've decided that
+this particular video is one that you
+would enjoy also you can subscribe down
+there because it's fun we were bad the

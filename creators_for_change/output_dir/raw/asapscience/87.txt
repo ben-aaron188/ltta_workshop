@@ -1,0 +1,748 @@
+1
+00:00:00,199 --> 00:00:03,510
+mitochondria is the powerhouse of<font color="#CCCCCC"> the</font>
+
+2
+00:00:03,510 --> 00:00:13,110
+phone<font color="#CCCCCC"> coming</font><font color="#E5E5E5"> Astro hello and welcome</font>
+
+3
+00:00:13,110 --> 00:00:14,490
+back<font color="#E5E5E5"> to the lab where we take your</font>
+
+4
+00:00:14,490 --> 00:00:16,680
+questions<font color="#CCCCCC"> and</font><font color="#E5E5E5"> turn them into experiments</font>
+
+5
+00:00:16,680 --> 00:00:18,660
+my name is Mitch and I'm Greg and<font color="#E5E5E5"> today</font>
+
+6
+00:00:18,660 --> 00:00:20,550
+we're going<font color="#E5E5E5"> to be getting hung over for</font>
+
+7
+00:00:20,550 --> 00:00:22,380
+science<font color="#CCCCCC"> no seriously there are</font><font color="#E5E5E5"> a lot of</font>
+
+8
+00:00:22,380 --> 00:00:24,390
+<font color="#E5E5E5">claims for different scientific hangover</font>
+
+9
+00:00:24,390 --> 00:00:26,010
+cures but<font color="#E5E5E5"> we thought we'd take some of</font>
+
+10
+00:00:26,010 --> 00:00:27,300
+the more simple<font color="#E5E5E5"> ones that are backed by</font>
+
+11
+00:00:27,300 --> 00:00:29,760
+science<font color="#E5E5E5"> and test them on our cells the</font>
+
+12
+00:00:29,760 --> 00:00:31,140
+reason<font color="#E5E5E5"> we've got</font><font color="#CCCCCC"> hangover in the first</font>
+
+13
+00:00:31,140 --> 00:00:33,120
+<font color="#E5E5E5">place has to do with a few thing as you</font>
+
+14
+00:00:33,120 --> 00:00:34,890
+<font color="#E5E5E5">drink the alcohol actually promotes the</font>
+
+15
+00:00:34,890 --> 00:00:36,239
+excretion<font color="#CCCCCC"> of many components like</font>
+
+16
+00:00:36,239 --> 00:00:38,070
+sulphate<font color="#CCCCCC"> Adam</font><font color="#E5E5E5"> and glucose which are</font>
+
+17
+00:00:38,070 --> 00:00:39,570
+required<font color="#CCCCCC"> for normal muscle coordination</font>
+
+18
+00:00:39,570 --> 00:00:41,850
+<font color="#E5E5E5">and brain functioning but perhaps more</font>
+
+19
+00:00:41,850 --> 00:00:43,379
+important<font color="#E5E5E5"> is</font><font color="#CCCCCC"> what happens</font><font color="#E5E5E5"> in the liver</font>
+
+20
+00:00:43,379 --> 00:00:45,239
+<font color="#E5E5E5">your liver takes</font><font color="#CCCCCC"> an alcohol or ethanol</font>
+
+21
+00:00:45,239 --> 00:00:47,340
+<font color="#CCCCCC">breaks it down into acetaldehyde and</font>
+
+22
+00:00:47,340 --> 00:00:49,350
+eventually into<font color="#E5E5E5"> acetate which is easily</font>
+
+23
+00:00:49,350 --> 00:00:51,719
+<font color="#E5E5E5">extruded by the body but the problem is</font>
+
+24
+00:00:51,719 --> 00:00:53,280
+<font color="#E5E5E5">that there aren't a lot</font><font color="#CCCCCC"> of enzymes</font><font color="#E5E5E5"> to</font>
+
+25
+00:00:53,280 --> 00:00:55,350
+convert it to acetate meaning the more
+
+26
+00:00:55,350 --> 00:00:57,300
+you drink the more that it accumulates
+
+27
+00:00:57,300 --> 00:00:59,910
+<font color="#E5E5E5">and acid aldehyde itself is 10 to 30</font>
+
+28
+00:00:59,910 --> 00:01:02,550
+times<font color="#E5E5E5"> more toxic than alcohol leading to</font>
+
+29
+00:01:02,550 --> 00:01:04,500
+<font color="#E5E5E5">headaches and feeling nauseous</font><font color="#CCCCCC"> we are</font>
+
+30
+00:01:04,500 --> 00:01:06,390
+here<font color="#E5E5E5"> in LA with mamrie Hart</font>
+
+31
+00:01:06,390 --> 00:01:09,060
+<font color="#CCCCCC">tell us about</font><font color="#E5E5E5"> yourself</font><font color="#CCCCCC"> ok well hi</font><font color="#E5E5E5"> I like</font>
+
+32
+00:01:09,060 --> 00:01:10,680
+long walks with<font color="#E5E5E5"> the EPA my name is</font>
+
+33
+00:01:10,680 --> 00:01:12,060
+<font color="#CCCCCC">maimry and</font><font color="#E5E5E5"> I have a channel called you</font>
+
+34
+00:01:12,060 --> 00:01:13,290
+deserve a<font color="#E5E5E5"> drink</font><font color="#CCCCCC"> where i make original</font>
+
+35
+00:01:13,290 --> 00:01:15,750
+cocktail<font color="#CCCCCC"> and I've had more hangovers</font>
+
+36
+00:01:15,750 --> 00:01:18,119
+than<font color="#CCCCCC"> nation survive so we're going to</font>
+
+37
+00:01:18,119 --> 00:01:21,090
+<font color="#E5E5E5">make a drink for us tonight</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> first we</font>
+
+38
+00:01:21,090 --> 00:01:22,680
+got a key<font color="#E5E5E5"> so we're starting out with</font>
+
+39
+00:01:22,680 --> 00:01:24,299
+fatty foods because it slows the
+
+40
+00:01:24,299 --> 00:01:25,710
+absorption of alcohol into your blood
+
+41
+00:01:25,710 --> 00:01:27,330
+<font color="#CCCCCC">and lessen</font><font color="#E5E5E5"> the stomach irritation</font>
+
+42
+00:01:27,330 --> 00:01:29,100
+<font color="#CCCCCC">well carbs on the other hand prevent low</font>
+
+43
+00:01:29,100 --> 00:01:31,229
+blood sugar and<font color="#E5E5E5"> easier nausea which is a</font>
+
+44
+00:01:31,229 --> 00:01:33,000
+good thing<font color="#CCCCCC"> because</font><font color="#E5E5E5"> I haven't</font><font color="#CCCCCC"> barf from</font>
+
+45
+00:01:33,000 --> 00:01:34,560
+drinking in a long time and<font color="#CCCCCC"> I don't plan</font>
+
+46
+00:01:34,560 --> 00:01:36,960
+to vomit yeah<font color="#CCCCCC"> that's why</font><font color="#E5E5E5"> you're so</font><font color="#CCCCCC"> good</font>
+
+47
+00:01:36,960 --> 00:01:39,869
+<font color="#CCCCCC">we fight so much</font><font color="#E5E5E5"> we swim 10 mins ago</font>
+
+48
+00:01:39,869 --> 00:01:42,090
+<font color="#E5E5E5">I'll do it again below Tama</font><font color="#CCCCCC"> like I think</font>
+
+49
+00:01:42,090 --> 00:01:44,460
+<font color="#CCCCCC">I get more hungover when I</font><font color="#E5E5E5"> pop around</font>
+
+50
+00:01:44,460 --> 00:01:46,350
+<font color="#E5E5E5">yeah I</font><font color="#CCCCCC"> danced with</font><font color="#E5E5E5"> everybody that was</font>
+
+51
+00:01:46,350 --> 00:01:51,000
+cute from<font color="#E5E5E5"> drinking and I'm good I think</font>
+
+52
+00:01:51,000 --> 00:01:52,200
+I had a pretty<font color="#E5E5E5"> bad</font><font color="#CCCCCC"> one a couple</font><font color="#E5E5E5"> weeks</font>
+
+53
+00:01:52,200 --> 00:01:56,909
+<font color="#E5E5E5">ago</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> you didn't draw my</font><font color="#CCCCCC"> life my</font><font color="#E5E5E5"> phone</font>
+
+54
+00:01:56,909 --> 00:02:00,030
+yeah not<font color="#CCCCCC"> more than growing up eating</font>
+
+55
+00:02:00,030 --> 00:02:01,530
+helps your body have more time to
+
+56
+00:02:01,530 --> 00:02:03,119
+eliminate<font color="#E5E5E5"> the harmful byproducts of</font>
+
+57
+00:02:03,119 --> 00:02:04,619
+drinking<font color="#E5E5E5"> about getting food with your</font>
+
+58
+00:02:04,619 --> 00:02:06,240
+buddies<font color="#CCCCCC"> and some examples after the bar</font>
+
+59
+00:02:06,240 --> 00:02:08,038
+is<font color="#CCCCCC"> actually too late it's important that</font>
+
+60
+00:02:08,038 --> 00:02:09,989
+you eat<font color="#E5E5E5"> before</font><font color="#CCCCCC"> you drink or even</font><font color="#E5E5E5"> while</font>
+
+61
+00:02:09,989 --> 00:02:11,008
+you're drinking because<font color="#E5E5E5"> this can</font>
+
+62
+00:02:11,008 --> 00:02:12,599
+actually<font color="#E5E5E5"> decrease</font><font color="#CCCCCC"> your</font><font color="#E5E5E5"> piece blood</font>
+
+63
+00:02:12,599 --> 00:02:15,300
+<font color="#E5E5E5">alcohol concentration by a</font><font color="#CCCCCC"> doe 2/3 but I</font>
+
+64
+00:02:15,300 --> 00:02:17,370
+always<font color="#E5E5E5"> eat when I'm already drunk</font><font color="#CCCCCC"> yeah</font>
+
+65
+00:02:17,370 --> 00:02:20,849
+<font color="#E5E5E5">crime is an idea I'm a cheap drunk</font><font color="#CCCCCC"> yeah</font>
+
+66
+00:02:20,849 --> 00:02:22,800
+<font color="#E5E5E5">next up we</font><font color="#CCCCCC"> get</font><font color="#E5E5E5"> to start drinking but</font>
+
+67
+00:02:22,800 --> 00:02:23,880
+we're going to<font color="#E5E5E5"> stick with a lighter</font>
+
+68
+00:02:23,880 --> 00:02:25,980
+<font color="#E5E5E5">color liquors because dark drinks like</font>
+
+69
+00:02:25,980 --> 00:02:27,870
+bourbon<font color="#E5E5E5"> or even red wine contains</font>
+
+70
+00:02:27,870 --> 00:02:31,140
+<font color="#E5E5E5">something called congenita stalks the</font>
+
+71
+00:02:31,140 --> 00:02:32,340
+chemicals your body is going to<font color="#E5E5E5"> have to</font>
+
+72
+00:02:32,340 --> 00:02:33,690
+get rid<font color="#CCCCCC"> of that can cause inflammation</font>
+
+73
+00:02:33,690 --> 00:02:36,569
+<font color="#CCCCCC">so now we want you</font><font color="#E5E5E5"> to make</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> drink with</font>
+
+74
+00:02:36,569 --> 00:02:40,319
+this clear vodka<font color="#CCCCCC"> okay well</font><font color="#E5E5E5"> I figured a</font>
+
+75
+00:02:40,319 --> 00:02:42,630
+good like safe thing it's<font color="#E5E5E5"> just like a</font>
+
+76
+00:02:42,630 --> 00:02:50,940
+boxer<font color="#CCCCCC"> so honored yeah here we</font><font color="#E5E5E5"> go you're</font>
+
+77
+00:02:50,940 --> 00:02:55,860
+really<font color="#CCCCCC"> gonna look real on this</font><font color="#E5E5E5"> awesome</font>
+
+78
+00:02:55,860 --> 00:02:57,810
+most bars a<font color="#E5E5E5"> lot of a free pitcher of</font>
+
+79
+00:02:57,810 --> 00:02:58,950
+water<font color="#E5E5E5"> and you need to keep your eye on</font>
+
+80
+00:02:58,950 --> 00:03:00,870
+it<font color="#E5E5E5"> and keep drinking</font><font color="#CCCCCC"> it because a big</font>
+
+81
+00:03:00,870 --> 00:03:02,910
+<font color="#CCCCCC">part of hangovers is dehydration because</font>
+
+82
+00:03:02,910 --> 00:03:04,920
+alcohol<font color="#E5E5E5"> makes you excrete</font><font color="#CCCCCC"> more water</font>
+
+83
+00:03:04,920 --> 00:03:06,750
+than<font color="#CCCCCC"> you take in this</font><font color="#E5E5E5"> affects your body</font>
+
+84
+00:03:06,750 --> 00:03:09,000
+and<font color="#E5E5E5"> literally makes your brain shrink</font><font color="#CCCCCC"> so</font>
+
+85
+00:03:09,000 --> 00:03:09,930
+you need to make<font color="#CCCCCC"> sure you're chugging</font>
+
+86
+00:03:09,930 --> 00:03:11,370
+water when<font color="#E5E5E5"> you've</font><font color="#CCCCCC"> at home</font><font color="#E5E5E5"> and put a</font>
+
+87
+00:03:11,370 --> 00:03:12,810
+<font color="#CCCCCC">glass of</font><font color="#E5E5E5"> water beside your beds that you</font>
+
+88
+00:03:12,810 --> 00:03:14,100
+can drink it as you wake<font color="#CCCCCC"> up in the night</font>
+
+89
+00:03:14,100 --> 00:03:15,510
+we're going to try<font color="#E5E5E5"> and match how much</font>
+
+90
+00:03:15,510 --> 00:03:17,430
+we're drinking and<font color="#E5E5E5"> alcohol with equal</font>
+
+91
+00:03:17,430 --> 00:03:18,690
+<font color="#E5E5E5">amounts of water</font><font color="#CCCCCC"> see my body</font><font color="#E5E5E5"> just</font>
+
+92
+00:03:18,690 --> 00:03:22,109
+<font color="#E5E5E5">normally has an aversion for water</font><font color="#CCCCCC"> smell</font>
+
+93
+00:03:22,109 --> 00:03:23,579
+<font color="#CCCCCC">so I'm trying</font><font color="#E5E5E5"> to treat</font><font color="#CCCCCC"> it with the</font><font color="#E5E5E5"> red</font>
+
+94
+00:03:23,579 --> 00:03:25,200
+cup<font color="#CCCCCC"> pouring</font><font color="#E5E5E5"> Cheers</font>
+
+95
+00:03:25,200 --> 00:03:27,120
+have you guys ever been<font color="#CCCCCC"> sober over where</font>
+
+96
+00:03:27,120 --> 00:03:29,540
+you take a<font color="#E5E5E5"> difficult water you're like</font>
+
+97
+00:03:29,540 --> 00:03:34,079
+water water is good yeah<font color="#E5E5E5"> like you just</font>
+
+98
+00:03:34,079 --> 00:03:36,630
+<font color="#E5E5E5">discovered it a lot of water so much I</font>
+
+99
+00:03:36,630 --> 00:03:38,609
+<font color="#CCCCCC">wanna</font><font color="#E5E5E5"> bring a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> different pills in</font>
+
+100
+00:03:38,609 --> 00:03:39,900
+the substances claim that they<font color="#E5E5E5"> can help</font>
+
+101
+00:03:39,900 --> 00:03:42,120
+<font color="#E5E5E5">your hangovers but most full short when</font>
+
+102
+00:03:42,120 --> 00:03:43,859
+<font color="#E5E5E5">actually studied and in this video we</font>
+
+103
+00:03:43,859 --> 00:03:46,350
+<font color="#E5E5E5">really want to focus on simple solutions</font>
+
+104
+00:03:46,350 --> 00:03:48,720
+and cheap solution<font color="#CCCCCC"> but a recent</font><font color="#E5E5E5"> study</font>
+
+105
+00:03:48,720 --> 00:03:50,160
+looked<font color="#CCCCCC"> at something</font><font color="#E5E5E5"> called a</font><font color="#CCCCCC"> Kiwi</font>
+
+106
+00:03:50,160 --> 00:03:51,989
+<font color="#E5E5E5">empanada</font><font color="#CCCCCC"> which is an extract from</font><font color="#E5E5E5"> a</font>
+
+107
+00:03:51,989 --> 00:03:54,000
+shrub native to Japan<font color="#E5E5E5"> and found that it</font>
+
+108
+00:03:54,000 --> 00:03:55,709
+actually<font color="#E5E5E5"> does help in minimizing</font>
+
+109
+00:03:55,709 --> 00:03:58,270
+hangovers so<font color="#CCCCCC"> we got our kannada extra</font>
+
+110
+00:03:58,270 --> 00:04:00,370
+the moon<font color="#CCCCCC"> and helpful</font><font color="#E5E5E5"> bit more we love it</font>
+
+111
+00:04:00,370 --> 00:04:02,800
+<font color="#CCCCCC">and if this</font><font color="#E5E5E5"> works they will be making</font>
+
+112
+00:04:02,800 --> 00:04:04,960
+<font color="#E5E5E5">their money</font><font color="#CCCCCC"> oh yeah we should buy some</font>
+
+113
+00:04:04,960 --> 00:04:06,910
+<font color="#CCCCCC">corn off it off Cheers</font>
+
+114
+00:04:06,910 --> 00:04:16,600
+<font color="#CCCCCC">Oh</font><font color="#E5E5E5"> time for</font><font color="#CCCCCC"> the more water water</font><font color="#E5E5E5"> heart</font>
+
+115
+00:04:16,600 --> 00:04:18,459
+forever<font color="#CCCCCC"> so we just wrapped</font><font color="#E5E5E5"> up filming</font>
+
+116
+00:04:18,459 --> 00:04:22,630
+with<font color="#E5E5E5"> mamrie are we wasted or what that's</font>
+
+117
+00:04:22,630 --> 00:04:25,510
+a very Christ wash yeah<font color="#E5E5E5"> so we just</font><font color="#CCCCCC"> watch</font>
+
+118
+00:04:25,510 --> 00:04:27,610
+mamrie is hydrating<font color="#E5E5E5"> and</font><font color="#CCCCCC"> we're going to</font>
+
+119
+00:04:27,610 --> 00:04:29,890
+<font color="#E5E5E5">go for some more drink more</font><font color="#CCCCCC"> vodka</font><font color="#E5E5E5"> great</font>
+
+120
+00:04:29,890 --> 00:04:32,020
+feeling on a<font color="#CCCCCC"> tipsy if you like I should</font>
+
+121
+00:04:32,020 --> 00:04:36,580
+<font color="#CCCCCC">have a hangover</font><font color="#E5E5E5"> tomorrow but so we got</font>
+
+122
+00:04:36,580 --> 00:04:39,100
+<font color="#E5E5E5">like gank</font><font color="#CCCCCC"> guess you come about a fresh</font>
+
+123
+00:04:39,100 --> 00:04:45,220
+<font color="#E5E5E5">juice</font><font color="#CCCCCC"> watermelon lime please this is how</font>
+
+124
+00:04:45,220 --> 00:04:47,760
+you know I'm in LA
+
+125
+00:04:47,760 --> 00:04:50,290
+<font color="#E5E5E5">for bed we took some aspirin which has</font>
+
+126
+00:04:50,290 --> 00:04:51,850
+been shown<font color="#CCCCCC"> to decrease</font><font color="#E5E5E5"> something called</font>
+
+127
+00:04:51,850 --> 00:04:52,960
+prostaglandin which ultimately
+
+128
+00:04:52,960 --> 00:04:56,440
+contributes to hangover<font color="#CCCCCC"> Jannah that is</font>
+
+129
+00:04:56,440 --> 00:05:01,120
+<font color="#E5E5E5">constant - oh wow</font><font color="#CCCCCC"> I don't even</font><font color="#E5E5E5"> II do not</font>
+
+130
+00:05:01,120 --> 00:05:04,060
+do this at home<font color="#E5E5E5"> you're telling me - no</font>
+
+131
+00:05:04,060 --> 00:05:08,740
+<font color="#E5E5E5">don't do 17 of the cells that actually</font>
+
+132
+00:05:08,740 --> 00:05:10,120
+didn't taste bad<font color="#CCCCCC"> but</font><font color="#E5E5E5"> try to stay away</font>
+
+133
+00:05:10,120 --> 00:05:11,890
+<font color="#E5E5E5">from its</font><font color="#CCCCCC"> - the minute vent or</font><font color="#E5E5E5"> Tylenol as</font>
+
+134
+00:05:11,890 --> 00:05:13,720
+it can be harsh on your livers enzymes
+
+135
+00:05:13,720 --> 00:05:15,100
+and in conjunction<font color="#CCCCCC"> with all</font><font color="#E5E5E5"> the drinking</font>
+
+136
+00:05:15,100 --> 00:05:16,780
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> just did to do some real liver</font>
+
+137
+00:05:16,780 --> 00:05:18,640
+damage<font color="#E5E5E5"> of course now we get to see if</font>
+
+138
+00:05:18,640 --> 00:05:21,100
+any<font color="#E5E5E5"> of these solutions actually work and</font>
+
+139
+00:05:21,100 --> 00:05:22,600
+<font color="#E5E5E5">if we wake up feeling any less hungover</font>
+
+140
+00:05:22,600 --> 00:05:24,160
+than we would have<font color="#E5E5E5"> on a night of</font>
+
+141
+00:05:24,160 --> 00:05:32,040
+equivalent drinking I don't know so work
+
+142
+00:05:32,040 --> 00:05:35,320
+I look dreadful
+
+143
+00:05:35,320 --> 00:05:37,960
+I kind of feel<font color="#E5E5E5"> I</font><font color="#CCCCCC"> don't</font><font color="#E5E5E5"> know if I feel as</font>
+
+144
+00:05:37,960 --> 00:05:39,700
+bad<font color="#CCCCCC"> as I would having</font><font color="#E5E5E5"> to drink that much</font>
+
+145
+00:05:39,700 --> 00:05:43,900
+but I'm definitely hung over her I think
+
+146
+00:05:43,900 --> 00:05:46,270
+I'm feeling<font color="#CCCCCC"> okay I definitely am a</font>
+
+147
+00:05:46,270 --> 00:05:48,350
+little hungover but<font color="#CCCCCC"> I got them all night</font>
+
+148
+00:05:48,350 --> 00:05:50,900
+water<font color="#E5E5E5"> and I'm having water now and then</font>
+
+149
+00:05:50,900 --> 00:05:53,300
+I do think<font color="#CCCCCC"> am i based on that</font><font color="#E5E5E5"> cement</font>
+
+150
+00:05:53,300 --> 00:05:56,240
+alcohol<font color="#E5E5E5"> and I drank that another time I</font>
+
+151
+00:05:56,240 --> 00:05:58,070
+would be<font color="#CCCCCC"> more however</font><font color="#E5E5E5"> but it certainly</font>
+
+152
+00:05:58,070 --> 00:06:01,550
+wasn't a<font color="#CCCCCC"> fix-all</font><font color="#E5E5E5"> just enough</font><font color="#CCCCCC"> not feeling</font>
+
+153
+00:06:01,550 --> 00:06:04,280
+<font color="#E5E5E5">perfectly not</font><font color="#CCCCCC"> like I</font><font color="#E5E5E5"> work it's</font>
+
+154
+00:06:04,280 --> 00:06:05,900
+technically<font color="#E5E5E5"> not over yet we have some</font>
+
+155
+00:06:05,900 --> 00:06:07,520
+morning<font color="#E5E5E5"> routine stuff that can help</font><font color="#CCCCCC"> that</font>
+
+156
+00:06:07,520 --> 00:06:09,500
+we're going<font color="#E5E5E5"> to test out so we'll give a</font>
+
+157
+00:06:09,500 --> 00:06:11,930
+full review by<font color="#E5E5E5"> midday of how we feel</font>
+
+158
+00:06:11,930 --> 00:06:14,450
+foods<font color="#E5E5E5"> like eggs bananas</font><font color="#CCCCCC"> and fruit juice</font>
+
+159
+00:06:14,450 --> 00:06:16,250
+help to replenish your<font color="#CCCCCC"> electrolytes and</font>
+
+160
+00:06:16,250 --> 00:06:18,380
+contain nutrients and compounds which
+
+161
+00:06:18,380 --> 00:06:19,850
+actually assist and break down the
+
+162
+00:06:19,850 --> 00:06:22,850
+<font color="#E5E5E5">remaining alcohol</font><font color="#CCCCCC"> in content okay so we</font>
+
+163
+00:06:22,850 --> 00:06:24,740
+made it to<font color="#E5E5E5"> midday and feeling a line</font>
+
+164
+00:06:24,740 --> 00:06:27,440
+absolutely<font color="#CCCCCC"> better Allah God I do</font><font color="#E5E5E5"> go much</font>
+
+165
+00:06:27,440 --> 00:06:28,850
+better<font color="#CCCCCC"> I</font><font color="#E5E5E5"> feel like</font><font color="#CCCCCC"> even</font><font color="#E5E5E5"> though this</font>
+
+166
+00:06:28,850 --> 00:06:30,710
+wasn't a perfect<font color="#E5E5E5"> test</font><font color="#CCCCCC"> I'm sort of</font>
+
+167
+00:06:30,710 --> 00:06:32,540
+comparing<font color="#CCCCCC"> to other childhood dreams of</font>
+
+168
+00:06:32,540 --> 00:06:34,610
+the same<font color="#CCCCCC"> immense I have been a worse off</font>
+
+169
+00:06:34,610 --> 00:06:37,340
+all of it<font color="#CCCCCC"> yeah but but definitely I felt</font>
+
+170
+00:06:37,340 --> 00:06:39,350
+like I became less<font color="#CCCCCC"> than over faster than</font>
+
+171
+00:06:39,350 --> 00:06:41,390
+I normally would yeah we drink<font color="#E5E5E5"> lots of</font>
+
+172
+00:06:41,390 --> 00:06:43,310
+water and<font color="#E5E5E5"> again everyone's body's</font>
+
+173
+00:06:43,310 --> 00:06:44,930
+process alcohol quite differently<font color="#E5E5E5"> this</font>
+
+174
+00:06:44,930 --> 00:06:46,400
+was in no way a perfect<font color="#E5E5E5"> test but</font>
+
+175
+00:06:46,400 --> 00:06:48,110
+obviously being conscious of trying to
+
+176
+00:06:48,110 --> 00:06:49,610
+not<font color="#E5E5E5"> be hungover the</font><font color="#CCCCCC"> next day will help</font>
+
+177
+00:06:49,610 --> 00:06:51,500
+<font color="#E5E5E5">you in some way</font><font color="#CCCCCC"> so thank</font><font color="#E5E5E5"> you for</font>
+
+178
+00:06:51,500 --> 00:06:52,910
+watching<font color="#CCCCCC"> you know follow these steps</font>
+
+179
+00:06:52,910 --> 00:06:54,560
+<font color="#E5E5E5">because they did help and then let us</font>
+
+180
+00:06:54,560 --> 00:06:55,640
+<font color="#E5E5E5">know in the comments if there's anything</font>
+
+181
+00:06:55,640 --> 00:06:57,320
+<font color="#E5E5E5">else you want us to test out absolutely</font>
+
+182
+00:06:57,320 --> 00:06:58,610
+<font color="#E5E5E5">and make sure you go</font><font color="#CCCCCC"> launch mamrie Hart</font>
+
+183
+00:06:58,610 --> 00:06:59,990
+video that we did<font color="#E5E5E5"> on her channel doing</font>
+
+184
+00:06:59,990 --> 00:07:01,910
+some<font color="#E5E5E5"> shit also</font><font color="#CCCCCC"> balance and alcohol</font>
+
+185
+00:07:01,910 --> 00:07:03,560
+<font color="#E5E5E5">experience it's really really cool so go</font>
+
+186
+00:07:03,560 --> 00:07:04,850
+<font color="#E5E5E5">check it</font><font color="#CCCCCC"> out</font><font color="#E5E5E5"> on</font><font color="#CCCCCC"> our Channel and we'll</font>
+
+187
+00:07:04,850 --> 00:00:00,000
+<font color="#CCCCCC">use it</font>
+

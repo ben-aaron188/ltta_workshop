@@ -1,0 +1,130 @@
+good morning John this is a QR code it's
+a way of visually representing data just
+like barcodes or snap codes or facial
+expressions or the written word and I
+was looking at one of these things
+recently I thought to myself how much
+data could you really fit on a QR code
+well QR codes are complicated and I
+don't have enough time to explain them
+in total but suffice to say that each
+block of two by four squares codes for
+one byte of data one character of text
+question I had was could you print out
+all of Wikipedia on one QR code and have
+a camera that could scan that code and
+then you could get all of Wikipedia just
+by scanning one QR code I'm aware that
+this is a dumb question but it is the
+kind of dumb question that I very much
+enjoy figuring out the answer to just
+the text portions of just the English
+portion of Wikipedia it's about 24
+terabytes
+that's 24 trillion bytes and so in order
+to get the number of squares we need we
+just multiply that by 8 because it's 8
+squares per byte I don't really want to
+know how many squares this thing's gonna
+be I want to know how many squares it's
+going to be on each side so we take the
+square root of that number figure out
+how much actual space that will take up
+we have to figure out how big each one
+of those tiny little blocks is I'm gonna
+say about 2 millimeters because that's
+pretty easy to both print and to read
+for a QR code reader you multiply that
+number by 2 and then convert from
+millimeters to kilometers and there you
+have it you have a QR code that's just
+27 kilometers on a side that has all of
+Wikipedia on it and of course this is
+just half the battle we've printed out
+Wikipedia on a 27 kilometer by 27
+kilometer sheet of paper but we need a
+camera that can actually read that well
+if you have a camera with a 90 degree
+field of view then you can take a
+picture of this whole thing you just
+have to be 13.5 kilometers away from it
+however there's some bad news that comes
+along with this first at that distance
+the Earth's atmosphere is going to
+distort this image way too much so we
+got to take it out of the atmosphere in
+into space put the QR code on the
+surface of the Moon and put the camera
+in orbit around the moon at around 13.5
+kilometers up
+nobody second problem is actually a
+bigger problem because it deals with
+video just sort of the fundamental
+nature of the universe from so far away
+and with blocks so tiny to try and
+resolve you run into what's called the
+diffraction limit basically when passing
+through the aperture of our camera the
+difference between the size of our
+aperture that's the hole that the light
+comes through and the wavelength of
+light is significant enough that it
+blurs anything below a certain size so
+to take a picture of something so tiny
+from so far away you need
+to do one of two things or both of them
+one make the aperture of the camera
+really huge or to make the wavelength of
+the light smaller but if you want to
+take the picture of this thing with a
+cell phone cam you can as long as your
+cell phone camera just happens to be
+able to detect gamma rays gamma rays are
+radiation with very small wavelength
+also problematically with very high
+energy so it's difficult to print with
+ink that would absorb gamma rays because
+they would normally just fly right
+through it so you got to find some kind
+of really special gamma ray absorbing
+ink the other in my opinion better
+solution to this problem is to make your
+aperture just huge and one way to do
+that is to just use the James Webb Space
+Telescope which we're already developing
+and has a pretty massive aperture I'd
+have to modify it so it could be a wider
+angle camera because it's a telescope
+right it's got telescopic not a wide
+angle lens but the James Webb Space
+Telescope does have an aperture big
+enough that it could conceivably resolve
+these two millimeter pixel things from
+13.5 kilometers away however it does not
+have a sensor sensitive enough to take a
+picture of all of them at once which I
+would like for it to do so that we could
+just take a picture real quick have ala
+Wikipedia so we are going to have to
+develop a new camera sensor that has
+like 10,000 times more pixel resolution
+than the current highest and military
+spy cameras that we use but I have
+confidence that we can do that in the
+intervening time between when we are
+able to actually print out all these
+pieces of paper which is going to take
+some time and get them to the moon and
+lay them out in the proper order so the
+answer the question can you print out
+Wikipedia and I have it be a scannable
+QR code the answer is yes not really
+with current technology but it is
+possible John I will see you on Tuesday
+I want to end this video by saying you
+know I'm not entirely sure I could have
+got something wrong and I want to say
+thanks to Henry from minutephysics for
+coming over and helping me with the math
+for all this it was a really enjoyable
+project that's my life

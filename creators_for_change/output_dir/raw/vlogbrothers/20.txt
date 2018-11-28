@@ -1,0 +1,472 @@
+1
+00:00:00,000 --> 00:00:01,199
+good morning Hank it's Tuesday<font color="#E5E5E5"> this</font>
+
+2
+00:00:01,199 --> 00:00:02,700
+video eventually discusses mental
+
+3
+00:00:02,700 --> 00:00:04,170
+illness but<font color="#E5E5E5"> first I would</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> to talk</font>
+
+4
+00:00:04,170 --> 00:00:06,120
+<font color="#E5E5E5">to you about the disability adjusted</font>
+
+5
+00:00:06,120 --> 00:00:08,580
+life year which is<font color="#E5E5E5"> very important</font>
+
+6
+00:00:08,580 --> 00:00:10,679
+despite<font color="#CCCCCC"> having a boring</font><font color="#E5E5E5"> name kind of</font>
+
+7
+00:00:10,679 --> 00:00:12,360
+like Bradley Cooper but perhaps<font color="#E5E5E5"> even</font>
+
+8
+00:00:12,360 --> 00:00:14,460
+<font color="#E5E5E5">more important so if we're gonna figure</font>
+
+9
+00:00:14,460 --> 00:00:16,289
+out how to<font color="#E5E5E5"> improve human</font><font color="#CCCCCC"> health we</font>
+
+10
+00:00:16,289 --> 00:00:18,270
+obviously need to<font color="#E5E5E5"> know what is</font><font color="#CCCCCC"> causing</font>
+
+11
+00:00:18,270 --> 00:00:21,090
+human<font color="#E5E5E5"> death here's the global picture</font><font color="#CCCCCC"> IH</font>
+
+12
+00:00:21,090 --> 00:00:23,369
+<font color="#CCCCCC">dak heart disease is by far the most</font>
+
+13
+00:00:23,369 --> 00:00:25,560
+common cause<font color="#CCCCCC"> of death stroke</font><font color="#E5E5E5"> is also</font>
+
+14
+00:00:25,560 --> 00:00:27,119
+very common<font color="#CCCCCC"> I was surprised to learn</font>
+
+15
+00:00:27,119 --> 00:00:29,039
+that<font color="#E5E5E5"> diarrhea causes about as many</font>
+
+16
+00:00:29,039 --> 00:00:31,410
+<font color="#E5E5E5">deaths as lung cancer but in general</font>
+
+17
+00:00:31,410 --> 00:00:33,210
+this graphic looked pretty much<font color="#E5E5E5"> how I</font>
+
+18
+00:00:33,210 --> 00:00:34,380
+expected it<font color="#CCCCCC"> to</font>
+
+19
+00:00:34,380 --> 00:00:35,370
+but that doesn't show us the whole
+
+20
+00:00:35,370 --> 00:00:36,930
+<font color="#CCCCCC">picture because of course there is a big</font>
+
+21
+00:00:36,930 --> 00:00:38,640
+<font color="#CCCCCC">difference</font><font color="#E5E5E5"> between dying at the age</font><font color="#CCCCCC"> of</font>
+
+22
+00:00:38,640 --> 00:00:41,520
+<font color="#E5E5E5">110 and dying at the age of 30</font><font color="#CCCCCC"> and also</font>
+
+23
+00:00:41,520 --> 00:00:43,800
+dying is not<font color="#E5E5E5"> the only health problem</font>
+
+24
+00:00:43,800 --> 00:00:45,809
+<font color="#CCCCCC">although</font><font color="#E5E5E5"> it is a big one many diseases</font>
+
+25
+00:00:45,809 --> 00:00:47,460
+<font color="#E5E5E5">can be disabling even if they aren't</font>
+
+26
+00:00:47,460 --> 00:00:49,500
+<font color="#E5E5E5">fatal and can keep people</font><font color="#CCCCCC"> from leading</font>
+
+27
+00:00:49,500 --> 00:00:51,480
+healthy and productive lives so how do
+
+28
+00:00:51,480 --> 00:00:53,370
+we<font color="#E5E5E5"> account</font><font color="#CCCCCC"> for all of that</font><font color="#E5E5E5"> enter the</font>
+
+29
+00:00:53,370 --> 00:00:56,219
+disability adjusted life year or<font color="#E5E5E5"> daily</font>
+
+30
+00:00:56,219 --> 00:00:58,230
+which measures the<font color="#E5E5E5"> expected years of</font>
+
+31
+00:00:58,230 --> 00:01:00,930
+<font color="#E5E5E5">health lost to a disease while global</font>
+
+32
+00:01:00,930 --> 00:01:03,149
+<font color="#E5E5E5">causes of death look like this global</font>
+
+33
+00:01:03,149 --> 00:01:05,188
+disease burden measured in terms of
+
+34
+00:01:05,188 --> 00:01:07,950
+Daly's looks like this<font color="#E5E5E5"> illnesses like</font>
+
+35
+00:01:07,950 --> 00:01:09,750
+malaria<font color="#E5E5E5"> and</font><font color="#CCCCCC"> diarrhea and</font><font color="#E5E5E5"> pneumonia</font>
+
+36
+00:01:09,750 --> 00:01:12,210
+<font color="#CCCCCC">become much more</font><font color="#E5E5E5"> prominent</font><font color="#CCCCCC"> because they</font>
+
+37
+00:01:12,210 --> 00:01:14,460
+disproportionately<font color="#E5E5E5"> affect younger people</font>
+
+38
+00:01:14,460 --> 00:01:15,990
+<font color="#CCCCCC">one</font><font color="#E5E5E5"> of the biggest shifts you see when</font>
+
+39
+00:01:15,990 --> 00:01:17,700
+you measure<font color="#E5E5E5"> health in Daly's is in</font>
+
+40
+00:01:17,700 --> 00:01:19,860
+mental health in<font color="#E5E5E5"> fact mental illness and</font>
+
+41
+00:01:19,860 --> 00:01:21,659
+<font color="#E5E5E5">substance use disorders become the</font>
+
+42
+00:01:21,659 --> 00:01:24,030
+single<font color="#CCCCCC"> biggest category of disease</font>
+
+43
+00:01:24,030 --> 00:01:26,460
+burden in the United States at<font color="#CCCCCC"> least by</font>
+
+44
+00:01:26,460 --> 00:01:28,229
+that measure what is still sometimes
+
+45
+00:01:28,229 --> 00:01:31,259
+dismissed as all in your head or<font color="#CCCCCC"> not</font><font color="#E5E5E5"> an</font>
+
+46
+00:01:31,259 --> 00:01:34,530
+actual health problem<font color="#E5E5E5"> is in fact our</font>
+
+47
+00:01:34,530 --> 00:01:36,689
+<font color="#E5E5E5">biggest health problem and</font><font color="#CCCCCC"> that isn't a</font>
+
+48
+00:01:36,689 --> 00:01:38,549
+uniquely American phenomenon either in
+
+49
+00:01:38,549 --> 00:01:40,500
+Brazil for instance mental illness is
+
+50
+00:01:40,500 --> 00:01:42,600
+also responsible for<font color="#E5E5E5"> more</font><font color="#CCCCCC"> lost Daly's</font>
+
+51
+00:01:42,600 --> 00:01:44,549
+than any other single<font color="#E5E5E5"> cause including</font>
+
+52
+00:01:44,549 --> 00:01:46,350
+heart disease<font color="#CCCCCC"> the same</font><font color="#E5E5E5"> is true in France</font>
+
+53
+00:01:46,350 --> 00:01:48,540
+and the UK<font color="#E5E5E5"> in China depression and</font>
+
+54
+00:01:48,540 --> 00:01:50,759
+anxiety robbed people<font color="#E5E5E5"> of more years than</font>
+
+55
+00:01:50,759 --> 00:01:53,310
+liver cancer or diabetes and even<font color="#E5E5E5"> in</font>
+
+56
+00:01:53,310 --> 00:01:55,110
+extremely poor countries mental illness
+
+57
+00:01:55,110 --> 00:01:56,729
+is a significant cause of<font color="#E5E5E5"> death and</font>
+
+58
+00:01:56,729 --> 00:01:58,320
+<font color="#CCCCCC">disability like in Sierra Leone for</font>
+
+59
+00:01:58,320 --> 00:02:00,390
+<font color="#E5E5E5">instance communicable diseases like</font>
+
+60
+00:02:00,390 --> 00:02:02,850
+malaria<font color="#E5E5E5"> and meningitis</font><font color="#CCCCCC"> and pneumonia</font><font color="#E5E5E5"> are</font>
+
+61
+00:02:02,850 --> 00:02:05,070
+overwhelmingly the leading cause of lost
+
+62
+00:02:05,070 --> 00:02:06,780
+life years<font color="#CCCCCC"> but mental illness still</font>
+
+63
+00:02:06,780 --> 00:02:08,580
+causes more disease burden than almost
+
+64
+00:02:08,580 --> 00:02:10,770
+any<font color="#CCCCCC"> other non communicable disease and</font>
+
+65
+00:02:10,770 --> 00:02:12,239
+while it is certainly<font color="#CCCCCC"> a challenge to get</font>
+
+66
+00:02:12,239 --> 00:02:13,020
+good mental
+
+67
+00:02:13,020 --> 00:02:15,750
+<font color="#CCCCCC">CAIR</font><font color="#E5E5E5"> in most places in poor countries it</font>
+
+68
+00:02:15,750 --> 00:02:18,120
+is extremely difficult<font color="#E5E5E5"> many mentally ill</font>
+
+69
+00:02:18,120 --> 00:02:20,010
+people are chained to their beds and
+
+70
+00:02:20,010 --> 00:02:21,870
+hospitals or group homes in<font color="#E5E5E5"> fact in</font>
+
+71
+00:02:21,870 --> 00:02:23,880
+Sierra Leone<font color="#CCCCCC"> the practice of shackling</font>
+
+72
+00:02:23,880 --> 00:02:26,190
+just ended thanks to a huge<font color="#E5E5E5"> effort from</font>
+
+73
+00:02:26,190 --> 00:02:27,750
+<font color="#CCCCCC">the Ministry of</font><font color="#E5E5E5"> Health and slightly</font>
+
+74
+00:02:27,750 --> 00:02:29,910
+improved mental<font color="#E5E5E5"> health funding</font><font color="#CCCCCC"> that news</font>
+
+75
+00:02:29,910 --> 00:02:31,740
+should absolutely be celebrated but
+
+76
+00:02:31,740 --> 00:02:33,840
+Sierra Leone still faces<font color="#E5E5E5"> huge mental</font>
+
+77
+00:02:33,840 --> 00:02:35,430
+health challenges there<font color="#E5E5E5"> are only two</font>
+
+78
+00:02:35,430 --> 00:02:37,350
+psychiatrists<font color="#CCCCCC"> in a nation of</font><font color="#E5E5E5"> seven</font>
+
+79
+00:02:37,350 --> 00:02:38,880
+million<font color="#E5E5E5"> people</font><font color="#CCCCCC"> and in other countries</font>
+
+80
+00:02:38,880 --> 00:02:41,250
+<font color="#CCCCCC">around the</font><font color="#E5E5E5"> world many people</font><font color="#CCCCCC"> are still</font>
+
+81
+00:02:41,250 --> 00:02:44,160
+in<font color="#CCCCCC"> Chains with absolutely no access to</font>
+
+82
+00:02:44,160 --> 00:02:45,960
+<font color="#E5E5E5">treatment when we measure health in</font>
+
+83
+00:02:45,960 --> 00:02:47,970
+<font color="#E5E5E5">Daly's it becomes clear that improving</font>
+
+84
+00:02:47,970 --> 00:02:50,010
+treatments for<font color="#E5E5E5"> mental illness and access</font>
+
+85
+00:02:50,010 --> 00:02:51,750
+to<font color="#CCCCCC"> those treatments</font><font color="#E5E5E5"> should be a priority</font>
+
+86
+00:02:51,750 --> 00:02:54,720
+<font color="#E5E5E5">for every country's</font><font color="#CCCCCC"> healthcare system</font><font color="#E5E5E5"> to</font>
+
+87
+00:02:54,720 --> 00:02:56,340
+quote a recent<font color="#E5E5E5"> piece from The Economist</font>
+
+88
+00:02:56,340 --> 00:02:58,500
+<font color="#E5E5E5">nobody spends enough on mental health</font>
+
+89
+00:02:58,500 --> 00:03:00,450
+<font color="#CCCCCC">this is</font><font color="#E5E5E5"> important to me</font><font color="#CCCCCC"> personally</font>
+
+90
+00:03:00,450 --> 00:03:01,950
+because<font color="#E5E5E5"> I wouldn't be able to function</font>
+
+91
+00:03:01,950 --> 00:03:03,900
+without the<font color="#E5E5E5"> medication I take every</font><font color="#CCCCCC"> day</font>
+
+92
+00:03:03,900 --> 00:03:05,850
+it allows me<font color="#E5E5E5"> to live with my</font><font color="#CCCCCC"> thoughts</font>
+
+93
+00:03:05,850 --> 00:03:08,010
+<font color="#E5E5E5">rather than being controlled</font><font color="#CCCCCC"> by them but</font>
+
+94
+00:03:08,010 --> 00:03:09,270
+I also<font color="#E5E5E5"> think it's important for all of</font>
+
+95
+00:03:09,270 --> 00:03:11,400
+<font color="#CCCCCC">us to understand that mental illness</font><font color="#E5E5E5"> is</font>
+
+96
+00:03:11,400 --> 00:03:14,040
+common everywhere<font color="#CCCCCC"> in the world</font><font color="#E5E5E5"> and it is</font>
+
+97
+00:03:14,040 --> 00:03:16,470
+<font color="#E5E5E5">serious in fact it's one</font><font color="#CCCCCC"> of the world's</font>
+
+98
+00:03:16,470 --> 00:03:18,630
+leading health problems<font color="#CCCCCC"> the good news is</font>
+
+99
+00:03:18,630 --> 00:03:21,000
+that<font color="#E5E5E5"> the vast vast</font><font color="#CCCCCC"> majority of mental</font>
+
+100
+00:03:21,000 --> 00:03:23,220
+illness is treatable<font color="#E5E5E5"> as I have said and</font>
+
+101
+00:03:23,220 --> 00:03:25,050
+written<font color="#E5E5E5"> many</font><font color="#CCCCCC"> times before</font><font color="#E5E5E5"> there really</font>
+
+102
+00:03:25,050 --> 00:03:27,630
+is<font color="#CCCCCC"> hope</font><font color="#E5E5E5"> even</font><font color="#CCCCCC"> when your brain tells you</font>
+
+103
+00:03:27,630 --> 00:03:29,280
+there isn't<font color="#E5E5E5"> like</font><font color="#CCCCCC"> a lot of people with</font>
+
+104
+00:03:29,280 --> 00:03:31,260
+<font color="#CCCCCC">chronic health problems I have</font><font color="#E5E5E5"> lost time</font>
+
+105
+00:03:31,260 --> 00:03:33,510
+to my illness<font color="#CCCCCC"> but I also have a</font><font color="#E5E5E5"> good and</font>
+
+106
+00:03:33,510 --> 00:03:35,190
+fulfilling life<font color="#E5E5E5"> and I don't just think</font>
+
+107
+00:03:35,190 --> 00:03:36,720
+<font color="#E5E5E5">that's like possible for mentally ill</font>
+
+108
+00:03:36,720 --> 00:03:38,820
+<font color="#E5E5E5">people</font><font color="#CCCCCC"> I think it is common at least</font>
+
+109
+00:03:38,820 --> 00:03:40,980
+<font color="#E5E5E5">when there is access to good treatment</font>
+
+110
+00:03:40,980 --> 00:03:43,440
+but we need more<font color="#CCCCCC"> of that</font><font color="#E5E5E5"> access both in</font>
+
+111
+00:03:43,440 --> 00:03:45,540
+rich countries<font color="#CCCCCC"> and</font><font color="#E5E5E5"> in poor ones</font>
+
+112
+00:03:45,540 --> 00:03:47,280
+so one<font color="#E5E5E5"> last note if you think you might</font>
+
+113
+00:03:47,280 --> 00:03:48,660
+need mental<font color="#E5E5E5"> health care please talk to</font>
+
+114
+00:03:48,660 --> 00:03:50,670
+<font color="#E5E5E5">someone you</font><font color="#CCCCCC"> trust about pursuing a</font>
+
+115
+00:03:50,670 --> 00:03:52,320
+treatment plan or consult some of the
+
+116
+00:03:52,320 --> 00:03:53,850
+links in the<font color="#CCCCCC"> doobly-doo below Hank</font>
+
+117
+00:03:53,850 --> 00:03:55,470
+<font color="#CCCCCC">sometimes we</font><font color="#E5E5E5"> just need to look at life</font>
+
+118
+00:03:55,470 --> 00:00:00,000
+<font color="#CCCCCC">daily I will see you on Friday</font>
+

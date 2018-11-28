@@ -1,0 +1,127 @@
+so you've probably noticed in my little
+doggie blogs that I have been obsessed
+with slow-motion footage in this
+tutorial I'll show you two ways to shoot
+slow-motion footage using a traditional
+camera and an iPhone and then how to
+bring that footage into premiere and
+work with it so the first way to shoot
+slow-motion footage is via a camera with
+high frame rate ape abilities
+I'm currently renting the Sony a 65
+hundred from borrow lenses calm for beta
+it can shoot 120 FPS which stands for
+frames per second if you don't know
+about FCS it's basically how many times
+the camera takes a picture per second
+when shooting video all video is is a
+string of moving pictures the most
+commonly used frame rate is about 24
+frames per second because anything below
+that looks really choppy and like
+stop-motion II you can actually see the
+individual frames or pictures and it
+doesn't provide that seamless movement
+of the natural eye anything above that
+is pretty much just extra which allows
+you to add and create different effects
+or really focus in on the details of
+something moving very fast so first
+thing is shoot whatever you want to
+shoot I shot some water boiling for the
+sake of this tutorial with the a 6500 I
+went into the camera settings and change
+them to shoot 120 frames per second at
+1080p with 100 m so not only is it
+shooting 120 photos or images per second
+it's also getting a lot of information
+on each image to create the video clip
+now if you don't have a camera like the
+Sony a 65 hundred
+shoot at a higher framerate chances are
+your phone shoots at a higher framerate
+- while you lose the capabilities of
+adjusting things like ISO and shutter
+and white balance you'll probably still
+achieve at least a similar look for
+exponentially lower cost I have an
+iPhone 7
+not even the 7s plus or whatever they
+call it but just regular regular iPhone
+7 to shoot at a higher frame rate
+natively you just go into the camera
+settings and change them now we've
+gotten our slow-motion footage on both
+the Sony and my iPhone 7 let's hop into
+Premiere Pro disclaimer
+I moved from Final Cut Pro 7 to Premiere
+Pro about five or so years ago now all
+the shortcuts that you'll hear me using
+are based on changing premiers shortcut
+functions to match Final Cut Pro 7
+because that's what I learned when I was
+back when I was in college and all of
+that and so premiere just made it really
+easy for me to adjust and switch from
+Final Cut Pro 7 to it's a platform by
+doing that so here I've started a new
+project called slow motion I'm importing
+the footage from my SD card from the a
+6500 and I just air dropped my
+slow-motion footage from my iphone to my
+macbook
+you'll notice that I put the a 6500
+footage in twice there's a reason for
+that I like to keep one clip natively
+the same how its imported and then I
+adjust the others so I can easily go
+back and forth between the two during
+editing
+you don't have to do that I just liked
+you so I'm gonna go ahead and label one
+slowed now when you drop these clips
+onto the timeline they play relatively
+normally you don't really see the slow
+motion even though you shot at a higher
+frame per second you can achieve it by
+adjusting the speed manually which gives
+you more creative freedom during your
+editing so hit command J which brings up
+the speed duration adjustments and just
+start playing around I notice going
+lower than 20% begins to give you some
+choppiness and glitch and your slow
+motion isn't quite as smooth another way
+to do it is to go to the clip you label
+its load right click on it go to modify
+interpret footage and adjust it to be
+whatever frame rate your sequences in my
+case because I'm here in America it's 24
+frames per second you'll notice your
+clip is longer now and it's natively
+playing the clip at 24 frames per second
+which will give it that slow-motion
+effect
+now you can drag this clip into your
+timeline and again adjust accordingly
+boom that's two ways to play around with
+slow-motion footage from your camera now
+to your iPhone footage it's essentially
+the same thing
+so yeah that's how you can shoot import
+and edit slow motion footage go out an
+experiment I find that shooting really
+mundane things in slow motion adds a
+flare to my everyday life and sparks
+creativity for me just taking in the
+detail and noticing the green on a plant
+or the intricacies of boiling water it
+gives me a whole new appreciation for
+existence in all its forms just saying I
+would love to see what you all create
+link to anything you shoot in slow
+motion in the comments below or throw it
+up on Instagram and at me I'm at Holly's
+Beast anyway I hope this helps and I'll
+see you when I see you which in this
+case will be tomorrow because it's beta

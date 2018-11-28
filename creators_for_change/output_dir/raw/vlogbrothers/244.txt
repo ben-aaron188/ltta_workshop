@@ -1,0 +1,1388 @@
+1
+00:00:00,000 --> 00:00:01,260
+good morning Hank<font color="#E5E5E5"> it's Tuesday so in</font>
+
+2
+00:00:01,260 --> 00:00:03,000
+<font color="#CCCCCC">Sunday's US</font><font color="#E5E5E5"> presidential debate a voter</font>
+
+3
+00:00:03,000 --> 00:00:05,640
+asked what specific tax provisions<font color="#CCCCCC"> will</font>
+
+4
+00:00:05,640 --> 00:00:07,049
+you change to<font color="#E5E5E5"> ensure</font><font color="#CCCCCC"> the wealthiest</font>
+
+5
+00:00:07,049 --> 00:00:09,240
+Americans pay<font color="#E5E5E5"> their fair share</font><font color="#CCCCCC"> in taxes</font>
+
+6
+00:00:09,240 --> 00:00:11,010
+the candidates answers were interesting
+
+7
+00:00:11,010 --> 00:00:12,780
+<font color="#CCCCCC">but limited so today I thought</font><font color="#E5E5E5"> I'd take</font>
+
+8
+00:00:12,780 --> 00:00:14,040
+a look at Hillary Clinton and Donald
+
+9
+00:00:14,040 --> 00:00:16,320
+Trump's tax plans but to do that<font color="#E5E5E5"> we need</font>
+
+10
+00:00:16,320 --> 00:00:18,510
+to understand the<font color="#E5E5E5"> current US tax</font><font color="#CCCCCC"> system</font>
+
+11
+00:00:18,510 --> 00:00:21,000
+which unfortunately is not uncomplicated
+
+12
+00:00:21,000 --> 00:00:23,220
+<font color="#CCCCCC">so let's imagine</font><font color="#E5E5E5"> three married couples</font>
+
+13
+00:00:23,220 --> 00:00:25,199
+with two<font color="#E5E5E5"> children apiece the Johnsons</font>
+
+14
+00:00:25,199 --> 00:00:27,210
+make the median<font color="#CCCCCC"> US household income of</font>
+
+15
+00:00:27,210 --> 00:00:29,310
+<font color="#E5E5E5">fifty two thousand dollars</font><font color="#CCCCCC"> per year the</font>
+
+16
+00:00:29,310 --> 00:00:30,750
+Kennedys make three hundred<font color="#E5E5E5"> thousand</font>
+
+17
+00:00:30,750 --> 00:00:32,488
+dollars<font color="#E5E5E5"> per</font><font color="#CCCCCC"> year</font><font color="#E5E5E5"> and the Roosevelts make</font>
+
+18
+00:00:32,488 --> 00:00:33,809
+a million dollars a year
+
+19
+00:00:33,809 --> 00:00:35,579
+definition time so your top marginal tax
+
+20
+00:00:35,579 --> 00:00:37,320
+<font color="#E5E5E5">rate is the</font><font color="#CCCCCC"> tax</font><font color="#E5E5E5"> rate you</font><font color="#CCCCCC"> pay on your</font>
+
+21
+00:00:37,320 --> 00:00:39,540
+<font color="#E5E5E5">last dollar</font><font color="#CCCCCC"> of income</font><font color="#E5E5E5"> for the Kennedys</font>
+
+22
+00:00:39,540 --> 00:00:41,190
+that's<font color="#CCCCCC"> thirty three</font><font color="#E5E5E5"> percent but</font><font color="#CCCCCC"> that's</font>
+
+23
+00:00:41,190 --> 00:00:42,660
+<font color="#CCCCCC">not actually the percentage of their</font>
+
+24
+00:00:42,660 --> 00:00:44,460
+income that<font color="#E5E5E5"> goes</font><font color="#CCCCCC"> to federal income taxes</font>
+
+25
+00:00:44,460 --> 00:00:46,050
+because<font color="#E5E5E5"> no matter how</font><font color="#CCCCCC"> much money</font><font color="#E5E5E5"> you</font>
+
+26
+00:00:46,050 --> 00:00:47,879
+make your first<font color="#E5E5E5"> eighteen thousand four</font>
+
+27
+00:00:47,879 --> 00:00:49,649
+hundred<font color="#E5E5E5"> fifty</font><font color="#CCCCCC"> dollars of</font><font color="#E5E5E5"> income is taxed</font>
+
+28
+00:00:49,649 --> 00:00:52,140
+<font color="#E5E5E5">at 10% to the next fifty six thousand</font>
+
+29
+00:00:52,140 --> 00:00:54,809
+dollars is taxed<font color="#E5E5E5"> at 15% and so on in the</font>
+
+30
+00:00:54,809 --> 00:00:56,789
+end the Kennedys pay<font color="#E5E5E5"> about sixty six</font>
+
+31
+00:00:56,789 --> 00:00:58,079
+thousand<font color="#E5E5E5"> four hundred twenty</font><font color="#CCCCCC"> four</font>
+
+32
+00:00:58,079 --> 00:00:59,850
+<font color="#CCCCCC">dollars in</font><font color="#E5E5E5"> federal income taxes under</font>
+
+33
+00:00:59,850 --> 00:01:01,350
+the current system that's twenty two
+
+34
+00:01:01,350 --> 00:01:02,910
+percent<font color="#CCCCCC"> of their income</font><font color="#E5E5E5"> that's their</font>
+
+35
+00:01:02,910 --> 00:01:05,159
+effective<font color="#CCCCCC"> tax rate the Roosevelts with</font>
+
+36
+00:01:05,159 --> 00:01:06,540
+their million dollars of income pay
+
+37
+00:01:06,540 --> 00:01:08,070
+about three<font color="#CCCCCC"> hundred thirty</font><font color="#E5E5E5"> six thousand</font>
+
+38
+00:01:08,070 --> 00:01:09,960
+<font color="#E5E5E5">five hundred dollars in federal taxes an</font>
+
+39
+00:01:09,960 --> 00:01:11,760
+effective tax<font color="#CCCCCC"> rate of thirty</font><font color="#E5E5E5"> three point</font>
+
+40
+00:01:11,760 --> 00:01:13,770
+<font color="#E5E5E5">six percent four point seven if you want</font>
+
+41
+00:01:13,770 --> 00:01:15,299
+to round<font color="#E5E5E5"> up but</font><font color="#CCCCCC"> God</font><font color="#E5E5E5"> knows it can't be</font>
+
+42
+00:01:15,299 --> 00:01:16,890
+<font color="#CCCCCC">that simple because usually</font><font color="#E5E5E5"> families</font>
+
+43
+00:01:16,890 --> 00:01:18,330
+like the Kennedys<font color="#E5E5E5"> and the Roosevelts pay</font>
+
+44
+00:01:18,330 --> 00:01:20,909
+less in taxes due<font color="#E5E5E5"> to deductions the US</font>
+
+45
+00:01:20,909 --> 00:01:22,890
+tax code<font color="#CCCCCC"> allows you to deduct</font><font color="#E5E5E5"> certain</font>
+
+46
+00:01:22,890 --> 00:01:24,360
+expenses<font color="#E5E5E5"> from your income like</font>
+
+47
+00:01:24,360 --> 00:01:26,400
+charitable donations some retirement
+
+48
+00:01:26,400 --> 00:01:28,229
+savings and<font color="#E5E5E5"> mortgage interest and you</font>
+
+49
+00:01:28,229 --> 00:01:29,729
+can either itemize your deductions by
+
+50
+00:01:29,729 --> 00:01:31,380
+listing them or take the<font color="#E5E5E5"> so called</font>
+
+51
+00:01:31,380 --> 00:01:33,299
+<font color="#E5E5E5">standard deduction which is</font><font color="#CCCCCC"> available</font><font color="#E5E5E5"> to</font>
+
+52
+00:01:33,299 --> 00:01:35,220
+all taxpayers<font color="#E5E5E5"> for married couples</font><font color="#CCCCCC"> filing</font>
+
+53
+00:01:35,220 --> 00:01:37,229
+jointly it's currently twelve thousand
+
+54
+00:01:37,229 --> 00:01:39,090
+six hundred<font color="#E5E5E5"> dollars</font><font color="#CCCCCC"> okay I know</font><font color="#E5E5E5"> this is</font>
+
+55
+00:01:39,090 --> 00:01:40,380
+a little<font color="#E5E5E5"> bit complicated but stay with</font>
+
+56
+00:01:40,380 --> 00:01:42,420
+me lastly we have the Johnsons with
+
+57
+00:01:42,420 --> 00:01:44,100
+their income of<font color="#E5E5E5"> fifty two thousand</font>
+
+58
+00:01:44,100 --> 00:01:45,930
+dollars a<font color="#CCCCCC"> year the Johnsons can expect</font>
+
+59
+00:01:45,930 --> 00:01:47,490
+to<font color="#E5E5E5"> pay five hundred fifty-three dollars</font>
+
+60
+00:01:47,490 --> 00:01:49,740
+<font color="#CCCCCC">in federal</font><font color="#E5E5E5"> income tax</font><font color="#CCCCCC"> an effective tax</font>
+
+61
+00:01:49,740 --> 00:01:52,290
+rate<font color="#CCCCCC"> of just over one percent wait</font><font color="#E5E5E5"> what</font>
+
+62
+00:01:52,290 --> 00:01:53,939
+<font color="#E5E5E5">right so first the Johnsons take the</font>
+
+63
+00:01:53,939 --> 00:01:55,439
+standard<font color="#E5E5E5"> deduction of twelve thousand</font>
+
+64
+00:01:55,439 --> 00:01:56,729
+four hundred<font color="#E5E5E5"> dollars which brings their</font>
+
+65
+00:01:56,729 --> 00:01:58,229
+taxable income down to thirty nine
+
+66
+00:01:58,229 --> 00:01:59,969
+<font color="#E5E5E5">thousand six</font><font color="#CCCCCC"> hundred dollars and you</font>
+
+67
+00:01:59,969 --> 00:02:02,610
+<font color="#CCCCCC">also</font><font color="#E5E5E5"> take a $4,050 personal exemption</font>
+
+68
+00:02:02,610 --> 00:02:04,560
+for yourself your spouse and<font color="#E5E5E5"> your two</font>
+
+69
+00:02:04,560 --> 00:02:06,270
+kids<font color="#E5E5E5"> that's sixteen thousand two hundred</font>
+
+70
+00:02:06,270 --> 00:02:07,770
+<font color="#E5E5E5">dollars which brings the family's</font>
+
+71
+00:02:07,770 --> 00:02:08,419
+taxable<font color="#CCCCCC"> in</font>
+
+72
+00:02:08,419 --> 00:02:11,180
+come down<font color="#E5E5E5"> to $23,200 they would pay</font>
+
+73
+00:02:11,180 --> 00:02:12,709
+about<font color="#CCCCCC"> twenty-five hundred fifty three</font>
+
+74
+00:02:12,709 --> 00:02:15,260
+<font color="#E5E5E5">dollars of taxes on</font><font color="#CCCCCC"> that income</font><font color="#E5E5E5"> except</font>
+
+75
+00:02:15,260 --> 00:02:17,630
+for child tax credits<font color="#E5E5E5"> there is a one</font>
+
+76
+00:02:17,630 --> 00:02:18,980
+thousand<font color="#CCCCCC"> dollar</font><font color="#E5E5E5"> tax credit</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> each</font>
+
+77
+00:02:18,980 --> 00:02:20,630
+<font color="#CCCCCC">defendant child you have so that's</font><font color="#E5E5E5"> how</font>
+
+78
+00:02:20,630 --> 00:02:22,069
+the<font color="#E5E5E5"> Johnsons get down to five hundred</font>
+
+79
+00:02:22,069 --> 00:02:23,660
+<font color="#CCCCCC">fifty three dollars and I think this is</font>
+
+80
+00:02:23,660 --> 00:02:25,640
+really important<font color="#E5E5E5"> to understand because</font>
+
+81
+00:02:25,640 --> 00:02:27,470
+it underscores<font color="#CCCCCC"> that for the half of</font>
+
+82
+00:02:27,470 --> 00:02:29,390
+American families making less<font color="#CCCCCC"> than fifty</font>
+
+83
+00:02:29,390 --> 00:02:30,800
+two thousand dollars a year federal
+
+84
+00:02:30,800 --> 00:02:33,140
+<font color="#E5E5E5">income taxes are quite low in fact a</font>
+
+85
+00:02:33,140 --> 00:02:34,850
+large majority<font color="#E5E5E5"> of those households pay</font>
+
+86
+00:02:34,850 --> 00:02:37,040
+no federal income tax at<font color="#E5E5E5"> all they do pay</font>
+
+87
+00:02:37,040 --> 00:02:38,780
+lots of other taxes though like payroll
+
+88
+00:02:38,780 --> 00:02:40,430
+taxes which<font color="#E5E5E5"> neither candidate is</font>
+
+89
+00:02:40,430 --> 00:02:42,200
+<font color="#E5E5E5">proposing</font><font color="#CCCCCC"> to change</font><font color="#E5E5E5"> and sales and</font>
+
+90
+00:02:42,200 --> 00:02:44,090
+<font color="#E5E5E5">property taxes which are local and</font>
+
+91
+00:02:44,090 --> 00:02:45,620
+therefore not under the purview of the
+
+92
+00:02:45,620 --> 00:02:47,510
+president but it's really<font color="#E5E5E5"> critical to</font>
+
+93
+00:02:47,510 --> 00:02:49,610
+<font color="#CCCCCC">remember that</font><font color="#E5E5E5"> federal income tax policy</font>
+
+94
+00:02:49,610 --> 00:02:51,980
+can only do so much<font color="#CCCCCC"> okay so we're going</font>
+
+95
+00:02:51,980 --> 00:02:53,630
+to<font color="#E5E5E5"> look</font><font color="#CCCCCC"> at</font><font color="#E5E5E5"> both these proposals mostly</font>
+
+96
+00:02:53,630 --> 00:02:55,130
+using analysis from the Tax Foundation
+
+97
+00:02:55,130 --> 00:02:57,470
+which for the record is<font color="#CCCCCC"> non partisan but</font>
+
+98
+00:02:57,470 --> 00:02:59,450
+usually considered conservative<font color="#E5E5E5"> leaning</font>
+
+99
+00:02:59,450 --> 00:03:00,980
+let's start with Hillary<font color="#E5E5E5"> Clinton's tax</font>
+
+100
+00:03:00,980 --> 00:03:02,600
+plan which she described like<font color="#CCCCCC"> this</font>
+
+101
+00:03:02,600 --> 00:03:05,720
+<font color="#E5E5E5">nobody</font><font color="#CCCCCC"> who makes</font><font color="#E5E5E5"> less</font><font color="#CCCCCC"> than $250,000 a</font>
+
+102
+00:03:05,720 --> 00:03:07,549
+year<font color="#CCCCCC"> and that's</font><font color="#E5E5E5"> the vast majority of</font>
+
+103
+00:03:07,549 --> 00:03:09,590
+<font color="#E5E5E5">Americans as you know will have their</font>
+
+104
+00:03:09,590 --> 00:03:11,930
+taxes raised<font color="#E5E5E5"> because</font><font color="#CCCCCC"> I think we've got</font>
+
+105
+00:03:11,930 --> 00:03:13,190
+to go where the<font color="#CCCCCC"> money is and</font><font color="#E5E5E5"> that's</font>
+
+106
+00:03:13,190 --> 00:03:14,690
+accurate Clinton's plan mostly<font color="#E5E5E5"> leaves</font>
+
+107
+00:03:14,690 --> 00:03:16,670
+the tax code unchanged with four main
+
+108
+00:03:16,670 --> 00:03:18,709
+differences<font color="#E5E5E5"> first income over five</font>
+
+109
+00:03:18,709 --> 00:03:19,940
+million dollars per year<font color="#CCCCCC"> which is</font>
+
+110
+00:03:19,940 --> 00:03:21,799
+<font color="#E5E5E5">currently taxed at thirty nine point six</font>
+
+111
+00:03:21,799 --> 00:03:23,690
+percent<font color="#E5E5E5"> would</font><font color="#CCCCCC"> be taxed at forty three</font>
+
+112
+00:03:23,690 --> 00:03:25,370
+point six percent<font color="#CCCCCC"> there's a lower tax</font>
+
+113
+00:03:25,370 --> 00:03:27,079
+rate<font color="#CCCCCC"> on capital gains</font><font color="#E5E5E5"> which is like sale</font>
+
+114
+00:03:27,079 --> 00:03:28,970
+have appreciated<font color="#CCCCCC"> stocker of a business</font>
+
+115
+00:03:28,970 --> 00:03:30,709
+and on capital gains<font color="#E5E5E5"> over five million</font>
+
+116
+00:03:30,709 --> 00:03:32,329
+dollars<font color="#E5E5E5"> Clinton's tax plan would</font><font color="#CCCCCC"> also</font>
+
+117
+00:03:32,329 --> 00:03:34,940
+increase that rate<font color="#CCCCCC"> 4% from twenty</font><font color="#E5E5E5"> to</font>
+
+118
+00:03:34,940 --> 00:03:35,870
+<font color="#CCCCCC">twenty four percent</font>
+
+119
+00:03:35,870 --> 00:03:37,430
+secondly households with over a million
+
+120
+00:03:37,430 --> 00:03:38,870
+dollars in<font color="#E5E5E5"> income would have to pay at</font>
+
+121
+00:03:38,870 --> 00:03:41,180
+least<font color="#E5E5E5"> a</font><font color="#CCCCCC"> thirty percent effective tax</font>
+
+122
+00:03:41,180 --> 00:03:42,769
+rate<font color="#CCCCCC"> so basically they couldn't use</font>
+
+123
+00:03:42,769 --> 00:03:44,420
+deductions to get under a<font color="#CCCCCC"> thirty percent</font>
+
+124
+00:03:44,420 --> 00:03:46,850
+<font color="#CCCCCC">tax rate</font><font color="#E5E5E5"> third</font><font color="#CCCCCC"> carried</font><font color="#E5E5E5"> interest would be</font>
+
+125
+00:03:46,850 --> 00:03:48,739
+taxed like regular income this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> a</font>
+
+126
+00:03:48,739 --> 00:03:50,060
+little bit complicated but basically
+
+127
+00:03:50,060 --> 00:03:52,040
+<font color="#CCCCCC">carried interest allows many investment</font>
+
+128
+00:03:52,040 --> 00:03:53,870
+bankers<font color="#CCCCCC"> to claim</font><font color="#E5E5E5"> most of their income as</font>
+
+129
+00:03:53,870 --> 00:03:55,430
+<font color="#CCCCCC">capital gains rather than as ordinary</font>
+
+130
+00:03:55,430 --> 00:03:57,079
+<font color="#E5E5E5">income which</font><font color="#CCCCCC"> means they pay a lower tax</font>
+
+131
+00:03:57,079 --> 00:03:58,760
+<font color="#E5E5E5">rate this would close that so-called</font>
+
+132
+00:03:58,760 --> 00:04:01,069
+loophole and lastly Clinton's<font color="#E5E5E5"> plan would</font>
+
+133
+00:04:01,069 --> 00:04:02,959
+double the child tax<font color="#E5E5E5"> credit and also</font>
+
+134
+00:04:02,959 --> 00:04:05,480
+introduced a new<font color="#CCCCCC"> $1,200 Tax Credit</font><font color="#E5E5E5"> for</font>
+
+135
+00:04:05,480 --> 00:04:07,040
+caregivers<font color="#E5E5E5"> so if you're taking care</font><font color="#CCCCCC"> of</font>
+
+136
+00:04:07,040 --> 00:04:08,720
+<font color="#E5E5E5">an elderly</font><font color="#CCCCCC"> or disabled family member</font>
+
+137
+00:04:08,720 --> 00:04:10,130
+<font color="#E5E5E5">that credit would</font><font color="#CCCCCC"> be available</font><font color="#E5E5E5"> to you</font>
+
+138
+00:04:10,130 --> 00:04:11,420
+<font color="#E5E5E5">there would also be some</font><font color="#CCCCCC"> changes to the</font>
+
+139
+00:04:11,420 --> 00:04:13,160
+estate tax and<font color="#E5E5E5"> some corporate taxes</font>
+
+140
+00:04:13,160 --> 00:04:14,810
+would change in an attempt to<font color="#E5E5E5"> keep</font><font color="#CCCCCC"> us</font>
+
+141
+00:04:14,810 --> 00:04:16,640
+companies from shielding their income
+
+142
+00:04:16,640 --> 00:04:18,620
+from<font color="#E5E5E5"> US taxes so under the Clinton tax</font>
+
+143
+00:04:18,620 --> 00:04:20,298
+proposal neither the Kennedys northern
+
+144
+00:04:20,298 --> 00:04:21,880
+Roosevelt's would see their taxes
+
+145
+00:04:21,880 --> 00:04:23,440
+unless the Roosevelts are<font color="#E5E5E5"> claiming</font>
+
+146
+00:04:23,440 --> 00:04:24,820
+hundreds<font color="#E5E5E5"> of thousands</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> dollars in</font>
+
+147
+00:04:24,820 --> 00:04:26,350
+deductions in which case their taxes
+
+148
+00:04:26,350 --> 00:04:27,940
+might go up slightly<font color="#CCCCCC"> the Johnsons</font>
+
+149
+00:04:27,940 --> 00:04:29,050
+however would see their federal income
+
+150
+00:04:29,050 --> 00:04:30,850
+<font color="#E5E5E5">taxes go from five hundred</font><font color="#CCCCCC"> fifty</font><font color="#E5E5E5"> three</font>
+
+151
+00:04:30,850 --> 00:04:32,830
+<font color="#CCCCCC">dollars a year to</font><font color="#E5E5E5"> zero because of</font><font color="#CCCCCC"> the</font>
+
+152
+00:04:32,830 --> 00:04:34,810
+increase in<font color="#E5E5E5"> the child tax credit</font><font color="#CCCCCC"> so just</font>
+
+153
+00:04:34,810 --> 00:04:36,250
+to<font color="#E5E5E5"> be clear</font><font color="#CCCCCC"> at the debate when Donald</font>
+
+154
+00:04:36,250 --> 00:04:38,140
+Trump<font color="#E5E5E5"> said she is raising</font><font color="#CCCCCC"> everybody's</font>
+
+155
+00:04:38,140 --> 00:04:40,930
+taxes massively<font color="#CCCCCC"> that's just not true for</font>
+
+156
+00:04:40,930 --> 00:04:42,580
+<font color="#E5E5E5">the vast</font><font color="#CCCCCC"> majority of Americans</font><font color="#E5E5E5"> but there</font>
+
+157
+00:04:42,580 --> 00:04:45,010
+is a cost<font color="#CCCCCC"> to tax</font><font color="#E5E5E5"> increases even when</font>
+
+158
+00:04:45,010 --> 00:04:46,690
+they're only focused<font color="#CCCCCC"> on the rich they</font>
+
+159
+00:04:46,690 --> 00:04:48,400
+discourage<font color="#CCCCCC"> investment and business</font>
+
+160
+00:04:48,400 --> 00:04:50,170
+<font color="#CCCCCC">spending like the Tax Foundation says</font>
+
+161
+00:04:50,170 --> 00:04:51,220
+that the<font color="#E5E5E5"> Clinton plan would reduce</font>
+
+162
+00:04:51,220 --> 00:04:53,380
+<font color="#E5E5E5">overall US economic output by one</font>
+
+163
+00:04:53,380 --> 00:04:54,850
+<font color="#E5E5E5">percent over the long term other</font>
+
+164
+00:04:54,850 --> 00:04:56,350
+projections<font color="#E5E5E5"> have it much lower but</font>
+
+165
+00:04:56,350 --> 00:04:57,910
+regardless it would have some effect it
+
+166
+00:04:57,910 --> 00:04:59,110
+would<font color="#CCCCCC"> also of course</font><font color="#E5E5E5"> create new</font>
+
+167
+00:04:59,110 --> 00:05:00,580
+government revenue which would be used
+
+168
+00:05:00,580 --> 00:05:02,110
+<font color="#E5E5E5">to pay for subsidized college</font>
+
+169
+00:05:02,110 --> 00:05:04,120
+infrastructure projects and paid family
+
+170
+00:05:04,120 --> 00:05:06,400
+<font color="#CCCCCC">leave</font><font color="#E5E5E5"> most nonpartisan analyses conclude</font>
+
+171
+00:05:06,400 --> 00:05:07,660
+that<font color="#CCCCCC"> after accounting for all of this</font>
+
+172
+00:05:07,660 --> 00:05:09,640
+the Clinton tax and<font color="#CCCCCC"> budget proposals</font>
+
+173
+00:05:09,640 --> 00:05:10,840
+<font color="#E5E5E5">would add about two hundred billion</font>
+
+174
+00:05:10,840 --> 00:05:12,640
+<font color="#E5E5E5">dollars to the u.s. debt over the</font><font color="#CCCCCC"> next</font>
+
+175
+00:05:12,640 --> 00:05:14,350
+<font color="#CCCCCC">ten years okay let's talk about Donald</font>
+
+176
+00:05:14,350 --> 00:05:15,670
+Trump's new tax plan which is quite
+
+177
+00:05:15,670 --> 00:05:17,050
+different<font color="#E5E5E5"> from the one</font><font color="#CCCCCC"> he released in</font>
+
+178
+00:05:17,050 --> 00:05:18,940
+June<font color="#E5E5E5"> in which I talked about here at the</font>
+
+179
+00:05:18,940 --> 00:05:20,830
+debate he said<font color="#E5E5E5"> we're cutting taxes for</font>
+
+180
+00:05:20,830 --> 00:05:23,320
+<font color="#CCCCCC">the middle class and</font><font color="#E5E5E5"> I will tell you we</font>
+
+181
+00:05:23,320 --> 00:05:25,180
+<font color="#CCCCCC">are cutting</font><font color="#E5E5E5"> a big lake for</font><font color="#CCCCCC"> the middle</font>
+
+182
+00:05:25,180 --> 00:05:26,860
+<font color="#CCCCCC">class so a transplant features</font><font color="#E5E5E5"> three</font>
+
+183
+00:05:26,860 --> 00:05:28,480
+marginal tax brackets for<font color="#E5E5E5"> married</font>
+
+184
+00:05:28,480 --> 00:05:30,420
+couples<font color="#CCCCCC"> filing jointly income up</font><font color="#E5E5E5"> to</font>
+
+185
+00:05:30,420 --> 00:05:32,920
+<font color="#CCCCCC">$75,000 a year</font><font color="#E5E5E5"> would be taxed at</font><font color="#CCCCCC"> 12%</font>
+
+186
+00:05:32,920 --> 00:05:35,590
+<font color="#E5E5E5">from there up to</font><font color="#CCCCCC"> $225,000 would be taxed</font>
+
+187
+00:05:35,590 --> 00:05:38,680
+at 25<font color="#E5E5E5"> percent and above $225,000 would</font>
+
+188
+00:05:38,680 --> 00:05:41,020
+be taxed at<font color="#CCCCCC"> 33% he would also cap</font>
+
+189
+00:05:41,020 --> 00:05:42,610
+deductibles<font color="#CCCCCC"> for married couples at</font>
+
+190
+00:05:42,610 --> 00:05:44,740
+$200,000 a year he<font color="#E5E5E5"> would make</font><font color="#CCCCCC"> childcare</font>
+
+191
+00:05:44,740 --> 00:05:46,900
+<font color="#CCCCCC">expenses deductible up to the average</font>
+
+192
+00:05:46,900 --> 00:05:48,580
+<font color="#E5E5E5">cost of child care in your state</font>
+
+193
+00:05:48,580 --> 00:05:50,140
+increased the standard<font color="#CCCCCC"> deduction from</font>
+
+194
+00:05:50,140 --> 00:05:51,640
+<font color="#E5E5E5">twelve thousand six</font><font color="#CCCCCC"> hundred dollars per</font>
+
+195
+00:05:51,640 --> 00:05:53,230
+year<font color="#E5E5E5"> for married couples</font><font color="#CCCCCC"> filing jointly</font>
+
+196
+00:05:53,230 --> 00:05:55,660
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> $30,000 a year and he would</font><font color="#E5E5E5"> get rid</font>
+
+197
+00:05:55,660 --> 00:05:57,880
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> personal exemptions as you'll recall</font>
+
+198
+00:05:57,880 --> 00:05:59,410
+those personal exemptions allow you to
+
+199
+00:05:59,410 --> 00:06:01,870
+take<font color="#CCCCCC"> 4050 dollars off your income for</font>
+
+200
+00:06:01,870 --> 00:06:03,700
+each<font color="#E5E5E5"> member of</font><font color="#CCCCCC"> your family eliminating</font>
+
+201
+00:06:03,700 --> 00:06:05,200
+them even with the increase<font color="#CCCCCC"> in the</font>
+
+202
+00:06:05,200 --> 00:06:06,790
+<font color="#CCCCCC">standard deduction would mean that</font><font color="#E5E5E5"> for</font>
+
+203
+00:06:06,790 --> 00:06:08,560
+<font color="#E5E5E5">many families with single</font><font color="#CCCCCC"> parents</font><font color="#E5E5E5"> or</font>
+
+204
+00:06:08,560 --> 00:06:10,060
+with more than three children making
+
+205
+00:06:10,060 --> 00:06:11,680
+<font color="#E5E5E5">between about sixty to a hundred</font>
+
+206
+00:06:11,680 --> 00:06:13,720
+thousand<font color="#E5E5E5"> dollars a year taxes would</font>
+
+207
+00:06:13,720 --> 00:06:15,760
+actually go up somewhat under Trump's
+
+208
+00:06:15,760 --> 00:06:17,110
+plan<font color="#CCCCCC"> this</font><font color="#E5E5E5"> would be the case for about</font>
+
+209
+00:06:17,110 --> 00:06:19,420
+<font color="#E5E5E5">7.8 million households but for the rest</font>
+
+210
+00:06:19,420 --> 00:06:21,010
+of<font color="#E5E5E5"> us our federal income taxes would</font>
+
+211
+00:06:21,010 --> 00:06:22,870
+stay about the<font color="#CCCCCC"> same or go down under</font>
+
+212
+00:06:22,870 --> 00:06:24,310
+Trump's plan like if we look at<font color="#E5E5E5"> our</font>
+
+213
+00:06:24,310 --> 00:06:26,170
+three hypothetical families the Johnsons
+
+214
+00:06:26,170 --> 00:06:27,880
+would see their federal income<font color="#E5E5E5"> taxes</font><font color="#CCCCCC"> go</font>
+
+215
+00:06:27,880 --> 00:06:29,350
+from five hundred<font color="#CCCCCC"> fifty three dollars a</font>
+
+216
+00:06:29,350 --> 00:06:30,970
+year<font color="#CCCCCC"> to four hundred</font><font color="#E5E5E5"> dollars the</font>
+
+217
+00:06:30,970 --> 00:06:32,380
+kennedys making three hundred thousand
+
+218
+00:06:32,380 --> 00:06:33,880
+dollars a<font color="#CCCCCC"> year would pay</font><font color="#E5E5E5"> about forty six</font>
+
+219
+00:06:33,880 --> 00:06:34,849
+thousand three<font color="#CCCCCC"> hundred</font>
+
+220
+00:06:34,849 --> 00:06:36,409
+<font color="#CCCCCC">fifty</font><font color="#E5E5E5"> dollars in taxes a reduction of</font>
+
+221
+00:06:36,409 --> 00:06:38,059
+about<font color="#CCCCCC"> twenty thousand</font><font color="#E5E5E5"> dollars from the</font>
+
+222
+00:06:38,059 --> 00:06:39,499
+current<font color="#CCCCCC"> system</font><font color="#E5E5E5"> and the Roosevelts would</font>
+
+223
+00:06:39,499 --> 00:06:40,550
+pay<font color="#E5E5E5"> about two hundred</font><font color="#CCCCCC"> eighty seven</font>
+
+224
+00:06:40,550 --> 00:06:42,229
+thousand two<font color="#CCCCCC"> hundred fifty dollars as</font>
+
+225
+00:06:42,229 --> 00:06:43,669
+<font color="#E5E5E5">you can see the tax cuts are heavily</font>
+
+226
+00:06:43,669 --> 00:06:44,899
+concentrated<font color="#E5E5E5"> on the wealthiest</font>
+
+227
+00:06:44,899 --> 00:06:46,879
+individuals who pay the<font color="#E5E5E5"> most income tax</font>
+
+228
+00:06:46,879 --> 00:06:48,559
+<font color="#E5E5E5">Trump's plan would also decrease</font><font color="#CCCCCC"> the</font>
+
+229
+00:06:48,559 --> 00:06:50,149
+corporate tax rate<font color="#E5E5E5"> from thirty</font><font color="#CCCCCC"> five</font>
+
+230
+00:06:50,149 --> 00:06:52,039
+<font color="#CCCCCC">percent to fifteen percent and like</font>
+
+231
+00:06:52,039 --> 00:06:54,229
+Clinton's plan<font color="#E5E5E5"> it would seek to get back</font>
+
+232
+00:06:54,229 --> 00:06:56,059
+some of<font color="#E5E5E5"> the profits that</font><font color="#CCCCCC"> are offshore</font>
+
+233
+00:06:56,059 --> 00:06:57,889
+from US<font color="#E5E5E5"> companies and it would close the</font>
+
+234
+00:06:57,889 --> 00:06:59,449
+carried<font color="#E5E5E5"> interest loophole in total</font>
+
+235
+00:06:59,449 --> 00:07:01,309
+before accounting for macroeconomic
+
+236
+00:07:01,309 --> 00:07:03,020
+effects<font color="#E5E5E5"> Trump's</font><font color="#CCCCCC"> plan would lower</font>
+
+237
+00:07:03,020 --> 00:07:05,059
+<font color="#CCCCCC">revenues somewhere between four point</font>
+
+238
+00:07:05,059 --> 00:07:06,919
+four and<font color="#E5E5E5"> seven point two trillion</font>
+
+239
+00:07:06,919 --> 00:07:08,599
+dollars over<font color="#CCCCCC"> the next ten years</font>
+
+240
+00:07:08,599 --> 00:07:10,459
+depending<font color="#E5E5E5"> on who's doing</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> math but</font>
+
+241
+00:07:10,459 --> 00:07:12,409
+just as higher taxes can discourage
+
+242
+00:07:12,409 --> 00:07:15,199
+<font color="#E5E5E5">investment lower taxes can encourage it</font>
+
+243
+00:07:15,199 --> 00:07:17,059
+and<font color="#CCCCCC"> the Tax</font><font color="#E5E5E5"> Foundation does project the</font>
+
+244
+00:07:17,059 --> 00:07:19,159
+<font color="#CCCCCC">trumps plan would lead to</font><font color="#E5E5E5"> growth but no</font>
+
+245
+00:07:19,159 --> 00:07:20,929
+<font color="#E5E5E5">matter what you've</font><font color="#CCCCCC"> heard that does not</font>
+
+246
+00:07:20,929 --> 00:07:23,179
+mean<font color="#E5E5E5"> that tax cuts pay for themselves</font>
+
+247
+00:07:23,179 --> 00:07:24,499
+<font color="#CCCCCC">they don't</font>
+
+248
+00:07:24,499 --> 00:07:26,300
+for instance both<font color="#E5E5E5"> the Reagan and the</font>
+
+249
+00:07:26,300 --> 00:07:28,580
+Bush tax cuts boosted growth but they
+
+250
+00:07:28,580 --> 00:07:30,499
+lowered federal revenues<font color="#E5E5E5"> the Tax</font>
+
+251
+00:07:30,499 --> 00:07:31,699
+<font color="#E5E5E5">Foundation which remember is</font>
+
+252
+00:07:31,699 --> 00:07:33,469
+<font color="#E5E5E5">conservative-leaning says that even</font>
+
+253
+00:07:33,469 --> 00:07:35,330
+after growth is accounted for federal
+
+254
+00:07:35,330 --> 00:07:37,069
+revenues will decrease under Trump's
+
+255
+00:07:37,069 --> 00:07:39,079
+plan between<font color="#E5E5E5"> two point six and three</font>
+
+256
+00:07:39,079 --> 00:07:41,360
+point nine<font color="#E5E5E5"> trillion dollars</font><font color="#CCCCCC"> now Trump</font><font color="#E5E5E5"> is</font>
+
+257
+00:07:41,360 --> 00:07:42,559
+proposed to<font color="#E5E5E5"> pay for some of</font><font color="#CCCCCC"> this</font>
+
+258
+00:07:42,559 --> 00:07:44,269
+shortfall around<font color="#CCCCCC"> 1 trillion</font><font color="#E5E5E5"> dollars over</font>
+
+259
+00:07:44,269 --> 00:07:46,189
+<font color="#CCCCCC">ten years by a budget cuts</font><font color="#E5E5E5"> but he also</font>
+
+260
+00:07:46,189 --> 00:07:47,539
+wants<font color="#CCCCCC"> to spend</font><font color="#E5E5E5"> about five</font><font color="#CCCCCC"> hundred</font>
+
+261
+00:07:47,539 --> 00:07:48,949
+billion<font color="#E5E5E5"> dollars more on</font><font color="#CCCCCC"> the military</font>
+
+262
+00:07:48,949 --> 00:07:50,869
+<font color="#CCCCCC">over the next</font><font color="#E5E5E5"> ten years so</font><font color="#CCCCCC"> even</font><font color="#E5E5E5"> the</font>
+
+263
+00:07:50,869 --> 00:07:53,269
+rosiest projections have<font color="#CCCCCC"> Trump's total</font>
+
+264
+00:07:53,269 --> 00:07:55,550
+budget and tax plan<font color="#E5E5E5"> adding about two</font>
+
+265
+00:07:55,550 --> 00:07:57,499
+trillion<font color="#E5E5E5"> dollars to</font><font color="#CCCCCC"> the national debt</font>
+
+266
+00:07:57,499 --> 00:07:59,629
+<font color="#CCCCCC">over the next ten years that's</font><font color="#E5E5E5"> ten times</font>
+
+267
+00:07:59,629 --> 00:08:01,459
+<font color="#CCCCCC">greater than under Clinton's plan</font><font color="#E5E5E5"> and</font>
+
+268
+00:08:01,459 --> 00:08:02,809
+other projections<font color="#CCCCCC"> like those made by the</font>
+
+269
+00:08:02,809 --> 00:08:04,579
+Tax<font color="#E5E5E5"> Policy Center have that number at</font>
+
+270
+00:08:04,579 --> 00:08:06,439
+seven<font color="#E5E5E5"> point two trillion dollars</font>
+
+271
+00:08:06,439 --> 00:08:08,539
+<font color="#CCCCCC">thirty-six times</font><font color="#E5E5E5"> greater than Clinton's</font>
+
+272
+00:08:08,539 --> 00:08:10,159
+plan<font color="#CCCCCC"> I want to pause for a second to</font>
+
+273
+00:08:10,159 --> 00:08:12,110
+discuss why this could be<font color="#E5E5E5"> such a huge</font>
+
+274
+00:08:12,110 --> 00:08:14,360
+<font color="#CCCCCC">problem so</font><font color="#E5E5E5"> currently the u.s. is debt</font>
+
+275
+00:08:14,360 --> 00:08:16,399
+held by the public<font color="#E5E5E5"> is about</font><font color="#CCCCCC"> seventy</font>
+
+276
+00:08:16,399 --> 00:08:18,079
+<font color="#CCCCCC">seven percent</font><font color="#E5E5E5"> of our total annual</font>
+
+277
+00:08:18,079 --> 00:08:20,479
+<font color="#E5E5E5">economic output</font><font color="#CCCCCC"> that's high but it's not</font>
+
+278
+00:08:20,479 --> 00:08:22,189
+so high that<font color="#CCCCCC"> people are worried about</font>
+
+279
+00:08:22,189 --> 00:08:24,319
+<font color="#E5E5E5">our ability to pay it back we know that</font>
+
+280
+00:08:24,319 --> 00:08:26,300
+because<font color="#E5E5E5"> interest</font><font color="#CCCCCC"> rates on Treasury bills</font>
+
+281
+00:08:26,300 --> 00:08:27,409
+are near zero
+
+282
+00:08:27,409 --> 00:08:29,209
+it's<font color="#E5E5E5"> basically seen as a guaranteed that</font>
+
+283
+00:08:29,209 --> 00:08:31,039
+the United States<font color="#E5E5E5"> will pay its debt but</font>
+
+284
+00:08:31,039 --> 00:08:33,289
+if our<font color="#E5E5E5"> publicly held debt to GDP ratio</font>
+
+285
+00:08:33,289 --> 00:08:35,688
+<font color="#E5E5E5">gets higher traditionally when it gets</font>
+
+286
+00:08:35,688 --> 00:08:38,719
+to a hundred percent<font color="#E5E5E5"> or</font><font color="#CCCCCC"> 110 percent</font><font color="#E5E5E5"> that</font>
+
+287
+00:08:38,719 --> 00:08:40,639
+might<font color="#E5E5E5"> change</font><font color="#CCCCCC"> lenders might start to get</font>
+
+288
+00:08:40,639 --> 00:08:42,438
+<font color="#E5E5E5">nervous and think maybe the US can't pay</font>
+
+289
+00:08:42,438 --> 00:08:44,000
+its debts which would make loans to<font color="#CCCCCC"> the</font>
+
+290
+00:08:44,000 --> 00:08:45,829
+United<font color="#CCCCCC"> States government riskier which</font>
+
+291
+00:08:45,829 --> 00:08:46,840
+would make them<font color="#CCCCCC"> more</font>
+
+292
+00:08:46,840 --> 00:08:48,580
+expensive interest rates would go<font color="#E5E5E5"> up</font><font color="#CCCCCC"> to</font>
+
+293
+00:08:48,580 --> 00:08:50,230
+<font color="#E5E5E5">pay for the more expensive loans the</font>
+
+294
+00:08:50,230 --> 00:08:52,000
+<font color="#CCCCCC">government would have</font><font color="#E5E5E5"> to increase taxes</font>
+
+295
+00:08:52,000 --> 00:08:54,100
+or decrease<font color="#CCCCCC"> spending which would</font><font color="#E5E5E5"> inhibit</font>
+
+296
+00:08:54,100 --> 00:08:56,050
+growth which would lead to<font color="#E5E5E5"> lower tax</font>
+
+297
+00:08:56,050 --> 00:08:57,880
+revenues<font color="#CCCCCC"> that</font><font color="#E5E5E5"> would necessitate taking</font>
+
+298
+00:08:57,880 --> 00:08:59,350
+out more loans with higher and<font color="#E5E5E5"> higher</font>
+
+299
+00:08:59,350 --> 00:09:00,910
+interest<font color="#E5E5E5"> rates which would leave less</font>
+
+300
+00:09:00,910 --> 00:09:02,470
+money for programs<font color="#CCCCCC"> like Social Security</font>
+
+301
+00:09:02,470 --> 00:09:04,690
+<font color="#E5E5E5">and unemployment insurance which would</font>
+
+302
+00:09:04,690 --> 00:09:06,490
+further inhibit growth which would<font color="#E5E5E5"> will</font>
+
+303
+00:09:06,490 --> 00:09:08,320
+<font color="#E5E5E5">were government revenues and pretty soon</font>
+
+304
+00:09:08,320 --> 00:09:10,720
+Greece<font color="#CCCCCC"> this is called a debt spiral and</font>
+
+305
+00:09:10,720 --> 00:09:13,300
+it is a<font color="#CCCCCC"> catastrophe that once it starts</font>
+
+306
+00:09:13,300 --> 00:09:16,360
+is very<font color="#E5E5E5"> difficult to stop it often takes</font>
+
+307
+00:09:16,360 --> 00:09:18,970
+decades to<font color="#E5E5E5"> unwind</font><font color="#CCCCCC"> now the chances</font><font color="#E5E5E5"> of a</font>
+
+308
+00:09:18,970 --> 00:09:20,440
+debt spiral in the<font color="#E5E5E5"> United States are</font>
+
+309
+00:09:20,440 --> 00:09:22,360
+very<font color="#E5E5E5"> low no matter who becomes president</font>
+
+310
+00:09:22,360 --> 00:09:24,010
+<font color="#E5E5E5">but the nonpartisan committee for a</font>
+
+311
+00:09:24,010 --> 00:09:25,780
+responsible federal<font color="#E5E5E5"> budget has the</font>
+
+312
+00:09:25,780 --> 00:09:27,760
+<font color="#CCCCCC">10-year debt from Trump's tax plan</font>
+
+313
+00:09:27,760 --> 00:09:30,190
+<font color="#E5E5E5">rising to</font><font color="#CCCCCC"> one hundred five percent of</font>
+
+314
+00:09:30,190 --> 00:09:33,250
+GDP and<font color="#CCCCCC"> that is a very scary level now I</font>
+
+315
+00:09:33,250 --> 00:09:35,050
+want to<font color="#E5E5E5"> emphasize</font><font color="#CCCCCC"> that there are</font><font color="#E5E5E5"> serious</font>
+
+316
+00:09:35,050 --> 00:09:36,790
+and thoughtful Republican tax and budget
+
+317
+00:09:36,790 --> 00:09:39,250
+<font color="#E5E5E5">plans out there but to cut taxes</font><font color="#CCCCCC"> by the</font>
+
+318
+00:09:39,250 --> 00:09:41,290
+amount that<font color="#E5E5E5"> Trump is proposing</font><font color="#CCCCCC"> it is</font>
+
+319
+00:09:41,290 --> 00:09:43,420
+necessary to<font color="#E5E5E5"> either cut popular</font>
+
+320
+00:09:43,420 --> 00:09:45,370
+entitlement programs like Medicare or
+
+321
+00:09:45,370 --> 00:09:46,660
+else to cut defense<font color="#CCCCCC"> spending</font>
+
+322
+00:09:46,660 --> 00:09:48,940
+dramatically<font color="#E5E5E5"> serious Republican budget</font>
+
+323
+00:09:48,940 --> 00:09:51,310
+proposals do one or both and<font color="#E5E5E5"> Trump's</font>
+
+324
+00:09:51,310 --> 00:09:51,940
+does neither
+
+325
+00:09:51,940 --> 00:09:53,500
+so in summary Donald Trump's tax plan
+
+326
+00:09:53,500 --> 00:09:55,300
+would<font color="#E5E5E5"> cut income taxes for most</font>
+
+327
+00:09:55,300 --> 00:09:56,860
+Americans with the majority<font color="#CCCCCC"> of the</font>
+
+328
+00:09:56,860 --> 00:09:58,060
+<font color="#CCCCCC">benefits going</font><font color="#E5E5E5"> to the wealthiest</font>
+
+329
+00:09:58,060 --> 00:10:00,640
+households and small<font color="#CCCCCC"> increases on taxes</font>
+
+330
+00:10:00,640 --> 00:10:02,380
+for some<font color="#E5E5E5"> middle-class families Hillary</font>
+
+331
+00:10:02,380 --> 00:10:04,060
+Clinton's tax proposals<font color="#E5E5E5"> would cut income</font>
+
+332
+00:10:04,060 --> 00:10:05,620
+taxes for<font color="#CCCCCC"> middle class families with</font>
+
+333
+00:10:05,620 --> 00:10:07,090
+children the rest of us<font color="#CCCCCC"> probably</font>
+
+334
+00:10:07,090 --> 00:10:08,470
+wouldn't see<font color="#E5E5E5"> much change but the</font>
+
+335
+00:10:08,470 --> 00:10:09,880
+wealthiest American households would
+
+336
+00:10:09,880 --> 00:10:11,560
+have their taxes<font color="#CCCCCC"> go up</font><font color="#E5E5E5"> if you'd like</font>
+
+337
+00:10:11,560 --> 00:10:13,600
+much more<font color="#CCCCCC"> information there are links to</font>
+
+338
+00:10:13,600 --> 00:10:15,550
+nonpartisan analyses in the doobly-doo
+
+339
+00:10:15,550 --> 00:10:17,560
+below<font color="#CCCCCC"> I'll also try to</font><font color="#E5E5E5"> be in comments</font><font color="#CCCCCC"> to</font>
+
+340
+00:10:17,560 --> 00:10:19,030
+answer any of your<font color="#CCCCCC"> questions and</font><font color="#E5E5E5"> if you</font>
+
+341
+00:10:19,030 --> 00:10:20,650
+are yet<font color="#CCCCCC"> registered to vote or aren't</font>
+
+342
+00:10:20,650 --> 00:10:22,060
+sure<font color="#CCCCCC"> if</font><font color="#E5E5E5"> you're registered please go to</font>
+
+343
+00:10:22,060 --> 00:10:23,830
+youtube.com slash how to vote in every
+
+344
+00:10:23,830 --> 00:10:25,930
+<font color="#E5E5E5">state</font><font color="#CCCCCC"> and find your state in many states</font>
+
+345
+00:10:25,930 --> 00:10:27,940
+the registration<font color="#E5E5E5"> deadline is today</font><font color="#CCCCCC"> so</font>
+
+346
+00:10:27,940 --> 00:10:32,380
+register<font color="#E5E5E5"> please vote hank dftba</font><font color="#CCCCCC"> I will</font>
+
+347
+00:10:32,380 --> 00:00:00,000
+see you on Friday
+

@@ -1,0 +1,700 @@
+1
+00:00:00,030 --> 00:00:01,110
+hey everyone it's<font color="#E5E5E5"> me hallease</font>
+
+2
+00:00:01,110 --> 00:00:03,149
+<font color="#E5E5E5">endeavoring to persevere as always</font>
+
+3
+00:00:03,149 --> 00:00:04,770
+coming at you with<font color="#E5E5E5"> some producers</font>
+
+4
+00:00:04,770 --> 00:00:07,500
+creative commentary for the latest
+
+5
+00:00:07,500 --> 00:00:10,469
+volume entry on the channel am<font color="#CCCCCC"> i</font><font color="#E5E5E5"> losing</font>
+
+6
+00:00:10,469 --> 00:00:12,030
+him if you haven't checked it<font color="#E5E5E5"> out it's a</font>
+
+7
+00:00:12,030 --> 00:00:13,650
+really short<font color="#E5E5E5"> vlog</font><font color="#CCCCCC"> um entry for the</font>
+
+8
+00:00:13,650 --> 00:00:15,360
+channel<font color="#E5E5E5"> and I think it's maybe</font><font color="#CCCCCC"> two</font>
+
+9
+00:00:15,360 --> 00:00:17,130
+<font color="#CCCCCC">minutes</font><font color="#E5E5E5"> so I'll link to it in the Eye of</font>
+
+10
+00:00:17,130 --> 00:00:19,580
+Sauron
+
+11
+00:00:29,990 --> 00:00:32,189
+so yeah this<font color="#CCCCCC"> is</font><font color="#E5E5E5"> something that</font><font color="#CCCCCC"> I do to</font>
+
+12
+00:00:32,189 --> 00:00:33,750
+kind of showcase<font color="#E5E5E5"> the creative process</font>
+
+13
+00:00:33,750 --> 00:00:35,100
+for<font color="#E5E5E5"> how I come up</font><font color="#CCCCCC"> with the</font><font color="#E5E5E5"> vlogging</font>
+
+14
+00:00:35,100 --> 00:00:38,100
+entries<font color="#CCCCCC"> and then also to give</font><font color="#E5E5E5"> you</font>
+
+15
+00:00:38,100 --> 00:00:40,790
+awesome<font color="#E5E5E5"> technical skill on editing</font>
+
+16
+00:00:40,790 --> 00:00:42,900
+<font color="#E5E5E5">specifically in Premiere Pro but a lot</font>
+
+17
+00:00:42,900 --> 00:00:45,360
+of<font color="#E5E5E5"> the things that I do</font><font color="#CCCCCC"> crossover to</font>
+
+18
+00:00:45,360 --> 00:00:47,309
+whatever editing software you're<font color="#CCCCCC"> using</font>
+
+19
+00:00:47,309 --> 00:00:49,290
+<font color="#E5E5E5">so if you're here specifically to see</font>
+
+20
+00:00:49,290 --> 00:00:52,230
+how I technically achieved<font color="#E5E5E5"> some</font><font color="#CCCCCC"> of the</font>
+
+21
+00:00:52,230 --> 00:00:54,300
+stuff<font color="#CCCCCC"> that you see</font><font color="#E5E5E5"> in that short vlog</font>
+
+22
+00:00:54,300 --> 00:00:56,430
+you<font color="#CCCCCC"> mentoree check out the timecode that</font>
+
+23
+00:00:56,430 --> 00:00:57,930
+<font color="#E5E5E5">I will put somewhere on the screen</font><font color="#CCCCCC"> right</font>
+
+24
+00:00:57,930 --> 00:01:00,690
+now<font color="#E5E5E5"> to see the technical aspect of it</font>
+
+25
+00:01:00,690 --> 00:01:04,879
+<font color="#E5E5E5">but for</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> let's get into the creative</font>
+
+26
+00:01:05,360 --> 00:01:08,940
+<font color="#E5E5E5">so overall with this vlog entry</font><font color="#CCCCCC"> I really</font>
+
+27
+00:01:08,940 --> 00:01:12,090
+wanted to<font color="#E5E5E5"> give mr. hallease a voice if</font>
+
+28
+00:01:12,090 --> 00:01:13,710
+<font color="#E5E5E5">he's been</font><font color="#CCCCCC"> following the channel for a</font>
+
+29
+00:01:13,710 --> 00:01:15,780
+while<font color="#E5E5E5"> then you know that currently were</font>
+
+30
+00:01:15,780 --> 00:01:18,420
+displaced<font color="#CCCCCC"> and</font><font color="#E5E5E5"> we're suing the seller I</font>
+
+31
+00:01:18,420 --> 00:01:19,800
+think you all have<font color="#E5E5E5"> gotten to</font><font color="#CCCCCC"> see a</font>
+
+32
+00:01:19,800 --> 00:01:21,750
+little<font color="#E5E5E5"> bit of him talk about</font><font color="#CCCCCC"> the</font>
+
+33
+00:01:21,750 --> 00:01:24,149
+struggle of it but it's<font color="#E5E5E5"> mostly been from</font>
+
+34
+00:01:24,149 --> 00:01:26,580
+my<font color="#E5E5E5"> point of view oh this video was born</font>
+
+35
+00:01:26,580 --> 00:01:28,979
+out of a conversation<font color="#CCCCCC"> out of many</font>
+
+36
+00:01:28,979 --> 00:01:31,049
+conversations<font color="#E5E5E5"> that mr.</font><font color="#CCCCCC"> Hollis and I have</font>
+
+37
+00:01:31,049 --> 00:01:33,180
+had<font color="#E5E5E5"> about the house and our feelings</font>
+
+38
+00:01:33,180 --> 00:01:34,710
+<font color="#E5E5E5">towards it one of the many conversations</font>
+
+39
+00:01:34,710 --> 00:01:37,140
+<font color="#E5E5E5">that we</font><font color="#CCCCCC"> were having as we were trying to</font>
+
+40
+00:01:37,140 --> 00:01:39,210
+sort of you know<font color="#E5E5E5"> be each other's</font>
+
+41
+00:01:39,210 --> 00:01:41,009
+<font color="#CCCCCC">therapist if you will through this</font>
+
+42
+00:01:41,009 --> 00:01:43,560
+<font color="#CCCCCC">process he was trying to</font><font color="#E5E5E5"> describe</font><font color="#CCCCCC"> to me</font>
+
+43
+00:01:43,560 --> 00:01:46,380
+how frustrated<font color="#CCCCCC"> he gets when family</font>
+
+44
+00:01:46,380 --> 00:01:48,869
+friends<font color="#E5E5E5"> co-workers ask about what's</font>
+
+45
+00:01:48,869 --> 00:01:51,750
+going on<font color="#E5E5E5"> knowing</font><font color="#CCCCCC"> that they mean well but</font>
+
+46
+00:01:51,750 --> 00:01:56,009
+<font color="#E5E5E5">for him it's basically this is for him</font>
+
+47
+00:01:56,009 --> 00:01:58,470
+it's like having to relive the trauma<font color="#CCCCCC"> it</font>
+
+48
+00:01:58,470 --> 00:02:01,320
+feels<font color="#E5E5E5"> like I'm you know stuck in the</font>
+
+49
+00:02:01,320 --> 00:02:03,390
+<font color="#CCCCCC">ocean and</font><font color="#E5E5E5"> I'm trying to swim but like</font>
+
+50
+00:02:03,390 --> 00:02:06,329
+I'm being weighted down and of course<font color="#E5E5E5"> as</font>
+
+51
+00:02:06,329 --> 00:02:07,979
+his wife I<font color="#E5E5E5"> was listening and trying to</font>
+
+52
+00:02:07,979 --> 00:02:09,329
+<font color="#E5E5E5">comfort him as much as</font><font color="#CCCCCC"> I possibly could</font>
+
+53
+00:02:09,329 --> 00:02:12,440
+<font color="#E5E5E5">but</font><font color="#CCCCCC"> I immediately mentally went to</font>
+
+54
+00:02:12,440 --> 00:02:16,200
+visuals I immediately saw<font color="#E5E5E5"> the shot that</font>
+
+55
+00:02:16,200 --> 00:02:20,310
+I have of him<font color="#E5E5E5"> floating trying to swim in</font>
+
+56
+00:02:20,310 --> 00:02:23,970
+the<font color="#E5E5E5"> ocean via the drone</font><font color="#CCCCCC"> like I saw</font><font color="#E5E5E5"> that</font>
+
+57
+00:02:23,970 --> 00:02:25,980
+shot in my head as we're having<font color="#CCCCCC"> that</font>
+
+58
+00:02:25,980 --> 00:02:28,920
+conversation<font color="#E5E5E5"> and so after the</font>
+
+59
+00:02:28,920 --> 00:02:31,320
+conversation<font color="#CCCCCC"> I quickly busted out my</font>
+
+60
+00:02:31,320 --> 00:02:33,750
+<font color="#CCCCCC">little</font><font color="#E5E5E5"> notebook I always keep a little</font>
+
+61
+00:02:33,750 --> 00:02:36,000
+<font color="#CCCCCC">notebook and pen with me if lightning</font>
+
+62
+00:02:36,000 --> 00:02:37,949
+<font color="#E5E5E5">strikes because</font><font color="#CCCCCC"> I like to write things</font>
+
+63
+00:02:37,949 --> 00:02:38,420
+<font color="#E5E5E5">down</font>
+
+64
+00:02:38,420 --> 00:02:41,270
+rather than type them out<font color="#E5E5E5"> on</font><font color="#CCCCCC"> my phone</font><font color="#E5E5E5"> so</font>
+
+65
+00:02:41,270 --> 00:02:43,510
+that<font color="#CCCCCC"> way I</font><font color="#E5E5E5"> can have that kinetic</font>
+
+66
+00:02:43,510 --> 00:02:46,069
+memorization<font color="#E5E5E5"> and learning and it puts me</font>
+
+67
+00:02:46,069 --> 00:02:49,069
+back into the<font color="#E5E5E5"> moment later the weekend</font>
+
+68
+00:02:49,069 --> 00:02:51,920
+that<font color="#E5E5E5"> we were in Padre leading up to that</font>
+
+69
+00:02:51,920 --> 00:02:53,630
+weekend we had<font color="#CCCCCC"> already scheduled to go</font>
+
+70
+00:02:53,630 --> 00:02:56,209
+do that it was actually<font color="#E5E5E5"> us going to</font>
+
+71
+00:02:56,209 --> 00:02:57,470
+Padre<font color="#E5E5E5"> to celebrate our anniversary</font>
+
+72
+00:02:57,470 --> 00:02:59,570
+together<font color="#CCCCCC"> I said hey I have this idea</font>
+
+73
+00:02:59,570 --> 00:03:01,670
+based on<font color="#E5E5E5"> the ocean conversation we had</font>
+
+74
+00:03:01,670 --> 00:03:05,270
+do you mind if I shoot just a little bit
+
+75
+00:03:05,270 --> 00:03:08,090
+<font color="#E5E5E5">and play</font><font color="#CCCCCC"> around</font><font color="#E5E5E5"> with this</font><font color="#CCCCCC"> idea with you</font>
+
+76
+00:03:08,090 --> 00:03:11,060
+I think it'll be a<font color="#CCCCCC"> really cool film</font><font color="#E5E5E5"> for</font>
+
+77
+00:03:11,060 --> 00:03:12,920
+the channel<font color="#E5E5E5"> so really visually it was</font>
+
+78
+00:03:12,920 --> 00:03:17,870
+<font color="#E5E5E5">about taking his metaphor and just</font>
+
+79
+00:03:17,870 --> 00:03:20,540
+<font color="#E5E5E5">running with</font><font color="#CCCCCC"> it you know</font><font color="#E5E5E5"> and showcasing</font>
+
+80
+00:03:20,540 --> 00:03:23,450
+that idea as much as I could<font color="#CCCCCC"> in a very</font>
+
+81
+00:03:23,450 --> 00:03:27,230
+simplistic<font color="#E5E5E5"> way</font><font color="#CCCCCC"> I ended up</font><font color="#E5E5E5"> recording him</font>
+
+82
+00:03:27,230 --> 00:03:30,560
+saying everything after the fact<font color="#E5E5E5"> we had</font>
+
+83
+00:03:30,560 --> 00:03:32,630
+already<font color="#E5E5E5"> had a few conversations again</font>
+
+84
+00:03:32,630 --> 00:03:35,060
+<font color="#E5E5E5">about the initial conversation</font><font color="#CCCCCC"> that this</font>
+
+85
+00:03:35,060 --> 00:03:37,160
+idea<font color="#E5E5E5"> was</font><font color="#CCCCCC"> born out of we then went</font><font color="#E5E5E5"> to</font>
+
+86
+00:03:37,160 --> 00:03:39,230
+Padre<font color="#CCCCCC"> I shot everything</font><font color="#E5E5E5"> that I felt</font><font color="#CCCCCC"> like</font>
+
+87
+00:03:39,230 --> 00:03:42,620
+<font color="#E5E5E5">I needed to get to</font><font color="#CCCCCC"> hopefully tell the</font>
+
+88
+00:03:42,620 --> 00:03:44,390
+story well<font color="#E5E5E5"> and then after we came</font><font color="#CCCCCC"> back</font>
+
+89
+00:03:44,390 --> 00:03:47,510
+to<font color="#E5E5E5"> San</font><font color="#CCCCCC"> Antonio I</font><font color="#E5E5E5"> just grabbed my</font>
+
+90
+00:03:47,510 --> 00:03:50,390
+microphone and sort<font color="#CCCCCC"> of asked him to just</font>
+
+91
+00:03:50,390 --> 00:03:54,560
+riff on<font color="#E5E5E5"> that idea again</font><font color="#CCCCCC"> I had</font><font color="#E5E5E5"> taken</font>
+
+92
+00:03:54,560 --> 00:03:56,209
+again I had taken a few notes in my
+
+93
+00:03:56,209 --> 00:03:58,640
+notebook<font color="#CCCCCC"> and I showed this to</font><font color="#E5E5E5"> him</font><font color="#CCCCCC"> but I</font>
+
+94
+00:03:58,640 --> 00:04:00,980
+<font color="#CCCCCC">more or less just let him talk for about</font>
+
+95
+00:04:00,980 --> 00:04:02,870
+five minutes<font color="#E5E5E5"> and then from</font><font color="#CCCCCC"> that five</font>
+
+96
+00:04:02,870 --> 00:04:05,660
+minutes<font color="#CCCCCC"> I cut together what you end up</font>
+
+97
+00:04:05,660 --> 00:04:10,120
+<font color="#E5E5E5">hearing as his voice over in the piece</font>
+
+98
+00:04:11,650 --> 00:04:14,150
+now there are a<font color="#CCCCCC"> few technical tips I can</font>
+
+99
+00:04:14,150 --> 00:04:16,010
+give<font color="#E5E5E5"> to this blog you</font><font color="#CCCCCC"> mentary that I</font>
+
+100
+00:04:16,010 --> 00:04:18,200
+think can<font color="#CCCCCC"> help you on</font><font color="#E5E5E5"> whatever kind of</font>
+
+101
+00:04:18,200 --> 00:04:20,690
+content<font color="#CCCCCC"> you're trying to</font><font color="#E5E5E5"> create so let's</font>
+
+102
+00:04:20,690 --> 00:04:23,530
+hop<font color="#E5E5E5"> over to</font><font color="#CCCCCC"> Premiere</font>
+
+103
+00:04:24,200 --> 00:04:26,700
+first thing I used is<font color="#E5E5E5"> actually in the</font>
+
+104
+00:04:26,700 --> 00:04:27,990
+opening shot
+
+105
+00:04:27,990 --> 00:04:31,260
+I used warp stabilizers<font color="#E5E5E5"> warp stabilizer</font>
+
+106
+00:04:31,260 --> 00:04:33,300
+is a feature within Premiere Pro that
+
+107
+00:04:33,300 --> 00:04:36,480
+basically stabilizes your footage<font color="#E5E5E5"> here</font>
+
+108
+00:04:36,480 --> 00:04:39,570
+is the<font color="#CCCCCC"> original version of that opening</font>
+
+109
+00:04:39,570 --> 00:04:42,420
+<font color="#E5E5E5">shot and then here it is now with warp</font>
+
+110
+00:04:42,420 --> 00:04:44,790
+<font color="#E5E5E5">stabilizer put on it</font><font color="#CCCCCC"> huge</font><font color="#E5E5E5"> difference</font>
+
+111
+00:04:44,790 --> 00:04:47,370
+<font color="#E5E5E5">right warp stabilizer</font><font color="#CCCCCC"> it's amazing</font>
+
+112
+00:04:47,370 --> 00:04:49,290
+now if you've worked<font color="#E5E5E5"> with any kind of</font>
+
+113
+00:04:49,290 --> 00:04:51,930
+action cam<font color="#E5E5E5"> you know</font><font color="#CCCCCC"> that the audio on</font>
+
+114
+00:04:51,930 --> 00:04:53,760
+most action cams is not that good
+
+115
+00:04:53,760 --> 00:04:56,070
+<font color="#E5E5E5">especially</font><font color="#CCCCCC"> once you</font><font color="#E5E5E5"> put them in their</font>
+
+116
+00:04:56,070 --> 00:04:59,490
+water<font color="#E5E5E5"> casing housing</font><font color="#CCCCCC"> everything's gonna</font>
+
+117
+00:04:59,490 --> 00:05:01,290
+sound a<font color="#CCCCCC"> little muffled</font><font color="#E5E5E5"> and or</font><font color="#CCCCCC"> just</font>
+
+118
+00:05:01,290 --> 00:05:04,170
+really<font color="#E5E5E5"> loud and like blown out</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> just</font>
+
+119
+00:05:04,170 --> 00:05:06,270
+<font color="#E5E5E5">like qicang all over the place</font><font color="#CCCCCC"> I knew I</font>
+
+120
+00:05:06,270 --> 00:05:08,070
+wouldn't take out high quality audio
+
+121
+00:05:08,070 --> 00:05:09,840
+recording equipment though to get<font color="#E5E5E5"> the</font>
+
+122
+00:05:09,840 --> 00:05:12,540
+sound of waves<font color="#E5E5E5"> and things like that to</font>
+
+123
+00:05:12,540 --> 00:05:14,850
+add into it<font color="#E5E5E5"> later especially</font><font color="#CCCCCC"> when you're</font>
+
+124
+00:05:14,850 --> 00:05:16,590
+in post<font color="#E5E5E5"> you know then you're trying to</font>
+
+125
+00:05:16,590 --> 00:05:18,330
+get<font color="#E5E5E5"> into the details</font><font color="#CCCCCC"> of like stinking</font>
+
+126
+00:05:18,330 --> 00:05:20,610
+<font color="#E5E5E5">wave sounds with wave visuals and it's</font>
+
+127
+00:05:20,610 --> 00:05:22,380
+like<font color="#E5E5E5"> nah I'm not we're not doing all</font>
+
+128
+00:05:22,380 --> 00:05:23,640
+<font color="#CCCCCC">that we need to make the action cam</font>
+
+129
+00:05:23,640 --> 00:05:26,610
+audio work okay so Premiere Pro has
+
+130
+00:05:26,610 --> 00:05:28,800
+started to add a little<font color="#E5E5E5"> like tab</font>
+
+131
+00:05:28,800 --> 00:05:31,230
+features built in based on<font color="#E5E5E5"> what</font><font color="#CCCCCC"> kind</font><font color="#E5E5E5"> of</font>
+
+132
+00:05:31,230 --> 00:05:32,790
+editing you're doing within<font color="#E5E5E5"> the program</font>
+
+133
+00:05:32,790 --> 00:05:37,260
+<font color="#E5E5E5">so I always go to the</font><font color="#CCCCCC"> audio tab which</font>
+
+134
+00:05:37,260 --> 00:05:39,870
+brings up the audio panel<font color="#E5E5E5"> and something</font>
+
+135
+00:05:39,870 --> 00:05:41,550
+I usually do<font color="#CCCCCC"> to most of</font><font color="#E5E5E5"> my background</font>
+
+136
+00:05:41,550 --> 00:05:45,270
+music<font color="#E5E5E5"> or if I have sort of ambient sound</font>
+
+137
+00:05:45,270 --> 00:05:47,520
+like this that I want<font color="#E5E5E5"> to include in a</font>
+
+138
+00:05:47,520 --> 00:05:51,030
+piece<font color="#E5E5E5"> click on the balanced background</font>
+
+139
+00:05:51,030 --> 00:05:53,640
+<font color="#E5E5E5">music and what that does is it</font><font color="#CCCCCC"> throws a</font>
+
+140
+00:05:53,640 --> 00:05:55,560
+lot<font color="#E5E5E5"> of different presets</font><font color="#CCCCCC"> and natively</font>
+
+141
+00:05:55,560 --> 00:05:58,380
+from<font color="#CCCCCC"> premiere into the audio to bring it</font>
+
+142
+00:05:58,380 --> 00:06:00,390
+down and drop it down<font color="#CCCCCC"> so that way it</font>
+
+143
+00:06:00,390 --> 00:06:02,880
+balances<font color="#E5E5E5"> better with whatever dialogue</font>
+
+144
+00:06:02,880 --> 00:06:05,220
+you may have
+
+145
+00:06:05,220 --> 00:06:11,160
+<font color="#CCCCCC">I don't know why</font><font color="#E5E5E5"> but a glitch effect</font>
+
+146
+00:06:11,160 --> 00:06:13,140
+<font color="#E5E5E5">just felt right</font><font color="#CCCCCC"> you know my heart of</font>
+
+147
+00:06:13,140 --> 00:06:15,270
+hearts I was like glitch effect<font color="#E5E5E5"> needed</font>
+
+148
+00:06:15,270 --> 00:06:17,130
+so this glitch effect<font color="#E5E5E5"> is actually</font><font color="#CCCCCC"> from</font>
+
+149
+00:06:17,130 --> 00:06:20,340
+one of my<font color="#E5E5E5"> favorite</font><font color="#CCCCCC"> pre bot sets</font><font color="#E5E5E5"> that I</font>
+
+150
+00:06:20,340 --> 00:06:21,120
+got from
+
+151
+00:06:21,120 --> 00:06:23,280
+<font color="#CCCCCC">envato and I'll link to it in the</font>
+
+152
+00:06:23,280 --> 00:06:25,020
+<font color="#CCCCCC">description box it's basically</font><font color="#E5E5E5"> it's a</font>
+
+153
+00:06:25,020 --> 00:06:29,570
+transitions pack that is full of tons of
+
+154
+00:06:29,570 --> 00:06:31,890
+transitions<font color="#E5E5E5"> and this</font><font color="#CCCCCC"> glitch</font><font color="#E5E5E5"> effect was</font>
+
+155
+00:06:31,890 --> 00:06:33,780
+one of the many transitions you can<font color="#E5E5E5"> get</font>
+
+156
+00:06:33,780 --> 00:06:35,430
+what I really love about<font color="#E5E5E5"> this transition</font>
+
+157
+00:06:35,430 --> 00:06:38,070
+pack though is all the transitions are
+
+158
+00:06:38,070 --> 00:06:40,290
+built into<font color="#E5E5E5"> premiere already and</font>
+
+159
+00:06:40,290 --> 00:06:42,180
+<font color="#E5E5E5">literally all I have to do is drag</font><font color="#CCCCCC"> and</font>
+
+160
+00:06:42,180 --> 00:06:44,760
+drop it over<font color="#E5E5E5"> the two clips that</font><font color="#CCCCCC"> I want</font>
+
+161
+00:06:44,760 --> 00:06:47,430
+to have the transition<font color="#CCCCCC"> I can</font><font color="#E5E5E5"> adjust the</font>
+
+162
+00:06:47,430 --> 00:06:49,500
+audio if I want to but<font color="#CCCCCC"> I</font><font color="#E5E5E5"> keep it pretty</font>
+
+163
+00:06:49,500 --> 00:06:51,120
+simple<font color="#CCCCCC"> I don't really mess with anything</font>
+
+164
+00:06:51,120 --> 00:06:53,400
+<font color="#E5E5E5">else</font><font color="#CCCCCC"> like I</font><font color="#E5E5E5"> said I'll link</font><font color="#CCCCCC"> to this</font>
+
+165
+00:06:53,400 --> 00:06:55,350
+transition pack in the description box
+
+166
+00:06:55,350 --> 00:06:58,140
+below<font color="#E5E5E5"> so</font><font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> those</font><font color="#CCCCCC"> are some technical</font>
+
+167
+00:06:58,140 --> 00:07:01,800
+<font color="#E5E5E5">tips for how I shot and produced edited</font>
+
+168
+00:07:01,800 --> 00:07:05,520
+<font color="#E5E5E5">wrote all the titles</font><font color="#CCCCCC"> you want to give me</font>
+
+169
+00:07:05,520 --> 00:07:06,510
+<font color="#E5E5E5">uh-huh</font>
+
+170
+00:07:06,510 --> 00:07:09,180
+am<font color="#CCCCCC"> i losing him if you enjoyed this</font>
+
+171
+00:07:09,180 --> 00:07:10,890
+video let me<font color="#E5E5E5"> know</font><font color="#CCCCCC"> in the comments below</font>
+
+172
+00:07:10,890 --> 00:07:13,290
+<font color="#CCCCCC">if you're new here subscribe if the</font>
+
+173
+00:07:13,290 --> 00:07:15,660
+spirit moves<font color="#CCCCCC"> you</font><font color="#E5E5E5"> I'm</font><font color="#CCCCCC"> Hollies and I'll</font>
+
+174
+00:07:15,660 --> 00:07:17,470
+see you when I see<font color="#E5E5E5"> you</font>
+
+175
+00:07:17,470 --> 00:00:00,000
+[Music]
+

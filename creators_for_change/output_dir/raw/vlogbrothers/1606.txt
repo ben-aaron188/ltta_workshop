@@ -1,0 +1,268 @@
+1
+00:00:00,500 --> 00:00:07,740
+[Music]
+
+2
+00:00:09,950 --> 00:00:12,330
+good morning Hank it's<font color="#E5E5E5"> Friday February</font>
+
+3
+00:00:12,330 --> 00:00:14,849
+<font color="#E5E5E5">9th and it's laundry day</font><font color="#CCCCCC"> you will note</font>
+
+4
+00:00:14,849 --> 00:00:16,079
+that<font color="#CCCCCC"> we have the</font><font color="#E5E5E5"> world's smallest</font>
+
+5
+00:00:16,079 --> 00:00:18,180
+washing machine it's the only<font color="#CCCCCC"> washing</font>
+
+6
+00:00:18,180 --> 00:00:19,890
+machine<font color="#CCCCCC"> slash dryer that was ever</font>
+
+7
+00:00:19,890 --> 00:00:22,439
+<font color="#E5E5E5">designed exclusively for Lua</font><font color="#CCCCCC"> pew shion's</font>
+
+8
+00:00:22,439 --> 00:00:24,180
+<font color="#E5E5E5">let's see how many clothes it will fit</font>
+
+9
+00:00:24,180 --> 00:00:28,590
+<font color="#E5E5E5">one shirt one pair of boxers one pair of</font>
+
+10
+00:00:28,590 --> 00:00:33,320
+pants<font color="#E5E5E5"> two pairs</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> wait what's this oh</font>
+
+11
+00:00:33,320 --> 00:00:36,270
+it's the naked<font color="#E5E5E5"> in the dead in my pants</font>
+
+12
+00:00:36,270 --> 00:00:41,070
+<font color="#E5E5E5">two socks one pair of boxers and it's</font>
+
+13
+00:00:41,070 --> 00:00:42,239
+<font color="#E5E5E5">completely full</font>
+
+14
+00:00:42,239 --> 00:00:44,489
+in fact it's kind of overstuffed<font color="#CCCCCC"> I might</font>
+
+15
+00:00:44,489 --> 00:00:46,710
+have to take out one of<font color="#E5E5E5"> the socks</font><font color="#CCCCCC"> Hank I</font>
+
+16
+00:00:46,710 --> 00:00:48,329
+talked to Brotherhood 2.0 resident
+
+17
+00:00:48,329 --> 00:00:50,250
+<font color="#CCCCCC">mathematician Daniel</font><font color="#E5E5E5"> Biss and it turns</font>
+
+18
+00:00:50,250 --> 00:00:51,960
+out<font color="#CCCCCC"> that there's a huge gaping flaw</font><font color="#E5E5E5"> in</font>
+
+19
+00:00:51,960 --> 00:00:53,370
+your mathematical theorem about<font color="#E5E5E5"> old</font>
+
+20
+00:00:53,370 --> 00:00:55,710
+<font color="#CCCCCC">people and dying and banjo concerts</font><font color="#E5E5E5"> the</font>
+
+21
+00:00:55,710 --> 00:00:58,020
+problem is this<font color="#E5E5E5"> a</font><font color="#CCCCCC"> 70 year old may live</font>
+
+22
+00:00:58,020 --> 00:01:00,719
+on average<font color="#E5E5E5"> to be 83</font><font color="#CCCCCC"> years old but</font><font color="#E5E5E5"> that</font>
+
+23
+00:01:00,719 --> 00:01:02,670
+doesn't<font color="#E5E5E5"> mean that a 71 year old is</font><font color="#CCCCCC"> just</font>
+
+24
+00:01:02,670 --> 00:01:04,470
+as likely<font color="#E5E5E5"> to</font><font color="#CCCCCC"> die as an 82 year old in</font>
+
+25
+00:01:04,470 --> 00:01:06,689
+<font color="#CCCCCC">fact the</font><font color="#E5E5E5"> vast majority of people</font><font color="#CCCCCC"> are</font>
+
+26
+00:01:06,689 --> 00:01:09,060
+<font color="#E5E5E5">going to die closer to 82 than they are</font>
+
+27
+00:01:09,060 --> 00:01:12,119
+to 71<font color="#CCCCCC"> if you want to see a person die at</font>
+
+28
+00:01:12,119 --> 00:01:14,250
+a banjo concert the key is not<font color="#CCCCCC"> to go</font><font color="#E5E5E5"> to</font>
+
+29
+00:01:14,250 --> 00:01:16,740
+banjo<font color="#E5E5E5"> concerts that feature older people</font>
+
+30
+00:01:16,740 --> 00:01:19,799
+the key is to go to longer<font color="#E5E5E5"> banjo</font>
+
+31
+00:01:19,799 --> 00:01:22,439
+concerts like 13 year long banjo
+
+32
+00:01:22,439 --> 00:01:24,780
+concerts<font color="#E5E5E5"> Hank several brotherhood 2.0</font>
+
+33
+00:01:24,780 --> 00:01:26,280
+commenters have been<font color="#E5E5E5"> asking three</font>
+
+34
+00:01:26,280 --> 00:01:28,560
+questions<font color="#CCCCCC"> about my new book</font><font color="#E5E5E5"> what's it</font>
+
+35
+00:01:28,560 --> 00:01:30,509
+<font color="#CCCCCC">called when is it</font><font color="#E5E5E5"> going to come out and</font>
+
+36
+00:01:30,509 --> 00:01:33,360
+what's it about<font color="#CCCCCC"> I am now</font><font color="#E5E5E5"> happy to answer</font>
+
+37
+00:01:33,360 --> 00:01:35,189
+<font color="#E5E5E5">all of those questions although I'm</font>
+
+38
+00:01:35,189 --> 00:01:37,229
+going<font color="#E5E5E5"> to answer one of them with a long</font>
+
+39
+00:01:37,229 --> 00:01:39,450
+series<font color="#CCCCCC"> of</font><font color="#E5E5E5"> lies</font><font color="#CCCCCC"> the book is called Paper</font>
+
+40
+00:01:39,450 --> 00:01:41,310
+Towns it will be published<font color="#E5E5E5"> in September</font>
+
+41
+00:01:41,310 --> 00:01:43,500
+of 2008 it's about life in an orphanage
+
+42
+00:01:43,500 --> 00:01:45,299
+in Imperial Japan in the 17th century
+
+43
+00:01:45,299 --> 00:01:46,530
+<font color="#CCCCCC">it's about the world</font>
+
+44
+00:01:46,530 --> 00:01:49,619
+origami championship of 2004 it's the
+
+45
+00:01:49,619 --> 00:01:51,420
+story of<font color="#E5E5E5"> a special boy and</font><font color="#CCCCCC"> his special</font>
+
+46
+00:01:51,420 --> 00:01:53,250
+dog<font color="#CCCCCC"> I don't want to ruin it for you</font><font color="#E5E5E5"> but</font>
+
+47
+00:01:53,250 --> 00:01:55,350
+the<font color="#E5E5E5"> dog dies</font><font color="#CCCCCC"> it's about an ambiguously</font>
+
+48
+00:01:55,350 --> 00:01:56,969
+gendered child growing up in a<font color="#E5E5E5"> Greek</font>
+
+49
+00:01:56,969 --> 00:01:59,280
+<font color="#E5E5E5">American family it's about Hamlet it's a</font>
+
+50
+00:01:59,280 --> 00:02:00,990
+historical novel<font color="#CCCCCC"> in which</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> imagine the</font>
+
+51
+00:02:00,990 --> 00:02:02,850
+teenage years<font color="#E5E5E5"> of Emily Dickinson it's</font>
+
+52
+00:02:02,850 --> 00:02:05,369
+about a face that is half in the dark
+
+53
+00:02:05,369 --> 00:02:08,340
+<font color="#CCCCCC">and half in the light</font><font color="#E5E5E5"> it's about</font>
+
+54
+00:02:08,340 --> 00:02:09,479
+learning to<font color="#E5E5E5"> come to terms with the fact</font>
+
+55
+00:02:09,479 --> 00:02:10,860
+<font color="#CCCCCC">that even though sometimes</font><font color="#E5E5E5"> you eat the</font>
+
+56
+00:02:10,860 --> 00:02:12,569
+<font color="#E5E5E5">exact number of points you're supposed</font>
+
+57
+00:02:12,569 --> 00:02:13,880
+to eat<font color="#E5E5E5"> you still don't get</font>
+
+58
+00:02:13,880 --> 00:02:15,740
+less fat<font color="#CCCCCC"> it's about how when the last</font>
+
+59
+00:02:15,740 --> 00:02:18,080
+<font color="#E5E5E5">dingdong of</font><font color="#CCCCCC"> Doom has</font><font color="#E5E5E5"> claimed and faded</font>
+
+60
+00:02:18,080 --> 00:02:20,300
+from<font color="#E5E5E5"> the last rock hanging tideless in</font>
+
+61
+00:02:20,300 --> 00:02:22,790
+the last<font color="#E5E5E5"> red and dying evening that even</font>
+
+62
+00:02:22,790 --> 00:02:24,800
+then there will still<font color="#CCCCCC"> be one</font><font color="#E5E5E5"> more sound</font>
+
+63
+00:02:24,800 --> 00:02:27,730
+<font color="#E5E5E5">that of man's puny inexhaustible voice</font>
+
+64
+00:02:27,730 --> 00:02:30,560
+<font color="#E5E5E5">still talking it's about a girl named</font>
+
+65
+00:02:30,560 --> 00:02:32,600
+Becca who has a very happy<font color="#CCCCCC"> birthday Hank</font>
+
+66
+00:02:32,600 --> 00:02:34,010
+I'll be watching you<font color="#CCCCCC"> on Monday from</font>
+
+67
+00:02:34,010 --> 00:00:00,000
+lovely<font color="#E5E5E5"> Washington DC</font><font color="#CCCCCC"> see you then</font>
+

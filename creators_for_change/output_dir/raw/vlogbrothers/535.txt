@@ -1,0 +1,464 @@
+1
+00:00:00,000 --> 00:00:01,979
+good morning Hank it's Tuesday so when
+
+2
+00:00:01,979 --> 00:00:03,750
+<font color="#CCCCCC">Sara</font><font color="#E5E5E5"> and I moved to New York in 2005 we</font>
+
+3
+00:00:03,750 --> 00:00:05,040
+hired some people<font color="#CCCCCC"> off Craigslist</font><font color="#E5E5E5"> helped</font>
+
+4
+00:00:05,040 --> 00:00:06,299
+us move<font color="#E5E5E5"> our furniture into our new</font>
+
+5
+00:00:06,299 --> 00:00:07,919
+apartment<font color="#CCCCCC"> including a guy from I think</font>
+
+6
+00:00:07,919 --> 00:00:09,870
+<font color="#E5E5E5">Eastern Europe and when I asked him why</font>
+
+7
+00:00:09,870 --> 00:00:11,099
+<font color="#E5E5E5">he'd moved to the United States he said</font>
+
+8
+00:00:11,099 --> 00:00:14,460
+<font color="#E5E5E5">in New York anyone who can work can work</font>
+
+9
+00:00:14,460 --> 00:00:16,529
+<font color="#E5E5E5">which is like the best one sentence</font>
+
+10
+00:00:16,529 --> 00:00:17,970
+summary<font color="#E5E5E5"> of an efficient labor market</font>
+
+11
+00:00:17,970 --> 00:00:19,590
+I've ever heard<font color="#CCCCCC"> anyway when he asked</font><font color="#E5E5E5"> me</font>
+
+12
+00:00:19,590 --> 00:00:20,730
+what I<font color="#CCCCCC"> did I</font><font color="#E5E5E5"> told him that</font><font color="#CCCCCC"> my first</font>
+
+13
+00:00:20,730 --> 00:00:22,140
+novel Looking for Alaska had come<font color="#E5E5E5"> out</font>
+
+14
+00:00:22,140 --> 00:00:23,970
+recently<font color="#E5E5E5"> and he said oh I want to work</font>
+
+15
+00:00:23,970 --> 00:00:25,410
+in publishing<font color="#CCCCCC"> and I was</font><font color="#E5E5E5"> thinking you</font>
+
+16
+00:00:25,410 --> 00:00:27,210
+know yeah<font color="#E5E5E5"> book publishing is a good star</font>
+
+17
+00:00:27,210 --> 00:00:28,830
+to hitch<font color="#CCCCCC"> your wagon to and then we went</font>
+
+18
+00:00:28,830 --> 00:00:30,929
+<font color="#CCCCCC">back to moving boxes flash-forward</font><font color="#E5E5E5"> about</font>
+
+19
+00:00:30,929 --> 00:00:32,520
+a year<font color="#E5E5E5"> I met a big publishing conference</font>
+
+20
+00:00:32,520 --> 00:00:34,230
+and a guy wearing a suit walks up to<font color="#E5E5E5"> me</font>
+
+21
+00:00:34,230 --> 00:00:36,420
+<font color="#CCCCCC">and says</font><font color="#E5E5E5"> hey I moved you into your</font>
+
+22
+00:00:36,420 --> 00:00:38,910
+apartment<font color="#CCCCCC"> Looking for Alaska and it was</font>
+
+23
+00:00:38,910 --> 00:00:40,770
+the guy from<font color="#E5E5E5"> Craigslist and sure</font><font color="#CCCCCC"> enough</font>
+
+24
+00:00:40,770 --> 00:00:42,480
+he was<font color="#E5E5E5"> working in</font><font color="#CCCCCC"> international sales</font>
+
+25
+00:00:42,480 --> 00:00:44,340
+<font color="#E5E5E5">for a huge publishing company and that's</font>
+
+26
+00:00:44,340 --> 00:00:46,469
+<font color="#E5E5E5">the American</font><font color="#CCCCCC"> dream right</font><font color="#E5E5E5"> people come to</font>
+
+27
+00:00:46,469 --> 00:00:49,050
+our<font color="#E5E5E5"> fair shores because here anyone who</font>
+
+28
+00:00:49,050 --> 00:00:51,629
+can work can work our national
+
+29
+00:00:51,629 --> 00:00:53,250
+<font color="#E5E5E5">self-understanding is supported by</font>
+
+30
+00:00:53,250 --> 00:00:54,840
+anecdotes<font color="#E5E5E5"> like this from the Craigslist</font>
+
+31
+00:00:54,840 --> 00:00:57,000
+furniture mover to the<font color="#E5E5E5"> impoverished</font>
+
+32
+00:00:57,000 --> 00:00:59,309
+child turned steel magnate Andrew
+
+33
+00:00:59,309 --> 00:01:01,680
+Carnegie<font color="#CCCCCC"> their</font><font color="#E5E5E5"> Carnegie depending on how</font>
+
+34
+00:01:01,680 --> 00:01:02,940
+<font color="#E5E5E5">pretentious you are but I</font><font color="#CCCCCC"> think the</font>
+
+35
+00:01:02,940 --> 00:01:05,188
+actual<font color="#E5E5E5"> data is somewhat less dreamy</font>
+
+36
+00:01:05,188 --> 00:01:07,020
+<font color="#CCCCCC">quick aside all of you saying I should</font>
+
+37
+00:01:07,020 --> 00:01:09,150
+say data are because data<font color="#E5E5E5"> is a plural</font>
+
+38
+00:01:09,150 --> 00:01:12,060
+noun<font color="#E5E5E5"> come on right but anyway</font><font color="#CCCCCC"> 42 percent</font>
+
+39
+00:01:12,060 --> 00:01:14,010
+of<font color="#E5E5E5"> American men raised in the bottom</font><font color="#CCCCCC"> 20</font>
+
+40
+00:01:14,010 --> 00:01:16,530
+<font color="#CCCCCC">percent of incomes stay there in</font><font color="#E5E5E5"> the UK</font>
+
+41
+00:01:16,530 --> 00:01:18,659
+that number is<font color="#E5E5E5"> 30</font><font color="#CCCCCC"> percent in Denmark</font>
+
+42
+00:01:18,659 --> 00:01:21,360
+<font color="#E5E5E5">it's 25 percent</font><font color="#CCCCCC"> in fact</font><font color="#E5E5E5"> by almost any</font>
+
+43
+00:01:21,360 --> 00:01:23,189
+measure<font color="#E5E5E5"> whether you are born rich or</font>
+
+44
+00:01:23,189 --> 00:01:24,600
+poor in the United States is a better
+
+45
+00:01:24,600 --> 00:01:26,460
+<font color="#E5E5E5">indicator</font><font color="#CCCCCC"> of whether you will end</font><font color="#E5E5E5"> up</font>
+
+46
+00:01:26,460 --> 00:01:28,530
+<font color="#CCCCCC">rich</font><font color="#E5E5E5"> or poor than it is in Canada</font><font color="#CCCCCC"> or</font>
+
+47
+00:01:28,530 --> 00:01:30,420
+<font color="#CCCCCC">your for any</font><font color="#E5E5E5"> country in</font><font color="#CCCCCC"> the developed</font>
+
+48
+00:01:30,420 --> 00:01:31,860
+world<font color="#E5E5E5"> when we talk about socio-economic</font>
+
+49
+00:01:31,860 --> 00:01:34,200
+<font color="#CCCCCC">mobility and equality of opportunity in</font>
+
+50
+00:01:34,200 --> 00:01:35,670
+the 21st<font color="#CCCCCC"> century we're not really</font>
+
+51
+00:01:35,670 --> 00:01:37,470
+<font color="#E5E5E5">talking about the American dream we're</font>
+
+52
+00:01:37,470 --> 00:01:39,570
+talking<font color="#CCCCCC"> about the Danish</font><font color="#E5E5E5"> dream</font><font color="#CCCCCC"> here's</font>
+
+53
+00:01:39,570 --> 00:01:40,710
+another<font color="#E5E5E5"> metric that I think is really</font>
+
+54
+00:01:40,710 --> 00:01:42,420
+interesting<font color="#CCCCCC"> economic opportunities for</font>
+
+55
+00:01:42,420 --> 00:01:44,100
+<font color="#E5E5E5">women in the</font><font color="#CCCCCC"> United States</font><font color="#E5E5E5"> women make 77</font>
+
+56
+00:01:44,100 --> 00:01:46,619
+cents for<font color="#CCCCCC"> every dollar that</font><font color="#E5E5E5"> men make in</font>
+
+57
+00:01:46,619 --> 00:01:48,030
+the<font color="#CCCCCC"> workforce just to be</font><font color="#E5E5E5"> clear that's</font>
+
+58
+00:01:48,030 --> 00:01:49,530
+<font color="#E5E5E5">horrific</font><font color="#CCCCCC"> aliy unjust but it's also</font>
+
+59
+00:01:49,530 --> 00:01:51,420
+<font color="#E5E5E5">really economically problematic because</font>
+
+60
+00:01:51,420 --> 00:01:52,829
+<font color="#CCCCCC">you don't want people</font><font color="#E5E5E5"> to be paid</font>
+
+61
+00:01:52,829 --> 00:01:54,600
+<font color="#CCCCCC">according to</font><font color="#E5E5E5"> their sex you want them to</font>
+
+62
+00:01:54,600 --> 00:01:56,340
+be paid<font color="#CCCCCC"> according to</font><font color="#E5E5E5"> their skills and</font>
+
+63
+00:01:56,340 --> 00:01:58,350
+<font color="#CCCCCC">contributions so in the u.s. women make</font>
+
+64
+00:01:58,350 --> 00:02:00,899
+77 cents for<font color="#CCCCCC"> every dude dollar Canada is</font>
+
+65
+00:02:00,899 --> 00:02:02,280
+<font color="#E5E5E5">actually worse</font><font color="#CCCCCC"> than us but they have a</font>
+
+66
+00:02:02,280 --> 00:02:03,659
+<font color="#E5E5E5">little bit of a weird economy but in</font>
+
+67
+00:02:03,659 --> 00:02:06,060
+Australia<font color="#E5E5E5"> it's 83 cents in the UK it's</font>
+
+68
+00:02:06,060 --> 00:02:09,840
+84 in Sweden it's 85<font color="#E5E5E5"> and in Slovenia</font><font color="#CCCCCC"> the</font>
+
+69
+00:02:09,840 --> 00:02:11,459
+world's most underrated country women
+
+70
+00:02:11,459 --> 00:02:12,280
+<font color="#E5E5E5">make 90</font>
+
+71
+00:02:12,280 --> 00:02:14,560
+7.5 cents for every<font color="#CCCCCC"> dollar that men make</font>
+
+72
+00:02:14,560 --> 00:02:16,120
+in the workforce<font color="#CCCCCC"> I think the American</font>
+
+73
+00:02:16,120 --> 00:02:17,800
+Dream remains uniquely American in one
+
+74
+00:02:17,800 --> 00:02:19,420
+sense<font color="#CCCCCC"> we are</font><font color="#E5E5E5"> far more</font><font color="#CCCCCC"> likely than</font>
+
+75
+00:02:19,420 --> 00:02:20,950
+<font color="#E5E5E5">residents of other countries to believe</font>
+
+76
+00:02:20,950 --> 00:02:22,569
+that people<font color="#CCCCCC"> are rewarded for</font>
+
+77
+00:02:22,569 --> 00:02:24,340
+intelligence<font color="#E5E5E5"> and skill and</font><font color="#CCCCCC"> we're less</font>
+
+78
+00:02:24,340 --> 00:02:25,780
+likely<font color="#CCCCCC"> to believe that coming from a</font>
+
+79
+00:02:25,780 --> 00:02:27,420
+wealthy family is key to<font color="#CCCCCC"> getting ahead</font>
+
+80
+00:02:27,420 --> 00:02:29,530
+<font color="#E5E5E5">unfortunately like a lot of</font><font color="#CCCCCC"> Dreams what</font>
+
+81
+00:02:29,530 --> 00:02:31,959
+we're dreaming<font color="#E5E5E5"> isn't real</font><font color="#CCCCCC"> like I want to</font>
+
+82
+00:02:31,959 --> 00:02:33,340
+<font color="#E5E5E5">add that</font><font color="#CCCCCC"> the same</font><font color="#E5E5E5"> regulations and</font>
+
+83
+00:02:33,340 --> 00:02:35,260
+redistributed<font color="#E5E5E5"> tax policies that allow</font>
+
+84
+00:02:35,260 --> 00:02:37,120
+<font color="#E5E5E5">for better equality of opportunity and</font>
+
+85
+00:02:37,120 --> 00:02:38,650
+<font color="#CCCCCC">the rest of the world do limit</font>
+
+86
+00:02:38,650 --> 00:02:40,090
+innovation<font color="#E5E5E5"> and that's definitely</font><font color="#CCCCCC"> part of</font>
+
+87
+00:02:40,090 --> 00:02:41,080
+<font color="#E5E5E5">the reason why hugely innovative</font>
+
+88
+00:02:41,080 --> 00:02:42,730
+<font color="#E5E5E5">companies like Apple and Twitter and</font>
+
+89
+00:02:42,730 --> 00:02:44,530
+Google and<font color="#CCCCCC"> in-and-out burger all started</font>
+
+90
+00:02:44,530 --> 00:02:46,600
+in the<font color="#CCCCCC"> US but my worry is that systemic</font>
+
+91
+00:02:46,600 --> 00:02:48,519
+inequality of opportunity will prevent
+
+92
+00:02:48,519 --> 00:02:50,440
+the most promising future<font color="#E5E5E5"> innovators</font>
+
+93
+00:02:50,440 --> 00:02:52,239
+from getting the opportunities they need
+
+94
+00:02:52,239 --> 00:02:54,010
+to succeed and I worried that<font color="#E5E5E5"> the US</font>
+
+95
+00:02:54,010 --> 00:02:55,570
+will become<font color="#CCCCCC"> progressively less</font><font color="#E5E5E5"> appealing</font>
+
+96
+00:02:55,570 --> 00:02:57,040
+to the smartest people<font color="#E5E5E5"> with the best</font>
+
+97
+00:02:57,040 --> 00:02:58,720
+<font color="#E5E5E5">skills I mean the place where if you can</font>
+
+98
+00:02:58,720 --> 00:03:00,580
+work you can work won't be<font color="#E5E5E5"> the</font><font color="#CCCCCC"> u.s.</font>
+
+99
+00:03:00,580 --> 00:03:02,890
+<font color="#CCCCCC">anymore it'll be Denmark or Slovenia</font>
+
+100
+00:03:02,890 --> 00:03:04,330
+<font color="#CCCCCC">like if you're a female computer</font>
+
+101
+00:03:04,330 --> 00:03:05,769
+programmer today and you have both<font color="#CCCCCC"> a</font>
+
+102
+00:03:05,769 --> 00:03:07,360
+Slovenian and an American passport
+
+103
+00:03:07,360 --> 00:03:09,610
+<font color="#CCCCCC">you're probably still best off working</font>
+
+104
+00:03:09,610 --> 00:03:11,140
+<font color="#E5E5E5">in the United States but if current</font>
+
+105
+00:03:11,140 --> 00:03:12,640
+trends continue that may not<font color="#CCCCCC"> be the case</font>
+
+106
+00:03:12,640 --> 00:03:14,290
+in a decade<font color="#CCCCCC"> and that's why systemic</font>
+
+107
+00:03:14,290 --> 00:03:15,850
+inequality of opportunity is bad not
+
+108
+00:03:15,850 --> 00:03:17,769
+<font color="#CCCCCC">just for Americans living in poverty but</font>
+
+109
+00:03:17,769 --> 00:03:19,840
+for all Americans<font color="#CCCCCC"> by the way shout out</font>
+
+110
+00:03:19,840 --> 00:03:22,269
+to<font color="#CCCCCC"> Slovenian readers of cry</font><font color="#E5E5E5"> bozos</font><font color="#CCCCCC"> vets</font>
+
+111
+00:03:22,269 --> 00:03:24,850
+<font color="#CCCCCC">vow I'm basically fluent in Slovenian</font>
+
+112
+00:03:24,850 --> 00:03:26,410
+<font color="#CCCCCC">hey</font><font color="#E5E5E5"> girls I wanted to say thanks for</font>
+
+113
+00:03:26,410 --> 00:03:28,060
+<font color="#CCCCCC">your video</font><font color="#E5E5E5"> and consent and abuse it</font>
+
+114
+00:03:28,060 --> 00:03:29,320
+really did<font color="#E5E5E5"> make</font><font color="#CCCCCC"> me proud to</font><font color="#E5E5E5"> be your</font>
+
+115
+00:03:29,320 --> 00:03:31,090
+brother<font color="#CCCCCC"> del oh my god what is</font><font color="#E5E5E5"> this</font>
+
+116
+00:03:31,090 --> 00:00:00,000
+<font color="#CCCCCC">Esther</font><font color="#E5E5E5"> day</font><font color="#CCCCCC"> I'll see you on Friday</font>
+

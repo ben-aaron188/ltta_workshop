@@ -1,0 +1,948 @@
+1
+00:00:00,000 --> 00:00:01,979
+good morning Hank it's Tuesday so<font color="#E5E5E5"> you</font>
+
+2
+00:00:01,979 --> 00:00:03,689
+know the Obamacare insurance<font color="#E5E5E5"> exchanges</font>
+
+3
+00:00:03,689 --> 00:00:04,980
+<font color="#E5E5E5">that depending on your</font><font color="#CCCCCC"> political</font>
+
+4
+00:00:04,980 --> 00:00:06,990
+perspective are either the cause of or
+
+5
+00:00:06,990 --> 00:00:08,790
+the solution to so many<font color="#E5E5E5"> of America's</font>
+
+6
+00:00:08,790 --> 00:00:11,519
+<font color="#E5E5E5">health</font><font color="#CCCCCC"> care problems</font><font color="#E5E5E5"> only about 6% of</font>
+
+7
+00:00:11,519 --> 00:00:13,080
+Americans<font color="#E5E5E5"> actually get their insurance</font>
+
+8
+00:00:13,080 --> 00:00:14,730
+<font color="#CCCCCC">through those exchanges now that's</font>
+
+9
+00:00:14,730 --> 00:00:16,079
+<font color="#E5E5E5">obviously very important</font><font color="#CCCCCC"> to those</font><font color="#E5E5E5"> six</font>
+
+10
+00:00:16,079 --> 00:00:18,119
+percent of<font color="#E5E5E5"> people but it's by</font><font color="#CCCCCC"> far the</font>
+
+11
+00:00:18,119 --> 00:00:20,160
+smallest slice of the<font color="#CCCCCC"> American health</font>
+
+12
+00:00:20,160 --> 00:00:22,050
+insurance pie and I think the relentless
+
+13
+00:00:22,050 --> 00:00:23,550
+<font color="#CCCCCC">focus on them in our political</font><font color="#E5E5E5"> discourse</font>
+
+14
+00:00:23,550 --> 00:00:26,460
+speaks to a<font color="#E5E5E5"> larger inability to have for</font>
+
+15
+00:00:26,460 --> 00:00:28,199
+lack of<font color="#E5E5E5"> a better</font><font color="#CCCCCC"> phrase</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> grown up</font>
+
+16
+00:00:28,199 --> 00:00:29,970
+<font color="#E5E5E5">conversation about health care</font>
+
+17
+00:00:29,970 --> 00:00:31,710
+<font color="#E5E5E5">okay so health care is</font><font color="#CCCCCC"> very</font><font color="#E5E5E5"> complicated</font>
+
+18
+00:00:31,710 --> 00:00:33,239
+and I'm gonna paint this in the<font color="#E5E5E5"> broadest</font>
+
+19
+00:00:33,239 --> 00:00:34,950
+<font color="#CCCCCC">possible strokes if you want far more</font>
+
+20
+00:00:34,950 --> 00:00:36,660
+information<font color="#CCCCCC"> about</font><font color="#E5E5E5"> health and</font><font color="#CCCCCC"> health care</font>
+
+21
+00:00:36,660 --> 00:00:38,579
+<font color="#E5E5E5">please check out healthcare triage</font><font color="#CCCCCC"> but</font>
+
+22
+00:00:38,579 --> 00:00:39,450
+let's start with what<font color="#E5E5E5"> health insurance</font>
+
+23
+00:00:39,450 --> 00:00:41,190
+does health insurance takes money<font color="#CCCCCC"> from</font>
+
+24
+00:00:41,190 --> 00:00:43,140
+healthy<font color="#CCCCCC"> people and uses it</font><font color="#E5E5E5"> to buy care</font>
+
+25
+00:00:43,140 --> 00:00:44,730
+for sick people<font color="#CCCCCC"> you can do this through</font>
+
+26
+00:00:44,730 --> 00:00:46,260
+private insurance which pulls people
+
+27
+00:00:46,260 --> 00:00:47,850
+together<font color="#E5E5E5"> and takes money</font><font color="#CCCCCC"> from them in</font>
+
+28
+00:00:47,850 --> 00:00:49,739
+the form of monthly premiums<font color="#CCCCCC"> or you can</font>
+
+29
+00:00:49,739 --> 00:00:51,059
+do<font color="#CCCCCC"> it through a public insurer which</font>
+
+30
+00:00:51,059 --> 00:00:52,559
+pulls people together and<font color="#E5E5E5"> takes money</font>
+
+31
+00:00:52,559 --> 00:00:54,360
+<font color="#CCCCCC">from them in the form of taxes in the</font>
+
+32
+00:00:54,360 --> 00:00:56,039
+United States we have both almost
+
+33
+00:00:56,039 --> 00:00:57,989
+<font color="#E5E5E5">everyone over the age of 65 is in this</font>
+
+34
+00:00:57,989 --> 00:00:59,760
+<font color="#E5E5E5">publicly funded insurance pool called</font>
+
+35
+00:00:59,760 --> 00:01:01,620
+Medicare many<font color="#E5E5E5"> military veterans are in a</font>
+
+36
+00:01:01,620 --> 00:01:02,910
+similar<font color="#E5E5E5"> pool run by the Veterans</font>
+
+37
+00:01:02,910 --> 00:01:04,199
+Administration<font color="#CCCCCC"> and there's a third</font>
+
+38
+00:01:04,199 --> 00:01:05,580
+publicly funded pool that<font color="#E5E5E5"> covers many</font>
+
+39
+00:01:05,580 --> 00:01:07,560
+<font color="#E5E5E5">low-income and disabled Americans called</font>
+
+40
+00:01:07,560 --> 00:01:09,479
+Medicaid<font color="#E5E5E5"> but just over half of Americans</font>
+
+41
+00:01:09,479 --> 00:01:11,310
+<font color="#CCCCCC">get their insurance through private</font>
+
+42
+00:01:11,310 --> 00:01:13,049
+insurers this includes the six percent
+
+43
+00:01:13,049 --> 00:01:14,310
+of people<font color="#E5E5E5"> who are covered</font><font color="#CCCCCC"> through</font><font color="#E5E5E5"> the</font>
+
+44
+00:01:14,310 --> 00:01:16,320
+Obamacare exchanges<font color="#CCCCCC"> but</font><font color="#E5E5E5"> mostly</font><font color="#CCCCCC"> people</font>
+
+45
+00:01:16,320 --> 00:01:17,820
+<font color="#E5E5E5">who get their insurance from their</font>
+
+46
+00:01:17,820 --> 00:01:19,680
+employers<font color="#E5E5E5"> because large companies are</font>
+
+47
+00:01:19,680 --> 00:01:21,330
+<font color="#CCCCCC">required to offer health insurance plans</font>
+
+48
+00:01:21,330 --> 00:01:22,740
+to their employees then you have the
+
+49
+00:01:22,740 --> 00:01:24,659
+nine<font color="#E5E5E5"> percent of Americans who</font><font color="#CCCCCC"> don't have</font>
+
+50
+00:01:24,659 --> 00:01:26,430
+any health<font color="#CCCCCC"> insurance at all that</font><font color="#E5E5E5"> number</font>
+
+51
+00:01:26,430 --> 00:01:27,600
+<font color="#E5E5E5">has</font><font color="#CCCCCC"> dropped a lot in the last</font><font color="#E5E5E5"> five years</font>
+
+52
+00:01:27,600 --> 00:01:29,369
+<font color="#E5E5E5">but it's still higher</font><font color="#CCCCCC"> than any</font><font color="#E5E5E5"> other</font>
+
+53
+00:01:29,369 --> 00:01:31,079
+wealthy nation<font color="#CCCCCC"> so the current US</font><font color="#E5E5E5"> health</font>
+
+54
+00:01:31,079 --> 00:01:32,579
+<font color="#E5E5E5">care system</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> widely considered to be</font>
+
+55
+00:01:32,579 --> 00:01:35,250
+<font color="#CCCCCC">if I can use a technical term bananas we</font>
+
+56
+00:01:35,250 --> 00:01:37,500
+spend so so much on health<font color="#E5E5E5"> care about</font>
+
+57
+00:01:37,500 --> 00:01:40,439
+<font color="#E5E5E5">18% of our total economic output goes</font><font color="#CCCCCC"> to</font>
+
+58
+00:01:40,439 --> 00:01:41,820
+health care the average among other
+
+59
+00:01:41,820 --> 00:01:44,490
+wealthy nations is closer to<font color="#E5E5E5"> 12%</font><font color="#CCCCCC"> and we</font>
+
+60
+00:01:44,490 --> 00:01:46,229
+also don't<font color="#E5E5E5"> get particularly good health</font>
+
+61
+00:01:46,229 --> 00:01:47,850
+care outcomes<font color="#CCCCCC"> like we come up short in</font>
+
+62
+00:01:47,850 --> 00:01:49,950
+many many metrics including life
+
+63
+00:01:49,950 --> 00:01:52,049
+expectancy where we trail countries like
+
+64
+00:01:52,049 --> 00:01:54,210
+Chile and Slovenia<font color="#CCCCCC"> both of which spend</font>
+
+65
+00:01:54,210 --> 00:01:56,009
+less<font color="#E5E5E5"> than</font><font color="#CCCCCC"> 10 percent</font><font color="#E5E5E5"> of their GDP on</font>
+
+66
+00:01:56,009 --> 00:01:57,479
+health care and<font color="#E5E5E5"> for the record both of</font>
+
+67
+00:01:57,479 --> 00:01:59,040
+which<font color="#E5E5E5"> also have higher rates of tobacco</font>
+
+68
+00:01:59,040 --> 00:02:00,719
+usage<font color="#E5E5E5"> now you would think with lots of</font>
+
+69
+00:02:00,719 --> 00:02:02,219
+private participation<font color="#CCCCCC"> in health care</font>
+
+70
+00:02:02,219 --> 00:02:04,229
+markets costs would<font color="#E5E5E5"> be driven down</font><font color="#CCCCCC"> right</font>
+
+71
+00:02:04,229 --> 00:02:05,460
+<font color="#E5E5E5">like private companies</font><font color="#CCCCCC"> can make</font>
+
+72
+00:02:05,460 --> 00:02:07,530
+refrigerators or cars much better than
+
+73
+00:02:07,530 --> 00:02:09,090
+governments can make refrigerators or
+
+74
+00:02:09,090 --> 00:02:10,770
+cars<font color="#E5E5E5"> but health care</font><font color="#CCCCCC"> is a weird market</font>
+
+75
+00:02:10,770 --> 00:02:11,970
+on a few levels<font color="#E5E5E5"> first there's the</font>
+
+76
+00:02:11,970 --> 00:02:13,770
+problem of<font color="#CCCCCC"> inelastic demand</font>
+
+77
+00:02:13,770 --> 00:02:15,420
+if<font color="#E5E5E5"> I need a medicine to keep me</font><font color="#CCCCCC"> alive</font><font color="#E5E5E5"> I</font>
+
+78
+00:02:15,420 --> 00:02:17,610
+can't effectively<font color="#E5E5E5"> negotiate the price of</font>
+
+79
+00:02:17,610 --> 00:02:19,320
+<font color="#E5E5E5">that medication because in the end I'm</font>
+
+80
+00:02:19,320 --> 00:02:21,510
+<font color="#E5E5E5">gonna pay whatever it costs</font><font color="#CCCCCC"> and then</font>
+
+81
+00:02:21,510 --> 00:02:23,010
+there's the problem<font color="#E5E5E5"> of competition being</font>
+
+82
+00:02:23,010 --> 00:02:24,810
+<font color="#CCCCCC">something of an illusion like for</font>
+
+83
+00:02:24,810 --> 00:02:26,160
+instance<font color="#CCCCCC"> if you're having</font><font color="#E5E5E5"> a heart attack</font>
+
+84
+00:02:26,160 --> 00:02:27,990
+it's generally not<font color="#CCCCCC"> considered a good</font>
+
+85
+00:02:27,990 --> 00:02:30,090
+<font color="#E5E5E5">idea to call around to a bunch of area</font>
+
+86
+00:02:30,090 --> 00:02:31,830
+hospitals to find out who has<font color="#CCCCCC"> the</font><font color="#E5E5E5"> best</font>
+
+87
+00:02:31,830 --> 00:02:33,600
+<font color="#E5E5E5">deal on heart surgery this week</font>
+
+88
+00:02:33,600 --> 00:02:35,070
+there should be competition<font color="#E5E5E5"> among</font>
+
+89
+00:02:35,070 --> 00:02:36,570
+private<font color="#E5E5E5"> insurers but plans are often</font>
+
+90
+00:02:36,570 --> 00:02:38,520
+<font color="#E5E5E5">extremely confusing like you might pay</font>
+
+91
+00:02:38,520 --> 00:02:40,140
+less upfront<font color="#E5E5E5"> and think you're getting a</font>
+
+92
+00:02:40,140 --> 00:02:41,820
+good deal<font color="#CCCCCC"> only to</font><font color="#E5E5E5"> find out</font><font color="#CCCCCC"> later</font><font color="#E5E5E5"> that</font>
+
+93
+00:02:41,820 --> 00:02:43,530
+<font color="#E5E5E5">what you need to be covered isn't</font>
+
+94
+00:02:43,530 --> 00:02:44,790
+covered like it's hard<font color="#E5E5E5"> to compare</font>
+
+95
+00:02:44,790 --> 00:02:46,470
+cellphone plans effectively let alone
+
+96
+00:02:46,470 --> 00:02:48,030
+health insurance plans that might or
+
+97
+00:02:48,030 --> 00:02:50,100
+might not cover literally<font color="#E5E5E5"> thousands of</font>
+
+98
+00:02:50,100 --> 00:02:51,960
+<font color="#E5E5E5">different procedures</font><font color="#CCCCCC"> plus having your</font>
+
+99
+00:02:51,960 --> 00:02:53,340
+insurance<font color="#E5E5E5"> status depend partly on</font>
+
+100
+00:02:53,340 --> 00:02:54,960
+whether you work for<font color="#CCCCCC"> a big company is a</font>
+
+101
+00:02:54,960 --> 00:02:57,060
+huge disincentive<font color="#E5E5E5"> to innovation and</font>
+
+102
+00:02:57,060 --> 00:02:58,890
+entrepreneurship<font color="#CCCCCC"> it tells people don't</font>
+
+103
+00:02:58,890 --> 00:03:00,420
+start a new business don't strike out<font color="#CCCCCC"> on</font>
+
+104
+00:03:00,420 --> 00:03:01,860
+<font color="#E5E5E5">your own because</font><font color="#CCCCCC"> you won't be</font><font color="#E5E5E5"> able to</font>
+
+105
+00:03:01,860 --> 00:03:03,510
+<font color="#E5E5E5">get</font><font color="#CCCCCC"> affordable health</font><font color="#E5E5E5"> insurance</font><font color="#CCCCCC"> so owe</font>
+
+106
+00:03:03,510 --> 00:03:04,800
+it all<font color="#E5E5E5"> we've ended up with</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> health care</font>
+
+107
+00:03:04,800 --> 00:03:06,780
+<font color="#CCCCCC">system</font><font color="#E5E5E5"> where more tax dollars per person</font>
+
+108
+00:03:06,780 --> 00:03:09,210
+go to publicly funded health care than
+
+109
+00:03:09,210 --> 00:03:11,760
+in most other<font color="#CCCCCC"> countries and</font><font color="#E5E5E5"> yet we don't</font>
+
+110
+00:03:11,760 --> 00:03:13,680
+have publicly<font color="#E5E5E5"> funded health care for</font>
+
+111
+00:03:13,680 --> 00:03:15,630
+<font color="#E5E5E5">most people and</font><font color="#CCCCCC"> most Americans agree</font><font color="#E5E5E5"> on</font>
+
+112
+00:03:15,630 --> 00:03:17,550
+this only<font color="#E5E5E5"> about</font><font color="#CCCCCC"> 32 percent</font><font color="#E5E5E5"> of us think</font>
+
+113
+00:03:17,550 --> 00:03:19,080
+<font color="#CCCCCC">that our health</font><font color="#E5E5E5"> care system is good or</font>
+
+114
+00:03:19,080 --> 00:03:21,690
+excellent and yet around<font color="#CCCCCC"> 70 percent of</font>
+
+115
+00:03:21,690 --> 00:03:23,640
+<font color="#CCCCCC">Americans think that</font><font color="#E5E5E5"> their personal</font>
+
+116
+00:03:23,640 --> 00:03:25,800
+<font color="#E5E5E5">health care is good or excellent and</font>
+
+117
+00:03:25,800 --> 00:03:28,200
+therein lies<font color="#E5E5E5"> the problem</font><font color="#CCCCCC"> most serious</font>
+
+118
+00:03:28,200 --> 00:03:30,150
+reform proposals would<font color="#E5E5E5"> involve big</font>
+
+119
+00:03:30,150 --> 00:03:32,550
+changes for<font color="#E5E5E5"> many people in</font><font color="#CCCCCC"> that seventy</font>
+
+120
+00:03:32,550 --> 00:03:34,410
+<font color="#E5E5E5">percent</font><font color="#CCCCCC"> and as the Republican Party has</font>
+
+121
+00:03:34,410 --> 00:03:35,880
+lately learned it's easy to<font color="#E5E5E5"> talk</font><font color="#CCCCCC"> about</font>
+
+122
+00:03:35,880 --> 00:03:37,500
+health care<font color="#CCCCCC"> reform in the abstract but</font>
+
+123
+00:03:37,500 --> 00:03:39,570
+when you put pen<font color="#E5E5E5"> to paper</font><font color="#CCCCCC"> it gets</font>
+
+124
+00:03:39,570 --> 00:03:40,350
+complicated
+
+125
+00:03:40,350 --> 00:03:42,060
+so all health care<font color="#E5E5E5"> reform boils down to</font>
+
+126
+00:03:42,060 --> 00:03:44,520
+three<font color="#CCCCCC"> factors quality cost and</font><font color="#E5E5E5"> access</font>
+
+127
+00:03:44,520 --> 00:03:47,220
+<font color="#CCCCCC">Obama care sought to</font><font color="#E5E5E5"> improve access it</font>
+
+128
+00:03:47,220 --> 00:03:49,200
+didn't do much to<font color="#CCCCCC"> change</font><font color="#E5E5E5"> quality or cost</font>
+
+129
+00:03:49,200 --> 00:03:51,000
+<font color="#E5E5E5">and to do that it spent a huge</font><font color="#CCCCCC"> amount of</font>
+
+130
+00:03:51,000 --> 00:03:52,590
+money<font color="#E5E5E5"> like a trillion dollars in</font><font color="#CCCCCC"> the</font>
+
+131
+00:03:52,590 --> 00:03:54,540
+first decade<font color="#E5E5E5"> now it increased some taxes</font>
+
+132
+00:03:54,540 --> 00:03:55,920
+and cut some<font color="#CCCCCC"> spending so as to be</font>
+
+133
+00:03:55,920 --> 00:03:57,930
+<font color="#E5E5E5">deficit-neutral but it spent a lot of</font>
+
+134
+00:03:57,930 --> 00:03:59,790
+<font color="#CCCCCC">money</font><font color="#E5E5E5"> to get a lot of people health</font>
+
+135
+00:03:59,790 --> 00:04:01,560
+insurance<font color="#CCCCCC"> so today fewer people</font><font color="#E5E5E5"> are</font>
+
+136
+00:04:01,560 --> 00:04:03,540
+uninsured but<font color="#CCCCCC"> it</font><font color="#E5E5E5"> cost a lot to get there</font>
+
+137
+00:04:03,540 --> 00:04:05,250
+<font color="#E5E5E5">that was the trade-off the Republican</font>
+
+138
+00:04:05,250 --> 00:04:06,180
+bill sought to<font color="#E5E5E5"> reduce government</font>
+
+139
+00:04:06,180 --> 00:04:07,650
+spending<font color="#CCCCCC"> on health care</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> that also</font>
+
+140
+00:04:07,650 --> 00:04:09,360
+comes with trade-offs<font color="#E5E5E5"> in this case it</font>
+
+141
+00:04:09,360 --> 00:04:10,530
+would<font color="#CCCCCC"> have</font><font color="#E5E5E5"> resulted in millions of</font>
+
+142
+00:04:10,530 --> 00:04:12,030
+people losing their<font color="#CCCCCC"> insurance which was</font>
+
+143
+00:04:12,030 --> 00:04:14,010
+a hard sell<font color="#CCCCCC"> to moderate Republicans so</font>
+
+144
+00:04:14,010 --> 00:04:15,810
+the GOP<font color="#E5E5E5"> bill offered tax credits to</font><font color="#CCCCCC"> help</font>
+
+145
+00:04:15,810 --> 00:04:17,339
+people<font color="#E5E5E5"> buy private insurance</font><font color="#CCCCCC"> but that</font>
+
+146
+00:04:17,339 --> 00:04:19,019
+meant<font color="#E5E5E5"> more spending which made it a hard</font>
+
+147
+00:04:19,019 --> 00:04:20,940
+sell to conservative Republicans<font color="#E5E5E5"> like</font>
+
+148
+00:04:20,940 --> 00:04:22,650
+the ACA itself the GOP bill would not
+
+149
+00:04:22,650 --> 00:04:24,060
+<font color="#E5E5E5">have done a lot to address the overall</font>
+
+150
+00:04:24,060 --> 00:04:26,280
+<font color="#E5E5E5">cost of health care in the United States</font>
+
+151
+00:04:26,280 --> 00:04:27,110
+<font color="#CCCCCC">or</font><font color="#E5E5E5"> the fact</font>
+
+152
+00:04:27,110 --> 00:04:28,699
+<font color="#E5E5E5">our quality</font><font color="#CCCCCC"> of care isn't</font><font color="#E5E5E5"> great because</font>
+
+153
+00:04:28,699 --> 00:04:30,620
+<font color="#CCCCCC">to have those conversations we need</font><font color="#E5E5E5"> to</font>
+
+154
+00:04:30,620 --> 00:04:32,659
+<font color="#E5E5E5">accept that as healthcare triage always</font>
+
+155
+00:04:32,659 --> 00:04:35,330
+says<font color="#CCCCCC"> trade</font><font color="#E5E5E5"> offs are inevitable</font><font color="#CCCCCC"> side</font><font color="#E5E5E5"> note</font>
+
+156
+00:04:35,330 --> 00:04:36,860
+I just<font color="#E5E5E5"> realized that</font><font color="#CCCCCC"> my</font><font color="#E5E5E5"> collar is turned</font>
+
+157
+00:04:36,860 --> 00:04:38,389
+so I fixed<font color="#E5E5E5"> that but I bet it was</font>
+
+158
+00:04:38,389 --> 00:04:40,430
+annoying<font color="#CCCCCC"> to a lot of you sorry</font>
+
+159
+00:04:40,430 --> 00:04:41,479
+right so the most commonly<font color="#E5E5E5"> cited</font>
+
+160
+00:04:41,479 --> 00:04:42,979
+solution to the<font color="#CCCCCC"> u.s. healthcare problem</font>
+
+161
+00:04:42,979 --> 00:04:44,870
+is a single-payer health care system<font color="#CCCCCC"> or</font>
+
+162
+00:04:44,870 --> 00:04:46,669
+<font color="#E5E5E5">Medicare for all of us Bernie Sanders</font>
+
+163
+00:04:46,669 --> 00:04:48,710
+calls it<font color="#E5E5E5"> in this proposal all Americans</font>
+
+164
+00:04:48,710 --> 00:04:49,819
+would<font color="#CCCCCC"> be able to get the</font><font color="#E5E5E5"> kind of</font>
+
+165
+00:04:49,819 --> 00:04:51,770
+<font color="#E5E5E5">publicly</font><font color="#CCCCCC"> funded insurance that seniors</font>
+
+166
+00:04:51,770 --> 00:04:53,659
+now get and studies have<font color="#CCCCCC"> shown that</font><font color="#E5E5E5"> this</font>
+
+167
+00:04:53,659 --> 00:04:55,729
+would lower overall<font color="#CCCCCC"> u.s.</font><font color="#E5E5E5"> health</font><font color="#CCCCCC"> care</font>
+
+168
+00:04:55,729 --> 00:04:57,530
+costs<font color="#E5E5E5"> although probably not</font><font color="#CCCCCC"> to the</font><font color="#E5E5E5"> rate</font>
+
+169
+00:04:57,530 --> 00:04:59,150
+seen in most<font color="#E5E5E5"> European</font><font color="#CCCCCC"> countries still</font>
+
+170
+00:04:59,150 --> 00:05:00,379
+there would be less<font color="#E5E5E5"> money spent on</font>
+
+171
+00:05:00,379 --> 00:05:02,689
+administration<font color="#E5E5E5"> and advertising and also</font>
+
+172
+00:05:02,689 --> 00:05:04,129
+on care itself because a bigger
+
+173
+00:05:04,129 --> 00:05:06,199
+insurance pool can negotiate<font color="#E5E5E5"> prices more</font>
+
+174
+00:05:06,199 --> 00:05:07,969
+aggressively<font color="#E5E5E5"> and this would be like a</font>
+
+175
+00:05:07,969 --> 00:05:10,189
+huge insurance<font color="#E5E5E5"> pool</font><font color="#CCCCCC"> but there are</font>
+
+176
+00:05:10,189 --> 00:05:11,569
+trade-offs like it's accurate<font color="#E5E5E5"> to say</font>
+
+177
+00:05:11,569 --> 00:05:12,979
+that Medicare for<font color="#E5E5E5"> all would lower</font>
+
+178
+00:05:12,979 --> 00:05:14,990
+overall<font color="#E5E5E5"> US health care costs it's also</font>
+
+179
+00:05:14,990 --> 00:05:16,430
+<font color="#E5E5E5">accurate to say</font><font color="#CCCCCC"> that it would cost</font>
+
+180
+00:05:16,430 --> 00:05:18,379
+hundreds<font color="#E5E5E5"> of thousands of jobs</font><font color="#CCCCCC"> and many</font>
+
+181
+00:05:18,379 --> 00:05:20,090
+<font color="#E5E5E5">of them would be</font><font color="#CCCCCC"> good-paying</font><font color="#E5E5E5"> jobs from</font>
+
+182
+00:05:20,090 --> 00:05:21,949
+medical device<font color="#CCCCCC"> sales people to insurance</font>
+
+183
+00:05:21,949 --> 00:05:24,080
+<font color="#E5E5E5">adjusters to marketing managers and with</font>
+
+184
+00:05:24,080 --> 00:05:25,669
+less money being spent per procedure
+
+185
+00:05:25,669 --> 00:05:27,050
+lots of other people would see their
+
+186
+00:05:27,050 --> 00:05:29,029
+incomes<font color="#CCCCCC"> go down including</font><font color="#E5E5E5"> many doctors</font>
+
+187
+00:05:29,029 --> 00:05:31,069
+<font color="#CCCCCC">and nurses</font><font color="#E5E5E5"> also</font><font color="#CCCCCC"> it would be good to</font>
+
+188
+00:05:31,069 --> 00:05:32,960
+spend<font color="#CCCCCC"> 12</font><font color="#E5E5E5"> percent of our GDP on health</font>
+
+189
+00:05:32,960 --> 00:05:34,819
+<font color="#E5E5E5">care instead of 18 percent if we</font><font color="#CCCCCC"> could</font>
+
+190
+00:05:34,819 --> 00:05:37,069
+get similar outcomes but there is a word
+
+191
+00:05:37,069 --> 00:05:39,110
+for<font color="#CCCCCC"> what happens when six percent of</font>
+
+192
+00:05:39,110 --> 00:05:41,050
+your total economy<font color="#E5E5E5"> goes away overnight</font>
+
+193
+00:05:41,050 --> 00:05:43,129
+<font color="#E5E5E5">recession now the economy</font><font color="#CCCCCC"> would recover</font>
+
+194
+00:05:43,129 --> 00:05:45,139
+and reallocate capital fairly quickly
+
+195
+00:05:45,139 --> 00:05:47,180
+but it wouldn't<font color="#E5E5E5"> be</font><font color="#CCCCCC"> painless it's also</font>
+
+196
+00:05:47,180 --> 00:05:48,740
+important to note that we currently<font color="#E5E5E5"> have</font>
+
+197
+00:05:48,740 --> 00:05:50,360
+a single-payer health<font color="#CCCCCC"> care</font><font color="#E5E5E5"> system in the</font>
+
+198
+00:05:50,360 --> 00:05:52,610
+<font color="#CCCCCC">United States in Medicare and it's not a</font>
+
+199
+00:05:52,610 --> 00:05:54,319
+bargain compared<font color="#E5E5E5"> to other single-payer</font>
+
+200
+00:05:54,319 --> 00:05:55,819
+systems around the<font color="#CCCCCC"> world it's very</font>
+
+201
+00:05:55,819 --> 00:05:57,979
+<font color="#E5E5E5">expensive because</font><font color="#CCCCCC"> we resist the</font><font color="#E5E5E5"> kind of</font>
+
+202
+00:05:57,979 --> 00:05:59,509
+government<font color="#E5E5E5"> regulations and price</font>
+
+203
+00:05:59,509 --> 00:06:01,699
+controls that are<font color="#CCCCCC"> ultimately necessary</font>
+
+204
+00:06:01,699 --> 00:06:03,680
+to rein in spending<font color="#E5E5E5"> so a single-payer</font>
+
+205
+00:06:03,680 --> 00:06:05,539
+<font color="#CCCCCC">system on its</font><font color="#E5E5E5"> own would not solve all of</font>
+
+206
+00:06:05,539 --> 00:06:06,800
+our problems and there would be
+
+207
+00:06:06,800 --> 00:06:08,659
+trade-offs<font color="#CCCCCC"> alternately some on the</font><font color="#E5E5E5"> right</font>
+
+208
+00:06:08,659 --> 00:06:09,949
+have argued that<font color="#CCCCCC"> to increase competition</font>
+
+209
+00:06:09,949 --> 00:06:11,839
+and that<font color="#E5E5E5"> market forces work it's</font>
+
+210
+00:06:11,839 --> 00:06:14,000
+necessary to<font color="#E5E5E5"> dramatically scale back or</font>
+
+211
+00:06:14,000 --> 00:06:15,830
+<font color="#CCCCCC">even eliminate government</font><font color="#E5E5E5"> funding for</font>
+
+212
+00:06:15,830 --> 00:06:17,419
+<font color="#CCCCCC">health care and</font><font color="#E5E5E5"> that too might lower</font>
+
+213
+00:06:17,419 --> 00:06:19,520
+prices<font color="#CCCCCC"> but at the cost of</font><font color="#E5E5E5"> many millions</font>
+
+214
+00:06:19,520 --> 00:06:21,110
+of<font color="#CCCCCC"> people losing insurance</font>
+
+215
+00:06:21,110 --> 00:06:22,759
+similarly decreasing regulation might
+
+216
+00:06:22,759 --> 00:06:24,949
+lower prices but<font color="#CCCCCC"> it increases the risks</font>
+
+217
+00:06:24,949 --> 00:06:26,240
+of<font color="#CCCCCC"> being treated by an inadequately</font>
+
+218
+00:06:26,240 --> 00:06:28,460
+trained professional or taking an unsafe
+
+219
+00:06:28,460 --> 00:06:30,949
+medication<font color="#E5E5E5"> trade-offs</font><font color="#CCCCCC"> we can talk</font><font color="#E5E5E5"> about</font>
+
+220
+00:06:30,949 --> 00:06:32,689
+over-regulation<font color="#E5E5E5"> or tort reform or</font>
+
+221
+00:06:32,689 --> 00:06:34,879
+marketplaces or competition but none of
+
+222
+00:06:34,879 --> 00:06:37,069
+<font color="#E5E5E5">them will be</font><font color="#CCCCCC"> a magic</font><font color="#E5E5E5"> bullet</font><font color="#CCCCCC"> because</font>
+
+223
+00:06:37,069 --> 00:06:38,719
+there is no magical solution<font color="#E5E5E5"> with</font><font color="#CCCCCC"> our</font>
+
+224
+00:06:38,719 --> 00:06:40,160
+health care<font color="#E5E5E5"> system where every</font>
+
+225
+00:06:40,160 --> 00:06:42,050
+<font color="#CCCCCC">wins and no one loses now we can</font>
+
+226
+00:06:42,050 --> 00:06:43,610
+continue<font color="#CCCCCC"> to make incremental changes</font>
+
+227
+00:06:43,610 --> 00:06:45,890
+like the ACA or alternatives to it but
+
+228
+00:06:45,890 --> 00:06:47,420
+as<font color="#E5E5E5"> dr. Carroll put it on Twitter however</font>
+
+229
+00:06:47,420 --> 00:06:49,010
+you want to<font color="#E5E5E5"> reform</font><font color="#CCCCCC"> health care there</font>
+
+230
+00:06:49,010 --> 00:06:51,080
+will be trade-offs<font color="#E5E5E5"> those who promise you</font>
+
+231
+00:06:51,080 --> 00:06:53,330
+everything are lying<font color="#E5E5E5"> if we</font><font color="#CCCCCC"> want a better</font>
+
+232
+00:06:53,330 --> 00:06:54,950
+healthcare<font color="#CCCCCC"> system in the United States</font>
+
+233
+00:06:54,950 --> 00:06:56,720
+we<font color="#CCCCCC"> need to talk openly about those</font>
+
+234
+00:06:56,720 --> 00:06:58,310
+trade-offs<font color="#E5E5E5"> because when we allow</font>
+
+235
+00:06:58,310 --> 00:07:00,560
+<font color="#CCCCCC">ourselves to be</font><font color="#E5E5E5"> pandered to our elected</font>
+
+236
+00:07:00,560 --> 00:07:02,330
+<font color="#CCCCCC">leaders seem more than happy to oblige</font>
+
+237
+00:07:02,330 --> 00:00:00,000
+us<font color="#E5E5E5"> Hank I'll see you on</font><font color="#CCCCCC"> Friday</font>
+

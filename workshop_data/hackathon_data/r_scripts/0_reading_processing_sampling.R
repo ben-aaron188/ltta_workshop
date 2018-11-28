@@ -146,8 +146,8 @@ t2 = Sys.time()
 print(t2-t1)
 
 ### STORE
-# save(dt.data
-#      , file='../../../eurocss_ltta_workshop_data.RData')
+save(dt.data
+     , file='/Users/bennettkleinberg/Dropbox/workshop_eurocss/hackathon_data/main_data')
 
 ### sampling
 table(dt.data$pol)

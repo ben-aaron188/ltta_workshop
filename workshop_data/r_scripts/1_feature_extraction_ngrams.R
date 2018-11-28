@@ -8,8 +8,8 @@
 rm(list = ls())
 
 ## load data
-setwd('SOMETHING/ltta_workshop/ltta_workshop_data/hackathon_data/main_data')
-load('eurocss_ltta_workshop_data_sampled.RData')
+setwd('/Users/bennettkleinberg/Dropbox/workshop_eurocss/hackathon_data/main_data')
+load('eurocss_media_data_sampled.RData')
 
 ## load deps
 require(quanteda)
@@ -74,12 +74,11 @@ df.tfidf_ngrams_3 = merge(dt.sampled_balanced_min, df.tfidf_ngrams_3
                           , by.x='doc_id'
                           , by.y='document')
 
-
 # save(df.tfidf_ngrams_1
-#      , file='../eurocss_ltta_workshop_data_unigrams.RData')
+#      , file='../features/eurocss_media_data_unigrams.RData')
 # save(df.tfidf_ngrams_2
-#      , file='../eurocss_ltta_workshop_data_bigrams.RData')
+#      , file='../features/eurocss_media_data_bigrams.RData')
 # save(df.tfidf_ngrams_3
-#      , file='../eurocss_ltta_workshop_data_trigrams.RData')
+#      , file='../features/eurocss_media_data_trigrams.RData')
 
 ###END

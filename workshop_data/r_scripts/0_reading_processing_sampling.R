@@ -145,9 +145,13 @@ dt.data[, ascii := match_english(dt.data$text, 'ascii', 'prop')]
 t2 = Sys.time()
 print(t2-t1)
 
+dt.data[, .N]
+dt.data = dt.data[eng_prop > .50 & ascii > .90, ]
+dt.data[, .N]
+
 ### STORE
 save(dt.data
-     , file='/Users/bennettkleinberg/Dropbox/workshop_eurocss/hackathon_data/main_data')
+     , file='/Users/bennettkleinberg/Dropbox/workshop_eurocss/hackathon_data/main_data/eurocss_media_data_full.RData')
 
 ### sampling
 table(dt.data$pol)
@@ -169,12 +173,10 @@ final_channels = c(unique(dt.sampled$file_parent[dt.sampled$pol == 'r'])
 dt.sampled_balanced = dt.sampled[file_parent %in% final_channels, ]
 
 ###fix channel names
-dt.sampled[file_parent == 'UCaeO5vkdj5xOQHp4UmIN6dw', ]
-
 dt.sampled_balanced$channel_name = as.factor(dt.sampled_balanced$file_parent)
 levels(dt.sampled_balanced$channel_name)[7:8] = c('thedailywire', 'rebelmedia')
 
-# save(dt.sampled_balanced
-#      , file='../../../eurocss_ltta_workshop_data_sampled.RData')
+save(dt.sampled_balanced
+     , file='/Users/bennettkleinberg/Dropbox/workshop_eurocss/hackathon_data/main_data/eurocss_media_data_sampled.RData')
 
 ###END

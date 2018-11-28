@@ -15,10 +15,10 @@ require(data.table)
 require(splitstackshape)
 
 ## set dir
-setwd('SOMETHING/ltta_workshop/raw_data')
+setwd('/Users/bennettkleinberg/GitHub/ltta_workshop/raw_data')
 
 ## load function from GitHub repo
-source('../r_deps/r_deps/txt_df_from_dir.R')
+source('../workshop_data/r_deps/txt_df_from_dir.R')
 
 ### left
 #### set to main raw data repo: https://github.com/maximilianmozes/ltta_workshop_data
@@ -126,6 +126,24 @@ df.data_right$pol = 'r'
 ### CLEAN TRANSCRIPTS
 df.data = rbind(df.data_left, df.data_right)
 dt.data = setDT(df.data)
+
+##exclude too short transcripts and non-English ones
+dt.data[, .N]
+dt.data = dt.data[nwords > 100, ]
+dt.data[, .N]
+
+#english check?
+source('/Users/bennettkleinberg/GitHub/r_helper_functions/english_word_match/match_english.R')
+
+t1 = Sys.time()
+dt.data[, eng_prop := match_english(dt.data$text, 'match', 'prop')]
+t2 = Sys.time()
+print(t2-t1)
+
+t1 = Sys.time()
+dt.data[, ascii := match_english(dt.data$text, 'ascii', 'prop')]
+t2 = Sys.time()
+print(t2-t1)
 
 ### STORE
 # save(dt.data

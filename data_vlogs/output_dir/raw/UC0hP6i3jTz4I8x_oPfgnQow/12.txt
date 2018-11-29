@@ -1,0 +1,6668 @@
+1
+00:00:00,000 --> 00:00:01,890
+<font color="#E5E5E5">the following is a conversation</font><font color="#CCCCCC"> with</font>
+
+2
+00:00:01,890 --> 00:00:04,920
+<font color="#CCCCCC">guido van rossum</font><font color="#E5E5E5"> creator</font><font color="#CCCCCC"> of Python</font><font color="#E5E5E5"> one</font>
+
+3
+00:00:04,920 --> 00:00:06,089
+of the most popular programming
+
+4
+00:00:06,089 --> 00:00:08,700
+languages<font color="#E5E5E5"> in the world</font><font color="#CCCCCC"> used in almost</font>
+
+5
+00:00:08,700 --> 00:00:10,559
+any application<font color="#CCCCCC"> that involves computers</font>
+
+6
+00:00:10,559 --> 00:00:14,280
+from web back-end development<font color="#E5E5E5"> to</font>
+
+7
+00:00:14,280 --> 00:00:16,800
+psychology neuroscience computer vision
+
+8
+00:00:16,800 --> 00:00:18,900
+<font color="#CCCCCC">and robotics deep learning</font><font color="#E5E5E5"> natural</font>
+
+9
+00:00:18,900 --> 00:00:20,850
+<font color="#E5E5E5">language processing</font><font color="#CCCCCC"> in almost any</font>
+
+10
+00:00:20,850 --> 00:00:24,510
+subfield of AI<font color="#E5E5E5"> this conversation is part</font>
+
+11
+00:00:24,510 --> 00:00:26,430
+of<font color="#CCCCCC"> MIT course</font><font color="#E5E5E5"> on artificial general</font>
+
+12
+00:00:26,430 --> 00:00:28,140
+intelligence and the artificial
+
+13
+00:00:28,140 --> 00:00:30,529
+<font color="#E5E5E5">intelligence podcast if you enjoy it</font>
+
+14
+00:00:30,529 --> 00:00:34,200
+<font color="#CCCCCC">subscribe on YouTube iTunes</font><font color="#E5E5E5"> or your</font>
+
+15
+00:00:34,200 --> 00:00:36,300
+podcast provider of choice<font color="#CCCCCC"> or simply</font>
+
+16
+00:00:36,300 --> 00:00:38,129
+<font color="#E5E5E5">connect with me on Twitter at</font><font color="#CCCCCC"> lex</font>
+
+17
+00:00:38,129 --> 00:00:43,079
+<font color="#CCCCCC">friedman spelled FR ID</font><font color="#E5E5E5"> and now here's my</font>
+
+18
+00:00:43,079 --> 00:00:46,559
+<font color="#E5E5E5">conversation with</font><font color="#CCCCCC"> guido van rossum</font><font color="#E5E5E5"> you</font>
+
+19
+00:00:46,559 --> 00:00:49,920
+were born in the Netherlands<font color="#E5E5E5"> in 1956</font>
+
+20
+00:00:49,920 --> 00:00:52,260
+<font color="#E5E5E5">your parents and the world around you</font>
+
+21
+00:00:52,260 --> 00:00:55,140
+was deeply impacted by<font color="#CCCCCC"> world war ii</font><font color="#E5E5E5"> as</font>
+
+22
+00:00:55,140 --> 00:00:59,219
+was my family from<font color="#E5E5E5"> the</font><font color="#CCCCCC"> soviet union</font><font color="#E5E5E5"> so</font>
+
+23
+00:00:59,219 --> 00:01:03,420
+with that context<font color="#E5E5E5"> well what is your view</font>
+
+24
+00:01:03,420 --> 00:01:06,119
+<font color="#CCCCCC">of human nature</font><font color="#E5E5E5"> are some humans</font>
+
+25
+00:01:06,119 --> 00:01:08,430
+inherently good and some inherently evil
+
+26
+00:01:08,430 --> 00:01:11,400
+<font color="#CCCCCC">or do we all have</font><font color="#E5E5E5"> both good and evil</font>
+
+27
+00:01:11,400 --> 00:01:19,290
+<font color="#CCCCCC">within us ouch I did not</font><font color="#E5E5E5"> expect such</font><font color="#CCCCCC"> a</font>
+
+28
+00:01:19,290 --> 00:01:23,520
+deep one<font color="#E5E5E5"> I I guess we all</font><font color="#CCCCCC"> have good and</font>
+
+29
+00:01:23,520 --> 00:01:27,509
+evil potential in us in a lot of<font color="#CCCCCC"> it</font>
+
+30
+00:01:27,509 --> 00:01:33,180
+depends<font color="#E5E5E5"> on circumstances in context out</font>
+
+31
+00:01:33,180 --> 00:01:36,329
+<font color="#E5E5E5">of that world at least on the Soviet</font>
+
+32
+00:01:36,329 --> 00:01:38,850
+<font color="#CCCCCC">Union side in Europe</font><font color="#E5E5E5"> sort</font><font color="#CCCCCC"> of out of</font>
+
+33
+00:01:38,850 --> 00:01:41,759
+suffering out of challenge out of that
+
+34
+00:01:41,759 --> 00:01:45,450
+kind<font color="#E5E5E5"> of set of traumatic events</font><font color="#CCCCCC"> often</font>
+
+35
+00:01:45,450 --> 00:01:47,390
+<font color="#E5E5E5">emerges beautiful art music literature</font>
+
+36
+00:01:47,390 --> 00:01:51,780
+in<font color="#CCCCCC"> an</font><font color="#E5E5E5"> interview I read or heard you said</font>
+
+37
+00:01:51,780 --> 00:01:54,720
+you enjoy Dutch<font color="#CCCCCC"> literature</font><font color="#E5E5E5"> when when you</font>
+
+38
+00:01:54,720 --> 00:01:57,420
+were a child<font color="#CCCCCC"> can you tell me about the</font>
+
+39
+00:01:57,420 --> 00:01:59,159
+books that<font color="#E5E5E5"> had an influence on you in</font>
+
+40
+00:01:59,159 --> 00:02:00,829
+your<font color="#CCCCCC"> childhood</font>
+
+41
+00:02:00,829 --> 00:02:04,530
+well<font color="#CCCCCC"> as a</font><font color="#E5E5E5"> teenager my favorite writer</font>
+
+42
+00:02:04,530 --> 00:02:08,399
+was my favorite<font color="#CCCCCC"> Dutch author was a guy</font>
+
+43
+00:02:08,399 --> 00:02:12,950
+named<font color="#CCCCCC"> villain Phaedra chemins whose</font>
+
+44
+00:02:12,950 --> 00:02:14,430
+writing
+
+45
+00:02:14,430 --> 00:02:17,040
+<font color="#E5E5E5">certainly his early novels were all</font>
+
+46
+00:02:17,040 --> 00:02:25,349
+about sort of ambiguous<font color="#E5E5E5"> things that</font>
+
+47
+00:02:25,349 --> 00:02:28,349
+<font color="#CCCCCC">happened</font><font color="#E5E5E5"> during World War</font><font color="#CCCCCC"> two I think he</font>
+
+48
+00:02:28,349 --> 00:02:31,790
+was a young adult<font color="#E5E5E5"> during that time and</font>
+
+49
+00:02:31,790 --> 00:02:38,159
+<font color="#E5E5E5">he wrote about it a lot and and very</font>
+
+50
+00:02:38,159 --> 00:02:40,319
+interesting<font color="#E5E5E5"> very good books I thought I</font>
+
+51
+00:02:40,319 --> 00:02:45,150
+<font color="#E5E5E5">think in a nonfiction way no it was all</font>
+
+52
+00:02:45,150 --> 00:02:48,569
+fiction<font color="#E5E5E5"> but it was very much set in in</font>
+
+53
+00:02:48,569 --> 00:02:51,599
+the ambiguous world of resistance
+
+54
+00:02:51,599 --> 00:02:55,950
+against the Germans<font color="#CCCCCC"> where often you</font>
+
+55
+00:02:55,950 --> 00:03:00,450
+couldn't tell whether someone<font color="#E5E5E5"> was truly</font>
+
+56
+00:03:00,450 --> 00:03:03,780
+in the resistance<font color="#E5E5E5"> or really a spy</font><font color="#CCCCCC"> for</font>
+
+57
+00:03:03,780 --> 00:03:06,209
+<font color="#E5E5E5">the Germans and and some of the</font>
+
+58
+00:03:06,209 --> 00:03:09,689
+characters<font color="#E5E5E5"> in his novels sort of crossed</font>
+
+59
+00:03:09,689 --> 00:03:11,819
+that line and you<font color="#E5E5E5"> never really find out</font>
+
+60
+00:03:11,819 --> 00:03:15,870
+what<font color="#E5E5E5"> exactly</font><font color="#CCCCCC"> happened</font><font color="#E5E5E5"> and in his novels</font>
+
+61
+00:03:15,870 --> 00:03:18,120
+<font color="#E5E5E5">there's always a good guy and a bad</font><font color="#CCCCCC"> guy</font>
+
+62
+00:03:18,120 --> 00:03:21,479
+<font color="#E5E5E5">the nature of good and evil is it clear</font>
+
+63
+00:03:21,479 --> 00:03:24,449
+there's a hero<font color="#E5E5E5"> it's</font><font color="#CCCCCC"> no his heroes are</font>
+
+64
+00:03:24,449 --> 00:03:26,540
+often<font color="#CCCCCC"> more his main characters are often</font>
+
+65
+00:03:26,540 --> 00:03:30,269
+<font color="#E5E5E5">anti-heroes and and and so</font><font color="#CCCCCC"> there they're</font>
+
+66
+00:03:30,269 --> 00:03:33,540
+not not<font color="#CCCCCC"> very heroic they're they're</font>
+
+67
+00:03:33,540 --> 00:03:38,790
+<font color="#E5E5E5">often they they fail at some level to</font>
+
+68
+00:03:38,790 --> 00:03:42,269
+<font color="#E5E5E5">accomplish their lofty goals</font><font color="#CCCCCC"> and looking</font>
+
+69
+00:03:42,269 --> 00:03:43,799
+at the<font color="#CCCCCC"> trajectory</font><font color="#E5E5E5"> through the rest of</font>
+
+70
+00:03:43,799 --> 00:03:46,319
+<font color="#CCCCCC">your life has literature Dutch or</font>
+
+71
+00:03:46,319 --> 00:03:50,120
+English<font color="#CCCCCC"> or translation and an impact</font>
+
+72
+00:03:50,120 --> 00:03:53,669
+<font color="#CCCCCC">outside the technical world that you</font>
+
+73
+00:03:53,669 --> 00:03:56,269
+existed in
+
+74
+00:03:57,290 --> 00:04:01,849
+<font color="#CCCCCC">I still read novels I don't</font><font color="#E5E5E5"> think that</font>
+
+75
+00:04:01,849 --> 00:04:06,739
+it impacts me that much directly doesn't
+
+76
+00:04:06,739 --> 00:04:08,989
+impact your work<font color="#E5E5E5"> it's just</font><font color="#CCCCCC"> it's uh</font><font color="#E5E5E5"> it's</font>
+
+77
+00:04:08,989 --> 00:04:12,200
+a separate world<font color="#CCCCCC"> my work is is highly</font>
+
+78
+00:04:12,200 --> 00:04:15,470
+<font color="#E5E5E5">technical and sort of the the world of</font>
+
+79
+00:04:15,470 --> 00:04:17,298
+art<font color="#CCCCCC"> and literature</font><font color="#E5E5E5"> doesn't really</font>
+
+80
+00:04:17,298 --> 00:04:20,600
+directly have any bearing on it you
+
+81
+00:04:20,600 --> 00:04:21,798
+don't<font color="#CCCCCC"> think there's a creative</font><font color="#E5E5E5"> element</font>
+
+82
+00:04:21,798 --> 00:04:24,889
+<font color="#E5E5E5">to the design you know some would say</font>
+
+83
+00:04:24,889 --> 00:04:31,039
+our design<font color="#E5E5E5"> of a language is art I'm not</font>
+
+84
+00:04:31,039 --> 00:04:34,009
+disagreeing<font color="#E5E5E5"> with that I'm just saying</font>
+
+85
+00:04:34,009 --> 00:04:37,330
+that<font color="#E5E5E5"> sort of I</font><font color="#CCCCCC"> don't feel direct</font>
+
+86
+00:04:37,330 --> 00:04:40,310
+influences from more<font color="#CCCCCC"> traditional art</font><font color="#E5E5E5"> on</font>
+
+87
+00:04:40,310 --> 00:04:42,979
+my<font color="#CCCCCC"> own</font><font color="#E5E5E5"> creativity right</font><font color="#CCCCCC"> of course</font><font color="#E5E5E5"> you</font>
+
+88
+00:04:42,979 --> 00:04:44,870
+don't feel<font color="#E5E5E5"> doesn't mean it's not somehow</font>
+
+89
+00:04:44,870 --> 00:04:48,590
+deeply there and your subconscious knows
+
+90
+00:04:48,590 --> 00:04:51,949
+who knows<font color="#E5E5E5"> so let's go</font><font color="#CCCCCC"> back to</font><font color="#E5E5E5"> your early</font>
+
+91
+00:04:51,949 --> 00:04:56,000
+teens<font color="#E5E5E5"> your hobbies were building</font>
+
+92
+00:04:56,000 --> 00:04:57,800
+electronic circuits building<font color="#CCCCCC"> mechanical</font>
+
+93
+00:04:57,800 --> 00:05:02,210
+models what<font color="#E5E5E5"> if you could just put</font>
+
+94
+00:05:02,210 --> 00:05:05,539
+yourself<font color="#CCCCCC"> back in</font><font color="#E5E5E5"> the mind of</font><font color="#CCCCCC"> that young</font>
+
+95
+00:05:05,539 --> 00:05:10,099
+Guido<font color="#CCCCCC"> 12</font><font color="#E5E5E5"> 13 14</font><font color="#CCCCCC"> was that grounded in a</font>
+
+96
+00:05:10,099 --> 00:05:13,159
+desire to<font color="#CCCCCC"> create a system so to create</font>
+
+97
+00:05:13,159 --> 00:05:15,590
+something<font color="#CCCCCC"> or was it</font><font color="#E5E5E5"> more just tinkering</font>
+
+98
+00:05:15,590 --> 00:05:19,250
+<font color="#E5E5E5">just the joy of puzzle</font><font color="#CCCCCC"> solving</font><font color="#E5E5E5"> uh I</font>
+
+99
+00:05:19,250 --> 00:05:23,320
+think<font color="#E5E5E5"> it was more the leather actually</font><font color="#CCCCCC"> I</font>
+
+100
+00:05:23,320 --> 00:05:28,389
+<font color="#CCCCCC">maybe</font><font color="#E5E5E5"> towards the</font><font color="#CCCCCC"> end</font><font color="#E5E5E5"> of my high school</font>
+
+101
+00:05:28,389 --> 00:05:32,260
+<font color="#E5E5E5">period</font><font color="#CCCCCC"> I felt confident enough</font><font color="#E5E5E5"> that that</font>
+
+102
+00:05:32,260 --> 00:05:35,360
+<font color="#CCCCCC">I designed my own circuits that were</font>
+
+103
+00:05:35,360 --> 00:05:40,580
+sort of interesting somewhat
+
+104
+00:05:40,580 --> 00:05:43,990
+but a lot of<font color="#E5E5E5"> that time I literally just</font>
+
+105
+00:05:43,990 --> 00:05:47,330
+took a model<font color="#E5E5E5"> kit and</font><font color="#CCCCCC"> follow the</font>
+
+106
+00:05:47,330 --> 00:05:49,219
+instructions putting the things<font color="#CCCCCC"> together</font>
+
+107
+00:05:49,219 --> 00:05:52,039
+I mean that I think<font color="#CCCCCC"> the first few years</font>
+
+108
+00:05:52,039 --> 00:05:54,379
+<font color="#E5E5E5">that I build electronics</font><font color="#CCCCCC"> kits I</font><font color="#E5E5E5"> really</font>
+
+109
+00:05:54,379 --> 00:05:57,710
+did<font color="#E5E5E5"> not have enough</font><font color="#CCCCCC"> understanding of</font>
+
+110
+00:05:57,710 --> 00:06:01,129
+<font color="#CCCCCC">sort of electronics to</font><font color="#E5E5E5"> really understand</font>
+
+111
+00:06:01,129 --> 00:06:03,530
+what I was<font color="#E5E5E5"> doing</font><font color="#CCCCCC"> I mean</font><font color="#E5E5E5"> I could debug it</font>
+
+112
+00:06:03,530 --> 00:06:05,719
+<font color="#CCCCCC">and I could sort</font><font color="#E5E5E5"> of follow the</font>
+
+113
+00:06:05,719 --> 00:06:08,659
+instructions<font color="#CCCCCC"> very carefully which has</font>
+
+114
+00:06:08,659 --> 00:06:10,699
+<font color="#CCCCCC">had which has always stayed with</font><font color="#E5E5E5"> me but</font>
+
+115
+00:06:10,699 --> 00:06:16,009
+I had a very naive model of like how a
+
+116
+00:06:16,009 --> 00:06:19,940
+transistor works<font color="#E5E5E5"> and I don't think</font><font color="#CCCCCC"> that</font>
+
+117
+00:06:19,940 --> 00:06:21,770
+that in those<font color="#CCCCCC"> days I</font><font color="#E5E5E5"> had any</font>
+
+118
+00:06:21,770 --> 00:06:26,139
+<font color="#E5E5E5">understanding of coils and capacitors</font>
+
+119
+00:06:26,139 --> 00:06:30,860
+<font color="#E5E5E5">which which actually sort of was a major</font>
+
+120
+00:06:30,860 --> 00:06:32,810
+<font color="#CCCCCC">problem when</font><font color="#E5E5E5"> I started to build more</font>
+
+121
+00:06:32,810 --> 00:06:36,199
+<font color="#CCCCCC">complex digital</font><font color="#E5E5E5"> circuits because I was</font>
+
+122
+00:06:36,199 --> 00:06:39,439
+unaware<font color="#CCCCCC"> of the sort</font><font color="#E5E5E5"> of the analog part</font>
+
+123
+00:06:39,439 --> 00:06:44,090
+of the how they actually<font color="#E5E5E5"> work and I</font>
+
+124
+00:06:44,090 --> 00:06:49,159
+would<font color="#E5E5E5"> have things that the scheme the</font>
+
+125
+00:06:49,159 --> 00:06:51,259
+schematic looked every everything<font color="#E5E5E5"> looked</font>
+
+126
+00:06:51,259 --> 00:06:55,879
+fine<font color="#E5E5E5"> and it didn't</font><font color="#CCCCCC"> work and what I</font>
+
+127
+00:06:55,879 --> 00:06:58,270
+didn't<font color="#CCCCCC"> realize was that</font><font color="#E5E5E5"> there was some</font>
+
+128
+00:06:58,270 --> 00:07:01,190
+megahertz level oscillation<font color="#CCCCCC"> that was</font>
+
+129
+00:07:01,190 --> 00:07:03,610
+throwing the circuit off because<font color="#E5E5E5"> I had a</font>
+
+130
+00:07:03,610 --> 00:07:08,389
+sort of two wires were too close or the
+
+131
+00:07:08,389 --> 00:07:12,339
+<font color="#E5E5E5">switches were were kind of poorly built</font>
+
+132
+00:07:12,339 --> 00:07:17,060
+<font color="#E5E5E5">but through that time I think it's</font>
+
+133
+00:07:17,060 --> 00:07:18,319
+really<font color="#CCCCCC"> interesting and instructive to</font>
+
+134
+00:07:18,319 --> 00:07:20,629
+<font color="#E5E5E5">think about because as echoes</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> it are</font>
+
+135
+00:07:20,629 --> 00:07:23,810
+in this time now<font color="#E5E5E5"> so in the 1970s the</font>
+
+136
+00:07:23,810 --> 00:07:26,680
+personal computer<font color="#E5E5E5"> was being born</font>
+
+137
+00:07:26,680 --> 00:07:30,349
+so did you sense in tinkering<font color="#CCCCCC"> with these</font>
+
+138
+00:07:30,349 --> 00:07:33,289
+circuits did you sense the<font color="#E5E5E5"> encroaching</font>
+
+139
+00:07:33,289 --> 00:07:35,900
+<font color="#E5E5E5">revolution and personal computing so if</font>
+
+140
+00:07:35,900 --> 00:07:38,360
+at that point<font color="#E5E5E5"> you're sick we will see</font>
+
+141
+00:07:38,360 --> 00:07:40,699
+you down<font color="#E5E5E5"> and ask you to predict the 80s</font>
+
+142
+00:07:40,699 --> 00:07:43,610
+and the 90s<font color="#E5E5E5"> do you think you would be</font>
+
+143
+00:07:43,610 --> 00:07:47,360
+able to<font color="#E5E5E5"> do so successfully</font><font color="#CCCCCC"> to unroll</font>
+
+144
+00:07:47,360 --> 00:07:51,620
+this the process<font color="#CCCCCC"> that's</font><font color="#E5E5E5"> no I had no clue</font>
+
+145
+00:07:51,620 --> 00:07:54,110
+<font color="#E5E5E5">I I</font>
+
+146
+00:07:54,110 --> 00:07:56,810
+remember<font color="#E5E5E5"> I think</font><font color="#CCCCCC"> in the summer after</font><font color="#E5E5E5"> my</font>
+
+147
+00:07:56,810 --> 00:08:00,020
+senior year<font color="#E5E5E5"> or maybe it was the summer</font>
+
+148
+00:08:00,020 --> 00:08:03,650
+<font color="#CCCCCC">after my junior year well at some</font><font color="#E5E5E5"> point</font>
+
+149
+00:08:03,650 --> 00:08:08,110
+I<font color="#CCCCCC"> think when I was 18 I went on a trip</font>
+
+150
+00:08:08,110 --> 00:08:12,110
+to<font color="#CCCCCC"> the Math Olympiad</font><font color="#E5E5E5"> in Eastern Europe</font>
+
+151
+00:08:12,110 --> 00:08:14,420
+<font color="#E5E5E5">and there was like I was part of the</font>
+
+152
+00:08:14,420 --> 00:08:17,030
+Dutch team and there were other nerdy
+
+153
+00:08:17,030 --> 00:08:19,580
+kids that sort<font color="#CCCCCC"> of had different</font>
+
+154
+00:08:19,580 --> 00:08:21,890
+<font color="#CCCCCC">experiences</font><font color="#E5E5E5"> and one of them told me</font>
+
+155
+00:08:21,890 --> 00:08:24,020
+<font color="#CCCCCC">about this</font><font color="#E5E5E5"> amazing thing called a</font>
+
+156
+00:08:24,020 --> 00:08:27,490
+<font color="#E5E5E5">computer and I had never heard</font><font color="#CCCCCC"> that word</font>
+
+157
+00:08:27,490 --> 00:08:32,090
+my own explorations in electronics<font color="#E5E5E5"> were</font>
+
+158
+00:08:32,090 --> 00:08:34,520
+sort<font color="#E5E5E5"> of about very simple digital</font>
+
+159
+00:08:34,520 --> 00:08:39,799
+<font color="#E5E5E5">circuits</font><font color="#CCCCCC"> and I I had sort</font><font color="#E5E5E5"> of I had the</font>
+
+160
+00:08:39,799 --> 00:08:42,799
+idea<font color="#CCCCCC"> that I somewhat understood how a</font>
+
+161
+00:08:42,799 --> 00:08:46,130
+digital calculator worked hmm<font color="#E5E5E5"> and so</font>
+
+162
+00:08:46,130 --> 00:08:50,570
+there is maybe some echoes of computers
+
+163
+00:08:50,570 --> 00:08:52,730
+there but I didn't didn't I<font color="#E5E5E5"> never made</font>
+
+164
+00:08:52,730 --> 00:08:55,730
+that<font color="#E5E5E5"> connection I didn't know that when</font>
+
+165
+00:08:55,730 --> 00:08:58,790
+my parents were paying<font color="#CCCCCC"> for magazine</font>
+
+166
+00:08:58,790 --> 00:09:01,640
+subscriptions<font color="#E5E5E5"> using punched cards that</font>
+
+167
+00:09:01,640 --> 00:09:04,010
+there was something<font color="#CCCCCC"> called a computer</font>
+
+168
+00:09:04,010 --> 00:09:06,350
+<font color="#E5E5E5">that was involved</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> read those cards</font>
+
+169
+00:09:06,350 --> 00:09:07,580
+<font color="#E5E5E5">and transferred the</font><font color="#CCCCCC"> money between</font>
+
+170
+00:09:07,580 --> 00:09:10,370
+accounts that was<font color="#CCCCCC"> also not</font><font color="#E5E5E5"> really</font>
+
+171
+00:09:10,370 --> 00:09:12,950
+interested<font color="#E5E5E5"> in those things</font><font color="#CCCCCC"> it was</font><font color="#E5E5E5"> only</font>
+
+172
+00:09:12,950 --> 00:09:16,940
+when I went<font color="#CCCCCC"> to university to study math</font>
+
+173
+00:09:16,940 --> 00:09:20,510
+that I found out<font color="#E5E5E5"> that they had a</font>
+
+174
+00:09:20,510 --> 00:09:22,640
+computer<font color="#E5E5E5"> and students were allowed to</font>
+
+175
+00:09:22,640 --> 00:09:24,800
+<font color="#CCCCCC">use it</font><font color="#E5E5E5"> and there were some you're</font>
+
+176
+00:09:24,800 --> 00:09:26,540
+supposed to<font color="#E5E5E5"> talk</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> that computer by</font>
+
+177
+00:09:26,540 --> 00:09:29,360
+programming<font color="#E5E5E5"> it what</font><font color="#CCCCCC"> did that</font><font color="#E5E5E5"> feel like</font>
+
+178
+00:09:29,360 --> 00:09:31,550
+yeah<font color="#E5E5E5"> that was the</font><font color="#CCCCCC"> only thing</font><font color="#E5E5E5"> you could</font>
+
+179
+00:09:31,550 --> 00:09:32,060
+<font color="#E5E5E5">do with it</font>
+
+180
+00:09:32,060 --> 00:09:34,510
+<font color="#E5E5E5">I think the computer</font><font color="#CCCCCC"> wasn't really</font>
+
+181
+00:09:34,510 --> 00:09:36,800
+connected to<font color="#CCCCCC"> the real world the only</font>
+
+182
+00:09:36,800 --> 00:09:40,730
+<font color="#E5E5E5">thing you could do was sort of you typed</font>
+
+183
+00:09:40,730 --> 00:09:42,850
+your program on a bunch of punched cards
+
+184
+00:09:42,850 --> 00:09:45,950
+<font color="#CCCCCC">you gave the punched cards to the</font>
+
+185
+00:09:45,950 --> 00:09:48,920
+operator<font color="#E5E5E5"> and an hour later the operator</font>
+
+186
+00:09:48,920 --> 00:09:52,820
+gave you back your printout and so all
+
+187
+00:09:52,820 --> 00:09:56,260
+you could do was<font color="#E5E5E5"> write a program that</font>
+
+188
+00:09:56,260 --> 00:10:00,500
+did<font color="#E5E5E5"> something very abstract</font><font color="#CCCCCC"> and I don't</font>
+
+189
+00:10:00,500 --> 00:10:03,020
+<font color="#E5E5E5">even remember what</font><font color="#CCCCCC"> my first forays into</font>
+
+190
+00:10:03,020 --> 00:10:04,320
+programming were
+
+191
+00:10:04,320 --> 00:10:09,750
+but they were sort of doing<font color="#CCCCCC"> simple math</font>
+
+192
+00:10:09,750 --> 00:10:12,990
+exercises<font color="#CCCCCC"> and just to learn</font><font color="#E5E5E5"> how</font><font color="#CCCCCC"> a</font>
+
+193
+00:10:12,990 --> 00:10:15,780
+programming language worked<font color="#E5E5E5"> did you</font>
+
+194
+00:10:15,780 --> 00:10:19,800
+sense<font color="#CCCCCC"> ok first year of college you see</font>
+
+195
+00:10:19,800 --> 00:10:21,840
+this<font color="#E5E5E5"> computer you're able</font><font color="#CCCCCC"> to have a</font>
+
+196
+00:10:21,840 --> 00:10:24,510
+program<font color="#CCCCCC"> and</font><font color="#E5E5E5"> it generates some output did</font>
+
+197
+00:10:24,510 --> 00:10:28,100
+you start seeing the possibility of this
+
+198
+00:10:28,100 --> 00:10:31,050
+or was it a<font color="#CCCCCC"> continuation of the</font>
+
+199
+00:10:31,050 --> 00:10:33,570
+tinkering<font color="#CCCCCC"> with circuits</font><font color="#E5E5E5"> the did you</font>
+
+200
+00:10:33,570 --> 00:10:36,000
+<font color="#E5E5E5">start to imagine that one the personal</font>
+
+201
+00:10:36,000 --> 00:10:38,580
+computer<font color="#CCCCCC"> but</font><font color="#E5E5E5"> did you see it as something</font>
+
+202
+00:10:38,580 --> 00:10:42,510
+that is a tool so got<font color="#E5E5E5"> a tool like a word</font>
+
+203
+00:10:42,510 --> 00:10:44,640
+processing tool maybe maybe for gaming
+
+204
+00:10:44,640 --> 00:10:46,590
+<font color="#E5E5E5">or something or did you start to imagine</font>
+
+205
+00:10:46,590 --> 00:10:48,540
+<font color="#E5E5E5">that it could be you</font><font color="#CCCCCC"> know going</font><font color="#E5E5E5"> to the</font>
+
+206
+00:10:48,540 --> 00:10:49,650
+<font color="#E5E5E5">world of</font><font color="#CCCCCC"> robotics</font>
+
+207
+00:10:49,650 --> 00:10:52,170
+<font color="#E5E5E5">like you you know the Franklin</font><font color="#CCCCCC"> is that</font>
+
+208
+00:10:52,170 --> 00:10:54,090
+picture<font color="#CCCCCC"> that you could create an</font>
+
+209
+00:10:54,090 --> 00:10:55,830
+artificial<font color="#E5E5E5"> being there's like another</font>
+
+210
+00:10:55,830 --> 00:10:59,310
+<font color="#E5E5E5">entity in front of you you did not say I</font>
+
+211
+00:10:59,310 --> 00:11:02,580
+don't<font color="#E5E5E5"> think</font><font color="#CCCCCC"> I really saw it that way I</font>
+
+212
+00:11:02,580 --> 00:11:04,980
+was really<font color="#E5E5E5"> more interested in the</font>
+
+213
+00:11:04,980 --> 00:11:08,070
+tinkering it's maybe not<font color="#CCCCCC"> a sort of a</font>
+
+214
+00:11:08,070 --> 00:11:11,330
+complete coincidence that I ended up
+
+215
+00:11:11,330 --> 00:11:15,030
+sort<font color="#E5E5E5"> of creating a programming language</font>
+
+216
+00:11:15,030 --> 00:11:17,220
+<font color="#CCCCCC">which is a tool for other programmers</font>
+
+217
+00:11:17,220 --> 00:11:20,160
+<font color="#CCCCCC">I've</font><font color="#E5E5E5"> always been very focused on the</font>
+
+218
+00:11:20,160 --> 00:11:22,470
+sort<font color="#E5E5E5"> of activity of programming itself</font>
+
+219
+00:11:22,470 --> 00:11:27,440
+and not so much what happens with with
+
+220
+00:11:27,440 --> 00:11:30,900
+the program you<font color="#CCCCCC"> write right I do</font>
+
+221
+00:11:30,900 --> 00:11:34,230
+remember<font color="#E5E5E5"> and I don't</font><font color="#CCCCCC"> dream it</font><font color="#E5E5E5"> maybe in</font>
+
+222
+00:11:34,230 --> 00:11:37,230
+<font color="#E5E5E5">my second or</font><font color="#CCCCCC"> third year</font><font color="#E5E5E5"> probably</font><font color="#CCCCCC"> my</font>
+
+223
+00:11:37,230 --> 00:11:40,830
+second actually<font color="#E5E5E5"> someone pointed out to</font>
+
+224
+00:11:40,830 --> 00:11:42,620
+me that<font color="#CCCCCC"> there was</font><font color="#E5E5E5"> this thing called</font>
+
+225
+00:11:42,620 --> 00:11:46,980
+<font color="#E5E5E5">Conway's Game of Life</font><font color="#CCCCCC"> you're</font><font color="#E5E5E5"> probably</font>
+
+226
+00:11:46,980 --> 00:11:51,360
+familiar with<font color="#E5E5E5"> it I think the seventies I</font>
+
+227
+00:11:51,360 --> 00:11:53,520
+<font color="#E5E5E5">think yeah he came up</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> it so there</font>
+
+228
+00:11:53,520 --> 00:11:57,170
+was a scientific<font color="#CCCCCC"> American</font><font color="#E5E5E5"> column by</font>
+
+229
+00:11:57,170 --> 00:12:00,840
+someone who did<font color="#E5E5E5"> a monthly column about</font>
+
+230
+00:12:00,840 --> 00:12:02,760
+mathematical diversions
+
+231
+00:12:02,760 --> 00:12:05,130
+I'm also blanking out on the<font color="#CCCCCC"> guy's name</font>
+
+232
+00:12:05,130 --> 00:12:07,230
+<font color="#E5E5E5">it was it was</font><font color="#CCCCCC"> very famous</font><font color="#E5E5E5"> at</font><font color="#CCCCCC"> the time</font>
+
+233
+00:12:07,230 --> 00:12:10,440
+and<font color="#E5E5E5"> I think up</font><font color="#CCCCCC"> to the 90s or so and one</font>
+
+234
+00:12:10,440 --> 00:12:12,240
+of his<font color="#E5E5E5"> columns was about Conway's Game</font>
+
+235
+00:12:12,240 --> 00:12:14,550
+of Life<font color="#E5E5E5"> and he had some illustrations</font>
+
+236
+00:12:14,550 --> 00:12:16,930
+and he wrote<font color="#E5E5E5"> down all</font><font color="#CCCCCC"> the rules</font>
+
+237
+00:12:16,930 --> 00:12:19,060
+and sort of there<font color="#CCCCCC"> was the suggestion</font>
+
+238
+00:12:19,060 --> 00:12:21,580
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> this was philosophically</font>
+
+239
+00:12:21,580 --> 00:12:23,770
+<font color="#CCCCCC">interesting that that was why Conway had</font>
+
+240
+00:12:23,770 --> 00:12:27,760
+called it that<font color="#E5E5E5"> and all I had was</font><font color="#CCCCCC"> like</font>
+
+241
+00:12:27,760 --> 00:12:30,460
+<font color="#CCCCCC">the two pages photocopy of that</font><font color="#E5E5E5"> article</font>
+
+242
+00:12:30,460 --> 00:12:33,570
+<font color="#CCCCCC">I didn't even</font><font color="#E5E5E5"> remember where I got</font><font color="#CCCCCC"> it</font>
+
+243
+00:12:33,570 --> 00:12:36,600
+<font color="#E5E5E5">but</font><font color="#CCCCCC"> it spoke</font><font color="#E5E5E5"> to me and I remember</font>
+
+244
+00:12:36,600 --> 00:12:43,300
+<font color="#E5E5E5">implementing a version of that</font><font color="#CCCCCC"> game for</font>
+
+245
+00:12:43,300 --> 00:12:46,350
+the batch computer we were<font color="#CCCCCC"> using where I</font>
+
+246
+00:12:46,350 --> 00:12:49,390
+had a whole Pascal program that sort<font color="#CCCCCC"> of</font>
+
+247
+00:12:49,390 --> 00:12:52,270
+read an initial<font color="#CCCCCC"> situation from input and</font>
+
+248
+00:12:52,270 --> 00:12:56,320
+read some numbers that that<font color="#CCCCCC"> said do so</font>
+
+249
+00:12:56,320 --> 00:12:59,290
+many generations<font color="#E5E5E5"> and print every so many</font>
+
+250
+00:12:59,290 --> 00:13:01,990
+<font color="#CCCCCC">generations</font><font color="#E5E5E5"> and then</font><font color="#CCCCCC"> out would come</font>
+
+251
+00:13:01,990 --> 00:13:08,620
+<font color="#E5E5E5">pages and pages of</font><font color="#CCCCCC"> sort of things kinds</font>
+
+252
+00:13:08,620 --> 00:13:11,170
+<font color="#E5E5E5">of different kinds</font><font color="#CCCCCC"> and yeah and I</font>
+
+253
+00:13:11,170 --> 00:13:14,500
+remember much later<font color="#E5E5E5"> I've done a similar</font>
+
+254
+00:13:14,500 --> 00:13:17,230
+<font color="#CCCCCC">thing using Python</font><font color="#E5E5E5"> but I'd sort of that</font>
+
+255
+00:13:17,230 --> 00:13:20,250
+original<font color="#E5E5E5"> version I wrote at</font><font color="#CCCCCC"> the time I</font>
+
+256
+00:13:20,250 --> 00:13:24,070
+found<font color="#CCCCCC"> interesting because</font><font color="#E5E5E5"> I combined it</font>
+
+257
+00:13:24,070 --> 00:13:28,209
+<font color="#CCCCCC">with some trick I had learned during my</font>
+
+258
+00:13:28,209 --> 00:13:30,990
+electronics hobbyists<font color="#E5E5E5"> times</font><font color="#CCCCCC"> I</font>
+
+259
+00:13:30,990 --> 00:13:34,150
+essentially<font color="#E5E5E5"> first on paper I designed a</font>
+
+260
+00:13:34,150 --> 00:13:39,150
+<font color="#E5E5E5">simple circuit built out of logic</font><font color="#CCCCCC"> gates</font>
+
+261
+00:13:39,150 --> 00:13:42,970
+<font color="#E5E5E5">that took nine bits of input which</font><font color="#CCCCCC"> is</font>
+
+262
+00:13:42,970 --> 00:13:46,300
+<font color="#E5E5E5">the sort of the cell and its neighbors</font>
+
+263
+00:13:46,300 --> 00:13:50,490
+and<font color="#CCCCCC"> produced a new value for</font><font color="#E5E5E5"> that cell</font>
+
+264
+00:13:50,490 --> 00:13:53,920
+<font color="#E5E5E5">and it's like a combination of</font><font color="#CCCCCC"> a half</font>
+
+265
+00:13:53,920 --> 00:13:56,470
+adder and some other clipping you know
+
+266
+00:13:56,470 --> 00:13:59,829
+it's<font color="#CCCCCC"> actually a</font><font color="#E5E5E5"> full adder and so I had</font>
+
+267
+00:13:59,829 --> 00:14:02,320
+worked that out and then I translated
+
+268
+00:14:02,320 --> 00:14:07,600
+<font color="#E5E5E5">that into a series of boolean operations</font>
+
+269
+00:14:07,600 --> 00:14:11,140
+on Pascal integers where you could use
+
+270
+00:14:11,140 --> 00:14:17,200
+the integers as bitwise values<font color="#E5E5E5"> and so I</font>
+
+271
+00:14:17,200 --> 00:14:22,029
+could<font color="#CCCCCC"> basically generate 60 bits of a</font>
+
+272
+00:14:22,029 --> 00:14:28,029
+generation in in like<font color="#CCCCCC"> eight instructions</font>
+
+273
+00:14:28,029 --> 00:14:29,300
+or so
+
+274
+00:14:29,300 --> 00:14:32,839
+nice<font color="#E5E5E5"> I was proud of that it's it's funny</font>
+
+275
+00:14:32,839 --> 00:14:35,149
+that<font color="#E5E5E5"> you mentioned so for people</font><font color="#CCCCCC"> who</font>
+
+276
+00:14:35,149 --> 00:14:36,740
+<font color="#E5E5E5">don't know Conway's Game of Life is</font><font color="#CCCCCC"> a</font>
+
+277
+00:14:36,740 --> 00:14:39,800
+<font color="#E5E5E5">there's it's a cellular automata whether</font>
+
+278
+00:14:39,800 --> 00:14:42,230
+it's single compute units<font color="#E5E5E5"> that kind of</font>
+
+279
+00:14:42,230 --> 00:14:45,740
+look at their<font color="#CCCCCC"> neighbors and figure out</font>
+
+280
+00:14:45,740 --> 00:14:48,200
+<font color="#E5E5E5">what they look</font><font color="#CCCCCC"> like in the next</font>
+
+281
+00:14:48,200 --> 00:14:50,120
+<font color="#E5E5E5">generation based on the state</font><font color="#CCCCCC"> of their</font>
+
+282
+00:14:50,120 --> 00:14:52,480
+neighbors and<font color="#E5E5E5"> this is deeply distributed</font>
+
+283
+00:14:52,480 --> 00:14:56,240
+system<font color="#CCCCCC"> that it in in concept at least</font>
+
+284
+00:14:56,240 --> 00:14:59,930
+<font color="#E5E5E5">and then there's simple rules that</font><font color="#CCCCCC"> all</font>
+
+285
+00:14:59,930 --> 00:15:02,810
+of them follow and somehow out of<font color="#E5E5E5"> this</font>
+
+286
+00:15:02,810 --> 00:15:04,700
+simple rule when you step back<font color="#CCCCCC"> and look</font>
+
+287
+00:15:04,700 --> 00:15:08,860
+<font color="#CCCCCC">at what occurs</font><font color="#E5E5E5"> it's it's beautiful</font>
+
+288
+00:15:08,860 --> 00:15:12,560
+<font color="#E5E5E5">there's a emergent complexity</font><font color="#CCCCCC"> even</font>
+
+289
+00:15:12,560 --> 00:15:13,820
+though the underlying<font color="#E5E5E5"> rules are simple</font>
+
+290
+00:15:13,820 --> 00:15:15,829
+there's an emergent complexity<font color="#E5E5E5"> now the</font>
+
+291
+00:15:15,829 --> 00:15:17,630
+funny thing<font color="#CCCCCC"> is you've implemented</font><font color="#E5E5E5"> this</font>
+
+292
+00:15:17,630 --> 00:15:19,310
+and the thing you're commenting<font color="#E5E5E5"> on is</font>
+
+293
+00:15:19,310 --> 00:15:23,000
+you're proud<font color="#CCCCCC"> of a hack you did to make</font>
+
+294
+00:15:23,000 --> 00:15:25,880
+<font color="#CCCCCC">it run efficiently</font><font color="#E5E5E5"> when you're not</font>
+
+295
+00:15:25,880 --> 00:15:28,250
+commenting on<font color="#E5E5E5"> what like this is a</font>
+
+296
+00:15:28,250 --> 00:15:30,950
+beautiful implementation<font color="#CCCCCC"> you're not</font>
+
+297
+00:15:30,950 --> 00:15:32,570
+commenting<font color="#E5E5E5"> on the fact</font><font color="#CCCCCC"> that there's an</font>
+
+298
+00:15:32,570 --> 00:15:35,600
+emergent complexity that you've you've
+
+299
+00:15:35,600 --> 00:15:38,209
+you've<font color="#CCCCCC"> coded a simple program and when</font>
+
+300
+00:15:38,209 --> 00:15:39,829
+you step back<font color="#E5E5E5"> and you print out those</font>
+
+301
+00:15:39,829 --> 00:15:41,890
+following generation after generation
+
+302
+00:15:41,890 --> 00:15:44,540
+<font color="#E5E5E5">that's stuff</font><font color="#CCCCCC"> that you may</font><font color="#E5E5E5"> have not</font>
+
+303
+00:15:44,540 --> 00:15:47,320
+predicted what<font color="#E5E5E5"> happen is happening</font><font color="#CCCCCC"> right</font>
+
+304
+00:15:47,320 --> 00:15:50,420
+<font color="#E5E5E5">and there was that is that magic I mean</font>
+
+305
+00:15:50,420 --> 00:15:52,160
+that's the magic<font color="#E5E5E5"> that all of us feel</font>
+
+306
+00:15:52,160 --> 00:15:53,779
+when we<font color="#E5E5E5"> program when you when you create</font>
+
+307
+00:15:53,779 --> 00:15:56,589
+<font color="#CCCCCC">a program</font><font color="#E5E5E5"> and then you run it and</font>
+
+308
+00:15:56,589 --> 00:15:58,910
+whether<font color="#E5E5E5"> it's hello world or show</font>
+
+309
+00:15:58,910 --> 00:16:00,050
+something<font color="#CCCCCC"> on screen if there's a</font>
+
+310
+00:16:00,050 --> 00:16:02,510
+graphical component<font color="#CCCCCC"> for you seeing</font><font color="#E5E5E5"> the</font>
+
+311
+00:16:02,510 --> 00:16:04,760
+<font color="#CCCCCC">magic in the</font><font color="#E5E5E5"> mechanism of creating that</font>
+
+312
+00:16:04,760 --> 00:16:08,360
+I think I<font color="#E5E5E5"> went back and forth</font><font color="#CCCCCC"> as a</font>
+
+313
+00:16:08,360 --> 00:16:11,540
+student we had<font color="#CCCCCC"> an incredibly small</font>
+
+314
+00:16:11,540 --> 00:16:15,470
+budget<font color="#E5E5E5"> of computer time that we could</font>
+
+315
+00:16:15,470 --> 00:16:18,020
+use it was actually measured<font color="#E5E5E5"> I once got</font>
+
+316
+00:16:18,020 --> 00:16:20,089
+in trouble with one<font color="#E5E5E5"> of my professors</font>
+
+317
+00:16:20,089 --> 00:16:22,790
+because<font color="#CCCCCC"> I had overspent the department's</font>
+
+318
+00:16:22,790 --> 00:16:29,019
+budget<font color="#E5E5E5"> it's a different story but so I I</font>
+
+319
+00:16:29,019 --> 00:16:31,940
+actually wanted the<font color="#E5E5E5"> efficient</font>
+
+320
+00:16:31,940 --> 00:16:34,610
+implementation because I also wanted to
+
+321
+00:16:34,610 --> 00:16:38,630
+explore<font color="#E5E5E5"> what would happen with a larger</font>
+
+322
+00:16:38,630 --> 00:16:42,620
+number<font color="#CCCCCC"> of generations and a larger sort</font>
+
+323
+00:16:42,620 --> 00:16:43,010
+<font color="#CCCCCC">of</font>
+
+324
+00:16:43,010 --> 00:16:47,590
+<font color="#E5E5E5">size of the of the board</font><font color="#CCCCCC"> and so once the</font>
+
+325
+00:16:47,590 --> 00:16:52,640
+implementation was flawless<font color="#CCCCCC"> I would feed</font>
+
+326
+00:16:52,640 --> 00:16:55,700
+<font color="#E5E5E5">at different patterns</font><font color="#CCCCCC"> and then I think</font>
+
+327
+00:16:55,700 --> 00:16:57,470
+<font color="#E5E5E5">maybe there was a follow-up article</font>
+
+328
+00:16:57,470 --> 00:17:00,470
+where there were patterns that that were
+
+329
+00:17:00,470 --> 00:17:03,680
+like gliders parents that repeated
+
+330
+00:17:03,680 --> 00:17:06,609
+themselves<font color="#E5E5E5"> after a number of generations</font>
+
+331
+00:17:06,609 --> 00:17:12,680
+<font color="#CCCCCC">but translated</font><font color="#E5E5E5"> one or two positions to</font>
+
+332
+00:17:12,680 --> 00:17:15,760
+the right or up or something like<font color="#CCCCCC"> that</font>
+
+333
+00:17:15,760 --> 00:17:19,130
+<font color="#CCCCCC">and there were I remember things like</font>
+
+334
+00:17:19,130 --> 00:17:21,140
+glider guns<font color="#CCCCCC"> well you can you can google</font>
+
+335
+00:17:21,140 --> 00:17:24,440
+Conway's Game of Life is still of people
+
+336
+00:17:24,440 --> 00:17:27,020
+still go on and<font color="#CCCCCC"> over it</font>
+
+337
+00:17:27,020 --> 00:17:29,180
+for a reason because it's not really
+
+338
+00:17:29,180 --> 00:17:32,330
+well understood why<font color="#E5E5E5"> I mean this is what</font>
+
+339
+00:17:32,330 --> 00:17:34,580
+<font color="#E5E5E5">Stephen Wolfram is obsessed about</font><font color="#CCCCCC"> yeah</font>
+
+340
+00:17:34,580 --> 00:17:38,030
+<font color="#CCCCCC">okay so he's just the the we don't have</font>
+
+341
+00:17:38,030 --> 00:17:39,800
+the<font color="#CCCCCC"> mathematical tools</font><font color="#E5E5E5"> to describe the</font>
+
+342
+00:17:39,800 --> 00:17:41,780
+kind<font color="#E5E5E5"> of complexity</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the emerges in</font>
+
+343
+00:17:41,780 --> 00:17:44,240
+these kinds of systems<font color="#CCCCCC"> and the only way</font>
+
+344
+00:17:44,240 --> 00:17:48,200
+<font color="#E5E5E5">to do is to</font><font color="#CCCCCC"> run</font><font color="#E5E5E5"> it I'm not convinced</font>
+
+345
+00:17:48,200 --> 00:17:51,800
+that that<font color="#E5E5E5"> it's sort of a problem that</font>
+
+346
+00:17:51,800 --> 00:17:55,610
+lends itself<font color="#CCCCCC"> to two classic mathematical</font>
+
+347
+00:17:55,610 --> 00:18:00,980
+analysis<font color="#CCCCCC"> no and so one one theory of how</font>
+
+348
+00:18:00,980 --> 00:18:02,950
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> create an artificial intelligence</font><font color="#E5E5E5"> or</font>
+
+349
+00:18:02,950 --> 00:18:05,680
+<font color="#CCCCCC">artificial</font><font color="#E5E5E5"> being is you kind of have to</font>
+
+350
+00:18:05,680 --> 00:18:08,000
+<font color="#CCCCCC">send</font><font color="#E5E5E5"> with a game of life you kind</font><font color="#CCCCCC"> of</font>
+
+351
+00:18:08,000 --> 00:18:10,690
+have to<font color="#E5E5E5"> create a universe and let it run</font>
+
+352
+00:18:10,690 --> 00:18:13,700
+that creating it from scratch in a
+
+353
+00:18:13,700 --> 00:18:16,490
+design way in the you know<font color="#E5E5E5"> coding up a</font>
+
+354
+00:18:16,490 --> 00:18:19,310
+Python program that creates a full
+
+355
+00:18:19,310 --> 00:18:20,900
+<font color="#CCCCCC">intelligence system may be quite</font>
+
+356
+00:18:20,900 --> 00:18:22,490
+<font color="#E5E5E5">challenging</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> you might need to</font>
+
+357
+00:18:22,490 --> 00:18:24,050
+<font color="#CCCCCC">create a universe just like</font><font color="#E5E5E5"> the game of</font>
+
+358
+00:18:24,050 --> 00:18:26,170
+<font color="#CCCCCC">life is</font>
+
+359
+00:18:26,170 --> 00:18:28,870
+well you might have to experiment<font color="#E5E5E5"> with a</font>
+
+360
+00:18:28,870 --> 00:18:32,080
+lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> different universes before there</font>
+
+361
+00:18:32,080 --> 00:18:34,590
+<font color="#E5E5E5">there is a set of rules that doesn't</font>
+
+362
+00:18:34,590 --> 00:18:39,460
+essentially<font color="#E5E5E5"> always just end up repeating</font>
+
+363
+00:18:39,460 --> 00:18:42,880
+itself<font color="#CCCCCC"> in</font><font color="#E5E5E5"> in a trivial way yeah and</font>
+
+364
+00:18:42,880 --> 00:18:45,820
+<font color="#E5E5E5">analyst Steve</font><font color="#CCCCCC"> wolf from Stephen Wolfram</font>
+
+365
+00:18:45,820 --> 00:18:48,430
+works with<font color="#E5E5E5"> these simple rules says that</font>
+
+366
+00:18:48,430 --> 00:18:50,800
+it's kind of surprising how<font color="#CCCCCC"> quickly find</font>
+
+367
+00:18:50,800 --> 00:18:53,800
+rules that create interesting<font color="#E5E5E5"> things you</font>
+
+368
+00:18:53,800 --> 00:18:55,720
+shouldn't<font color="#CCCCCC"> be able to but somehow you do</font>
+
+369
+00:18:55,720 --> 00:18:59,370
+and so maybe our universe<font color="#CCCCCC"> is laden with</font>
+
+370
+00:18:59,370 --> 00:19:01,870
+with rules<font color="#CCCCCC"> that will create</font><font color="#E5E5E5"> interesting</font>
+
+371
+00:19:01,870 --> 00:19:03,310
+things that<font color="#E5E5E5"> might not</font><font color="#CCCCCC"> look like</font><font color="#E5E5E5"> humans</font>
+
+372
+00:19:03,310 --> 00:19:06,010
+<font color="#E5E5E5">but yeah you know emergent phenomena</font>
+
+373
+00:19:06,010 --> 00:19:07,450
+that's interesting may not be as
+
+374
+00:19:07,450 --> 00:19:08,920
+difficult<font color="#E5E5E5"> to</font><font color="#CCCCCC"> create as we think</font>
+
+375
+00:19:08,920 --> 00:19:12,460
+sure<font color="#E5E5E5"> but let me sort of ask at that time</font>
+
+376
+00:19:12,460 --> 00:19:14,320
+you<font color="#E5E5E5"> know some of the world's least in</font>
+
+377
+00:19:14,320 --> 00:19:18,730
+popular press<font color="#E5E5E5"> was kind of captivated</font>
+
+378
+00:19:18,730 --> 00:19:21,520
+perhaps at<font color="#CCCCCC"> least in America by</font><font color="#E5E5E5"> the idea</font>
+
+379
+00:19:21,520 --> 00:19:25,300
+of artificial intelligence<font color="#CCCCCC"> that that</font>
+
+380
+00:19:25,300 --> 00:19:27,580
+these computers would<font color="#E5E5E5"> be</font><font color="#CCCCCC"> able to think</font>
+
+381
+00:19:27,580 --> 00:19:30,910
+pretty<font color="#E5E5E5"> soon and yeah that</font><font color="#CCCCCC"> touch you at</font>
+
+382
+00:19:30,910 --> 00:19:33,970
+all did that in science fiction or in
+
+383
+00:19:33,970 --> 00:19:38,500
+reality<font color="#E5E5E5"> in uh in</font><font color="#CCCCCC"> anyway I didn't</font><font color="#E5E5E5"> really</font>
+
+384
+00:19:38,500 --> 00:19:42,670
+<font color="#E5E5E5">start reading science fiction until much</font>
+
+385
+00:19:42,670 --> 00:19:45,060
+much later
+
+386
+00:19:45,920 --> 00:19:50,810
+<font color="#CCCCCC">I think as a teenager</font><font color="#E5E5E5"> I I read maybe one</font>
+
+387
+00:19:50,810 --> 00:19:54,650
+bundle<font color="#E5E5E5"> of science fiction stories was in</font>
+
+388
+00:19:54,650 --> 00:19:56,540
+<font color="#E5E5E5">my background somewhere like in your</font>
+
+389
+00:19:56,540 --> 00:20:00,290
+thoughts<font color="#CCCCCC"> that</font><font color="#E5E5E5"> sort of</font><font color="#CCCCCC"> the using</font>
+
+390
+00:20:00,290 --> 00:20:02,600
+computers to<font color="#E5E5E5"> build something intelligent</font>
+
+391
+00:20:02,600 --> 00:20:06,110
+<font color="#E5E5E5">always</font><font color="#CCCCCC"> fell</font><font color="#E5E5E5"> to me because I had I felt I</font>
+
+392
+00:20:06,110 --> 00:20:08,180
+<font color="#CCCCCC">had so much understanding of what</font>
+
+393
+00:20:08,180 --> 00:20:12,290
+actually<font color="#E5E5E5"> goes on inside a computer</font><font color="#CCCCCC"> I I</font>
+
+394
+00:20:12,290 --> 00:20:14,960
+knew how many<font color="#E5E5E5"> bits of memory it had and</font>
+
+395
+00:20:14,960 --> 00:20:19,220
+how difficult<font color="#CCCCCC"> it was to program and sort</font>
+
+396
+00:20:19,220 --> 00:20:25,550
+of<font color="#E5E5E5"> I didn't believe at all that that you</font>
+
+397
+00:20:25,550 --> 00:20:28,640
+could just build something intelligent
+
+398
+00:20:28,640 --> 00:20:31,070
+<font color="#E5E5E5">out of that that that would</font><font color="#CCCCCC"> really sort</font>
+
+399
+00:20:31,070 --> 00:20:36,710
+of satisfy my definition<font color="#E5E5E5"> of intelligence</font>
+
+400
+00:20:36,710 --> 00:20:39,200
+<font color="#CCCCCC">I think the most the</font><font color="#E5E5E5"> most influential</font>
+
+401
+00:20:39,200 --> 00:20:44,000
+thing that I read in<font color="#CCCCCC"> my early 20s was</font>
+
+402
+00:20:44,000 --> 00:20:46,970
+girlish ABBA that was about
+
+403
+00:20:46,970 --> 00:20:49,070
+consciousness<font color="#CCCCCC"> and that was a big</font>
+
+404
+00:20:49,070 --> 00:20:54,260
+eye-opener<font color="#E5E5E5"> in in some</font><font color="#CCCCCC"> sense in what</font>
+
+405
+00:20:54,260 --> 00:20:57,050
+sense<font color="#CCCCCC"> oh so</font><font color="#E5E5E5"> console</font><font color="#CCCCCC"> yeah so on your</font><font color="#E5E5E5"> own</font>
+
+406
+00:20:57,050 --> 00:20:59,510
+brain did you<font color="#E5E5E5"> do use did you at the time</font>
+
+407
+00:20:59,510 --> 00:21:01,280
+or do you now see<font color="#E5E5E5"> your own brain as a</font>
+
+408
+00:21:01,280 --> 00:21:04,460
+computer<font color="#CCCCCC"> or is there a total separation</font>
+
+409
+00:21:04,460 --> 00:21:06,740
+<font color="#E5E5E5">of the way so yeah you're very</font>
+
+410
+00:21:06,740 --> 00:21:09,590
+<font color="#E5E5E5">pragmatically practically know the</font>
+
+411
+00:21:09,590 --> 00:21:12,200
+limits of memory<font color="#E5E5E5"> the limits of this</font>
+
+412
+00:21:12,200 --> 00:21:15,200
+sequential computing or<font color="#CCCCCC"> weakly paralyzed</font>
+
+413
+00:21:15,200 --> 00:21:17,420
+computing and<font color="#E5E5E5"> you just know what we have</font>
+
+414
+00:21:17,420 --> 00:21:19,990
+now and it's<font color="#CCCCCC"> hard to see how it creates</font>
+
+415
+00:21:19,990 --> 00:21:24,380
+but it's also easy to see it was in<font color="#E5E5E5"> the</font>
+
+416
+00:21:24,380 --> 00:21:28,630
+40s 50s<font color="#CCCCCC"> 60s</font><font color="#E5E5E5"> and now at least</font>
+
+417
+00:21:28,630 --> 00:21:30,620
+<font color="#E5E5E5">similarities between the brain</font><font color="#CCCCCC"> and our</font>
+
+418
+00:21:30,620 --> 00:21:34,850
+computers<font color="#CCCCCC"> oh yeah I mean I I totally</font>
+
+419
+00:21:34,850 --> 00:21:39,230
+believe that brains<font color="#CCCCCC"> are computers in</font>
+
+420
+00:21:39,230 --> 00:21:43,940
+some sense<font color="#CCCCCC"> I mean the rules they they</font>
+
+421
+00:21:43,940 --> 00:21:46,370
+used to play by are pretty different
+
+422
+00:21:46,370 --> 00:21:49,150
+from the rules we we can sort of
+
+423
+00:21:49,150 --> 00:21:53,660
+implement<font color="#CCCCCC"> in in our current</font><font color="#E5E5E5"> hardware but</font>
+
+424
+00:21:53,660 --> 00:21:59,270
+I don't<font color="#E5E5E5"> believe in like</font>
+
+425
+00:21:59,270 --> 00:22:02,770
+a separate thing that infuses<font color="#E5E5E5"> us with</font>
+
+426
+00:22:02,770 --> 00:22:07,640
+intelligence or consciousness<font color="#E5E5E5"> or any of</font>
+
+427
+00:22:07,640 --> 00:22:09,860
+that<font color="#E5E5E5"> there's no soul</font><font color="#CCCCCC"> I've been an</font>
+
+428
+00:22:09,860 --> 00:22:14,150
+atheist probably from when I was<font color="#E5E5E5"> 10</font>
+
+429
+00:22:14,150 --> 00:22:17,360
+years old<font color="#CCCCCC"> just by thinking</font><font color="#E5E5E5"> a bit about</font>
+
+430
+00:22:17,360 --> 00:22:19,790
+math and the universe and<font color="#E5E5E5"> then well my</font>
+
+431
+00:22:19,790 --> 00:22:24,590
+parents were atheists<font color="#CCCCCC"> now I know</font><font color="#E5E5E5"> that</font>
+
+432
+00:22:24,590 --> 00:22:26,420
+you you<font color="#E5E5E5"> you could be an atheist</font><font color="#CCCCCC"> and</font>
+
+433
+00:22:26,420 --> 00:22:28,540
+<font color="#E5E5E5">still believe</font><font color="#CCCCCC"> that there is something</font>
+
+434
+00:22:28,540 --> 00:22:32,870
+sort<font color="#E5E5E5"> of about intelligence or</font>
+
+435
+00:22:32,870 --> 00:22:34,340
+<font color="#E5E5E5">consciousness that cannot possibly</font>
+
+436
+00:22:34,340 --> 00:22:38,960
+<font color="#E5E5E5">emerge from a fixed set of rules</font><font color="#CCCCCC"> I am</font>
+
+437
+00:22:38,960 --> 00:22:40,100
+NOT in that camp
+
+438
+00:22:40,100 --> 00:22:46,460
+I I totally see<font color="#CCCCCC"> that sort</font><font color="#E5E5E5"> of given how</font>
+
+439
+00:22:46,460 --> 00:22:49,160
+<font color="#CCCCCC">many millions of years evolution took</font>
+
+440
+00:22:49,160 --> 00:22:54,050
+its time<font color="#E5E5E5"> DNA</font><font color="#CCCCCC"> is is a particular machine</font>
+
+441
+00:22:54,050 --> 00:22:59,150
+<font color="#E5E5E5">that that sort of encodes</font><font color="#CCCCCC"> information</font>
+
+442
+00:22:59,150 --> 00:23:01,960
+and an unlimited<font color="#E5E5E5"> amount of information</font>
+
+443
+00:23:01,960 --> 00:23:09,410
+<font color="#E5E5E5">in in chemical form and has figured out</font>
+
+444
+00:23:09,410 --> 00:23:12,920
+a way<font color="#CCCCCC"> to replicate itself I thought</font><font color="#E5E5E5"> that</font>
+
+445
+00:23:12,920 --> 00:23:15,500
+<font color="#E5E5E5">death was maybe it's 300 million years</font>
+
+446
+00:23:15,500 --> 00:23:17,420
+<font color="#E5E5E5">ago but</font><font color="#CCCCCC"> I thought</font><font color="#E5E5E5"> it was closer</font><font color="#CCCCCC"> to half</font>
+
+447
+00:23:17,420 --> 00:23:21,970
+a billion<font color="#E5E5E5"> years ago that</font><font color="#CCCCCC"> that's sort of</font>
+
+448
+00:23:21,970 --> 00:23:24,560
+originated<font color="#CCCCCC"> and it hasn't really changed</font>
+
+449
+00:23:24,560 --> 00:23:26,450
+that<font color="#E5E5E5"> the sort of the structure</font><font color="#CCCCCC"> of DNA</font>
+
+450
+00:23:26,450 --> 00:23:29,530
+hasn't changed<font color="#E5E5E5"> ever since that is like</font>
+
+451
+00:23:29,530 --> 00:23:33,470
+our binary code<font color="#CCCCCC"> that you're having</font>
+
+452
+00:23:33,470 --> 00:23:36,020
+<font color="#CCCCCC">hardware I mean the</font><font color="#E5E5E5"> basic programming</font>
+
+453
+00:23:36,020 --> 00:23:38,690
+language hasn't changed<font color="#E5E5E5"> but maybe the</font>
+
+454
+00:23:38,690 --> 00:23:41,780
+programming<font color="#CCCCCC"> itself of</font><font color="#E5E5E5"> has lead it did it</font>
+
+455
+00:23:41,780 --> 00:23:45,170
+sort of it it happened to be<font color="#E5E5E5"> a set of</font>
+
+456
+00:23:45,170 --> 00:23:48,650
+<font color="#E5E5E5">rules</font><font color="#CCCCCC"> that was good</font><font color="#E5E5E5"> enough to to sort of</font>
+
+457
+00:23:48,650 --> 00:23:53,300
+develop endless variability and and sort
+
+458
+00:23:53,300 --> 00:23:57,710
+<font color="#E5E5E5">of the the idea of self-replicating</font>
+
+459
+00:23:57,710 --> 00:24:00,860
+molecules competing with each other for
+
+460
+00:24:00,860 --> 00:24:04,040
+resources<font color="#E5E5E5"> and and one type eventually</font>
+
+461
+00:24:04,040 --> 00:24:07,910
+sort of always<font color="#CCCCCC"> taking</font><font color="#E5E5E5"> over that happened</font>
+
+462
+00:24:07,910 --> 00:24:10,550
+before<font color="#E5E5E5"> there were any fossils so we</font>
+
+463
+00:24:10,550 --> 00:24:12,500
+don't know how that<font color="#CCCCCC"> exactly happened</font>
+
+464
+00:24:12,500 --> 00:24:16,430
+but I believe it it's it's clear that
+
+465
+00:24:16,430 --> 00:24:19,880
+<font color="#E5E5E5">that did happen and can you comment on</font>
+
+466
+00:24:19,880 --> 00:24:23,810
+consciousness<font color="#E5E5E5"> and how you see it because</font>
+
+467
+00:24:23,810 --> 00:24:25,910
+I think we'll talk<font color="#E5E5E5"> about programming</font>
+
+468
+00:24:25,910 --> 00:24:28,070
+quite a bit we'll talk about<font color="#E5E5E5"> you know</font>
+
+469
+00:24:28,070 --> 00:24:30,310
+<font color="#E5E5E5">intelligence</font><font color="#CCCCCC"> connecting to programming</font>
+
+470
+00:24:30,310 --> 00:24:32,630
+fundamentally but consciousness
+
+471
+00:24:32,630 --> 00:24:34,610
+consciousness is this whole lot of<font color="#E5E5E5"> other</font>
+
+472
+00:24:34,610 --> 00:24:38,080
+thing do you think<font color="#CCCCCC"> about it often as a</font>
+
+473
+00:24:38,080 --> 00:24:41,710
+developer<font color="#CCCCCC"> of a programming language and</font>
+
+474
+00:24:41,710 --> 00:24:46,040
+and as a human those those are pretty
+
+475
+00:24:46,040 --> 00:24:50,750
+sort of separate topics<font color="#E5E5E5"> my sort</font><font color="#CCCCCC"> of my</font>
+
+476
+00:24:50,750 --> 00:24:54,040
+line of work working with programming
+
+477
+00:24:54,040 --> 00:24:58,520
+does not involve<font color="#E5E5E5"> anything that that goes</font>
+
+478
+00:24:58,520 --> 00:25:00,110
+in the direction<font color="#CCCCCC"> of developing</font>
+
+479
+00:25:00,110 --> 00:25:03,020
+intelligence or<font color="#E5E5E5"> consciousness but sort</font>
+
+480
+00:25:03,020 --> 00:25:05,860
+of privately<font color="#E5E5E5"> as an avid reader of</font>
+
+481
+00:25:05,860 --> 00:25:13,280
+<font color="#E5E5E5">popular science writing I</font><font color="#CCCCCC"> I have some</font>
+
+482
+00:25:13,280 --> 00:25:17,890
+thoughts which which is mostly that<font color="#E5E5E5"> I</font>
+
+483
+00:25:17,890 --> 00:25:20,000
+don't actually believe that
+
+484
+00:25:20,000 --> 00:25:23,510
+<font color="#E5E5E5">consciousness is an all-or-nothing thing</font>
+
+485
+00:25:23,510 --> 00:25:28,820
+I have a feeling that and<font color="#E5E5E5"> and I forget</font>
+
+486
+00:25:28,820 --> 00:25:34,750
+<font color="#E5E5E5">what I read that influenced this but I</font>
+
+487
+00:25:34,750 --> 00:25:37,370
+feel<font color="#CCCCCC"> that if you</font><font color="#E5E5E5"> look at a cat or a dog</font>
+
+488
+00:25:37,370 --> 00:25:39,800
+or a<font color="#E5E5E5"> mouse they have some form of</font>
+
+489
+00:25:39,800 --> 00:25:43,840
+intelligence if you look at a fish it
+
+490
+00:25:43,840 --> 00:25:51,260
+<font color="#E5E5E5">has some form of intelligence and that</font>
+
+491
+00:25:51,260 --> 00:25:54,080
+evolution<font color="#E5E5E5"> just took a long time</font><font color="#CCCCCC"> but I</font>
+
+492
+00:25:54,080 --> 00:25:55,850
+feel<font color="#E5E5E5"> that the</font><font color="#CCCCCC"> the sort of</font><font color="#E5E5E5"> the evolution</font>
+
+493
+00:25:55,850 --> 00:26:00,350
+of more and<font color="#E5E5E5"> more intelligence that</font><font color="#CCCCCC"> led</font>
+
+494
+00:26:00,350 --> 00:26:02,150
+to to<font color="#E5E5E5"> sort of the human form of</font>
+
+495
+00:26:02,150 --> 00:26:08,900
+intelligence follow the evolution of the
+
+496
+00:26:08,900 --> 00:26:13,570
+senses especially<font color="#E5E5E5"> the visual sense</font><font color="#CCCCCC"> I</font>
+
+497
+00:26:13,570 --> 00:26:17,120
+mean<font color="#CCCCCC"> there is an enormous amount of</font>
+
+498
+00:26:17,120 --> 00:26:20,600
+<font color="#E5E5E5">processing that's needed</font><font color="#CCCCCC"> to interpret</font><font color="#E5E5E5"> a</font>
+
+499
+00:26:20,600 --> 00:26:23,300
+scene and humans are<font color="#E5E5E5"> still better at</font>
+
+500
+00:26:23,300 --> 00:26:25,820
+that<font color="#E5E5E5"> than then computers</font>
+
+501
+00:26:25,820 --> 00:26:29,250
+yeah<font color="#CCCCCC"> and so and and and I have a feeling</font>
+
+502
+00:26:29,250 --> 00:26:37,320
+<font color="#E5E5E5">that there</font><font color="#CCCCCC"> is a sort of</font><font color="#E5E5E5"> the reason that</font>
+
+503
+00:26:37,320 --> 00:26:39,690
+<font color="#CCCCCC">that like mammals is in</font><font color="#E5E5E5"> particular</font>
+
+504
+00:26:39,690 --> 00:26:42,960
+developed the levels of consciousness
+
+505
+00:26:42,960 --> 00:26:46,050
+<font color="#E5E5E5">that they have and</font><font color="#CCCCCC"> that eventually</font><font color="#E5E5E5"> read</font>
+
+506
+00:26:46,050 --> 00:26:48,210
+sort of<font color="#CCCCCC"> informative going from</font>
+
+507
+00:26:48,210 --> 00:26:50,730
+intelligence to to self-awareness<font color="#E5E5E5"> in</font>
+
+508
+00:26:50,730 --> 00:26:54,180
+consciousness has<font color="#CCCCCC"> to do with sort</font><font color="#E5E5E5"> of</font>
+
+509
+00:26:54,180 --> 00:26:56,910
+being<font color="#E5E5E5"> a robot that has very highly</font>
+
+510
+00:26:56,910 --> 00:27:00,030
+<font color="#E5E5E5">developed senses</font><font color="#CCCCCC"> as a lot of rich</font>
+
+511
+00:27:00,030 --> 00:27:02,330
+sensory<font color="#E5E5E5"> information coming in so the</font>
+
+512
+00:27:02,330 --> 00:27:05,040
+it's a really interesting thought that
+
+513
+00:27:05,040 --> 00:27:08,970
+the that<font color="#E5E5E5"> whatever that basic mechanism</font>
+
+514
+00:27:08,970 --> 00:27:09,750
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> DNA</font>
+
+515
+00:27:09,750 --> 00:27:12,390
+whatever that<font color="#E5E5E5"> basic building blocks</font><font color="#CCCCCC"> are</font>
+
+516
+00:27:12,390 --> 00:27:15,330
+programming is you<font color="#E5E5E5"> if you just add</font><font color="#CCCCCC"> more</font>
+
+517
+00:27:15,330 --> 00:27:18,900
+abilities more more<font color="#E5E5E5"> high resolution</font>
+
+518
+00:27:18,900 --> 00:27:21,300
+sensors more sensors you just keep
+
+519
+00:27:21,300 --> 00:27:22,920
+stacking those things on top that
+
+520
+00:27:22,920 --> 00:27:25,200
+<font color="#CCCCCC">there's basic programming</font><font color="#E5E5E5"> in trying to</font>
+
+521
+00:27:25,200 --> 00:27:27,930
+survive<font color="#E5E5E5"> develops very interesting things</font>
+
+522
+00:27:27,930 --> 00:27:30,780
+that<font color="#E5E5E5"> start to us humans</font><font color="#CCCCCC"> to appear like</font>
+
+523
+00:27:30,780 --> 00:27:33,120
+intelligence and consciousness<font color="#E5E5E5"> yeah so</font>
+
+524
+00:27:33,120 --> 00:27:37,050
+in in as far<font color="#E5E5E5"> as robots go I</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> that</font>
+
+525
+00:27:37,050 --> 00:27:40,640
+the<font color="#E5E5E5"> self-driving cars have the sort of</font>
+
+526
+00:27:40,640 --> 00:27:44,040
+<font color="#E5E5E5">the greatest opportunity</font><font color="#CCCCCC"> of developing</font>
+
+527
+00:27:44,040 --> 00:27:45,240
+<font color="#E5E5E5">something like that</font>
+
+528
+00:27:45,240 --> 00:27:48,840
+because when<font color="#E5E5E5"> I Drive myself</font>
+
+529
+00:27:48,840 --> 00:27:51,630
+I don't just pay attention<font color="#E5E5E5"> to</font><font color="#CCCCCC"> the rules</font>
+
+530
+00:27:51,630 --> 00:27:55,620
+of the road I also look around<font color="#E5E5E5"> and I get</font>
+
+531
+00:27:55,620 --> 00:27:57,960
+clues from that oh this<font color="#E5E5E5"> is a shopping</font>
+
+532
+00:27:57,960 --> 00:28:02,160
+district<font color="#CCCCCC"> oh here's an old lady crossing</font>
+
+533
+00:28:02,160 --> 00:28:06,890
+<font color="#CCCCCC">the street oh here is someone carrying a</font>
+
+534
+00:28:06,890 --> 00:28:09,930
+pile of mail<font color="#E5E5E5"> there's a mailbox</font><font color="#CCCCCC"> thatthat</font>
+
+535
+00:28:09,930 --> 00:28:12,240
+<font color="#CCCCCC">should they're</font><font color="#E5E5E5"> gonna cross the street</font><font color="#CCCCCC"> to</font>
+
+536
+00:28:12,240 --> 00:28:15,090
+reach that mailbox<font color="#CCCCCC"> and I slowed down and</font>
+
+537
+00:28:15,090 --> 00:28:16,920
+I don't<font color="#E5E5E5"> even think</font><font color="#CCCCCC"> about that yeah and</font>
+
+538
+00:28:16,920 --> 00:28:21,030
+and<font color="#CCCCCC"> so there is there's so much</font><font color="#E5E5E5"> where</font>
+
+539
+00:28:21,030 --> 00:28:24,030
+you turn your observations into an
+
+540
+00:28:24,030 --> 00:28:26,870
+<font color="#E5E5E5">understanding of what utter</font>
+
+541
+00:28:26,870 --> 00:28:29,760
+<font color="#E5E5E5">consciousnesses are</font><font color="#CCCCCC"> going to do or what</font>
+
+542
+00:28:29,760 --> 00:28:32,460
+what<font color="#CCCCCC"> utter systems in</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> world are</font>
+
+543
+00:28:32,460 --> 00:28:34,950
+going to<font color="#CCCCCC"> be oh that tree is gone at</font>
+
+544
+00:28:34,950 --> 00:28:37,230
+fault
+
+545
+00:28:37,230 --> 00:28:42,860
+yeah I see<font color="#E5E5E5"> sort of I see much more of</font>
+
+546
+00:28:42,860 --> 00:28:46,200
+<font color="#CCCCCC">expect somehow that if anything</font><font color="#E5E5E5"> is going</font>
+
+547
+00:28:46,200 --> 00:28:48,270
+<font color="#E5E5E5">to become conscious</font><font color="#CCCCCC"> it's going to be the</font>
+
+548
+00:28:48,270 --> 00:28:50,910
+<font color="#CCCCCC">self-driving car and not the network</font><font color="#E5E5E5"> of</font>
+
+549
+00:28:50,910 --> 00:28:56,520
+a bazillion computers at in a Google or
+
+550
+00:28:56,520 --> 00:28:59,070
+Amazon<font color="#CCCCCC"> data center that</font><font color="#E5E5E5"> are all</font>
+
+551
+00:28:59,070 --> 00:29:02,760
+networked<font color="#CCCCCC"> together to to do whatever</font>
+
+552
+00:29:02,760 --> 00:29:06,750
+they do so in that sense<font color="#CCCCCC"> so you actually</font>
+
+553
+00:29:06,750 --> 00:29:08,400
+<font color="#CCCCCC">have</font><font color="#E5E5E5"> like is that's what I work in</font>
+
+554
+00:29:08,400 --> 00:29:10,470
+<font color="#CCCCCC">autonomous vehicles you highlight a</font><font color="#E5E5E5"> big</font>
+
+555
+00:29:10,470 --> 00:29:13,980
+gap<font color="#E5E5E5"> between what</font><font color="#CCCCCC"> we currently can't do</font>
+
+556
+00:29:13,980 --> 00:29:16,320
+and what<font color="#CCCCCC"> we truly</font><font color="#E5E5E5"> need to be able to do</font>
+
+557
+00:29:16,320 --> 00:29:18,750
+to solve the problem<font color="#E5E5E5"> under</font><font color="#CCCCCC"> that</font>
+
+558
+00:29:18,750 --> 00:29:20,640
+formulation<font color="#E5E5E5"> and consciousness and</font>
+
+559
+00:29:20,640 --> 00:29:23,309
+intelligence is something<font color="#E5E5E5"> that basically</font>
+
+560
+00:29:23,309 --> 00:29:26,610
+<font color="#E5E5E5">a system</font><font color="#CCCCCC"> should have in order to</font>
+
+561
+00:29:26,610 --> 00:29:29,520
+interact<font color="#CCCCCC"> with us humans as opposed to</font>
+
+562
+00:29:29,520 --> 00:29:33,710
+some kind of abstract notion of a
+
+563
+00:29:33,710 --> 00:29:35,760
+consciousness consciousness is something
+
+564
+00:29:35,760 --> 00:29:37,500
+<font color="#CCCCCC">that you need to have to be able to</font>
+
+565
+00:29:37,500 --> 00:29:42,360
+<font color="#E5E5E5">empathize</font><font color="#CCCCCC"> to be able to fear the</font>
+
+566
+00:29:42,360 --> 00:29:44,940
+understand what the fear of<font color="#E5E5E5"> death is all</font>
+
+567
+00:29:44,940 --> 00:29:46,799
+these aspects that are important for
+
+568
+00:29:46,799 --> 00:29:48,510
+<font color="#E5E5E5">interaction with pedestrians you need to</font>
+
+569
+00:29:48,510 --> 00:29:52,380
+be able<font color="#E5E5E5"> to do basic computation based on</font>
+
+570
+00:29:52,380 --> 00:29:58,440
+our human desires and flaws sort of yeah
+
+571
+00:29:58,440 --> 00:30:00,419
+if you if you<font color="#E5E5E5"> look at the dog the dog</font>
+
+572
+00:30:00,419 --> 00:30:02,970
+clearly<font color="#E5E5E5"> knows I mean I'm not the dog out</font>
+
+573
+00:30:02,970 --> 00:30:04,559
+<font color="#E5E5E5">on my brother</font><font color="#CCCCCC"> I have friends who have</font>
+
+574
+00:30:04,559 --> 00:30:07,410
+dogs the dogs clearly know<font color="#CCCCCC"> what the</font>
+
+575
+00:30:07,410 --> 00:30:09,270
+humans<font color="#E5E5E5"> around them are going to do or</font>
+
+576
+00:30:09,270 --> 00:30:10,890
+the least they have a<font color="#E5E5E5"> model of what</font>
+
+577
+00:30:10,890 --> 00:30:12,510
+those humans are going to do and they
+
+578
+00:30:12,510 --> 00:30:15,870
+learn<font color="#E5E5E5"> the</font><font color="#CCCCCC"> dot some dogs know when you're</font>
+
+579
+00:30:15,870 --> 00:30:17,730
+going<font color="#E5E5E5"> out and</font><font color="#CCCCCC"> they</font><font color="#E5E5E5"> want to go out</font><font color="#CCCCCC"> with</font>
+
+580
+00:30:17,730 --> 00:30:19,650
+you they're sad when you leave them
+
+581
+00:30:19,650 --> 00:30:23,100
+alone<font color="#CCCCCC"> they cry they're afraid because</font>
+
+582
+00:30:23,100 --> 00:30:25,770
+<font color="#E5E5E5">they were</font><font color="#CCCCCC"> mistreated when they were</font>
+
+583
+00:30:25,770 --> 00:30:33,470
+younger<font color="#E5E5E5"> we we don't assign sort of</font>
+
+584
+00:30:33,470 --> 00:30:35,910
+consciousness to dogs or at least not
+
+585
+00:30:35,910 --> 00:30:39,900
+not all that<font color="#E5E5E5"> much but I also don't</font><font color="#CCCCCC"> think</font>
+
+586
+00:30:39,900 --> 00:30:43,200
+they have none of<font color="#E5E5E5"> that so I think it's</font>
+
+587
+00:30:43,200 --> 00:30:47,070
+<font color="#E5E5E5">it's consciousness and intelligence are</font>
+
+588
+00:30:47,070 --> 00:30:49,600
+not all or nothing
+
+589
+00:30:49,600 --> 00:30:52,750
+the spectrum<font color="#E5E5E5"> it's really interesting but</font>
+
+590
+00:30:52,750 --> 00:30:57,220
+in returning<font color="#CCCCCC"> to programming languages</font>
+
+591
+00:30:57,220 --> 00:30:58,480
+<font color="#E5E5E5">and the way we think about building</font>
+
+592
+00:30:58,480 --> 00:31:00,429
+<font color="#E5E5E5">these kinds of things about building</font>
+
+593
+00:31:00,429 --> 00:31:02,289
+intelligence building consciousness
+
+594
+00:31:02,289 --> 00:31:04,900
+<font color="#E5E5E5">building artificial beings I think</font><font color="#CCCCCC"> one</font>
+
+595
+00:31:04,900 --> 00:31:06,940
+of the exciting<font color="#E5E5E5"> ideas came in the 17th</font>
+
+596
+00:31:06,940 --> 00:31:11,289
+<font color="#CCCCCC">century and with</font><font color="#E5E5E5"> liveness</font><font color="#CCCCCC"> Hobbes decart</font>
+
+597
+00:31:11,289 --> 00:31:13,840
+where there's this<font color="#E5E5E5"> feeling that you can</font>
+
+598
+00:31:13,840 --> 00:31:18,660
+convert all<font color="#E5E5E5"> thought all reasoning all</font>
+
+599
+00:31:18,660 --> 00:31:22,299
+the thing that we find<font color="#CCCCCC"> very special in</font>
+
+600
+00:31:22,299 --> 00:31:24,460
+our brains you can convert<font color="#E5E5E5"> all that into</font>
+
+601
+00:31:24,460 --> 00:31:27,669
+logic you can formalize it<font color="#E5E5E5"> form</font><font color="#CCCCCC"> a</font>
+
+602
+00:31:27,669 --> 00:31:29,559
+<font color="#E5E5E5">reasoning and then once you formalize</font>
+
+603
+00:31:29,559 --> 00:31:31,630
+everything all of knowledge and<font color="#E5E5E5"> you can</font>
+
+604
+00:31:31,630 --> 00:31:33,610
+<font color="#E5E5E5">just calculate and that's what we're</font>
+
+605
+00:31:33,610 --> 00:31:34,720
+doing<font color="#CCCCCC"> with</font><font color="#E5E5E5"> our brains is we're</font>
+
+606
+00:31:34,720 --> 00:31:36,280
+calculating so there's this whole<font color="#CCCCCC"> idea</font>
+
+607
+00:31:36,280 --> 00:31:40,059
+that we<font color="#E5E5E5"> that this is possible that</font><font color="#CCCCCC"> this</font>
+
+608
+00:31:40,059 --> 00:31:43,419
+<font color="#CCCCCC">we're aware of</font><font color="#E5E5E5"> the concept of pattern</font>
+
+609
+00:31:43,419 --> 00:31:46,270
+<font color="#CCCCCC">matching in the sense that</font><font color="#E5E5E5"> we</font><font color="#CCCCCC"> are aware</font>
+
+610
+00:31:46,270 --> 00:31:50,289
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> now add a sort of thought you</font><font color="#E5E5E5"> they</font>
+
+611
+00:31:50,289 --> 00:31:53,140
+they<font color="#E5E5E5"> had discovered incredible bits of</font>
+
+612
+00:31:53,140 --> 00:31:58,260
+mathematics like<font color="#E5E5E5"> Newton's calculus and</font>
+
+613
+00:31:58,260 --> 00:32:02,080
+they're sort of idealism<font color="#E5E5E5"> they're they're</font>
+
+614
+00:32:02,080 --> 00:32:05,400
+sort<font color="#E5E5E5"> of extension of what they could</font><font color="#CCCCCC"> do</font>
+
+615
+00:32:05,400 --> 00:32:09,850
+<font color="#CCCCCC">with logic</font><font color="#E5E5E5"> and math sort of went along</font>
+
+616
+00:32:09,850 --> 00:32:15,039
+<font color="#E5E5E5">those lines and they thought there</font>
+
+617
+00:32:15,039 --> 00:32:18,010
+there's like yeah logic there's there's
+
+618
+00:32:18,010 --> 00:32:21,159
+like a bunch of<font color="#E5E5E5"> rules and a bunch of</font>
+
+619
+00:32:21,159 --> 00:32:24,010
+input<font color="#CCCCCC"> they didn't</font><font color="#E5E5E5"> realize that how you</font>
+
+620
+00:32:24,010 --> 00:32:27,760
+<font color="#E5E5E5">recognize a face is not just a bunch of</font>
+
+621
+00:32:27,760 --> 00:32:32,250
+rules but it's a ton<font color="#E5E5E5"> of data plus a</font>
+
+622
+00:32:32,250 --> 00:32:36,730
+circuit that that sort of interprets the
+
+623
+00:32:36,730 --> 00:32:39,159
+visual<font color="#E5E5E5"> clues and the context and</font>
+
+624
+00:32:39,159 --> 00:32:44,620
+everything else<font color="#E5E5E5"> and somehow</font><font color="#CCCCCC"> can</font>
+
+625
+00:32:44,620 --> 00:32:47,470
+massively parallel pattern<font color="#E5E5E5"> match against</font>
+
+626
+00:32:47,470 --> 00:32:51,640
+stored rules<font color="#CCCCCC"> I mean but if I see you</font>
+
+627
+00:32:51,640 --> 00:32:54,309
+<font color="#CCCCCC">tomorrow here in</font><font color="#E5E5E5"> front of the drop box</font>
+
+628
+00:32:54,309 --> 00:32:57,039
+office<font color="#E5E5E5"> I might recognize you</font><font color="#CCCCCC"> even if I'm</font>
+
+629
+00:32:57,039 --> 00:32:59,049
+wearing a<font color="#E5E5E5"> different shirt yeah but if I</font>
+
+630
+00:32:59,049 --> 00:33:01,120
+if I see you tomorrow<font color="#CCCCCC"> in a coffee shop</font>
+
+631
+00:33:01,120 --> 00:33:02,110
+<font color="#CCCCCC">in Belmont</font>
+
+632
+00:33:02,110 --> 00:33:03,610
+I might have no<font color="#CCCCCC"> idea</font>
+
+633
+00:33:03,610 --> 00:33:05,290
+that was you or on the beach or whatever
+
+634
+00:33:05,290 --> 00:33:09,010
+<font color="#CCCCCC">hey I make those mistakes</font><font color="#E5E5E5"> myself all the</font>
+
+635
+00:33:09,010 --> 00:33:12,580
+<font color="#CCCCCC">time I see someone that I only know s</font>
+
+636
+00:33:12,580 --> 00:33:14,860
+like oh this person<font color="#CCCCCC"> is a colleague</font><font color="#E5E5E5"> of my</font>
+
+637
+00:33:14,860 --> 00:33:17,260
+wife's<font color="#CCCCCC"> yeah and then I see them at the</font>
+
+638
+00:33:17,260 --> 00:33:20,860
+movies<font color="#CCCCCC"> and I didn't</font><font color="#E5E5E5"> recognize them but</font>
+
+639
+00:33:20,860 --> 00:33:22,929
+<font color="#E5E5E5">do you see those you call it pattern</font>
+
+640
+00:33:22,929 --> 00:33:29,200
+matching<font color="#E5E5E5"> do you see that rules is unable</font>
+
+641
+00:33:29,200 --> 00:33:32,559
+to encode<font color="#E5E5E5"> that to you you everything you</font>
+
+642
+00:33:32,559 --> 00:33:34,480
+see all the<font color="#E5E5E5"> pieces of</font><font color="#CCCCCC"> information you</font>
+
+643
+00:33:34,480 --> 00:33:36,100
+look around this room<font color="#E5E5E5"> I'm wearing a</font>
+
+644
+00:33:36,100 --> 00:33:38,260
+black<font color="#CCCCCC"> shirt I have a</font><font color="#E5E5E5"> certain height I'm</font>
+
+645
+00:33:38,260 --> 00:33:39,880
+a human all these you can there's
+
+646
+00:33:39,880 --> 00:33:42,280
+<font color="#CCCCCC">probably tens of thousands of facts you</font>
+
+647
+00:33:42,280 --> 00:33:44,799
+<font color="#E5E5E5">pick up moment by moment about this</font>
+
+648
+00:33:44,799 --> 00:33:46,720
+<font color="#E5E5E5">scene you take them</font><font color="#CCCCCC"> for granted and you</font>
+
+649
+00:33:46,720 --> 00:33:49,000
+accumulate aggregate them together to
+
+650
+00:33:49,000 --> 00:33:49,780
+understand<font color="#CCCCCC"> the</font><font color="#E5E5E5"> scene</font>
+
+651
+00:33:49,780 --> 00:33:50,980
+you don't think all that could be
+
+652
+00:33:50,980 --> 00:33:52,720
+<font color="#E5E5E5">encoded to</font><font color="#CCCCCC"> where at the end of the day</font>
+
+653
+00:33:52,720 --> 00:33:54,700
+you can<font color="#CCCCCC"> just put it all on the</font><font color="#E5E5E5"> table and</font>
+
+654
+00:33:54,700 --> 00:33:58,179
+calculate<font color="#CCCCCC"> oh I</font><font color="#E5E5E5"> don't know what that</font>
+
+655
+00:33:58,179 --> 00:34:02,440
+means I mean yes in the sense that there
+
+656
+00:34:02,440 --> 00:34:05,980
+is<font color="#CCCCCC"> no</font><font color="#E5E5E5"> there there is no actual magic</font>
+
+657
+00:34:05,980 --> 00:34:08,830
+<font color="#E5E5E5">there</font><font color="#CCCCCC"> but there are enough layers of</font>
+
+658
+00:34:08,830 --> 00:34:13,000
+abstraction from sort of from the facts
+
+659
+00:34:13,000 --> 00:34:16,449
+as they<font color="#E5E5E5"> enter my eyes</font><font color="#CCCCCC"> in my ears to the</font>
+
+660
+00:34:16,449 --> 00:34:19,149
+understanding of<font color="#E5E5E5"> the scene that that's I</font>
+
+661
+00:34:19,149 --> 00:34:23,139
+<font color="#CCCCCC">don't</font><font color="#E5E5E5"> think that that AI has really</font>
+
+662
+00:34:23,139 --> 00:34:29,168
+covered enough of of that distance it's
+
+663
+00:34:29,168 --> 00:34:31,600
+like if you take<font color="#CCCCCC"> a</font><font color="#E5E5E5"> human body and you</font>
+
+664
+00:34:31,600 --> 00:34:35,770
+realize it's built out<font color="#E5E5E5"> of atoms well</font>
+
+665
+00:34:35,770 --> 00:34:39,790
+that that is a uselessly reductionist
+
+666
+00:34:39,790 --> 00:34:42,940
+view<font color="#E5E5E5"> right right the body is built out</font>
+
+667
+00:34:42,940 --> 00:34:44,710
+of organs the organs are built out of
+
+668
+00:34:44,710 --> 00:34:46,600
+<font color="#E5E5E5">cells the cells are built out of</font>
+
+669
+00:34:46,600 --> 00:34:50,560
+proteins the proteins are built out of
+
+670
+00:34:50,560 --> 00:34:53,139
+amino acids the amino acids are built
+
+671
+00:34:53,139 --> 00:34:55,719
+out<font color="#CCCCCC"> of atoms and then you get</font><font color="#E5E5E5"> to quantum</font>
+
+672
+00:34:55,719 --> 00:34:59,410
+<font color="#CCCCCC">mechanics so that's a</font><font color="#E5E5E5"> very pragmatic</font>
+
+673
+00:34:59,410 --> 00:35:01,359
+view<font color="#E5E5E5"> I</font><font color="#CCCCCC"> mean obviously is an engineer I</font>
+
+674
+00:35:01,359 --> 00:35:03,190
+agree with that<font color="#E5E5E5"> kind of view but I also</font>
+
+675
+00:35:03,190 --> 00:35:06,700
+you also have to consider the the with
+
+676
+00:35:06,700 --> 00:35:09,280
+the<font color="#E5E5E5"> same</font><font color="#CCCCCC"> harris</font><font color="#E5E5E5"> view of well well</font>
+
+677
+00:35:09,280 --> 00:35:10,840
+intelligence is just<font color="#CCCCCC"> information</font>
+
+678
+00:35:10,840 --> 00:35:13,690
+processing these just like you said<font color="#E5E5E5"> you</font>
+
+679
+00:35:13,690 --> 00:35:15,730
+take in sensory information you do some
+
+680
+00:35:15,730 --> 00:35:16,920
+stuff<font color="#CCCCCC"> with it and</font>
+
+681
+00:35:16,920 --> 00:35:18,210
+<font color="#E5E5E5">you come up</font><font color="#CCCCCC"> with actions that</font><font color="#E5E5E5"> are</font>
+
+682
+00:35:18,210 --> 00:35:22,200
+<font color="#CCCCCC">intelligent that McGee makes it sound</font><font color="#E5E5E5"> so</font>
+
+683
+00:35:22,200 --> 00:35:24,800
+<font color="#CCCCCC">easy I don't</font><font color="#E5E5E5"> know who Sam Harris is</font><font color="#CCCCCC"> oh</font>
+
+684
+00:35:24,800 --> 00:35:27,000
+<font color="#CCCCCC">let's philosopher so like this how</font>
+
+685
+00:35:27,000 --> 00:35:29,160
+philosophers often<font color="#E5E5E5"> think right and</font>
+
+686
+00:35:29,160 --> 00:35:31,170
+<font color="#CCCCCC">essentially that's what</font><font color="#E5E5E5"> the car was is</font>
+
+687
+00:35:31,170 --> 00:35:33,630
+wait a minute<font color="#E5E5E5"> if there is like you said</font>
+
+688
+00:35:33,630 --> 00:35:34,970
+<font color="#E5E5E5">no magic</font>
+
+689
+00:35:34,970 --> 00:35:37,680
+so you<font color="#CCCCCC"> basically says it doesn't appear</font>
+
+690
+00:35:37,680 --> 00:35:39,690
+like there is any magic<font color="#CCCCCC"> but we know so</font>
+
+691
+00:35:39,690 --> 00:35:42,810
+little<font color="#E5E5E5"> about it that it might as well be</font>
+
+692
+00:35:42,810 --> 00:35:45,810
+magic<font color="#E5E5E5"> so just because we know</font><font color="#CCCCCC"> that we're</font>
+
+693
+00:35:45,810 --> 00:35:47,700
+made of atoms<font color="#E5E5E5"> just because we know we're</font>
+
+694
+00:35:47,700 --> 00:35:49,710
+made of organs<font color="#E5E5E5"> the fact that</font><font color="#CCCCCC"> we know</font>
+
+695
+00:35:49,710 --> 00:35:51,630
+<font color="#CCCCCC">very little hot to get</font><font color="#E5E5E5"> from the atoms to</font>
+
+696
+00:35:51,630 --> 00:35:54,500
+organs in a way that's recreate able
+
+697
+00:35:54,500 --> 00:35:58,230
+means it that you shouldn't get<font color="#CCCCCC"> too</font>
+
+698
+00:35:58,230 --> 00:36:00,540
+excited just<font color="#E5E5E5"> yet about the fact that you</font>
+
+699
+00:36:00,540 --> 00:36:01,950
+figured out<font color="#CCCCCC"> that</font><font color="#E5E5E5"> we're made of atoms</font>
+
+700
+00:36:01,950 --> 00:36:06,240
+<font color="#E5E5E5">right and and and the same about taking</font>
+
+701
+00:36:06,240 --> 00:36:09,390
+<font color="#E5E5E5">facts as are our sensory organs</font><font color="#CCCCCC"> take</font>
+
+702
+00:36:09,390 --> 00:36:13,140
+them in and turning<font color="#E5E5E5"> that</font><font color="#CCCCCC"> into</font><font color="#E5E5E5"> reasons</font>
+
+703
+00:36:13,140 --> 00:36:18,000
+and actions that<font color="#CCCCCC"> sort of there are a lot</font>
+
+704
+00:36:18,000 --> 00:36:19,980
+of abstractions that<font color="#E5E5E5"> we haven't quite</font>
+
+705
+00:36:19,980 --> 00:36:23,610
+<font color="#E5E5E5">figured out how</font><font color="#CCCCCC"> to how to deal with</font>
+
+706
+00:36:23,610 --> 00:36:29,670
+those I mean I<font color="#E5E5E5"> so sometimes I</font><font color="#CCCCCC"> don't know</font>
+
+707
+00:36:29,670 --> 00:36:32,060
+<font color="#CCCCCC">if I</font><font color="#E5E5E5"> can go on</font><font color="#CCCCCC"> a tangent or</font><font color="#E5E5E5"> not</font><font color="#CCCCCC"> I</font>
+
+708
+00:36:32,060 --> 00:36:36,960
+dragged you back in sure so if I take a
+
+709
+00:36:36,960 --> 00:36:41,520
+<font color="#E5E5E5">simple program</font><font color="#CCCCCC"> that parses</font><font color="#E5E5E5"> say say have</font>
+
+710
+00:36:41,520 --> 00:36:44,580
+a<font color="#E5E5E5"> compiler it parses a program in a</font>
+
+711
+00:36:44,580 --> 00:36:47,820
+sense the input routine of that compiler
+
+712
+00:36:47,820 --> 00:36:52,230
+of that parser is a sense a sensing
+
+713
+00:36:52,230 --> 00:36:55,590
+Oregon and it<font color="#E5E5E5"> builds up a mighty</font>
+
+714
+00:36:55,590 --> 00:36:58,230
+complicated internal representation<font color="#E5E5E5"> of</font>
+
+715
+00:36:58,230 --> 00:37:00,620
+the program it just<font color="#E5E5E5"> saw it doesn't just</font>
+
+716
+00:37:00,620 --> 00:37:03,810
+have a linear<font color="#CCCCCC"> sequence of bytes</font>
+
+717
+00:37:03,810 --> 00:37:06,180
+representing the text of the program
+
+718
+00:37:06,180 --> 00:37:09,000
+anymore<font color="#CCCCCC"> it has an</font><font color="#E5E5E5"> abstract syntax tree</font>
+
+719
+00:37:09,000 --> 00:37:11,570
+<font color="#CCCCCC">and I don't know how many of your</font>
+
+720
+00:37:11,570 --> 00:37:15,420
+<font color="#E5E5E5">viewers or listeners are familiar with</font>
+
+721
+00:37:15,420 --> 00:37:18,630
+compiler<font color="#E5E5E5"> technology but there's fewer</font>
+
+722
+00:37:18,630 --> 00:37:22,230
+and<font color="#E5E5E5"> fewer these days right that's also</font>
+
+723
+00:37:22,230 --> 00:37:25,470
+true probably people<font color="#E5E5E5"> want to take a</font>
+
+724
+00:37:25,470 --> 00:37:28,570
+<font color="#E5E5E5">shortcut</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> they're sort of this</font>
+
+725
+00:37:28,570 --> 00:37:30,970
+<font color="#E5E5E5">abstraction is a data structure that the</font>
+
+726
+00:37:30,970 --> 00:37:34,750
+<font color="#E5E5E5">compiler then uses to produce outputs</font>
+
+727
+00:37:34,750 --> 00:37:37,030
+that is<font color="#E5E5E5"> relevant like a translation of</font>
+
+728
+00:37:37,030 --> 00:37:39,400
+<font color="#E5E5E5">the program to machine code</font><font color="#CCCCCC"> that can be</font>
+
+729
+00:37:39,400 --> 00:37:47,170
+<font color="#CCCCCC">executed by by</font><font color="#E5E5E5"> hardware and then</font><font color="#CCCCCC"> the</font>
+
+730
+00:37:47,170 --> 00:37:50,770
+<font color="#E5E5E5">data structure gets thrown away when</font><font color="#CCCCCC"> a</font>
+
+731
+00:37:50,770 --> 00:37:56,260
+fish or a fly<font color="#E5E5E5"> sees sort of gets visual</font>
+
+732
+00:37:56,260 --> 00:38:01,950
+impulses<font color="#E5E5E5"> I'm sure it also builds up some</font>
+
+733
+00:38:01,950 --> 00:38:04,930
+data structure and for the fly that may
+
+734
+00:38:04,930 --> 00:38:08,470
+be very minimal<font color="#E5E5E5"> a fly may may have only</font>
+
+735
+00:38:08,470 --> 00:38:11,800
+a few<font color="#CCCCCC"> I mean in the</font><font color="#E5E5E5"> case of a fly's</font>
+
+736
+00:38:11,800 --> 00:38:16,510
+brain<font color="#CCCCCC"> I</font><font color="#E5E5E5"> could imagine</font><font color="#CCCCCC"> that there are few</font>
+
+737
+00:38:16,510 --> 00:38:19,750
+enough<font color="#E5E5E5"> layers of abstraction that it's</font>
+
+738
+00:38:19,750 --> 00:38:22,780
+not much more than when it's darker here
+
+739
+00:38:22,780 --> 00:38:25,110
+than it<font color="#CCCCCC"> is here well I can sense motion</font>
+
+740
+00:38:25,110 --> 00:38:28,390
+<font color="#E5E5E5">because a fly sort of responds when you</font>
+
+741
+00:38:28,390 --> 00:38:32,320
+move your arm towards it<font color="#CCCCCC"> so clearly</font><font color="#E5E5E5"> it's</font>
+
+742
+00:38:32,320 --> 00:38:35,380
+visual processing is intelligent well
+
+743
+00:38:35,380 --> 00:38:38,170
+not intelligent<font color="#E5E5E5"> but it has an</font>
+
+744
+00:38:38,170 --> 00:38:41,800
+abstraction for motion<font color="#CCCCCC"> and we still</font><font color="#E5E5E5"> have</font>
+
+745
+00:38:41,800 --> 00:38:44,860
+similar things in in but much more
+
+746
+00:38:44,860 --> 00:38:46,660
+<font color="#CCCCCC">complicated in our brains I mean</font>
+
+747
+00:38:46,660 --> 00:38:48,310
+otherwise you couldn't<font color="#E5E5E5"> drive a car if</font>
+
+748
+00:38:48,310 --> 00:38:50,230
+you if you couldn't<font color="#E5E5E5"> sort if you didn't</font>
+
+749
+00:38:50,230 --> 00:38:52,480
+<font color="#E5E5E5">have an incredibly good abstraction for</font>
+
+750
+00:38:52,480 --> 00:38:56,110
+<font color="#CCCCCC">motion yeah in some sense the same</font>
+
+751
+00:38:56,110 --> 00:38:57,970
+<font color="#E5E5E5">abstraction for motion is probably one</font>
+
+752
+00:38:57,970 --> 00:39:01,420
+of the<font color="#E5E5E5"> primary sources</font><font color="#CCCCCC"> of our of</font>
+
+753
+00:39:01,420 --> 00:39:03,640
+information for us<font color="#E5E5E5"> we just know what</font><font color="#CCCCCC"> to</font>
+
+754
+00:39:03,640 --> 00:39:05,620
+<font color="#E5E5E5">do I think</font><font color="#CCCCCC"> we know what to do with that</font>
+
+755
+00:39:05,620 --> 00:39:07,900
+<font color="#E5E5E5">we've built up other abstractions on top</font>
+
+756
+00:39:07,900 --> 00:39:10,090
+<font color="#CCCCCC">we've</font><font color="#E5E5E5"> much more</font><font color="#CCCCCC"> complicated data</font>
+
+757
+00:39:10,090 --> 00:39:13,240
+structures based on that<font color="#E5E5E5"> and we</font><font color="#CCCCCC"> build</font>
+
+758
+00:39:13,240 --> 00:39:15,820
+more persistent data structures<font color="#CCCCCC"> sort</font><font color="#E5E5E5"> of</font>
+
+759
+00:39:15,820 --> 00:39:18,400
+after some processing some information
+
+760
+00:39:18,400 --> 00:39:21,520
+<font color="#E5E5E5">sort of gets stored in our memory</font><font color="#CCCCCC"> pretty</font>
+
+761
+00:39:21,520 --> 00:39:24,280
+much permanently and<font color="#E5E5E5"> is</font><font color="#CCCCCC"> available on</font>
+
+762
+00:39:24,280 --> 00:39:27,010
+recall<font color="#CCCCCC"> I mean there are</font><font color="#E5E5E5"> some things that</font>
+
+763
+00:39:27,010 --> 00:39:30,670
+you sort of<font color="#E5E5E5"> you're conscious that you're</font>
+
+764
+00:39:30,670 --> 00:39:33,460
+remembering<font color="#CCCCCC"> it</font><font color="#E5E5E5"> like you give me your</font>
+
+765
+00:39:33,460 --> 00:39:34,150
+phone<font color="#E5E5E5"> number</font>
+
+766
+00:39:34,150 --> 00:39:37,240
+<font color="#CCCCCC">I well at my age I have to write</font><font color="#E5E5E5"> it down</font>
+
+767
+00:39:37,240 --> 00:39:39,460
+<font color="#E5E5E5">but I could imagine I could remember</font>
+
+768
+00:39:39,460 --> 00:39:42,530
+those<font color="#E5E5E5"> seven numbers or 10</font><font color="#CCCCCC"> 10 digits</font>
+
+769
+00:39:42,530 --> 00:39:45,680
+and reproduce them<font color="#CCCCCC"> in a while if I sort</font>
+
+770
+00:39:45,680 --> 00:39:49,330
+<font color="#E5E5E5">of repeat them to myself a few times</font><font color="#CCCCCC"> so</font>
+
+771
+00:39:49,330 --> 00:39:52,100
+<font color="#CCCCCC">that's a fairly conscious form of</font>
+
+772
+00:39:52,100 --> 00:39:54,740
+<font color="#E5E5E5">memorization</font><font color="#CCCCCC"> on the other hand how do I</font>
+
+773
+00:39:54,740 --> 00:39:57,860
+<font color="#E5E5E5">recognize your face</font><font color="#CCCCCC"> I have no idea</font><font color="#E5E5E5"> my</font>
+
+774
+00:39:57,860 --> 00:40:01,580
+brain has a whole<font color="#E5E5E5"> bunch of specialized</font>
+
+775
+00:40:01,580 --> 00:40:03,440
+hardware<font color="#E5E5E5"> that knows how to recognize</font>
+
+776
+00:40:03,440 --> 00:40:06,020
+faces I don't know how<font color="#E5E5E5"> much of</font><font color="#CCCCCC"> that is</font>
+
+777
+00:40:06,020 --> 00:40:09,560
+sort of<font color="#CCCCCC"> coded in our DNA</font><font color="#E5E5E5"> and how much</font><font color="#CCCCCC"> of</font>
+
+778
+00:40:09,560 --> 00:40:12,290
+that<font color="#E5E5E5"> is trained over</font><font color="#CCCCCC"> and over between</font>
+
+779
+00:40:12,290 --> 00:40:16,820
+the ages of 0<font color="#E5E5E5"> and 3 but but but somehow</font>
+
+780
+00:40:16,820 --> 00:40:20,360
+our brains know how to do lots of<font color="#CCCCCC"> things</font>
+
+781
+00:40:20,360 --> 00:40:22,340
+like<font color="#E5E5E5"> that that</font><font color="#CCCCCC"> are useful</font><font color="#E5E5E5"> in our</font>
+
+782
+00:40:22,340 --> 00:40:25,670
+interactions with with other humans<font color="#E5E5E5"> with</font>
+
+783
+00:40:25,670 --> 00:40:28,730
+without really being<font color="#CCCCCC"> conscious of how</font>
+
+784
+00:40:28,730 --> 00:40:30,980
+it's done anymore<font color="#CCCCCC"> right so</font><font color="#E5E5E5"> where are</font>
+
+785
+00:40:30,980 --> 00:40:33,650
+<font color="#E5E5E5">actual d-day lives we're operating at</font>
+
+786
+00:40:33,650 --> 00:40:35,390
+the very highest level of abstraction
+
+787
+00:40:35,390 --> 00:40:37,520
+<font color="#CCCCCC">we're just not even conscious</font><font color="#E5E5E5"> of all the</font>
+
+788
+00:40:37,520 --> 00:40:39,080
+little details underlying it
+
+789
+00:40:39,080 --> 00:40:41,660
+there's compilers on top of<font color="#CCCCCC"> sec Turtles</font>
+
+790
+00:40:41,660 --> 00:40:43,370
+on top of<font color="#E5E5E5"> turtles or</font><font color="#CCCCCC"> Turtles all the way</font>
+
+791
+00:40:43,370 --> 00:40:46,400
+down it's<font color="#CCCCCC"> compilers all the way down but</font>
+
+792
+00:40:46,400 --> 00:40:48,230
+that's essentially you see that there's
+
+793
+00:40:48,230 --> 00:40:52,310
+no magic<font color="#E5E5E5"> that's what I what I was trying</font>
+
+794
+00:40:52,310 --> 00:40:54,980
+to<font color="#E5E5E5"> get at I think is with</font><font color="#CCCCCC"> decart started</font>
+
+795
+00:40:54,980 --> 00:40:56,390
+<font color="#E5E5E5">this whole train</font><font color="#CCCCCC"> of saying that there's</font>
+
+796
+00:40:56,390 --> 00:40:59,480
+no magic<font color="#CCCCCC"> I mean there's always before</font>
+
+797
+00:40:59,480 --> 00:41:01,580
+well then the cart<font color="#E5E5E5"> also</font><font color="#CCCCCC"> have the notion</font>
+
+798
+00:41:01,580 --> 00:41:04,120
+<font color="#E5E5E5">though that the soul and the body were</font>
+
+799
+00:41:04,120 --> 00:41:07,040
+were fundamentally separate yeah I think
+
+800
+00:41:07,040 --> 00:41:09,880
+<font color="#CCCCCC">you had to write in God</font><font color="#E5E5E5"> in there for</font>
+
+801
+00:41:09,880 --> 00:41:11,960
+political reasons so I don't actually
+
+802
+00:41:11,960 --> 00:41:14,960
+<font color="#E5E5E5">not historian but there's notions in</font>
+
+803
+00:41:14,960 --> 00:41:18,440
+there that all of reasoning<font color="#CCCCCC"> all of human</font>
+
+804
+00:41:18,440 --> 00:41:20,630
+<font color="#E5E5E5">thought can be formalized</font><font color="#CCCCCC"> I think that</font>
+
+805
+00:41:20,630 --> 00:41:24,860
+continued in<font color="#CCCCCC"> the 20th century</font><font color="#E5E5E5"> with with</font>
+
+806
+00:41:24,860 --> 00:41:27,400
+<font color="#E5E5E5">Russell and with with Gaydos</font>
+
+807
+00:41:27,400 --> 00:41:30,140
+incompleteness theorem this debate<font color="#CCCCCC"> of</font>
+
+808
+00:41:30,140 --> 00:41:31,820
+what what what are<font color="#CCCCCC"> the limits of</font><font color="#E5E5E5"> the</font>
+
+809
+00:41:31,820 --> 00:41:33,050
+things that could<font color="#E5E5E5"> be formalized that's</font>
+
+810
+00:41:33,050 --> 00:41:35,060
+where the touring machine came along and
+
+811
+00:41:35,060 --> 00:41:37,730
+this exciting idea I mean underlying a
+
+812
+00:41:37,730 --> 00:41:40,310
+<font color="#CCCCCC">lot of computing that</font><font color="#E5E5E5"> you can do quite a</font>
+
+813
+00:41:40,310 --> 00:41:43,370
+lot<font color="#E5E5E5"> with</font><font color="#CCCCCC"> a computer</font><font color="#E5E5E5"> you can you can</font>
+
+814
+00:41:43,370 --> 00:41:45,950
+encode a lot of the stuff we're<font color="#CCCCCC"> talking</font>
+
+815
+00:41:45,950 --> 00:41:47,570
+about in<font color="#E5E5E5"> terms of recognizing faces and</font>
+
+816
+00:41:47,570 --> 00:41:51,110
+so on theoretically in an algorithm they
+
+817
+00:41:51,110 --> 00:41:55,360
+can then run on<font color="#E5E5E5"> a computer</font><font color="#CCCCCC"> and in that</font>
+
+818
+00:41:55,360 --> 00:41:59,490
+<font color="#E5E5E5">context</font><font color="#CCCCCC"> I'd like to ask programming in a</font>
+
+819
+00:41:59,490 --> 00:42:04,270
+philosophical<font color="#CCCCCC"> way</font><font color="#E5E5E5"> so what so</font><font color="#CCCCCC"> what it</font>
+
+820
+00:42:04,270 --> 00:42:05,830
+what does<font color="#E5E5E5"> it mean to program a computer</font>
+
+821
+00:42:05,830 --> 00:42:08,140
+<font color="#E5E5E5">so you said you write a</font><font color="#CCCCCC"> Python program</font>
+
+822
+00:42:08,140 --> 00:42:12,040
+or a compiled a C++ program that
+
+823
+00:42:12,040 --> 00:42:16,420
+compiles to<font color="#CCCCCC"> somebody code</font><font color="#E5E5E5"> it's forming</font>
+
+824
+00:42:16,420 --> 00:42:19,480
+layers<font color="#E5E5E5"> your your programming a layer of</font>
+
+825
+00:42:19,480 --> 00:42:21,670
+abstraction<font color="#CCCCCC"> is higher how do you see</font>
+
+826
+00:42:21,670 --> 00:42:25,300
+programming in that context<font color="#E5E5E5"> can it keep</font>
+
+827
+00:42:25,300 --> 00:42:27,190
+getting higher<font color="#CCCCCC"> and higher levels of</font>
+
+828
+00:42:27,190 --> 00:42:31,510
+abstraction<font color="#CCCCCC"> I think</font><font color="#E5E5E5"> and at some point</font>
+
+829
+00:42:31,510 --> 00:42:33,430
+the higher level<font color="#E5E5E5"> of levels of</font>
+
+830
+00:42:33,430 --> 00:42:35,080
+abstraction will not be called
+
+831
+00:42:35,080 --> 00:42:38,970
+programming and they will not resemble
+
+832
+00:42:38,970 --> 00:42:43,840
+what we we call programming at the
+
+833
+00:42:43,840 --> 00:42:46,570
+<font color="#E5E5E5">moment there will not be source code I</font>
+
+834
+00:42:46,570 --> 00:42:48,870
+mean there will still be source code
+
+835
+00:42:48,870 --> 00:42:53,560
+sort of at a lower level<font color="#CCCCCC"> of the</font><font color="#E5E5E5"> machine</font>
+
+836
+00:42:53,560 --> 00:42:56,670
+just<font color="#CCCCCC"> like they're still molecules</font><font color="#E5E5E5"> and</font>
+
+837
+00:42:56,670 --> 00:43:00,250
+electrons and and sort of proteins in
+
+838
+00:43:00,250 --> 00:43:05,940
+our brains but<font color="#E5E5E5"> and and so they're still</font>
+
+839
+00:43:05,940 --> 00:43:08,320
+programming and and and system
+
+840
+00:43:08,320 --> 00:43:09,940
+administration<font color="#E5E5E5"> and who knows what's</font>
+
+841
+00:43:09,940 --> 00:43:12,730
+keeping to keep the machine running<font color="#CCCCCC"> but</font>
+
+842
+00:43:12,730 --> 00:43:15,400
+what the<font color="#E5E5E5"> machine does is is a different</font>
+
+843
+00:43:15,400 --> 00:43:18,370
+<font color="#CCCCCC">level of abstraction in a sense and as</font>
+
+844
+00:43:18,370 --> 00:43:21,940
+far<font color="#E5E5E5"> as I understand the</font><font color="#CCCCCC"> way that for</font>
+
+845
+00:43:21,940 --> 00:43:24,280
+last decade or<font color="#CCCCCC"> more people</font><font color="#E5E5E5"> have made</font>
+
+846
+00:43:24,280 --> 00:43:26,110
+progress with things like facial
+
+847
+00:43:26,110 --> 00:43:29,170
+<font color="#E5E5E5">recognition</font><font color="#CCCCCC"> or the self-driving cars is</font>
+
+848
+00:43:29,170 --> 00:43:32,080
+all by endless<font color="#E5E5E5"> endless amounts of</font>
+
+849
+00:43:32,080 --> 00:43:37,180
+<font color="#E5E5E5">training data</font><font color="#CCCCCC"> where at least as</font><font color="#E5E5E5"> a</font>
+
+850
+00:43:37,180 --> 00:43:41,230
+layperson and<font color="#E5E5E5"> I feel myself totally as a</font>
+
+851
+00:43:41,230 --> 00:43:42,700
+<font color="#CCCCCC">layperson in that field</font>
+
+852
+00:43:42,700 --> 00:43:47,710
+it looks like the researchers who
+
+853
+00:43:47,710 --> 00:43:50,950
+publish the results<font color="#CCCCCC"> don't</font><font color="#E5E5E5"> necessarily</font>
+
+854
+00:43:50,950 --> 00:43:54,820
+know exactly<font color="#E5E5E5"> how how their algorithms</font>
+
+855
+00:43:54,820 --> 00:43:58,840
+work and<font color="#E5E5E5"> that I often get upset</font><font color="#CCCCCC"> when</font><font color="#E5E5E5"> I</font>
+
+856
+00:43:58,840 --> 00:44:01,870
+sort<font color="#E5E5E5"> of read a sort of a fluff piece</font>
+
+857
+00:44:01,870 --> 00:44:05,260
+about<font color="#E5E5E5"> Facebook in the newspaper or</font>
+
+858
+00:44:05,260 --> 00:44:08,020
+social networks and they say well Albert
+
+859
+00:44:08,020 --> 00:44:11,730
+and that that's like a totally different
+
+860
+00:44:11,730 --> 00:44:13,780
+<font color="#CCCCCC">interpretation of the word algorithm</font>
+
+861
+00:44:13,780 --> 00:44:17,800
+<font color="#CCCCCC">yeah because for me the way I was</font>
+
+862
+00:44:17,800 --> 00:44:19,420
+<font color="#E5E5E5">trained or what I learned when</font><font color="#CCCCCC"> I was</font>
+
+863
+00:44:19,420 --> 00:44:22,450
+<font color="#CCCCCC">eight or ten years old</font><font color="#E5E5E5"> an algorithm is a</font>
+
+864
+00:44:22,450 --> 00:44:25,120
+set<font color="#E5E5E5"> of rules</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> you completely</font>
+
+865
+00:44:25,120 --> 00:44:27,150
+understand<font color="#E5E5E5"> that can be mathematically</font>
+
+866
+00:44:27,150 --> 00:44:30,100
+<font color="#E5E5E5">analyzed</font><font color="#CCCCCC"> and and and you can prove</font>
+
+867
+00:44:30,100 --> 00:44:33,460
+things you can like prove that<font color="#CCCCCC"> Aires</font>
+
+868
+00:44:33,460 --> 00:44:36,400
+Dawson<font color="#CCCCCC"> E's</font><font color="#E5E5E5"> sieve produces all prime</font>
+
+869
+00:44:36,400 --> 00:44:39,940
+numbers<font color="#CCCCCC"> and only</font><font color="#E5E5E5"> prime numbers</font><font color="#CCCCCC"> yes so I</font>
+
+870
+00:44:39,940 --> 00:44:41,410
+don't know if you know<font color="#E5E5E5"> how</font><font color="#CCCCCC"> Andre</font>
+
+871
+00:44:41,410 --> 00:44:43,840
+Carpathia's<font color="#E5E5E5"> I'm afraid not</font>
+
+872
+00:44:43,840 --> 00:44:49,090
+so he's a ahead of<font color="#E5E5E5"> hey aya Tesla now but</font>
+
+873
+00:44:49,090 --> 00:44:51,340
+his<font color="#E5E5E5"> Stanford before and he has this</font>
+
+874
+00:44:51,340 --> 00:44:54,370
+cheeky way of calling<font color="#E5E5E5"> this concept</font>
+
+875
+00:44:54,370 --> 00:44:58,060
+software 2.0 so let me disentangle<font color="#CCCCCC"> that</font>
+
+876
+00:44:58,060 --> 00:45:00,940
+for a second<font color="#CCCCCC"> so the so kind of what</font>
+
+877
+00:45:00,940 --> 00:45:02,650
+you're referring to is<font color="#CCCCCC"> the</font><font color="#E5E5E5"> traditional</font>
+
+878
+00:45:02,650 --> 00:45:05,680
+traditional<font color="#E5E5E5"> the the algorithm the</font>
+
+879
+00:45:05,680 --> 00:45:07,270
+concept of an algo something that's
+
+880
+00:45:07,270 --> 00:45:09,010
+there is clear you can<font color="#CCCCCC"> read it you</font>
+
+881
+00:45:09,010 --> 00:45:10,390
+understand<font color="#E5E5E5"> it you can prove</font><font color="#CCCCCC"> its</font>
+
+882
+00:45:10,390 --> 00:45:13,830
+functioning<font color="#CCCCCC"> it's kind</font><font color="#E5E5E5"> of software 1.0</font>
+
+883
+00:45:13,830 --> 00:45:18,580
+and what software 2.0 is is<font color="#E5E5E5"> exactly what</font>
+
+884
+00:45:18,580 --> 00:45:21,400
+you described which is you<font color="#E5E5E5"> have neural</font>
+
+885
+00:45:21,400 --> 00:45:22,780
+networks which is<font color="#CCCCCC"> a type of machine</font>
+
+886
+00:45:22,780 --> 00:45:25,000
+<font color="#E5E5E5">learning that</font><font color="#CCCCCC"> you feed a bunch of</font><font color="#E5E5E5"> data</font>
+
+887
+00:45:25,000 --> 00:45:28,300
+<font color="#E5E5E5">and that</font><font color="#CCCCCC"> neural network learns to do a</font>
+
+888
+00:45:28,300 --> 00:45:31,540
+function all you specifies the inputs
+
+889
+00:45:31,540 --> 00:45:33,760
+and<font color="#CCCCCC"> the</font><font color="#E5E5E5"> outputs you want and you can't</font>
+
+890
+00:45:33,760 --> 00:45:37,270
+look inside<font color="#E5E5E5"> you can't analyze</font><font color="#CCCCCC"> it all you</font>
+
+891
+00:45:37,270 --> 00:45:40,270
+can<font color="#CCCCCC"> do is train</font><font color="#E5E5E5"> this function to map the</font>
+
+892
+00:45:40,270 --> 00:45:42,010
+inputs the outputs by giving a lot of
+
+893
+00:45:42,010 --> 00:45:44,260
+<font color="#E5E5E5">data in that sense programming becomes</font>
+
+894
+00:45:44,260 --> 00:45:46,420
+getting a lot of<font color="#E5E5E5"> cleaning getting</font><font color="#CCCCCC"> a lot</font>
+
+895
+00:45:46,420 --> 00:45:48,880
+of<font color="#E5E5E5"> data that's what programming is in</font>
+
+896
+00:45:48,880 --> 00:45:51,310
+this well that would be programming 2.0
+
+897
+00:45:51,310 --> 00:45:54,460
+2.0<font color="#E5E5E5"> to programming 2.0 I I wouldn't call</font>
+
+898
+00:45:54,460 --> 00:45:56,590
+that<font color="#E5E5E5"> programming it's just a different</font>
+
+899
+00:45:56,590 --> 00:45:59,830
+<font color="#E5E5E5">activity just</font><font color="#CCCCCC"> like building organs out</font>
+
+900
+00:45:59,830 --> 00:46:04,240
+of cells is not<font color="#E5E5E5"> called chemistry well so</font>
+
+901
+00:46:04,240 --> 00:46:07,360
+let's just<font color="#CCCCCC"> set that back and</font><font color="#E5E5E5"> think sort</font>
+
+902
+00:46:07,360 --> 00:46:10,180
+<font color="#E5E5E5">of more generally</font><font color="#CCCCCC"> of course</font><font color="#E5E5E5"> but you know</font>
+
+903
+00:46:10,180 --> 00:46:14,620
+it's<font color="#CCCCCC"> like as a parent</font><font color="#E5E5E5"> teaching teaching</font>
+
+904
+00:46:14,620 --> 00:46:16,990
+<font color="#E5E5E5">your kids things can be called</font>
+
+905
+00:46:16,990 --> 00:46:19,870
+programming<font color="#E5E5E5"> in that same sense that</font>
+
+906
+00:46:19,870 --> 00:46:21,339
+that's
+
+907
+00:46:21,339 --> 00:46:22,809
+how program has been used you're
+
+908
+00:46:22,809 --> 00:46:26,140
+providing them data examples use cases
+
+909
+00:46:26,140 --> 00:46:31,809
+<font color="#CCCCCC">so</font><font color="#E5E5E5"> imagine</font><font color="#CCCCCC"> writing a function</font><font color="#E5E5E5"> not by not</font>
+
+910
+00:46:31,809 --> 00:46:36,249
+with for loops<font color="#E5E5E5"> and clearly</font><font color="#CCCCCC"> readable text</font>
+
+911
+00:46:36,249 --> 00:46:39,190
+<font color="#E5E5E5">but more saying well here's a lot of</font>
+
+912
+00:46:39,190 --> 00:46:41,680
+<font color="#CCCCCC">examples of what</font><font color="#E5E5E5"> this function</font><font color="#CCCCCC"> should</font>
+
+913
+00:46:41,680 --> 00:46:44,739
+take and here's a lot of<font color="#CCCCCC"> examples</font><font color="#E5E5E5"> when</font>
+
+914
+00:46:44,739 --> 00:46:46,509
+it takes<font color="#E5E5E5"> those functions it should do</font>
+
+915
+00:46:46,509 --> 00:46:50,319
+this and then figure out<font color="#E5E5E5"> the rest so</font>
+
+916
+00:46:50,319 --> 00:46:53,410
+that's the 2.0 concept and the this<font color="#CCCCCC"> is</font>
+
+917
+00:46:53,410 --> 00:46:56,440
+the question<font color="#CCCCCC"> I have for</font><font color="#E5E5E5"> you is like it's</font>
+
+918
+00:46:56,440 --> 00:46:59,410
+a very fuzzy way this is a reality<font color="#CCCCCC"> of</font><font color="#E5E5E5"> a</font>
+
+919
+00:46:59,410 --> 00:47:01,119
+lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> these pattern recognition systems</font>
+
+920
+00:47:01,119 --> 00:47:01,599
+<font color="#E5E5E5">and so on</font>
+
+921
+00:47:01,599 --> 00:47:03,609
+<font color="#CCCCCC">it's a fuzzy way of quote-unquote</font>
+
+922
+00:47:03,609 --> 00:47:06,549
+programming what do you think about<font color="#E5E5E5"> this</font>
+
+923
+00:47:06,549 --> 00:47:09,579
+<font color="#E5E5E5">kind</font><font color="#CCCCCC"> of world it should</font><font color="#E5E5E5"> be called</font>
+
+924
+00:47:09,579 --> 00:47:11,219
+<font color="#CCCCCC">something totally different than</font>
+
+925
+00:47:11,219 --> 00:47:13,960
+programming<font color="#CCCCCC"> it's</font><font color="#E5E5E5"> like if you're a</font>
+
+926
+00:47:13,960 --> 00:47:18,190
+<font color="#E5E5E5">software engineer does that mean you're</font>
+
+927
+00:47:18,190 --> 00:47:20,680
+you're designing<font color="#E5E5E5"> systems that are very</font>
+
+928
+00:47:20,680 --> 00:47:24,430
+<font color="#E5E5E5">can be systematically tested evaluated</font>
+
+929
+00:47:24,430 --> 00:47:26,739
+they have a<font color="#E5E5E5"> very specific specification</font>
+
+930
+00:47:26,739 --> 00:47:30,039
+<font color="#CCCCCC">and then this other fuzzy software 2.0</font>
+
+931
+00:47:30,039 --> 00:47:31,839
+world machine learning world<font color="#E5E5E5"> that's</font>
+
+932
+00:47:31,839 --> 00:47:33,670
+that's<font color="#E5E5E5"> something else</font><font color="#CCCCCC"> totally or is</font>
+
+933
+00:47:33,670 --> 00:47:35,410
+there some intermixing that it's
+
+934
+00:47:35,410 --> 00:47:42,579
+possible well the question is probably
+
+935
+00:47:42,579 --> 00:47:46,059
+<font color="#E5E5E5">only being asked because we we don't</font>
+
+936
+00:47:46,059 --> 00:47:49,150
+quite<font color="#E5E5E5"> know</font><font color="#CCCCCC"> what that</font><font color="#E5E5E5"> software 2.0</font>
+
+937
+00:47:49,150 --> 00:47:54,219
+actually is and it sort of I think<font color="#E5E5E5"> there</font>
+
+938
+00:47:54,219 --> 00:47:59,549
+<font color="#E5E5E5">is a truism that every task that AI has</font>
+
+939
+00:47:59,549 --> 00:48:03,130
+has<font color="#E5E5E5"> tackled in the past</font><font color="#CCCCCC"> at some point we</font>
+
+940
+00:48:03,130 --> 00:48:05,289
+realized how it was done<font color="#E5E5E5"> and then it was</font>
+
+941
+00:48:05,289 --> 00:48:08,319
+no<font color="#E5E5E5"> longer</font><font color="#CCCCCC"> considered</font><font color="#E5E5E5"> part of artificial</font>
+
+942
+00:48:08,319 --> 00:48:10,950
+<font color="#E5E5E5">intelligence because it was no longer</font>
+
+943
+00:48:10,950 --> 00:48:15,400
+necessary<font color="#E5E5E5"> to to use that term it was</font>
+
+944
+00:48:15,400 --> 00:48:19,239
+just oh now<font color="#E5E5E5"> he we know how to do this</font>
+
+945
+00:48:19,239 --> 00:48:24,369
+and a new field of science or
+
+946
+00:48:24,369 --> 00:48:28,049
+engineering<font color="#E5E5E5"> has been developed and I</font>
+
+947
+00:48:28,049 --> 00:48:32,349
+don't know if sort of every form of
+
+948
+00:48:32,349 --> 00:48:34,870
+<font color="#CCCCCC">learning or</font>
+
+949
+00:48:34,870 --> 00:48:37,300
+<font color="#E5E5E5">sort of controlling computer systems</font>
+
+950
+00:48:37,300 --> 00:48:39,040
+should always be called programming<font color="#E5E5E5"> I</font>
+
+951
+00:48:39,040 --> 00:48:40,720
+said I<font color="#CCCCCC"> that I don't know maybe I'm</font>
+
+952
+00:48:40,720 --> 00:48:42,970
+focused too much on the terminology<font color="#CCCCCC"> i</font>
+
+953
+00:48:42,970 --> 00:48:48,820
+but<font color="#CCCCCC"> i expect that that</font><font color="#E5E5E5"> there just will</font>
+
+954
+00:48:48,820 --> 00:48:53,850
+be different concepts<font color="#E5E5E5"> where people with</font>
+
+955
+00:48:53,850 --> 00:48:57,540
+sort of different education and a
+
+956
+00:48:57,540 --> 00:49:00,730
+<font color="#E5E5E5">different model of what they're trying</font>
+
+957
+00:49:00,730 --> 00:49:06,340
+<font color="#CCCCCC">to do will will develop those concepts</font>
+
+958
+00:49:06,340 --> 00:49:09,430
+<font color="#E5E5E5">yeah and</font><font color="#CCCCCC"> i guess if you could comment</font>
+
+959
+00:49:09,430 --> 00:49:13,750
+<font color="#E5E5E5">and another way to put this concept is</font><font color="#CCCCCC"> i</font>
+
+960
+00:49:13,750 --> 00:49:18,220
+think<font color="#CCCCCC"> i think the</font><font color="#E5E5E5"> kind of functions that</font>
+
+961
+00:49:18,220 --> 00:49:21,400
+<font color="#E5E5E5">neural networks provide is things as</font>
+
+962
+00:49:21,400 --> 00:49:23,740
+opposed<font color="#CCCCCC"> to being able to upfront</font><font color="#E5E5E5"> prove</font>
+
+963
+00:49:23,740 --> 00:49:26,680
+that this<font color="#E5E5E5"> should work for all cases you</font>
+
+964
+00:49:26,680 --> 00:49:29,650
+<font color="#E5E5E5">throw at it all you're able it's the</font>
+
+965
+00:49:29,650 --> 00:49:31,570
+<font color="#E5E5E5">worst case analysis versus</font><font color="#CCCCCC"> average case</font>
+
+966
+00:49:31,570 --> 00:49:34,600
+analysis all you're able<font color="#CCCCCC"> to</font><font color="#E5E5E5"> say is it's</font>
+
+967
+00:49:34,600 --> 00:49:37,330
+it seems on everything we've tested to
+
+968
+00:49:37,330 --> 00:49:39,850
+work<font color="#E5E5E5"> 99.9 percent of the time but we</font>
+
+969
+00:49:39,850 --> 00:49:42,820
+can't guarantee<font color="#CCCCCC"> it and it it fails</font><font color="#E5E5E5"> in</font>
+
+970
+00:49:42,820 --> 00:49:44,710
+unexpected ways<font color="#CCCCCC"> but can't even give you</font>
+
+971
+00:49:44,710 --> 00:49:46,510
+examples of<font color="#E5E5E5"> how it fails in unexpected</font>
+
+972
+00:49:46,510 --> 00:49:49,510
+ways<font color="#E5E5E5"> but it's like really</font><font color="#CCCCCC"> good</font><font color="#E5E5E5"> most of</font>
+
+973
+00:49:49,510 --> 00:49:51,610
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> time yeah but there's no room for</font>
+
+974
+00:49:51,610 --> 00:49:54,490
+that<font color="#CCCCCC"> in current ways we think about</font>
+
+975
+00:49:54,490 --> 00:50:02,860
+programming programming 1.0<font color="#E5E5E5"> is actually</font>
+
+976
+00:50:02,860 --> 00:50:08,550
+sort of getting<font color="#E5E5E5"> to</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> point to where</font>
+
+977
+00:50:08,550 --> 00:50:13,240
+<font color="#E5E5E5">the sort of the ideal of a</font><font color="#CCCCCC"> bug-free</font>
+
+978
+00:50:13,240 --> 00:50:17,740
+program has been abandoned long ago<font color="#E5E5E5"> by</font>
+
+979
+00:50:17,740 --> 00:50:22,240
+most software developers we only care
+
+980
+00:50:22,240 --> 00:50:25,480
+about bugs that manifest themselves
+
+981
+00:50:25,480 --> 00:50:30,400
+<font color="#E5E5E5">often enough</font><font color="#CCCCCC"> to be annoying and we're</font>
+
+982
+00:50:30,400 --> 00:50:33,670
+willing to take<font color="#CCCCCC"> the occasional crash or</font>
+
+983
+00:50:33,670 --> 00:50:40,360
+outage or incorrect<font color="#E5E5E5"> result for granted</font>
+
+984
+00:50:40,360 --> 00:50:44,470
+because<font color="#CCCCCC"> we can't possibly we don't have</font>
+
+985
+00:50:44,470 --> 00:50:47,050
+enough programmers to make all the code
+
+986
+00:50:47,050 --> 00:50:48,460
+bug free and it would be<font color="#E5E5E5"> an</font>
+
+987
+00:50:48,460 --> 00:50:50,740
+credibly tedious<font color="#CCCCCC"> business and if you try</font>
+
+988
+00:50:50,740 --> 00:50:53,619
+<font color="#E5E5E5">to throw formal methods at it it gets it</font>
+
+989
+00:50:53,619 --> 00:50:58,510
+becomes<font color="#E5E5E5"> even more tedious so every once</font>
+
+990
+00:50:58,510 --> 00:51:01,000
+in a<font color="#CCCCCC"> while the user clicks</font><font color="#E5E5E5"> on a link in</font>
+
+991
+00:51:01,000 --> 00:51:05,589
+and somehow they get an error<font color="#E5E5E5"> and the</font>
+
+992
+00:51:05,589 --> 00:51:09,420
+average user doesn't<font color="#E5E5E5"> panic they just</font>
+
+993
+00:51:09,420 --> 00:51:12,550
+click again and<font color="#CCCCCC"> see if it works better</font>
+
+994
+00:51:12,550 --> 00:51:15,040
+<font color="#E5E5E5">the second time which often magically it</font>
+
+995
+00:51:15,040 --> 00:51:19,119
+does<font color="#CCCCCC"> or they go up</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> they try some</font>
+
+996
+00:51:19,119 --> 00:51:22,230
+other way<font color="#CCCCCC"> of performing</font><font color="#E5E5E5"> their tasks so</font>
+
+997
+00:51:22,230 --> 00:51:26,800
+that's<font color="#E5E5E5"> sort of an</font><font color="#CCCCCC"> end-to-end</font><font color="#E5E5E5"> recovery</font>
+
+998
+00:51:26,800 --> 00:51:29,589
+mechanism and inside systems there is
+
+999
+00:51:29,589 --> 00:51:33,990
+<font color="#E5E5E5">all</font><font color="#CCCCCC"> sorts of retries and</font><font color="#E5E5E5"> timeouts and</font>
+
+1000
+00:51:33,990 --> 00:51:38,440
+<font color="#E5E5E5">fall backs and I imagine that that sort</font>
+
+1001
+00:51:38,440 --> 00:51:41,140
+<font color="#E5E5E5">of biological systems</font><font color="#CCCCCC"> are even more full</font>
+
+1002
+00:51:41,140 --> 00:51:42,849
+<font color="#CCCCCC">of that because otherwise they wouldn't</font>
+
+1003
+00:51:42,849 --> 00:51:48,790
+survive do you think<font color="#E5E5E5"> programming should</font>
+
+1004
+00:51:48,790 --> 00:51:52,030
+<font color="#E5E5E5">be taught and thought of as exactly what</font>
+
+1005
+00:51:52,030 --> 00:51:55,150
+you<font color="#CCCCCC"> just</font><font color="#E5E5E5"> said before</font><font color="#CCCCCC"> I come from is kind</font>
+
+1006
+00:51:55,150 --> 00:51:59,140
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> you're almost denying that fact</font>
+
+1007
+00:51:59,140 --> 00:52:04,119
+<font color="#E5E5E5">always in the insert of</font><font color="#CCCCCC"> basic</font>
+
+1008
+00:52:04,119 --> 00:52:09,609
+programming education the sort of the
+
+1009
+00:52:09,609 --> 00:52:12,730
+<font color="#E5E5E5">program's</font><font color="#CCCCCC"> you're you're having students</font>
+
+1010
+00:52:12,730 --> 00:52:19,060
+<font color="#E5E5E5">right are so small and simple that if</font>
+
+1011
+00:52:19,060 --> 00:52:21,490
+there is a bug<font color="#E5E5E5"> you can always find it</font>
+
+1012
+00:52:21,490 --> 00:52:24,160
+and fix<font color="#E5E5E5"> it because</font><font color="#CCCCCC"> the sort</font><font color="#E5E5E5"> of</font>
+
+1013
+00:52:24,160 --> 00:52:26,849
+<font color="#CCCCCC">programming as it's being taught in some</font>
+
+1014
+00:52:26,849 --> 00:52:29,980
+even elementary<font color="#E5E5E5"> middle schools in high</font>
+
+1015
+00:52:29,980 --> 00:52:33,160
+school introduction<font color="#E5E5E5"> to programming</font>
+
+1016
+00:52:33,160 --> 00:52:36,040
+classes<font color="#CCCCCC"> in college typically it's</font>
+
+1017
+00:52:36,040 --> 00:52:39,580
+programming in the small very few
+
+1018
+00:52:39,580 --> 00:52:43,270
+classes sort of<font color="#E5E5E5"> actually teach software</font>
+
+1019
+00:52:43,270 --> 00:52:45,400
+engineering building large systems I
+
+1020
+00:52:45,400 --> 00:52:49,150
+<font color="#CCCCCC">mean every summer here at Dropbox we</font>
+
+1021
+00:52:49,150 --> 00:52:51,280
+have a large number<font color="#E5E5E5"> of interns every</font>
+
+1022
+00:52:51,280 --> 00:52:54,760
+tech company on the west<font color="#E5E5E5"> coast has the</font>
+
+1023
+00:52:54,760 --> 00:52:58,180
+same thing these interns<font color="#CCCCCC"> are always</font>
+
+1024
+00:52:58,180 --> 00:53:01,690
+amazed<font color="#E5E5E5"> because this is the first time in</font>
+
+1025
+00:53:01,690 --> 00:53:02,240
+<font color="#CCCCCC">their</font><font color="#E5E5E5"> life</font>
+
+1026
+00:53:02,240 --> 00:53:06,590
+that they see what goes on in a really
+
+1027
+00:53:06,590 --> 00:53:09,170
+large software development environment
+
+1028
+00:53:09,170 --> 00:53:14,480
+<font color="#CCCCCC">and everything they've learned in</font>
+
+1029
+00:53:14,480 --> 00:53:18,920
+<font color="#CCCCCC">college</font><font color="#E5E5E5"> was almost always about a much</font>
+
+1030
+00:53:18,920 --> 00:53:21,650
+smaller scale<font color="#E5E5E5"> and somehow</font><font color="#CCCCCC"> the difference</font>
+
+1031
+00:53:21,650 --> 00:53:22,550
+in scale
+
+1032
+00:53:22,550 --> 00:53:25,760
+makes a qualitative difference<font color="#E5E5E5"> in how</font>
+
+1033
+00:53:25,760 --> 00:53:28,160
+you how you do<font color="#E5E5E5"> things and how you</font><font color="#CCCCCC"> think</font>
+
+1034
+00:53:28,160 --> 00:53:31,070
+about<font color="#E5E5E5"> it if you then</font><font color="#CCCCCC"> take</font><font color="#E5E5E5"> a few steps</font>
+
+1035
+00:53:31,070 --> 00:53:34,700
+back<font color="#E5E5E5"> in two decades</font><font color="#CCCCCC"> seventies</font><font color="#E5E5E5"> and</font>
+
+1036
+00:53:34,700 --> 00:53:36,380
+<font color="#E5E5E5">eighties</font><font color="#CCCCCC"> when</font><font color="#E5E5E5"> you're first thinking</font>
+
+1037
+00:53:36,380 --> 00:53:38,180
+about<font color="#E5E5E5"> Python or just that world of</font>
+
+1038
+00:53:38,180 --> 00:53:40,910
+<font color="#E5E5E5">programming languages</font><font color="#CCCCCC"> did you ever think</font>
+
+1039
+00:53:40,910 --> 00:53:43,520
+that<font color="#E5E5E5"> there would be systems as large as</font>
+
+1040
+00:53:43,520 --> 00:53:45,760
+underlying Google Facebook and Dropbox
+
+1041
+00:53:45,760 --> 00:53:50,050
+<font color="#E5E5E5">did you when</font><font color="#CCCCCC"> you were</font><font color="#E5E5E5"> thinking about</font>
+
+1042
+00:53:50,050 --> 00:53:52,970
+<font color="#E5E5E5">Python I was actually always caught by</font>
+
+1043
+00:53:52,970 --> 00:53:55,000
+surprise by
+
+1044
+00:53:55,000 --> 00:53:57,369
+yeah pretty<font color="#CCCCCC"> much every stage of</font>
+
+1045
+00:53:57,369 --> 00:54:03,740
+<font color="#E5E5E5">computing so maybe just because uh you</font>
+
+1046
+00:54:03,740 --> 00:54:05,690
+<font color="#E5E5E5">spoken in other interviews but I think</font>
+
+1047
+00:54:05,690 --> 00:54:07,760
+the evolution<font color="#E5E5E5"> of programming languages</font>
+
+1048
+00:54:07,760 --> 00:54:10,880
+<font color="#CCCCCC">are fascinating it's especially because</font>
+
+1049
+00:54:10,880 --> 00:54:13,100
+<font color="#E5E5E5">it leads from my perspective towards</font>
+
+1050
+00:54:13,100 --> 00:54:14,240
+greater and greater<font color="#E5E5E5"> degrees of</font>
+
+1051
+00:54:14,240 --> 00:54:15,200
+intelligence
+
+1052
+00:54:15,200 --> 00:54:17,540
+<font color="#CCCCCC">I learned the first programming language</font>
+
+1053
+00:54:17,540 --> 00:54:21,290
+<font color="#CCCCCC">I played with in in</font><font color="#E5E5E5"> Russia was with the</font>
+
+1054
+00:54:21,290 --> 00:54:26,690
+turtle<font color="#E5E5E5"> logo logo yeah and if you look I</font>
+
+1055
+00:54:26,690 --> 00:54:27,859
+<font color="#CCCCCC">just have a list of programming</font>
+
+1056
+00:54:27,859 --> 00:54:29,810
+languages all<font color="#CCCCCC"> of which I've known played</font>
+
+1057
+00:54:29,810 --> 00:54:31,550
+<font color="#E5E5E5">with a little bit and they're all</font>
+
+1058
+00:54:31,550 --> 00:54:33,650
+beautiful<font color="#E5E5E5"> in different ways from Fortran</font>
+
+1059
+00:54:33,650 --> 00:54:40,820
+COBOL Lisp<font color="#E5E5E5"> Algol 60 basic logo and C as</font>
+
+1060
+00:54:40,820 --> 00:54:43,820
+a few the<font color="#E5E5E5"> object-oriented came along in</font>
+
+1061
+00:54:43,820 --> 00:54:47,750
+the<font color="#E5E5E5"> 60s</font><font color="#CCCCCC"> Simula</font><font color="#E5E5E5"> Pascal small talk all of</font>
+
+1062
+00:54:47,750 --> 00:54:49,940
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> lean all</font><font color="#E5E5E5"> the classics the classics</font>
+
+1063
+00:54:49,940 --> 00:54:54,170
+yeah the<font color="#CCCCCC"> classic hits write scheme</font><font color="#E5E5E5"> built</font>
+
+1064
+00:54:54,170 --> 00:54:58,430
+that's built on top of Lisp<font color="#E5E5E5"> on the</font>
+
+1065
+00:54:58,430 --> 00:55:01,460
+database side SQL<font color="#E5E5E5"> C++ and all that leads</font>
+
+1066
+00:55:01,460 --> 00:55:06,109
+<font color="#E5E5E5">up to Python</font><font color="#CCCCCC"> Pascal - and that's before</font>
+
+1067
+00:55:06,109 --> 00:55:08,840
+Python MATLAB<font color="#E5E5E5"> these kind of different</font>
+
+1068
+00:55:08,840 --> 00:55:11,210
+<font color="#E5E5E5">communities</font><font color="#CCCCCC"> different languages</font><font color="#E5E5E5"> so he</font>
+
+1069
+00:55:11,210 --> 00:55:14,940
+talked about<font color="#CCCCCC"> that world I know that</font>
+
+1070
+00:55:14,940 --> 00:55:17,130
+<font color="#E5E5E5">Python came out of ABC which actually</font>
+
+1071
+00:55:17,130 --> 00:55:20,190
+never<font color="#E5E5E5"> knew</font><font color="#CCCCCC"> that language I</font><font color="#E5E5E5"> just having</font>
+
+1072
+00:55:20,190 --> 00:55:21,960
+researched this conversation went back
+
+1073
+00:55:21,960 --> 00:55:24,599
+to<font color="#CCCCCC"> ABC and it looks remarkably it it has</font>
+
+1074
+00:55:24,599 --> 00:55:27,540
+a lot of<font color="#E5E5E5"> annoying qualities</font><font color="#CCCCCC"> but</font>
+
+1075
+00:55:27,540 --> 00:55:29,760
+<font color="#E5E5E5">underneath those like all caps and so on</font>
+
+1076
+00:55:29,760 --> 00:55:33,089
+<font color="#CCCCCC">but underneath that</font><font color="#E5E5E5"> there's elements of</font>
+
+1077
+00:55:33,089 --> 00:55:34,530
+<font color="#E5E5E5">Python</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> are quite</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> they're already</font>
+
+1078
+00:55:34,530 --> 00:55:36,900
+there that's where I got all the good
+
+1079
+00:55:36,900 --> 00:55:37,500
+<font color="#CCCCCC">stuff</font>
+
+1080
+00:55:37,500 --> 00:55:39,240
+all the good stuff so but<font color="#E5E5E5"> in that world</font>
+
+1081
+00:55:39,240 --> 00:55:40,500
+you're swimming these programming
+
+1082
+00:55:40,500 --> 00:55:42,450
+languages were you focused on<font color="#E5E5E5"> just the</font>
+
+1083
+00:55:42,450 --> 00:55:45,690
+<font color="#E5E5E5">good stuff in your</font><font color="#CCCCCC"> specific circle but</font>
+
+1084
+00:55:45,690 --> 00:55:47,760
+did you have a sense<font color="#E5E5E5"> of what what is</font>
+
+1085
+00:55:47,760 --> 00:55:50,310
+everyone chasing<font color="#E5E5E5"> you said that every</font>
+
+1086
+00:55:50,310 --> 00:55:53,490
+programming language<font color="#E5E5E5"> is built to scratch</font>
+
+1087
+00:55:53,490 --> 00:55:56,030
+an itch<font color="#CCCCCC"> mm-hmm</font>
+
+1088
+00:55:56,030 --> 00:55:58,829
+were you aware of<font color="#E5E5E5"> all the itches in the</font>
+
+1089
+00:55:58,829 --> 00:56:02,369
+community<font color="#E5E5E5"> and if not or if yes I mean</font>
+
+1090
+00:56:02,369 --> 00:56:04,910
+what H we trying to<font color="#E5E5E5"> scratch with Python</font>
+
+1091
+00:56:04,910 --> 00:56:08,280
+<font color="#E5E5E5">well I'm glad I wasn't aware of all the</font>
+
+1092
+00:56:08,280 --> 00:56:11,130
+itches because I would<font color="#E5E5E5"> probably not have</font>
+
+1093
+00:56:11,130 --> 00:56:14,579
+been<font color="#E5E5E5"> able to do anything I mean</font><font color="#CCCCCC"> if</font>
+
+1094
+00:56:14,579 --> 00:56:16,710
+you're<font color="#E5E5E5"> trying</font><font color="#CCCCCC"> to solve every problem at</font>
+
+1095
+00:56:16,710 --> 00:56:21,030
+once<font color="#E5E5E5"> you saw nothing well yeah</font><font color="#CCCCCC"> that it's</font>
+
+1096
+00:56:21,030 --> 00:56:25,020
+it's too overwhelming<font color="#CCCCCC"> and</font><font color="#E5E5E5"> so I had a</font>
+
+1097
+00:56:25,020 --> 00:56:29,099
+very very focused<font color="#E5E5E5"> problem I wanted a</font>
+
+1098
+00:56:29,099 --> 00:56:33,060
+programming language<font color="#CCCCCC"> that set somewhere</font>
+
+1099
+00:56:33,060 --> 00:56:41,329
+in between<font color="#CCCCCC"> shell scripting and C and now</font>
+
+1100
+00:56:41,329 --> 00:56:45,240
+arguably there<font color="#CCCCCC"> is like one is higher</font>
+
+1101
+00:56:45,240 --> 00:56:50,609
+level one is lower level and<font color="#E5E5E5"> Python is</font>
+
+1102
+00:56:50,609 --> 00:56:54,180
+sort of a language of<font color="#E5E5E5"> an intermediate</font>
+
+1103
+00:56:54,180 --> 00:56:56,760
+<font color="#E5E5E5">level although</font><font color="#CCCCCC"> it's still</font><font color="#E5E5E5"> pretty much at</font>
+
+1104
+00:56:56,760 --> 00:57:01,349
+the high level and no I was I was
+
+1105
+00:57:01,349 --> 00:57:06,900
+thinking<font color="#CCCCCC"> about much more about I want a</font>
+
+1106
+00:57:06,900 --> 00:57:10,530
+tool that<font color="#E5E5E5"> I can</font><font color="#CCCCCC"> use</font><font color="#E5E5E5"> to be more</font>
+
+1107
+00:57:10,530 --> 00:57:12,839
+productive<font color="#CCCCCC"> as a programmer</font><font color="#E5E5E5"> in a very</font>
+
+1108
+00:57:12,839 --> 00:57:17,760
+specific environment<font color="#CCCCCC"> and I also had</font>
+
+1109
+00:57:17,760 --> 00:57:20,010
+given myself a time budget for the
+
+1110
+00:57:20,010 --> 00:57:22,800
+development<font color="#E5E5E5"> of the tool</font><font color="#CCCCCC"> and that was</font>
+
+1111
+00:57:22,800 --> 00:57:27,030
+sort of about three months for both the
+
+1112
+00:57:27,030 --> 00:57:28,710
+design like thinking through
+
+1113
+00:57:28,710 --> 00:57:30,630
+what are all the features<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the</font>
+
+1114
+00:57:30,630 --> 00:57:35,250
+language syntactically and semantically
+
+1115
+00:57:35,250 --> 00:57:39,150
+<font color="#CCCCCC">and how do i implement the whole</font>
+
+1116
+00:57:39,150 --> 00:57:42,059
+<font color="#E5E5E5">pipeline from parsing the source code to</font>
+
+1117
+00:57:42,059 --> 00:57:46,920
+executing it<font color="#E5E5E5"> so I think both were the</font>
+
+1118
+00:57:46,920 --> 00:57:49,890
+<font color="#E5E5E5">timeline and the goals</font><font color="#CCCCCC"> it seems like</font>
+
+1119
+00:57:49,890 --> 00:57:52,710
+<font color="#E5E5E5">productivity was at the core of it as a</font>
+
+1120
+00:57:52,710 --> 00:57:58,440
+goal so like for<font color="#CCCCCC"> me in the 90s and the</font>
+
+1121
+00:57:58,440 --> 00:58:00,660
+first decade<font color="#CCCCCC"> of the 21st</font><font color="#E5E5E5"> century I was</font>
+
+1122
+00:58:00,660 --> 00:58:02,930
+always<font color="#E5E5E5"> doing machine learning AI</font>
+
+1123
+00:58:02,930 --> 00:58:05,700
+programming for my research was always
+
+1124
+00:58:05,700 --> 00:58:10,230
+<font color="#E5E5E5">in C++</font><font color="#CCCCCC"> and then and then the other</font>
+
+1125
+00:58:10,230 --> 00:58:11,790
+people<font color="#E5E5E5"> who are a little more mechanical</font>
+
+1126
+00:58:11,790 --> 00:58:13,760
+engineering<font color="#CCCCCC"> Electrical Engineering our</font>
+
+1127
+00:58:13,760 --> 00:58:16,890
+MATLAB<font color="#CCCCCC"> II</font><font color="#E5E5E5"> they're a little bit more</font>
+
+1128
+00:58:16,890 --> 00:58:19,140
+MATLAB focus those are the<font color="#E5E5E5"> world and</font>
+
+1129
+00:58:19,140 --> 00:58:22,859
+<font color="#E5E5E5">maybe a</font><font color="#CCCCCC"> little bit</font><font color="#E5E5E5"> Java</font><font color="#CCCCCC"> too</font><font color="#E5E5E5"> but people</font>
+
+1130
+00:58:22,859 --> 00:58:25,609
+who are more<font color="#E5E5E5"> interested in</font><font color="#CCCCCC"> and</font>
+
+1131
+00:58:25,609 --> 00:58:27,540
+emphasizing the object oriented<font color="#CCCCCC"> nature</font>
+
+1132
+00:58:27,540 --> 00:58:31,589
+of things<font color="#E5E5E5"> so but then in</font><font color="#CCCCCC"> last 10 years</font>
+
+1133
+00:58:31,589 --> 00:58:34,079
+<font color="#E5E5E5">or so especially with a calming of</font>
+
+1134
+00:58:34,079 --> 00:58:35,670
+neural networks<font color="#E5E5E5"> and these packages are</font>
+
+1135
+00:58:35,670 --> 00:58:38,569
+built on Python<font color="#E5E5E5"> to interface with with</font>
+
+1136
+00:58:38,569 --> 00:58:41,579
+neural networks<font color="#CCCCCC"> I switch to Python and</font>
+
+1137
+00:58:41,579 --> 00:58:45,089
+it's just I've noticed a significant
+
+1138
+00:58:45,089 --> 00:58:46,980
+boost that I can't<font color="#E5E5E5"> exactly because I</font>
+
+1139
+00:58:46,980 --> 00:58:48,480
+don't think<font color="#CCCCCC"> about</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> I can't exactly</font>
+
+1140
+00:58:48,480 --> 00:58:50,849
+<font color="#E5E5E5">put into words</font><font color="#CCCCCC"> why I'm</font><font color="#E5E5E5"> just</font><font color="#CCCCCC"> except much</font>
+
+1141
+00:58:50,849 --> 00:58:53,700
+much<font color="#E5E5E5"> more productive just being able to</font>
+
+1142
+00:58:53,700 --> 00:58:57,240
+get<font color="#E5E5E5"> the job done much much faster so how</font>
+
+1143
+00:58:57,240 --> 00:58:59,579
+do you<font color="#E5E5E5"> think whatever that qualitative</font>
+
+1144
+00:58:59,579 --> 00:59:01,170
+difference is I<font color="#E5E5E5"> don't know if</font><font color="#CCCCCC"> it's</font>
+
+1145
+00:59:01,170 --> 00:59:03,290
+quantitative it could be just a feeling
+
+1146
+00:59:03,290 --> 00:59:05,520
+<font color="#CCCCCC">I don't know if I'm actually more</font>
+
+1147
+00:59:05,520 --> 00:59:07,920
+productive<font color="#E5E5E5"> but how do you</font><font color="#CCCCCC"> think about</font>
+
+1148
+00:59:07,920 --> 00:59:11,849
+<font color="#CCCCCC">Layar</font><font color="#E5E5E5"> yeah well that that's right I</font>
+
+1149
+00:59:11,849 --> 00:59:13,740
+think<font color="#E5E5E5"> there's elements</font><font color="#CCCCCC"> let</font><font color="#E5E5E5"> me just speak</font>
+
+1150
+00:59:13,740 --> 00:59:15,329
+to<font color="#E5E5E5"> one</font><font color="#CCCCCC"> aspect that I think those affect</font>
+
+1151
+00:59:15,329 --> 00:59:21,210
+<font color="#E5E5E5">that productivity is</font><font color="#CCCCCC"> C++ was I really</font>
+
+1152
+00:59:21,210 --> 00:59:24,619
+enjoyed<font color="#CCCCCC"> creating performant code and</font>
+
+1153
+00:59:24,619 --> 00:59:27,390
+creating a beautiful<font color="#E5E5E5"> structure</font><font color="#CCCCCC"> where</font>
+
+1154
+00:59:27,390 --> 00:59:29,579
+<font color="#E5E5E5">everything that</font><font color="#CCCCCC"> you know this kind of</font>
+
+1155
+00:59:29,579 --> 00:59:31,109
+going into<font color="#E5E5E5"> this especially with the</font>
+
+1156
+00:59:31,109 --> 00:59:33,329
+newer<font color="#E5E5E5"> newer standards of templated</font>
+
+1157
+00:59:33,329 --> 00:59:35,160
+programming of just really creating this
+
+1158
+00:59:35,160 --> 00:59:38,520
+beautiful<font color="#E5E5E5"> formal structure that</font><font color="#CCCCCC"> I found</font>
+
+1159
+00:59:38,520 --> 00:59:41,069
+myself spending most of my time<font color="#CCCCCC"> doing</font>
+
+1160
+00:59:41,069 --> 00:59:42,010
+that as opposed to get
+
+1161
+00:59:42,010 --> 00:59:44,980
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> parsing a file and extracting a few</font>
+
+1162
+00:59:44,980 --> 00:59:46,420
+key words<font color="#E5E5E5"> or whatever the task</font><font color="#CCCCCC"> was</font>
+
+1163
+00:59:46,420 --> 00:59:49,720
+trying to do so<font color="#E5E5E5"> what is it about Python</font>
+
+1164
+00:59:49,720 --> 00:59:51,370
+how do you think<font color="#E5E5E5"> of productivity in</font>
+
+1165
+00:59:51,370 --> 00:59:53,320
+general as<font color="#CCCCCC"> you were designing it</font><font color="#E5E5E5"> now</font>
+
+1166
+00:59:53,320 --> 00:59:55,840
+<font color="#CCCCCC">sort</font><font color="#E5E5E5"> of through the decades</font><font color="#CCCCCC"> last three</font>
+
+1167
+00:59:55,840 --> 00:59:57,820
+decades<font color="#CCCCCC"> what do you think it means to be</font>
+
+1168
+00:59:57,820 --> 01:00:00,520
+a productive programmer and how did you
+
+1169
+01:00:00,520 --> 01:00:03,580
+try to design<font color="#CCCCCC"> it into the language there</font>
+
+1170
+01:00:03,580 --> 01:00:06,700
+are different tasks and as a programmer
+
+1171
+01:00:06,700 --> 01:00:09,310
+it's it's useful to have<font color="#E5E5E5"> different tools</font>
+
+1172
+01:00:09,310 --> 01:00:12,310
+available that sort of are suitable<font color="#CCCCCC"> for</font>
+
+1173
+01:00:12,310 --> 01:00:15,100
+different<font color="#CCCCCC"> tasks so I still write C code</font>
+
+1174
+01:00:15,100 --> 01:00:20,140
+<font color="#CCCCCC">I still write shellcode but I write most</font>
+
+1175
+01:00:20,140 --> 01:00:26,290
+of my things in Python<font color="#CCCCCC"> why do I</font><font color="#E5E5E5"> still</font>
+
+1176
+01:00:26,290 --> 01:00:28,120
+use those other<font color="#E5E5E5"> languages because</font>
+
+1177
+01:00:28,120 --> 01:00:32,940
+sometimes the task just demands it<font color="#CCCCCC"> and</font>
+
+1178
+01:00:32,940 --> 01:00:36,400
+<font color="#E5E5E5">well I would say most of the</font><font color="#CCCCCC"> time the</font>
+
+1179
+01:00:36,400 --> 01:00:38,350
+<font color="#E5E5E5">task actually demands a certain</font><font color="#CCCCCC"> language</font>
+
+1180
+01:00:38,350 --> 01:00:41,350
+because the task is<font color="#E5E5E5"> not write a program</font>
+
+1181
+01:00:41,350 --> 01:00:43,900
+<font color="#CCCCCC">that solves</font><font color="#E5E5E5"> problem</font><font color="#CCCCCC"> x from scratch but</font>
+
+1182
+01:00:43,900 --> 01:00:47,200
+it's more like<font color="#E5E5E5"> fix bug in existing</font>
+
+1183
+01:00:47,200 --> 01:00:50,380
+program X or<font color="#E5E5E5"> add a small feature to an</font>
+
+1184
+01:00:50,380 --> 01:00:59,350
+existing large program but even<font color="#CCCCCC"> if if</font>
+
+1185
+01:00:59,350 --> 01:01:03,340
+you sort<font color="#E5E5E5"> of if you're not</font><font color="#CCCCCC"> constrained in</font>
+
+1186
+01:01:03,340 --> 01:01:06,850
+your choice of<font color="#CCCCCC"> language by context like</font>
+
+1187
+01:01:06,850 --> 01:01:12,550
+that<font color="#CCCCCC"> there is still the fact that</font><font color="#E5E5E5"> if you</font>
+
+1188
+01:01:12,550 --> 01:01:15,280
+write it in<font color="#E5E5E5"> a</font><font color="#CCCCCC"> certain language then you</font>
+
+1189
+01:01:15,280 --> 01:01:21,340
+<font color="#CCCCCC">sort of you you have this</font><font color="#E5E5E5"> balance</font>
+
+1190
+01:01:21,340 --> 01:01:24,550
+between how long does it time does<font color="#CCCCCC"> it</font>
+
+1191
+01:01:24,550 --> 01:01:28,090
+<font color="#E5E5E5">take you to write the code and</font><font color="#CCCCCC"> how long</font>
+
+1192
+01:01:28,090 --> 01:01:34,240
+does the code<font color="#CCCCCC"> run and when you're in</font>
+
+1193
+01:01:34,240 --> 01:01:38,530
+<font color="#E5E5E5">sort of in the</font><font color="#CCCCCC"> face of exploring</font>
+
+1194
+01:01:38,530 --> 01:01:42,520
+solutions<font color="#E5E5E5"> you often spend much more time</font>
+
+1195
+01:01:42,520 --> 01:01:45,010
+<font color="#E5E5E5">writing the code than running it because</font>
+
+1196
+01:01:45,010 --> 01:01:48,580
+every<font color="#E5E5E5"> time you've sort of you've run it</font>
+
+1197
+01:01:48,580 --> 01:01:51,400
+you see<font color="#E5E5E5"> that the output</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> not quite</font>
+
+1198
+01:01:51,400 --> 01:01:54,040
+what<font color="#CCCCCC"> you</font><font color="#E5E5E5"> wanted and</font><font color="#CCCCCC"> you spend some more</font>
+
+1199
+01:01:54,040 --> 01:01:56,450
+time<font color="#E5E5E5"> Cody</font>
+
+1200
+01:01:56,450 --> 01:02:02,340
+<font color="#CCCCCC">and a language like Python just makes</font>
+
+1201
+01:02:02,340 --> 01:02:05,760
+death<font color="#E5E5E5"> iteration much faster because</font>
+
+1202
+01:02:05,760 --> 01:02:09,090
+<font color="#E5E5E5">there are fewer details</font><font color="#CCCCCC"> there is a large</font>
+
+1203
+01:02:09,090 --> 01:02:13,080
+library<font color="#CCCCCC"> sort</font><font color="#E5E5E5"> of there are fewer</font><font color="#CCCCCC"> details</font>
+
+1204
+01:02:13,080 --> 01:02:15,420
+that that you have to<font color="#CCCCCC"> get right</font><font color="#E5E5E5"> before</font>
+
+1205
+01:02:15,420 --> 01:02:19,619
+your<font color="#CCCCCC"> program compiles and runs</font><font color="#E5E5E5"> there are</font>
+
+1206
+01:02:19,619 --> 01:02:22,140
+<font color="#E5E5E5">libraries that do all sorts of stuff</font><font color="#CCCCCC"> for</font>
+
+1207
+01:02:22,140 --> 01:02:26,280
+you so<font color="#CCCCCC"> you can</font><font color="#E5E5E5"> sort of very quickly take</font>
+
+1208
+01:02:26,280 --> 01:02:30,420
+a bunch of existing components put<font color="#E5E5E5"> them</font>
+
+1209
+01:02:30,420 --> 01:02:34,260
+together<font color="#E5E5E5"> and get your prototype</font>
+
+1210
+01:02:34,260 --> 01:02:37,650
+application<font color="#E5E5E5"> running just like when I was</font>
+
+1211
+01:02:37,650 --> 01:02:40,410
+<font color="#E5E5E5">building electronics I was using a</font>
+
+1212
+01:02:40,410 --> 01:02:44,010
+breadboard most of the time so I<font color="#E5E5E5"> had</font>
+
+1213
+01:02:44,010 --> 01:02:49,200
+this like sprawl out circuit<font color="#E5E5E5"> that if you</font>
+
+1214
+01:02:49,200 --> 01:02:51,090
+shook it it would stop working<font color="#E5E5E5"> because</font>
+
+1215
+01:02:51,090 --> 01:02:55,080
+<font color="#E5E5E5">it was not put together very well</font><font color="#CCCCCC"> but it</font>
+
+1216
+01:02:55,080 --> 01:02:57,869
+functioned<font color="#CCCCCC"> and</font><font color="#E5E5E5"> all I wanted was</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> see</font>
+
+1217
+01:02:57,869 --> 01:02:59,970
+<font color="#CCCCCC">that it worked and</font><font color="#E5E5E5"> then move on</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> the</font>
+
+1218
+01:02:59,970 --> 01:03:03,119
+next next schematic or design or<font color="#CCCCCC"> add</font>
+
+1219
+01:03:03,119 --> 01:03:05,550
+something to it<font color="#E5E5E5"> once you've sort of</font>
+
+1220
+01:03:05,550 --> 01:03:07,830
+figured<font color="#E5E5E5"> out oh this is the</font><font color="#CCCCCC"> perfect</font>
+
+1221
+01:03:07,830 --> 01:03:11,130
+design<font color="#E5E5E5"> for</font><font color="#CCCCCC"> my radio or light sensor or</font>
+
+1222
+01:03:11,130 --> 01:03:14,040
+whatever<font color="#E5E5E5"> then you can say okay how do we</font>
+
+1223
+01:03:14,040 --> 01:03:16,440
+design<font color="#E5E5E5"> a PCB for this how do we solder</font>
+
+1224
+01:03:16,440 --> 01:03:20,010
+the<font color="#CCCCCC"> components</font><font color="#E5E5E5"> in a small space how do</font>
+
+1225
+01:03:20,010 --> 01:03:23,900
+we make it<font color="#E5E5E5"> so that it is robust against</font>
+
+1226
+01:03:23,900 --> 01:03:30,109
+say voltage fluctuations<font color="#CCCCCC"> or</font><font color="#E5E5E5"> mechanical</font>
+
+1227
+01:03:30,109 --> 01:03:33,810
+disruption<font color="#CCCCCC"> I mean</font><font color="#E5E5E5"> I know nothing about</font>
+
+1228
+01:03:33,810 --> 01:03:35,430
+that<font color="#E5E5E5"> when it comes to designing</font>
+
+1229
+01:03:35,430 --> 01:03:37,320
+<font color="#E5E5E5">electronics but I know a lot about that</font>
+
+1230
+01:03:37,320 --> 01:03:40,560
+<font color="#CCCCCC">when it comes</font><font color="#E5E5E5"> to to writing</font><font color="#CCCCCC"> code so the</font>
+
+1231
+01:03:40,560 --> 01:03:44,340
+initial initial steps are efficient fast
+
+1232
+01:03:44,340 --> 01:03:46,050
+and there's<font color="#E5E5E5"> not much stuff that gets in</font>
+
+1233
+01:03:46,050 --> 01:03:50,600
+the way<font color="#CCCCCC"> but</font><font color="#E5E5E5"> you're kind of describing</font>
+
+1234
+01:03:50,600 --> 01:03:53,609
+from<font color="#E5E5E5"> a like Darwin described the</font>
+
+1235
+01:03:53,609 --> 01:03:56,700
+evolution of<font color="#E5E5E5"> species right you're you're</font>
+
+1236
+01:03:56,700 --> 01:03:59,520
+observing of what is about<font color="#E5E5E5"> true about</font>
+
+1237
+01:03:59,520 --> 01:04:02,430
+<font color="#E5E5E5">Python now if you take step back if the</font>
+
+1238
+01:04:02,430 --> 01:04:05,520
+<font color="#CCCCCC">art of</font><font color="#E5E5E5"> if the act of creating languages</font>
+
+1239
+01:04:05,520 --> 01:04:08,760
+<font color="#CCCCCC">is art</font><font color="#E5E5E5"> and you had three</font><font color="#CCCCCC"> months to</font><font color="#E5E5E5"> do it</font>
+
+1240
+01:04:08,760 --> 01:04:13,050
+<font color="#CCCCCC">and initial steps and ha so you just</font>
+
+1241
+01:04:13,050 --> 01:04:15,270
+specified a bunch of goals<font color="#CCCCCC"> sort</font><font color="#E5E5E5"> of</font>
+
+1242
+01:04:15,270 --> 01:04:16,860
+things<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you observe about Python</font>
+
+1243
+01:04:16,860 --> 01:04:18,240
+perhaps you had those goals but how do
+
+1244
+01:04:18,240 --> 01:04:20,400
+<font color="#E5E5E5">you create the rules the syntactic</font>
+
+1245
+01:04:20,400 --> 01:04:24,180
+structure<font color="#E5E5E5"> the the features</font><font color="#CCCCCC"> that result</font>
+
+1246
+01:04:24,180 --> 01:04:27,510
+in those so I have in the beginning<font color="#CCCCCC"> and</font>
+
+1247
+01:04:27,510 --> 01:04:29,130
+I have<font color="#E5E5E5"> follow-up</font><font color="#CCCCCC"> questions</font><font color="#E5E5E5"> about through</font>
+
+1248
+01:04:29,130 --> 01:04:31,530
+the evolution of Python<font color="#CCCCCC"> 2 but in the</font>
+
+1249
+01:04:31,530 --> 01:04:33,020
+very<font color="#CCCCCC"> beginning</font><font color="#E5E5E5"> when you're sitting there</font>
+
+1250
+01:04:33,020 --> 01:04:35,940
+<font color="#E5E5E5">creating the lexical</font><font color="#CCCCCC"> analyzers or</font>
+
+1251
+01:04:35,940 --> 01:04:38,850
+whatever<font color="#E5E5E5"> evolution was still a big part</font>
+
+1252
+01:04:38,850 --> 01:04:45,150
+of it<font color="#CCCCCC"> because I I sort</font><font color="#E5E5E5"> of I said to</font>
+
+1253
+01:04:45,150 --> 01:04:48,420
+myself<font color="#E5E5E5"> I don't want to have to</font><font color="#CCCCCC"> design</font>
+
+1254
+01:04:48,420 --> 01:04:51,120
+everything from<font color="#E5E5E5"> scratch I'm going to</font>
+
+1255
+01:04:51,120 --> 01:04:53,550
+borrow features from<font color="#E5E5E5"> other languages</font>
+
+1256
+01:04:53,550 --> 01:04:55,230
+<font color="#CCCCCC">that I like Oh interesting</font><font color="#E5E5E5"> so you</font>
+
+1257
+01:04:55,230 --> 01:04:57,510
+basically<font color="#E5E5E5"> exactly you first</font><font color="#CCCCCC"> observe what</font>
+
+1258
+01:04:57,510 --> 01:05:00,690
+you<font color="#CCCCCC"> like yeah and so that's why if</font>
+
+1259
+01:05:00,690 --> 01:05:03,720
+you're 17 years old<font color="#E5E5E5"> and you want to sort</font>
+
+1260
+01:05:03,720 --> 01:05:05,460
+of create<font color="#CCCCCC"> a programming language you're</font>
+
+1261
+01:05:05,460 --> 01:05:08,060
+<font color="#CCCCCC">not</font><font color="#E5E5E5"> going to be very successful at it</font>
+
+1262
+01:05:08,060 --> 01:05:11,490
+because<font color="#E5E5E5"> you have no experience with</font>
+
+1263
+01:05:11,490 --> 01:05:16,940
+other languages<font color="#E5E5E5"> whereas I was in my</font>
+
+1264
+01:05:16,940 --> 01:05:23,520
+let's say<font color="#E5E5E5"> mid-30s</font><font color="#CCCCCC"> I had written parsers</font>
+
+1265
+01:05:23,520 --> 01:05:25,470
+before so I had worked on<font color="#CCCCCC"> the</font>
+
+1266
+01:05:25,470 --> 01:05:28,550
+implementation<font color="#CCCCCC"> of ABC I had spent years</font>
+
+1267
+01:05:28,550 --> 01:05:31,500
+<font color="#E5E5E5">debating the design of ABC with its</font>
+
+1268
+01:05:31,500 --> 01:05:34,620
+authors<font color="#CCCCCC"> its</font><font color="#E5E5E5"> with its designers I had</font>
+
+1269
+01:05:34,620 --> 01:05:36,060
+nothing to do with<font color="#E5E5E5"> the</font><font color="#CCCCCC"> design it was</font>
+
+1270
+01:05:36,060 --> 01:05:39,690
+designed fully as it was ended up being
+
+1271
+01:05:39,690 --> 01:05:42,120
+implemented when I joined the<font color="#CCCCCC"> team but</font>
+
+1272
+01:05:42,120 --> 01:05:47,850
+so you borrow<font color="#E5E5E5"> ideas and concepts and</font>
+
+1273
+01:05:47,850 --> 01:05:51,060
+very concrete sort of local rules<font color="#E5E5E5"> from</font>
+
+1274
+01:05:51,060 --> 01:05:52,830
+different languages<font color="#E5E5E5"> like the indentation</font>
+
+1275
+01:05:52,830 --> 01:05:55,980
+<font color="#E5E5E5">and certain other syntactic features</font>
+
+1276
+01:05:55,980 --> 01:06:00,270
+from ABC but<font color="#CCCCCC"> I chose to borrow string</font>
+
+1277
+01:06:00,270 --> 01:06:05,930
+literals and<font color="#E5E5E5"> how numbers work from C and</font>
+
+1278
+01:06:05,930 --> 01:06:09,600
+various other things<font color="#CCCCCC"> so in then if you</font>
+
+1279
+01:06:09,600 --> 01:06:12,180
+take<font color="#CCCCCC"> that further so yet</font><font color="#E5E5E5"> you've had this</font>
+
+1280
+01:06:12,180 --> 01:06:14,640
+funny sounding but I think surprisingly
+
+1281
+01:06:14,640 --> 01:06:18,870
+accurate and<font color="#E5E5E5"> or at least practical</font><font color="#CCCCCC"> title</font>
+
+1282
+01:06:18,870 --> 01:06:21,120
+of a benevolent dictator for life for
+
+1283
+01:06:21,120 --> 01:06:22,619
+<font color="#E5E5E5">quite you know for last three decades</font>
+
+1284
+01:06:22,619 --> 01:06:25,319
+whatever<font color="#E5E5E5"> or no not the actual title but</font>
+
+1285
+01:06:25,319 --> 01:06:28,529
+functionally speaking<font color="#E5E5E5"> so you had to make</font>
+
+1286
+01:06:28,529 --> 01:06:35,309
+<font color="#CCCCCC">decisions design decisions can you maybe</font>
+
+1287
+01:06:35,309 --> 01:06:37,829
+let's take<font color="#CCCCCC"> Python -</font><font color="#E5E5E5"> there's a Python</font>
+
+1288
+01:06:37,829 --> 01:06:41,039
+<font color="#E5E5E5">releasing Python 3 as an example mm-hmm</font>
+
+1289
+01:06:41,039 --> 01:06:44,579
+it's not<font color="#CCCCCC"> backward-compatible -</font><font color="#E5E5E5"> Python -</font>
+
+1290
+01:06:44,579 --> 01:06:47,279
+in ways that a<font color="#CCCCCC"> lot of</font><font color="#E5E5E5"> people know so</font>
+
+1291
+01:06:47,279 --> 01:06:49,589
+what was that deliberation discussion
+
+1292
+01:06:49,589 --> 01:06:51,569
+decision like we have what was the
+
+1293
+01:06:51,569 --> 01:06:53,599
+psychology<font color="#CCCCCC"> of that</font><font color="#E5E5E5"> experience</font>
+
+1294
+01:06:53,599 --> 01:06:56,309
+do you regret any aspects<font color="#E5E5E5"> of how that</font>
+
+1295
+01:06:56,309 --> 01:06:59,999
+<font color="#CCCCCC">experiments undergone that else yeah so</font>
+
+1296
+01:06:59,999 --> 01:07:03,329
+it was a group process<font color="#E5E5E5"> really it at that</font>
+
+1297
+01:07:03,329 --> 01:07:07,109
+point<font color="#CCCCCC"> even though I was</font><font color="#E5E5E5"> be DFL in</font><font color="#CCCCCC"> nine a</font>
+
+1298
+01:07:07,109 --> 01:07:10,999
+name and and certainly<font color="#E5E5E5"> everybody sort of</font>
+
+1299
+01:07:10,999 --> 01:07:16,140
+respected my my position as<font color="#E5E5E5"> the creator</font>
+
+1300
+01:07:16,140 --> 01:07:19,499
+and<font color="#E5E5E5"> and the current sort of owner of the</font>
+
+1301
+01:07:19,499 --> 01:07:23,009
+language design<font color="#CCCCCC"> I was looking at</font>
+
+1302
+01:07:23,009 --> 01:07:26,809
+everyone else for feedback<font color="#E5E5E5"> sort of</font>
+
+1303
+01:07:26,809 --> 01:07:31,499
+<font color="#E5E5E5">Python 300 in some sense was sparked</font><font color="#CCCCCC"> by</font>
+
+1304
+01:07:31,499 --> 01:07:35,249
+other people in<font color="#E5E5E5"> the community</font><font color="#CCCCCC"> pointing</font>
+
+1305
+01:07:35,249 --> 01:07:41,480
+<font color="#E5E5E5">out</font><font color="#CCCCCC"> oh well there are a</font><font color="#E5E5E5"> few issues that</font>
+
+1306
+01:07:41,480 --> 01:07:46,410
+<font color="#CCCCCC">sort</font><font color="#E5E5E5"> of bite users over and over can we</font>
+
+1307
+01:07:46,410 --> 01:07:50,309
+<font color="#E5E5E5">do something about that</font><font color="#CCCCCC"> and for Python</font>
+
+1308
+01:07:50,309 --> 01:07:53,759
+<font color="#CCCCCC">three we took a number of</font><font color="#E5E5E5"> those Python</font>
+
+1309
+01:07:53,759 --> 01:07:55,380
+<font color="#CCCCCC">wards as they were called at the time</font>
+
+1310
+01:07:55,380 --> 01:07:59,749
+<font color="#E5E5E5">and we said</font><font color="#CCCCCC"> can we try to sort of</font><font color="#E5E5E5"> make</font>
+
+1311
+01:07:59,749 --> 01:08:03,180
+small<font color="#CCCCCC"> changes to</font><font color="#E5E5E5"> the language that</font>
+
+1312
+01:08:03,180 --> 01:08:07,499
+address those warts<font color="#CCCCCC"> and we had sort of</font>
+
+1313
+01:08:07,499 --> 01:08:11,609
+in the<font color="#E5E5E5"> past we had always taken</font>
+
+1314
+01:08:11,609 --> 01:08:14,039
+backwards compatibility very seriously
+
+1315
+01:08:14,039 --> 01:08:17,698
+and<font color="#E5E5E5"> so many Python warts in earlier</font>
+
+1316
+01:08:17,698 --> 01:08:19,799
+versions<font color="#E5E5E5"> had already been resolved</font>
+
+1317
+01:08:19,799 --> 01:08:22,560
+because<font color="#E5E5E5"> they could be resolved while</font>
+
+1318
+01:08:22,560 --> 01:08:24,509
+maintaining backwards compatibility or
+
+1319
+01:08:24,509 --> 01:08:29,069
+<font color="#E5E5E5">sort of using a very gradual path of</font>
+
+1320
+01:08:29,069 --> 01:08:31,020
+evolution of<font color="#E5E5E5"> the</font><font color="#CCCCCC"> language in a certain</font>
+
+1321
+01:08:31,020 --> 01:08:33,750
+<font color="#E5E5E5">area and so</font><font color="#CCCCCC"> we were stuck with</font><font color="#E5E5E5"> a number</font>
+
+1322
+01:08:33,750 --> 01:08:35,549
+of warts that<font color="#E5E5E5"> were</font>
+
+1323
+01:08:35,549 --> 01:08:39,988
+<font color="#E5E5E5">widely recognized as problems not like</font>
+
+1324
+01:08:39,988 --> 01:08:42,380
+<font color="#CCCCCC">road blocks but nevertheless sort of</font>
+
+1325
+01:08:42,380 --> 01:08:45,118
+things that some people trip over and
+
+1326
+01:08:45,118 --> 01:08:48,389
+you know that that's<font color="#E5E5E5"> always the same</font>
+
+1327
+01:08:48,389 --> 01:08:50,339
+thing that that<font color="#E5E5E5"> people trip over when</font>
+
+1328
+01:08:50,339 --> 01:08:54,059
+they trip and we could not think<font color="#CCCCCC"> of a</font>
+
+1329
+01:08:54,059 --> 01:08:57,299
+backwards compatible way of resolving
+
+1330
+01:08:57,299 --> 01:09:00,630
+those issues<font color="#E5E5E5"> but it's still an option</font><font color="#CCCCCC"> to</font>
+
+1331
+01:09:00,630 --> 01:09:03,149
+<font color="#CCCCCC">not resolve the</font><font color="#E5E5E5"> issues and so yes for</font>
+
+1332
+01:09:03,149 --> 01:09:05,849
+for a long time we had<font color="#E5E5E5"> sort of resigned</font>
+
+1333
+01:09:05,849 --> 01:09:08,099
+ourselves<font color="#E5E5E5"> to well</font><font color="#CCCCCC"> okay the language is</font>
+
+1334
+01:09:08,099 --> 01:09:10,439
+<font color="#E5E5E5">not going to be perfect</font><font color="#CCCCCC"> in this way and</font>
+
+1335
+01:09:10,439 --> 01:09:16,710
+<font color="#E5E5E5">that way that way and we sort of certain</font>
+
+1336
+01:09:16,710 --> 01:09:18,479
+of these<font color="#E5E5E5"> I mean there are</font><font color="#CCCCCC"> still plenty</font>
+
+1337
+01:09:18,479 --> 01:09:20,599
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> things where you can say well that's</font>
+
+1338
+01:09:20,599 --> 01:09:24,118
+that particular<font color="#E5E5E5"> detail is better in Java</font>
+
+1339
+01:09:24,118 --> 01:09:30,198
+or<font color="#CCCCCC"> in R</font><font color="#E5E5E5"> or in Visual Basic or whatever</font>
+
+1340
+01:09:30,198 --> 01:09:34,679
+<font color="#CCCCCC">and we're okay with that because</font><font color="#E5E5E5"> well we</font>
+
+1341
+01:09:34,679 --> 01:09:38,549
+can't easily<font color="#CCCCCC"> change it it's not too bad</font>
+
+1342
+01:09:38,549 --> 01:09:40,488
+we can do a little<font color="#E5E5E5"> bit</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> user</font>
+
+1343
+01:09:40,488 --> 01:09:43,529
+<font color="#CCCCCC">education or we</font><font color="#E5E5E5"> can have a static</font>
+
+1344
+01:09:43,529 --> 01:09:47,939
+analyzer<font color="#E5E5E5"> or warnings in in the parser</font><font color="#CCCCCC"> or</font>
+
+1345
+01:09:47,939 --> 01:09:48,658
+something
+
+1346
+01:09:48,658 --> 01:09:51,809
+but there<font color="#CCCCCC"> were things where we thought</font>
+
+1347
+01:09:51,809 --> 01:09:54,360
+well these are<font color="#CCCCCC"> really problems that are</font>
+
+1348
+01:09:54,360 --> 01:09:57,360
+not<font color="#E5E5E5"> going away</font><font color="#CCCCCC"> they</font><font color="#E5E5E5"> are getting worse in</font>
+
+1349
+01:09:57,360 --> 01:10:02,070
+the future<font color="#E5E5E5"> we should</font><font color="#CCCCCC"> do</font><font color="#E5E5E5"> something about</font>
+
+1350
+01:10:02,070 --> 01:10:03,809
+do something<font color="#E5E5E5"> but ultimately there is a</font>
+
+1351
+01:10:03,809 --> 01:10:08,670
+decision<font color="#CCCCCC"> to be made</font><font color="#E5E5E5"> right yes so was</font>
+
+1352
+01:10:08,670 --> 01:10:10,110
+<font color="#CCCCCC">that the toughest decision in the</font>
+
+1353
+01:10:10,110 --> 01:10:12,480
+history<font color="#CCCCCC"> of Python yet to make</font><font color="#E5E5E5"> as the</font>
+
+1354
+01:10:12,480 --> 01:10:15,630
+benevolent<font color="#CCCCCC"> dictator for life or if</font><font color="#E5E5E5"> not</font>
+
+1355
+01:10:15,630 --> 01:10:18,179
+<font color="#E5E5E5">what are there maybe even on a smaller</font>
+
+1356
+01:10:18,179 --> 01:10:20,520
+scale<font color="#E5E5E5"> what was a decision where you were</font>
+
+1357
+01:10:20,520 --> 01:10:23,130
+<font color="#E5E5E5">really torn up about well the toughest</font>
+
+1358
+01:10:23,130 --> 01:10:27,179
+decision was probably to resign<font color="#E5E5E5"> all</font>
+
+1359
+01:10:27,179 --> 01:10:28,949
+<font color="#E5E5E5">right let's go there hold on</font><font color="#CCCCCC"> a second</font>
+
+1360
+01:10:28,949 --> 01:10:31,260
+then let me<font color="#E5E5E5"> just because in</font><font color="#CCCCCC"> the interest</font>
+
+1361
+01:10:31,260 --> 01:10:32,670
+of<font color="#E5E5E5"> time</font><font color="#CCCCCC"> too because I have a few cool</font>
+
+1362
+01:10:32,670 --> 01:10:35,639
+questions for you<font color="#E5E5E5"> I let's touch a really</font>
+
+1363
+01:10:35,639 --> 01:10:36,809
+important one<font color="#CCCCCC"> because it was quite</font>
+
+1364
+01:10:36,809 --> 01:10:38,790
+<font color="#CCCCCC">dramatic and beautiful in certain kinds</font>
+
+1365
+01:10:38,790 --> 01:10:41,460
+of ways<font color="#CCCCCC"> then in</font><font color="#E5E5E5"> July this year three</font>
+
+1366
+01:10:41,460 --> 01:10:45,540
+<font color="#E5E5E5">months ago you</font><font color="#CCCCCC"> wrote now that pepp 572</font>
+
+1367
+01:10:45,540 --> 01:10:47,849
+is done<font color="#CCCCCC"> I don't ever want to have to</font>
+
+1368
+01:10:47,849 --> 01:10:49,080
+fight so hard<font color="#CCCCCC"> for a</font>
+
+1369
+01:10:49,080 --> 01:10:51,570
+and find that so<font color="#E5E5E5"> many people despise my</font>
+
+1370
+01:10:51,570 --> 01:10:53,730
+decisions<font color="#CCCCCC"> I would</font><font color="#E5E5E5"> like to remove myself</font>
+
+1371
+01:10:53,730 --> 01:10:55,830
+<font color="#E5E5E5">entirely from</font><font color="#CCCCCC"> the decision process I'll</font>
+
+1372
+01:10:55,830 --> 01:10:58,290
+still<font color="#E5E5E5"> be there for</font><font color="#CCCCCC"> a while</font><font color="#E5E5E5"> as an</font>
+
+1373
+01:10:58,290 --> 01:11:00,990
+ordinary<font color="#CCCCCC"> core developer</font><font color="#E5E5E5"> and I'll still</font>
+
+1374
+01:11:00,990 --> 01:11:03,000
+be<font color="#CCCCCC"> available to mentor people</font><font color="#E5E5E5"> possibly</font>
+
+1375
+01:11:03,000 --> 01:11:06,150
+<font color="#E5E5E5">more available but I'm basically</font><font color="#CCCCCC"> giving</font>
+
+1376
+01:11:06,150 --> 01:11:08,580
+<font color="#E5E5E5">myself a permanent vacation for being be</font>
+
+1377
+01:11:08,580 --> 01:11:11,160
+<font color="#E5E5E5">DFL yeah but not</font><font color="#CCCCCC"> well in dictator for</font>
+
+1378
+01:11:11,160 --> 01:11:15,260
+life<font color="#CCCCCC"> and you all</font><font color="#E5E5E5"> will</font><font color="#CCCCCC"> be on your</font><font color="#E5E5E5"> own</font>
+
+1379
+01:11:15,260 --> 01:11:17,880
+<font color="#E5E5E5">it's just this it's a it's almost</font>
+
+1380
+01:11:17,880 --> 01:11:20,760
+Shakespearean<font color="#E5E5E5"> I'm not going to appoint a</font>
+
+1381
+01:11:20,760 --> 01:11:23,580
+successor<font color="#E5E5E5"> so water you're all going to</font>
+
+1382
+01:11:23,580 --> 01:11:26,340
+do create a democracy<font color="#CCCCCC"> anarchy a</font>
+
+1383
+01:11:26,340 --> 01:11:29,820
+dictatorship<font color="#CCCCCC"> a federation so that was a</font>
+
+1384
+01:11:29,820 --> 01:11:33,900
+very dramatic<font color="#E5E5E5"> and beautiful set of</font>
+
+1385
+01:11:33,900 --> 01:11:36,210
+<font color="#E5E5E5">statements it's almost it's open-ended</font>
+
+1386
+01:11:36,210 --> 01:11:38,850
+nature called the community to create<font color="#E5E5E5"> a</font>
+
+1387
+01:11:38,850 --> 01:11:41,160
+future for<font color="#CCCCCC"> Python this is kind of a</font>
+
+1388
+01:11:41,160 --> 01:11:45,120
+<font color="#E5E5E5">beautiful aspect to it</font><font color="#CCCCCC"> well so what end</font>
+
+1389
+01:11:45,120 --> 01:11:47,250
+<font color="#E5E5E5">and dramatic you know what was making</font>
+
+1390
+01:11:47,250 --> 01:11:48,780
+that<font color="#E5E5E5"> decision like what was on</font><font color="#CCCCCC"> your</font>
+
+1391
+01:11:48,780 --> 01:11:51,450
+heart<font color="#E5E5E5"> on your mind</font><font color="#CCCCCC"> stepping back now a</font>
+
+1392
+01:11:51,450 --> 01:11:54,840
+few months<font color="#CCCCCC"> later we could take you to</font>
+
+1393
+01:11:54,840 --> 01:11:56,730
+<font color="#CCCCCC">your</font><font color="#E5E5E5"> Maya thing I'm glad you liked of</font>
+
+1394
+01:11:56,730 --> 01:11:59,970
+writing<font color="#E5E5E5"> because it was actually written</font>
+
+1395
+01:11:59,970 --> 01:12:01,490
+pretty quickly
+
+1396
+01:12:01,490 --> 01:12:07,470
+it was literally<font color="#CCCCCC"> something like after</font>
+
+1397
+01:12:07,470 --> 01:12:11,700
+months and months of going<font color="#CCCCCC"> around in</font>
+
+1398
+01:12:11,700 --> 01:12:19,100
+circles<font color="#CCCCCC"> I had finally approved Pet 572</font>
+
+1399
+01:12:19,100 --> 01:12:22,800
+which I had a big hand in its design
+
+1400
+01:12:22,800 --> 01:12:26,130
+although<font color="#E5E5E5"> it I didn't initiate</font><font color="#CCCCCC"> it</font>
+
+1401
+01:12:26,130 --> 01:12:31,200
+originally<font color="#CCCCCC"> I gave it a bunch</font><font color="#E5E5E5"> of nudges</font>
+
+1402
+01:12:31,200 --> 01:12:34,350
+in a direction that<font color="#E5E5E5"> would</font><font color="#CCCCCC"> be better for</font>
+
+1403
+01:12:34,350 --> 01:12:37,860
+<font color="#E5E5E5">the language so I just asked</font><font color="#CCCCCC"> it's a sink</font>
+
+1404
+01:12:37,860 --> 01:12:42,060
+<font color="#E5E5E5">I oh no the one or no no</font><font color="#CCCCCC"> kept 572 was</font>
+
+1405
+01:12:42,060 --> 01:12:45,360
+actually a small feature which is
+
+1406
+01:12:45,360 --> 01:12:47,730
+assignment<font color="#E5E5E5"> expressions assignment</font>
+
+1407
+01:12:47,730 --> 01:12:48,450
+expressions
+
+1408
+01:12:48,450 --> 01:12:52,980
+dad had been taught there was just a lot
+
+1409
+01:12:52,980 --> 01:12:55,410
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> debate where a lot of people claimed</font>
+
+1410
+01:12:55,410 --> 01:13:00,060
+that they knew what was pythonic and
+
+1411
+01:13:00,060 --> 01:13:02,120
+what was not pythonic and
+
+1412
+01:13:02,120 --> 01:13:04,910
+they knew that<font color="#CCCCCC"> this was going</font><font color="#E5E5E5"> to destroy</font>
+
+1413
+01:13:04,910 --> 01:13:07,520
+the language this was like a violation
+
+1414
+01:13:07,520 --> 01:13:10,580
+of pythons<font color="#E5E5E5"> most fundamental design</font>
+
+1415
+01:13:10,580 --> 01:13:12,170
+philosophy and I thought that was all
+
+1416
+01:13:12,170 --> 01:13:14,750
+ because<font color="#E5E5E5"> I was in favor of it</font>
+
+1417
+01:13:14,750 --> 01:13:17,090
+and<font color="#E5E5E5"> that I would think I know something</font>
+
+1418
+01:13:17,090 --> 01:13:19,600
+<font color="#CCCCCC">about pythons design philosophy so I was</font>
+
+1419
+01:13:19,600 --> 01:13:22,910
+really<font color="#E5E5E5"> tired and also stressed of that</font>
+
+1420
+01:13:22,910 --> 01:13:25,790
+thing and literally<font color="#CCCCCC"> after sort of</font>
+
+1421
+01:13:25,790 --> 01:13:29,440
+announcing<font color="#E5E5E5"> I was going to accept it</font><font color="#CCCCCC"> a</font>
+
+1422
+01:13:29,440 --> 01:13:32,840
+certain Wednesday evening<font color="#CCCCCC"> I had</font><font color="#E5E5E5"> finally</font>
+
+1423
+01:13:32,840 --> 01:13:35,300
+send the email<font color="#CCCCCC"> it's accepted now let's</font>
+
+1424
+01:13:35,300 --> 01:13:39,800
+just go<font color="#CCCCCC"> implement it so I went to</font><font color="#E5E5E5"> bed</font>
+
+1425
+01:13:39,800 --> 01:13:43,040
+feeling<font color="#E5E5E5"> really relieved</font><font color="#CCCCCC"> that's behind me</font>
+
+1426
+01:13:43,040 --> 01:13:47,540
+<font color="#CCCCCC">and I wake up Thursday</font><font color="#E5E5E5"> morning 7:00 a.m.</font>
+
+1427
+01:13:47,540 --> 01:13:53,230
+and<font color="#E5E5E5"> I think well</font><font color="#CCCCCC"> that was the last one</font>
+
+1428
+01:13:53,230 --> 01:13:57,970
+that's<font color="#E5E5E5"> going to</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> such such a terrible</font>
+
+1429
+01:13:57,970 --> 01:14:00,380
+debate and<font color="#E5E5E5"> that's it going to be said</font>
+
+1430
+01:14:00,380 --> 01:14:02,660
+that's the<font color="#E5E5E5"> last time</font><font color="#CCCCCC"> that I let myself</font>
+
+1431
+01:14:02,660 --> 01:14:05,690
+be so stressed out about a<font color="#CCCCCC"> peb decision</font>
+
+1432
+01:14:05,690 --> 01:14:08,930
+<font color="#CCCCCC">I should just resign I've been sort of</font>
+
+1433
+01:14:08,930 --> 01:14:11,750
+thinking<font color="#CCCCCC"> about retirement</font><font color="#E5E5E5"> for half a</font>
+
+1434
+01:14:11,750 --> 01:14:15,710
+decade<font color="#E5E5E5"> I've been joking</font><font color="#CCCCCC"> and sort of</font>
+
+1435
+01:14:15,710 --> 01:14:19,970
+mentioning retirement sort of telling
+
+1436
+01:14:19,970 --> 01:14:22,310
+the<font color="#CCCCCC"> community</font><font color="#E5E5E5"> some point in the</font><font color="#CCCCCC"> future</font>
+
+1437
+01:14:22,310 --> 01:14:26,140
+I'm going<font color="#E5E5E5"> to retire don't take that FL</font>
+
+1438
+01:14:26,140 --> 01:14:29,540
+<font color="#E5E5E5">part of my title too literally and I</font>
+
+1439
+01:14:29,540 --> 01:14:35,000
+thought<font color="#E5E5E5"> okay this is it I'm done I had</font>
+
+1440
+01:14:35,000 --> 01:14:37,700
+the day off<font color="#E5E5E5"> I wanted to have a good time</font>
+
+1441
+01:14:37,700 --> 01:14:39,470
+with my wife<font color="#E5E5E5"> we were going to a little</font>
+
+1442
+01:14:39,470 --> 01:14:45,100
+<font color="#E5E5E5">beach town nearby and in he think maybe</font>
+
+1443
+01:14:45,100 --> 01:14:46,580
+<font color="#CCCCCC">15-20 minutes</font>
+
+1444
+01:14:46,580 --> 01:14:49,070
+<font color="#E5E5E5">I wrote that thing that you</font><font color="#CCCCCC"> just called</font>
+
+1445
+01:14:49,070 --> 01:14:52,100
+<font color="#E5E5E5">Shakespearean yeah the funny thing</font><font color="#CCCCCC"> is I</font>
+
+1446
+01:14:52,100 --> 01:14:53,720
+<font color="#CCCCCC">get</font><font color="#E5E5E5"> so much crap for calling</font><font color="#CCCCCC"> you</font>
+
+1447
+01:14:53,720 --> 01:14:54,590
+Shakespearean
+
+1448
+01:14:54,590 --> 01:14:57,800
+I didn't even I didn't even realize what
+
+1449
+01:14:57,800 --> 01:15:01,610
+a<font color="#CCCCCC"> monumental decision</font><font color="#E5E5E5"> it was because</font>
+
+1450
+01:15:01,610 --> 01:15:05,390
+five minutes later<font color="#E5E5E5"> I read that's a link</font>
+
+1451
+01:15:05,390 --> 01:15:08,780
+to my message back on Twitter<font color="#E5E5E5"> where</font>
+
+1452
+01:15:08,780 --> 01:15:10,460
+<font color="#CCCCCC">people</font><font color="#E5E5E5"> were already discussing</font><font color="#CCCCCC"> on</font>
+
+1453
+01:15:10,460 --> 01:15:14,460
+Twitter<font color="#CCCCCC"> guido resigned as the BD FL</font>
+
+1454
+01:15:14,460 --> 01:15:17,969
+and I had I had<font color="#E5E5E5"> posted it on an internal</font>
+
+1455
+01:15:17,969 --> 01:15:20,820
+forum that I thought was<font color="#E5E5E5"> only read by</font>
+
+1456
+01:15:20,820 --> 01:15:23,370
+core developers so I thought<font color="#CCCCCC"> I</font><font color="#E5E5E5"> would at</font>
+
+1457
+01:15:23,370 --> 01:15:25,739
+<font color="#CCCCCC">least have one day before the news would</font>
+
+1458
+01:15:25,739 --> 01:15:30,150
+sort<font color="#E5E5E5"> of get</font><font color="#CCCCCC"> out the on your</font><font color="#E5E5E5"> own</font><font color="#CCCCCC"> aspect I</font>
+
+1459
+01:15:30,150 --> 01:15:34,290
+had<font color="#E5E5E5"> also an element of quite it was</font>
+
+1460
+01:15:34,290 --> 01:15:36,660
+<font color="#E5E5E5">quite a powerful</font><font color="#CCCCCC"> element of the</font>
+
+1461
+01:15:36,660 --> 01:15:39,750
+uncertainty<font color="#CCCCCC"> that</font><font color="#E5E5E5"> lies ahead</font><font color="#CCCCCC"> but can you</font>
+
+1462
+01:15:39,750 --> 01:15:42,330
+<font color="#E5E5E5">also just briefly talk about you know</font>
+
+1463
+01:15:42,330 --> 01:15:44,670
+<font color="#E5E5E5">like for</font><font color="#CCCCCC"> example I play</font><font color="#E5E5E5"> guitar</font><font color="#CCCCCC"> as a</font>
+
+1464
+01:15:44,670 --> 01:15:47,640
+hobby for<font color="#E5E5E5"> fun</font><font color="#CCCCCC"> and whenever I play people</font>
+
+1465
+01:15:47,640 --> 01:15:49,680
+are super positive<font color="#CCCCCC"> so super</font><font color="#E5E5E5"> friendly</font>
+
+1466
+01:15:49,680 --> 01:15:51,450
+they're like this<font color="#CCCCCC"> is awesome this is</font>
+
+1467
+01:15:51,450 --> 01:15:53,940
+<font color="#CCCCCC">great</font><font color="#E5E5E5"> but sometimes I enter as an</font>
+
+1468
+01:15:53,940 --> 01:15:55,830
+outside observer<font color="#CCCCCC"> I enter the programming</font>
+
+1469
+01:15:55,830 --> 01:15:58,410
+community and there seems<font color="#CCCCCC"> to some</font>
+
+1470
+01:15:58,410 --> 01:16:01,469
+<font color="#E5E5E5">sometimes be camps on whatever the topic</font>
+
+1471
+01:16:01,469 --> 01:16:05,130
+<font color="#E5E5E5">and and the two camps the two or plus</font>
+
+1472
+01:16:05,130 --> 01:16:07,440
+camps are often pretty harsh are
+
+1473
+01:16:07,440 --> 01:16:11,910
+criticizing<font color="#CCCCCC"> the opposing camps as an</font>
+
+1474
+01:16:11,910 --> 01:16:13,770
+onlooker<font color="#CCCCCC"> I may be</font><font color="#E5E5E5"> totally</font><font color="#CCCCCC"> wrong</font><font color="#E5E5E5"> on this</font>
+
+1475
+01:16:13,770 --> 01:16:17,130
+<font color="#CCCCCC">yeah well because like wars are sort</font><font color="#E5E5E5"> of</font>
+
+1476
+01:16:17,130 --> 01:16:19,230
+a<font color="#E5E5E5"> favorite activity in the programming</font>
+
+1477
+01:16:19,230 --> 01:16:21,120
+community and what is the<font color="#E5E5E5"> psychology</font>
+
+1478
+01:16:21,120 --> 01:16:23,400
+behind that is is<font color="#E5E5E5"> that okay for</font><font color="#CCCCCC"> a</font>
+
+1479
+01:16:23,400 --> 01:16:25,770
+healthy<font color="#CCCCCC"> community to have is</font><font color="#E5E5E5"> that is</font>
+
+1480
+01:16:25,770 --> 01:16:27,930
+that<font color="#CCCCCC"> a productive force ultimately for</font>
+
+1481
+01:16:27,930 --> 01:16:30,420
+the<font color="#E5E5E5"> evolution of the language</font><font color="#CCCCCC"> well if</font>
+
+1482
+01:16:30,420 --> 01:16:33,120
+everybody is betting each other on the
+
+1483
+01:16:33,120 --> 01:16:38,520
+back<font color="#CCCCCC"> and never telling</font><font color="#E5E5E5"> the truth yes</font><font color="#CCCCCC"> it</font>
+
+1484
+01:16:38,520 --> 01:16:41,640
+would not<font color="#E5E5E5"> be a good</font><font color="#CCCCCC"> thing I think there</font>
+
+1485
+01:16:41,640 --> 01:16:48,989
+is<font color="#CCCCCC"> a</font><font color="#E5E5E5"> middle</font><font color="#CCCCCC"> ground where sort</font><font color="#E5E5E5"> of being</font>
+
+1486
+01:16:48,989 --> 01:16:52,790
+nasty to<font color="#CCCCCC"> each other is</font><font color="#E5E5E5"> not okay but</font>
+
+1487
+01:16:52,790 --> 01:16:56,190
+<font color="#E5E5E5">there there is is</font><font color="#CCCCCC"> a middle ground where</font>
+
+1488
+01:16:56,190 --> 01:17:00,360
+<font color="#E5E5E5">there is healthy ongoing</font><font color="#CCCCCC"> criticism and</font>
+
+1489
+01:17:00,360 --> 01:17:04,980
+feedback<font color="#E5E5E5"> that is very productive</font><font color="#CCCCCC"> and you</font>
+
+1490
+01:17:04,980 --> 01:17:07,680
+you mean at every<font color="#E5E5E5"> level you see that I</font>
+
+1491
+01:17:07,680 --> 01:17:11,280
+<font color="#E5E5E5">mean someone proposes to fix a very</font>
+
+1492
+01:17:11,280 --> 01:17:17,040
+small issue in a<font color="#CCCCCC"> codebase chances</font><font color="#E5E5E5"> are</font>
+
+1493
+01:17:17,040 --> 01:17:20,820
+that some reviewer will sort of respond
+
+1494
+01:17:20,820 --> 01:17:23,160
+by saying well actually<font color="#E5E5E5"> you can do it</font>
+
+1495
+01:17:23,160 --> 01:17:27,510
+better<font color="#CCCCCC"> the other way</font><font color="#E5E5E5"> right when it comes</font>
+
+1496
+01:17:27,510 --> 01:17:28,230
+to
+
+1497
+01:17:28,230 --> 01:17:31,470
+deciding on<font color="#E5E5E5"> the future of the Python</font>
+
+1498
+01:17:31,470 --> 01:17:34,739
+core developer community we now have I
+
+1499
+01:17:34,739 --> 01:17:37,680
+<font color="#E5E5E5">think five or six competing proposals</font>
+
+1500
+01:17:37,680 --> 01:17:43,560
+for a<font color="#E5E5E5"> constitution so that future do you</font>
+
+1501
+01:17:43,560 --> 01:17:45,330
+have a fear of<font color="#E5E5E5"> that future do you have a</font>
+
+1502
+01:17:45,330 --> 01:17:48,480
+hope for<font color="#E5E5E5"> that future I'm not</font><font color="#CCCCCC"> very</font>
+
+1503
+01:17:48,480 --> 01:17:51,570
+confident about that<font color="#E5E5E5"> future it by and</font>
+
+1504
+01:17:51,570 --> 01:17:54,480
+large<font color="#E5E5E5"> I</font><font color="#CCCCCC"> think that the</font><font color="#E5E5E5"> debate has been</font>
+
+1505
+01:17:54,480 --> 01:17:59,070
+very<font color="#E5E5E5"> healthy and productive and I</font>
+
+1506
+01:17:59,070 --> 01:18:00,870
+actually<font color="#CCCCCC"> when when I wrote that</font>
+
+1507
+01:18:00,870 --> 01:18:06,000
+resignation<font color="#E5E5E5"> email</font><font color="#CCCCCC"> I knew that</font><font color="#E5E5E5"> that</font>
+
+1508
+01:18:06,000 --> 01:18:08,520
+Python was in a very<font color="#E5E5E5"> good spot and</font><font color="#CCCCCC"> that</font>
+
+1509
+01:18:08,520 --> 01:18:10,770
+the Python core<font color="#E5E5E5"> development community</font>
+
+1510
+01:18:10,770 --> 01:18:13,620
+that the group of fifty<font color="#CCCCCC"> or a hundred</font>
+
+1511
+01:18:13,620 --> 01:18:18,660
+people<font color="#E5E5E5"> who sort of write or review most</font>
+
+1512
+01:18:18,660 --> 01:18:20,820
+of the code<font color="#E5E5E5"> that goes into Python those</font>
+
+1513
+01:18:20,820 --> 01:18:25,350
+people get along very well<font color="#E5E5E5"> most of the</font>
+
+1514
+01:18:25,350 --> 01:18:29,670
+time<font color="#E5E5E5"> a large number of different areas</font>
+
+1515
+01:18:29,670 --> 01:18:36,900
+of expertise<font color="#CCCCCC"> are represented</font><font color="#E5E5E5"> different</font>
+
+1516
+01:18:36,900 --> 01:18:41,160
+levels of<font color="#E5E5E5"> experience in the Python core</font>
+
+1517
+01:18:41,160 --> 01:18:43,050
+deaf community different levels<font color="#E5E5E5"> of</font>
+
+1518
+01:18:43,050 --> 01:18:45,630
+<font color="#E5E5E5">experience completely outside in</font>
+
+1519
+01:18:45,630 --> 01:18:48,750
+software<font color="#E5E5E5"> development in general large</font>
+
+1520
+01:18:48,750 --> 01:18:52,130
+<font color="#CCCCCC">systems small</font><font color="#E5E5E5"> systems embedded systems</font>
+
+1521
+01:18:52,130 --> 01:18:58,320
+<font color="#E5E5E5">so I I felt</font><font color="#CCCCCC"> okay resigning because I</font>
+
+1522
+01:18:58,320 --> 01:19:00,989
+knew<font color="#E5E5E5"> that that the community can</font><font color="#CCCCCC"> really</font>
+
+1523
+01:19:00,989 --> 01:19:04,650
+take care<font color="#E5E5E5"> of itself and out of a grab</font>
+
+1524
+01:19:04,650 --> 01:19:08,489
+<font color="#E5E5E5">bag of future</font><font color="#CCCCCC"> future developments let me</font>
+
+1525
+01:19:08,489 --> 01:19:12,600
+ask if you can comment maybe on all very
+
+1526
+01:19:12,600 --> 01:19:15,450
+quickly<font color="#E5E5E5"> concurrent programming parallel</font>
+
+1527
+01:19:15,450 --> 01:19:19,739
+computing<font color="#E5E5E5"> async</font><font color="#CCCCCC"> IL these are things that</font>
+
+1528
+01:19:19,739 --> 01:19:22,800
+<font color="#CCCCCC">people have expressed hope complained</font>
+
+1529
+01:19:22,800 --> 01:19:25,830
+about<font color="#E5E5E5"> whatever have discussed on reddit</font>
+
+1530
+01:19:25,830 --> 01:19:27,930
+async<font color="#E5E5E5"> i also the parallelization in</font>
+
+1531
+01:19:27,930 --> 01:19:31,710
+general packaging<font color="#E5E5E5"> i was totally clueless</font>
+
+1532
+01:19:31,710 --> 01:19:33,570
+on this I just<font color="#CCCCCC"> used piston</font><font color="#E5E5E5"> install stuff</font>
+
+1533
+01:19:33,570 --> 01:19:36,210
+but<font color="#CCCCCC"> apparently this</font><font color="#E5E5E5"> paper and in poetry</font>
+
+1534
+01:19:36,210 --> 01:19:39,090
+there's these dependency packaging
+
+1535
+01:19:39,090 --> 01:19:40,530
+systems that manage dependencies and<font color="#E5E5E5"> so</font>
+
+1536
+01:19:40,530 --> 01:19:41,500
+<font color="#E5E5E5">on there</font>
+
+1537
+01:19:41,500 --> 01:19:42,700
+<font color="#E5E5E5">urging and there's a lot of confusion</font>
+
+1538
+01:19:42,700 --> 01:19:44,380
+<font color="#CCCCCC">about what's what's</font><font color="#E5E5E5"> the right thing to</font>
+
+1539
+01:19:44,380 --> 01:19:49,180
+use<font color="#E5E5E5"> then also functional programming the</font>
+
+1540
+01:19:49,180 --> 01:19:54,430
+the ever you know the the<font color="#E5E5E5"> are we're</font>
+
+1541
+01:19:54,430 --> 01:19:55,810
+going to<font color="#E5E5E5"> get more functional programming</font>
+
+1542
+01:19:55,810 --> 01:19:57,820
+or not this<font color="#E5E5E5"> kind of this</font><font color="#CCCCCC"> kind of idea</font>
+
+1543
+01:19:57,820 --> 01:20:04,290
+and of course the<font color="#E5E5E5"> the gill is a</font>
+
+1544
+01:20:04,290 --> 01:20:06,250
+connected to the parallelization<font color="#E5E5E5"> I</font>
+
+1545
+01:20:06,250 --> 01:20:07,590
+suppose the global interpreter lock
+
+1546
+01:20:07,590 --> 01:20:10,140
+problem can you just comment on
+
+1547
+01:20:10,140 --> 01:20:13,240
+whichever you want<font color="#E5E5E5"> to comment on well</font>
+
+1548
+01:20:13,240 --> 01:20:18,930
+<font color="#CCCCCC">let's take the gill and paralyzation and</font>
+
+1549
+01:20:18,930 --> 01:20:26,200
+<font color="#E5E5E5">async</font><font color="#CCCCCC"> io</font><font color="#E5E5E5"> as one one topic I'm not that</font>
+
+1550
+01:20:26,200 --> 01:20:31,290
+hopeful that Python will develop into<font color="#E5E5E5"> a</font>
+
+1551
+01:20:31,290 --> 01:20:34,840
+sort<font color="#E5E5E5"> of high concurrency high</font>
+
+1552
+01:20:34,840 --> 01:20:38,770
+parallelism language<font color="#E5E5E5"> that's sort of the</font>
+
+1553
+01:20:38,770 --> 01:20:41,530
+<font color="#E5E5E5">the way the</font><font color="#CCCCCC"> language is designed</font><font color="#E5E5E5"> the way</font>
+
+1554
+01:20:41,530 --> 01:20:45,040
+most users use the language the<font color="#E5E5E5"> way the</font>
+
+1555
+01:20:45,040 --> 01:20:48,160
+language<font color="#E5E5E5"> is implemented all make</font><font color="#CCCCCC"> that a</font>
+
+1556
+01:20:48,160 --> 01:20:51,160
+pretty<font color="#E5E5E5"> unlikely future so you think it</font>
+
+1557
+01:20:51,160 --> 01:20:53,050
+might<font color="#E5E5E5"> not</font><font color="#CCCCCC"> even</font><font color="#E5E5E5"> need to really the way</font>
+
+1558
+01:20:53,050 --> 01:20:55,570
+people use it<font color="#CCCCCC"> it might</font><font color="#E5E5E5"> not be</font><font color="#CCCCCC"> a</font>
+
+1559
+01:20:55,570 --> 01:20:57,700
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> should be a of Greek I</font>
+
+1560
+01:20:57,700 --> 01:21:00,880
+think I think async IO is a special case
+
+1561
+01:21:00,880 --> 01:21:03,970
+because<font color="#E5E5E5"> it sort of allows overlapping IO</font>
+
+1562
+01:21:03,970 --> 01:21:06,010
+<font color="#CCCCCC">and only IO</font>
+
+1563
+01:21:06,010 --> 01:21:11,410
+and that is is a sort<font color="#E5E5E5"> of best practice</font>
+
+1564
+01:21:11,410 --> 01:21:15,960
+of supporting very high<font color="#E5E5E5"> throughput IO</font>
+
+1565
+01:21:15,960 --> 01:21:22,000
+<font color="#E5E5E5">many</font><font color="#CCCCCC"> collections per second I'm not</font>
+
+1566
+01:21:22,000 --> 01:21:24,250
+worried about that<font color="#CCCCCC"> I think async IO will</font>
+
+1567
+01:21:24,250 --> 01:21:26,470
+evolve there are a couple of competing
+
+1568
+01:21:26,470 --> 01:21:28,770
+packages we have<font color="#CCCCCC"> some very smart</font><font color="#E5E5E5"> people</font>
+
+1569
+01:21:28,770 --> 01:21:33,580
+who<font color="#CCCCCC"> are sort</font><font color="#E5E5E5"> of pushing us in sort of to</font>
+
+1570
+01:21:33,580 --> 01:21:37,510
+make<font color="#E5E5E5"> async IL better parallel computing</font>
+
+1571
+01:21:37,510 --> 01:21:41,560
+<font color="#CCCCCC">I think that</font><font color="#E5E5E5"> Python is not the language</font>
+
+1572
+01:21:41,560 --> 01:21:45,220
+<font color="#E5E5E5">for that</font><font color="#CCCCCC"> there are there are ways to</font>
+
+1573
+01:21:45,220 --> 01:21:48,640
+<font color="#E5E5E5">work around it but you sort of you can't</font>
+
+1574
+01:21:48,640 --> 01:21:53,230
+expect to<font color="#E5E5E5"> write an algorithm in Python</font>
+
+1575
+01:21:53,230 --> 01:21:55,390
+and have a compiler<font color="#CCCCCC"> or</font>
+
+1576
+01:21:55,390 --> 01:21:58,840
+paralyzed that<font color="#E5E5E5"> what you can do is use a</font>
+
+1577
+01:21:58,840 --> 01:22:01,030
+package<font color="#CCCCCC"> like numpy</font><font color="#E5E5E5"> and they're a bunch</font>
+
+1578
+01:22:01,030 --> 01:22:04,570
+of other very powerful packages<font color="#E5E5E5"> that</font>
+
+1579
+01:22:04,570 --> 01:22:08,080
+sort of use all the CPUs available
+
+1580
+01:22:08,080 --> 01:22:11,350
+<font color="#E5E5E5">because you tell the package here's the</font>
+
+1581
+01:22:11,350 --> 01:22:14,230
+data<font color="#E5E5E5"> here's the abstract operation to</font>
+
+1582
+01:22:14,230 --> 01:22:17,050
+apply<font color="#E5E5E5"> over it go at it and then then</font>
+
+1583
+01:22:17,050 --> 01:22:19,990
+we're back in the c++ world but<font color="#E5E5E5"> those</font>
+
+1584
+01:22:19,990 --> 01:22:22,240
+packages are<font color="#E5E5E5"> themselves implemented</font>
+
+1585
+01:22:22,240 --> 01:22:24,430
+usually in c++ that's right<font color="#E5E5E5"> that's so</font>
+
+1586
+01:22:24,430 --> 01:22:25,630
+<font color="#CCCCCC">that's where Tenzin phoned</font><font color="#E5E5E5"> all these</font>
+
+1587
+01:22:25,630 --> 01:22:26,980
+<font color="#CCCCCC">acts</font><font color="#E5E5E5"> just come in where they paralyze</font>
+
+1588
+01:22:26,980 --> 01:22:29,020
+across GPUs for<font color="#E5E5E5"> example they take care</font>
+
+1589
+01:22:29,020 --> 01:22:32,350
+of that<font color="#CCCCCC"> fit so in terms</font><font color="#E5E5E5"> of packaging</font><font color="#CCCCCC"> can</font>
+
+1590
+01:22:32,350 --> 01:22:36,640
+<font color="#E5E5E5">you comment on this yeah my it packaging</font>
+
+1591
+01:22:36,640 --> 01:22:39,970
+has always been my least favorite topic
+
+1592
+01:22:39,970 --> 01:22:43,960
+<font color="#E5E5E5">it's it's it's a really tough problem</font>
+
+1593
+01:22:43,960 --> 01:22:50,170
+because the OS and<font color="#CCCCCC"> the platform</font><font color="#E5E5E5"> want to</font>
+
+1594
+01:22:50,170 --> 01:22:56,500
+own packaging<font color="#E5E5E5"> but their packaging</font>
+
+1595
+01:22:56,500 --> 01:22:59,280
+solution is not specific to<font color="#CCCCCC"> a language</font>
+
+1596
+01:22:59,280 --> 01:23:02,350
+<font color="#E5E5E5">like if you take Linux there are two</font>
+
+1597
+01:23:02,350 --> 01:23:04,690
+competing packaging solutions<font color="#E5E5E5"> for Linux</font>
+
+1598
+01:23:04,690 --> 01:23:10,270
+or for UNIX in in general<font color="#CCCCCC"> and but they</font>
+
+1599
+01:23:10,270 --> 01:23:14,070
+all work across all<font color="#CCCCCC"> languages</font><font color="#E5E5E5"> and</font>
+
+1600
+01:23:14,070 --> 01:23:19,680
+several languages like node JavaScript
+
+1601
+01:23:19,680 --> 01:23:23,230
+and Ruby<font color="#E5E5E5"> and Python</font><font color="#CCCCCC"> all have their own</font>
+
+1602
+01:23:23,230 --> 01:23:25,600
+packaging<font color="#CCCCCC"> solutions that only</font><font color="#E5E5E5"> work</font>
+
+1603
+01:23:25,600 --> 01:23:28,080
+within the ecosystem<font color="#E5E5E5"> of that language</font>
+
+1604
+01:23:28,080 --> 01:23:33,210
+<font color="#E5E5E5">well what should you use that is a tough</font>
+
+1605
+01:23:33,210 --> 01:23:37,450
+problem my own own approach is I use the
+
+1606
+01:23:37,450 --> 01:23:41,080
+system<font color="#E5E5E5"> packaging system to install</font>
+
+1607
+01:23:41,080 --> 01:23:44,140
+<font color="#E5E5E5">Python and I use the Python packaging</font>
+
+1608
+01:23:44,140 --> 01:23:46,630
+system then to install<font color="#CCCCCC"> third party</font>
+
+1609
+01:23:46,630 --> 01:23:50,170
+Python packages that's what most<font color="#CCCCCC"> people</font>
+
+1610
+01:23:50,170 --> 01:23:50,530
+do
+
+1611
+01:23:50,530 --> 01:23:53,260
+ten years ago<font color="#E5E5E5"> Python packaging was</font>
+
+1612
+01:23:53,260 --> 01:23:57,910
+really a terrible<font color="#CCCCCC"> situation</font><font color="#E5E5E5"> nowadays pip</font>
+
+1613
+01:23:57,910 --> 01:23:59,890
+is the future there is<font color="#E5E5E5"> there is</font><font color="#CCCCCC"> a</font>
+
+1614
+01:23:59,890 --> 01:24:03,460
+separate ecosystem for numerical and
+
+1615
+01:24:03,460 --> 01:24:06,530
+scientific<font color="#E5E5E5"> Python Python based on</font>
+
+1616
+01:24:06,530 --> 01:24:09,860
+anaconda those two can live together<font color="#E5E5E5"> I</font>
+
+1617
+01:24:09,860 --> 01:24:11,540
+don't<font color="#CCCCCC"> think there is a</font><font color="#E5E5E5"> need for more</font>
+
+1618
+01:24:11,540 --> 01:24:13,550
+<font color="#E5E5E5">than that great so that's that's</font>
+
+1619
+01:24:13,550 --> 01:24:16,340
+packaging<font color="#E5E5E5"> that's well at least for me</font>
+
+1620
+01:24:16,340 --> 01:24:17,870
+that's<font color="#E5E5E5"> that's where I've</font><font color="#CCCCCC"> been extremely</font>
+
+1621
+01:24:17,870 --> 01:24:20,330
+<font color="#E5E5E5">happy</font><font color="#CCCCCC"> I didn't I didn't even know this</font>
+
+1622
+01:24:20,330 --> 01:24:22,100
+was<font color="#CCCCCC"> an</font><font color="#E5E5E5"> issue until</font><font color="#CCCCCC"> it's brought up well</font>
+
+1623
+01:24:22,100 --> 01:24:23,920
+in<font color="#E5E5E5"> interest of time</font><font color="#CCCCCC"> I mean sort</font><font color="#E5E5E5"> of</font>
+
+1624
+01:24:23,920 --> 01:24:25,940
+<font color="#CCCCCC">skipped</font><font color="#E5E5E5"> through a million other</font>
+
+1625
+01:24:25,940 --> 01:24:28,310
+questions I<font color="#E5E5E5"> have so I watched the</font><font color="#CCCCCC"> five</font>
+
+1626
+01:24:28,310 --> 01:24:30,260
+hour<font color="#CCCCCC"> five five and a half hour oral</font>
+
+1627
+01:24:30,260 --> 01:24:32,930
+history they've done<font color="#CCCCCC"> with the Computer</font>
+
+1628
+01:24:32,930 --> 01:24:34,730
+History Museum<font color="#CCCCCC"> and the nice thing about</font>
+
+1629
+01:24:34,730 --> 01:24:37,010
+it<font color="#E5E5E5"> it gave this because of the linear</font>
+
+1630
+01:24:37,010 --> 01:24:38,720
+progression of the interview<font color="#CCCCCC"> he gave</font>
+
+1631
+01:24:38,720 --> 01:24:41,860
+<font color="#CCCCCC">this feeling of</font><font color="#E5E5E5"> a life you know a life</font>
+
+1632
+01:24:41,860 --> 01:24:46,450
+well-lived<font color="#CCCCCC"> with</font><font color="#E5E5E5"> interesting things in it</font>
+
+1633
+01:24:46,450 --> 01:24:48,950
+<font color="#CCCCCC">sort</font><font color="#E5E5E5"> of a pretty I would</font><font color="#CCCCCC"> say a good</font>
+
+1634
+01:24:48,950 --> 01:24:52,010
+<font color="#E5E5E5">spend of of this little existence we</font>
+
+1635
+01:24:52,010 --> 01:24:54,850
+<font color="#CCCCCC">have on earth</font><font color="#E5E5E5"> so outside of</font><font color="#CCCCCC"> your family</font>
+
+1636
+01:24:54,850 --> 01:24:58,160
+<font color="#E5E5E5">looking back what about this journey are</font>
+
+1637
+01:24:58,160 --> 01:25:03,710
+you<font color="#E5E5E5"> really proud of their moments that</font>
+
+1638
+01:25:03,710 --> 01:25:07,690
+<font color="#E5E5E5">stand out accomplishments ideas</font><font color="#CCCCCC"> is it</font>
+
+1639
+01:25:07,690 --> 01:25:10,580
+the creation of Python itself that
+
+1640
+01:25:10,580 --> 01:25:13,520
+stands<font color="#E5E5E5"> out</font><font color="#CCCCCC"> as a thing that you look back</font>
+
+1641
+01:25:13,520 --> 01:25:16,930
+and say damn I did pretty good there
+
+1642
+01:25:16,930 --> 01:25:19,490
+well I would say<font color="#E5E5E5"> that Python is</font>
+
+1643
+01:25:19,490 --> 01:25:21,760
+definitely the best thing<font color="#E5E5E5"> I've ever done</font>
+
+1644
+01:25:21,760 --> 01:25:24,920
+<font color="#CCCCCC">and I</font>
+
+1645
+01:25:24,920 --> 01:25:27,410
+I wouldn't sort of say just the creation
+
+1646
+01:25:27,410 --> 01:25:33,080
+<font color="#CCCCCC">of Python but the way I sort of raised</font>
+
+1647
+01:25:33,080 --> 01:25:36,050
+by<font color="#CCCCCC"> farm like a baby</font>
+
+1648
+01:25:36,050 --> 01:25:38,780
+<font color="#E5E5E5">I didn't just conceive a child but I</font>
+
+1649
+01:25:38,780 --> 01:25:41,090
+raised<font color="#E5E5E5"> the child and now I'm setting the</font>
+
+1650
+01:25:41,090 --> 01:25:43,880
+child free in the world and I've set up
+
+1651
+01:25:43,880 --> 01:25:47,960
+the child<font color="#CCCCCC"> to to</font><font color="#E5E5E5"> sort of be able to</font><font color="#CCCCCC"> take</font>
+
+1652
+01:25:47,960 --> 01:25:50,870
+care<font color="#CCCCCC"> of</font><font color="#E5E5E5"> himself</font><font color="#CCCCCC"> and I'm very</font><font color="#E5E5E5"> proud of</font>
+
+1653
+01:25:50,870 --> 01:25:54,020
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> and as the announcer of Monty</font>
+
+1654
+01:25:54,020 --> 01:25:56,060
+Python's Flying Circus used to say and
+
+1655
+01:25:56,060 --> 01:25:57,830
+now for something completely different
+
+1656
+01:25:57,830 --> 01:26:00,680
+do you have a<font color="#E5E5E5"> favorite Monty Python</font>
+
+1657
+01:26:00,680 --> 01:26:02,960
+moment or a<font color="#CCCCCC"> moment Hitchhiker's Guide or</font>
+
+1658
+01:26:02,960 --> 01:26:04,640
+any other literature show a<font color="#E5E5E5"> movie that</font>
+
+1659
+01:26:04,640 --> 01:26:06,520
+cracks you<font color="#CCCCCC"> up when you think about</font><font color="#E5E5E5"> it oh</font>
+
+1660
+01:26:06,520 --> 01:26:10,100
+you can<font color="#CCCCCC"> always play me the</font><font color="#E5E5E5"> parrots the</font>
+
+1661
+01:26:10,100 --> 01:26:12,230
+dead parrot sketch<font color="#CCCCCC"> oh that's brilliant</font>
+
+1662
+01:26:12,230 --> 01:26:14,990
+<font color="#CCCCCC">yeah that's my favorite as well</font><font color="#E5E5E5"> pushing</font>
+
+1663
+01:26:14,990 --> 01:26:17,060
+up the daisies
+
+1664
+01:26:17,060 --> 01:26:19,490
+<font color="#E5E5E5">okay</font><font color="#CCCCCC"> greeted thank you</font><font color="#E5E5E5"> so much for</font>
+
+1665
+01:26:19,490 --> 01:26:22,340
+talking with me<font color="#CCCCCC"> today lecture there's</font>
+
+1666
+01:26:22,340 --> 01:26:25,540
+been a<font color="#E5E5E5"> great</font><font color="#CCCCCC"> conversation</font>
+
+1667
+01:26:31,490 --> 00:00:00,000
+you
+

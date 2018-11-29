@@ -1,0 +1,150 @@
+yo guys it's morgues and today I'm gonna
+be showing you guys how you can make an
+epic intro for completely free with
+blender now this does work on a Mac or
+PC for this tutorial I will be showing
+you on a Mac but it does work pretty
+much the exact same with a PC with just
+a few things that are different bye
+we'll cover those in the video so if
+you're on a PC this will work for you
+and if you're on a Mac this will work
+for you as well so the first thing
+you're going to want to do is go to
+Blender dog as you can see this is where
+I am here if you go to download and just
+click it you will see all the different
+download options obviously because I'm
+gonna make I'd download this one but if
+you're on a PC just download this one up
+here and it's really simple I already
+have it installed so I'm going to go
+straight to it but after you've
+downloaded it you will have this little
+application here so what you're going to
+want to do is just open it so as you can
+see we've just opened blender and this
+is where you can make an intro however
+for this video we will be using a
+template which can find on the internet
+because I actually don't know how to
+make intros but if you keep going at it
+you can learn but just for this tutorial
+we will be using a template so pretty
+much just go to youtube and type in a
+blender intro templates quite nice it's
+number nine on this top 20 so what we're
+going to do is click the download button
+obviously in every video if you go into
+the description it shows the number of
+the intro and the download so you can
+just find one that you like but we are
+going to be using one for this tutorial
+so as you can see we're just going to
+download it here so as you can see here
+to the left we have the intro template
+if it's top blend that means it's ready
+to open straight away but sometimes you
+will get a folder or a dot zip file if
+you have got one of them just extract it
+so you can get what's inside and there's
+going to be a dot blend file in there so
+just open the dot blend file by double
+clicking it and it should come up
+straight away in blender if you've got
+it open or even if you don't have it
+open so here we are in blender with the
+intro template open pretty much this is
+the bit that a lot of people struggle on
+because you can't figure out how to get
+the actual template open and download
+them but it's actually editing the text
+to say what you want which is often a
+problem for a lot of people so that's
+what I'm going to show you
+how to do so pretty much to start you're
+gonna want to hover your mouse cursor
+over the text and simply right-click
+this will select the text then you
+weren't going to want to go to your
+keyboard and click tab which will make a
+line appear here this pretty much makes
+it so that you can edit the text so if I
+just go backspace four times then type
+in marks like that there we go we have
+the first layer of text done obviously
+in this one there is multiple layers as
+you can see so what you're going to want
+to do is just right click again it will
+select the other one and then just again
+like you did before click tab backspace
+and type in what you want like that so
+there we go that is the first part of
+how you actually edit the text now
+there's some settings that you have to
+change in order for this to work which I
+will show you now now if you look to the
+right here the four things I've opened
+up our render dimensions output and
+encoding and if you look here we have a
+scroll menu since I am on a Mac I'm
+going to make this a QuickTime movie boy
+if you're on a PC you can make it what
+you want obviously just look into what
+your files are and you can make it one
+I'm pretty sure QuickTime works but
+since I am on a Mac I'm going to do
+QuickTime and the next thing you're
+gonna want to do is go on to no audio
+I'm moving up to AAC pretty much if you
+leave it on no audio just like it says
+there will be no audio which is
+obviously not what you want since this
+intro does have sound with it and most
+of them do well I've never seen an intro
+with no sound with it and the next thing
+you're going to do is just get the
+quality and move it up to 100% this is
+optional but I always like to do this
+just to make the audio a bit nicer now
+the final thing to do in this output
+section is just decide where I wanted to
+export to so I've just clicked desktop
+and I'm going to go up here to accept
+that's all you need to do so now it'll
+go straight to my desktop after it's
+finished rendering that's it for the
+output section so you can just close it
+off or just leave it's up to you and
+that's actually it guys so what you're
+going to want to do now is go up here
+you'll see audio animation and render
+make sure you click animation because
+that is the one you need to do so as you
+can see now it is rendering I simply
+just clicked animation now all you
+really want to do is just leave it it
+may take a while but you will be getting
+a quality intro so what I'm going to do
+now is wait and then when it's done I'll
+show you how it looks so as you can see
+guys here we have
+the finished intro now I actually
+renamed it and put it into one of my
+files but what I'm going to do is play
+it for you guys now so guys there we
+have enjoyed that tutorial of how to
+make yourself a really cool in show I'm
+actually plan on bringing out quite a
+few tutorials on how you can make your
+channel better by using intros editing
+software and different things like that
+if you like a video showing you how I
+add my videos and the software I use and
+leave a comment below if you have
+enjoyed them please much - like if
+you're new then please subscribe I do
+videos every single day but as always
+I've been morgues you guys have been
+awesome and I'll see you in the next
+video peace out

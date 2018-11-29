@@ -1,0 +1,364 @@
+1
+00:00:00,050 --> 00:00:03,510
+right<font color="#E5E5E5"> okay welcome back to</font><font color="#CCCCCC"> my daily life</font>
+
+2
+00:00:03,510 --> 00:00:05,069
+where we<font color="#E5E5E5"> have a problem it's not a bit</font>
+
+3
+00:00:05,069 --> 00:00:06,899
+later on<font color="#CCCCCC"> it's half 19 it's your shopping</font>
+
+4
+00:00:06,899 --> 00:00:08,099
+i'm gonna go christmas shopping but we
+
+5
+00:00:08,099 --> 00:00:10,019
+have an issue which i think you guys
+
+6
+00:00:10,019 --> 00:00:13,170
+might know how to fix people say google
+
+7
+00:00:13,170 --> 00:00:15,839
+it born I google is like a it's not
+
+8
+00:00:15,839 --> 00:00:18,180
+<font color="#CCCCCC">really a found</font><font color="#E5E5E5"> I'm sort of thing so this</font>
+
+9
+00:00:18,180 --> 00:00:19,770
+is if any<font color="#E5E5E5"> of you guys had an experience</font>
+
+10
+00:00:19,770 --> 00:00:21,090
+with it but<font color="#E5E5E5"> okay what I'm going to do</font>
+
+11
+00:00:21,090 --> 00:00:22,800
+you show you when i'm<font color="#E5E5E5"> gonna stream to</font>
+
+12
+00:00:22,800 --> 00:00:25,650
+you guys<font color="#CCCCCC"> i have to connect my HD PVR one</font>
+
+13
+00:00:25,650 --> 00:00:27,660
+down there<font color="#CCCCCC"> i have to connect that</font>
+
+14
+00:00:27,660 --> 00:00:30,240
+instead of using my HD PVR 2 which I'd
+
+15
+00:00:30,240 --> 00:00:31,740
+rather you because you know like the
+
+16
+00:00:31,740 --> 00:00:33,540
+quote is much better you going to see me
+
+17
+00:00:33,540 --> 00:00:35,160
+on here so this is using the<font color="#CCCCCC"> HDP you go</font>
+
+18
+00:00:35,160 --> 00:00:36,930
+to the quality<font color="#CCCCCC"> he's like 10 times but I</font>
+
+19
+00:00:36,930 --> 00:00:39,239
+when I record isn't<font color="#CCCCCC"> an EP a box you know</font>
+
+20
+00:00:39,239 --> 00:00:41,940
+all much much better but the problem
+
+21
+00:00:41,940 --> 00:00:44,010
+that I've got now is that when I have
+
+22
+00:00:44,010 --> 00:00:46,500
+the the PVR 2 so say if I make this full
+
+23
+00:00:46,500 --> 00:00:49,079
+screen real quick<font color="#E5E5E5"> and I put my streams</font>
+
+24
+00:00:49,079 --> 00:00:50,460
+out there you can see I've<font color="#CCCCCC"> got my</font>
+
+25
+00:00:50,460 --> 00:00:52,020
+streaming<font color="#CCCCCC"> cell bear that's it looks like</font>
+
+26
+00:00:52,020 --> 00:00:54,899
+it's fine and dandy and it's all good
+
+27
+00:00:54,899 --> 00:00:56,910
+but the camera as you<font color="#CCCCCC"> see in this top</font>
+
+28
+00:00:56,910 --> 00:00:59,280
+corner this camera is a live feed with
+
+29
+00:00:59,280 --> 00:01:00,570
+the microphone so you know I've<font color="#E5E5E5"> got a</font>
+
+30
+00:01:00,570 --> 00:01:02,399
+camera connected as you can see on<font color="#CCCCCC"> my on</font>
+
+31
+00:01:02,399 --> 00:01:04,589
+my listings here I have a<font color="#E5E5E5"> camera sec</font>
+
+32
+00:01:04,589 --> 00:01:07,350
+I've got logitech camera and I've got a
+
+33
+00:01:07,350 --> 00:01:10,049
+screen region so the screen region
+
+34
+00:01:10,049 --> 00:01:12,900
+record the audio that<font color="#CCCCCC"> Windows creates</font>
+
+35
+00:01:12,900 --> 00:01:14,490
+sort of this thing bought it's a<font color="#CCCCCC"> three</font>
+
+36
+00:01:14,490 --> 00:01:17,340
+<font color="#CCCCCC">second delay so now what I need to do is</font>
+
+37
+00:01:17,340 --> 00:01:20,130
+I need to<font color="#E5E5E5"> make this camera image here I</font>
+
+38
+00:01:20,130 --> 00:01:22,409
+need to somehow delay the camera image
+
+39
+00:01:22,409 --> 00:01:25,170
+by three seconds and an awesome audio
+
+40
+00:01:25,170 --> 00:01:27,299
+now I know how to do my audio and like
+
+41
+00:01:27,299 --> 00:01:29,850
+how to delay by three seconds but I need
+
+42
+00:01:29,850 --> 00:01:31,740
+to<font color="#CCCCCC"> work out or someone</font><font color="#E5E5E5"> could help me how</font>
+
+43
+00:01:31,740 --> 00:01:35,070
+to delay this video feed on the webcam
+
+44
+00:01:35,070 --> 00:01:36,860
+so if I can do that<font color="#E5E5E5"> I can stream and</font>
+
+45
+00:01:36,860 --> 00:01:39,060
+just a<font color="#E5E5E5"> one stop and I don't have to keep</font>
+
+46
+00:01:39,060 --> 00:01:40,470
+changing myself and it's<font color="#E5E5E5"> nice epic</font>
+
+47
+00:01:40,470 --> 00:01:42,210
+quality for you guys so am that'd be
+
+48
+00:01:42,210 --> 00:01:44,250
+<font color="#E5E5E5">really appreciate if someone knows how</font>
+
+49
+00:01:44,250 --> 00:01:46,380
+to possibly do this<font color="#E5E5E5"> and if you could let</font>
+
+50
+00:01:46,380 --> 00:01:47,759
+<font color="#CCCCCC">me now or do you know send</font><font color="#E5E5E5"> me a video</font>
+
+51
+00:01:47,759 --> 00:01:48,810
+response i'll just tell me<font color="#CCCCCC"> in the</font>
+
+52
+00:01:48,810 --> 00:01:50,700
+comments as to what i<font color="#CCCCCC"> can do because</font>
+
+53
+00:01:50,700 --> 00:01:52,049
+i'll show you<font color="#E5E5E5"> how two ladies right okay</font>
+
+54
+00:01:52,049 --> 00:01:54,750
+i'll pull this here<font color="#CCCCCC"> okay so there's my</font>
+
+55
+00:01:54,750 --> 00:02:00,299
+control and i'll click down<font color="#CCCCCC"> to 34 almost</font>
+
+56
+00:02:00,299 --> 00:02:03,420
+all my weight<font color="#E5E5E5"> is it one of them 12 and</font>
+
+57
+00:02:03,420 --> 00:02:06,509
+<font color="#CCCCCC">three elephant for open almost 4 2nd</font>
+
+58
+00:02:06,509 --> 00:02:12,660
+delight of me going tap tap tap see see
+
+59
+00:02:12,660 --> 00:02:13,840
+how delayed is now
+
+60
+00:02:13,840 --> 00:02:15,640
+causative late in the game so when<font color="#E5E5E5"> I'm</font>
+
+61
+00:02:15,640 --> 00:02:17,290
+streaming<font color="#CCCCCC"> plus aggravate you well</font>
+
+62
+00:02:17,290 --> 00:02:18,459
+someone's for second so i'm going<font color="#E5E5E5"> to say</font>
+
+63
+00:02:18,459 --> 00:02:20,140
+33 seconds later you guys see what
+
+64
+00:02:20,140 --> 00:02:21,160
+<font color="#E5E5E5">happens obviously let's talk about</font>
+
+65
+00:02:21,160 --> 00:02:22,780
+tweaking see exactly how many by
+
+66
+00:02:22,780 --> 00:02:24,910
+milliseconds it is to get perfect but if
+
+67
+00:02:24,910 --> 00:02:26,110
+<font color="#E5E5E5">someone can help me out with a situation</font>
+
+68
+00:02:26,110 --> 00:02:28,569
+<font color="#CCCCCC">guys i can stream in like epic quality</font>
+
+69
+00:02:28,569 --> 00:02:30,640
+<font color="#E5E5E5">amount no problems or anything last so</font>
+
+70
+00:02:30,640 --> 00:02:31,840
+that'd be really appreciates if you know
+
+71
+00:02:31,840 --> 00:02:33,129
+please your shots like know in the
+
+72
+00:02:33,129 --> 00:02:34,720
+comments below<font color="#E5E5E5"> guys and yeah</font><font color="#CCCCCC"> i'm</font><font color="#E5E5E5"> gonna</font>
+
+73
+00:02:34,720 --> 00:02:37,390
+be<font color="#E5E5E5"> more shocking now so yeah 2013</font>
+
+74
+00:02:37,390 --> 00:02:38,830
+countdown story to the super stoked
+
+75
+00:02:38,830 --> 00:02:41,230
+account i'm gonna do a recapture video
+
+76
+00:02:41,230 --> 00:02:42,819
+of like how am I years been so far but
+
+77
+00:02:42,819 --> 00:02:45,220
+and yeah thing we<font color="#E5E5E5"> get exciton drive and</font>
+
+78
+00:02:45,220 --> 00:02:50,049
+get taxing out to a local something<font color="#CCCCCC"> I</font>
+
+79
+00:02:50,049 --> 00:02:51,610
+<font color="#E5E5E5">might go to a pc will comment because</font>
+
+80
+00:02:51,610 --> 00:02:53,110
+you know<font color="#E5E5E5"> I can get a mix of everything</font>
+
+81
+00:02:53,110 --> 00:02:54,579
+there so I'm<font color="#CCCCCC"> going to go shopping for</font>
+
+82
+00:02:54,579 --> 00:02:56,110
+everyone and yeah I've got a few things
+
+83
+00:02:56,110 --> 00:02:59,290
+<font color="#CCCCCC">in mind what everyone wants boom yeah</font><font color="#E5E5E5"> I</font>
+
+84
+00:02:59,290 --> 00:03:01,390
+think we're gonna be<font color="#E5E5E5"> alright I just just</font>
+
+85
+00:03:01,390 --> 00:03:02,890
+certain people my fun where I don't know
+
+86
+00:03:02,890 --> 00:03:04,000
+what they<font color="#CCCCCC"> want so it's</font><font color="#E5E5E5"> going to stop try</font>
+
+87
+00:03:04,000 --> 00:03:04,959
+to find<font color="#E5E5E5"> him a present if I don't what</font>
+
+88
+00:03:04,959 --> 00:03:06,610
+they want so yeah watching your look I
+
+89
+00:03:06,610 --> 00:03:08,170
+should really on<font color="#CCCCCC"> Manchester book oh no</font>
+
+90
+00:03:08,170 --> 00:03:09,610
+we should look at all i do want what's
+
+91
+00:03:09,610 --> 00:00:00,000
+on there by
+

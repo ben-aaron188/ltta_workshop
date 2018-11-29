@@ -1,0 +1,2065 @@
+okay good let's try this again my name
+is torie Grable and Sharaf machine
+learning at UCL and I work as a research
+scientist at deep mind it's a startup
+company that tries to solve problems in
+artificial intelligence this course is a
+collaboration between UCL and deep mind
+to give you the chance to learn about
+those machine learning techniques that
+are likely to help get us to artificial
+intelligence here's the overview of what
+I'm going to cover we'll talk a little
+bit about the structure of the course
+and and the team the people who are
+offering the course we have guest
+lectures given by some excellent guest
+lecturers which we you will get to know
+over the course of this module then
+talked about a deep mind approach to AI
+I think I would like you to know where
+we're coming from when we talk about
+these things what we want to achieve and
+why we think that the particular things
+covered in this module might help us get
+to artificial intelligence or as we try
+to ambitiously call it general
+artificial intelligence I'll then talk a
+little bit about deep learning and I'll
+then give two very short nuggets of
+project work one about learning to play
+Atari games using deep reinforcement
+learning and one about alphago which is
+one of my favorite projects finally have
+some extra revision material we
+restructured the course from last year
+last year this material was covered in
+two lectures and I've appended most of
+the material here we might not get into
+that but if you're interested and want
+to prepare for the following lectures
+you might want to take a look at this
+material in Moodle there may be time to
+highlight a little bit of it okay so
+let's dive right in here's the team the
+that put this course together and will
+also deliver it Cora is the head of our
+deep learning group and he has sponsored
+all the deep learning talks and has
+helped us put this together my colleague
+Hado will give the reinforcement
+learning track of this module which
+mostly takes place on Thursday at the
+inhumane time of 9:00 a.m. you may have
+noticed this in the schedule you know
+that's real self selection anyone going
+to at that time I mean I have the
+highest appreciation I certainly won't
+be there well maybe sometimes okay and
+then a number of other people played a
+key role there's material Hessel and
+Alex Davies
+they're our tensorflow experts and
+they'll give the tensorflow tutorial on
+thursday to give you a good basis for
+the for the course work which will
+decode it intensive low and who've also
+helped together the course work
+assignments Deana borsa can you wave who
+is coordinating the TA support she's
+also a research scientist a deep mind
+and Marie who helps us with the general
+organization Marie
+where are you very good and also
+coordinates the recordings and then we
+have some amazing teaching assistants
+any of these here yeah can you wave
+visibly okay
+who will help with the course work
+assignments okay so that's the team
+let's talk a little bit about the format
+and the assessment so we have these two
+streams and we have a deep learning
+stream and a reinforcement learning
+stream and towards the end they will
+somatically converge to some degree and
+these are the basic building
+blocks in what we think is needed to
+build AI systems based on machine
+learning and on Tuesdays mostly we'll
+have guest lectures on deep learning
+topics and I'll talk about what that
+will be that later and on Thursdays Hado
+will give a structured introduction to
+reinforcement learning and also there
+will be two guest lecturers at the end
+of this so that's roughly the structure
+but there are some exceptions so please
+check the time table we have a schedule
+posted on Moodle so one question that
+sometimes comes up is how does the
+assessment of the course work last year
+we had 5050 coursework assignments and
+written exam but we found that it was
+tricky to formulate really nice
+questions based on the cutting-edge
+material that was being presented and so
+we thought it would be a better
+experience for you all if you can just
+focus on the programming assignments
+really work on those deep learning and
+RL practical problems and learn rather
+than having this this exam hanging over
+your heads so the idea is basically that
+we'll have four deep learning and four
+reinforcement learning assignments these
+will be spread across the weeks here of
+the module and then these eight
+assignments will be weighted equally and
+the final grade will be based on those
+assignments these questions will be
+mixtures of programming assignments and
+questions of understanding that that you
+will answer in this context to make
+things really easy we decided to put the
+entire course work this time into collab
+so collab is is a jupiter notebook
+environment where you don't need to do
+any setup this is just connected to the
+cloud we can pre configure it and we are
+also providing the computational
+resources that you'll need to solve the
+tasks this is again going back to
+student feedback from last year or
+it was difficult for people to procure
+enough computational resources to do
+everything they wanted to do and so this
+time we're trying to make the design the
+assignments more carefully and at the
+same time provide the computational
+resources that you need for you in the
+cloud will use tensorflow as mentioned
+before and you can find more information
+about the whole assessment on Moodle one
+thing that we needed to do in order to
+set up this collab resources is that we
+white listed a bunch of email addresses
+with the collab service and in order to
+use that we would like to ask you to
+create a gmail account or Google Account
+here with this form at UCL CompTIA 22
+2018 and the XS represent your student
+ID and we've pre white listed those so
+that if you register this account you
+will get access to the collab service
+also we thought it would be nice if you
+have a new a fresh account for this that
+you can use ok then finally regarding
+support we would like to encourage you
+to use Moodle for all your support
+queries if you want to discuss stuff
+there's a Moodle forum lecturers and
+teaching assistants will will look at
+these questions and answer them
+ideally other students can answer them
+we want to share the answers to these
+things we would like to avoid any
+one-to-one communication where questions
+would be answered multiple times the
+answers would be shared and so on if you
+have some kind of personal trouble then
+feel free to email me with with that
+problem but but please not with any
+material that could be of interest to
+others as well ok any questions about
+the format and the course work get used
+to asking questions please makes this
+thing so much more entertaining for
+everyone no do you think stupid
+questions are funny
+smart questions are useful yeah yeah
+it's just the these digits it's usually
+eight digits and for people who have
+been added a little longer I think it's
+seven digits yeah that one okay so just
+to show you what this collab looks like
+so this is the interface to collab you
+have these cells that you can work with
+and you can code directly in Python in
+these cells and there's code cells and
+texts also the the assignments will come
+in the form of such a collab notebook
+and it there will also be some code
+available there already that you can
+plug your own code in to make you to
+have some kind of unified visualization
+and and plumbing code available and we
+hope that that will make the whole
+programming experience nicer for you and
+then we'll ask you to submit this
+notebook for each one of those
+assignments together with the PDF print
+out it's all detailed on Moodle what
+exactly is required and submission
+ideally on time makes everyone's lives
+easier and the grades better good and
+tensorflow
+we probably all know tensorflow it's
+this google open source software to
+define and run machine learning
+algorithms mostly used for neural
+networks that's pretty standard thing
+and I think we will all benefit from
+getting exposure to this unless you've
+already had it and there are some great
+jobs out there for people who know how
+to do tencel oh good a little warning
+this course we had some feedback on it
+it's pretty hard
+people were really unhappy last year not
+everyone but some of them were so if you
+do not know how to code in Python maybe
+this isn't the right course for you if
+you do not have some of the
+preliminaries required in machine
+learning in maths statistics and so on
+maybe this isn't the right course for
+you to think carefully about that and we
+created a little self-assessment quiz on
+Moodle that you can take a look at after
+the lecture if you can do the majority
+of that without problems then you're in
+the right course if you struggle with
+those questions then you might struggle
+with a lot of the lectures and maybe
+there's there's a better course
+somewhere for you to catch up on those
+things unless you think you have a lot
+of time on your hands who thinks they
+have a lot of time on their hands right
+to catch up on some of these issues
+good let's look a little bit at the
+schedule yeah
+what's the question
+but please do stay if you feel up okay
+so we here's a little schedule for the
+course you'll also find this on Moodle
+you can see here that we have basically
+these two tracks the two state track on
+deep learning and the first day track on
+reinforcement learning and we have some
+some very exciting lectures lined up
+here and the deep learning track they
+are a little bit heterogeneous from from
+the topic perspective because each of
+these lecturers is an expert in the
+field they present cutting-edge stuff
+leading up to the things that they do in
+their research so there's really a
+goldmine off of knowledge to be gained
+here from these lectures but of course
+you do need to understand the basics
+very well and when they go through some
+of the basics in the particular topic
+that will be relatively quickly so they
+can go up to the really interesting
+stuff on the other hand the
+reinforcement learning path is a little
+bit more structured because this is
+given by one lecturer Hado who also is
+an expert in this field and and this has
+more these building blocks that are
+actually building on top of each other
+and we think that is also more
+appropriate because very few people
+would have had real exposure to
+reinforcement learning here and so this
+is from the ground up so what you see
+here on the right are the weeks in which
+we're aiming to distribute the
+coursework assignment deep learning
+coursework PLC w124 and real
+reinforcement learning coursework 1 to 4
+so we're trying to distribute this
+across the course time as good as we can
+of course we need some startup time to
+get going and to to get you some of the
+information that you need but then we've
+spaced this fairly evenly to the end
+the course that again is is I think an
+improvement over last year where there
+were bigger chunks we hope that these
+smaller chunks will encourage you to do
+that work right away
+so that you can get the feedback on this
+work you can see how what you're doing
+connects to what you learned in the
+lectures in a more immediate way than if
+you wait to the end and then then do
+that work okay do we need a more more
+seat here here's one more seat do you
+want to take that okay so let's go
+through the program in a little more
+detail because we really have some
+fantastic speakers and that also gives
+you a little exposure to the topics so
+on Thursday we'll start with this
+introduction to tensorflow
+which hopefully gives you a foundation
+for the coursework that you'll be
+expected to do it will be delivered but
+by mateo hassle and Alex Davies and
+basically they'll give you an
+introduction to tens of love principles
+and then they'll also do some work
+through examples in collab and then
+later make that collab available for you
+to play with then following through with
+the deep learning track of things the
+next lecture will be given by Simon
+Austin Darrow and he will cover newer
+networks multi-class classification how
+backprop works how automatic
+differentiation works how tensorflow
+does it for you and so will deliver the
+basics on on neural networks in this
+lecture and he's a really a real expert
+on this so I'll probably just attend
+that again because the basics are
+explained so well okay so then the next
+lecture will be on convolutional neural
+networks again we have an expert on the
+topic heron built one of the important
+neural network architectures that led to
+a great improvement on image net on the
+object classification benchmark and he's
+going to talk about convolutional
+networks applied to large scale image
+recognition and show you how these
+models can be applied to image net as an
+example and how the architectures have
+evolved and how to train those models
+the next topic is recurrent Nets and
+sequence generation so whereas
+convolutional neural networks assume in
+some sense that there's a 2d topology
+that of an image or some other grid may
+be a go board often we see data in
+sequence form for example text but other
+time series as well and there are
+specific neural network architectures
+recurrent neural networks that can deal
+with this the most successful one that
+he'll talk about is the LST M Network
+and he'll also talk about conditional
+sequence generation by the way he's the
+the person who is driving the Starcraft
+research at deep mind you may have heard
+that we made available an environment
+for doing research on Starcraft
+are there any Starcraft players here
+anyone yeah so I think that's that's a
+pretty exciting domain so maybe he left
+some time to talk about that as well I
+don't know I'd have to see
+good then riah we'll talk about end to
+end an energy based learning she'll just
+discuss some other structures other than
+just simple regression losses for
+example how to define losses for
+embeddings how to define losses when you
+have relations between three data points
+that you want to embed if if you want to
+do ranking and and similar questions
+then the topic of optimization presented
+by James Martin's optimization of course
+is one of the major tools in machine
+learning it was actually a major step
+for me
+learning nowadays maybe few people know
+this but machine learning used to be
+based on rules you know people would
+just define learning rules and hope that
+the system would then somehow converge
+to an interesting solution for example
+kohonen maps are an example of where
+someone just formulated a biologically
+plausible rule in order to find low
+dimensional embeddings of data and that
+was always problematic because there
+were no convergence guarantees and so on
+so now of course optimization is at the
+center of machine learning and this
+lecture will be dedicated to
+understanding better what kinds of
+algorithms are out there and what
+properties they have including force
+first order methods second order methods
+and very importantly also stochastic
+methods for dealing with very large data
+sets where you might want to subsample
+examples or take them in very small mini
+batches good will then move on to more
+advanced topics Alex graves will talk
+about attention and memory models so the
+starting point where newer networks were
+basically the simple feed-forward newer
+networks but over time people have
+developed more and more sophisticated
+modules that can do more and more
+interesting things and attention and
+memory are two of these elements
+attention is basically the ability to
+focus on some subset of your inputs in
+order to concentrate your processing
+power on those ideally words
+particularly interesting and memory
+models in some sense can be seen as
+turning that to the inside when you have
+some internal memory and you then turn
+attention where while reading it to
+particular parts of that internal state
+of yourself as an agent if you like and
+alex is an is an expert on this he
+developed the these ideas of the neural
+Turing machines the differentiable
+neural computers and in this lecture he
+will lead you up to the point where you
+can understand how these things
+we'll then have a lecture on deep
+learning for natural language processing
+given by IDI at grayish data and this is
+mostly an application lecture and
+there's actually an entire series of
+this lecture because quite a rich topic
+but these neural language models neural
+word embeddings these things are now the
+state-of-the-art methods in neural
+language processing in natural language
+processing and he will explain how these
+things work and how neural networks can
+successfully be applied to text finally
+we'll have a lecture on unsupervised
+learning and deep generative models of
+course this again is a very complex big
+topic and we could have an entire
+lecture see a series on that topic but
+we think it's important to to give you
+some exposure to the latest stuff there
+many people think that unsupervised
+learning is going to be very important
+going forward among other things because
+we just don't have labeled data for all
+the domains that we would like to look
+into but we have vast amounts of data
+that I unlabeled if you just think of
+all the data on YouTube if we could
+learn from that that would be great
+right but we have very poor labeling on
+that maybe titles of videos but that's
+not really what this is about right you
+want to go into the video stream and
+learn from that and so that's a huge
+topic very important for AI Chuck here
+is an expert and he will explain ideas
+around this and in particular also about
+deep generative models models that can
+actually produce data for example image
+data or text or similar things okay
+that's yeah
+sorry can you say again see well I mean
+yeah so if these are latent variables
+and that's the the observation then this
+equation I think he put it there because
+he thinks that represents basically the
+the deep problem of unsupervised
+learning - given these observations why
+to discover these these latent causes
+zette that produce them and so I think
+he would argue that in some sense all of
+unsupervised learning is captured by
+that equation okay then this is about
+the other stream the reinforcement
+learning stream led by hado
+and he'll talk more about that when he
+starts lecturing next week about roughly
+about the things he's going to talk
+about an introduction to reinforcement
+learning of course discussing what
+Markov decision processes are which are
+the underlying framework for doing
+reinforcement learning he'll then go
+into planning and how to do planning
+using dynamic programming where there's
+no learning aspect yet just planning in
+a given model it will discuss model free
+prediction and model free control he'll
+then discuss value function based
+methods in contrast to policy direct
+policy optimization methods and how to
+integrate learning and planning he'll
+discuss exploration versus exploitation
+which is this problem that comes up for
+the for for these agencies reinforcement
+learning agents that act in the world
+and have to somehow strike a balance
+between gathering new information that
+can help them improve how they can act
+in that world versus exploiting what
+they already know in order to gather in
+order to gather immediate reward and
+then towards the end for the last two
+lectures
+were planning to guest lectures the
+first one on alphago given by David
+server have you heard of alphago okay
+that's good
+so I think that will be of interest and
+David is fantastic speaker I hope we can
+win him over for this and the second
+case study is about practical deep
+reinforcement learning deep
+reinforcement learning is really this
+point of convergence where deep learning
+and reinforcement learning come together
+because we're using neural networks to
+represent either policies or value
+functions for reinforcement learning in
+a very flexible way by function
+approximation and Vlad nee is the lead
+author of the paper where this was
+applied to to these 50 Atari games a
+couple of years ago three years ago now
+I suppose and he will tell you the
+latest about deep reinforcement learning
+how it worked with the atari games what
+other domains are out there what other
+algorithms are out there and so on okay
+Wow
+it's a rocket it's good so any questions
+about the plan so far plan is clear good
+so why is there rocket let me see if I
+can remember
+so we're now moving to the part about
+what deepmind does and how we approach
+our mission and the idea really is to of
+creating deep mind was to create
+something like an Apollo program for
+artificial intelligence now a program
+were really large numbers of researchers
+would be focused and would be able to
+make rapid progress on this problem of
+of AI and the mission is really crisp I
+think two words solve intelligence and
+partly what we're also experimenting
+with is in addition to the machine
+learning stuff is how to organize
+science itself because it is actually a
+rather tricky problem to have a large
+number of scientists and have them work
+together towards a common goal and we
+think we have found good ways to do this
+which are somehow at the interface of
+how it's done in academia and how it is
+done in start-up companies and in some
+sense the idea deep mind is to combine
+the best of two worlds in order to
+really create an environment in which
+rapid progress towards AI can be made so
+the basic premise of our work is that AI
+can really only be achieved if we can
+understand how learning works AI we
+think will be solved by learning
+algorithms and this of course comes from
+experience from the past because in the
+past in what we call good old-fashioned
+AI other approaches were tried more
+rule-based approaches were tried where
+people would would build systems by
+combining different rules and bits of
+knowledge from humans added to knowledge
+bases or added to the program and this
+turned out to be very difficult to
+scale because these bits of knowledge
+tend to then interfere with one another
+it's also remarkably difficult for us to
+actually formulate what we know about
+the problem alphago is one example of
+this even if you are a go player are
+there any go players here it's very
+tricky to explain why a move is good
+isn't that I mean you make it you have
+this gut feeling you can come up with
+some kind of explanation but it's really
+hard and so formalizing by hand
+knowledge about tasks that we're good at
+is really tricky on the other hand we
+have learning algorithms and if we can
+feed them with examples of what we want
+to learn that is a much more powerful
+approach but of course the world is an
+interactive place so we will not just
+have input-output examples for all kinds
+of problems that need to be solved and
+so we need to create algorithms that can
+go out there into a world be that a
+simulated world or the real world that
+can interact with that world and find
+out for themselves what kind of behavior
+is optimal towards their goal and so
+that's the general idea
+but there's another thing that we would
+like to do we want generality so in
+order for a system to be truly
+intelligent we think it should be
+general it should be applicable to
+different domains to a wide range of
+different domains and only then would we
+really be calling it intelligent if it
+can only do one thing then it might not
+be really that intelligent and of course
+currently most of the work that we see
+most of the successes that we see would
+qualify more likely as narrow AI AI that
+is aimed at solving a particular task
+rather than a wide class of tasks and so
+we want artificial general intelligence
+intelligence that can address address
+many different tasks the important
+conceptual tool that we use is
+reinforcement learning and we really
+consider this to be a general purpose
+framework for AI because
+it encompasses this idea of an agent
+interacting with the world and learning
+from their interaction so the basic
+setting is that we have this agent and
+we have an environment and that they
+interact in these two ways the agent can
+observe what's happening in the
+environment or what the environment is
+the state of the environment and it can
+then issue actions into that environment
+in order to change that environment
+and the goal of an agent is to maximize
+long-term reward
+long term is important here because most
+of the interesting things that we want
+to do require maximizing long-term
+reward if you want to get from A to B in
+some city you don't get immediate reward
+you get the reward when you were there
+when you arrived so to speak so you need
+to plan long term in order to get from A
+to B and there are many other examples
+we can also think of this setup as
+encompassing supervised and unsupervised
+learning as special cases because nobody
+forces the agent to actually submit any
+actions and so if you if you think of
+this actions block not being there then
+we have the environment and the agent is
+just learning about that environment and
+getting some kind of some kind of reward
+function according to its goal oh
+there's actually this is a little so
+yeah you can also think of some kind of
+reward you know part of the observations
+here to be some kind of reward signal
+that the environment gives to the agent
+yeah yeah that's a that's a good
+question but you could think of some
+kind of likelihood criterion maybe that
+no day that's right there it's it's not
+clear but I I would argue that if you
+come up with one then I would be able to
+put it in this schema but it's it's
+clear that it's you know for example if
+you wanted to do test likelihood then
+there you would have the the agent would
+request examples and we'll see examples
+and could build a model internally and
+then the it would request test examples
+and then the environment would issue
+test examples and it would get rewards
+based on how well it predicts that so I
+think in that sense it's it's a very
+general framework of course it also
+weakness of the framework that is so
+general right because it it gives less
+guidance as to how to solve these things
+good
+so reinforcement learning and you'll
+learn a lot about this from Hado since
+the goal of our research a deep mind and
+maybe the goal of some of you will be to
+create intelligence it's an interesting
+question to ask what is intelligence and
+our chief scientist Shan lag together
+with his then PhD supervisor mark Sutter
+came up with this definition here based
+on mining hundreds of definitions they
+had found in the literature it's
+actually quite an amusing paper to read
+so they have a paper where they look at
+all kinds of definitions from all kinds
+of sources of what intelligence is and
+then try to distill out the main
+properties that they think should be
+present there and here's what they came
+up with intelligent measures an agent's
+ability to achieve goals in a wide range
+of environments
+does anyone strongly disagree with this
+statement
+yeah that's interesting isn't it yeah
+yeah so this this in some sense assumes
+that the goals are given externally
+where as truly intelligent beings maybe
+generate their own goals to some degree
+but then maybe that could be specified
+as a meta goal from the outside yeah
+it's it's a bit tricky well what I tried
+to do here is to be very operational in
+some sense and I would like to explain
+to you how this motivates to large parts
+the research agenda of deep mind into
+intelligence and that's based on this
+equation which I think just looks
+beautifully if you squint your eyes I
+mean it's just a beautiful beast a bit
+of texture here so let's take a look at
+this so they define this measure of
+intelligence as a function of the policy
+PI you can think of this policy or
+alternatively as an agent that acts in a
+particular way in an environment in any
+environment reading and so the way they
+define it is through this value function
+here which is at the core of it and this
+expresses basically how well does this
+policy or this agent do in this
+environment mu so that seems like a good
+idea if there is a given environment
+then an agent that does well in the
+environment would be if there was only
+that one environment more intelligent
+that with respect to that environment
+then an agent that there's less well
+right so that that seems plausible of
+course it still depends on how we
+measure this but now this is summed over
+a set of environments E and waited so
+what this expresses basically is the
+diversity we said that intelligence
+would be required to be successful
+across a wide range of environments and
+so that is the set of environments here
+and this factor now here
+says hey but they're not all created
+equally some of them are more important
+than others and the way this is
+formulated here is that this is - - the
+- the Kolmogorov complexity of the
+environment and the idea here is that if
+the environment is simple then this term
+is large and there's a high weight on it
+and if the Kolmogorov complexity is
+large then this term is low now one
+advantage of this formulation is that
+this sum converges which is always a
+nice thing for a theoretician right you
+know if your system you're talking about
+isn't infinity it's a nice thing but it
+captures the intuition that there are
+fewer simple problems and if you call
+yourself into an intelligent agent you
+want to at least score well on those and
+then they're more of the complex kind
+because they require more description
+lengths to specify them and then if you
+want to be more intelligent you need to
+do better on many of those and I mean
+we're not really like a human there's
+only there's only one big world so how
+do you like this yeah yeah it's that's a
+good question so as they formulated this
+is the set of all computable
+environments such that this quantity can
+be evaluated but in practice and that's
+the important thing for the research
+agenda is we define sets of environments
+and then we try to do well on them so we
+take this as inspiration we don't
+actually want to solve this particular
+thing it's just you know too hard but
+the way we view it is why don't you we
+pick sets of ever more complex tasks and
+try to train our agents first on the
+simpler one and then make that more
+complex and more complex and get them
+ever more intelligent according to this
+definition and so one example that you
+could take is maybe there's a simple
+block based game that you start with and
+then you move on to the Atari games
+which are visually more complex and have
+more interesting dynamics and then you
+go to 3d games that I yet require more
+from your agents but no one tells you
+the boundary yeah yeah if you want to
+really look at it for the human it's
+very difficult and I think it's an
+interesting open question how to do this
+so we in some sense we interact only
+through our body with the environment
+and where do our rewards even come from
+in some sense they're self generated
+through our brain and then how is that
+controlled well evolution developed us
+in some sense evolved us and there were
+certain forces that shaped the anatomy
+and the chemistry of our brains and so
+somehow there never is in a reward that
+can be totally isolated if you look at
+this complex story it's just all
+evolving and the environment is changing
+and you are a part of my environment and
+I'm part of your environment and you
+know that year so this is definitely a
+simplifying model where were where we're
+trying to say suppose there were these
+there was this nested for almost set of
+environments we could where they were
+all well defined can we come up with a
+definition of intelligence within that
+limited few yeah so it's also maybe
+slightly counterintuitive the more
+complex the environment is the less
+waitis it has it's interesting yeah this
+is these other people have had these
+concerns as well and that's definitely
+interest
+but the idea here is that you should at
+least nail the simple ones and then you
+can move on to the more complex one but
+if you got any single more complex one
+because there are so many more of them
+you in order to really make progress in
+terms of intelligence you need to be
+able to self solve many more of those
+yeah that's the problem there are
+exponentially many more of the higher
+complexity steps so if we weighted them
+all even more this sum wouldn't even
+converge but yeah it's it's a bit
+counterintuitive maybe it could be
+captured somewhere in the value that you
+achieve that the more complex ones maybe
+give you more value for now let's take
+it as an inspiration to think about an
+approach where we have environments on
+the one hand side that we can construct
+and we have learning agents that we can
+put into these environments and train
+and we basically want to cover our bases
+and be able to have these agents be
+successful in the simple ones and then
+we want to ramp up the complexity of
+these environments and be able to solve
+ever more complex ones you can also
+think of it as a curriculum if you do it
+in that order because there's no order
+implied here but I would recommend
+starting with the simple ones and then
+moving on to the more complex ones as
+humans often do during their lifetime as
+well yeah yes also interesting you might
+have it in the V right for example if a
+complex policy was encoded through a
+complex neural network which would
+require a lot of energy to evaluate then
+if your task was to come out of the
+environment with your maximum amount of
+energy or survive as long as you can in
+the environment then you could code that
+all in the actual environment and reward
+combination and a simple as small and
+your network would then be advantageous
+because it's actually better at the task
+because the task involves resources and
+it's better at preserving resources okay
+but you see you can get into a lot of
+discussions even at the point where
+you're trying to say what you're what
+you want to solve so tricky questions
+okay so if we think about our own
+intelligence then certainly it didn't
+evolve in a purely abstract world it is
+grounded in rich sensorimotor reality we
+see things we can manipulate things and
+we know that for example babies learn in
+this way and to get some some of this
+people have looked at games video games
+as a particular set of tasks that are
+really nice for this purpose and a lot
+of the work that we do as you know Atari
+games alphago is based on games and I
+personally think they're they're a
+fantastic platform for AI algorithms so
+what are the advantages these are
+basically simulators right the game so
+you have unlimited training data anyone
+doing machine learning surely
+appreciates that of course it comes at a
+cost
+when you run the environment it also
+costs your resources so there's a
+trade-off in some sense you need less
+data but you need computational
+resources but me we can run these in
+simulation and that has a lot of
+advantages because we can have many
+instances for example in training we can
+have thousands of computers run the same
+thing and train and that's very powerful
+if you compare that to a robot arm that
+is much trickier because then you have
+to deal with the mechanics of the arm
+you need physical space to put the arms
+you need to maintain them they might
+change over time and so on so working in
+simulation is really attractive and so a
+lot of the work that we do is in
+simulation now of course the death
+advantage is that it's not the real
+world so we might be missing out on some
+aspects of the real world like
+measurement noise changing changes in
+the dynamics stuff breaking you know the
+real world but the idea here is we can
+make progress maybe first in these more
+abstract games domains and then we can
+move to the real world later so the goal
+in these domains then is to do
+end-to-end learning agents and basically
+we want to formulate an algorithm that
+observes the world in some sense issues
+actions in interaction with the
+environment and learns how to solve the
+task without further input from humans
+and that's how the the Atari work came
+about and I'll talk a little bit about
+it later
+but that's basically the the research
+philosophy that we're trying to follow a
+deep mind and which we think is a
+promising way towards developing
+artificial intelligence good just see
+the timing shall we make a 10 minute
+break maybe and then meet back here five
+past three all right thanks we just did
+some online learning here and found out
+that our instructions don't quite work
+the way we intended them to hold off
+with the creation of those Gmail
+accounts we'll need to figure out what
+exact characters Gmail addresses can
+contain apparently dashes are not among
+them so we'll we'll update that on the
+assessment part of the Moodle page so
+you can take a look also just to clarify
+these coursework bits are individual
+pieces they are to not to be solved in
+teams if you know what I mean
+of course it's always nice to advise
+other students and help them in some way
+but do it in very general terms okay
+let's talk a little bit about if
+learning deep learning is a hot topic we
+when we think about it in the in the
+context of artificial intelligence we
+think of it as helping us solve this
+perception problem that we want to want
+our agents to be able to comprehend the
+world to perceive the world and then
+comprehend it but to perceive it at the
+level of the sensors by which they
+perceive it so for for video or images
+on the pixel level the raw data and
+while this sounds may be very natural to
+you now again this wasn't exactly the
+agenda of AI in the past which often
+worked at a symbolic level and where
+problems arose because it was very hard
+to connect that symbolic level on which
+certain manipulations were relatively
+easy with the actual underlying sensory
+motor reality because you might have
+some idea of maybe how to build a tower
+or something out of pieces but if you
+just direct the camera at the seed you
+first need to figure out what are the
+pieces and and how can I move them so a
+purely symbolic solution is kind of
+hovering somewhere abstractly and it's
+disconnected both from what you can see
+in the world because it's hard to get
+that symbolic representation from pixels
+and to get it back into the world once
+you've drawn some conclusions you want
+to act in that world and so we want that
+connection and it turns out that deep
+learning offers very nice tools for this
+because it is currently the framework
+that is most successful
+in processing classifying and so on
+perceptual stimuli from from those raw
+sources like audio or images or videos
+so what characterizes deep learning one
+big thing is that it is based on
+end-to-end training so we want to
+formulate a model and then train it end
+to end say we have labels and images and
+we just want the system to be optimized
+end to end for this problem we don't
+want to engineer features because that
+would require human input for every new
+problem we want these features to be
+automatically learned we want the system
+to learn good representations and newer
+networks have come back so to speak to
+be able to do all of these things and
+are now very versatile can be applied to
+images to text to audio to video to grow
+positions whatever you like these
+systems are modular in design so because
+we do gradient based learning we can
+stick together modules and pass the
+gradients through these modules and
+learn the parameters of the individual
+pieces it's not that they don't have any
+prior knowledge built in there are a lot
+of different architectures and every
+architecture of a neural network gives
+the system some kind of some kind of
+inductive bias or represent some form of
+prior knowledge the most well-known one
+maybe our convolutions convolutional
+neural networks encode certain spatial
+relationships in the inputs and
+facilitate through that specific weight
+sharing the processing of images which
+for example of them have translational
+invariance or localized features the way
+deep learning has come about is it
+evolved from normal neural
+works but it was then enabled by having
+more data and more compute power in
+particular GPUs of course so if we look
+at what's out there and we'll have more
+lectures on the details of course but I
+want to give you a little sneak preview
+the convolutional networks pioneered by
+Jung Lacan and others the basic idea for
+processing images and making use of
+these biases that I was talking about
+and were successfully used for
+classifying digits and handwriting on
+postal coastal codes on envelopes in the
+US Postal Service and of course this is
+a comparatively small problem but then
+the real breakthrough was that they
+could also be applied to this huge data
+set of image net image net is a good
+example for how you can make a great
+research contribution not just be by
+creating new algorithms or delivering
+new solutions but also by posing new
+problems so image net is this huge data
+set which has a thousand different
+classes of objects and for each of these
+1,000 different types of objects there
+are a thousand examples example images
+of those objects and this data set alone
+has really boosted research in image
+recognition and in particular in deep
+learning so if you're ever in a position
+to curate a really big data set it's it
+can be a beautiful contribution to
+science to do that and in 2012 there was
+this big breakthrough of really reducing
+the error rate with large convolutional
+neural networks on this image net data
+set bringing it a lot closer to human
+performance now human performance has
+been surpassed on that and and that was
+really the kickoff point for the the
+modern era of deep learning if you like
+the neural these convolutional neural
+networks can also be applied to
+it's an interesting question why that
+might be the case well text is also on
+some kind of grid it's just a
+one-dimensional grid it's a sequence of
+characters instead of being a
+two-dimensional grid of images and again
+we can use the same kind of prior
+knowledge namely that we would like to
+have localized filters that can find
+local features in the text and this was
+applied both at word level but more
+interestingly also at character level
+and we can also we also have the shift
+invariance that we have in images you
+know if there's a particular combination
+of characters here that that have a
+particular meaning for example or
+indicate a particular class then if that
+is shifted somewhere else in the text it
+might have a very similar meaning so so
+those same ideas apply to text and hence
+convolutional ideas can be applied here
+as well and then of course you can go
+one step further from images going to
+stacks of images if you like to videos
+and and again convolutional neural
+networks have been very successful here
+the author of this particular work is
+Karin Simonian who will give the
+lectures on convolutional neural
+networks so you'll be able to learn much
+more there what's essentially happening
+is that you learn one big nonlinear
+function and I would like to point you
+particularly to this idea of viewing
+deep learning as it as differentiable
+programming I think that's a very
+powerful idea you have to imagine 20
+years ago or now 20 years ago nobody did
+neural networks so 30 years ago and then
+again maybe 15 years ago people had the
+simple feed-forward neural networks to
+approximate functions from input vectors
+to output vectors and they had usually
+they're a very uniform architecture you
+know just fully connected layers one
+after another trying to approximate a
+given function what happens now is that
+people define these modules and stick
+them together you know
+you can have convolutional modules you
+can have Mary memory modules you can
+have attentional modules you can have
+fully connected modules you can have
+output modules with softmax and so on
+you stick together these building blocks
+and you really program in this space of
+models and of course you leave degrees
+of freedom free and Emily the weights
+the parameters within these models and
+they can then be learned and to end by
+propagating arrows through this system
+and so I think that's a viewpoint that
+is very useful to really think of it as
+a new programming paradigm where we
+leave a lot of the program unspecified
+those are the weights that need to be
+learned but we do encode the the
+structure that we know into the neural
+network recurrence of course is also an
+element of that you know if you have a
+recurrent neural network so in terms of
+architectures you can see that people
+have gone wild and have developed
+different things starting from these
+humble beginnings in the inception
+network the topology was varied you know
+you see these they're not just stacked
+linearly in one direction but you see
+there's different paths through this
+network so there's almost like a 2d
+structure to it in leather networks it's
+an unsupervised type of system where you
+have horizontal connections between
+layers that facilitate learning locally
+within each layer because every layer
+doesn't have to wait to the out until
+the output and then again the input is
+reached through the propagation
+there's rest nets which have this idea
+that there's always two paths through a
+layer there's an identity function that
+kind of skips the layer but there's also
+a nonlinear function that can then is
+then used to fit the residual everything
+that just stays the same it can be sent
+through the identity and then this bit
+can fit the residual and those are
+stacked on top of each other so people
+have really
+lord various architectures and have
+improved improved and improved on on the
+metrics for example on on the image net
+this particular thing came out of
+Microsoft Research in 2015 the rest net
+and made it made a big jump in the
+performance numbers for for image net
+but you see how this resembles
+programming putting together these
+architectures and of course framework
+like tensorflow
+is exactly designed to do that to stick
+together elements and then leave leave
+the actual implementation of the
+propagation of errors and add gradients
+to the system okay similarly in
+unsupervised learning there was a
+proliferation of architectures and
+models restricted Boltzmann machines
+autoencoders things that do PCA and ICA
+and sparse coding sometimes stacking
+layers of these on top of each other to
+achieve hierarchy and of course a recent
+favorite are also Gans which are a
+beautiful idea in that they take this
+single player problem if you like of of
+matching or finding a density model a
+generative model they turn that into a
+two-player game where there's one agent
+if you like that tries to produce
+examples that look a lot like what you
+want to produce and the other agent
+needs to judge if that looks right or
+not and needs to distinguish those
+artificial examples from those give them
+in the training set beautiful work so a
+lot of stuff and we'll learn more as the
+lectures continue then of course
+sequence modeling incredibly powerful
+the example that I like the most is how
+you can formulate the simple task of
+translation as a sequence transduction
+problem it's just beautiful to view it
+that way you have an input sequence
+which is your text in one language you
+have an output sequence which is your
+text in
+the language and you're really view
+translation just as a mapping from one
+sequence into another and at first
+that's beautiful but people thought it
+didn't work and then they found that you
+can actually make this to work and and
+now most translation systems are based
+on these types of networks incredibly
+powerful and also working at this
+symbolic level of characters in words
+and so on and oriole videos who is also
+responsible for a lot of the progress in
+this area will give the lecture on
+sequence modeling okay that's the deep
+learning overview and now I'll move on
+to these two little bits of research to
+give you some idea of what can be done
+if you combine recent reinforcement
+learning ideas with deep learning ideas
+we will start off with the work on human
+level control through deep reinforcement
+learning
+the work known as the Atari work if you
+like which was one of the the first big
+papers that came out of deep mind and I
+think you probably have all seen these
+the Atari games I think just discovering
+that this kind of problem exists was was
+a huge step and it was people in alberta
+kay first came up with the idea
+can we use a collection of these simple
+Atari games that children's play that
+grown-ups play admittedly and that can
+be quite addictive and and interesting
+can we turn those into a reinforcement
+learning challenge and what's so
+beautiful about them is that they offer
+a rich visual domain you know this is
+just one of them break out but of course
+they are
+a few dozen others and what they have in
+common is the action space and the
+observation space so they are really if
+we can call them a family of problems
+because when we observe the state of the
+system we see an array of pixels or
+stream of images and that's the same for
+all of these games the content of those
+images of course is different the way we
+need to interpret them for each game is
+different but the format is unified the
+same holds true pretty much for the
+action space imagine a controller a
+joystick you can enumerate the actions
+that you can make on this and so we also
+have a unified action interface and so
+we can really view this as a unified
+family of problems we have many
+different games and that going back to
+the definition of intelligence gives us
+the ability to train a system that can
+men do many different things and can be
+tested on many different scenarios now
+how do we know these are interesting
+problems they could be super boring
+problems but no humans design them to be
+interesting for humans so we know
+they're interesting right they're
+interesting in exactly the sense that
+we're interested in here because they're
+challenging for humans they become more
+difficult as you progress they involve
+manipulation you need to do the right
+kind of combination of moves and so on
+you need to understand conceptually and
+so what's going on on the screen and
+yeah it's a tough problem let us see
+and again here by the way finding the
+right problem is such a key skill right
+if you can come up with a nice problem
+that is close to solving then you're in
+a beautiful situation okay
+so putting this back in the context that
+we had of the little reinforcement
+learning diagram we can think of the
+game as the environment and what we want
+to build now is the agent the controller
+and the agent will take in observations
+from the environment which are these
+images in fact what they do is they take
+they concatenate four of those images
+because they weren't a little bit of
+history so to speak of what the past
+looks like to see for example in which
+direction the ball is flying you need a
+little bit of a trajectory and then they
+create this cue network which takes as
+input those images and outputs for a
+given state for every available action
+this so-called cue value and we'll learn
+more about that in the reinforcement
+learning lectures but the q-value
+basically indicates for each state how
+good it would be to execute one of the
+available actions in that state and then
+of course you would want to pick the one
+that maximizes that Q value and the
+sense in which this move or this action
+will be good is in the sense of long
+term reward because the Q function will
+represent the long term estimate of how
+much reward reward you will get if you
+execute that action in that particular
+state so and and then you can imagine
+this the training happens through the
+interaction with this environment and
+the results across these 50 domains 49 I
+think we're quite stunning in that for
+many of these games
+the system reached human level or
+superhuman level performance there are
+also a few games for which that wasn't
+the case and you can you can imagine
+what the distinction is if you have a
+more reactive game where everything you
+need to know is currently on the screen
+and you need to react immediately to
+what's happening that's relatively easy
+there's also a more direct feedback
+signal there because for example in pong
+if the ball goes by might get a negative
+reward so so those are relatively easy
+what is hard is if you have more of a
+puzzle game there's a game called
+montezuma's revenge I think it's called
+so right you know what that means in
+Mexico right the the the game is
+basically more like a puzzle game where
+there's a very narrow channel of actions
+that you need to take you know there's
+something you need to jump over and then
+you must not fall into the thing but
+avoid something and so on and so that is
+very hard because the reward for doing
+all that only comes much later when you
+have collected a key and then gone with
+that key later on through some door and
+then you get a positive reward and so
+that is very hard because the reward is
+very sparse and very long-term and so
+that's much harder to do and so but for
+a lot of these games that algorithm was
+successful you'll learn more about it
+from from Vlad but it is really quite
+nice to see its
+how in this particular game the
+controller has learned to to shoot the
+fish if it collides with the fish and
+then it loses a life and what you see
+here is the value function and here is
+the the Q value for each of the actions
+that you could take up down left right
+firing and so on and here is the so
+called advantage function in time which
+is basically the advantage each of the
+actions has over the others technically
+is the Q value minus the Q function
+minus the state value function and it
+uses basically this and takes the action
+that maximizes this here and what's
+interesting here is shooting the fish is
+relatively easy and it will survives for
+a while early models of the algorithm
+didn't find out that once your oxygen
+level is very low you need to go to the
+surface to breathe to survive but then
+as as research advanced and the training
+was able to capture more long-term
+relationships the algorithms also
+figured out that that's what it needs to
+do so short term shoot the fish evade
+the fish but at some point when this bar
+is low go to the surface get oxygen then
+go back down just to point out how hard
+this is because it's not maybe
+immediately obvious and the system just
+gets this image here and it doesn't know
+what it controls so it doesn't know that
+it is the submarine right it has no
+about idea about that it needs to find
+out that it needs to control this of
+course we have no idea how it represents
+that but somehow that's the task right
+when we approach this game we wiggle the
+controller and then we see oh I'm this
+thing and then we have all kinds of
+semantics you know we know that we
+observe a collision with the fish and
+then we
+Oh colliding with fish isn't good oh I
+can shoot and Oh oxygens probably up
+there and not down there you know all of
+this prior knowledge we bring to this
+problem and that's why humans of course
+also learn these games much faster than
+computers currently do but it is
+remarkable that computers can learn it
+at all I think brother you had a first
+I think millions of frames yeah yeah so
+the problem is in order for these
+problems to be formulated mathematically
+you need to decay the reward so either
+you have a finite you have a finite
+sequence and you just add up all the
+rewards but what we typically do here is
+we have some kind of discount factor and
+so we say that further away rewards
+count less then more nearby rewards you
+know a bit like interest rate and and
+that decay factor pretty much determines
+how far we take into account those
+rewards but the problem is that you
+might not even see them so you don't get
+to train on the perfect trajectory where
+at the end you get to see that reward if
+you make the wrong moves and buy before
+you never see it so it's also related to
+the exploration exploitation problem
+that you are the or the agent itself is
+the data generator so if the if if it
+never manages to even see a rewards
+because it dies before hand or the
+episode ends in some way then it will
+never get that reward and maybe every
+now and then because it still has
+randomness in there it stumbles upon the
+reward but then that reward is very rare
+so so the Lord the problem with the
+long-term reward is both that it's hard
+to propagate it back but also when
+it requires complex trajectories to get
+there you might never see it because you
+never get there there is some degree of
+planning so when you see a reward it is
+propagated through the cue function
+backwards in time that we do much more I
+think we we also get intermediate
+rewards just by you know seeing oh I
+move to the right and it moved to the
+right yeah you know you get that kind of
+satisfaction or you shoot the fish and
+it disappears and you get that kind of
+satisfaction here there are actually
+some rewards for shooting fish so it
+depends on the definition of the game
+but the very hardest games have almost
+no intermediate rewards and you only get
+it at the end and those are the tough
+ones yeah so that's that's a very good
+question and I need to clarify something
+that is maybe not clear here so what
+happens here across these 50 games is
+that the system is trained on each one
+of them with the same hyper parameters
+and so on and then test it on that same
+game and the system is universal in the
+sense that you can apply it to each of
+those 49 games and test it on it and it
+produces respectable results on all of
+them there is not a single system here
+that can play more than one game but in
+the meantime people have worked on this
+and they have created systems that can
+play several of these games but it's
+very tricky because suppose you want to
+learn them in order you first learn one
+game but now when you learn the second
+game the learning updates for that game
+destroy what you have learned for the
+first one if you apply it to the same
+neural network and so you either need to
+mix the tasks so that you never forget
+the old one while adding information to
+the new one or you need to somehow
+protect the weights that were learned
+for the first game while learning the
+second and
+protect the ones of the first and second
+game while learning the third and these
+are very tricky questions it's called
+lifelong learning and that's just
+protecting those weights what you are
+referring to those even further what you
+would like to see is that you learn the
+first game and you've now learned
+certain concepts like moving left moving
+right up down objects and now it should
+be faster to learn the second one
+because now you've already got some
+prior knowledge from the first one and
+that is that is an even harder problem
+you want to transfer information from
+one domain to the next but that's the
+Holy Grail really that that would be
+ideal if the system learned at a level
+of of conceptualization so to speak that
+the things it learned and the first game
+would be useful for learning the second
+these systems don't learn at that level
+they learn more at the pixel level and
+they never have this notion for example
+of an object for example one of the key
+things that you would really want to
+learn about these things is that there's
+this block somewhere and you're it and
+when you move your joystick to the left
+it goes to the left and when you move it
+to the right it goes to the right those
+things we currently have no way of
+learning that but that's certainly the
+future we need to learn at that level of
+generality it's a great question yeah so
+what it what it gets is with each
+observation it also gets rewards and for
+example if you just shot a fish then it
+will get a little number and and it will
+interpret that number as the reward and
+when it dies it gets in a negative
+reward or it stops getting a rewards
+that's really all it gets but it's it
+uses the sum over those numbers weighted
+by that decay factor as as the
+optimization criterion for its learning
+yeah so they had if they are they are
+here derived from the score
+it's another advantage of this test
+suite because the game designers in some
+sense already provided the reward system
+it's the game score and there are some
+problems associated with it because for
+each of these games those numbers can
+have vastly different numerical
+quantities and so the system needs to be
+robust to that and they use reward
+clipping for example or rescaling of the
+rewards to make sure that they are all
+roughly in the same order of magnitude
+yeah yeah so this is so there is a
+system called ale
+Atari learning environment that
+explicitly translates these games into a
+reinforcement learning environment and
+interpret this course that it finds as a
+reward and segments those out yeah okay
+now in some sense we're here in the very
+early stages of you know the simpler
+environments and many people have now
+moved on although we're still using some
+of these environments to test algorithms
+that we develop but here's a newer
+generation kind of set of environments
+called deep mine lab and this is also
+publicly available and constitutes a
+kind of third first-person perspective
+of some maze world where different tasks
+can be represented what's nice here is
+all of these tasks play out in some kind
+of maze and the agents are in there with
+the first-person perspective and see the
+world from this first-person perspective
+and and move in the same way so again we
+have a family of problems that have a
+unified input-output invar interface
+they always see the pixels that come in
+and the actions they take are turning
+moving forward moving backward maybe
+shooting I'm not sure
+and now various different tasks can be
+formulated within this environment and
+agents can be trained here's basically
+such an agent and when it interacts with
+that world it gets the first-person
+image of of what's of its position in
+the world and it gets some kind of
+reward depending on what it encounters
+in that world and here the action spaces
+can basically go forward backward turn
+strafe jump up and and that's it unify
+for all tasks within this task suite and
+now you can see that this is a much more
+demanding kind of environment here
+someone navigating it you know apples in
+this case give positive rewards and you
+see the difficulty here is to interpret
+this 2d image in terms of its 3d what it
+represents in 3d and learn how to
+navigate the maze based on certain point
+things for example you see there's
+images on the wall
+so in principle once the agent has
+navigated the maze for a while it could
+have built up some kind of map knowledge
+of the situation and if it finds itself
+in a new spot in a spot then it might
+orient itself by recognizing that
+there's a particular image on the wall
+and then it might draw conclusions about
+what its best course of action would be
+in that particular situation and there's
+all kinds of interesting tasks that you
+can do here
+maybe mostly tasks related to navigation
+because you would you know find the
+Apple or walk through the maze and try
+to collect as many apples as possible
+things like that you can do but you can
+also do other things for example
+this is a kind of laser tag level in
+space where the mode of movement is a
+little more complex you have these ramps
+where you can fly through space and get
+from one platform to the other and again
+put yourself in the position of an agent
+seeing this and having to learn what
+what it means what it sees it sees a 2d
+projection of a 3d world from the
+first-person perspective and somehow
+needs to derive from that what actions
+it would be advantageous to take in that
+particular situation ok so much for that
+and I think Vlad will be able to give
+you much more insight into this and how
+to address these types of problems
+different algorithms and so on as the
+last point for today I'll talk a little
+bit about the alphago project to give
+you some inspiration for some more
+application of deep learning and
+reinforcement learning I saw that we
+have at least one go player here I'm so
+glad strange though random ah see we
+have to go players you could play maybe
+you are playing and I'm just not seeing
+it ok so go is it's a very different
+type of problem so the the problems we
+we just looked at in this labyrinth are
+very much inspired by how we see the
+world and interaction with the world
+that is is naturally spatial where an
+agent has a given position in that space
+moves that position around has a
+perspective that is tied to that
+particular point of course go is a
+problem that is different that is
+difficult in other ways it's played on
+this board as you know 19 by 19 with
+black and white stones there's no agent
+that you are in this game he plays
+stones on the board in some sense stones
+may be the agents but they're not
+actually
+so the player is the agent but it's not
+so clear what the players representation
+is other through which stones they
+currently have on the board and the goal
+of course is to surround territory in
+this game and here the challenge is
+quite different because here we have a
+super large search space a huge search
+space in fact represented by this the
+game tree which has a game key
+complexity of the breath to the power of
+the depths of this tree so the breaths
+is so many different moves you can
+choose at any point in time and the
+depths is how deeply you have to lock
+down in the tree and the other problem
+of course that needed to be addressed
+here is one that it turns out deep
+learning was suitable for namely to
+assess how good a given position is to
+evaluate the position and if you look at
+the problem it's kind of natural that
+you would think that that might be the
+case because it looks a lot like a
+vision problem you know you look at the
+board it has a 2d structure like grid
+structure like an image and so we know
+humans are good at it or can be good at
+it very few humans are actually good at
+it but there are some humans who are
+good at looking at the board and
+determining for example if black has the
+advantage or white has the advantage or
+what would be a good move in a given
+situation and and that's where were deep
+learning comes in here's an illustration
+of chess where you have maybe roughly 20
+moves in every given position to
+consider which is already a lot and of
+course in go is many more it's up to 300
+moves really so how is it done we use
+deep learning and we have two types of
+networks here one looks at the board and
+finds a mapping from a board position to
+an evaluation so it's basically trying
+to estimate how likely it is that black
+or white would win in a given situation
+from looking at the board and the other
+network is the so-called policy Network
+which looks at the board and looks at
+what might be good moves in this
+particular situation and both of them
+are visual tasks that humans can do we
+know that a good go player can look at
+the board and maybe at a glance see who
+is in a better position sometimes it
+takes more analysis to do it but what a
+go player definitely can do is look at
+the board and see plausible moves or
+they do maybe they do the contrary they
+say these they see a lot of moves that
+definitely aren't good and they're not
+going to consider so they select which
+moves they're going to analyze more
+precisely and those of course correspond
+to particular visual patterns that are
+not unlike the visual patterns that we
+pick up when we do object recognition or
+when we recognize faces there are
+combinations of edges and areas and we
+are now connected bits and pieces and so
+it's not that surprising that a
+convolutional architecture can actually
+represent this mapping I still find it
+somewhat surprising because if you
+change a single pixel in a in an image
+that never changes the semantics of the
+image right there's almost no way it
+could do that whereas if you change a
+single stone on a goal board it might
+very well turn it from a winning
+position into a losing position and so
+there is something specific about this
+mapping problem it's much it's not as
+smooth as maybe you think of the typical
+visual recognition problems well how is
+this use done and you can basically
+think of the planning process here as
+being represented by a huge game tree
+and the problem of that is the game tree
+is too big we cannot search it but we
+can reduce it in two dimensions by using
+the value Network we can avoid having to
+evaluate all the way to the end when we
+know the outcome of the game but we can
+evaluate earlier and by reducing by
+selectively only looking at moves that
+look promising we can make the game tree
+much more narrow and in that sense again
+reduce the size of the tree and the
+remaining tree if you
+then is amenable to search techniques
+that can get us good results using at
+that point of paring down your tree is
+it is it deep blue like exhaustive
+search
+it's called Monte Carlo tree search and
+so it's still a little different Monte
+Carlo tree search always picks one
+trajectory through the tree and and
+always develops a new node at the end
+and grows the tree in this way so it's
+it's different from what the blue would
+be using which is a min Max search using
+heuristic called alpha beta pruning
+where it where it basically can
+disregard certain parts of the tree for
+logical reasons but otherwise has to
+expand large portions of the tree so the
+multicolored research does more of an
+averaging so in min max search you
+really have assumed that you have an
+accurate evaluation function and one
+player tries to maximize it and the
+other player tries to minimize it
+whereas in Monte Carlo tree search we
+average the evaluations we just make
+sure that we only ever go down promising
+roots in the tree enough times that the
+averaging is biased towards maximizing
+and minimizing it's a nice robust search
+technique and then as you probably know
+this alphago
+turned out to be much better than the
+existing programs at the time which were
+only at strong amateur level whereas
+alphago the early version went into
+professional territory and eventually
+beat the strongest player in the world
+at at this game and the evaluation was
+first against fund why the European
+champion and then later against Lisa toe
+the Korean champion yeah
+from 1990 comes more tractable so you
+but you have to go to seven by seven I
+think for it to be really tractable nine
+by nine is still difficult and 11 by 11
+is about as complex as stress so but
+there's an interesting idea there we
+talked about this these ever more
+complex environments in the definition
+of intelligence and one way to formulate
+a curriculum over this task for example
+would be to start learning on smaller
+boards and hoping that you can have an
+architecture that also works on bigger
+boards and by learning on smaller boards
+first you would have first successes and
+a smaller space and you could learn some
+basic patterns that would then transfer
+to the to the larger boards I think that
+could be a promising that could be a
+promising route to address yeah yeah
+that that is very interesting yeah it's
+a smaller game it definitely is a
+smaller game but it's good yeah people
+have made progress they go from the
+endgame positions backwards and from the
+openings forwards and then at some point
+they they match and and and can prove a
+result okay and of course there's
+there's more here and we will hope too
+that Dave will cover this in in his
+guest lecture of course recently we've
+made a lot of progress whereas in this
+earlier work we use supervised learning
+to train these neural networks we used
+games that were actually played by
+humans and and use them as supervised
+learning datasets taking a position and
+a move as a classification problem
+position is the input move is e is is
+the class if you like and we were able
+to train these networks but more
+recently in the alphago zero work we can
+do
+this entirely through reinforcement
+learning with the system only plays
+against itself in and learn how to play
+go even better than with human input
+strangely and and then we also applied
+that to chess but that's really just a
+preview to today's lecture okay final
+thing I would like to point you to some
+extra revision material this was last
+year included in the in the second
+lecture which we've now replaced by the
+tensor flow tutorial because we thought
+that that was better use of the time but
+if you want to take a look just at the
+slides that we posted on Moodle there's
+some basic revision of a regularization
+generalization in supervised learning
+and how gradient based learning works in
+linear regression and in logistic
+regression which are the models that
+kind of lead up to to feed forward
+neural networks then okay any questions
+we're still trying to figure that out
+there's a lecture cast recording and and
+there's these recordings but so far we
+haven't been able to combine them onto
+Moodle so have to find out
+yeah yeah no no I see what you mean I
+see what you mean I mean the we were
+very interested in this question
+ourselves because in some sense you can
+view these games as illustrations of
+maybe what happens as we make AI
+stronger and stronger so here we have
+small worlds and we're now at the point
+where the competence of the AI is
+greater than the competence of humans in
+this particular domain and so what does
+that look like what is it like to play
+against a higher intelligence so to
+speak and maybe we can draw conclusions
+that would also hold it for other
+domains that are maybe even more useful
+medical diagnosis or car driving or
+whatever and so we were looking at this
+and some of the moves that that alphago
+made even during the first match in
+Korea were pretty amazing according to
+our experts so they were truly
+surprising people were using the word
+creative moves inventive moves because
+some of the moves defied
+well-established rules that human
+players typically respect in their game
+humans have a lot of heuristics that
+they use to select moves because the
+game is so complex but what that also
+means is that they have certain biases
+that is that are very hard for them to
+overcome so if they have for example and
+a trained pattern that tells them that a
+particular move cannot possibly be good
+but in this particular situation that
+move happens to be the best move then a
+lot of humans would have difficulties
+finding that move because early on in
+their reasoning they would rule it out
+but alphago 'men have those limitations
+or not to that degree at least and so it
+came up with moves that were
+counterintuitive to humans but when they
+then saw how the game unfolds they
+suddenly
+realized how brilliant that move early
+on was that they previously didn't
+understand based just on their rules so
+so that was pretty amazing to see and
+then more recently we have some
+interesting feedback on the chess games
+that we published where we applied this
+same methodology to chess and some of
+the grandmasters were amazed at how
+flexibly alpha 0 evaluates positions so
+when you normally write a chess program
+you would define an evaluation function
+that tells you how good a given position
+is and that would include the material
+you know do you have more material than
+your opponent queen king queen pawns and
+so on it would include pawn structure
+King safety mobility of your pieces and
+so on and there but they would all have
+some kind of fixed coefficient that the
+programmer would have to put in so that
+you can actually evaluate this function
+and do a search based on it now the
+alpha 0 approach doesn't have any of
+those limitations it just learned this
+general function from board state to
+evaluation and as a consequence it's not
+bound for example to the concept of
+material so it much more easily
+satisfies a piece in order to gain
+positional advantage if it has learned
+that in fact that increases its winning
+probability and so sorry in some of the
+games that we shared alpha 0 place a
+sacrifice which is a positional
+sacrifice it loses the piece and almost
+no human player would do that unless
+they knew exactly what they were getting
+for it but alpha 0 was happy with that
+move increasing its winning probability
+and then somehow 40 moves later it would
+get that home and actually win the game
+and so that was pretty otherworldly in
+terms of playing style and and chess
+masters just just enjoyed those games a
+lot yeah
+and no it wasn't open sourced but there
+are other programs other groups that
+have in fact started reproducing this I
+think there's an open source project
+called Leela open Leela or something
+Leela zero which is trying this and
+there's also $0.10 the the Chinese
+Internet company has a program called
+fine art which is designed according to
+the alphago specs and has become much
+better in in recent times and is also
+challenging professional players now we
+published the algorithm and people can
+implement that if they like but we
+didn't open-source any of the code yeah
+it's it's an interesting problem so what
+alphago is trying to do is to maximize
+its probability of winning when that
+probability of winning is essentially at
+100% then certain moves look the same
+for alphago it can give away a point or
+two if it's currently winning by five
+points it doesn't care if it gives away
+at one point or two and that seam can be
+very frustrating for human opponents
+because the moment you see you're you
+know you
+basically it doesn't care anymore yeah
+it's an interesting problem I'm not sure
+it can be solved while retaining the
+playing strength that's an interesting
+challenge because the criterion that we
+use is winning probability and not
+winning by a certain margin if we now
+change the criterion and training to
+from winning probability to please win
+by the maximum possible margin then
+there might be side effects like it
+might start taking certain risks now to
+win by a larger margin and so what what
+you'd be asking for is really maintain
+your high winning probability while at
+the same time maximizing the margin of
+winning that would lead to those non
+slack moves and yeah it's it's tricky
+maybe it can be done but I think our
+research was mostly driven towards the
+most principled question of maximize
+winning probability and not not consider
+the marginal okay I think we need to get
+out of here thank you very much for your
+attention

@@ -36,7 +36,10 @@ The preliminary workshop schedule is as follows:
 
 #### Paper hackathon
 
-Dataset provided uniquely for this session:
+UPDATE:
+Due to more registrations than expected, we will provide several datasets to allow for distinct research questions and smaller pgroups to work on the paper hackathon.
+
+Dataset provided uniquely for this session (will be updated shortly):
 
 -	Transcripts of all vlogs uploaded to YouTube by specific YouTubers.
  - Columns: vlogger ID, vlog transcript, vlog view count, upvotes, downvotes, vlog posting date.
@@ -67,9 +70,8 @@ Participants should have some basic knowledge of the _R_ or _python_ programming
 
 ### Organisers
 
-|      ![Bennett](./img/bennett.jpg)       |     ![Isabelle](./img/isabelle.jpg)      |          ![Max](./img/max.jpg)           |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | [Bennett Kleinberg](https://bkleinberg.net) | [Isabelle van der Vegt](https://twitter.com/Isabellevdv) |  [Maximilian Mozes](http://mmozes.net)   |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | Assistant Professor in Data Science (University College London) | PhD student (University College London)  | BSc student (Technical University of Munich) |
 
 -----

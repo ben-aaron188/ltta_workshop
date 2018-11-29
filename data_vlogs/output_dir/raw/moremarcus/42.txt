@@ -1,0 +1,1584 @@
+1
+00:00:00,000 --> 00:00:04,170
+<font color="#E5E5E5">hi Lee hello we get the what's up guys</font>
+
+2
+00:00:04,170 --> 00:00:07,350
+welcome<font color="#CCCCCC"> to part two of I'm learning a</font>
+
+3
+00:00:07,350 --> 00:00:08,610
+new language<font color="#CCCCCC"> and I'm</font><font color="#E5E5E5"> going to be</font>
+
+4
+00:00:08,610 --> 00:00:10,139
+documenting<font color="#CCCCCC"> it with you if you didn't</font>
+
+5
+00:00:10,139 --> 00:00:11,730
+watch the<font color="#CCCCCC"> first video</font><font color="#E5E5E5"> I would advise you</font>
+
+6
+00:00:11,730 --> 00:00:13,230
+go and watch it<font color="#E5E5E5"> to understand the</font>
+
+7
+00:00:13,230 --> 00:00:15,570
+<font color="#E5E5E5">reasons why I decided</font><font color="#CCCCCC"> to learn</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> new</font>
+
+8
+00:00:15,570 --> 00:00:17,810
+<font color="#E5E5E5">language why I'm gonna document it and</font>
+
+9
+00:00:17,810 --> 00:00:20,160
+sort of<font color="#E5E5E5"> just asking</font><font color="#CCCCCC"> your advice</font><font color="#E5E5E5"> and</font>
+
+10
+00:00:20,160 --> 00:00:22,980
+opinions on the best way possible<font color="#CCCCCC"> to do</font>
+
+11
+00:00:22,980 --> 00:00:24,630
+so pouring<font color="#CCCCCC"> into</font><font color="#E5E5E5"> the video I would just</font>
+
+12
+00:00:24,630 --> 00:00:27,150
+like to say<font color="#E5E5E5"> a genuine massive massive</font>
+
+13
+00:00:27,150 --> 00:00:30,269
+shout out to<font color="#E5E5E5"> all of you wonderful people</font>
+
+14
+00:00:30,269 --> 00:00:33,120
+who commented like I didn't<font color="#E5E5E5"> realize how</font>
+
+15
+00:00:33,120 --> 00:00:34,800
+many people<font color="#CCCCCC"> have been in the</font><font color="#E5E5E5"> same</font>
+
+16
+00:00:34,800 --> 00:00:36,780
+<font color="#CCCCCC">situation as me and not</font><font color="#E5E5E5"> just on</font><font color="#CCCCCC"> that</font>
+
+17
+00:00:36,780 --> 00:00:39,270
+video commented<font color="#E5E5E5"> us enemy Instagram</font><font color="#CCCCCC"> dmg</font>
+
+18
+00:00:39,270 --> 00:00:41,280
+was<font color="#CCCCCC"> enemy tweets you were</font><font color="#E5E5E5"> sending me so</font>
+
+19
+00:00:41,280 --> 00:00:43,770
+much<font color="#E5E5E5"> helpful information for my tiny</font>
+
+20
+00:00:43,770 --> 00:00:45,719
+little brain to try and bring together
+
+21
+00:00:45,719 --> 00:00:49,770
+<font color="#E5E5E5">and put it into something constructive</font><font color="#CCCCCC"> I</font>
+
+22
+00:00:49,770 --> 00:00:51,360
+was just very overwhelmed with<font color="#E5E5E5"> your</font>
+
+23
+00:00:51,360 --> 00:00:53,640
+<font color="#E5E5E5">response</font><font color="#CCCCCC"> so I just wanted to</font><font color="#E5E5E5"> say thank</font>
+
+24
+00:00:53,640 --> 00:00:56,820
+<font color="#E5E5E5">you for being that</font><font color="#CCCCCC"> open about it</font><font color="#E5E5E5"> all and</font>
+
+25
+00:00:56,820 --> 00:01:00,180
+sharing your<font color="#CCCCCC"> tips and experiences since</font>
+
+26
+00:01:00,180 --> 00:01:02,370
+<font color="#E5E5E5">the last video I went away</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> I</font>
+
+27
+00:01:02,370 --> 00:01:05,670
+consistently<font color="#E5E5E5"> practiced every single day</font>
+
+28
+00:01:05,670 --> 00:01:07,439
+I was<font color="#E5E5E5"> practicing now</font><font color="#CCCCCC"> might be a bit</font>
+
+29
+00:01:07,439 --> 00:01:09,810
+<font color="#E5E5E5">rusty because I've been in</font><font color="#CCCCCC"> LA for the</font>
+
+30
+00:01:09,810 --> 00:01:11,939
+past week I had Coachella<font color="#CCCCCC"> and I just got</font>
+
+31
+00:01:11,939 --> 00:01:14,670
+into LA<font color="#E5E5E5"> two days ago and I'm</font><font color="#CCCCCC"> not gonna</font>
+
+32
+00:01:14,670 --> 00:01:16,710
+lie<font color="#CCCCCC"> since the</font><font color="#E5E5E5"> plane out here</font><font color="#CCCCCC"> I just</font>
+
+33
+00:01:16,710 --> 00:01:18,960
+<font color="#CCCCCC">haven't had time to</font><font color="#E5E5E5"> do anything</font><font color="#CCCCCC"> so I do</font>
+
+34
+00:01:18,960 --> 00:01:20,369
+<font color="#E5E5E5">feel a</font><font color="#CCCCCC"> little bit bad</font><font color="#E5E5E5"> because I was</font>
+
+35
+00:01:20,369 --> 00:01:22,500
+<font color="#E5E5E5">doing so well practicing every</font><font color="#CCCCCC"> day and</font>
+
+36
+00:01:22,500 --> 00:01:24,240
+then all<font color="#CCCCCC"> of a sudden I've stopped for a</font>
+
+37
+00:01:24,240 --> 00:01:26,729
+week<font color="#E5E5E5"> and I'm like oh god no no it's so</font>
+
+38
+00:01:26,729 --> 00:01:27,930
+hard to<font color="#CCCCCC"> get back into the flow of</font><font color="#E5E5E5"> that</font>
+
+39
+00:01:27,930 --> 00:01:30,659
+my practicing was using apps
+
+40
+00:01:30,659 --> 00:01:32,520
+<font color="#CCCCCC">I used a variety of apps I use duolingo</font>
+
+41
+00:01:32,520 --> 00:01:34,920
+<font color="#E5E5E5">I</font><font color="#CCCCCC"> used babble I've got a</font><font color="#E5E5E5"> journal book</font>
+
+42
+00:01:34,920 --> 00:01:35,820
+which I'm<font color="#E5E5E5"> going</font><font color="#CCCCCC"> to show</font><font color="#E5E5E5"> you in a minute</font>
+
+43
+00:01:35,820 --> 00:01:37,829
+<font color="#CCCCCC">I've obviously got Stephie</font><font color="#E5E5E5"> who's</font>
+
+44
+00:01:37,829 --> 00:01:38,490
+chairman
+
+45
+00:01:38,490 --> 00:01:40,350
+well you're not surprised the thing with
+
+46
+00:01:40,350 --> 00:01:43,170
+Stephie is I've never wanted<font color="#CCCCCC"> to bank on</font>
+
+47
+00:01:43,170 --> 00:01:44,790
+that<font color="#E5E5E5"> like it's really handy of course</font>
+
+48
+00:01:44,790 --> 00:01:46,259
+it's handy having<font color="#E5E5E5"> a girlfriend who is</font>
+
+49
+00:01:46,259 --> 00:01:48,390
+<font color="#E5E5E5">German</font><font color="#CCCCCC"> but I don't want</font><font color="#E5E5E5"> to annoy the</font>
+
+50
+00:01:48,390 --> 00:01:50,880
+<font color="#CCCCCC">shit out of her being like</font><font color="#E5E5E5"> hard</font><font color="#CCCCCC"> Stepford</font>
+
+51
+00:01:50,880 --> 00:01:52,860
+how do you share - how<font color="#E5E5E5"> do you say that</font>
+
+52
+00:01:52,860 --> 00:01:55,110
+and she's never once said it would annoy
+
+53
+00:01:55,110 --> 00:01:57,119
+her but I just<font color="#CCCCCC"> don't want</font><font color="#E5E5E5"> to deal I want</font>
+
+54
+00:01:57,119 --> 00:01:58,530
+to be able<font color="#E5E5E5"> to learn and then go to her</font>
+
+55
+00:01:58,530 --> 00:02:00,810
+<font color="#E5E5E5">and be</font><font color="#CCCCCC"> like look this is what I've</font><font color="#E5E5E5"> done</font>
+
+56
+00:02:00,810 --> 00:02:02,490
+which is what I have kind<font color="#CCCCCC"> of</font><font color="#E5E5E5"> in there</font>
+
+57
+00:02:02,490 --> 00:02:04,140
+<font color="#CCCCCC">yeah those</font><font color="#E5E5E5"> are the kind of things that</font>
+
+58
+00:02:04,140 --> 00:02:06,509
+I've<font color="#E5E5E5"> been</font><font color="#CCCCCC"> doing as of</font><font color="#E5E5E5"> recent taking some</font>
+
+59
+00:02:06,509 --> 00:02:08,848
+of<font color="#CCCCCC"> your guys tips</font><font color="#E5E5E5"> so many of you said</font><font color="#CCCCCC"> to</font>
+
+60
+00:02:08,848 --> 00:02:10,679
+watch<font color="#E5E5E5"> things in German I</font>
+
+61
+00:02:10,679 --> 00:02:12,840
+yeah<font color="#CCCCCC"> we've subtitles what's your</font>
+
+62
+00:02:12,840 --> 00:02:14,579
+favorite things in German<font color="#CCCCCC"> I did actually</font>
+
+63
+00:02:14,579 --> 00:02:16,500
+go away<font color="#E5E5E5"> and listen to some music because</font>
+
+64
+00:02:16,500 --> 00:02:17,969
+some people said listen<font color="#CCCCCC"> to some German</font>
+
+65
+00:02:17,969 --> 00:02:18,989
+<font color="#CCCCCC">music so anyway</font>
+
+66
+00:02:18,989 --> 00:02:20,280
+<font color="#CCCCCC">Stephanie's paid me and stuff before</font>
+
+67
+00:02:20,280 --> 00:02:22,379
+<font color="#E5E5E5">there's a guy called crow in Germany</font><font color="#CCCCCC"> as</font>
+
+68
+00:02:22,379 --> 00:02:23,700
+a rapper like<font color="#CCCCCC"> hip hop</font>
+
+69
+00:02:23,700 --> 00:02:27,060
+I'd like a variety<font color="#CCCCCC"> of music</font><font color="#E5E5E5"> and I had a</font>
+
+70
+00:02:27,060 --> 00:02:29,819
+little<font color="#CCCCCC"> listened</font><font color="#E5E5E5"> to him and what I don't</font>
+
+71
+00:02:29,819 --> 00:02:33,209
+understand 90% always saying I can piece
+
+72
+00:02:33,209 --> 00:02:35,549
+the<font color="#CCCCCC"> other some words</font><font color="#E5E5E5"> and I think if I</font>
+
+73
+00:02:35,549 --> 00:02:38,189
+was to like a song then it's gonna<font color="#CCCCCC"> make</font>
+
+74
+00:02:38,189 --> 00:02:40,920
+me want<font color="#CCCCCC"> to know</font><font color="#E5E5E5"> exactly what he's</font><font color="#CCCCCC"> saying</font>
+
+75
+00:02:40,920 --> 00:02:43,019
+in today's<font color="#CCCCCC"> update which is gonna be a</font>
+
+76
+00:02:43,019 --> 00:02:45,180
+bit hard because we still figured out
+
+77
+00:02:45,180 --> 00:02:47,669
+this process<font color="#CCCCCC"> of what</font><font color="#E5E5E5"> exactly I'm gonna</font>
+
+78
+00:02:47,669 --> 00:02:50,189
+be<font color="#E5E5E5"> showing</font><font color="#CCCCCC"> you and sharing with</font><font color="#E5E5E5"> you and</font>
+
+79
+00:02:50,189 --> 00:02:52,739
+how it's gonna work<font color="#CCCCCC"> but so I have this</font>
+
+80
+00:02:52,739 --> 00:02:55,620
+book<font color="#E5E5E5"> german verb trills and</font><font color="#CCCCCC"> i guess</font>
+
+81
+00:02:55,620 --> 00:02:59,010
+<font color="#E5E5E5">today is about verbs like a school</font>
+
+82
+00:02:59,010 --> 00:03:01,049
+<font color="#CCCCCC">teacher get your textbooks out everybody</font>
+
+83
+00:03:01,049 --> 00:03:03,719
+<font color="#E5E5E5">I bought this book when I was first</font><font color="#CCCCCC"> it</font>
+
+84
+00:03:03,719 --> 00:03:05,250
+<font color="#CCCCCC">was actually a year ago we went on a</font>
+
+85
+00:03:05,250 --> 00:03:07,469
+holiday<font color="#E5E5E5"> to st.</font><font color="#CCCCCC"> Lucia and</font><font color="#E5E5E5"> I was like I'm</font>
+
+86
+00:03:07,469 --> 00:03:09,659
+gonna<font color="#E5E5E5"> learn German so I can speak</font><font color="#CCCCCC"> with</font>
+
+87
+00:03:09,659 --> 00:03:11,189
+your family but I hadn't<font color="#E5E5E5"> really done</font>
+
+88
+00:03:11,189 --> 00:03:12,719
+anything and I just<font color="#CCCCCC"> went into</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> shop and</font>
+
+89
+00:03:12,719 --> 00:03:14,970
+<font color="#CCCCCC">bought this book</font><font color="#E5E5E5"> and I remember being on</font>
+
+90
+00:03:14,970 --> 00:03:17,010
+holiday turned<font color="#E5E5E5"> an open day and</font><font color="#CCCCCC"> I was</font>
+
+91
+00:03:17,010 --> 00:03:19,349
+<font color="#E5E5E5">just like holy fucking shit I don't</font>
+
+92
+00:03:19,349 --> 00:03:21,780
+<font color="#E5E5E5">understand a single</font><font color="#CCCCCC"> thing</font><font color="#E5E5E5"> about verbs or</font>
+
+93
+00:03:21,780 --> 00:03:23,159
+<font color="#E5E5E5">anything</font><font color="#CCCCCC"> is confusing</font><font color="#E5E5E5"> the hell out of me</font>
+
+94
+00:03:23,159 --> 00:03:25,650
+yeah the idea I never looked<font color="#E5E5E5"> it again</font>
+
+95
+00:03:25,650 --> 00:03:28,229
+it's just<font color="#E5E5E5"> sat on my shelf at home on my</font>
+
+96
+00:03:28,229 --> 00:03:31,290
+<font color="#E5E5E5">bookshelf</font><font color="#CCCCCC"> and obviously since a year</font><font color="#E5E5E5"> ago</font>
+
+97
+00:03:31,290 --> 00:03:33,780
+I have progressed a little<font color="#CCCCCC"> bit in German</font>
+
+98
+00:03:33,780 --> 00:03:36,780
+understanding and I forgot I<font color="#CCCCCC"> had this</font>
+
+99
+00:03:36,780 --> 00:03:38,639
+found<font color="#CCCCCC"> it</font><font color="#E5E5E5"> had a flipped through and I was</font>
+
+100
+00:03:38,639 --> 00:03:41,370
+<font color="#E5E5E5">like you know what this is actually kind</font>
+
+101
+00:03:41,370 --> 00:03:43,199
+of helpful<font color="#CCCCCC"> because there's different</font>
+
+102
+00:03:43,199 --> 00:03:44,970
+sections<font color="#CCCCCC"> of the book</font><font color="#E5E5E5"> but it's all to do</font>
+
+103
+00:03:44,970 --> 00:03:47,489
+with the<font color="#E5E5E5"> verb</font><font color="#CCCCCC"> so I'm only</font><font color="#E5E5E5"> right at the</font>
+
+104
+00:03:47,489 --> 00:03:49,019
+beginning<font color="#CCCCCC"> I've done part</font><font color="#E5E5E5"> one which is</font>
+
+105
+00:03:49,019 --> 00:03:52,409
+all<font color="#E5E5E5"> about the present tense verbs and I</font>
+
+106
+00:03:52,409 --> 00:03:53,849
+feel like I have actually learned quite
+
+107
+00:03:53,849 --> 00:03:56,220
+<font color="#E5E5E5">a lot from using this so at the back</font>
+
+108
+00:03:56,220 --> 00:03:58,049
+there's an<font color="#CCCCCC"> answer key</font><font color="#E5E5E5"> so it kind of</font>
+
+109
+00:03:58,049 --> 00:04:00,239
+breaks down<font color="#E5E5E5"> like the first thing it</font>
+
+110
+00:04:00,239 --> 00:04:02,340
+talks about the infinitive so right here
+
+111
+00:04:02,340 --> 00:04:06,870
+is the infinitive so here's<font color="#E5E5E5"> another</font>
+
+112
+00:04:06,870 --> 00:04:08,069
+<font color="#E5E5E5">thing I'm</font><font color="#CCCCCC"> going to break out and</font>
+
+113
+00:04:08,069 --> 00:04:10,530
+surprise you with<font color="#E5E5E5"> my</font><font color="#CCCCCC"> English knowledge</font>
+
+114
+00:04:10,530 --> 00:04:14,009
+<font color="#E5E5E5">of most of these</font><font color="#CCCCCC"> things is awful</font>
+
+115
+00:04:14,009 --> 00:04:15,840
+<font color="#E5E5E5">so for example</font><font color="#CCCCCC"> I never</font><font color="#E5E5E5"> really knew what</font>
+
+116
+00:04:15,840 --> 00:04:16,459
+the infinitive
+
+117
+00:04:16,459 --> 00:04:19,310
+in English<font color="#CCCCCC"> I still don't</font><font color="#E5E5E5"> know when it's</font>
+
+118
+00:04:19,310 --> 00:04:21,319
+talking about the future<font color="#E5E5E5"> present and</font>
+
+119
+00:04:21,319 --> 00:04:23,150
+there's all these<font color="#CCCCCC"> different terms that I</font>
+
+120
+00:04:23,150 --> 00:04:25,430
+just<font color="#E5E5E5"> like the subjective and conditional</font>
+
+121
+00:04:25,430 --> 00:04:26,210
+moods
+
+122
+00:04:26,210 --> 00:04:29,060
+I don't<font color="#CCCCCC"> know lies in English so I have</font>
+
+123
+00:04:29,060 --> 00:04:30,590
+to kind<font color="#CCCCCC"> of figure out what that means</font>
+
+124
+00:04:30,590 --> 00:04:33,530
+and<font color="#E5E5E5"> then put it into German so in German</font>
+
+125
+00:04:33,530 --> 00:04:36,680
+the infinitive verb is kind of like
+
+126
+00:04:36,680 --> 00:04:40,550
+<font color="#CCCCCC">Harbin</font><font color="#E5E5E5"> yeah so Harbin translates to</font>
+
+127
+00:04:40,550 --> 00:04:43,220
+having and yes its infinitive because
+
+128
+00:04:43,220 --> 00:04:44,630
+that's just I<font color="#E5E5E5"> don't know how to describe</font>
+
+129
+00:04:44,630 --> 00:04:47,210
+<font color="#E5E5E5">the infinitive but it's just on its own</font>
+
+130
+00:04:47,210 --> 00:04:49,220
+<font color="#CCCCCC">that is what the word means</font>
+
+131
+00:04:49,220 --> 00:04:51,169
+yeah and then once you take<font color="#CCCCCC"> that</font><font color="#E5E5E5"> into</font>
+
+132
+00:04:51,169 --> 00:04:54,020
+context<font color="#E5E5E5"> you know so if you want to say I</font>
+
+133
+00:04:54,020 --> 00:04:57,410
+have<font color="#E5E5E5"> its if</font><font color="#CCCCCC"> harbor</font><font color="#E5E5E5"> if you want to say</font>
+
+134
+00:04:57,410 --> 00:05:00,560
+you<font color="#E5E5E5"> have it du hast although</font><font color="#CCCCCC"> Harbin</font><font color="#E5E5E5"> I</font>
+
+135
+00:05:00,560 --> 00:05:03,320
+think is not a regular verb it's an
+
+136
+00:05:03,320 --> 00:05:06,860
+irregular<font color="#CCCCCC"> verb so let</font><font color="#E5E5E5"> me find okay</font>
+
+137
+00:05:06,860 --> 00:05:10,159
+trinken yeah let's go trinken trinken<font color="#E5E5E5"> is</font>
+
+138
+00:05:10,159 --> 00:05:13,070
+to drink<font color="#E5E5E5"> so the first thing I had to</font>
+
+139
+00:05:13,070 --> 00:05:16,460
+learn<font color="#E5E5E5"> was the correct endings</font><font color="#CCCCCC"> based off</font>
+
+140
+00:05:16,460 --> 00:05:18,949
+of singular plural<font color="#CCCCCC"> you know like you</font>
+
+141
+00:05:18,949 --> 00:05:21,289
+guys black et cetera<font color="#CCCCCC"> so which</font><font color="#E5E5E5"> are kind</font>
+
+142
+00:05:21,289 --> 00:05:24,759
+of<font color="#CCCCCC"> knew before I always knew like a</font>
+
+143
+00:05:24,759 --> 00:05:28,550
+drinker<font color="#CCCCCC"> so you</font><font color="#E5E5E5"> take off the</font><font color="#CCCCCC"> Infinity if</font>
+
+144
+00:05:28,550 --> 00:05:31,310
+you take the en off the<font color="#E5E5E5"> ending and</font><font color="#CCCCCC"> 4i</font>
+
+145
+00:05:31,310 --> 00:05:35,360
+you<font color="#E5E5E5"> just add the e so if trinka do</font>
+
+146
+00:05:35,360 --> 00:05:38,150
+drinks<font color="#E5E5E5"> so you always</font><font color="#CCCCCC"> remove the en and</font>
+
+147
+00:05:38,150 --> 00:05:40,490
+<font color="#E5E5E5">you just have the st that do which is</font>
+
+148
+00:05:40,490 --> 00:05:47,539
+you singular and<font color="#CCCCCC"> z-s he/she/it so third</font>
+
+149
+00:05:47,539 --> 00:05:49,969
+person is you take off the en again and
+
+150
+00:05:49,969 --> 00:05:52,340
+you<font color="#E5E5E5"> just have a</font><font color="#CCCCCC"> tea dough trinkt air</font>
+
+151
+00:05:52,340 --> 00:05:57,039
+<font color="#CCCCCC">drink</font><font color="#E5E5E5"> he drinks</font><font color="#CCCCCC"> then we have V so V</font>
+
+152
+00:05:57,039 --> 00:06:00,979
+<font color="#CCCCCC">drinkin v is we so it kind of stays the</font>
+
+153
+00:06:00,979 --> 00:06:02,539
+same as the infinitive<font color="#E5E5E5"> most of the time</font>
+
+154
+00:06:02,539 --> 00:06:04,550
+I<font color="#E5E5E5"> think this is what I've</font><font color="#CCCCCC"> learned so far</font>
+
+155
+00:06:04,550 --> 00:06:06,560
+remember I'm<font color="#CCCCCC"> not a teacher</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> just</font>
+
+156
+00:06:06,560 --> 00:06:08,690
+my<font color="#E5E5E5"> time sharing my journey of you Soviet</font>
+
+157
+00:06:08,690 --> 00:06:12,759
+<font color="#CCCCCC">rincon then you have ear so ihr ear</font>
+
+158
+00:06:12,759 --> 00:06:17,150
+trinkt it follows the same pattern<font color="#CCCCCC"> as z</font>
+
+159
+00:06:17,150 --> 00:06:21,289
+s and that<font color="#E5E5E5"> is for like what is it for is</font>
+
+160
+00:06:21,289 --> 00:06:23,599
+for like you guys but plural is for you
+
+161
+00:06:23,599 --> 00:06:26,029
+but plural so if it if<font color="#E5E5E5"> those two and I</font>
+
+162
+00:06:26,029 --> 00:06:27,420
+<font color="#E5E5E5">was like you guys</font>
+
+163
+00:06:27,420 --> 00:06:30,630
+it's like<font color="#E5E5E5"> ear</font><font color="#CCCCCC"> drink</font><font color="#E5E5E5"> yes a second</font><font color="#CCCCCC"> person</font>
+
+164
+00:06:30,630 --> 00:06:32,760
+<font color="#CCCCCC">and the final</font><font color="#E5E5E5"> one is</font><font color="#CCCCCC"> the third</font><font color="#E5E5E5"> person</font>
+
+165
+00:06:32,760 --> 00:06:34,950
+plural which is Z again which is a bit
+
+166
+00:06:34,950 --> 00:06:37,950
+confusing<font color="#CCCCCC"> in German because Z which is</font><font color="#E5E5E5"> s</font>
+
+167
+00:06:37,950 --> 00:06:41,580
+<font color="#CCCCCC">ie which obviously means she</font><font color="#E5E5E5"> D is also</font>
+
+168
+00:06:41,580 --> 00:06:46,020
+plural in German so plural for like<font color="#CCCCCC"> them</font>
+
+169
+00:06:46,020 --> 00:06:49,410
+yeah<font color="#CCCCCC"> so st. but in verbs it's quite easy</font>
+
+170
+00:06:49,410 --> 00:06:51,990
+<font color="#E5E5E5">because</font><font color="#CCCCCC"> Z</font><font color="#E5E5E5"> trinken so it stays the same</font>
+
+171
+00:06:51,990 --> 00:06:53,460
+as the infinitive again<font color="#CCCCCC"> it's anyway</font>
+
+172
+00:06:53,460 --> 00:06:55,950
+that's kind of I properly learned that
+
+173
+00:06:55,950 --> 00:06:57,630
+<font color="#E5E5E5">because before</font><font color="#CCCCCC"> I just knew a little</font><font color="#E5E5E5"> bit</font>
+
+174
+00:06:57,630 --> 00:06:59,970
+like I knew<font color="#E5E5E5"> it and then you do but I</font>
+
+175
+00:06:59,970 --> 00:07:01,500
+didn't really<font color="#E5E5E5"> know</font><font color="#CCCCCC"> anything else</font><font color="#E5E5E5"> but as</font>
+
+176
+00:07:01,500 --> 00:07:03,540
+soon<font color="#E5E5E5"> as I started with the verbs and the</font>
+
+177
+00:07:03,540 --> 00:07:04,950
+reason I went<font color="#E5E5E5"> to</font><font color="#CCCCCC"> learn verbs by the way</font>
+
+178
+00:07:04,950 --> 00:07:07,650
+is<font color="#CCCCCC"> because I feel like</font><font color="#E5E5E5"> most things</font><font color="#CCCCCC"> you</font>
+
+179
+00:07:07,650 --> 00:07:09,870
+want<font color="#E5E5E5"> to talk about in simple terms</font>
+
+180
+00:07:09,870 --> 00:07:13,910
+involve<font color="#E5E5E5"> of I'm sitting filming a video</font>
+
+181
+00:07:13,910 --> 00:07:16,350
+<font color="#E5E5E5">walking</font><font color="#CCCCCC"> to the shop where I mean I'm</font>
+
+182
+00:07:16,350 --> 00:07:18,000
+just<font color="#E5E5E5"> describing English verbs it but</font>
+
+183
+00:07:18,000 --> 00:07:20,850
+most basic things involve verbs<font color="#E5E5E5"> so I</font>
+
+184
+00:07:20,850 --> 00:07:22,830
+thought if I<font color="#E5E5E5"> could learn grammatically</font>
+
+185
+00:07:22,830 --> 00:07:25,320
+the verb structure correctly<font color="#E5E5E5"> that's</font>
+
+186
+00:07:25,320 --> 00:07:27,260
+going to<font color="#E5E5E5"> help me fill in the</font><font color="#CCCCCC"> blanks with</font>
+
+187
+00:07:27,260 --> 00:07:30,120
+<font color="#E5E5E5">sort of the filling words to begin with</font>
+
+188
+00:07:30,120 --> 00:07:31,740
+<font color="#CCCCCC">so it's verb drills because</font><font color="#E5E5E5"> for example</font>
+
+189
+00:07:31,740 --> 00:07:33,450
+<font color="#CCCCCC">is</font><font color="#E5E5E5"> like</font><font color="#CCCCCC"> right the present tense of</font><font color="#E5E5E5"> the</font>
+
+190
+00:07:33,450 --> 00:07:37,170
+<font color="#E5E5E5">following verbs so o</font><font color="#CCCCCC"> holdren which is</font>
+
+191
+00:07:37,170 --> 00:07:42,420
+hearing a hora<font color="#E5E5E5"> do host</font><font color="#CCCCCC"> z hot air</font><font color="#E5E5E5"> hot</font>
+
+192
+00:07:42,420 --> 00:07:44,370
+I've given myself a<font color="#CCCCCC"> little</font><font color="#E5E5E5"> tips you can</font>
+
+193
+00:07:44,370 --> 00:07:46,560
+<font color="#E5E5E5">see</font><font color="#CCCCCC"> Barden two-bath and</font><font color="#E5E5E5"> went to learn at</font>
+
+194
+00:07:46,560 --> 00:07:48,600
+the beginning I was writing so Barden is
+
+195
+00:07:48,600 --> 00:07:51,870
+two bars<font color="#CCCCCC"> it'sin</font><font color="#E5E5E5"> is to sit because that</font>
+
+196
+00:07:51,870 --> 00:07:53,820
+helped me kind<font color="#E5E5E5"> of understand and then I</font>
+
+197
+00:07:53,820 --> 00:07:56,010
+had to do things<font color="#CCCCCC"> like this so last</font><font color="#E5E5E5"> math</font>
+
+198
+00:07:56,010 --> 00:07:58,440
+<font color="#CCCCCC">on pool and roof</font><font color="#E5E5E5"> and you have to sort of</font>
+
+199
+00:07:58,440 --> 00:08:00,540
+rearrange it into the right way so<font color="#CCCCCC"> Paul</font>
+
+200
+00:08:00,540 --> 00:08:04,410
+and odo<font color="#CCCCCC"> Lam make sense</font><font color="#E5E5E5"> then I did</font>
+
+201
+00:08:04,410 --> 00:08:06,360
+<font color="#E5E5E5">present tense of irregular verbs</font><font color="#CCCCCC"> this</font>
+
+202
+00:08:06,360 --> 00:08:08,490
+was quite annoying<font color="#CCCCCC"> because Germany has a</font>
+
+203
+00:08:08,490 --> 00:08:10,710
+lot of<font color="#E5E5E5"> irregular</font><font color="#CCCCCC"> verbs so the main</font><font color="#E5E5E5"> part</font>
+
+204
+00:08:10,710 --> 00:08:12,330
+of this video<font color="#CCCCCC"> I</font><font color="#E5E5E5"> even wanted to get to</font>
+
+205
+00:08:12,330 --> 00:08:14,220
+<font color="#E5E5E5">because I don't we just want to sit here</font>
+
+206
+00:08:14,220 --> 00:08:15,870
+and<font color="#E5E5E5"> bore you by like reading through</font>
+
+207
+00:08:15,870 --> 00:08:17,250
+<font color="#E5E5E5">this verb but I don't think that's</font>
+
+208
+00:08:17,250 --> 00:08:19,110
+really gonna do<font color="#E5E5E5"> anything but I did</font><font color="#CCCCCC"> a</font>
+
+209
+00:08:19,110 --> 00:08:22,710
+<font color="#E5E5E5">little test</font><font color="#CCCCCC"> Steffi she tested me to see</font>
+
+210
+00:08:22,710 --> 00:08:24,750
+if I could<font color="#E5E5E5"> write down I don't know how</font>
+
+211
+00:08:24,750 --> 00:08:27,420
+much like 30 or 35 verbs<font color="#E5E5E5"> in the</font>
+
+212
+00:08:27,420 --> 00:08:29,370
+<font color="#E5E5E5">infinitive form so not like go</font><font color="#CCCCCC"> through</font>
+
+213
+00:08:29,370 --> 00:08:30,840
+every single<font color="#CCCCCC"> one but</font><font color="#E5E5E5"> just write down the</font>
+
+214
+00:08:30,840 --> 00:08:32,280
+verbs and translate<font color="#E5E5E5"> them into</font><font color="#CCCCCC"> English</font>
+
+215
+00:08:32,280 --> 00:08:33,990
+and when she said<font color="#CCCCCC"> that was like holy</font>
+
+216
+00:08:33,990 --> 00:08:34,470
+<font color="#CCCCCC">shit</font>
+
+217
+00:08:34,470 --> 00:08:36,870
+sounds like<font color="#E5E5E5"> a lot but how'd it go and I</font>
+
+218
+00:08:36,870 --> 00:08:39,450
+did alright<font color="#CCCCCC"> it is alright yeah this was</font>
+
+219
+00:08:39,450 --> 00:08:41,130
+from complete<font color="#CCCCCC"> memory so essentially</font>
+
+220
+00:08:41,130 --> 00:08:43,080
+these are<font color="#E5E5E5"> the verbs that</font><font color="#CCCCCC"> I've learned</font>
+
+221
+00:08:43,080 --> 00:08:44,340
+<font color="#CCCCCC">okay here we go</font>
+
+222
+00:08:44,340 --> 00:08:45,900
+<font color="#E5E5E5">ignore what</font><font color="#CCCCCC"> this piece</font><font color="#E5E5E5"> of paper was on</font>
+
+223
+00:08:45,900 --> 00:08:47,970
+by the way I went to draw a tree<font color="#CCCCCC"> at</font>
+
+224
+00:08:47,970 --> 00:08:50,100
+first and then I<font color="#CCCCCC"> got creative and</font>
+
+225
+00:08:50,100 --> 00:08:52,290
+started<font color="#E5E5E5"> writing my name in graffiti</font>
+
+226
+00:08:52,290 --> 00:08:55,230
+<font color="#E5E5E5">text</font><font color="#CCCCCC"> alright here we go spielen is</font>
+
+227
+00:08:55,230 --> 00:08:59,670
+playing or to play<font color="#E5E5E5"> vafan living and then</font>
+
+228
+00:08:59,670 --> 00:09:01,080
+here is where<font color="#CCCCCC"> Stephie's come in and</font>
+
+229
+00:09:01,080 --> 00:09:03,180
+corrected it<font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> because my spelling</font><font color="#CCCCCC"> is</font>
+
+230
+00:09:03,180 --> 00:09:06,180
+not that great<font color="#CCCCCC"> Garen going laugh and</font>
+
+231
+00:09:06,180 --> 00:09:10,200
+waking swimming swimming<font color="#E5E5E5"> zhehan seeing</font>
+
+232
+00:09:10,200 --> 00:09:13,020
+common coming<font color="#E5E5E5"> Kenan</font><font color="#CCCCCC"> no in</font><font color="#E5E5E5"> essen eating</font>
+
+233
+00:09:13,020 --> 00:09:18,200
+drinking drinking<font color="#CCCCCC"> Ronon not one bomb</font>
+
+234
+00:09:18,200 --> 00:09:22,500
+<font color="#CCCCCC">huran hearing scream</font><font color="#E5E5E5"> Sriman</font><font color="#CCCCCC"> tree</font><font color="#E5E5E5"> burn</font>
+
+235
+00:09:22,500 --> 00:09:26,610
+try burn<font color="#CCCCCC"> back and baking coffin cooking</font>
+
+236
+00:09:26,610 --> 00:09:30,110
+this is was hard in<font color="#E5E5E5"> German cotton is</font>
+
+237
+00:09:30,110 --> 00:09:37,050
+cooking but<font color="#E5E5E5"> cookin is watching so coming</font>
+
+238
+00:09:37,050 --> 00:09:39,570
+from English<font color="#CCCCCC"> clop see cooking is cooking</font>
+
+239
+00:09:39,570 --> 00:09:41,580
+<font color="#E5E5E5">yeah so</font><font color="#CCCCCC"> something that's cooking but</font>
+
+240
+00:09:41,580 --> 00:09:44,610
+anyway but<font color="#E5E5E5"> silent is paying</font><font color="#CCCCCC"> kalfa and</font>
+
+241
+00:09:44,610 --> 00:09:47,330
+<font color="#CCCCCC">it's buying muffin is doings it'sin</font><font color="#E5E5E5"> is</font>
+
+242
+00:09:47,330 --> 00:09:50,250
+<font color="#CCCCCC">sipping schlaf and it's sleeping</font><font color="#E5E5E5"> and so</font>
+
+243
+00:09:50,250 --> 00:09:53,400
+on and<font color="#E5E5E5"> I think I got 245 so I was pretty</font>
+
+244
+00:09:53,400 --> 00:09:55,920
+<font color="#E5E5E5">happy with that if I'm honest cuz I had</font>
+
+245
+00:09:55,920 --> 00:09:58,410
+no idea I knew that<font color="#E5E5E5"> many verbs</font><font color="#CCCCCC"> and I</font>
+
+246
+00:09:58,410 --> 00:10:00,000
+feel like it's actually<font color="#E5E5E5"> a little bit of</font>
+
+247
+00:10:00,000 --> 00:10:02,400
+progress<font color="#E5E5E5"> in my</font><font color="#CCCCCC"> learning because it was a</font>
+
+248
+00:10:02,400 --> 00:10:04,170
+little test we had these<font color="#E5E5E5"> words and I had</font>
+
+249
+00:10:04,170 --> 00:10:08,610
+to write them<font color="#CCCCCC"> down</font><font color="#E5E5E5"> and I passed so yeah</font>
+
+250
+00:10:08,610 --> 00:10:10,860
+I just<font color="#E5E5E5"> kind of wanted to share some of</font>
+
+251
+00:10:10,860 --> 00:10:13,050
+<font color="#E5E5E5">what I've been doing</font><font color="#CCCCCC"> with you guys</font><font color="#E5E5E5"> like</font>
+
+252
+00:10:13,050 --> 00:10:14,820
+I<font color="#E5E5E5"> said we still need to figure out</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> way</font>
+
+253
+00:10:14,820 --> 00:10:16,620
+<font color="#CCCCCC">of doing</font><font color="#E5E5E5"> it I saw one comment saying</font>
+
+254
+00:10:16,620 --> 00:10:19,020
+something like<font color="#CCCCCC"> downloaded GCSE paper</font><font color="#E5E5E5"> and</font>
+
+255
+00:10:19,020 --> 00:10:20,910
+see if you can<font color="#CCCCCC"> complete that</font><font color="#E5E5E5"> but one I</font>
+
+256
+00:10:20,910 --> 00:10:22,620
+<font color="#CCCCCC">don't</font><font color="#E5E5E5"> know if my German is anywhere near</font>
+
+257
+00:10:22,620 --> 00:10:24,420
+<font color="#E5E5E5">that level yet - I don't</font><font color="#CCCCCC"> know if that's</font>
+
+258
+00:10:24,420 --> 00:10:26,010
+just<font color="#CCCCCC"> boring because I want to make it</font>
+
+259
+00:10:26,010 --> 00:10:28,710
+fun as well so we had<font color="#E5E5E5"> another</font><font color="#CCCCCC"> idea that</font>
+
+260
+00:10:28,710 --> 00:10:31,740
+<font color="#E5E5E5">like obviously</font><font color="#CCCCCC"> we</font><font color="#E5E5E5"> can find online sort</font>
+
+261
+00:10:31,740 --> 00:10:34,110
+of German<font color="#E5E5E5"> tests in bite-sized pieces and</font>
+
+262
+00:10:34,110 --> 00:10:36,960
+Matt can test me on<font color="#E5E5E5"> those and I can't so</font>
+
+263
+00:10:36,960 --> 00:10:38,460
+we can maybe do<font color="#CCCCCC"> it that way but</font><font color="#E5E5E5"> I feel</font>
+
+264
+00:10:38,460 --> 00:10:40,470
+<font color="#CCCCCC">like if I sit down at beginning and talk</font>
+
+265
+00:10:40,470 --> 00:10:41,520
+<font color="#E5E5E5">about what I've learned what I found</font>
+
+266
+00:10:41,520 --> 00:10:42,040
+hard
+
+267
+00:10:42,040 --> 00:10:45,759
+and then we move into some sort of test
+
+268
+00:10:45,759 --> 00:10:47,560
+<font color="#CCCCCC">that would</font><font color="#E5E5E5"> be the good thing so yeah the</font>
+
+269
+00:10:47,560 --> 00:10:49,180
+hard thing<font color="#E5E5E5"> with verbs like I said is</font>
+
+270
+00:10:49,180 --> 00:10:51,850
+there are<font color="#E5E5E5"> just so many irregular verb</font><font color="#CCCCCC"> so</font>
+
+271
+00:10:51,850 --> 00:10:53,649
+what I<font color="#E5E5E5"> told you at the beginning about</font>
+
+272
+00:10:53,649 --> 00:10:55,300
+the<font color="#E5E5E5"> infinitive not change that's for</font>
+
+273
+00:10:55,300 --> 00:10:57,670
+regular<font color="#E5E5E5"> verbs</font><font color="#CCCCCC"> there are so many changes</font>
+
+274
+00:10:57,670 --> 00:11:00,490
+<font color="#CCCCCC">when</font><font color="#E5E5E5"> it comes to irregular</font><font color="#CCCCCC"> verbs so so</font>
+
+275
+00:11:00,490 --> 00:11:02,680
+learn things like verbs with separable
+
+276
+00:11:02,680 --> 00:11:05,560
+prefixes in<font color="#CCCCCC"> the present tense</font><font color="#E5E5E5"> do you</font>
+
+277
+00:11:05,560 --> 00:11:06,699
+understand that in English<font color="#E5E5E5"> because I</font>
+
+278
+00:11:06,699 --> 00:11:08,949
+didn't that basically means what Germans
+
+279
+00:11:08,949 --> 00:11:11,050
+kind of do is they put two words into
+
+280
+00:11:11,050 --> 00:11:14,589
+one verb for<font color="#CCCCCC"> example I'm Calvin yeah so</font>
+
+281
+00:11:14,589 --> 00:11:17,050
+<font color="#CCCCCC">Calvin is I kind of know it's like</font>
+
+282
+00:11:17,050 --> 00:11:21,069
+buying<font color="#E5E5E5"> but I I'm Calvin is to buy or to</font>
+
+283
+00:11:21,069 --> 00:11:23,560
+shop<font color="#E5E5E5"> so then when</font><font color="#CCCCCC"> you use</font><font color="#E5E5E5"> that verb in a</font>
+
+284
+00:11:23,560 --> 00:11:26,829
+sentence<font color="#CCCCCC"> you split it but basically</font><font color="#E5E5E5"> I'm</font>
+
+285
+00:11:26,829 --> 00:11:29,410
+Calvin<font color="#CCCCCC"> which is one word becomes two</font>
+
+286
+00:11:29,410 --> 00:11:33,040
+words<font color="#E5E5E5"> and Calvin or</font><font color="#CCCCCC"> if you kalfa however</font>
+
+287
+00:11:33,040 --> 00:11:35,740
+you use<font color="#E5E5E5"> it in the sentence it's kind of</font>
+
+288
+00:11:35,740 --> 00:11:37,750
+as normal<font color="#E5E5E5"> and then at the end of the</font>
+
+289
+00:11:37,750 --> 00:11:39,819
+sentence<font color="#CCCCCC"> right the end you'd have</font><font color="#E5E5E5"> I'm</font>
+
+290
+00:11:39,819 --> 00:11:41,649
+which is the beginning<font color="#CCCCCC"> of</font><font color="#E5E5E5"> that word</font>
+
+291
+00:11:41,649 --> 00:11:43,870
+<font color="#E5E5E5">anyway what was I</font><font color="#CCCCCC"> going to</font><font color="#E5E5E5"> say</font>
+
+292
+00:11:43,870 --> 00:11:45,339
+<font color="#CCCCCC">I just wanted to give</font><font color="#E5E5E5"> you an example of</font>
+
+293
+00:11:45,339 --> 00:11:47,560
+<font color="#E5E5E5">an irregular</font><font color="#CCCCCC"> verb because really fucking</font>
+
+294
+00:11:47,560 --> 00:11:49,209
+hard<font color="#E5E5E5"> so the thing with the irregular</font>
+
+295
+00:11:49,209 --> 00:11:51,850
+<font color="#CCCCCC">verbs</font><font color="#E5E5E5"> is it's not like you have regular</font>
+
+296
+00:11:51,850 --> 00:11:53,889
+verbs and irregular verbs<font color="#CCCCCC"> and that's it</font>
+
+297
+00:11:53,889 --> 00:11:56,260
+you have to learn<font color="#E5E5E5"> a rule one for one one</font>
+
+298
+00:11:56,260 --> 00:11:58,449
+for<font color="#E5E5E5"> the other in</font><font color="#CCCCCC"> within</font><font color="#E5E5E5"> the irregular</font>
+
+299
+00:11:58,449 --> 00:12:00,310
+<font color="#CCCCCC">verbs that fools many different rules</font>
+
+300
+00:12:00,310 --> 00:12:02,920
+and<font color="#E5E5E5"> this is one struggling with so based</font>
+
+301
+00:12:02,920 --> 00:12:05,319
+on how a verb ends gives it a different
+
+302
+00:12:05,319 --> 00:12:08,500
+bra so for example<font color="#CCCCCC"> kibum which is to</font>
+
+303
+00:12:08,500 --> 00:12:10,660
+give like<font color="#CCCCCC"> giving following the normal</font>
+
+304
+00:12:10,660 --> 00:12:13,060
+version you would remove the en and then
+
+305
+00:12:13,060 --> 00:12:15,420
+<font color="#E5E5E5">I went</font><font color="#CCCCCC"> through the st. you add an e adam</font>
+
+306
+00:12:15,420 --> 00:12:18,970
+st at e et cetera<font color="#E5E5E5"> by it goes like this</font>
+
+307
+00:12:18,970 --> 00:12:23,019
+e<font color="#CCCCCC"> gaiba which is the same do get so you</font>
+
+308
+00:12:23,019 --> 00:12:24,430
+have to learn<font color="#E5E5E5"> that there's a vowel</font>
+
+309
+00:12:24,430 --> 00:12:28,269
+change so from an e to an<font color="#CCCCCC"> I so</font><font color="#E5E5E5"> Gibbon</font>
+
+310
+00:12:28,269 --> 00:12:31,360
+yeah<font color="#CCCCCC"> the e changes to an I so then</font><font color="#E5E5E5"> it's</font>
+
+311
+00:12:31,360 --> 00:12:34,959
+do gift a gift and then<font color="#E5E5E5"> it just goes</font>
+
+312
+00:12:34,959 --> 00:12:39,819
+<font color="#E5E5E5">back</font><font color="#CCCCCC"> to the normal vir jibon ear get Z</font>
+
+313
+00:12:39,819 --> 00:12:42,339
+given but there's no like real
+
+314
+00:12:42,339 --> 00:12:44,139
+understanding<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you just have to</font>
+
+315
+00:12:44,139 --> 00:12:46,000
+learn the reasons why it does that<font color="#CCCCCC"> and</font>
+
+316
+00:12:46,000 --> 00:12:47,589
+<font color="#E5E5E5">that's what I find really hard because</font>
+
+317
+00:12:47,589 --> 00:12:49,600
+there's<font color="#CCCCCC"> so many like like I said that</font>
+
+318
+00:12:49,600 --> 00:12:50,380
+<font color="#E5E5E5">vow changes</font>
+
+319
+00:12:50,380 --> 00:12:53,260
+from interview<font color="#E5E5E5"> to an</font><font color="#CCCCCC"> i but</font><font color="#E5E5E5"> then yeah</font><font color="#CCCCCC"> so</font>
+
+320
+00:12:53,260 --> 00:12:56,200
+listen to read it changes from a vow
+
+321
+00:12:56,200 --> 00:13:00,850
+<font color="#E5E5E5">from the e to an IE</font><font color="#CCCCCC"> so it's</font><font color="#E5E5E5"> e</font><font color="#CCCCCC"> Lisa same</font>
+
+322
+00:13:00,850 --> 00:13:07,930
+no change<font color="#CCCCCC"> do</font><font color="#E5E5E5"> lysed do do least</font><font color="#CCCCCC"> L iest</font>
+
+323
+00:13:07,930 --> 00:13:11,770
+<font color="#CCCCCC">air least</font><font color="#E5E5E5"> it's the same so</font><font color="#CCCCCC"> that is the</font>
+
+324
+00:13:11,770 --> 00:13:14,710
+same as do before<font color="#CCCCCC"> vir Leeza and</font><font color="#E5E5E5"> then it</font>
+
+325
+00:13:14,710 --> 00:13:15,550
+goes back<font color="#CCCCCC"> to</font><font color="#E5E5E5"> normal</font>
+
+326
+00:13:15,550 --> 00:13:18,280
+<font color="#CCCCCC">alright here's another</font><font color="#E5E5E5"> one</font><font color="#CCCCCC"> a vow change</font>
+
+327
+00:13:18,280 --> 00:13:21,160
+from an a to an<font color="#E5E5E5"> I don't know how you</font>
+
+328
+00:13:21,160 --> 00:13:22,840
+call it Joe<font color="#E5E5E5"> in the a with the two dots</font>
+
+329
+00:13:22,840 --> 00:13:27,070
+which is like<font color="#E5E5E5"> and and how</font><font color="#CCCCCC"> does</font><font color="#E5E5E5"> it change</font>
+
+330
+00:13:27,070 --> 00:13:30,310
+into<font color="#E5E5E5"> an air a to an how's the pronounce</font>
+
+331
+00:13:30,310 --> 00:13:32,200
+<font color="#CCCCCC">it how do you pronounce that the letter</font>
+
+332
+00:13:32,200 --> 00:13:41,350
+<font color="#E5E5E5">the a with the dogs it's like an how you</font>
+
+333
+00:13:41,350 --> 00:13:47,380
+pronounce the English<font color="#E5E5E5"> so like you're at</font>
+
+334
+00:13:47,380 --> 00:13:53,950
+<font color="#E5E5E5">the dentist and</font><font color="#CCCCCC"> you're going so far l'm</font>
+
+335
+00:13:53,950 --> 00:13:57,040
+right to<font color="#CCCCCC"> full falling the vowel changes</font>
+
+336
+00:13:57,040 --> 00:14:00,010
+from the a<font color="#E5E5E5"> to this a with a hat on there</font>
+
+337
+00:14:00,010 --> 00:14:02,820
+so I'm going<font color="#E5E5E5"> to call</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> if father do</font>
+
+338
+00:14:02,820 --> 00:14:06,420
+<font color="#E5E5E5">face first</font>
+
+339
+00:14:07,380 --> 00:14:10,690
+very<font color="#E5E5E5"> hard is</font><font color="#CCCCCC"> very hard</font><font color="#E5E5E5"> but these are any</font>
+
+340
+00:14:10,690 --> 00:14:12,460
+some examples<font color="#CCCCCC"> if I was to then show you</font>
+
+341
+00:14:12,460 --> 00:14:15,400
+so I'm just<font color="#CCCCCC"> giving you one place</font><font color="#E5E5E5"> example</font>
+
+342
+00:14:15,400 --> 00:14:17,860
+right<font color="#E5E5E5"> so it tells you how</font><font color="#CCCCCC"> change</font><font color="#E5E5E5"> from</font>
+
+343
+00:14:17,860 --> 00:14:21,010
+<font color="#CCCCCC">eight and then it's a whole list of all</font>
+
+344
+00:14:21,010 --> 00:14:24,370
+<font color="#CCCCCC">of these verbs</font><font color="#E5E5E5"> fit into that rule of</font>
+
+345
+00:14:24,370 --> 00:14:27,730
+changing that a into the a with the
+
+346
+00:14:27,730 --> 00:14:29,800
+point like<font color="#CCCCCC"> that</font><font color="#E5E5E5"> so it's like you have</font><font color="#CCCCCC"> to</font>
+
+347
+00:14:29,800 --> 00:14:33,010
+not only<font color="#E5E5E5"> learn like it's like that but</font>
+
+348
+00:14:33,010 --> 00:14:34,900
+<font color="#E5E5E5">you have</font><font color="#CCCCCC"> to learn that</font><font color="#E5E5E5"> that rule applies</font>
+
+349
+00:14:34,900 --> 00:14:38,320
+to<font color="#E5E5E5"> all</font><font color="#CCCCCC"> of these verbs and then like I</font>
+
+350
+00:14:38,320 --> 00:14:41,770
+said<font color="#E5E5E5"> once from an e to an ia</font><font color="#CCCCCC"> as like all</font>
+
+351
+00:14:41,770 --> 00:14:44,080
+of these verbs<font color="#CCCCCC"> you just have</font><font color="#E5E5E5"> to learn it</font>
+
+352
+00:14:44,080 --> 00:14:46,180
+<font color="#E5E5E5">what I said at beginning changes from an</font>
+
+353
+00:14:46,180 --> 00:14:47,170
+e to an i
+
+354
+00:14:47,170 --> 00:14:50,830
+it's then<font color="#CCCCCC"> Brecon sm cool of these verbs</font>
+
+355
+00:14:50,830 --> 00:14:52,720
+<font color="#CCCCCC">wait goes on to the other page a man</font>
+
+356
+00:14:52,720 --> 00:14:53,890
+<font color="#E5E5E5">sprang</font>
+
+357
+00:14:53,890 --> 00:14:55,690
+you see I felt like I've summed up there
+
+358
+00:14:55,690 --> 00:14:57,350
+is what I've struggled
+
+359
+00:14:57,350 --> 00:14:59,960
+with the verbs<font color="#E5E5E5"> when they're irregular so</font>
+
+360
+00:14:59,960 --> 00:15:03,650
+my<font color="#CCCCCC"> shoutout</font><font color="#E5E5E5"> today is for any tips with</font>
+
+361
+00:15:03,650 --> 00:15:05,240
+remembering that any help
+
+362
+00:15:05,240 --> 00:15:08,480
+if there are specific<font color="#CCCCCC"> rules to know why</font>
+
+363
+00:15:08,480 --> 00:15:11,330
+it does a white doesn't have that change
+
+364
+00:15:11,330 --> 00:15:14,920
+in<font color="#E5E5E5"> the verb</font><font color="#CCCCCC"> that would be very</font><font color="#E5E5E5"> helpful</font>
+
+365
+00:15:15,430 --> 00:15:18,530
+<font color="#CCCCCC">she's done</font><font color="#E5E5E5"> that's what she's saying</font><font color="#CCCCCC"> oh</font>
+
+366
+00:15:18,530 --> 00:15:28,280
+ha ha ha<font color="#E5E5E5"> no she does know she's can I</font>
+
+367
+00:15:28,280 --> 00:15:30,950
+use this<font color="#E5E5E5"> as a mirror</font><font color="#CCCCCC"> as a</font><font color="#E5E5E5"> German you</font>
+
+368
+00:15:30,950 --> 00:15:33,050
+just know you just grow<font color="#CCCCCC"> up</font><font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> that's</font>
+
+369
+00:15:33,050 --> 00:15:34,760
+always gonna say you just<font color="#E5E5E5"> learn it from</font>
+
+370
+00:15:34,760 --> 00:15:36,890
+school you just<font color="#E5E5E5"> learn it</font><font color="#CCCCCC"> so it's</font><font color="#E5E5E5"> the</font>
+
+371
+00:15:36,890 --> 00:15:39,440
+<font color="#E5E5E5">same</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> daddy and that's you</font><font color="#CCCCCC"> just learn</font>
+
+372
+00:15:39,440 --> 00:15:41,810
+so that<font color="#E5E5E5"> is my shout out for you guys if</font>
+
+373
+00:15:41,810 --> 00:15:45,830
+there is any way<font color="#CCCCCC"> to learn those verbs</font><font color="#E5E5E5"> if</font>
+
+374
+00:15:45,830 --> 00:15:47,300
+there's anything I should do to practice
+
+375
+00:15:47,300 --> 00:15:50,450
+<font color="#E5E5E5">those then please share</font><font color="#CCCCCC"> your advice</font><font color="#E5E5E5"> fun</font>
+
+376
+00:15:50,450 --> 00:15:53,120
+<font color="#E5E5E5">learning I'm getting there slowly</font><font color="#CCCCCC"> and I</font>
+
+377
+00:15:53,120 --> 00:15:55,460
+saw<font color="#CCCCCC"> another comment about people saying</font>
+
+378
+00:15:55,460 --> 00:15:57,530
+<font color="#E5E5E5">fill out right out post-it notes and</font>
+
+379
+00:15:57,530 --> 00:15:58,670
+stick them<font color="#CCCCCC"> around your</font><font color="#E5E5E5"> house with things</font>
+
+380
+00:15:58,670 --> 00:16:01,220
+on them<font color="#E5E5E5"> Paul</font><font color="#CCCCCC"> has a really good</font><font color="#E5E5E5"> idea</font><font color="#CCCCCC"> I</font>
+
+381
+00:16:01,220 --> 00:16:04,700
+was like my house is<font color="#CCCCCC"> gonna</font><font color="#E5E5E5"> look shit but</font>
+
+382
+00:16:04,700 --> 00:16:06,160
+when anyone<font color="#E5E5E5"> comes around I'm just got</font>
+
+383
+00:16:06,160 --> 00:16:08,120
+hundreds of post-it notes around<font color="#CCCCCC"> the</font>
+
+384
+00:16:08,120 --> 00:16:11,180
+house they're just gonna be like but I
+
+385
+00:16:11,180 --> 00:16:12,470
+did think<font color="#CCCCCC"> it was a good idea</font>
+
+386
+00:16:12,470 --> 00:16:14,180
+also some ones to change your phone to
+
+387
+00:16:14,180 --> 00:16:17,690
+German again<font color="#E5E5E5"> really I did I just don't</font>
+
+388
+00:16:17,690 --> 00:16:21,410
+<font color="#E5E5E5">think I'm on there just yet but all of</font>
+
+389
+00:16:21,410 --> 00:16:24,350
+those<font color="#E5E5E5"> things I will take into my routine</font>
+
+390
+00:16:24,350 --> 00:16:27,710
+<font color="#CCCCCC">as I get better anyway that's</font><font color="#E5E5E5"> going to</font>
+
+391
+00:16:27,710 --> 00:16:30,710
+end this<font color="#E5E5E5"> video I hope it wasn't too all</font>
+
+392
+00:16:30,710 --> 00:16:31,880
+<font color="#E5E5E5">over the place with all of that</font>
+
+393
+00:16:31,880 --> 00:16:33,410
+<font color="#E5E5E5">information</font><font color="#CCCCCC"> yeah I look forward to</font>
+
+394
+00:16:33,410 --> 00:16:36,410
+hearing<font color="#CCCCCC"> your</font><font color="#E5E5E5"> advice</font><font color="#CCCCCC"> your clients</font><font color="#E5E5E5"> and I</font>
+
+395
+00:16:36,410 --> 00:16:39,560
+will see you in part 3<font color="#E5E5E5"> all right bye</font>
+
+396
+00:16:39,560 --> 00:00:00,000
+choose us well fear the scene<font color="#E5E5E5"> choose</font>
+

@@ -1,0 +1,752 @@
+1
+00:00:00,030 --> 00:00:04,140
+I was supposed<font color="#CCCCCC"> to mean that downstairs</font>
+
+2
+00:00:04,140 --> 00:00:19,770
+15 minutes<font color="#CCCCCC"> ago I'm late morning</font><font color="#E5E5E5"> we're</font>
+
+3
+00:00:19,770 --> 00:00:21,840
+headed into our<font color="#E5E5E5"> first meeting now</font><font color="#CCCCCC"> I'm</font>
+
+4
+00:00:21,840 --> 00:00:24,060
+not gonna<font color="#E5E5E5"> like film these meetings with</font>
+
+5
+00:00:24,060 --> 00:00:26,820
+important<font color="#E5E5E5"> people</font><font color="#CCCCCC"> so just bear with</font><font color="#E5E5E5"> us</font>
+
+6
+00:00:26,820 --> 00:00:30,090
+here's<font color="#E5E5E5"> Matt first meeting done we're now</font>
+
+7
+00:00:30,090 --> 00:00:31,650
+headed out to the<font color="#CCCCCC"> valley for meeting</font>
+
+8
+00:00:31,650 --> 00:00:33,630
+number<font color="#E5E5E5"> two and you're gonna have to get</font>
+
+9
+00:00:33,630 --> 00:00:34,710
+<font color="#CCCCCC">over three lines right now</font>
+
+10
+00:00:34,710 --> 00:00:42,360
+<font color="#CCCCCC">whew</font><font color="#E5E5E5"> sorry there we go there is no</font>
+
+11
+00:00:42,360 --> 00:00:45,300
+<font color="#E5E5E5">parking here so I I found Eddie Kramer</font>
+
+12
+00:00:45,300 --> 00:00:47,430
+in there Matt climb out<font color="#CCCCCC"> on</font><font color="#E5E5E5"> my side</font>
+
+13
+00:00:47,430 --> 00:00:50,190
+oh yeah<font color="#CCCCCC"> our next thing</font><font color="#E5E5E5"> he's 20 minutes</font>
+
+14
+00:00:50,190 --> 00:00:52,440
+away during<font color="#CCCCCC"> the Apple</font><font color="#E5E5E5"> Store quickly so I</font>
+
+15
+00:00:52,440 --> 00:00:54,750
+can<font color="#CCCCCC"> get a new</font><font color="#E5E5E5"> laptop mine had some sort</font>
+
+16
+00:00:54,750 --> 00:00:57,059
+of critical<font color="#E5E5E5"> failure this morning these</font>
+
+17
+00:00:57,059 --> 00:00:59,600
+things are so expensive
+
+18
+00:00:59,600 --> 00:01:01,880
+<font color="#E5E5E5">all right we got the goods another</font>
+
+19
+00:01:01,880 --> 00:01:04,040
+extremely pleasant experience at the
+
+20
+00:01:04,040 --> 00:01:05,720
+Apple<font color="#CCCCCC"> store it really is</font><font color="#E5E5E5"> like</font><font color="#CCCCCC"> the</font>
+
+21
+00:01:05,720 --> 00:01:08,120
+greatest<font color="#CCCCCC"> customer experience it's</font><font color="#E5E5E5"> the</font>
+
+22
+00:01:08,120 --> 00:01:10,190
+greatest retail experience<font color="#E5E5E5"> in all of</font>
+
+23
+00:01:10,190 --> 00:01:12,650
+retail name ever
+
+24
+00:01:12,650 --> 00:01:13,760
+wait that's<font color="#E5E5E5"> where we are</font><font color="#CCCCCC"> right now</font>
+
+25
+00:01:13,760 --> 00:01:16,430
+<font color="#E5E5E5">Hidden Valley family farm what town is</font>
+
+26
+00:01:16,430 --> 00:01:20,210
+this<font color="#CCCCCC"> Matt</font><font color="#E5E5E5"> Portola Menlo Ehlert's is</font>
+
+27
+00:01:20,210 --> 00:01:22,300
+something<font color="#E5E5E5"> not sure where we are</font>
+
+28
+00:01:22,300 --> 00:01:24,979
+<font color="#E5E5E5">geographically but it seems like a</font>
+
+29
+00:01:24,979 --> 00:01:55,729
+really<font color="#CCCCCC"> appropriate place</font><font color="#E5E5E5"> so why not all</font>
+
+30
+00:01:55,729 --> 00:01:56,830
+<font color="#E5E5E5">right</font>
+
+31
+00:01:56,830 --> 00:01:59,979
+<font color="#E5E5E5">okey dokey welcome to this week's QA</font><font color="#CCCCCC"> I</font>
+
+32
+00:01:59,979 --> 00:02:02,570
+am here somewhere in Northern California
+
+33
+00:02:02,570 --> 00:02:06,590
+<font color="#CCCCCC">about 40</font><font color="#E5E5E5"> minutes outside of San</font>
+
+34
+00:02:06,590 --> 00:02:08,330
+Francisco<font color="#CCCCCC"> this week's</font><font color="#E5E5E5"> theme is</font><font color="#CCCCCC"> about</font>
+
+35
+00:02:08,330 --> 00:02:10,519
+entrepreneurship<font color="#CCCCCC"> rowdy for business</font><font color="#E5E5E5"> that</font>
+
+36
+00:02:10,519 --> 00:02:12,500
+seemed<font color="#E5E5E5"> appropriate</font><font color="#CCCCCC"> okay let's see what</font>
+
+37
+00:02:12,500 --> 00:02:15,320
+you guys had<font color="#CCCCCC"> to say grant asks what is</font>
+
+38
+00:02:15,320 --> 00:02:17,930
+<font color="#E5E5E5">the absolute worst part about</font><font color="#CCCCCC"> being an</font>
+
+39
+00:02:17,930 --> 00:02:19,700
+entrepreneur<font color="#E5E5E5"> this is a little</font>
+
+40
+00:02:19,700 --> 00:02:21,260
+<font color="#CCCCCC">double-sided</font><font color="#E5E5E5"> because the worst part is</font>
+
+41
+00:02:21,260 --> 00:02:22,989
+<font color="#E5E5E5">also the most exciting part which</font><font color="#CCCCCC"> is</font>
+
+42
+00:02:22,989 --> 00:02:26,209
+absolute uncertainty<font color="#E5E5E5"> there are zero</font>
+
+43
+00:02:26,209 --> 00:02:28,910
+guarantees there are no<font color="#CCCCCC"> promises and</font>
+
+44
+00:02:28,910 --> 00:02:31,400
+that<font color="#CCCCCC"> is a terrifying prospect</font>
+
+45
+00:02:31,400 --> 00:02:33,410
+max asks have<font color="#E5E5E5"> you ever thought one day</font>
+
+46
+00:02:33,410 --> 00:02:35,840
+<font color="#E5E5E5">you'd arrive where you are now that's a</font>
+
+47
+00:02:35,840 --> 00:02:38,510
+great question the answer is I know<font color="#CCCCCC"> I</font>
+
+48
+00:02:38,510 --> 00:02:40,280
+<font color="#E5E5E5">never thought I'd literally be where I</font>
+
+49
+00:02:40,280 --> 00:02:42,290
+<font color="#CCCCCC">am</font><font color="#E5E5E5"> right</font><font color="#CCCCCC"> now in my career but I knew a</font>
+
+50
+00:02:42,290 --> 00:02:43,790
+<font color="#CCCCCC">couple things</font><font color="#E5E5E5"> even when I was really</font>
+
+51
+00:02:43,790 --> 00:02:45,680
+<font color="#E5E5E5">young</font><font color="#CCCCCC"> and really poor doing really</font>
+
+52
+00:02:45,680 --> 00:02:48,470
+horrible jobs for a living<font color="#E5E5E5"> and</font><font color="#CCCCCC"> that was</font>
+
+53
+00:02:48,470 --> 00:02:50,959
+that<font color="#E5E5E5"> I would</font><font color="#CCCCCC"> be working for</font><font color="#E5E5E5"> myself</font><font color="#CCCCCC"> and I</font>
+
+54
+00:02:50,959 --> 00:02:52,820
+would<font color="#CCCCCC"> be doing something that</font><font color="#E5E5E5"> was my</font><font color="#CCCCCC"> own</font>
+
+55
+00:02:52,820 --> 00:02:54,860
+creation<font color="#E5E5E5"> so something that I was</font>
+
+56
+00:02:54,860 --> 00:02:56,329
+<font color="#E5E5E5">personally passionate</font><font color="#CCCCCC"> about because of</font>
+
+57
+00:02:56,329 --> 00:02:59,660
+<font color="#E5E5E5">the product of my own my own brain</font>
+
+58
+00:02:59,660 --> 00:03:01,970
+versus working<font color="#E5E5E5"> for someone</font><font color="#CCCCCC"> else or</font><font color="#E5E5E5"> in</font>
+
+59
+00:03:01,970 --> 00:03:04,850
+someone else's operation I just wasn't
+
+60
+00:03:04,850 --> 00:03:06,870
+<font color="#E5E5E5">sure</font><font color="#CCCCCC"> exactly how it would</font><font color="#E5E5E5"> manifest</font>
+
+61
+00:03:06,870 --> 00:03:08,070
+I don't know that<font color="#E5E5E5"> anyone can predict</font>
+
+62
+00:03:08,070 --> 00:03:10,590
+that<font color="#E5E5E5"> John asks do you have any previous</font>
+
+63
+00:03:10,590 --> 00:03:13,320
+business entrepreneurship<font color="#CCCCCC"> ideas before</font>
+
+64
+00:03:13,320 --> 00:03:15,600
+<font color="#E5E5E5">being the</font><font color="#CCCCCC"> last job I had I was twenty</font>
+
+65
+00:03:15,600 --> 00:03:17,190
+years old<font color="#CCCCCC"> when I worked</font><font color="#E5E5E5"> for someone else</font>
+
+66
+00:03:17,190 --> 00:03:19,830
+<font color="#E5E5E5">so I've been working</font><font color="#CCCCCC"> for myself in</font>
+
+67
+00:03:19,830 --> 00:03:22,140
+businesses<font color="#CCCCCC"> that were mine</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> last</font>
+
+68
+00:03:22,140 --> 00:03:24,240
+you know<font color="#CCCCCC"> fourteen years it's just there</font>
+
+69
+00:03:24,240 --> 00:03:25,770
+were a lot less structured than<font color="#E5E5E5"> beem</font>
+
+70
+00:03:25,770 --> 00:03:28,740
+beem is a is a very typical startup<font color="#CCCCCC"> view</font>
+
+71
+00:03:28,740 --> 00:03:32,460
+idea<font color="#CCCCCC"> team raise money</font><font color="#E5E5E5"> build a company</font>
+
+72
+00:03:32,460 --> 00:03:35,040
+<font color="#E5E5E5">launch a company and the other versions</font>
+
+73
+00:03:35,040 --> 00:03:37,410
+of my<font color="#E5E5E5"> careers of my companies were</font><font color="#CCCCCC"> very</font>
+
+74
+00:03:37,410 --> 00:03:38,040
+different
+
+75
+00:03:38,040 --> 00:03:39,540
+you know last thing I was<font color="#CCCCCC"> doing prior</font><font color="#E5E5E5"> to</font>
+
+76
+00:03:39,540 --> 00:03:41,910
+beam was like advertising<font color="#E5E5E5"> was branded</font>
+
+77
+00:03:41,910 --> 00:03:44,550
+content<font color="#CCCCCC"> via YouTube</font><font color="#E5E5E5"> and that was a much</font>
+
+78
+00:03:44,550 --> 00:03:46,950
+less<font color="#E5E5E5"> structured company</font><font color="#CCCCCC"> but it was</font>
+
+79
+00:03:46,950 --> 00:03:49,320
+certainly a company that took risk<font color="#CCCCCC"> and</font>
+
+80
+00:03:49,320 --> 00:03:51,570
+all the factors that<font color="#E5E5E5"> lead to</font><font color="#CCCCCC"> a Haunter</font>
+
+81
+00:03:51,570 --> 00:03:53,700
+preneur ship were<font color="#CCCCCC"> enveloped in that</font>
+
+82
+00:03:53,700 --> 00:03:55,470
+company<font color="#E5E5E5"> and everything I've done</font><font color="#CCCCCC"> so I</font>
+
+83
+00:03:55,470 --> 00:03:56,640
+<font color="#CCCCCC">started</font><font color="#E5E5E5"> working for</font><font color="#CCCCCC"> myself</font>
+
+84
+00:03:56,640 --> 00:03:58,980
+Dean Tristan says I don't<font color="#CCCCCC"> have a</font>
+
+85
+00:03:58,980 --> 00:04:02,070
+<font color="#CCCCCC">question</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> I Love You Man hashtag no</font>
+
+86
+00:04:02,070 --> 00:04:05,520
+<font color="#E5E5E5">homo Dean Tristan why the need for the</font>
+
+87
+00:04:05,520 --> 00:04:08,760
+no homo hashtag can't a man just<font color="#CCCCCC"> love</font>
+
+88
+00:04:08,760 --> 00:04:10,920
+another man<font color="#CCCCCC"> scotty asks do you</font><font color="#E5E5E5"> think</font>
+
+89
+00:04:10,920 --> 00:04:12,510
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> there's still</font><font color="#CCCCCC"> room on youtube for a</font>
+
+90
+00:04:12,510 --> 00:04:13,830
+career<font color="#E5E5E5"> or do you think</font><font color="#CCCCCC"> the market is</font>
+
+91
+00:04:13,830 --> 00:04:15,840
+<font color="#CCCCCC">saturated now</font><font color="#E5E5E5"> no there's definitely</font>
+
+92
+00:04:15,840 --> 00:04:18,120
+space on<font color="#CCCCCC"> youtube for a career I think</font>
+
+93
+00:04:18,120 --> 00:04:20,040
+<font color="#E5E5E5">people see YouTube as a place that it's</font>
+
+94
+00:04:20,040 --> 00:04:22,320
+easier<font color="#CCCCCC"> to succeed than maybe Hollywood</font>
+
+95
+00:04:22,320 --> 00:04:24,240
+<font color="#E5E5E5">or in television or other</font><font color="#CCCCCC"> meet more</font>
+
+96
+00:04:24,240 --> 00:04:26,430
+mainstream media<font color="#CCCCCC"> outlets</font><font color="#E5E5E5"> the truth is</font>
+
+97
+00:04:26,430 --> 00:04:29,430
+it's not the access is easier it's hard
+
+98
+00:04:29,430 --> 00:04:30,660
+to get an agent<font color="#CCCCCC"> and move to Hollywood</font>
+
+99
+00:04:30,660 --> 00:04:32,160
+<font color="#E5E5E5">and do all that</font><font color="#CCCCCC"> that doesn't</font><font color="#E5E5E5"> guarantee</font>
+
+100
+00:04:32,160 --> 00:04:34,620
+success<font color="#CCCCCC"> anyways</font><font color="#E5E5E5"> YouTube's easy you</font><font color="#CCCCCC"> just</font>
+
+101
+00:04:34,620 --> 00:04:36,750
+start an account<font color="#E5E5E5"> but where you go from</font>
+
+102
+00:04:36,750 --> 00:04:39,300
+<font color="#E5E5E5">there</font><font color="#CCCCCC"> is not any easier it is just as</font>
+
+103
+00:04:39,300 --> 00:04:42,450
+hard to<font color="#CCCCCC"> be a YouTube star as it is to be</font>
+
+104
+00:04:42,450 --> 00:04:44,690
+a movie star<font color="#CCCCCC"> make no mistakes it is</font>
+
+105
+00:04:44,690 --> 00:04:47,040
+<font color="#E5E5E5">extremely hard and</font><font color="#CCCCCC"> extremely competitive</font>
+
+106
+00:04:47,040 --> 00:04:48,780
+on YouTube<font color="#E5E5E5"> but it doesn't mean that</font>
+
+107
+00:04:48,780 --> 00:04:50,310
+<font color="#E5E5E5">there isn't a multitude of opportunities</font>
+
+108
+00:04:50,310 --> 00:04:52,380
+<font color="#E5E5E5">there I'm not going</font><font color="#CCCCCC"> to say you</font><font color="#E5E5E5"> asked me</font>
+
+109
+00:04:52,380 --> 00:04:54,510
+<font color="#E5E5E5">this to have a harsh answer why should I</font>
+
+110
+00:04:54,510 --> 00:04:56,550
+trust myself<font color="#E5E5E5"> how do I know it's</font><font color="#CCCCCC"> not a</font>
+
+111
+00:04:56,550 --> 00:04:58,650
+waste of<font color="#E5E5E5"> time and money if you're asking</font>
+
+112
+00:04:58,650 --> 00:05:00,390
+<font color="#CCCCCC">yourself that</font><font color="#E5E5E5"> then you shouldn't trust</font>
+
+113
+00:05:00,390 --> 00:05:02,790
+yourself<font color="#E5E5E5"> and it is a waste of time and</font>
+
+114
+00:05:02,790 --> 00:05:05,190
+<font color="#E5E5E5">money you need an unbridled confidence</font>
+
+115
+00:05:05,190 --> 00:05:07,740
+to<font color="#CCCCCC"> succeed as an entrepreneur</font><font color="#E5E5E5"> Arthur</font>
+
+116
+00:05:07,740 --> 00:05:09,660
+asks best tip<font color="#CCCCCC"> for young entrepreneurs</font>
+
+117
+00:05:09,660 --> 00:05:11,520
+<font color="#E5E5E5">never give up and that sounds like a</font>
+
+118
+00:05:11,520 --> 00:05:13,950
+platitude<font color="#CCCCCC"> but I mean that</font><font color="#E5E5E5"> because if you</font>
+
+119
+00:05:13,950 --> 00:05:15,750
+try and<font color="#E5E5E5"> then film and try and then film</font>
+
+120
+00:05:15,750 --> 00:05:17,669
+and<font color="#E5E5E5"> try and then film and try and just</font>
+
+121
+00:05:17,669 --> 00:05:19,979
+<font color="#CCCCCC">keep doing that</font><font color="#E5E5E5"> eventually you will</font>
+
+122
+00:05:19,979 --> 00:05:20,699
+<font color="#E5E5E5">succeed</font>
+
+123
+00:05:20,699 --> 00:05:22,919
+it takes the gumption<font color="#E5E5E5"> to keep going</font><font color="#CCCCCC"> that</font>
+
+124
+00:05:22,919 --> 00:05:24,120
+separates the winners<font color="#E5E5E5"> from the losers</font>
+
+125
+00:05:24,120 --> 00:05:26,159
+<font color="#CCCCCC">it's like that poster oh</font><font color="#E5E5E5"> there's a</font>
+
+126
+00:05:26,159 --> 00:05:27,689
+kitten<font color="#CCCCCC"> hanging off a tree and it's like</font>
+
+127
+00:05:27,689 --> 00:05:29,819
+you haven't<font color="#CCCCCC"> failed until you've</font><font color="#E5E5E5"> given up</font>
+
+128
+00:05:29,819 --> 00:05:33,629
+<font color="#E5E5E5">that's true I'll end this on a personal</font>
+
+129
+00:05:33,629 --> 00:05:34,319
+question
+
+130
+00:05:34,319 --> 00:05:36,090
+what's the biggest<font color="#CCCCCC"> risk</font><font color="#E5E5E5"> you take in and</font>
+
+131
+00:05:36,090 --> 00:05:37,379
+was it worth<font color="#E5E5E5"> it in the end</font>
+
+132
+00:05:37,379 --> 00:05:39,240
+first<font color="#CCCCCC"> I'll answer the question yes and</font>
+
+133
+00:05:39,240 --> 00:05:41,490
+the biggest<font color="#CCCCCC"> risk probably for me was</font>
+
+134
+00:05:41,490 --> 00:05:44,219
+moving to<font color="#E5E5E5"> New York City</font><font color="#CCCCCC"> I was 19</font><font color="#E5E5E5"> or 20</font>
+
+135
+00:05:44,219 --> 00:05:46,889
+<font color="#E5E5E5">years old</font><font color="#CCCCCC"> I had no money</font><font color="#E5E5E5"> I had no work</font>
+
+136
+00:05:46,889 --> 00:05:49,139
+experience<font color="#CCCCCC"> I had no education I had no</font>
+
+137
+00:05:49,139 --> 00:05:50,789
+<font color="#E5E5E5">friends I had no contact I had no</font>
+
+138
+00:05:50,789 --> 00:05:53,490
+<font color="#CCCCCC">resources I had a</font><font color="#E5E5E5"> three</font><font color="#CCCCCC"> month</font><font color="#E5E5E5"> sublet and</font>
+
+139
+00:05:53,490 --> 00:05:56,370
+then I was homeless<font color="#CCCCCC"> my</font><font color="#E5E5E5"> only previous job</font>
+
+140
+00:05:56,370 --> 00:05:58,409
+was<font color="#CCCCCC"> as a dishwasher and I moved</font><font color="#E5E5E5"> to New</font>
+
+141
+00:05:58,409 --> 00:06:01,680
+York<font color="#CCCCCC"> City to become</font><font color="#E5E5E5"> a filmmaker and I</font>
+
+142
+00:06:01,680 --> 00:06:03,960
+did that with<font color="#CCCCCC"> a two-year-old son it is</font>
+
+143
+00:06:03,960 --> 00:06:06,090
+one<font color="#CCCCCC"> of the few times in my life where</font>
+
+144
+00:06:06,090 --> 00:06:09,569
+<font color="#E5E5E5">when I look back I have no in clue what</font>
+
+145
+00:06:09,569 --> 00:06:12,000
+I was<font color="#E5E5E5"> thinking I just blindly did it it</font>
+
+146
+00:06:12,000 --> 00:06:14,069
+was a purely emotional<font color="#E5E5E5"> decision there</font>
+
+147
+00:06:14,069 --> 00:06:16,349
+was<font color="#E5E5E5"> no rational or logical reason to</font>
+
+148
+00:06:16,349 --> 00:06:19,199
+take<font color="#E5E5E5"> a chance</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> looking back it</font>
+
+149
+00:06:19,199 --> 00:06:21,240
+<font color="#E5E5E5">only inspires me and motivates me more</font>
+
+150
+00:06:21,240 --> 00:06:24,539
+<font color="#E5E5E5">to embrace risk had I yielded to logic</font>
+
+151
+00:06:24,539 --> 00:06:26,400
+then I don't know where I'd be<font color="#CCCCCC"> but I</font>
+
+152
+00:06:26,400 --> 00:06:28,469
+wouldn't<font color="#E5E5E5"> be where I am right</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> and I'm</font>
+
+153
+00:06:28,469 --> 00:06:33,389
+very very<font color="#CCCCCC"> happy right now okay that's</font>
+
+154
+00:06:33,389 --> 00:06:35,189
+this week's Q&A<font color="#E5E5E5"> thanks for joining me</font>
+
+155
+00:06:35,189 --> 00:06:37,020
+hey<font color="#E5E5E5"> Matt I'm done filming the Q&A did</font>
+
+156
+00:06:37,020 --> 00:06:38,279
+you want to<font color="#E5E5E5"> play</font><font color="#CCCCCC"> on the</font><font color="#E5E5E5"> playground or</font>
+
+157
+00:06:38,279 --> 00:06:42,270
+<font color="#E5E5E5">can we go we are driving home and I</font>
+
+158
+00:06:42,270 --> 00:06:44,009
+stopped up here<font color="#CCCCCC"> because it's just</font><font color="#E5E5E5"> so</font>
+
+159
+00:06:44,009 --> 00:06:46,379
+<font color="#E5E5E5">insanely beautiful</font><font color="#CCCCCC"> there's the great</font>
+
+160
+00:06:46,379 --> 00:06:48,330
+Matt Hackett right there and I'm<font color="#E5E5E5"> just</font>
+
+161
+00:06:48,330 --> 00:06:50,219
+<font color="#E5E5E5">shooting some time lapses oops there's a</font>
+
+162
+00:06:50,219 --> 00:06:54,810
+cop<font color="#E5E5E5"> there goes the police Matt so down</font>
+
+163
+00:06:54,810 --> 00:06:57,689
+there's a big sign that<font color="#E5E5E5"> says road closed</font>
+
+164
+00:06:57,689 --> 00:07:01,620
+do not cross and we<font color="#CCCCCC"> cross it to come up</font>
+
+165
+00:07:01,620 --> 00:07:04,129
+here but
+
+166
+00:07:11,090 --> 00:07:13,680
+<font color="#CCCCCC">Matt I were</font><font color="#E5E5E5"> invited to a sneak preview</font>
+
+167
+00:07:13,680 --> 00:07:16,230
+screening of the Martian tonight well
+
+168
+00:07:16,230 --> 00:07:18,630
+Matt was I'm<font color="#CCCCCC"> like his plus-one</font><font color="#E5E5E5"> we're</font>
+
+169
+00:07:18,630 --> 00:07:20,130
+headed<font color="#E5E5E5"> there now</font><font color="#CCCCCC"> pretty</font><font color="#E5E5E5"> psyched to see</font>
+
+170
+00:07:20,130 --> 00:07:29,100
+<font color="#E5E5E5">it all right these passes get us free</font>
+
+171
+00:07:29,100 --> 00:07:31,710
+everything in here<font color="#E5E5E5"> and</font><font color="#CCCCCC"> I don't know what</font>
+
+172
+00:07:31,710 --> 00:07:33,600
+to get<font color="#E5E5E5"> all right since this is a</font>
+
+173
+00:07:33,600 --> 00:07:35,310
+pre-release movie screening I'm putting
+
+174
+00:07:35,310 --> 00:07:37,350
+this camera<font color="#CCCCCC"> away</font><font color="#E5E5E5"> before anybody freaks</font>
+
+175
+00:07:37,350 --> 00:07:38,430
+out because<font color="#CCCCCC"> I think</font><font color="#E5E5E5"> I'm gonna film the</font>
+
+176
+00:07:38,430 --> 00:07:40,920
+screen<font color="#E5E5E5"> I'll check</font><font color="#CCCCCC"> back in after the</font>
+
+177
+00:07:40,920 --> 00:07:53,130
+movie<font color="#CCCCCC"> we just left Mars</font><font color="#E5E5E5"> what do you</font>
+
+178
+00:07:53,130 --> 00:07:56,070
+think<font color="#CCCCCC"> I'm</font><font color="#E5E5E5"> good yeah I give it a big fat</font>
+
+179
+00:07:56,070 --> 00:08:00,500
+thumbs<font color="#E5E5E5"> up</font><font color="#CCCCCC"> it was really it was super fun</font>
+
+180
+00:08:05,220 --> 00:08:09,520
+follow me<font color="#E5E5E5"> I beam and hurry</font><font color="#CCCCCC"> because I</font>
+
+181
+00:08:09,520 --> 00:08:19,240
+might die so<font color="#E5E5E5"> being what I was trying to</font>
+
+182
+00:08:19,240 --> 00:08:20,680
+say is you should<font color="#E5E5E5"> follow me because I</font>
+
+183
+00:08:20,680 --> 00:08:22,540
+just<font color="#CCCCCC"> risked my life try and go get a</font>
+
+184
+00:08:22,540 --> 00:08:24,760
+shot<font color="#E5E5E5"> for you</font><font color="#CCCCCC"> so that</font><font color="#E5E5E5"> you guys would</font>
+
+185
+00:08:24,760 --> 00:08:26,500
+follow<font color="#E5E5E5"> me on bead and then thunder and</font>
+
+186
+00:08:26,500 --> 00:08:28,240
+lightning and<font color="#CCCCCC"> rain came and I just</font>
+
+187
+00:08:28,240 --> 00:08:31,330
+barely made<font color="#E5E5E5"> it back</font><font color="#CCCCCC"> to my car so</font><font color="#E5E5E5"> can I</font>
+
+188
+00:08:31,330 --> 00:00:00,000
+get an A<font color="#CCCCCC"> for effort and maybe a follow</font>
+

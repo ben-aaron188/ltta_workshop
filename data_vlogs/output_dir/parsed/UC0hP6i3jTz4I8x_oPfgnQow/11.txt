@@ -1,0 +1,2627 @@
+thank you for coming and I'm shakir and
+really excited to talk to you today
+about unsupervised learning and
+generative model so I wanted to maybe
+just start with a quick question to all
+of you few people want to shout out
+maybe the reasons they think
+unsupervised learning is important in
+machine learning generative models may
+be important or maybe if we have someone
+contrarian who thinks they aren't
+important everyone wants to throw up at
+the back so if you don't have enough
+label data to do supervised learning
+that's a great one another any other
+reasons or thoughts around what a
+generative model is the applications
+while we let people settle in anyone
+else
+ok so pardon using NLP used in NLP yes
+to do natural language generation of
+text or even audio or other kinds of
+things so well experiment and explore a
+lot of the different ways of generative
+models and unsupervised learning more
+generally I think you haven't seen
+anything around unsupervised learning
+thus far in this course but you've
+probably seen them we know this and so I
+thought we'd start with that so what the
+person said at the back why are we
+interested in unsupervised learning and
+the first reason that many people give
+is to move beyond associating simply
+inputs to outputs of images or features
+to labels or to targets but then there
+are other kinds of reasons like the
+example that was just given around in
+elpida we want to understand how the
+world is evolving how it's going to
+change over time and we want to be able
+to imagine and simulate these kind of
+potential evolutions of the world going
+forward in time there are these things
+which we recognize as people that are
+objects in the world they are objects
+like your computer like paper like a
+screen they have certain ways in which
+they are move they behave their factors
+are variation as they call them which we
+want to know related to that is we want
+to be able to do a more abstract kind of
+reasoning and
+so in this kind of abstract reasoning we
+want to be able to establish certain
+types of concepts a conceptual basis for
+the world and do reasoning and
+decision-making in that space we want to
+be able to know when something is new is
+interesting is surprising and we want to
+be able to generate plans about the way
+we will behave in the future the way
+you're doing reinforcement learning so
+all of these are the reasons why we are
+interested in unsupervised learning and
+I hope maybe we'll try and explore some
+of all of these kinds of things as we go
+through so but unsupervised learning
+will just be one part of far more bigger
+suite of things that really imagine and
+under various different names but one
+way to think of them are as
+complementary learning systems we have
+several different types of learning
+systems unsupervised supervised
+reinforcement learning semi-supervised
+other kinds of transductive learning
+then will all work together to
+complement each other for us to build
+these general-purpose learning systems
+right and so when we come to generative
+models are usually group their
+applications in their roles in three
+different areas we want to have
+generative models because we want to
+build products we want to build things
+which are useful which help our everyday
+lives so things like super resolution of
+images and video as we want to do
+transmission and compression of high
+bandwidth data streams we want to do
+text-to-speech for example to create
+accessibility tools then we want to move
+to areas of science we want to continue
+to understand how it is that the natural
+and physical world observes and then to
+do use those scientific basis to again
+inform other kinds of areas like
+healthcare and the social social world
+so things like proteomics drug discovery
+understanding celestial objects using
+high-energy physics where the big
+question in high-energy physics is how
+we move beyond the standard model that's
+what they call the current question now
+that we've found the Higgs boson what is
+beyond that standard model and then we
+have the tasks of reasoning and AI so
+can we do planning how do we do
+exploration as agents in the world to
+discover new
+here is how do we build self motivation
+and keep ourselves discovering new
+things and maybe part of what you've
+seen in the other half is around doing
+model-based reinforcement learning so
+these are all some of the different
+areas that I have in mind and different
+products so I'm gonna do a little
+experiment with you but I thought we're
+gonna do two halves and in this first
+half
+I thought we'd look at five tricks for
+manipulating probabilities and I'm gonna
+just discuss with you five
+self-contained tools mathematical and
+probabilistic tools that you can use in
+almost every part of machine learning
+and they're typically 4 4 into 3 parts
+one part will be about manipulating
+integrals another part will be about
+manipulating densities and another part
+of up manipulating gradients and these
+five tricks together you can use them
+certainly for generative models what
+we're going to discuss in the next part
+but you have already used some of them
+in reinforcement learning and in other
+areas of machine learning that you've
+covered before you've used them and I
+want to just represent them to you in a
+different light and then in the second
+part we'll do a brief introduction to
+generative models we'll look at the
+types of generative models that we have
+available and then we'll break
+generative models up into two parts
+prescribed generative models and
+implicit generative models and we'll
+look at the different kinds of ways of
+doing learning in these two types of
+models so ok here my five tricks and
+again I want you to try and experiment
+with you because I want to try and do
+this again later on at the machine
+learning summer school so please give me
+feedback at the end as to how you think
+it worked out so the thing that I want
+to leave you in this first half of this
+next 50 minutes is that I want each and
+every one of you to be able to build a
+probabilistic dexterity when you see
+probabilities and integrals and
+probabilities you can manipulate and
+mould them to do the things that you
+need to do and this is effectively the
+problem of machine learning so if we
+have this probabilistic dexterity if we
+have a set of tools which we can
+manipulate integrals probability
+distributions and their gradients then
+we will have the tools to solve the
+fundamental problems of machine learning
+in AR and some of these questions come
+up one of the most fundamental questions
+is always to compute the evidence of a
+set of data so if
+data X you want to know what is the
+probability that that dataset appears in
+the world and knowing this quantity is
+in fact one of the most fundamental
+quantities you can know in machine
+learning because if you know this
+probability X you basically know
+everything you know when it's surprising
+what is probable you know all its
+moments you know you can do everything
+from there rewriting this evidence
+estimation question in a different way
+so this first part is sometimes called
+the marginalized probability they
+integrated likelihood the partition
+function that has several different
+kinds of names you may want to do a
+simpler task than this you may just want
+to compute a set of moments this is
+because you want to summarize data in
+some way you want to compute this
+quantiles or certain expect Isles and
+knowing those quantities and reporting
+them is useful and so for example
+physics you want to do Six Sigma
+computations of whether something is
+actually there or not so then you'll
+want to do these moment computations
+where you'll compute an expectation of
+some function of a random variable the
+the notation is swapping around but just
+use it as a general idea of course the
+most fundamental problem in machine
+learning statistics is to do parameter
+estimation you want to actually know
+what the value of parameter theta of a
+model that you have is given some data X
+and if you want it to be frequentist
+then you will find the point estimate
+and a confidence interval around theta
+or if you are being Bayesian you would
+find the entire probability distribution
+and report either its central central
+area and then it's a confidence highest
+probability density region so this is
+probably the most common what you've
+done almost in every course in machine
+learning so far and of course we want to
+do prediction because once we have these
+models we want to use it to do something
+useful in the world the thing you've
+seen in the other part is to do planning
+so that if you have a certain cost
+function C and an action u that you are
+trying to take how is it that you can
+choose the set of actions you to
+maximize the cost under certain types of
+probability distribution so this was the
+fundamental equation that you were all
+solving to talk about man's equation and
+to learn the policy gradient theorem and
+to do value estimation as well
+then another kind of important one is
+for example if we are dealing with
+medical domain you will have multiple
+hypotheses that we are testing and you
+need to be able to compare those two
+hypotheses which one is better or which
+one has the effects that you wanted it
+to have and then the last one relate to
+the hypothesis testing is to do an
+experimental design how is it that I can
+take an action observe what happens in
+the world and then choose the actions of
+the next set of experiments that I will
+do so that I actually learn and so
+hidden in all of these things there are
+a probabilities and these probabilities
+are sometimes difficult you don't know
+what they are sometimes you are known to
+you partially sometimes you can only
+simulate you don't know them
+analytically in almost all of them there
+is a horrible integral it's just written
+one here but usually it's a
+d-dimensional integral over the
+dimension of things that you are dealing
+with so you can't solve it numerically
+in other cases they are gradients which
+need to be done through inverse
+probabilities and there are other
+normalizing constants that appear or in
+some cases that external factors which
+are affecting your model and so in all
+of these cases you will need to do some
+kind of manipulation and this is where
+this first part is and if we have those
+kind of tricks we can manipulate all
+these integrals all these gradients all
+these probabilities and then we can
+actually build a rich very rich and deep
+understanding of machine on so the first
+trick I wanted to present you you've all
+seen this before it's called the
+identity trick so whenever you have a
+problem that you have an integral or an
+expectation in some distribution P you
+may not like that integral you may not
+like P P is not your friend you can
+instead change the integral into an
+expectation under a different
+distribution q here is something you get
+to choose q is your friend so this is
+where you will use this identity trick
+and so here's the expectation you have
+an integral of some probability
+distribution x over a function f of X Y
+it's the expectation of X under the
+distribution P as I said you may not
+like this integral for various reasons
+because P is difficult to compute
+because F may be not differentiable for
+various reasons and you instead want to
+rewrite it as an expectation like this
+an expectation under a new distribution
+Q with some transformation of the
+function f so
+writing this G here and writing out the
+integral and so how you move between
+these two is to multiply your
+probabilities by one right so we're
+going to introduce a probabilistic one
+and I think you've seen this already at
+least in two different places so let's
+do let's apply this identity trick so
+here's an integral problem I want to
+compute the expectation of this
+distribution P of X given Z under the
+distribution P of Z so that's our
+integral problem and typically if you
+had studied graphical models before we
+had have seen this kind of latent
+variable problem has appeared before
+right and so the trick is to multiply
+this integral by one so I'm going to
+introduce this new distribution Q and Q
+divided by Q is 1 so the integral is
+exactly the same right but now I can
+regroup the terms I can leave P of x
+given Z and I can group P of Z divided
+by Q of Z as some new quantity and
+actually this ratio is something just to
+keep in mind we'll look at it a bit
+later and now there's a new distribution
+Z and now this is an integral which is
+an expectation under the distribution Q
+of this new quantity right and so this
+trick you can use almost everywhere and
+it's one of the most useful tricks
+you'll use it in reinforcement learning
+to do sort of policy Corrections you
+will use it in the next slide so there's
+just some things to know because we are
+dividing by Q you need to make sure that
+Q is greater than zero wherever this
+product of P times P is greater than
+zero and Q that you are into introducing
+and choosing must be something you
+should easily manipulate right and so
+this trick is obviously the basis of
+important sampling that you've seen
+before where we call the ratio P divided
+by Q the importance weight which is W
+you can simulate a sample from Q of Z
+and then you can evaluate this integral
+by Monte Carlo integration right and
+this is one of the most useful tools to
+keep in mind this to of integration by
+using Monte Carlo an important something
+is one of the most basic tools we have
+for manipulating probabilities but it is
+useful only if you want to know the
+value of an integral right because
+that's what important sampling does if
+you wanted to do more than know the
+value of an integral if you wanted to
+use it for learning then important
+sampling is not going to be quite useful
+but we'll come to that a bit later on so
+you would have seen this kind of
+identity trick not just an important
+sampling you will of you we will use it
+again later on to manipulate certain
+stochastic gradients if you are doing
+sort of probability theory you will
+always use this trick to derive certain
+types of bounds to show the convergence
+properties and asymptotic properties of
+their convergence and then if you're
+actually dealing with a reinforcement
+learning where you're thinking of off
+policy Corrections then you will always
+introduce these kind of ratios which
+will appear to handle these kind of
+settings so this is a very useful trick
+to have in mind the next kind of trick
+is the bound and trick and there's so
+many bounding tricks that I just chose
+the most general one to do and I'll
+mention a few others at the end but one
+of the most important results from
+convex analysis is that you can always
+take the function of an expectation can
+be bounded by the expectation of a
+function for functions f that are
+concave right and this is super useful
+because sometimes dealing with the
+function of an expectation is difficult
+to do and you want to swap the integral
+with the function that's coming up there
+and of course this is equal if the
+function is linear because expectation
+is linear but for other functions you
+won't have this probability so logs are
+the one we will always be interested in
+or most often interesting because we
+want to use log probabilities for
+numerical reasons and for simplification
+of the additive property and so we will
+always take the log of this integral
+which is the log of an expectation is
+the expectation of the log and this will
+be is also used almost everywhere you
+would have seen this in optimization of
+course because you are deriving what
+they ask what the rates of convergence
+of optimization algorithms are we're
+going to talk about variational
+inference and variational inference is
+derived on this quantity and if you've
+studied Monte Carlo Markov chain Monte
+Carlo in other courses then you would
+have proven that there Monte Carlo
+integrators or Markov chain Monte Carlo
+methods can have lower variance
+under what using raw Blackwell's theorem
+and the crux of our Blackwell theorem is
+to use this form of Jensen's inequality
+and there are many other ways of
+building kinds of bounds of
+probabilities this way the other very
+useful one is to use central duality and
+now the tool that we get from convex
+analysis then when you can turn use your
+central jewel then you can get another
+bound which will always be convex and
+bound the probability and then that will
+be useful for doing various kinds of
+other variational methods holders
+inequality which just helps you do
+products of probabilities into their
+products of the individual norms is
+always useful and many of you have heard
+about optimal transport and integral
+probability metrics and that's where
+this famous Monch kantorovich inequality
+comes in which helps you derive yet
+other kinds of bounds of probabilities
+and these three together and when you
+put all of them together you can build
+very flexible kinds of tools so the next
+one is about evidence bounds so we want
+to actually use this trick that we just
+used so again this is the integral
+problem I want to compute the evidence P
+of X which will be the integral of this
+likelihood function P of X given there
+again some distribution P of Z now I can
+introduce this identity trick again by
+multiplying by Q and dividing by Q and Q
+of Z was the proposal distribution in
+important sampling but here it may have
+a different name well recreate the
+importance way to P divided by Q
+multiplied by Q and when we did
+importance sampling at this point we
+said we're going to solve the integral
+by using Monte Carlo integration but now
+we're not going to solve the integral by
+Monte Carlo we're instead going to apply
+Jensen's inequality and so Jensen's
+inequality so now do this on the log of
+everything so add a log on both sides
+the log of P of X will be greater than
+the expectation on the Q of the log of
+this quantity and the inside right so
+just read that again now this is an
+integral and expectation of a Q of Z of
+this joint log probability and so we can
+just split that using the property of
+the log to an integral of the log
+probability P of X given Z minus the
+integral of this log ratio Q of Z
+divided by P of Z and this of course is
+a very famous lower bound it has very
+several several names but it will be
+called the evidence lower bound in this
+case
+it's often called the variation of free
+energy or just a variational lower bound
+but what we can talk about that more in
+the next section but just the point is
+to know that this is now a bound on the
+original quantity and knowing bounds of
+quantities is sometimes better than
+knowing the quantity itself because you
+know exactly what the minimum was and
+you can do manipulations on this which
+is easier than doing manipulations on
+this and so this is where this kind of
+trick of using bounds comes in and in
+all those previous inequalities this is
+the principle that when you use holders
+inequality or when you use the central
+dual to create a different kind of
+bounds you got a new problem which is
+actually simpler to deal with so I have
+a fourth trick which is called the
+density ratio trick and the density
+ratio trick is is a very simple trick
+there's often like you just saw an
+important sampling there's always a
+ratio that appears some ratio of two
+quantities and this density ratio trick
+says sometimes you aren't at the naive
+way to compute the density ratio is to
+compute the top part compute the bottom
+part then do the division and then
+that's why you get the number but that's
+actually sometimes very difficult to do
+and sometimes you aren't interested in
+knowing those individual quantities you
+only want to know the ratio directly so
+often computing the ratio is easier than
+computing the individual probabilities
+and that's where this this trick comes
+in and the trick simply says that if you
+want to know the ratio you can just
+build a classifier which will say
+classify samples from the distribution P
+style versus the samples from the
+distribution Q star and if you can build
+this classifier than that classifier has
+all the information that you need to
+compute the ratio of P divided by Q and
+in fact you just need to do this ratio
+of P of coming from class P to this is 1
+minus P so not coming from class P I'll
+show you we'll do the derivation in the
+next line but this density ratio trick
+is also one of the most famous tricks we
+have in machine learning of course if
+you've heard of generative adversarial
+networks this is the core quantity or
+the core idea underlying generates about
+the cero Network but outside and if you
+go a bit wider in machine learning a bit
+outside of deep learning
+then you'll find a method called noise
+contrastive estimation and if you want
+to derive the noise contrastive
+estimator this is the trick that's being
+used if you've been studying Markov
+chain Monte Carlo methods there's a an
+approach called approximate Bayesian
+computation and one way of doing
+approximate Bayesian computation is
+using classifier by exploiting this
+trick some of you would have done
+hypothesis testing in the past and if
+you want to do hypothesis testing then
+one way of doing two sample hypothesis
+testing is to use this kind of trick and
+again any method where you have a
+difference between the distribution at
+test time versus training time what they
+call the covariant or calibration
+problem will do that is their question
+yes okay so let's do the derivation and
+then ask me this again are there any
+other questions at this point or let's
+do the derivation then we can have a
+discussion around all these tricks so
+okay let's do a reminder here's the
+problem you're interested in there's the
+density ratio of P divided by Q and it's
+always useful to keep in mind Bayes rule
+so Bayes rule it's just a rule to do
+inverting probabilities so to invert the
+probability of Y given X to the
+probability of x given Y using the ratio
+of the two marginals so what we're going
+to do is we're going to sample data from
+P star and sample data from Q of X and
+we're going to call all the data from P
+star x hat and all the data from Q X
+tilde and we're going to put them
+together into one big data set then
+because we are manipulating the
+probability we can always introduce the
+label so for every data point we are
+going to introduce a label and a new
+random variable so we're going to
+introduce this random variable Y and for
+all the data that came from P star we're
+gonna give it a label plus one and for
+all the data that came from Q we're
+gonna give the label minus one so that's
+not enough to set up a classification or
+a decision problem so there's an
+equivalence by doing this construction
+by construction P star of X can be
+written as the probability of P of X
+given the label y equals plus 1 because
+that's how we defined it we said every
+data point that came from what must be
+from P and similarly from Q and then we
+have this too so now you can see the
+trick
+gonna do P star of X divided by Q of X
+can be rewritten as the ratio of these
+two conditional distributions which are
+equivalent in all forms now we're gonna
+replace knowing P of X given Y is
+actually not nice to use my Bayes rule
+will help us to undo that so we're going
+to do the base substitution and we're
+going to replace all of this with
+distributions of P of Y given X instead
+so this is where the classification is
+going to come in now I'm doing a slight
+assumption here I'm assuming that the
+probability of P of y equals 1 is equal
+to the probability of P equals y equals
+minus 1 so I'm assuming there's a
+balance data set because I got to just
+draw the samples from P and Q but if
+they are not balanced then you will
+actually have the ratio of the imbalance
+which will be these two quantities and
+then P of X and P of X is the same on
+both sides because the data is invariant
+and those two will cancel so then what
+you're left with is this class
+probability it says basically to compute
+the ratio you just need to know the
+ratio of the two class probability you
+just need to know P of y equals 1 given
+X divided by P of y equals -1 given X
+right and so that is the point of this
+trip it says computing a density ratio
+is equivalent to compress tomato the
+class probability estimation then you do
+that so now coming to your question at
+the end the thing that answers your
+question is that you will do this
+quantity for 1x but you will do this in
+expectation over the whole data set or
+over two different data sets and then
+that's how you will use this for
+learning so ok so that's basically this
+density ratio trick and I have two last
+tricks and then then let's summarize and
+have a discussion about what these
+tricks mean so that was about
+manipulating densities and now I want to
+go to the problem of manipulating
+gradients themselves so one of the most
+common problems in all of machine
+learning in fact all of statistical
+science whether you call it statistic
+operations research in finance is to
+compute this quantity you have an
+expectation of a function and the
+expectations with respect to some
+distribution Q and you want to compute
+the gradient of this course this
+expectation but if you want to compute
+the
+radiant with respect to these district
+these parameters Phi which live in the
+distribution with which you're taking
+the expectation so I'm just gonna
+rewrite that integral out it's the
+gradient of the integral of the
+distribution Q what the parameter is Phi
+that we are introducing in again some
+function f that function may have some
+other parameters that for the purpose of
+this gradient computation we aren't
+going to be interested in and if the if
+all these were simple distributions that
+linear functions and it's may be
+one-dimensional you'd be able to compute
+this integral very easily but in general
+you won't know this be able to compute
+the integral and if you don't know the
+integral you can't compute the gradient
+and that's because these are high
+dimensional quantities and because
+they're high dimensional you won't be
+able to do the the gradient you won't
+know the expectation in closed form
+because typically you have nonlinear
+functions and very complicated non
+primitive distributions and the facts
+what really makes it complicated is that
+the gradient I introduced interested in
+is with respect to these parameters Phi
+and so we're going to need to do several
+tricks to manipulate this but I just
+wanted to point out where you would see
+this integral so we're gonna talk this
+integral is obviously one of the key
+things to Jean learning in generative
+models so we'll see in all the problems
+of inference in generative models that
+we use if you've already started down a
+lot of reinforcement learning and
+control and this is the key question to
+computing the expected expectation under
+your policy and doing policy learning in
+the policy gradient a framework for
+doing reinforcement learning in
+operations research you would F is set
+up the same problem of estimating a
+queueing problem and then wanting to
+know the probability or queueing rate
+and then you would get the same kind of
+question coming up if you're doing Monte
+Carlo simulation in finance they
+actually have a name for this gradient
+it's some Greek alphabet Alpha Gamma
+Delta it just depends which gradient you
+are taking so all the finance is
+basically about computing this integral
+and they have entire textbooks just to
+give us all the tricks to compute this
+integral and actually in many other
+areas of optimization they will call
+knowing this quantity or doing this kind
+of analysis sensitivity analysis so it's
+really one of the most fundamental
+things that we know a lot of tricks from
+many other areas so they're to basically
+two things you can do with an integral
+like this we manipulate you do some
+trick with F or you do some trick with Q
+and basically this is everything that
+you can do there are two other tricks
+you can do on an integral like this but
+not useful for us this machine learners
+because we want to build scalable
+large-scale easily easily codable
+solutions so let's look at those two and
+I'm going to call things where we
+manipulate F a path wise estimator and
+you'll see why we'll call it the
+pathways estimator later and we'll call
+things where we manipulate Q a score
+function estimate and you also see why
+that's the case so the first one is
+based on the long term relative trick
+and it's not really a trick because it's
+basic basic calculus it says the
+gradient of a log is just equal to that
+quantity the gradient of the quantity
+divided by itself right so the gradient
+of a log must be this and you're just
+going to use this fact that you can jump
+between so why this is important is that
+it takes you from gradients of a log
+probability to gradients of a
+probability so you can just jump back
+and forth between these two things
+whenever you like so and that kind of
+manipulation is very flexible because it
+lets you rewrite the integral in much
+more interesting ways so it has several
+useful properties which we've already
+seen so if you have done a course in
+statistics and you know what maximum
+likelihood is which you all do then you
+would obviously know this key quantity
+that gradient of a log probability is
+called the score and the expectation of
+the score is always zero and this is why
+we actually use it for and how you prove
+this and this is part of building this
+probabilistic flexibility you'll have to
+derive it on paper now but eventually
+you should all get to the point where
+you see this thing and then you see well
+oh obviously this is true because I can
+replace this graded by Delta Q divided
+by Q this Q that Q will cancel you take
+the grade and outside of the expectation
+the gradient the integral of a
+distribution is one in the gradient of
+something that's one is zero and that's
+why this thing is it's true right and
+this thing you have also seen if you
+have started the policy gradient theorem
+because this was the key thing that they
+used to make sure that it was sensible
+and then the other interesting property
+of the score is that the variance of the
+score is called the Fisher information
+and this is one of the most important
+quantities in all of
+Nonnie because this is the claim or a
+lower bound which is the minimum
+variance estimator that you can get is
+defining this in terms of this quantity
+and so all of the properties of maximum
+likelihood that we get come from this
+just this simple using this simple trick
+so let's use this trick to manipulate
+that first integral that we have so
+here's the integral and now it's the
+gradient again of expectation of a
+function f with respect to distribution
+Q now I'm going to use the liveness
+integral rule which means that I'm going
+to swap the gradient in to the end the
+integral and you can typically do that
+for these probabilities because they're
+all operate in the same domain
+they're all continuous and so the kind
+of conditions that you need are true and
+I can point you to a much more deeper
+paper if you actually want to see all
+the the depths of actually why it is
+that you can do that but and as I said
+we are going to try and manipulate this
+quantity Q so what I'm going to now if
+the gradient goes inside so that's why
+this gradient of Q times f I'm going to
+use the identity trick again so I'm just
+going to multiply by one now I'm going
+to reform this ratio of Delta Q divided
+by Q and then that basically using the
+log derivative trick from above means
+that this quantity is just the log the
+gradient of the log probability and
+exactly the reason why we use identity
+tricks is that this now is the new
+expectation with respect to Q this is an
+expectation under the distribution Q of
+this function f times the gradient of
+the log probability right and I'm going
+to do one more step which is I just said
+to you the good and useful property was
+that the expectations of this long
+probability are zero and so I can
+actually subtract any other quantity
+some constant any constant C and because
+that constant C is independent of the
+parameters and the expectation of this
+thing is zero it doesn't affect anything
+that I'm doing but the thing that it
+will affect is the gradient the variance
+of this quantity and knowing the
+variance in controlling the variance is
+a whole area of statistics which is
+called control variant estimation and
+knowing how to choose see what the
+optimal C is for your particular problem
+is something you can design and
+let me reax plain this equation to you
+the way you learnt it in reinforcement
+learning so in reinforcement learning q
+is what you called the policy and you
+wanted to compute the policy gradient
+which is the gradient with respect to
+the policy parameters which are Phi in
+this case you had a reward function
+which was log Q and then you call this
+reinforce well the word function is f
+sorry and then you have the gradient of
+this log key which is the policy and so
+then you said things that have high
+reward f you will reinforce that
+gradient and then you will send it up
+and things that have low reward
+F well then you will not reinforce and
+then you will multiply that policy
+gradient and then you also introduced
+this thing called C what you called the
+in had various names I don't you just
+call it a base line I think in
+reinforcement learning but in statistics
+we will call this the control bears and
+then you can design this and knowing
+that in reinforcement learning you have
+a particular n MVP you can design a C
+for your MVP and if you were doing
+finance problem where you were computing
+a time series of returns of a stock then
+you'll be able to compute a C using the
+kind of auto regressive model you were
+building for that sound so there's lots
+of different names also some people
+you'd like to call this the likelihood
+ratio method I think that's a bad bad
+name so don't ever call it that I'm just
+telling you so when you Google you'll
+sometimes see this and in some
+reinforcement learning textbooks they
+use this terrible naming then of course
+you've seen a reinforcement reinforced
+algorithm and the policy gradients are
+built in this exact concept and then in
+other areas like more in probabilistic
+inference reinforcement learning they
+would call the automated inference or
+sometimes black box inference right
+because this is a kind of black box in
+to go and when will you want to use this
+kind of integral you will use it when
+this function f is not differentiable
+because you don't need to differentiate
+it all you need to be able to do is
+evaluate the function f what you need to
+do though is evaluate this expectation
+so you will assume that Q is something
+which is simple that you can sample from
+and because you want to differentiate Q
+you will need to be able to take its
+derivative you will need to know it
+analytically so almost all problems can
+have this thing so this is usually the
+first default way of approaching a
+gradient estimator
+so let's do a different trick and this
+one has many different names but most
+common today people call this the Reaper
+amortization trick so every distribution
+can be re-expressed as a function of
+some other distribution or so let's do
+this so I have a distribution Q of some
+function of some random variable said
+this distribution Q can always be
+re-expressed in terms of a deterministic
+function with some parameters v which
+will transform another distribution
+which will have some distribution
+epsilon intercept so the simplest one to
+do is to think of the inverse sampling
+theorem you have a uniform distribution
+all uniform distributions can be
+transformed into another distribution
+using the inverse CDF of the
+distribution you are interested in right
+and this was the first thing you learned
+about probabilistic sampling and this is
+if you always think in this uniform
+setup you'll be able to derive the most
+generic form of what this trick is but
+typically we use other just slightly
+more we don't use start to primitive
+distribution as the uniform we use other
+distributions like gaussians betas
+bernoulliís etc and how I like to think
+of that is more like a set of pipe so
+you have some distribution which we
+start off with which is this base
+distribution P of Z and what I was
+calling P of epsilon here sorry for the
+mix-up and then you have to sort of
+things which mix into this pipe you have
+some parameters mu and some parameters R
+and then they get mixed up through this
+function R so the case of a Gaussian is
+just mu plus R times ed and then once
+you get out is a new distribution
+instead and knowing this pipe in knowing
+the configuration of the pipe is useful
+for the gradient because you can follow
+the path of this pipe backwards and it
+is this reason because of this
+transformation of this variable through
+the path function G to get this new
+random variable said that this the trick
+that we're about to talk about will be
+called path wise estimation or path wise
+computation and so the main point of
+Reaper ammeter ization trick like every
+route parameterization is just the
+change of variables rules for
+probability and if we had more time I
+would have done a whole trick just for
+change of variables rules and sure
+you instead of how they appear in
+continuous and discrete spaces but we're
+gonna skip that today but just know that
+this is the rule for the change of
+variables if you have a distribution
+epsilon and you have some function that
+changes epsilon to Z like here you can
+know the distribution P of Z by
+computing this gradient and multiplying
+by the original thing this is you
+learned this in calculus under the
+change of variables and the rule is
+identical when we come to it in
+probability and we're going to use this
+trick and just keep in mind that because
+we are probabilities and we must exist
+in a probability space where things must
+integrate to one and volume is never
+lost as a conservation property you can
+always use this sort of loose notation
+just to say the volume of probabilities
+must be conserved that P Z times D Z
+must always PE times de and you must
+these things can be equal that's why you
+can do manipulations by substituting
+this for this so let's just do the trick
+a bit of a non rigorous weird kind of
+derivation but I think it will work so
+again this is our integral problem it is
+the integral of a distribution of a
+function f against the distribution Q
+and we want to know the gradients with
+respect to Phi and you have a known
+transformation which is G which
+transform samples epsilon with
+parameters Phi into Z so we're going to
+do this change of variables now let's
+write this a bit slowly just say you see
+wherever you see that you can replace
+that by the function G of epsilon comma
+Phi because that is what the
+substitution rule is and then I said
+well Q of Z can be rewritten in terms of
+epsilon using this change of variables
+rule so it's P of epsilon which is the
+base distribution times the derivative D
+epsilon over D Z and there's this
+gradient which is going to appear
+because of the change of variables rule
+so I'm also going to change DZ to D
+Epsilon and the way you do DZ to D
+epsilon is to know that these epsilon DS
+there is equal to G prime and so again
+this is where this volume is being
+preserved right and then I'm going to
+apply the inverse function theorem on
+this derivative D epsilon by DZ and that
+effectively is going to cancel out this
+derivative here G Prime
+and so G Prime will disappear and then
+basically what you'll be left is with an
+expectation on the P of epsilon instead
+then of the function of G directly and
+now actually the integral is over
+epsilon which has nothing to do with Phi
+so now you are free to take the gradient
+directly through and you don't have to
+worry about any there are no conditions
+to check the gradient can just go
+directly through the integral and so
+this then is basically what is called
+this path wise gradient estimator it
+says that if you no change of variables
+for Q you can then rewrite it through
+this path wise gradient estimate of
+Epsilon and a simpler distribution P of
+epsilon of the gradient of the function
+of the change of variables and this is
+nice to do because now it's just back
+prop you just can take the gradient of
+fee of f through G to get to Phi right
+and this is why in other papers we call
+this stochastic back propagation it's
+called the real parameterization trick
+and for every other area of probability
+outside of machine learning they will
+call this the pathways estimate pathways
+great and estimator so where you would
+have seen this before is when you learnt
+about the basics of expectation they
+would have maybe mentioned this things
+you call the law of the unconscious
+statistician which is if you are given a
+transformation how can you compute this
+expectation under that transformation
+and so you will see this is the point of
+doing this change of variables as I
+mentioned we call the stochastic back
+propagation this idea of computing
+gradients is where they could call this
+perturbation analysis and under
+perturbation analysis you can do derive
+certain other variations of this
+gradient
+there's the reaper ammeter ization trick
+and other people have called this a fine
+independent inference and in fact this
+trick is also used in Monte Carlo
+sampling but I forget the name the name
+of it I have a reference at the end so
+when when should you use this kind of
+gradient estimator so now you need to do
+it much more you actually need to
+differentiate through F so f you need to
+be know F and F must be differentiable
+again Q is a distribution with the
+transform you need to be able to rewrite
+Q of Z in terms of P epsilon and a
+deterministic
+function G and so these functions can be
+anything can be the inverse CDF which is
+how you'll derive the most generic form
+of this root parameterization trick it
+can be a location scale transform like
+this function here for the Gaussian or
+it can be any other kind of coordinate
+transform that you have and then you
+want to make sure that this base
+distribution P epsilon is actually
+something simple and easy to sample from
+okay so that was basically five tricks
+we looked at the identity trick and the
+identity trick was a way of rewriting an
+expectation from one distribution to
+another this is the number one trick
+it's the first thing you will probably
+do for most everything so one of the
+most useful things to know then we looks
+at one bounding trick based on Jensen's
+inequality but building bounds is one of
+the most useful tricks for doing
+learning and when you especially when
+you want to build very large scale
+learning algorithms that go to millions
+and tens of thousands of parameters the
+density ratio trick is a useful one
+because like you saw an important
+sampling like you see in reinforcement
+learning like you saw in almost all the
+other tricks there's always a ratio of
+two distributions that appear and this
+ratio can give you knowledge of how
+things are we gonna look at that the log
+derivative trick basically exploits the
+the definition of what the gradient of
+the log is to show the properties of log
+likelihood functions and score functions
+we showed the basis of maximum
+likelihood and then we looked at three
+parameter ization tricks which
+effectively just deployed the rule for
+change of variables of probability in
+all different settings to help us derive
+different kinds of gradient estimators
+so basically the point of this half was
+just to leave with you the message to
+sharpen your probabilistic tools to
+always search for those tricks that
+means you can manipulate probabilities
+in the right way and as these tricks
+show that if you manipulate them you can
+actually do very interesting kind of
+things that transform what were
+difficult problems that you could only
+solve in 1d two things that you can work
+on imagenet scale of data ok so that's
+the end of the first half we can take a
+10-minute break or have a discussion on
+any questions around what we discussed
+in the first half are there any thoughts
+questions comments confusions
+No okay so let's take a 10-minute break
+and then we'll come back into the second
+bar okay so equipped with these five
+tricks I want to actually talk about
+generative model it's the topic that
+we're here to talk about and I'm going
+to talk specifically about two types of
+models prescribed and implicit models
+this is the way I split thinking about
+generative model so who wants to tell me
+what density estimation is anyone once
+the volunteer and explanation what is
+density estimation no takers today good
+guess shot from the back okay so we're
+going to look a little bit about density
+estimation people don't talk about
+density ation density estimation that
+much so let's talk a bit about models
+see you have typically you have been
+looking at conditional models so when
+you are building a classifier you are
+doing supervised learning it is a
+conditional model because it is a P of Y
+conditioned on some other observed
+variable X right and typically these
+kind of models are called regression
+models or classification models or in
+the most generic sense conditional
+density estimation and I'll I'll say
+what density estimation is then the
+other side is to not be conditional is
+to do unconditional models so that's
+typically what people mean when they say
+supervised learning you want to learn P
+of X like someone said at the back
+earlier there's no targets there's no
+labels and typically a generative model
+is meant an unconditional model but even
+that you know it's not it's not
+something you should really live by I
+guess the key point of this is to know
+that they are conditional and
+unconditional models and these are the
+things we're going to be building but
+that every probabilistic model in some
+form of the other is a generative model
+and I'm just pointing this out is that
+generative model can be an odd word to
+use it can be an odd statement may be
+meaningless at some point in time so
+just always think about and clarify as
+to what we're going to mean so we're
+going to talk about
+generative models of particular Pines
+right so the first thing to think about
+is density estimation when you did your
+first thinking about statistics and
+probability then you were exposed to
+this idea of the density of data and
+knowing its probability and you did that
+kind of density estimation by histograms
+by kernel density estimation then later
+on came PCA and factor analysis and then
+mixture models came so these were the
+basic tools of density estimation and
+they were any way of learning about the
+probability density P of X from observed
+data and all we're going to do is
+continue in this tradition and build
+richer models that are going to help us
+deal with really complex data so when a
+generative model can mean various
+different things
+many people will refer to a generative
+model by this word to generate so a
+model that allows us to learn a
+simulator of data right so in that case
+you can simulate you can generate and a
+model that lets you do that then is a
+generative model for some other people
+you will talk about a model for density
+estimation and that will be a generative
+model so if you are learning P of X in
+some way or some high dimensional P of X
+then that will be it and for other
+people will be just anything that is
+unsupervised will also be a generative
+model in some some way or the other so
+you can choose whichever definition that
+you like but typically the
+characteristics that's come between all
+of them is that there are probabilistic
+models that have some form of
+uncertainty some form of distribution
+that we're going to be manipulating
+typically we're always going to target
+the distribution of the data P of X
+either directly or indirectly and the
+keeping I think that makes it a
+generative model rather than just
+calling to classify is that you have
+very high dimensional output so a
+classifier has very low dimensional
+output it's 1 in binary classification
+1,000 for imagenet but it's not more
+than that whereas P of X or generative
+models are entire images entire
+sequences of events entire speech
+signals so these are sort of some of the
+definitions
+so I will always encourage people to
+think about machine learning in as built
+up of three components you have models
+and models are the thing that you used
+to describe the world that you use to
+describe the data that you're actually
+dealing with and to describe your
+problem it will put all your domain
+knowledge or the ways of things you
+think you should represent knowledge in
+the world and that will be what you have
+in your model now you also have data
+which came from the problem that you are
+thinking about and then we have learning
+principles and learning principles are
+those things that connect the data that
+you have with the model that you have
+specified and you need this thing that
+helps you interface these two things and
+so you will always have these learning
+principles and then for any choice of
+model and for any choice of learning
+principle you can then put those
+together to form an algorithm and even
+an algorithm you can form in very for
+even the same model and the same
+principle of learning you can create
+many different kinds of algorithms and I
+think if you keep this structured point
+of view in mind that is how you will see
+the connections like we did in all those
+tricks to every other area of
+statistical science whether that is in
+computational neuroscience or in
+probability theory or in operations
+research or even in machine learning and
+that is how we will see that things are
+the same used in different ways and how
+we can actually learn those tricks from
+other fields to make our own world
+better so I want to talk just a little
+bit about models there are two types of
+models that will break them into one are
+the fully observed models so fully
+observed models are models that you
+build based on the data that you see
+only right so they introduce no
+unobserved variables and so here you
+have a undirected graphical model with a
+threeway factor that is an unobserved
+graphical is a model of both the machine
+is another kind of model of that form or
+you have these kind of auto regressive
+models care order regress auto
+regressive models they are fully
+observed they only for build
+dependencies based on observed data and
+things that you can actually measure in
+the world then you have latent variable
+models and latent variable models do
+that the opposite of that they introduce
+other variables which cannot be observed
+in the world but which we can learn
+about based on the data that we have
+seen and latent variable models are both
+of these are equally popular machine
+learning and undulation variable models
+will have two different kinds of latent
+variable models one will be the
+prescribed models and prescribed models
+are models where you will decide that
+the observational data that you have has
+some kind of likelihood function there
+is a noise model and by choosing a noise
+model say in this graphical model we
+have a random variable Z which is
+unobserved and then we have a new random
+variable X which itself has some
+distribution that we choose and this is
+a lot of knowledge that we add we
+basically say that we can know something
+about the probability that this data X
+has in the world even if it's just
+saying that it has Gaussian noise that
+is a useful amount of knowledge and that
+is the likelihood function that we write
+in all other areas of statistics and
+machine learning and this is why this
+prescribed models are basically
+likelihood based methods of estimation
+right and similarly up at the top
+they are also prescribed in this sense
+that the observed models also use
+likelihood functions and they are they
+are prescribed but implicit models they
+basically use this trick of the change
+of variables that we discussed earlier
+they take a random variable Z and
+transform it through some function f and
+that is what they say they say that you
+can simulate data instead and so these
+models are sometimes called likelihood
+free models so if you are reading in
+biostatistics you will often see this
+expression of likelihood free estimation
+and likelihood free model so we're going
+to look at this but most of the time
+we'll spend talking about latent
+variable models so when it comes to
+learning principles you now have a whole
+plethora of learning principles to
+choose from the first ones that you
+exposed to what the exact methods where
+you did enumeration of all the
+probabilities using a probability table
+or you learnt about conjugate
+exponential family models where you
+could do things in closed form you also
+did in numerical methods numerical
+integration for simple one-dimensional
+maybe two dimensional integrals you
+computed the integrals exactly other
+methods like the generalized method of
+moments maximum likelihood maximum
+a-posteriori laplace estimation
+and so on and on and on so many and many
+more being added all the time and
+hopefully you would have seen at least a
+little bit of all of these different
+kinds of methods but we all look at
+maximum likelihood expectation
+maximization variational methods and
+well I should update this list we'll
+look at one other thing which well just
+generically called non maximum
+likelihood so things which live outside
+this list so now you get to choose one
+of your models and you get to choose
+literally any one of these learning
+principles and then that's how you will
+fuse your data in with your model and
+then you will be able to build an
+algorithm of some sort so this is where
+everything comes on so let's go through
+four different cases so that you
+understand this thing so you can take a
+convolution on your own network this is
+a model this model encodes the fact that
+we want to model images images have
+certain translational properties and
+because of those invariance and
+translational properties we will use
+convolution so that's what goes into the
+model we're going to choose to do
+penalize maximum likelihood
+so that is maximum likelihood with
+penalty Ridge regression methods or map
+map estimation which is core and then
+you get to build an algorithm in various
+different ways you get to choose what
+kind of optimization that you get are
+you going to use some precondition
+optimizer are you going to use some
+stochastic optimized are you going to
+use a batch method like BFGS you can
+choose what kind of penalization you
+will use whether it's l2 r1 what other
+kinds of regularization you are at and
+all of these will build very different
+kinds of algorithms that you will test
+and this is the thing that you're doing
+sweeps over when you're doing
+experiments let's look at this one which
+are we won't talk about today you have
+the restricted Boltzmann machine which
+is the latent variable model and it's
+undirected and you can do maximum
+likelihood estimation to learn the
+parameters which live in these arrows
+and there are various different kinds of
+algorithms that you can create you can
+solve that by doing contrastive
+divergence which is built based on
+building a Markov chain to sample the
+Z's given X you can do a variation of
+that called persistent contrasted
+divergence you can do other ways of
+manipulating the gradients by tempering
+and natural gradients and the two things
+we are going to look at today are latent
+variable models
+Plus variational inference that we can
+build many different algorithms we can
+create a variation of the e/m algorithm
+we can do another algorithm call
+expectation propagation we can do other
+simplifications call approximate message
+passing more recently we've creates
+things call variational autoencoders and
+then with the implicit generator model
+setting we can do the same thing we can
+use two sample testing as our learning
+principle and then we can create many
+different algorithms based on what we
+have based a method of moments using
+approximate Bayesian computation or the
+way we do it in generative adversarial
+networks but all of these take the same
+model the same inference and then end up
+with very different looking algorithms
+but they're not actually that different
+right they may behave different have
+different kind of use cases but they are
+they have a lot to share with each other
+so let's talk about different types of
+generative models and when you want to
+build a generative model there will be
+several design dimensions you want to
+think about the thing is like how will
+you choose your model and choose your
+corresponding principles you will need
+to think about the data that you have
+whether the data is binary whether it is
+real valued whether it's some mixture of
+the two whether they have some ordering
+involved in the data and that data is
+going to affect how you will design your
+model you will need to think about the
+dependency structure in that data can
+you assume that you just have a set of
+images that are all independent or iya
+dealing with the time series in which
+case there is a temporal structure which
+you need to account for or are we
+dealing with some maps where we're
+modeling bird movements or forest fires
+and then there's a spatial aspect that
+we have to deal with you need to think
+about elements of the representation
+that were gee are those latent variables
+we will introduce or unobserved
+variables or dealing with the causality
+continuous or the discrete or there's
+some mixed are the continuous-time on
+the discrete-time and then we the last
+one is often to think about the kind of
+dimensionality we want to deal with are
+we going to deal with parametric
+functions and parametric models which
+means we're going to build very large
+functions with lots of parameters that
+we're going to choose by optimization or
+are we going to do some other kind of
+methods which are nonparametric infinite
+dimensional that will rely on the data
+to inform the kind of predictions or
+inferential questions that we ask and
+then you have other kind
+the things which really affect your
+decision-making the computational
+complexity the modeling capacity that
+they have whether there's bias whether
+you need uncertainty how well calibrated
+those models are as it they represent
+the probability of the data that you saw
+whether your model is interpretable to
+humans or not all of these things matter
+and there is a generative model that you
+can decide and design based on what your
+needs are so the first kind of
+generative model have these fully
+observed models and as they said a fully
+observed model deals on the data
+directly and they don't introduce any
+other variables other than what is
+observed so here is a chain of data and
+the data is just dependent only another
+data point and of course all the arrows
+represent some kind of functions and I
+just want to make a distinction between
+two different things we call sometimes
+these model parameters we'll call them
+global parameters global parameters are
+things which are relevant to all data
+points that you see and often you will
+talk about local variables or local
+parameters and local variables and local
+parameters are something which are
+specific to individual data points so
+typically parameters theta of your model
+are something you learn over the whole
+data set but you will learn latent
+variables em4 data point xn so this is
+this distinction between local and
+global variables and so one kind are
+fully observed models are Markov models
+they will start with some X 1 with a
+categorical distribution then you above
+build an autoregressive chain we'll say
+X 2 is the categorical distribution
+conditioned on X 1 with some function pi
+and so on and so forth until you reach X
+I this is one of the most children the
+oldest model probably in all of
+computational thinking people have won
+Nobel prizes for building a model like
+this right and so very important and
+very powerful and then you can write the
+joint probability as simply the product
+of I or P of x given all previous FS and
+depending on what she chooses F if F
+allows you to do some variable order you
+can build infinite dimensional or K
+order autoregressive models and you can
+condition these kind of models on other
+external quantity
+and what for example in economics you'll
+hear is called these narcs models and
+nonlinear auto regressive models with
+exogenous variables if you've seen those
+these are all these models but for the
+case that I am thinking of the case that
+many people do these days all these
+functions are for PI R builds by deep
+neural networks so that you can actually
+build and learn Mis cannibal way so
+fully observed models have several
+properties as I said because they are
+fully observed they directly encode how
+data points are observed in the world
+which means you don't need to make too
+many assumptions about what's going on
+any data type can be used whether it's
+discrete or continuous or even a mixed
+and if you're building a directed
+graphical model like the graphs that I
+was just showing where there is the
+arrow of dependency then parameter
+learning is going to be very simple you
+can write up the log likelihood that we
+wrote there before and then you just
+need to take simply the gradient and
+that is the easiest thing you can do you
+know the log likelihood exactly and you
+can do that fast and you can scale this
+out to very large models then you have
+lots of different kind of optimization
+and lots of different applications over
+time but of course there is this order
+which were using things in and so
+there's an order sensitivity which is
+coming in and if we were dealing with
+directed models then think undirected
+models and that's much more difficult
+because parameter learning in undirected
+models is very difficult because we need
+to know the normalizing constant it's
+not known as in the directed case and
+generation can be very slow in either of
+these models because we need to go
+through the sequential process of
+simulating from the Markov chain but
+when you do do that for example one
+model called pixel CNN and it has now
+various kinds of instantiation thus far
+can give you like really amazing
+unconditional samples or conditional
+samples in this case that really sure it
+has learnt to date on and really can do
+amazing things so if you want to look at
+sort of the space of different kinds of
+models then one way to think of there
+would be along an axis of directed
+models versus undirected graphical
+models and another axis of continuous
+variables versus discrete variables and
+then you in any quadrant that you choose
+you can find a kind of fully observed
+model
+across any any area of statistical
+science so let's choose a good block so
+here's a good one
+undirected graphical models with
+continuous variables for example many of
+you would have studied thousand mrs
+which are Markov random field and then
+these are models there and then you can
+learn about all the things in this they
+are long linear models as they're
+sometimes call people don't work in this
+space anymore of discrete and undirected
+models but both of machines are there
+Ising models hopfield networks parts
+models live in this case but where most
+people work in this case is in the
+discrete and directed case this images
+can be represented between 0 and 255 and
+so that's discrete and you can build
+made fully visible sigmoid belief
+networks this pixel CNN which I just
+described to you any RNN language model
+that people brought which in this
+category and other models which live
+outside even of more the mainstream like
+context-free switching algorithms that
+live in this space so so a lot of fun
+fun models and to explore in this in
+this space so then we'll go to the
+second part which are these latent
+variable months the latent variable
+model introduced and unobserved and what
+we'll call local random variables so
+instead of only X there's now another
+variable said and that is something you
+can't measure but said is something very
+powerful because introducing said a
+helps you understand issues around the
+causal structure of the data and the
+world that you're dealing in and it
+allows you to build very complex
+dependency structures so you don't need
+to design the dependency structure by
+hand you can introduce the Z integrated
+out and then it will induce the
+dependency structure in X which is the
+thing you actually want to have and so
+here's one kind of model which is called
+a deep latent Gaussian model it's a
+directed graphical model it has several
+layers of latent variables which are
+stochastic hidden layers and then you
+connect them through deep networks in
+any way that she likes
+example z3 from a Gaussian you can
+sample z2 conditioned on z3 from a
+Gaussian with parameters mu and Sigma
+that are functions of the previous Z and
+we can create a tree a hierarchy in this
+case and then finally we'd get your
+final the observed data where we choose
+a likelihood function when this
+case it is a Gaussian but it can be
+anything can be Bernoulli distribution
+for binary data can be a multinomial
+distribution if we had some form of
+categorical data and it can be products
+for mixed mixed kind of distributions or
+non-negative quantities so latent
+variable models have very different
+properties they have very easy sampling
+because you can just follow this tree
+and then you can start from dead tree
+generates it to generate said one get
+the sampling they're an easy way to
+include this hierarchical structure or
+depth into your model and it's easy to
+encode the structure that you believe in
+the world so for example physicists
+actually do have knowledge about how
+they think the image of the galaxy
+appearing on the telescope appears how
+every pixel appears and you can put that
+knowledge in build a graphical model
+very similar to what what I just showed
+you in the previous slide and you avoid
+this order dependency that we saw
+because marginalization this integration
+of the latent variables induces
+dependencies and latent variables have a
+different interpretation if you are
+thinking putting your hat on from
+information theory or from compression
+theory as a compression or
+representation of the data and I guess
+one of the important things is that we
+always want to do model scoring we want
+to do model comparison we want to choose
+the best model for the problem that we
+have and being able to compute the
+marginalize likelihood is what we can do
+in latent variable models but what is
+difficult is that you need to know these
+latent variables and to be able to do
+any of these things and that inversion
+process is very hard it can be difficult
+to compute the marginalize likelihood
+which is why we need all the tricks from
+part one and it may not be easy to
+specify because you need to know these
+sort of going back to this inversion
+process you may have to choose the kind
+of family of approximations and that can
+be hard to do but in when you do that
+you can build very flexible and powerful
+latent variable models of images for
+example and this is a model called draw
+so we'll just quickly look at this one
+but again there are lots of different
+dimensions for which you can build a
+model you can choose linear models
+versus deep models you can choose
+parametric models versus non parametric
+models you can choose continuous latent
+variables versus discretely
+variable and then you can build sort of
+lots of different models in different
+cases so maybe something you haven't
+thought of or seen before these deep
+nonparametric and discrete models so
+there are lots of models in this case
+one example what they call cascaded
+Indian buffet processes which are now a
+sequence basically of discrete infinite
+dimensional distributions of a binary
+object or if you've heard of a something
+called Jewish lay process then you can
+build a hierarchical darshan a process
+which is the nonparametric extension of
+a model call Lda that lives in that
+corner or the Mun we are actually going
+to look at today are deep parametric and
+continuous latent variables nonlinear
+factor analysis nonlinear Gaussian
+belief networks and all these deep
+latent gaussian models like v AE the v
+AE algorithm in draw so we're going to
+look at that but lots of other models to
+look at and I just want to highlight
+separately from the latent variable
+models which I just described to these
+implicit models implicit models are
+simulators they transform an unobserved
+source of noise into data using a
+parametrized function f so we saw this
+picture before when we looked at their
+path wise gradients in the pathways
+estimation this is exactly of that form
+we choose some source of noise and then
+we choose a path through which to
+transform that noise and because we will
+know F we're going to manipulate F and
+use the knowledge that we have to learn
+its parameters and learn a generative
+model in this way and again we're going
+to use the change of variables will be
+the central quantity that will exploit
+when we do this and the model that most
+people see today is this one here which
+is the generator network from DC Gann
+and which just simply starts is choosing
+a Gaussian latent variable and then you
+create a function f which is this deep
+continent which actually grows art and
+image but the function f can literally
+be anything can be a linear function can
+be a deep neural network can be a
+recurrent model like in El STM it can be
+a non parametric function like a
+sequence of Gaussian processes lots of
+different things he can use implicit
+models have different properties and
+some they are also easy to sample and
+easy to specify because you can just
+write out this function f it's very easy
+to compute the expectations we
+because all you need to do is just
+sample from the noise and generate from
+the function and then you basically can
+take averages over the samples and it's
+very easy to exploit large scale
+classifiers in confidence when you
+design those functions but if you had
+any constraints like these functions if
+they needed to be invertible if there
+were other kinds of constraints you
+needed to do then an optimization can be
+very difficult and the invertibility may
+be hard to maintain there isn't this
+likelihood which seems to be an
+advantage but is sometimes a
+disadvantage because not having a
+likelihood model is what causes you to
+be unstable during optimization and to
+not learn the correct probability
+density but the main reason is that you
+can't extend to generic data types if
+your function is continuous the data you
+generate is continuous if your function
+is discrete you will generate discrete
+data but well you won't be able to
+handle discrete data and it's very hard
+to compute the marginalization and your
+model scoring in this case but again
+lots of different things to consider the
+one we are going to look at on this time
+we're going to look at functions that
+operate in discrete time but you could
+also easily look at these kind of
+implicit models which are diffusions
+based in continuous time so we're going
+to look at one line sampling
+transformations which we looked at in
+the earlier trick normalizing flows fits
+into this which we won't discuss today
+and generator networks in ganz and
+volume and non volume preserving
+optimizations but you've already seen
+some of these if you looked at the
+launch of is de or Hamiltonian
+Montecarlo or you know simple physical
+sarcastic differential equations okay I
+want to talk about influence in
+prescribe models so these are models
+with latent variable with the likelihood
+function so the model evidence are the
+marginal likelihood or the partition
+function is the key quantity we will be
+interested in and that means we want to
+integrate out Z to know P of x1 and the
+learning principle of knowing the
+bayesian model evidence is that all we
+want to do is at every step of
+optimization every time we look at our
+data we want to make sure that this
+model evidence becomes maximized we want
+the maximum evidence the highest
+probability of data that we can possibly
+have and that's why optimizing the model
+evidence is the principle for learning
+and so that's the principle we if we
+have these latent variables we want to
+integrate said to know P of X and once
+we know P of X we're going to maximize
+it to try and get to learn the best
+model possible of course there's an
+integral which is very difficult to
+compute so maybe some of our tricks will
+be useful here and the basic idea is to
+transform this integral which is an
+integral of an expectation of some
+distribution into an expectation of a
+distribution that we choose and once we
+can choose that distribution then we can
+be more flexible all right so we've seen
+that before we use the identity trick
+and Jensen's inequality to derive this
+lower bound on the marginal likelihood
+and as I said this marginal likelihood
+is called the variational free-energy
+and it's the basis of what we will call
+variational inference which is one of
+the most popular methods for doing
+inference in latent variable models and
+it is called the variational free-energy
+because I chose to introduce this
+distribution Q and I'm free to choose
+the distribution Q that allows me to
+best match the model likelihood and so
+what I'm gonna have to do here is learn
+something about Q but I also have to
+learn what about P where's the model the
+model that I'm actually interested in
+and as I said it's sometimes called the
+evidence lower bound because it is a
+bound on the model or the data evidence
+and I said we need to choose true in the
+two tricks we used here with identity
+trick and the bounding trick so this
+just lets me allow you to explain in
+general what the variational principle
+is a variational principle is just a
+family of methods that allows you to
+approximate something difficult with
+something simple right and by being
+variational that word variation you can
+substitute it with the word functional
+it is an optimization in a functional
+space right so here some complicated
+distribution this distribution is the
+density and the density is a function
+special kind of function and so this is
+a variational problem because I'm going
+to choose an approximating class of
+functions and it is variational because
+I'm going to try and find the best
+function to match that function and you
+can do this directly using functional
+gradient descent which is what we call
+the variational calculus but we're going
+to try and avoid the variational
+calculus because we can actually put
+ramit rise these distributions through
+other parameters file and that means we
+can do parametric optimization or
+standard optimization and the parameters
+Phi right so this is in general which is
+why even though this is called
+variational inference there are lots of
+things which are variational methods in
+fact reinforcement learning is itself a
+variational method because the policies
+PI are these functions which are doing a
+functional descent over or you know
+they're many all of information theory
+fits into this kind of thing and
+building lots of other bounds lets you
+build variational methods so just be
+flexible there are lots of very few
+methods that exist out there and we want
+to fit these variational parameters Phi
+so in very tional inference there are
+two terms there's this first term which
+is a log likelihood of log P of x given
+that this is the model you get to choose
+so this is for example a Gaussian
+distribution in which case this is an l2
+loss and then you get a penalty term
+which is going to say that this
+distribution Q that I have chosen should
+be something close to my prior PI and
+this is good because this is a penalized
+way of doing learning and we always want
+to have regularizes and the other thing
+that's useful is that you didn't need to
+design the regularizer just by applying
+the variational principle and applying
+these two tricks I likelihood a
+reconstruction term appeared but also
+the correct and you know
+regularization appeared and this
+distribution Q that we introduced which
+was when we did importance sampling was
+just some generic distribution was a
+proposal now this distribution Q has a
+meaning it is a posterior distribution
+it is something that tries to invert the
+probability it tries to give you the
+probability of Z given X so in all the
+slides that's here before the notation
+is a bit sloppy
+you should read Zed given X here and
+I'll try and fix them when I put that on
+line so again Q of Z tries to match the
+true posterior P of Z given Y and P of
+knowing P of Z given Y is one of the
+useful information quantities and then
+you have a reconstruction cost which I
+talked about and then a natural penalty
+which is the mechanism for Occam's razor
+now just some comments on this
+distribution Q by having this problem Y
+was an ugly integral is now enough to
+problem because we can just how use this
+is the last function and there are two
+types of parameters there are parameters
+theta which live in P and there are
+parameters Phi which live in Q and these
+are the two things you need to optimize
+and so this is now much easier problem
+to do as I said I've been writing Q of Z
+but it actually depends on the data and
+sometimes I'm using X and sometimes I'm
+using Y sorry for that and you have easy
+convergence assessments because this is
+a bound every time you do an improvement
+the bound can only go in one direction
+it must go up and so you'll be able to
+this is how you can actually plot while
+you are testing this and then you have
+purel parameters of cubes in okay so the
+key thing here I want to just switch to
+talking about this distribution Q of Z
+so cubes there was something you had to
+choose and as I said it is something
+that's trying to match the true
+posterior distribution which is said
+given X this probability of Z given X so
+what do real-world distributions
+posterior distributions look like so
+here's an example that was made on M
+NIST in two dimensional latent variables
+and by enumeration I'm just going to
+show you what the real posterior
+distribution for certain kinds of simple
+models look like so here's a simple
+model it has two latent variables it's
+simple one layer with a Gaussian output
+and the what is the real distribution is
+the gray thing so you just need to look
+at the gray thing it's the same in each
+kernel it's just a different zoom levels
+and what are blue are samples from this
+Q distribution which we sample from
+after training this method so you can
+see in some cases you can't see because
+of the light but some cases you can do
+really well the blue can overlap the
+white really well you can actually learn
+the real distribution and in fact you
+can even learn it when it has the strong
+correlation structure you can do that
+but this is the model I think with the
+sigmoid non-linearity in there in the
+network but when you start doing other
+kinds of things you get weird blobs like
+this or you get this one has at an age
+it's a surface that has a sharp thing
+like this and then carries on or you
+have something that looks like this
+which has a period of very high mass and
+then a very long tail now if you were to
+choose a queue
+as a Gaussian it won't be able to learn
+this this this this basically it's going
+to struggle and you can sort of hear it
+does well because you can do Gaussian
+ish things but it's cut off on the other
+side and so real whopper series even in
+simple cases are complicated and when we
+have high dimensional data they're even
+more complicated so then we need to have
+ways of designing these Q distributions
+that are very flexible and efficient and
+that is one of the ongoing areas of
+research and so you basically have a
+spectrum of things to choose around this
+Q you have on one side Q star which is
+the optimal posterior distribution which
+is just the result of Bayes rule P of X
+given Z times P of Z you can never know
+this because if you knew the truth you
+wouldn't do any of this so this side you
+can't get to the exact opposite end is
+where you choose that everything is
+independent and what we call the fully
+factorize this is the least expressive
+way to design a q function but very
+popular so you can just do the product
+over K dimensions of individual
+univariate gaussians for example right
+and then in between there's a lot of
+different things so this is where we
+want to be able to build these deep rich
+distributions and so what lives in
+between are things which are called
+structured approximations they introduce
+some kind of dependency structures they
+can see Zed K is dependent on some
+subset of all others ads in the model
+and this is where you can do a lot of
+things and sometimes you'll hear people
+say structured mean filled in the data
+and all the times not so I thought we'd
+do a very simple example so here's a
+model which has a Gaussian latent
+variable said it has a likelihood
+function which I'm leaving generic but
+you can assume it's a Gaussian or
+Bernoulli distribution and then I'm
+choosing a Q distribution which is a
+product of univariate gaussians said I
+given mu I and Sigma I and so what we do
+is we draw it out a variational lower
+bound and then we would substitute in
+here this care because the products over
+and things actually becomes the sum of
+Cal's for each of the individual terms
+then you can write out the KL between
+two gaussians or the KL between any two
+exponential family distributions is
+actually known in closed form you can
+actually do this as an exercise for
+yourself to derive the kr between two
+distribution
+and you'll see it will have a form like
+this it will be a squared error
+reconstruction term and then we'll have
+some variance correction which is based
+on the on the log log variance and then
+you can get the log likelihood that you
+always expect so if this is a Gaussian
+you get an l2 error you get the l2 loss
+here so you can do lots of things to
+choose the Q because even here you still
+I chose this Q as this product of
+univariate gaussians but maybe that's
+not a good thing to do so you can do
+lots of things in between you can do
+mixture models and mixture models is a
+very popular one or you can just choose
+to build gaussians with much more richer
+covariance function there's many papers
+and building rich covariance models for
+Gaussian distributions you can build
+structured mean feel they can build it
+basically an auto regressive model so
+all the other models that we learnt
+about they can be used to design new
+posterior approximations or you can
+create other kinds of things these two
+are relation of Xillia variable models
+or normalizing flow methods and I have
+lots of references at the end if for
+anyone who wants to look at them so the
+last bit is just look at the
+optimization of this kind of loss
+function so there are many different
+ways of doing the optimization the
+classical way was to do what is called
+the variational e/m algorithm and then
+to do stochastic versions of that where
+we can subsample and use many batches of
+data instead then more recently what
+came was this idea of doubly stochastic
+variational inference and I'll explain
+the couples with this idea of amortized
+inference which is the one that most
+people use today so in the variational
+problem and in in an e/m algorithm if
+you recall what an e/m algorithm is
+you're going to do an alternating
+optimization between model parameters
+theta and variational parameters Phi
+right so an e/m algorithm when you write
+it in code always looks as follows you
+write a for loop for I equals 1 to n
+then you write a function for the e step
+and the e step itself has a for loop
+where you compute you compute the
+gradient with respect to all the
+variational parameters Phi say e step is
+about expectation and the expectation
+you want is about the Q distribution so
+these are the distributions are the
+parameters of the Q distribution and
+then you come to the M step
+as the optimization with respect to the
+model parameters which are Tisa and
+because this is the bound like nem
+algorithm every time you do one setting
+of updating theta and Phi you improve
+the bound until you reach a point where
+you can't do that anymore and you
+inherit this by using variational
+inference because the variational bound
+is also a quantity that is convergent
+this way and the idea of just to know
+this is that the classical idea of e/m
+algorithm is that you have a model P and
+approximate distribution Q you go in and
+you do the key step the East step which
+is to evaluate the expectation under
+that distribution Q and in the classical
+way you always assume you can compute
+this integral exactly and analytically
+and if it's known to you analytically
+you use that result to compute the
+gradient so this is what every ml Gotham
+looks like this is difficult because now
+we're gonna have to invent thousands of
+new tricks just to solve this this
+integral here and by inventing new more
+and more tricks we get situations that
+are less and less generic and much more
+specialized so in some sense that's not
+the right direction to do we want to see
+if we can create generic ways of doing
+that and just to jump to the end we're
+gonna try and swap these two things
+using the two tricks that we had earlier
+so let's talk about amortized inference
+and just stay at the e/m algorithm a
+little bit more right so the e/m Elger
+them again this is the algorithm it has
+an e step for i equals 1 to n so you go
+through every data point and for every
+data point you optimize this variational
+bound and you solve for every data point
+and you find variational parameters Phi
+N and you do this again for every data
+point and then once you solve n
+optimizations and you have n sets of
+parameters then you go to the M step and
+then you compute this average which is
+an average over n data point so the
+problem now is that with this e step
+what you have to do is you are solving
+the optimization for every data point
+afresh you never reuse what you just did
+for data point n minus 1 and you won't
+use what you will do for data point n
+plus 1 so this seems wasteful and
+some sense you can think of this
+classical Estep is something that is
+like memory lists it doesn't use the
+knowledge of other kinds of Estep
+computation to inform the estep
+computation for data point M and so what
+we want to do is remove that sort of
+deficiency in some sense and introduce
+an idea of memory and this is where this
+idea of introducing what they call an
+inference network or a recognition model
+is what we do is now we build some new
+model we'll call this thank you and it
+will have a global set of parameters Phi
+it won't have parameters Phi n for every
+data point will have one set of
+parameters Phi that will apply to all
+the data points right and that's the
+point of having these inference networks
+and the parameters of Q are now no
+longer global per data point parameters
+that you have to do optimization for
+there are actually a global set of
+parameters that are applicable to both
+training and test time and the reason
+it's called an amortized inference is
+that this new set of global parameters
+is what you use to spread the cost of
+the inference over all the data points
+you get to do sometimes what they call
+sharing statistical strengths where you
+use all the other data points inference
+to help inform your own inference and so
+the joint are and then by having this
+kind of inference network you no need to
+do an EML Gotham you don't need to
+alternate between model parameters and
+variational parameters because there are
+only global parameters you can do joint
+optimization of all of them
+simultaneously right so the idea of
+inference networks or anyplace where you
+see this element of some kind of encoder
+appearing is that it gives you an
+efficient mechanism to learn kind of
+posterior distributions where you have
+this kind of memory component where you
+can't share knowledge between different
+data points so let's put very rational
+inference and amortize inference
+together and so we have this approximate
+posterior distribution Q which we need
+to design in truth we have a
+reconstruction term which is going to
+give us the fidelity of how well we are
+learning the data we see and we have the
+penalty term to do Occam's razor
+now we implement a stochastic encoder
+decoder system so our model is
+effectively a decoder it takes latent
+variable Z
+through some kind of model and generates
+data exa it is a generative model and
+then we have a recognition model or an
+inference Network which states data X
+through another set of global parameters
+and gives us samples from this set Q in
+fact the two things that this model
+needs to do it needs to be able to give
+you samples and you need to tell you
+what the entropy just what log Q is
+doesn't need to do anything else so when
+you code a class for these kind of
+distributions as long as the
+distribution can have dot sample and dot
+entropy or dot log problem that's all
+you need to basically implement these
+two things so again as I said the
+decoder is a likelihood model the
+inference is now dealt with by this
+encoder or variational distribution and
+what this also does when you can see
+this it transforms an auto encoder which
+is a deterministic function which is not
+probabilistic in this way into a
+generative model because now you can
+actually sample from it by just sampling
+from Z and then generating data right
+and so this specific combination again
+going back to that principle of machine
+learning that I asked you to think about
+we chose a latent variable model ik Zed
+and you chose a principle of inference
+which is based on variational inference
+and you implemented it using amortized
+inference with the recognition model
+that thing together is an algorithm and
+that algorithm is today called a
+variational auto encoder please don't
+call it the very short encoder model a
+little part of me will die so never do
+that that is wrong BAE
+is an algorithm because it defines a
+full set of computation of computational
+graph for dealing with data learning its
+posterior distribution and doing its
+optimization together so never forget
+what the model is it is a latent
+variable model what the principle of
+inference is you use variational
+inference you can replace that with
+almost anything else that you like and
+we'll do that now in the next step and
+then how you put it together was by
+using this inference network on
+amortized inference but we could have
+easily solve this by variational e/m or
+Monte Carlo e/m or hybrid Monte Carlo
+sampling or several other methods so ok
+we are running out of time so I'm just
+quickly going to say a little bit about
+the stochastic gradient estimation again
+here's that famous problem that came
+where we had two tricks earlier we need
+to compute the gradient of an integrand
+with respect to some function and in the
+e/m algorithm we had first compute the
+integral then compute the gradient and
+what we're going to do now is we're
+going to swap the gradient with the
+integral first and the way we can do
+that swapping of the greater an integral
+is to exactly use those two tricks that
+we had
+you can either compute this gradient by
+the pathways estimator using a ripper
+ammeter ization trick or you use the
+score function estimator by applying the
+identity and the log derivative tricks
+right and so you get these two ways of
+doing estimation both of them are
+equally valid and what will inform your
+choice will be again how you design your
+model f so for example if you were
+working computer graphics and your model
+you didn't want to write a model you
+actually wanted to put a renderer
+graphics render as the model then you
+wouldn't be able to differentiate
+through the renderer not in general
+though they are differentiable renderers
+so then the only thing you could do is
+to do this model but if you were doing a
+more statistical approach where we were
+understanding the biology of the genetic
+tree and we actually built that model
+then we would know about f we could
+differentiate and then that would be
+maybe the better approach to take so
+those are called doubly stochastic so in
+the last ten minutes I just want to
+quickly talk about estimation about
+comparison and learning in implicit
+generative model so in implicit
+generative models you have a simulator
+from some data points from some random
+source said through this function f and
+it can just simulate data X and the
+tasks that you have to do is compare
+samples from your data model which I'm
+going to call Q with the true data
+distribution which is P star and this is
+a classical problem in statistic which
+is called the two sample testing problem
+you have two sets of samples you need to
+compare them in some way and we will
+actually want to do one step more than
+what statisticians we would do we also
+want to do learning of our model
+parameter so we're gonna do need to do a
+little bit more and so all we need to do
+is find ways to compare distributions
+and there are either two things you can
+do you can either compute P divided by Q
+and if P divided by Q is one that is the
+definition of learning because then
+you've learned the data point or you can
+say P minus Q and if he minus Q is zero
+then you've also lunch right so these
+are the two principles of learning
+involved here and you can do both of
+them
+if we had an hour we could just talk
+about this one slide as different ways
+of do a density ratio versus density
+difference estimation so let's at the
+high level talk about this estimation by
+comparison always involves two steps
+it's exactly like the e/m algorithm
+before you have a testing step or a
+comparison step where you're first going
+to find something some tools some trick
+that helps you compare one sample of
+data with another and to say how close
+it is or how different it is and once
+you have that thing which tells you how
+close are different that's exactly like
+gradient and then you can use that to
+learn so then you can do the learning
+step or the adjustment step and so here
+you have the hypothesis is either that
+the two distributions are the same or
+the two are different and you're going
+to try and find some loss function f as
+I said you can do this by density
+difference methods by looking at P minus
+Q and lots of methods and the maximum
+mean discrepancy optimal transport
+moment matching are going to fit into
+this category I'm not going to talk
+about that today and then you can either
+look at P divided by Q which is the
+density ratio method and we can do this
+either by class probability estimation
+because we looked at that as a one
+specific trick but there are other
+methods based and Bragman divergences
+and F divergences that we can solve that
+instead so this is sort of in general
+view of that landscape so let's just
+look at adversarial learning in
+adversarial learning we're going to look
+at this ratio of P divided by Q and
+based on the density ratio trick we know
+that we can solve ratios like this by
+building classifiers instead our
+generative model will be sampled from
+some base distribution like a Gaussian
+and generate this to some function f
+like a conflict to generate samples and
+then we're going to need to do
+comparison right and so the comparison
+is to build this classifier that's what
+the density ratio trick is so how do you
+actually compute P of y equals 1 given X
+you need to build a classifier and
+that's in the statistical language
+called building a scoring function so
+you're going to build a scoring function
+which is going to tell you what the
+probability of y equals plus 1 is and
+the probability of y equals minus 1 is
+just 1 minus that probability because
+they must sum to 1 and then now that you
+have this you can assign a Bernoulli
+loss you can say I want things
+I want data that's under queue to be
+seen as the negative class and data
+that's frumpy to be seen as the positive
+class and that's how you'll actually
+learn this scoring function with that
+and you can use any sort of scoring
+functions you don't only need to use the
+bernoulli you can replace this with the
+squared loss in which case is called a
+breyer loss and you can replace it with
+several other losses their entire papers
+just on choosing scoring functions and
+how you can choose the best scoring
+function depending on the problem you
+have so this kind of idea has lots of
+different names and the most generic
+name it has been given it's called
+unsupervised as supervised learning and
+you can see that we wanted to do this
+unsupervised learning and what we first
+had to do was build this classifier so
+that is the supervised part and that's
+unsupervised supervised learning I
+mentioned earlier in the approximate
+Bayesian computation literature they've
+also had this idea of building a
+classifier to decide moments or ways of
+comparing two data points and then
+learning a Monte Carlo sample that's
+called classify ABC non-controlled north
+contrastive estimation is a way of doing
+non maximum likelihood estimation like
+all of this in this section is and so
+that uses the same idea and then
+adversarial learning in particular in
+the way it appears in ganz uses also
+exactly this principle so we have again
+an alternating optimization between two
+types of parameters you have model
+parameters Phi and then parameters of
+the scoring functions D right and in
+adversarial networks you will call this
+model the generator and you will call
+this scoring function the discriminator
+because it is a classifier and then you
+have to just solve the optimization
+between these two things so then again
+you have the comparison loss which is
+solve for the parameters of the
+discriminator this is the thing that
+tells you how close or how different
+these two set of samples are and then
+you have the generative loss who says
+well based on the knowledge that I have
+of D can I use that to give me a
+gradient and how you actually get this
+gradient is by using the remote ization
+trick okay so that brings me to the end
+the summary of today was to sort of give
+you some of the tools to manipulate
+probabilities and then use those tricks
+and tools to manipulate probabilities to
+then build all types of generative
+models that you could imagine right and
+we looked at different types of
+generative models which were
+undirected models fully observed models
+models with latent variables I asked you
+always to think about machine learning
+within this three three prong approach
+of thinking of models the corresponding
+learning principles and the joint idea
+of algorithms and the two examples we
+used of that we said was bae was one
+example of a model which was a latent
+proscribed latent variable model with
+variational inference which then gave us
+a VA e algorithm and the other algorithm
+we learnt about was ganz which use
+implicit generative model as its model
+it used this principle of two sample
+testing as its principle of inference
+and we put it together by building an
+algorithm that used a repro motorisation
+trick to actually do the optimization
+and then we spoke about lots of other
+things about stochastic optimization how
+we can manipulate those integrals to do
+a lot more scalable inference we spoke
+about amortized inference and how
+encoders typically ampere machine
+learning and then how we can build lots
+of different complex distributions over
+data there's lots more to do almost
+every one of these represents a
+different topic for research whether it
+is the last function itself whether it
+is how you build these Q distributions
+other ways of computing gradient
+estimators understanding their variance
+properties what are other ways of doing
+non maximum likelihood learning you know
+all of these represent a place of more
+research which needs to be done and I
+hope lots of you all will join us in
+that effort so thank you for your
+attention
+you

@@ -1,0 +1,225 @@
+---
+title: "Preparation and loading the data"
+author: "B Kleinberg https://github.com/ben-aaron188"
+subtitle: 'EuroCSS workshop: LTTA'
+output:
+  html_document: default
+  pdf_document: default
+---
+  
+### Welcome to the EuroCSS workshop on Linguistic Temporal Trajectory Analysis
+  
+In order to save time at the day of the workshop, we'd kindly ask you to set up your R workspace, test the functionality of your workspace with a few scripts, and download the data we will use for the paper hackathon.
+
+This script will guide you through the necessary steps.
+
+### Step 0: Prepare a folder that you use for this workshop.
+
+The easiest option is to [fork](https://help.github.com/articles/fork-a-repo/) the [workshop GitHub repo](https://github.com/ben-aaron188/ltta_workshop) and clone it to your machine so you have it available and can work with full version control on it.
+
+Alternatively you can also simply download the repository as a .zip file using the green 'Clone or download' button on the upper right part of the repository [here](https://github.com/ben-aaron188/ltta_workshop).
+
+Once you have completed either option 1 or 2, you should have a folder called *ltta_workshop*. In that folder, you can find the general workshop information as well as a sub-directory called *"workshop_practical"*. We will use this folder in the practical part of the workshop.
+
+Navigate to the folder `r_notebooks` and open the `workshop_preparation.Rmd` file in RStudio. To avoid clashes with paths, we recommend you run the remainder of this script by opening the `workshop_preparation.Rmd` file from the newly created folder.
+
+### Step 1: Download the hackathon data
+
+We have deposited the hackathon dataon the Open Science Framework at [https://osf.io/ptyv3/files/](https://osf.io/ptyv3/files/). You can download the main parent folder called `hackathon_data` as a zip and move it to the workshop folder or any other location on your machine.
+
+We will use these datasets in the afternoon part for the paper hackathon.
+
+
+### Step 2: Installing/loading required R dependencies
+
+#### R packages from CRAN
+
+These packages are available on CRAN and can be installed within R Studio using the command below.
+
+```{r}
+#clean your R memory
+rm(list = ls())
+
+#stringr
+if (!require(stringr)){
+install.packages('stringr')
+} 
+library(stringr)
+
+#data.table
+if (!require(data.table)){
+install.packages('data.table')
+} 
+library(data.table)
+
+#lexicon
+if (!require(lexicon)){
+install.packages('lexicon')
+} 
+library(lexicon)
+
+#syuzhet
+if (!require(syuzhet)){
+install.packages('syuzhet')
+} 
+library(syuzhet)
+```
+
+
+#### R dependencies from GitHub/source
+
+The *naive context sentiment* code is "live" available on [GitHub](https://github.com/ben-aaron188/naive_context_sentiment). 
+- You can [fork and clone this repository to your machine](https://help.github.com/articles/cloning-a-repository/)
+- or, alternatively, you can load the dependency from the main directory of the ltta_workshop folder using this command:
+
+```{r}
+#set you working directory to the folder for the remainder of this intro script
+source('../workshop_practical/r_deps/naive_context_sentiment/ncs.R')
+#using this method ensures you have the NCS dependency. It does not update to any commits made in the future (use the GitHub dependency for this for future use)
+```
+
+The *txt_df_from_dir.R* function loads .txt files from a (nested) directory into an R dataframe. This makes the text data (e.g., transcripts) useable for later analysis. Code is "live" available on [GitHub](https://github.com/ben-aaron188/r_helper_functions/blob/master/txt_df_from_dir.R) and in the local source. 
+
+```{r}
+source('../workshop_practical/r_deps/txt_df_from_dir.R')
+```
+
+### Step 3: Loading the workshop data into R
+
+*Important*: The following steps assume that you are in the `./ltta_workshop/workshop_practical` folder.
+
+In that folder, you see three sub-directories:  `r_deps`, `r_scripts`, `sample data`.
+
+- `r_deps` contains the local versions of the dependencies needed for this workshop.
+- `r_scripts` contains the scripts used for the feature extraction of the hackathon data.
+- `sample data` contains data we will use to walk-through LTTA in the morning practical.
+
+The following steps guide you through loading and testing these datasets.
+
+#### Load the "YouTube vlogger" sample data
+
+This dataset consists of all YouTube vlog transcripts from [Casey Neistat](https://www.youtube.com/user/caseyneistat) until April 2018 (adopted from [a recent paper using the LTTA method](https://arxiv.org/ftp/arxiv/papers/1808/1808.09722.pdf).
+
+This script will guide you through the full, minimal LTTA workflow for a set of ten vlog transcripts.
+
+1. Load raw YouTube transcript data from individual .txt files to an R dataframe
+
+```{r}
+ten_vlogs_casey_neistat = txt_df_from_dir(dirpath = '../workshop_practical/sample_data/caseyneistat_small'
+, recursive = F
+, include_processed = F
+, to_lower = F)
+#head(ten_vlogs_casey_neistat)
+```
+
+
+2. Extract dynamic sentiment shapes (= the core of LTTA on the intra-textual level)
+
+```{r}
+#this code extracts the sentiment shapes for each vlog transcript
+#Note: this might take a few seconds
+sentiment_shapes = ncs_full(txt_input_col = ten_vlogs_casey_neistat$text
+, txt_id_col = ten_vlogs_casey_neistat$id
+, low_pass_filter_size = 5
+, transform_values = T
+, normalize_values = F
+, min_tokens = 10 #minimum length required to process a vlog
+, cluster_lower = 3 #window size before sentiment
+, cluster_upper = 3 #window size after sentiment
+)
+```
+
+```{r}
+View(sentiment_shapes)
+#Note that each transcript is represented in one column with 100 rows (= standardized narrative time)
+
+#set names to corresponding file name
+names(sentiment_shapes) = ten_vlogs_casey_neistat$Filename
+```
+
+
+3. Analyse & visualise the sentiment shapes
+
+```{r echo=TRUE}
+#Show the sentiment shape of the vlog named '3.txt'
+
+plot(sentiment_shapes$`3.txt`
+, type='h'
+, ylim = c(-1.25, 1.25)
+, main = 'Shape of file 3.txt'
+, ylab = 'Sentiment'
+, xlab = 'Standardized narrative time')
+```
+
+```{r}
+#Some descriptives: proportion of sentiment above 0
+
+prop.table(table(sentiment_shapes$`3.txt` > 0))
+```
+
+
+#### Test load the "hackathon" data
+
+The hackathon data includes two datasets: a media_data dataset of transcripts of 'left' and 'right' news channels, and a dataset of transcripts from YouTube's "Creators for Change" with matched "normal" vloggers.
+
+Details on both datasets will be presented in the workshop on Wednesday.
+
+```{r}
+#MEDIA DATA
+#load the RData file of the sampled media data data
+load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/main_data/eurocss_media_data_sampled.RData')
+
+View(head(dt.sampled_balanced))
+```
+
+```{r}
+#CREATORS FOR CHANGE DATA
+#load the RData file of the sampled media data data
+load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/main_data/eurocss_cfc_data_full.RData')
+
+View(head(dt.data))
+```
+
+
+We have extracted some features from the transcripts already:
+  - unigrams
+- bigrams
+- trigrams
+- LIWC variables (info [here](https://repositories.lib.utexas.edu/bitstream/handle/2152/31333/LIWC2015_LanguageManual.pdf))
+- POS proportions (using the [qdap package](https://rdrr.io/cran/qdap/man/pos.html))
+- sentiment shapes (as done above)
+
+You can load these as follows:
+  
+  ```{r}
+#load some features
+##"static" features: unigrams
+load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_cfc_data_unigrams.RData')
+df.tfidf_ngrams_1[1:10, 100:120]
+```
+
+```{r}
+#LIWC output
+load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_media_data_liwc.RData')
+dt.data_liwc[1:10, 50:60]
+```
+
+```{r}
+##POS
+load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_media_data_pos.RData')
+dt.data_pos[1:10, 20:30]
+```
+
+```{r}
+##sentiment shapes
+load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_cfc_sentiment.RData')
+head(dt.data_sentiment)
+```
+
+### End
+
+If all of the above steps worked, you are set to start with the workshop and practical.
+
+-------------------
+  
+  

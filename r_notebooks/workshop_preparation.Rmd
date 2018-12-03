@@ -2,9 +2,7 @@
 title: "Preparation and loading the data"
 author: "B Kleinberg https://github.com/ben-aaron188"
 subtitle: 'EuroCSS workshop: LTTA'
-output:
-  html_document: default
-  pdf_document: default
+output: html_notebook
 ---
   
 ### Welcome to the EuroCSS workshop on Linguistic Temporal Trajectory Analysis
@@ -191,7 +189,7 @@ We have extracted some features from the transcripts already:
 
 You can load these as follows:
   
-  ```{r}
+```{r}
 #load some features
 ##"static" features: unigrams
 load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_cfc_data_unigrams.RData')

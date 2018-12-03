@@ -1,7 +1,7 @@
 ##############################################################################
 ##### EUROCSS 2018
 ##### LTTA workshop
-##### dataset preprocessing
+##### dataset preprocessing: media data
 ##### author: B Kleinberg https://github.com/ben-aaron188
 ###############################################################################
 
@@ -15,7 +15,7 @@ require(data.table)
 require(splitstackshape)
 
 ## set dir
-setwd('/Users/bennettkleinberg/GitHub/ltta_workshop/raw_data')
+setwd('/Users/bennettkleinberg/GitHub/ltta_workshop/data_media_channels')
 
 ## load function from GitHub repo
 source('../workshop_data/r_deps/txt_df_from_dir.R')

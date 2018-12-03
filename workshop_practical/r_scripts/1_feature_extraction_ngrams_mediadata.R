@@ -1,6 +1,7 @@
 # ---
-# title: "Feature extraction 1: ngrams"
+# title: "Feature extraction 1: ngrams
 # subtitle: "EuroCSS workshop: LTTA"
+# subtitle: dataset preprocessing: media data
 # output: html_notebook
 # author:  B Kleinberg https://github.com/ben-aaron188
 # ---

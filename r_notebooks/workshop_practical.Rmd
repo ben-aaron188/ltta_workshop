@@ -1,0 +1,332 @@
+---
+title: "LTTA practical"
+author: "B Kleinberg https://github.com/ben-aaron188"
+subtitle: 'EuroCSS workshop: LTTA'
+output: html_notebook
+---
+
+### Aim
+
+This script provides you with a walk-through of the basics of a moving window approach to sentiment analysis. The script will first look at the intratextual level (dynamcis of sentiment within a text) and will then give an example of how the same method can be applied to the individual level (here: a popular vlogger).
+
+### Requirements
+- You should have downloaded/forked-and-cloned the [LTTA main repository](https://github.com/ben-aaron188/ltta_workshop)
+- We recommend running this Rmd file from within that directory, so that the following path dependencies will work
+
+### Loading deps
+
+Load these dependencies.
+
+```{r}
+source('../workshop_practical/r_deps/txt_df_from_dir.R')
+source('../workshop_practical/r_deps/naive_context_sentiment/ncs.R')
+```
+
+
+## Intra-textual analysis
+
+### Step 1: Loading individual text files to a `data.frame`
+Note: an alternative is to use a *corpus* framework but most functions used here perform better on a data.frame/data.table structure
+
+#### Using the `txt_df_from_dir` function
+
+The `txt_df_from_dir` function reads all .txt files in a directory and transforms them to a dataframe object in R. You can also iterate through parent-directories recursively (as you would need in a nested structure).
+
+Function paramters:
+
+- dirpath: path to the directory containing the .txt files
+- recursive: (bool) whether or not to iterate over sub-folders
+- to_lower: (bool) whether or not to lowercase all characters
+- include_processed: (bool) whether or not to perform text cleaning with the `tm` package (requires tm dependency)
+
+We will use the transcripts of all vlogs uploaded to YouTube by the popular vlogger [Casey Neistat](https://www.youtube.com/user/caseyneistat).
+
+```{r}
+df.txt = txt_df_from_dir(dirpath = '../workshop_practical/sample_data/caseyneistat'
+                         , recursive = F
+                         , to_lower = F
+                         , include_processed = F)
+```
+
+### Step 2: Select the "$21,000 air plane ticket" video
+
+```{r}
+df.sub = df.txt[grepl('airplane seat', df.txt$text) == T,]
+#this results in a new data.frame of transcrips that contain the sub-string 'airplane seat'
+nrow(df.sub)
+```
+
+The 2nd row in the new data.frame `df.sub` is the transcript corresponding to his [most popular video](https://www.youtube.com/watch?v=84WIaK3bl_s)
+
+### Step 3: Extracting the dynamic sentiment for that video
+
+#### Using the `naive_context_sentiment` framework
+
+The `naive_context_sentiment` function is the core of the intratextual LTTA approach. It perfoms the following steps:
+
+1. parsing the input string into words
+2. matching each word to a [sentiment lexicon](https://github.com/trinker/lexicon)
+3. match valence shifters to the word table
+4. calculate a weighted, modified sentiment based on valence shifters within a 'naive' context window around the sentiment
+5. performs length-standardisation using [discrete cosine transformation](https://en.wikipedia.org/wiki/Discrete_cosine_transform)
+
+Function paramters:
+
+- txt_input_col: the data.frame column with the input string
+- txt_id_col; an identifier column
+- low_pass_filter_size: the size of the [low pass filter](https://en.wikipedia.org/wiki/Low-pass_filter) (needed for the discrete cosine transformation)
+- cluster_lower: number of words before each sentiment to include in the context window
+- cluster_upper: number of words after each sentiment to include in the context window
+- transform_values: (bool) whether or not to scale the values from -1.00 (lowest sentiment) to +1.00 (highest sentiment)
+- normalize_values: (bool) whether or not to normalise the values (mean = 0, SD = 1)
+- min_tokens: the minimal number of words needed for a text to be processed (default: 10)
+- weight_negator: how to weigh the presence of a negator in the context window (default: -1)
+- weight_amplifier: ~ amplifier (default: 1.5)
+- weight_deamplifier: ~ deamplifier (default: 0.5)
+- weight_advcon: ~ adversative conjunction (default: 0.25)
+- bins: number of slots/bins to represent the narrative progression (default: 100)
+
+```{r}
+#run the ncs_full function on the selected airplane ticket video
+sentiment_airplane_video = ncs_full(txt_input_col = df.sub$text[2]
+                                    , txt_id_col = df.sub$id[2]
+                                    , low_pass_filter_size = 5
+                                    , cluster_lower = 5
+                                    , cluster_upper = 5
+                                    , transform_values = T
+                                    , normalize_values = F)
+
+```
+
+Note: the NCS function is currently incorporating sentiment as the sole construct. However, if you look at the [source code](https://github.com/ben-aaron188/naive_context_sentiment) in the [`ncs_preprocess` function](https://github.com/ben-aaron188/naive_context_sentiment/blob/61b768d96c41d49c9be129e1a84ab16be597a1e4/ncs.R#L44), you can include any lexicon (e.g. abusive language, concreteness, etc.). 
+
+
+```{r}
+#Have a look at the data
+sentiment_airplane_video
+```
+
+
+#### Plotting the results
+
+Another way to display the outocme is to plot the shape. In essence, the transformation creates a predefined number of 'slots' (here by default: 100). Thus, the data can be represented as a 2-dimensional object consisting of 1...100 slots in chronological order (= representing the narrative time) on the x-axis, and the sentiment values on the y-axis.
+
+```{r}
+#This will plot the scaled sentiment
+
+plot(sentiment_airplane_video$`120`
+     , type='h'
+     , ylim = c(-1.25, 1.25)
+     , main = 'THE $21,000 FIRST CLASS AIRPLANE SEAT'
+     , ylab = 'Sentiment scaled'
+     , xlab = 'Standardized narrative time'
+     , col = ifelse(a$`120` > 0, 'blue', 'red'))
+
+```
+
+An important consideration is the scaling of sentiments. See what happens if we use the same data s input but do not scale the sentimemt values.
+
+```{r}
+sentiment_airplane_video_unscaled = ncs_full(txt_input_col = df.sub$text[2]
+                                    , txt_id_col = df.sub$id[2]
+                                    , low_pass_filter_size = 5
+                                    , cluster_lower = 5
+                                    , cluster_upper = 5
+                                    , transform_values = F #!
+                                    , normalize_values = F)
+
+```
+
+```{r}
+#This will plot the unscaled sentiment
+
+plot(sentiment_airplane_video$`120`
+     , type='h'
+     , ylim = c(0, .4)
+     , main = 'THE $21,000 FIRST CLASS AIRPLANE SEAT'
+     , ylab = 'Sentiment raw'
+     , xlab = 'Standardized narrative time'
+     , col = ifelse(a$`120` > 0, 'blue', 'red'))
+
+```
+
+### PRACTICAL TASK:
+
+#### Q1: Calculate the naive context sentiment extraction for another transcript that contains the substring 'airplane seat'.
+
+```{r}
+#type and run your code here
+```
+
+
+#### Q2: To see what happens if you adjust the function parameters, run the code in line 82 again but vary the parameters `low_pass_filter_size`, `cluster_lower`, and `cluster_upper`.
+
+```{r}
+#adjust the parameters
+sentiment_airplane_video = ncs_full(txt_input_col = df.sub$text[2]
+                                    , txt_id_col = df.sub$id[2]
+                                    , low_pass_filter_size = 0 #!
+                                    , cluster_lower = 0 #!
+                                    , cluster_upper = 0 #!
+                                    , transform_values = T
+                                    , normalize_values = F)
+
+```
+
+
+#### Q3: An important decision is whether or not to scale the values. This is helpful when comparing shapes between vlogs, for example. Run the code for a new text and set the `transform_values` parameter to FALSE, and see how this affects the outcome compared to setting `transform_values` to TRUE.
+
+```{r}
+#type and run your code here
+```
+
+
+#### Q4: Try to set the bin-size of the transformation to 200 bins and plot the data.
+
+```{r}
+#type and run your code here
+```
+
+
+## Individual-level analysis
+
+Another way to look at the temporal evolution of sentiment is the individual level. 
+
+### Step 1: load all of Casey Neistat's vlogs in a data.frame
+
+These data are prepared and differ from the ones you loaded above in `df.txt` in that they contain the upload data as well. In order to appreciate the the temporal progression across varies vlogs, we need to order the data by its upload date.
+
+```{r}
+load('../workshop_practical/sample_data/casey_neistat_vlogs.RData')
+```
+
+### Step 2: add chronological order
+
+Now we order the data by release data and add a running new id variable.
+```{r}
+cn_vlogs = cn_vlogs[order(date_posted)]
+cn_vlogs[, id := 1:nrow(cn_vlogs)] #note: this is data.table notation. You can equivalently use the data.frame notation as cn_vlogs$id = ...
+```
+
+Now the data are ready to be processed.
+
+We want to see how Casey Neistat's use of sentiment changes of time. So rather than looking at single texts, we're interested in looking at a number of texts and see how sentiment progresses.
+
+### Step 3: retrieve modified sentiment for each vlog
+
+To do this, we use the `ncs_preprocess` function that returns the modified sentiments before any transformations are done to the data:
+
+```{r}
+ncs_preprocess(string_input = cn_vlogs$text[1]
+                     , cluster_lower_ = 3
+                     , cluster_upper_ = 3
+                     , weight_negator_ = -1
+                     , weight_amplifier_ = 1.5
+                     , weight_deamplifier_ = 0.5
+                     , weight_advcon_ = 0.25
+                     , return_df = F
+                     , verbose = T)
+```
+
+To run this sentiment-modification on each vlog, we loop through the data.frame and store each modified string in a list. Note: this is necessary compared to a data.frame because each modified sentiment vector has a different length (namely that of the original transcript input).
+
+```{r}
+empty_list = list() #create an empty list
+
+for(i in 1:100){ #run the script on the first 100 transcripts
+  print(paste('processing ', i, '/', nrow(cn_vlogs), sep="")) # logging the progress
+  a = ncs_preprocess(string_input = cn_vlogs$text[i]
+                     , cluster_lower_ = 3
+                     , cluster_upper_ = 3
+                     , weight_negator_ = -1
+                     , weight_amplifier_ = 1.5
+                     , weight_deamplifier_ = 0.5
+                     , weight_advcon_ = 0.25
+                     , return_df = F
+                     , verbose = T)
+  empty_list[[i]] = a #store each object a (overwritten in each run) in the list
+}
+```
+
+Next, we want to combine all list elements (query them as follows: `empty_list[[20]]`) to a long vector.
+
+```{r}
+list_vector = unlist(empty_list)
+```
+
+This vector now contains all modified sentiments in chronological order. In other words, these are all words in Casey Neistat's first 100 vlogs with the sentiments modified by valence shifters in a context window of -3 : +3.
+
+We could now use the data as they are - in raw form:
+
+```{r}
+plot(1:length(list_vector)
+     , list_vector
+     , ylim = c(-1.50, 1.50)
+     )
+```
+
+
+But in order to produce more interpretable output, we can again transform the data. Rather than transforming the modified sentiments of a single text, we now transform all sentiments in the long sentiment vector using the `get_dct_transform` function from the `syuzhet` package. To perform this operation, run:
+
+```{r}
+transformed_vector = get_dct_transform(list_vector
+                                       , x_reverse_len=1000
+                                       , low_pass_size = 5
+                                       , scale_range = T
+                                       , scale_vals = F)
+```
+
+This chunk will produce tthe "smoothed" sentiments of all vlogs (more precisely: of all words uttered in the first 100 vlogs of Casey Neistat), and we can plot them again:
+
+```{r}
+plot(transformed_vector
+     , type='h'
+     , ylim = c(-1.25, 1.25)
+     , main = 'Vlog 1:100 Casey Neistat'
+     , ylab = 'Sentiment scaled'
+     , xlab = 'Standardized narrative time'
+     , col = ifelse(transformed_vector > 0, 'blue', 'red'))
+```
+
+Similar to the steps above, we can also look at the unscaled (raw) sentiment:
+
+```{r}
+transformed_vector_unscaled = get_dct_transform(list_vector
+                                       , x_reverse_len=1000
+                                       , low_pass_size = 5
+                                       , scale_range = F
+                                       , scale_vals = F)
+```
+
+And plot it as:
+
+```{r}
+plot(transformed_vector_unscaled
+     , type='h'
+     , ylim = c(2, 4)
+     , main = 'Vlog 1:100 Casey Neistat'
+     , ylab = 'Sentiment raw'
+     , xlab = 'Standardized narrative time'
+     , col = 'blue')
+```
+
+
+### PRACTICAL TASK:
+
+#### Q5: Try to calculate the scaled sentiment shapes of Casey Neistat's most recent 100 vlogs, and compare the shapes with those of his first 100 vlogs.
+
+```{r}
+#type and run your code here
+```
+
+#### Q6: Re-do the analysis of Q5 with the unscaled sentiment values. Which vlogs are more positive?
+
+```{r}
+#type and run your code here
+```
+
+#### Q7: One way in which the "sentiment shapes" might become useful is understanding the characteristics of 'successful' vlogs. Take a look at the view count of the vlogs and try to transform the view counts analogous to the sentiment shapes.
+
+------
+
+## END

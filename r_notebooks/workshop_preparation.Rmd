@@ -165,7 +165,7 @@ Details on both datasets will be presented in the workshop on Wednesday.
 ```{r}
 #MEDIA DATA
 #load the RData file of the sampled media data data
-load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/main_data/eurocss_media_data_sampled.RData')
+load('../hackathon_data/main_data/eurocss_media_data_sampled.RData')
 
 View(head(dt.sampled_balanced))
 ```
@@ -173,7 +173,7 @@ View(head(dt.sampled_balanced))
 ```{r}
 #CREATORS FOR CHANGE DATA
 #load the RData file of the sampled media data data
-load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/main_data/eurocss_cfc_data_full.RData')
+load('../hackathon_data/main_data/eurocss_cfc_data_full.RData')
 
 View(head(dt.data))
 ```
@@ -192,25 +192,25 @@ You can load these as follows:
 ```{r}
 #load some features
 ##"static" features: unigrams
-load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_cfc_data_unigrams.RData')
+load('../hackathon_data/features/eurocss_cfc_data_unigrams.RData')
 df.tfidf_ngrams_1[1:10, 100:120]
 ```
 
 ```{r}
 #LIWC output
-load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_media_data_liwc.RData')
+load('../hackathon_data/features/eurocss_media_data_liwc.RData')
 dt.data_liwc[1:10, 50:60]
 ```
 
 ```{r}
 ##POS
-load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_media_data_pos.RData')
+load('../hackathon_data/features/eurocss_media_data_pos.RData')
 dt.data_pos[1:10, 20:30]
 ```
 
 ```{r}
 ##sentiment shapes
-load('PATH_TO_YOUR_DOWNLOADED_FOLDER/hackathon_data/features/eurocss_cfc_sentiment.RData')
+load('../hackathon_data/features/eurocss_cfc_sentiment.RData')
 head(dt.data_sentiment)
 ```
 

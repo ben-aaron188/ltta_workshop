@@ -1,11 +1,11 @@
 ## Linguistic temporal trajectory analysis
-
+### Working copy of Florian Gilberg (_florian.gilberg@uni-due.de_)
 This is the companion website for the "Linguistic temporal trajectory analysis" workshop that we teach at the [2018 European Symposium Series on Societal Challenges
 in Computational Social Science](http://symposium.computationalsocialscience.eu/2018/). The workshop will provide participants with an overview of techniques and existing works related to linguistic temporal trajectory analysis in R.
 
 We welcome students and researchers from all disciplines working with text data that are interested in applying computational concepts in the social sciences (e.g., Psychology, Criminology, Computer Science, Linguistics, Digital Humanities, Political Science, etc.).
 
-_(this website is currently updated for the workshop)_
+This is the working fork of Florian Gilberg.
 
 ### What is it?
 

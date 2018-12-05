@@ -120,7 +120,7 @@ plot(sentiment_airplane_video$`120`
      , main = 'THE $21,000 FIRST CLASS AIRPLANE SEAT'
      , ylab = 'Sentiment scaled'
      , xlab = 'Standardized narrative time'
-     , col = ifelse(a$`120` > 0, 'blue', 'red'))
+     , col = ifelse(sentiment_airplane_video$`120` > 0, 'blue', 'red'))
 
 ```
 
@@ -140,13 +140,13 @@ sentiment_airplane_video_unscaled = ncs_full(txt_input_col = df.sub$text[2]
 ```{r}
 #This will plot the unscaled sentiment
 
-plot(sentiment_airplane_video$`120`
+plot(sentiment_airplane_video_unscaled$`120`
      , type='h'
      , ylim = c(0, .4)
      , main = 'THE $21,000 FIRST CLASS AIRPLANE SEAT'
      , ylab = 'Sentiment raw'
      , xlab = 'Standardized narrative time'
-     , col = ifelse(a$`120` > 0, 'blue', 'red'))
+     , col = ifelse(sentiment_airplane_video_unscaled$`120` > 0, 'blue', 'red'))
 
 ```
 

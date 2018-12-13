@@ -1,9 +1,9 @@
 ## Linguistic temporal trajectory analysis
 
-This is the companion website for the "Linguistic temporal trajectory analysis" workshop that we teach at the [2018 European Symposium Series on Societal Challenges
-in Computational Social Science](http://symposium.computationalsocialscience.eu/2018/). The workshop will provide participants with an overview of techniques and existing works related to linguistic temporal trajectory analysis in R.
+This is the companion website for the "Linguistic temporal trajectory analysis" workshop, which took place at the [2018 European Symposium Series on Societal Challenges
+in Computational Social Science](http://symposium.computationalsocialscience.eu/2018/) on 5 December 2018. The workshop providde participants with an overview of techniques and existing works related to linguistic temporal trajectory analysis in R.
 
-We welcome students and researchers from all disciplines working with text data that are interested in applying computational concepts in the social sciences (e.g., Psychology, Criminology, Computer Science, Linguistics, Digital Humanities, Political Science, etc.).
+We welcomed students and researchers from all disciplines working with text data that are interested in applying computational concepts in the social sciences (e.g., Psychology, Criminology, Computer Science, Linguistics, Digital Humanities, Political Science, etc.).
 
 _(this website is currently updated for the workshop)_
 
@@ -19,7 +19,7 @@ We will outline the idea behind LTTA, how to implement it in R, and discuss the 
 
 Note: this workshop consists of one **WORKSHOP + TUTORIAL** part (in the morning) and a **PAPER HACKATHON** (after the lunch break).
 
-The preliminary workshop schedule is as follows:
+The workshop schedule was as follows:
 
 | WORKSHOP + TUTORIAL                      | (morning)         |
 | :--------------------------------------- | :---------------- |
@@ -36,10 +36,10 @@ The preliminary workshop schedule is as follows:
 
 #### Paper hackathon
 
-UPDATE:
-Due to more registrations than expected, we will provide several datasets to allow for distinct research questions and smaller pgroups to work on the paper hackathon.
 
-Dataset provided uniquely for this session (will be updated shortly):
+Due to more registrations than expected, we provide several datasets to allow for distinct research questions and smaller groups to work on the paper hackathon.
+
+Dataset provided uniquely for this session:
 
 -	Transcripts of all vlogs uploaded to YouTube by specific YouTubers.
  - Columns: vlogger ID, vlog transcript, vlog view count, upvotes, downvotes, vlog posting date.

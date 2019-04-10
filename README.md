@@ -74,7 +74,5 @@ Participants should have some basic knowledge of the _R_ or _python_ programming
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | Assistant Professor in Data Science (University College London) | PhD student (University College London)  | BSc student (Technical University of Munich) |
 
------
-
 
 
